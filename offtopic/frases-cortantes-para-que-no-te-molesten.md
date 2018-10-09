@@ -17,23 +17,21 @@ R: Tiene que haber sido una. No repito mis errores.
 P: Cómo es que eres tan guapa?  
 R: Me dieron también lo que te correspondía a ti.  
   
-- él: Creo que te podría hacer muy feliz.  
-- Ella: ¿Cómo? Ya te vas?  
+P: Creo que te podría hacer muy feliz.  
+R: ¿Cómo? Ya te vas?  
   
-- él: Qué dirías si te pidiera que te casaras conmigo?  
-- Ella: Nada. No puedo hablar y reírme a la vez.  
+P: ¿Qué dirías si te pidiera que te casaras conmigo?  
+R: Nada. No puedo hablar y reírme a la vez.  
   
-- él: Te apetece ver una buena peli?  
-- Ella: Ya la he visto.  
+P: ¿Te apetece ver una buena peli?  
+R: Ya la he visto.  
   
-- él:Dónde has estado toda mi vida?  
-- Ella: Intentando esconderme de ti.  
+P: ¿Dónde has estado toda mi vida?  
+R: Intentando esconderme de ti.  
   
-- él: Esta silla está libre?  
-- Ella: Sí, y la mía también si te sientas.  
-  
-- él: Tu cuerpo es como un templo.  
-- Ella: Hoy no hay misa.
+P: ¿Esta silla está libre?  
+R: Sí, y la mía también si te sientas.  
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjUyNTMxMDUxXX0=
+eyJoaXN0b3J5IjpbMTQxOTU0NjUyNV19
 -->
