@@ -1,5 +1,5 @@
 ---
-description: Aprende a crear tu propia Progressive Web App (PWA) y olvídate de programar apps tradicionales en iOS o Android.
+description: Diferentes formas para acceder y trabajar con una base de datos MySQL en remoto.
 lang: es_ES
 permalink: tecnologia/conectar-a-una-base-de-datos-mysql-en-remoto
   
@@ -15,7 +15,7 @@ El caso es que me he planteado la necesidad de realizar copias de seguridad de t
   
 SQLYog nos va a permitir acceder de forma organizada y rápida tanto a las bases de datos locales como a las remotas pero ¿cómo se configura una base de datos mySQL para ser accedida de forma remota? pues es muy sencillo, de momento lo he hecho para un servidor que utiliza cpanel, aunque, seguramente en otros como plesk el proceso será igual.
 
-ACCEDER REMOTAMENTE A UNA BASE DE DATOS MYSQL  
+## Acceder remotamente a una base de datos MySQL  
   
 1- Creamos una base de datos (si no la tenemos ya)  
   
@@ -29,7 +29,7 @@ ACCEDER REMOTAMENTE A UNA BASE DE DATOS MYSQL
   
 Al principio pensé en hacerme un script PHP, pero desde luego que algo tan sencillo de configurar como esto, es mucho más rápido y eficiente, ahora sólo espero no volver a perder un solo dato jamás.  
   
-Si no necesitas programas de gestión de bases de datos sino que lo que buscas es simple y llanamente un programa para hacer copias de seguridad, te recomiendo MyAutoBackup ([http://www.sharewareconnection.com/mysql...](http://www.sharewareconnection.com/mysql-auto-backup.htm)).
+Si no necesitas programas de gestión de bases de datos sino que lo que buscas es simple y llanamente un programa para hacer copias de seguridad, te recomiendo MyAutoBackup o cualquier aplicación similar que permita programas copias de seguridad.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjk5NjU0NjRdfQ==
+eyJoaXN0b3J5IjpbMjA5ODcyMjE5OF19
 -->
