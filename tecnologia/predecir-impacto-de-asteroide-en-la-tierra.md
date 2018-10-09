@@ -4,6 +4,7 @@ lang: es_ES
 permalink: tecnologia/predecir-impacto-de-asteroide-en-la-tierra
 author:
   twitter: emirodgar
+  
 ---
 
 # Predecir el impacto de un asteroide en la Tierra
@@ -41,3 +42,6 @@ Lo más preocupante hasta la fecha ha ocurrido el 14 de abril de 2018 cuando el 
 </amp-twitter>
 
 Como vemos, existen muchos programas para catalogar y vigilar potenciales colisiones pero pocos con posibilidades reales de alterar sus órbitas. Seguiremos vigilando el espacio y recopilando información; aquí el Big Data nos ayuda a predecir potenciales impactos pero aún nos queda trabajo por delante para aprender a desviarlos.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTEyOTQzNjc1NjJdfQ==
+-->
