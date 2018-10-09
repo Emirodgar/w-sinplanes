@@ -17,7 +17,8 @@ Navega de forma sencilla a través de esta página. A continuación tienes el li
 - [Diferencias entre Chief Digital Officer y Chief Data Officer](estrategia/diferencia-chief-data-officer-chief-digital-officer)
 
 <h3>Marketing digital</h3>
-- [Registrar los errores de nuestra página web con Google Analytics y Google Tag Manager](marketing-digital/registrar-errores-web-con-google-analytics-tag-manager.md)
+
+- [Registrar los errores de nuestra página web con Google Analytics y Google Tag Manager](marketing-digital/registrar-errores-web-con-google-analytics-tag-manager)
 - [Cómo evitar las cookies de Google Analytics y cumplir con la ley de protección de datos](marketing-digital/como-evitar-cookies-google-analytics-cumplir-ley-proteccion-datos)
 - [Cómo estar al día en marketing digital](marketing-digital/como-estar-al-dia-en-marketing-digital)
 
@@ -30,7 +31,7 @@ Navega de forma sencilla a través de esta página. A continuación tienes el li
 
 <h3>Offtopic</h3>
 
-- [Frases cortan]
+- [Frases cortantes para que no te molesten](offtopic/frases-cortantes-para-que-no-te-molesten)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2MjA0MzY1XX0=
+eyJoaXN0b3J5IjpbMTA0MjY1MTcyM119
 -->
