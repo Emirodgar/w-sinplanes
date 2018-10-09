@@ -29,4 +29,8 @@ Bienvenidos, me llamo <a href="https://emirodgar.com">Emilio</a> y soy Jefe de P
 - [Controla la privacidad en Windows con Blackbird](tecnologia/controla-la-privacidad-en-windows-con-blackbird)
 - [Predecir el impacto de un asteroide sobre la Tierra](tecnologia/predecir-impacto-de-asteroide-en-la-tierra)
 
-Este blog está programado en HTML/AMP y alojado en GitHub.
+Este blog está programado en HTML/AMP y alojado en GitHub.sinplanes-com
+Sinlanes
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTEzMzAwODY4OV19
+-->
