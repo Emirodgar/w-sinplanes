@@ -1,11 +1,13 @@
 ---
-description: Aprende a pasar correctamente de enterno a s.
+description: Aprende a pasar correctamente de enterno a cadena y viceversa en Java.
 lang: es_ES
-permalink: tecnologia/como-crear-una-progressive-web-app
+permalink: tecnologia/pasar-de-int-a-string-y-de-string-a-int-en-java
 author:
   twitter: emirodgar
   
 ---
+
+# Pasar de INT a String y de String a INT en Java
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Njk3MTEzNjNdfQ==
+eyJoaXN0b3J5IjpbLTExMzYyNjE0NDhdfQ==
 -->
