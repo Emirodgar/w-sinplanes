@@ -11,8 +11,10 @@ En muchas ocasiones, por temas de velocidad de carga se opta por comprimir tanto
 
 Si queremos volver a ver de forma clara el código CSS para poder realizar cambios sobre el mismo, podemos hacer uso de alguno de los múltiples descompresores que existen. 
 
-- [http://mrcoles.com/blog/css-unminify/](http://mrcoles.com/blog/css-unminify/)
-- 
+- https://mrcoles.com/blog/css-unminify/
+- https://unminify.com/
+- http://www.unminifier.com/
+- http://cssunpacker.com/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjE1MTU0NDFdfQ==
+eyJoaXN0b3J5IjpbMTMxOTI4MDEyXX0=
 -->
