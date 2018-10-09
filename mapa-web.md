@@ -26,9 +26,11 @@ Navega de forma sencilla a través de esta página. A continuación tienes el li
 - [Cómo crear una Progressive Web App](tecnologia/como-crear-una-progressive-web-app.md)
 - [Controla la privacidad en Windows con Blackbird](tecnologia/controla-la-privacidad-en-windows-con-blackbird)
 - [Predecir el impacto de un asteroide sobre la Tierra](tecnologia/predecir-impacto-de-asteroide-en-la-tierra)
-- [# Pasar de INT a String y de String a INT en Java](tecnologia/pasar-de-int-a-string-y-de-string-a-int-en-java)
+- [Pasar de INT a String y de String a INT en Java](tecnologia/pasar-de-int-a-string-y-de-string-a-int-en-java)
 
+<h3>Offtopic</h3>
 
+- [Frases cortan]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5ODAwMjExMV19
+eyJoaXN0b3J5IjpbLTU2MjA0MzY1XX0=
 -->
