@@ -42,25 +42,25 @@ Esta función también tiene en cuenta que cada 4 años es bisiesto.
 		     case 12:dmax = 31;break;       
 	     }  
            
-     dmax!=""?dmax:dmax=-1;if ((dia >= 1) && (dia <= dmax) && (mes >= 1) && (mes <= 12)) {        
-     for (var i = 0; i < fecha[0].length; i++) {         
-	     diaC = fecha[0].charAt(i).charCodeAt(0);        
-	     (!((diaC > 47) && (diaC < 58)))?estado = false:'';       
-	     mesC = fecha[1].charAt(i).charCodeAt(0);        
-	     (!((mesC > 47) && (mesC < 58)))?estado = false:'';       
-     }  
+	     dmax!=""?dmax:dmax=-1;if ((dia >= 1) && (dia <= dmax) && (mes >= 1) && (mes <= 12)) {        
+	     for (var i = 0; i < fecha[0].length; i++) {         
+		     diaC = fecha[0].charAt(i).charCodeAt(0);        
+		     (!((diaC > 47) && (diaC < 58)))?estado = false:'';       
+		     mesC = fecha[1].charAt(i).charCodeAt(0);        
+		     (!((mesC > 47) && (mesC < 58)))?estado = false:'';       
+	     }  
       
-     }for (var i = 0; i < fecha[2].length; i++) {  
+     } for (var i = 0; i < fecha[2].length; i++) {  
       
      anoC = fecha[2].charAt(i).charCodeAt(0);  
       
      (!((anoC > 47) && (anoC < 58)))?estado = false:'';        
-     }}else estado = false;        
-     return estado;        
+     }} else estado = false;        
+     return estado;    
+         
     }catch(err){  
      alert("Error fechas");    
-
 }
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxODQ1NTAwNF19
+eyJoaXN0b3J5IjpbNjQxNDI0ODI4XX0=
 -->
