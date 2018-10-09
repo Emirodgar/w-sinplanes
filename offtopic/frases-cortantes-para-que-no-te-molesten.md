@@ -2,20 +2,20 @@ A raíz de un audio en el que un chico se defendía de forma muy original de la 
 
 Seguro que hay muchas más y mejores pero estas siempre me han gustado mucho. Espero que os arranquen una sonrisa.
 
-- Pregunta: Te puedo invitar a una copa?  
-- Respuesta: Gracias. Prefiero que me des el dinero.  
+ Pregunta: Te puedo invitar a una copa?  
+Respuesta: Gracias. Prefiero que me des el dinero.  
   
-- él: Te molesta que fume?  
-- Ella: Ni siquiera me molestaría si estuvieras ardiendo.  
+P: Te molesta que fume?  
+R: Ni siquiera me molestaría si estuvieras ardiendo.  
   
-- él: Soy fotógrafo y busco una cara como la tuya.  
-- Ella: Soy cirujana plástica y busco una cara como la tuya  
+P: Soy fotógrafo y busco una cara como la tuya.  
+R: Soy cirujana plástica y busco una cara como la tuya  
   
-- él: No hemos tenido alguna vez una cita? O incluso dos?  
-- Ella:Tiene que haber sido una. No repito mis errores.  
+P: ¿No hemos tenido alguna vez una cita? ¿O incluso dos?  
+R: Tiene que haber sido una. No repito mis errores.  
   
-- él: Cómo es que eres tan guapa?  
-- Ella: Me dieron también lo que te correspondía a ti.  
+P: Cómo es que eres tan guapa?  
+R: Me dieron también lo que te correspondía a ti.  
   
 - él: Creo que te podría hacer muy feliz.  
 - Ella: ¿Cómo? Ya te vas?  
@@ -35,5 +35,5 @@ Seguro que hay muchas más y mejores pero estas siempre me han gustado mucho. Es
 - él: Tu cuerpo es como un templo.  
 - Ella: Hoy no hay misa.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzE2NzgyMzNdfQ==
+eyJoaXN0b3J5IjpbMjUyNTMxMDUxXX0=
 -->
