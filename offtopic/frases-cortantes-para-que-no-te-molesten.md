@@ -1,4 +1,6 @@
-A raíz de un audio en el que un chico se defendía de forma muy original de la teleoperadora que quería venderle un paquete de Internet, he recordado que tenía apuntado de mis tiempos del IRC
+A raíz de un audio en el que un chico se defendía de forma muy original de la teleoperadora que quería venderle un paquete de Internet, he recordado que tenía apuntado de mis tiempos del IRC una serie de frases cortantes para evitar que te molesten.
+
+Seguro que hay muchas más y mejores pero estas siempre me han gustado mucho. Espero que os arranquen una sonrisa.
 
 - Pregunta: Te puedo invitar a una copa?  
 - Respuesta: Gracias. Prefiero que me des el dinero.  
@@ -33,5 +35,5 @@ A raíz de un audio en el que un chico se defendía de forma muy original de la 
 - él: Tu cuerpo es como un templo.  
 - Ella: Hoy no hay misa.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTc2MzQ5MzVdfQ==
+eyJoaXN0b3J5IjpbLTE3MzE2NzgyMzNdfQ==
 -->
