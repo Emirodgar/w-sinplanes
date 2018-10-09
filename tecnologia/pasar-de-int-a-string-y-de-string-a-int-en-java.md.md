@@ -48,8 +48,7 @@ Otra forma correcta de hacerlo sería utilizando el método toString del objeto 
 
     String numCadena= Integer.toString(numEntero);
 
-  
 Espero que esto les sirva a todas aquellas personas que vinieron buscándolo, al menos así es como suelo hacerlo.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY1MzQyNjUyXX0=
+eyJoaXN0b3J5IjpbNjM0NjUwNTEwXX0=
 -->
