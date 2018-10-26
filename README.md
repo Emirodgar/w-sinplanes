@@ -1,8 +1,8 @@
 # No es una moda, es una ventaja competitiva
 
-Bienvenidos, me llamo <a href="https://emirodgar.com">Emilio</a>. Informático con más de 10 años de experiencia en marketing digital.
+Bienvenidos, me llamo <a href="https://emirodgar.com">Emilio</a>. Actualmente trabajo como Jefe de Proyecto y Director SEO en Salamanca. 
 
-Actualmente trabajo como Jefe de Proyecto y Director SEO en Salamanca. Una de mis pasiones es el <a href="https://emirodgar.es">Growth Hacking</a>.
+Una de mis pasiones es el <a href="https://emirodgar.es">Growth Hacking</a>.
 
 <h2>Últimas publicaciones</h2>
 
@@ -19,6 +19,6 @@ Actualmente trabajo como Jefe de Proyecto y Director SEO en Salamanca. Una de mi
 Para ver un listado completo de las publicaciones en Sinplanes, utiliza el [mapa web](mapa-web).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyNDQ3NDE4MCwxOTM5MzYwODMxLDExMz
+eyJoaXN0b3J5IjpbLTM3ODYzODAxNywxOTM5MzYwODMxLDExMz
 MwMDg2ODldfQ==
 -->
