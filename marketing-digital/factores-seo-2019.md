@@ -16,11 +16,11 @@ Después de analizar las tendencias de 2018, para mí estos serán los puntos m�
  - RankBrain y factores UX (Google)
  - Rebote y CTR
  - Datos estructurados
- - Calidad y originalidad en los contenidos (cómo atrapamos al usuario)
+ - Calidad y originalidad en los contenidos 
  - Optimización para Google Mobile First Index
  - Optimización para búsqueda por voz
  - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDgwMjMxNTldfQ==
+eyJoaXN0b3J5IjpbLTE1MTk0NjcyNjNdfQ==
 -->
