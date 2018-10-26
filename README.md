@@ -16,9 +16,9 @@ Una de mis pasiones es el <a href="https://emirodgar.es">Growth Hacking</a>.
 - [Diferencias entre Chief Digital Officer y Chief Data Officer](estrategia/diferencia-chief-data-officer-chief-digital-officer)
 
 
-Para ver un listado completo de las publicaciones en Sinplanes, utiliza el [mapa web](mapa-web).
+Para ver un listado completo de las publicaciones, utiliza el [mapa web](mapa-web).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3ODYzODAxNywxOTM5MzYwODMxLDExMz
-MwMDg2ODldfQ==
+eyJoaXN0b3J5IjpbOTIzNjY3MDA3LC0zNzg2MzgwMTcsMTkzOT
+M2MDgzMSwxMTMzMDA4Njg5XX0=
 -->
