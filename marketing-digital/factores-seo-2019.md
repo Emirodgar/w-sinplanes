@@ -14,8 +14,13 @@ Esto afecta de forma directa a todos los que trabajamos en el entorno digital, e
 Después de analizar las tendencias de 2018, para mí estos serán los puntos más críticos e importantes para las estrategias SEO durante 2019:
 
  - RankBrain y factores UX (Google)
+ - Rebote y CTR
+ - Datos estructurados
+ - Calidad y originalidad en los contenidos (cómo atrapamos al usuario)
+ - Optimización para Google Mobile First Index
+ - Optimización para búsqueda por voz
  - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyNTA5MDU1MV19
+eyJoaXN0b3J5IjpbLTE1NDgwMjMxNTldfQ==
 -->
