@@ -25,11 +25,13 @@ Después de analizar las tendencias de 2018, para mí estos serán los puntos m�
 
 Aunque pueda parecer raro, destaco como crucial el [ofrecer una buena experiencia al usuario](https://searchengineland.com/seo-ux-success-286638) como factor SEO relevante.
 
-A mayores, esto debe ser apoyado por un contenido único, original y de calidad además de disponer de una página totalmente optimizada para dispositivos móviles; debemos tener especial atención al tiempo de carga y a la correcta visualización de nuestra web en diferentes dispositivos (recomiendo utilizar [Sizzy](https://sizzy.co/) para ello).
+A mayores, esto debe ser apoyado por un contenido único, original y de calidad además de disponer de una página totalmente optimizada para dispositivos móviles; debemos tener especial atención al tiempo de carga y a la correcta visualización de nuestra web en diferentes dispositivos.
 
-No podemos perder de vista el resto de **factores SEO** y, sobre todo, estar al día de cualquier [novedad y avance en marketing digital](https://sinplanes.com/marketing-digital/como-estar-al-dia-en-marketing-digital); esto es crucial para poder ser competitivos en nuestro sector.
+Recomiendo utilizar [Sizzy](https://sizzy.co/) para ello, aunque en la sección de [recursos de marketing digital](https://emirodgar.com/recursos-marketing-digital/) tenéis muchas herramientas interesantes para poder optimizar el rendimiento mobile.
+
+Por supuesto, no podemos perder de vista el resto de **factores SEO** y, sobre todo, estar al día de cualquier [novedad y avance en marketing digital](https://sinplanes.com/marketing-digital/como-estar-al-dia-en-marketing-digital); esto es crucial para poder ser competitivos en nuestro sector.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1MTQ4MTMzOSwtNzE2NDU4MiwyMDI1MT
+eyJoaXN0b3J5IjpbMTM1NTEwNzIyNCwtNzE2NDU4MiwyMDI1MT
 k0MThdfQ==
 -->
