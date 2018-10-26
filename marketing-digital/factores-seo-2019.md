@@ -19,8 +19,10 @@ Después de analizar las tendencias de 2018, para mí estos serán los puntos m�
  - Calidad y originalidad en los contenidos 
  - Optimización para Google Mobile First Index
  - Optimización para búsqueda por voz
- - 
+ - Uso de material audiovisual
+
+No podemos perder de vista
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTk0NjcyNjNdfQ==
+eyJoaXN0b3J5IjpbLTEyNzYyNTk1OThdfQ==
 -->
