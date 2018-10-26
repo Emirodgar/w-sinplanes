@@ -2,6 +2,7 @@
 description: Inhabilita las cookies en Google Analytics y cumple así la normativa de la GDPR/RGPD sin necesidad de acciones adicionales
 lang: es_ES
 permalink: marketing-digital/como-evitar-cookies-google-analytics-cumplir-ley-proteccion-datos
+
 ---
 
 # Cómo evitar las cookies de Google Analytics y cumplir con la ley de protección de datos
@@ -38,3 +39,6 @@ ga('create', 'UA-XXXXX-Y', {
 ```
 
 Según qué casos, también tendremos que deshabilitar la cookie asociada a las campañas: [StoreGAC](https://developers.google.com/analytics/devguides/collection/analyticsjs/field-reference?hl=en#storeGac).
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTExMDgxNjM2NDRdfQ==
+-->
