@@ -1,6 +1,8 @@
 # No es una moda, es una ventaja competitiva
 
-Bienvenidos, me llamo <a href="https://emirodgar.com">Emilio</a> y soy Jefe de Proyecto en Salamanca. Anteriormente he trabajado como director, analista y consultor SEO. Una de mis pasiones es el <a href="https://emirodgar.es">Growth Hacking</a>.
+Bienvenidos, me llamo <a href="https://emirodgar.com">Emilio</a>. Informático con más de 10 años de experiencia en marketing digital.
+
+Actualmente trabajo como Jefe de Proyecto y Director SEO en Salamanca. Una de mis pasiones es el <a href="https://emirodgar.es">Growth Hacking</a>.
 
 <h2>Últimas publicaciones</h2>
 
@@ -14,9 +16,9 @@ Bienvenidos, me llamo <a href="https://emirodgar.com">Emilio</a> y soy Jefe de P
 - [Diferencias entre Chief Digital Officer y Chief Data Officer](estrategia/diferencia-chief-data-officer-chief-digital-officer)
 
 
-Para ver un listado completo de las publicaciones en 
+Para ver un listado completo de las publicaciones en Sinplanes, utiliza el [mapa web](mapa-web).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg5NDIyMDkzLDE5MzkzNjA4MzEsMTEzMz
-AwODY4OV19
+eyJoaXN0b3J5IjpbMTEyNDQ3NDE4MCwxOTM5MzYwODMxLDExMz
+MwMDg2ODldfQ==
 -->
