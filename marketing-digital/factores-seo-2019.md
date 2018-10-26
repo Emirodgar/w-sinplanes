@@ -23,10 +23,10 @@ Después de analizar las tendencias de 2018, para mí estos serán los puntos m�
 
 ## Lo más importante para el SEO en 2019
 
-Destanco como
+Destaco como crucial 
 
 No podemos perder de vista el resto de **factores SEO** y, sobre todo, estar al día de cualquier [novedad y avance en marketing digital](https://sinplanes.com/marketing-digital/como-estar-al-dia-en-marketing-digital); esto es crucial para poder ser competitivos en nuestro sector.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4MzMzMjI2MV19
+eyJoaXN0b3J5IjpbMjY3OTkyMjQyXX0=
 -->
