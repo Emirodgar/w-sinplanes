@@ -16,7 +16,7 @@ Navega de forma sencilla a través de esta página. A continuación tienes el li
 
 <h3>Marketing digital</h3>
 
-- [7 habilidades para ser un buen SEO](marketing-digital/habilidades--buen-seo)
+- [7 habilidades para ser un buen SEO](marketing-digital/7-habilidades-buen-seo)
 - [Factores SEO 2019](marketing-digital/factores-seo-2019)
 - [Registrar los errores de nuestra página web con Google Analytics y Google Tag Manager](marketing-digital/registrar-errores-web-con-google-analytics-tag-manager)
 - [Cómo evitar las cookies de Google Analytics y cumplir con la ley de protección de datos](marketing-digital/como-evitar-cookies-google-analytics-cumplir-ley-proteccion-datos)
@@ -36,5 +36,5 @@ Navega de forma sencilla a través de esta página. A continuación tienes el li
 
 - [Frases cortantes para que no te molesten](offtopic/frases-cortantes-para-que-no-te-molesten)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjM0NTY4MV19
+eyJoaXN0b3J5IjpbMTM0NTI5NjMxMF19
 -->
