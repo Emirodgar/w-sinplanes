@@ -21,9 +21,10 @@ Debemos ser críticos con lo que tenemos delante y aprender de la situación. Tr
 
 ## 2. Capacidad de transmitir la información
 
-Normalmente la persona a cargo de la estrategia SEO no tiene la última palabra en la estrategia digital por lo que debe relacionarse y coordinarse con otros departamentos y personas.
-El disponer de un
+Normalmente la persona a cargo del SEO no tiene la última palabra en la estrategia digital por lo que debe relacionarse y coordinarse con otros departamentos y personas.
+
+Disponer de una capacidad para entender y transmitir correctamente la información es crucial para que este ecosistema interno funcione y podamos aportar valor. Si no, el SEO estará aislado y con pocas posibilidades de crecer.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjMwODk1MDFdfQ==
+eyJoaXN0b3J5IjpbMTg1ODM0MDYwM119
 -->
