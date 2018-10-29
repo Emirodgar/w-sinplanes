@@ -5,7 +5,7 @@ permalink: marketing-digital/habilidades-caracteristicas-buen-seo
 
 ---
 
-# 8 habilidades y características que definen a un buen SEO
+# 7 habilidades y características que definen a un buen SEO
 
 Iniciarse en el mundo del marketing digital como **consultor SEO** no es difícil; demostrar tu valía y conseguir buenos clientes, sí.
 
@@ -55,5 +55,5 @@ Sea como sea, debemos disponer de una capacidad para adaptarnos, entender la nue
 
 Si no disponemos de esta capacidad, un giro inesperado podría terminar con nuestras aspiraciones SEO.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzODkxNDY0XX0=
+eyJoaXN0b3J5IjpbODQ0NDEyNTg1LDE5Mzg5MTQ2NF19
 -->
