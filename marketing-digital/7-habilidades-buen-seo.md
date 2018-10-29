@@ -1,7 +1,7 @@
 ---
 description: Habilidades y características que tiene que tener un buen SEO
 lang: es_ES
-permalink: marketing-digital/habilidades-caracteristicas-buen-seo
+permalink: marketing-digital/7-habilidades-buen-seo
 
 ---
 
@@ -55,5 +55,5 @@ Sea como sea, debemos disponer de una capacidad para adaptarnos, entender la nue
 
 Si no disponemos de esta capacidad, un giro inesperado podría terminar con nuestras aspiraciones SEO.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ0NDEyNTg1LDE5Mzg5MTQ2NF19
+eyJoaXN0b3J5IjpbLTE2MTEyNTQ4MjcsMTkzODkxNDY0XX0=
 -->
