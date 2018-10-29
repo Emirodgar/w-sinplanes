@@ -49,11 +49,11 @@ Cada proyecto tendrá unas necesidades específicas y por lo tanto deberemos uti
 
 ## 7. Capacidad para adaptarse
 
-Las reglas de juego pueden cambiar muy rápido, bien por cambios en los algoritmos de los buscadores y por acciones de nuestros competidores directos.
+Las reglas de juego pueden cambiar muy rápido, bien por cambios en los algoritmos de los buscadores, por cambios en los recursos con los que contamos o por acciones de nuestros competidores directos.
 
 Sea como sea, debemos disponer de una capacidad para adaptarnos, entender la nueva situación y proponer acciones para la consecución de nuestros objetivos.
 
-Si no disponemos de esta capacidad, 
+Si no disponemos de esta capacidad, un giro inesperado podría terminar con nuestras aspiraciones SEO.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5OTI0NzQxN119
+eyJoaXN0b3J5IjpbMTkzODkxNDY0XX0=
 -->
