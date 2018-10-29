@@ -43,7 +43,7 @@ No se trata de cuantificar datos sino de cualificarlos y para ello es necesario 
 
 ## 6. Conocimientos de aplicaciones externas
 
-
+Para potenciar nuestra capacidad se recomienda hacer uso de aplicaciones externas. Nuestro conocimiento está limitado a los recursos con los que contamos pero si manejamos diferentes herramientas para diferentes
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk3NTczOTAzXX0=
+eyJoaXN0b3J5IjpbLTE2NjIxNDI3NjJdfQ==
 -->
