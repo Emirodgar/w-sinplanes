@@ -29,7 +29,15 @@ Disponer de una capacidad para entender y transmitir correctamente la informaci�
 
 Cada día es más necesario disponer de una base técnica. Tecnologías como renderizado JavaScript, configuración de servidores, AMP o PWA, etc, hacen indispensable disponer de unos conocimiento mínimos para asegurar que la base técnica sobre la que crearemos nuestra estrategia sea óptima.
 
-## 4. 
+## 4. Visión social
+
+Hoy en día no se puede trabajar aislado. Necesitamos relacionarnos con la gente, para aprender, para ayudarnos y para conseguir los mejores resultados posibles.
+
+Los lobos solitarios no llegan muy lejos; un gran equipo bien organizado y coordinado conseguirá los mejores resultados posibles.
+
+## 5. Capacidad analítica
+
+Ya no se trata de hacer crecer el tráfico sino de analizar lo que hemos conseguido para entender si vamos por el buen c
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg1MjE5MThdfQ==
+eyJoaXN0b3J5IjpbLTEyMjcxMzI3NjldfQ==
 -->
