@@ -37,7 +37,13 @@ Los lobos solitarios no llegan muy lejos; un gran equipo bien organizado y coord
 
 ## 5. Capacidad analítica
 
-Ya no se trata de hacer crecer el tráfico sino de analizar lo que hemos conseguido para entender si vamos por el buen c
+Ya no se trata de hacer crecer el tráfico sino de analizar lo que hemos conseguido para entender si vamos por el buen camino o no.
+
+No se trata de cuantificar datos sino de cualificarlos y para ello es necesario disponer de conocimiento analíticos.
+
+## 6. Conocimientos de aplicaciones externas
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjcxMzI3NjldfQ==
+eyJoaXN0b3J5IjpbNjk3NTczOTAzXX0=
 -->
