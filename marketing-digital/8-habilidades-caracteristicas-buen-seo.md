@@ -13,7 +13,12 @@ La experiencia es un grado importante pero también lo es disponer de unas habil
 
 ## 1. Pensamiento crítico
 
+Debemos ser críticos con lo que tenemos delante y aprender de la situación. Tres preguntas nos ayudarán a entender y orientar nuestro trabajo: 
+
+ 1. ¿Qué está ocurriendo?
+ 2. ¿Por qué está ocurriendo?
+ 3. ¿Cómo podemos aprovechar e?
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzAzNTk0NjRdfQ==
+eyJoaXN0b3J5IjpbLTE4ODYzNTYyMTZdfQ==
 -->
