@@ -45,7 +45,15 @@ No se trata de cuantificar datos sino de cualificarlos y para ello es necesario 
 
 Nuestro conocimiento está limitado a los recursos con los que contamos pero si manejamos diferentes herramientas SEO podemos conseguir incrementar nuestro impacto dentro de la estrategia.
 
-Cada proyecto tendrá unas necesidades específicas y por lo tanto deberemos utilizar un tipo de herramienta diferente. Esto nos ayuid
+Cada proyecto tendrá unas necesidades específicas y por lo tanto deberemos utilizar un tipo de herramienta diferente. Esto nos ayudará a llegar más lejos y de forma más efectiva en los resultados SEO.
+
+## 7. Capacidad para adaptarse
+
+Las reglas de juego pueden cambiar muy rápido, bien por cambios en los algoritmos de los buscadores y por acciones de nuestros competidores directos.
+
+Sea como sea, debemos disponer de una capacidad para adaptarnos, entender la nueva situación y proponer acciones para la consecución de nuestros objetivos.
+
+Si no disponemos de esta capacidad, 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTYxMTk3MTcwXX0=
+eyJoaXN0b3J5IjpbLTQ5OTI0NzQxN119
 -->
