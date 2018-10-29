@@ -6,6 +6,7 @@ Una de mis pasiones es el <a href="https://emirodgar.es">Growth Hacking</a>.
 
 <h2>Últimas publicaciones</h2>
 
+- [7 habilidades para ser un buen SEO](marketing-digital/7-habilidades-buen-seo)
 - [Factores SEO 2019](marketing-digital/factores-seo-2019)
 - [Registrar los errores de nuestra página web con Google Analytics y Google Tag Manager](marketing-digital/registrar-errores-web-con-google-analytics-tag-manager.md)
 - [Cómo crear una Progressive Web App](tecnologia/como-crear-una-progressive-web-app.md)
@@ -19,6 +20,6 @@ Una de mis pasiones es el <a href="https://emirodgar.es">Growth Hacking</a>.
 Para ver un listado completo de las publicaciones, utiliza el [mapa web](mapa-web).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTIzNjY3MDA3LC0zNzg2MzgwMTcsMTkzOT
-M2MDgzMSwxMTMzMDA4Njg5XX0=
+eyJoaXN0b3J5IjpbLTIwNzAyMjM0NTksOTIzNjY3MDA3LC0zNz
+g2MzgwMTcsMTkzOTM2MDgzMSwxMTMzMDA4Njg5XX0=
 -->
