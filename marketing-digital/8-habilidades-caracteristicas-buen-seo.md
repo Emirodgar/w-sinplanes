@@ -17,8 +17,13 @@ Debemos ser críticos con lo que tenemos delante y aprender de la situación. Tr
 
  1. ¿Qué está ocurriendo?
  2. ¿Por qué está ocurriendo?
- 3. ¿Cómo podemos aprovechar e?
+ 3. ¿Cómo podemos aprovechar esta situación?
+
+## 2. Capacidad de transmitir la información
+
+Normalmente la persona a cargo de la estrategia SEO no tiene la última palabra en la estrategia digital por lo que debe relacionarse y coordinarse con otros departamentos y personas.
+El disponer de un
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODYzNTYyMTZdfQ==
+eyJoaXN0b3J5IjpbLTIxMjMwODk1MDFdfQ==
 -->
