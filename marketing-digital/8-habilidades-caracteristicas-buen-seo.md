@@ -43,7 +43,9 @@ No se trata de cuantificar datos sino de cualificarlos y para ello es necesario 
 
 ## 6. Conocimientos de aplicaciones externas
 
-Para potenciar nuestra capacidad se recomienda hacer uso de aplicaciones externas. Nuestro conocimiento está limitado a los recursos con los que contamos pero si manejamos diferentes herramientas para diferentes
+Nuestro conocimiento está limitado a los recursos con los que contamos pero si manejamos diferentes herramientas SEO podemos conseguir incrementar nuestro impacto dentro de la estrategia.
+
+Cada proyecto tendrá unas necesidades específicas y por lo tanto deberemos utilizar un tipo de herramienta diferente. Esto nos ayuid
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjIxNDI3NjJdfQ==
+eyJoaXN0b3J5IjpbOTYxMTk3MTcwXX0=
 -->
