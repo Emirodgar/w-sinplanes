@@ -25,6 +25,11 @@ Normalmente la persona a cargo del SEO no tiene la última palabra en la estrate
 
 Disponer de una capacidad para entender y transmitir correctamente la información es crucial para que este ecosistema interno funcione y podamos aportar valor. Si no, el SEO estará aislado y con pocas posibilidades de crecer.
 
+## 3. Conocimientos técnicos y de programación
+
+Cada día es más necesario disponer de una base técnica. Tecnologías como renderizado JavaScript, configuración de servidores, AMP o PWA, etc, hacen indispensable disponer de unos conocimiento mínimos para asegurar que la base técnica sobre la que crearemos nuestra estrategia sea óptima.
+
+## 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1ODM0MDYwM119
+eyJoaXN0b3J5IjpbNjg1MjE5MThdfQ==
 -->
