@@ -2,6 +2,7 @@
 description: Función JavaScript para validar fechas
 lang: es_ES
 permalink: tecnologia/funcion-javascript-para-validar-fechas
+redirect_to: https://emirodgar.com/funcion-javascript-para-validar-fechas
   
 ---
 # Función javascript para validar fechas
