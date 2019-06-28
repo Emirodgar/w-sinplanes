@@ -6,3 +6,5 @@ name                     : "Emirodgar"
 url                      : "https://sinplanes.com"
 twitter_username: emirodgar
 github_username:  emirodgar
+plugins:
+  - jekyll-redirect-from
