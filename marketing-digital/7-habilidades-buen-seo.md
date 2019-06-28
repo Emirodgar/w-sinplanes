@@ -3,7 +3,7 @@ description: Habilidades y características que tiene que tener un buen SEO
 lang: es_ES
 permalink: marketing-digital/7-habilidades-buen-seo
 redirect_to:
-  - https://emirodgar.com/habilidades-buen-seo
+  - https://emirodgar.com/habilidades-seo
 
 ---
 
