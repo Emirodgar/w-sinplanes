@@ -2,8 +2,10 @@
 description: A través de Google Analytics y Google Tag Manager podemos registrar fácilmente los errores que ocurren en nuestra web.
 lang: es_ES
 permalink: marketing-digital/registrar-errores-web-con-google-analytics-tag-manager
+redirect_to: https://emirodgar.com/registrar-errores-web-con-google-analytics-tag-manager
 author:
   twitter: emirodgar
+  
 ---
 
 # Registrar los errores de nuestra página web con Google Analytics y Google Tag Manager
