@@ -2,6 +2,7 @@
 description: Aprende a descomprimir el código CSS que ha sido comprimido por temas de velocidad de carga
 lang: es_ES
 permalink: tecnologia/descomprimir-css-comprimido
+redirect_to: https://emirodgar.com/descomprimir-css-comprimido
   
 ---
 
