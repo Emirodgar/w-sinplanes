@@ -1,9 +1,3 @@
----
-description: Mapa web con el listado de todas las publicaciones de Avanzared.
-lang: es_ES
-redirect_to: https://emirodgar.com/
-
----
 # No es una moda, es una ventaja competitiva
 
 Bienvenidos, me llamo <a href="https://emirodgar.com">Emilio</a>. Actualmente trabajo como Jefe de Proyecto y Director SEO en Salamanca. 
