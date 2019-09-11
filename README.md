@@ -1,4 +1,6 @@
 ---
+description: Mapa web con el listado de todas las publicaciones de Avanzared.
+lang: es_ES
 redirect_to: https://emirodgar.com/
 
 ---
