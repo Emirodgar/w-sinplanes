@@ -2,6 +2,7 @@
 description: Después de mucho tiempo he logrado solucioinar los problemas del WiFi en mi Acer TravelMate.
 lang: es_ES
 permalink: tecnologia/solucionar-problemas-con-wireless-en-acer-travelmate
+redirect_to: https://emirodgar.com/
   
 ---
 
