@@ -2,6 +2,8 @@
 description: Listado de blogs y herramientas gratuitas y de pago para estar al día en marketing digital. Aprende a ser competitivo.
 lang: es_ES
 permalink: marketing-digital/como-estar-al-dia-en-marketing-digital
+rediret_to: https://emirodgar.com/como-estar-al-dia-en-seo
+
 ---
 
 # Cómo estar al día en marketing digital
