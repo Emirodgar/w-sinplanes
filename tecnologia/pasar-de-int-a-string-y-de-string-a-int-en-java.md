@@ -2,6 +2,7 @@
 description: Aprende a pasar correctamente de enterno a cadena y viceversa en Java.
 lang: es_ES
 permalink: tecnologia/pasar-de-int-a-string-y-de-string-a-int-en-java
+redirect_to: https://emirodgar.com/pasar-de-int-a-string-y-de-string-a-int-en-java
 author:
   twitter: emirodgar
   
