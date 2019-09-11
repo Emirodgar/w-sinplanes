@@ -2,6 +2,7 @@
 description: Aprende a crear tu propia Progressive Web App (PWA) y olvídate de programar apps tradicionales en iOS o Android.
 lang: es_ES
 permalink: tecnologia/como-crear-una-progressive-web-app
+redirect_to: https://emirodgar.com/como-crear-una-progressive-web-app
 author:
   twitter: emirodgar
   
