@@ -2,6 +2,7 @@
 description: Recopilatorio gracioso de frases cortantes para evitar que te molesten de forma original.
 lang: es_ES
 permalink: offtopic/frases-cortantes-para-que-no-te-molesten
+redirect_to: https://emirodgar.com/frases-cortantes-para-que-no-te-molesten
 author:
   twitter: emirodgar
   
