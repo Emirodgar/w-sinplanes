@@ -2,6 +2,7 @@
 description: Diferentes formas para acceder y trabajar con una base de datos MySQL en remoto.
 lang: es_ES
 permalink: tecnologia/conectar-a-una-base-de-datos-mysql-en-remoto
+redirect_to: https://emirodgar.com/conectar-a-una-base-de-datos-mysql-en-remoto
   
 ---
 
