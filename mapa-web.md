@@ -2,6 +2,7 @@
 description: Mapa web con el listado de todas las publicaciones de Avanzared.
 lang: es_ES
 permalink: mapa-web
+redirect_to: https://emirodgar.com/mapa-web
   
 ---
 
