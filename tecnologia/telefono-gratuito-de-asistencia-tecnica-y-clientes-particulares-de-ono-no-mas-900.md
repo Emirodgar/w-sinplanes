@@ -2,6 +2,7 @@
 description: Estos son los números directos de ONO para evitar tener que utilizar un 900
 lang: es_ES
 permalink: tecnologia/telefono-gratuito-de-asistencia-tecnica-y-clientes-particulares-de-ono-no-mas-900
+redirect_to: https://emirodgar.com/
   
 ---
 
