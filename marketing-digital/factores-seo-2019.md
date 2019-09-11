@@ -2,6 +2,7 @@
 description: Estos son los factores SEO que más importancia tendrán a lo largo de 2019
 lang: es_ES
 permalink: marketing-digital/factores-seo-2019
+redirect_to: https://emirodgar.com/factores-seo
 
 ---
 
