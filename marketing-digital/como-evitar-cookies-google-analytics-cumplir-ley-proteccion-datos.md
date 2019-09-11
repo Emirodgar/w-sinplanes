@@ -2,7 +2,7 @@
 description: Inhabilita las cookies en Google Analytics y cumple así la normativa de la GDPR/RGPD sin necesidad de acciones adicionales
 lang: es_ES
 permalink: marketing-digital/como-evitar-cookies-google-analytics-cumplir-ley-proteccion-datos
-redirect_to:https://emirodgar.com/
+redirect_to: https://emirodgar.com/
 
 ---
 
