@@ -10,7 +10,7 @@
 import { readFileSync, writeFileSync, mkdirSync, existsSync } from 'node:fs';
 import path from 'node:path';
 import { ROOT, TOPIC_IDS, hash, addDays, resolveProvince } from './util.mjs';
-import { aiEnabled, claudeJSON, readCache, writeCache } from './ai.mjs';
+import { aiEnabled, llmJSON, readCache, writeCache } from './ai.mjs';
 
 export const CONF_MIN = Number(process.env.SINPLANES_CONF_MIN || 0.7);
 const MAX_CANDIDATES = Number(process.env.SINPLANES_MAX_PRESS || 150); // tope de titulares nuevos por ejecución
@@ -96,7 +96,7 @@ export async function extractPress(candidates, today, log = console.log) {
   const fresh = candidates.filter((c) => !cache[idOf(c)]).sort((a, b) => (b.published || '').localeCompare(a.published || ''));
 
   if (fresh.length && !aiEnabled()) {
-    log(`Prensa: ${fresh.length} titulares nuevos pero sin ANTHROPIC_API_KEY: no se procesan.`);
+    log(`Prensa: ${fresh.length} titulares nuevos pero sin GEMINI_API_KEY: no se procesan.`);
   } else if (fresh.length) {
     const todo = fresh.slice(0, MAX_CANDIDATES);
     log(`Prensa: ${todo.length} titulares nuevos para analizar (${fresh.length - todo.length} aplazados por el tope de ${MAX_CANDIDATES}).`);
@@ -107,7 +107,7 @@ export async function extractPress(candidates, today, log = console.log) {
         items: chunk.map((c) => ({ id: idOf(c), titulo: c.title, texto: c.text, publicado: c.published, region_pista: c._src.region || c._src.provincia || null })),
       };
       try {
-        const results = await claudeJSON(SYSTEM, payload, { maxTokens: 8000 });
+        const results = await llmJSON(SYSTEM, payload, { maxTokens: 8000 });
         const byId = new Map(results.map((r) => [r.id, r]));
         for (const c of chunk) {
           const id = idOf(c);

@@ -1,7 +1,7 @@
 // Traducción a francés, alemán, italiano y portugués con caché por contenido.
 // El texto fuente es el español (y el inglés como apoyo). Lo ya traducido nunca se vuelve a pedir.
 import { hash, addDays } from './util.mjs';
-import { aiEnabled, claudeJSON, readCache, writeCache } from './ai.mjs';
+import { aiEnabled, llmJSON, readCache, writeCache } from './ai.mjs';
 
 export const TARGET_LANGS = ['fr', 'de', 'it', 'pt'];
 const NEAR_DAYS = 21; // los eventos de datos abiertos solo se traducen si ocurren pronto
@@ -50,7 +50,7 @@ export async function translatePlans(plans, today, log = console.log) {
     .sort((a, b) => rank(a) - rank(b) || (a.start || '').localeCompare(b.start || ''));
 
   if (queue.length && !aiEnabled()) {
-    log(`Traducción: ${queue.length} planes sin traducir y sin ANTHROPIC_API_KEY. Esas páginas saldrán en inglés/español y con noindex.`);
+    log(`Traducción: ${queue.length} planes sin traducir y sin GEMINI_API_KEY. Esas páginas saldrán en inglés/español y con noindex.`);
   } else if (queue.length) {
     const todo = queue.slice(0, MAX_ITEMS);
     log(`Traducción: ${todo.length} planes nuevos (${queue.length - todo.length} aplazados por el tope de ${MAX_ITEMS}).`);
@@ -58,7 +58,7 @@ export async function translatePlans(plans, today, log = console.log) {
       const chunk = todo.slice(i, i + BATCH);
       const payload = chunk.map((p) => ({ id: p.id, titulo: p.title.es, resumen: p.summary.es, en: { titulo: p.title.en, resumen: p.summary.en } }));
       try {
-        const results = await claudeJSON(SYSTEM, payload, { maxTokens: 8000 });
+        const results = await llmJSON(SYSTEM, payload, { maxTokens: 8000 });
         for (const r of results) {
           const p = chunk.find((x) => x.id === r.id);
           if (p && valid(r)) cache[keyOf(p)] = Object.fromEntries(TARGET_LANGS.map((l) => [l, r[l]]));

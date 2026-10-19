@@ -9,7 +9,7 @@ Cada mañana el workflow `daily.yml` hace esto:
 1. Convierte `config/seasonal.yml` en planes con fechas reales (calcula Semana Santa, el último miércoles de agosto, etc.).
 2. Descarga las fuentes de `config/sources.yml`. Si una falla, se registra en `data/meta.json` y la web se publica igual.
 3. Normaliza, clasifica por temas y deduplica.
-4. Si existe `ANTHROPIC_API_KEY`, la IA reescribe el resumen, traduce al inglés y afina temas y si es a cubierto. Usa caché por contenido: un evento que no cambia no se vuelve a pagar.
+4. Si existe `GEMINI_API_KEY` (o `ANTHROPIC_API_KEY`), la IA reescribe el resumen, traduce al inglés y afina temas y si es a cubierto. Usa caché por contenido: un evento que no cambia no se vuelve a pagar.
 5. Guarda `data/plans.json` en el repo, compila con Astro y publica en GitHub Pages.
 
 Además, `check-sources.yml` prueba todas las fuentes cada lunes y deja el resultado en el resumen del job.
@@ -19,7 +19,7 @@ Además, `check-sources.yml` prueba todas las fuentes cada lunes y deja el resul
 1. Crea el repositorio y sube este código a `main`.
 2. En Settings > Pages, elige "GitHub Actions" como origen. Para el dominio, apunta el DNS de sinplanes.com a GitHub Pages (el fichero `public/CNAME` ya está).
 3. En Settings > Secrets and variables > Actions, añade los secretos que quieras usar:
-   - `ANTHROPIC_API_KEY`: traducciones y resúmenes. Sin ella, la web funciona con reglas y el texto original.
+   - `GEMINI_API_KEY` (Google; modelo por defecto `gemini-2.5-flash`, cambiable con `SINPLANES_MODEL`) o `ANTHROPIC_API_KEY`: traducciones, resúmenes y extracción de prensa. Si hay las dos, manda Gemini. Sin ella, la web funciona con reglas y el texto original.
    - `TMDB_API_KEY`: estrenos de cine (clave gratuita en themoviedb.org).
    - `FOOTBALL_DATA_TOKEN`: partidos destacados (plan gratuito en football-data.org).
 4. Lanza "Revisar fuentes" a mano desde la pestaña Actions y corrige en `sources.yml` las que fallen.
@@ -41,7 +41,7 @@ npm run dev
 
 ## Fase 2: prensa, tendencias e idiomas
 
-**Prensa regional con IA.** Los feeds de `config/sources.yml` con `adaptador: rss` (21 comprobados) devuelven titulares. Un filtro barato de palabras de agenda descarta lo evidente y la IA decide cuáles anuncian un plan con fecha, lo estructura y redacta un resumen propio. Sin `ANTHROPIC_API_KEY` esos feeds se descargan pero no se procesan.
+**Prensa regional con IA.** Los feeds de `config/sources.yml` con `adaptador: rss` (21 comprobados) devuelven titulares. Un filtro barato de palabras de agenda descarta lo evidente y la IA decide cuáles anuncian un plan con fecha, lo estructura y redacta un resumen propio. Sin clave de IA esos feeds se descargan pero no se procesan.
 - Todo se guarda en `data/cache/press.json`: no se paga dos veces por el mismo titular y el plan sigue publicado cuando el titular sale del feed.
 - **Revisión**: lo que la IA marca con confianza menor de 0,7 (o sin provincia reconocible) **no se publica**. Se escribe en `data/review.json` y el workflow abre un Issue con etiqueta `revisar`. Para decidir, copia el id en `config/revision.json` (`aprobados` o `rechazados`) y haz commit.
 - `SINPLANES_MAX_PRESS` (150 titulares nuevos por ejecución) y `SINPLANES_CONF_MIN` (0,7) controlan coste y exigencia.
