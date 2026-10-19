@@ -1,0 +1,57 @@
+---
+import Base from '../layouts/Base.astro';
+import { t, url, LANGS, HREFLANG } from '../i18n/ui.js';
+import { fmtWhen, fmtPlace, topicById, isPast, textLang, slugify, ptitle, psummary, availLangs } from '../lib/data.js';
+
+const { lang, plan: p } = Astro.props;
+const L = t[lang];
+const title = ptitle(p, lang);
+const summary = psummary(p, lang);
+const past = isPast(p);
+const pl = p.place || {};
+const tl = textLang(lang, p);
+
+// Event solo cuando hay fecha y lugar físico (requisito de Google para resultados de eventos)
+const jsonld = p.kind !== 'estacional' && pl.scope === 'local' && !past ? {
+  '@context': 'https://schema.org', '@type': 'Event',
+  name: title, description: summary,
+  startDate: p.time ? `${p.start}T${p.time}` : p.start, endDate: p.end || p.start,
+  eventStatus: 'https://schema.org/EventScheduled',
+  eventAttendanceMode: 'https://schema.org/OfflineEventAttendanceMode',
+  inLanguage: HREFLANG[tl || lang],
+  location: {
+    '@type': 'Place', name: pl.venue || pl.municipio,
+    address: { '@type': 'PostalAddress', addressLocality: pl.municipio, addressRegion: pl.provincia, addressCountry: 'ES' },
+    ...(pl.lat && pl.lon ? { geo: { '@type': 'GeoCoordinates', latitude: pl.lat, longitude: pl.lon } } : {}),
+  },
+  ...(p.free ? { isAccessibleForFree: true } : {}),
+  ...(p.source?.url ? { url: p.source.url } : {}),
+} : null;
+---
+<Base lang={lang} title={title} description={summary} route={{ type: 'plan', slug: p.slug }} avail={availLangs(p, LANGS)} noindex={past || !!tl} jsonld={jsonld}>
+  <article class="plan">
+    <h1 lang={tl}>{title}</h1>
+    <p class="lead" lang={tl}>{summary}</p>
+
+    {past && <p class="notice">{L.past}</p>}
+    {p.approx && <p class="notice">{L.approx}</p>}
+
+    <dl class="facts">
+      <dt>{L.when}</dt><dd>{fmtWhen(lang, p)}{p.recurring && ` (${L.inRecurring})`}</dd>
+      <dt>{L.where}</dt>
+      <dd>
+        {pl.scope === 'local' && pl.ccaa
+          ? <a href={url.province(lang, pl.ccaa, slugify(pl.provincia))}>{fmtPlace(p, L.allSpain)}</a>
+          : fmtPlace(p, L.allSpain)}
+        {pl.venue && <><br />{pl.venue}</>}
+      </dd>
+      {(p.free || p.price) && <><dt>{L.price}</dt><dd>{p.free ? L.free_ : p.price}</dd></>}
+      {typeof p.indoor === 'boolean' && <><dt>{L.setting}</dt><dd>{p.indoor ? L.indoor : L.outdoor}</dd></>}
+      <dt>{L.nav.topics}</dt>
+      <dd>{p.topics.map((id, i) => { const tp = topicById(id); return tp && <>{i > 0 && ', '}<a href={url.topic(lang, tp)}>{tp[lang]}</a></>; })}</dd>
+      {p.source?.name && p.source.name !== 'sinplanes' && <><dt>{L.sourceLabel}</dt><dd>{p.source.name}{p.source.license && <span class="muted"> ({p.source.license})</span>}</dd></>}
+    </dl>
+
+    {p.source?.url && <a class="button" href={p.source.url} rel="noopener">{L.source}</a>}
+  </article>
+</Base>

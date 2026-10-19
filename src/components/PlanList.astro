@@ -1,0 +1,22 @@
+---
+import { t, url } from '../i18n/ui.js';
+import { fmtWhen, fmtPlace, topicById, textLang, ptitle, inLang } from '../lib/data.js';
+const { lang, plans: all = [], showTopic = false } = Astro.props;
+const plans = inLang(all, lang);
+const L = t[lang];
+---
+{plans.length === 0
+  ? <p class="empty">{L.empty}</p>
+  : <ul class="plan-list">
+      {plans.map((p) => (
+        <li>
+          <a class="title" href={url.plan(lang, p.slug)} lang={textLang(lang, p)}>{ptitle(p, lang)}</a>
+          <span class="plan-meta">
+            <span>{fmtWhen(lang, p)}</span>
+            <span>{fmtPlace(p, L.allSpain)}</span>
+            {p.free && <span class="tag">{L.free_}</span>}
+            {showTopic && p.topics?.[0] && <span>{topicById(p.topics[0])?.[lang]}</span>}
+          </span>
+        </li>
+      ))}
+    </ul>}

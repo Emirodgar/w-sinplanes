@@ -1,0 +1,51 @@
+---
+// Widget "Cerca de ti": geolocalización y previsión de lluvia en el navegador (Open-Meteo, sin clave).
+import { t, url } from '../i18n/ui.js';
+import { within, fmtWhen, ptitle, inLang } from '../lib/data.js';
+const { lang } = Astro.props;
+const L = t[lang];
+const items = inLang(within(14), lang)
+  .filter((p) => p.place?.lat && p.place?.lon)
+  .map((p) => ({ t: ptitle(p, lang), u: url.plan(lang, p.slug), la: p.place.lat, lo: p.place.lon, i: p.indoor, w: fmtWhen(lang, p), m: p.place.municipio }));
+---
+<section class="widget" aria-labelledby="w-near">
+  <h2 id="w-near">{L.w.near}</h2>
+  <p class="muted">{L.nearIntro}</p>
+  <button class="button" type="button" id="near-btn">{L.nearButton}</button>
+  <div id="near-out" aria-live="polite"></div>
+  <script type="application/json" id="near-data" set:html={JSON.stringify({ items, s: { loading: L.nearLoading, denied: L.nearDenied, none: L.nearNone, rain: L.nearRain, km: L.km, places: url.places(lang), indoor: L.indoor } })} />
+</section>
+
+<script>
+  const btn = document.getElementById('near-btn');
+  const out = document.getElementById('near-out');
+  const { items, s } = JSON.parse(document.getElementById('near-data').textContent);
+  const esc = (x) => String(x ?? '').replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
+  const dist = (a, b, c, d) => {
+    const r = Math.PI / 180, x = Math.sin(((c - a) * r) / 2) ** 2 + Math.cos(a * r) * Math.cos(c * r) * Math.sin(((d - b) * r) / 2) ** 2;
+    return 12742 * Math.asin(Math.sqrt(x));
+  };
+  const msg = (text) => { out.innerHTML = `<p class="empty">${esc(text)}</p>`; };
+
+  btn?.addEventListener('click', () => {
+    if (!navigator.geolocation) return msg(s.denied);
+    msg(s.loading);
+    navigator.geolocation.getCurrentPosition(async ({ coords }) => {
+      const { latitude: la, longitude: lo } = coords;
+      let rain = false;
+      try {
+        const r = await fetch(`https://api.open-meteo.com/v1/forecast?latitude=${la.toFixed(2)}&longitude=${lo.toFixed(2)}&daily=precipitation_probability_max&timezone=Europe%2FMadrid&forecast_days=1`);
+        rain = ((await r.json()).daily?.precipitation_probability_max?.[0] ?? 0) >= 60;
+      } catch { /* sin previsión, seguimos */ }
+      const near = items
+        .map((p) => ({ ...p, d: dist(la, lo, p.la, p.lo) }))
+        .filter((p) => p.d <= 100)
+        .sort((a, b) => (rain ? (b.i === true) - (a.i === true) : 0) || a.d - b.d)
+        .slice(0, 5);
+      if (!near.length) return msg(s.none);
+      out.innerHTML = (rain ? `<p class="notice">${esc(s.rain)}</p>` : '') +
+        '<ul class="plan-list" style="margin-top:1rem">' + near.map((p) =>
+          `<li><a class="title" href="${p.u}">${esc(p.t)}</a><span class="plan-meta"><span>${esc(p.w)}</span><span>${esc(p.m)}</span><span>${Math.round(p.d)} ${s.km}</span>${p.i ? `<span class="tag">${esc(s.indoor)}</span>` : ''}</span></li>`).join('') + '</ul>';
+    }, () => msg(s.denied), { timeout: 10000, maximumAge: 600000 });
+  });
+</script>

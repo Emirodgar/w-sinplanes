@@ -1,0 +1,16 @@
+{
+  "generated": "2026-10-19T13:48:37.560Z",
+  "today": "2026-10-19",
+  "total": 53,
+  "seasonal": 48,
+  "external": 5,
+  "review": 0,
+  "trending": 0,
+  "sources": [
+    {
+      "id": "fixtures",
+      "status": "ok",
+      "count": 5
+    }
+  ]
+}

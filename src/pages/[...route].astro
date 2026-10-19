@@ -1,0 +1,10 @@
+---
+// Router único: genera todas las páginas de todos los idiomas (el español en la raíz, el resto con prefijo).
+import RouteView from '../components/RouteView.astro';
+import { getAllPaths } from '../lib/routes.js';
+export function getStaticPaths() {
+  return getAllPaths();
+}
+const { lang, r } = Astro.props;
+---
+<RouteView lang={lang} r={r} />

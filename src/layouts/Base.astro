@@ -1,0 +1,70 @@
+---
+import '../styles/global.css';
+import { t, url, routeUrl, LANGS, HREFLANG, OG_LOCALE, LANG_NAME } from '../i18n/ui.js';
+import { meta, fmtDay } from '../lib/data.js';
+
+// route: objeto neutro al idioma (ver routeUrl). avail: idiomas con contenido propio para esta página.
+const { lang = 'es', title, description, route = null, avail = LANGS, noindex = false, jsonld = null } = Astro.props;
+const L = t[lang];
+const site = Astro.site.origin;
+const self = new URL(Astro.url.pathname, site).href;
+const alternates = route ? avail.filter((l) => LANGS.includes(l)).map((l) => ({ l, href: new URL(routeUrl(l, route), site).href })) : [];
+const xDefault = alternates.find((a) => a.l === 'es') || alternates.find((a) => a.l === 'en');
+const pageTitle = title ? `${title} | sinplanes` : `sinplanes · ${L.tagline}`;
+// El selector de idioma lleva a la misma página si existe en ese idioma y, si no, a su portada.
+const switcher = LANGS.map((l) => ({ l, href: route && avail.includes(l) ? routeUrl(l, route) : url.home(l) }));
+---
+<!doctype html>
+<html lang={lang}>
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>{pageTitle}</title>
+  <meta name="description" content={description || L.tagline} />
+  <link rel="canonical" href={self} />
+  {noindex && <meta name="robots" content="noindex, follow" />}
+  {!noindex && alternates.length > 1 && <>
+    {alternates.map((a) => <link rel="alternate" hreflang={HREFLANG[a.l]} href={a.href} />)}
+    {xDefault && <link rel="alternate" hreflang="x-default" href={xDefault.href} />}
+  </>}
+  <meta property="og:title" content={pageTitle} />
+  <meta property="og:description" content={description || L.tagline} />
+  <meta property="og:url" content={self} />
+  <meta property="og:locale" content={OG_LOCALE[lang]} />
+  {alternates.filter((a) => a.l !== lang).map((a) => <meta property="og:locale:alternate" content={OG_LOCALE[a.l]} />)}
+  <meta name="theme-color" content="#f2b705" />
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:wght@400;700&family=Bricolage+Grotesque:opsz,wght@12..96,600..800&display=swap" />
+  {jsonld && <script type="application/ld+json" set:html={JSON.stringify(jsonld)} />}
+</head>
+<body>
+  <a class="skip" href="#main">{L.skip}</a>
+  <header class="site-head">
+    <div class="wrap">
+      <a class="brand" href={url.home(lang)}>sinplanes</a>
+      <nav class="site-nav" aria-label={L.navLabel}>
+        <a href={url.topics(lang)}>{L.nav.topics}</a>
+        <a href={url.places(lang)}>{L.nav.places}</a>
+        <a href={url.calendar(lang)}>{L.nav.calendar}</a>
+      </nav>
+      <nav class="langs" aria-label={L.langLabel}>
+        {switcher.map(({ l, href }) => (
+          <a href={href} hreflang={HREFLANG[l]} lang={HREFLANG[l]} aria-current={l === lang ? 'true' : undefined} title={LANG_NAME[l]}>{l.toUpperCase()}</a>
+        ))}
+      </nav>
+    </div>
+  </header>
+  <main id="main" class="wrap">
+    <slot />
+  </main>
+  <footer class="site-foot">
+    <div class="wrap">
+      <p>{L.footer}</p>
+      <p>{L.tmdb}</p>
+      <p>{L.updated(fmtDay(lang, meta.today, { day: 'numeric', month: 'long', year: 'numeric' }))}</p>
+    </div>
+  </footer>
+</body>
+</html>

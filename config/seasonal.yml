@@ -1,0 +1,280 @@
+# Calendario estacional de sinplanes.com
+# ------------------------------------------------------------
+# Se edita a mano (o con ayuda de IA) muy de vez en cuando.
+# El pipeline lo convierte cada día en planes con fechas reales.
+#
+# temporada: planes "de siempre" que valen para todo un mes o varios.
+# citas:     eventos que se repiten cada año con una regla de fecha.
+#
+# Reglas de fecha (citas):
+#   fija:     inicio "MM-DD", fin "MM-DD" (opcional)
+#   pascua:   desde / hasta = días respecto al Domingo de Resurrección
+#   enesimo:  mes, dia_semana (0=domingo … 6=sábado), n (1,2,3… o -1 = último), dura (días, opcional)
+# aprox: true → la web avisa de que la fecha es orientativa.
+# lugar: omítelo si es un plan para toda España; si no, provincia y municipio.
+
+temporada:
+  - id: castanas-otono
+    meses: [10, 11]
+    temas: [naturaleza, gastronomia]
+    es: { titulo: "Ir a coger castañas", resumen: "Los castañares de El Bierzo, el Valle del Genal, la sierra de Francia o el Valle del Tiétar se llenan de erizos. Pide permiso si el terreno es privado." }
+    en: { titulo: "Go chestnut picking", resumen: "Chestnut groves in El Bierzo, the Genal Valley, Sierra de Francia or the Tiétar Valley fill with burrs. Ask permission on private land." }
+  - id: magostos
+    meses: [11]
+    temas: [fiestas, gastronomia]
+    es: { titulo: "Celebrar un magosto", resumen: "Castañas asadas, hoguera y vino nuevo: la fiesta de otoño de Galicia, Asturias y El Bierzo alrededor de San Martín." }
+    en: { titulo: "Join a magosto", resumen: "Roast chestnuts, bonfires and new wine: the autumn feast of Galicia, Asturias and El Bierzo around Saint Martin's Day." }
+  - id: setas
+    meses: [10, 11]
+    temas: [naturaleza, gastronomia]
+    es: { titulo: "Salir a por setas", resumen: "Soria, el Pirineo y los montes de León y Zamora son los clásicos. Infórmate de la regulación y el permiso de recolección de cada zona." }
+    en: { titulo: "Go mushroom foraging", resumen: "Soria, the Pyrenees and the hills of León and Zamora are the classics. Check each area's foraging rules and permits." }
+  - id: hayedos
+    meses: [10, 11]
+    temas: [naturaleza]
+    es: { titulo: "Ver el otoño en un hayedo", resumen: "Irati, Montejo, Tejera Negra o el hayedo de Otzarreta cambian de color en pocas semanas. Ve entre semana para evitar cupos completos." }
+    en: { titulo: "See autumn colours in a beech forest", resumen: "Irati, Montejo, Tejera Negra or Otzarreta turn gold in a few weeks. Go on a weekday to avoid full visitor quotas." }
+  - id: berrea
+    meses: [9, 10]
+    temas: [naturaleza]
+    es: { titulo: "Escuchar la berrea del ciervo", resumen: "Al amanecer y al atardecer en Monfragüe, Cabañeros, la Sierra de Andújar o Riaño. Lleva prismáticos y guarda silencio." }
+    en: { titulo: "Hear the red deer rut", resumen: "At dawn and dusk in Monfragüe, Cabañeros, Sierra de Andújar or Riaño. Bring binoculars and keep quiet." }
+  - id: vendimia
+    meses: [9]
+    temas: [gastronomia]
+    es: { titulo: "Vivir la vendimia", resumen: "Rioja, Ribera del Duero, Jerez o el Penedès organizan visitas y fiestas de la vendimia en bodegas." }
+    en: { titulo: "Experience the grape harvest", resumen: "Rioja, Ribera del Duero, Jerez and Penedès offer winery visits and harvest festivals." }
+  - id: piscinas-naturales
+    meses: [6, 7, 8]
+    temas: [agua, naturaleza]
+    es: { titulo: "Bañarse en una piscina natural", resumen: "La Vera, el Valle del Jerte, Las Hurdes o la sierra de Gredos tienen pozas y gargantas de agua fría y clara." }
+    en: { titulo: "Swim in a natural pool", resumen: "La Vera, Jerte Valley, Las Hurdes and the Gredos mountains have clear, cold river pools." }
+  - id: playas-fluviales
+    meses: [7, 8]
+    temas: [agua]
+    es: { titulo: "Pasar el día en una playa fluvial", resumen: "Una alternativa al mar para el interior: arenales en ríos y embalses con zona de baño señalizada." }
+    en: { titulo: "Spend a day at a river beach", resumen: "An inland alternative to the sea: sandy river and reservoir beaches with marked swimming areas." }
+  - id: verbenas
+    meses: [7, 8]
+    temas: [fiestas]
+    es: { titulo: "Ir a las fiestas de un pueblo", resumen: "Agosto es el mes de las fiestas patronales: verbenas, peñas y orquestas en casi cada pueblo de España." }
+    en: { titulo: "Go to a village festival", resumen: "August is patron-saint season: open-air dances, music and street parties in almost every Spanish village." }
+  - id: perseidas
+    meses: [8]
+    temas: [naturaleza]
+    es: { titulo: "Ver las Perseidas", resumen: "Hacia el 12 de agosto, lejos de la contaminación lumínica. Monfragüe, la Sierra Sur de Jaén o Gúdar-Javalambre son reservas Starlight." }
+    en: { titulo: "Watch the Perseids", resumen: "Around 12 August, away from light pollution. Monfragüe, Sierra Sur de Jaén and Gúdar-Javalambre are Starlight reserves." }
+  - id: cerezos-jerte
+    meses: [3, 4]
+    temas: [naturaleza]
+    es: { titulo: "Ver los cerezos en flor", resumen: "El Valle del Jerte se cubre de blanco entre finales de marzo y mediados de abril, según el año." }
+    en: { titulo: "See the cherry blossom", resumen: "The Jerte Valley turns white between late March and mid-April, depending on the year." }
+  - id: almendros
+    meses: [2]
+    temas: [naturaleza]
+    es: { titulo: "Pasear entre almendros en flor", resumen: "Mallorca, la Axarquía, Tenerife y el campo de Cartagena florecen antes que nadie." }
+    en: { titulo: "Walk among almond blossom", resumen: "Mallorca, the Axarquía, Tenerife and Cartagena bloom before anywhere else." }
+  - id: calcotada
+    meses: [1, 2, 3]
+    temas: [gastronomia]
+    es: { titulo: "Ir a una calçotada", resumen: "Calçots a la brasa con salsa romesco en el Camp de Tarragona y el Alt Camp. Mejor con reserva." }
+    en: { titulo: "Go to a calçotada", resumen: "Chargrilled spring onions with romesco sauce in Tarragona's Camp and Alt Camp. Booking recommended." }
+  - id: nieve
+    meses: [12, 1, 2, 3]
+    temas: [naturaleza, deporte]
+    es: { titulo: "Subir a la nieve", resumen: "Sierra Nevada, el Pirineo, la Cordillera Cantábrica o el Sistema Central. Revisa el estado de las carreteras y si hacen falta cadenas." }
+    en: { titulo: "Head to the snow", resumen: "Sierra Nevada, the Pyrenees, the Cantabrian range or the Central System. Check road conditions and whether chains are required." }
+  - id: matanza
+    meses: [12, 1]
+    temas: [gastronomia, fiestas]
+    es: { titulo: "Ir a una fiesta de la matanza", resumen: "Muchos pueblos de Castilla y León y Extremadura la celebran como fiesta gastronómica con degustaciones." }
+    en: { titulo: "Visit a traditional pig-slaughter feast", resumen: "Many villages in Castile and León and Extremadura hold it as a food festival with tastings." }
+  - id: mercadillos-navidad
+    meses: [12]
+    temas: [navidad]
+    es: { titulo: "Visitar un mercadillo navideño", resumen: "La Plaza Mayor de Madrid, la Fira de Santa Llúcia en Barcelona o el mercado de Santo Tomás en Bilbao, entre muchos otros." }
+    en: { titulo: "Visit a Christmas market", resumen: "Madrid's Plaza Mayor, Barcelona's Fira de Santa Llúcia or Bilbao's Santo Tomás market, among many others." }
+  - id: luces-navidad
+    meses: [11, 12, 1]
+    temas: [navidad]
+    es: { titulo: "Ver las luces de Navidad", resumen: "Vigo, Madrid, Málaga o Valencia compiten cada año por el alumbrado más espectacular. Los encendidos suelen ser a finales de noviembre." }
+    en: { titulo: "See the Christmas lights", resumen: "Vigo, Madrid, Málaga and Valencia compete each year for the most spectacular lights, usually switched on in late November." }
+  - id: belenes
+    meses: [12, 1]
+    temas: [navidad, cultura]
+    es: { titulo: "Ver belenes y belenes vivientes", resumen: "Exposiciones de belenes en ayuntamientos, iglesias y museos, y belenes vivientes en muchos pueblos." }
+    en: { titulo: "See nativity scenes", resumen: "Nativity displays in town halls, churches and museums, and living nativity scenes in many villages." }
+  - id: flores-primavera
+    meses: [4, 5]
+    temas: [naturaleza]
+    es: { titulo: "Ver campos de flores en primavera", resumen: "Amapolas, lavanda temprana y prados en flor: la mejor época para senderismo suave." }
+    en: { titulo: "See spring wildflowers", resumen: "Poppies, early lavender and flowering meadows: the best time for easy hiking." }
+  - id: lavanda-brihuega
+    meses: [7]
+    temas: [naturaleza]
+    es: { titulo: "Ver los campos de lavanda", resumen: "Brihuega (Guadalajara) florece en morado a principios de julio. Al atardecer es cuando más luce." }
+    en: { titulo: "See the lavender fields", resumen: "Brihuega (Guadalajara) turns purple in early July. Best at sunset." }
+  - id: terrazas-primavera
+    meses: [5, 6, 9]
+    temas: [gastronomia]
+    es: { titulo: "Ruta de terrazas y vermut", resumen: "Antes del calor fuerte y al volver de vacaciones: buen momento para un vermut al sol." }
+    en: { titulo: "Terrace and vermouth crawl", resumen: "Before the summer heat and after the holidays: a good time for vermouth in the sun." }
+  - id: museos-gratis
+    meses: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+    temas: [cultura]
+    es: { titulo: "Entrar gratis a un museo", resumen: "Muchos museos estatales tienen horarios de entrada gratuita, por ejemplo las tardes o los domingos. Consulta el horario de cada museo." }
+    en: { titulo: "Visit a museum for free", resumen: "Many state museums offer free entry at set times, such as evenings or Sundays. Check each museum's hours." }
+
+citas:
+  - id: cabalgata-reyes
+    regla: { tipo: fija, inicio: "01-05" }
+    temas: [fiestas, ninos, navidad]
+    es: { titulo: "Cabalgata de Reyes", resumen: "Desfiles de los Reyes Magos en toda España la tarde del 5 de enero." }
+    en: { titulo: "Three Kings Parade", resumen: "Parades of the Three Wise Men across Spain on the evening of 5 January." }
+  - id: premio-nadal
+    regla: { tipo: fija, inicio: "01-06" }
+    temas: [pantalla, libros]
+    es: { titulo: "Premio Nadal de novela", resumen: "El premio literario más antiguo de España se falla cada 6 de enero en Barcelona." }
+    en: { titulo: "Nadal Prize for fiction", resumen: "Spain's oldest literary prize is announced every 6 January in Barcelona." }
+  - id: carnaval-cadiz
+    regla: { tipo: pascua, desde: -52, hasta: -46 }
+    aprox: true
+    temas: [fiestas, musica]
+    lugar: { provincia: "Cádiz", municipio: "Cádiz" }
+    es: { titulo: "Carnaval de Cádiz", resumen: "Chirigotas, comparsas y coros por las calles de Cádiz." }
+    en: { titulo: "Cádiz Carnival", resumen: "Satirical choirs and street groups fill the streets of Cádiz." }
+  - id: super-bowl
+    regla: { tipo: enesimo, mes: 2, dia_semana: 0, n: 2 }
+    aprox: true
+    temas: [pantalla, deporte]
+    es: { titulo: "Ver la Super Bowl", resumen: "La final de la NFL se emite de madrugada en España. Muchos bares deportivos abren para verla." }
+    en: { titulo: "Watch the Super Bowl", resumen: "The NFL final airs in the early hours in Spain. Many sports bars open to show it." }
+  - id: goya
+    regla: { tipo: enesimo, mes: 2, dia_semana: 6, n: 2 }
+    aprox: true
+    temas: [pantalla, cultura]
+    es: { titulo: "Gala de los Premios Goya", resumen: "La gran noche del cine español, en directo por televisión." }
+    en: { titulo: "Goya Awards gala", resumen: "Spanish cinema's big night, broadcast live on TV." }
+  - id: oscars
+    regla: { tipo: enesimo, mes: 3, dia_semana: 0, n: 1 }
+    aprox: true
+    temas: [pantalla]
+    es: { titulo: "Noche de los Óscar", resumen: "La gala se emite de madrugada en España. Plan perfecto para ver las películas nominadas antes." }
+    en: { titulo: "Oscars night", resumen: "The ceremony airs overnight in Spain. Catch the nominated films beforehand." }
+  - id: fallas
+    regla: { tipo: fija, inicio: "03-15", fin: "03-19" }
+    temas: [fiestas]
+    lugar: { provincia: "Valencia", municipio: "València" }
+    es: { titulo: "Fallas de Valencia", resumen: "Mascletàs, monumentos falleros y la cremà de la noche del 19 de marzo." }
+    en: { titulo: "Las Fallas in Valencia", resumen: "Firecracker displays, giant sculptures and the burning on the night of 19 March." }
+  - id: semana-santa
+    regla: { tipo: pascua, desde: -7, hasta: 0 }
+    temas: [fiestas, cultura]
+    es: { titulo: "Procesiones de Semana Santa", resumen: "Sevilla, Málaga, Valladolid, Zamora o Cuenca tienen las más conocidas, cada una con un estilo muy distinto." }
+    en: { titulo: "Holy Week processions", resumen: "Seville, Málaga, Valladolid, Zamora and Cuenca have the best known, each with a very different style." }
+  - id: feria-abril
+    regla: { tipo: pascua, desde: 13, hasta: 20 }
+    aprox: true
+    temas: [fiestas]
+    lugar: { provincia: "Sevilla", municipio: "Sevilla" }
+    es: { titulo: "Feria de Abril de Sevilla", resumen: "Casetas, sevillanas y paseo de caballos en el Real de la Feria." }
+    en: { titulo: "Seville April Fair", resumen: "Marquees, sevillanas dancing and horse parades at the fairground." }
+  - id: sant-jordi
+    regla: { tipo: fija, inicio: "04-23" }
+    temas: [libros, fiestas]
+    es: { titulo: "Día del Libro y Sant Jordi", resumen: "Paradas de libros y rosas en las calles, sobre todo en Barcelona, y firmas de autores en toda España." }
+    en: { titulo: "World Book Day and Sant Jordi", resumen: "Book and rose stalls on the streets, especially in Barcelona, and author signings across Spain." }
+  - id: premio-cervantes
+    regla: { tipo: fija, inicio: "04-23" }
+    temas: [libros]
+    lugar: { provincia: "Madrid", municipio: "Alcalá de Henares" }
+    es: { titulo: "Entrega del Premio Cervantes", resumen: "El galardón más importante de las letras en español se entrega en Alcalá de Henares." }
+    en: { titulo: "Cervantes Prize ceremony", resumen: "The top award for Spanish-language literature is presented in Alcalá de Henares." }
+  - id: eurovision
+    regla: { tipo: enesimo, mes: 5, dia_semana: 6, n: 2 }
+    aprox: true
+    temas: [pantalla, musica]
+    es: { titulo: "Final de Eurovisión", resumen: "Una de las noches con más audiencia del año. Ideal para verla en grupo." }
+    en: { titulo: "Eurovision final", resumen: "One of the most-watched nights of the year. Best watched with friends." }
+  - id: feria-libro-madrid
+    regla: { tipo: enesimo, mes: 5, dia_semana: 5, n: -1, dura: 17 }
+    aprox: true
+    temas: [libros, cultura]
+    lugar: { provincia: "Madrid", municipio: "Madrid" }
+    es: { titulo: "Feria del Libro de Madrid", resumen: "Casetas de librerías y editoriales en el Retiro, con firmas de autores cada día." }
+    en: { titulo: "Madrid Book Fair", resumen: "Bookshop and publisher stalls in Retiro Park, with daily author signings." }
+  - id: final-champions
+    regla: { tipo: enesimo, mes: 5, dia_semana: 6, n: -1 }
+    aprox: true
+    temas: [pantalla, deporte]
+    es: { titulo: "Final de la Champions League", resumen: "La final europea de clubes, en bares y pantallas gigantes si juega un equipo español." }
+    en: { titulo: "Champions League final", resumen: "Europe's club final, shown in bars and on giant screens when a Spanish team plays." }
+  - id: san-juan
+    regla: { tipo: fija, inicio: "06-23", fin: "06-24" }
+    temas: [fiestas, agua]
+    es: { titulo: "Noche de San Juan", resumen: "Hogueras en las playas de A Coruña, Alicante o Barcelona y fiestas del fuego en el Pirineo." }
+    en: { titulo: "Saint John's Eve", resumen: "Beach bonfires in A Coruña, Alicante and Barcelona and fire festivals in the Pyrenees." }
+  - id: batalla-vino
+    regla: { tipo: fija, inicio: "06-29" }
+    temas: [fiestas, gastronomia]
+    lugar: { provincia: "La Rioja", municipio: "Haro" }
+    es: { titulo: "Batalla del Vino de Haro", resumen: "Miles de personas se empapan de vino tinto en los Riscos de Bilibio. Ve de blanco." }
+    en: { titulo: "Haro Wine Battle", resumen: "Thousands drench each other in red wine at the Riscos de Bilibio. Wear white." }
+  - id: san-fermin
+    regla: { tipo: fija, inicio: "07-06", fin: "07-14" }
+    temas: [fiestas]
+    lugar: { provincia: "Navarra", municipio: "Pamplona" }
+    es: { titulo: "Sanfermines", resumen: "Del chupinazo del 6 de julio al Pobre de mí del 14, con encierros cada mañana." }
+    en: { titulo: "San Fermín", resumen: "From the opening rocket on 6 July to the closing song on the 14th, with bull runs every morning." }
+  - id: tomatina
+    regla: { tipo: enesimo, mes: 8, dia_semana: 3, n: -1 }
+    temas: [fiestas]
+    lugar: { provincia: "Valencia", municipio: "Buñol" }
+    es: { titulo: "La Tomatina de Buñol", resumen: "Una hora de batalla de tomates el último miércoles de agosto. Requiere entrada." }
+    en: { titulo: "La Tomatina in Buñol", resumen: "An hour-long tomato fight on the last Wednesday of August. Tickets required." }
+  - id: festival-san-sebastian
+    regla: { tipo: enesimo, mes: 9, dia_semana: 5, n: 3, dura: 9 }
+    aprox: true
+    temas: [cultura, pantalla]
+    lugar: { provincia: "Gipuzkoa", municipio: "Donostia-San Sebastián" }
+    es: { titulo: "Festival de Cine de San Sebastián", resumen: "Estrenos, estrellas en la alfombra roja y proyecciones abiertas al público." }
+    en: { titulo: "San Sebastián Film Festival", resumen: "Premieres, red-carpet stars and public screenings." }
+  - id: pilar
+    regla: { tipo: fija, inicio: "10-12" }
+    temas: [fiestas]
+    lugar: { provincia: "Zaragoza", municipio: "Zaragoza" }
+    es: { titulo: "Fiestas del Pilar", resumen: "La Ofrenda de Flores del 12 de octubre es el momento central de una semana de fiestas en Zaragoza." }
+    en: { titulo: "Fiestas del Pilar", resumen: "The 12 October Flower Offering is the highlight of a week of festivities in Zaragoza." }
+  - id: premio-planeta
+    regla: { tipo: fija, inicio: "10-15" }
+    temas: [pantalla, libros]
+    es: { titulo: "Fallo del Premio Planeta", resumen: "El premio literario con mayor dotación de España se anuncia en una gala en Barcelona." }
+    en: { titulo: "Planeta Prize announcement", resumen: "Spain's richest literary prize is announced at a gala in Barcelona." }
+  - id: seminci
+    regla: { tipo: enesimo, mes: 10, dia_semana: 5, n: 4, dura: 9 }
+    aprox: true
+    temas: [cultura, pantalla]
+    lugar: { provincia: "Valladolid", municipio: "Valladolid" }
+    es: { titulo: "Seminci de Valladolid", resumen: "Semana Internacional de Cine con proyecciones de cine de autor en toda la ciudad." }
+    en: { titulo: "Valladolid International Film Week", resumen: "Arthouse cinema screenings across the city." }
+  - id: halloween-difuntos
+    regla: { tipo: fija, inicio: "10-31", fin: "11-01" }
+    temas: [fiestas, ninos]
+    es: { titulo: "Halloween y Todos los Santos", resumen: "Pasajes del terror y fiestas infantiles el 31, y tradición de buñuelos y huesos de santo el 1 de noviembre." }
+    en: { titulo: "Halloween and All Saints' Day", resumen: "Haunted houses and kids' parties on the 31st, then traditional pastries on 1 November." }
+  - id: encendido-luces
+    regla: { tipo: enesimo, mes: 11, dia_semana: 6, n: 3 }
+    aprox: true
+    temas: [navidad]
+    es: { titulo: "Encendido de las luces de Navidad", resumen: "Muchas ciudades encienden su alumbrado a finales de noviembre con un acto público." }
+    en: { titulo: "Christmas lights switch-on", resumen: "Many cities switch on their lights in late November with a public event." }
+  - id: loteria-navidad
+    regla: { tipo: fija, inicio: "12-22" }
+    temas: [pantalla, navidad]
+    es: { titulo: "Sorteo de la Lotería de Navidad", resumen: "Los niños de San Ildefonso cantan los premios desde primera hora. Una tradición que se sigue en directo." }
+    en: { titulo: "Christmas Lottery draw", resumen: "Schoolchildren sing out the winning numbers from early morning. A tradition watched live." }
+  - id: campanadas
+    regla: { tipo: fija, inicio: "12-31" }
+    temas: [pantalla, navidad, fiestas]
+    es: { titulo: "Campanadas de Nochevieja", resumen: "Las doce uvas con las campanadas de la Puerta del Sol, en directo o por televisión." }
+    en: { titulo: "New Year's Eve chimes", resumen: "Twelve grapes with the twelve chimes from Puerta del Sol, live or on TV." }

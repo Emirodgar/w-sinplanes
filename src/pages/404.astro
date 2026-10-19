@@ -1,0 +1,12 @@
+---
+import Base from '../layouts/Base.astro';
+import { t } from '../i18n/ui.js';
+const L = t.es;
+---
+<Base lang="es" title={L.notFoundTitle} noindex>
+  <header class="page-head">
+    <h1>{L.notFoundH1}</h1>
+    <p>{L.notFound}</p>
+    <p><a class="button" href="/">{L.backHome}</a></p>
+  </header>
+</Base>

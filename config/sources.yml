@@ -1,0 +1,198 @@
+# Fuentes de sinplanes.com
+# ------------------------------------------------------------
+# adaptador: madrid | opendatasoft | euskadi | ical | rss | tmdb | football
+# activa: false para apagar una fuente sin borrarla.
+# Las URLs se validan con `npm run check-sources` (también en Actions, cada lunes).
+# Las fuentes con clave (tmdb, football) solo se ejecutan si el secreto existe.
+#
+# Prensa (adaptador rss): cada feed devuelve titulares; la IA decide cuáles son planes con fecha y los estructura.
+# Requieren ANTHROPIC_API_KEY (sin ella se descargan pero no se procesan). Campos útiles:
+#   region: pista geográfica para la IA ("Castilla y León", "Salamanca"…)
+#   dias:   antigüedad máxima de los titulares (por defecto 7)
+#   sin_filtro: true para no aplicar el prefiltro de palabras de agenda
+# Antes de activar un feed, revisa las condiciones de reutilización de su web. Nunca se copia texto:
+# la IA redacta un resumen propio y cada plan enlaza a la noticia original.
+
+fuentes:
+  - id: madrid-agenda
+    nombre: "Agenda de actividades del Ayuntamiento de Madrid"
+    adaptador: madrid
+    url: "https://datos.madrid.es/egob/catalogo/206974-0-agenda-eventos-culturales-100.json"
+    licencia: "Datos abiertos Ayuntamiento de Madrid (atribución)"
+    provincia: "Madrid"
+    activa: true
+
+  - id: jcyl-agenda
+    nombre: "Agenda cultural de Castilla y León"
+    adaptador: opendatasoft
+    url: "https://analisis.datosabiertos.jcyl.es/api/explore/v2.1/catalog/datasets/eventos-de-la-agenda-cultural-categorizados-y-geolocalizados/records"
+    licencia: "IGCYL-NC / datos abiertos JCyL (atribución)"
+    activa: true
+
+  - id: euskadi-kulturklik
+    nombre: "Kulturklik, agenda cultural de Euskadi"
+    adaptador: euskadi
+    url: "https://api.euskadi.eus/culture/events/v1.0/events/upcoming"
+    licencia: "Open Data Euskadi (CC BY 4.0)"
+    activa: true
+
+  - id: coruna-agenda
+    nombre: "Axenda de eventos da Coruña"
+    adaptador: ical
+    url: "http://www.coruna.gal/axenda-ical/gl?argIdioma=gl"
+    licencia: "CC BY 4.0, Concello da Coruña"
+    provincia: "A Coruña"
+    municipio: "A Coruña"
+    activa: true
+
+  # --- Para ver: estrenos y partidos (opcionales, requieren clave gratuita) ---
+  - id: tmdb-estrenos
+    nombre: "Estrenos de cine en España (TMDB)"
+    adaptador: tmdb
+    secreto: TMDB_API_KEY
+    activa: true
+
+  - id: futbol-laliga-champions
+    nombre: "Partidos destacados de LaLiga y Champions (football-data.org)"
+    adaptador: football
+    secreto: FOOTBALL_DATA_TOKEN
+    competiciones: [PD, CL]
+    # Solo entran partidos con alguno de estos equipos o fases finales
+    equipos_destacados: ["Real Madrid", "FC Barcelona", "Barcelona", "Atlético", "Athletic", "Real Sociedad", "Sevilla", "Betis", "Villarreal", "Valencia"]
+    activa: true
+
+  # --- Prensa: secciones de cultura y ocio (feeds comprobados el 19/10/2026) ---
+  - id: prensa-europapress-cultura
+    nombre: "Europa Press (Cultura)"
+    adaptador: rss
+    url: "https://www.europapress.es/rss/rss.aspx?ch=71"
+    region: "España"
+    activa: true
+
+  - id: prensa-20minutos-cultura
+    nombre: "20minutos (Cultura)"
+    adaptador: rss
+    url: "https://www.20minutos.es/rss/cultura/"
+    region: "España"
+    activa: true
+
+  - id: prensa-elpais-cultura
+    nombre: "El País (Cultura)"
+    adaptador: rss
+    url: "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/cultura/portada"
+    region: "España"
+    activa: true
+
+  - id: prensa-lavanguardia-cultura
+    nombre: "La Vanguardia (Cultura)"
+    adaptador: rss
+    url: "https://www.lavanguardia.com/rss/cultura.xml"
+    region: "Cataluña"
+    activa: true
+
+  - id: prensa-ara-cultura
+    nombre: "Ara (Cultura)"
+    adaptador: rss
+    url: "https://www.ara.cat/rss/cultura/"
+    region: "Cataluña"
+    activa: true
+
+  - id: prensa-heraldo-ocio
+    nombre: "Heraldo de Aragón (Ocio y cultura)"
+    adaptador: rss
+    url: "https://www.heraldo.es/rss/ocio-y-cultura/"
+    region: "Aragón"
+    activa: true
+
+  - id: prensa-nortecastilla-culturas
+    nombre: "El Norte de Castilla (Culturas)"
+    adaptador: rss
+    url: "https://www.elnortedecastilla.es/rss/2.0/?section=culturas"
+    region: "Castilla y León"
+    activa: true
+
+  - id: prensa-nortecastilla-salamanca
+    nombre: "El Norte de Castilla (Salamanca)"
+    adaptador: rss
+    url: "https://www.elnortedecastilla.es/rss/2.0/?section=salamanca"
+    region: "Salamanca"
+    provincia: "Salamanca"
+    activa: true
+
+  - id: prensa-diariosur-culturas
+    nombre: "Diario Sur (Culturas)"
+    adaptador: rss
+    url: "https://www.diariosur.es/rss/2.0/?section=culturas"
+    region: "Málaga"
+    activa: true
+
+  - id: prensa-ideal-culturas
+    nombre: "Ideal (Culturas)"
+    adaptador: rss
+    url: "https://www.ideal.es/rss/2.0/?section=culturas"
+    region: "Granada y Jaén"
+    activa: true
+
+  - id: prensa-hoy-culturas
+    nombre: "Hoy (Culturas)"
+    adaptador: rss
+    url: "https://www.hoy.es/rss/2.0/?section=culturas"
+    region: "Extremadura"
+    activa: true
+
+  - id: prensa-elcorreo-culturas
+    nombre: "El Correo (Culturas)"
+    adaptador: rss
+    url: "https://www.elcorreo.com/rss/2.0/?section=culturas"
+    region: "País Vasco"
+    activa: true
+
+  - id: prensa-diariovasco-culturas
+    nombre: "El Diario Vasco (Culturas)"
+    adaptador: rss
+    url: "https://www.diariovasco.com/rss/2.0/?section=culturas"
+    region: "Gipuzkoa"
+    activa: true
+
+  - id: prensa-lasprovincias-culturas
+    nombre: "Las Provincias (Culturas)"
+    adaptador: rss
+    url: "https://www.lasprovincias.es/rss/2.0/?section=culturas"
+    region: "Comunitat Valenciana"
+    activa: true
+
+  - id: prensa-laverdad-culturas
+    nombre: "La Verdad (Culturas)"
+    adaptador: rss
+    url: "https://www.laverdad.es/rss/2.0/?section=culturas"
+    region: "Región de Murcia"
+    activa: true
+
+  - id: prensa-diariomontanes-culturas
+    nombre: "El Diario Montañés (Culturas)"
+    adaptador: rss
+    url: "https://www.eldiariomontanes.es/rss/2.0/?section=culturas"
+    region: "Cantabria"
+    activa: true
+
+  - id: prensa-elcomercio-culturas
+    nombre: "El Comercio (Culturas)"
+    adaptador: rss
+    url: "https://www.elcomercio.es/rss/2.0/?section=culturas"
+    region: "Asturias"
+    activa: true
+
+  - id: prensa-larioja-culturas
+    nombre: "La Rioja (Culturas)"
+    adaptador: rss
+    url: "https://www.larioja.com/rss/2.0/?section=culturas"
+    region: "La Rioja"
+    activa: true
+
+  - id: prensa-elprogreso
+    nombre: "El Progreso (Lugo)"
+    adaptador: rss
+    url: "https://www.elprogreso.es/rss/"
+    region: "Galicia (Lugo)"
+    provincia: "Lugo"
+    activa: true

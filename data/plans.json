@@ -1,0 +1,1540 @@
+[
+ {
+  "id": "28697762ab",
+  "slug": "exposicion-de-fotografia-en-el-palacio-28697",
+  "kind": "evento",
+  "title": {
+   "es": "Exposición de fotografía en el Palacio"
+  },
+  "summary": {
+   "es": "Muestra de fotografía contemporánea."
+  },
+  "start": "2026-10-01",
+  "end": "2026-12-15",
+  "time": null,
+  "topics": [
+   "cultura"
+  ],
+  "indoor": true,
+  "free": true,
+  "price": null,
+  "place": {
+   "scope": "local",
+   "municipio": "A Coruña",
+   "provincia": "A Coruña",
+   "ccaa": "galicia",
+   "venue": "Palacio de Cristal",
+   "lat": 43.37,
+   "lon": -8.4
+  },
+  "source": {
+   "name": "Datos de ejemplo",
+   "url": "https://example.org/4",
+   "license": null
+  }
+ },
+ {
+  "id": "c-seminci",
+  "slug": "seminci",
+  "kind": "evento",
+  "recurring": true,
+  "approx": true,
+  "title": {
+   "es": "Seminci de Valladolid",
+   "en": "Valladolid International Film Week"
+  },
+  "summary": {
+   "es": "Semana Internacional de Cine con proyecciones de cine de autor en toda la ciudad.",
+   "en": "Arthouse cinema screenings across the city."
+  },
+  "start": "2026-10-23",
+  "end": "2026-10-31",
+  "topics": [
+   "cultura",
+   "pantalla"
+  ],
+  "place": {
+   "scope": "local",
+   "provincia": "Valladolid",
+   "ccaa": "castilla-y-leon",
+   "municipio": "Valladolid"
+  },
+  "source": {
+   "name": "sinplanes",
+   "url": null
+  }
+ },
+ {
+  "id": "9db03b8d91",
+  "slug": "concierto-de-la-orquesta-sinfonica-en-el-auditorio-9db03",
+  "kind": "evento",
+  "title": {
+   "es": "Concierto de la Orquesta Sinfónica en el Auditorio"
+  },
+  "summary": {
+   "es": "Programa con obras de Falla y Granados en el Auditorio Nacional."
+  },
+  "start": "2026-10-24",
+  "end": "2026-10-24",
+  "time": "19:30",
+  "topics": [
+   "musica"
+  ],
+  "indoor": true,
+  "free": false,
+  "price": "15 €",
+  "place": {
+   "scope": "local",
+   "municipio": "Madrid",
+   "provincia": "Madrid",
+   "ccaa": "madrid",
+   "venue": "Auditorio Nacional",
+   "lat": 40.446,
+   "lon": -3.677
+  },
+  "source": {
+   "name": "Datos de ejemplo",
+   "url": "https://example.org/1",
+   "license": null
+  }
+ },
+ {
+  "id": "739d436162",
+  "slug": "ruta-guiada-por-el-hayedo-de-otzarreta-739d4",
+  "kind": "evento",
+  "title": {
+   "es": "Ruta guiada por el hayedo de Otzarreta"
+  },
+  "summary": {
+   "es": "Paseo de naturaleza al aire libre en el parque natural de Gorbeia."
+  },
+  "start": "2026-10-24",
+  "end": "2026-10-24",
+  "time": "10:00",
+  "topics": [
+   "naturaleza"
+  ],
+  "indoor": false,
+  "free": true,
+  "price": null,
+  "place": {
+   "scope": "local",
+   "municipio": "Zeanuri",
+   "provincia": "Bizkaia",
+   "ccaa": "pais-vasco",
+   "venue": null,
+   "lat": 43.08,
+   "lon": -2.78
+  },
+  "source": {
+   "name": "Datos de ejemplo",
+   "url": "https://example.org/3",
+   "license": null
+  }
+ },
+ {
+  "id": "fa841de3ca",
+  "slug": "cuentacuentos-infantil-en-la-biblioteca-fa841",
+  "kind": "evento",
+  "title": {
+   "es": "Cuentacuentos infantil en la biblioteca"
+  },
+  "summary": {
+   "es": "Sesión para niños de 3 a 7 años. Entrada libre hasta completar aforo."
+  },
+  "start": "2026-10-25",
+  "end": "2026-10-25",
+  "time": "12:00",
+  "topics": [
+   "ninos",
+   "libros"
+  ],
+  "indoor": true,
+  "free": true,
+  "price": null,
+  "place": {
+   "scope": "local",
+   "municipio": "Salamanca",
+   "provincia": "Salamanca",
+   "ccaa": "castilla-y-leon",
+   "venue": "Biblioteca Torrente Ballester",
+   "lat": 40.965,
+   "lon": -5.664
+  },
+  "source": {
+   "name": "Datos de ejemplo",
+   "url": "https://example.org/2",
+   "license": null
+  }
+ },
+ {
+  "id": "c-halloween-difuntos",
+  "slug": "halloween-difuntos",
+  "kind": "evento",
+  "recurring": true,
+  "approx": false,
+  "title": {
+   "es": "Halloween y Todos los Santos",
+   "en": "Halloween and All Saints' Day"
+  },
+  "summary": {
+   "es": "Pasajes del terror y fiestas infantiles el 31, y tradición de buñuelos y huesos de santo el 1 de noviembre.",
+   "en": "Haunted houses and kids' parties on the 31st, then traditional pastries on 1 November."
+  },
+  "start": "2026-10-31",
+  "end": "2026-11-01",
+  "topics": [
+   "fiestas",
+   "ninos"
+  ],
+  "place": {
+   "scope": "nacional"
+  },
+  "source": {
+   "name": "sinplanes",
+   "url": null
+  }
+ },
+ {
+  "id": "700e9136e2",
+  "slug": "feria-del-queso-artesano-700e9",
+  "kind": "evento",
+  "title": {
+   "es": "Feria del queso artesano"
+  },
+  "summary": {
+   "es": "Degustación y venta de quesos en la plaza mayor."
+  },
+  "start": "2026-11-07",
+  "end": "2026-11-08",
+  "time": "11:00",
+  "topics": [
+   "gastronomia",
+   "fiestas"
+  ],
+  "indoor": false,
+  "free": true,
+  "price": null,
+  "place": {
+   "scope": "local",
+   "municipio": "Trujillo",
+   "provincia": "Cáceres",
+   "ccaa": "extremadura",
+   "venue": "Plaza Mayor",
+   "lat": 39.46,
+   "lon": -5.88
+  },
+  "source": {
+   "name": "Datos de ejemplo",
+   "url": "https://example.org/5",
+   "license": null
+  }
+ },
+ {
+  "id": "c-encendido-luces",
+  "slug": "encendido-luces",
+  "kind": "evento",
+  "recurring": true,
+  "approx": true,
+  "title": {
+   "es": "Encendido de las luces de Navidad",
+   "en": "Christmas lights switch-on"
+  },
+  "summary": {
+   "es": "Muchas ciudades encienden su alumbrado a finales de noviembre con un acto público.",
+   "en": "Many cities switch on their lights in late November with a public event."
+  },
+  "start": "2026-11-21",
+  "end": "2026-11-21",
+  "topics": [
+   "navidad"
+  ],
+  "place": {
+   "scope": "nacional"
+  },
+  "source": {
+   "name": "sinplanes",
+   "url": null
+  }
+ },
+ {
+  "id": "c-loteria-navidad",
+  "slug": "loteria-navidad",
+  "kind": "pantalla",
+  "recurring": true,
+  "approx": false,
+  "title": {
+   "es": "Sorteo de la Lotería de Navidad",
+   "en": "Christmas Lottery draw"
+  },
+  "summary": {
+   "es": "Los niños de San Ildefonso cantan los premios desde primera hora. Una tradición que se sigue en directo.",
+   "en": "Schoolchildren sing out the winning numbers from early morning. A tradition watched live."
+  },
+  "start": "2026-12-22",
+  "end": "2026-12-22",
+  "topics": [
+   "pantalla",
+   "navidad"
+  ],
+  "place": {
+   "scope": "nacional"
+  },
+  "source": {
+   "name": "sinplanes",
+   "url": null
+  }
+ },
+ {
+  "id": "c-campanadas",
+  "slug": "campanadas",
+  "kind": "pantalla",
+  "recurring": true,
+  "approx": false,
+  "title": {
+   "es": "Campanadas de Nochevieja",
+   "en": "New Year's Eve chimes"
+  },
+  "summary": {
+   "es": "Las doce uvas con las campanadas de la Puerta del Sol, en directo o por televisión.",
+   "en": "Twelve grapes with the twelve chimes from Puerta del Sol, live or on TV."
+  },
+  "start": "2026-12-31",
+  "end": "2026-12-31",
+  "topics": [
+   "pantalla",
+   "navidad",
+   "fiestas"
+  ],
+  "place": {
+   "scope": "nacional"
+  },
+  "source": {
+   "name": "sinplanes",
+   "url": null
+  }
+ },
+ {
+  "id": "c-cabalgata-reyes",
+  "slug": "cabalgata-reyes",
+  "kind": "evento",
+  "recurring": true,
+  "approx": false,
+  "title": {
+   "es": "Cabalgata de Reyes",
+   "en": "Three Kings Parade"
+  },
+  "summary": {
+   "es": "Desfiles de los Reyes Magos en toda España la tarde del 5 de enero.",
+   "en": "Parades of the Three Wise Men across Spain on the evening of 5 January."
+  },
+  "start": "2027-01-05",
+  "end": "2027-01-05",
+  "topics": [
+   "fiestas",
+   "ninos",
+   "navidad"
+  ],
+  "place": {
+   "scope": "nacional"
+  },
+  "source": {
+   "name": "sinplanes",
+   "url": null
+  }
+ },
+ {
+  "id": "c-premio-nadal",
+  "slug": "premio-nadal",
+  "kind": "pantalla",
+  "recurring": true,
+  "approx": false,
+  "title": {
+   "es": "Premio Nadal de novela",
+   "en": "Nadal Prize for fiction"
+  },
+  "summary": {
+   "es": "El premio literario más antiguo de España se falla cada 6 de enero en Barcelona.",
+   "en": "Spain's oldest literary prize is announced every 6 January in Barcelona."
+  },
+  "start": "2027-01-06",
+  "end": "2027-01-06",
+  "topics": [
+   "pantalla",
+   "libros"
+  ],
+  "place": {
+   "scope": "nacional"
+  },
+  "source": {
+   "name": "sinplanes",
+   "url": null
+  }
+ },
+ {
+  "id": "c-carnaval-cadiz",
+  "slug": "carnaval-cadiz",
+  "kind": "evento",
+  "recurring": true,
+  "approx": true,
+  "title": {
+   "es": "Carnaval de Cádiz",
+   "en": "Cádiz Carnival"
+  },
+  "summary": {
+   "es": "Chirigotas, comparsas y coros por las calles de Cádiz.",
+   "en": "Satirical choirs and street groups fill the streets of Cádiz."
+  },
+  "start": "2027-02-04",
+  "end": "2027-02-10",
+  "topics": [
+   "fiestas",
+   "musica"
+  ],
+  "place": {
+   "scope": "local",
+   "provincia": "Cádiz",
+   "ccaa": "andalucia",
+   "municipio": "Cádiz"
+  },
+  "source": {
+   "name": "sinplanes",
+   "url": null
+  }
+ },
+ {
+  "id": "c-goya",
+  "slug": "goya",
+  "kind": "pantalla",
+  "recurring": true,
+  "approx": true,
+  "title": {
+   "es": "Gala de los Premios Goya",
+   "en": "Goya Awards gala"
+  },
+  "summary": {
+   "es": "La gran noche del cine español, en directo por televisión.",
+   "en": "Spanish cinema's big night, broadcast live on TV."
+  },
+  "start": "2027-02-13",
+  "end": "2027-02-13",
+  "topics": [
+   "pantalla",
+   "cultura"
+  ],
+  "place": {
+   "scope": "nacional"
+  },
+  "source": {
+   "name": "sinplanes",
+   "url": null
+  }
+ },
+ {
+  "id": "c-super-bowl",
+  "slug": "super-bowl",
+  "kind": "pantalla",
+  "recurring": true,
+  "approx": true,
+  "title": {
+   "es": "Ver la Super Bowl",
+   "en": "Watch the Super Bowl"
+  },
+  "summary": {
+   "es": "La final de la NFL se emite de madrugada en España. Muchos bares deportivos abren para verla.",
+   "en": "The NFL final airs in the early hours in Spain. Many sports bars open to show it."
+  },
+  "start": "2027-02-14",
+  "end": "2027-02-14",
+  "topics": [
+   "pantalla",
+   "deporte"
+  ],
+  "place": {
+   "scope": "nacional"
+  },
+  "source": {
+   "name": "sinplanes",
+   "url": null
+  }
+ },
+ {
+  "id": "c-oscars",
+  "slug": "oscars",
+  "kind": "pantalla",
+  "recurring": true,
+  "approx": true,
+  "title": {
+   "es": "Noche de los Óscar",
+   "en": "Oscars night"
+  },
+  "summary": {
+   "es": "La gala se emite de madrugada en España. Plan perfecto para ver las películas nominadas antes.",
+   "en": "The ceremony airs overnight in Spain. Catch the nominated films beforehand."
+  },
+  "start": "2027-03-07",
+  "end": "2027-03-07",
+  "topics": [
+   "pantalla"
+  ],
+  "place": {
+   "scope": "nacional"
+  },
+  "source": {
+   "name": "sinplanes",
+   "url": null
+  }
+ },
+ {
+  "id": "c-fallas",
+  "slug": "fallas",
+  "kind": "evento",
+  "recurring": true,
+  "approx": false,
+  "title": {
+   "es": "Fallas de Valencia",
+   "en": "Las Fallas in Valencia"
+  },
+  "summary": {
+   "es": "Mascletàs, monumentos falleros y la cremà de la noche del 19 de marzo.",
+   "en": "Firecracker displays, giant sculptures and the burning on the night of 19 March."
+  },
+  "start": "2027-03-15",
+  "end": "2027-03-19",
+  "topics": [
+   "fiestas"
+  ],
+  "place": {
+   "scope": "local",
+   "provincia": "Valencia",
+   "ccaa": "comunitat-valenciana",
+   "municipio": "València"
+  },
+  "source": {
+   "name": "sinplanes",
+   "url": null
+  }
+ },
+ {
+  "id": "c-semana-santa",
+  "slug": "semana-santa",
+  "kind": "evento",
+  "recurring": true,
+  "approx": false,
+  "title": {
+   "es": "Procesiones de Semana Santa",
+   "en": "Holy Week processions"
+  },
+  "summary": {
+   "es": "Sevilla, Málaga, Valladolid, Zamora o Cuenca tienen las más conocidas, cada una con un estilo muy distinto.",
+   "en": "Seville, Málaga, Valladolid, Zamora and Cuenca have the best known, each with a very different style."
+  },
+  "start": "2027-03-21",
+  "end": "2027-03-28",
+  "topics": [
+   "fiestas",
+   "cultura"
+  ],
+  "place": {
+   "scope": "nacional"
+  },
+  "source": {
+   "name": "sinplanes",
+   "url": null
+  }
+ },
+ {
+  "id": "c-feria-abril",
+  "slug": "feria-abril",
+  "kind": "evento",
+  "recurring": true,
+  "approx": true,
+  "title": {
+   "es": "Feria de Abril de Sevilla",
+   "en": "Seville April Fair"
+  },
+  "summary": {
+   "es": "Casetas, sevillanas y paseo de caballos en el Real de la Feria.",
+   "en": "Marquees, sevillanas dancing and horse parades at the fairground."
+  },
+  "start": "2027-04-10",
+  "end": "2027-04-17",
+  "topics": [
+   "fiestas"
+  ],
+  "place": {
+   "scope": "local",
+   "provincia": "Sevilla",
+   "ccaa": "andalucia",
+   "municipio": "Sevilla"
+  },
+  "source": {
+   "name": "sinplanes",
+   "url": null
+  }
+ },
+ {
+  "id": "c-sant-jordi",
+  "slug": "sant-jordi",
+  "kind": "evento",
+  "recurring": true,
+  "approx": false,
+  "title": {
+   "es": "Día del Libro y Sant Jordi",
+   "en": "World Book Day and Sant Jordi"
+  },
+  "summary": {
+   "es": "Paradas de libros y rosas en las calles, sobre todo en Barcelona, y firmas de autores en toda España.",
+   "en": "Book and rose stalls on the streets, especially in Barcelona, and author signings across Spain."
+  },
+  "start": "2027-04-23",
+  "end": "2027-04-23",
+  "topics": [
+   "libros",
+   "fiestas"
+  ],
+  "place": {
+   "scope": "nacional"
+  },
+  "source": {
+   "name": "sinplanes",
+   "url": null
+  }
+ },
+ {
+  "id": "c-premio-cervantes",
+  "slug": "premio-cervantes",
+  "kind": "evento",
+  "recurring": true,
+  "approx": false,
+  "title": {
+   "es": "Entrega del Premio Cervantes",
+   "en": "Cervantes Prize ceremony"
+  },
+  "summary": {
+   "es": "El galardón más importante de las letras en español se entrega en Alcalá de Henares.",
+   "en": "The top award for Spanish-language literature is presented in Alcalá de Henares."
+  },
+  "start": "2027-04-23",
+  "end": "2027-04-23",
+  "topics": [
+   "libros"
+  ],
+  "place": {
+   "scope": "local",
+   "provincia": "Madrid",
+   "ccaa": "madrid",
+   "municipio": "Alcalá de Henares"
+  },
+  "source": {
+   "name": "sinplanes",
+   "url": null
+  }
+ },
+ {
+  "id": "c-eurovision",
+  "slug": "eurovision",
+  "kind": "pantalla",
+  "recurring": true,
+  "approx": true,
+  "title": {
+   "es": "Final de Eurovisión",
+   "en": "Eurovision final"
+  },
+  "summary": {
+   "es": "Una de las noches con más audiencia del año. Ideal para verla en grupo.",
+   "en": "One of the most-watched nights of the year. Best watched with friends."
+  },
+  "start": "2027-05-08",
+  "end": "2027-05-08",
+  "topics": [
+   "pantalla",
+   "musica"
+  ],
+  "place": {
+   "scope": "nacional"
+  },
+  "source": {
+   "name": "sinplanes",
+   "url": null
+  }
+ },
+ {
+  "id": "c-feria-libro-madrid",
+  "slug": "feria-libro-madrid",
+  "kind": "evento",
+  "recurring": true,
+  "approx": true,
+  "title": {
+   "es": "Feria del Libro de Madrid",
+   "en": "Madrid Book Fair"
+  },
+  "summary": {
+   "es": "Casetas de librerías y editoriales en el Retiro, con firmas de autores cada día.",
+   "en": "Bookshop and publisher stalls in Retiro Park, with daily author signings."
+  },
+  "start": "2027-05-28",
+  "end": "2027-06-13",
+  "topics": [
+   "libros",
+   "cultura"
+  ],
+  "place": {
+   "scope": "local",
+   "provincia": "Madrid",
+   "ccaa": "madrid",
+   "municipio": "Madrid"
+  },
+  "source": {
+   "name": "sinplanes",
+   "url": null
+  }
+ },
+ {
+  "id": "c-final-champions",
+  "slug": "final-champions",
+  "kind": "pantalla",
+  "recurring": true,
+  "approx": true,
+  "title": {
+   "es": "Final de la Champions League",
+   "en": "Champions League final"
+  },
+  "summary": {
+   "es": "La final europea de clubes, en bares y pantallas gigantes si juega un equipo español.",
+   "en": "Europe's club final, shown in bars and on giant screens when a Spanish team plays."
+  },
+  "start": "2027-05-29",
+  "end": "2027-05-29",
+  "topics": [
+   "pantalla",
+   "deporte"
+  ],
+  "place": {
+   "scope": "nacional"
+  },
+  "source": {
+   "name": "sinplanes",
+   "url": null
+  }
+ },
+ {
+  "id": "c-san-juan",
+  "slug": "san-juan",
+  "kind": "evento",
+  "recurring": true,
+  "approx": false,
+  "title": {
+   "es": "Noche de San Juan",
+   "en": "Saint John's Eve"
+  },
+  "summary": {
+   "es": "Hogueras en las playas de A Coruña, Alicante o Barcelona y fiestas del fuego en el Pirineo.",
+   "en": "Beach bonfires in A Coruña, Alicante and Barcelona and fire festivals in the Pyrenees."
+  },
+  "start": "2027-06-23",
+  "end": "2027-06-24",
+  "topics": [
+   "fiestas",
+   "agua"
+  ],
+  "place": {
+   "scope": "nacional"
+  },
+  "source": {
+   "name": "sinplanes",
+   "url": null
+  }
+ },
+ {
+  "id": "c-batalla-vino",
+  "slug": "batalla-vino",
+  "kind": "evento",
+  "recurring": true,
+  "approx": false,
+  "title": {
+   "es": "Batalla del Vino de Haro",
+   "en": "Haro Wine Battle"
+  },
+  "summary": {
+   "es": "Miles de personas se empapan de vino tinto en los Riscos de Bilibio. Ve de blanco.",
+   "en": "Thousands drench each other in red wine at the Riscos de Bilibio. Wear white."
+  },
+  "start": "2027-06-29",
+  "end": "2027-06-29",
+  "topics": [
+   "fiestas",
+   "gastronomia"
+  ],
+  "place": {
+   "scope": "local",
+   "provincia": "La Rioja",
+   "ccaa": "la-rioja",
+   "municipio": "Haro"
+  },
+  "source": {
+   "name": "sinplanes",
+   "url": null
+  }
+ },
+ {
+  "id": "c-san-fermin",
+  "slug": "san-fermin",
+  "kind": "evento",
+  "recurring": true,
+  "approx": false,
+  "title": {
+   "es": "Sanfermines",
+   "en": "San Fermín"
+  },
+  "summary": {
+   "es": "Del chupinazo del 6 de julio al Pobre de mí del 14, con encierros cada mañana.",
+   "en": "From the opening rocket on 6 July to the closing song on the 14th, with bull runs every morning."
+  },
+  "start": "2027-07-06",
+  "end": "2027-07-14",
+  "topics": [
+   "fiestas"
+  ],
+  "place": {
+   "scope": "local",
+   "provincia": "Navarra",
+   "ccaa": "navarra",
+   "municipio": "Pamplona"
+  },
+  "source": {
+   "name": "sinplanes",
+   "url": null
+  }
+ },
+ {
+  "id": "c-tomatina",
+  "slug": "tomatina",
+  "kind": "evento",
+  "recurring": true,
+  "approx": false,
+  "title": {
+   "es": "La Tomatina de Buñol",
+   "en": "La Tomatina in Buñol"
+  },
+  "summary": {
+   "es": "Una hora de batalla de tomates el último miércoles de agosto. Requiere entrada.",
+   "en": "An hour-long tomato fight on the last Wednesday of August. Tickets required."
+  },
+  "start": "2027-08-25",
+  "end": "2027-08-25",
+  "topics": [
+   "fiestas"
+  ],
+  "place": {
+   "scope": "local",
+   "provincia": "Valencia",
+   "ccaa": "comunitat-valenciana",
+   "municipio": "Buñol"
+  },
+  "source": {
+   "name": "sinplanes",
+   "url": null
+  }
+ },
+ {
+  "id": "c-festival-san-sebastian",
+  "slug": "festival-san-sebastian",
+  "kind": "evento",
+  "recurring": true,
+  "approx": true,
+  "title": {
+   "es": "Festival de Cine de San Sebastián",
+   "en": "San Sebastián Film Festival"
+  },
+  "summary": {
+   "es": "Estrenos, estrellas en la alfombra roja y proyecciones abiertas al público.",
+   "en": "Premieres, red-carpet stars and public screenings."
+  },
+  "start": "2027-09-17",
+  "end": "2027-09-25",
+  "topics": [
+   "cultura",
+   "pantalla"
+  ],
+  "place": {
+   "scope": "local",
+   "provincia": "Gipuzkoa",
+   "ccaa": "pais-vasco",
+   "municipio": "Donostia-San Sebastián"
+  },
+  "source": {
+   "name": "sinplanes",
+   "url": null
+  }
+ },
+ {
+  "id": "c-pilar",
+  "slug": "pilar",
+  "kind": "evento",
+  "recurring": true,
+  "approx": false,
+  "title": {
+   "es": "Fiestas del Pilar",
+   "en": "Fiestas del Pilar"
+  },
+  "summary": {
+   "es": "La Ofrenda de Flores del 12 de octubre es el momento central de una semana de fiestas en Zaragoza.",
+   "en": "The 12 October Flower Offering is the highlight of a week of festivities in Zaragoza."
+  },
+  "start": "2027-10-12",
+  "end": "2027-10-12",
+  "topics": [
+   "fiestas"
+  ],
+  "place": {
+   "scope": "local",
+   "provincia": "Zaragoza",
+   "ccaa": "aragon",
+   "municipio": "Zaragoza"
+  },
+  "source": {
+   "name": "sinplanes",
+   "url": null
+  }
+ },
+ {
+  "id": "c-premio-planeta",
+  "slug": "premio-planeta",
+  "kind": "pantalla",
+  "recurring": true,
+  "approx": false,
+  "title": {
+   "es": "Fallo del Premio Planeta",
+   "en": "Planeta Prize announcement"
+  },
+  "summary": {
+   "es": "El premio literario con mayor dotación de España se anuncia en una gala en Barcelona.",
+   "en": "Spain's richest literary prize is announced at a gala in Barcelona."
+  },
+  "start": "2027-10-15",
+  "end": "2027-10-15",
+  "topics": [
+   "pantalla",
+   "libros"
+  ],
+  "place": {
+   "scope": "nacional"
+  },
+  "source": {
+   "name": "sinplanes",
+   "url": null
+  }
+ },
+ {
+  "id": "t-castanas-otono",
+  "slug": "castanas-otono",
+  "kind": "estacional",
+  "title": {
+   "es": "Ir a coger castañas",
+   "en": "Go chestnut picking"
+  },
+  "summary": {
+   "es": "Los castañares de El Bierzo, el Valle del Genal, la sierra de Francia o el Valle del Tiétar se llenan de erizos. Pide permiso si el terreno es privado.",
+   "en": "Chestnut groves in El Bierzo, the Genal Valley, Sierra de Francia or the Tiétar Valley fill with burrs. Ask permission on private land."
+  },
+  "months": [
+   10,
+   11
+  ],
+  "topics": [
+   "naturaleza",
+   "gastronomia"
+  ],
+  "place": {
+   "scope": "nacional"
+  },
+  "source": {
+   "name": "sinplanes",
+   "url": null
+  }
+ },
+ {
+  "id": "t-magostos",
+  "slug": "magostos",
+  "kind": "estacional",
+  "title": {
+   "es": "Celebrar un magosto",
+   "en": "Join a magosto"
+  },
+  "summary": {
+   "es": "Castañas asadas, hoguera y vino nuevo: la fiesta de otoño de Galicia, Asturias y El Bierzo alrededor de San Martín.",
+   "en": "Roast chestnuts, bonfires and new wine: the autumn feast of Galicia, Asturias and El Bierzo around Saint Martin's Day."
+  },
+  "months": [
+   11
+  ],
+  "topics": [
+   "fiestas",
+   "gastronomia"
+  ],
+  "place": {
+   "scope": "nacional"
+  },
+  "source": {
+   "name": "sinplanes",
+   "url": null
+  }
+ },
+ {
+  "id": "t-setas",
+  "slug": "setas",
+  "kind": "estacional",
+  "title": {
+   "es": "Salir a por setas",
+   "en": "Go mushroom foraging"
+  },
+  "summary": {
+   "es": "Soria, el Pirineo y los montes de León y Zamora son los clásicos. Infórmate de la regulación y el permiso de recolección de cada zona.",
+   "en": "Soria, the Pyrenees and the hills of León and Zamora are the classics. Check each area's foraging rules and permits."
+  },
+  "months": [
+   10,
+   11
+  ],
+  "topics": [
+   "naturaleza",
+   "gastronomia"
+  ],
+  "place": {
+   "scope": "nacional"
+  },
+  "source": {
+   "name": "sinplanes",
+   "url": null
+  }
+ },
+ {
+  "id": "t-hayedos",
+  "slug": "hayedos",
+  "kind": "estacional",
+  "title": {
+   "es": "Ver el otoño en un hayedo",
+   "en": "See autumn colours in a beech forest"
+  },
+  "summary": {
+   "es": "Irati, Montejo, Tejera Negra o el hayedo de Otzarreta cambian de color en pocas semanas. Ve entre semana para evitar cupos completos.",
+   "en": "Irati, Montejo, Tejera Negra or Otzarreta turn gold in a few weeks. Go on a weekday to avoid full visitor quotas."
+  },
+  "months": [
+   10,
+   11
+  ],
+  "topics": [
+   "naturaleza"
+  ],
+  "place": {
+   "scope": "nacional"
+  },
+  "source": {
+   "name": "sinplanes",
+   "url": null
+  }
+ },
+ {
+  "id": "t-berrea",
+  "slug": "berrea",
+  "kind": "estacional",
+  "title": {
+   "es": "Escuchar la berrea del ciervo",
+   "en": "Hear the red deer rut"
+  },
+  "summary": {
+   "es": "Al amanecer y al atardecer en Monfragüe, Cabañeros, la Sierra de Andújar o Riaño. Lleva prismáticos y guarda silencio.",
+   "en": "At dawn and dusk in Monfragüe, Cabañeros, Sierra de Andújar or Riaño. Bring binoculars and keep quiet."
+  },
+  "months": [
+   9,
+   10
+  ],
+  "topics": [
+   "naturaleza"
+  ],
+  "place": {
+   "scope": "nacional"
+  },
+  "source": {
+   "name": "sinplanes",
+   "url": null
+  }
+ },
+ {
+  "id": "t-vendimia",
+  "slug": "vendimia",
+  "kind": "estacional",
+  "title": {
+   "es": "Vivir la vendimia",
+   "en": "Experience the grape harvest"
+  },
+  "summary": {
+   "es": "Rioja, Ribera del Duero, Jerez o el Penedès organizan visitas y fiestas de la vendimia en bodegas.",
+   "en": "Rioja, Ribera del Duero, Jerez and Penedès offer winery visits and harvest festivals."
+  },
+  "months": [
+   9
+  ],
+  "topics": [
+   "gastronomia"
+  ],
+  "place": {
+   "scope": "nacional"
+  },
+  "source": {
+   "name": "sinplanes",
+   "url": null
+  }
+ },
+ {
+  "id": "t-piscinas-naturales",
+  "slug": "piscinas-naturales",
+  "kind": "estacional",
+  "title": {
+   "es": "Bañarse en una piscina natural",
+   "en": "Swim in a natural pool"
+  },
+  "summary": {
+   "es": "La Vera, el Valle del Jerte, Las Hurdes o la sierra de Gredos tienen pozas y gargantas de agua fría y clara.",
+   "en": "La Vera, Jerte Valley, Las Hurdes and the Gredos mountains have clear, cold river pools."
+  },
+  "months": [
+   6,
+   7,
+   8
+  ],
+  "topics": [
+   "agua",
+   "naturaleza"
+  ],
+  "place": {
+   "scope": "nacional"
+  },
+  "source": {
+   "name": "sinplanes",
+   "url": null
+  }
+ },
+ {
+  "id": "t-playas-fluviales",
+  "slug": "playas-fluviales",
+  "kind": "estacional",
+  "title": {
+   "es": "Pasar el día en una playa fluvial",
+   "en": "Spend a day at a river beach"
+  },
+  "summary": {
+   "es": "Una alternativa al mar para el interior: arenales en ríos y embalses con zona de baño señalizada.",
+   "en": "An inland alternative to the sea: sandy river and reservoir beaches with marked swimming areas."
+  },
+  "months": [
+   7,
+   8
+  ],
+  "topics": [
+   "agua"
+  ],
+  "place": {
+   "scope": "nacional"
+  },
+  "source": {
+   "name": "sinplanes",
+   "url": null
+  }
+ },
+ {
+  "id": "t-verbenas",
+  "slug": "verbenas",
+  "kind": "estacional",
+  "title": {
+   "es": "Ir a las fiestas de un pueblo",
+   "en": "Go to a village festival"
+  },
+  "summary": {
+   "es": "Agosto es el mes de las fiestas patronales: verbenas, peñas y orquestas en casi cada pueblo de España.",
+   "en": "August is patron-saint season: open-air dances, music and street parties in almost every Spanish village."
+  },
+  "months": [
+   7,
+   8
+  ],
+  "topics": [
+   "fiestas"
+  ],
+  "place": {
+   "scope": "nacional"
+  },
+  "source": {
+   "name": "sinplanes",
+   "url": null
+  }
+ },
+ {
+  "id": "t-perseidas",
+  "slug": "perseidas",
+  "kind": "estacional",
+  "title": {
+   "es": "Ver las Perseidas",
+   "en": "Watch the Perseids"
+  },
+  "summary": {
+   "es": "Hacia el 12 de agosto, lejos de la contaminación lumínica. Monfragüe, la Sierra Sur de Jaén o Gúdar-Javalambre son reservas Starlight.",
+   "en": "Around 12 August, away from light pollution. Monfragüe, Sierra Sur de Jaén and Gúdar-Javalambre are Starlight reserves."
+  },
+  "months": [
+   8
+  ],
+  "topics": [
+   "naturaleza"
+  ],
+  "place": {
+   "scope": "nacional"
+  },
+  "source": {
+   "name": "sinplanes",
+   "url": null
+  }
+ },
+ {
+  "id": "t-cerezos-jerte",
+  "slug": "cerezos-jerte",
+  "kind": "estacional",
+  "title": {
+   "es": "Ver los cerezos en flor",
+   "en": "See the cherry blossom"
+  },
+  "summary": {
+   "es": "El Valle del Jerte se cubre de blanco entre finales de marzo y mediados de abril, según el año.",
+   "en": "The Jerte Valley turns white between late March and mid-April, depending on the year."
+  },
+  "months": [
+   3,
+   4
+  ],
+  "topics": [
+   "naturaleza"
+  ],
+  "place": {
+   "scope": "nacional"
+  },
+  "source": {
+   "name": "sinplanes",
+   "url": null
+  }
+ },
+ {
+  "id": "t-almendros",
+  "slug": "almendros",
+  "kind": "estacional",
+  "title": {
+   "es": "Pasear entre almendros en flor",
+   "en": "Walk among almond blossom"
+  },
+  "summary": {
+   "es": "Mallorca, la Axarquía, Tenerife y el campo de Cartagena florecen antes que nadie.",
+   "en": "Mallorca, the Axarquía, Tenerife and Cartagena bloom before anywhere else."
+  },
+  "months": [
+   2
+  ],
+  "topics": [
+   "naturaleza"
+  ],
+  "place": {
+   "scope": "nacional"
+  },
+  "source": {
+   "name": "sinplanes",
+   "url": null
+  }
+ },
+ {
+  "id": "t-calcotada",
+  "slug": "calcotada",
+  "kind": "estacional",
+  "title": {
+   "es": "Ir a una calçotada",
+   "en": "Go to a calçotada"
+  },
+  "summary": {
+   "es": "Calçots a la brasa con salsa romesco en el Camp de Tarragona y el Alt Camp. Mejor con reserva.",
+   "en": "Chargrilled spring onions with romesco sauce in Tarragona's Camp and Alt Camp. Booking recommended."
+  },
+  "months": [
+   1,
+   2,
+   3
+  ],
+  "topics": [
+   "gastronomia"
+  ],
+  "place": {
+   "scope": "nacional"
+  },
+  "source": {
+   "name": "sinplanes",
+   "url": null
+  }
+ },
+ {
+  "id": "t-nieve",
+  "slug": "nieve",
+  "kind": "estacional",
+  "title": {
+   "es": "Subir a la nieve",
+   "en": "Head to the snow"
+  },
+  "summary": {
+   "es": "Sierra Nevada, el Pirineo, la Cordillera Cantábrica o el Sistema Central. Revisa el estado de las carreteras y si hacen falta cadenas.",
+   "en": "Sierra Nevada, the Pyrenees, the Cantabrian range or the Central System. Check road conditions and whether chains are required."
+  },
+  "months": [
+   12,
+   1,
+   2,
+   3
+  ],
+  "topics": [
+   "naturaleza",
+   "deporte"
+  ],
+  "place": {
+   "scope": "nacional"
+  },
+  "source": {
+   "name": "sinplanes",
+   "url": null
+  }
+ },
+ {
+  "id": "t-matanza",
+  "slug": "matanza",
+  "kind": "estacional",
+  "title": {
+   "es": "Ir a una fiesta de la matanza",
+   "en": "Visit a traditional pig-slaughter feast"
+  },
+  "summary": {
+   "es": "Muchos pueblos de Castilla y León y Extremadura la celebran como fiesta gastronómica con degustaciones.",
+   "en": "Many villages in Castile and León and Extremadura hold it as a food festival with tastings."
+  },
+  "months": [
+   12,
+   1
+  ],
+  "topics": [
+   "gastronomia",
+   "fiestas"
+  ],
+  "place": {
+   "scope": "nacional"
+  },
+  "source": {
+   "name": "sinplanes",
+   "url": null
+  }
+ },
+ {
+  "id": "t-mercadillos-navidad",
+  "slug": "mercadillos-navidad",
+  "kind": "estacional",
+  "title": {
+   "es": "Visitar un mercadillo navideño",
+   "en": "Visit a Christmas market"
+  },
+  "summary": {
+   "es": "La Plaza Mayor de Madrid, la Fira de Santa Llúcia en Barcelona o el mercado de Santo Tomás en Bilbao, entre muchos otros.",
+   "en": "Madrid's Plaza Mayor, Barcelona's Fira de Santa Llúcia or Bilbao's Santo Tomás market, among many others."
+  },
+  "months": [
+   12
+  ],
+  "topics": [
+   "navidad"
+  ],
+  "place": {
+   "scope": "nacional"
+  },
+  "source": {
+   "name": "sinplanes",
+   "url": null
+  }
+ },
+ {
+  "id": "t-luces-navidad",
+  "slug": "luces-navidad",
+  "kind": "estacional",
+  "title": {
+   "es": "Ver las luces de Navidad",
+   "en": "See the Christmas lights"
+  },
+  "summary": {
+   "es": "Vigo, Madrid, Málaga o Valencia compiten cada año por el alumbrado más espectacular. Los encendidos suelen ser a finales de noviembre.",
+   "en": "Vigo, Madrid, Málaga and Valencia compete each year for the most spectacular lights, usually switched on in late November."
+  },
+  "months": [
+   11,
+   12,
+   1
+  ],
+  "topics": [
+   "navidad"
+  ],
+  "place": {
+   "scope": "nacional"
+  },
+  "source": {
+   "name": "sinplanes",
+   "url": null
+  }
+ },
+ {
+  "id": "t-belenes",
+  "slug": "belenes",
+  "kind": "estacional",
+  "title": {
+   "es": "Ver belenes y belenes vivientes",
+   "en": "See nativity scenes"
+  },
+  "summary": {
+   "es": "Exposiciones de belenes en ayuntamientos, iglesias y museos, y belenes vivientes en muchos pueblos.",
+   "en": "Nativity displays in town halls, churches and museums, and living nativity scenes in many villages."
+  },
+  "months": [
+   12,
+   1
+  ],
+  "topics": [
+   "navidad",
+   "cultura"
+  ],
+  "place": {
+   "scope": "nacional"
+  },
+  "source": {
+   "name": "sinplanes",
+   "url": null
+  }
+ },
+ {
+  "id": "t-flores-primavera",
+  "slug": "flores-primavera",
+  "kind": "estacional",
+  "title": {
+   "es": "Ver campos de flores en primavera",
+   "en": "See spring wildflowers"
+  },
+  "summary": {
+   "es": "Amapolas, lavanda temprana y prados en flor: la mejor época para senderismo suave.",
+   "en": "Poppies, early lavender and flowering meadows: the best time for easy hiking."
+  },
+  "months": [
+   4,
+   5
+  ],
+  "topics": [
+   "naturaleza"
+  ],
+  "place": {
+   "scope": "nacional"
+  },
+  "source": {
+   "name": "sinplanes",
+   "url": null
+  }
+ },
+ {
+  "id": "t-lavanda-brihuega",
+  "slug": "lavanda-brihuega",
+  "kind": "estacional",
+  "title": {
+   "es": "Ver los campos de lavanda",
+   "en": "See the lavender fields"
+  },
+  "summary": {
+   "es": "Brihuega (Guadalajara) florece en morado a principios de julio. Al atardecer es cuando más luce.",
+   "en": "Brihuega (Guadalajara) turns purple in early July. Best at sunset."
+  },
+  "months": [
+   7
+  ],
+  "topics": [
+   "naturaleza"
+  ],
+  "place": {
+   "scope": "nacional"
+  },
+  "source": {
+   "name": "sinplanes",
+   "url": null
+  }
+ },
+ {
+  "id": "t-terrazas-primavera",
+  "slug": "terrazas-primavera",
+  "kind": "estacional",
+  "title": {
+   "es": "Ruta de terrazas y vermut",
+   "en": "Terrace and vermouth crawl"
+  },
+  "summary": {
+   "es": "Antes del calor fuerte y al volver de vacaciones: buen momento para un vermut al sol.",
+   "en": "Before the summer heat and after the holidays: a good time for vermouth in the sun."
+  },
+  "months": [
+   5,
+   6,
+   9
+  ],
+  "topics": [
+   "gastronomia"
+  ],
+  "place": {
+   "scope": "nacional"
+  },
+  "source": {
+   "name": "sinplanes",
+   "url": null
+  }
+ },
+ {
+  "id": "t-museos-gratis",
+  "slug": "museos-gratis",
+  "kind": "estacional",
+  "title": {
+   "es": "Entrar gratis a un museo",
+   "en": "Visit a museum for free"
+  },
+  "summary": {
+   "es": "Muchos museos estatales tienen horarios de entrada gratuita, por ejemplo las tardes o los domingos. Consulta el horario de cada museo.",
+   "en": "Many state museums offer free entry at set times, such as evenings or Sundays. Check each museum's hours."
+  },
+  "months": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "topics": [
+   "cultura"
+  ],
+  "place": {
+   "scope": "nacional"
+  },
+  "source": {
+   "name": "sinplanes",
+   "url": null
+  }
+ }
+]

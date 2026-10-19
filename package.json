@@ -1,0 +1,21 @@
+{
+  "name": "sinplanes",
+  "version": "1.0.0",
+  "scripts": {
+    "pipeline": "node scripts/pipeline.mjs",
+    "check-sources": "node scripts/check-sources.mjs",
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview"
+  },
+  "dependencies": {
+    "@astrojs/sitemap": "^3.7.4",
+    "astro": "^5.18.2",
+    "js-yaml": "^5.5.0"
+  },
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  }
+}

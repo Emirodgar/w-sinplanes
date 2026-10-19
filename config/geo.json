@@ -1,0 +1,21 @@
+[
+  {"slug":"andalucia","es":"Andalucía","en":"Andalusia","fr":"Andalousie","de":"Andalusien","it":"Andalusia","pt":"Andaluzia","provincias":["Almería","Cádiz","Córdoba","Granada","Huelva","Jaén","Málaga","Sevilla"]},
+  {"slug":"aragon","es":"Aragón","en":"Aragon","fr":"Aragon","de":"Aragonien","it":"Aragona","pt":"Aragão","provincias":["Huesca","Teruel","Zaragoza"]},
+  {"slug":"asturias","es":"Asturias","en":"Asturias","fr":"Asturies","de":"Asturien","it":"Asturie","pt":"Astúrias","provincias":["Asturias"]},
+  {"slug":"illes-balears","es":"Illes Balears","en":"Balearic Islands","fr":"Îles Baléares","de":"Balearen","it":"Isole Baleari","pt":"Ilhas Baleares","provincias":["Illes Balears"]},
+  {"slug":"canarias","es":"Canarias","en":"Canary Islands","fr":"Îles Canaries","de":"Kanarische Inseln","it":"Isole Canarie","pt":"Ilhas Canárias","provincias":["Las Palmas","Santa Cruz de Tenerife"]},
+  {"slug":"cantabria","es":"Cantabria","en":"Cantabria","fr":"Cantabrie","de":"Kantabrien","it":"Cantabria","pt":"Cantábria","provincias":["Cantabria"]},
+  {"slug":"castilla-la-mancha","es":"Castilla-La Mancha","en":"Castilla-La Mancha","fr":"Castille-La Manche","de":"Kastilien-La Mancha","it":"Castiglia-La Mancia","pt":"Castela-A Mancha","provincias":["Albacete","Ciudad Real","Cuenca","Guadalajara","Toledo"]},
+  {"slug":"castilla-y-leon","es":"Castilla y León","en":"Castile and León","fr":"Castille-et-León","de":"Kastilien und León","it":"Castiglia e León","pt":"Castela e Leão","provincias":["Ávila","Burgos","León","Palencia","Salamanca","Segovia","Soria","Valladolid","Zamora"]},
+  {"slug":"cataluna","es":"Cataluña","en":"Catalonia","fr":"Catalogne","de":"Katalonien","it":"Catalogna","pt":"Catalunha","provincias":["Barcelona","Girona","Lleida","Tarragona"]},
+  {"slug":"comunitat-valenciana","es":"Comunitat Valenciana","en":"Valencia Region","fr":"Communauté valencienne","de":"Valencianische Gemeinschaft","it":"Comunità Valenciana","pt":"Comunidade Valenciana","provincias":["Alicante","Castellón","Valencia"]},
+  {"slug":"extremadura","es":"Extremadura","en":"Extremadura","fr":"Estrémadure","de":"Extremadura","it":"Estremadura","pt":"Estremadura","provincias":["Badajoz","Cáceres"]},
+  {"slug":"galicia","es":"Galicia","en":"Galicia","fr":"Galice","de":"Galicien","it":"Galizia","pt":"Galiza","provincias":["A Coruña","Lugo","Ourense","Pontevedra"]},
+  {"slug":"madrid","es":"Comunidad de Madrid","en":"Madrid Region","fr":"Communauté de Madrid","de":"Autonome Gemeinschaft Madrid","it":"Comunità di Madrid","pt":"Comunidade de Madrid","provincias":["Madrid"]},
+  {"slug":"murcia","es":"Región de Murcia","en":"Murcia Region","fr":"Région de Murcie","de":"Region Murcia","it":"Regione di Murcia","pt":"Região de Múrcia","provincias":["Murcia"]},
+  {"slug":"navarra","es":"Navarra","en":"Navarre","fr":"Navarre","de":"Navarra","it":"Navarra","pt":"Navarra","provincias":["Navarra"]},
+  {"slug":"pais-vasco","es":"País Vasco","en":"Basque Country","fr":"Pays basque","de":"Baskenland","it":"Paesi Baschi","pt":"País Basco","provincias":["Álava","Bizkaia","Gipuzkoa"]},
+  {"slug":"la-rioja","es":"La Rioja","en":"La Rioja","fr":"La Rioja","de":"La Rioja","it":"La Rioja","pt":"La Rioja","provincias":["La Rioja"]},
+  {"slug":"ceuta","es":"Ceuta","en":"Ceuta","fr":"Ceuta","de":"Ceuta","it":"Ceuta","pt":"Ceuta","provincias":["Ceuta"]},
+  {"slug":"melilla","es":"Melilla","en":"Melilla","fr":"Melilla","de":"Melilla","it":"Melilla","pt":"Melilla","provincias":["Melilla"]}
+]

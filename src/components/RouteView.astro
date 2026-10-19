@@ -1,0 +1,59 @@
+---
+import HomeView from './HomeView.astro';
+import PlanView from './PlanView.astro';
+import ListView from './ListView.astro';
+import { t, url, monthName } from '../i18n/ui.js';
+import { topics, byTopic, byCcaa, byProvince, slugify, geo, inMonth, currentMonth, cap, inLang } from '../lib/data.js';
+
+const { lang, r } = Astro.props;
+const L = t[lang];
+const split = (list) => ({ seasonal: list.filter((p) => p.kind === 'estacional'), dated: list.filter((p) => p.kind !== 'estacional') });
+---
+{r.type === 'home' && <HomeView lang={lang} />}
+
+{r.type === 'plan' && <PlanView lang={lang} plan={r.plan} />}
+
+{r.type === 'topics' && (
+  <ListView lang={lang} title={L.topicsTitle} intro={L.topicsIntro} route={r} noindex={false}>
+    <ul class="chips">
+      {topics.map((tp) => <li><a href={url.topic(lang, tp)}>{tp[lang]}<span class="count">{inLang(byTopic(tp.id), lang).length}</span></a></li>)}
+    </ul>
+  </ListView>
+)}
+
+{r.type === 'topic' && <ListView lang={lang} title={r.tp[lang]} route={r} {...split(byTopic(r.tp.id))} />}
+
+{r.type === 'places' && (
+  <ListView lang={lang} title={L.placesTitle} intro={L.placesIntro} route={r} noindex={false}>
+    <ul class="chips">
+      {geo.map((c) => ({ c, n: inLang(byCcaa(c.slug), lang).length })).sort((a, b) => b.n - a.n || a.c[lang].localeCompare(b.c[lang], lang)).map(({ c, n }) => (
+        <li><a href={url.ccaa(lang, c.slug)}>{c[lang]}<span class="count">{n}</span></a></li>
+      ))}
+    </ul>
+  </ListView>
+)}
+
+{r.type === 'ccaa' && (() => {
+  const provs = r.geo.provincias.map((p) => ({ p, s: slugify(p), n: inLang(byProvince(r.c, slugify(p)), lang).length })).filter((x) => x.n > 0);
+  return (
+    <ListView lang={lang} title={L.inPlace(r.geo[lang])} route={r} dated={byCcaa(r.c)}>
+      {provs.length > 1 && <section class="section"><h2>{L.provinces}</h2><ul class="chips">
+        {provs.map((x) => <li><a href={url.province(lang, r.c, x.s)}>{x.p}<span class="count">{x.n}</span></a></li>)}
+      </ul></section>}
+    </ListView>
+  );
+})()}
+
+{r.type === 'province' && <ListView lang={lang} title={L.inPlace(r.prov)} intro={r.geo[lang]} route={r} dated={byProvince(r.c, r.s)} />}
+
+{r.type === 'calendar' && (
+  <ListView lang={lang} title={L.calendarTitle} intro={L.calendarIntro} route={r} noindex={false}>
+    <ul class="months">
+      {Array.from({ length: 12 }, (_, i) => i + 1).map((m) => (
+        <li><a href={url.month(lang, m)} aria-current={m === currentMonth() ? 'date' : undefined}>{cap(monthName(lang, m))}</a></li>
+      ))}
+    </ul>
+  </ListView>
+)}
+
+{r.type === 'month' && <ListView lang={lang} title={L.inMonth(monthName(lang, r.m))} route={r} {...inMonth(r.m)} />}

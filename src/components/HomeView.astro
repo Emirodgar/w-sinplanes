@@ -1,0 +1,90 @@
+---
+import Base from '../layouts/Base.astro';
+import PlanList from './PlanList.astro';
+import NearMe from './NearMe.astro';
+import { t, url, monthName, HREFLANG } from '../i18n/ui.js';
+import { TODAY, currentMonth, seasonalFor, upcoming, within, overlaps, weekendRange, topicById, fmtDay, cap, ptitle, psummary, textLang, trending, boost, inLang } from '../lib/data.js';
+
+const { lang } = Astro.props;
+const L = t[lang];
+const m = currentMonth();
+const [wFrom, wTo] = weekendRange();
+const local = inLang(upcoming(), lang).filter((p) => p.kind === 'evento');
+
+const season = boost(inLang(seasonalFor(m), lang)).slice(0, 5);
+const weekend = boost(local.filter((p) => overlaps(p, wFrom, wTo))).slice(0, 5);
+const watch = boost(inLang(upcoming(), lang).filter((p) => p.kind === 'pantalla')).slice(0, 5);
+const free = inLang(within(21), lang).filter((p) => p.free).slice(0, 5);
+const kids = inLang(within(30), lang).filter((p) => p.topics?.includes('ninos')).slice(0, 5);
+const trend = inLang(trending(30), lang).slice(0, 5);
+const next = inLang(upcoming(), lang).filter((p) => p.recurring && p.kind === 'evento').slice(0, 5);
+
+const kidsT = topicById('ninos');
+const watchT = topicById('pantalla');
+const jsonld = {
+  '@context': 'https://schema.org', '@type': 'WebSite', name: 'sinplanes', url: Astro.site.href,
+  inLanguage: HREFLANG[lang], description: L.tagline,
+};
+---
+<Base lang={lang} route={{ type: 'home' }} jsonld={jsonld}>
+  <section class="hero">
+    <h1>{L.heroQ}</h1>
+    <p>{L.heroToday(cap(fmtDay(lang, TODAY)))}</p>
+  </section>
+
+  <section class="season" aria-labelledby="w-season">
+    <div>
+      <p class="month" aria-hidden="true">{cap(monthName(lang, m))}</p>
+      <h2 id="w-season">{L.w.season(monthName(lang, m))}</h2>
+      <a href={url.month(lang, m)}>{L.seeAll}</a>
+    </div>
+    <ul>
+      {season.map((p) => (
+        <li>
+          <a href={url.plan(lang, p.slug)} lang={textLang(lang, p)}>{ptitle(p, lang)}</a>
+          <p lang={textLang(lang, p)}>{psummary(p, lang)}</p>
+        </li>
+      ))}
+    </ul>
+  </section>
+
+  <div class="widgets">
+    <section class="widget" aria-labelledby="w-weekend">
+      <h2 id="w-weekend">{L.w.weekend}</h2>
+      <PlanList lang={lang} plans={weekend} />
+    </section>
+
+    <NearMe lang={lang} />
+
+    <section class="widget" aria-labelledby="w-watch">
+      <h2 id="w-watch">{L.w.watch}</h2>
+      <PlanList lang={lang} plans={watch} />
+      <a class="more" href={url.topic(lang, watchT)}>{L.seeAll}</a>
+    </section>
+
+    <section class="widget" aria-labelledby="w-free">
+      <h2 id="w-free">{L.w.free}</h2>
+      <PlanList lang={lang} plans={free} />
+    </section>
+
+    <section class="widget" aria-labelledby="w-kids">
+      <h2 id="w-kids">{L.w.kids}</h2>
+      <PlanList lang={lang} plans={kids} />
+      <a class="more" href={url.topic(lang, kidsT)}>{L.seeAll}</a>
+    </section>
+
+    {trend.length > 0 && (
+      <section class="widget" aria-labelledby="w-trend">
+        <h2 id="w-trend">{L.w.trending}</h2>
+        <p class="muted">{L.trendingIntro}</p>
+        <PlanList lang={lang} plans={trend} />
+      </section>
+    )}
+
+    <section class="widget" aria-labelledby="w-next">
+      <h2 id="w-next">{L.w.next}</h2>
+      <PlanList lang={lang} plans={next} />
+      <a class="more" href={url.calendar(lang)}>{L.nav.calendar}</a>
+    </section>
+  </div>
+</Base>

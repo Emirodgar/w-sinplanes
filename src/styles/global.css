@@ -1,0 +1,137 @@
+/* sinplanes: tinta añil sobre papel, con el amarillo albero como único color protagonista */
+:root {
+  color-scheme: light;
+  --paper: #ffffff;
+  --mist: #eef0f6;
+  --ink: #1d1b3a;
+  --ink-soft: #4a4868;
+  --albero: #f2b705;
+  --albero-ink: #1d1b3a;
+  --olivo: #3f6b3a;
+  --link: #2a5bc4;
+  --focus: #2a5bc4;
+  --line: #d6d8e4;
+
+  --f-display: 'Bricolage Grotesque', 'Segoe UI', system-ui, sans-serif;
+  --f-body: 'Atkinson Hyperlegible', 'Segoe UI', system-ui, sans-serif;
+
+  /* escala tipográfica 1.25 */
+  --s-1: 0.875rem; --s0: 1.0625rem; --s1: 1.33rem; --s2: 1.66rem; --s3: 2.07rem; --s4: 2.6rem;
+  --s-hero: clamp(3.4rem, 11vw, 8.5rem);
+  --gap: clamp(1rem, 3vw, 2rem);
+  --measure: 68ch;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    color-scheme: dark;
+    --paper: #17162b;
+    --mist: #23223f;
+    --ink: #f1f1f6;
+    --ink-soft: #b9b8cf;
+    --albero: #f2b705;
+    --albero-ink: #17162b;
+    --olivo: #9cc77d;
+    --link: #9dbaff;
+    --focus: #f2b705;
+    --line: #36355a;
+  }
+}
+
+*, *::before, *::after { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body {
+  margin: 0;
+  background: var(--paper);
+  color: var(--ink);
+  font: 400 var(--s0)/1.55 var(--f-body);
+}
+img { max-width: 100%; height: auto; }
+a { color: var(--link); text-underline-offset: 0.18em; }
+a:hover { text-decoration-thickness: 2px; }
+:focus-visible { outline: 3px solid var(--focus); outline-offset: 3px; border-radius: 2px; }
+
+h1, h2, h3 { font-family: var(--f-display); line-height: 1.1; letter-spacing: -0.01em; margin: 0 0 0.5em; }
+h1 { font-size: var(--s4); font-weight: 700; }
+h2 { font-size: var(--s2); font-weight: 650; }
+h3 { font-size: var(--s1); font-weight: 600; }
+p { margin: 0 0 1em; max-width: var(--measure); }
+
+.wrap { width: min(72rem, 100% - 2 * var(--gap)); margin-inline: auto; }
+.skip { position: absolute; left: -999px; top: 0; background: var(--albero); color: var(--albero-ink); padding: 0.6rem 1rem; z-index: 10; }
+.skip:focus { left: 0.5rem; top: 0.5rem; }
+.muted { color: var(--ink-soft); }
+.visually-hidden { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+
+/* Cabecera */
+.site-head { border-bottom: 1px solid var(--line); }
+.site-head .wrap { display: flex; flex-wrap: wrap; align-items: center; gap: 0.5rem 1.5rem; padding-block: 0.9rem; }
+.brand { font-family: var(--f-display); font-weight: 800; font-size: var(--s1); color: var(--ink); text-decoration: none; letter-spacing: -0.03em; margin-right: auto; }
+.site-nav { display: flex; gap: 1.25rem; flex-wrap: wrap; }
+.site-nav a { color: var(--ink); text-decoration: none; font-weight: 700; padding-block: 0.4rem; }
+.site-nav a:hover { text-decoration: underline; }
+.langs { display: flex; gap: 0.25rem; flex-wrap: wrap; }
+.langs a { min-width: 2.75rem; min-height: 2.75rem; display: inline-flex; align-items: center; justify-content: center; border: 2px solid var(--ink); border-radius: 999px; color: var(--ink); text-decoration: none; font-weight: 700; font-size: var(--s-1); }
+.langs a:hover { background: var(--mist); }
+.langs a[aria-current='true'] { background: var(--ink); color: var(--paper); }
+
+/* Portada */
+.hero { padding-block: clamp(2.5rem, 7vw, 5rem) clamp(1.5rem, 4vw, 2.5rem); }
+.hero h1 { font-size: var(--s-hero); font-weight: 800; letter-spacing: -0.045em; line-height: 0.92; margin-bottom: 0.25em; }
+.hero p { font-size: var(--s1); color: var(--ink-soft); margin: 0; }
+
+/* El bloque memorable: el mes en grande sobre albero */
+.season { background: var(--albero); color: var(--albero-ink); border-radius: 1.25rem; padding: clamp(1.25rem, 4vw, 2.5rem); display: grid; gap: var(--gap); grid-template-columns: 1fr; margin-bottom: clamp(2rem, 5vw, 3.5rem); }
+.season .month { font-family: var(--f-display); font-weight: 800; font-size: clamp(3rem, 7.5vw, 5.25rem); line-height: 0.85; overflow-wrap: anywhere; letter-spacing: -0.05em; margin: 0; }
+.season h2 { font-size: var(--s1); margin: 0.6rem 0 0; font-weight: 600; }
+.season a { color: var(--albero-ink); }
+.season ul { list-style: none; margin: 0; padding: 0; display: grid; gap: 0.9rem; }
+.season li a { font-weight: 700; font-size: var(--s1); font-family: var(--f-display); }
+.season li p { margin: 0.15rem 0 0; font-size: var(--s0); }
+@media (min-width: 52rem) { .season { grid-template-columns: minmax(17rem, 0.8fr) 1.2fr; align-items: start; } }
+
+.widgets { display: grid; gap: clamp(2rem, 4vw, 3rem) var(--gap); grid-template-columns: 1fr; padding-bottom: 4rem; }
+@media (min-width: 46rem) { .widgets { grid-template-columns: 1fr 1fr; } }
+.widget { border-top: 4px solid var(--ink); padding-top: 0.9rem; }
+.widget h2 { font-size: var(--s1); margin-bottom: 0.9rem; }
+.widget .more { display: inline-block; margin-top: 0.6rem; font-weight: 700; }
+.widget--wide { grid-column: 1 / -1; }
+
+/* Listas de planes */
+.plan-list { list-style: none; padding: 0; margin: 0; display: grid; gap: 1.1rem; }
+.plan-list li { display: grid; gap: 0.15rem; }
+.plan-list a.title { font-weight: 700; font-size: var(--s0); color: var(--ink); text-decoration-color: var(--line); }
+.plan-list a.title:hover { text-decoration-color: currentColor; }
+.plan-meta { font-size: var(--s-1); color: var(--ink-soft); display: flex; flex-wrap: wrap; gap: 0 0.9rem; }
+.tag { font-size: var(--s-1); font-weight: 700; color: var(--olivo); }
+.empty { background: var(--mist); padding: 1rem 1.2rem; border-radius: 0.75rem; max-width: var(--measure); }
+
+/* Páginas interiores */
+.page-head { padding-block: clamp(2rem, 6vw, 3.5rem) 1.5rem; }
+.page-head p { font-size: var(--s1); color: var(--ink-soft); }
+.section { margin-bottom: 3rem; }
+.chips { list-style: none; padding: 0; margin: 0 0 2rem; display: flex; flex-wrap: wrap; gap: 0.6rem; }
+.chips a { display: inline-block; padding: 0.55rem 1rem; border-radius: 999px; background: var(--mist); color: var(--ink); text-decoration: none; font-weight: 700; }
+.chips a:hover { background: var(--albero); color: var(--albero-ink); }
+.chips .count { font-weight: 400; color: var(--ink-soft); margin-left: 0.35rem; }
+.chips a:hover .count { color: var(--albero-ink); }
+.months { display: grid; grid-template-columns: repeat(auto-fill, minmax(9rem, 1fr)); gap: 0.6rem; list-style: none; padding: 0; margin: 0 0 3rem; }
+.months a { display: block; padding: 1rem; border: 2px solid var(--ink); border-radius: 0.9rem; color: var(--ink); text-decoration: none; font-family: var(--f-display); font-weight: 700; font-size: var(--s1); }
+.months a[aria-current] { background: var(--albero); border-color: var(--albero); color: var(--albero-ink); }
+.months a:hover { background: var(--mist); }
+
+/* Ficha de plan */
+.plan { padding-block: clamp(2rem, 6vw, 3.5rem) 4rem; max-width: 48rem; }
+.plan h1 { font-size: clamp(2.2rem, 6vw, 3.6rem); }
+.plan .lead { font-size: var(--s1); }
+.facts { display: grid; grid-template-columns: max-content 1fr; gap: 0.5rem 1.5rem; margin: 2rem 0; padding: 1.25rem; background: var(--mist); border-radius: 1rem; }
+.facts dt { font-weight: 700; }
+.facts dd { margin: 0; }
+.notice { border-left: 4px solid var(--albero); padding: 0.6rem 1rem; margin: 1.5rem 0; background: var(--mist); }
+.button { display: inline-block; background: var(--ink); color: var(--paper); padding: 0.8rem 1.3rem; border-radius: 999px; font-weight: 700; text-decoration: none; border: 0; font: inherit; font-weight: 700; cursor: pointer; }
+.button:hover { background: var(--ink-soft); }
+
+/* Pie */
+.site-foot { border-top: 1px solid var(--line); padding-block: 2rem 3rem; font-size: var(--s-1); color: var(--ink-soft); }
+.site-foot p { margin-bottom: 0.4rem; }
+
+@media (prefers-reduced-motion: reduce) { * { scroll-behavior: auto !important; transition: none !important; animation: none !important; } }

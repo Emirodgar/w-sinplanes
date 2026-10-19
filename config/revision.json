@@ -1,0 +1,5 @@
+{
+  "_ayuda": "Decisiones sobre planes extraídos de prensa con baja confianza. Copia aquí el id que aparece en el Issue: en 'aprobados' para publicarlo, en 'rechazados' para descartarlo para siempre.",
+  "aprobados": [],
+  "rechazados": []
+}
