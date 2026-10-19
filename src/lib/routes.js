@@ -1,4 +1,4 @@
-// Enumera todas las páginas del sitio en todos los idiomas a partir de rutas neutras al idioma.
+// Enumera todas las páginas (el esqueleto sale solo de config; los eventos solo añaden páginas de plan) del sitio en todos los idiomas a partir de rutas neutras al idioma.
 import { LANGS, routeUrl } from '../i18n/ui.js';
 import { plans, topics, geo, byCcaa, byProvince, slugify, hasText } from './data.js';
 
@@ -10,7 +10,7 @@ function specs() {
     out.push({ type: 'ccaa', c: c.slug, geo: c });
     for (const prov of c.provincias) {
       const s = slugify(prov);
-      if (byProvince(c.slug, s).length > 0) out.push({ type: 'province', c: c.slug, s, geo: c, prov });
+      out.push({ type: 'province', c: c.slug, s, geo: c, prov }); // fijas: existan o no eventos (noindex mientras tengan <3 planes)
     }
   }
   for (let m = 1; m <= 12; m++) out.push({ type: 'month', m });

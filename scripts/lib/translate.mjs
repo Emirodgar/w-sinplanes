@@ -40,6 +40,12 @@ const valid = (r) => r && TARGET_LANGS.every((l) => typeof r[l]?.titulo === 'str
  * el calendario propio (estable: se traduce una vez para siempre), los planes extraídos de prensa y los
  * eventos de datos abiertos que ocurren en las próximas semanas. Orden de prioridad: ese mismo.
  */
+/** Aplica las traducciones ya cacheadas (sin red ni IA). Es lo que usa el build del sitio. */
+export const applyCachedTranslations = (plans) => {
+  const cache = readCache('translations');
+  return plans.map((p) => (cache[keyOf(p)] ? apply(p, cache[keyOf(p)]) : p));
+};
+
 export async function translatePlans(plans, today, log = console.log) {
   const cache = readCache('translations');
   const own = (p) => p.source?.name === 'sinplanes';

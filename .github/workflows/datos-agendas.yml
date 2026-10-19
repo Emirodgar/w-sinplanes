@@ -1,0 +1,63 @@
+name: Datos · agendas y tendencias (sin IA)
+
+# Descarga las agendas de datos abiertos y las tendencias de Google y reaplica lo ya cacheado.
+# NO llama a la IA y NO construye el sitio: solo actualiza data/ con un commit [skip ci].
+# El despliegue (deploy.yml) se lanza después, al terminar este workflow.
+
+on:
+  schedule:
+    # GitHub puede retrasar o saltarse disparos de `schedule`. Hay varios entre las 6:00 y las 9:00 (Madrid)
+    # y el paso "Comprobar" hace el trabajo una sola vez al día: el primero que llegue ejecuta, el resto se salta.
+    - cron: '17 4,5,6,7 * * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: datos
+  cancel-in-progress: false
+
+jobs:
+  agendas:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Comprobar si toca (una vez al día)
+        id: cuando
+        run: |
+          hoy=$(TZ=Europe/Madrid date +%F)
+          ultimo=$(grep -o '"date":"[^"]*"' data/runs/agendas.json 2>/dev/null | cut -d'"' -f4 || true)
+          if [ "$ultimo" = "$hoy" ] && [ "${{ github.event_name }}" != "workflow_dispatch" ]; then
+            echo "Ya se ejecutó hoy ($hoy): no toca."; echo "ejecutar=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "Último: ${ultimo:-ninguno}; hoy: $hoy. Toca."; echo "ejecutar=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - uses: actions/setup-node@v4
+        if: steps.cuando.outputs.ejecutar == 'true'
+        with: { node-version: 22, cache: npm }
+
+      - name: Instalar y ejecutar el pipeline sin IA
+        if: steps.cuando.outputs.ejecutar == 'true'
+        env:
+          SINPLANES_NO_AI: '1'
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+          FOOTBALL_DATA_TOKEN: ${{ secrets.FOOTBALL_DATA_TOKEN }}
+        run: |
+          npm ci
+          npm run pipeline
+          mkdir -p data/runs
+          echo "{\"date\":\"$(TZ=Europe/Madrid date +%F)\"}" > data/runs/agendas.json
+
+      - name: Guardar datos [skip ci]
+        if: steps.cuando.outputs.ejecutar == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          git diff --cached --quiet && { echo "Sin cambios."; exit 0; }
+          git commit -m "datos(agendas): $(date -u +%F) [skip ci]"
+          for i in 1 2 3; do git pull --rebase -q && git push && break; sleep 5; done

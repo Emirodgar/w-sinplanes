@@ -1,6 +1,10 @@
-// Pipeline diario de sinplanes.com
-// 1) calendario estacional  2) fuentes externas  3) normalizar y deduplicar
-// 4) prensa → planes con IA  5) enriquecer y traducir con IA (opcional)  6) tendencias  7) escribir data/*.json
+// Pipeline de datos de sinplanes.com (lo ejecutan los crons; el build del sitio NO lo ejecuta).
+// 1) fuentes externas  2) normalizar y deduplicar  3) prensa → planes con IA
+// 4) enriquecer y traducir con IA (opcional)  5) historial de tendencias
+// Salida: data/events.json (solo eventos externos), data/trends.json, data/review.json, data/meta.json.
+// El esqueleto fijo (planes estacionales y citas anuales) NO se escribe aquí: lo compone scripts/site-data.mjs
+// desde config/ en cada build, así que existe aunque este pipeline falle.
+//   SINPLANES_NO_AI=1  →  no llama a la IA, solo reaplica lo ya cacheado (cron de agendas)
 import { readFileSync, writeFileSync, mkdirSync } from 'node:fs';
 import path from 'node:path';
 import { load as yamlLoad } from 'js-yaml';
@@ -9,7 +13,7 @@ import { buildSeasonalPlans } from './lib/seasonal.mjs';
 import { enrich, aiStats } from './lib/ai.mjs';
 import { translatePlans } from './lib/translate.mjs';
 import { extractPress } from './lib/extract.mjs';
-import { fetchTrends, mergeHistory, applyTrends, saveTrends, readHistory } from './lib/trends.mjs';
+import { fetchTrends, mergeHistory, saveTrends, readHistory } from './lib/trends.mjs';
 
 const TODAY = process.env.SINPLANES_TODAY || todayISO();
 const KEEP_PAST_DAYS = 30;   // las páginas de eventos pasados se mantienen 30 días (noindex)
@@ -89,14 +93,13 @@ function dedupe(plans) {
   return [...seen.values()];
 }
 
-async function trendsStep(plans) {
+async function trendsStep() {
   let history = readHistory();
   if (!process.env.SINPLANES_OFFLINE) {
     try { history = mergeHistory(history, TODAY, await fetchTrends()); log(`Tendencias: ${history.length} términos en la ventana.`); }
     catch (err) { log(`Tendencias: no disponibles (${err.message}). Se usa el historial guardado.`); }
   }
   saveTrends(history, TODAY);
-  return applyTrends(plans, history, TODAY);
 }
 
 async function main() {
@@ -109,19 +112,18 @@ async function main() {
   external = await enrich(external, log);
   external = external.map(({ rawText, lang, ...rest }) => rest); // no publicamos el texto original completo
 
-  let plans = [...seasonal, ...external].sort((a, b) => (a.start || '9999').localeCompare(b.start || '9999'));
-  plans = await translatePlans(plans, TODAY, log);
-  plans = await trendsStep(plans);
+  // Se traduce el calendario propio junto con los eventos para rellenar la caché; el calendario no se guarda aquí.
+  const translated = await translatePlans([...seasonal, ...external], TODAY, log);
+  const events = translated.filter((p) => p.source?.name !== 'sinplanes').sort((a, b) => (a.start || '9999').localeCompare(b.start || '9999'));
+  await trendsStep();
 
   mkdirSync(path.join(ROOT, 'data'), { recursive: true });
-  writeFileSync(path.join(ROOT, 'data/plans.json'), JSON.stringify(plans, null, 1));
+  writeFileSync(path.join(ROOT, 'data/events.json'), JSON.stringify(events));
   writeFileSync(path.join(ROOT, 'data/meta.json'), JSON.stringify({
-    generated: new Date().toISOString(), today: TODAY, total: plans.length, seasonal: seasonal.length, external: external.length,
-    review: press.review.length, trending: plans.filter((p) => p.trend).length, sources: report,
+    generated: new Date().toISOString(), today: TODAY, events: events.length, review: press.review.length,
+    ai: aiStats(), sources: report,
   }, null, 2));
-  const st = aiStats();
-  log(`IA: ${st.calls} peticiones en ${st.seconds} s${st.tripped ? ' (cortada por límite de uso)' : ''}.`);
-  log(`Listo: ${plans.length} planes (${seasonal.length} de calendario, ${external.length} de fuentes, ${press.review.length} en revisión).`);
+  log(`Listo: ${events.length} eventos de fuentes, ${press.review.length} en revisión. IA: ${aiStats().calls} peticiones.`);
 }
 
 main().catch((e) => { console.error(e); process.exit(1); });

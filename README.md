@@ -1,43 +1,55 @@
 # sinplanes.com
 
-Agenda de planes en España, en español e inglés, que se actualiza sola cada día con GitHub Actions.
+Agenda de planes en España, en seis idiomas, con una estructura fija que se enriquece sola con GitHub Actions.
 
-## Cómo funciona
+## Arquitectura: esqueleto fijo + datos que lo enriquecen
 
-Cada mañana el workflow `daily.yml` hace esto:
+El sitio tiene **dos capas** que nunca se mezclan en un mismo workflow:
 
-1. Convierte `config/seasonal.yml` en planes con fechas reales (calcula Semana Santa, el último miércoles de agosto, etc.).
-2. Descarga las fuentes de `config/sources.yml`. Si una falla, se registra en `data/meta.json` y la web se publica igual.
-3. Normaliza, clasifica por temas y deduplica.
-4. Si existe `GEMINI_API_KEY` (o `ANTHROPIC_API_KEY`), la IA reescribe el resumen, traduce al inglés y afina temas y si es a cubierto. Usa caché por contenido: un evento que no cambia no se vuelve a pagar.
-5. Guarda `data/plans.json` en el repo, compila con Astro y publica en GitHub Pages.
+| Capa | Qué contiene | De dónde sale | Cuándo cambia |
+|---|---|---|---|
+| **Esqueleto fijo** | Portada, temas, comunidades y las 52 provincias, los 12 meses, los planes estacionales y las citas anuales (Semana Santa, Tomatina, Super Bowl…), en 6 idiomas (876 páginas) | Solo `config/` (+ traducciones ya cacheadas). Sin red ni IA | Al editar `config/` o el código |
+| **Datos** | Eventos de agendas abiertas y de prensa, resúmenes, traducciones, tendencias | `data/events.json`, `data/trends.json` | Los crons |
 
-Además, `check-sources.yml` prueba todas las fuentes cada lunes y deja el resultado en el resumen del job.
+- **El esqueleto existe siempre.** `scripts/site-data.mjs` (se ejecuta solo antes de cada `build`) lo compone desde `config/seasonal.yml` calculando las fechas del año en curso, y le suma `data/events.json` si existe. Si todos los crons llevan semanas caídos, el sitio sigue completo: los eventos pasados caducan solos y el calendario estacional sigue vigente. `npm run check-skeleton` falla si falta una sola página del esqueleto, y el despliegue se cancela.
+- **Los crons solo actualizan datos.** Cada uno hace un commit `[skip ci]` en `data/` y nunca construye el sitio:
+  - `datos-agendas.yml` (diario, ~6:00): agendas de datos abiertos y tendencias. **Sin IA**, así que es fiable.
+  - `datos-ia.yml` (diario, ~7:00): prensa regional, resúmenes y traducciones con IA, con presupuesto por ejecución. Si falla, no afecta a nada más.
+  - Los dos usan varios disparadores y una marca de "ya hecho hoy" (`data/runs/*.json`) porque GitHub retrasa o se salta algunos `schedule`.
+- **El despliegue es independiente.** `deploy.yml` construye con lo que haya en el repo y publica; no usa secretos ni APIs. Se lanza al cambiar código o `config/`, al terminar cada workflow de datos y una vez al día de respaldo (para que cambien el mes y el fin de semana de la portada).
+- **Fuentes y presupuesto**: una fuente caída se anota en `data/meta.json` y nunca bloquea nada. `check-sources.yml` prueba todas las fuentes cada lunes.
+
+Qué hace el pipeline de datos (`npm run pipeline`):
+
+1. Descarga las fuentes de `config/sources.yml`, normaliza, clasifica por temas y deduplica.
+2. Prensa: extrae planes con IA (ver Fase 2).
+3. Si existe `GEMINI_API_KEY` (o `ANTHROPIC_API_KEY`), reescribe resúmenes y traduce. Usa caché por contenido: un evento que no cambia no se vuelve a pagar. Con `SINPLANES_NO_AI=1` no llama a la IA, pero reaplica lo cacheado.
+4. Guarda `data/events.json` (solo eventos externos) y actualiza el historial de tendencias.
 
 ## Puesta en marcha (una sola vez)
 
 1. Crea el repositorio y sube este código a `main`.
 2. En Settings > Pages, elige "GitHub Actions" como origen. Para el dominio, apunta el DNS de sinplanes.com a GitHub Pages (el fichero `public/CNAME` ya está).
 3. En Settings > Secrets and variables > Actions, añade los secretos que quieras usar:
-   - `GEMINI_API_KEY` (Google; modelo por defecto `gemini-2.5-flash`, cambiable con `SINPLANES_MODEL`) o `ANTHROPIC_API_KEY`: traducciones, resúmenes y extracción de prensa. Si hay las dos, manda Gemini. Sin ella, la web funciona con reglas y el texto original.
+   - `GEMINI_API_KEY` (Google; modelo por defecto `gemini-2.5-flash-lite`, cambiable con `SINPLANES_MODEL`) o `ANTHROPIC_API_KEY`: traducciones, resúmenes y extracción de prensa. Si hay las dos, manda Gemini. Sin ella, la web funciona con reglas y el texto original.
    - `TMDB_API_KEY`: estrenos de cine (clave gratuita en themoviedb.org).
    - `FOOTBALL_DATA_TOKEN`: partidos destacados (plan gratuito en football-data.org).
 4. Lanza "Revisar fuentes" a mano desde la pestaña Actions y corrige en `sources.yml` las que fallen.
-5. Lanza "Actualizar y publicar". A partir de ahí, se ejecuta solo.
+5. Lanza "Desplegar sitio" (el esqueleto sale ya, sin datos) y después "Datos · agendas y tendencias" y "Datos · prensa, resúmenes y traducciones". A partir de ahí, se ejecutan solos.
 
 ## Desarrollo local
 
 ```bash
 npm install
-SINPLANES_OFFLINE=1 npm run pipeline   # con datos de ejemplo, sin red
-npm run dev
+npm run dev                              # compone el esqueleto y arranca (sin necesitar datos)
+SINPLANES_OFFLINE=1 npm run pipeline     # opcional: eventos de ejemplo, sin red
 ```
 
 ## Tareas habituales
 
 - **Añadir un plan de temporada o una cita anual**: edita `config/seasonal.yml`. Las reglas de fecha están documentadas al principio del fichero.
 - **Añadir una fuente**: añade una entrada en `config/sources.yml`. Si publica iCal u Opendatasoft, reutiliza los adaptadores `ical` u `opendatasoft`; si no, crea uno en `scripts/adapters/` que devuelva objetos con `title`, `start`, `end`, `municipio`, `provincia`, etc.
-- **Presupuesto de IA por ejecución**: `SINPLANES_MAX_AI_CALLS` (30 peticiones), `SINPLANES_AI_RPM` (8 por minuto) y `SINPLANES_AI_MINUTES` (8 min). Si Google responde 429 dos veces seguidas se corta la IA en esa ejecución y el resto se hace al día siguiente. Controlar el coste de IA también con `SINPLANES_MAX_AI_ITEMS` (por defecto 300 planes nuevos por ejecución) y `SINPLANES_MODEL`.
+- **Presupuesto de IA por ejecución**: `SINPLANES_MAX_AI_CALLS` (30 peticiones), `SINPLANES_AI_RPM` (8 por minuto) y `SINPLANES_AI_MINUTES` (8 min). Si Google responde 429 dos veces seguidas se corta la IA en esa ejecución y el resto se hace al día siguiente. Controlar el coste de IA también con `SINPLANES_MAX_AI_ITEMS` (por defecto 100 planes nuevos por ejecución) y `SINPLANES_MODEL`.
 
 ## Fase 2: prensa, tendencias e idiomas
 

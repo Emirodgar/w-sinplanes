@@ -1,0 +1,53 @@
+name: Desplegar sitio
+
+# Construye el sitio con lo que haya en el repo y lo publica. NO llama a ninguna API ni usa secretos:
+# el esqueleto fijo sale de config/ y los eventos de data/events.json (puede faltar o estar viejo).
+#
+# Se dispara: al cambiar código o config, al terminar cada workflow de datos (los commits del bot no
+# disparan `push`), y una vez al día como red de seguridad para que cambien el mes, el fin de semana y los eventos caducados.
+
+on:
+  push:
+    branches: [main, master]
+    paths: ['config/**', 'src/**', 'scripts/**', 'public/**', 'astro.config.mjs', 'package.json', 'package-lock.json', '.github/workflows/deploy.yml']
+  workflow_run:
+    workflows: ['Datos · agendas y tendencias (sin IA)', 'Datos · prensa, resúmenes y traducciones (IA)']
+    types: [completed]
+  schedule:
+    - cron: '27 8 * * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    # Un workflow de datos fallido no impide desplegar, pero no hace falta reaccionar a uno cancelado.
+    if: github.event_name != 'workflow_run' || github.event.workflow_run.conclusion != 'cancelled'
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 22, cache: npm }
+      - run: npm ci
+      - name: Construir (compone el esqueleto y los datos, y genera el HTML)
+        run: npm run build
+      - name: Verificar que el esqueleto fijo está completo
+        run: npm run check-skeleton
+      - uses: actions/upload-pages-artifact@v3
+        with: { path: dist }
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment: { name: github-pages, url: '${{ steps.deployment.outputs.page_url }}' }
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

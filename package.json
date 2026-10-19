@@ -3,8 +3,12 @@
   "version": "1.0.0",
   "scripts": {
     "pipeline": "node scripts/pipeline.mjs",
+    "site-data": "node scripts/site-data.mjs",
     "check-sources": "node scripts/check-sources.mjs",
+    "check-skeleton": "node scripts/check-skeleton.mjs",
+    "predev": "node scripts/site-data.mjs",
     "dev": "astro dev",
+    "prebuild": "node scripts/site-data.mjs",
     "build": "astro build",
     "preview": "astro preview"
   },

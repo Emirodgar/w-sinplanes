@@ -7,7 +7,7 @@ const LOCALES = { es: 'es-ES', en: 'en', fr: 'fr', de: 'de', it: 'it', pt: 'pt' 
 
 // El sitemap solo incluye planes indexables: no pasados y con texto propio en ese idioma.
 const plans = JSON.parse(readFileSync(new URL('./data/plans.json', import.meta.url), 'utf8'));
-const meta = JSON.parse(readFileSync(new URL('./data/meta.json', import.meta.url), 'utf8'));
+const meta = JSON.parse(readFileSync(new URL('./data/site.json', import.meta.url), 'utf8'));
 const bySlug = new Map(plans.map((p) => [p.slug, p]));
 const planPath = /^\/(?:(en|fr|de|it|pt)\/)?(?:plan|piano|plano)\/([^/]+)\/$/;
 

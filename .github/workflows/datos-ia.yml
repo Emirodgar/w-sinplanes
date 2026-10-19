@@ -1,0 +1,70 @@
+name: Datos · prensa, resúmenes y traducciones (IA)
+
+# Extrae planes de la prensa regional, reescribe resúmenes y traduce con la IA (Gemini), dentro de un presupuesto
+# por ejecución. Si la IA falla o se queda sin cuota, no pasa nada: el sitio y el resto de datos no dependen de este workflow.
+
+on:
+  schedule:
+    - cron: '47 5,6,7,8 * * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: datos
+  cancel-in-progress: false
+
+jobs:
+  ia:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Comprobar si toca (una vez al día)
+        id: cuando
+        run: |
+          hoy=$(TZ=Europe/Madrid date +%F)
+          ultimo=$(grep -o '"date":"[^"]*"' data/runs/ia.json 2>/dev/null | cut -d'"' -f4 || true)
+          if [ "$ultimo" = "$hoy" ] && [ "${{ github.event_name }}" != "workflow_dispatch" ]; then
+            echo "Ya se ejecutó hoy ($hoy): no toca."; echo "ejecutar=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "Último: ${ultimo:-ninguno}; hoy: $hoy. Toca."; echo "ejecutar=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - uses: actions/setup-node@v4
+        if: steps.cuando.outputs.ejecutar == 'true'
+        with: { node-version: 22, cache: npm }
+
+      - name: Pipeline con IA
+        if: steps.cuando.outputs.ejecutar == 'true'
+        timeout-minutes: 12
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+          FOOTBALL_DATA_TOKEN: ${{ secrets.FOOTBALL_DATA_TOKEN }}
+        run: |
+          npm ci
+          npm run pipeline
+          mkdir -p data/runs
+          echo "{\"date\":\"$(TZ=Europe/Madrid date +%F)\"}" > data/runs/ia.json
+
+      - name: Avisar de planes de prensa por revisar
+        if: steps.cuando.outputs.ejecutar == 'true'
+        continue-on-error: true
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: node scripts/open-review-issue.mjs
+
+      - name: Guardar datos [skip ci]
+        if: steps.cuando.outputs.ejecutar == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          git diff --cached --quiet && { echo "Sin cambios."; exit 0; }
+          git commit -m "datos(ia): $(date -u +%F) [skip ci]"
+          for i in 1 2 3; do git pull --rebase -q && git push && break; sleep 5; done

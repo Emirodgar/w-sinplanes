@@ -1,5 +1,5 @@
 import plansRaw from '../../data/plans.json';
-import meta from '../../data/meta.json';
+import meta from '../../data/site.json';
 import topics from '../../config/topics.json';
 import geo from '../../config/geo.json';
 import { monthName, INTL_LOCALE, t } from '../i18n/ui.js';

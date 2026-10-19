@@ -3,7 +3,8 @@ import path from 'node:path';
 import { ROOT, TOPIC_IDS, hash, addDays, todayISO } from './util.mjs';
 
 // Proveedor de IA: Gemini si hay GEMINI_API_KEY; si no, Anthropic si hay ANTHROPIC_API_KEY.
-const PROVIDER = process.env.GEMINI_API_KEY ? 'gemini' : process.env.ANTHROPIC_API_KEY ? 'anthropic' : null;
+// SINPLANES_NO_AI=1 desactiva las llamadas (los crons de agendas solo reaplican lo ya cacheado).
+const PROVIDER = process.env.SINPLANES_NO_AI ? null : process.env.GEMINI_API_KEY ? 'gemini' : process.env.ANTHROPIC_API_KEY ? 'anthropic' : null;
 export const MODEL = process.env.SINPLANES_MODEL || (PROVIDER === 'anthropic' ? 'claude-haiku-5-5' : 'gemini-2.5-flash-lite');
 const MAX_ITEMS = Number(process.env.SINPLANES_MAX_AI_ITEMS || 100); // tope de coste por ejecución
 const BATCH = 25;
@@ -121,29 +122,31 @@ const callClaude = (items) => llmJSON(SYSTEM, items);
  * no se vuelve a enviar nunca. Si no hay clave de API, devuelve los planes tal cual.
  */
 export async function enrich(plans, log = console.log) {
-  if (!aiEnabled()) { log('IA desactivada (sin GEMINI_API_KEY ni ANTHROPIC_API_KEY): se usan reglas y texto original.'); return plans; }
   const cache = loadCache();
   const keyOf = (p) => hash(`${p.title.es}|${p.rawText}`);
-  // Solo se reescribe lo que ocurre pronto: el resto sigue con reglas y texto original hasta que se acerque su fecha.
-  const soon = addDays(todayISO(), 21);
-  const pending = plans.filter((p) => !p.title.en && !cache[keyOf(p)] && (p.start || '') <= soon).slice(0, MAX_ITEMS);
-  log(`IA: ${pending.length} planes nuevos para enriquecer (${plans.length - pending.length} en caché o fuera del tope).`);
-
-  for (let i = 0; i < pending.length; i += BATCH) {
-    const chunk = pending.slice(i, i + BATCH);
-    const payload = chunk.map((p) => ({ id: p.id, titulo: p.title.es, texto: p.rawText.slice(0, 1200), idioma_origen: p.lang, lugar: p.place.municipio }));
-    try {
-      const results = await callClaude(payload);
-      for (const r of results) {
-        const p = chunk.find((x) => x.id === r.id);
-        if (p) cache[keyOf(p)] = r;
+  if (!aiEnabled()) {
+    log('IA no disponible o desactivada: solo se reaplica lo ya cacheado; el resto usa reglas y texto original.');
+  } else {
+    // Solo se reescribe lo que ocurre pronto: el resto sigue con reglas y texto original hasta que se acerque su fecha.
+    const soon = addDays(todayISO(), 21);
+    const pending = plans.filter((p) => !p.title.en && !cache[keyOf(p)] && (p.start || '') <= soon).slice(0, MAX_ITEMS);
+    log(`IA: ${pending.length} planes nuevos para enriquecer (${plans.length - pending.length} en caché o fuera del tope).`);
+    for (let i = 0; i < pending.length; i += BATCH) {
+      const chunk = pending.slice(i, i + BATCH);
+      const payload = chunk.map((p) => ({ id: p.id, titulo: p.title.es, texto: p.rawText.slice(0, 1200), idioma_origen: p.lang, lugar: p.place.municipio }));
+      try {
+        const results = await callClaude(payload);
+        for (const r of results) {
+          const p = chunk.find((x) => x.id === r.id);
+          if (p) cache[keyOf(p)] = r;
+        }
+      } catch (err) {
+        log(`IA: lote ${i / BATCH + 1} falló (${err.message}). Se reintentará mañana.`);
+        if (budgetError(err)) break;
       }
-    } catch (err) {
-      log(`IA: lote ${i / BATCH + 1} falló (${err.message}). Se reintentará mañana.`);
-      if (budgetError(err)) break;
     }
+    saveCache(cache);
   }
-  saveCache(cache);
 
   return plans.map((p) => {
     const r = cache[keyOf(p)];
