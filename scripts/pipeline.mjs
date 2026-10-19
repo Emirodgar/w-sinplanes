@@ -6,7 +6,7 @@ import path from 'node:path';
 import { load as yamlLoad } from 'js-yaml';
 import { ROOT, slugify, hash, truncate, todayISO, addDays, resolveProvince, guessTopics, guessIndoor } from './lib/util.mjs';
 import { buildSeasonalPlans } from './lib/seasonal.mjs';
-import { enrich } from './lib/ai.mjs';
+import { enrich, aiStats } from './lib/ai.mjs';
 import { translatePlans } from './lib/translate.mjs';
 import { extractPress } from './lib/extract.mjs';
 import { fetchTrends, mergeHistory, applyTrends, saveTrends, readHistory } from './lib/trends.mjs';
@@ -119,6 +119,8 @@ async function main() {
     generated: new Date().toISOString(), today: TODAY, total: plans.length, seasonal: seasonal.length, external: external.length,
     review: press.review.length, trending: plans.filter((p) => p.trend).length, sources: report,
   }, null, 2));
+  const st = aiStats();
+  log(`IA: ${st.calls} peticiones en ${st.seconds} s${st.tripped ? ' (cortada por límite de uso)' : ''}.`);
   log(`Listo: ${plans.length} planes (${seasonal.length} de calendario, ${external.length} de fuentes, ${press.review.length} en revisión).`);
 }
 

@@ -29,6 +29,7 @@ jobs:
       - run: npm ci
 
       - name: Pipeline de planes
+        timeout-minutes: 12
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}

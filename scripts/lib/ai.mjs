@@ -1,14 +1,24 @@
 import { existsSync, readFileSync, writeFileSync, mkdirSync } from 'node:fs';
 import path from 'node:path';
-import { ROOT, TOPIC_IDS, hash } from './util.mjs';
+import { ROOT, TOPIC_IDS, hash, addDays, todayISO } from './util.mjs';
 
 // Proveedor de IA: Gemini si hay GEMINI_API_KEY; si no, Anthropic si hay ANTHROPIC_API_KEY.
 const PROVIDER = process.env.GEMINI_API_KEY ? 'gemini' : process.env.ANTHROPIC_API_KEY ? 'anthropic' : null;
-export const MODEL = process.env.SINPLANES_MODEL || (PROVIDER === 'anthropic' ? 'claude-haiku-5-5' : 'gemini-2.5-flash');
-const MAX_ITEMS = Number(process.env.SINPLANES_MAX_AI_ITEMS || 300); // tope de coste por ejecución
-const BATCH = 20;
+export const MODEL = process.env.SINPLANES_MODEL || (PROVIDER === 'anthropic' ? 'claude-haiku-5-5' : 'gemini-2.5-flash-lite');
+const MAX_ITEMS = Number(process.env.SINPLANES_MAX_AI_ITEMS || 100); // tope de coste por ejecución
+const BATCH = 25;
 
-export const aiEnabled = () => PROVIDER !== null;
+// Presupuesto por ejecución: la IA nunca puede alargar el job ni agotar la cuota.
+const RPM = Number(process.env.SINPLANES_AI_RPM || 8);                  // peticiones por minuto (la capa gratuita permite 10-15)
+const MAX_CALLS = Number(process.env.SINPLANES_MAX_AI_CALLS || 30);     // peticiones por ejecución
+const DEADLINE_MS = Number(process.env.SINPLANES_AI_MINUTES || 8) * 60000; // tiempo máximo dedicado a la IA
+const started = Date.now();
+let calls = 0;
+let lastCall = 0;
+let tripped = false; // cortacircuitos: tras un 429 persistente no se vuelve a llamar en esta ejecución
+
+export const aiEnabled = () => PROVIDER !== null && !tripped;
+export const budgetError = (err) => Boolean(err?.budget);
 export const AI_KEY_NAMES = 'GEMINI_API_KEY (o ANTHROPIC_API_KEY)';
 
 /** Cachés en data/cache/<nombre>.json: lo que ya se ha pagado una vez no se vuelve a pagar. */
@@ -72,18 +82,38 @@ async function callAnthropic(system, payload, { maxTokens, model }) {
   return parseJSON(data.content.filter((b) => b.type === 'text').map((b) => b.text).join(''));
 }
 
-/** Llama al modelo con un prompt de sistema y una carga JSON; devuelve el JSON de la respuesta. Reintenta ante límites de uso. */
+function budget(msg) { const e = new Error(msg); e.budget = true; return e; }
+
+/** Espera indicada por Google en un 429 ("retryDelay": "23s"), acotada. */
+const retryDelayMs = (err) => Math.min(60000, ((Number((err.message.match(/"retryDelay":\s*"(\d+)/) || [])[1]) || 20) + 2) * 1000);
+
+/**
+ * Llama al modelo con un prompt de sistema y una carga JSON; devuelve el JSON de la respuesta.
+ * Respeta RPM, tope de llamadas y de tiempo. Un 429 se reintenta una vez; si persiste, se asume cuota
+ * agotada y se corta la IA en lo que queda de ejecución (error con .budget = true).
+ */
 export async function llmJSON(system, payload, { maxTokens = 8000, model = MODEL } = {}) {
   const call = PROVIDER === 'gemini' ? callGemini : callAnthropic;
   for (let attempt = 0; ; attempt++) {
+    if (tripped) throw budget('IA desactivada en esta ejecución (cuota agotada)');
+    if (calls >= MAX_CALLS) throw budget(`tope de ${MAX_CALLS} peticiones por ejecución alcanzado`);
+    if (Date.now() - started > DEADLINE_MS) throw budget('tiempo máximo de IA agotado');
+    const wait = lastCall + 60000 / RPM - Date.now();
+    if (wait > 0) await sleep(wait);
+    calls++; lastCall = Date.now();
     try { return await call(system, payload, { maxTokens, model }); }
     catch (err) {
-      const retryable = [429, 500, 503].includes(err.status);
-      if (!retryable || attempt >= 3) throw err;
-      await sleep(15000 * (attempt + 1)); // la capa gratuita de Gemini limita las peticiones por minuto
+      if (err.status === 429) {
+        if (attempt >= 1) { tripped = true; throw budget(`límite de uso de la API (429) persistente: ${err.message}`); }
+        await sleep(retryDelayMs(err));
+      } else if ([500, 503].includes(err.status) && attempt < 2) {
+        await sleep(10000);
+      } else throw err;
     }
   }
 }
+
+export const aiStats = () => ({ calls, seconds: Math.round((Date.now() - started) / 1000), tripped });
 const callClaude = (items) => llmJSON(SYSTEM, items);
 
 /**
@@ -94,7 +124,9 @@ export async function enrich(plans, log = console.log) {
   if (!aiEnabled()) { log('IA desactivada (sin GEMINI_API_KEY ni ANTHROPIC_API_KEY): se usan reglas y texto original.'); return plans; }
   const cache = loadCache();
   const keyOf = (p) => hash(`${p.title.es}|${p.rawText}`);
-  const pending = plans.filter((p) => !p.title.en && !cache[keyOf(p)]).slice(0, MAX_ITEMS);
+  // Solo se reescribe lo que ocurre pronto: el resto sigue con reglas y texto original hasta que se acerque su fecha.
+  const soon = addDays(todayISO(), 21);
+  const pending = plans.filter((p) => !p.title.en && !cache[keyOf(p)] && (p.start || '') <= soon).slice(0, MAX_ITEMS);
   log(`IA: ${pending.length} planes nuevos para enriquecer (${plans.length - pending.length} en caché o fuera del tope).`);
 
   for (let i = 0; i < pending.length; i += BATCH) {
@@ -108,6 +140,7 @@ export async function enrich(plans, log = console.log) {
       }
     } catch (err) {
       log(`IA: lote ${i / BATCH + 1} falló (${err.message}). Se reintentará mañana.`);
+      if (budgetError(err)) break;
     }
   }
   saveCache(cache);

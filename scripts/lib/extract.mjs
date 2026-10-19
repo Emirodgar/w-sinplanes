@@ -9,12 +9,12 @@
 // un Issue. Decisión humana en config/revision.json: aprobados / rechazados (por id).
 import { readFileSync, writeFileSync, mkdirSync, existsSync } from 'node:fs';
 import path from 'node:path';
-import { ROOT, TOPIC_IDS, hash, addDays, resolveProvince } from './util.mjs';
-import { aiEnabled, llmJSON, readCache, writeCache } from './ai.mjs';
+import { ROOT, TOPIC_IDS, hash, addDays, resolveProvince, slugify } from './util.mjs';
+import { aiEnabled, budgetError, llmJSON, readCache, writeCache } from './ai.mjs';
 
 export const CONF_MIN = Number(process.env.SINPLANES_CONF_MIN || 0.7);
-const MAX_CANDIDATES = Number(process.env.SINPLANES_MAX_PRESS || 150); // tope de titulares nuevos por ejecución
-const BATCH = 10;
+const MAX_CANDIDATES = Number(process.env.SINPLANES_MAX_PRESS || 60); // tope de titulares nuevos por ejecución
+const BATCH = 15;
 const REGION_REVIEW_CAP = 0.5; // plan local sin provincia reconocible: siempre a revisión
 
 const SYSTEM = `Eres el editor de sinplanes.com, una agenda de planes y eventos en España.
@@ -93,10 +93,13 @@ function clean(r, c, today) {
  */
 export async function extractPress(candidates, today, log = console.log) {
   const cache = readCache('press');
-  const fresh = candidates.filter((c) => !cache[idOf(c)]).sort((a, b) => (b.published || '').localeCompare(a.published || ''));
+  // Los periódicos de un mismo grupo repiten noticias: un titular igual se analiza una sola vez.
+  const seenTitles = new Set();
+  const unique = candidates.filter((c) => { const k = slugify(c.title); return !seenTitles.has(k) && seenTitles.add(k); });
+  const fresh = unique.filter((c) => !cache[idOf(c)]).sort((a, b) => (b.published || '').localeCompare(a.published || ''));
 
   if (fresh.length && !aiEnabled()) {
-    log(`Prensa: ${fresh.length} titulares nuevos pero sin GEMINI_API_KEY: no se procesan.`);
+    log(`Prensa: ${fresh.length} titulares nuevos pero la IA no está disponible (sin clave o cuota agotada): no se procesan.`);
   } else if (fresh.length) {
     const todo = fresh.slice(0, MAX_CANDIDATES);
     log(`Prensa: ${todo.length} titulares nuevos para analizar (${fresh.length - todo.length} aplazados por el tope de ${MAX_CANDIDATES}).`);
@@ -107,7 +110,7 @@ export async function extractPress(candidates, today, log = console.log) {
         items: chunk.map((c) => ({ id: idOf(c), titulo: c.title, texto: c.text, publicado: c.published, region_pista: c._src.region || c._src.provincia || null })),
       };
       try {
-        const results = await llmJSON(SYSTEM, payload, { maxTokens: 8000 });
+        const results = await llmJSON(SYSTEM, payload, { maxTokens: 12000 });
         const byId = new Map(results.map((r) => [r.id, r]));
         for (const c of chunk) {
           const id = idOf(c);
@@ -116,6 +119,7 @@ export async function extractPress(candidates, today, log = console.log) {
         }
       } catch (err) {
         log(`Prensa: lote ${i / BATCH + 1} falló (${err.message}). Se reintentará mañana.`);
+        if (budgetError(err)) break;
       }
     }
   }

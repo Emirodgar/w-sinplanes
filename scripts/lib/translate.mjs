@@ -1,12 +1,12 @@
 // Traducción a francés, alemán, italiano y portugués con caché por contenido.
 // El texto fuente es el español (y el inglés como apoyo). Lo ya traducido nunca se vuelve a pedir.
 import { hash, addDays } from './util.mjs';
-import { aiEnabled, llmJSON, readCache, writeCache } from './ai.mjs';
+import { aiEnabled, budgetError, llmJSON, readCache, writeCache } from './ai.mjs';
 
 export const TARGET_LANGS = ['fr', 'de', 'it', 'pt'];
 const NEAR_DAYS = 21; // los eventos de datos abiertos solo se traducen si ocurren pronto
-const MAX_ITEMS = Number(process.env.SINPLANES_MAX_TRANSLATE || 200); // tope de planes nuevos por ejecución
-const BATCH = 12;
+const MAX_ITEMS = Number(process.env.SINPLANES_MAX_TRANSLATE || 100); // tope de planes nuevos por ejecución
+const BATCH = 20;
 
 const SYSTEM = `Eres traductor de sinplanes.com, una agenda de planes y eventos en España para visitantes extranjeros.
 Recibes planes en JSON con titulo y resumen en español (y en inglés como apoyo). Para cada uno devuelve un objeto:
@@ -50,7 +50,7 @@ export async function translatePlans(plans, today, log = console.log) {
     .sort((a, b) => rank(a) - rank(b) || (a.start || '').localeCompare(b.start || ''));
 
   if (queue.length && !aiEnabled()) {
-    log(`Traducción: ${queue.length} planes sin traducir y sin GEMINI_API_KEY. Esas páginas saldrán en inglés/español y con noindex.`);
+    log(`Traducción: ${queue.length} planes sin traducir y la IA no está disponible (sin clave o cuota agotada). Esas páginas saldrán en inglés/español y con noindex.`);
   } else if (queue.length) {
     const todo = queue.slice(0, MAX_ITEMS);
     log(`Traducción: ${todo.length} planes nuevos (${queue.length - todo.length} aplazados por el tope de ${MAX_ITEMS}).`);
@@ -58,13 +58,14 @@ export async function translatePlans(plans, today, log = console.log) {
       const chunk = todo.slice(i, i + BATCH);
       const payload = chunk.map((p) => ({ id: p.id, titulo: p.title.es, resumen: p.summary.es, en: { titulo: p.title.en, resumen: p.summary.en } }));
       try {
-        const results = await llmJSON(SYSTEM, payload, { maxTokens: 8000 });
+        const results = await llmJSON(SYSTEM, payload, { maxTokens: 16000 });
         for (const r of results) {
           const p = chunk.find((x) => x.id === r.id);
           if (p && valid(r)) cache[keyOf(p)] = Object.fromEntries(TARGET_LANGS.map((l) => [l, r[l]]));
         }
       } catch (err) {
         log(`Traducción: lote ${i / BATCH + 1} falló (${err.message}). Se reintentará mañana.`);
+        if (budgetError(err)) break;
       }
     }
     writeCache('translations', cache);
