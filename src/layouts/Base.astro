@@ -61,8 +61,6 @@ const switcher = LANGS.map((l) => ({ l, href: route && avail.includes(l) ? route
   </main>
   <footer class="site-foot">
     <div class="wrap">
-      <p>{L.footer}</p>
-      <p>{L.tmdb}</p>
       <p>{L.updated(fmtDay(lang, meta.today, { day: 'numeric', month: 'long', year: 'numeric' }))}</p>
     </div>
   </footer>
