@@ -32,11 +32,11 @@ const switcher = LANGS.map((l) => ({ l, href: route && avail.includes(l) ? route
   <meta property="og:url" content={self} />
   <meta property="og:locale" content={OG_LOCALE[lang]} />
   {alternates.filter((a) => a.l !== lang).map((a) => <meta property="og:locale:alternate" content={OG_LOCALE[a.l]} />)}
-  <meta name="theme-color" content="#f2b705" />
+  <meta name="theme-color" content="#f5f5f7" />
   <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:wght@400;700&family=Bricolage+Grotesque:opsz,wght@12..96,600..800&display=swap" />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" />
   {jsonld && <script type="application/ld+json" set:html={JSON.stringify(jsonld)} />}
 </head>
 <body>
