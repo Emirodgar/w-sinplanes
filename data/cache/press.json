@@ -1698,5 +1698,146 @@
   ],
   "a_cubierto": null,
   "confianza": 0.6
+ },
+ "557c73d538": {
+  "url": "https://www.20minutos.es/musica/solo-casa-llega-madrid-con-un-concierto-sinfonico-para-revivir-clasico-navideno-pantalla-gigante_7050915_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-10-20",
+  "es_plan": true,
+  "titulo": "Concierto sinfónico de 'Solo en casa' en Madrid",
+  "resumen": "Revive el clásico navideño 'Solo en casa' en pantalla gigante con orquesta sinfónica en directo en el Palacio Vistalegre de Madrid. Las puertas abren a las 19:30.",
+  "en": {
+   "titulo": "'Home Alone' symphonic concert in Madrid",
+   "resumen": "Relive the Christmas classic 'Home Alone' on a giant screen with a live symphonic orchestra at the Palacio Vistalegre in Madrid. Doors open at 7:30 PM."
+  },
+  "inicio": "2026-12-20",
+  "fin": "2026-12-20",
+  "hora": "19:30",
+  "lugar": "Palacio Vistalegre",
+  "municipio": "Madrid",
+  "provincia": "Madrid",
+  "ambito": "local",
+  "gratis": false,
+  "precio": "Desde 49,95 euros",
+  "temas": [
+   "cultura",
+   "musica",
+   "pantalla"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "7f3c235038": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/20/1-000-anos-200-paginas-libro-que-repasa-raiz-calatayud-entre-celtiberia-invasion-arabe-2061108.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-10-20",
+  "es_plan": true,
+  "titulo": "Presentación del libro 'Historia de Calatayud en la Antigüedad'",
+  "resumen": "Presentación del libro que repasa 1.000 años de historia de Calatayud, desde la Celtiberia a la invasión árabe. Será en el Ayuntamiento de Calatayud.",
+  "en": {
+   "titulo": "Book presentation 'History of Calatayud in Antiquity'",
+   "resumen": "Presentation of the book reviewing 1,000 years of Calatayud's history, from Celtiberia to the Arab invasion. It will take place at the Calatayud City Hall."
+  },
+  "inicio": "2026-10-22",
+  "fin": "2026-10-22",
+  "hora": "19:30",
+  "lugar": "Ayuntamiento",
+  "municipio": "Calatayud",
+  "provincia": "Zaragoza",
+  "ambito": "local",
+  "gratis": true,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "a8f390b070": {
+  "url": "https://www.diariovasco.com/culturas/musica/nogen-anuncia-dejan-simplemente-no-podemos-seguir-20261020161236-nt.html",
+  "fuente": "El Diario Vasco (Culturas)",
+  "src": "prensa-diariovasco-culturas",
+  "publicado": "2026-10-20",
+  "es_plan": true,
+  "titulo": "Gira de despedida de Nøgen en 2027",
+  "resumen": "La banda Nøgen anuncia su separación y los primeros conciertos de su gira de despedida para 2027. Se espera el lanzamiento de su nuevo disco 'Onak eta txarrak'.",
+  "en": {
+   "titulo": "Nøgen's farewell tour in 2027",
+   "resumen": "The band Nøgen announces their separation and the first concerts of their farewell tour for 2027. Their new album 'Onak eta txarrak' is expected."
+  },
+  "inicio": "2027-01-01",
+  "fin": "2027-12-31",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": "Gipuzkoa",
+  "ambito": "nacional",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.65
+ },
+ "8990a43290": {
+  "url": "https://www.lasprovincias.es/culturas/cine/peliculas-eixam-cowgirl-mal-padre-acaparan-nominaciones-20261020121228-nt.html",
+  "fuente": "Las Provincias (Culturas)",
+  "src": "prensa-lasprovincias-culturas",
+  "publicado": "2026-10-20",
+  "es_plan": true,
+  "titulo": "Gala de entrega de los premios del audiovisual valenciano",
+  "resumen": "La gala de entrega de los premios del audiovisual valenciano, los Lola Gaos, se celebrará el 28 de noviembre en el Palau de la Música.",
+  "en": {
+   "titulo": "Valencian Audiovisual Awards Ceremony",
+   "resumen": "The Valencian Audiovisual Awards ceremony, the Lola Gaos awards, will be held on November 28th at the Palau de la Música."
+  },
+  "inicio": "2026-11-28",
+  "fin": "2026-11-28",
+  "hora": null,
+  "lugar": "Palau de la Música",
+  "municipio": "València",
+  "provincia": "València",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "9ebb58d004": {
+  "url": "https://www.lasprovincias.es/culturas/musica/becky-primera-artista-bigsound-valencia-20261020115257-nt.html",
+  "fuente": "Las Provincias (Culturas)",
+  "src": "prensa-lasprovincias-culturas",
+  "publicado": "2026-10-20",
+  "es_plan": true,
+  "titulo": "Bigsound Valencia con Becky G, Luis Fonsi y Delaossa",
+  "resumen": "El festival Bigsound Valencia anuncia a Becky G como primera artista, junto a Luis Fonsi y Delaossa. Se celebrará el 17 y 18 de junio en Torrent.",
+  "en": {
+   "titulo": "Bigsound Valencia with Becky G, Luis Fonsi, and Delaossa",
+   "resumen": "The Bigsound Valencia festival announces Becky G as the first artist, along with Luis Fonsi and Delaossa. It will take place on June 17th and 18th in Torrent."
+  },
+  "inicio": "2027-06-17",
+  "fin": "2027-06-18",
+  "hora": null,
+  "lugar": "Parc Central",
+  "municipio": "Torrent",
+  "provincia": "València",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica",
+   "fiestas"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
  }
 }

@@ -48,5 +48,15 @@
   "confianza": 0.6,
   "fuente": "El Progreso (Lugo)",
   "url": "https://www.elprogreso.es/articulo/deporte-local-lugo/lugo-acogera-miercoles-dia-29-entrega-premios-deporte-galego-2025/202610191847132007420.html"
+ },
+ {
+  "id": "a8f390b070",
+  "titulo": "Gira de despedida de Nøgen en 2027",
+  "inicio": "2027-01-01",
+  "municipio": null,
+  "provincia": "Gipuzkoa",
+  "confianza": 0.65,
+  "fuente": "El Diario Vasco (Culturas)",
+  "url": "https://www.diariovasco.com/culturas/musica/nogen-anuncia-dejan-simplemente-no-podemos-seguir-20261020161236-nt.html"
  }
 ]

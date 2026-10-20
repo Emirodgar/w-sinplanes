@@ -862,5 +862,1787 @@
    "titulo": "As badaladas da passagem de ano",
    "resumen": "As doze passas ao ritmo das badaladas da Puerta del Sol, em direto ou pela televisão."
   }
+ },
+ "ffdfb75a29": {
+  "fr": {
+   "titulo": "Musée National du Prado",
+   "resumen": "La grande galerie de peinture espagnole : Velázquez, Goya, El Greco et l'une des plus belles collections de peinture européenne au monde."
+  },
+  "de": {
+   "titulo": "Museo Nacional del Prado",
+   "resumen": "Die große spanische Gemäldegalerie: Velázquez, Goya, El Greco und eine der besten Sammlungen europäischer Malerei der Welt."
+  },
+  "it": {
+   "titulo": "Museo Nazionale del Prado",
+   "resumen": "La grande pinacoteca spagnola: Velázquez, Goya, El Greco e una delle migliori collezioni di pittura europea al mondo."
+  },
+  "pt": {
+   "titulo": "Museu Nacional do Prado",
+   "resumen": "A grande pinacoteca espanhola: Velázquez, Goya, El Greco e uma das melhores coleções de pintura europeia do mundo."
+  }
+ },
+ "30fb255dca": {
+  "fr": {
+   "titulo": "Musée Reina Sofía",
+   "resumen": "Art du XXe siècle et contemporain, avec Guernica de Picasso comme pièce maîtresse."
+  },
+  "de": {
+   "titulo": "Museo Reina Sofía",
+   "resumen": "Kunst des 20. Jahrhunderts und zeitgenössische Kunst mit Picassos Guernica als Herzstück."
+  },
+  "it": {
+   "titulo": "Museo Reina Sofía",
+   "resumen": "Arte del XX secolo e contemporanea, con il Guernica di Picasso come pezzo centrale."
+  },
+  "pt": {
+   "titulo": "Museu Reina Sofía",
+   "resumen": "Arte do século XX e contemporânea, com o Guernica de Picasso como peça central."
+  }
+ },
+ "ad8b46e525": {
+  "fr": {
+   "titulo": "Musée Thyssen-Bornemisza",
+   "resumen": "Un parcours à travers huit siècles de peinture, du gothique aux avant-gardes, sur le Paseo del Prado."
+  },
+  "de": {
+   "titulo": "Museo Thyssen-Bornemisza",
+   "resumen": "Eine Reise durch acht Jahrhunderte Malerei, von der Gotik bis zur Avantgarde, am Paseo del Prado."
+  },
+  "it": {
+   "titulo": "Museo Thyssen-Bornemisza",
+   "resumen": "Un percorso attraverso otto secoli di pittura, dal gotico alle avanguardie, sul Paseo del Prado."
+  },
+  "pt": {
+   "titulo": "Museu Thyssen-Bornemisza",
+   "resumen": "Um percurso por oito séculos de pintura, do gótico às vanguardas, no Paseo del Prado."
+  }
+ },
+ "68f1794280": {
+  "fr": {
+   "titulo": "Palais Royal de Madrid",
+   "resumen": "Le plus grand palais royal d'Europe occidentale, avec des salons, une armurerie et une pharmacie historique ouverts à la visite."
+  },
+  "de": {
+   "titulo": "Palacio Real de Madrid",
+   "resumen": "Der größte Königspalast Westeuropas mit Sälen, einer Rüstkammer und einer historischen Apotheke, die besichtigt werden können."
+  },
+  "it": {
+   "titulo": "Palazzo Reale di Madrid",
+   "resumen": "Il più grande palazzo reale dell'Europa occidentale, con saloni, armeria e farmacia storica aperti alla visita."
+  },
+  "pt": {
+   "titulo": "Palácio Real de Madrid",
+   "resumen": "O maior palácio real da Europa Ocidental, com salões, armaria e farmácia histórica abertos à visita."
+  }
+ },
+ "05572972c2": {
+  "fr": {
+   "titulo": "Galerie des Collections Royales",
+   "resumen": "Musée près du Palais Royal qui rassemble tapisseries, peintures, calèches et pièces de la couronne."
+  },
+  "de": {
+   "titulo": "Galería de las Colecciones Reales",
+   "resumen": "Museum neben dem Königspalast, das Wandteppiche, Gemälde, Kutschen und Stücke der königlichen Sammlung beherbergt."
+  },
+  "it": {
+   "titulo": "Galleria delle Collezioni Reali",
+   "resumen": "Museo adiacente al Palazzo Reale che riunisce arazzi, dipinti, carrozze e pezzi della corona."
+  },
+  "pt": {
+   "titulo": "Galeria das Coleções Reais",
+   "resumen": "Museu junto ao Palácio Real que reúne tapeçarias, pintura, carruagens e peças da coroa."
+  }
+ },
+ "2cc6f92f49": {
+  "fr": {
+   "titulo": "Plaza Mayor de Madrid",
+   "resumen": "La place à arcades du XVIIe siècle, avec ses portiques, ses terrasses et son marché de Noël en hiver."
+  },
+  "de": {
+   "titulo": "Plaza Mayor de Madrid",
+   "resumen": "Der arkadengeschmückte Platz aus dem 17. Jahrhundert mit seinen Säulengängen, Terrassen und dem Weihnachtsmarkt im Winter."
+  },
+  "it": {
+   "titulo": "Plaza Mayor di Madrid",
+   "resumen": "La piazza porticata del XVII secolo, con portici, terrazze e il mercatino di Natale in inverno."
+  },
+  "pt": {
+   "titulo": "Plaza Mayor de Madrid",
+   "resumen": "A praça com arcadas do século XVII, com varandas, esplanadas e o mercado de Natal no inverno."
+  }
+ },
+ "9de326cdfe": {
+  "fr": {
+   "titulo": "Puerta de Alcalá",
+   "resumen": "Arc de triomphe néoclassique du XVIIIe siècle près du parc du Retiro, l'un des symboles de la ville."
+  },
+  "de": {
+   "titulo": "Puerta de Alcalá",
+   "resumen": "Ein neoklassisches Tor aus dem 18. Jahrhundert neben dem Retiro-Park, eines der Wahrzeichen der Stadt."
+  },
+  "it": {
+   "titulo": "Puerta de Alcalá",
+   "resumen": "Arco neoclassico del XVIII secolo vicino al Retiro, uno dei simboli della città."
+  },
+  "pt": {
+   "titulo": "Puerta de Alcalá",
+   "resumen": "Arco neoclássico do século XVIII junto ao Retiro, um dos símbolos da cidade."
+  }
+ },
+ "724cfb7577": {
+  "fr": {
+   "titulo": "Parc du Buen Retiro",
+   "resumen": "Le grand parc de Madrid : un étang avec des barques, le Palais de Cristal et des jardins pour se promener."
+  },
+  "de": {
+   "titulo": "Parque del Buen Retiro",
+   "resumen": "Der große Park von Madrid: ein Teich mit Ruderbooten, der Kristallpalast und Gärten zum Spazierengehen."
+  },
+  "it": {
+   "titulo": "Parco del Buon Ritiro",
+   "resumen": "Il grande parco di Madrid: stagno con barche, Palazzo di Cristallo e giardini per passeggiare."
+  },
+  "pt": {
+   "titulo": "Parque do Bom Retiro",
+   "resumen": "O grande parque de Madrid: lago com barcos, Palácio de Cristal e jardins para passear."
+  }
+ },
+ "a05e06b846": {
+  "fr": {
+   "titulo": "Teatro Real",
+   "resumen": "L'opéra de Madrid, avec sa propre saison et des visites guidées du bâtiment."
+  },
+  "de": {
+   "titulo": "Teatro Real",
+   "resumen": "Das Opernhaus von Madrid mit eigener Saison und Führungen durch das Gebäude."
+  },
+  "it": {
+   "titulo": "Teatro Real",
+   "resumen": "Il teatro dell'opera di Madrid, con una stagione propria e visite guidate dell'edificio."
+  },
+  "pt": {
+   "titulo": "Teatro Real",
+   "resumen": "A ópera de Madrid, com temporada própria e visitas guiadas ao edifício."
+  }
+ },
+ "2172032fd1": {
+  "fr": {
+   "titulo": "Matadero Madrid",
+   "resumen": "Ancien abattoir transformé en centre de création contemporaine avec expositions, théâtre et cinéma."
+  },
+  "de": {
+   "titulo": "Matadero Madrid",
+   "resumen": "Ein ehemaliger Schlachthof, der in ein Zentrum für zeitgenössische Kunst mit Ausstellungen, Theater und Kino umgewandelt wurde."
+  },
+  "it": {
+   "titulo": "Matadero Madrid",
+   "resumen": "Ex macello trasformato in centro di creazione contemporanea con mostre, teatro e cinema."
+  },
+  "pt": {
+   "titulo": "Matadero Madrid",
+   "resumen": "Antigo matadouro transformado em centro de criação contemporânea com exposições, teatro e cinema."
+  }
+ },
+ "d1b737eafb": {
+  "fr": {
+   "titulo": "Marché de San Miguel",
+   "resumen": "Marché de fer et de verre de 1916 où déguster des tapas et des produits frais sur le pouce."
+  },
+  "de": {
+   "titulo": "Mercado de San Miguel",
+   "resumen": "Ein Markt aus Eisen und Glas von 1916, auf dem man im Stehen Tapas und frische Produkte probieren kann."
+  },
+  "it": {
+   "titulo": "Mercato di San Miguel",
+   "resumen": "Mercato in ferro e vetro del 1916 dove assaggiare tapas e prodotti freschi al volo."
+  },
+  "pt": {
+   "titulo": "Mercado de San Miguel",
+   "resumen": "Mercado de ferro e vidro de 1916 onde petiscar tapas e produtos frescos de pé."
+  }
+ },
+ "4d9606d8b8": {
+  "fr": {
+   "titulo": "Quartier de La Latina",
+   "resumen": "Ruelles médiévales de tavernes et de bars à tapas, avec le Rastro le dimanche matin."
+  },
+  "de": {
+   "titulo": "Barrio de La Latina",
+   "resumen": "Mittelalterliche Straßen mit Tavernen und Tapas-Bars, sonntags mit dem Rastro-Flohmarkt."
+  },
+  "it": {
+   "titulo": "Quartiere La Latina",
+   "resumen": "Strade medievali di taverne e tapas, con il Rastro la domenica mattina."
+  },
+  "pt": {
+   "titulo": "Bairro La Latina",
+   "resumen": "Ruas medievais de tabernas e tapas, com o Rastro aos domingos de manhã."
+  }
+ },
+ "819487d510": {
+  "fr": {
+   "titulo": "Casa de la Villa et Casa de Cisneros",
+   "resumen": "Deux bâtiments historiques sur la Plaza de la Villa, siège de l'ancien hôtel de ville de Madrid."
+  },
+  "de": {
+   "titulo": "Casa de la Villa y Casa de Cisneros",
+   "resumen": "Zwei historische Gebäude am Plaza de la Villa, Sitz des alten Madrider Rathauses."
+  },
+  "it": {
+   "titulo": "Casa de la Villa e Casa de Cisneros",
+   "resumen": "Due edifici storici nella Plaza de la Villa, sede dell'antico municipio di Madrid."
+  },
+  "pt": {
+   "titulo": "Casa de la Villa e Casa de Cisneros",
+   "resumen": "Dois edifícios históricos na Plaza de la Villa, sede da antiga Câmara Municipal de Madrid."
+  }
+ },
+ "409ec01972": {
+  "fr": {
+   "titulo": "Monastère Royal de l'Incarnation",
+   "resumen": "Couvent fondé en 1611 avec une collection de peintures et sculptures religieuses et un reliquaire singulier."
+  },
+  "de": {
+   "titulo": "Real Monasterio de la Encarnación",
+   "resumen": "Ein 1611 gegründetes Kloster mit einer Sammlung religiöser Malerei und Skulptur sowie einem einzigartigen Reliquienschrein."
+  },
+  "it": {
+   "titulo": "Monastero Reale dell'Incarnazione",
+   "resumen": "Convento fondato nel 1611 con una collezione di pittura e scultura religiosa e un singolare reliquiario."
+  },
+  "pt": {
+   "titulo": "Real Mosteiro da Encarnação",
+   "resumen": "Convento fundado em 1611 com uma coleção de pintura e escultura religiosa e um relicário singular."
+  }
+ },
+ "0e86e94903": {
+  "fr": {
+   "titulo": "Basilique de la Sagrada Familia",
+   "resumen": "Le chef-d'œuvre inachevé de Gaudí, avec des façades sculptées et un intérieur de lumière et de colonnes arborées."
+  },
+  "de": {
+   "titulo": "Sagrada Família",
+   "resumen": "Gaudís unvollendetes Meisterwerk mit skulpturalen Fassaden und einem Innenraum voller Licht und baumartiger Säulen."
+  },
+  "it": {
+   "titulo": "Basilica della Sagrada Familia",
+   "resumen": "L'opera incompiuta di Gaudí, con facciate scolpite e un interno di luce e colonne arboree."
+  },
+  "pt": {
+   "titulo": "Basílica da Sagrada Família",
+   "resumen": "A obra-prima inacabada de Gaudí, com fachadas esculpidas e um interior de luz e colunas arbóreas."
+  }
+ },
+ "af66cad121": {
+  "fr": {
+   "titulo": "Park Güell",
+   "resumen": "Parc moderniste de Gaudí avec le banc ondulé en mosaïque et des vues sur toute la ville."
+  },
+  "de": {
+   "titulo": "Park Güell",
+   "resumen": "Gaudís modernistische Parkanlage mit der wellenförmigen Mosaikbank und Blick über die ganze Stadt."
+  },
+  "it": {
+   "titulo": "Parc Güell",
+   "resumen": "Parco modernista di Gaudí con la panchina ondulata a mosaico e viste sull'intera città."
+  },
+  "pt": {
+   "titulo": "Park Güell",
+   "resumen": "Parque modernista de Gaudí com o banco ondulado de mosaico e vistas sobre toda a cidade."
+  }
+ },
+ "f15c1ff2ee": {
+  "fr": {
+   "titulo": "Casa Batlló",
+   "resumen": "Bâtiment de Gaudí sur le Passeig de Gràcia avec une façade d'écailles colorées et un toit de dragon."
+  },
+  "de": {
+   "titulo": "Casa Batlló",
+   "resumen": "Gaudís Gebäude am Passeig de Gràcia mit einer Fassade aus bunten Schuppen und einem drachenrückenförmigen Dach."
+  },
+  "it": {
+   "titulo": "Casa Batlló",
+   "resumen": "Edificio di Gaudí sul Passeig de Gràcia con facciata di scaglie colorate e tetto di drago."
+  },
+  "pt": {
+   "titulo": "Casa Batlló",
+   "resumen": "Edifício de Gaudí no Passeig de Gràcia com fachada de escamas coloridas e telhado de dragão."
+  }
+ },
+ "ce137b1e6e": {
+  "fr": {
+   "titulo": "Casa Milà, La Pedrera",
+   "resumen": "Maison de Gaudí aux lignes ondulantes, avec un toit-terrasse de cheminées sculptées et un appartement-musée."
+  },
+  "de": {
+   "titulo": "Casa Milà, La Pedrera",
+   "resumen": "Gaudís Haus mit wellenförmigen Linien, einer Dachterrasse mit skulpturalen Schornsteinen und einer Museumsetage."
+  },
+  "it": {
+   "titulo": "Casa Milà, La Pedrera",
+   "resumen": "Casa di Gaudí dalle linee ondulate, con tetto di camini scolpiti e un appartamento museo."
+  },
+  "pt": {
+   "titulo": "Casa Milà, La Pedrera",
+   "resumen": "Casa de Gaudí de linhas ondulantes, com terraço de chaminés esculpidas e um andar museu."
+  }
+ },
+ "c352c3f52c": {
+  "fr": {
+   "titulo": "Palau de la Música Catalana",
+   "resumen": "Salle de concert moderniste, Patrimoine Mondial, avec un dôme de vitraux couvrant l'auditorium."
+  },
+  "de": {
+   "titulo": "Palau de la Música Catalana",
+   "resumen": "Ein modernistische Konzerthalle und Weltkulturerbe mit einer Buntglas kuppel über dem Auditorium."
+  },
+  "it": {
+   "titulo": "Palau de la Música Catalana",
+   "resumen": "Sala da concerto modernista, Patrimonio Mondiale, con una cupola di vetrate che copre l'auditorium."
+  },
+  "pt": {
+   "titulo": "Palau de la Música Catalana",
+   "resumen": "Sala de concertos modernista, Património Mundial, com uma cúpula de vitrais que cobre o auditório."
+  }
+ },
+ "ac4a3e1d96": {
+  "fr": {
+   "titulo": "Gran Teatre del Liceu",
+   "resumen": "L'opéra des Ramblas depuis 1847, avec une saison lyrique et des visites guidées."
+  },
+  "de": {
+   "titulo": "Gran Teatre del Liceu",
+   "resumen": "Das Opernhaus der Ramblas seit 1847, mit Opernsaison und Führungen."
+  },
+  "it": {
+   "titulo": "Gran Teatre del Liceu",
+   "resumen": "Il teatro dell'opera delle Ramblas dal 1847, con stagione lirica e visite guidate."
+  },
+  "pt": {
+   "titulo": "Gran Teatre del Liceu",
+   "resumen": "A ópera das Ramblas desde 1847, com temporada lírica e visitas guiadas."
+  }
+ },
+ "912e701a14": {
+  "fr": {
+   "titulo": "Cathédrale de Barcelone",
+   "resumen": "Cathédrale gothique du quartier gothique, avec un cloître d'oies et accès au toit."
+  },
+  "de": {
+   "titulo": "Kathedrale von Barcelona",
+   "resumen": "Gotische Kathedrale im Gotischen Viertel mit einem Gänsekloster und Dachzugang."
+  },
+  "it": {
+   "titulo": "Cattedrale di Barcellona",
+   "resumen": "Cattedrale gotica nel Quartiere Gotico, con chiostro di oche e accesso al tetto."
+  },
+  "pt": {
+   "titulo": "Catedral de Barcelona",
+   "resumen": "Catedral gótica no Bairro Gótico, com claustro de gansos e acesso ao terraço."
+  }
+ },
+ "4de7fbb76b": {
+  "fr": {
+   "titulo": "Musée National d'Art de Catalogne (MNAC)",
+   "resumen": "Dans le palais de Montjuïc : la meilleure collection de peintures murales romanes et d'art catalan."
+  },
+  "de": {
+   "titulo": "Nationales Kunstmuseum von Katalonien (MNAC)",
+   "resumen": "Im Montjuïc-Palast: die beste Sammlung romanischer Wandmalereien und katalanischer Kunst."
+  },
+  "it": {
+   "titulo": "Museo Nazionale d'Arte della Catalogna (MNAC)",
+   "resumen": "Nel palazzo di Montjuïc: la migliore collezione di murales romanici e arte catalana."
+  },
+  "pt": {
+   "titulo": "Museu Nacional de Arte da Catalunha (MNAC)",
+   "resumen": "No palácio de Montjuïc: a melhor coleção de murais românicos e arte catalã."
+  }
+ },
+ "8d4ba2052a": {
+  "fr": {
+   "titulo": "Musée d'Art Contemporain de Barcelone (MACBA)",
+   "resumen": "Art contemporain dans un bâtiment de Richard Meier, à côté de la Plaça dels Àngels."
+  },
+  "de": {
+   "titulo": "Museum für Zeitgenössische Kunst Barcelona (MACBA)",
+   "resumen": "Zeitgenössische Kunst in einem Gebäude von Richard Meier neben der Plaça dels Àngels."
+  },
+  "it": {
+   "titulo": "Museo d'Arte Contemporanea di Barcellona (MACBA)",
+   "resumen": "Arte contemporanea in un edificio di Richard Meier, vicino alla Plaça dels Àngels."
+  },
+  "pt": {
+   "titulo": "Museu de Arte Contemporânea de Barcelona (MACBA)",
+   "resumen": "Arte contemporânea num edifício de Richard Meier, junto à Plaça dels Àngels."
+  }
+ },
+ "70cc431c57": {
+  "fr": {
+   "titulo": "Musée Picasso de Barcelone",
+   "resumen": "Cinq palais gothiques du Born avec la période de jeunesse de Picasso et ses Ménines."
+  },
+  "de": {
+   "titulo": "Picasso-Museum Barcelona",
+   "resumen": "Fünf gotische Paläste im Born mit Picassos Jugendwerk und seinen Meninas."
+  },
+  "it": {
+   "titulo": "Museo Picasso di Barcellona",
+   "resumen": "Cinque palazzi gotici del Born con il periodo giovanile di Picasso e le sue Meninas."
+  },
+  "pt": {
+   "titulo": "Museu Picasso de Barcelona",
+   "resumen": "Cinco palácios góticos do Born com a fase de juventude de Picasso e as suas Meninas."
+  }
+ },
+ "560cbd1670": {
+  "fr": {
+   "titulo": "Marché de La Boqueria",
+   "resumen": "Le marché le plus connu de Barcelone, à côté des Ramblas, avec fruits, jambon, poisson et bars à tapas."
+  },
+  "de": {
+   "titulo": "La Boqueria Markt",
+   "resumen": "Barcelonas bekanntester Markt neben den Ramblas, mit Obst, Schinken, Fisch und Tapas-Bars."
+  },
+  "it": {
+   "titulo": "Mercato de La Boqueria",
+   "resumen": "Il mercato più famoso di Barcellona, accanto alle Ramblas, con frutta, prosciutto, pesce e banconi per tapas."
+  },
+  "pt": {
+   "titulo": "Mercado de La Boqueria",
+   "resumen": "O mercado mais conhecido de Barcelona, junto às Ramblas, com fruta, presunto, peixe e bares de tapas."
+  }
+ },
+ "a34e6d4ec2": {
+  "fr": {
+   "titulo": "Théâtre-Musée Dalí",
+   "resumen": "Le musée conçu par Dalí lui-même à Figueres, un théâtre d'idées surréaliste avec sa crypte."
+  },
+  "de": {
+   "titulo": "Dalí Theater-Museum",
+   "resumen": "Das vom Dalí selbst entworfene Museum in Figueres, ein surrealistisches Theater der Ideen mit seiner Krypta."
+  },
+  "it": {
+   "titulo": "Teatro-Museo Dalí",
+   "resumen": "Il museo progettato da Dalí stesso a Figueres, un surreale teatro di idee con la sua cripta."
+  },
+  "pt": {
+   "titulo": "Teatro-Museu Dalí",
+   "resumen": "O museu desenhado pelo próprio Dalí em Figueres, um surrealista teatro de ideias com a sua cripta."
+  }
+ },
+ "7a38af080c": {
+  "fr": {
+   "titulo": "Maison de Salvador Dalí à Portlligat",
+   "resumen": "Les maisons de pêcheurs où Dalí a vécu et travaillé, avec atelier, jardin et piscine. Réservation obligatoire."
+  },
+  "de": {
+   "titulo": "Haus von Salvador Dalí in Portlligat",
+   "resumen": "Die Fischerhäuser, in denen Dalí lebte und arbeitete, mit Atelier, Garten und Pool. Reservierung erforderlich."
+  },
+  "it": {
+   "titulo": "Casa di Salvador Dalí a Portlligat",
+   "resumen": "Le case dei pescatori dove Dalí visse e lavorò, con studio, giardino e piscina. Prenotazione obbligatoria."
+  },
+  "pt": {
+   "titulo": "Casa de Salvador Dalí em Portlligat",
+   "resumen": "As casas de pescadores onde Dalí viveu e trabalhou, com ateliê, jardim e piscina. Reserva obrigatória."
+  }
+ },
+ "46f975ba92": {
+  "fr": {
+   "titulo": "Monastère de Santa María de Ripoll",
+   "resumen": "Berceau de la Catalogne : portail roman sculpté et cloître à deux étages."
+  },
+  "de": {
+   "titulo": "Kloster Santa María de Ripoll",
+   "resumen": "Wiege Kataloniens: romanisches Skulpturenportal und zweistöckiger Kreuzgang."
+  },
+  "it": {
+   "titulo": "Monastero di Santa María de Ripoll",
+   "resumen": "Culla della Catalogna: portale romanico scolpito e chiostro a due piani."
+  },
+  "pt": {
+   "titulo": "Mosteiro de Santa María de Ripoll",
+   "resumen": "Berço da Catalunha: portal românico esculpido e claustro de dois andares."
+  }
+ },
+ "5eba4905bf": {
+  "fr": {
+   "titulo": "Monastère de Sant Joan de les Abadesses",
+   "resumen": "Monastère roman du Ripollès avec le célèbre Santíssim Misteri, un groupe sculptural du XIIIe siècle."
+  },
+  "de": {
+   "titulo": "Kloster Sant Joan de les Abadesses",
+   "resumen": "Romanisches Kloster im Ripollès mit dem berühmten Santíssim Misteri, einer Skulpturengruppe aus dem 13. Jahrhundert."
+  },
+  "it": {
+   "titulo": "Monastero di Sant Joan de les Abadesses",
+   "resumen": "Monastero romanico nel Ripollès con il famoso Santíssim Misteri, un gruppo scultoreo del XIII secolo."
+  },
+  "pt": {
+   "titulo": "Mosteiro de Sant Joan de les Abadesses",
+   "resumen": "Mosteiro românico no Ripollès com o famoso Santíssim Misteri, um grupo escultórico do século XIII."
+  }
+ },
+ "94cf280247": {
+  "fr": {
+   "titulo": "Cité des Arts et des Sciences",
+   "resumen": "Le complexe de Calatrava dans l'ancien lit du Turia : musée des sciences, oceanarium et opéra."
+  },
+  "de": {
+   "titulo": "Stadt der Künste und Wissenschaften",
+   "resumen": "Der Calatrava-Komplex im alten Flussbett des Turia: Wissenschaftsmuseum, Aquarium und Opernhaus."
+  },
+  "it": {
+   "titulo": "Città delle Arti e delle Scienze",
+   "resumen": "Il complesso di Calatrava nell'antico letto del fiume Turia: museo delle scienze, oceanario e opera."
+  },
+  "pt": {
+   "titulo": "Cidade das Artes e das Ciências",
+   "resumen": "O complexo de Calatrava no antigo leito do rio Turia: museu de ciências, oceanário e ópera."
+  }
+ },
+ "e2132d4b73": {
+  "fr": {
+   "titulo": "Musée des Sciences Príncipe Felipe",
+   "resumen": "Musée scientifique interactif où l'on peut toucher presque tout. Idéal avec des enfants."
+  },
+  "de": {
+   "titulo": "Príncipe Felipe Wissenschaftsmuseum",
+   "resumen": "Interaktives Wissenschaftsmuseum, in dem fast alles angefasst werden darf. Sehr gut für Kinder."
+  },
+  "it": {
+   "titulo": "Museo delle Scienze Príncipe Felipe",
+   "resumen": "Museo scientifico interattivo dove si può toccare quasi tutto. Ottimo con i bambini."
+  },
+  "pt": {
+   "titulo": "Museu das Ciências Príncipe Felipe",
+   "resumen": "Museu de ciência interativo onde quase tudo pode ser tocado. Ótimo com crianças."
+  }
+ },
+ "c3a6791f1a": {
+  "fr": {
+   "titulo": "Lonja de la Seda (Bourse de la Soie)",
+   "resumen": "Gothique civil du XVe siècle, classé au patrimoine mondial, avec une salle aux colonnes torsadées."
+  },
+  "de": {
+   "titulo": "Seidenbörse (La Lonja)",
+   "resumen": "Gotisches Handelshaus aus dem 15. Jahrhundert, Weltkulturerbe, mit einer Halle mit verdrehten Säulen."
+  },
+  "it": {
+   "titulo": "Lonja de la Seda (Borsa della Seta)",
+   "resumen": "Gotico civile del XV secolo, Patrimonio Mondiale, con una sala di colonne elicoidali."
+  },
+  "pt": {
+   "titulo": "Lonja de la Seda (Bolsa de Seda)",
+   "resumen": "Gótico civil do século XV, Património Mundial, com uma sala de colunas helicoidais."
+  }
+ },
+ "ef792aa0b4": {
+  "fr": {
+   "titulo": "Cathédrale de Valence",
+   "resumen": "Cathédrale qui abrite le Saint Calice, avec la tour du Miguelete et plusieurs styles superposés."
+  },
+  "de": {
+   "titulo": "Kathedrale von Valencia",
+   "resumen": "Kathedrale, die den Heiligen Kelch beherbergt, mit dem Miguelete-Turm und mehreren überlagerten Stilen."
+  },
+  "it": {
+   "titulo": "Cattedrale di Valencia",
+   "resumen": "Cattedrale che custodisce il Santo Calice, con la torre del Miguelete e diversi stili sovrapposti."
+  },
+  "pt": {
+   "titulo": "Catedral de Valência",
+   "resumen": "Catedral que guarda o Santo Cálice, com a torre do Miguelete e vários estilos sobrepostos."
+  }
+ },
+ "31cbdb8d68": {
+  "fr": {
+   "titulo": "El Miguelete",
+   "resumen": "Clocheter gothique de la cathédrale, 207 marches pour des vues sur la vieille ville."
+  },
+  "de": {
+   "titulo": "El Miguelete",
+   "resumen": "Der gotische Glockenturm der Kathedrale, 207 Stufen hoch für Ausblicke über die Altstadt."
+  },
+  "it": {
+   "titulo": "El Miguelete",
+   "resumen": "Il campanile gotico della cattedrale, 207 gradini per una vista sul centro storico."
+  },
+  "pt": {
+   "titulo": "El Miguelete",
+   "resumen": "O campanário gótico da catedral, com 207 degraus e vistas sobre a cidade antiga."
+  }
+ },
+ "911776f67c": {
+  "fr": {
+   "titulo": "Palais de la Generalitat",
+   "resumen": "Palais gothique-Renaissance du XVe siècle, siège du gouvernement valencien, avec visites guidées."
+  },
+  "de": {
+   "titulo": "Palast der Generalitat",
+   "resumen": "Gotisch-Renaissance-Palast aus dem 15. Jahrhundert, Sitz der valencianischen Regierung, mit Führungen."
+  },
+  "it": {
+   "titulo": "Palazzo della Generalitat",
+   "resumen": "Palazzo gotico-rinascimentale del XV secolo, sede del governo valenciano, con visite guidate."
+  },
+  "pt": {
+   "titulo": "Palácio da Generalitat",
+   "resumen": "Palácio gótico-renascentista do século XV, sede do governo valenciano, com visitas guiadas."
+  }
+ },
+ "03f9d8c2d9": {
+  "fr": {
+   "titulo": "Palau de la Música de Valence",
+   "resumen": "Salle de concert à côté des jardins du Turia, siège de l'orchestre de la ville et de concerts toute l'année."
+  },
+  "de": {
+   "titulo": "Palau de la Música, Valencia",
+   "resumen": "Ein Konzertsaal neben den Turia-Gärten, Heimat des städtischen Orchesters und ganzjähriger Konzerte."
+  },
+  "it": {
+   "titulo": "Palau de la Música di Valencia",
+   "resumen": "Sala da concerto accanto ai giardini del Turia, sede dell'orchestra cittadina e di concerti tutto l'anno."
+  },
+  "pt": {
+   "titulo": "Palau de la Música de Valência",
+   "resumen": "Auditório junto ao jardim do Turia, sede da orquestra da cidade e de concertos durante todo o ano."
+  }
+ },
+ "ab916e62d5": {
+  "fr": {
+   "titulo": "Institut Valencien d'Art Moderne (IVAM)",
+   "resumen": "Musée d'art moderne et contemporain avec le legs de Julio González et des expositions changeantes."
+  },
+  "de": {
+   "titulo": "Valencianisches Institut für Moderne Kunst (IVAM)",
+   "resumen": "Museum für moderne und zeitgenössische Kunst mit dem Nachlass von Julio González und wechselnden Ausstellungen."
+  },
+  "it": {
+   "titulo": "Istituto Valenciano d'Arte Moderna (IVAM)",
+   "resumen": "Museo d'arte moderna e contemporanea con il lascito di Julio González e mostre temporanee."
+  },
+  "pt": {
+   "titulo": "Instituto Valenciano de Arte Moderno (IVAM)",
+   "resumen": "Museu de arte moderna e contemporânea com o legado de Julio González e exposições itinerantes."
+  }
+ },
+ "79f5a74b63": {
+  "fr": {
+   "titulo": "Gare du Nord",
+   "resumen": "Gare moderniste de 1917 dont le hall est décoré de céramiques et de carreaux d'orangers."
+  },
+  "de": {
+   "titulo": "Estación del Norte",
+   "resumen": "Modernistischer Bahnhof von 1917, dessen Halle mit Keramik und Orangenkacheln geschmückt ist."
+  },
+  "it": {
+   "titulo": "Stazione del Nord",
+   "resumen": "Stazione modernista del 1917 il cui atrio è decorato con ceramiche e piastrelle di aranci."
+  },
+  "pt": {
+   "titulo": "Estação do Norte",
+   "resumen": "Estação modernista de 1917 cujo átrio é decorado com cerâmica e azulejos de laranjeiras."
+  }
+ },
+ "609abb71f6": {
+  "fr": {
+   "titulo": "Château de Santa Bárbara",
+   "resumen": "Forteresse médiévale sur le mont Benacantil, accessible en ascenseur ou à pied, avec vue sur la baie."
+  },
+  "de": {
+   "titulo": "Santa Bárbara Burg",
+   "resumen": "Mittelalterliche Festung auf dem Berg Benacantil, erreichbar mit dem Aufzug oder zu Fuß, mit Blick auf die Bucht."
+  },
+  "it": {
+   "titulo": "Castello di Santa Bárbara",
+   "resumen": "Fortezza medievale sul monte Benacantil, raggiungibile in ascensore o a piedi, con vista sulla baia."
+  },
+  "pt": {
+   "titulo": "Castelo de Santa Bárbara",
+   "resumen": "Fortaleza medieval no monte Benacantil, com acesso por elevador ou a pé e vistas da baía."
+  }
+ },
+ "49f8a8c2fc": {
+  "fr": {
+   "titulo": "Palmeraie d'Elche",
+   "resumen": "Plus de 200 000 palmiers d'origine islamique, classés au patrimoine mondial, entre vergers et jardins."
+  },
+  "de": {
+   "titulo": "Palmenhain von Elche",
+   "resumen": "Über 200.000 Palmen islamischen Ursprungs, Weltkulturerbe, zwischen Obstgärten und Gärten."
+  },
+  "it": {
+   "titulo": "Palmeto di Elche",
+   "resumen": "Oltre 200.000 palme di origine islamica, Patrimonio dell'Umanità, tra orti e giardini."
+  },
+  "pt": {
+   "titulo": "Palmeiral de Elche",
+   "resumen": "Mais de 200.000 palmeiras de origem islâmica, Património Mundial, entre pomares e jardins."
+  }
+ },
+ "63ec8a7623": {
+  "fr": {
+   "titulo": "Château de Peñíscola",
+   "resumen": "Forteresse templière sur un rocher dans la mer, avec des visites de ses salles et remparts."
+  },
+  "de": {
+   "titulo": "Burg von Peñíscola",
+   "resumen": "Tempelritterburg auf einem Felsen im Meer, mit Besichtigungen seiner Säle und Mauern."
+  },
+  "it": {
+   "titulo": "Castello di Peñíscola",
+   "resumen": "Fortezza templare su uno scoglio sul mare, con visite alle sue sale e mura."
+  },
+  "pt": {
+   "titulo": "Castelo de Peñíscola",
+   "resumen": "Fortaleza templária sobre um rochedo no mar, com visitas às suas salas e muralhas."
+  }
+ },
+ "407cf9efb2": {
+  "fr": {
+   "titulo": "Cathédrale de Segorbe",
+   "resumen": "Cathédrale gothique avec un musée de peinture, d'orfèvrerie et de sculpture."
+  },
+  "de": {
+   "titulo": "Kathedrale von Segorbe",
+   "resumen": "Gotische Kathedrale mit einem Diözesanmuseum für Malerei, Goldschmiedekunst und Skulptur."
+  },
+  "it": {
+   "titulo": "Cattedrale di Segorbe",
+   "resumen": "Cattedrale gotica con un museo diocesano di pittura, oreficeria e scultura."
+  },
+  "pt": {
+   "titulo": "Catedral de Segorbe",
+   "resumen": "Catedral gótica com um museu diocesano de pintura, ourivesaria e escultura."
+  }
+ },
+ "bc62df5aa4": {
+  "fr": {
+   "titulo": "Real Alcázar de Séville",
+   "resumen": "Palais mudéjar utilisé depuis des siècles, avec salons, patios et jardins. Achetez vos billets à l'avance."
+  },
+  "de": {
+   "titulo": "Königlicher Alcázar von Sevilla",
+   "resumen": "Mudéjar-Palast seit Jahrhunderten in Gebrauch, mit Sälen, Innenhöfen und Gärten. Buchen Sie Tickets im Voraus."
+  },
+  "it": {
+   "titulo": "Real Alcázar di Siviglia",
+   "resumen": "Palazzo in stile mudéjar in uso da secoli, con saloni, cortili e giardini. Acquista i biglietti in anticipo."
+  },
+  "pt": {
+   "titulo": "Real Alcázar de Sevilha",
+   "resumen": "Palácio mudéjar em uso há séculos, com salões, pátios e jardins. Compre os bilhetes com antecedência."
+  }
+ },
+ "60b23c661d": {
+  "fr": {
+   "titulo": "La Giralda",
+   "resumen": "Ancien minaret almohade devenu clocher de la cathédrale, avec des rampes pour monter au sommet."
+  },
+  "de": {
+   "titulo": "La Giralda",
+   "resumen": "Ehemaliges Almohaden-Minarett, das zum Glockenturm der Kathedrale wurde, mit Rampen bis zur Spitze."
+  },
+  "it": {
+   "titulo": "La Giralda",
+   "resumen": "Antico minareto almohade trasformato in campanile della cattedrale, con rampe per salire in cima."
+  },
+  "pt": {
+   "titulo": "La Giralda",
+   "resumen": "Antigo minarete almohade transformado em torre sineira da catedral, com rampas para subir até ao topo."
+  }
+ },
+ "48c5fe4e4c": {
+  "fr": {
+   "titulo": "Tour de l'Or",
+   "resumen": "Tour défensive almohade sur les rives du Guadalquivir abritant un petit musée naval."
+  },
+  "de": {
+   "titulo": "Torre del Oro",
+   "resumen": "Almohaden-Verteidigungsturm am Ufer des Guadalquivir, der ein kleines Marinemuseum beherbergt."
+  },
+  "it": {
+   "titulo": "Torre del Oro",
+   "resumen": "Torre difensiva almohade sulle rive del Guadalquivir che ospita un piccolo museo navale."
+  },
+  "pt": {
+   "titulo": "Torre del Oro",
+   "resumen": "Torre defensiva almohade nas margens do Guadalquivir que alberga um pequeno museu naval."
+  }
+ },
+ "947f0ec01a": {
+  "fr": {
+   "titulo": "Archives Générales des Indes",
+   "resumen": "Bâtiment Renaissance, classé au patrimoine mondial, avec la documentation historique de l'Amérique espagnole."
+  },
+  "de": {
+   "titulo": "Allgemeines Indienarchiv",
+   "resumen": "Renaissancegebäude, Weltkulturerbe, mit historischen Dokumenten über das spanische Amerika."
+  },
+  "it": {
+   "titulo": "Archivio Generale delle Indie",
+   "resumen": "Edificio rinascimentale, Patrimonio dell'Umanità, con la documentazione storica dell'America spagnola."
+  },
+  "pt": {
+   "titulo": "Arquivo Geral das Índias",
+   "resumen": "Edifício renascentista, Património Mundial, com a documentação histórica da América espanhola."
+  }
+ },
+ "2b5cb64b07": {
+  "fr": {
+   "titulo": "Casa de Pilatos",
+   "resumen": "Palais sévillan mêlant styles mudéjar, gothique et Renaissance, avec azulejos et jardins."
+  },
+  "de": {
+   "titulo": "Casa de Pilatos",
+   "resumen": "Palast in Sevilla, der mudéjar-, gotische und Renaissance-Stile mischt, mit Azulejos und Gärten."
+  },
+  "it": {
+   "titulo": "Casa de Pilatos",
+   "resumen": "Palazzo sivigliano che mescola stili mudéjar, gotico e rinascimentale, con azulejos e giardini."
+  },
+  "pt": {
+   "titulo": "Casa de Pilatos",
+   "resumen": "Palácio sevilhano que mistura estilos mudéjar, gótico e renascentista, com azulejos e jardins."
+  }
+ },
+ "971bdee3bb": {
+  "fr": {
+   "titulo": "Plaza de España",
+   "resumen": "Semicercle monumental de 1929 avec des bancs d'azulejos par provinces et un canal avec des barques."
+  },
+  "de": {
+   "titulo": "Plaza de España",
+   "resumen": "Monumentaler Halbkreis von 1929 mit gekachelten Bänken nach Provinzen und einem Kanal mit Ruderbooten."
+  },
+  "it": {
+   "titulo": "Plaza de España",
+   "resumen": "Semicírculo monumentale del 1929 con panchine decorate con azulejos per province e un canale con barche a remi."
+  },
+  "pt": {
+   "titulo": "Plaza de España",
+   "resumen": "Semicírculo monumental de 1929 com bancos de azulejos por províncias e um canal com barcos a remos."
+  }
+ },
+ "ce4f62e63e": {
+  "fr": {
+   "titulo": "Parc María Luisa",
+   "resumen": "Le grand parc de Séville, avec des fontaines, des gloriettes et des pavillons de l'Exposition Ibéro-américaine."
+  },
+  "de": {
+   "titulo": "María Luisa Park",
+   "resumen": "Der große Park von Sevilla mit Brunnen, Nischen und Pavillons der Iberoamerikanischen Ausstellung."
+  },
+  "it": {
+   "titulo": "Parco Maria Luisa",
+   "resumen": "Il grande parco di Siviglia, con fontane, chioschi e padiglioni dell'Esposizione Iberoamericana."
+  },
+  "pt": {
+   "titulo": "Parque Maria Luisa",
+   "resumen": "O grande parque de Sevilha, com fontes, quiosques e pavilhões da Exposição Ibero-americana."
+  }
+ },
+ "3acee18c2f": {
+  "fr": {
+   "titulo": "Quartier de Santa Cruz",
+   "resumen": "L'ancien quartier juif : ruelles, patios à l'odeur de fleur d'oranger et places cachées près de la cathédrale."
+  },
+  "de": {
+   "titulo": "Viertel Santa Cruz",
+   "resumen": "Das alte jüdische Viertel: enge Gassen, Innenhöfe mit Orangenblütenduft und versteckte Plätze neben der Kathedrale."
+  },
+  "it": {
+   "titulo": "Quartiere di Santa Cruz",
+   "resumen": "L'antico quartiere ebraico: vicoli stretti, cortili profumati di fiori d'arancio e piazze nascoste accanto alla cattedrale."
+  },
+  "pt": {
+   "titulo": "Bairro de Santa Cruz",
+   "resumen": "O antigo bairro judeu: ruelas, pátios com cheiro a flor de laranjeira e praças escondidas junto à catedral."
+  }
+ },
+ "286d569123": {
+  "fr": {
+   "titulo": "Setas de Sevilla",
+   "resumen": "Structure en bois de Jürgen Mayer avec un belvédère en haut et des vestiges romains au sous-sol."
+  },
+  "de": {
+   "titulo": "Setas de Sevilla",
+   "resumen": "Holzkonstruktion von Jürgen Mayer mit Aussichtsplattform oben und römischen Überresten im Keller."
+  },
+  "it": {
+   "titulo": "Setas de Sevilla",
+   "resumen": "Struttura in legno di Jürgen Mayer con un punto panoramico in cima e resti romani nel seminterrato."
+  },
+  "pt": {
+   "titulo": "Setas de Sevilla",
+   "resumen": "Estrutura de madeira de Jürgen Mayer com miradouro no topo e vestígios romanos na cave."
+  }
+ },
+ "801db9eb37": {
+  "fr": {
+   "titulo": "Hôtel de Ville de Séville",
+   "resumen": "Façade plateresque du XVIe siècle sur la Plaza Nueva, avec visites guidées de ses salons."
+  },
+  "de": {
+   "titulo": "Rathaus von Sevilla",
+   "resumen": "Platereske Fassade aus dem 16. Jahrhundert am Plaza Nueva, mit Führungen durch seine Säle."
+  },
+  "it": {
+   "titulo": "Municipio di Siviglia",
+   "resumen": "Facciata plateresca del XVI secolo in Plaza Nueva, con visite guidate ai suoi saloni."
+  },
+  "pt": {
+   "titulo": "Câmara Municipal de Sevilha",
+   "resumen": "Fachada plateresca do século XVI na Plaza Nueva, com visitas guiadas aos seus salões."
+  }
+ },
+ "c36ddbc590": {
+  "fr": {
+   "titulo": "Musée Picasso Málaga",
+   "resumen": "Œuvres de l'artiste dans sa ville natale, au Palais de Buenavista."
+  },
+  "de": {
+   "titulo": "Picasso-Museum Málaga",
+   "resumen": "Werke des Künstlers in seiner Geburtsstadt, im Palacio de Buenavista."
+  },
+  "it": {
+   "titulo": "Museo Picasso Málaga",
+   "resumen": "Opere dell'artista nella città natale, nel Palacio de Buenavista."
+  },
+  "pt": {
+   "titulo": "Museu Picasso Málaga",
+   "resumen": "Obra do artista na cidade onde nasceu, no Palacio de Buenavista."
+  }
+ },
+ "8fe0c17f33": {
+  "fr": {
+   "titulo": "Musée Carmen Thyssen Málaga",
+   "resumen": "Peinture espagnole du XIXe siècle, axée sur l'école andalouse, dans un palais Renaissance."
+  },
+  "de": {
+   "titulo": "Carmen-Thyssen-Museum Málaga",
+   "resumen": "Spanische Malerei des 19. Jahrhunderts mit Schwerpunkt auf der andalusischen Schule in einem Renaissance-Palast."
+  },
+  "it": {
+   "titulo": "Museo Carmen Thyssen Málaga",
+   "resumen": "Pittura spagnola del XIX secolo, con focus sulla scuola andalusa, in un palazzo rinascimentale."
+  },
+  "pt": {
+   "titulo": "Museu Carmen Thyssen Málaga",
+   "resumen": "Pintura espanhola do século XIX, com foco na escola andaluza, num palácio renascentista."
+  }
+ },
+ "8dc08c7009": {
+  "fr": {
+   "titulo": "Collection du Musée Russe de Málaga",
+   "resumen": "Siège du Musée Russe de Saint-Pétersbourg dans l'ancienne manufacture de tabac."
+  },
+  "de": {
+   "titulo": "Sammlung des Russischen Museums Málaga",
+   "resumen": "Zweigstelle des Russischen Museums Sankt Petersburg in der ehemaligen Tabakfabrik."
+  },
+  "it": {
+   "titulo": "Collezione del Museo Russo di Malaga",
+   "resumen": "Sede del Museo Russo di San Pietroburgo nell'ex manifattura di tabacco."
+  },
+  "pt": {
+   "titulo": "Coleção do Museu Russo de Málaga",
+   "resumen": "Sede do Museu Russo de São Petersburgo na antiga fábrica de tabaco."
+  }
+ },
+ "25f7c5952c": {
+  "fr": {
+   "titulo": "Centre Pompidou Málaga",
+   "resumen": "Succursale du Pompidou parisien près du port, sous un cube coloré, avec de l'art moderne et contemporain."
+  },
+  "de": {
+   "titulo": "Centre Pompidou Málaga",
+   "resumen": "Zweigstelle des Pariser Pompidou am Hafen unter einem bunten Würfel mit moderner und zeitgenössischer Kunst."
+  },
+  "it": {
+   "titulo": "Centre Pompidou Málaga",
+   "resumen": "Sede del Pompidou parigino vicino al porto, sotto un cubo colorato, con arte moderna e contemporanea."
+  },
+  "pt": {
+   "titulo": "Centre Pompidou Málaga",
+   "resumen": "Sede do Pompidou parisiense junto ao porto, sob um cubo colorido, com arte moderna e contemporânea."
+  }
+ },
+ "bc7d0972b3": {
+  "fr": {
+   "titulo": "Cathédrale de Málaga",
+   "resumen": "La Manquita : cathédrale Renaissance avec une tour inachevée et un toit accessible."
+  },
+  "de": {
+   "titulo": "Kathedrale von Málaga",
+   "resumen": "La Manquita: Renaissance-Kathedrale mit einem unvollendeten Turm und zugänglichem Dach."
+  },
+  "it": {
+   "titulo": "Cattedrale di Malaga",
+   "resumen": "La Manquita: cattedrale rinascimentale con una torre incompiuta e tetto accessibile."
+  },
+  "pt": {
+   "titulo": "Catedral de Málaga",
+   "resumen": "La Manquita: catedral renascentista com uma torre inacabada e cobertura acessível."
+  }
+ },
+ "64da2b8d06": {
+  "fr": {
+   "titulo": "Alcazaba de Málaga",
+   "resumen": "Forteresse-palais du XIe siècle sur la colline surplombant le port, avec patios, jardins et vues."
+  },
+  "de": {
+   "titulo": "Alcazaba von Málaga",
+   "resumen": "Palastburg aus dem 11. Jahrhundert auf dem Hügel über dem Hafen mit Innenhöfen, Gärten und Aussicht."
+  },
+  "it": {
+   "titulo": "Alcazaba di Malaga",
+   "resumen": "Fortezza-palazzo dell'XI secolo sulla collina sopra il porto, con cortili, giardini e viste."
+  },
+  "pt": {
+   "titulo": "Alcazaba de Málaga",
+   "resumen": "Fortaleza-palácio do século XI na colina sobre o porto, com pátios, jardins e vistas."
+  }
+ },
+ "1383e201f9": {
+  "fr": {
+   "titulo": "Théâtre Romain de Málaga",
+   "resumen": "Théâtre du Ier siècle au pied de l'Alcazaba, accès libre et centre d'interprétation."
+  },
+  "de": {
+   "titulo": "Römisches Theater von Málaga",
+   "resumen": "Theater aus dem 1. Jahrhundert am Fuße der Alcazaba, kostenlos zugänglich und mit einem Interpretationszentrum."
+  },
+  "it": {
+   "titulo": "Teatro Romano di Malaga",
+   "resumen": "Teatro del I secolo ai piedi dell'Alcazaba, ad accesso libero e con centro di interpretazione."
+  },
+  "pt": {
+   "titulo": "Teatro Romano de Málaga",
+   "resumen": "Teatro do século I aos pés da Alcazaba, de acesso livre e com centro de interpretação."
+  }
+ },
+ "8e869f44f5": {
+  "fr": {
+   "titulo": "Soho Málaga, quartier des arts",
+   "resumen": "Quartier de galeries et de fresques d'art urbain entre le port et le Guadalmedina."
+  },
+  "de": {
+   "titulo": "Soho Málaga, Kunstviertel",
+   "resumen": "Viertel mit Galerien und urbanen Kunst-Murals zwischen dem Hafen und dem Guadalmedina."
+  },
+  "it": {
+   "titulo": "Soho Málaga, quartiere delle arti",
+   "resumen": "Quartiere con gallerie e murales di street art tra il porto e il fiume Guadalmedina."
+  },
+  "pt": {
+   "titulo": "Soho Málaga, bairro das artes",
+   "resumen": "Bairro com galerias e murais de arte urbana entre o porto e o rio Guadalmedina."
+  }
+ },
+ "4ee982cde8": {
+  "fr": {
+   "titulo": "Palais de l'Aljafería",
+   "resumen": "Palais taïfa du XIe siècle, classé au patrimoine mondial, aujourd'hui siège des Cortes d'Aragon."
+  },
+  "de": {
+   "titulo": "Palast von Aljafería",
+   "resumen": "Taifa-Palast aus dem 11. Jahrhundert, Weltkulturerbe, heute Sitz der Cortes von Aragón."
+  },
+  "it": {
+   "titulo": "Palazzo dell'Aljafería",
+   "resumen": "Palazzo taifa dell'XI secolo, Patrimonio Mondiale, oggi sede delle Cortes d'Aragona."
+  },
+  "pt": {
+   "titulo": "Palácio da Aljafería",
+   "resumen": "Palácio taifa do século XI, Património Mundial, hoje sede das Cortes de Aragão."
+  }
+ },
+ "519a7b0ce1": {
+  "fr": {
+   "titulo": "Basilique Notre-Dame du Pilier",
+   "resumen": "Basilique baroque sur l'Èbre, avec des fresques de Goya et un belvédère dans l'une de ses tours."
+  },
+  "de": {
+   "titulo": "Basilika Unserer Lieben Frau vom Pilar",
+   "resumen": "Barocke Basilika am Ebro mit Fresken von Goya und einem Aussichtspunkt in einem der Türme."
+  },
+  "it": {
+   "titulo": "Basilica di Nostra Signora del Pilar",
+   "resumen": "Basilica barocca sull'Ebro, con affreschi di Goya e un punto panoramico in una delle torri."
+  },
+  "pt": {
+   "titulo": "Basílica de Nossa Senhora do Pilar",
+   "resumen": "Basílica barroca sobre o Ebro, com frescos de Goya e um miradouro numa das suas torres."
+  }
+ },
+ "9e4e8715f6": {
+  "fr": {
+   "titulo": "La Seo, Cathédrale du Sauveur",
+   "resumen": "Cathédrale mêlant gothique, mudéjar et baroque, avec un musée de tapisseries."
+  },
+  "de": {
+   "titulo": "La Seo, Kathedrale des Erlösers",
+   "resumen": "Kathedrale, die Gotik, Mudéjar und Barock vermischt, mit einem Wandteppichmuseum."
+  },
+  "it": {
+   "titulo": "La Seo, Cattedrale del Salvatore",
+   "resumen": "Cattedrale che mescola gotico, mudéjar e barocco, con un museo di arazzi."
+  },
+  "pt": {
+   "titulo": "La Seo, Sé Catedral do Salvador",
+   "resumen": "Catedral que mistura gótico, mudéjar e barroco, com um museu de tapeçarias."
+  }
+ },
+ "827d706288": {
+  "fr": {
+   "titulo": "La Lonja de Saragosse",
+   "resumen": "Bâtiment Renaissance sur la Plaza del Pilar, utilisé aujourd'hui pour des expositions."
+  },
+  "de": {
+   "titulo": "Lonja von Saragossa",
+   "resumen": "Renaissancegebäude am Plaza del Pilar, das heute für Ausstellungen genutzt wird."
+  },
+  "it": {
+   "titulo": "Lonja di Saragozza",
+   "resumen": "Edificio rinascimentale in Plaza del Pilar, oggi utilizzato per mostre."
+  },
+  "pt": {
+   "titulo": "Lonja de Saragoça",
+   "resumen": "Edifício renascentista na Plaza del Pilar, usado hoje para exposições."
+  }
+ },
+ "1c641d1130": {
+  "fr": {
+   "titulo": "Musée du Forum de Caesaraugusta",
+   "resumen": "Vestiges du forum romain sous la Plaza de la Seo, avec une galerie souterraine à parcourir."
+  },
+  "de": {
+   "titulo": "Museum Forum von Caesaraugusta",
+   "resumen": "Überreste des römischen Forums unter der Plaza de la Seo, mit einer begehbaren unterirdischen Galerie."
+  },
+  "it": {
+   "titulo": "Museo del Foro di Caesaraugusta",
+   "resumen": "Resti del foro romano sotto Plaza de la Seo, con una galleria sotterranea da percorrere."
+  },
+  "pt": {
+   "titulo": "Museu do Fórum de Caesaraugusta",
+   "resumen": "Restos do fórum romano sob a Plaza de la Seo, com uma galeria subterrânea para percorrer."
+  }
+ },
+ "0b98456467": {
+  "fr": {
+   "titulo": "IAACC Pablo Serrano",
+   "resumen": "Musée d'art contemporain avec l'œuvre du sculpteur Pablo Serrano et des expositions temporaires."
+  },
+  "de": {
+   "titulo": "IAACC Pablo Serrano",
+   "resumen": "Museum für zeitgenössische Kunst mit Werken des Bildhauers Pablo Serrano und Wechselausstellungen."
+  },
+  "it": {
+   "titulo": "IAACC Pablo Serrano",
+   "resumen": "Museo di arte contemporanea con l'opera dello scultore Pablo Serrano e mostre temporanee."
+  },
+  "pt": {
+   "titulo": "IAACC Pablo Serrano",
+   "resumen": "Museu de arte contemporânea com a obra do escultor Pablo Serrano e exposições temporárias."
+  }
+ },
+ "605f96275b": {
+  "fr": {
+   "titulo": "Pont du Troisième Millénaire",
+   "resumen": "L'un des plus grands ponts en arc de béton d'Europe, sur l'Èbre."
+  },
+  "de": {
+   "titulo": "Brücke des Dritten Jahrtausends",
+   "resumen": "Eine der längsten Betonbogenbrücken Europas über den Ebro."
+  },
+  "it": {
+   "titulo": "Ponte del Terzo Millennio",
+   "resumen": "Uno dei ponti ad arco in cemento più lunghi d'Europa, sull'Ebro."
+  },
+  "pt": {
+   "titulo": "Ponte do Terceiro Milénio",
+   "resumen": "Uma das maiores pontes em arco de betão da Europa, sobre o Ebro."
+  }
+ },
+ "ea55a48c33": {
+  "fr": {
+   "titulo": "Parc Métropolitain de l'Eau Luis Buñuel",
+   "resumen": "Parc au bord de l'Èbre créé pour l'Expo 2008, avec des promenades, un lac, des jeux et des zones de baignade en été."
+  },
+  "de": {
+   "titulo": "Metropolitanes Wasserpark Luis Buñuel",
+   "resumen": "Park am Ebro, der für die Expo 2008 angelegt wurde, mit Spazierwegen, einem See, Spielplätzen und Sommerbadebereichen."
+  },
+  "it": {
+   "titulo": "Parco Metropolitano dell'Acqua Luis Buñuel",
+   "resumen": "Parco lungo l'Ebro creato per Expo 2008, con passeggiate, lago, giochi e aree balneari in estate."
+  },
+  "pt": {
+   "titulo": "Parque Metropolitano da Água Luis Buñuel",
+   "resumen": "Parque junto ao Ebro criado para a Expo 2008, com passeios, lago, jogos e zonas de banho no verão."
+  }
+ },
+ "c6d3dc0f49": {
+  "fr": {
+   "titulo": "Basilique Sainte-Engrâce",
+   "resumen": "Temple avec un portail plateresque du XVIe siècle et une crypte avec des sarcophages paléochrétiens."
+  },
+  "de": {
+   "titulo": "Basilika Santa Engracia",
+   "resumen": "Tempel mit einem plateresken Portal aus dem 16. Jahrhundert und einer Krypta mit frühchristlichen Sarkophagen."
+  },
+  "it": {
+   "titulo": "Basilica di Santa Engracia",
+   "resumen": "Tempio con un portale plateresco del XVI secolo e una cripta con sarcofagi paleocristiani."
+  },
+  "pt": {
+   "titulo": "Basílica de Santa Engrácia",
+   "resumen": "Templo com uma portada plateresca do século XVI e uma cripta com sarcófagos paleocristãos."
+  }
+ },
+ "ad8866fac2": {
+  "fr": {
+   "titulo": "Église Saint-Paul de Saragosse",
+   "resumen": "Église mudéjar avec une tour en brique décorée, dans le quartier de La Magdalena."
+  },
+  "de": {
+   "titulo": "Kirche San Pablo",
+   "resumen": "Mudéjar-Kirche mit einem verzierten Backsteinturm im Viertel La Magdalena."
+  },
+  "it": {
+   "titulo": "Chiesa di San Paolo",
+   "resumen": "Chiesa mudéjar con una torre in mattoni decorata, nel quartiere La Magdalena."
+  },
+  "pt": {
+   "titulo": "Igreja de São Paulo",
+   "resumen": "Igreja mudéjar com uma torre de tijolo decorada, no bairro de La Magdalena."
+  }
+ },
+ "873adb02a9": {
+  "fr": {
+   "titulo": "Monastère de Piedra",
+   "resumen": "Monastère cistercien entouré de cascades, de grottes et d'un parc naturel parcouru de sentiers."
+  },
+  "de": {
+   "titulo": "Kloster Monasterio de Piedra",
+   "resumen": "Zisterzienserkloster umgeben von Wasserfällen, Grotten und einem Naturpark mit Wanderwegen."
+  },
+  "it": {
+   "titulo": "Monastero di Piedra",
+   "resumen": "Monastero cistercense circondato da cascate, grotte e un parco naturale percorso da sentieri."
+  },
+  "pt": {
+   "titulo": "Mosteiro de Piedra",
+   "resumen": "Mosteiro cisterciense rodeado de cascatas, grutas e um parque natural percorrido por trilhos."
+  }
+ },
+ "b9c7906869": {
+  "fr": {
+   "titulo": "Musée Guggenheim Bilbao",
+   "resumen": "Le bâtiment de Frank Gehry qui a changé Bilbao, avec de l'art contemporain et le Puppy de Koons à la porte."
+  },
+  "de": {
+   "titulo": "Guggenheim-Museum Bilbao",
+   "resumen": "Das Gebäude von Frank Gehry, das Bilbao veränderte, mit zeitgenössischer Kunst und dem Puppy von Koons vor der Tür."
+  },
+  "it": {
+   "titulo": "Museo Guggenheim Bilbao",
+   "resumen": "L'edificio di Frank Gehry che ha cambiato Bilbao, con arte contemporanea e il Puppy di Koons all'ingresso."
+  },
+  "pt": {
+   "titulo": "Museu Guggenheim Bilbao",
+   "resumen": "O edifício de Frank Gehry que mudou Bilbao, com arte contemporânea e o Puppy de Koons à porta."
+  }
+ },
+ "d46b77db90": {
+  "fr": {
+   "titulo": "Musée des Beaux-Arts de Bilbao",
+   "resumen": "Collection d'art ancien, moderne et contemporain allant des retables gothiques à Gauguin et Bacon."
+  },
+  "de": {
+   "titulo": "Museum der Schönen Künste Bilbao",
+   "resumen": "Sammlung alter, moderner und zeitgenössischer Kunst, von gotischen Altären bis zu Gauguin und Bacon."
+  },
+  "it": {
+   "titulo": "Museo delle Belle Arti di Bilbao",
+   "resumen": "Collezione d'arte antica, moderna e contemporanea che spazia dai retabli gotici a Gauguin e Bacon."
+  },
+  "pt": {
+   "titulo": "Museu de Belas Artes de Bilbao",
+   "resumen": "Coleção de arte antiga, moderna e contemporânea, de retábulos góticos a Gauguin e Bacon."
+  }
+ },
+ "ada73b5248": {
+  "fr": {
+   "titulo": "Théâtre Arriaga",
+   "resumen": "Théâtre de 1890 près de la ria et de la vieille ville, proposant opéra, théâtre et danse."
+  },
+  "de": {
+   "titulo": "Arriaga-Theater",
+   "resumen": "Theater von 1890 am Flussufer und in der Altstadt, mit Oper, Theater und Tanz."
+  },
+  "it": {
+   "titulo": "Teatro Arriaga",
+   "resumen": "Teatro del 1890 vicino alla ría e al Casco Viejo, con opera, teatro e danza."
+  },
+  "pt": {
+   "titulo": "Teatro Arriaga",
+   "resumen": "Teatro de 1890 junto à ria e à Cidade Velha, com ópera, teatro e dança."
+  }
+ },
+ "91e18e581b": {
+  "fr": {
+   "titulo": "Basilique de Begoña",
+   "resumen": "Sanctuaire de la patronne de la Biscaye en haut de la ville, avec des vues et un long escalier d'accès."
+  },
+  "de": {
+   "titulo": "Basilika von Begoña",
+   "resumen": "Heiligtum der Schutzpatronin von Bizkaia hoch über der Stadt, mit Aussicht und einer langen Treppe zum Zugang."
+  },
+  "it": {
+   "titulo": "Basilica di Begoña",
+   "resumen": "Santuario della patrona di Bizkaia in cima alla città, con vista e una lunga scalinata di accesso."
+  },
+  "pt": {
+   "titulo": "Basílica de Begoña",
+   "resumen": "Santuário da padroeira da Biscaia no alto da cidade, com vistas e uma longa escadaria de acesso."
+  }
+ },
+ "d4b61147d8": {
+  "fr": {
+   "titulo": "Cathédrale Saint-Jacques de Bilbao",
+   "resumen": "Cathédrale gothique de la vieille ville avec un cloître et un portique de Saint-Jacques-le-Majeur pèlerin."
+  },
+  "de": {
+   "titulo": "Kathedrale Santiago",
+   "resumen": "Gotische Kathedrale in der Altstadt mit einem Kreuzgang und einem Portikus des Pilgers Jakobus."
+  },
+  "it": {
+   "titulo": "Cattedrale di Santiago",
+   "resumen": "Cattedrale gotica nel Casco Viejo con un chiostro e un portico di San Giacomo pellegrino."
+  },
+  "pt": {
+   "titulo": "Sé Catedral de Santiago",
+   "resumen": "Catedral gótica na Cidade Velha com um claustro e um pórtico de Santiago peregrino."
+  }
+ },
+ "94869a2657": {
+  "fr": {
+   "titulo": "Hôtel de Ville de Bilbao",
+   "resumen": "Bâtiment de la fin du XIXe siècle près de la ria, avec une salle mauresque visitable."
+  },
+  "de": {
+   "titulo": "Rathaus von Bilbao",
+   "resumen": "Gebäude vom Ende des 19. Jahrhunderts am Flussufer mit einem besuchbaren maurischen Saal."
+  },
+  "it": {
+   "titulo": "Municipio di Bilbao",
+   "resumen": "Edificio della fine del XIX secolo vicino alla ría, con una sala moresca visitabile."
+  },
+  "pt": {
+   "titulo": "Câmara Municipal de Bilbao",
+   "resumen": "Edifício do final do século XIX junto à ria, com um salão mourisco visitável."
+  }
+ },
+ "6cd24c6d70": {
+  "fr": {
+   "titulo": "Palais de la Députation de Biscaye",
+   "resumen": "Palais de 1900 avec des vitraux racontant l'histoire de la Biscaye, sur la Gran Vía."
+  },
+  "de": {
+   "titulo": "Palast der Provinzverwaltung von Bizkaia",
+   "resumen": "Palast von 1900 mit Buntglasfenstern, die die Geschichte von Bizkaia erzählen, an der Gran Vía."
+  },
+  "it": {
+   "titulo": "Palazzo della Diputación di Bizkaia",
+   "resumen": "Palazzo del 1900 con vetrate che narrano la storia della Biscaglia, sulla Gran Vía."
+  },
+  "pt": {
+   "titulo": "Palácio da Diputação de Bizkaia",
+   "resumen": "Palácio de 1900 com vitrais que narram a história da Biscaia, na Gran Vía."
+  }
+ },
+ "3432381d99": {
+  "fr": {
+   "titulo": "Université de Deusto",
+   "resumen": "Campus historique sur la rive de la ria, en face du Guggenheim."
+  },
+  "de": {
+   "titulo": "Universität Deusto",
+   "resumen": "Historischer Campus am Ufer des Flusses, gegenüber dem Guggenheim."
+  },
+  "it": {
+   "titulo": "Università di Deusto",
+   "resumen": "Campus storico sulla riva della ría, di fronte al Guggenheim."
+  },
+  "pt": {
+   "titulo": "Universidade de Deusto",
+   "resumen": "Campus histórico na margem da ria, em frente ao Guggenheim."
+  }
+ },
+ "793f885794": {
+  "fr": {
+   "titulo": "Plaza Nueva",
+   "resumen": "Place néoclassique à arcades dans la Vieille Ville, avec des bars à pintxos et un marché le dimanche."
+  },
+  "de": {
+   "titulo": "Plaza Nueva",
+   "resumen": "Ein neoklassizistischer Arkadenplatz in der Altstadt mit Pintxo-Bars und einem Sonntagsmarkt."
+  },
+  "it": {
+   "titulo": "Plaza Nueva",
+   "resumen": "Piazza neoclassica porticata nella Città Vecchia, con bar di pintxos e un mercato la domenica."
+  },
+  "pt": {
+   "titulo": "Plaza Nueva",
+   "resumen": "Praça neoclássica com arcadas na Cidade Velha, com bares de pintxos e um mercado aos domingos."
+  }
+ },
+ "f771d91e79": {
+  "fr": {
+   "titulo": "Musée de la Paix de Gernika",
+   "resumen": "Musée sur le bombardement de 1937 et la culture de la paix."
+  },
+  "de": {
+   "titulo": "Friedensmuseum Gernika",
+   "resumen": "Ein Museum über den Bombenangriff von 1937 und die Friedenskultur."
+  },
+  "it": {
+   "titulo": "Museo della Pace di Gernika",
+   "resumen": "Museo sul bombardamento del 1937 e sulla cultura della pace."
+  },
+  "pt": {
+   "titulo": "Museu da Paz de Gernika",
+   "resumen": "Museu sobre o bombardeamento de 1937 e a cultura da paz."
+  }
+ },
+ "11db011f01": {
+  "fr": {
+   "titulo": "Maison des Juntes de Gernika",
+   "resumen": "Siège historique des Juntes Générales de Bizkaia, avec le chêne symbole des libertés basques."
+  },
+  "de": {
+   "titulo": "Haus der Juntas von Gernika",
+   "resumen": "Historischer Sitz der Generalversammlungen von Bizkaia, neben der Eiche, die die baskischen Freiheiten symbolisiert."
+  },
+  "it": {
+   "titulo": "Casa de Juntas di Gernika",
+   "resumen": "Sede storica delle Juntas Generales di Bizkaia, con la quercia simbolo delle libertà basche."
+  },
+  "pt": {
+   "titulo": "Casa de Juntas de Gernika",
+   "resumen": "Sede histórica das Juntas Gerais de Bizkaia, com o carvalho símbolo das liberdades bascas."
+  }
+ },
+ "7a01f19359": {
+  "fr": {
+   "titulo": "Murailles et portes de Hondarribia",
+   "resumen": "Enceinte fortifiée avec portes, bastions et un centre historique à parcourir à pied."
+  },
+  "de": {
+   "titulo": "Mauern und Tore von Hondarribia",
+   "resumen": "Eine ummauerte Anlage mit Toren, Bastionen und einer Altstadt, die am besten zu Fuß erkundet wird."
+  },
+  "it": {
+   "titulo": "Mura e porte di Hondarribia",
+   "resumen": "Recinto fortificato con porte, bastioni e un centro storico da percorrere a piedi."
+  },
+  "pt": {
+   "titulo": "Muralhas e portas de Hondarribia",
+   "resumen": "Recinto murado com portas, baluartes e um centro histórico a ser percorrido a pé."
+  }
+ },
+ "249a241a48": {
+  "fr": {
+   "titulo": "Fort de Guadalupe",
+   "resumen": "Fortification du XIXe siècle sur le mont Jaizkibel, avec vue sur la baie de Txingudi."
+  },
+  "de": {
+   "titulo": "Fort Guadalupe",
+   "resumen": "Eine Festung aus dem 19. Jahrhundert auf dem Berg Jaizkibel mit Blick auf die Bucht von Txingudi."
+  },
+  "it": {
+   "titulo": "Forte di Guadalupe",
+   "resumen": "Fortificazione del XIX secolo sul monte Jaizkibel, con vista sulla baia di Txingudi."
+  },
+  "pt": {
+   "titulo": "Forte de Guadalupe",
+   "resumen": "Fortificação do século XIX no monte Jaizkibel, com vista para a baía de Txingudi."
+  }
+ },
+ "d301d37e8b": {
+  "fr": {
+   "titulo": "Cathédrale de Saint-Jacques-de-Compostelle",
+   "resumen": "Fin du Chemin de Saint-Jacques, avec le Pórtico de la Gloria et la tombe de l'apôtre."
+  },
+  "de": {
+   "titulo": "Kathedrale von Santiago de Compostela",
+   "resumen": "Endpunkt des Jakobswegs, mit dem Pórtico de la Gloria und dem Grab des Apostels."
+  },
+  "it": {
+   "titulo": "Cattedrale di Santiago de Compostela",
+   "resumen": "Fine del Cammino di Santiago, con il Pórtico de la Gloria e la tomba dell'apostolo."
+  },
+  "pt": {
+   "titulo": "Catedral de Santiago de Compostela",
+   "resumen": "Final do Caminho de Santiago, com o Pórtico da Glória e o túmulo do apóstolo."
+  }
+ },
+ "69be11f864": {
+  "fr": {
+   "titulo": "Musée de la Cathédrale de Saint-Jacques",
+   "resumen": "Cloître, trésor et crypte du Pórtico de la Gloria, ainsi que l'accès aux toits."
+  },
+  "de": {
+   "titulo": "Museum der Kathedrale von Santiago",
+   "resumen": "Kreuzgang, Schatzkammer und Krypta des Pórtico de la Gloria sowie Zugang zum Dach."
+  },
+  "it": {
+   "titulo": "Museo della Cattedrale di Santiago",
+   "resumen": "Chiostro, tesoro e cripta del Pórtico de la Gloria, oltre all'accesso ai tetti."
+  },
+  "pt": {
+   "titulo": "Museu da Catedral de Santiago",
+   "resumen": "Claustro, tesouro e cripta do Pórtico da Glória, além do acesso aos telhados."
+  }
+ },
+ "67fb97ed92": {
+  "fr": {
+   "titulo": "Hostal de los Reyes Católicos",
+   "resumen": "Ancien hôpital de pèlerins du XVIe siècle, aujourd'hui Parador, sur la place de l'Obradoiro."
+  },
+  "de": {
+   "titulo": "Hostal de los Reyes Católicos",
+   "resumen": "Ein ehemaliges Pilgerhospiz aus dem 16. Jahrhundert, heute ein Parador, am Obradoiro-Platz."
+  },
+  "it": {
+   "titulo": "Hostal de los Reyes Católicos",
+   "resumen": "Antico ospedale per pellegrini del XVI secolo, oggi Parador, nella piazza dell'Obradoiro."
+  },
+  "pt": {
+   "titulo": "Hostal de los Reyes Católicos",
+   "resumen": "Antigo hospital de peregrinos do século XVI, hoje Parador, na praça do Obradoiro."
+  }
+ },
+ "ffb87daed6": {
+  "fr": {
+   "titulo": "Palais de Raxoi",
+   "resumen": "Palais néoclassique de l'Obradoiro, siège de la mairie et de la Xunta de Galicia."
+  },
+  "de": {
+   "titulo": "Palast von Raxoi",
+   "resumen": "Ein neoklassizistischer Palast am Obradoiro, Sitz des Rathauses und der Xunta de Galicia."
+  },
+  "it": {
+   "titulo": "Palazzo Raxoi",
+   "resumen": "Palazzo neoclassico dell'Obradoiro, sede del municipio e della Xunta de Galicia."
+  },
+  "pt": {
+   "titulo": "Palácio Raxoi",
+   "resumen": "Palácio neoclássico do Obradoiro, sede da Câmara Municipal e da Xunta de Galicia."
+  }
+ },
+ "bdb97413d7": {
+  "fr": {
+   "titulo": "Monastère de San Martín Pinario",
+   "resumen": "Grand monastère bénédictin avec une église baroque, des cloîtres et un escalier monumental."
+  },
+  "de": {
+   "titulo": "Kloster San Martín Pinario",
+   "resumen": "Ein großes Benediktinerkloster mit einer Barockkirche, Kreuzgängen und einer monumentalen Treppe."
+  },
+  "it": {
+   "titulo": "Monastero di San Martín Pinario",
+   "resumen": "Grande monastero benedettino con una chiesa barocca, chiostri e una scala monumentale."
+  },
+  "pt": {
+   "titulo": "Mosteiro de San Martín Pinario",
+   "resumen": "Grande mosteiro beneditino com igreja barroca, claustros e uma escadaria monumental."
+  }
+ },
+ "feae939b2a": {
+  "fr": {
+   "titulo": "Cité de la Culture de Galice",
+   "resumen": "Complexe de Peter Eisenman sur le mont Gaiás avec musée, bibliothèque et sentiers."
+  },
+  "de": {
+   "titulo": "Stadt der Kultur von Galicien",
+   "resumen": "Peter Eisenmans Komplex auf dem Berg Gaiás mit Museum, Bibliothek und Wanderwegen."
+  },
+  "it": {
+   "titulo": "Cidade da Cultura de Galicia",
+   "resumen": "Complesso di Peter Eisenman sul monte Gaiás con museo, biblioteca e sentieri."
+  },
+  "pt": {
+   "titulo": "Cidade da Cultura de Galicia",
+   "resumen": "Complexo de Peter Eisenman no monte Gaiás com museu, biblioteca e trilhos."
+  }
+ },
+ "e897731ce2": {
+  "fr": {
+   "titulo": "Centre Galicien d'Art Contemporain (CGAC)",
+   "resumen": "Musée d'Álvaro Siza dédié à l'art contemporain, à côté du centre historique."
+  },
+  "de": {
+   "titulo": "Galicisches Zentrum für Zeitgenössische Kunst (CGAC)",
+   "resumen": "Ein Museum von Álvaro Siza für zeitgenössische Kunst neben dem historischen Zentrum."
+  },
+  "it": {
+   "titulo": "Centro Galiziano di Arte Contemporanea (CGAC)",
+   "resumen": "Museo di Álvaro Siza dedicato all'arte contemporanea, accanto al centro storico."
+  },
+  "pt": {
+   "titulo": "Centro Galego de Arte Contemporânea (CGAC)",
+   "resumen": "Museu de Álvaro Siza dedicado à arte contemporânea, junto ao centro histórico."
+  }
+ },
+ "ea32ff3c5e": {
+  "fr": {
+   "titulo": "Musée du Peuple Galicien",
+   "resumen": "Musée ethnographique dans un ancien couvent, avec un escalier triple en colimaçon très photographié."
+  },
+  "de": {
+   "titulo": "Museum des Galicischen Volkes",
+   "resumen": "Ein ethnografisches Museum in einem ehemaligen Kloster, bekannt für eine viel fotografierte dreifache Wendeltreppe."
+  },
+  "it": {
+   "titulo": "Museo del Popolo Galiziano",
+   "resumen": "Museo etnografico in un ex convento, con una scala a chiocciola tripla molto fotografata."
+  },
+  "pt": {
+   "titulo": "Museu do Povo Galego",
+   "resumen": "Museu etnográfico num antigo convento, com uma escadaria em caracol tripla muito fotografada."
+  }
+ },
+ "6307b04b93": {
+  "fr": {
+   "titulo": "Muraille romaine de Lugo",
+   "resumen": "Unique muraille romaine au monde entièrement conservée; on peut marcher sur son chemin de ronde."
+  },
+  "de": {
+   "titulo": "Römische Stadtmauer von Lugo",
+   "resumen": "Die einzige römische Stadtmauer der Welt, die vollständig erhalten ist; man kann auf ihr spazieren gehen."
+  },
+  "it": {
+   "titulo": "Mura romane di Lugo",
+   "resumen": "Unica cinta muraria romana al mondo conservata integralmente; si può camminare sul suo camminamento."
+  },
+  "pt": {
+   "titulo": "Muralha Romana de Lugo",
+   "resumen": "Única muralha romana do mundo conservada na íntegra; pode-se caminhar pelo seu adarve."
+  }
+ },
+ "662cad8b89": {
+  "fr": {
+   "titulo": "Pont Majeur d'Ourense",
+   "resumen": "Pont d'origine romaine sur le Miño, avec une grande arche centrale."
+  },
+  "de": {
+   "titulo": "Puente Mayor von Ourense",
+   "resumen": "Eine Brücke römischen Ursprungs über den Miño mit einem großen Mittelbogen."
+  },
+  "it": {
+   "titulo": "Ponte Maggiore di Ourense",
+   "resumen": "Ponte di origine romana sul Miño, con un grande arco centrale."
+  },
+  "pt": {
+   "titulo": "Ponte Maior de Ourense",
+   "resumen": "Ponte de origem romana sobre o rio Miño, com um grande arco central."
+  }
+ },
+ "46042b775e": {
+  "fr": {
+   "titulo": "Pazo de Oca",
+   "resumen": "Manoir galicien avec jardins de camélias, étangs et une petite chapelle."
+  },
+  "de": {
+   "titulo": "Pazo de Oca",
+   "resumen": "Ein galicisches Herrenhaus mit Kameliengärten, Teichen und einer kleinen Kapelle."
+  },
+  "it": {
+   "titulo": "Pazo de Oca",
+   "resumen": "Dimora signorile galiziana con giardini di camelie, stagni e una piccola cappella."
+  },
+  "pt": {
+   "titulo": "Pazo de Oca",
+   "resumen": "Solar galego com jardins de camélias, lagos e uma pequena capela."
+  }
+ },
+ "3b85c324b4": {
+  "fr": {
+   "titulo": "Université de Salamanque",
+   "resumen": "La plus ancienne université d'Espagne encore en usage, avec une façade plateresque et le crapaud caché."
+  },
+  "de": {
+   "titulo": "Universität Salamanca",
+   "resumen": "Die älteste noch genutzte Universität Spaniens mit einer plateresken Fassade und dem versteckten Frosch."
+  },
+  "it": {
+   "titulo": "Università di Salamanca",
+   "resumen": "L'università più antica della Spagna ancora in uso, con una facciata plateresca e il rospo nascosto."
+  },
+  "pt": {
+   "titulo": "Universidade de Salamanca",
+   "resumen": "A universidade mais antiga de Espanha em uso, com uma fachada plateresca e o sapo escondido."
+  }
+ },
+ "b3ce46e36c": {
+  "fr": {
+   "titulo": "Plaza Mayor de Salamanque",
+   "resumen": "Place baroque en pierre dorée, cœur social de la ville."
+  },
+  "de": {
+   "titulo": "Plaza Mayor von Salamanca",
+   "resumen": "Ein barocker Platz aus goldenem Stein und das soziale Herz der Stadt."
+  },
+  "it": {
+   "titulo": "Plaza Mayor di Salamanca",
+   "resumen": "Piazza barocca in pietra dorata, cuore sociale della città."
+  },
+  "pt": {
+   "titulo": "Plaza Mayor de Salamanca",
+   "resumen": "Praça barroca de pedra dourada, coração social da cidade."
+  }
+ },
+ "8501f7dd0f": {
+  "fr": {
+   "titulo": "Cathédrales de Salamanque",
+   "resumen": "Deux cathédrales unies, l'ancienne romane et la nouvelle gothique, avec accès aux tours."
+  },
+  "de": {
+   "titulo": "Kathedralen von Salamanca",
+   "resumen": "Zwei verbundene Kathedralen, die romanische alte und die gotische neue, mit Turmzugang."
+  },
+  "it": {
+   "titulo": "Cattedrali di Salamanca",
+   "resumen": "Due cattedrali unite, la vecchia romanica e la nuova gotica, con accesso alle torri."
+  },
+  "pt": {
+   "titulo": "Catedrais de Salamanca",
+   "resumen": "Duas catedrais unidas, a velha românica e a nova gótica, com acesso às torres."
+  }
+ },
+ "e252093f39": {
+  "fr": {
+   "titulo": "Maison des Coquilles",
+   "resumen": "Bâtiment gothique du XVe siècle avec une façade recouverte de coquilles Saint-Jacques, aujourd'hui bibliothèque publique."
+  },
+  "de": {
+   "titulo": "Haus der Muscheln",
+   "resumen": "Ein gotisches Gebäude aus dem 15. Jahrhundert mit einer Fassade, die mit Jakobsmuscheln bedeckt ist, heute eine öffentliche Bibliothek."
+  },
+  "it": {
+   "titulo": "Casa de las Conchas",
+   "resumen": "Edificio gotico del XV secolo con facciata ricoperta di conchiglie, oggi biblioteca pubblica."
+  },
+  "pt": {
+   "titulo": "Casa das Conchas",
+   "resumen": "Edifício gótico do século XV com a fachada coberta de conchas, hoje biblioteca pública."
+  }
  }
 }

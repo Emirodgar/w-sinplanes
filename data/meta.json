@@ -1,11 +1,11 @@
 {
-  "generated": "2026-10-20T09:08:56.418Z",
+  "generated": "2026-10-20T10:29:17.340Z",
   "today": "2026-10-20",
-  "events": 1774,
-  "review": 5,
+  "events": 1782,
+  "review": 6,
   "ai": {
-    "calls": 0,
-    "seconds": 16,
+    "calls": 14,
+    "seconds": 190,
     "tripped": false
   },
   "sources": [
@@ -23,7 +23,7 @@
       "id": "euskadi-kulturklik",
       "nombre": "Kulturklik, agenda cultural de Euskadi",
       "status": "error",
-      "detail": "fetch failed"
+      "detail": "HTTP 503 en https://api.euskadi.eus/culture/events/v1.0/events/upcoming?_elements=50&_page=1"
     },
     {
       "id": "coruna-agenda",
@@ -49,13 +49,13 @@
     {
       "id": "prensa-20minutos-cultura",
       "status": "ok",
-      "count": 9,
+      "count": 10,
       "candidatos": true
     },
     {
       "id": "prensa-elpais-cultura",
       "status": "ok",
-      "count": 15,
+      "count": 14,
       "candidatos": true
     },
     {
@@ -67,13 +67,13 @@
     {
       "id": "prensa-ara-cultura",
       "status": "ok",
-      "count": 10,
+      "count": 9,
       "candidatos": true
     },
     {
       "id": "prensa-heraldo-ocio",
       "status": "ok",
-      "count": 18,
+      "count": 17,
       "candidatos": true
     },
     {
@@ -115,13 +115,13 @@
     {
       "id": "prensa-diariovasco-culturas",
       "status": "ok",
-      "count": 13,
+      "count": 14,
       "candidatos": true
     },
     {
       "id": "prensa-lasprovincias-culturas",
       "status": "ok",
-      "count": 14,
+      "count": 16,
       "candidatos": true
     },
     {
@@ -150,9 +150,9 @@
     },
     {
       "id": "prensa-elprogreso",
-      "status": "ok",
-      "count": 7,
-      "candidatos": true
+      "nombre": "El Progreso (Lugo)",
+      "status": "error",
+      "detail": "HTTP 403 en https://www.elprogreso.es/rss/"
     }
   ]
 }

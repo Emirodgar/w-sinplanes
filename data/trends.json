@@ -23,12 +23,22 @@
   },
   {
    "term": "rebeca torró",
-   "traffic": 2000,
+   "traffic": 5000,
    "lastSeen": "2026-10-20",
    "news": [
-    "Mal lo tiene que ver Sánchez",
-    "Montse Mínguez y el penoso final de otra oficial de tercera del 'tardosanchismo'",
-    "Noche (17-10-26) Rebeca Torró sustituye a Montse Mínguez como portavoz del PSOE tras su dimisión"
+    "La nueva portavoz del PSOE intentó comprar a un alcalde valenciano en 2019 para apartarlo como rival electoral",
+    "Rebeca, comodín de Sánchez, o la alcaldesa que no fue",
+    "Quién es Rebeca Torró, secretaria de Organización y nueva portavoz del PSOE"
+   ]
+  },
+  {
+   "term": "alemania",
+   "traffic": 5000,
+   "lastSeen": "2026-10-20",
+   "news": [
+    "Ryanair confirma una nueva ruta internacional en el aeropuerto de Castellón para el verano de 2027",
+    "Ryanair conecta Sevilla con el corazón de Baviera: la nueva ruta directa que arranca en marzo",
+    "Sevilla tendrá vuelos directos con la ciudad alemana de Memmingen a partir de marzo de 2027"
    ]
   },
   {
@@ -62,6 +72,26 @@
    ]
   },
   {
+   "term": "impuesto",
+   "traffic": 1000,
+   "lastSeen": "2026-10-20",
+   "news": [
+    "Prohens elimina los impuestos por la compra de la primera vivienda a los menores de 36 años",
+    "Los principales anuncios de Prohens en el Debate de Política General: rebajas fiscales, ayudas a la vivienda, trenes nocturnos y menos pantallas en las aulas",
+    "Prohens anuncia un ambicioso paquete de vivienda: elimina impuestos y destina dinero de la ecotasa"
+   ]
+  },
+  {
+   "term": "alcalde de parauta",
+   "traffic": 1000,
+   "lastSeen": "2026-10-20",
+   "news": [
+    "La alcaldesa de Parauta solicita la baja del PSOE tras ganar todos los concejales en las últimas municipales",
+    "La alcaldesa más votada del PSOE de Málaga se da de baja del partido",
+    "La alcaldesa de Parauta, la más votada en las municipales, pide la baja del PSOE"
+   ]
+  },
+  {
    "term": "revolut down",
    "traffic": 500,
    "lastSeen": "2026-10-20",
@@ -79,6 +109,26 @@
     "Indra mantiene el 25 de noviembre para presentar su plan estratégico pese a la proximidad de las elecciones",
     "Indra mantiene la presentación de su plan estratégico el 25 de noviembre pese a la cercanía de las elecciones",
     "Indra conserva su cita estratégica cuatro días antes de las elecciones"
+   ]
+  },
+  {
+   "term": "tubos reunidos",
+   "traffic": 500,
+   "lastSeen": "2026-10-20",
+   "news": [
+    "Tubos Reunidos inicia la liquidación de su matriz y los accionistas pierden 21,7 millones",
+    "Tubos Reunidos pide su liquidación y deja atrapada a la SEPI con 140 millones de deuda",
+    "Tubos Reunidos solicita la apertura de la fase de liquidación de su matriz ante la falta de ofertas"
+   ]
+  },
+  {
+   "term": "futbolista",
+   "traffic": 500,
+   "lastSeen": "2026-10-20",
+   "news": [
+    "Vídeo: Larcamón destaca a un futbolista del Sporting en su charla: «El fútbol premia tu esfuerzo»",
+    "Nico, satisfecho con su equipo",
+    "El curioso nuevo bautismo en el vestuario del Sporting de Gijón: \"Me pone muy contento 'el Flaco'\""
    ]
   },
   {
@@ -116,19 +166,38 @@
    "traffic": 200,
    "lastSeen": "2026-10-20",
    "news": [
-    "Bucsa y Melichar ya son la quinta pareja del mundo",
-    "El tenis español tendrá debutante de lujo en las WTA Finals 2026",
-    "Cristina Bucsa, la representante española en las WTA Finals de dobles"
+    "Bucsa, eliminada en primera ronda del torneo de Ningbo",
+    "WTA 500 Ningbo – Bucsa vs. Kudermetova: fecha, hora y dónde ver",
+    "Cristina Bucsa 0 - 2 Polina Kudermetova: resumen y estadísticas del partido de Ningbo Open (WTA)"
    ]
   },
   {
-   "term": "tubos reunidos",
+   "term": "melani olivares",
    "traffic": 200,
    "lastSeen": "2026-10-20",
    "news": [
-    "Tubos Reunidos inicia la liquidación de su matriz y los accionistas pierden 21,7 millones",
-    "Tubos Reunidos pide su liquidación y deja atrapada a la SEPI con 140 millones de deuda",
-    "Tubos Reunidos solicita la apertura de la fase de liquidación de su matriz ante la falta de ofertas"
+    "Melanie Olivares: “Yo sabía desde el primer día que Carmen Machi se quería ir de ‘Aída’. Ella no quería empezarla. La presionaban para que se quedara”",
+    "Melani Olivares: “En ‘Aida’ trataron por todos los medios de que no se me notara el embarazo, pero cogí 30 kilos. Los guionistas se inventaron que había engordado porque tenía gases”"
+   ]
+  },
+  {
+   "term": "airbus a330 mrtt",
+   "traffic": 200,
+   "lastSeen": "2026-10-20",
+   "news": [
+    "Airbus entrega el tercer A330 MRTT para reabastecimiento al Ejército del Aire y del Espacio, convertido en la planta de Getafe",
+    "Los nuevos Airbus A330 MRTT para España serán de la versión Plus",
+    "Defensa prepara el relevo de los aviones vip de transporte de autoridades con el MRTT+"
+   ]
+  },
+  {
+   "term": "iñaki angulo",
+   "traffic": 200,
+   "lastSeen": "2026-10-20",
+   "news": [
+    "Bellerín denuncia por delitos de odio al youtuber que le dirigió insultos homófobos tras el Betis - Real Madrid",
+    "El futbolista Héctor Bellerín se querella contra el youtuber vasco que le dedicó insultos homófobos tras ganar al Real Madrid",
+    "El futbolista Héctor Bellerín denuncia por delitos de odio al youtuber que le insultó por \"pintarse las uñas\" en un directo"
    ]
   }
  ]
