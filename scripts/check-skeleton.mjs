@@ -5,6 +5,7 @@ import path from 'node:path';
 import { load as yamlLoad } from 'js-yaml';
 import { readFileSync } from 'node:fs';
 import { ROOT, slugify, readJSON } from './lib/util.mjs';
+import { readLugares } from './lib/seasonal.mjs';
 
 const LANGS = ['es', 'en', 'fr', 'de', 'it', 'pt'];
 const SEG = {
@@ -24,7 +25,7 @@ const MONTHS = {
 const topics = readJSON('config/topics.json');
 const geo = readJSON('config/geo.json');
 const doc = yamlLoad(readFileSync(path.join(ROOT, 'config/seasonal.yml'), 'utf8'));
-const planSlugs = [...(doc.temporada || []), ...(doc.citas || [])].map((x) => x.id);
+const planSlugs = [...(doc.temporada || []), ...(doc.citas || []), ...readLugares()].map((x) => x.id);
 
 const expected = [];
 for (const l of LANGS) {

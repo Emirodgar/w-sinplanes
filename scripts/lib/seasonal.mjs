@@ -57,6 +57,12 @@ export function nextOccurrence(regla, today) {
   return occurrence(regla, y + 1);
 }
 
+/** Lugares fijos de config/lugares.yml, de todos los grupos y con su enlace a la fuente (lo usan el esqueleto y check-skeleton). */
+export function readLugares() {
+  const doc = yamlLoad(readFileSync(path.join(ROOT, 'config/lugares.yml'), 'utf8')) || {};
+  return Object.keys(doc.bases || {}).flatMap((g) => (doc[g] || []).map((l) => ({ ...l, fuente: doc.bases[g] + l.id + '/' })));
+}
+
 function placeOf(lugar) {
   if (!lugar) return { scope: 'nacional' };
   const p = resolveProvince(lugar.provincia);
@@ -86,7 +92,18 @@ export function buildSeasonalPlans(today) {
       title: { es: c.es.titulo, en: c.en.titulo },
       summary: { es: c.es.resumen, en: c.en.resumen },
       start, end, topics: c.temas,
-      place: placeOf(c.lugar), source: { name: 'sinplanes', url: null },
+      place: placeOf(c.lugar), source: { name: 'sinplanes', url: c.fuente || null },
+    });
+  }
+
+  // Lugares fijos (museos, parques, rutas…): sin fecha, abiertos todo el año. Ver config/lugares.yml.
+  for (const l of readLugares()) {
+    plans.push({
+      id: `l-${l.id}`, slug: l.id, kind: 'lugar',
+      title: { es: l.es[0], en: l.en[0] },
+      summary: { es: l.es[1], en: l.en[1] },
+      months: [], topics: l.temas,
+      place: placeOf(l.lugar ? { provincia: l.lugar[0], municipio: l.lugar[1] } : null), source: { name: 'sinplanes', url: l.fuente },
     });
   }
   return plans;

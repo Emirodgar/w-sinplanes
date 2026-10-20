@@ -1,7 +1,7 @@
 ---
 import Base from '../layouts/Base.astro';
 import { t, url, LANGS, HREFLANG } from '../i18n/ui.js';
-import { fmtWhen, fmtPlace, topicById, isPast, textLang, slugify, ptitle, psummary, availLangs } from '../lib/data.js';
+import { fmtWhen, fmtPlace, topicById, isPast, isPlace, textLang, slugify, ptitle, psummary, availLangs } from '../lib/data.js';
 
 const { lang, plan: p } = Astro.props;
 const L = t[lang];
@@ -12,7 +12,12 @@ const pl = p.place || {};
 const tl = textLang(lang, p);
 
 // Event solo cuando hay fecha y lugar físico (requisito de Google para resultados de eventos)
-const jsonld = p.kind !== 'estacional' && pl.scope === 'local' && !past ? {
+const address = { '@type': 'PostalAddress', addressLocality: pl.municipio, addressRegion: pl.provincia, addressCountry: 'ES' };
+const jsonld = isPlace(p) ? (pl.scope !== 'local' ? null : {
+  '@context': 'https://schema.org', '@type': 'TouristAttraction',
+  name: title, description: summary, inLanguage: HREFLANG[tl || lang], address,
+  ...(p.source?.url ? { url: p.source.url } : {}),
+}) : p.kind !== 'estacional' && pl.scope === 'local' && !past ? {
   '@context': 'https://schema.org', '@type': 'Event',
   name: title, description: summary,
   startDate: p.time ? `${p.start}T${p.time}` : p.start, endDate: p.end || p.start,

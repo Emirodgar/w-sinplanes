@@ -12,7 +12,8 @@ export const slugify = (s = '') => String(s).normalize('NFD').replace(/[\u0300-\
 const addDays = (iso, n) => { const d = new Date(iso + 'T12:00:00Z'); d.setUTCDate(d.getUTCDate() + n); return d.toISOString().slice(0, 10); };
 
 export const isPast = (p) => !!p.end && p.end < TODAY;
-export const isDated = (p) => p.kind !== 'estacional';
+export const isPlace = (p) => p.kind === 'lugar'; // museo, monumento…: sin fecha, abierto todo el año
+export const isDated = (p) => p.kind !== 'estacional' && !isPlace(p);
 export const upcoming = (list = plans) => list.filter((p) => isDated(p) && !isPast(p));
 export const overlaps = (p, from, to) => p.start <= to && (p.end || p.start) >= from;
 export const currentMonth = () => Number(TODAY.slice(5, 7));
@@ -37,7 +38,7 @@ export function inMonth(m) {
 }
 
 export const byTopic = (id) => plans.filter((p) => p.topics?.includes(id) && !isPast(p));
-export const byCcaa = (slug) => upcoming().filter((p) => p.place?.ccaa === slug);
+export const byCcaa = (slug) => [...upcoming(), ...plans.filter(isPlace)].filter((p) => p.place?.ccaa === slug);
 export const byProvince = (slug, prov) => byCcaa(slug).filter((p) => slugify(p.place.provincia) === prov);
 
 /** Minúsculas y sin tildes: base de la búsqueda (el mismo criterio en servidor y en el navegador). */
@@ -70,6 +71,7 @@ export function fmtDay(lang, iso, opts = { weekday: 'long', day: 'numeric', mont
 }
 export function fmtWhen(lang, p) {
   const L = t[lang];
+  if (isPlace(p)) return L.allYear;
   if (p.kind === 'estacional') {
     const names = p.months.map((m) => monthName(lang, m));
     if (names.length === 12) return L.allYear;
@@ -90,7 +92,7 @@ export const cap = (s) => s.charAt(0).toUpperCase() + s.slice(1);
 /** Planes que conectan con las búsquedas en tendencia (la señal la calcula el pipeline). */
 export const trending = (n = 5) =>
   plans
-    .filter((p) => p.trend && (isDated(p) ? !isPast(p) : p.months.includes(currentMonth())))
+    .filter((p) => p.trend && (isDated(p) ? !isPast(p) : p.months?.includes(currentMonth())))
     .sort((a, b) => b.trend - a.trend)
     .slice(0, n);
 

@@ -3,11 +3,11 @@ import HomeView from './HomeView.astro';
 import PlanView from './PlanView.astro';
 import ListView from './ListView.astro';
 import { t, url, monthName } from '../i18n/ui.js';
-import { topics, byTopic, byCcaa, byProvince, slugify, geo, inMonth, currentMonth, cap, inLang } from '../lib/data.js';
+import { topics, byTopic, byCcaa, byProvince, slugify, geo, inMonth, currentMonth, cap, inLang, isPlace } from '../lib/data.js';
 
 const { lang, r } = Astro.props;
 const L = t[lang];
-const split = (list) => ({ seasonal: list.filter((p) => p.kind === 'estacional'), dated: list.filter((p) => p.kind !== 'estacional') });
+const split = (list) => ({ seasonal: list.filter((p) => p.kind === 'estacional'), fixed: list.filter(isPlace), dated: list.filter((p) => p.kind !== 'estacional' && !isPlace(p)) });
 ---
 {r.type === 'home' && <HomeView lang={lang} />}
 
@@ -36,7 +36,7 @@ const split = (list) => ({ seasonal: list.filter((p) => p.kind === 'estacional')
 {r.type === 'ccaa' && (() => {
   const provs = r.geo.provincias.map((p) => ({ p, s: slugify(p), n: inLang(byProvince(r.c, slugify(p)), lang).length })).filter((x) => x.n > 0);
   return (
-    <ListView lang={lang} title={L.inPlace(r.geo[lang])} route={r} dated={byCcaa(r.c)}>
+    <ListView lang={lang} title={L.inPlace(r.geo[lang])} route={r} {...split(byCcaa(r.c))}>
       {provs.length > 1 && <section class="section"><h2>{L.provinces}</h2><ul class="chips">
         {provs.map((x) => <li><a href={url.province(lang, r.c, x.s)}>{x.p}<span class="count">{x.n}</span></a></li>)}
       </ul></section>}
@@ -44,7 +44,7 @@ const split = (list) => ({ seasonal: list.filter((p) => p.kind === 'estacional')
   );
 })()}
 
-{r.type === 'province' && <ListView lang={lang} title={L.inPlace(r.prov)} intro={r.geo[lang]} route={r} dated={byProvince(r.c, r.s)} />}
+{r.type === 'province' && <ListView lang={lang} title={L.inPlace(r.prov)} intro={r.geo[lang]} route={r} {...split(byProvince(r.c, r.s))} />}
 
 {r.type === 'calendar' && (
   <ListView lang={lang} title={L.calendarTitle} intro={L.calendarIntro} route={r} noindex={false}>

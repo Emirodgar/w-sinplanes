@@ -162,6 +162,7 @@ citas:
     es: { titulo: "Noche de los Óscar", resumen: "La gala se emite de madrugada en España. Plan perfecto para ver las películas nominadas antes." }
     en: { titulo: "Oscars night", resumen: "The ceremony airs overnight in Spain. Catch the nominated films beforehand." }
   - id: fallas
+    fuente: "https://www.spain.info/es/agenda/fallas-san-jose/"
     regla: { tipo: fija, inicio: "03-15", fin: "03-19" }
     temas: [fiestas]
     lugar: { provincia: "Valencia", municipio: "València" }
@@ -173,6 +174,7 @@ citas:
     es: { titulo: "Procesiones de Semana Santa", resumen: "Sevilla, Málaga, Valladolid, Zamora o Cuenca tienen las más conocidas, cada una con un estilo muy distinto." }
     en: { titulo: "Holy Week processions", resumen: "Seville, Málaga, Valladolid, Zamora and Cuenca have the best known, each with a very different style." }
   - id: feria-abril
+    fuente: "https://www.spain.info/es/agenda/feria-abril/"
     regla: { tipo: pascua, desde: 13, hasta: 20 }
     aprox: true
     temas: [fiestas]
@@ -227,12 +229,14 @@ citas:
     es: { titulo: "Sanfermines", resumen: "Del chupinazo del 6 de julio al Pobre de mí del 14, con encierros cada mañana." }
     en: { titulo: "San Fermín", resumen: "From the opening rocket on 6 July to the closing song on the 14th, with bull runs every morning." }
   - id: tomatina
+    fuente: "https://www.spain.info/es/agenda/la-tomatina/"
     regla: { tipo: enesimo, mes: 8, dia_semana: 3, n: -1 }
     temas: [fiestas]
     lugar: { provincia: "Valencia", municipio: "Buñol" }
     es: { titulo: "La Tomatina de Buñol", resumen: "Una hora de batalla de tomates el último miércoles de agosto. Requiere entrada." }
     en: { titulo: "La Tomatina in Buñol", resumen: "An hour-long tomato fight on the last Wednesday of August. Tickets required." }
   - id: festival-san-sebastian
+    fuente: "https://www.spain.info/es/agenda/festival-internacional-cine-san-sebastian/"
     regla: { tipo: enesimo, mes: 9, dia_semana: 5, n: 3, dura: 9 }
     aprox: true
     temas: [cultura, pantalla]
@@ -240,6 +244,7 @@ citas:
     es: { titulo: "Festival de Cine de San Sebastián", resumen: "Estrenos, estrellas en la alfombra roja y proyecciones abiertas al público." }
     en: { titulo: "San Sebastián Film Festival", resumen: "Premieres, red-carpet stars and public screenings." }
   - id: pilar
+    fuente: "https://www.spain.info/es/agenda/fiestas-pilar/"
     regla: { tipo: fija, inicio: "10-12" }
     temas: [fiestas]
     lugar: { provincia: "Zaragoza", municipio: "Zaragoza" }
@@ -251,6 +256,7 @@ citas:
     es: { titulo: "Fallo del Premio Planeta", resumen: "El premio literario con mayor dotación de España se anuncia en una gala en Barcelona." }
     en: { titulo: "Planeta Prize announcement", resumen: "Spain's richest literary prize is announced at a gala in Barcelona." }
   - id: seminci
+    fuente: "https://www.spain.info/es/agenda/semana-internacional-cine-valladolid-seminci/"
     regla: { tipo: enesimo, mes: 10, dia_semana: 5, n: 4, dura: 9 }
     aprox: true
     temas: [cultura, pantalla]
@@ -278,3 +284,190 @@ citas:
     temas: [pantalla, navidad, fiestas]
     es: { titulo: "Campanadas de Nochevieja", resumen: "Las doce uvas con las campanadas de la Puerta del Sol, en directo o por televisión." }
     en: { titulo: "New Year's Eve chimes", resumen: "Twelve grapes with the twelve chimes from Puerta del Sol, live or on TV." }
+
+  # ---- Citas periódicas añadidas desde el rastreo de spain.info (solo lo que se repite cada año) ----
+  - id: semana-santa-sevilla
+    regla: { tipo: pascua, desde: -7, hasta: 0 }
+    temas: [fiestas, cultura]
+    lugar: { provincia: "Sevilla", municipio: "Sevilla" }
+    fuente: "https://www.spain.info/es/agenda/semana-santa-sevilla/"
+    es: { titulo: "Semana Santa de Sevilla", resumen: "Decenas de hermandades recorren la ciudad cada día con sus pasos y sus nazarenos. La Madrugá del Viernes Santo es la noche más multitudinaria." }
+    en: { titulo: "Holy Week in Seville", resumen: "Dozens of brotherhoods cross the city each day with their floats and hooded penitents. Good Friday’s Madrugá is the busiest night." }
+  - id: semana-santa-malaga
+    regla: { tipo: pascua, desde: -7, hasta: 0 }
+    temas: [fiestas, cultura]
+    lugar: { provincia: "Málaga", municipio: "Málaga" }
+    fuente: "https://www.spain.info/es/agenda/semana-santa-malaga/"
+    es: { titulo: "Semana Santa de Málaga", resumen: "Tronos de gran tamaño que desfilan a hombros por el centro, con el traslado del Cristo de la Esperanza como momento destacado." }
+    en: { titulo: "Holy Week in Málaga", resumen: "Huge thrones carried on shoulders through the city centre, with the Cristo de la Esperanza procession a highlight." }
+  - id: semana-santa-valladolid
+    regla: { tipo: pascua, desde: -7, hasta: 0 }
+    temas: [fiestas, cultura]
+    lugar: { provincia: "Valladolid", municipio: "Valladolid" }
+    fuente: "https://www.spain.info/es/agenda/semana-santa-valladolid/"
+    es: { titulo: "Semana Santa de Valladolid", resumen: "Procesiones sobrias con imaginería de madera policromada de los grandes escultores castellanos." }
+    en: { titulo: "Holy Week in Valladolid", resumen: "Austere processions of polychrome wooden sculpture by great Castilian sculptors." }
+  - id: semana-santa-salamanca
+    regla: { tipo: pascua, desde: -7, hasta: 0 }
+    temas: [fiestas, cultura]
+    lugar: { provincia: "Salamanca", municipio: "Salamanca" }
+    fuente: "https://www.spain.info/es/agenda/semana-santa-salamanca/"
+    es: { titulo: "Semana Santa de Salamanca", resumen: "Cofradías que recorren la ciudad de piedra dorada, con la procesión del Cristo Yacente entre sus citas más sentidas." }
+    en: { titulo: "Holy Week in Salamanca", resumen: "Brotherhoods process through the golden-stone city, with the Cristo Yacente procession among its most moving moments." }
+  - id: semana-santa-caceres
+    regla: { tipo: pascua, desde: -7, hasta: 0 }
+    temas: [fiestas, cultura]
+    lugar: { provincia: "Cáceres", municipio: "Cáceres" }
+    fuente: "https://www.spain.info/es/agenda/semana-santa-caceres/"
+    es: { titulo: "Semana Santa de Cáceres", resumen: "Procesiones por la ciudad monumental, cuyas plazas medievales sirven de escenario a pasos y cofradías." }
+    en: { titulo: "Holy Week in Cáceres", resumen: "Processions through the monumental old town, whose medieval squares serve as a stage for floats and brotherhoods." }
+  - id: semana-santa-marinera-valencia
+    regla: { tipo: pascua, desde: -9, hasta: 0 }
+    temas: [fiestas, cultura]
+    lugar: { provincia: "Valencia", municipio: "València" }
+    fuente: "https://www.spain.info/es/agenda/semana-santa-marinera-valencia/"
+    es: { titulo: "Semana Santa Marinera de Valencia", resumen: "Procesiones en los barrios marineros del Cabanyal y el Grau, con la Resurrección de Pascua como cierre." }
+    en: { titulo: "Seafarers’ Holy Week in Valencia", resumen: "Processions through the seafaring districts of El Cabanyal and El Grau, closing with the Easter Resurrection." }
+  - id: romeria-rocio
+    regla: { tipo: pascua, desde: 47, hasta: 50 }
+    aprox: true
+    temas: [fiestas]
+    lugar: { provincia: "Huelva", municipio: "Almonte" }
+    fuente: "https://www.spain.info/es/agenda/romeria-rocio/"
+    es: { titulo: "Romería del Rocío", resumen: "Cientos de miles de peregrinos llegan a la aldea de El Rocío en carretas, a caballo y a pie por Pentecostés. Termina con la procesión de la Virgen." }
+    en: { titulo: "El Rocío pilgrimage", resumen: "Hundreds of thousands of pilgrims reach the village of El Rocío by cart, horse and on foot at Pentecost, ending with the Virgin’s procession." }
+  - id: feria-malaga
+    regla: { tipo: fija, inicio: "08-15", fin: "08-22" }
+    aprox: true
+    temas: [fiestas]
+    lugar: { provincia: "Málaga", municipio: "Málaga" }
+    fuente: "https://www.spain.info/es/agenda/feria-malaga/"
+    es: { titulo: "Feria de Málaga", resumen: "Una semana de agosto con casetas, música y baile en el centro y en el recinto de Cortijo de Torres." }
+    en: { titulo: "Málaga Fair", resumen: "A week in August of marquees, music and dancing, in the centre and at the Cortijo de Torres fairground." }
+  - id: fiesta-piraguas-descenso-internacional-sella
+    regla: { tipo: enesimo, mes: 8, dia_semana: 6, n: 1 }
+    aprox: true
+    temas: [fiestas, deporte]
+    lugar: { provincia: "Asturias", municipio: "Ribadesella" }
+    fuente: "https://www.spain.info/es/agenda/fiesta-piraguas-descenso-internacional-sella/"
+    es: { titulo: "Descenso Internacional del Sella", resumen: "Miles de piragüistas bajan el río desde Arriondas hasta Ribadesella, con fiesta en las orillas durante toda la jornada." }
+    en: { titulo: "International Sella Canoe Descent", resumen: "Thousands of paddlers race down the river from Arriondas to Ribadesella, with a party along the banks all day." }
+  - id: festival-jerez
+    regla: { tipo: fija, inicio: "02-27", fin: "03-14" }
+    aprox: true
+    temas: [musica, cultura]
+    lugar: { provincia: "Cádiz", municipio: "Jerez de la Frontera" }
+    fuente: "https://www.spain.info/es/agenda/festival-jerez/"
+    es: { titulo: "Festival de Jerez", resumen: "Dos semanas de espectáculos, cursos y encuentros de flamenco en la ciudad donde nació el género." }
+    en: { titulo: "Jerez Festival", resumen: "Two weeks of flamenco shows, classes and gatherings in the city where the genre was born." }
+  - id: sonar-festival-internacional-musica-avanzada-barcelona
+    regla: { tipo: enesimo, mes: 6, dia_semana: 4, n: 3, dura: 3 }
+    aprox: true
+    temas: [musica]
+    lugar: { provincia: "Barcelona", municipio: "Barcelona" }
+    fuente: "https://www.spain.info/es/agenda/sonar-festival-internacional-musica-avanzada-barcelona/"
+    es: { titulo: "Sónar", resumen: "Festival de música electrónica y creatividad con conciertos de día y de noche en Barcelona." }
+    en: { titulo: "Sónar", resumen: "A festival of electronic music and creativity, with daytime and nighttime shows in Barcelona." }
+  - id: bilbao-bbk-live
+    regla: { tipo: enesimo, mes: 7, dia_semana: 4, n: 2, dura: 3 }
+    aprox: true
+    temas: [musica]
+    lugar: { provincia: "Bizkaia", municipio: "Bilbao" }
+    fuente: "https://www.spain.info/es/agenda/bilbao-bbk-live/"
+    es: { titulo: "Bilbao BBK Live", resumen: "Tres días de festival de música en las laderas del monte Kobetas, con vistas a la ciudad." }
+    en: { titulo: "Bilbao BBK Live", resumen: "Three days of music on the slopes of Mount Kobetas, with views over the city." }
+  - id: fib-festival-internacional-benicassim
+    regla: { tipo: enesimo, mes: 7, dia_semana: 4, n: 3, dura: 4 }
+    aprox: true
+    temas: [musica]
+    lugar: { provincia: "Castellón", municipio: "Benicàssim" }
+    fuente: "https://www.spain.info/es/agenda/fib-festival-internacional-benicassim/"
+    es: { titulo: "FIB Benicàssim", resumen: "Festival de música en la costa de Castellón con conciertos, camping y playa durante cuatro días." }
+    en: { titulo: "FIB Benicàssim", resumen: "A music festival on the Castellón coast, with concerts, camping and beach over four days." }
+  - id: festival-internacional-santander
+    regla: { tipo: fija, inicio: "08-01", fin: "08-31" }
+    aprox: true
+    temas: [musica, cultura]
+    lugar: { provincia: "Cantabria", municipio: "Santander" }
+    fuente: "https://www.spain.info/es/agenda/festival-internacional-santander/"
+    es: { titulo: "Festival Internacional de Santander", resumen: "Música clásica, danza y ópera durante el mes de agosto en teatros y escenarios singulares de la ciudad." }
+    en: { titulo: "Santander International Festival", resumen: "Classical music, dance and opera through August, in the city’s theatres and unusual venues." }
+  - id: festival-womad-caceres
+    regla: { tipo: enesimo, mes: 5, dia_semana: 4, n: 2, dura: 3 }
+    aprox: true
+    temas: [musica]
+    lugar: { provincia: "Cáceres", municipio: "Cáceres" }
+    fuente: "https://www.spain.info/es/agenda/festival-womad-caceres/"
+    es: { titulo: "WOMAD Cáceres", resumen: "Festival de músicas del mundo con conciertos en las plazas de la ciudad monumental." }
+    en: { titulo: "WOMAD Cáceres", resumen: "A world-music festival with concerts in the squares of the monumental old town." }
+  - id: festival-internacional-cine-fantastico-cataluna-sitges
+    regla: { tipo: enesimo, mes: 10, dia_semana: 4, n: 2, dura: 11 }
+    aprox: true
+    temas: [cultura]
+    lugar: { provincia: "Barcelona", municipio: "Sitges" }
+    fuente: "https://www.spain.info/es/agenda/festival-internacional-cine-fantastico-cataluna-sitges/"
+    es: { titulo: "Festival de Sitges", resumen: "El gran festival de cine fantástico y de terror, con proyecciones y encuentros en la localidad costera." }
+    en: { titulo: "Sitges Film Festival", resumen: "The big festival of fantasy and horror cinema, with screenings and meetings in the seaside town." }
+  - id: festival-internacional-cine-gijon
+    regla: { tipo: fija, inicio: "11-20", fin: "11-28" }
+    aprox: true
+    temas: [cultura]
+    lugar: { provincia: "Asturias", municipio: "Gijón" }
+    fuente: "https://www.spain.info/es/agenda/festival-internacional-cine-gijon/"
+    es: { titulo: "Festival Internacional de Cine de Gijón", resumen: "Cine de autor y descubrimientos en la programación de otoño de Gijón." }
+    en: { titulo: "Gijón International Film Festival", resumen: "Auteur cinema and new discoveries in Gijón’s autumn programme." }
+  - id: sevilla-festival-cine
+    regla: { tipo: fija, inicio: "11-06", fin: "11-14" }
+    aprox: true
+    temas: [cultura]
+    lugar: { provincia: "Sevilla", municipio: "Sevilla" }
+    fuente: "https://www.spain.info/es/agenda/sevilla-festival-cine/"
+    es: { titulo: "Festival de Cine Europeo de Sevilla", resumen: "Una semana de cine europeo con sesiones abiertas al público en los cines de la ciudad." }
+    en: { titulo: "Seville European Film Festival", resumen: "A week of European cinema with public screenings in the city’s cinemas." }
+  - id: festival-iberoamericano-cine-huelva
+    regla: { tipo: fija, inicio: "11-20", fin: "11-28" }
+    aprox: true
+    temas: [cultura]
+    lugar: { provincia: "Huelva", municipio: "Huelva" }
+    fuente: "https://www.spain.info/es/agenda/festival-iberoamericano-cine-huelva/"
+    es: { titulo: "Festival de Cine Iberoamericano de Huelva", resumen: "Cine en español y portugués con proyecciones y un homenaje a una figura del sector." }
+    en: { titulo: "Huelva Ibero-American Film Festival", resumen: "Cinema in Spanish and Portuguese, with screenings and a tribute to a figure from the industry." }
+  - id: fiestas-vendimia-riojana
+    regla: { tipo: fija, inicio: "09-21", fin: "09-27" }
+    aprox: true
+    temas: [fiestas, gastronomia]
+    lugar: { provincia: "La Rioja", municipio: "Logroño" }
+    fuente: "https://www.spain.info/es/agenda/fiestas-vendimia-riojana/"
+    es: { titulo: "Fiestas de San Mateo y vendimia riojana", resumen: "Fiestas de Logroño con el pisado de la uva, la ofrenda del primer mosto y degustaciones de la tierra." }
+    en: { titulo: "San Mateo festivities and Rioja grape harvest", resumen: "Logroño’s fiestas, with the ceremonial grape treading, the offering of the first must and tastings of local food." }
+  - id: fiestas-vendimia-jerez
+    regla: { tipo: fija, inicio: "09-05", fin: "09-14" }
+    aprox: true
+    temas: [fiestas, gastronomia]
+    lugar: { provincia: "Cádiz", municipio: "Jerez de la Frontera" }
+    fuente: "https://www.spain.info/es/agenda/fiestas-vendimia-jerez/"
+    es: { titulo: "Fiestas de la Vendimia de Jerez", resumen: "Pisa de la uva y fiestas en honor al vino de Jerez en septiembre, con la bendición de los mostos." }
+    en: { titulo: "Jerez Grape Harvest Festival", resumen: "Grape treading and celebrations of Jerez wine in September, with the blessing of the must." }
+  - id: fiesta-santiago-apostol
+    regla: { tipo: fija, inicio: "07-24", fin: "07-25" }
+    temas: [fiestas]
+    lugar: { provincia: "A Coruña", municipio: "Santiago de Compostela" }
+    fuente: "https://www.spain.info/es/agenda/fiesta-santiago-apostol/"
+    es: { titulo: "Fiestas del Apóstol Santiago", resumen: "El 25 de julio, Día de Galicia, con la ofrenda al apóstol en la catedral y los fuegos artificiales de la víspera frente a la fachada del Obradoiro." }
+    en: { titulo: "Feast of Saint James", resumen: "On 25 July, Galicia’s national day, with the offering to the apostle in the cathedral and the fireworks the evening before in front of the Obradoiro façade." }
+  - id: fiesta-marisco
+    regla: { tipo: fija, inicio: "10-03", fin: "10-12" }
+    aprox: true
+    temas: [fiestas, gastronomia]
+    lugar: { provincia: "Pontevedra", municipio: "O Grove" }
+    fuente: "https://www.spain.info/es/agenda/fiesta-marisco/"
+    es: { titulo: "Fiesta del Marisco de O Grove", resumen: "Una fiesta gastronómica de octubre en torno al marisco de las rías gallegas, con casetas y degustaciones." }
+    en: { titulo: "O Grove Seafood Festival", resumen: "An October food festival centred on shellfish from Galicia’s rías, with stalls and tastings." }
+  - id: maraton-malaga
+    regla: { tipo: enesimo, mes: 12, dia_semana: 0, n: 1 }
+    aprox: true
+    temas: [deporte]
+    lugar: { provincia: "Málaga", municipio: "Málaga" }
+    fuente: "https://www.spain.info/es/agenda/maraton-malaga/"
+    es: { titulo: "Maratón de Málaga", resumen: "Carrera de maratón y media maratón por la ciudad a primeros de diciembre." }
+    en: { titulo: "Málaga Marathon", resumen: "A marathon and half-marathon through the city in early December." }
