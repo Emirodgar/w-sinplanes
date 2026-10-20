@@ -1,7 +1,7 @@
 ---
 import Base from '../layouts/Base.astro';
 import { t, url, LANGS, HREFLANG } from '../i18n/ui.js';
-import { fmtWhen, fmtPlace, topicById, isPast, isPlace, textLang, slugify, ptitle, psummary, availLangs } from '../lib/data.js';
+import { fmtWhen, fmtPlace, topicById, isPast, isPlace, textLang, slugify, ptitle, psummary, availLangs, plans } from '../lib/data.js';
 
 const { lang, plan: p } = Astro.props;
 const L = t[lang];
@@ -13,7 +13,7 @@ const tl = textLang(lang, p);
 
 // Event solo cuando hay fecha y lugar físico (requisito de Google para resultados de eventos)
 const address = { '@type': 'PostalAddress', addressLocality: pl.municipio, addressRegion: pl.provincia, addressCountry: 'ES' };
-const jsonld = isPlace(p) ? (pl.scope !== 'local' ? null : {
+const baseJsonld = isPlace(p) ? (pl.scope !== 'local' ? null : {
   '@context': 'https://schema.org', '@type': 'TouristAttraction',
   name: title, description: summary, inLanguage: HREFLANG[tl || lang], address,
   ...(p.source?.url ? { url: p.source.url } : {}),
@@ -32,11 +32,27 @@ const jsonld = isPlace(p) ? (pl.scope !== 'local' ? null : {
   ...(p.free ? { isAccessibleForFree: true } : {}),
   ...(p.source?.url ? { url: p.source.url } : {}),
 } : null;
+
+// Ficha ampliada (texto, imagen y preguntas frecuentes): por ahora solo existe en castellano.
+const extra = lang === 'es' && !tl ? p.content?.es : null;
+const faq = extra?.faq || [];
+const related = (p.related || []).map((slug) => plans.find((x) => x.slug === slug && x.kind === p.kind)).filter(Boolean);
+const faqLd = faq.length ? {
+  '@context': 'https://schema.org', '@type': 'FAQPage', inLanguage: 'es',
+  mainEntity: faq.map((f) => ({ '@type': 'Question', name: f.p, acceptedAnswer: { '@type': 'Answer', text: f.r } })),
+} : null;
+const jsonld = [baseJsonld, faqLd].filter(Boolean);
 ---
-<Base lang={lang} title={title} description={summary || [title, fmtWhen(lang, p), fmtPlace(p, L.allSpain)].filter(Boolean).join(' · ')} route={{ type: 'plan', slug: p.slug }} avail={availLangs(p, LANGS)} noindex={past || !!tl} jsonld={jsonld}>
+<Base lang={lang} title={title} description={summary || [title, fmtWhen(lang, p), fmtPlace(p, L.allSpain)].filter(Boolean).join(' · ')} route={{ type: 'plan', slug: p.slug }} avail={availLangs(p, LANGS)} noindex={past || !!tl} jsonld={jsonld.length ? jsonld : null} image={extra && p.image ? p.image : null}>
   <article class="plan">
     <h1 lang={tl}>{title}</h1>
     {summary && <p class="lead" lang={tl}>{summary}</p>}
+
+    {extra && p.image && (
+      <figure class="plan-figure">
+        <img src={p.image} alt={extra.imagen_alt || title} width="695" height="422" loading="eager" decoding="async" />
+      </figure>
+    )}
 
     {past && <p class="notice">{L.past}</p>}
     {p.approx && <p class="notice">{L.approx}</p>}
@@ -56,6 +72,33 @@ const jsonld = isPlace(p) ? (pl.scope !== 'local' ? null : {
       <dd>{p.topics.map((id, i) => { const tp = topicById(id); return tp && <>{i > 0 && ', '}<a href={url.topic(lang, tp)}>{tp[lang]}</a></>; })}</dd>
       {p.source?.name && p.source.name !== 'sinplanes' && <><dt>{L.sourceLabel}</dt><dd>{p.source.name}{p.source.license && <span class="muted"> ({p.source.license})</span>}</dd></>}
     </dl>
+
+    {extra?.texto?.length > 0 && (
+      <div class="plan-body">
+        {extra.texto.map((para) => <p>{para}</p>)}
+      </div>
+    )}
+
+    {faq.length > 0 && (
+      <section class="plan-faq" aria-labelledby="faq-title">
+        <h2 id="faq-title">Preguntas frecuentes</h2>
+        {faq.map((f) => (
+          <details>
+            <summary>{f.p}</summary>
+            <p>{f.r}</p>
+          </details>
+        ))}
+      </section>
+    )}
+
+    {related.length > 0 && (
+      <section class="plan-related" aria-labelledby="rel-title">
+        <h2 id="rel-title">Planes relacionados</h2>
+        <ul>
+          {related.map((r) => <li><a href={url.plan(lang, r.slug)}>{ptitle(r, lang)}</a></li>)}
+        </ul>
+      </section>
+    )}
 
     {p.source?.url && <a class="button" href={p.source.url} target="_blank" rel="noopener noreferrer">{L.source}<span class="visually-hidden"> ({L.newTab})</span></a>}
   </article>

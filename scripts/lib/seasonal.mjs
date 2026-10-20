@@ -84,6 +84,10 @@ export function buildSeasonalPlans(today) {
       summary: { es: t.es.resumen, en: t.en.resumen },
       months: t.meses, topics: t.temas,
       place: placeOf(t.lugar), source: { name: 'sinplanes', url: null },
+      // Ficha ampliada (opcional): texto, imagen y preguntas frecuentes por idioma. Hoy solo en castellano.
+      ...(t.contenido ? { content: t.contenido } : {}),
+      ...(t.imagen ? { image: t.imagen } : {}),
+      ...(t.relacionados ? { related: t.relacionados } : {}),
     });
   }
 

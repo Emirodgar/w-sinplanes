@@ -159,6 +159,22 @@ p { margin: 0 0 1em; max-width: var(--measure); }
 .button:hover { filter: brightness(0.96); transform: translateY(-1px); }
 .widget .button { margin-top: 0.25rem; }
 
+/* Ficha ampliada: imagen, texto y preguntas frecuentes */
+.plan-figure { margin: 1.75rem 0 0; }
+.plan-figure img { display: block; width: 100%; height: auto; border-radius: var(--r-xl); box-shadow: var(--shadow); }
+.plan-body { margin-block: 2rem; max-width: var(--measure); }
+.plan-body p { font-size: 1.0625rem; line-height: 1.65; margin-bottom: 1.1rem; }
+.plan-faq { margin-block: 2.5rem; }
+.plan-faq h2, .plan-related h2 { font-size: clamp(1.4rem, 3vw, 1.75rem); letter-spacing: -0.03em; margin-bottom: 1rem; }
+.plan-faq details { background: var(--surface); border-radius: var(--r-lg); box-shadow: var(--shadow); padding: 0 1.25rem; margin-bottom: 0.6rem; }
+.plan-faq summary { cursor: pointer; font-weight: 600; padding: 1rem 0; min-height: 2.75rem; letter-spacing: -0.01em; }
+.plan-faq details[open] summary { padding-bottom: 0.5rem; }
+.plan-faq details p { margin: 0 0 1.1rem; color: var(--ink-soft); line-height: 1.6; }
+.plan-related { margin-block: 2rem; }
+.plan-related ul { list-style: none; padding: 0; margin: 0; display: flex; flex-wrap: wrap; gap: 0.5rem; }
+.plan-related a { display: inline-flex; align-items: center; min-height: 2.5rem; padding: 0.4rem 1rem; border-radius: 999px; background: var(--surface); box-shadow: 0 0 0 1px var(--line); color: var(--ink); text-decoration: none; font-weight: 500; font-size: 0.9375rem; }
+.plan-related a:hover { background: var(--accent); box-shadow: 0 0 0 1px var(--accent); }
+
 /* Pie */
 .site-foot { border-top: 1px solid var(--line); padding-block: 2rem 3.5rem; font-size: var(--s-1); color: var(--ink-soft); }
 .site-foot p { margin-bottom: 0.4rem; }

@@ -19,6 +19,32 @@ temporada:
     temas: [naturaleza, gastronomia]
     es: { titulo: "Ir a coger castañas", resumen: "Los castañares de El Bierzo, el Valle del Genal, la sierra de Francia o el Valle del Tiétar se llenan de erizos. Pide permiso si el terreno es privado." }
     en: { titulo: "Go chestnut picking", resumen: "Chestnut groves in El Bierzo, the Genal Valley, Sierra de Francia or the Tiétar Valley fill with burrs. Ask permission on private land." }
+    imagen: "/img/planes/castanas-otono.webp"
+    relacionados: [magostos, setas, hayedos]
+    contenido:
+      es:
+        imagen_alt: "Suelo de un castañar en otoño cubierto de hojas doradas y erizos de castaña"
+        texto:
+          - "Cuando llega octubre, los castañares del norte y del centro de la península se llenan de erizos caídos entre las hojas. Salir a coger castañas es uno de los planes de otoño más sencillos y más agradecidos: un paseo tranquilo por el monte, una cesta que se va llenando y, al volver, algo rico que asar en casa."
+          - "La temporada empieza, según la altitud y el año, hacia mediados de octubre y se alarga hasta bien entrado noviembre. Los mejores castañares suelen estar en zonas de montaña con clima húmedo: El Bierzo (León), el Valle del Genal (Málaga), la sierra de Francia (Salamanca), el Valle del Tiétar (Ávila), además de buena parte de Galicia y Asturias."
+          - "Lo más importante es saber de quién es el castañar. Muchos son fincas privadas con dueño que las cuida y las vende, y recoger en ellas sin permiso puede tener consecuencias. Pregunta en el pueblo, en el ayuntamiento o en una casa rural de la zona: es habitual que alguien te indique dónde se puede coger o te ponga en contacto con un propietario."
+          - "Lleva calzado cerrado que agarre bien, guantes gruesos (los erizos pinchan de verdad), una cesta o un saco y ropa que no te importe manchar. Las castañas caen solas cuando están maduras: lo normal es recoger las del suelo, sin varear los árboles ni dañarlos. Los días siguientes a la lluvia y al viento suelen ser los más generosos."
+          - "Ya en casa, haz un corte en la piel de cada castaña antes de asarla o cocerla para que no revienten. Se conservan mejor en un lugar fresco o en la nevera, y conviene consumirlas en pocos días. El broche natural de este plan es un magosto: castañas asadas, hoguera y vino nuevo."
+        faq:
+          - p: "¿Cuándo es la temporada de castañas?"
+            r: "En España, de mediados de octubre a mediados de noviembre aproximadamente. En zonas bajas empieza antes y en las más altas se retrasa unos días. Si quieres acertar, pregunta por la zona la semana antes: la cosecha cambia de un año a otro según la lluvia y el calor del verano."
+          - p: "¿Se pueden coger castañas en cualquier monte?"
+            r: "No siempre. Muchos castañares son propiedad privada y, en monte público, cada ayuntamiento o comunidad puede tener sus propias normas. Pregunta en el ayuntamiento o a los vecinos antes de recoger, y no entres en fincas cercadas."
+          - p: "¿Dónde ir a coger castañas?"
+            r: "Los destinos clásicos son El Bierzo (León), el Valle del Genal (Málaga), la sierra de Francia (Salamanca) y el Valle del Tiétar (Ávila), además de Galicia, Asturias y la zona de Aracena. Todos tienen castañares muy extensos y mucha tradición."
+          - p: "¿Qué hay que llevar?"
+            r: "Guantes gruesos, calzado cerrado, una cesta o saco y ropa de abrigo que no te importe ensuciar. Los erizos se abren pisándolos con la suela del zapato, sin necesidad de herramientas."
+          - p: "¿Cómo se asan las castañas?"
+            r: "Haz un corte en la piel de cada una, ábrelas en una sartén de agujeros, en el horno o sobre una parrilla, y déjalas de 20 a 30 minutos hasta que la piel se abra. Envuélvelas unos minutos en un paño para que se sigan haciendo con su propio vapor y se pelen mejor."
+          - p: "¿Es buen plan con niños?"
+            r: "Sí, aunque con cuidado: los erizos pinchan. Dales guantes y enséñales a no meter la mano sin mirar. Para ellos es una actividad que mezcla paseo, juego y recompensa."
+          - p: "¿Qué es un magosto?"
+            r: "Es la fiesta tradicional de otoño de Galicia, Asturias y El Bierzo: se asan castañas en una hoguera y se comen con vino nuevo o sidra, sobre todo por San Martín, el 11 de noviembre."
   - id: magostos
     meses: [11]
     temas: [fiestas, gastronomia]
