@@ -1,0 +1,30 @@
+---
+// Botones para filtrar por categoría las filas [data-topics] de la lista que viene justo debajo.
+import { t } from '../i18n/ui.js';
+import { topicById } from '../lib/data.js';
+const { lang, plans = [] } = Astro.props;
+const L = t[lang];
+const counts = new Map();
+for (const p of plans) for (const id of new Set(p.topics || [])) counts.set(id, (counts.get(id) || 0) + 1);
+const cats = [...counts].map(([id, n]) => ({ id, n, label: topicById(id)?.[lang] })).filter((c) => c.label).sort((a, b) => b.n - a.n);
+---
+{cats.length > 1 && (
+  <ul class="chips cat-filter" data-cat-filter aria-label={L.filterLabel}>
+    <li><button type="button" class="chip" data-cat="" aria-pressed="true">{L.filterAll}</button></li>
+    {cats.map((c) => <li><button type="button" class="chip" data-cat={c.id} aria-pressed="false">{c.label}<span class="count">{c.n}</span></button></li>)}
+  </ul>
+)}
+
+<script>
+  document.querySelectorAll('[data-cat-filter]').forEach((bar) => {
+    const section = bar.closest('.section');
+    const chips = [...bar.querySelectorAll('[data-cat]')];
+    chips.forEach((chip) => chip.addEventListener('click', () => {
+      const cat = chip.dataset.cat;
+      chips.forEach((c) => c.setAttribute('aria-pressed', String(c === chip)));
+      section.querySelectorAll('[data-topics]').forEach((li) => {
+        li.toggleAttribute('data-cat-off', Boolean(cat) && !li.dataset.topics.split(' ').includes(cat));
+      });
+    }));
+  });
+</script>

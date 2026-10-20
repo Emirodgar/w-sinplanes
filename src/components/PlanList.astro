@@ -9,7 +9,7 @@ const L = t[lang];
   ? <p class="empty">{L.empty}</p>
   : <ul class="plan-list">
       {plans.map((p) => (
-        <li data-q={searchText(lang, p, fmtWhen(lang, p), fmtPlace(p, L.allSpain))}>
+        <li data-topics={(p.topics || []).join(' ')} data-q={searchText(lang, p, fmtWhen(lang, p), fmtPlace(p, L.allSpain))}>
           <a class="title" href={url.plan(lang, p.slug)} lang={textLang(lang, p)}>{ptitle(p, lang)}</a>
           <span class="plan-meta">
             <span>{fmtWhen(lang, p)}</span>

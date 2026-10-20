@@ -257,3 +257,9 @@ p { margin: 0 0 1em; max-width: var(--measure); }
 .film-where { margin: 0.2rem 0 0; font-size: 0.8125rem; line-height: 1.3; }
 .film-title { margin: 0.6rem 0 0; font-weight: 600; font-size: 0.9375rem; line-height: 1.25; letter-spacing: -0.015em; }
 .cine-note { margin: 0; font-size: 0.75rem; }
+
+/* Filtro por categoría en listas largas */
+.cat-filter { margin: 0 0 1rem; }
+.cat-filter .chip .count { font-weight: 400; color: var(--ink-soft); margin-left: 0.4rem; font-size: 0.8125rem; }
+.cat-filter .chip[aria-pressed='true'] .count { color: var(--accent-ink); }
+[data-cat-off] { display: none; }
