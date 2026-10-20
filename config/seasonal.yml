@@ -137,6 +137,18 @@ temporada:
           - "El mejor momento suele ser entre mediados de octubre y mediados de noviembre, aunque el pico de color cambia cada año según el frío, la lluvia y el viento. Entre los hayedos más conocidos están la Selva de Irati (Navarra), el Hayedo de Montejo (Madrid), el Hayedo de la Tejera Negra (Guadalajara) y el de Otzarreta (Bizkaia), además de los de Cantabria, Asturias y el Pirineo."
           - "Ojo con los cupos: algunos hayedos, como el de Montejo, limitan el número de visitantes o exigen reserva o permiso de acceso, sobre todo los fines de semana de máximo color. Consulta antes la web del espacio protegido, y si puedes, ve entre semana: habrá menos gente y más silencio."
           - "Lleva calzado cómodo que agarre sobre hojas mojadas, una capa de abrigo y chubasquero, que en el hayedo la humedad es habitual, y no te salgas de los senderos señalizados. Las mañanas con algo de niebla y la luz baja del atardecer son las mejores para fotografiar."
+        mapa:
+          titulo: "Dónde ver un hayedo en otoño"
+          centro: [42.0, -2.5]
+          zoom: 7
+          puntos:
+            - { nombre: "Selva de Irati (Navarra)", lat: 42.98, lon: -1.1, desc: "Uno de los mayores hayedos-abetales de Europa, entre Ochagavía y Orbaizeta." }
+            - { nombre: "Hayedo de Montejo (Madrid)", lat: 41.12, lon: -3.5, desc: "El hayedo más meridional de Europa; acceso con cupo y reserva." }
+            - { nombre: "Hayedo de la Tejera Negra (Guadalajara)", lat: 41.15, lon: -3.15, desc: "En la sierra de Ayllón, junto a Cantalojas, con rutas señalizadas." }
+            - { nombre: "Hayedo de Otzarreta (Bizkaia)", lat: 43.03, lon: -2.78, desc: "En el Parque Natural de Gorbeia, uno de los más fotografiados." }
+            - { nombre: "Saja-Besaya (Cantabria)", lat: 43.1, lon: -4.2, desc: "Hayedos extensos en el Parque Natural, con buenas rutas de otoño." }
+            - { nombre: "Redes (Asturias)", lat: 43.17, lon: -5.3, desc: "Hayedos de montaña en el Parque Natural de Redes." }
+            - { nombre: "Selva de Oza (Huesca)", lat: 42.85, lon: -0.75, desc: "Hayedos y abetales del Pirineo aragonés, en el valle de Hecho." }
         faq:
           - p: "¿Cuándo es el mejor momento para ver un hayedo en otoño?"
             r: "Entre mediados de octubre y mediados de noviembre, con un pico de color que suele durar unas dos o tres semanas. Varía cada año con el frío y la lluvia, así que conviene mirar el parte del espacio protegido o las redes de los centros de visitantes."
