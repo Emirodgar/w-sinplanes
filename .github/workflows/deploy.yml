@@ -5,13 +5,13 @@ name: Desplegar sitio
 #
 # Requisito único: Settings > Pages > Source = "GitHub Actions".
 #
-# Se dispara: al cambiar código o config, al terminar cada workflow de datos (los commits del bot no
+# Se dispara: al cambiar código, config o data/ (un push manual con datos), al terminar cada workflow de datos (los commits del bot no
 # disparan `push`), y una vez al día como red de seguridad para que cambien el mes, el fin de semana y los eventos caducados.
 
 on:
   push:
     branches: [main, master]
-    paths: ['config/**', 'src/**', 'scripts/**', 'public/**', 'astro.config.mjs', 'package.json', 'package-lock.json', '.github/workflows/deploy.yml']
+    paths: ['config/**', 'data/**', 'src/**', 'scripts/**', 'public/**', 'astro.config.mjs', 'package.json', 'package-lock.json', '.github/workflows/deploy.yml']
   workflow_run:
     workflows: ['Datos · agendas y tendencias (sin IA)', 'Datos · prensa, resúmenes y traducciones (IA)']
     types: [completed]

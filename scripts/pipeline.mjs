@@ -5,7 +5,7 @@
 // El esqueleto fijo (planes estacionales y citas anuales) NO se escribe aquí: lo compone scripts/site-data.mjs
 // desde config/ en cada build, así que existe aunque este pipeline falle.
 //   SINPLANES_NO_AI=1  →  no llama a la IA, solo reaplica lo ya cacheado (cron de agendas)
-import { readFileSync, writeFileSync, mkdirSync } from 'node:fs';
+import { readFileSync, writeFileSync, mkdirSync, existsSync } from 'node:fs';
 import path from 'node:path';
 import { load as yamlLoad } from 'js-yaml';
 import { ROOT, slugify, hash, truncate, todayISO, addDays, resolveProvince, guessTopics, guessIndoor } from './lib/util.mjs';
@@ -47,7 +47,7 @@ async function runSources() {
       log(`${src.id}: ${items.length} elementos`);
     } catch (err) {
       // Una fuente caída nunca rompe la publicación
-      report.push({ id: src.id, status: 'error', detail: err.message });
+      report.push({ id: src.id, nombre: src.nombre, status: 'error', detail: err.message });
       log(`${src.id}: ERROR ${err.message}`);
     }
   }
@@ -111,6 +111,12 @@ async function main() {
   let external = dedupe(raw.map(normalize).filter(Boolean));
   external = await enrich(external, log);
   external = external.map(({ rawText, lang, ...rest }) => rest); // no publicamos el texto original completo
+  // Una fuente caída no debe vaciar sus planes: se conservan los últimos que publicó (hasta que caduquen por fecha).
+  const failed = new Set(report.filter((r) => r.status === 'error').map((r) => r.nombre));
+  if (failed.size && existsSync(path.join(ROOT, 'data/events.json'))) {
+    const kept = JSON.parse(readFileSync(path.join(ROOT, 'data/events.json'), 'utf8')).filter((p) => failed.has(p.source?.name));
+    if (kept.length) { external.push(...kept); log(`Fuentes caídas (${[...failed].join(', ')}): se conservan ${kept.length} planes anteriores.`); }
+  }
 
   // Se traduce el calendario propio junto con los eventos para rellenar la caché; el calendario no se guarda aquí.
   const translated = await translatePlans([...seasonal, ...external], TODAY, log);
