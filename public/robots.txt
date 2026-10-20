@@ -2,3 +2,9 @@ User-agent: *
 Allow: /
 
 Sitemap: https://sinplanes.com/sitemap-index.xml
+Sitemap: https://sinplanes.com/sitemap-es.xml
+Sitemap: https://sinplanes.com/sitemap-en.xml
+Sitemap: https://sinplanes.com/sitemap-fr.xml
+Sitemap: https://sinplanes.com/sitemap-de.xml
+Sitemap: https://sinplanes.com/sitemap-it.xml
+Sitemap: https://sinplanes.com/sitemap-pt.xml

@@ -63,7 +63,7 @@ SINPLANES_OFFLINE=1 npm run pipeline     # opcional: eventos de ejemplo, sin red
 
 **Idiomas.** Español (raíz) más `/en/`, `/fr/`, `/de/`, `/it/` y `/pt/`, con segmentos de URL traducidos (`/fr/lieux/`, `/de/orte/`, `/it/luoghi/`…) y meses y temas con slug propio. Un único router (`src/pages/[...route].astro`) genera todas las páginas; los textos de interfaz están en `src/i18n/ui.js`.
 - La traducción a fr/de/it/pt es por IA, con caché en `data/cache/translations.json`. Se traduce el calendario propio, los planes de prensa y los eventos de datos abiertos de las próximas 3 semanas (`SINPLANES_MAX_TRANSLATE`, 100 planes nuevos por ejecución).
-- Un plan sin traducción propia se muestra en inglés (con `lang="en"`) y `noindex`; si ni siquiera tiene inglés, solo existe en español. hreflang y sitemap incluyen únicamente páginas con texto propio en ese idioma.
+- Un plan sin traducción propia se muestra en inglés (con `lang="en"`) y `noindex`; si ni siquiera tiene inglés, solo existe en español. hreflang y sitemaps incluyen únicamente páginas con texto propio en ese idioma. Tras el build, `scripts/lib/sitemaps.mjs` lee el HTML generado y escribe `sitemap-{es,en,fr,de,it,pt}.xml` (solo páginas sin `noindex`) y `sitemap-index.xml`; todos están en `robots.txt`.
 
 ## Decisiones de contenido
 
