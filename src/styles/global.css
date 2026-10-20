@@ -262,4 +262,4 @@ p { margin: 0 0 1em; max-width: var(--measure); }
 .cat-filter { margin: 0 0 1rem; }
 .cat-filter .chip .count { font-weight: 400; color: var(--ink-soft); margin-left: 0.4rem; font-size: 0.8125rem; }
 .cat-filter .chip[aria-pressed='true'] .count { color: var(--accent-ink); }
-[data-cat-off] { display: none; }
+.plan-list li[data-cat-off] { display: none !important; }
