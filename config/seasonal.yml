@@ -326,6 +326,14 @@ temporada:
           - "La actividad dura desde mediados de julio hasta finales de agosto, y el máximo suele producirse entre el 11 y el 13 de agosto. En una noche despejada y sin Luna, con cielo oscuro, se pueden llegar a ver decenas de meteoros por hora. La fase lunar de cada año influye mucho: con Luna llena se ven bastantes menos."
           - "Lo importante es alejarse de la contaminación lumínica. Reservas y destinos con certificación Starlight, como Monfragüe, la Sierra Sur de Jaén o Gúdar-Javalambre, son una gran opción, y muchos organizan observaciones guiadas. No hace falta telescopio ni prismáticos: basta con tumbarse y mirar hacia el cielo abierto."
           - "Deja que los ojos se acostumbren a la oscuridad durante unos 20 o 30 minutos y evita mirar el móvil. Lleva una manta o una tumbona, ropa de abrigo, aunque haga calor de día, y algo caliente de beber. Las horas de después de medianoche suelen ser las mejores."
+        mapa:
+          titulo: "Dónde ver las Perseidas"
+          centro: [39.5, -3.5]
+          zoom: 6
+          puntos:
+            - { nombre: "Monfragüe (Cáceres)", lat: 39.83, lon: -6.05, desc: "Parque Nacional y Reserva Starlight, con observaciones guiadas del cielo." }
+            - { nombre: "Sierra Sur de Jaén", lat: 37.6, lon: -3.85, desc: "Reserva Starlight con cielos muy oscuros, en torno a Alcalá la Real y Castillo de Locubín." }
+            - { nombre: "Gúdar-Javalambre (Teruel)", lat: 40.2, lon: -0.7, desc: "Reserva Starlight a más de 1.500 m de altitud, con cielos limpios y observatorio astrofísico." }
         faq:
           - p: "¿Cuándo se ven las Perseidas?"
             r: "La actividad va de mediados de julio a finales de agosto, con el máximo hacia el 12 de agosto, normalmente entre el 11 y el 13. Las mejores horas son después de la medianoche y hasta el amanecer."
