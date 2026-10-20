@@ -58,7 +58,7 @@ export function nextOccurrence(regla, today) {
 }
 
 // Cada grupo de lugares.yml cuelga de un tema propio (con página propia): se suma a los temas que ya tenga la ficha.
-const GROUP_TOPIC = { lugares: 'museos', rutas: 'rutas', naturaleza: 'parques' };
+const GROUP_TOPIC = { lugares: 'museos', rutas: 'rutas', naturaleza: 'parques', actividades: 'actividades' };
 const parkType = (title) => (/^Parque Nacional/i.test(title) ? 'nacional' : /^Parque Natural/i.test(title) ? 'natural' : /^Reserva de la Biosfera/i.test(title) ? 'biosfera' : 'otros');
 
 /** Lugares fijos de config/lugares.yml, de todos los grupos y con su enlace a la fuente (lo usan el esqueleto y check-skeleton). */
