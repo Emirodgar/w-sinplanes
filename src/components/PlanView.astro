@@ -1,6 +1,7 @@
 ---
 import Base from '../layouts/Base.astro';
 import CalendarMenu from './CalendarMenu.astro';
+import { calendarDates } from '../lib/calendar.js';
 import { t, url, LANGS, HREFLANG } from '../i18n/ui.js';
 import { fmtWhen, fmtPlace, topicById, isPast, isPlace, textLang, slugify, ptitle, psummary, availLangs, plans } from '../lib/data.js';
 
@@ -10,6 +11,7 @@ const title = ptitle(p, lang);
 const summary = psummary(p, lang);
 const past = isPast(p);
 const pl = p.place || {};
+const canCal = !past && !!calendarDates(p);
 const tl = textLang(lang, p);
 
 // Event solo cuando hay fecha y lugar físico (requisito de Google para resultados de eventos)
@@ -71,6 +73,7 @@ const jsonld = [baseJsonld, faqLd].filter(Boolean);
       {typeof p.indoor === 'boolean' && <><dt>{L.setting}</dt><dd>{p.indoor ? L.indoor : L.outdoor}</dd></>}
       <dt>{L.nav.topics}</dt>
       <dd>{p.topics.map((id, i) => { const tp = topicById(id); return tp && <>{i > 0 && ', '}<a href={url.topic(lang, tp)}>{tp[lang]}</a></>; })}</dd>
+      {canCal && <><dt>{L.nav.calendar}</dt><dd><CalendarMenu lang={lang} plan={p} /></dd></>}
       {p.source?.name && p.source.name !== 'sinplanes' && <><dt>{L.sourceLabel}</dt><dd>{p.source.name}{p.source.license && <span class="muted"> ({p.source.license})</span>}</dd></>}
     </dl>
 
@@ -101,10 +104,10 @@ const jsonld = [baseJsonld, faqLd].filter(Boolean);
       </section>
     )}
 
-    {!past && (
+    {(canCal || (!past && p.source?.url)) && (
       <div class="plan-actions">
-        <CalendarMenu lang={lang} plan={p} />
-        {p.source?.url && <a class="button button--ghost" href={p.source.url} target="_blank" rel="noopener noreferrer">{L.source}<span class="visually-hidden"> ({L.newTab})</span></a>}
+        {canCal && <CalendarMenu lang={lang} plan={p} />}
+        {p.source?.url && <a class={canCal ? 'button button--ghost' : 'button'} href={p.source.url} target="_blank" rel="noopener noreferrer">{L.source}<span class="visually-hidden"> ({L.newTab})</span></a>}
       </div>
     )}
     {past && p.source?.url && <a class="button" href={p.source.url} target="_blank" rel="noopener noreferrer">{L.source}<span class="visually-hidden"> ({L.newTab})</span></a>}
