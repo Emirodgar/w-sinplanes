@@ -107,11 +107,53 @@ temporada:
     temas: [naturaleza]
     es: { titulo: "Escuchar la berrea del ciervo", resumen: "Al amanecer y al atardecer en Monfragüe, Cabañeros, la Sierra de Andújar o Riaño. Lleva prismáticos y guarda silencio." }
     en: { titulo: "Hear the red deer rut", resumen: "At dawn and dusk in Monfragüe, Cabañeros, Sierra de Andújar or Riaño. Bring binoculars and keep quiet." }
+    relacionados: [hayedos, setas, perseidas]
+    contenido:
+      es:
+        texto:
+          - "A finales de verano los machos de ciervo empiezan a bramar para atraer a las hembras y retar a sus rivales. Ese rugido grave y poderoso, que resuena por el monte al amanecer y al atardecer, es la berrea, uno de los espectáculos de fauna más impresionantes de España."
+          - "La berrea se concentra entre septiembre y octubre, con el momento álgido normalmente a finales de septiembre y principios de octubre, aunque varía según la zona y el año. Los lugares más conocidos son el Parque Nacional de Cabañeros, el Parque Nacional de Monfragüe, la Sierra de Andújar, la Reserva Nacional de Riaño y la Sierra de la Culebra, entre otros."
+          - "Lo mejor es llegar antes del amanecer o un rato antes del anochecer, cuando los ciervos están más activos, y escuchar en silencio desde un punto de observación. Lleva prismáticos, ropa de abrigo y de colores discretos, y no uses linternas ni flash. Los ciervos en celo son imprevisibles: mantén siempre la distancia y no te acerques a ellos."
+          - "En algunos espacios hay rutas guiadas, observatorios o accesos regulados durante la berrea, y conviene reservar con antelación. Consulta la web del espacio protegido o del centro de visitantes antes de ir."
+        faq:
+          - p: "¿Cuándo es la berrea del ciervo?"
+            r: "Entre septiembre y octubre. El momento de mayor actividad suele ser a finales de septiembre y principios de octubre, aunque cambia según la zona y el año. Lo mejor es salir al amanecer o al atardecer."
+          - p: "¿Dónde ver la berrea?"
+            r: "Los lugares más conocidos son Cabañeros, Monfragüe, la Sierra de Andújar, la Reserva Nacional de Riaño y la Sierra de la Culebra. En muchos hay rutas guiadas, observatorios o puntos de escucha señalizados."
+          - p: "¿Qué hay que llevar?"
+            r: "Prismáticos, ropa de abrigo y de colores discretos (verdes, marrones, grises), calzado cómodo y algo de comer y beber. En las horas de más actividad hace fresco, aunque el día sea caluroso."
+          - p: "¿Es peligroso acercarse a los ciervos?"
+            r: "Sí. Los machos en celo están muy agresivos y son impredecibles. No te acerques, no los rodees ni les cortes el paso y mantén la distancia que indiquen los guías o los carteles."
+          - p: "¿Hace falta reservar?"
+            r: "En algunos espacios sí, sobre todo para rutas guiadas, observatorios o accesos regulados en plena berrea. Mira la web del espacio protegido o del centro de visitantes antes de ir, porque las plazas se agotan."
+          - p: "¿Se puede ir con niños?"
+            r: "Sí, es un plan muy bonito para ellos, pero hay que ir en silencio, a horas tempranas y sin separarse del grupo. Elige rutas sencillas y mejor con un guía."
   - id: vendimia
     meses: [9]
     temas: [gastronomia]
     es: { titulo: "Vivir la vendimia", resumen: "Rioja, Ribera del Duero, Jerez o el Penedès organizan visitas y fiestas de la vendimia en bodegas." }
     en: { titulo: "Experience the grape harvest", resumen: "Rioja, Ribera del Duero, Jerez and Penedès offer winery visits and harvest festivals." }
+    relacionados: [castanas-otono, terrazas-primavera, berrea]
+    contenido:
+      es:
+        texto:
+          - "Septiembre es el mes de la vendimia en buena parte de España: los racimos maduros se cortan a mano o a máquina y las bodegas se llenan de olor a mosto. Vivirla de cerca, entre viñedos y lagares, es uno de los planes de final de verano con más encanto, y tiene mucho de fiesta."
+          - "La fecha exacta cambia según la zona, la variedad y el año. Las uvas blancas y las variedades tempranas suelen recogerse desde finales de agosto, y las tintas más tardías pueden alargarse hasta octubre. Regiones como La Rioja, la Ribera del Duero, Jerez, el Penedès, Rías Baixas o La Mancha organizan visitas, catas y actividades relacionadas."
+          - "Muchas bodegas ofrecen experiencias en las que puedes cortar racimos, pisar la uva o ver cómo llega la cosecha a la bodega, normalmente con reserva previa y de pago. Además hay fiestas dedicadas a la vendimia, como las de Jerez o las de San Mateo en Logroño, con pisado de uva, ofrendas del primer mosto y degustaciones."
+          - "Si te apuntas a una experiencia en el viñedo, lleva calzado cerrado y cómodo, gorra, protector solar y ropa que pueda mancharse. Mejor ir a primera hora de la mañana, cuando hace menos calor y se trabaja con más tranquilidad."
+        faq:
+          - p: "¿Cuándo es la vendimia en España?"
+            r: "Depende de la zona y la variedad, pero la época principal va de finales de agosto a octubre, con septiembre como mes central. Las uvas blancas y tempranas se recogen antes que las tintas tardías."
+          - p: "¿Dónde vivir la vendimia?"
+            r: "Los destinos clásicos son La Rioja, la Ribera del Duero, Jerez, el Penedès, Rías Baixas y La Mancha. Muchas bodegas organizan visitas y experiencias en esas fechas."
+          - p: "¿Se puede participar en la vendimia?"
+            r: "Sí, hay bodegas que ofrecen experiencias en las que puedes cortar racimos, pisar la uva o ver la entrada de la cosecha. Suelen ser de pago y requieren reserva previa, así que infórmate con tiempo."
+          - p: "¿Hay fiestas de la vendimia?"
+            r: "Sí. Entre las más conocidas están las Fiestas de la Vendimia de Jerez y las Fiestas de San Mateo y de la vendimia riojana en Logroño, con pisado de uva, ofrenda del mosto y degustaciones."
+          - p: "¿Qué hay que llevar?"
+            r: "Calzado cerrado y cómodo, gorra, protector solar y ropa que pueda mancharse. Mejor ir a primera hora de la mañana, cuando hace menos calor."
+          - p: "¿Es buen plan con niños?"
+            r: "En general sí. Muchas bodegas organizan actividades para familias, con pisado de uva simbólico y mosto sin alcohol. Pregunta al reservar si admiten niños."
   - id: piscinas-naturales
     meses: [6, 7, 8]
     temas: [agua, naturaleza]
