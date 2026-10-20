@@ -21,7 +21,14 @@ const kidsCount = films.filter((f) => f.publico === 'ninos').length;
         </ul>
       )}
     </div>
-    <ul class="cine-strip">
+    <div class="cine-track">
+    <button type="button" class="cine-nav cine-nav--prev" aria-label={L.cinePrev} disabled>
+      <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path d="M15 5l-7 7 7 7" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" /></svg>
+    </button>
+    <button type="button" class="cine-nav cine-nav--next" aria-label={L.cineNext}>
+      <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path d="M9 5l7 7-7 7" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" /></svg>
+    </button>
+    <ul class="cine-strip" tabindex="0">
       {films.map((f) => {
         const title = pickText(f.titulo, lang).text;
         const aud = f.publico === 'ninos' ? L.cineKids : L.cineAdults;
@@ -37,6 +44,7 @@ const kidsCount = films.filter((f) => f.publico === 'ninos').length;
         );
       })}
     </ul>
+    </div>
     <p class="cine-note muted">{L.cineNote}</p>
   </section>
 )}
@@ -45,9 +53,47 @@ const kidsCount = films.filter((f) => f.publico === 'ninos').length;
   const root = document.querySelector('[data-cine]');
   if (root) {
     const chips = [...root.querySelectorAll('[data-aud]:is(button)')];
+    const strip = root.querySelector('.cine-strip');
+    const prev = root.querySelector('.cine-nav--prev');
+    const next = root.querySelector('.cine-nav--next');
+    const sync = () => {
+      prev.disabled = strip.scrollLeft < 4;
+      next.disabled = strip.scrollLeft > strip.scrollWidth - strip.clientWidth - 4;
+    };
+    const page = (dir) => strip.scrollBy({ left: dir * strip.clientWidth * 0.85, behavior: 'smooth' });
     chips.forEach((chip) => chip.addEventListener('click', () => {
       chips.forEach((c) => c.setAttribute('aria-pressed', String(c === chip)));
       root.querySelectorAll('.film').forEach((f) => { f.hidden = Boolean(chip.dataset.aud) && f.dataset.aud !== chip.dataset.aud; });
+      strip.scrollLeft = 0;
+      sync();
     }));
+    prev.addEventListener('click', () => page(-1));
+    next.addEventListener('click', () => page(1));
+    strip.addEventListener('scroll', sync, { passive: true });
+    window.addEventListener('resize', sync);
+    strip.addEventListener('keydown', (e) => {
+      if (e.key === 'ArrowRight') { e.preventDefault(); page(1); }
+      if (e.key === 'ArrowLeft') { e.preventDefault(); page(-1); }
+    });
+
+    // Arrastrar con el ratón (en táctil ya se desplaza solo)
+    let down = null, moved = false;
+    strip.addEventListener('pointerdown', (e) => {
+      if (e.pointerType !== 'mouse' || e.button !== 0) return;
+      down = { x: e.clientX, left: strip.scrollLeft };
+      moved = false;
+    });
+    window.addEventListener('pointermove', (e) => {
+      if (!down) return;
+      const dx = e.clientX - down.x;
+      if (!moved && Math.abs(dx) > 5) { moved = true; strip.classList.add('is-dragging'); }
+      if (moved) strip.scrollLeft = down.left - dx;
+    });
+    const end = () => { down = null; strip.classList.remove('is-dragging'); };
+    window.addEventListener('pointerup', end);
+    window.addEventListener('pointercancel', end);
+    strip.addEventListener('dragstart', (e) => e.preventDefault());
+    strip.addEventListener('click', (e) => { if (moved) { e.preventDefault(); e.stopPropagation(); moved = false; } }, true);
+    sync();
   }
 </script>
