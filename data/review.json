@@ -1,1 +1,52 @@
-[]
+[
+ {
+  "id": "504e47ceda",
+  "titulo": "Premios ODA de diversidad audiovisual en Barcelona",
+  "inicio": "2026-12-15",
+  "municipio": "Barcelona",
+  "provincia": "Barcelona",
+  "confianza": 0.62,
+  "fuente": "La Vanguardia (Cultura)",
+  "url": "https://www.lavanguardia.com/cultura/20261019/11663031/premios-oda-celebraran-primera-vez-barcelona.html"
+ },
+ {
+  "id": "9ab326b640",
+  "titulo": "'¿Una vuelta?' de Rocío Guerrero en la Casa de los Morlanes",
+  "inicio": "2026-10-20",
+  "municipio": "Zaragoza",
+  "provincia": "Zaragoza",
+  "confianza": 0.66,
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/20/rocio-guerrero-toda-feria-es-barroca-esta-llena-estimulos-2060721.html"
+ },
+ {
+  "id": "8de31bade0",
+  "titulo": "Entrega de los premios Gure Artea en Tabakalera",
+  "inicio": "2026-10-28",
+  "municipio": "San Sebastián",
+  "provincia": "Gipuzkoa",
+  "confianza": 0.66,
+  "fuente": "El Diario Vasco (Culturas)",
+  "url": "https://www.diariovasco.com/culturas/donostiarra-itziar-okariz-galardonada-trayectoria-premios-gure-artea-20261019114706-nt.html"
+ },
+ {
+  "id": "2e595f721b",
+  "titulo": "VII edición de Pandemia Filosófica",
+  "inicio": "2026-10-23",
+  "municipio": null,
+  "provincia": "Cantabria",
+  "confianza": 0.6,
+  "fuente": "El Diario Montañés (Culturas)",
+  "url": "https://www.eldiariomontanes.es/culturas/pandemia-filosofica-potencia-reflexion-traves-nuevos-formatos-20261017074536-nt.html"
+ },
+ {
+  "id": "16ed03c155",
+  "titulo": "Premios Deporte Galego 2025 en Lugo",
+  "inicio": "2026-10-29",
+  "municipio": "Lugo",
+  "provincia": "Lugo",
+  "confianza": 0.6,
+  "fuente": "El Progreso (Lugo)",
+  "url": "https://www.elprogreso.es/articulo/deporte-local-lugo/lugo-acogera-miercoles-dia-29-entrega-premios-deporte-galego-2025/202610191847132007420.html"
+ }
+]

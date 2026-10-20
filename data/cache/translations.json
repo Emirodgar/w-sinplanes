@@ -1,0 +1,866 @@
+{
+ "5d65410134": {
+  "fr": {
+   "titulo": "Aller ramasser des châtaignes",
+   "resumen": "Les châtaigneraies d’El Bierzo, de la vallée du Genal, de la Sierra de Francia ou de la vallée du Tiétar se couvrent de bogues. Demandez l’autorisation si le terrain est privé."
+  },
+  "de": {
+   "titulo": "Kastanien sammeln gehen",
+   "resumen": "Die Kastanienwälder von El Bierzo, im Genal-Tal, in der Sierra de Francia und im Tiétar-Tal sind im Herbst voller Stachelfrüchte. Auf Privatland vorher um Erlaubnis fragen."
+  },
+  "it": {
+   "titulo": "Andare a raccogliere le castagne",
+   "resumen": "I castagneti di El Bierzo, della Valle del Genal, della Sierra de Francia e della Valle del Tiétar si riempiono di ricci. Chiedi il permesso se il terreno è privato."
+  },
+  "pt": {
+   "titulo": "Ir apanhar castanhas",
+   "resumen": "Os soutos de El Bierzo, do Vale do Genal, da Serra de Francia ou do Vale do Tiétar enchem-se de ouriços. Peça autorização se o terreno for privado."
+  }
+ },
+ "d62134a19e": {
+  "fr": {
+   "titulo": "Fêter un magosto",
+   "resumen": "Châtaignes grillées, feu de joie et vin nouveau : la fête d’automne de Galice, des Asturies et d’El Bierzo autour de la Saint-Martin."
+  },
+  "de": {
+   "titulo": "Ein Magosto feiern",
+   "resumen": "Geröstete Kastanien, Lagerfeuer und neuer Wein: das Herbstfest in Galicien, Asturien und El Bierzo rund um den Martinstag."
+  },
+  "it": {
+   "titulo": "Festeggiare un magosto",
+   "resumen": "Castagne arrostite, falò e vino novello: la festa d’autunno di Galizia, Asturie ed El Bierzo intorno a San Martino."
+  },
+  "pt": {
+   "titulo": "Celebrar um magusto",
+   "resumen": "Castanhas assadas, fogueira e vinho novo: a festa de outono da Galiza, das Astúrias e de El Bierzo em torno do dia de São Martinho."
+  }
+ },
+ "f9dc62a04a": {
+  "fr": {
+   "titulo": "Partir à la cueillette des champignons",
+   "resumen": "Soria, les Pyrénées et les montagnes de León et de Zamora sont les grands classiques. Renseignez-vous sur la réglementation et le permis de cueillette de chaque zone."
+  },
+  "de": {
+   "titulo": "Pilze sammeln gehen",
+   "resumen": "Soria, die Pyrenäen und die Berge von León und Zamora sind die Klassiker. Informiere dich über die Vorschriften und die Sammelerlaubnis in jeder Region."
+  },
+  "it": {
+   "titulo": "Andare a funghi",
+   "resumen": "Soria, i Pirenei e le montagne di León e Zamora sono i luoghi classici. Informati sulle norme e sul permesso di raccolta di ogni zona."
+  },
+  "pt": {
+   "titulo": "Ir à apanha de cogumelos",
+   "resumen": "Soria, os Pirenéus e os montes de León e Zamora são os clássicos. Informe-se sobre a regulamentação e a licença de apanha de cada zona."
+  }
+ },
+ "50931cbdd7": {
+  "fr": {
+   "titulo": "Admirer l’automne dans une hêtraie",
+   "resumen": "Irati, Montejo, Tejera Negra ou la hêtraie d’Otzarreta changent de couleur en quelques semaines. Venez en semaine pour éviter les quotas de visiteurs complets."
+  },
+  "de": {
+   "titulo": "Den Herbst im Buchenwald erleben",
+   "resumen": "Irati, Montejo, Tejera Negra oder der Buchenwald von Otzarreta färben sich innerhalb weniger Wochen. Am besten unter der Woche kommen, um volle Besucherkontingente zu vermeiden."
+  },
+  "it": {
+   "titulo": "Vedere l’autunno in una faggeta",
+   "resumen": "Irati, Montejo, Tejera Negra o la faggeta di Otzarreta cambiano colore in poche settimane. Vai durante la settimana per evitare i contingenti di visitatori già esauriti."
+  },
+  "pt": {
+   "titulo": "Ver o outono num faial",
+   "resumen": "Irati, Montejo, Tejera Negra ou o faial de Otzarreta mudam de cor em poucas semanas. Vá durante a semana para evitar as quotas de visitantes esgotadas."
+  }
+ },
+ "4e6e8da599": {
+  "fr": {
+   "titulo": "Écouter le brame du cerf",
+   "resumen": "Au lever et au coucher du soleil à Monfragüe, Cabañeros, dans la Sierra de Andújar ou à Riaño. Apportez des jumelles et restez silencieux."
+  },
+  "de": {
+   "titulo": "Der Hirschbrunft lauschen",
+   "resumen": "Bei Sonnenaufgang und Sonnenuntergang in Monfragüe, Cabañeros, der Sierra de Andújar oder Riaño. Fernglas mitbringen und leise sein."
+  },
+  "it": {
+   "titulo": "Ascoltare il bramito del cervo",
+   "resumen": "All’alba e al tramonto a Monfragüe, Cabañeros, nella Sierra de Andújar o a Riaño. Porta il binocolo e fai silenzio."
+  },
+  "pt": {
+   "titulo": "Ouvir a brama do veado",
+   "resumen": "Ao amanhecer e ao entardecer em Monfragüe, Cabañeros, na Serra de Andújar ou em Riaño. Leve binóculos e mantenha o silêncio."
+  }
+ },
+ "31dba31e45": {
+  "fr": {
+   "titulo": "Vivre les vendanges",
+   "resumen": "La Rioja, la Ribera del Duero, Jerez ou le Penedès organisent des visites et des fêtes des vendanges dans les caves."
+  },
+  "de": {
+   "titulo": "Die Weinlese erleben",
+   "resumen": "Rioja, Ribera del Duero, Jerez oder das Penedès bieten Besichtigungen und Weinlesefeste in den Bodegas an."
+  },
+  "it": {
+   "titulo": "Vivere la vendemmia",
+   "resumen": "La Rioja, la Ribera del Duero, Jerez o il Penedès organizzano visite e feste della vendemmia nelle cantine."
+  },
+  "pt": {
+   "titulo": "Viver a vindima",
+   "resumen": "La Rioja, a Ribera del Duero, Jerez ou o Penedès organizam visitas e festas da vindima nas adegas."
+  }
+ },
+ "249bd66599": {
+  "fr": {
+   "titulo": "Se baigner dans une piscine naturelle",
+   "resumen": "La Vera, la vallée du Jerte, Las Hurdes ou la Sierra de Gredos offrent des vasques et des gorges d’eau fraîche et limpide."
+  },
+  "de": {
+   "titulo": "In einem Naturbad schwimmen",
+   "resumen": "La Vera, das Jerte-Tal, Las Hurdes oder die Sierra de Gredos haben Gumpen und Schluchten mit kaltem, klarem Wasser."
+  },
+  "it": {
+   "titulo": "Fare il bagno in una piscina naturale",
+   "resumen": "La Vera, la Valle del Jerte, Las Hurdes o la Sierra de Gredos offrono pozze e gole d’acqua fredda e limpida."
+  },
+  "pt": {
+   "titulo": "Banhar-se numa piscina natural",
+   "resumen": "La Vera, o Vale do Jerte, Las Hurdes ou a Serra de Gredos têm poços e gargantas de água fria e límpida."
+  }
+ },
+ "0392bd0985": {
+  "fr": {
+   "titulo": "Passer la journée sur une plage fluviale",
+   "resumen": "Une alternative à la mer pour l’intérieur du pays : des plages de sable sur les rivières et les retenues d’eau, avec une zone de baignade balisée."
+  },
+  "de": {
+   "titulo": "Einen Tag am Flussstrand verbringen",
+   "resumen": "Eine Alternative zum Meer im Landesinneren: Sandstrände an Flüssen und Stauseen mit ausgewiesenem Badebereich."
+  },
+  "it": {
+   "titulo": "Passare la giornata in una spiaggia fluviale",
+   "resumen": "Un’alternativa al mare per l’entroterra: arenili su fiumi e bacini con zona di balneazione segnalata."
+  },
+  "pt": {
+   "titulo": "Passar o dia numa praia fluvial",
+   "resumen": "Uma alternativa ao mar para o interior: areais em rios e albufeiras com zona de banho sinalizada."
+  }
+ },
+ "2b936ba244": {
+  "fr": {
+   "titulo": "Participer aux fêtes d’un village",
+   "resumen": "Août est le mois des fêtes patronales : bals populaires, peñas et orchestres dans presque chaque village d’Espagne."
+  },
+  "de": {
+   "titulo": "Auf ein Dorffest gehen",
+   "resumen": "Der August ist der Monat der Patronatsfeste: Tanzabende, Peñas und Kapellen in fast jedem Dorf Spaniens."
+  },
+  "it": {
+   "titulo": "Andare alle feste di paese",
+   "resumen": "Agosto è il mese delle feste patronali: serate danzanti, peñas e orchestre in quasi ogni paese della Spagna."
+  },
+  "pt": {
+   "titulo": "Ir às festas de uma aldeia",
+   "resumen": "Agosto é o mês das festas padroeiras: bailaricos, peñas e orquestras em quase todas as aldeias de Espanha."
+  }
+ },
+ "a4b55df272": {
+  "fr": {
+   "titulo": "Observer les Perséides",
+   "resumen": "Vers le 12 août, loin de la pollution lumineuse. Monfragüe, la Sierra Sur de Jaén ou Gúdar-Javalambre sont des réserves Starlight."
+  },
+  "de": {
+   "titulo": "Die Perseiden beobachten",
+   "resumen": "Um den 12. August, fernab der Lichtverschmutzung. Monfragüe, die Sierra Sur de Jaén oder Gúdar-Javalambre sind Starlight-Reservate."
+  },
+  "it": {
+   "titulo": "Osservare le Perseidi",
+   "resumen": "Intorno al 12 agosto, lontano dall’inquinamento luminoso. Monfragüe, la Sierra Sur de Jaén o Gúdar-Javalambre sono riserve Starlight."
+  },
+  "pt": {
+   "titulo": "Ver as Perseidas",
+   "resumen": "Por volta de 12 de agosto, longe da poluição luminosa. Monfragüe, a Sierra Sur de Jaén ou Gúdar-Javalambre são reservas Starlight."
+  }
+ },
+ "c11be01bfb": {
+  "fr": {
+   "titulo": "Admirer les cerisiers en fleurs",
+   "resumen": "La vallée du Jerte se couvre de blanc entre la fin mars et la mi-avril, selon l’année."
+  },
+  "de": {
+   "titulo": "Die Kirschblüte erleben",
+   "resumen": "Das Jerte-Tal färbt sich je nach Jahr zwischen Ende März und Mitte April weiß."
+  },
+  "it": {
+   "titulo": "Vedere i ciliegi in fiore",
+   "resumen": "La Valle del Jerte si copre di bianco tra la fine di marzo e la metà di aprile, a seconda dell’anno."
+  },
+  "pt": {
+   "titulo": "Ver as cerejeiras em flor",
+   "resumen": "O Vale do Jerte cobre-se de branco entre o final de março e meados de abril, consoante o ano."
+  }
+ },
+ "c22ae10cdf": {
+  "fr": {
+   "titulo": "Se promener parmi les amandiers en fleurs",
+   "resumen": "Majorque, l’Axarquía, Tenerife et le Campo de Cartagena fleurissent avant tous les autres."
+  },
+  "de": {
+   "titulo": "Zwischen blühenden Mandelbäumen spazieren",
+   "resumen": "Mallorca, die Axarquía, Teneriffa und das Campo de Cartagena blühen vor allen anderen."
+  },
+  "it": {
+   "titulo": "Passeggiare tra i mandorli in fiore",
+   "resumen": "Maiorca, l’Axarquía, Tenerife e il Campo de Cartagena fioriscono prima di tutti."
+  },
+  "pt": {
+   "titulo": "Passear entre amendoeiras em flor",
+   "resumen": "Maiorca, a Axarquía, Tenerife e o Campo de Cartagena florescem antes de todos."
+  }
+ },
+ "7d99793507": {
+  "fr": {
+   "titulo": "Participer à une calçotada",
+   "resumen": "Des calçots grillés à la braise avec sauce romesco dans le Camp de Tarragona et l’Alt Camp. Mieux vaut réserver."
+  },
+  "de": {
+   "titulo": "Bei einer Calçotada mitessen",
+   "resumen": "Über dem Feuer gegrillte Calçots mit Romesco-Sauce im Camp de Tarragona und im Alt Camp. Am besten reservieren."
+  },
+  "it": {
+   "titulo": "Andare a una calçotada",
+   "resumen": "Calçots alla brace con salsa romesco nel Camp de Tarragona e nell’Alt Camp. Meglio prenotare."
+  },
+  "pt": {
+   "titulo": "Ir a uma calçotada",
+   "resumen": "Calçots grelhados na brasa com molho romesco no Camp de Tarragona e no Alt Camp. É preferível reservar."
+  }
+ },
+ "17dbabf601": {
+  "fr": {
+   "titulo": "Monter à la neige",
+   "resumen": "Sierra Nevada, les Pyrénées, la cordillère Cantabrique ou le Système central. Vérifiez l’état des routes et si les chaînes sont obligatoires."
+  },
+  "de": {
+   "titulo": "Ab in den Schnee",
+   "resumen": "Sierra Nevada, Pyrenäen, Kantabrisches Gebirge oder Iberisches Zentralgebirge. Prüfe den Straßenzustand und ob Schneeketten nötig sind."
+  },
+  "it": {
+   "titulo": "Salire sulla neve",
+   "resumen": "Sierra Nevada, Pirenei, Cordigliera Cantabrica o Sistema Centrale. Controlla lo stato delle strade e se servono le catene."
+  },
+  "pt": {
+   "titulo": "Subir à neve",
+   "resumen": "Serra Nevada, Pirenéus, Cordilheira Cantábrica ou Sistema Central. Verifique o estado das estradas e se são necessárias correntes."
+  }
+ },
+ "3d580472fc": {
+  "fr": {
+   "titulo": "Participer à une fête de la matanza",
+   "resumen": "De nombreux villages de Castille-et-León et d’Estrémadure la célèbrent comme une fête gastronomique avec dégustations."
+  },
+  "de": {
+   "titulo": "Zu einem Schlachtfest gehen",
+   "resumen": "Viele Dörfer in Kastilien und León sowie in der Extremadura feiern die Matanza als kulinarisches Fest mit Verkostungen."
+  },
+  "it": {
+   "titulo": "Andare a una festa della matanza",
+   "resumen": "Molti paesi della Castiglia e León e dell’Estremadura la celebrano come festa gastronomica con degustazioni."
+  },
+  "pt": {
+   "titulo": "Ir a uma festa da matança",
+   "resumen": "Muitas aldeias de Castela e Leão e da Extremadura celebram-na como festa gastronómica com provas."
+  }
+ },
+ "b81107be85": {
+  "fr": {
+   "titulo": "Visiter un marché de Noël",
+   "resumen": "La Plaza Mayor de Madrid, la Fira de Santa Llúcia à Barcelone ou le marché de Santo Tomás à Bilbao, parmi bien d’autres."
+  },
+  "de": {
+   "titulo": "Einen Weihnachtsmarkt besuchen",
+   "resumen": "Die Plaza Mayor in Madrid, die Fira de Santa Llúcia in Barcelona oder der Santo-Tomás-Markt in Bilbao, neben vielen anderen."
+  },
+  "it": {
+   "titulo": "Visitare un mercatino di Natale",
+   "resumen": "La Plaza Mayor di Madrid, la Fira de Santa Llúcia a Barcellona o il mercato di Santo Tomás a Bilbao, tra molti altri."
+  },
+  "pt": {
+   "titulo": "Visitar um mercado de Natal",
+   "resumen": "A Plaza Mayor de Madrid, a Fira de Santa Llúcia em Barcelona ou o mercado de Santo Tomás em Bilbau, entre muitos outros."
+  }
+ },
+ "8e37e690e5": {
+  "fr": {
+   "titulo": "Voir les illuminations de Noël",
+   "resumen": "Vigo, Madrid, Malaga ou Valence rivalisent chaque année pour l’éclairage le plus spectaculaire. Les illuminations s’allument généralement fin novembre."
+  },
+  "de": {
+   "titulo": "Die Weihnachtsbeleuchtung ansehen",
+   "resumen": "Vigo, Madrid, Málaga und Valencia wetteifern jedes Jahr um die spektakulärste Beleuchtung. Eingeschaltet wird sie meist Ende November."
+  },
+  "it": {
+   "titulo": "Vedere le luci di Natale",
+   "resumen": "Vigo, Madrid, Malaga o Valencia competono ogni anno per le luminarie più spettacolari. L’accensione avviene di solito a fine novembre."
+  },
+  "pt": {
+   "titulo": "Ver as luzes de Natal",
+   "resumen": "Vigo, Madrid, Málaga ou Valência competem todos os anos pela iluminação mais espetacular. A inauguração costuma ser no final de novembro."
+  }
+ },
+ "04a0a2cfc1": {
+  "fr": {
+   "titulo": "Voir des crèches et des crèches vivantes",
+   "resumen": "Expositions de crèches dans les mairies, les églises et les musées, et crèches vivantes dans de nombreux villages."
+  },
+  "de": {
+   "titulo": "Krippen und lebende Krippen ansehen",
+   "resumen": "Krippenausstellungen in Rathäusern, Kirchen und Museen sowie lebende Krippen in vielen Dörfern."
+  },
+  "it": {
+   "titulo": "Vedere presepi e presepi viventi",
+   "resumen": "Mostre di presepi in municipi, chiese e musei, e presepi viventi in molti paesi."
+  },
+  "pt": {
+   "titulo": "Ver presépios e presépios vivos",
+   "resumen": "Exposições de presépios em câmaras municipais, igrejas e museus, e presépios vivos em muitas aldeias."
+  }
+ },
+ "def2f8350b": {
+  "fr": {
+   "titulo": "Voir les champs de fleurs au printemps",
+   "resumen": "Coquelicots, premières lavandes et prés fleuris : la meilleure période pour une randonnée facile."
+  },
+  "de": {
+   "titulo": "Blumenfelder im Frühling sehen",
+   "resumen": "Mohn, frühe Lavendelblüte und blühende Wiesen: die beste Zeit für leichte Wanderungen."
+  },
+  "it": {
+   "titulo": "Vedere i campi di fiori in primavera",
+   "resumen": "Papaveri, lavanda precoce e prati in fiore: il periodo migliore per un’escursione facile."
+  },
+  "pt": {
+   "titulo": "Ver campos de flores na primavera",
+   "resumen": "Papoilas, lavanda precoce e prados em flor: a melhor época para caminhadas tranquilas."
+  }
+ },
+ "6e3c329027": {
+  "fr": {
+   "titulo": "Voir les champs de lavande",
+   "resumen": "Brihuega (Guadalajara) se pare de violet début juillet. C’est au coucher du soleil qu’elle est la plus belle."
+  },
+  "de": {
+   "titulo": "Die Lavendelfelder sehen",
+   "resumen": "Brihuega (Guadalajara) blüht Anfang Juli in Violett. Am schönsten ist es bei Sonnenuntergang."
+  },
+  "it": {
+   "titulo": "Vedere i campi di lavanda",
+   "resumen": "Brihuega (Guadalajara) fiorisce di viola all’inizio di luglio. Al tramonto è al suo meglio."
+  },
+  "pt": {
+   "titulo": "Ver os campos de lavanda",
+   "resumen": "Brihuega (Guadalajara) floresce em roxo no início de julho. É ao entardecer que fica mais bonita."
+  }
+ },
+ "98dc6af650": {
+  "fr": {
+   "titulo": "Tournée des terrasses et du vermouth",
+   "resumen": "Avant les grosses chaleurs et au retour des vacances : un bon moment pour un vermouth au soleil."
+  },
+  "de": {
+   "titulo": "Terrassen- und Wermut-Tour",
+   "resumen": "Vor der großen Hitze und nach dem Urlaub: eine gute Zeit für einen Wermut in der Sonne."
+  },
+  "it": {
+   "titulo": "Giro di terrazze e vermut",
+   "resumen": "Prima del caldo forte e al ritorno dalle vacanze: un buon momento per un vermut al sole."
+  },
+  "pt": {
+   "titulo": "Roteiro de esplanadas e vermute",
+   "resumen": "Antes do calor forte e no regresso das férias: um bom momento para um vermute ao sol."
+  }
+ },
+ "ba30fcffa0": {
+  "fr": {
+   "titulo": "Entrer gratuitement dans un musée",
+   "resumen": "De nombreux musées nationaux ont des horaires d’entrée gratuite, par exemple l’après-midi ou le dimanche. Consultez les horaires de chaque musée."
+  },
+  "de": {
+   "titulo": "Kostenlos ins Museum",
+   "resumen": "Viele staatliche Museen haben Zeiten mit freiem Eintritt, zum Beispiel nachmittags oder sonntags. Informiere dich über die Zeiten des jeweiligen Museums."
+  },
+  "it": {
+   "titulo": "Entrare gratis in un museo",
+   "resumen": "Molti musei statali hanno orari di ingresso gratuito, ad esempio il pomeriggio o la domenica. Controlla l’orario di ciascun museo."
+  },
+  "pt": {
+   "titulo": "Entrar gratuitamente num museu",
+   "resumen": "Muitos museus estatais têm horários de entrada gratuita, por exemplo à tarde ou ao domingo. Consulte o horário de cada museu."
+  }
+ },
+ "b4859281e5": {
+  "fr": {
+   "titulo": "Cavalcade des Rois mages",
+   "resumen": "Défilés des Rois mages dans toute l’Espagne, l’après-midi du 5 janvier."
+  },
+  "de": {
+   "titulo": "Dreikönigsumzug",
+   "resumen": "Umzüge der Heiligen Drei Könige in ganz Spanien am Nachmittag des 5. Januar."
+  },
+  "it": {
+   "titulo": "Cavalcata dei Re Magi",
+   "resumen": "Sfilate dei Re Magi in tutta la Spagna nel pomeriggio del 5 gennaio."
+  },
+  "pt": {
+   "titulo": "Cavalgata dos Reis Magos",
+   "resumen": "Desfiles dos Reis Magos por toda a Espanha na tarde de 5 de janeiro."
+  }
+ },
+ "943a4f6877": {
+  "fr": {
+   "titulo": "Prix Nadal de roman",
+   "resumen": "Le plus ancien prix littéraire d’Espagne est décerné chaque 6 janvier à Barcelone."
+  },
+  "de": {
+   "titulo": "Premio Nadal für Romane",
+   "resumen": "Der älteste Literaturpreis Spaniens wird jedes Jahr am 6. Januar in Barcelona verkündet."
+  },
+  "it": {
+   "titulo": "Premio Nadal di romanzo",
+   "resumen": "Il più antico premio letterario spagnolo viene assegnato ogni 6 gennaio a Barcellona."
+  },
+  "pt": {
+   "titulo": "Prémio Nadal de romance",
+   "resumen": "O prémio literário mais antigo de Espanha é atribuído todos os anos a 6 de janeiro, em Barcelona."
+  }
+ },
+ "f111543379": {
+  "fr": {
+   "titulo": "Carnaval de Cadix",
+   "resumen": "Chirigotas, comparsas et chœurs dans les rues de Cadix."
+  },
+  "de": {
+   "titulo": "Karneval von Cádiz",
+   "resumen": "Chirigotas, Comparsas und Chöre auf den Straßen von Cádiz."
+  },
+  "it": {
+   "titulo": "Carnevale di Cadice",
+   "resumen": "Chirigotas, comparsas e cori per le strade di Cadice."
+  },
+  "pt": {
+   "titulo": "Carnaval de Cádis",
+   "resumen": "Chirigotas, comparsas e coros pelas ruas de Cádis."
+  }
+ },
+ "1aa254d995": {
+  "fr": {
+   "titulo": "Regarder le Super Bowl",
+   "resumen": "La finale de la NFL est diffusée en pleine nuit en Espagne. De nombreux bars sportifs ouvrent pour la retransmettre."
+  },
+  "de": {
+   "titulo": "Den Super Bowl schauen",
+   "resumen": "Das NFL-Finale läuft in Spanien mitten in der Nacht. Viele Sportbars öffnen dafür."
+  },
+  "it": {
+   "titulo": "Guardare il Super Bowl",
+   "resumen": "La finale della NFL va in onda nel cuore della notte in Spagna. Molti sport bar aprono per trasmetterla."
+  },
+  "pt": {
+   "titulo": "Ver a Super Bowl",
+   "resumen": "A final da NFL é transmitida de madrugada em Espanha. Muitos bares desportivos abrem para a ver."
+  }
+ },
+ "eebb490eb3": {
+  "fr": {
+   "titulo": "Cérémonie des prix Goya",
+   "resumen": "La grande nuit du cinéma espagnol, en direct à la télévision."
+  },
+  "de": {
+   "titulo": "Verleihung der Goya-Preise",
+   "resumen": "Die große Nacht des spanischen Films, live im Fernsehen."
+  },
+  "it": {
+   "titulo": "Cerimonia dei Premi Goya",
+   "resumen": "La grande notte del cinema spagnolo, in diretta televisiva."
+  },
+  "pt": {
+   "titulo": "Gala dos Prémios Goya",
+   "resumen": "A grande noite do cinema espanhol, em direto na televisão."
+  }
+ },
+ "d28717dfc4": {
+  "fr": {
+   "titulo": "La nuit des Oscars",
+   "resumen": "La cérémonie est diffusée en pleine nuit en Espagne. Un plan idéal pour voir d’abord les films nommés."
+  },
+  "de": {
+   "titulo": "Die Oscar-Nacht",
+   "resumen": "Die Gala läuft in Spanien mitten in der Nacht. Ein perfekter Anlass, vorher die nominierten Filme zu sehen."
+  },
+  "it": {
+   "titulo": "La notte degli Oscar",
+   "resumen": "La cerimonia va in onda nel cuore della notte in Spagna. Un piano perfetto per vedere prima i film candidati."
+  },
+  "pt": {
+   "titulo": "A noite dos Óscares",
+   "resumen": "A gala é transmitida de madrugada em Espanha. Um plano perfeito para ver antes os filmes nomeados."
+  }
+ },
+ "9205650f5c": {
+  "fr": {
+   "titulo": "Fallas de Valence",
+   "resumen": "Mascletàs, monuments fallas et la cremà dans la nuit du 19 mars."
+  },
+  "de": {
+   "titulo": "Las Fallas in Valencia",
+   "resumen": "Mascletàs, Fallas-Monumente und die Cremà in der Nacht auf den 19. März."
+  },
+  "it": {
+   "titulo": "Le Fallas di Valencia",
+   "resumen": "Mascletàs, monumenti fallas e la cremà nella notte del 19 marzo."
+  },
+  "pt": {
+   "titulo": "Fallas de Valência",
+   "resumen": "Mascletàs, monumentos falleros e a cremà na noite de 19 de março."
+  }
+ },
+ "bd206be4c4": {
+  "fr": {
+   "titulo": "Processions de la Semaine sainte",
+   "resumen": "Séville, Malaga, Valladolid, Zamora ou Cuenca ont les plus célèbres, chacune avec un style très différent."
+  },
+  "de": {
+   "titulo": "Karwochen-Prozessionen",
+   "resumen": "Sevilla, Málaga, Valladolid, Zamora oder Cuenca haben die bekanntesten, jede mit ganz eigenem Stil."
+  },
+  "it": {
+   "titulo": "Processioni della Settimana Santa",
+   "resumen": "Siviglia, Malaga, Valladolid, Zamora o Cuenca hanno le più celebri, ciascuna con uno stile molto diverso."
+  },
+  "pt": {
+   "titulo": "Procissões da Semana Santa",
+   "resumen": "Sevilha, Málaga, Valladolid, Zamora ou Cuenca têm as mais conhecidas, cada uma com um estilo muito diferente."
+  }
+ },
+ "161da6d22c": {
+  "fr": {
+   "titulo": "Feria d’Avril de Séville",
+   "resumen": "Casetas, sévillanes et promenade de chevaux au Real de la Feria."
+  },
+  "de": {
+   "titulo": "Feria de Abril in Sevilla",
+   "resumen": "Casetas, Sevillanas und Pferdekutschen auf dem Festgelände Real de la Feria."
+  },
+  "it": {
+   "titulo": "Feria de Abril di Siviglia",
+   "resumen": "Casetas, sevillanas e passeggiata a cavallo nel Real de la Feria."
+  },
+  "pt": {
+   "titulo": "Feria de Abril de Sevilha",
+   "resumen": "Casetas, sevilhanas e passeio de cavalos no Real de la Feria."
+  }
+ },
+ "051785b5cc": {
+  "fr": {
+   "titulo": "Journée du livre et Sant Jordi",
+   "resumen": "Stands de livres et de roses dans les rues, surtout à Barcelone, et dédicaces d’auteurs dans toute l’Espagne."
+  },
+  "de": {
+   "titulo": "Tag des Buches und Sant Jordi",
+   "resumen": "Bücher- und Rosenstände auf den Straßen, vor allem in Barcelona, und Autorensignierstunden in ganz Spanien."
+  },
+  "it": {
+   "titulo": "Giornata del Libro e Sant Jordi",
+   "resumen": "Bancarelle di libri e rose per le strade, soprattutto a Barcellona, e firmacopie di autori in tutta la Spagna."
+  },
+  "pt": {
+   "titulo": "Dia do Livro e Sant Jordi",
+   "resumen": "Bancas de livros e rosas nas ruas, sobretudo em Barcelona, e sessões de autógrafos de autores por toda a Espanha."
+  }
+ },
+ "f64a61ff70": {
+  "fr": {
+   "titulo": "Remise du prix Cervantes",
+   "resumen": "La plus importante distinction des lettres hispaniques est remise à Alcalá de Henares."
+  },
+  "de": {
+   "titulo": "Verleihung des Premio Cervantes",
+   "resumen": "Die wichtigste Auszeichnung der spanischsprachigen Literatur wird in Alcalá de Henares überreicht."
+  },
+  "it": {
+   "titulo": "Consegna del Premio Cervantes",
+   "resumen": "Il più importante riconoscimento delle lettere in lingua spagnola viene consegnato ad Alcalá de Henares."
+  },
+  "pt": {
+   "titulo": "Entrega do Prémio Cervantes",
+   "resumen": "A mais importante distinção das letras em língua espanhola é entregue em Alcalá de Henares."
+  }
+ },
+ "6d70762ac8": {
+  "fr": {
+   "titulo": "Finale de l’Eurovision",
+   "resumen": "L’une des soirées les plus regardées de l’année. Idéale à voir en groupe."
+  },
+  "de": {
+   "titulo": "Eurovision-Finale",
+   "resumen": "Eine der Nächte mit den höchsten Einschaltquoten des Jahres. Ideal zum gemeinsamen Anschauen."
+  },
+  "it": {
+   "titulo": "Finale dell’Eurovision",
+   "resumen": "Una delle serate con più ascolti dell’anno. Ideale da guardare in compagnia."
+  },
+  "pt": {
+   "titulo": "Final da Eurovisão",
+   "resumen": "Uma das noites com mais audiência do ano. Ideal para ver em grupo."
+  }
+ },
+ "ac8f23bd78": {
+  "fr": {
+   "titulo": "Foire du livre de Madrid",
+   "resumen": "Stands de librairies et d’éditeurs dans le Retiro, avec des dédicaces d’auteurs chaque jour."
+  },
+  "de": {
+   "titulo": "Madrider Buchmesse",
+   "resumen": "Stände von Buchhandlungen und Verlagen im Retiro, täglich mit Autorensignierstunden."
+  },
+  "it": {
+   "titulo": "Fiera del Libro di Madrid",
+   "resumen": "Stand di librerie e case editrici nel Retiro, con firmacopie di autori ogni giorno."
+  },
+  "pt": {
+   "titulo": "Feira do Livro de Madrid",
+   "resumen": "Bancas de livrarias e editoras no Retiro, com sessões de autógrafos de autores todos os dias."
+  }
+ },
+ "5dfee16109": {
+  "fr": {
+   "titulo": "Finale de la Ligue des champions",
+   "resumen": "La finale européenne des clubs, dans les bars et sur écrans géants si une équipe espagnole y joue."
+  },
+  "de": {
+   "titulo": "Finale der Champions League",
+   "resumen": "Das europäische Vereinsfinale, in Bars und auf Großbildleinwänden, wenn ein spanisches Team spielt."
+  },
+  "it": {
+   "titulo": "Finale di Champions League",
+   "resumen": "La finale europea per club, nei bar e sui maxischermi se gioca una squadra spagnola."
+  },
+  "pt": {
+   "titulo": "Final da Liga dos Campeões",
+   "resumen": "A final europeia de clubes, em bares e ecrãs gigantes se jogar uma equipa espanhola."
+  }
+ },
+ "7a945d8ede": {
+  "fr": {
+   "titulo": "Nuit de la Saint-Jean",
+   "resumen": "Feux de joie sur les plages de La Corogne, d’Alicante ou de Barcelone et fêtes du feu dans les Pyrénées."
+  },
+  "de": {
+   "titulo": "Johannisnacht",
+   "resumen": "Freudenfeuer an den Stränden von A Coruña, Alicante oder Barcelona und Feuerfeste in den Pyrenäen."
+  },
+  "it": {
+   "titulo": "Notte di San Giovanni",
+   "resumen": "Falò sulle spiagge di A Coruña, Alicante o Barcellona e feste del fuoco nei Pirenei."
+  },
+  "pt": {
+   "titulo": "Noite de São João",
+   "resumen": "Fogueiras nas praias da Corunha, de Alicante ou de Barcelona e festas do fogo nos Pirenéus."
+  }
+ },
+ "ca7cfdabdc": {
+  "fr": {
+   "titulo": "Bataille du vin de Haro",
+   "resumen": "Des milliers de personnes s’aspergent de vin rouge aux Riscos de Bilibio. Venez habillé en blanc."
+  },
+  "de": {
+   "titulo": "Weinschlacht von Haro",
+   "resumen": "Tausende Menschen übergießen sich an den Riscos de Bilibio mit Rotwein. Zieh dich weiß an."
+  },
+  "it": {
+   "titulo": "Battaglia del Vino di Haro",
+   "resumen": "Migliaia di persone si inzuppano di vino rosso ai Riscos de Bilibio. Vai vestito di bianco."
+  },
+  "pt": {
+   "titulo": "Batalha do Vinho de Haro",
+   "resumen": "Milhares de pessoas encharcam-se de vinho tinto nos Riscos de Bilibio. Vá vestido de branco."
+  }
+ },
+ "cc305aa118": {
+  "fr": {
+   "titulo": "Sanfermines",
+   "resumen": "Du chupinazo du 6 juillet au « Pobre de mí » du 14, avec des encierros chaque matin."
+  },
+  "de": {
+   "titulo": "Sanfermines",
+   "resumen": "Vom Chupinazo am 6. Juli bis zum „Pobre de mí“ am 14., mit Stierläufen jeden Morgen."
+  },
+  "it": {
+   "titulo": "Sanfermines",
+   "resumen": "Dal chupinazo del 6 luglio al «Pobre de mí» del 14, con encierros ogni mattina."
+  },
+  "pt": {
+   "titulo": "Sanfermines",
+   "resumen": "Do chupinazo de 6 de julho ao «Pobre de mí» do dia 14, com encierros todas as manhãs."
+  }
+ },
+ "6f49aa0d1e": {
+  "fr": {
+   "titulo": "La Tomatina de Buñol",
+   "resumen": "Une heure de bataille de tomates le dernier mercredi d’août. Billet obligatoire."
+  },
+  "de": {
+   "titulo": "La Tomatina in Buñol",
+   "resumen": "Eine Stunde Tomatenschlacht am letzten Mittwoch im August. Eintrittskarte erforderlich."
+  },
+  "it": {
+   "titulo": "La Tomatina di Buñol",
+   "resumen": "Un’ora di battaglia di pomodori l’ultimo mercoledì di agosto. Serve il biglietto."
+  },
+  "pt": {
+   "titulo": "La Tomatina de Buñol",
+   "resumen": "Uma hora de batalha de tomates na última quarta-feira de agosto. É necessário bilhete."
+  }
+ },
+ "c065e7d501": {
+  "fr": {
+   "titulo": "Festival de cinéma de Saint-Sébastien",
+   "resumen": "Avant-premières, stars sur le tapis rouge et projections ouvertes au public."
+  },
+  "de": {
+   "titulo": "Filmfestival von San Sebastián",
+   "resumen": "Premieren, Stars auf dem roten Teppich und für das Publikum offene Vorführungen."
+  },
+  "it": {
+   "titulo": "Festival del Cinema di San Sebastián",
+   "resumen": "Anteprime, star sul tappeto rosso e proiezioni aperte al pubblico."
+  },
+  "pt": {
+   "titulo": "Festival de Cinema de San Sebastián",
+   "resumen": "Estreias, estrelas no tapete vermelho e sessões abertas ao público."
+  }
+ },
+ "e8e4324d51": {
+  "fr": {
+   "titulo": "Fêtes du Pilar",
+   "resumen": "L’Offrande de fleurs du 12 octobre est le moment central d’une semaine de fêtes à Saragosse."
+  },
+  "de": {
+   "titulo": "Fiestas del Pilar",
+   "resumen": "Die Blumenopfergabe am 12. Oktober ist der Höhepunkt einer Festwoche in Saragossa."
+  },
+  "it": {
+   "titulo": "Feste del Pilar",
+   "resumen": "L’Offerta dei Fiori del 12 ottobre è il momento centrale di una settimana di feste a Saragozza."
+  },
+  "pt": {
+   "titulo": "Festas do Pilar",
+   "resumen": "A Oferenda de Flores de 12 de outubro é o momento central de uma semana de festas em Saragoça."
+  }
+ },
+ "b35d9054ca": {
+  "fr": {
+   "titulo": "Prix Planeta",
+   "resumen": "Le prix littéraire le mieux doté d’Espagne est annoncé lors d’un gala à Barcelone."
+  },
+  "de": {
+   "titulo": "Verleihung des Premio Planeta",
+   "resumen": "Der am höchsten dotierte Literaturpreis Spaniens wird bei einer Gala in Barcelona bekannt gegeben."
+  },
+  "it": {
+   "titulo": "Premio Planeta",
+   "resumen": "Il premio letterario più ricco di Spagna viene annunciato durante una cena di gala a Barcellona."
+  },
+  "pt": {
+   "titulo": "Prémio Planeta",
+   "resumen": "O prémio literário com maior dotação de Espanha é anunciado numa gala em Barcelona."
+  }
+ },
+ "01db19ca2c": {
+  "fr": {
+   "titulo": "Seminci de Valladolid",
+   "resumen": "Semaine internationale du cinéma avec des projections de films d’auteur dans toute la ville."
+  },
+  "de": {
+   "titulo": "Seminci in Valladolid",
+   "resumen": "Internationale Filmwoche mit Autorenfilmen an Spielorten in der ganzen Stadt."
+  },
+  "it": {
+   "titulo": "Seminci di Valladolid",
+   "resumen": "Settimana internazionale del cinema con proiezioni di cinema d’autore in tutta la città."
+  },
+  "pt": {
+   "titulo": "Seminci de Valladolid",
+   "resumen": "Semana Internacional de Cinema com sessões de cinema de autor por toda a cidade."
+  }
+ },
+ "0dde7dcc34": {
+  "fr": {
+   "titulo": "Halloween et Toussaint",
+   "resumen": "Passages de l’épouvante et fêtes pour enfants le 31, et tradition des buñuelos et des « huesos de santo » le 1er novembre."
+  },
+  "de": {
+   "titulo": "Halloween und Allerheiligen",
+   "resumen": "Gruselpfade und Kinderfeste am 31., und die Tradition von Buñuelos und Huesos de santo am 1. November."
+  },
+  "it": {
+   "titulo": "Halloween e Ognissanti",
+   "resumen": "Percorsi dell’orrore e feste per bambini il 31, e la tradizione dei buñuelos e degli «huesos de santo» il 1º novembre."
+  },
+  "pt": {
+   "titulo": "Halloween e Todos os Santos",
+   "resumen": "Passagens do terror e festas infantis no dia 31, e a tradição dos buñuelos e dos «huesos de santo» a 1 de novembro."
+  }
+ },
+ "6e6d43073a": {
+  "fr": {
+   "titulo": "Allumage des illuminations de Noël",
+   "resumen": "De nombreuses villes allument leurs illuminations fin novembre lors d’une cérémonie publique."
+  },
+  "de": {
+   "titulo": "Einschalten der Weihnachtsbeleuchtung",
+   "resumen": "Viele Städte schalten ihre Beleuchtung Ende November bei einer öffentlichen Feier ein."
+  },
+  "it": {
+   "titulo": "Accensione delle luci di Natale",
+   "resumen": "Molte città accendono le luminarie a fine novembre con una cerimonia pubblica."
+  },
+  "pt": {
+   "titulo": "Inauguração das luzes de Natal",
+   "resumen": "Muitas cidades acendem a iluminação no final de novembro numa cerimónia pública."
+  }
+ },
+ "99ac55214e": {
+  "fr": {
+   "titulo": "Tirage de la Loterie de Noël",
+   "resumen": "Les enfants de San Ildefonso chantent les numéros gagnants dès le matin. Une tradition que l’on suit en direct."
+  },
+  "de": {
+   "titulo": "Ziehung der Weihnachtslotterie",
+   "resumen": "Die Kinder von San Ildefonso singen die Gewinnzahlen schon am frühen Morgen. Eine Tradition, die man live verfolgt."
+  },
+  "it": {
+   "titulo": "Estrazione della Lotteria di Natale",
+   "resumen": "I bambini di San Ildefonso cantano i numeri vincenti fin dal mattino presto. Una tradizione da seguire in diretta."
+  },
+  "pt": {
+   "titulo": "Sorteio da Lotaria de Natal",
+   "resumen": "As crianças de San Ildefonso cantam os prémios logo de manhã cedo. Uma tradição que se acompanha em direto."
+  }
+ },
+ "b84584539a": {
+  "fr": {
+   "titulo": "Les cloches du Nouvel An",
+   "resumen": "Les douze grains de raisin au rythme des cloches de la Puerta del Sol, en direct ou à la télévision."
+  },
+  "de": {
+   "titulo": "Die Glockenschläge an Silvester",
+   "resumen": "Die zwölf Trauben zu den Glockenschlägen der Puerta del Sol, live oder im Fernsehen."
+  },
+  "it": {
+   "titulo": "I rintocchi di Capodanno",
+   "resumen": "I dodici chicchi d’uva al ritmo dei rintocchi della Puerta del Sol, dal vivo o in televisione."
+  },
+  "pt": {
+   "titulo": "As badaladas da passagem de ano",
+   "resumen": "As doze passas ao ritmo das badaladas da Puerta del Sol, em direto ou pela televisão."
+  }
+ }
+}

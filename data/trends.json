@@ -2,6 +2,16 @@
  "updated": "2026-10-20",
  "terms": [
   {
+   "term": "mónica garcía",
+   "traffic": 20000,
+   "lastSeen": "2026-10-20",
+   "news": [
+    "Mónica García renuncia a la lista del Frente Amplio: “Siempre he antepuesto el bien común al personal”",
+    "Elecciones generales 29N, última hora en directo: Mónica García renuncia al Frente Amplio",
+    "Mónica García despeja su futura vida laboral (ni Frente Amplio ni el hospital 12 de Octubre)"
+   ]
+  },
+  {
    "term": "cristian toro",
    "traffic": 5000,
    "lastSeen": "2026-10-20",
@@ -43,12 +53,22 @@
   },
   {
    "term": "rebeca torró",
-   "traffic": 500,
+   "traffic": 1000,
    "lastSeen": "2026-10-20",
    "news": [
     "Mal lo tiene que ver Sánchez",
     "Montse Mínguez y el penoso final de otra oficial de tercera del 'tardosanchismo'",
     "Noche (17-10-26) Rebeca Torró sustituye a Montse Mínguez como portavoz del PSOE tras su dimisión"
+   ]
+  },
+  {
+   "term": "revolut down",
+   "traffic": 500,
+   "lastSeen": "2026-10-20",
+   "news": [
+    "Some Revolut users seeing service disruption",
+    "Millions of Revolut customers hit by major outage",
+    "Revolut 'down' as users report error message blocking them from bank accounts"
    ]
   },
   {
@@ -72,23 +92,13 @@
    ]
   },
   {
-   "term": "revolut down",
-   "traffic": 200,
-   "lastSeen": "2026-10-20",
-   "news": [
-    "Some Revolut users seeing service disruption",
-    "Millions of Revolut customers hit by major outage",
-    "Revolut 'down' as users report error message blocking them from bank accounts"
-   ]
-  },
-  {
    "term": "indra sistemas",
    "traffic": 200,
    "lastSeen": "2026-10-20",
    "news": [
     "Indra mantiene el 25 de noviembre para presentar su plan estratégico pese a la proximidad de las elecciones",
-    "Indra conserva su cita estratégica cuatro días antes de las elecciones",
-    "Indra mantiene la presentación de su plan estratégico el 25 de noviembre pese a la cercanía de las elecciones"
+    "Indra mantiene la presentación de su plan estratégico el 25 de noviembre pese a la cercanía de las elecciones",
+    "Indra conserva su cita estratégica cuatro días antes de las elecciones"
    ]
   },
   {
@@ -96,9 +106,19 @@
    "traffic": 200,
    "lastSeen": "2026-10-20",
    "news": [
+    "Better Oil Stock: Chevron (CVX) vs. ExxonMobil (XOM)",
     "Is Chevron Stock Worth More Than Its Competitors?",
-    "Chevron vs. Occidental Petroleum: Which Energy Stock Is a Better Buy in 2026?",
-    "Chevron Reports Strong Margins as Stock Trails Oil Industry Peers"
+    "Chevron vs. Occidental Petroleum: Which Energy Stock Is a Better Buy in 2026?"
+   ]
+  },
+  {
+   "term": "cristina bucșa",
+   "traffic": 200,
+   "lastSeen": "2026-10-20",
+   "news": [
+    "October 20, 2026: Mariano Navone vs Juan Manuel Cerundolo: Set 2 Winner Tennis Prediction Market",
+    "October 19, 2026: Katie Boulter vs Himeno Sakatsume: Set 2 Winner Tennis Prediction Market",
+    "October 20, 2026: Rei Sakamoto vs Karen Khachanov: Set 2 Winner Tennis Prediction Market"
    ]
   }
  ]
