@@ -1,0 +1,49 @@
+---
+// Mapa de las localizaciones comentadas en una ficha. Leaflet + teselas CARTO, igual que opensalamanca.es.
+// Leaflet se descarga solo cuando el mapa entra en pantalla, para no penalizar la carga de la ficha.
+const { mapa } = Astro.props;
+const CARTO_KEY = 'cb1_2izw_1_55d93b51ded1dcecfa044181';
+const puntos = mapa.puntos.map((pt, i) => ({ n: i + 1, ...pt }));
+const data = { key: CARTO_KEY, centro: mapa.centro, zoom: mapa.zoom || 6, puntos };
+---
+<section class="plan-map" aria-labelledby="map-title">
+  <h2 id="map-title">{mapa.titulo || 'Dónde ir'}</h2>
+  <div id="plan-map-canvas" class="plan-map__canvas" role="region" aria-label={mapa.titulo || 'Mapa'} data-map={JSON.stringify(data)}></div>
+  <ol class="plan-map__list">
+    {puntos.map((pt) => <li value={pt.n}><strong>{pt.nombre}</strong>{pt.desc && <> — {pt.desc}</>}</li>)}
+  </ol>
+</section>
+
+<script is:inline>
+(function () {
+  var el = document.getElementById('plan-map-canvas');
+  if (!el) return;
+  var cfg = JSON.parse(el.dataset.map);
+  function esc(s) { return String(s).replace(/[&<>"]/g, function (c) { return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]; }); }
+  function draw() {
+    var map = L.map(el, { scrollWheelZoom: false }).setView(cfg.centro, cfg.zoom);
+    L.tileLayer('https://{s}.basemaps.cartocdn.com/rastertiles/light_all/{z}/{x}/{y}{r}.png?key=' + cfg.key, {
+      attribution: '&copy; OpenStreetMap &copy; CARTO', subdomains: 'abcd', maxZoom: 19
+    }).addTo(map);
+    var pts = [];
+    cfg.puntos.forEach(function (p) {
+      var icon = L.divIcon({ className: 'plan-map__pin', html: '<span>' + p.n + '</span>', iconSize: [28, 28], iconAnchor: [14, 14] });
+      L.marker([p.lat, p.lon], { icon: icon, title: p.nombre })
+        .bindPopup('<strong>' + esc(p.nombre) + '</strong>' + (p.desc ? '<br>' + esc(p.desc) : '')).addTo(map);
+      pts.push([p.lat, p.lon]);
+    });
+    if (pts.length > 1) map.fitBounds(pts, { padding: [30, 30] });
+  }
+  function load() {
+    var css = document.createElement('link');
+    css.rel = 'stylesheet'; css.href = 'https://unpkg.com/leaflet@1.9.4/dist/leaflet.css';
+    document.head.appendChild(css);
+    var s = document.createElement('script');
+    s.src = 'https://unpkg.com/leaflet@1.9.4/dist/leaflet.js'; s.onload = draw;
+    document.head.appendChild(s);
+  }
+  if ('IntersectionObserver' in window) {
+    new IntersectionObserver(function (e, o) { if (e[0].isIntersecting) { o.disconnect(); load(); } }, { rootMargin: '300px' }).observe(el);
+  } else load();
+})();
+</script>

@@ -176,6 +176,13 @@ p { margin: 0 0 1em; max-width: var(--measure); }
 .plan-figure img { display: block; width: 100%; height: auto; border-radius: var(--r-xl); box-shadow: var(--shadow); }
 .plan-body { margin-block: 2rem; max-width: var(--measure); }
 .plan-body p { font-size: 1.0625rem; line-height: 1.65; margin-bottom: 1.1rem; }
+.plan-map { margin-block: 2.5rem; }
+.plan-map h2 { font-size: clamp(1.4rem, 3vw, 1.75rem); letter-spacing: -0.03em; margin-bottom: 1rem; }
+.plan-map__canvas { width: 100%; height: 420px; border-radius: var(--r-xl); box-shadow: var(--shadow); background: var(--surface); }
+.plan-map__list { margin: 1rem 0 0 1.25rem; color: var(--ink-soft); line-height: 1.55; }
+.plan-map__list li { margin-bottom: 0.4rem; }
+.plan-map__pin span { display: flex; align-items: center; justify-content: center; width: 28px; height: 28px; border-radius: 50%; background: var(--accent); color: var(--accent-ink); font-weight: 700; font-size: 0.8125rem; border: 2px solid var(--accent-ink); box-shadow: 0 1px 4px rgba(0,0,0,.35); }
+@media (max-width: 600px) { .plan-map__canvas { height: 320px; } }
 .plan-faq { margin-block: 2.5rem; }
 .plan-faq h2, .plan-related h2 { font-size: clamp(1.4rem, 3vw, 1.75rem); letter-spacing: -0.03em; margin-bottom: 1rem; }
 .plan-faq details { background: var(--surface); border-radius: var(--r-lg); box-shadow: var(--shadow); padding: 0 1.25rem; margin-bottom: 0.6rem; }
@@ -246,7 +253,7 @@ p { margin: 0 0 1em; max-width: var(--measure); }
 .badge { position: absolute; left: 0.5rem; bottom: 0.5rem; padding: 0.15rem 0.6rem; border-radius: 999px; font-size: 0.75rem; font-weight: 650; letter-spacing: 0.01em; color: #fff; backdrop-filter: blur(6px); }
 .badge--ninos { background: rgba(31, 122, 61, 0.92); }
 .badge--adultos { background: rgba(29, 29, 31, 0.88); }
-.film-title { margin: 0.6rem 0 0; font-weight: 600; font-size: 0.9375rem; line-height: 1.25; letter-spacing: -0.015em; }
-.cine-note { margin: 0; font-size: 0.75rem; }
 .badge--rating { background: rgba(29, 29, 31, 0.88); }
 .film-where { margin: 0.2rem 0 0; font-size: 0.8125rem; line-height: 1.3; }
+.film-title { margin: 0.6rem 0 0; font-weight: 600; font-size: 0.9375rem; line-height: 1.25; letter-spacing: -0.015em; }
+.cine-note { margin: 0; font-size: 0.75rem; }

@@ -31,6 +31,16 @@ temporada:
           - "Lo más importante es saber de quién es el castañar. Muchos son fincas privadas con dueño que las cuida y las vende, y recoger en ellas sin permiso puede tener consecuencias. Pregunta en el pueblo, en el ayuntamiento o en una casa rural de la zona: es habitual que alguien te indique dónde se puede coger o te ponga en contacto con un propietario."
           - "Lleva calzado cerrado que agarre bien, guantes gruesos (los erizos pinchan de verdad), una cesta o un saco y ropa que no te importe manchar. Las castañas caen solas cuando están maduras: lo normal es recoger las del suelo, sin varear los árboles ni dañarlos. Los días siguientes a la lluvia y al viento suelen ser los más generosos."
           - "Ya en casa, haz un corte en la piel de cada castaña antes de asarla o cocerla para que no revienten. Se conservan mejor en un lugar fresco o en la nevera, y conviene consumirlas en pocos días. El broche natural de este plan es un magosto: castañas asadas, hoguera y vino nuevo."
+        mapa:
+          titulo: "Dónde ir a coger castañas"
+          centro: [40.0, -5.0]
+          zoom: 6
+          puntos:
+            - { nombre: "El Bierzo (León)", lat: 42.55, lon: -6.6, desc: "Castañares centenarios de Las Médulas y los valles cercanos; cuna del magosto." }
+            - { nombre: "Valle del Genal (Málaga)", lat: 36.57, lon: -5.17, desc: "Serranía de Ronda: Igualeja, Pujerra, Genalguacil y Júzcar, con castaños por todo el valle." }
+            - { nombre: "Sierra de Francia (Salamanca)", lat: 40.485, lon: -6.108, desc: "Entorno de La Alberca y Miranda del Castañar, con castañares en las laderas." }
+            - { nombre: "Valle del Tiétar (Ávila)", lat: 40.2, lon: -5.1, desc: "Arenas de San Pedro, Candeleda y Guisando, al pie de Gredos." }
+            - { nombre: "Sierra de Aracena (Huelva)", lat: 37.89, lon: -6.56, desc: "Los castañares onubenses de Castaño del Robledo y Galaroza." }
         faq:
           - p: "¿Cuándo es la temporada de castañas?"
             r: "En España, de mediados de octubre a mediados de noviembre aproximadamente. En zonas bajas empieza antes y en las más altas se retrasa unos días. Si quieres acertar, pregunta por la zona la semana antes: la cosecha cambia de un año a otro según la lluvia y el calor del verano."

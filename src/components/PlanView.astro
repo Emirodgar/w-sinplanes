@@ -1,6 +1,7 @@
 ---
 import Base from '../layouts/Base.astro';
 import CalendarMenu from './CalendarMenu.astro';
+import PlanMap from './PlanMap.astro';
 import { calendarDates } from '../lib/calendar.js';
 import { t, url, LANGS, HREFLANG } from '../i18n/ui.js';
 import { fmtWhen, fmtPlace, topicById, isPast, isPlace, textLang, slugify, ptitle, psummary, availLangs, plans } from '../lib/data.js';
@@ -82,6 +83,8 @@ const jsonld = [baseJsonld, faqLd].filter(Boolean);
         {extra.texto.map((para) => <p>{para}</p>)}
       </div>
     )}
+
+    {extra?.mapa?.puntos?.length > 0 && <PlanMap mapa={extra.mapa} />}
 
     {faq.length > 0 && (
       <section class="plan-faq" aria-labelledby="faq-title">
