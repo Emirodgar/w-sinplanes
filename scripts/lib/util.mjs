@@ -19,11 +19,53 @@ export function slugify(s = '') {
 
 export const hash = (s) => createHash('sha1').update(String(s)).digest('hex').slice(0, 10);
 
-export function stripHtml(s = '') {
+// Entidades HTML con nombre más habituales en agendas en español, gallego y euskera.
+const NAMED = {
+  amp: '&', lt: '<', gt: '>', quot: '"', apos: "'", nbsp: ' ', ndash: '–', mdash: '—', hellip: '…', bull: '•', middot: '·',
+  lsquo: '‘', rsquo: '’', ldquo: '“', rdquo: '”', laquo: '«', raquo: '»', euro: '€', iexcl: '¡', iquest: '¿', ordf: 'ª', ordm: 'º',
+  deg: '°', copy: '©', reg: '®', ntilde: 'ñ', Ntilde: 'Ñ', ccedil: 'ç', Ccedil: 'Ç', uuml: 'ü', Uuml: 'Ü', ouml: 'ö', auml: 'ä', euml: 'ë', iuml: 'ï',
+};
+for (const [base, chars] of Object.entries({ a: 'áàâ', e: 'éèê', i: 'íìî', o: 'óòô', u: 'úùû' })) {
+  const [acute, grave, circ] = chars;
+  Object.assign(NAMED, { [`${base}acute`]: acute, [`${base}grave`]: grave, [`${base}circ`]: circ,
+    [`${base.toUpperCase()}acute`]: acute.toUpperCase(), [`${base.toUpperCase()}grave`]: grave.toUpperCase(), [`${base.toUpperCase()}circ`]: circ.toUpperCase() });
+}
+
+export function decodeEntities(s = '') {
   return String(s)
-    .replace(/<br\s*\/?>/gi, ' ').replace(/<[^>]+>/g, ' ')
-    .replace(/&nbsp;/g, ' ').replace(/&amp;/g, '&').replace(/&quot;/g, '"').replace(/&#39;/g, "'")
+    .replace(/&#x([0-9a-f]+);/gi, (_, h) => String.fromCodePoint(parseInt(h, 16)))
+    .replace(/&#(\d+);/g, (_, d) => String.fromCodePoint(Number(d)))
+    .replace(/&([a-zA-Z][a-zA-Z0-9]*);/g, (m, n) => NAMED[n] ?? m);
+}
+
+/** Texto plano de un fragmento HTML: sin scripts, estilos, comentarios ni etiquetas, con entidades decodificadas. */
+export function stripHtml(s = '') {
+  // Dos pasadas: algunas agendas (Madrid) entregan el texto con doble codificación (&amp;amp;).
+  return decodeEntities(decodeEntities(
+    String(s)
+      .replace(/<!--[\s\S]*?-->/g, ' ')
+      .replace(/<(script|style|noscript|template)\b[\s\S]*?<\/\1\s*>/gi, ' ')
+      .replace(/<br\s*\/?>|<\/(p|div|li|h\d|section)>/gi, ' ')
+      .replace(/<[^>]+>/g, ' '),
+  )).replace(/\s+/g, ' ').trim();
+}
+
+/** Resumen limpio de una agenda: sin URLs sueltas ni rótulos huérfanos ("Web del evento :"). */
+export function cleanDescription(s = '') {
+  return String(s)
+    .replace(/\b(?:Web|Enlace|M[aá]s informaci[oó]n)(?: del evento)?\s*:\s*(?:https?:\/\/|www\.)\S+/gi, ' ')
+    .replace(/(?:https?:\/\/|www\.)\S+/gi, ' ')
     .replace(/\s+/g, ' ').trim();
+}
+
+/** Título ordenado: espacios colapsados, sin signos finales sobrantes y, si viene TODO EN MAYÚSCULAS, en frase. */
+export function tidyTitle(t = '') {
+  let s = decodeEntities(String(t)).replace(/\s+/g, ' ').trim().replace(/[\s:;,\-–]+$/, '');
+  const letters = s.replace(/[^A-Za-zÁÉÍÓÚÜÑáéíóúüñÇç]/g, '');
+  if (letters.length > 6 && letters === letters.toUpperCase()) {
+    s = s.toLowerCase().replace(/(^|[«"“'¿¡(]\s*)(\p{L})/gu, (_, pre, c) => pre + c.toUpperCase());
+  }
+  return s;
 }
 
 export function truncate(s = '', n = 260) {

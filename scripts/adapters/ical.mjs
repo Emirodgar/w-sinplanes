@@ -1,5 +1,16 @@
 import { getText, toDay, toTime, stripHtml } from '../lib/util.mjs';
 
+// Algunas agendas (A Coruña) meten una ficha HTML entera en DESCRIPTION: la descripción real va en <p class="entradilla">
+// y las coordenadas en <meta property="latitude|longitude">. El resto (fechas, inscripción, scripts) sobra.
+function fromHtmlCard(html = '') {
+  const lead = html.match(/<p[^>]*class=["']entradilla["'][^>]*>([\s\S]*?)<\/p>/i);
+  const note = html.match(/<p[^>]*class=["']notaFechaInscripcion["'][^>]*>([\s\S]*?)<\/p>\s*<\/section>/i);
+  const lat = html.match(/property=["']latitude["']\s+content=["']([^"']+)/i);
+  const lon = html.match(/property=["']longitude["']\s+content=["']([^"']+)/i);
+  const text = lead ? stripHtml(lead[1]) : stripHtml(html);
+  return { text: [text, note ? stripHtml(note[1]) : ''].filter(Boolean).join(' '), lat: lat ? Number(lat[1]) : null, lon: lon ? Number(lon[1]) : null };
+}
+
 // Lector iCal mínimo (VEVENT). Sirve para cualquier ayuntamiento que publique agenda .ics.
 export function parseICS(text) {
   const lines = text.replace(/\r\n[ \t]/g, '').replace(/\n[ \t]/g, '').split(/\r?\n/);
@@ -27,10 +38,13 @@ function absUrl(u, base) {
 export default async function ical(src) {
   const events = parseICS(await getText(src.url));
   return events.map((e) => {
-    const [lat, lon] = (e.GEO || '').split(';').map(Number);
+    const [glat, glon] = (e.GEO || '').split(';').map(Number);
+    const card = /<(?:section|p|div)/i.test(e.DESCRIPTION || '') ? fromHtmlCard(e.DESCRIPTION) : { text: stripHtml(e.DESCRIPTION || ''), lat: null, lon: null };
+    const lat = glat || card.lat;
+    const lon = glon || card.lon;
     return {
       title: e.SUMMARY,
-      description: stripHtml(e.DESCRIPTION || ''),
+      description: card.text,
       start: toDay(e.DTSTART),
       end: toDay(e.DTEND) || toDay(e.DTSTART),
       time: toTime(e.DTSTART),
@@ -39,7 +53,7 @@ export default async function ical(src) {
       municipio: src.municipio || null,
       provincia: src.provincia || null,
       lat: lat || null, lon: lon || null,
-      free: /gratu|de balde|libre/i.test(e.DESCRIPTION || ''),
+      free: /gratu|de balde|libre/i.test(card.text),
       price: null,
       hints: [e.CATEGORIES].filter(Boolean),
       lang: src.idioma || 'es',

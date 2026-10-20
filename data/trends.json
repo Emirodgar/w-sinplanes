@@ -18,7 +18,17 @@
    "news": [
     "Montse Lluis, el nexo de Vox con el PP que acompañará a Abascal en el Congreso",
     "Del podio a buscar votos: Cristian Toro, Ángela Pumariega y Víctor Gutiérrez entran en campaña",
-    "Abascal aúpa al número dos por Madrid a Montse Lluis, negociadora de los pactos con el PP en las comunidades, y lleva a su portavoz en Ceuta como tres"
+    "Cristian Toro será el número cinco de VOX por Madrid al Congreso"
+   ]
+  },
+  {
+   "term": "rebeca torró",
+   "traffic": 2000,
+   "lastSeen": "2026-10-20",
+   "news": [
+    "Mal lo tiene que ver Sánchez",
+    "Montse Mínguez y el penoso final de otra oficial de tercera del 'tardosanchismo'",
+    "Noche (17-10-26) Rebeca Torró sustituye a Montse Mínguez como portavoz del PSOE tras su dimisión"
    ]
   },
   {
@@ -27,8 +37,8 @@
    "lastSeen": "2026-10-20",
    "news": [
     "El verdadero motivo por el que Alba Carrillo dio la 'espantá' en Ten TV",
-    "'El Sótano' y Ten ponen a Alba Carrillo en la diana por su espantada: «Decidimos proteger al equipo»",
-    "Marta Riesco lee en directo el comunicado de 'El sótano club' tras la repentina salida de Alba Carrillo: \"Dejó a los equipos sin margen para gestionar lo sucedido\""
+    "Marta Riesco lee en directo el comunicado de 'El sótano club' tras la repentina salida de Alba Carrillo: \"Dejó a los equipos sin margen para gestionar lo sucedido\"",
+    "Alba Carrillo toma acciones legales ante los delitos que dice que se están cometiendo: \"No tenéis ni idea de todo lo que ha pasado\""
    ]
   },
   {
@@ -52,23 +62,23 @@
    ]
   },
   {
-   "term": "rebeca torró",
-   "traffic": 1000,
-   "lastSeen": "2026-10-20",
-   "news": [
-    "Mal lo tiene que ver Sánchez",
-    "Montse Mínguez y el penoso final de otra oficial de tercera del 'tardosanchismo'",
-    "Noche (17-10-26) Rebeca Torró sustituye a Montse Mínguez como portavoz del PSOE tras su dimisión"
-   ]
-  },
-  {
    "term": "revolut down",
    "traffic": 500,
    "lastSeen": "2026-10-20",
    "news": [
     "Some Revolut users seeing service disruption",
-    "Millions of Revolut customers hit by major outage",
-    "Revolut 'down' as users report error message blocking them from bank accounts"
+    "Revolut and Lloyds down as users say payments are being declined",
+    "Revolut outage leaves customers unable to use app or cards"
+   ]
+  },
+  {
+   "term": "indra sistemas",
+   "traffic": 500,
+   "lastSeen": "2026-10-20",
+   "news": [
+    "Indra mantiene el 25 de noviembre para presentar su plan estratégico pese a la proximidad de las elecciones",
+    "Indra mantiene la presentación de su plan estratégico el 25 de noviembre pese a la cercanía de las elecciones",
+    "Indra conserva su cita estratégica cuatro días antes de las elecciones"
    ]
   },
   {
@@ -92,16 +102,6 @@
    ]
   },
   {
-   "term": "indra sistemas",
-   "traffic": 200,
-   "lastSeen": "2026-10-20",
-   "news": [
-    "Indra mantiene el 25 de noviembre para presentar su plan estratégico pese a la proximidad de las elecciones",
-    "Indra mantiene la presentación de su plan estratégico el 25 de noviembre pese a la cercanía de las elecciones",
-    "Indra conserva su cita estratégica cuatro días antes de las elecciones"
-   ]
-  },
-  {
    "term": "chevron",
    "traffic": 200,
    "lastSeen": "2026-10-20",
@@ -116,9 +116,19 @@
    "traffic": 200,
    "lastSeen": "2026-10-20",
    "news": [
-    "October 20, 2026: Mariano Navone vs Juan Manuel Cerundolo: Set 2 Winner Tennis Prediction Market",
-    "October 19, 2026: Katie Boulter vs Himeno Sakatsume: Set 2 Winner Tennis Prediction Market",
-    "October 20, 2026: Rei Sakamoto vs Karen Khachanov: Set 2 Winner Tennis Prediction Market"
+    "Bucsa y Melichar ya son la quinta pareja del mundo",
+    "El tenis español tendrá debutante de lujo en las WTA Finals 2026",
+    "Cristina Bucsa, la representante española en las WTA Finals de dobles"
+   ]
+  },
+  {
+   "term": "tubos reunidos",
+   "traffic": 200,
+   "lastSeen": "2026-10-20",
+   "news": [
+    "Tubos Reunidos inicia la liquidación de su matriz y los accionistas pierden 21,7 millones",
+    "Tubos Reunidos pide su liquidación y deja atrapada a la SEPI con 140 millones de deuda",
+    "Tubos Reunidos solicita la apertura de la fase de liquidación de su matriz ante la falta de ofertas"
    ]
   }
  ]

@@ -8,7 +8,7 @@
 import { readFileSync, writeFileSync, mkdirSync, existsSync } from 'node:fs';
 import path from 'node:path';
 import { load as yamlLoad } from 'js-yaml';
-import { ROOT, slugify, hash, truncate, todayISO, addDays, resolveProvince, guessTopics, guessIndoor } from './lib/util.mjs';
+import { ROOT, slugify, hash, truncate, tidyTitle, cleanDescription, todayISO, addDays, resolveProvince, guessTopics, guessIndoor } from './lib/util.mjs';
 import { buildSeasonalPlans } from './lib/seasonal.mjs';
 import { enrich, aiStats } from './lib/ai.mjs';
 import { translatePlans } from './lib/translate.mjs';
@@ -63,13 +63,16 @@ function normalize(it) {
   const rawText = `${it.description || ''} ${it.venue || ''}`.trim();
   const blob = `${it.title} ${rawText}`;
   const id = hash(`${it._src.id}|${it.title}|${it.start}|${it.municipio || ''}`);
-  const summary = truncate(it.description || '', 240);
+  const title = tidyTitle(it.title);
+  const desc = cleanDescription(it.description || '');
+  // Sin descripción en origen, un dato verificable en vez de un hueco: dónde es.
+  const summary = desc ? truncate(desc, 240) : (it.venue ? `En ${it.venue}${it.municipio && !it.venue.includes(it.municipio) ? ` (${it.municipio})` : ''}.` : '');
 
   return {
     id,
-    slug: `${slugify(it.title)}-${id.slice(0, 5)}`,
+    slug: `${slugify(title)}-${id.slice(0, 5)}`,
     kind: it.kind || 'evento',
-    title: { es: it.title.trim(), ...(it.title_en ? { en: it.title_en.trim() } : {}) },
+    title: { es: title, ...(it.title_en ? { en: it.title_en.trim() } : {}) },
     summary: { es: summary, ...(it.summary_en ? { en: truncate(it.summary_en, 240) } : {}) },
     rawText, lang: it.lang || 'es',
     start: it.start, end, time: it.time || null,

@@ -28,10 +28,10 @@ const jsonld = p.kind !== 'estacional' && pl.scope === 'local' && !past ? {
   ...(p.source?.url ? { url: p.source.url } : {}),
 } : null;
 ---
-<Base lang={lang} title={title} description={summary} route={{ type: 'plan', slug: p.slug }} avail={availLangs(p, LANGS)} noindex={past || !!tl} jsonld={jsonld}>
+<Base lang={lang} title={title} description={summary || [title, fmtWhen(lang, p), fmtPlace(p, L.allSpain)].filter(Boolean).join(' · ')} route={{ type: 'plan', slug: p.slug }} avail={availLangs(p, LANGS)} noindex={past || !!tl} jsonld={jsonld}>
   <article class="plan">
     <h1 lang={tl}>{title}</h1>
-    <p class="lead" lang={tl}>{summary}</p>
+    {summary && <p class="lead" lang={tl}>{summary}</p>}
 
     {past && <p class="notice">{L.past}</p>}
     {p.approx && <p class="notice">{L.approx}</p>}
