@@ -97,6 +97,17 @@ temporada:
           - "La temporada fuerte va de octubre a noviembre, aunque depende mucho de la lluvia y de las temperaturas: tras unas semanas húmedas y sin heladas, el monte arranca. Provincias como Soria, el Pirineo, León, Zamora, la Sierra de Gredos o Cataluña son clásicos, y en muchas hay rutas micológicas y jornadas organizadas."
           - "Antes de salir, infórmate de la normativa de la zona. Varias comunidades exigen un permiso o una autorización de recolección (en Castilla y León, por ejemplo, funciona el sistema de Micocyl), y existen límites de cantidad, zonas acotadas y horarios. Las normas cambian de un sitio a otro, así que consulta la web del ayuntamiento o de la comunidad autónoma."
           - "Si no tienes experiencia, la regla de oro es no comer ninguna seta que no hayas identificado con seguridad. Lo más sensato para empezar es apuntarte a una salida guiada o a una jornada micológica con un experto, y llevar una guía de campo. Recoge con cesta de mimbre, que deja caer las esporas y permite que el ejemplar respire, y corta o extrae con cuidado sin arrasar el terreno."
+        mapa:
+          titulo: "Dónde ir a por setas"
+          centro: [41.2, -3.5]
+          zoom: 6
+          puntos:
+            - { nombre: "Pinares de Soria", lat: 41.95, lon: -2.75, desc: "Vinuesa, Covaleda y Duruelo de la Sierra, con la Micocyl como sistema de permisos." }
+            - { nombre: "Pirineo (Valle de Arán)", lat: 42.7, lon: 0.8, desc: "Bosques húmedos de abeto y haya en el Pirineo leridano." }
+            - { nombre: "Montaña de León", lat: 42.95, lon: -5.1, desc: "Riaño, Babia y Luna, con rebollares y hayedos." }
+            - { nombre: "Sanabria (Zamora)", lat: 42.1, lon: -6.7, desc: "Pinares y castañares en torno al lago de Sanabria." }
+            - { nombre: "Sierra de Gredos (Ávila)", lat: 40.3, lon: -5.2, desc: "Pinares y robledales del Valle del Tiétar y el Barranco." }
+            - { nombre: "Solsonès (Cataluña)", lat: 42.0, lon: 1.5, desc: "Pinares y bosques mixtos con mucha tradición micológica." }
         faq:
           - p: "¿Cuándo es la temporada de setas?"
             r: "En España, la temporada principal va de octubre a noviembre, aunque en algunas zonas se alarga hasta diciembre o empieza en septiembre. Depende de la lluvia, la altitud y la temperatura: tras varias semanas húmedas y sin heladas, el monte arranca."
