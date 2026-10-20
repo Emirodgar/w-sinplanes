@@ -584,6 +584,12 @@ temporada:
           - "A principios de julio, los campos de lavanda de Brihuega, en la provincia de Guadalajara, se tiñen de morado. Es uno de los paisajes de verano más fotogénicos de España y, a diferencia de la Provenza francesa, se llega en un par de horas desde Madrid."
           - "La floración suele ir de finales de junio a mediados de julio, con el pico en la primera quincena de julio, aunque depende del año. Durante esas semanas se celebra el Festival de la Lavanda, con actividades, mercado y música en Brihuega, y es el momento de mayor afluencia."
           - "Para disfrutar sin agobios, ve a primera hora de la mañana o al atardecer, cuando el calor es menor y la luz es más bonita. Los campos de lavanda son cultivos con dueño: respeta los límites y las zonas habilitadas para fotos y paseo, que a veces se cobran. Lleva sombrero, protección solar y agua, y ten en cuenta que hay muchas abejas."
+        mapa:
+          titulo: "Dónde están los campos de lavanda"
+          centro: [40.76, -2.87]
+          zoom: 11
+          puntos:
+            - { nombre: "Brihuega (Guadalajara)", lat: 40.7625, lon: -2.8728, desc: "Los campos de lavanda rodean la localidad; el Festival de la Lavanda se celebra en ella durante la floración." }
         faq:
           - p: "¿Cuándo florece la lavanda en Brihuega?"
             r: "De finales de junio a mediados de julio, con el máximo en la primera quincena de julio. Varía cada año con el clima."
