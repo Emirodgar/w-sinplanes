@@ -184,6 +184,16 @@ temporada:
           - "La berrea se concentra entre septiembre y octubre, con el momento álgido normalmente a finales de septiembre y principios de octubre, aunque varía según la zona y el año. Los lugares más conocidos son el Parque Nacional de Cabañeros, el Parque Nacional de Monfragüe, la Sierra de Andújar, la Reserva Nacional de Riaño y la Sierra de la Culebra, entre otros."
           - "Lo mejor es llegar antes del amanecer o un rato antes del anochecer, cuando los ciervos están más activos, y escuchar en silencio desde un punto de observación. Lleva prismáticos, ropa de abrigo y de colores discretos, y no uses linternas ni flash. Los ciervos en celo son imprevisibles: mantén siempre la distancia y no te acerques a ellos."
           - "En algunos espacios hay rutas guiadas, observatorios o accesos regulados durante la berrea, y conviene reservar con antelación. Consulta la web del espacio protegido o del centro de visitantes antes de ir."
+        mapa:
+          titulo: "Dónde escuchar la berrea"
+          centro: [40.0, -5.0]
+          zoom: 6
+          puntos:
+            - { nombre: "Parque Nacional de Cabañeros (Ciudad Real)", lat: 39.4, lon: -4.5, desc: "Rañas y monte mediterráneo con grandes poblaciones de ciervo; visitas guiadas en la berrea." }
+            - { nombre: "Parque Nacional de Monfragüe (Cáceres)", lat: 39.83, lon: -6.05, desc: "Dehesa y roquedos con varios miradores para escuchar al amanecer." }
+            - { nombre: "Sierra de Andújar (Jaén)", lat: 38.25, lon: -4.0, desc: "Uno de los mejores lugares del sur; muy concurrido, conviene reservar." }
+            - { nombre: "Reserva Nacional de Riaño (León)", lat: 42.98, lon: -5.0, desc: "Berrea de montaña, entre hayedos y rebollares de los Picos de Europa leoneses." }
+            - { nombre: "Sierra de la Culebra (Zamora)", lat: 41.85, lon: -6.2, desc: "Extensa reserva de caza con mucho ciervo y algún lobo." }
         faq:
           - p: "¿Cuándo es la berrea del ciervo?"
             r: "Entre septiembre y octubre. El momento de mayor actividad suele ser a finales de septiembre y principios de octubre, aunque cambia según la zona y el año. Lo mejor es salir al amanecer o al atardecer."

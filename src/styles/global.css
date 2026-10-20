@@ -178,10 +178,12 @@ p { margin: 0 0 1em; max-width: var(--measure); }
 .plan-body p { font-size: 1.0625rem; line-height: 1.65; margin-bottom: 1.1rem; }
 .plan-map { margin-block: 2.5rem; }
 .plan-map h2 { font-size: clamp(1.4rem, 3vw, 1.75rem); letter-spacing: -0.03em; margin-bottom: 1rem; }
-.plan-map__canvas { width: 100%; height: 420px; border-radius: var(--r-xl); box-shadow: var(--shadow); background: var(--surface); }
+.plan-map__canvas { position: relative; z-index: 0; isolation: isolate; width: 100%; height: 420px; border-radius: var(--r-xl); box-shadow: var(--shadow); background: var(--surface); }
 .plan-map__list { margin: 1rem 0 0 1.25rem; color: var(--ink-soft); line-height: 1.55; }
 .plan-map__list li { margin-bottom: 0.4rem; }
-.plan-map__pin span { display: flex; align-items: center; justify-content: center; width: 28px; height: 28px; border-radius: 50%; background: var(--accent); color: var(--accent-ink); font-weight: 700; font-size: 0.8125rem; border: 2px solid var(--accent-ink); box-shadow: 0 1px 4px rgba(0,0,0,.35); }
+.plan-map__pin { background: none; border: 0; }
+.plan-map__pin svg { display: block; filter: drop-shadow(0 2px 2px rgba(0,0,0,.3)); }
+.plan-map__pin:focus-visible { outline: 2px solid var(--ink); outline-offset: 2px; border-radius: 6px; }
 @media (max-width: 600px) { .plan-map__canvas { height: 320px; } }
 .plan-faq { margin-block: 2.5rem; }
 .plan-faq h2, .plan-related h2 { font-size: clamp(1.4rem, 3vw, 1.75rem); letter-spacing: -0.03em; margin-bottom: 1rem; }

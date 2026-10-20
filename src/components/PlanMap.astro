@@ -27,7 +27,11 @@ const data = { key: CARTO_KEY, centro: mapa.centro, zoom: mapa.zoom || 6, puntos
     }).addTo(map);
     var pts = [];
     cfg.puntos.forEach(function (p) {
-      var icon = L.divIcon({ className: 'plan-map__pin', html: '<span>' + p.n + '</span>', iconSize: [28, 28], iconAnchor: [14, 14] });
+      var icon = L.divIcon({
+        className: 'plan-map__pin',
+        html: '<svg width="32" height="42" viewBox="0 0 32 42" aria-hidden="true"><path d="M16 1.5C8.1 1.5 1.75 7.85 1.75 15.7c0 10.4 12.4 23.4 13.6 24.65a1.0 1.0 0 0 0 1.3 0C17.85 39.1 30.25 26.1 30.25 15.7 30.25 7.85 23.9 1.5 16 1.5z" fill="#ffd23f" stroke="#1d1d1f" stroke-width="2" stroke-linejoin="round"/><text x="16" y="21" text-anchor="middle" font-size="14" font-weight="700" font-family="system-ui,-apple-system,Segoe UI,sans-serif" fill="#1d1d1f">' + p.n + '</text></svg>',
+        iconSize: [32, 42], iconAnchor: [16, 41], popupAnchor: [0, -38]
+      });
       L.marker([p.lat, p.lon], { icon: icon, title: p.nombre })
         .bindPopup('<strong>' + esc(p.nombre) + '</strong>' + (p.desc ? '<br>' + esc(p.desc) : '')).addTo(map);
       pts.push([p.lat, p.lon]);
