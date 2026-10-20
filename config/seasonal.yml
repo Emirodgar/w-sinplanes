@@ -68,6 +68,15 @@ temporada:
           - "El magosto es la gran fiesta de la castaña: una hoguera, castañas asadas, vino nuevo y mucha gente alrededor. Se celebra sobre todo en Galicia, Asturias (donde se llama amagüestu) y El Bierzo, y tiene su día grande en torno a San Martín, el 11 de noviembre."
           - "Hay magostos familiares, de barrio, de pueblo y de asociaciones, y muchos ayuntamientos los organizan abiertos a todo el mundo, a veces con música, baile y juegos tradicionales. En otras zonas del interior, como el Valle del Jerte en Extremadura, existe una tradición parecida en torno a los Santos, que se conoce como calbotá."
           - "Para encontrar uno, mira la agenda del ayuntamiento o de la asociación de vecinos de la zona unos días antes: las fechas cambian cada año y muchos se anuncian con poca antelación. Lleva ropa de abrigo, que se está al aire libre, y no esperes cosas sofisticadas: la gracia está en la hoguera y en comer las castañas calientes, en compañía."
+        mapa:
+          titulo: "Dónde se celebran los magostos"
+          centro: [41.8, -6.2]
+          zoom: 6
+          puntos:
+            - { nombre: "Galicia (Ourense y Lugo)", lat: 42.4, lon: -7.6, desc: "Cuna del magosto: se celebra en pueblos, barrios y colegios, con la fecha grande en torno a San Martín." }
+            - { nombre: "Asturias", lat: 43.3, lon: -5.8, desc: "Aquí se llama amagüestu y se acompaña con sidra nueva." }
+            - { nombre: "El Bierzo (León)", lat: 42.55, lon: -6.6, desc: "Magostos en muchos pueblos de la comarca, en pleno castañar." }
+            - { nombre: "Valle del Jerte (Cáceres)", lat: 40.2, lon: -5.8, desc: "Su versión es la calbotá, en torno a los Santos." }
         faq:
           - p: "¿Qué es un magosto?"
             r: "Es una fiesta tradicional de otoño en la que se asan castañas en una hoguera y se comen con vino nuevo, sidra o mosto. Es típica de Galicia, Asturias y El Bierzo, aunque hay celebraciones parecidas en otras zonas."
