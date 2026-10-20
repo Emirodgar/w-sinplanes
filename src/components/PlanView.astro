@@ -50,7 +50,7 @@ const jsonld = [baseJsonld, faqLd].filter(Boolean);
 
     {extra && p.image && (
       <figure class="plan-figure">
-        <img src={p.image} alt={extra.imagen_alt || title} width="695" height="422" loading="eager" decoding="async" />
+        <img src={p.image} alt={extra.imagen_alt || title} width={p.imageSize?.[0]} height={p.imageSize?.[1]} loading="eager" decoding="async" />
       </figure>
     )}
 

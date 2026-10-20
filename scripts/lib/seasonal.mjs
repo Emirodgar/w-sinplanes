@@ -86,7 +86,7 @@ export function buildSeasonalPlans(today) {
       place: placeOf(t.lugar), source: { name: 'sinplanes', url: null },
       // Ficha ampliada (opcional): texto, imagen y preguntas frecuentes por idioma. Hoy solo en castellano.
       ...(t.contenido ? { content: t.contenido } : {}),
-      ...(t.imagen ? { image: t.imagen } : {}),
+      ...(t.imagen ? { image: t.imagen, imageSize: t.imagen_tam || null } : {}),
       ...(t.relacionados ? { related: t.relacionados } : {}),
     });
   }

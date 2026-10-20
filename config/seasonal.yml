@@ -20,6 +20,7 @@ temporada:
     es: { titulo: "Ir a coger castañas", resumen: "Los castañares de El Bierzo, el Valle del Genal, la sierra de Francia o el Valle del Tiétar se llenan de erizos. Pide permiso si el terreno es privado." }
     en: { titulo: "Go chestnut picking", resumen: "Chestnut groves in El Bierzo, the Genal Valley, Sierra de Francia or the Tiétar Valley fill with burrs. Ask permission on private land." }
     imagen: "/img/planes/castanas-otono.webp"
+    imagen_tam: [694, 422]
     relacionados: [magostos, setas, hayedos]
     contenido:
       es:
@@ -81,9 +82,12 @@ temporada:
     temas: [naturaleza]
     es: { titulo: "Ver el otoño en un hayedo", resumen: "Irati, Montejo, Tejera Negra o el hayedo de Otzarreta cambian de color en pocas semanas. Ve entre semana para evitar cupos completos." }
     en: { titulo: "See autumn colours in a beech forest", resumen: "Irati, Montejo, Tejera Negra or Otzarreta turn gold in a few weeks. Go on a weekday to avoid full visitor quotas." }
+    imagen: "/img/planes/hayedos.webp"
+    imagen_tam: [989, 529]
     relacionados: [castanas-otono, setas, berrea]
     contenido:
       es:
+        imagen_alt: "Sendero cubierto de hojas entre hayas con los colores del otoño y algo de niebla al fondo"
         texto:
           - "Durante unas pocas semanas de otoño, los hayedos pasan del verde al amarillo, el naranja y el cobrizo, y el suelo se cubre de hojas. Es uno de los espectáculos naturales más fotogénicos de España y un plan perfecto para caminar sin prisa entre troncos plateados."
           - "El mejor momento suele ser entre mediados de octubre y mediados de noviembre, aunque el pico de color cambia cada año según el frío, la lluvia y el viento. Entre los hayedos más conocidos están la Selva de Irati (Navarra), el Hayedo de Montejo (Madrid), el Hayedo de la Tejera Negra (Guadalajara) y el de Otzarreta (Bizkaia), además de los de Cantabria, Asturias y el Pirineo."
@@ -159,11 +163,56 @@ temporada:
     temas: [agua, naturaleza]
     es: { titulo: "Bañarse en una piscina natural", resumen: "La Vera, el Valle del Jerte, Las Hurdes o la sierra de Gredos tienen pozas y gargantas de agua fría y clara." }
     en: { titulo: "Swim in a natural pool", resumen: "La Vera, Jerte Valley, Las Hurdes and the Gredos mountains have clear, cold river pools." }
+    imagen: "/img/planes/piscinas-naturales.webp"
+    imagen_tam: [1006, 539]
+    relacionados: [playas-fluviales, perseidas, verbenas]
+    contenido:
+      es:
+        imagen_alt: "Poza de agua verde y transparente entre rocas de granito con una bañista en una garganta de montaña"
+        texto:
+          - "Pozas de agua cristalina entre rocas de granito, pequeñas cascadas y gargantas frescas en pleno verano: las piscinas naturales son una de las mejores formas de huir del calor sin ir a la costa. Son agua de río o de arroyo de montaña, sin cloro ni socorrista, y eso las hace tan especiales como delicadas."
+          - "Las zonas más conocidas están en el norte de Cáceres y el Sistema Central: La Vera, el Valle del Jerte (con sus famosos Pilones), Las Hurdes y la sierra de Gredos, en Ávila. También hay muchísimas en Galicia, Asturias, Cantabria, Castilla y León, el Pirineo y Sierra Nevada, y el agua suele ser fría incluso en agosto."
+          - "Entra en el agua con calma, sobre todo si vienes de pasar horas al sol, porque el cambio de temperatura puede provocar un corte de digestión. No saltes sin conocer el fondo, ten cuidado con las rocas resbaladizas y no te bañes tras lluvias fuertes ni con el caudal alto. En las pozas no hay vigilancia, así que ve siempre acompañado y presta especial atención a los niños."
+          - "Algunas pozas, por su fragilidad o por la afluencia, tienen aforo limitado, reserva previa o accesos regulados en verano, y los fines de semana de agosto se llenan pronto. Consulta antes la web del ayuntamiento o del espacio natural y llega temprano. Lleva calzado que agarre dentro del agua, no uses jabón ni cremas en la poza y llévate toda tu basura."
+        faq:
+          - p: "¿Dónde hay piscinas naturales en España?"
+            r: "Las zonas más conocidas son La Vera y el Valle del Jerte (Cáceres), Las Hurdes, la sierra de Gredos (Ávila) y el Sistema Central, además de muchas pozas de Galicia, Asturias, Cantabria, el Pirineo y Sierra Nevada."
+          - p: "¿Cuándo ir a una piscina natural?"
+            r: "De junio a septiembre, con julio y agosto como meses de más afluencia. Si quieres tranquilidad, ve entre semana y llega temprano. En las que dependen del deshielo o de la lluvia, el caudal baja a finales de verano."
+          - p: "¿Es necesario reservar o pagar?"
+            r: "Casi siempre son gratuitas, pero algunas tienen aforo limitado, acceso regulado o aparcamiento de pago en temporada alta. Consulta la web del ayuntamiento o del espacio natural antes de ir."
+          - p: "¿Hay socorristas?"
+            r: "No en la mayoría de pozas y gargantas, que son agua de río sin vigilancia. Ve acompañado, no dejes a los niños sin supervisión y evita bañarte si hay mal tiempo o el caudal ha subido."
+          - p: "¿Qué hay que llevar?"
+            r: "Calzado que agarre en el agua (sandalias de río o escarpines), toalla, agua, algo de comer, protección solar y una bolsa para tu basura. No uses jabón ni cremas en la poza."
+          - p: "¿Se puede ir con niños o con perro?"
+            r: "Con niños, mejor en pozas poco profundas y de fácil acceso, y siempre con un adulto dentro del agua. Con perro, depende del espacio: en algunos está prohibido o debe ir atado, así que comprueba la normativa local."
   - id: playas-fluviales
     meses: [7, 8]
     temas: [agua]
     es: { titulo: "Pasar el día en una playa fluvial", resumen: "Una alternativa al mar para el interior: arenales en ríos y embalses con zona de baño señalizada." }
     en: { titulo: "Spend a day at a river beach", resumen: "An inland alternative to the sea: sandy river and reservoir beaches with marked swimming areas." }
+    relacionados: [piscinas-naturales, verbenas, perseidas]
+    contenido:
+      es:
+        texto:
+          - "Una playa fluvial es una zona de baño acondicionada en un río, un embalse o un lago, con arena o césped, accesos señalizados y, en muchos casos, servicios como aparcamiento, chiringuito, baños o socorrista. Es una forma muy cómoda de pasar el día en el agua sin ir a la costa, ideal para familias y para quienes viven en el interior."
+          - "Las hay en casi todas las comunidades: Extremadura, Castilla y León, Castilla-La Mancha, Galicia, Aragón, Madrid o Asturias tienen zonas de baño muy populares, y el embalse de San Juan, en Madrid, es un clásico. La temporada va de junio a septiembre, con julio y agosto como momento de máxima afluencia."
+          - "Aunque parezcan una playa, siguen siendo agua dulce con corrientes, fondos irregulares y, en los embalses, niveles que cambian. Báñate solo en la zona señalizada, no te alejes de la orilla con niños y respeta las banderas y los avisos. En verano puede haber cierres puntuales por la calidad del agua, por ejemplo por proliferación de algas, así que conviene comprobarlo."
+          - "Antes de ir, mira la web del ayuntamiento y la información sanitaria de las zonas de baño, que se publica en el sistema Náyade del Ministerio de Sanidad. Lleva sombrilla, calzado de agua porque el fondo suele ser de piedra o fango, agua y protección solar, y llega pronto en fin de semana: las más conocidas se llenan."
+        faq:
+          - p: "¿Qué es una playa fluvial?"
+            r: "Es una zona de baño señalizada en un río, un embalse o un lago, con arena o césped y, a menudo, servicios como aparcamiento, chiringuito, baños y socorrista. Es agua dulce, no salada."
+          - p: "¿Cuándo ir a una playa fluvial?"
+            r: "De junio a septiembre. En julio y agosto hay más ambiente y también más gente, así que si quieres tranquilidad, ve entre semana o a primera hora."
+          - p: "¿Cómo sé si el agua es segura para bañarse?"
+            r: "La calidad del agua de las zonas de baño oficiales se publica en el sistema Náyade del Ministerio de Sanidad y suele haber cartelería en la propia playa. En verano puede haber cierres puntuales, por ejemplo por algas, así que conviene comprobarlo antes."
+          - p: "¿Hay socorristas?"
+            r: "En muchas sí, durante la temporada alta, pero no en todas. Si no hay, extrema la precaución con los niños, báñate solo en la zona señalizada y no te alejes de la orilla."
+          - p: "¿Qué hay que llevar?"
+            r: "Sombrilla, protección solar, agua, calzado de agua (el fondo suele ser de piedra o fango) y una bolsa para tu basura. Muchas tienen chiringuito, pero no siempre."
+          - p: "¿Se puede ir con niños o con perro?"
+            r: "Con niños es un plan muy cómodo, pero siempre con supervisión dentro del agua. Con perro depende de la playa: algunas lo prohíben o tienen un área concreta, así que consulta la normativa local."
   - id: verbenas
     meses: [7, 8]
     temas: [fiestas]
