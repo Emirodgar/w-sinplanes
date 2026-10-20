@@ -205,3 +205,35 @@ p { margin: 0 0 1em; max-width: var(--measure); }
 .book-author { margin: 0.25rem 0 0.9rem; color: var(--ink-soft); font-weight: 500; }
 .book-synopsis { margin: 0; font-size: 0.9375rem; line-height: 1.55; }
 @media (max-width: 30rem) { .book { align-items: flex-start; } .book-cover { width: 6.5rem; } }
+
+/* Página de libros */
+.books-tools .search { margin-bottom: 1rem; }
+.books-genres { margin-bottom: 1rem; }
+.chip { font: inherit; display: inline-flex; align-items: center; min-height: 2.5rem; padding: 0.4rem 1rem; border: 0; border-radius: 999px; background: var(--surface); box-shadow: 0 0 0 1px var(--line); color: var(--ink); font-weight: 500; font-size: 0.9375rem; cursor: pointer; transition: background 0.15s, box-shadow 0.15s; }
+.chip:hover { box-shadow: 0 0 0 1px var(--ink-soft); }
+.chip[aria-pressed='true'] { background: var(--accent); box-shadow: 0 0 0 1px var(--accent); color: var(--accent-ink); }
+.books-grid { list-style: none; margin: 0 0 4rem; padding: 0; display: grid; gap: var(--gap); grid-template-columns: 1fr; }
+@media (min-width: 52rem) { .books-grid { grid-template-columns: 1fr 1fr; } }
+.book-card { background: var(--surface); border-radius: var(--r-xl); padding: clamp(1.25rem, 3.5vw, 2rem); box-shadow: var(--shadow); display: flex; gap: clamp(1rem, 3vw, 1.75rem); align-items: flex-start; }
+.book-card[hidden] { display: none; }
+.book-card .book-cover { width: clamp(6rem, 22vw, 8.5rem); }
+.book-card-body { min-width: 0; }
+.book-card .book-title { font-size: var(--s1); }
+.book-tags { display: flex; flex-wrap: wrap; gap: 0.35rem; margin: 0.9rem 0 0; }
+.book-tags span { font-size: 0.75rem; font-weight: 600; color: var(--ink-soft); background: var(--fill); padding: 0.1rem 0.6rem; border-radius: 999px; }
+
+/* Cartelera de cine */
+.cine { align-items: stretch; gap: 1rem; }
+.cine-head { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 0.75rem 1.5rem; }
+.cine-head h2 { margin: 0; }
+.cine-filter { margin: 0; }
+.cine-strip { list-style: none; margin: 0 calc(-1 * clamp(1.25rem, 3.5vw, 2rem)); padding: 0.25rem clamp(1.25rem, 3.5vw, 2rem) 0.75rem; display: flex; gap: 1rem; overflow-x: auto; scroll-snap-type: x proximity; scroll-padding-inline: clamp(1.25rem, 3.5vw, 2rem); scrollbar-width: thin; }
+.film { flex: none; width: clamp(8rem, 22vw, 10rem); scroll-snap-align: start; }
+.film[hidden] { display: none; }
+.poster { position: relative; aspect-ratio: 2 / 3; border-radius: var(--r-md); overflow: hidden; background: var(--fill); box-shadow: 0 1px 2px rgba(0, 0, 0, 0.15), 0 10px 24px -10px rgba(0, 0, 0, 0.35); }
+.poster img { display: block; width: 100%; height: 100%; object-fit: cover; }
+.badge { position: absolute; left: 0.5rem; bottom: 0.5rem; padding: 0.15rem 0.6rem; border-radius: 999px; font-size: 0.75rem; font-weight: 650; letter-spacing: 0.01em; color: #fff; backdrop-filter: blur(6px); }
+.badge--ninos { background: rgba(31, 122, 61, 0.92); }
+.badge--adultos { background: rgba(29, 29, 31, 0.88); }
+.film-title { margin: 0.6rem 0 0; font-weight: 600; font-size: 0.9375rem; line-height: 1.25; letter-spacing: -0.015em; }
+.cine-note { margin: 0; font-size: 0.75rem; }

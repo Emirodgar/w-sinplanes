@@ -1,0 +1,17 @@
+---
+import { existsSync } from 'node:fs';
+import path from 'node:path';
+
+const { book, lazy = true } = Astro.props;
+// Si aún no hay imagen de portada, se dibuja una tipográfica.
+const hasCover = book.portada && existsSync(path.join(process.cwd(), 'public', book.portada));
+const hue = [...book.id].reduce((a, c) => (a * 31 + c.charCodeAt(0)) % 360, 7);
+---
+{hasCover ? (
+  <img class="book-cover" src={book.portada} alt={`${book.titulo}, ${book.autor}`} width="300" height="450" loading={lazy ? 'lazy' : undefined} decoding="async" />
+) : (
+  <div class="book-cover book-cover--type" style={`--h:${hue}`} role="img" aria-label={`${book.titulo}, ${book.autor}`}>
+    <span aria-hidden="true">{book.titulo}</span>
+    <small aria-hidden="true">{book.autor}</small>
+  </div>
+)}

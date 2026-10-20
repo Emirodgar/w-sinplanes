@@ -25,10 +25,26 @@
 #     motivo: { es: "Premio Planeta 2026", en: "2026 Planeta Prize" }
 #     sinopsis: { es: "…", en: "…" }
 
+# inicio:     primer mes del histórico ("AAAA-MM"). La reserva avanza un libro por mes desde ese mes, así que
+#             añadir libros al FINAL de la lista no cambia lo que ya se recomendó.
+# generos:    etiquetas para filtrar en la página de libros (id → nombre en cada idioma).
+#             Cada libro lleva `generos: [id, …]`.
+
+inicio: "2026-10"
+
+generos:
+  clasico: { es: "Clásicos", en: "Classics", fr: "Classiques", de: "Klassiker", it: "Classici", pt: "Clássicos" }
+  historica: { es: "Novela histórica", en: "Historical fiction", fr: "Roman historique", de: "Historischer Roman", it: "Romanzo storico", pt: "Romance histórico" }
+  misterio: { es: "Misterio", en: "Mystery", fr: "Mystère", de: "Krimi & Mystery", it: "Mistero", pt: "Mistério" }
+  realismo-magico: { es: "Realismo mágico", en: "Magical realism", fr: "Réalisme magique", de: "Magischer Realismus", it: "Realismo magico", pt: "Realismo mágico" }
+  contemporanea: { es: "Contemporánea", en: "Contemporary", fr: "Contemporain", de: "Gegenwartsliteratur", it: "Contemporanea", pt: "Contemporânea" }
+  relatos: { es: "Relatos", en: "Short stories", fr: "Nouvelles", de: "Erzählungen", it: "Racconti", pt: "Contos" }
+
 destacados:
   - id: don-quijote
     titulo: "Don Quijote de la Mancha"
     autor: "Miguel de Cervantes"
+    generos: [clasico]
     portada: "/img/libros/don-quijote.webp"
     desde: "2027-04-16"
     hasta: "2027-04-30"
@@ -41,6 +57,7 @@ reserva:
   - id: cien-anos-de-soledad
     titulo: "Cien años de soledad"
     autor: "Gabriel García Márquez"
+    generos: [realismo-magico, clasico]
     portada: "/img/libros/cien-anos-de-soledad.webp"
     sinopsis:
       es: "La saga de la familia Buendía a lo largo de siete generaciones en Macondo, un pueblo donde lo cotidiano y lo extraordinario conviven sin sobresaltos. Un clásico del realismo mágico."
@@ -48,6 +65,7 @@ reserva:
   - id: la-sombra-del-viento
     titulo: "La sombra del viento"
     autor: "Carlos Ruiz Zafón"
+    generos: [misterio, historica]
     portada: "/img/libros/la-sombra-del-viento.webp"
     sinopsis:
       es: "En la Barcelona de posguerra, un niño elige un libro en el Cementerio de los Libros Olvidados y descubre que alguien se dedica a destruir todos los ejemplares de su autor. Misterio, intriga y amor por la lectura."
@@ -55,6 +73,7 @@ reserva:
   - id: nada
     titulo: "Nada"
     autor: "Carmen Laforet"
+    generos: [clasico]
     portada: "/img/libros/nada.webp"
     sinopsis:
       es: "Andrea llega a Barcelona para estudiar y se instala en casa de unos parientes, en una familia asfixiante. Retrato de la posguerra y primer Premio Nadal."
@@ -62,6 +81,7 @@ reserva:
   - id: los-santos-inocentes
     titulo: "Los santos inocentes"
     autor: "Miguel Delibes"
+    generos: [clasico]
     portada: "/img/libros/los-santos-inocentes.webp"
     sinopsis:
       es: "La vida de una familia de campesinos al servicio de un cortijo extremeño en los años sesenta. Una novela breve, dura y muy bien escrita sobre la desigualdad."
@@ -69,6 +89,7 @@ reserva:
   - id: la-ciudad-de-los-prodigios
     titulo: "La ciudad de los prodigios"
     autor: "Eduardo Mendoza"
+    generos: [historica]
     portada: "/img/libros/la-ciudad-de-los-prodigios.webp"
     sinopsis:
       es: "Onofre Bouvila llega a Barcelona con una maleta y ningún escrúpulo, y se abre camino entre las dos Exposiciones Universales. Humor, picaresca y la ciudad como protagonista."
@@ -76,6 +97,7 @@ reserva:
   - id: el-tiempo-entre-costuras
     titulo: "El tiempo entre costuras"
     autor: "María Dueñas"
+    generos: [historica]
     portada: "/img/libros/el-tiempo-entre-costuras.webp"
     sinopsis:
       es: "Una joven modista madrileña acaba en el Marruecos de los años treinta y, de ahí, en el espionaje durante la Guerra Civil y la Segunda Guerra Mundial. Aventura y novela histórica de ritmo ágil."
@@ -83,6 +105,7 @@ reserva:
   - id: patria
     titulo: "Patria"
     autor: "Fernando Aramburu"
+    generos: [contemporanea]
     portada: "/img/libros/patria.webp"
     sinopsis:
       es: "Dos familias vecinas de un pueblo vasco, unidas por la amistad y rotas por el terrorismo de ETA. Una novela coral sobre el dolor, el silencio y la convivencia."
@@ -90,6 +113,7 @@ reserva:
   - id: la-casa-de-los-espiritus
     titulo: "La casa de los espíritus"
     autor: "Isabel Allende"
+    generos: [realismo-magico]
     portada: "/img/libros/la-casa-de-los-espiritus.webp"
     sinopsis:
       es: "Tres generaciones de mujeres de una misma familia, entre lo mágico y lo político, en un país latinoamericano que atraviesa grandes cambios. La primera novela de Isabel Allende."
@@ -97,6 +121,7 @@ reserva:
   - id: niebla
     titulo: "Niebla"
     autor: "Miguel de Unamuno"
+    generos: [clasico]
     portada: "/img/libros/niebla.webp"
     sinopsis:
       es: "Augusto Pérez, un joven aburrido, se enamora de una mujer que no le corresponde y decide visitar al autor de su novela. Una nivola breve y juguetona sobre quién escribe nuestra vida."
@@ -104,6 +129,7 @@ reserva:
   - id: la-colmena
     titulo: "La colmena"
     autor: "Camilo José Cela"
+    generos: [clasico]
     portada: "/img/libros/la-colmena.webp"
     sinopsis:
       es: "Un retrato coral del Madrid de 1942 a través de más de trescientos personajes que se cruzan en cafés, pensiones y calles. Una novela clave de la posguerra."
@@ -111,6 +137,7 @@ reserva:
   - id: los-girasoles-ciegos
     titulo: "Los girasoles ciegos"
     autor: "Alberto Méndez"
+    generos: [relatos, historica]
     portada: "/img/libros/los-girasoles-ciegos.webp"
     sinopsis:
       es: "Cuatro relatos sobre los vencidos de la Guerra Civil, escritos con una sobriedad que duele. Un libro corto que se lee en una tarde."
@@ -118,6 +145,7 @@ reserva:
   - id: el-amor-en-los-tiempos-del-colera
     titulo: "El amor en los tiempos del cólera"
     autor: "Gabriel García Márquez"
+    generos: [realismo-magico]
     portada: "/img/libros/el-amor-en-los-tiempos-del-colera.webp"
     sinopsis:
       es: "Florentino Ariza espera más de cincuenta años a que Fermina Daza vuelva a ser libre. Una historia de amor tenaz, con una ciudad caribeña de fondo."

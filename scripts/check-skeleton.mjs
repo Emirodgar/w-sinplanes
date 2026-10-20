@@ -9,9 +9,9 @@ import { readLugares } from './lib/seasonal.mjs';
 
 const LANGS = ['es', 'en', 'fr', 'de', 'it', 'pt'];
 const SEG = {
-  es: { plan: 'plan', topics: 'temas', places: 'lugares', calendar: 'calendario', museums: 'museos', routes: 'rutas', parks: 'parques' }, en: { plan: 'plan', topics: 'topics', places: 'places', calendar: 'calendar', museums: 'museums', routes: 'routes', parks: 'parks' },
-  fr: { plan: 'plan', topics: 'themes', places: 'lieux', calendar: 'calendrier', museums: 'musees', routes: 'itineraires', parks: 'parcs' }, de: { plan: 'plan', topics: 'themen', places: 'orte', calendar: 'kalender', museums: 'museen', routes: 'routen', parks: 'naturparks' },
-  it: { plan: 'piano', topics: 'temi', places: 'luoghi', calendar: 'calendario', museums: 'musei', routes: 'itinerari', parks: 'parchi' }, pt: { plan: 'plano', topics: 'temas', places: 'locais', calendar: 'calendario', museums: 'museus', routes: 'rotas', parks: 'parques' },
+  es: { plan: 'plan', topics: 'temas', places: 'lugares', calendar: 'calendario', museums: 'museos', routes: 'rutas', parks: 'parques', books: 'libros' }, en: { plan: 'plan', topics: 'topics', places: 'places', calendar: 'calendar', museums: 'museums', routes: 'routes', parks: 'parks', books: 'books' },
+  fr: { plan: 'plan', topics: 'themes', places: 'lieux', calendar: 'calendrier', museums: 'musees', routes: 'itineraires', parks: 'parcs', books: 'livres' }, de: { plan: 'plan', topics: 'themen', places: 'orte', calendar: 'kalender', museums: 'museen', routes: 'routen', parks: 'naturparks', books: 'buecher' },
+  it: { plan: 'piano', topics: 'temi', places: 'luoghi', calendar: 'calendario', museums: 'musei', routes: 'itinerari', parks: 'parchi', books: 'libri' }, pt: { plan: 'plano', topics: 'temas', places: 'locais', calendar: 'calendario', museums: 'museus', routes: 'rotas', parks: 'parques', books: 'livros' },
 };
 const MONTHS = {
   es: ['enero', 'febrero', 'marzo', 'abril', 'mayo', 'junio', 'julio', 'agosto', 'septiembre', 'octubre', 'noviembre', 'diciembre'],
@@ -31,7 +31,7 @@ const expected = [];
 for (const l of LANGS) {
   const pre = l === 'es' ? '' : `${l}/`;
   const s = SEG[l];
-  expected.push(`${pre}`, `${pre}${s.topics}`, `${pre}${s.places}`, `${pre}${s.calendar}`, `${pre}${s.museums}`, `${pre}${s.routes}`, `${pre}${s.parks}`);
+  expected.push(`${pre}`, `${pre}${s.topics}`, `${pre}${s.places}`, `${pre}${s.calendar}`, `${pre}${s.museums}`, `${pre}${s.routes}`, `${pre}${s.parks}`, `${pre}${s.books}`);
   topics.filter((t) => !t.page).forEach((t) => expected.push(`${pre}${s.topics}/${l === 'es' ? t.id : t.slugs[l]}`));
   geo.forEach((c) => { expected.push(`${pre}${s.places}/${c.slug}`); c.provincias.forEach((p) => expected.push(`${pre}${s.places}/${c.slug}/${slugify(p)}`)); });
   MONTHS[l].forEach((m) => expected.push(`${pre}${s.calendar}/${m}`));

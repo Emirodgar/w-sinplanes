@@ -13,6 +13,7 @@ import { buildSeasonalPlans } from './lib/seasonal.mjs';
 import { enrich, aiStats } from './lib/ai.mjs';
 import { translatePlans } from './lib/translate.mjs';
 import { extractPress } from './lib/extract.mjs';
+import { fetchCartelera } from './lib/cartelera.mjs';
 import { fetchTrends, mergeHistory, saveTrends, readHistory } from './lib/trends.mjs';
 
 const TODAY = process.env.SINPLANES_TODAY || todayISO();
@@ -105,6 +106,19 @@ async function trendsStep() {
   saveTrends(history, TODAY);
 }
 
+// Cartelera de cine (TMDB, sin IA). Si falla, se conserva la última guardada.
+async function carteleraStep() {
+  mkdirSync(path.join(ROOT, 'data'), { recursive: true });
+  const file = path.join(ROOT, 'data/cartelera.json');
+  if (process.env.SINPLANES_OFFLINE) return;
+  if (!process.env.TMDB_API_KEY) { log('Cartelera: falta TMDB_API_KEY, se omite.'); return; }
+  try {
+    const cartelera = await fetchCartelera(process.env.TMDB_API_KEY);
+    writeFileSync(file, JSON.stringify(cartelera));
+    log(`Cartelera: ${cartelera.peliculas.length} películas.`);
+  } catch (err) { log(`Cartelera: no disponible (${err.message}). Se conserva la anterior.`); }
+}
+
 async function main() {
   log(`Ejecutando para ${TODAY}`);
   const seasonal = buildSeasonalPlans(TODAY);
@@ -125,6 +139,7 @@ async function main() {
   const translated = await translatePlans([...seasonal, ...external], TODAY, log);
   const events = translated.filter((p) => p.source?.name !== 'sinplanes').sort((a, b) => (a.start || '9999').localeCompare(b.start || '9999'));
   await trendsStep();
+  await carteleraStep();
 
   mkdirSync(path.join(ROOT, 'data'), { recursive: true });
   writeFileSync(path.join(ROOT, 'data/events.json'), JSON.stringify(events));

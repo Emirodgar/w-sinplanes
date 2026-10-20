@@ -48,6 +48,8 @@ SINPLANES_OFFLINE=1 npm run pipeline     # opcional: eventos de ejemplo, sin red
 ## Tareas habituales
 
 - **Añadir un plan de temporada o una cita anual**: edita `config/seasonal.yml`. Las reglas de fecha están documentadas al principio del fichero.
+- **Libro recomendado y página de libros**: edita `config/libros.yml` (instrucciones al principio del fichero). La portada y la página `/libros/` salen de ahí; el histórico se calcula solo desde `inicio`. Las portadas van en `public/img/libros/`.
+- **Cartelera de cine**: la renueva cada día `datos-agendas.yml` con `TMDB_API_KEY` (`scripts/lib/cartelera.mjs`, sin IA) y la guarda en `data/cartelera.json`. Si el secreto falta o la cartelera tiene más de 21 días, el widget no se muestra. TMDB exige la atribución que ya lleva el widget.
 - **Añadir una fuente**: añade una entrada en `config/sources.yml`. Si publica iCal u Opendatasoft, reutiliza los adaptadores `ical` u `opendatasoft`; si no, crea uno en `scripts/adapters/` que devuelva objetos con `title`, `start`, `end`, `municipio`, `provincia`, etc.
 - **Presupuesto de IA por ejecución**: `SINPLANES_MAX_AI_CALLS` (30 peticiones), `SINPLANES_AI_RPM` (8 por minuto) y `SINPLANES_AI_MINUTES` (8 min). Si Google responde 429 dos veces seguidas se corta la IA en esa ejecución y el resto se hace al día siguiente. Controlar el coste de IA también con `SINPLANES_MAX_AI_ITEMS` (por defecto 100 planes nuevos por ejecución) y `SINPLANES_MODEL`.
 

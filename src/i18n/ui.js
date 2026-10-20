@@ -25,12 +25,12 @@ export const monthName = (l, m) => (MONTH_LABELS[l]?.[m - 1]) ?? (l === 'en' ? c
 
 // Segmentos de URL traducidos. El español va en la raíz; el resto con prefijo de idioma.
 const SEG = {
-  es: { plan: 'plan', topics: 'temas', places: 'lugares', calendar: 'calendario', museums: 'museos', routes: 'rutas', parks: 'parques' },
-  en: { plan: 'plan', topics: 'topics', places: 'places', calendar: 'calendar', museums: 'museums', routes: 'routes', parks: 'parks' },
-  fr: { plan: 'plan', topics: 'themes', places: 'lieux', calendar: 'calendrier', museums: 'musees', routes: 'itineraires', parks: 'parcs' },
-  de: { plan: 'plan', topics: 'themen', places: 'orte', calendar: 'kalender', museums: 'museen', routes: 'routen', parks: 'naturparks' },
-  it: { plan: 'piano', topics: 'temi', places: 'luoghi', calendar: 'calendario', museums: 'musei', routes: 'itinerari', parks: 'parchi' },
-  pt: { plan: 'plano', topics: 'temas', places: 'locais', calendar: 'calendario', museums: 'museus', routes: 'rotas', parks: 'parques' },
+  es: { plan: 'plan', topics: 'temas', places: 'lugares', calendar: 'calendario', museums: 'museos', routes: 'rutas', parks: 'parques', books: 'libros' },
+  en: { plan: 'plan', topics: 'topics', places: 'places', calendar: 'calendar', museums: 'museums', routes: 'routes', parks: 'parks', books: 'books' },
+  fr: { plan: 'plan', topics: 'themes', places: 'lieux', calendar: 'calendrier', museums: 'musees', routes: 'itineraires', parks: 'parcs', books: 'livres' },
+  de: { plan: 'plan', topics: 'themen', places: 'orte', calendar: 'kalender', museums: 'museen', routes: 'routen', parks: 'naturparks', books: 'buecher' },
+  it: { plan: 'piano', topics: 'temi', places: 'luoghi', calendar: 'calendario', museums: 'musei', routes: 'itinerari', parks: 'parchi', books: 'libri' },
+  pt: { plan: 'plano', topics: 'temas', places: 'locais', calendar: 'calendario', museums: 'museus', routes: 'rotas', parks: 'parques', books: 'livros' },
 };
 const pre = (l) => (l === DEFAULT_LANG ? '/' : `/${l}/`);
 const topicSlug = (l, tp) => (l === DEFAULT_LANG ? tp.id : tp.slugs[l]);
@@ -47,6 +47,7 @@ export const url = {
   museums: (l) => `${pre(l)}${SEG[l].museums}/`,
   routes: (l) => `${pre(l)}${SEG[l].routes}/`,
   parks: (l) => `${pre(l)}${SEG[l].parks}/`,
+  books: (l) => `${pre(l)}${SEG[l].books}/`,
   calendar: (l) => `${pre(l)}${SEG[l].calendar}/`,
   month: (l, m) => `${pre(l)}${SEG[l].calendar}/${MONTHS[l][m - 1]}/`,
 };
@@ -68,6 +69,7 @@ export function routeUrl(l, r) {
     case 'museums': return url.museums(l);
     case 'routes': return url.routes(l);
     case 'parks': return url.parks(l);
+    case 'books': return url.books(l);
     case 'calendar': return url.calendar(l);
     case 'month': return url.month(l, r.m);
     default: throw new Error(`Ruta desconocida: ${r.type}`);
@@ -80,7 +82,9 @@ export const t = {
     tagline: 'Planes y eventos en toda España, cada día.',
     heroQ: '¿Sin planes?',
     heroToday: (d) => `${d}. Esto es lo que hay.`,
-    nav: { topics: 'Temas', places: 'Lugares', calendar: 'Calendario', museums: 'Museos', routes: 'Rutas', parks: 'Parques' },
+    nav: { topics: 'Temas', places: 'Lugares', calendar: 'Calendario', museums: 'Museos', routes: 'Rutas', parks: 'Parques', books: 'Libros' },
+    booksTitle: 'Todos los libros recomendados', booksIntro: 'Los libros que hemos ido recomendando, uno al mes, ligados a premios, aniversarios y estrenos. Busca por título o autor, o filtra por género.', booksSearch: 'Buscar por título o autor', booksSearchLabel: 'Buscar libros', booksGenres: 'Género', booksAllGenres: 'Todos', booksAll: 'Ver todos los libros',
+    cineFilter: 'Filtrar por público', cineAll: 'Todas', cineKids: 'Niños', cineAdults: 'Adultos', cineNote: 'Cartelera de cine en España. Datos e imágenes de TMDB; este sitio usa su API pero no está avalado ni certificado por TMDB.',
     museumsTitle: 'Museos y monumentos de España', museumsIntro: 'Museos, palacios, catedrales y otros lugares de interés que se pueden visitar todo el año. Consulta horarios y entradas en la web oficial de cada uno.', routesTitle: 'Rutas de España', routesIntro: 'Itinerarios de uno o varios días por ciudades, caminos y paisajes de España.',
     parksTitle: 'Parques y espacios naturales de España', parksIntro: 'Parques nacionales, parques naturales, reservas de la biosfera y otros espacios protegidos. Algunos exigen permiso o tienen aforo limitado: consulta las condiciones antes de ir.',
     parkTypes: { nacional: 'Parques nacionales', natural: 'Parques naturales', biosfera: 'Reservas de la biosfera', otros: 'Otros espacios naturales' },
@@ -98,6 +102,7 @@ export const t = {
       next: 'Próximas citas del año',
       trending: 'Lo que está sonando',
       book: 'Libro recomendado',
+      cine: 'En cartelera',
     },
     trendingIntro: 'Planes relacionados con lo que más se busca en Google estos días.',
     nearIntro: 'Te mostramos los planes más cercanos y, si va a llover, primero los que son a cubierto. Tu ubicación no sale de tu navegador.',
@@ -152,7 +157,9 @@ export const t = {
     tagline: 'Things to do across Spain, updated daily.',
     heroQ: 'No plans?',
     heroToday: (d) => `${d}. Here’s what’s on.`,
-    nav: { topics: 'Topics', places: 'Places', calendar: 'Calendar', museums: 'Museums', routes: 'Routes', parks: 'Parks' },
+    nav: { topics: 'Topics', places: 'Places', calendar: 'Calendar', museums: 'Museums', routes: 'Routes', parks: 'Parks', books: 'Books' },
+    booksTitle: 'Every recommended book', booksIntro: 'The books we have recommended, one a month, tied to prizes, anniversaries and releases. Search by title or author, or filter by genre.', booksSearch: 'Search by title or author', booksSearchLabel: 'Search books', booksGenres: 'Genre', booksAllGenres: 'All', booksAll: 'See all books',
+    cineFilter: 'Filter by audience', cineAll: 'All', cineKids: 'Kids', cineAdults: 'Adults', cineNote: 'Cinema listings for Spain. Data and images from TMDB; this site uses the TMDB API but is not endorsed or certified by TMDB.',
     museumsTitle: 'Museums and monuments in Spain', museumsIntro: 'Museums, palaces, cathedrals and other sights you can visit all year round. Check opening times and tickets on each site\'s official page.', routesTitle: 'Routes in Spain', routesIntro: 'Itineraries of one or several days through Spain\'s cities, trails and landscapes.',
     parksTitle: 'Parks and natural areas in Spain', parksIntro: 'National parks, natural parks, biosphere reserves and other protected areas. Some require a permit or have limited numbers: check the conditions before you go.',
     parkTypes: { nacional: 'National parks', natural: 'Natural parks', biosfera: 'Biosphere reserves', otros: 'Other natural areas' },
@@ -170,6 +177,7 @@ export const t = {
       next: 'Coming up this year',
       trending: 'What’s trending',
       book: 'Book of the month',
+      cine: 'Now in cinemas',
     },
     trendingIntro: 'Plans related to what people are searching for on Google right now.',
     nearIntro: 'We’ll show the closest plans and, if rain is likely, indoor ones first. Your location stays in your browser.',
@@ -224,7 +232,9 @@ export const t = {
     tagline: 'Idées de sorties et événements dans toute l’Espagne, chaque jour.',
     heroQ: 'Pas de plan ?',
     heroToday: (d) => `${d}. Voici ce qui se passe.`,
-    nav: { topics: 'Thèmes', places: 'Lieux', calendar: 'Calendrier', museums: 'Musées', routes: 'Itinéraires', parks: 'Parcs' },
+    nav: { topics: 'Thèmes', places: 'Lieux', calendar: 'Calendrier', museums: 'Musées', routes: 'Itinéraires', parks: 'Parcs', books: 'Livres' },
+    booksTitle: 'Tous les livres recommandés', booksIntro: 'Les livres que nous avons recommandés, un par mois, liés à des prix, des anniversaires et des sorties. Cherchez par titre ou auteur, ou filtrez par genre.', booksSearch: 'Rechercher par titre ou auteur', booksSearchLabel: 'Rechercher des livres', booksGenres: 'Genre', booksAllGenres: 'Tous', booksAll: 'Voir tous les livres',
+    cineFilter: 'Filtrer par public', cineAll: 'Tous', cineKids: 'Enfants', cineAdults: 'Adultes', cineNote: 'Films à l’affiche en Espagne. Données et images de TMDB ; ce site utilise l’API de TMDB mais n’est ni approuvé ni certifié par TMDB.',
     museumsTitle: 'Musées et monuments d’Espagne', museumsIntro: 'Musées, palais, cathédrales et autres lieux à visiter toute l’année. Vérifiez horaires et billets sur le site officiel de chacun.', routesTitle: 'Itinéraires en Espagne', routesIntro: 'Itinéraires d’un ou plusieurs jours à travers les villes, les chemins et les paysages d’Espagne.',
     parksTitle: 'Parcs et espaces naturels d’Espagne', parksIntro: 'Parcs nationaux, parcs naturels, réserves de la biosphère et autres espaces protégés. Certains demandent un permis ou limitent les visiteurs : vérifiez les conditions avant d’y aller.',
     parkTypes: { nacional: 'Parcs nationaux', natural: 'Parcs naturels', biosfera: 'Réserves de la biosphère', otros: 'Autres espaces naturels' },
@@ -242,6 +252,7 @@ export const t = {
       next: 'Prochains rendez-vous de l’année',
       trending: 'Ce qui fait parler',
       book: 'Livre à lire',
+      cine: 'À l’affiche',
     },
     trendingIntro: 'Des idées liées à ce que l’on recherche le plus sur Google en ce moment.',
     nearIntro: 'Nous affichons les idées les plus proches et, s’il risque de pleuvoir, d’abord celles à l’abri. Votre position ne quitte pas votre navigateur.',
@@ -296,7 +307,9 @@ export const t = {
     tagline: 'Ausflugstipps und Veranstaltungen in ganz Spanien, täglich aktuell.',
     heroQ: 'Keine Pläne?',
     heroToday: (d) => `${d}. Das ist los.`,
-    nav: { topics: 'Themen', places: 'Orte', calendar: 'Kalender', museums: 'Museen', routes: 'Routen', parks: 'Naturparks' },
+    nav: { topics: 'Themen', places: 'Orte', calendar: 'Kalender', museums: 'Museen', routes: 'Routen', parks: 'Naturparks', books: 'Bücher' },
+    booksTitle: 'Alle empfohlenen Bücher', booksIntro: 'Die Bücher, die wir empfohlen haben, eines pro Monat, passend zu Preisen, Jubiläen und Neuerscheinungen. Suche nach Titel oder Autor oder filtere nach Genre.', booksSearch: 'Nach Titel oder Autor suchen', booksSearchLabel: 'Bücher suchen', booksGenres: 'Genre', booksAllGenres: 'Alle', booksAll: 'Alle Bücher ansehen',
+    cineFilter: 'Nach Zielgruppe filtern', cineAll: 'Alle', cineKids: 'Kinder', cineAdults: 'Erwachsene', cineNote: 'Kinoprogramm für Spanien. Daten und Bilder von TMDB; diese Website nutzt die TMDB-API, wird aber von TMDB weder unterstützt noch zertifiziert.',
     museumsTitle: 'Museen und Denkmäler in Spanien', museumsIntro: 'Museen, Paläste, Kathedralen und andere Sehenswürdigkeiten, die das ganze Jahr geöffnet sind. Öffnungszeiten und Tickets stehen auf der offiziellen Seite.', routesTitle: 'Routen in Spanien', routesIntro: 'Routen für einen oder mehrere Tage durch Städte, Wege und Landschaften Spaniens.',
     parksTitle: 'Parks und Naturräume in Spanien', parksIntro: 'Nationalparks, Naturparks, Biosphärenreservate und andere Schutzgebiete. Manche verlangen eine Genehmigung oder begrenzen die Besucherzahl: Bedingungen vorab prüfen.',
     parkTypes: { nacional: 'Nationalparks', natural: 'Naturparks', biosfera: 'Biosphärenreservate', otros: 'Weitere Naturräume' },
@@ -314,6 +327,7 @@ export const t = {
       next: 'Die nächsten Termine des Jahres',
       trending: 'Was gerade gefragt ist',
       book: 'Buchempfehlung',
+      cine: 'Jetzt im Kino',
     },
     trendingIntro: 'Tipps passend zu dem, wonach auf Google gerade am meisten gesucht wird.',
     nearIntro: 'Wir zeigen dir die nächstgelegenen Tipps und, wenn Regen droht, zuerst die überdachten. Dein Standort verlässt deinen Browser nicht.',
@@ -368,7 +382,9 @@ export const t = {
     tagline: 'Idee e eventi in tutta la Spagna, ogni giorno.',
     heroQ: 'Senza piani?',
     heroToday: (d) => `${d}. Ecco cosa c’è.`,
-    nav: { topics: 'Temi', places: 'Luoghi', calendar: 'Calendario', museums: 'Musei', routes: 'Itinerari', parks: 'Parchi' },
+    nav: { topics: 'Temi', places: 'Luoghi', calendar: 'Calendario', museums: 'Musei', routes: 'Itinerari', parks: 'Parchi', books: 'Libri' },
+    booksTitle: 'Tutti i libri consigliati', booksIntro: 'I libri che abbiamo consigliato, uno al mese, legati a premi, anniversari e uscite. Cerca per titolo o autore, oppure filtra per genere.', booksSearch: 'Cerca per titolo o autore', booksSearchLabel: 'Cerca libri', booksGenres: 'Genere', booksAllGenres: 'Tutti', booksAll: 'Vedi tutti i libri',
+    cineFilter: 'Filtra per pubblico', cineAll: 'Tutti', cineKids: 'Bambini', cineAdults: 'Adulti', cineNote: 'Programmazione cinematografica in Spagna. Dati e immagini di TMDB; questo sito usa l’API di TMDB ma non è approvato né certificato da TMDB.',
     museumsTitle: 'Musei e monumenti in Spagna', museumsIntro: 'Musei, palazzi, cattedrali e altri luoghi da visitare tutto l’anno. Controlla orari e biglietti sul sito ufficiale di ciascuno.', routesTitle: 'Itinerari in Spagna', routesIntro: 'Itinerari di uno o più giorni tra città, cammini e paesaggi della Spagna.',
     parksTitle: 'Parchi e spazi naturali della Spagna', parksIntro: 'Parchi nazionali, parchi naturali, riserve della biosfera e altre aree protette. Alcuni richiedono un permesso o limitano gli accessi: controlla le condizioni prima di andare.',
     parkTypes: { nacional: 'Parchi nazionali', natural: 'Parchi naturali', biosfera: 'Riserve della biosfera', otros: 'Altri spazi naturali' },
@@ -386,6 +402,7 @@ export const t = {
       next: 'Prossimi appuntamenti dell’anno',
       trending: 'Di cosa si parla',
       book: 'Libro consigliato',
+      cine: 'Al cinema',
     },
     trendingIntro: 'Idee legate a ciò che si cerca di più su Google in questi giorni.',
     nearIntro: 'Ti mostriamo le idee più vicine e, se è previsto maltempo, prima quelle al coperto. La tua posizione non esce dal tuo browser.',
@@ -440,7 +457,9 @@ export const t = {
     tagline: 'Ideias e eventos por toda a Espanha, todos os dias.',
     heroQ: 'Sem planos?',
     heroToday: (d) => `${d}. Eis o que há.`,
-    nav: { topics: 'Temas', places: 'Locais', calendar: 'Calendário', museums: 'Museus', routes: 'Rotas', parks: 'Parques' },
+    nav: { topics: 'Temas', places: 'Locais', calendar: 'Calendário', museums: 'Museus', routes: 'Rotas', parks: 'Parques', books: 'Livros' },
+    booksTitle: 'Todos os livros recomendados', booksIntro: 'Os livros que fomos recomendando, um por mês, ligados a prémios, aniversários e estreias. Pesquise por título ou autor, ou filtre por género.', booksSearch: 'Pesquisar por título ou autor', booksSearchLabel: 'Pesquisar livros', booksGenres: 'Género', booksAllGenres: 'Todos', booksAll: 'Ver todos os livros',
+    cineFilter: 'Filtrar por público', cineAll: 'Todos', cineKids: 'Crianças', cineAdults: 'Adultos', cineNote: 'Cartaz de cinema em Espanha. Dados e imagens do TMDB; este site usa a API do TMDB mas não é aprovado nem certificado pelo TMDB.',
     museumsTitle: 'Museus e monumentos de Espanha', museumsIntro: 'Museus, palácios, catedrais e outros locais para visitar durante todo o ano. Consulte horários e bilhetes no site oficial de cada um.', routesTitle: 'Rotas em Espanha', routesIntro: 'Itinerários de um ou vários dias por cidades, caminhos e paisagens de Espanha.',
     parksTitle: 'Parques e espaços naturais de Espanha', parksIntro: 'Parques nacionais, parques naturais, reservas da biosfera e outros espaços protegidos. Alguns exigem licença ou têm lotação limitada: veja as condições antes de ir.',
     parkTypes: { nacional: 'Parques nacionais', natural: 'Parques naturais', biosfera: 'Reservas da biosfera', otros: 'Outros espaços naturais' },
@@ -458,6 +477,7 @@ export const t = {
       next: 'Próximos encontros do ano',
       trending: 'O que está a dar que falar',
       book: 'Livro recomendado',
+      cine: 'Em cartaz',
     },
     trendingIntro: 'Ideias relacionadas com o que mais se pesquisa no Google nestes dias.',
     nearIntro: 'Mostramos as ideias mais próximas e, se for provável chover, primeiro as que são ao abrigo. A sua localização não sai do seu navegador.',

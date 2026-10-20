@@ -1,0 +1,53 @@
+---
+import cine from '../../data/cine.json';
+import { t } from '../i18n/ui.js';
+import { pickText } from '../lib/data.js';
+
+const { lang } = Astro.props;
+const L = t[lang];
+const films = cine.peliculas;
+const img = (path, w) => `https://image.tmdb.org/t/p/w${w}${path}`;
+const kidsCount = films.filter((f) => f.publico === 'ninos').length;
+---
+{films.length > 0 && (
+  <section class="widget widget--wide cine" aria-labelledby="w-cine" data-cine>
+    <div class="cine-head">
+      <h2 id="w-cine">{L.w.cine}</h2>
+      {kidsCount > 0 && kidsCount < films.length && (
+        <ul class="chips cine-filter" aria-label={L.cineFilter}>
+          <li><button type="button" class="chip" data-aud="" aria-pressed="true">{L.cineAll}</button></li>
+          <li><button type="button" class="chip" data-aud="ninos" aria-pressed="false">{L.cineKids}</button></li>
+          <li><button type="button" class="chip" data-aud="adultos" aria-pressed="false">{L.cineAdults}</button></li>
+        </ul>
+      )}
+    </div>
+    <ul class="cine-strip">
+      {films.map((f) => {
+        const title = pickText(f.titulo, lang).text;
+        const aud = f.publico === 'ninos' ? L.cineKids : L.cineAdults;
+        return (
+          <li class="film" data-aud={f.publico}>
+            <div class="poster">
+              <img src={img(f.poster, 342)} srcset={`${img(f.poster, 185)} 185w, ${img(f.poster, 342)} 342w, ${img(f.poster, 500)} 500w`}
+                sizes="(min-width: 46rem) 10rem, 8rem" alt={title} width="342" height="513" loading="lazy" decoding="async" />
+              <span class={`badge badge--${f.publico}`}>{aud}{f.edad && f.edad !== 'TP' ? ` +${f.edad}` : ''}</span>
+            </div>
+            <p class="film-title">{title}</p>
+          </li>
+        );
+      })}
+    </ul>
+    <p class="cine-note muted">{L.cineNote}</p>
+  </section>
+)}
+
+<script>
+  const root = document.querySelector('[data-cine]');
+  if (root) {
+    const chips = [...root.querySelectorAll('[data-aud]:is(button)')];
+    chips.forEach((chip) => chip.addEventListener('click', () => {
+      chips.forEach((c) => c.setAttribute('aria-pressed', String(c === chip)));
+      root.querySelectorAll('.film').forEach((f) => { f.hidden = Boolean(chip.dataset.aud) && f.dataset.aud !== chip.dataset.aud; });
+    }));
+  }
+</script>
