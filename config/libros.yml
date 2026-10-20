@@ -53,6 +53,96 @@ destacados:
       es: "Un hidalgo manchego enloquece de tanto leer novelas de caballerías y sale por los caminos a deshacer entuertos, con Sancho Panza como escudero. La gran novela en castellano, y también una de las más divertidas."
       en: "A gentleman from La Mancha reads so many chivalry romances that he loses his wits and rides out to right wrongs, with Sancho Panza as his squire. The great novel in Spanish, and one of the funniest."
 
+  # Premiados y muy comentados de los últimos doce meses (ventanas ya cerradas: solo alimentan el histórico).
+  - id: tango-satanico
+    titulo: "Tango satánico"
+    autor: "László Krasznahorkai"
+    generos: [contemporanea]
+    portada: "/img/libros/tango-satanico.webp"
+    desde: "2025-10-09"
+    hasta: "2025-10-23"
+    motivo: { es: "Premio Nobel de Literatura 2025", en: "2025 Nobel Prize in Literature" }
+    sinopsis:
+      es: "En una aldea húngara arruinada, la noticia de que ha vuelto un hombre dado por muerto lo cambia todo. La primera novela del Nobel de 2025, hipnótica, de frases larguísimas y humor negro."
+      en: "In a ruined Hungarian hamlet, news that a man presumed dead has returned changes everything. The 2025 Nobel laureate's first novel: hypnotic, with very long sentences and black humour."
+  - id: vera-una-historia-de-amor
+    titulo: "Vera, una historia de amor"
+    autor: "Juan del Val"
+    generos: [contemporanea, misterio]
+    portada: "/img/libros/vera-una-historia-de-amor.webp"
+    desde: "2025-10-24"
+    hasta: "2025-11-03"
+    motivo: { es: "Premio Planeta 2025", en: "2025 Planeta Prize" }
+    sinopsis:
+      es: "Vera, tras veinte años casada con un marqués, se separa y conoce a un hombre más joven y de origen humilde. El rencor del exmarido convierte la historia de amor en algo mucho más oscuro."
+      en: "After twenty years married to a marquis, Vera separates and meets a younger man of humble origins. Her ex-husband's resentment turns the love story into something far darker."
+  - id: la-maison-vide
+    titulo: "La Maison vide"
+    autor: "Laurent Mauvignier"
+    generos: [historica, contemporanea]
+    portada: "/img/libros/la-maison-vide.webp"
+    desde: "2025-11-04"
+    hasta: "2025-11-09"
+    motivo: { es: "Premio Goncourt 2025", en: "2025 Goncourt Prize" }
+    sinopsis:
+      es: "En 1976 una mansión de Touraine cerrada durante veinte años vuelve a abrirse, y el narrador tira del hilo de su familia a través de varias generaciones, con la acusación de colaboracionismo de su abuela como herida central. Saga familiar de unas 750 páginas."
+      en: "In 1976 a Touraine mansion shut for twenty years is reopened, and the narrator pulls on the thread of his family across generations, with his grandmother's accusation of collaboration at its centre. A family saga of about 750 pages."
+  - id: flesh
+    titulo: "Flesh"
+    autor: "David Szalay"
+    generos: [contemporanea]
+    portada: "/img/libros/flesh.webp"
+    desde: "2025-11-10"
+    hasta: "2025-11-24"
+    motivo: { es: "Premio Booker 2025", en: "2025 Booker Prize" }
+    sinopsis:
+      es: "La vida de István, un chico húngaro callado que pasa de un barrio humilde al ejército, a Londres y al dinero. Prosa seca y casi sin adornos para contar una vida entera."
+      en: "The life of István, a quiet Hungarian boy who moves from a modest neighbourhood to the army, to London and to money. Spare, almost unadorned prose to tell a whole life."
+  - id: la-ciudad-de-las-luces-muertas
+    titulo: "La ciudad de las luces muertas"
+    autor: "David Uclés"
+    generos: [historica, contemporanea]
+    portada: "/img/libros/la-ciudad-de-las-luces-muertas.webp"
+    desde: "2026-01-06"
+    hasta: "2026-01-26"
+    motivo: { es: "Premio Nadal 2026", en: "2026 Nadal Prize" }
+    sinopsis:
+      es: "Novela coral ambientada en la Barcelona de posguerra, donde un apagón total deja la ciudad a oscuras. Premio Nadal 2026, del autor de «La península de las casas vacías»."
+      en: "A multi-voiced novel set in postwar Barcelona, where a total blackout plunges the city into darkness. 2026 Nadal Prize winner, by the author of «La península de las casas vacías»."
+  - id: el-ejercito-ciego
+    titulo: "El ejército ciego"
+    autor: "David Toscana"
+    generos: [historica]
+    portada: "/img/libros/el-ejercito-ciego.webp"
+    desde: "2026-01-27"
+    hasta: "2026-02-10"
+    motivo: { es: "Premio Alfaguara 2026", en: "2026 Alfaguara Prize" }
+    sinopsis:
+      es: "El emperador bizantino Basilio II manda cegar a miles de soldados búlgaros, y la historia la cuenta Kozaro, el escriba. Premio Alfaguara 2026, del mexicano David Toscana."
+      en: "The Byzantine emperor Basil II orders thousands of Bulgarian soldiers blinded, and the story is told by Kozaro, the scribe. 2026 Alfaguara Prize winner, by Mexican author David Toscana."
+  - id: angel-down
+    titulo: "Angel Down"
+    autor: "Daniel Kraus"
+    generos: [historica]
+    portada: "/img/libros/angel-down.webp"
+    desde: "2026-05-04"
+    hasta: "2026-05-18"
+    motivo: { es: "Premio Pulitzer de Ficción 2026", en: "2026 Pulitzer Prize for Fiction" }
+    sinopsis:
+      es: "En la Primera Guerra Mundial, cinco soldados encuentran un ángel caído en tierra de nadie y se preguntan si puede acabar con la guerra. Está escrita en una sola frase de unas 300 páginas."
+      en: "In the First World War, five soldiers find a fallen angel in no man's land and wonder whether it could end the war. Written as a single sentence across about 300 pages."
+  - id: taiwan-travelogue
+    titulo: "Taiwan Travelogue"
+    autor: "Yáng Shuāng-zǐ"
+    generos: [historica]
+    portada: "/img/libros/taiwan-travelogue.webp"
+    desde: "2026-05-19"
+    hasta: "2026-06-02"
+    motivo: { es: "Premio Booker Internacional 2026", en: "2026 International Booker Prize" }
+    sinopsis:
+      es: "Falso diario de viaje de los años treinta en la Taiwán ocupada por Japón: dos mujeres recorren la isla en una ruta gastronómica. Primera obra traducida del mandarín que gana el Booker Internacional."
+      en: "A fictional 1930s travel memoir set in Japanese-occupied Taiwan: two women tour the island on a culinary journey. The first work translated from Mandarin to win the International Booker."
+
 reserva:
   - id: cien-anos-de-soledad
     titulo: "Cien años de soledad"

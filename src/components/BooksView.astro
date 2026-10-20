@@ -15,7 +15,7 @@ const when = (ym) => { const [y, m] = ym.split('-').map(Number); return `${cap(m
 const site = Astro.site.origin;
 const jsonld = {
   '@context': 'https://schema.org', '@type': 'ItemList', name: L.booksTitle,
-  itemListElement: list.slice(0, 30).map((b, i) => ({ '@type': 'ListItem', position: i + 1, item: { '@type': 'Book', name: b.titulo, author: { '@type': 'Person', name: b.autor } } })),
+  itemListElement: list.slice(0, 30).map((b, i) => ({ '@type': 'ListItem', position: i + 1, item: { '@type': 'Book', name: b.titulo, author: { '@type': 'Person', name: b.autor }, ...(b.motivo && { award: b.motivo.es }) } })),
 };
 ---
 <Base lang={lang} title={L.booksTitle} description={L.booksIntro} route={route} jsonld={jsonld}>
@@ -44,7 +44,7 @@ const jsonld = {
       const why = b.motivo ? pickText(b.motivo, lang) : null;
       const gl = (b.generos || []).map(label);
       return (
-        <li class="book-card" data-genres={(b.generos || []).join(' ')} data-q={norm(`${b.titulo} ${b.autor} ${gl.join(' ')}`)}>
+        <li class="book-card" data-genres={(b.generos || []).join(' ')} data-q={norm(`${b.titulo} ${b.autor} ${gl.join(' ')} ${why?.text || ''}`)}>
           <BookCover book={b} />
           <div class="book-card-body">
             <p class="book-eyebrow" lang={why ? why.lang : undefined}>{why?.text || when(b.mes)}</p>
