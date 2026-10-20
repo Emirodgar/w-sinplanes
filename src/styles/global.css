@@ -248,3 +248,5 @@ p { margin: 0 0 1em; max-width: var(--measure); }
 .badge--adultos { background: rgba(29, 29, 31, 0.88); }
 .film-title { margin: 0.6rem 0 0; font-weight: 600; font-size: 0.9375rem; line-height: 1.25; letter-spacing: -0.015em; }
 .cine-note { margin: 0; font-size: 0.75rem; }
+.badge--rating { background: rgba(29, 29, 31, 0.88); }
+.film-where { margin: 0.2rem 0 0; font-size: 0.8125rem; line-height: 1.3; }

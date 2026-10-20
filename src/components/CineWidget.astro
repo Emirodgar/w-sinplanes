@@ -50,8 +50,8 @@ const kidsCount = films.filter((f) => f.publico === 'ninos').length;
 )}
 
 <script>
-  const root = document.querySelector('[data-cine]');
-  if (root) {
+  // Lo comparten la cartelera y las series: cada carrusel lleva data-cine.
+  document.querySelectorAll('[data-cine]').forEach((root) => {
     const chips = [...root.querySelectorAll('[data-aud]:is(button)')];
     const strip = root.querySelector('.cine-strip');
     const prev = root.querySelector('.cine-nav--prev');
@@ -95,5 +95,5 @@ const kidsCount = films.filter((f) => f.publico === 'ninos').length;
     strip.addEventListener('dragstart', (e) => e.preventDefault());
     strip.addEventListener('click', (e) => { if (moved) { e.preventDefault(); e.stopPropagation(); moved = false; } }, true);
     sync();
-  }
+  });
 </script>

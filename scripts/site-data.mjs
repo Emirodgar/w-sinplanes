@@ -33,6 +33,10 @@ writeFileSync(path.join(ROOT, 'data/plans.json'), JSON.stringify(plans));
 const cartelera = readJSON('data/cartelera.json', { peliculas: [] });
 const fresh = cartelera.generated && (Date.parse(today) - Date.parse(cartelera.generated.slice(0, 10))) / 864e5 <= 21;
 writeFileSync(path.join(ROOT, 'data/cine.json'), JSON.stringify({ peliculas: fresh ? cartelera.peliculas : [] }));
+// Series: mismo criterio de frescura que la cartelera.
+const seriesRaw = readJSON('data/series-tmdb.json', { series: [] });
+const seriesFresh = seriesRaw.generated && (Date.parse(today) - Date.parse(seriesRaw.generated.slice(0, 10))) / 864e5 <= 21;
+writeFileSync(path.join(ROOT, 'data/series.json'), JSON.stringify({ series: seriesFresh ? seriesRaw.series : [] }));
 writeFileSync(path.join(ROOT, 'data/libros.json'), JSON.stringify(buildBooks(today)));
 writeFileSync(path.join(ROOT, 'data/site.json'), JSON.stringify({
   today, generated: new Date().toISOString(), total: plans.length, skeleton: skeleton.length, events: events.length,

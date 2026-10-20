@@ -5,6 +5,7 @@ import NearMe from './NearMe.astro';
 import SearchBox from './SearchBox.astro';
 import BookWidget from './BookWidget.astro';
 import CineWidget from './CineWidget.astro';
+import SeriesWidget from './SeriesWidget.astro';
 import { t, url, monthName, HREFLANG } from '../i18n/ui.js';
 import { TODAY, currentMonth, seasonalFor, upcoming, within, overlaps, weekendRange, topicById, fmtDay, cap, ptitle, psummary, textLang, trending, boost, inLang } from '../lib/data.js';
 
@@ -89,6 +90,8 @@ const jsonld = {
     )}
 
     <CineWidget lang={lang} />
+
+    <SeriesWidget lang={lang} />
 
     <BookWidget lang={lang} />
 
