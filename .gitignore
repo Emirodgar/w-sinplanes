@@ -5,3 +5,4 @@ dist/
 # Se generan en cada build (scripts/site-data.mjs)
 data/plans.json
 data/site.json
+data/libro.json

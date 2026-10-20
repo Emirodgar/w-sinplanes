@@ -1,0 +1,124 @@
+# Libro recomendado de la portada
+# ------------------------------------------------------------
+# destacados: libros ligados a un premio, evento o lanzamiento, con ventana de fechas (ISO, ambas incluidas).
+#             Si hay varios activos a la vez, gana el primero de la lista.
+# reserva:    libros para los meses sin gancho. Se elige uno por mes, de forma estable,
+#             y no se repite hasta recorrer toda la lista.
+#
+# Campos de cada libro:
+#   id        identificador (sin espacios)
+#   titulo, autor
+#   portada   ruta de la imagen en public/img/libros/ (webp o jpg, vertical, ~600x900).
+#             Si el fichero no existe, sale una portada tipográfica.
+#   sinopsis  { es, en }  (los demás idiomas muestran el inglés)
+#   motivo    { es, en }  solo en destacados: por qué toca ahora ("Premio Planeta 2026")
+#   desde, hasta          solo en destacados
+#   enlace    (reservado) URL de compra o referido; de momento no se muestra
+#
+# Plantilla de destacado:
+#   - id: ejemplo
+#     titulo: "…"
+#     autor: "…"
+#     portada: "/img/libros/ejemplo.webp"
+#     desde: "2026-10-16"
+#     hasta: "2026-11-01"
+#     motivo: { es: "Premio Planeta 2026", en: "2026 Planeta Prize" }
+#     sinopsis: { es: "…", en: "…" }
+
+destacados:
+  - id: don-quijote
+    titulo: "Don Quijote de la Mancha"
+    autor: "Miguel de Cervantes"
+    portada: "/img/libros/don-quijote.webp"
+    desde: "2027-04-16"
+    hasta: "2027-04-30"
+    motivo: { es: "Día del Libro: Cervantes murió un 23 de abril", en: "World Book Day: Cervantes died on 23 April" }
+    sinopsis:
+      es: "Un hidalgo manchego enloquece de tanto leer novelas de caballerías y sale por los caminos a deshacer entuertos, con Sancho Panza como escudero. La gran novela en castellano, y también una de las más divertidas."
+      en: "A gentleman from La Mancha reads so many chivalry romances that he loses his wits and rides out to right wrongs, with Sancho Panza as his squire. The great novel in Spanish, and one of the funniest."
+
+reserva:
+  - id: cien-anos-de-soledad
+    titulo: "Cien años de soledad"
+    autor: "Gabriel García Márquez"
+    portada: "/img/libros/cien-anos-de-soledad.webp"
+    sinopsis:
+      es: "La saga de la familia Buendía a lo largo de siete generaciones en Macondo, un pueblo donde lo cotidiano y lo extraordinario conviven sin sobresaltos. Un clásico del realismo mágico."
+      en: "The saga of the Buendía family across seven generations in Macondo, a town where the everyday and the extraordinary sit side by side. A classic of magical realism."
+  - id: la-sombra-del-viento
+    titulo: "La sombra del viento"
+    autor: "Carlos Ruiz Zafón"
+    portada: "/img/libros/la-sombra-del-viento.webp"
+    sinopsis:
+      es: "En la Barcelona de posguerra, un niño elige un libro en el Cementerio de los Libros Olvidados y descubre que alguien se dedica a destruir todos los ejemplares de su autor. Misterio, intriga y amor por la lectura."
+      en: "In postwar Barcelona, a boy picks a book in the Cemetery of Forgotten Books and learns that someone is destroying every copy of its author's work. Mystery, suspense and a love of reading."
+  - id: nada
+    titulo: "Nada"
+    autor: "Carmen Laforet"
+    portada: "/img/libros/nada.webp"
+    sinopsis:
+      es: "Andrea llega a Barcelona para estudiar y se instala en casa de unos parientes, en una familia asfixiante. Retrato de la posguerra y primer Premio Nadal."
+      en: "Andrea arrives in Barcelona to study and moves in with relatives in a stifling household. A portrait of the postwar years and the first Nadal Prize winner."
+  - id: los-santos-inocentes
+    titulo: "Los santos inocentes"
+    autor: "Miguel Delibes"
+    portada: "/img/libros/los-santos-inocentes.webp"
+    sinopsis:
+      es: "La vida de una familia de campesinos al servicio de un cortijo extremeño en los años sesenta. Una novela breve, dura y muy bien escrita sobre la desigualdad."
+      en: "The life of a family of farm workers serving an Extremadura estate in the 1960s. A short, hard and beautifully written novel about inequality."
+  - id: la-ciudad-de-los-prodigios
+    titulo: "La ciudad de los prodigios"
+    autor: "Eduardo Mendoza"
+    portada: "/img/libros/la-ciudad-de-los-prodigios.webp"
+    sinopsis:
+      es: "Onofre Bouvila llega a Barcelona con una maleta y ningún escrúpulo, y se abre camino entre las dos Exposiciones Universales. Humor, picaresca y la ciudad como protagonista."
+      en: "Onofre Bouvila arrives in Barcelona with a suitcase and no scruples, and works his way up between the two World Fairs. Humour, roguery and the city as the main character."
+  - id: el-tiempo-entre-costuras
+    titulo: "El tiempo entre costuras"
+    autor: "María Dueñas"
+    portada: "/img/libros/el-tiempo-entre-costuras.webp"
+    sinopsis:
+      es: "Una joven modista madrileña acaba en el Marruecos de los años treinta y, de ahí, en el espionaje durante la Guerra Civil y la Segunda Guerra Mundial. Aventura y novela histórica de ritmo ágil."
+      en: "A young Madrid seamstress ends up in 1930s Morocco and, from there, in espionage during the Civil War and the Second World War. Adventure and historical fiction at a brisk pace."
+  - id: patria
+    titulo: "Patria"
+    autor: "Fernando Aramburu"
+    portada: "/img/libros/patria.webp"
+    sinopsis:
+      es: "Dos familias vecinas de un pueblo vasco, unidas por la amistad y rotas por el terrorismo de ETA. Una novela coral sobre el dolor, el silencio y la convivencia."
+      en: "Two neighbouring families in a Basque village, bound by friendship and broken by ETA terrorism. A multi-voiced novel about pain, silence and living together."
+  - id: la-casa-de-los-espiritus
+    titulo: "La casa de los espíritus"
+    autor: "Isabel Allende"
+    portada: "/img/libros/la-casa-de-los-espiritus.webp"
+    sinopsis:
+      es: "Tres generaciones de mujeres de una misma familia, entre lo mágico y lo político, en un país latinoamericano que atraviesa grandes cambios. La primera novela de Isabel Allende."
+      en: "Three generations of women in one family, between the magical and the political, in a Latin American country going through great upheaval. Isabel Allende's first novel."
+  - id: niebla
+    titulo: "Niebla"
+    autor: "Miguel de Unamuno"
+    portada: "/img/libros/niebla.webp"
+    sinopsis:
+      es: "Augusto Pérez, un joven aburrido, se enamora de una mujer que no le corresponde y decide visitar al autor de su novela. Una nivola breve y juguetona sobre quién escribe nuestra vida."
+      en: "Augusto Pérez, a bored young man, falls for a woman who does not love him back and decides to visit the author of his own novel. A short, playful book about who writes our lives."
+  - id: la-colmena
+    titulo: "La colmena"
+    autor: "Camilo José Cela"
+    portada: "/img/libros/la-colmena.webp"
+    sinopsis:
+      es: "Un retrato coral del Madrid de 1942 a través de más de trescientos personajes que se cruzan en cafés, pensiones y calles. Una novela clave de la posguerra."
+      en: "A choral portrait of Madrid in 1942 through more than three hundred characters who cross paths in cafés, boarding houses and streets. A key postwar novel."
+  - id: los-girasoles-ciegos
+    titulo: "Los girasoles ciegos"
+    autor: "Alberto Méndez"
+    portada: "/img/libros/los-girasoles-ciegos.webp"
+    sinopsis:
+      es: "Cuatro relatos sobre los vencidos de la Guerra Civil, escritos con una sobriedad que duele. Un libro corto que se lee en una tarde."
+      en: "Four stories about the losers of the Spanish Civil War, written with a sobriety that hurts. A short book you can read in an afternoon."
+  - id: el-amor-en-los-tiempos-del-colera
+    titulo: "El amor en los tiempos del cólera"
+    autor: "Gabriel García Márquez"
+    portada: "/img/libros/el-amor-en-los-tiempos-del-colera.webp"
+    sinopsis:
+      es: "Florentino Ariza espera más de cincuenta años a que Fermina Daza vuelva a ser libre. Una historia de amor tenaz, con una ciudad caribeña de fondo."
+      en: "Florentino Ariza waits more than fifty years for Fermina Daza to be free again. A tenacious love story set against a Caribbean city."

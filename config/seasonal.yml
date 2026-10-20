@@ -76,9 +76,12 @@ temporada:
     temas: [naturaleza, gastronomia]
     es: { titulo: "Salir a por setas", resumen: "Soria, el Pirineo y los montes de León y Zamora son los clásicos. Infórmate de la regulación y el permiso de recolección de cada zona." }
     en: { titulo: "Go mushroom foraging", resumen: "Soria, the Pyrenees and the hills of León and Zamora are the classics. Check each area's foraging rules and permits." }
+    imagen: "/img/planes/setas.webp"
+    imagen_tam: [1003, 544]
     relacionados: [castanas-otono, hayedos, magostos]
     contenido:
       es:
+        imagen_alt: "Manos recogiendo un boleto en el bosque con una cesta de mimbre llena de setas"
         texto:
           - "Con las primeras lluvias de otoño, los pinares, robledales y castañares se llenan de setas, y salir a buscarlas se convierte en uno de los planes más esperados del año. Es una excusa perfecta para pasar la mañana en el monte, con o sin cesta llena."
           - "La temporada fuerte va de octubre a noviembre, aunque depende mucho de la lluvia y de las temperaturas: tras unas semanas húmedas y sin heladas, el monte arranca. Provincias como Soria, el Pirineo, León, Zamora, la Sierra de Gredos o Cataluña son clásicos, y en muchas hay rutas micológicas y jornadas organizadas."

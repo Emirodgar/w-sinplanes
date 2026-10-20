@@ -1,0 +1,36 @@
+---
+import { existsSync } from 'node:fs';
+import path from 'node:path';
+import libro from '../../data/libro.json';
+import { t, monthName } from '../i18n/ui.js';
+import { pickText, currentMonth, cap } from '../lib/data.js';
+
+const { lang } = Astro.props;
+const L = t[lang];
+const book = libro;
+// Si aún no hay imagen de portada, se dibuja una tipográfica.
+const hasCover = book?.portada && existsSync(path.join(process.cwd(), 'public', book.portada));
+const synopsis = book ? pickText(book.sinopsis, lang) : null;
+const reason = book?.motivo ? pickText(book.motivo, lang) : null;
+const eyebrow = reason?.text || cap(monthName(lang, currentMonth()));
+const hue = book ? [...book.id].reduce((a, c) => (a * 31 + c.charCodeAt(0)) % 360, 7) : 0;
+---
+{book && (
+  <section class="widget widget--wide book" aria-labelledby="w-book">
+    {hasCover ? (
+      <img class="book-cover" src={book.portada} alt={`${book.titulo}, ${book.autor}`} width="300" height="450" loading="lazy" decoding="async" />
+    ) : (
+      <div class="book-cover book-cover--type" style={`--h:${hue}`} aria-hidden="true">
+        <span>{book.titulo}</span>
+        <small>{book.autor}</small>
+      </div>
+    )}
+    <div class="book-body">
+      <p class="book-eyebrow" lang={reason ? reason.lang : undefined}>{eyebrow}</p>
+      <h2 id="w-book">{L.w.book}</h2>
+      <p class="book-title">{book.titulo}</p>
+      <p class="book-author">{book.autor}</p>
+      <p class="book-synopsis" lang={synopsis.lang !== lang ? synopsis.lang : undefined}>{synopsis.text}</p>
+    </div>
+  </section>
+)}

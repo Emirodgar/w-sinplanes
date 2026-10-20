@@ -12,6 +12,7 @@ import { ROOT, todayISO, addDays } from './lib/util.mjs';
 import { buildSeasonalPlans } from './lib/seasonal.mjs';
 import { applyCachedTranslations } from './lib/translate.mjs';
 import { applyTrends, readHistory } from './lib/trends.mjs';
+import { pickBook } from './lib/libros.mjs';
 
 const KEEP_PAST_DAYS = 30; // eventos pasados: su página se mantiene 30 días con noindex
 const HORIZON_DAYS = 120;
@@ -28,6 +29,7 @@ const plans = applyTrends([...skeleton, ...events], readHistory(), today)
 
 mkdirSync(path.join(ROOT, 'data'), { recursive: true });
 writeFileSync(path.join(ROOT, 'data/plans.json'), JSON.stringify(plans));
+writeFileSync(path.join(ROOT, 'data/libro.json'), JSON.stringify(pickBook(today) ?? null));
 writeFileSync(path.join(ROOT, 'data/site.json'), JSON.stringify({
   today, generated: new Date().toISOString(), total: plans.length, skeleton: skeleton.length, events: events.length,
   dataUpdated: meta.generated || null,
