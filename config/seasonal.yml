@@ -559,6 +559,15 @@ temporada:
           - "En abril y mayo, los campos, las dehesas y las laderas de media montaña se llenan de flores. Amapolas, jaras, margaritas, narcisos y otras especies colorean paisajes que, durante unas semanas, parecen otros. Es un plan sencillo, barato y muy fotogénico."
           - "El mejor momento depende de la zona y de la altitud, y de cuánto haya llovido en invierno: una buena primavera da campos especialmente vistosos. En la dehesa extremeña y andaluza, en los campos de Castilla y en los prados de montaña hay rutas fáciles para disfrutarlos. En las zonas altas, la floración se retrasa hasta mayo y junio."
           - "Elige sendas señaladas y mejor entre semana. No cojas flores, no pises cultivos ni te salgas de los caminos: muchos campos son sembrados o pastos. Si tienes alergia al polen, lleva medicación, y revisa tu ropa al volver, porque en primavera hay garrapatas en algunos terrenos."
+        mapa:
+          titulo: "Dónde ver campos de flores"
+          centro: [40.0, -4.5]
+          zoom: 6
+          puntos:
+            - { nombre: "Dehesa extremeña (Cáceres)", lat: 39.3, lon: -6.9, desc: "Dehesas de encina y alcornoque con prados de flores, por la Sierra de San Pedro y Monfragüe." }
+            - { nombre: "Dehesa andaluza (Sevilla)", lat: 37.95, lon: -5.8, desc: "Sierra Norte de Sevilla, con dehesas, jarales y rutas fáciles." }
+            - { nombre: "Campos de Castilla (Palencia)", lat: 42.1, lon: -4.8, desc: "Tierra de Campos y los páramos castellanos, con amapolas entre los cultivos." }
+            - { nombre: "Prados de montaña (Picos de Europa)", lat: 43.2, lon: -4.85, desc: "Prados con narcisos y otras flores, con floración más tardía, hasta mayo y junio." }
         faq:
           - p: "¿Cuándo es la mejor época para ver flores?"
             r: "Entre abril y mayo en la mayor parte de España. En la montaña se retrasa a junio, y en el sur y en las islas puede empezar en marzo."
