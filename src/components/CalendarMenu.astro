@@ -1,0 +1,30 @@
+---
+import { t, url } from '../i18n/ui.js';
+import { ptitle, psummary, fmtPlace } from '../lib/data.js';
+import { calendarLinks } from '../lib/calendar.js';
+
+const { lang, plan: p } = Astro.props;
+const L = t[lang];
+const pl = p.place || {};
+const place = [pl.venue, pl.scope === 'local' ? fmtPlace(p, '') : ''].filter(Boolean).join(', ');
+const links = calendarLinks(p, {
+  title: ptitle(p, lang),
+  description: psummary(p, lang),
+  location: place,
+  pageUrl: new URL(url.plan(lang, p.slug), 'https://sinplanes.com').href,
+});
+const approximate = p.approx || p.kind === 'estacional';
+---
+{links && (
+  <div class="cal">
+    <details>
+      <summary class="button">{L.addCal}</summary>
+      <ul class="cal-menu">
+        <li><a href={links.google} target="_blank" rel="noopener noreferrer">{L.calGoogle}<span class="visually-hidden"> ({L.newTab})</span></a></li>
+        <li><a href={links.outlook} target="_blank" rel="noopener noreferrer">{L.calOutlook}<span class="visually-hidden"> ({L.newTab})</span></a></li>
+        <li><a href={links.ics} download={links.filename}>{L.calApple}</a></li>
+      </ul>
+    </details>
+    {approximate && <p class="cal-note">{L.calApprox}</p>}
+  </div>
+)}

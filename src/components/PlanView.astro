@@ -1,5 +1,6 @@
 ---
 import Base from '../layouts/Base.astro';
+import CalendarMenu from './CalendarMenu.astro';
 import { t, url, LANGS, HREFLANG } from '../i18n/ui.js';
 import { fmtWhen, fmtPlace, topicById, isPast, isPlace, textLang, slugify, ptitle, psummary, availLangs, plans } from '../lib/data.js';
 
@@ -100,6 +101,12 @@ const jsonld = [baseJsonld, faqLd].filter(Boolean);
       </section>
     )}
 
-    {p.source?.url && <a class="button" href={p.source.url} target="_blank" rel="noopener noreferrer">{L.source}<span class="visually-hidden"> ({L.newTab})</span></a>}
+    {!past && (
+      <div class="plan-actions">
+        <CalendarMenu lang={lang} plan={p} />
+        {p.source?.url && <a class="button button--ghost" href={p.source.url} target="_blank" rel="noopener noreferrer">{L.source}<span class="visually-hidden"> ({L.newTab})</span></a>}
+      </div>
+    )}
+    {past && p.source?.url && <a class="button" href={p.source.url} target="_blank" rel="noopener noreferrer">{L.source}<span class="visually-hidden"> ({L.newTab})</span></a>}
   </article>
 </Base>
