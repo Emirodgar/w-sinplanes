@@ -427,6 +427,14 @@ temporada:
           - "La calçotada es una comida típica de Cataluña, sobre todo del Camp de Tarragona y el Alt Camp: calçots (cebollas tiernas) asados a la brasa, pelados con las manos y mojados en salsa romesco. Es una comida de celebración, con babero, buena compañía y sobremesa larga."
           - "La temporada empieza hacia diciembre y llega hasta abril, con el punto fuerte entre enero y marzo. Valls, en el Alt Camp, es la capital del calçot y organiza a finales de enero una gran fiesta, con concurso y comida popular. Además de en Cataluña, también hay calçotadas en otras zonas de España."
           - "Se suele comer con carne a la brasa, butifarra, alubias y vino o cava. Reserva con antelación, sobre todo en fin de semana, porque en temporada se llena todo. Se come con las manos: se agarra el calçot por la base, se tira de la hoja exterior, se moja en romesco y se come la parte tierna de arriba. Mancha, así que el babero no es una exageración."
+        mapa:
+          titulo: "Dónde ir a una calçotada"
+          centro: [41.22, 1.25]
+          zoom: 10
+          puntos:
+            - { nombre: "Valls (Alt Camp)", lat: 41.2872, lon: 1.2507, desc: "Capital del calçot: a finales de enero celebra su gran fiesta, con concurso y comida popular." }
+            - { nombre: "Camp de Tarragona", lat: 41.12, lon: 1.2, desc: "Zona de origen del calçot, con masías y restaurantes que preparan calçotadas en temporada." }
+            - { nombre: "Alt Camp", lat: 41.36, lon: 1.32, desc: "Comarca interior del calçot, con calçotadas en pueblos y masías; mejor con reserva." }
         faq:
           - p: "¿Qué es un calçot?"
             r: "Es una variedad de cebolla tierna típica de Cataluña. Se asa a la brasa hasta que la capa exterior queda negra, se envuelve para que se cueza con su propio vapor y se come con salsa romesco."
