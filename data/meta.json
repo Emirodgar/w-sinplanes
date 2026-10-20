@@ -1,11 +1,11 @@
 {
-  "generated": "2026-10-20T10:29:17.340Z",
+  "generated": "2026-10-20T13:35:53.326Z",
   "today": "2026-10-20",
-  "events": 1782,
+  "events": 2295,
   "review": 6,
   "ai": {
-    "calls": 14,
-    "seconds": 190,
+    "calls": 0,
+    "seconds": 25,
     "tripped": false
   },
   "sources": [
@@ -21,9 +21,8 @@
     },
     {
       "id": "euskadi-kulturklik",
-      "nombre": "Kulturklik, agenda cultural de Euskadi",
-      "status": "error",
-      "detail": "HTTP 503 en https://api.euskadi.eus/culture/events/v1.0/events/upcoming?_elements=50&_page=1"
+      "status": "ok",
+      "count": 500
     },
     {
       "id": "coruna-agenda",
@@ -32,8 +31,8 @@
     },
     {
       "id": "tmdb-estrenos",
-      "status": "omitida",
-      "detail": "falta el secreto TMDB_API_KEY"
+      "status": "ok",
+      "count": 8
     },
     {
       "id": "futbol-laliga-champions",
@@ -49,7 +48,7 @@
     {
       "id": "prensa-20minutos-cultura",
       "status": "ok",
-      "count": 10,
+      "count": 14,
       "candidatos": true
     },
     {
@@ -67,13 +66,13 @@
     {
       "id": "prensa-ara-cultura",
       "status": "ok",
-      "count": 9,
+      "count": 10,
       "candidatos": true
     },
     {
       "id": "prensa-heraldo-ocio",
       "status": "ok",
-      "count": 17,
+      "count": 18,
       "candidatos": true
     },
     {
@@ -91,13 +90,13 @@
     {
       "id": "prensa-diariosur-culturas",
       "status": "ok",
-      "count": 8,
+      "count": 9,
       "candidatos": true
     },
     {
       "id": "prensa-ideal-culturas",
       "status": "ok",
-      "count": 13,
+      "count": 18,
       "candidatos": true
     },
     {
@@ -109,7 +108,7 @@
     {
       "id": "prensa-elcorreo-culturas",
       "status": "ok",
-      "count": 12,
+      "count": 13,
       "candidatos": true
     },
     {
@@ -121,7 +120,7 @@
     {
       "id": "prensa-lasprovincias-culturas",
       "status": "ok",
-      "count": 16,
+      "count": 18,
       "candidatos": true
     },
     {

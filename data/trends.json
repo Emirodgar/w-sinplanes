@@ -42,6 +42,36 @@
    ]
   },
   {
+   "term": "telediario",
+   "traffic": 5000,
+   "lastSeen": "2026-10-20",
+   "news": [
+    "Setenta años contando lo trascendente: la memoria de un país y del mundo en 'El Telediario de nuestras vidas'",
+    "Todas las veces que la reina Letizia apoyó a sus ex compañeros de Televisión Española: menciones, apariciones y recuerdos de su etapa de periodista",
+    "La escena final de Beatriz Pérez-Aranda en el especial 70 años de TVE va a recorrer toda España: la frase que suelta es historia"
+   ]
+  },
+  {
+   "term": "santiago pedraz",
+   "traffic": 2000,
+   "lastSeen": "2026-10-20",
+   "news": [
+    "El juez da un ultimátum de 48 horas al PSOE para que le entregue todos los pagos a abogados en el 'caso de las cloacas'",
+    "Pedraz urge al PSOE a que remita sus contratos con abogados tras expirar el plazo sin mandarlo",
+    "El juez apremia al PSOE para que informe en dos días de los abogados a los que contrató entre 2021 y 2025"
+   ]
+  },
+  {
+   "term": "miniserie",
+   "traffic": 2000,
+   "lastSeen": "2026-10-20",
+   "news": [
+    "Un atraco perfecto y millones desaparecidos: la historia del mayor robo bancario en Murcia que ahora será serie",
+    "La Región acoge el rodaje de la miniserie 'Casper', protagonizada por Roberto Álamo y Rodolfo Sancho",
+    "La serie policíaca que logra que el actor de 'Las hijas de la criada' Alain Hernández vuelva a TVE después de 'La caza'"
+   ]
+  },
+  {
    "term": "marta riesco",
    "traffic": 1000,
    "lastSeen": "2026-10-20",
@@ -92,6 +122,16 @@
    ]
   },
   {
+   "term": "aeropuerto de palma de mallorca",
+   "traffic": 1000,
+   "lastSeen": "2026-10-20",
+   "news": [
+    "La dana se ceba con Eivissa y Formentera con amenazas de desbordamiento de torrentes",
+    "Ibiza avanza a la normalidad tras batir su récord histórico de lluvias en un mes de octubre",
+    "Una nueva alerta a móviles avisa de fuertes lluvias y desbordamiento de torrentes en Ibiza por la dana Adam"
+   ]
+  },
+  {
    "term": "revolut down",
    "traffic": 500,
    "lastSeen": "2026-10-20",
@@ -129,6 +169,26 @@
     "Vídeo: Larcamón destaca a un futbolista del Sporting en su charla: «El fútbol premia tu esfuerzo»",
     "Nico, satisfecho con su equipo",
     "El curioso nuevo bautismo en el vestuario del Sporting de Gijón: \"Me pone muy contento 'el Flaco'\""
+   ]
+  },
+  {
+   "term": "el niño",
+   "traffic": 500,
+   "lastSeen": "2026-10-20",
+   "news": [
+    "El Niño podría cambiar el clima por décadas de forma irreversible",
+    "Los satélites de la NASA siguen el avance de El Niño: la señal clave en el océano que anticipa un impacto extremo en el clima",
+    "Súper Niño: qué se sabe sobre los efectos que tendrá el fenómeno en la Argentina y cuándo impactará con más fuerza"
+   ]
+  },
+  {
+   "term": "gasto",
+   "traffic": 500,
+   "lastSeen": "2026-10-20",
+   "news": [
+    "El viaje del Papa a España tuvo un impacto económico de 139,48 millones de euros y cierra sus cuentas sin déficit",
+    "El viaje del Papa a España costó 31,09 millones de euros y tuvo un impacto económico de 139,48 millones",
+    "Los obispos cifran en 5,8 millones las aportaciones directas del Estado para la visita del papa a España"
    ]
   },
   {
@@ -198,6 +258,46 @@
     "Bellerín denuncia por delitos de odio al youtuber que le dirigió insultos homófobos tras el Betis - Real Madrid",
     "El futbolista Héctor Bellerín se querella contra el youtuber vasco que le dedicó insultos homófobos tras ganar al Real Madrid",
     "El futbolista Héctor Bellerín denuncia por delitos de odio al youtuber que le insultó por \"pintarse las uñas\" en un directo"
+   ]
+  },
+  {
+   "term": "calefacción",
+   "traffic": 200,
+   "lastSeen": "2026-10-20",
+   "news": [
+    "Joan Pascual, fontanero, desvela cómo preparar tus radiadores para el frío: \"Consejos útiles para preparar tu calefacción antes de la llegada del invierno. Asegúrate de seguir estos pasos para garantizar un óptimo funcionamiento\"",
+    "Expertos en climatización coinciden: la regla de los 19°C está desfasada, las nuevas recomendaciones de los...",
+    "Calefacción en otoño: nueve errores que pueden disparar el consumo y encarecer la factura"
+   ]
+  },
+  {
+   "term": "olivier martinez",
+   "traffic": 200,
+   "lastSeen": "2026-10-20",
+   "news": [
+    "Maceo, el hijo de Halle Berry y Olivier Martinez, declara durante 4 horas ante el juez y su hermana Nahla podría ser la siguiente",
+    "Aseguran que Halle Berry sufre graves \"cambios de humor\" en cuestión de segundos: \"Su ira se descontrola\"",
+    "La actriz ganadora del Oscar Halle Berry, contra su exmarido: \"No soy una agresora, jamás le haría daño a nuestro hijo\""
+   ]
+  },
+  {
+   "term": "daredevil",
+   "traffic": 200,
+   "lastSeen": "2026-10-20",
+   "news": [
+    "‘Daredevil: Born Again’ Star Deborah Ann Woll Felt Like Season 3 Might Be the End",
+    "Does A Daredevil Movie Make Box Office Sense For Marvel After Born Again's Cancellation?",
+    "Charlie Cox says his son was \"devastated\" by Daredevil: Born Again season 3 cancellation: \"The color drained from his face\""
+   ]
+  },
+  {
+   "term": "unwetter",
+   "traffic": 200,
+   "lastSeen": "2026-10-20",
+   "news": [
+    "Unwetter in Spanien: Mindestens vier Tote durch schwere Unwetter in Spanien",
+    "Mehr als 600 Liter Regen: Unwetter sorgt für Überflutungen in Valencia",
+    "Mindestens zwei Tote durch Überschwemmungen im Osten Spaniens"
    ]
   }
  ]
