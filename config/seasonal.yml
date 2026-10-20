@@ -55,11 +55,53 @@ temporada:
     temas: [naturaleza, gastronomia]
     es: { titulo: "Salir a por setas", resumen: "Soria, el Pirineo y los montes de León y Zamora son los clásicos. Infórmate de la regulación y el permiso de recolección de cada zona." }
     en: { titulo: "Go mushroom foraging", resumen: "Soria, the Pyrenees and the hills of León and Zamora are the classics. Check each area's foraging rules and permits." }
+    relacionados: [castanas-otono, hayedos, magostos]
+    contenido:
+      es:
+        texto:
+          - "Con las primeras lluvias de otoño, los pinares, robledales y castañares se llenan de setas, y salir a buscarlas se convierte en uno de los planes más esperados del año. Es una excusa perfecta para pasar la mañana en el monte, con o sin cesta llena."
+          - "La temporada fuerte va de octubre a noviembre, aunque depende mucho de la lluvia y de las temperaturas: tras unas semanas húmedas y sin heladas, el monte arranca. Provincias como Soria, el Pirineo, León, Zamora, la Sierra de Gredos o Cataluña son clásicos, y en muchas hay rutas micológicas y jornadas organizadas."
+          - "Antes de salir, infórmate de la normativa de la zona. Varias comunidades exigen un permiso o una autorización de recolección (en Castilla y León, por ejemplo, funciona el sistema de Micocyl), y existen límites de cantidad, zonas acotadas y horarios. Las normas cambian de un sitio a otro, así que consulta la web del ayuntamiento o de la comunidad autónoma."
+          - "Si no tienes experiencia, la regla de oro es no comer ninguna seta que no hayas identificado con seguridad. Lo más sensato para empezar es apuntarte a una salida guiada o a una jornada micológica con un experto, y llevar una guía de campo. Recoge con cesta de mimbre, que deja caer las esporas y permite que el ejemplar respire, y corta o extrae con cuidado sin arrasar el terreno."
+        faq:
+          - p: "¿Cuándo es la temporada de setas?"
+            r: "En España, la temporada principal va de octubre a noviembre, aunque en algunas zonas se alarga hasta diciembre o empieza en septiembre. Depende de la lluvia, la altitud y la temperatura: tras varias semanas húmedas y sin heladas, el monte arranca."
+          - p: "¿Dónde buscar setas?"
+            r: "Soria, el Pirineo, los montes de León y Zamora, la Sierra de Gredos o Cataluña son destinos clásicos. Lo más práctico es preguntar en la oficina de turismo o en una casa rural de la zona, donde suelen conocer las rutas y la normativa vigente."
+          - p: "¿Hace falta permiso para recoger setas?"
+            r: "En muchas zonas sí. Varias comunidades autónomas exigen un permiso o una autorización de recolección, y puede haber límites de cantidad y zonas acotadas. Infórmate siempre antes de salir en la web del ayuntamiento o de la comunidad autónoma."
+          - p: "¿Cómo sé si una seta es comestible?"
+            r: "No te fíes de trucos populares: solo se puede comer una seta si la has identificado con certeza. Si dudas, no la recojas. Una salida guiada o una jornada micológica es la forma más segura de aprender, y en caso de intoxicación hay que acudir a urgencias o llamar al 112."
+          - p: "¿Qué hay que llevar?"
+            r: "Una cesta de mimbre, una navaja, una guía de identificación, calzado de monte, ropa de abrigo, agua y algo de comer. Evita las bolsas de plástico, que estropean las setas y no dejan caer las esporas."
+          - p: "¿Es buen plan con niños?"
+            r: "Sí, siempre que vayan acompañados y sepan que no se toca ni se come nada sin que un adulto lo revise. Los más pequeños disfrutan mucho de la búsqueda, pero conviene elegir recorridos sencillos y fijarse en que no se lleven las manos a la boca."
   - id: hayedos
     meses: [10, 11]
     temas: [naturaleza]
     es: { titulo: "Ver el otoño en un hayedo", resumen: "Irati, Montejo, Tejera Negra o el hayedo de Otzarreta cambian de color en pocas semanas. Ve entre semana para evitar cupos completos." }
     en: { titulo: "See autumn colours in a beech forest", resumen: "Irati, Montejo, Tejera Negra or Otzarreta turn gold in a few weeks. Go on a weekday to avoid full visitor quotas." }
+    relacionados: [castanas-otono, setas, berrea]
+    contenido:
+      es:
+        texto:
+          - "Durante unas pocas semanas de otoño, los hayedos pasan del verde al amarillo, el naranja y el cobrizo, y el suelo se cubre de hojas. Es uno de los espectáculos naturales más fotogénicos de España y un plan perfecto para caminar sin prisa entre troncos plateados."
+          - "El mejor momento suele ser entre mediados de octubre y mediados de noviembre, aunque el pico de color cambia cada año según el frío, la lluvia y el viento. Entre los hayedos más conocidos están la Selva de Irati (Navarra), el Hayedo de Montejo (Madrid), el Hayedo de la Tejera Negra (Guadalajara) y el de Otzarreta (Bizkaia), además de los de Cantabria, Asturias y el Pirineo."
+          - "Ojo con los cupos: algunos hayedos, como el de Montejo, limitan el número de visitantes o exigen reserva o permiso de acceso, sobre todo los fines de semana de máximo color. Consulta antes la web del espacio protegido, y si puedes, ve entre semana: habrá menos gente y más silencio."
+          - "Lleva calzado cómodo que agarre sobre hojas mojadas, una capa de abrigo y chubasquero, que en el hayedo la humedad es habitual, y no te salgas de los senderos señalizados. Las mañanas con algo de niebla y la luz baja del atardecer son las mejores para fotografiar."
+        faq:
+          - p: "¿Cuándo es el mejor momento para ver un hayedo en otoño?"
+            r: "Entre mediados de octubre y mediados de noviembre, con un pico de color que suele durar unas dos o tres semanas. Varía cada año con el frío y la lluvia, así que conviene mirar el parte del espacio protegido o las redes de los centros de visitantes."
+          - p: "¿Cuáles son los mejores hayedos de España?"
+            r: "La Selva de Irati (Navarra), el Hayedo de Montejo (Madrid), el Hayedo de la Tejera Negra (Guadalajara) y el de Otzarreta (Bizkaia) son los más conocidos. También destacan los de Cantabria, Asturias y el Pirineo."
+          - p: "¿Hace falta reservar o pedir permiso?"
+            r: "En algunos sí. El Hayedo de Montejo, por ejemplo, limita las visitas y exige autorización, y en otros espacios hay cupos o aparcamientos que se llenan los fines de semana de máximo color. Consulta la web del espacio protegido antes de ir."
+          - p: "¿Se puede ir con niños o con perro?"
+            r: "Los recorridos cortos y señalizados son aptos para niños. Con perro depende de cada espacio: en algunos están prohibidos o deben ir atados, así que conviene comprobarlo antes."
+          - p: "¿Qué ropa y calzado llevar?"
+            r: "Calzado cómodo que agarre sobre hojas mojadas, ropa de abrigo por capas y un chubasquero, porque la humedad y la temperatura bajan rápido en el bosque."
+          - p: "¿Cómo evitar las aglomeraciones?"
+            r: "Ve entre semana, a primera hora de la mañana o a última de la tarde, y evita los puentes y los fines de semana de máximo color. Una alternativa es elegir hayedos menos conocidos de la misma zona."
   - id: berrea
     meses: [9, 10]
     temas: [naturaleza]
