@@ -39,7 +39,7 @@ const baseJsonld = isPlace(p) ? (pl.scope !== 'local' ? null : {
 // Ficha ampliada (texto, imagen y preguntas frecuentes): por ahora solo existe en castellano.
 const extra = lang === 'es' && !tl ? p.content?.es : null;
 const faq = extra?.faq || [];
-const related = (p.related || []).map((slug) => plans.find((x) => x.slug === slug && x.kind === p.kind)).filter(Boolean);
+const related = (p.related || []).map((slug) => plans.find((x) => x.slug === slug)).filter(Boolean);
 const faqLd = faq.length ? {
   '@context': 'https://schema.org', '@type': 'FAQPage', inLanguage: 'es',
   mainEntity: faq.map((f) => ({ '@type': 'Question', name: f.p, acceptedAnswer: { '@type': 'Answer', text: f.r } })),

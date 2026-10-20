@@ -101,6 +101,9 @@ export function buildSeasonalPlans(today) {
       summary: { es: c.es.resumen, en: c.en.resumen },
       start, end, topics: c.temas,
       place: placeOf(c.lugar), source: { name: 'sinplanes', url: c.fuente || null },
+      ...(c.contenido ? { content: c.contenido } : {}),
+      ...(c.imagen ? { image: c.imagen, imageSize: c.imagen_tam || null } : {}),
+      ...(c.relacionados ? { related: c.relacionados } : {}),
     });
   }
 

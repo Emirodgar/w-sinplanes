@@ -606,6 +606,26 @@ citas:
     lugar: { provincia: "Cádiz", municipio: "Cádiz" }
     es: { titulo: "Carnaval de Cádiz", resumen: "Chirigotas, comparsas y coros por las calles de Cádiz." }
     en: { titulo: "Cádiz Carnival", resumen: "Satirical choirs and street groups fill the streets of Cádiz." }
+    relacionados: [semana-santa, feria-abril, fallas]
+    contenido:
+      es:
+        texto:
+          - "El Carnaval de Cádiz es uno de los más famosos y diferentes de España. Su alma es la sátira: chirigotas, comparsas, coros y cuartetos que cantan coplas con humor y crítica sobre la actualidad, y que llenan las calles y los teatros durante semanas."
+          - "El Concurso de Agrupaciones del Gran Teatro Falla, en febrero, es el gran escaparate de las coplas. En la calle, el ambiente de disfraces, música y copla se vive sobre todo el fin de semana de Carnaval, con pasacalles, cabalgata y agrupaciones callejeras que cantan en plazas y esquinas."
+          - "Las entradas del Teatro Falla se agotan muy rápido. Lo mejor del Carnaval de Cádiz está en la calle, sin necesidad de entrada: disfrázate, sigue a las agrupaciones y deja que las coplas te sorprendan. Reserva alojamiento con antelación y ve preparado para mucha gente."
+        faq:
+          - p: "¿Cuándo es el Carnaval de Cádiz?"
+            r: "Se celebra antes de Cuaresma, entre febrero y marzo, según el año. La fecha depende de la Pascua."
+          - p: "¿Qué son las chirigotas?"
+            r: "Son agrupaciones que cantan coplas satíricas y humorísticas sobre la actualidad, con disfraces colectivos. Es el género más popular del carnaval gaditano."
+          - p: "¿Hace falta entrada?"
+            r: "Para el Concurso del Gran Teatro Falla sí, y se agotan pronto. El Carnaval de calle es gratuito."
+          - p: "¿Dónde ver el ambiente de calle?"
+            r: "En el centro histórico de Cádiz: calles y plazas se llenan de agrupaciones y de gente disfrazada, sobre todo el fin de semana."
+          - p: "¿Hay que ir disfrazado?"
+            r: "No es obligatorio, pero muchísima gente lo hace y el ambiente es mejor si te sumas. Lo más típico son los disfraces con humor y crítica."
+          - p: "¿Es buen plan con niños?"
+            r: "Sí, hay actividades y cabalgata familiares. Las noches son más masificadas."
   - id: super-bowl
     regla: { tipo: enesimo, mes: 2, dia_semana: 0, n: 2 }
     aprox: true
@@ -631,11 +651,51 @@ citas:
     lugar: { provincia: "Valencia", municipio: "València" }
     es: { titulo: "Fallas de Valencia", resumen: "Mascletàs, monumentos falleros y la cremà de la noche del 19 de marzo." }
     en: { titulo: "Las Fallas in Valencia", resumen: "Firecracker displays, giant sculptures and the burning on the night of 19 March." }
+    relacionados: [san-fermin, tomatina, feria-abril]
+    contenido:
+      es:
+        texto:
+          - "Las Fallas son las fiestas de Valencia en honor a San José, del 15 al 19 de marzo. Declaradas Patrimonio Cultural Inmaterial de la Humanidad por la UNESCO, combinan monumentos de cartón y madera, pirotecnia, música, pólvora y mucha vida en la calle."
+          - "Las fallas son enormes monumentos satíricos que se plantan en las calles el día 15. Se pueden recorrer a pie, y las más importantes compiten por premios. Cada día a las 14:00, la mascletà, una sinfonía de pólvora en la plaza del Ayuntamiento, es una cita imprescindible. El 17 y el 18 se celebra la Ofrenda de Flores a la Virgen de los Desamparados."
+          - "El final llega la noche del 19 de marzo con la cremà: las fallas arden, empezando por las infantiles y terminando por la grande, a medianoche. Reserva alojamiento con meses de antelación, usa el transporte público y ve con tiempo para coger sitio en la mascletà. Ten cuidado con los petardos en la calle y con los niños pequeños."
+        faq:
+          - p: "¿Cuándo son las Fallas?"
+            r: "Del 15 al 19 de marzo todos los años. La plantà es el día 15 y la cremà, la noche del 19."
+          - p: "¿Qué es la mascletà?"
+            r: "Es un espectáculo de pólvora que se centra en el sonido y la potencia más que en los colores. Se dispara cada día a las 14:00 en la plaza del Ayuntamiento y se siente en el cuerpo."
+          - p: "¿Qué es la cremà?"
+            r: "Es la quema de las fallas la noche del 19 de marzo, con la quema final de la falla municipal a medianoche."
+          - p: "¿Cómo moverme por Valencia en Fallas?"
+            r: "A pie y en transporte público. Hay cortes de tráfico y el aparcamiento es casi imposible. El metro refuerza el servicio."
+          - p: "¿Qué se come?"
+            r: "Buñuelos de calabaza con chocolate, paella, y bocadillos de calle. Los buñuelos son el sabor típico de estas fiestas."
+          - p: "¿Es buen plan con niños?"
+            r: "Sí, hay fallas infantiles y actividades, pero el ruido de los petardos y las aglomeraciones pueden agobiar a los pequeños."
   - id: semana-santa
     regla: { tipo: pascua, desde: -7, hasta: 0 }
     temas: [fiestas, cultura]
     es: { titulo: "Procesiones de Semana Santa", resumen: "Sevilla, Málaga, Valladolid, Zamora o Cuenca tienen las más conocidas, cada una con un estilo muy distinto." }
     en: { titulo: "Holy Week processions", resumen: "Seville, Málaga, Valladolid, Zamora and Cuenca have the best known, each with a very different style." }
+    relacionados: [semana-santa-sevilla, semana-santa-malaga, semana-santa-valladolid, semana-santa-salamanca]
+    contenido:
+      es:
+        texto:
+          - "La Semana Santa es la semana previa al Domingo de Resurrección, del Domingo de Ramos al Domingo de Pascua, y es una de las celebraciones más profundas y visitadas de España. Cofradías y hermandades sacan a la calle sus pasos e imágenes en procesiones que mezclan fe, arte, música y tradición."
+          - "Cada ciudad tiene su propio estilo. En Sevilla y Málaga destacan los grandes tronos y palios, en Valladolid, Zamora o Salamanca las procesiones son más sobrias y de imaginería castellana, y en lugares como Cuenca o Murcia hay costumbres muy propias. Muchas son Fiestas de Interés Turístico Internacional."
+          - "Como las fechas dependen de la Pascua, cambian cada año, entre marzo y abril. Si piensas viajar, reserva alojamiento con mucha antelación y consulta los itinerarios y horarios oficiales de cada cofradía, que se publican semanas antes. Las procesiones son actos religiosos: respeta el silencio, no te cruces entre los cortejos y evita los flashes cuando pasan los pasos."
+        faq:
+          - p: "¿Cuándo es la Semana Santa?"
+            r: "Es la semana anterior al Domingo de Resurrección, que cae cada año en una fecha distinta entre finales de marzo y finales de abril. Va del Domingo de Ramos al Domingo de Pascua."
+          - p: "¿Dónde ver las mejores procesiones?"
+            r: "Sevilla, Málaga, Valladolid, Zamora, Salamanca, Cuenca, Murcia y Cartagena son de las más conocidas, cada una con un estilo muy distinto. Muchas son Fiestas de Interés Turístico Internacional."
+          - p: "¿Hay que pagar para ver las procesiones?"
+            r: "No. Se ven gratis desde la calle. En algunas ciudades hay sillas de pago en la carrera oficial o en tramos concretos."
+          - p: "¿Qué días hay más procesiones?"
+            r: "Jueves Santo y Viernes Santo suelen ser los días de mayor afluencia, y las noches de más ambiente, la madrugada entre ambos en ciudades como Sevilla. Domingo de Ramos y Sábado Santo también tienen procesiones."
+          - p: "¿Cómo me organizo para verlas?"
+            r: "Consulta el programa oficial de cada cofradía, con sus horarios e itinerarios, llega con tiempo a un buen sitio y ten paciencia: los cortejos avanzan despacio y las calles se cortan al tráfico."
+          - p: "¿Es buen plan con niños?"
+            r: "Sí, pero con cuidado: hay mucha gente y muchas horas de espera. Elige procesiones de tarde, busca un sitio con espacio y explícales que es un acto de respeto."
   - id: feria-abril
     fuente: "https://www.spain.info/es/agenda/feria-abril/"
     regla: { tipo: pascua, desde: 13, hasta: 20 }
@@ -644,6 +704,26 @@ citas:
     lugar: { provincia: "Sevilla", municipio: "Sevilla" }
     es: { titulo: "Feria de Abril de Sevilla", resumen: "Casetas, sevillanas y paseo de caballos en el Real de la Feria." }
     en: { titulo: "Seville April Fair", resumen: "Marquees, sevillanas dancing and horse parades at the fairground." }
+    relacionados: [semana-santa-sevilla, san-fermin, romeria-rocio]
+    contenido:
+      es:
+        texto:
+          - "La Feria de Abril de Sevilla es una semana de fiesta con casetas, sevillanas, caballos y coches de caballos, y trajes de flamenca. Se celebra en el Real de la Feria, en el barrio de Los Remedios, unas dos semanas después de la Semana Santa."
+          - "La feria arranca con el Alumbrado, la noche del lunes, cuando se encienden las miles de bombillas de la portada. Durante la semana, desde el mediodía, hay un paseo de caballos y carruajes; a partir de entonces, las casetas se llenan de música, baile y comida y bebida: rebujito, fino, jamón y pescaíto frito. El domingo se cierra con un castillo de fuegos artificiales."
+          - "Una cosa que conviene saber: la mayoría de las casetas son privadas y solo entra quien tiene invitación o es socio. Hay también casetas públicas y algunas del ayuntamiento, abiertas a todos, y la calle y el Real se pueden recorrer libremente. Se suele ir bien vestido: traje de flamenca para ellas y traje corto o traje de chaqueta para ellos."
+        faq:
+          - p: "¿Cuándo es la Feria de Abril?"
+            r: "Normalmente comienza dos semanas después del Domingo de Resurrección, entre abril y mayo. Dura una semana, con el Alumbrado la noche del lunes."
+          - p: "¿Puedo entrar en cualquier caseta?"
+            r: "No. La mayoría son privadas y solo se entra con invitación o siendo socio. Hay casetas públicas y del ayuntamiento abiertas a todo el mundo."
+          - p: "¿Cuánto cuesta entrar a la feria?"
+            r: "La entrada al recinto es gratuita. Pagas lo que consumas, y las atracciones de la calle del Infierno son de pago."
+          - p: "¿Qué hay que ponerse?"
+            r: "Muchos visitantes visten traje de flamenca o traje corto, pero no es obligatorio. Lo más importante es el calzado cómodo, porque se camina mucho."
+          - p: "¿Cómo llegar?"
+            r: "En metro, tranvía o autobús. Evita llevar coche: el aparcamiento es casi imposible y el entorno se corta al tráfico."
+          - p: "¿Es buen plan con niños?"
+            r: "Por el día sí, con paseo de caballos y casetas familiares. La calle del Infierno tiene atracciones. Por la noche hay más gente y más ruido."
   - id: sant-jordi
     regla: { tipo: fija, inicio: "04-23" }
     temas: [libros, fiestas]
@@ -679,6 +759,26 @@ citas:
     temas: [fiestas, agua]
     es: { titulo: "Noche de San Juan", resumen: "Hogueras en las playas de A Coruña, Alicante o Barcelona y fiestas del fuego en el Pirineo." }
     en: { titulo: "Saint John's Eve", resumen: "Beach bonfires in A Coruña, Alicante and Barcelona and fire festivals in the Pyrenees." }
+    relacionados: [fallas, romeria-rocio, san-fermin]
+    contenido:
+      es:
+        texto:
+          - "La Noche de San Juan, la víspera del 24 de junio, es una de las celebraciones más antiguas ligadas al solsticio de verano. En toda España se encienden hogueras, se hacen rituales para pedir deseos y se celebran fiestas en playas, plazas y montañas."
+          - "Algunas de las más conocidas son las de A Coruña, con hogueras en las playas de Riazor y el Orzán, las Hogueras de Alicante, Fiesta de Interés Turístico Internacional, la Revetlla de Sant Joan en Cataluña con petardos y coca de Sant Joan, y las fiestas del fuego del solsticio en el Pirineo, reconocidas por la UNESCO."
+          - "Es costumbre saltar la hoguera, bañarse a medianoche o escribir un deseo en un papel y quemarlo. Hazlo con seguridad: usa solo las hogueras autorizadas, no enciendas fuego por tu cuenta en zonas de riesgo, vigila a los niños con los petardos y ten mucho cuidado con el baño nocturno. Y no dejes basura en la playa."
+        faq:
+          - p: "¿Cuándo es la noche de San Juan?"
+            r: "La noche del 23 al 24 de junio, con el día 24 como festivo en algunas comunidades."
+          - p: "¿Dónde ver las hogueras?"
+            r: "A Coruña, Alicante, Barcelona, Cádiz y muchas playas de la costa tienen celebraciones muy populares. Mira el programa de cada ayuntamiento."
+          - p: "¿Se pueden encender hogueras?"
+            r: "Solo donde esté autorizado. En muchos arenales y zonas forestales está prohibido encender fuego por cuenta propia, y hay riesgo de multa y de incendio."
+          - p: "¿Qué rituales se hacen?"
+            r: "Saltar la hoguera, pedir deseos, escribir y quemar un papel con lo que quieres dejar atrás, y bañarse a medianoche. Cada zona tiene sus costumbres."
+          - p: "¿Es seguro bañarse de noche?"
+            r: "Hay riesgo, sobre todo con alcohol y poca visibilidad. Báñate solo en playas con vigilancia, acompañado y sin alejarte de la orilla."
+          - p: "¿Es buen plan con niños?"
+            r: "Sí, hay muchas actividades familiares, pero conviene vigilar el fuego y los petardos, y evitar las horas de más aglomeración."
   - id: batalla-vino
     regla: { tipo: fija, inicio: "06-29" }
     temas: [fiestas, gastronomia]
@@ -691,6 +791,26 @@ citas:
     lugar: { provincia: "Navarra", municipio: "Pamplona" }
     es: { titulo: "Sanfermines", resumen: "Del chupinazo del 6 de julio al Pobre de mí del 14, con encierros cada mañana." }
     en: { titulo: "San Fermín", resumen: "From the opening rocket on 6 July to the closing song on the 14th, with bull runs every morning." }
+    relacionados: [feria-abril, tomatina, fallas]
+    contenido:
+      es:
+        texto:
+          - "Los Sanfermines son las fiestas de Pamplona, del 6 al 14 de julio, y una de las celebraciones más conocidas del mundo. Comienzan con el chupinazo en la plaza del Ayuntamiento, a mediodía del 6 de julio, y terminan a medianoche del 14 con el Pobre de mí."
+          - "El gran símbolo son los encierros: cada mañana, a las ocho, los toros corren por un recorrido de unos 850 metros desde el corral de Santo Domingo hasta la plaza de toros. Pero los Sanfermines son mucho más: procesión de San Fermín el 7 de julio, gigantes y cabezudos, conciertos, fuegos artificiales, vestimenta blanca con pañuelo rojo y un ambiente de calle de día y de noche."
+          - "Correr el encierro es peligroso y tiene normas: hay que ser mayor de edad, no haber bebido alcohol y respetar las indicaciones de la organización. Si prefieres verlo, puedes hacerlo por televisión o desde algún punto habilitado, que se ocupa muy temprano. Reserva alojamiento con meses de antelación, porque los precios suben y la ciudad se llena."
+        faq:
+          - p: "¿Cuándo son los Sanfermines?"
+            r: "Del 6 al 14 de julio todos los años. Empiezan con el chupinazo el día 6 al mediodía y terminan con el Pobre de mí a medianoche del 14."
+          - p: "¿A qué hora son los encierros?"
+            r: "Cada mañana a las 8:00 desde el 7 hasta el 14 de julio. Dura apenas unos minutos."
+          - p: "¿Cómo ver un encierro?"
+            r: "Por televisión, o en directo desde zonas habilitadas, que se ocupan muy temprano. En algunos balcones hay plazas de pago. Los puntos con vista del recorrido se llenan desde antes del amanecer."
+          - p: "¿Puede correr cualquiera?"
+            r: "No. Hay que ser mayor de edad y no estar bajo los efectos del alcohol u otras sustancias, y obedecer las normas de la organización. Es una actividad peligrosa y se producen heridos cada año."
+          - p: "¿Qué ropa llevar?"
+            r: "Tradicionalmente, ropa blanca con pañuelo rojo al cuello y faja roja. Calzado cómodo y cerrado, y un cambio de ropa, porque se mancha casi seguro."
+          - p: "¿Es buen plan con niños?"
+            r: "El ambiente diurno es familiar, con gigantes, cabezudos y actividades para niños. Por la noche es más multitudinario. Conviene evitar los encierros y las zonas más masificadas."
   - id: tomatina
     fuente: "https://www.spain.info/es/agenda/la-tomatina/"
     regla: { tipo: enesimo, mes: 8, dia_semana: 3, n: -1 }
@@ -698,6 +818,26 @@ citas:
     lugar: { provincia: "Valencia", municipio: "Buñol" }
     es: { titulo: "La Tomatina de Buñol", resumen: "Una hora de batalla de tomates el último miércoles de agosto. Requiere entrada." }
     en: { titulo: "La Tomatina in Buñol", resumen: "An hour-long tomato fight on the last Wednesday of August. Tickets required." }
+    relacionados: [san-fermin, feria-abril, fallas]
+    contenido:
+      es:
+        texto:
+          - "La Tomatina es la mayor batalla de tomates del mundo. Se celebra en Buñol, un pueblo de la provincia de Valencia, el último miércoles de agosto, y durante aproximadamente una hora miles de personas se lanzan tomates maduros hasta que las calles quedan teñidas de rojo."
+          - "Para participar necesitas entrada. El ayuntamiento limita el aforo y vende los tickets de forma anticipada, por lo que conviene comprarlos con tiempo en los canales oficiales y desconfiar de reventas. La fiesta empieza con el palo jabón, un palo engrasado con un jamón en lo alto, y la batalla comienza cuando se dispara un cohete hacia las 11 de la mañana."
+          - "Lleva ropa vieja y calzado que no te importe perder, gafas de natación para proteger los ojos y guantes. Aplasta el tomate antes de lanzarlo para no hacer daño, y no tires nada más que tomates. No lleves objetos de valor ni cámaras, y llega con tiempo desde Valencia, por ejemplo en tren o en los autobuses que se organizan para ese día."
+        faq:
+          - p: "¿Cuándo es la Tomatina?"
+            r: "El último miércoles de agosto, en Buñol (Valencia). La batalla dura aproximadamente una hora, a partir de las 11 de la mañana."
+          - p: "¿Hace falta entrada?"
+            r: "Sí. El aforo está limitado y las entradas se compran con antelación a través de los canales oficiales. Evita comprar a revendedores."
+          - p: "¿Cómo llegar a Buñol?"
+            r: "Desde Valencia, en tren de Cercanías o autobús. Conviene llegar con tiempo, porque el día de la fiesta hay muchísima gente."
+          - p: "¿Qué ropa llevar?"
+            r: "Ropa vieja y calzado que no te importe perder. Muchos participantes usan gafas de natación para protegerse los ojos y guantes."
+          - p: "¿Qué normas hay?"
+            r: "Aplasta el tomate antes de lanzarlo, no lances nada más que tomates, no lleves objetos de cristal ni de valor y obedece las indicaciones de la organización."
+          - p: "¿Es buen plan con niños?"
+            r: "Hay edad mínima para participar y la fiesta es multitudinaria. Consulta las condiciones oficiales antes de comprar entradas."
   - id: festival-san-sebastian
     fuente: "https://www.spain.info/es/agenda/festival-internacional-cine-san-sebastian/"
     regla: { tipo: enesimo, mes: 9, dia_semana: 5, n: 3, dura: 9 }
@@ -713,6 +853,26 @@ citas:
     lugar: { provincia: "Zaragoza", municipio: "Zaragoza" }
     es: { titulo: "Fiestas del Pilar", resumen: "La Ofrenda de Flores del 12 de octubre es el momento central de una semana de fiestas en Zaragoza." }
     en: { titulo: "Fiestas del Pilar", resumen: "The 12 October Flower Offering is the highlight of a week of festivities in Zaragoza." }
+    relacionados: [san-fermin, fallas, feria-abril]
+    contenido:
+      es:
+        texto:
+          - "Las Fiestas del Pilar son las fiestas mayores de Zaragoza, en honor a la Virgen del Pilar, y se celebran en torno al 12 de octubre, que además es fiesta nacional. Durante una semana, la ciudad se llena de conciertos, desfiles, actos populares y mucho ambiente en la calle."
+          - "El momento central es la Ofrenda de Flores, el 12 de octubre, cuando miles de personas, muchas con trajes regionales aragoneses, desfilan por el centro hasta la plaza del Pilar para depositar sus flores ante la Virgen y formar un gran manto floral. Al día siguiente, el 13 de octubre, se celebra la Ofrenda de Frutos."
+          - "Además de la ofrenda, hay gigantes y cabezudos, conciertos en distintos escenarios, espectáculos de pirotecnia y actos culturales y deportivos. Consulta el programa oficial del Ayuntamiento de Zaragoza. Reserva alojamiento con antelación, porque es una fiesta muy popular y el centro se llena. Y para la ofrenda, llega pronto si quieres ver el desfile."
+        faq:
+          - p: "¿Cuándo son las Fiestas del Pilar?"
+            r: "En torno al 12 de octubre. Duran aproximadamente una semana, con el día 12 como jornada principal."
+          - p: "¿Qué es la Ofrenda de Flores?"
+            r: "Es el desfile en el que miles de personas, muchas con trajes regionales, llevan flores a la Virgen del Pilar para formar un gran manto floral. Se celebra el 12 de octubre."
+          - p: "¿Hay que reservar?"
+            r: "Para ver la ofrenda no. Sí el alojamiento, porque Zaragoza se llena durante las fiestas."
+          - p: "¿Qué más se puede hacer?"
+            r: "Conciertos, gigantes y cabezudos, espectáculos de fuegos artificiales, ferias gastronómicas y actividades infantiles. El programa oficial lo publica el ayuntamiento."
+          - p: "¿Es gratis?"
+            r: "La mayoría de los actos son gratuitos, pero algunos conciertos y espectáculos tienen entrada."
+          - p: "¿Es buen plan con niños?"
+            r: "Sí, hay muchas actividades infantiles y el desfile de gigantes y cabezudos suele encantarles. Cuidado con las aglomeraciones en el día 12."
   - id: premio-planeta
     regla: { tipo: fija, inicio: "10-15" }
     temas: [pantalla, libros]
@@ -756,6 +916,26 @@ citas:
     fuente: "https://www.spain.info/es/agenda/semana-santa-sevilla/"
     es: { titulo: "Semana Santa de Sevilla", resumen: "Decenas de hermandades recorren la ciudad cada día con sus pasos y sus nazarenos. La Madrugá del Viernes Santo es la noche más multitudinaria." }
     en: { titulo: "Holy Week in Seville", resumen: "Dozens of brotherhoods cross the city each day with their floats and hooded penitents. Good Friday’s Madrugá is the busiest night." }
+    relacionados: [semana-santa, feria-abril, semana-santa-malaga]
+    contenido:
+      es:
+        texto:
+          - "La Semana Santa de Sevilla es probablemente la más famosa de España. Durante ocho días, unas sesenta hermandades recorren la ciudad con sus pasos de Cristo y de la Virgen, acompañadas de nazarenos, bandas de música y miles de personas en las calles."
+          - "Todas las hermandades pasan por la Carrera Oficial, que va de la Campana a la Catedral. La noche entre el Jueves y el Viernes Santo es la Madrugá, la de mayor emoción y afluencia, con hermandades como el Silencio, el Gran Poder, la Macarena, los Gitanos y la Esperanza de Triana."
+          - "Es una fiesta multitudinaria: las calles del centro se llenan y los cortejos tardan horas en pasar. Descarga el programa oficial, elige las hermandades que quieres ver y llega con tiempo. Reserva alojamiento con meses de antelación, usa el transporte público y sé paciente con los cortes de calles. Y recuerda: es un acto religioso, así que respeta el silencio y a los nazarenos."
+        faq:
+          - p: "¿Cuándo es la Semana Santa de Sevilla?"
+            r: "Del Domingo de Ramos al Domingo de Resurrección, que cambia cada año entre marzo y abril. Consulta el calendario oficial para las fechas exactas."
+          - p: "¿Qué es la Madrugá?"
+            r: "Es la noche entre el Jueves Santo y el Viernes Santo. Varias de las hermandades más emblemáticas salen en esas horas y es el momento de mayor afluencia y emoción."
+          - p: "¿Dónde ver las procesiones?"
+            r: "En la Carrera Oficial (de la Campana a la Catedral) hay mucho ambiente pero también mucha gente. Otras zonas del centro o los barrios, como Triana, permiten verlas con más tranquilidad."
+          - p: "¿Hay que reservar?"
+            r: "No para ver las procesiones desde la calle, pero sí el alojamiento y los restaurantes, que se agotan con meses de antelación."
+          - p: "¿Cómo consulto los horarios?"
+            r: "El Consejo de Hermandades y Cofradías publica el programa oficial con los itinerarios y los horarios de cada hermandad. También hay aplicaciones y webs con seguimiento en tiempo real."
+          - p: "¿Qué hay que llevar o tener en cuenta?"
+            r: "Calzado cómodo, ropa por capas y paciencia. Respeta el silencio, no cruces entre los cortejos y evita el flash cerca de los pasos."
   - id: semana-santa-malaga
     regla: { tipo: pascua, desde: -7, hasta: 0 }
     temas: [fiestas, cultura]
@@ -799,6 +979,26 @@ citas:
     fuente: "https://www.spain.info/es/agenda/romeria-rocio/"
     es: { titulo: "Romería del Rocío", resumen: "Cientos de miles de peregrinos llegan a la aldea de El Rocío en carretas, a caballo y a pie por Pentecostés. Termina con la procesión de la Virgen." }
     en: { titulo: "El Rocío pilgrimage", resumen: "Hundreds of thousands of pilgrims reach the village of El Rocío by cart, horse and on foot at Pentecost, ending with the Virgin’s procession." }
+    relacionados: [feria-abril, semana-santa-sevilla, san-juan]
+    contenido:
+      es:
+        texto:
+          - "La Romería del Rocío es una de las peregrinaciones más multitudinarias de España. Cientos de miles de personas viajan a pie, a caballo y en carretas, desde distintos puntos de Andalucía, hasta la aldea de El Rocío, en Almonte (Huelva), por Pentecostés."
+          - "Los romeros organizados en hermandades recorren los caminos de Doñana durante días, entre cantes, oraciones, bailes y convivencia. El punto culminante llega la madrugada del lunes de Pentecostés, cuando los almonteños saltan la reja y sacan en procesión a la Virgen del Rocío."
+          - "Si quieres vivirlo sin ser peregrino, puedes visitar la aldea y ver el paso de las hermandades y las carretas. Las calles son de arena y hay mucha gente, el calor es fuerte y los alojamientos y aparcamientos se agotan. Lleva agua, calzado cómodo y mucha paciencia, y respeta el carácter religioso de la romería y el entorno natural de Doñana."
+        faq:
+          - p: "¿Cuándo es la Romería del Rocío?"
+            r: "Por Pentecostés, 50 días después del Domingo de Resurrección, normalmente entre mayo y junio. El día principal es el lunes."
+          - p: "¿Dónde se celebra?"
+            r: "En la aldea de El Rocío, en Almonte (Huelva), junto al Parque Nacional de Doñana."
+          - p: "¿Qué es el salto de la reja?"
+            r: "Es el momento en el que los almonteños saltan la reja que protege a la Virgen para sacarla en procesión, en la madrugada del lunes de Pentecostés."
+          - p: "¿Se puede ir sin ser romero?"
+            r: "Sí, pero el acceso es complicado: hay mucha gente, poco aparcamiento y calles de arena. Consulta con antelación cómo llegar y si hay restricciones de tráfico."
+          - p: "¿Qué hay que llevar?"
+            r: "Agua, sombrero, protección solar, calzado cómodo y ropa para el calor del día y el fresco de la noche. Respeta el entorno natural y no dejes basura."
+          - p: "¿Es buen plan con niños?"
+            r: "Con cuidado: hay mucho calor, mucha gente y trayectos largos. Mejor visitar la aldea en las horas de menos afluencia."
   - id: feria-malaga
     regla: { tipo: fija, inicio: "08-15", fin: "08-22" }
     aprox: true
