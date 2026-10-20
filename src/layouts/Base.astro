@@ -45,7 +45,7 @@ const switcher = LANGS.map((l) => ({ l, href: route && avail.includes(l) ? route
   <a class="skip" href="#main">{L.skip}</a>
   <header class="site-head">
     <div class="wrap">
-      <a class="brand" href={url.home(lang)}>sinplanes</a>
+      <a class="brand" href={url.home(lang)}>sinplanes<span class="dot" aria-hidden="true"></span></a>
       <nav class="site-nav" aria-label={L.navLabel}>
         <a href={url.topics(lang)}>{L.nav.topics}</a>
         <a href={url.museums(lang)}>{L.nav.museums}</a>
@@ -67,6 +67,7 @@ const switcher = LANGS.map((l) => ({ l, href: route && avail.includes(l) ? route
   </main>
   <footer class="site-foot">
     <div class="wrap">
+      <a class="brand brand-foot" href={url.home(lang)}>sinplanes<span class="dot" aria-hidden="true"></span></a>
       <p>{L.updated(fmtDay(lang, meta.today, { day: 'numeric', month: 'long', year: 'numeric' }))}</p>
     </div>
   </footer>

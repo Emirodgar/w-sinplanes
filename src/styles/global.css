@@ -189,6 +189,8 @@ p { margin: 0 0 1em; max-width: var(--measure); }
 /* Pie */
 .site-foot { border-top: 1px solid var(--line); padding-block: 2rem 3.5rem; font-size: var(--s-1); color: var(--ink-soft); }
 .site-foot p { margin-bottom: 0.4rem; }
+.brand .dot { display: inline-block; width: 0.26em; height: 0.26em; margin-left: 0.06em; border-radius: 50%; background: var(--accent); }
+.brand-foot { display: inline-block; margin-bottom: 0.6rem; }
 
 @media (prefers-reduced-motion: reduce) { * { scroll-behavior: auto !important; transition: none !important; animation: none !important; } .months a:hover, .button:hover { transform: none; } }
 
