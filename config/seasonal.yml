@@ -594,6 +594,26 @@ citas:
     temas: [fiestas, ninos, navidad]
     es: { titulo: "Cabalgata de Reyes", resumen: "Desfiles de los Reyes Magos en toda España la tarde del 5 de enero." }
     en: { titulo: "Three Kings Parade", resumen: "Parades of the Three Wise Men across Spain on the evening of 5 January." }
+    relacionados: [loteria-navidad, campanadas, mercadillos-navidad, belenes]
+    contenido:
+      es:
+        texto:
+          - "La Cabalgata de Reyes es uno de los grandes planes familiares de la Navidad: la tarde del 5 de enero, los Reyes Magos recorren las calles de casi todas las ciudades y pueblos de España con carrozas, música y lluvia de caramelos, antes de la noche en que dejan los regalos."
+          - "Las más conocidas son las de Madrid, Barcelona, donde los Reyes llegan por el puerto, Sevilla, con una de las más antiguas de España, o Valencia, pero cada localidad organiza la suya. Las carrozas suelen salir al atardecer, y el recorrido y la hora se publican en la web o las redes del ayuntamiento unos días antes."
+          - "Llega con tiempo y elige un buen sitio: las aceras se llenan una o dos horas antes. Lleva una bolsa grande para los caramelos, ropa de abrigo y paciencia, y vigila a los niños mientras caen los caramelos. Si hay lluvia, consulta si se mantiene o se suspende."
+        faq:
+          - p: "¿Cuándo es la Cabalgata de Reyes?"
+            r: "El 5 de enero por la tarde, aunque la hora y el recorrido cambian en cada localidad."
+          - p: "¿Dónde ver la cabalgata?"
+            r: "En casi todas las ciudades y pueblos. Las de Madrid, Barcelona, Sevilla y Valencia son de las más grandes, pero cada ayuntamiento publica el recorrido."
+          - p: "¿Es gratis?"
+            r: "Sí, ver la cabalgata desde la calle es gratuito."
+          - p: "¿Cuándo llegar para coger sitio?"
+            r: "Una o dos horas antes en las ciudades grandes, y algo menos en pueblos pequeños."
+          - p: "¿Qué hay que llevar?"
+            r: "Ropa de abrigo, una bolsa para los caramelos y paciencia. En las zonas con mucha gente, un punto de encuentro por si os separáis."
+          - p: "¿Qué pasa si llueve?"
+            r: "Depende de la ciudad. Algunas se mantienen y otras se aplazan o se reducen. Consulta la web o las redes del ayuntamiento."
   - id: premio-nadal
     regla: { tipo: fija, inicio: "01-06" }
     temas: [pantalla, libros]
@@ -729,6 +749,26 @@ citas:
     temas: [libros, fiestas]
     es: { titulo: "Día del Libro y Sant Jordi", resumen: "Paradas de libros y rosas en las calles, sobre todo en Barcelona, y firmas de autores en toda España." }
     en: { titulo: "World Book Day and Sant Jordi", resumen: "Book and rose stalls on the streets, especially in Barcelona, and author signings across Spain." }
+    relacionados: [premio-cervantes, cabalgata-reyes, campanadas]
+    contenido:
+      es:
+        texto:
+          - "El 23 de abril se celebran el Día del Libro y Sant Jordi, y las calles se llenan de paradas de libros y de rosas. En Cataluña, la tradición es regalar una rosa y un libro, y es una de las fiestas más queridas de Barcelona, con mucha gente en la calle."
+          - "En Barcelona, los puestos de libros y rosas ocupan Las Ramblas, el Paseo de Gracia y casi todos los barrios, y muchos escritores firman ejemplares. También se celebra en toda España el Día Internacional del Libro, con firmas, lecturas y descuentos en librerías, y en Aragón es el Día de Aragón."
+          - "Si quieres firmar un libro, llega pronto: las colas son largas. Ve por la mañana o al atardecer, cuando hay menos agobio, y consulta la lista de autores y los horarios en las librerías y editoriales. Y recuerda: no hace falta ser de Cataluña para regalar una rosa o un libro."
+        faq:
+          - p: "¿Cuándo es Sant Jordi?"
+            r: "Cada 23 de abril. Coincide con el Día del Libro."
+          - p: "¿Qué se regala?"
+            r: "Tradicionalmente, el hombre regala una rosa y la mujer un libro. Hoy se regalan ambos entre todo tipo de personas."
+          - p: "¿Dónde ir en Barcelona?"
+            r: "Las Ramblas, el Paseo de Gracia y las calles del centro se llenan de puestos. Hay paradas en casi todos los barrios."
+          - p: "¿Hay firmas de autores?"
+            r: "Sí, muchos autores firman libros en puestos, librerías y ferias. Llega pronto para evitar colas."
+          - p: "¿Se celebra fuera de Cataluña?"
+            r: "Sí, el Día del Libro se celebra en toda España y en el mundo, con actividades en librerías y bibliotecas."
+          - p: "¿Es buen plan con niños?"
+            r: "Sí, hay cuentacuentos y actividades infantiles. Cuidado con las aglomeraciones del centro de Barcelona."
   - id: premio-cervantes
     regla: { tipo: fija, inicio: "04-23" }
     temas: [libros]
@@ -785,6 +825,26 @@ citas:
     lugar: { provincia: "La Rioja", municipio: "Haro" }
     es: { titulo: "Batalla del Vino de Haro", resumen: "Miles de personas se empapan de vino tinto en los Riscos de Bilibio. Ve de blanco." }
     en: { titulo: "Haro Wine Battle", resumen: "Thousands drench each other in red wine at the Riscos de Bilibio. Wear white." }
+    relacionados: [san-fermin, tomatina, vendimia]
+    contenido:
+      es:
+        texto:
+          - "La Batalla del Vino de Haro es una fiesta única: cada 29 de junio, miles de personas se lanzan vino tinto en los Riscos de Bilibio, a pocos kilómetros de Haro, en La Rioja. Es una celebración de San Pedro que combina tradición religiosa, vino y mucho humor."
+          - "La jornada empieza con una procesión desde el pueblo hasta los Riscos de Bilibio y una misa en la ermita de San Felices. Después comienza la batalla, con cubos, pistolas, botas de vino y regaderas, y se vacían miles de litros de vino. Casi todo el mundo viste de blanco y lleva pañuelo morado."
+          - "Lleva ropa blanca que no te importe estropear, calzado cómodo que se pueda mojar y gafas para proteger los ojos. No lleves objetos de valor ni cámaras que puedan mancharse, y ten en cuenta que la fiesta es muy multitudinaria. Reserva alojamiento y transporte con antelación y bebe con cabeza."
+        faq:
+          - p: "¿Cuándo es la Batalla del Vino?"
+            r: "Cada 29 de junio, día de San Pedro, en los Riscos de Bilibio, cerca de Haro (La Rioja)."
+          - p: "¿Qué ropa llevar?"
+            r: "Ropa blanca que no te importe estropear y calzado cómodo. Muchos participantes usan gafas de natación y pañuelo morado."
+          - p: "¿Cómo llegar?"
+            r: "Desde Haro, la mayoría de la gente va a pie en procesión o en transporte organizado. Evita llevar coche, porque el aparcamiento es complicado."
+          - p: "¿Hace falta entrada?"
+            r: "En general es una fiesta popular de acceso libre, pero conviene consultar las condiciones y el programa del Ayuntamiento de Haro."
+          - p: "¿Es seguro?"
+            r: "Es una fiesta multitudinaria y con vino, así que hay que ir con cuidado, proteger los ojos y no ir solo."
+          - p: "¿Es buen plan con niños?"
+            r: "Es muy multitudinaria y mojada, así que no suele recomendarse para niños pequeños."
   - id: san-fermin
     regla: { tipo: fija, inicio: "07-06", fin: "07-14" }
     temas: [fiestas]
@@ -891,6 +951,26 @@ citas:
     temas: [fiestas, ninos]
     es: { titulo: "Halloween y Todos los Santos", resumen: "Pasajes del terror y fiestas infantiles el 31, y tradición de buñuelos y huesos de santo el 1 de noviembre." }
     en: { titulo: "Halloween and All Saints' Day", resumen: "Haunted houses and kids' parties on the 31st, then traditional pastries on 1 November." }
+    relacionados: [cabalgata-reyes, castanas-otono, magostos]
+    contenido:
+      es:
+        texto:
+          - "El 31 de octubre y el 1 de noviembre conviven en España dos tradiciones muy distintas: Halloween, con disfraces, pasajes del terror y fiestas infantiles, y Todos los Santos, un día de recuerdo a los difuntos, con visitas al cementerio y dulces propios."
+          - "Halloween tiene cada vez más presencia, sobre todo entre los jóvenes y los niños, con fiestas temáticas, casas del terror y parques de atracciones decorados. El 1 de noviembre, en cambio, es festivo y tradicional: se visitan los cementerios con flores, se comen huesos de santo y buñuelos de viento y, en Cataluña, panellets y castañas en la castañada."
+          - "En muchos teatros se representa estos días Don Juan Tenorio, de Zorrilla, una tradición del 1 y el 2 de noviembre. Consulta la cartelera y los programas del ayuntamiento, y si vas con niños, elige fiestas adaptadas y celebra la parte tradicional también."
+        faq:
+          - p: "¿Qué se celebra el 1 de noviembre?"
+            r: "El Día de Todos los Santos, festivo en toda España, en el que se recuerda a los difuntos y se visitan los cementerios con flores."
+          - p: "¿Qué dulces se comen?"
+            r: "Huesos de santo, buñuelos de viento y, en Cataluña, panellets y castañas en la castañada."
+          - p: "¿Qué es la castañada?"
+            r: "Una fiesta tradicional catalana de Todos los Santos en la que se comen castañas, panellets y boniatos."
+          - p: "¿Qué hacer en Halloween?"
+            r: "Fiestas con disfraces, pasajes del terror, casas encantadas y rutas de misterio. Muchos parques de atracciones y ayuntamientos organizan actividades."
+          - p: "¿Qué es Don Juan Tenorio?"
+            r: "Una obra de teatro de José Zorrilla que se representa tradicionalmente en estas fechas en muchos teatros."
+          - p: "¿Es buen plan con niños?"
+            r: "Sí, hay muchas actividades infantiles para Halloween. Si vas a un cementerio, conviene explicarles el sentido tranquilo de la visita."
   - id: encendido-luces
     regla: { tipo: enesimo, mes: 11, dia_semana: 6, n: 3 }
     aprox: true
@@ -902,11 +982,51 @@ citas:
     temas: [pantalla, navidad]
     es: { titulo: "Sorteo de la Lotería de Navidad", resumen: "Los niños de San Ildefonso cantan los premios desde primera hora. Una tradición que se sigue en directo." }
     en: { titulo: "Christmas Lottery draw", resumen: "Schoolchildren sing out the winning numbers from early morning. A tradition watched live." }
+    relacionados: [cabalgata-reyes, campanadas, luces-navidad]
+    contenido:
+      es:
+        texto:
+          - "El Sorteo de la Lotería de Navidad, cada 22 de diciembre, es uno de los ritos más seguidos de la Navidad en España. Los niños y niñas de San Ildefonso cantan los números y los premios con su melodía inconfundible, que se escucha en radios y televisiones de todo el país."
+          - "El sorteo se celebra desde hace años en el Teatro Real de Madrid y dura varias horas desde primera hora de la mañana. El premio más famoso es El Gordo, pero hay muchos premios, y se juega en familia, entre amigos o en el trabajo, a menudo con un número compartido."
+          - "Puedes seguirlo por televisión o por radio, o consultar los resultados en la web oficial de Loterías. El acceso al Teatro Real es limitado, así que lo habitual es verlo desde casa. Si has jugado, guarda bien el décimo y revisa los plazos para cobrar los premios."
+        faq:
+          - p: "¿Cuándo es el sorteo de Navidad?"
+            r: "El 22 de diciembre, desde primera hora de la mañana. Dura varias horas."
+          - p: "¿Dónde se celebra?"
+            r: "En el Teatro Real de Madrid. El acceso del público es limitado."
+          - p: "¿Quiénes cantan los números?"
+            r: "Los niños y niñas del Colegio de San Ildefonso, que los cantan junto con los premios."
+          - p: "¿Cómo seguirlo?"
+            r: "Por televisión, radio o internet. También puedes comprobar los resultados en la web oficial de Loterías."
+          - p: "¿Cuándo hay que cobrar el premio?"
+            r: "Los premios tienen un plazo para cobrarse. Consulta las condiciones y los plazos en la web oficial de Loterías."
+          - p: "¿Es buen plan con niños?"
+            r: "Sí, a muchos les encanta oír cantar los números y el ambiente de la mañana."
   - id: campanadas
     regla: { tipo: fija, inicio: "12-31" }
     temas: [pantalla, navidad, fiestas]
     es: { titulo: "Campanadas de Nochevieja", resumen: "Las doce uvas con las campanadas de la Puerta del Sol, en directo o por televisión." }
     en: { titulo: "New Year's Eve chimes", resumen: "Twelve grapes with the twelve chimes from Puerta del Sol, live or on TV." }
+    relacionados: [loteria-navidad, cabalgata-reyes, luces-navidad]
+    contenido:
+      es:
+        texto:
+          - "Las Campanadas de Nochevieja marcan el cambio de año en España con una tradición única: tomar doce uvas, una con cada campanada, para recibir el nuevo año con suerte. Se retransmiten en directo desde el reloj de la Puerta del Sol de Madrid y se siguen en casi todos los hogares."
+          - "Mucha gente las ve por televisión, en casa o con amigos y familia, y otros prefieren ir a una plaza. En la Puerta del Sol, el acceso suele tener un aforo limitado y controles de seguridad, así que consulta las condiciones y llega con tiempo. Otras ciudades montan sus propios actos en las plazas principales."
+          - "Para las uvas, algunos consejos prácticos: pela y quita las pepitas, prepara las doce uvas con antelación y empieza con las primeras campanadas, no con los cuartos. Después, brindis, cotillón y fiesta hasta la madrugada, o a descansar, según el plan."
+        faq:
+          - p: "¿Cuándo son las Campanadas?"
+            r: "La noche del 31 de diciembre, a las 00:00. Las doce campanadas del reloj marcan el cambio de año."
+          - p: "¿Por qué se toman doce uvas?"
+            r: "Es una tradición que consiste en tomar una uva con cada campanada para recibir el año con suerte. Se hace en toda España."
+          - p: "¿Puedo ir a la Puerta del Sol?"
+            r: "Sí, pero el acceso suele tener aforo limitado y controles de seguridad. Consulta las condiciones del Ayuntamiento de Madrid y llega con tiempo."
+          - p: "¿Qué canales las retransmiten?"
+            r: "Varios canales de televisión emiten las campanadas en directo desde la Puerta del Sol. Consulta la programación."
+          - p: "¿Cómo prepararse las uvas?"
+            r: "Pela las uvas y quita las pepitas, ten doce preparadas y empieza con las campanadas, no con los cuartos que las preceden."
+          - p: "¿Es buen plan con niños?"
+            r: "Sí, en casa o en un acto tranquilo. Con niños pequeños, las uvas se pueden preparar peladas, sin pepitas o cortadas para evitar atragantamientos."
 
   # ---- Citas periódicas añadidas desde el rastreo de spain.info (solo lo que se repite cada año) ----
   - id: semana-santa-sevilla
@@ -943,6 +1063,26 @@ citas:
     fuente: "https://www.spain.info/es/agenda/semana-santa-malaga/"
     es: { titulo: "Semana Santa de Málaga", resumen: "Tronos de gran tamaño que desfilan a hombros por el centro, con el traslado del Cristo de la Esperanza como momento destacado." }
     en: { titulo: "Holy Week in Málaga", resumen: "Huge thrones carried on shoulders through the city centre, with the Cristo de la Esperanza procession a highlight." }
+    relacionados: [semana-santa, semana-santa-sevilla, feria-malaga]
+    contenido:
+      es:
+        texto:
+          - "La Semana Santa de Málaga se distingue por sus tronos de gran tamaño, que desfilan a hombros de cientos de portadores por el centro de la ciudad. Fiesta de Interés Turístico Internacional, cada procesión es un espectáculo de música, flores, incienso y emoción popular."
+          - "Las cofradías salen desde sus templos y barrios y se dirigen a la Carrera Oficial, en la Alameda y calle Larios, donde hay una tribuna y sillas. Una cita muy esperada es la del Jueves Santo, con la Legión acompañando al Cristo de la Buena Muerte, aunque cada día tiene sus propias procesiones y cada barrio su ambiente."
+          - "Consulta el programa oficial de la Agrupación de Cofradías con los horarios y los itinerarios. Las calles del centro se llenan y los desfiles son lentos, así que llega con tiempo y elige un sitio. Reserva alojamiento con antelación y, si puedes, ve también a las procesiones de los barrios, más tranquilas."
+        faq:
+          - p: "¿Cuándo es la Semana Santa de Málaga?"
+            r: "Del Domingo de Ramos al Domingo de Resurrección, entre marzo y abril según el año. Hay también actos previos desde el Viernes de Dolores."
+          - p: "¿Qué la hace diferente?"
+            r: "Los tronos son grandes y se llevan a hombros, y el ambiente mezcla fe, música y tradición popular. La Legión y las bandas de música tienen un papel importante."
+          - p: "¿Dónde ver las procesiones?"
+            r: "En la Carrera Oficial (Alameda, calle Larios y plaza de la Constitución), con más ambiente y más gente. Las procesiones de los barrios son una alternativa más tranquila."
+          - p: "¿Hay que pagar?"
+            r: "Ver las procesiones desde la calle es gratis. Hay sillas y tribunas de pago en la Carrera Oficial."
+          - p: "¿Cómo consulto los horarios?"
+            r: "La Agrupación de Cofradías publica el programa oficial con los itinerarios y los horarios de cada cofradía."
+          - p: "¿Es buen plan con niños?"
+            r: "Sí, con cuidado: hay mucha gente y esperas largas. Elige procesiones de tarde y un sitio con espacio."
   - id: semana-santa-valladolid
     regla: { tipo: pascua, desde: -7, hasta: 0 }
     temas: [fiestas, cultura]
@@ -950,6 +1090,26 @@ citas:
     fuente: "https://www.spain.info/es/agenda/semana-santa-valladolid/"
     es: { titulo: "Semana Santa de Valladolid", resumen: "Procesiones sobrias con imaginería de madera policromada de los grandes escultores castellanos." }
     en: { titulo: "Holy Week in Valladolid", resumen: "Austere processions of polychrome wooden sculpture by great Castilian sculptors." }
+    relacionados: [semana-santa, semana-santa-salamanca, seminci]
+    contenido:
+      es:
+        texto:
+          - "La Semana Santa de Valladolid es sobria e intensa, y destaca por su imaginería de madera policromada, obra de grandes escultores castellanos como Gregorio Fernández y Juan de Juni. Es Fiesta de Interés Turístico Internacional y atrae a visitantes de toda España."
+          - "Los pasos recorren las calles del centro con cofradías, bandas de música y mucho silencio. El Viernes Santo concentra dos citas muy esperadas: el Sermón de las Siete Palabras en la Plaza Mayor y la Procesión General de la Sagrada Pasión, en la que desfilan los principales pasos de la ciudad."
+          - "Si quieres profundizar, el Museo Nacional de Escultura, en Valladolid, guarda obras de los mismos escultores y es un buen complemento. Consulta el programa oficial, llega pronto a un buen sitio y abrígate, porque en Castilla las noches de abril son frescas."
+        faq:
+          - p: "¿Cuándo es la Semana Santa de Valladolid?"
+            r: "Del Domingo de Ramos al Domingo de Resurrección, que cae entre marzo y abril según el año."
+          - p: "¿Qué la hace especial?"
+            r: "La imaginería castellana de madera policromada, con pasos de gran valor artístico, y un ambiente sobrio y silencioso."
+          - p: "¿Qué procesión no hay que perderse?"
+            r: "La Procesión General de la Sagrada Pasión, el Viernes Santo por la tarde, que reúne a los principales pasos. El Sermón de las Siete Palabras, el mismo día en la Plaza Mayor, también es muy popular."
+          - p: "¿Dónde ver los pasos fuera de Semana Santa?"
+            r: "En el Museo Nacional de Escultura de Valladolid, con obras de Gregorio Fernández y Juan de Juni."
+          - p: "¿Qué ropa llevar?"
+            r: "Ropa de abrigo: en Valladolid las tardes y noches de marzo y abril son frescas, y se pasa mucho tiempo en la calle."
+          - p: "¿Es buen plan con niños?"
+            r: "Con cuidado: hay mucha gente y esperas largas. Elige procesiones de tarde y un sitio con espacio."
   - id: semana-santa-salamanca
     regla: { tipo: pascua, desde: -7, hasta: 0 }
     temas: [fiestas, cultura]
@@ -957,6 +1117,26 @@ citas:
     fuente: "https://www.spain.info/es/agenda/semana-santa-salamanca/"
     es: { titulo: "Semana Santa de Salamanca", resumen: "Cofradías que recorren la ciudad de piedra dorada, con la procesión del Cristo Yacente entre sus citas más sentidas." }
     en: { titulo: "Holy Week in Salamanca", resumen: "Brotherhoods process through the golden-stone city, with the Cristo Yacente procession among its most moving moments." }
+    relacionados: [semana-santa, semana-santa-valladolid, semana-santa-caceres]
+    contenido:
+      es:
+        texto:
+          - "La Semana Santa de Salamanca se vive entre piedra dorada, con procesiones que recorren calles y plazas de una ciudad Patrimonio de la Humanidad. Las cofradías y hermandades sacan pasos de gran valor artístico en un ambiente recogido y solemne."
+          - "Muchas procesiones pasan por la Plaza Mayor y por los alrededores de la Catedral, con un escenario difícil de igualar. Una de las citas más sentidas es la procesión del Cristo Yacente, y cada cofradía tiene su estilo y su recorrido."
+          - "Consulta el programa oficial de las cofradías con los horarios y los itinerarios. Si vas a ver procesiones por la noche, abrígate: en Salamanca las noches de abril son frías. Reserva alojamiento con antelación, porque la ciudad se llena de visitantes, y respeta el silencio de los cortejos."
+        faq:
+          - p: "¿Cuándo es la Semana Santa de Salamanca?"
+            r: "Del Domingo de Ramos al Domingo de Resurrección, entre marzo y abril según el año."
+          - p: "¿Dónde ver las procesiones?"
+            r: "En la Plaza Mayor y en las calles del casco histórico, sobre todo cerca de la Catedral. Cada cofradía tiene su itinerario."
+          - p: "¿Qué procesión es la más sentida?"
+            r: "La del Cristo Yacente es una de las más recordadas, con un ambiente muy sobrio. Consulta el programa para el día y la hora exactos."
+          - p: "¿Es gratis?"
+            r: "Sí, ver las procesiones desde la calle es gratuito."
+          - p: "¿Qué ropa llevar?"
+            r: "Ropa de abrigo, porque las noches son frías en Salamanca, y calzado cómodo."
+          - p: "¿Es buen plan con niños?"
+            r: "Sí, con precaución: hay mucha gente y esperas largas."
   - id: semana-santa-caceres
     regla: { tipo: pascua, desde: -7, hasta: 0 }
     temas: [fiestas, cultura]
@@ -964,6 +1144,26 @@ citas:
     fuente: "https://www.spain.info/es/agenda/semana-santa-caceres/"
     es: { titulo: "Semana Santa de Cáceres", resumen: "Procesiones por la ciudad monumental, cuyas plazas medievales sirven de escenario a pasos y cofradías." }
     en: { titulo: "Holy Week in Cáceres", resumen: "Processions through the monumental old town, whose medieval squares serve as a stage for floats and brotherhoods." }
+    relacionados: [semana-santa, semana-santa-salamanca, festival-womad-caceres]
+    contenido:
+      es:
+        texto:
+          - "La Semana Santa de Cáceres se celebra en la ciudad monumental, Patrimonio de la Humanidad, y el escenario hace que cada procesión tenga un encanto especial. Los pasos recorren plazas medievales, callejones y palacios, entre muros de piedra y farolas."
+          - "Las cofradías salen de sus templos de la ciudad vieja y de otros barrios, con procesiones sobrias y de gran recogimiento. La combinación de patrimonio y tradición convierte a Cáceres en un buen destino para quienes quieren vivir una Semana Santa menos multitudinaria que las de las grandes capitales."
+          - "Consulta el programa oficial de las cofradías con los horarios y los itinerarios, y reserva alojamiento con antelación. Camina por el casco antiguo, con calzado cómodo, ya que las calles son empedradas, y respeta el silencio de las procesiones."
+        faq:
+          - p: "¿Cuándo es la Semana Santa de Cáceres?"
+            r: "Del Domingo de Ramos al Domingo de Resurrección, entre marzo y abril según el año."
+          - p: "¿Dónde ver las procesiones?"
+            r: "En la ciudad monumental, con sus plazas y callejones, y en otros barrios. Cada cofradía tiene su itinerario."
+          - p: "¿Qué la hace distinta?"
+            r: "El entorno monumental de piedra y un ambiente recogido, con menos masificación que en las grandes capitales."
+          - p: "¿Es gratis?"
+            r: "Sí, ver las procesiones desde la calle es gratuito."
+          - p: "¿Qué calzado llevar?"
+            r: "Calzado cómodo y con buena suela: las calles del casco antiguo son empedradas y hay cuestas."
+          - p: "¿Es buen plan con niños?"
+            r: "Sí, con precaución por las esperas y las multitudes."
   - id: semana-santa-marinera-valencia
     regla: { tipo: pascua, desde: -9, hasta: 0 }
     temas: [fiestas, cultura]
@@ -971,6 +1171,26 @@ citas:
     fuente: "https://www.spain.info/es/agenda/semana-santa-marinera-valencia/"
     es: { titulo: "Semana Santa Marinera de Valencia", resumen: "Procesiones en los barrios marineros del Cabanyal y el Grau, con la Resurrección de Pascua como cierre." }
     en: { titulo: "Seafarers’ Holy Week in Valencia", resumen: "Processions through the seafaring districts of El Cabanyal and El Grau, closing with the Easter Resurrection." }
+    relacionados: [semana-santa, fallas, semana-santa-malaga]
+    contenido:
+      es:
+        texto:
+          - "La Semana Santa Marinera de Valencia se celebra en los barrios marineros del Cabanyal, el Canyamelar y el Grau, junto al mar. Es Fiesta de Interés Turístico Internacional y tiene un carácter muy propio, ligado a la vida de los pescadores y al Mediterráneo."
+          - "Empieza el Viernes de Dolores y se alarga hasta el Domingo de Resurrección, con procesiones que recorren las calles de estos barrios, con sus bandas, sus cofradías y su ambiente popular. El cierre llega con la Procesión de la Resurrección, el Domingo de Pascua, más festiva y llena de color."
+          - "Consulta el programa oficial, con los horarios y los itinerarios de las procesiones, y combina la visita con un paseo por la playa y una paella junto al mar. Llega con tiempo y evita los coches, porque algunas calles se cortan al tráfico."
+        faq:
+          - p: "¿Cuándo es la Semana Santa Marinera?"
+            r: "Desde el Viernes de Dolores hasta el Domingo de Resurrección, entre marzo y abril según el año."
+          - p: "¿Dónde se celebra?"
+            r: "En los barrios marineros de Valencia: el Cabanyal, el Canyamelar y el Grau."
+          - p: "¿Qué la hace diferente?"
+            r: "Su carácter marinero y popular, con procesiones junto al mar y una Resurrección final festiva."
+          - p: "¿Cómo llegar?"
+            r: "En metro, tranvía o autobús. Las calles cercanas se cortan al tráfico durante las procesiones."
+          - p: "¿Es gratis?"
+            r: "Sí, ver las procesiones desde la calle es gratuito."
+          - p: "¿Es buen plan con niños?"
+            r: "Sí, la Resurrección del domingo es especialmente festiva y apta para familias."
   - id: romeria-rocio
     regla: { tipo: pascua, desde: 47, hasta: 50 }
     aprox: true
@@ -1007,6 +1227,26 @@ citas:
     fuente: "https://www.spain.info/es/agenda/feria-malaga/"
     es: { titulo: "Feria de Málaga", resumen: "Una semana de agosto con casetas, música y baile en el centro y en el recinto de Cortijo de Torres." }
     en: { titulo: "Málaga Fair", resumen: "A week in August of marquees, music and dancing, in the centre and at the Cortijo de Torres fairground." }
+    relacionados: [semana-santa-malaga, feria-abril, verbenas]
+    contenido:
+      es:
+        texto:
+          - "La Feria de Málaga, a mediados de agosto, es una de las ferias más animadas del sur: una semana de música, baile, casetas, fuegos artificiales y vino dulce. Se celebra en dos escenarios: la Feria del Centro, de día, y la Feria de Cortijo de Torres, de noche."
+          - "Durante el día, el centro histórico se llena de peñas, música, fandangos verdiales y gente vestida de gitana o de corto. Por la noche, el recinto de Cortijo de Torres reúne casetas, atracciones, conciertos y mucho ambiente. Hay actividades para todos los públicos, y mucho pescaíto frito y vino de Málaga."
+          - "Ve al centro de día y al recinto de noche. Evita el coche y usa los autobuses o el transporte público de la feria, porque el tráfico y el aparcamiento son complicados. Lleva calzado cómodo, ropa fresca y paciencia, y reserva alojamiento con antelación."
+        faq:
+          - p: "¿Cuándo es la Feria de Málaga?"
+            r: "A mediados de agosto, durante una semana. Las fechas exactas cambian cada año."
+          - p: "¿Qué es la Feria del Centro?"
+            r: "La parte diurna de la feria, en el centro histórico, con música, baile y ambiente popular."
+          - p: "¿Qué es Cortijo de Torres?"
+            r: "El recinto ferial donde se celebra la feria de noche, con casetas, conciertos y atracciones."
+          - p: "¿Cómo llegar a Cortijo de Torres?"
+            r: "En autobuses y servicios especiales de la feria. Evita el coche, porque el aparcamiento es difícil."
+          - p: "¿Qué se come y se bebe?"
+            r: "Pescaíto frito, espetos, jamón y vino dulce de Málaga, entre otras cosas."
+          - p: "¿Es buen plan con niños?"
+            r: "Por el día y en el centro, sí. Por la noche hay mucha gente y ruido."
   - id: fiesta-piraguas-descenso-internacional-sella
     regla: { tipo: enesimo, mes: 8, dia_semana: 6, n: 1 }
     aprox: true
@@ -1015,6 +1255,26 @@ citas:
     fuente: "https://www.spain.info/es/agenda/fiesta-piraguas-descenso-internacional-sella/"
     es: { titulo: "Descenso Internacional del Sella", resumen: "Miles de piragüistas bajan el río desde Arriondas hasta Ribadesella, con fiesta en las orillas durante toda la jornada." }
     en: { titulo: "International Sella Canoe Descent", resumen: "Thousands of paddlers race down the river from Arriondas to Ribadesella, with a party along the banks all day." }
+    relacionados: [feria-malaga, piscinas-naturales, verbenas]
+    contenido:
+      es:
+        texto:
+          - "El Descenso Internacional del Sella es una de las fiestas más populares de Asturias y una de las más conocidas de España. Cada agosto, miles de piragüistas bajan el río Sella entre Arriondas y Ribadesella, mientras miles de personas lo viven desde las orillas, con comida, bebida y mucho ambiente."
+          - "Es Fiesta de Interés Turístico Internacional y mezcla competición deportiva, tradición y fiesta popular. Los participantes recorren unos veinte kilómetros por el río, y el recorrido se puede ver desde varios puntos y desde las orillas, con picnics y música a lo largo del trayecto."
+          - "Si quieres ver el descenso, elige un punto con buen acceso, llega pronto y ten en cuenta que el tráfico se complica y que Arriondas y Ribadesella se llenan de gente. Para participar, hace falta inscribirse con antelación. Lleva agua, crema solar y calzado cómodo."
+        faq:
+          - p: "¿Cuándo es el Descenso del Sella?"
+            r: "Normalmente el primer sábado de agosto. Consulta la fecha exacta cada año."
+          - p: "¿Dónde se celebra?"
+            r: "En el río Sella, entre Arriondas y Ribadesella, en Asturias."
+          - p: "¿Cómo verlo?"
+            r: "Desde las orillas, con picnic y ambiente de fiesta, o desde puntos habilitados. En Ribadesella está la llegada."
+          - p: "¿Se puede participar?"
+            r: "Sí, pero hay que inscribirse con antelación y cumplir los requisitos de la organización."
+          - p: "¿Cómo llegar?"
+            r: "Con tiempo: el tráfico se complica. Valora el transporte organizado y aparcamientos habilitados."
+          - p: "¿Es buen plan con niños?"
+            r: "Sí, el ambiente de orilla es familiar, pero hay mucha gente y calor. Lleva agua y crema solar."
   - id: festival-jerez
     regla: { tipo: fija, inicio: "02-27", fin: "03-14" }
     aprox: true
