@@ -51,6 +51,26 @@ temporada:
     temas: [fiestas, gastronomia]
     es: { titulo: "Celebrar un magosto", resumen: "Castañas asadas, hoguera y vino nuevo: la fiesta de otoño de Galicia, Asturias y El Bierzo alrededor de San Martín." }
     en: { titulo: "Join a magosto", resumen: "Roast chestnuts, bonfires and new wine: the autumn feast of Galicia, Asturias and El Bierzo around Saint Martin's Day." }
+    relacionados: [castanas-otono, setas, hayedos]
+    contenido:
+      es:
+        texto:
+          - "El magosto es la gran fiesta de la castaña: una hoguera, castañas asadas, vino nuevo y mucha gente alrededor. Se celebra sobre todo en Galicia, Asturias (donde se llama amagüestu) y El Bierzo, y tiene su día grande en torno a San Martín, el 11 de noviembre."
+          - "Hay magostos familiares, de barrio, de pueblo y de asociaciones, y muchos ayuntamientos los organizan abiertos a todo el mundo, a veces con música, baile y juegos tradicionales. En otras zonas del interior, como el Valle del Jerte en Extremadura, existe una tradición parecida en torno a los Santos, que se conoce como calbotá."
+          - "Para encontrar uno, mira la agenda del ayuntamiento o de la asociación de vecinos de la zona unos días antes: las fechas cambian cada año y muchos se anuncian con poca antelación. Lleva ropa de abrigo, que se está al aire libre, y no esperes cosas sofisticadas: la gracia está en la hoguera y en comer las castañas calientes, en compañía."
+        faq:
+          - p: "¿Qué es un magosto?"
+            r: "Es una fiesta tradicional de otoño en la que se asan castañas en una hoguera y se comen con vino nuevo, sidra o mosto. Es típica de Galicia, Asturias y El Bierzo, aunque hay celebraciones parecidas en otras zonas."
+          - p: "¿Cuándo se celebra?"
+            r: "Sobre todo en noviembre, con el día de San Martín, el 11 de noviembre, como fecha de referencia. Muchos pueblos lo celebran el fin de semana más cercano, y también hay magostos a finales de octubre."
+          - p: "¿Dónde ir a un magosto?"
+            r: "En Galicia, Asturias y El Bierzo hay magostos en muchísimos pueblos y barrios. Lo más fiable es mirar la agenda del ayuntamiento o de la zona unos días antes."
+          - p: "¿Hay que pagar o reservar?"
+            r: "Depende. Muchos magostos populares son gratuitos o piden una pequeña aportación, y otros, organizados por restaurantes o bodegas, requieren reserva. Pregunta al organizador."
+          - p: "¿Puedo hacer un magosto en casa?"
+            r: "Sí. Haz un corte en la piel de cada castaña, ásalas en una sartén o en el horno y envuélvelas en un paño unos minutos antes de pelarlas. Acompáñalas con vino o sidra, si te apetece."
+          - p: "¿Es buen plan con niños?"
+            r: "Sí, suele ser un ambiente muy familiar. Solo conviene vigilar la hoguera y que las castañas estén tibias antes de comerlas."
   - id: setas
     meses: [10, 11]
     temas: [naturaleza, gastronomia]
@@ -218,71 +238,352 @@ temporada:
     temas: [fiestas]
     es: { titulo: "Ir a las fiestas de un pueblo", resumen: "Agosto es el mes de las fiestas patronales: verbenas, peñas y orquestas en casi cada pueblo de España." }
     en: { titulo: "Go to a village festival", resumen: "August is patron-saint season: open-air dances, music and street parties in almost every Spanish village." }
+    relacionados: [playas-fluviales, perseidas, piscinas-naturales]
+    contenido:
+      es:
+        texto:
+          - "Entre julio y septiembre, casi cada pueblo de España celebra sus fiestas patronales. Son semanas de verbenas con orquesta, peñas, procesiones, conciertos, comidas populares y actos para los más pequeños, y un plan muy barato para conocer la vida de un pueblo desde dentro."
+          - "Agosto concentra la mayoría, sobre todo en torno al 15, día de la Asunción, aunque hay fiestas en prácticamente todas las fechas del verano. Cada comunidad tiene su estilo: en Castilla y León y Castilla-La Mancha son habituales las peñas y los festejos taurinos populares, en Galicia las romerías y en el norte los concursos y la música tradicional."
+          - "Lo más útil antes de ir es consultar el programa en la web del ayuntamiento o en sus redes. Normalmente las verbenas empiezan tarde, a menudo pasada la medianoche, y suelen ser de entrada libre. Si vas desde fuera, ten en cuenta el aparcamiento y el transporte de vuelta, y respeta el descanso de los vecinos."
+        faq:
+          - p: "¿Cuándo son las fiestas de los pueblos?"
+            r: "Sobre todo de julio a septiembre, con agosto como mes más fuerte. Cada pueblo tiene su fecha, normalmente ligada a su santo patrón, y los programas suelen publicarse unas semanas antes."
+          - p: "¿Cómo encuentro las fiestas de un pueblo?"
+            r: "Lo más fiable es la web o las redes del ayuntamiento, donde se publica el programa completo. También puedes consultar la agenda de sinplanes por provincia."
+          - p: "¿Las verbenas son gratis?"
+            r: "Casi siempre sí: la entrada a las verbenas y a la mayoría de los actos populares es libre. Algunas comidas populares o espectáculos concretos pueden requerir ticket."
+          - p: "¿A qué hora empiezan?"
+            r: "Las verbenas con orquesta suelen empezar tarde y alargarse hasta la madrugada. Los actos infantiles, las procesiones y las comidas populares se programan de día."
+          - p: "¿Qué conviene llevar?"
+            r: "Ropa cómoda, algo de abrigo para la noche, calzado que aguante si vas a bailar o a las peñas y efectivo, porque algunas barras y casetas no aceptan tarjeta."
+          - p: "¿Es buen plan con niños?"
+            r: "Sí, la mayoría de las fiestas tienen actividades infantiles durante el día. Por la noche el ambiente es más de adultos, y conviene valorar el ruido y la hora."
   - id: perseidas
     meses: [8]
     temas: [naturaleza]
     es: { titulo: "Ver las Perseidas", resumen: "Hacia el 12 de agosto, lejos de la contaminación lumínica. Monfragüe, la Sierra Sur de Jaén o Gúdar-Javalambre son reservas Starlight." }
     en: { titulo: "Watch the Perseids", resumen: "Around 12 August, away from light pollution. Monfragüe, Sierra Sur de Jaén and Gúdar-Javalambre are Starlight reserves." }
+    relacionados: [berrea, lavanda-brihuega, piscinas-naturales]
+    contenido:
+      es:
+        texto:
+          - "Las Perseidas, conocidas popularmente como las Lágrimas de San Lorenzo, son una de las lluvias de estrellas más fáciles y espectaculares de ver desde España. Se producen cada año cuando la Tierra atraviesa la estela de polvo del cometa Swift-Tuttle."
+          - "La actividad dura desde mediados de julio hasta finales de agosto, y el máximo suele producirse entre el 11 y el 13 de agosto. En una noche despejada y sin Luna, con cielo oscuro, se pueden llegar a ver decenas de meteoros por hora. La fase lunar de cada año influye mucho: con Luna llena se ven bastantes menos."
+          - "Lo importante es alejarse de la contaminación lumínica. Reservas y destinos con certificación Starlight, como Monfragüe, la Sierra Sur de Jaén o Gúdar-Javalambre, son una gran opción, y muchos organizan observaciones guiadas. No hace falta telescopio ni prismáticos: basta con tumbarse y mirar hacia el cielo abierto."
+          - "Deja que los ojos se acostumbren a la oscuridad durante unos 20 o 30 minutos y evita mirar el móvil. Lleva una manta o una tumbona, ropa de abrigo, aunque haga calor de día, y algo caliente de beber. Las horas de después de medianoche suelen ser las mejores."
+        faq:
+          - p: "¿Cuándo se ven las Perseidas?"
+            r: "La actividad va de mediados de julio a finales de agosto, con el máximo hacia el 12 de agosto, normalmente entre el 11 y el 13. Las mejores horas son después de la medianoche y hasta el amanecer."
+          - p: "¿Dónde verlas mejor en España?"
+            r: "En cualquier lugar con cielo oscuro y despejado. Destinos con certificación Starlight, como Monfragüe, la Sierra Sur de Jaén o Gúdar-Javalambre, ofrecen cielos excelentes y observaciones guiadas."
+          - p: "¿Hace falta telescopio?"
+            r: "No. Son meteoros de movimiento rápido y se ven mejor a simple vista. Los prismáticos y los telescopios reducen el campo de visión y no ayudan."
+          - p: "¿Hacia dónde hay que mirar?"
+            r: "Se originan en la constelación de Perseo, hacia el noreste, pero los meteoros aparecen por todo el cielo. Lo mejor es mirar hacia arriba sin fijarse en un punto concreto."
+          - p: "¿Influye la Luna?"
+            r: "Mucho. Con Luna llena o muy luminosa se ven muchos menos meteoros. Conviene consultar la fase lunar de ese año antes de planificar la salida."
+          - p: "¿Qué hay que llevar?"
+            r: "Una manta o tumbona, ropa de abrigo, una linterna con luz roja (si la necesitas), algo caliente de beber y paciencia. Evita las luces blancas, que estropean la visión nocturna."
   - id: cerezos-jerte
     meses: [3, 4]
     temas: [naturaleza]
     es: { titulo: "Ver los cerezos en flor", resumen: "El Valle del Jerte se cubre de blanco entre finales de marzo y mediados de abril, según el año." }
     en: { titulo: "See the cherry blossom", resumen: "The Jerte Valley turns white between late March and mid-April, depending on the year." }
+    relacionados: [almendros, flores-primavera, lavanda-brihuega]
+    contenido:
+      es:
+        texto:
+          - "Durante unas semanas de primavera, el Valle del Jerte, en el norte de Cáceres, se cubre de blanco con la floración de cientos de miles de cerezos. Los bancales de las laderas parecen nevados, y el espectáculo se completa con la Garganta de los Infiernos y los pueblos de piedra del valle."
+          - "La floración suele llegar entre finales de marzo y mediados de abril, aunque la fecha exacta cambia cada año según el invierno y las temperaturas. Dura poco, entre una y dos semanas por zona, y se adelanta o retrasa según la altitud, así que conviene consultar el estado de la floración antes de viajar. Durante esa época se celebra la Fiesta del Cerezo en Flor."
+          - "Es un plan muy popular y los fines de semana de máxima floración el tráfico y el aparcamiento se complican. Si puedes, ve entre semana o a primera hora, reserva alojamiento con tiempo y ten paciencia en las carreteras del valle. Los cerezos son árboles de cultivo con dueño: respeta las fincas, no cortes ramas ni entres en los bancales cerrados."
+        faq:
+          - p: "¿Cuándo florecen los cerezos del Jerte?"
+            r: "Normalmente entre finales de marzo y mediados de abril, durante una o dos semanas en cada zona. La fecha cambia cada año con el clima, así que mira el estado de la floración antes de ir."
+          - p: "¿Dónde ver los cerezos en flor?"
+            r: "El Valle del Jerte (Cáceres) es el más conocido, con pueblos como Cabezuela del Valle, Navaconcejo o Jerte, y rutas como la de la Garganta de los Infiernos."
+          - p: "¿Se puede entrar en los bancales?"
+            r: "Son fincas privadas de cultivo. Pasea por caminos y miradores señalizados y no entres en las parcelas ni cortes flores o ramas."
+          - p: "¿Hay que reservar alojamiento?"
+            r: "Sí, con antelación, porque los fines de semana de máxima floración se llena todo. Los pueblos vecinos de La Vera o Plasencia son una alternativa."
+          - p: "¿Cómo evito las aglomeraciones?"
+            r: "Ve entre semana, a primera hora o a última de la tarde, y evita los fines de semana de máximo color. Mejor aparcar en las zonas habilitadas y moverse a pie."
+          - p: "¿Es buen plan con niños?"
+            r: "Sí, las rutas suaves por el valle son aptas para familias. Si tu hijo tiene alergia al polen, lleva medicación, porque en primavera la floración es intensa."
   - id: almendros
     meses: [2]
     temas: [naturaleza]
     es: { titulo: "Pasear entre almendros en flor", resumen: "Mallorca, la Axarquía, Tenerife y el campo de Cartagena florecen antes que nadie." }
     en: { titulo: "Walk among almond blossom", resumen: "Mallorca, the Axarquía, Tenerife and Cartagena bloom before anywhere else." }
+    relacionados: [cerezos-jerte, flores-primavera, calcotada]
+    contenido:
+      es:
+        texto:
+          - "Los almendros son los primeros árboles en florecer en España. A finales del invierno, cuando aún hace frío, las laderas se cubren de flores blancas y rosadas, y se puede pasear entre ellas con una luz especialmente bonita."
+          - "La floración suele ir de finales de enero a marzo, según la zona y el año, y el pico se adelanta en el sur y en las islas. Mallorca, la Axarquía malagueña, Tenerife y la zona de Cartagena son destinos conocidos, y en varios lugares hay rutas señalizadas y fiestas dedicadas, como la del almendro en flor en Tenerife."
+          - "Como las flores duran poco y dependen del tiempo, conviene mirar el estado de la floración unos días antes. Los almendros son cultivos con dueño: pasea por caminos públicos, no cortes ramas ni cojas flores y no entres en fincas cerradas. Si eres alérgico al polen, lleva medicación, porque en esta época hay mucho."
+        faq:
+          - p: "¿Cuándo florecen los almendros?"
+            r: "Entre finales de enero y marzo, dependiendo de la zona y del año. En el sur y en Baleares y Canarias suele adelantarse."
+          - p: "¿Dónde ver almendros en flor?"
+            r: "Mallorca, la Axarquía (Málaga), Tenerife, la zona de Cartagena y otras áreas de cultivo del sur y el este peninsular son destinos habituales."
+          - p: "¿Se pueden coger flores o almendras?"
+            r: "No. Son cultivos privados, aunque parezcan campo abierto. Disfruta de ellos desde los caminos y respeta las fincas."
+          - p: "¿Cuánto dura la floración?"
+            r: "Muy poco, entre una y dos semanas por zona, y puede acortarse con viento o lluvia. Mira el estado de la floración antes de viajar."
+          - p: "¿Qué hay que llevar?"
+            r: "Calzado de paseo, ropa de abrigo por capas, cámara y, si tienes alergia, antihistamínicos. Es un buen plan para hacer fotos al amanecer o al atardecer."
+          - p: "¿Es buen plan con niños?"
+            r: "Sí, los paseos cortos entre almendros son aptos para familias, y es un buen momento para enseñar cómo cambian los cultivos con las estaciones."
   - id: calcotada
     meses: [1, 2, 3]
     temas: [gastronomia]
     es: { titulo: "Ir a una calçotada", resumen: "Calçots a la brasa con salsa romesco en el Camp de Tarragona y el Alt Camp. Mejor con reserva." }
     en: { titulo: "Go to a calçotada", resumen: "Chargrilled spring onions with romesco sauce in Tarragona's Camp and Alt Camp. Booking recommended." }
+    relacionados: [matanza, almendros, terrazas-primavera]
+    contenido:
+      es:
+        texto:
+          - "La calçotada es una comida típica de Cataluña, sobre todo del Camp de Tarragona y el Alt Camp: calçots (cebollas tiernas) asados a la brasa, pelados con las manos y mojados en salsa romesco. Es una comida de celebración, con babero, buena compañía y sobremesa larga."
+          - "La temporada empieza hacia diciembre y llega hasta abril, con el punto fuerte entre enero y marzo. Valls, en el Alt Camp, es la capital del calçot y organiza a finales de enero una gran fiesta, con concurso y comida popular. Además de en Cataluña, también hay calçotadas en otras zonas de España."
+          - "Se suele comer con carne a la brasa, butifarra, alubias y vino o cava. Reserva con antelación, sobre todo en fin de semana, porque en temporada se llena todo. Se come con las manos: se agarra el calçot por la base, se tira de la hoja exterior, se moja en romesco y se come la parte tierna de arriba. Mancha, así que el babero no es una exageración."
+        faq:
+          - p: "¿Qué es un calçot?"
+            r: "Es una variedad de cebolla tierna típica de Cataluña. Se asa a la brasa hasta que la capa exterior queda negra, se envuelve para que se cueza con su propio vapor y se come con salsa romesco."
+          - p: "¿Cuándo es la temporada de calçots?"
+            r: "De diciembre a abril aproximadamente, con el momento álgido entre enero y marzo."
+          - p: "¿Dónde ir a una calçotada?"
+            r: "El Camp de Tarragona y el Alt Camp, con Valls como capital, son las zonas de referencia, pero hay restaurantes y masías con calçotada en toda Cataluña."
+          - p: "¿Hay que reservar?"
+            r: "Sí, con antelación, sobre todo en fin de semana y en enero y febrero. Muchos sitios solo sirven calçotada por encargo."
+          - p: "¿Cómo se comen los calçots?"
+            r: "Con las manos: se agarra por la base, se tira hacia arriba para quitar la capa quemada, se moja en romesco y se come por la parte tierna. Se suele llevar babero."
+          - p: "¿Qué más incluye el menú?"
+            r: "Normalmente carne a la brasa (cordero, butifarra), alubias, pan con tomate, postre y vino o cava. Se cobra un menú cerrado por persona."
   - id: nieve
     meses: [12, 1, 2, 3]
     temas: [naturaleza, deporte]
     es: { titulo: "Subir a la nieve", resumen: "Sierra Nevada, el Pirineo, la Cordillera Cantábrica o el Sistema Central. Revisa el estado de las carreteras y si hacen falta cadenas." }
     en: { titulo: "Head to the snow", resumen: "Sierra Nevada, the Pyrenees, the Cantabrian range or the Central System. Check road conditions and whether chains are required." }
+    relacionados: [matanza, mercadillos-navidad, hayedos]
+    contenido:
+      es:
+        texto:
+          - "Subir a la nieve es uno de los grandes planes de invierno, tanto para esquiar como para pasear, hacer trineo o simplemente ver la montaña blanca. España tiene estaciones y paisajes nevados en Sierra Nevada, el Pirineo, la Cordillera Cantábrica y el Sistema Central."
+          - "La temporada va de diciembre a marzo, aunque la nieve depende mucho de cada invierno. Antes de salir, consulta el estado de las pistas y las carreteras: puede hacer falta cadenas o neumáticos de invierno, y los accesos a las estaciones se saturan los fines de semana y en puentes. Mira la información de tráfico antes y durante el viaje."
+          - "No hace falta esquiar. Muchas estaciones y valles ofrecen zonas de trineo, rutas con raquetas, esquí de fondo y paseos por nieve, y la ropa se puede alquilar. Reserva el forfait y el material con antelación en las fechas fuertes. Lleva ropa impermeable y por capas, gafas de sol, crema solar y guantes de repuesto, porque el sol y el reflejo en la nieve engañan."
+        faq:
+          - p: "¿Cuándo hay nieve en España?"
+            r: "Normalmente de diciembre a marzo, con enero y febrero como los meses más fiables. Depende mucho de cada invierno y de la altitud."
+          - p: "¿Dónde subir a la nieve?"
+            r: "Sierra Nevada (Granada), el Pirineo (Huesca, Lleida, Navarra), la Cordillera Cantábrica, el Sistema Central (Madrid, Segovia) o el Sistema Ibérico ofrecen estaciones y rutas."
+          - p: "¿Hace falta saber esquiar?"
+            r: "No. Hay trineos, rutas con raquetas, esquí de fondo, zonas de nieve para niños y paseos. Si quieres esquiar, muchas escuelas ofrecen clases de iniciación."
+          - p: "¿Necesito cadenas?"
+            r: "Depende de la carretera y del día. Consulta la información de tráfico y lleva cadenas o neumáticos de invierno. En ocasiones es obligatorio llevarlas y la carretera se cierra sin ellas."
+          - p: "¿Hay que reservar?"
+            r: "En fechas fuertes (puentes, Navidad, fines de semana de nieve) conviene reservar forfait, alquiler y alojamiento. Comprar online suele ser más barato y rápido."
+          - p: "¿Qué ropa llevar?"
+            r: "Ropa impermeable y por capas, guantes y gorro, gafas de sol o de esquí, protección solar y calzado con buena suela. Un cambio de ropa seca para el viaje de vuelta nunca sobra."
   - id: matanza
     meses: [12, 1]
     temas: [gastronomia, fiestas]
     es: { titulo: "Ir a una fiesta de la matanza", resumen: "Muchos pueblos de Castilla y León y Extremadura la celebran como fiesta gastronómica con degustaciones." }
     en: { titulo: "Visit a traditional pig-slaughter feast", resumen: "Many villages in Castile and León and Extremadura hold it as a food festival with tastings." }
+    relacionados: [calcotada, nieve, mercadillos-navidad]
+    contenido:
+      es:
+        texto:
+          - "La matanza es una tradición rural muy arraigada en Castilla y León, Extremadura y otras zonas de España: la elaboración casera de chorizos, morcillas, jamones y otros embutidos en invierno. Hoy muchos pueblos la celebran como fiesta gastronómica, con demostraciones, degustaciones y comida popular."
+          - "Se celebra normalmente entre diciembre y febrero, cuando hace el frío necesario para curar los embutidos. En estas jornadas se pueden probar productos típicos como chorizo, morcilla, farinato, patatas meneás, jijas o sopas de ajo, y conocer de cerca cómo se hacía este trabajo familiar y vecinal."
+          - "Para ir, consulta el programa del ayuntamiento o de la asociación organizadora: muchas jornadas son gratuitas y otras piden reservar plaza o comprar un ticket de degustación. Algunas demostraciones incluyen escenas que pueden resultar duras para los más sensibles o para los niños, así que conviene informarse antes de asistir."
+        faq:
+          - p: "¿Qué es la matanza?"
+            r: "Es la elaboración tradicional de embutidos y otros productos del cerdo en invierno. Era un trabajo familiar y vecinal, y hoy se recupera en fiestas con demostraciones y degustaciones."
+          - p: "¿Cuándo se celebra?"
+            r: "Normalmente de diciembre a febrero, aunque las fechas cambian de un pueblo a otro. Consulta el programa de cada localidad."
+          - p: "¿Dónde hay fiestas de la matanza?"
+            r: "Sobre todo en Castilla y León y Extremadura, y también en otras zonas rurales. Busca en la agenda del ayuntamiento o en la de sinplanes por provincia."
+          - p: "¿Qué se puede probar?"
+            r: "Chorizo, morcilla, farinato, patatas meneás, jijas, sopas de ajo y productos de cerdo, según la zona. Muchas jornadas incluyen un menú de degustación."
+          - p: "¿Es gratis?"
+            r: "Depende. Algunas jornadas son gratuitas y otras requieren comprar un ticket o reservar plaza para las degustaciones."
+          - p: "¿Es buen plan con niños?"
+            r: "A veces. Algunas demostraciones pueden resultar duras para los más pequeños, así que conviene preguntar antes qué incluyen. Muchas fiestas tienen además actividades infantiles."
   - id: mercadillos-navidad
     meses: [12]
     temas: [navidad]
     es: { titulo: "Visitar un mercadillo navideño", resumen: "La Plaza Mayor de Madrid, la Fira de Santa Llúcia en Barcelona o el mercado de Santo Tomás en Bilbao, entre muchos otros." }
     en: { titulo: "Visit a Christmas market", resumen: "Madrid's Plaza Mayor, Barcelona's Fira de Santa Llúcia or Bilbao's Santo Tomás market, among many others." }
+    relacionados: [luces-navidad, belenes, nieve]
+    contenido:
+      es:
+        texto:
+          - "Los mercadillos navideños llenan de casetas, luces y olor a dulces las plazas de muchas ciudades. Son un plan perfecto para pasear, comprar artesanía y adornos y empezar a entrar en ambiente de Navidad."
+          - "Algunos son clásicos: el mercado de la Plaza Mayor de Madrid, la Fira de Santa Llúcia de Barcelona, junto a la catedral, o el mercado de Santo Tomás de Bilbao, que se celebra el 21 de diciembre. Muchas ciudades más montan el suyo, con casetas de artesanía, dulces, belenes y espectáculos para niños."
+          - "Suelen abrir desde finales de noviembre y mantenerse hasta Nochebuena o Reyes. Lo más agradable es ir entre semana o a primera hora de la tarde, cuando hay menos gente, y llevar efectivo, porque no todas las casetas aceptan tarjeta. Abrígate: se pasa mucho tiempo al aire libre."
+        faq:
+          - p: "¿Cuándo abren los mercadillos de Navidad?"
+            r: "La mayoría abre desde finales de noviembre o principios de diciembre y cierra en Nochebuena, aunque algunos se mantienen hasta Reyes. Consulta las fechas de cada ciudad."
+          - p: "¿Cuáles son los más conocidos?"
+            r: "El de la Plaza Mayor de Madrid, la Fira de Santa Llúcia de Barcelona y el mercado de Santo Tomás de Bilbao son de los más tradicionales, aunque casi cada ciudad tiene el suyo."
+          - p: "¿Hay que pagar entrada?"
+            r: "No. La entrada es libre, y solo pagas lo que compres o las atracciones concretas, como pistas de hielo o espectáculos."
+          - p: "¿Qué se puede comprar?"
+            r: "Belenes y figuras, adornos, velas, artesanía, dulces navideños, turrones y juguetes, según el mercado."
+          - p: "¿Cuándo es mejor ir?"
+            r: "Entre semana y a primera hora de la tarde, para evitar aglomeraciones. Los fines de semana y puentes se llenan mucho."
+          - p: "¿Es buen plan con niños?"
+            r: "Sí, muchos incluyen casetas de juguetes, espectáculos y visitas de Papá Noel o los Reyes Magos. Ten cuidado con las aglomeraciones y no pierdas de vista a los más pequeños."
   - id: luces-navidad
     meses: [11, 12, 1]
     temas: [navidad]
     es: { titulo: "Ver las luces de Navidad", resumen: "Vigo, Madrid, Málaga o Valencia compiten cada año por el alumbrado más espectacular. Los encendidos suelen ser a finales de noviembre." }
     en: { titulo: "See the Christmas lights", resumen: "Vigo, Madrid, Málaga and Valencia compete each year for the most spectacular lights, usually switched on in late November." }
+    relacionados: [mercadillos-navidad, belenes, nieve]
+    contenido:
+      es:
+        texto:
+          - "Cada año, las ciudades españolas compiten por tener el alumbrado de Navidad más espectacular. Calles cubiertas de luces, grandes árboles, espectáculos de luz y música y mucha gente paseando hacen de ver las luces un plan muy sencillo y muy navideño."
+          - "Vigo se ha hecho famosa por su despliegue, y Madrid, Málaga, Valencia o Barcelona también organizan alumbrados muy visitados. El encendido suele producirse a finales de noviembre o principios de diciembre, con un acto público, y las luces se mantienen hasta Reyes."
+          - "Lo más cómodo es ir a pie o en transporte público, porque los centros se llenan de gente y se cortan calles al tráfico, sobre todo los fines de semana y los días del encendido. Si quieres evitar multitudes, ve entre semana, a primera hora de la noche. Abrígate y lleva calzado cómodo, porque se camina mucho."
+        faq:
+          - p: "¿Cuándo se encienden las luces de Navidad?"
+            r: "Normalmente a finales de noviembre o primeros de diciembre, con un acto público. Cada ciudad tiene su fecha, que se anuncia semanas antes."
+          - p: "¿Hasta cuándo están encendidas?"
+            r: "Habitualmente hasta Reyes, el 6 de enero, aunque en algunas ciudades se mantienen unos días más."
+          - p: "¿Qué ciudades tienen mejores luces?"
+            r: "Vigo, Madrid, Málaga, Valencia y Barcelona suelen estar entre las más visitadas, aunque muchas ciudades medianas tienen alumbrados muy cuidados."
+          - p: "¿Cuándo es mejor ir?"
+            r: "Entre semana y a primera hora de la noche. Los fines de semana, puentes y los días del encendido hay mucha aglomeración."
+          - p: "¿Cómo me muevo?"
+            r: "A pie o en transporte público. En las zonas más visitadas se cortan calles y el aparcamiento es complicado."
+          - p: "¿Es buen plan con niños?"
+            r: "Sí, es muy atractivo para ellos. Ten cuidado con las aglomeraciones y acuerda un punto de encuentro por si os separáis."
   - id: belenes
     meses: [12, 1]
     temas: [navidad, cultura]
     es: { titulo: "Ver belenes y belenes vivientes", resumen: "Exposiciones de belenes en ayuntamientos, iglesias y museos, y belenes vivientes en muchos pueblos." }
     en: { titulo: "See nativity scenes", resumen: "Nativity displays in town halls, churches and museums, and living nativity scenes in many villages." }
+    relacionados: [mercadillos-navidad, luces-navidad, matanza]
+    contenido:
+      es:
+        texto:
+          - "El belén es una de las tradiciones más queridas de la Navidad: figuras, paisajes y escenas que representan el nacimiento de Jesús, a veces con montajes enormes y de gran detalle. Ver belenes es un plan tranquilo, para hacer en familia y que se puede combinar con un paseo por el centro de la ciudad."
+          - "Durante diciembre y hasta Reyes, ayuntamientos, iglesias, museos, asociaciones belenistas y entidades abren exposiciones de belenes, muchas gratuitas. Algunos son especialmente conocidos, como el belén del Museo Salzillo en Murcia, el belén de la plaza de Sant Jaume en Barcelona o el Belén de Tirisiti de Alcoy."
+          - "Además de los belenes expuestos, muchos pueblos organizan belenes vivientes, con vecinos que representan escenas y oficios de la época. Se celebran sobre todo en diciembre y primeros de enero. Consulta fechas y horarios en el ayuntamiento, porque suelen ser puntuales, y abrígate si son al aire libre."
+        faq:
+          - p: "¿Cuándo se pueden ver belenes?"
+            r: "Desde principios de diciembre hasta Reyes, aunque algunos se mantienen hasta febrero. Los belenes vivientes se concentran en diciembre y primeros de enero."
+          - p: "¿Dónde ver belenes?"
+            r: "En ayuntamientos, iglesias, museos y asociaciones belenistas. Muchas ciudades tienen un belén municipal en una plaza céntrica."
+          - p: "¿Qué es un belén viviente?"
+            r: "Es una representación del nacimiento con vecinos que interpretan escenas y oficios. Suele celebrarse al aire libre, en una fecha concreta, y es muy popular en pueblos."
+          - p: "¿Hay que pagar?"
+            r: "La mayoría de las exposiciones de belenes son gratuitas. Algunos belenes de museo o de gran formato pueden pedir entrada."
+          - p: "¿Es buen plan con niños?"
+            r: "Sí, es uno de los más agradecidos. Les encanta buscar figuras y detalles, y algunos belenes tienen movimiento y sonido."
+          - p: "¿Cuánto se tarda?"
+            r: "Una visita a un belén suele durar entre 20 minutos y una hora. Se combina bien con un mercadillo o con un paseo por las luces."
   - id: flores-primavera
     meses: [4, 5]
     temas: [naturaleza]
     es: { titulo: "Ver campos de flores en primavera", resumen: "Amapolas, lavanda temprana y prados en flor: la mejor época para senderismo suave." }
     en: { titulo: "See spring wildflowers", resumen: "Poppies, early lavender and flowering meadows: the best time for easy hiking." }
+    relacionados: [cerezos-jerte, almendros, lavanda-brihuega]
+    contenido:
+      es:
+        texto:
+          - "En abril y mayo, los campos, las dehesas y las laderas de media montaña se llenan de flores. Amapolas, jaras, margaritas, narcisos y otras especies colorean paisajes que, durante unas semanas, parecen otros. Es un plan sencillo, barato y muy fotogénico."
+          - "El mejor momento depende de la zona y de la altitud, y de cuánto haya llovido en invierno: una buena primavera da campos especialmente vistosos. En la dehesa extremeña y andaluza, en los campos de Castilla y en los prados de montaña hay rutas fáciles para disfrutarlos. En las zonas altas, la floración se retrasa hasta mayo y junio."
+          - "Elige sendas señaladas y mejor entre semana. No cojas flores, no pises cultivos ni te salgas de los caminos: muchos campos son sembrados o pastos. Si tienes alergia al polen, lleva medicación, y revisa tu ropa al volver, porque en primavera hay garrapatas en algunos terrenos."
+        faq:
+          - p: "¿Cuándo es la mejor época para ver flores?"
+            r: "Entre abril y mayo en la mayor parte de España. En la montaña se retrasa a junio, y en el sur y en las islas puede empezar en marzo."
+          - p: "¿Dónde ver campos de flores?"
+            r: "Las dehesas de Extremadura y Andalucía, los campos de Castilla, los prados de montaña y los parques naturales son buenos lugares. Busca rutas señalizadas."
+          - p: "¿Se pueden coger flores?"
+            r: "Mejor no. Muchas están protegidas y, en los campos de cultivo, perjudicas el sembrado. Disfrútalas y haz fotos."
+          - p: "¿Qué hay que llevar?"
+            r: "Calzado cómodo, ropa por capas, sombrero, protección solar, agua y, si tienes alergia, medicación. Revisa tu ropa al volver por si hay garrapatas."
+          - p: "¿Hay peligro de alergia?"
+            r: "Sí, en primavera el polen es intenso. Si eres alérgico, consulta a tu médico y evita las horas centrales del día y los días ventosos."
+          - p: "¿Es buen plan con niños?"
+            r: "Sí, con rutas cortas y llanas. Enséñales a no coger flores ni entrar en campos cultivados."
   - id: lavanda-brihuega
     meses: [7]
     temas: [naturaleza]
     es: { titulo: "Ver los campos de lavanda", resumen: "Brihuega (Guadalajara) florece en morado a principios de julio. Al atardecer es cuando más luce." }
     en: { titulo: "See the lavender fields", resumen: "Brihuega (Guadalajara) turns purple in early July. Best at sunset." }
+    relacionados: [flores-primavera, perseidas, cerezos-jerte]
+    contenido:
+      es:
+        texto:
+          - "A principios de julio, los campos de lavanda de Brihuega, en la provincia de Guadalajara, se tiñen de morado. Es uno de los paisajes de verano más fotogénicos de España y, a diferencia de la Provenza francesa, se llega en un par de horas desde Madrid."
+          - "La floración suele ir de finales de junio a mediados de julio, con el pico en la primera quincena de julio, aunque depende del año. Durante esas semanas se celebra el Festival de la Lavanda, con actividades, mercado y música en Brihuega, y es el momento de mayor afluencia."
+          - "Para disfrutar sin agobios, ve a primera hora de la mañana o al atardecer, cuando el calor es menor y la luz es más bonita. Los campos de lavanda son cultivos con dueño: respeta los límites y las zonas habilitadas para fotos y paseo, que a veces se cobran. Lleva sombrero, protección solar y agua, y ten en cuenta que hay muchas abejas."
+        faq:
+          - p: "¿Cuándo florece la lavanda en Brihuega?"
+            r: "De finales de junio a mediados de julio, con el máximo en la primera quincena de julio. Varía cada año con el clima."
+          - p: "¿Dónde están los campos de lavanda?"
+            r: "En los alrededores de Brihuega (Guadalajara), con accesos señalizados desde el pueblo. Hay zonas de paseo y miradores."
+          - p: "¿Cuál es la mejor hora para ir?"
+            r: "A primera hora de la mañana o al atardecer, cuando hace menos calor, hay menos gente y la luz es más bonita."
+          - p: "¿Hay que pagar?"
+            r: "Algunas zonas habilitadas para el paseo y las fotos piden una pequeña entrada. Consulta las condiciones antes de ir, y no entres en campos no autorizados."
+          - p: "¿Qué hay que llevar?"
+            r: "Sombrero, protección solar, agua y calzado cómodo. Hay muchas abejas, así que conviene no molestarlas."
+          - p: "¿Es buen plan con niños?"
+            r: "Sí, pero con calor y con abejas, así que vigila a los más pequeños, evita las horas centrales y lleva agua."
   - id: terrazas-primavera
     meses: [5, 6, 9]
     temas: [gastronomia]
     es: { titulo: "Ruta de terrazas y vermut", resumen: "Antes del calor fuerte y al volver de vacaciones: buen momento para un vermut al sol." }
     en: { titulo: "Terrace and vermouth crawl", resumen: "Before the summer heat and after the holidays: a good time for vermouth in the sun." }
+    relacionados: [calcotada, flores-primavera, vendimia]
+    contenido:
+      es:
+        texto:
+          - "El vermut es mucho más que una bebida: es un ritual de fin de semana. Un vermut de grifo, una aceituna, un poco de sifón y una terraza al sol hacen un plan sencillo, barato y muy español, perfecto para antes de comer."
+          - "Las mejores épocas para las terrazas son la primavera, antes del calor fuerte, y septiembre, cuando aún se está bien al aire libre. Barcelona, Madrid, Reus, Valencia o Sevilla tienen buenos bares de vermut, y muchos barrios organizan rutas y concursos con tapas y vermut a precio ajustado."
+          - "Lo más sencillo es salir a mediodía, en fin de semana, y pasear de bar en bar. Reserva si vas en grupo, porque las terrazas con sol se llenan, y prueba el vermut de la casa, que cada local elabora o selecciona el suyo. Acompáñalo de encurtidos, anchoas, patatas fritas o berberechos."
+        faq:
+          - p: "¿Cuándo es mejor para ir de terrazas?"
+            r: "En primavera, entre abril y junio, y en septiembre, cuando hace buen tiempo y el calor aún no aprieta."
+          - p: "¿Qué se pide con el vermut?"
+            r: "Aceituna, naranja o rodaja de limón y hielo, a veces un chorrito de sifón. Se acompaña con encurtidos, patatas, berberechos o anchoas."
+          - p: "¿Dónde ir de vermut?"
+            r: "Barcelona, Madrid, Reus, Valencia y Sevilla tienen mucha tradición, pero casi cualquier ciudad tiene su bar de vermut."
+          - p: "¿Hay que reservar?"
+            r: "En fin de semana y con terraza al sol, conviene reservar o llegar pronto, sobre todo en grupo."
+          - p: "¿Cuánto cuesta?"
+            r: "Depende de la ciudad y del local. Un vermut de grifo suele ser asequible y muchas rutas de tapas incluyen vermut a precio cerrado."
+          - p: "¿Es buen plan con niños?"
+            r: "En terrazas sí, con bebidas sin alcohol, y a mediodía. Mejor evitar las horas de más aglomeración."
   - id: museos-gratis
     meses: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
     temas: [cultura]
     es: { titulo: "Entrar gratis a un museo", resumen: "Muchos museos estatales tienen horarios de entrada gratuita, por ejemplo las tardes o los domingos. Consulta el horario de cada museo." }
     en: { titulo: "Visit a museum for free", resumen: "Many state museums offer free entry at set times, such as evenings or Sundays. Check each museum's hours." }
+    relacionados: [belenes, mercadillos-navidad, terrazas-primavera]
+    contenido:
+      es:
+        texto:
+          - "Muchos museos de España tienen horarios o días de entrada gratuita, y aprovecharlos es una de las mejores formas de hacer un plan cultural sin gastar. Con un poco de planificación, puedes conocer colecciones de primer nivel casi sin coste."
+          - "Los museos de titularidad estatal suelen ser gratuitos los sábados por la tarde y los domingos, y algunos tienen horarios gratuitos entre semana. Los grandes museos nacionales tienen sus propios horarios y condiciones. Además, hay fechas especiales como el Día Internacional de los Museos, el 18 de mayo, o la Noche de los Museos, con entrada gratuita o actividades especiales."
+          - "Los horarios y las condiciones cambian, así que consulta siempre la web de cada museo antes de ir. En muchos casos hace falta recoger una entrada gratuita, y los horarios de gratuidad son los más concurridos, así que llega pronto o ten paciencia con las colas. Los menores, los estudiantes, los jubilados y otros colectivos tienen entrada gratuita o reducida casi siempre."
+        faq:
+          - p: "¿Cuándo es gratis entrar a un museo?"
+            r: "Depende de cada museo. Los estatales suelen ser gratuitos los sábados por la tarde y los domingos, y muchos tienen horarios gratuitos entre semana. Consulta siempre su web."
+          - p: "¿Qué es el Día Internacional de los Museos?"
+            r: "Se celebra el 18 de mayo y muchos museos abren gratis o con actividades especiales. Es una buena ocasión para visitar colecciones."
+          - p: "¿Hay que reservar entrada?"
+            r: "A veces sí. En horarios gratuitos muchos museos piden recoger o reservar una entrada gratuita, y hay colas."
+          - p: "¿Quién tiene entrada gratuita siempre?"
+            r: "En muchos museos, los menores de 18 años, algunos estudiantes y jubilados, personas en desempleo o con discapacidad y otros colectivos. Mira las condiciones de cada museo."
+          - p: "¿Cómo evito las colas?"
+            r: "Ve entre semana, a primera hora de la franja gratuita y reserva si se puede. Los fines de semana se llena mucho."
+          - p: "¿Es buen plan con niños?"
+            r: "Sí, muchos museos tienen visitas y talleres familiares, y la entrada para menores suele ser gratuita."
 
 citas:
   - id: cabalgata-reyes
