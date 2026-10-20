@@ -359,6 +359,15 @@ temporada:
           - "Durante unas semanas de primavera, el Valle del Jerte, en el norte de Cáceres, se cubre de blanco con la floración de cientos de miles de cerezos. Los bancales de las laderas parecen nevados, y el espectáculo se completa con la Garganta de los Infiernos y los pueblos de piedra del valle."
           - "La floración suele llegar entre finales de marzo y mediados de abril, aunque la fecha exacta cambia cada año según el invierno y las temperaturas. Dura poco, entre una y dos semanas por zona, y se adelanta o retrasa según la altitud, así que conviene consultar el estado de la floración antes de viajar. Durante esa época se celebra la Fiesta del Cerezo en Flor."
           - "Es un plan muy popular y los fines de semana de máxima floración el tráfico y el aparcamiento se complican. Si puedes, ve entre semana o a primera hora, reserva alojamiento con tiempo y ten paciencia en las carreteras del valle. Los cerezos son árboles de cultivo con dueño: respeta las fincas, no cortes ramas ni entres en los bancales cerrados."
+        mapa:
+          titulo: "Dónde ver los cerezos en flor"
+          centro: [40.2, -5.77]
+          zoom: 11
+          puntos:
+            - { nombre: "Garganta de los Infiernos", lat: 40.22, lon: -5.76, desc: "Reserva natural en la cabecera del valle, con senderos y pozas junto al río." }
+            - { nombre: "Jerte", lat: 40.2147, lon: -5.7508, desc: "Pueblo de piedra a la entrada de la Garganta, con centro de visitantes y cerezos en los bancales." }
+            - { nombre: "Navaconcejo", lat: 40.1747, lon: -5.7978, desc: "Pueblo del valle rodeado de cerezos; buena base para ver la floración." }
+            - { nombre: "Cabezuela del Valle", lat: 40.1697, lon: -5.7014, desc: "Cerezos en las laderas y calles de piedra, en el tramo medio del valle." }
         faq:
           - p: "¿Cuándo florecen los cerezos del Jerte?"
             r: "Normalmente entre finales de marzo y mediados de abril, durante una o dos semanas en cada zona. La fecha cambia cada año con el clima, así que mira el estado de la floración antes de ir."
