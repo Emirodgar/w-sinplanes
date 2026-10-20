@@ -393,6 +393,15 @@ temporada:
           - "Los almendros son los primeros árboles en florecer en España. A finales del invierno, cuando aún hace frío, las laderas se cubren de flores blancas y rosadas, y se puede pasear entre ellas con una luz especialmente bonita."
           - "La floración suele ir de finales de enero a marzo, según la zona y el año, y el pico se adelanta en el sur y en las islas. Mallorca, la Axarquía malagueña, Tenerife y la zona de Cartagena son destinos conocidos, y en varios lugares hay rutas señalizadas y fiestas dedicadas, como la del almendro en flor en Tenerife."
           - "Como las flores duran poco y dependen del tiempo, conviene mirar el estado de la floración unos días antes. Los almendros son cultivos con dueño: pasea por caminos públicos, no cortes ramas ni cojas flores y no entres en fincas cerradas. Si eres alérgico al polen, lleva medicación, porque en esta época hay mucho."
+        mapa:
+          titulo: "Dónde ver los almendros en flor"
+          centro: [37.5, -6.0]
+          zoom: 5
+          puntos:
+            - { nombre: "Mallorca", lat: 39.65, lon: 2.95, desc: "El Pla de Mallorca y las laderas del interior se llenan de almendros blancos y rosados." }
+            - { nombre: "La Axarquía (Málaga)", lat: 36.85, lon: -4.3, desc: "Comarca malagueña con almendros en flor desde finales de enero." }
+            - { nombre: "Campo de Cartagena (Murcia)", lat: 37.65, lon: -1.0, desc: "Floración temprana en el campo de Cartagena, con rutas entre almendros." }
+            - { nombre: "Tenerife", lat: 28.3, lon: -16.8, desc: "Almendros en flor en el oeste de la isla, con la fiesta del almendro en flor." }
         faq:
           - p: "¿Cuándo florecen los almendros?"
             r: "Entre finales de enero y marzo, dependiendo de la zona y del año. En el sur y en Baleares y Canarias suele adelantarse."
