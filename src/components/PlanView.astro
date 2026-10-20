@@ -52,6 +52,6 @@ const jsonld = p.kind !== 'estacional' && pl.scope === 'local' && !past ? {
       {p.source?.name && p.source.name !== 'sinplanes' && <><dt>{L.sourceLabel}</dt><dd>{p.source.name}{p.source.license && <span class="muted"> ({p.source.license})</span>}</dd></>}
     </dl>
 
-    {p.source?.url && <a class="button" href={p.source.url} rel="noopener">{L.source}</a>}
+    {p.source?.url && <a class="button" href={p.source.url} target="_blank" rel="noopener noreferrer">{L.source}<span class="visually-hidden"> ({L.newTab})</span></a>}
   </article>
 </Base>

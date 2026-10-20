@@ -2,6 +2,7 @@
 import Base from '../layouts/Base.astro';
 import PlanList from './PlanList.astro';
 import NearMe from './NearMe.astro';
+import SearchBox from './SearchBox.astro';
 import { t, url, monthName, HREFLANG } from '../i18n/ui.js';
 import { TODAY, currentMonth, seasonalFor, upcoming, within, overlaps, weekendRange, topicById, fmtDay, cap, ptitle, psummary, textLang, trending, boost, inLang } from '../lib/data.js';
 
@@ -34,7 +35,9 @@ const jsonld = {
     <p>{L.heroToday(cap(fmtDay(lang, TODAY)))}</p>
   </section>
 
-  <section class="season" aria-labelledby="w-season">
+  <SearchBox lang={lang} mode="index" />
+
+  <section class="season" data-search-hide aria-labelledby="w-season">
     <div>
       <p class="month" aria-hidden="true">{cap(monthName(lang, m))}</p>
       <h2 id="w-season">{L.w.season(monthName(lang, m))}</h2>
@@ -50,7 +53,7 @@ const jsonld = {
     </ul>
   </section>
 
-  <div class="widgets">
+  <div class="widgets" data-search-hide>
     <section class="widget" aria-labelledby="w-weekend">
       <h2 id="w-weekend">{L.w.weekend}</h2>
       <PlanList lang={lang} plans={weekend} />

@@ -1,0 +1,85 @@
+---
+// Buscador. mode="filter": filtra en vivo las filas [data-q] de la página (listas).
+// mode="index": busca en el índice de todos los planes (portada, que solo muestra cinco por bloque).
+import { t } from '../i18n/ui.js';
+const { lang, mode = 'filter' } = Astro.props;
+const L = t[lang];
+const unit = (n) => L.plansCount(n).replace(String(n), '').trim();
+---
+<div class="search" role="search" data-search data-mode={mode} data-index={`/search/${lang}.json`} data-none={L.searchNone}
+  data-one={unit(1)} data-many={unit(2)} data-free={L.free_}>
+  <label class="visually-hidden" for="search-q">{L.searchLabel}</label>
+  <input id="search-q" type="search" name="q" autocomplete="off" enterkeyhint="search" placeholder={L.searchPlaceholder} />
+  <p class="search-status muted" aria-live="polite"></p>
+  {mode === 'index' && <div class="search-results" hidden></div>}
+</div>
+
+<script>
+  const root = document.querySelector('[data-search]');
+  if (root) {
+    const input = root.querySelector('input');
+    const status = root.querySelector('.search-status');
+    const box = root.querySelector('.search-results');
+    const { mode, index, none, one, many, free } = root.dataset;
+    const norm = (s) => String(s).normalize('NFD').replace(/\p{M}/gu, '').toLowerCase();
+    const terms = () => norm(input.value).split(/\s+/).filter(Boolean);
+    const count = (n) => `${n} ${n === 1 ? one : many}`;
+    let timer;
+    let loading;
+
+    const filterRows = (words) => {
+      let shown = 0;
+      document.querySelectorAll('[data-q]').forEach((li) => {
+        const ok = words.every((w) => li.dataset.q.includes(w));
+        li.hidden = !ok;
+        if (ok) shown++;
+      });
+      // una sección sin filas visibles se oculta entera, con su encabezado
+      document.querySelectorAll('.section').forEach((sec) => {
+        const rows = sec.querySelectorAll('[data-q]');
+        if (rows.length) sec.hidden = ![...rows].some((li) => !li.hidden);
+      });
+      status.textContent = words.length ? (shown ? count(shown) : none) : '';
+    };
+
+    const load = () => (loading ||= fetch(index).then((r) => r.json()).then((items) => items.map((it) => ({ ...it, q: norm(`${it.t} ${it.p} ${it.k} ${it.w} ${it.f ? free : ''}`) }))));
+
+    const renderIndex = async (words) => {
+      const hideables = document.querySelectorAll('[data-search-hide]');
+      if (!words.length) {
+        box.hidden = true; box.replaceChildren(); status.textContent = '';
+        hideables.forEach((el) => (el.hidden = false));
+        return;
+      }
+      let items;
+      try { items = await load(); } catch { status.textContent = none; return; }
+      if (terms().join(' ') !== words.join(' ')) return; // la persona ha seguido escribiendo
+      const found = items.filter((it) => words.every((w) => it.q.includes(w)));
+      hideables.forEach((el) => (el.hidden = true));
+      box.hidden = false;
+      const ul = document.createElement('ul');
+      ul.className = 'plan-list';
+      for (const it of found.slice(0, 40)) {
+        const li = document.createElement('li');
+        const a = document.createElement('a');
+        a.className = 'title'; a.href = it.u; a.textContent = it.t;
+        const meta = document.createElement('span');
+        meta.className = 'plan-meta';
+        for (const txt of [it.w, it.p]) { const s = document.createElement('span'); s.textContent = txt; meta.append(s); }
+        if (it.f) { const s = document.createElement('span'); s.className = 'tag'; s.textContent = free; meta.append(s); }
+        li.append(a, meta);
+        ul.append(li);
+      }
+      if (found.length) box.replaceChildren(ul);
+      else { const p = document.createElement('p'); p.className = 'empty'; p.textContent = none; box.replaceChildren(p); }
+      status.textContent = found.length ? (found.length > 40 ? `${count(found.length)} · 40` : count(found.length)) : '';
+    };
+
+    const run = () => (mode === 'index' ? renderIndex(terms()) : filterRows(terms()));
+    input.addEventListener('input', () => { clearTimeout(timer); timer = setTimeout(run, 90); });
+    if (mode === 'index') input.addEventListener('focus', () => load().catch(() => {}), { once: true });
+    // enlace directo a una búsqueda: ?q=castañas
+    const q0 = new URLSearchParams(location.search).get('q');
+    if (q0) { input.value = q0; run(); }
+  }
+</script>

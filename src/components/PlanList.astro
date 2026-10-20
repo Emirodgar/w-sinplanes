@@ -1,6 +1,6 @@
 ---
 import { t, url } from '../i18n/ui.js';
-import { fmtWhen, fmtPlace, topicById, textLang, ptitle, inLang } from '../lib/data.js';
+import { fmtWhen, fmtPlace, topicById, textLang, ptitle, inLang, searchText } from '../lib/data.js';
 const { lang, plans: all = [], showTopic = false } = Astro.props;
 const plans = inLang(all, lang);
 const L = t[lang];
@@ -9,7 +9,7 @@ const L = t[lang];
   ? <p class="empty">{L.empty}</p>
   : <ul class="plan-list">
       {plans.map((p) => (
-        <li>
+        <li data-q={searchText(lang, p, fmtWhen(lang, p), fmtPlace(p, L.allSpain))}>
           <a class="title" href={url.plan(lang, p.slug)} lang={textLang(lang, p)}>{ptitle(p, lang)}</a>
           <span class="plan-meta">
             <span>{fmtWhen(lang, p)}</span>

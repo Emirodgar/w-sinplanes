@@ -23,7 +23,7 @@ function indexable(pathname) {
 
 export default defineConfig({
   site: 'https://sinplanes.com',
-  trailingSlash: 'always',
+  trailingSlash: 'ignore',
   integrations: [
     sitemap({
       i18n: { defaultLocale: 'es', locales: LOCALES },

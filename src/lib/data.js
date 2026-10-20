@@ -40,6 +40,9 @@ export const byTopic = (id) => plans.filter((p) => p.topics?.includes(id) && !is
 export const byCcaa = (slug) => upcoming().filter((p) => p.place?.ccaa === slug);
 export const byProvince = (slug, prov) => byCcaa(slug).filter((p) => slugify(p.place.provincia) === prov);
 
+/** Minúsculas y sin tildes: base de la búsqueda (el mismo criterio en servidor y en el navegador). */
+export const norm = (s = '') => String(s).normalize('NFD').replace(/\p{M}/gu, '').toLowerCase();
+
 /* ---------- Textos con respaldo: idioma -> inglés -> español ---------- */
 export function pickText(obj, lang) {
   for (const l of [lang, 'en', 'es']) if (obj?.[l]) return { text: obj[l], lang: l };
@@ -93,3 +96,7 @@ export const trending = (n = 5) =>
 
 /** Reordena de forma estable: lo que está en tendencia sube; a igualdad, se mantiene el orden por fecha. */
 export const boost = (list) => [...list].sort((a, b) => (b.trend || 0) - (a.trend || 0));
+
+/** Texto normalizado sobre el que se busca: título, lugar, tema y fecha. */
+export const searchText = (lang, p, whenText, placeText) =>
+  norm([ptitle(p, lang), placeText, whenText, p.free ? t[lang].free_ : '', ...(p.topics || []).map((id) => topicById(id)?.[lang])].filter(Boolean).join(' '));

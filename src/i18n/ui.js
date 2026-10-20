@@ -76,6 +76,7 @@ export const t = {
     nav: { topics: 'Temas', places: 'Lugares', calendar: 'Calendario' },
     navLabel: 'Principal',
     langLabel: 'Idioma',
+    searchLabel: 'Buscar planes', searchPlaceholder: 'Busca por nombre, lugar o tema…', searchNone: 'No hay planes que coincidan con tu búsqueda.', newTab: 'se abre en una pestaña nueva',
     skip: 'Saltar al contenido',
     w: {
       season: (m) => `De temporada en ${m}`,
@@ -141,6 +142,7 @@ export const t = {
     nav: { topics: 'Topics', places: 'Places', calendar: 'Calendar' },
     navLabel: 'Main',
     langLabel: 'Language',
+    searchLabel: 'Search plans', searchPlaceholder: 'Search by name, place or topic…', searchNone: 'No plans match your search.', newTab: 'opens in a new tab',
     skip: 'Skip to content',
     w: {
       season: (m) => `In season in ${m}`,
@@ -206,6 +208,7 @@ export const t = {
     nav: { topics: 'Thèmes', places: 'Lieux', calendar: 'Calendrier' },
     navLabel: 'Principal',
     langLabel: 'Langue',
+    searchLabel: 'Rechercher des idées', searchPlaceholder: 'Cherchez par nom, lieu ou thème…', searchNone: 'Aucune idée ne correspond à votre recherche.', newTab: 's’ouvre dans un nouvel onglet',
     skip: 'Aller au contenu',
     w: {
       season: (m) => `De saison en ${m}`,
@@ -271,6 +274,7 @@ export const t = {
     nav: { topics: 'Themen', places: 'Orte', calendar: 'Kalender' },
     navLabel: 'Hauptmenü',
     langLabel: 'Sprache',
+    searchLabel: 'Tipps suchen', searchPlaceholder: 'Nach Name, Ort oder Thema suchen …', searchNone: 'Keine Tipps passen zu deiner Suche.', newTab: 'öffnet in einem neuen Tab',
     skip: 'Zum Inhalt springen',
     w: {
       season: (m) => `Saisonales im ${m}`,
@@ -336,6 +340,7 @@ export const t = {
     nav: { topics: 'Temi', places: 'Luoghi', calendar: 'Calendario' },
     navLabel: 'Principale',
     langLabel: 'Lingua',
+    searchLabel: 'Cerca idee', searchPlaceholder: 'Cerca per nome, luogo o tema…', searchNone: 'Nessuna idea corrisponde alla tua ricerca.', newTab: 'si apre in una nuova scheda',
     skip: 'Vai al contenuto',
     w: {
       season: (m) => `Di stagione a ${m}`,
@@ -401,6 +406,7 @@ export const t = {
     nav: { topics: 'Temas', places: 'Locais', calendar: 'Calendário' },
     navLabel: 'Principal',
     langLabel: 'Idioma',
+    searchLabel: 'Pesquisar ideias', searchPlaceholder: 'Pesquise por nome, local ou tema…', searchNone: 'Nenhuma ideia corresponde à sua pesquisa.', newTab: 'abre num novo separador',
     skip: 'Saltar para o conteúdo',
     w: {
       season: (m) => `De época em ${m}`,
