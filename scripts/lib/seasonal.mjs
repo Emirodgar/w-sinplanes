@@ -60,7 +60,7 @@ export function nextOccurrence(regla, today) {
 /** Lugares fijos de config/lugares.yml, de todos los grupos y con su enlace a la fuente (lo usan el esqueleto y check-skeleton). */
 export function readLugares() {
   const doc = yamlLoad(readFileSync(path.join(ROOT, 'config/lugares.yml'), 'utf8')) || {};
-  return Object.keys(doc.bases || {}).flatMap((g) => (doc[g] || []).map((l) => ({ ...l, fuente: doc.bases[g] + l.id + '/' })));
+  return Object.keys(doc.bases || {}).flatMap((g) => (doc[g] || []).map((l) => ({ ...l, grupo: g, fuente: doc.bases[g] + l.id + '/' })));
 }
 
 function placeOf(lugar) {
@@ -99,7 +99,7 @@ export function buildSeasonalPlans(today) {
   // Lugares fijos (museos, parques, rutas…): sin fecha, abiertos todo el año. Ver config/lugares.yml.
   for (const l of readLugares()) {
     plans.push({
-      id: `l-${l.id}`, slug: l.id, kind: 'lugar',
+      id: `l-${l.id}`, slug: l.id, kind: 'lugar', group: l.grupo,
       title: { es: l.es[0], en: l.en[0] },
       summary: { es: l.es[1], en: l.en[1] },
       months: [], topics: l.temas,

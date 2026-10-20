@@ -38,6 +38,9 @@ export function inMonth(m) {
 }
 
 export const byTopic = (id) => plans.filter((p) => p.topics?.includes(id) && !isPast(p));
+/** Lugares fijos de un grupo de config/lugares.yml (lugares = museos y monumentos, rutas…), ordenados por provincia y nombre. */
+export const byGroup = (g) => plans.filter((p) => p.group === g)
+  .sort((a, b) => (a.place?.provincia || '~').localeCompare(b.place?.provincia || '~', 'es') || a.title.es.localeCompare(b.title.es, 'es'));
 export const byCcaa = (slug) => [...upcoming(), ...plans.filter(isPlace)].filter((p) => p.place?.ccaa === slug);
 export const byProvince = (slug, prov) => byCcaa(slug).filter((p) => slugify(p.place.provincia) === prov);
 

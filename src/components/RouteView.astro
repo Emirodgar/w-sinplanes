@@ -3,7 +3,7 @@ import HomeView from './HomeView.astro';
 import PlanView from './PlanView.astro';
 import ListView from './ListView.astro';
 import { t, url, monthName } from '../i18n/ui.js';
-import { topics, byTopic, byCcaa, byProvince, slugify, geo, inMonth, currentMonth, cap, inLang, isPlace } from '../lib/data.js';
+import { topics, byTopic, byCcaa, byProvince, slugify, geo, inMonth, currentMonth, cap, inLang, isPlace, byGroup } from '../lib/data.js';
 
 const { lang, r } = Astro.props;
 const L = t[lang];
@@ -45,6 +45,10 @@ const split = (list) => ({ seasonal: list.filter((p) => p.kind === 'estacional')
 })()}
 
 {r.type === 'province' && <ListView lang={lang} title={L.inPlace(r.prov)} intro={r.geo[lang]} route={r} {...split(byProvince(r.c, r.s))} />}
+
+{r.type === 'museums' && <ListView lang={lang} title={L.museumsTitle} intro={L.museumsIntro} route={r} noindex={false} fixed={byGroup('lugares')} />}
+
+{r.type === 'routes' && <ListView lang={lang} title={L.routesTitle} intro={L.routesIntro} route={r} noindex={false} fixed={byGroup('rutas')} />}
 
 {r.type === 'calendar' && (
   <ListView lang={lang} title={L.calendarTitle} intro={L.calendarIntro} route={r} noindex={false}>

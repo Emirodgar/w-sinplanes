@@ -3,7 +3,7 @@ import { LANGS, routeUrl } from '../i18n/ui.js';
 import { plans, topics, geo, byCcaa, byProvince, slugify, hasText } from './data.js';
 
 function specs() {
-  const out = [{ type: 'home' }, { type: 'topics' }, { type: 'places' }, { type: 'calendar' }];
+  const out = [{ type: 'home' }, { type: 'topics' }, { type: 'places' }, { type: 'calendar' }, { type: 'museums' }, { type: 'routes' }];
   for (const p of plans) out.push({ type: 'plan', slug: p.slug, plan: p });
   for (const tp of topics) out.push({ type: 'topic', tp });
   for (const c of geo) {
