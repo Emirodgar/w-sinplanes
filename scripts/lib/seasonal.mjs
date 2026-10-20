@@ -57,6 +57,10 @@ export function nextOccurrence(regla, today) {
   return occurrence(regla, y + 1);
 }
 
+// Cada grupo de lugares.yml cuelga de un tema propio (con página propia): se suma a los temas que ya tenga la ficha.
+const GROUP_TOPIC = { lugares: 'museos', rutas: 'rutas', naturaleza: 'parques' };
+const parkType = (title) => (/^Parque Nacional/i.test(title) ? 'nacional' : /^Parque Natural/i.test(title) ? 'natural' : /^Reserva de la Biosfera/i.test(title) ? 'biosfera' : 'otros');
+
 /** Lugares fijos de config/lugares.yml, de todos los grupos y con su enlace a la fuente (lo usan el esqueleto y check-skeleton). */
 export function readLugares() {
   const doc = yamlLoad(readFileSync(path.join(ROOT, 'config/lugares.yml'), 'utf8')) || {};
@@ -102,7 +106,7 @@ export function buildSeasonalPlans(today) {
       id: `l-${l.id}`, slug: l.id, kind: 'lugar', group: l.grupo,
       title: { es: l.es[0], en: l.en[0] },
       summary: { es: l.es[1], en: l.en[1] },
-      months: [], topics: l.temas,
+      months: [], topics: [...l.temas, ...(GROUP_TOPIC[l.grupo] ? [GROUP_TOPIC[l.grupo]] : [])], ...(l.grupo === 'naturaleza' ? { parkType: parkType(l.es[0]) } : {}),
       place: placeOf(l.lugar ? { provincia: l.lugar[0], municipio: l.lugar[1] } : null), source: { name: 'sinplanes', url: l.fuente },
     });
   }

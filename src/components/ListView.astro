@@ -8,10 +8,11 @@ const { lang, title, intro, route, noindex, chips = null } = Astro.props;
 const seasonal = inLang(Astro.props.seasonal || [], lang);
 const dated = inLang(Astro.props.dated || [], lang);
 const fixed = inLang(Astro.props.fixed || [], lang);
+const groups = (Astro.props.groups || []).map((g) => ({ ...g, plans: inLang(g.plans, lang) })).filter((g) => g.plans.length);
 const L = t[lang];
-const total = seasonal.length + dated.length + fixed.length;
+const total = seasonal.length + dated.length + fixed.length + groups.reduce((n, g) => n + g.plans.length, 0);
 const site = Astro.site.origin;
-const all = [...dated, ...fixed, ...seasonal];
+const all = [...dated, ...fixed, ...groups.flatMap((g) => g.plans), ...seasonal];
 const jsonld = total ? {
   '@context': 'https://schema.org', '@type': 'ItemList', name: title,
   itemListElement: all.slice(0, 30).map((p, i) => ({ '@type': 'ListItem', position: i + 1, name: ptitle(p, lang), url: `${site}${url.plan(lang, p.slug)}` })),
@@ -27,6 +28,7 @@ const jsonld = total ? {
   {total > 0 && <SearchBox lang={lang} />}
   <slot />
   {seasonal.length > 0 && <section class="section"><h2>{L.seasonalSection}</h2><PlanList lang={lang} plans={seasonal} /></section>}
-  {(dated.length > 0 || (seasonal.length === 0 && fixed.length === 0)) && <section class="section">{(seasonal.length > 0 || fixed.length > 0) && <h2>{L.datedSection}</h2>}<PlanList lang={lang} plans={dated} showTopic /></section>}
+  {(dated.length > 0 || (seasonal.length === 0 && fixed.length === 0 && groups.length === 0)) && <section class="section">{(seasonal.length > 0 || fixed.length > 0) && <h2>{L.datedSection}</h2>}<PlanList lang={lang} plans={dated} showTopic /></section>}
   {fixed.length > 0 && <section class="section"><h2>{L.fixedSection}</h2><PlanList lang={lang} plans={fixed} showTopic /></section>}
+  {groups.map((g) => <section class="section"><h2>{g.title}<span class="count">{g.plans.length}</span></h2><PlanList lang={lang} plans={g.plans} /></section>)}
 </Base>

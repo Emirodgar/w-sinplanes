@@ -25,12 +25,12 @@ export const monthName = (l, m) => (MONTH_LABELS[l]?.[m - 1]) ?? (l === 'en' ? c
 
 // Segmentos de URL traducidos. El español va en la raíz; el resto con prefijo de idioma.
 const SEG = {
-  es: { plan: 'plan', topics: 'temas', places: 'lugares', calendar: 'calendario', museums: 'museos', routes: 'rutas' },
-  en: { plan: 'plan', topics: 'topics', places: 'places', calendar: 'calendar', museums: 'museums', routes: 'routes' },
-  fr: { plan: 'plan', topics: 'themes', places: 'lieux', calendar: 'calendrier', museums: 'musees', routes: 'itineraires' },
-  de: { plan: 'plan', topics: 'themen', places: 'orte', calendar: 'kalender', museums: 'museen', routes: 'routen' },
-  it: { plan: 'piano', topics: 'temi', places: 'luoghi', calendar: 'calendario', museums: 'musei', routes: 'itinerari' },
-  pt: { plan: 'plano', topics: 'temas', places: 'locais', calendar: 'calendario', museums: 'museus', routes: 'rotas' },
+  es: { plan: 'plan', topics: 'temas', places: 'lugares', calendar: 'calendario', museums: 'museos', routes: 'rutas', parks: 'parques' },
+  en: { plan: 'plan', topics: 'topics', places: 'places', calendar: 'calendar', museums: 'museums', routes: 'routes', parks: 'parks' },
+  fr: { plan: 'plan', topics: 'themes', places: 'lieux', calendar: 'calendrier', museums: 'musees', routes: 'itineraires', parks: 'parcs' },
+  de: { plan: 'plan', topics: 'themen', places: 'orte', calendar: 'kalender', museums: 'museen', routes: 'routen', parks: 'naturparks' },
+  it: { plan: 'piano', topics: 'temi', places: 'luoghi', calendar: 'calendario', museums: 'musei', routes: 'itinerari', parks: 'parchi' },
+  pt: { plan: 'plano', topics: 'temas', places: 'locais', calendar: 'calendario', museums: 'museus', routes: 'rotas', parks: 'parques' },
 };
 const pre = (l) => (l === DEFAULT_LANG ? '/' : `/${l}/`);
 const topicSlug = (l, tp) => (l === DEFAULT_LANG ? tp.id : tp.slugs[l]);
@@ -39,12 +39,14 @@ export const url = {
   home: (l) => pre(l),
   plan: (l, slug) => `${pre(l)}${SEG[l].plan}/${slug}/`,
   topics: (l) => `${pre(l)}${SEG[l].topics}/`,
-  topic: (l, tp) => `${pre(l)}${SEG[l].topics}/${topicSlug(l, tp)}/`,
+  // los temas con `page` (museos, rutas, parques) no tienen página de tema: su página propia hace de página del tema
+  topic: (l, tp) => (tp.page ? url[tp.page](l) : `${pre(l)}${SEG[l].topics}/${topicSlug(l, tp)}/`),
   places: (l) => `${pre(l)}${SEG[l].places}/`,
   ccaa: (l, c) => `${pre(l)}${SEG[l].places}/${c}/`,
   province: (l, c, p) => `${pre(l)}${SEG[l].places}/${c}/${p}/`,
   museums: (l) => `${pre(l)}${SEG[l].museums}/`,
   routes: (l) => `${pre(l)}${SEG[l].routes}/`,
+  parks: (l) => `${pre(l)}${SEG[l].parks}/`,
   calendar: (l) => `${pre(l)}${SEG[l].calendar}/`,
   month: (l, m) => `${pre(l)}${SEG[l].calendar}/${MONTHS[l][m - 1]}/`,
 };
@@ -65,6 +67,7 @@ export function routeUrl(l, r) {
     case 'province': return url.province(l, r.c, r.s);
     case 'museums': return url.museums(l);
     case 'routes': return url.routes(l);
+    case 'parks': return url.parks(l);
     case 'calendar': return url.calendar(l);
     case 'month': return url.month(l, r.m);
     default: throw new Error(`Ruta desconocida: ${r.type}`);
@@ -77,8 +80,10 @@ export const t = {
     tagline: 'Planes y eventos en toda España, cada día.',
     heroQ: '¿Sin planes?',
     heroToday: (d) => `${d}. Esto es lo que hay.`,
-    nav: { topics: 'Temas', places: 'Lugares', calendar: 'Calendario', museums: 'Museos', routes: 'Rutas' },
+    nav: { topics: 'Temas', places: 'Lugares', calendar: 'Calendario', museums: 'Museos', routes: 'Rutas', parks: 'Parques' },
     museumsTitle: 'Museos y monumentos de España', museumsIntro: 'Museos, palacios, catedrales y otros lugares de interés que se pueden visitar todo el año. Consulta horarios y entradas en la web oficial de cada uno.', routesTitle: 'Rutas de España', routesIntro: 'Itinerarios de uno o varios días por ciudades, caminos y paisajes de España.',
+    parksTitle: 'Parques y espacios naturales de España', parksIntro: 'Parques nacionales, parques naturales, reservas de la biosfera y otros espacios protegidos. Algunos exigen permiso o tienen aforo limitado: consulta las condiciones antes de ir.',
+    parkTypes: { nacional: 'Parques nacionales', natural: 'Parques naturales', biosfera: 'Reservas de la biosfera', otros: 'Otros espacios naturales' },
     navLabel: 'Principal',
     langLabel: 'Idioma',
     searchLabel: 'Buscar planes', searchPlaceholder: 'Busca por nombre, lugar o tema…', searchNone: 'No hay planes que coincidan con tu búsqueda.', newTab: 'se abre en una pestaña nueva',
@@ -145,8 +150,10 @@ export const t = {
     tagline: 'Things to do across Spain, updated daily.',
     heroQ: 'No plans?',
     heroToday: (d) => `${d}. Here’s what’s on.`,
-    nav: { topics: 'Topics', places: 'Places', calendar: 'Calendar', museums: 'Museums', routes: 'Routes' },
+    nav: { topics: 'Topics', places: 'Places', calendar: 'Calendar', museums: 'Museums', routes: 'Routes', parks: 'Parks' },
     museumsTitle: 'Museums and monuments in Spain', museumsIntro: 'Museums, palaces, cathedrals and other sights you can visit all year round. Check opening times and tickets on each site\'s official page.', routesTitle: 'Routes in Spain', routesIntro: 'Itineraries of one or several days through Spain\'s cities, trails and landscapes.',
+    parksTitle: 'Parks and natural areas in Spain', parksIntro: 'National parks, natural parks, biosphere reserves and other protected areas. Some require a permit or have limited numbers: check the conditions before you go.',
+    parkTypes: { nacional: 'National parks', natural: 'Natural parks', biosfera: 'Biosphere reserves', otros: 'Other natural areas' },
     navLabel: 'Main',
     langLabel: 'Language',
     searchLabel: 'Search plans', searchPlaceholder: 'Search by name, place or topic…', searchNone: 'No plans match your search.', newTab: 'opens in a new tab',
@@ -213,8 +220,10 @@ export const t = {
     tagline: 'Idées de sorties et événements dans toute l’Espagne, chaque jour.',
     heroQ: 'Pas de plan ?',
     heroToday: (d) => `${d}. Voici ce qui se passe.`,
-    nav: { topics: 'Thèmes', places: 'Lieux', calendar: 'Calendrier', museums: 'Musées', routes: 'Itinéraires' },
+    nav: { topics: 'Thèmes', places: 'Lieux', calendar: 'Calendrier', museums: 'Musées', routes: 'Itinéraires', parks: 'Parcs' },
     museumsTitle: 'Musées et monuments d’Espagne', museumsIntro: 'Musées, palais, cathédrales et autres lieux à visiter toute l’année. Vérifiez horaires et billets sur le site officiel de chacun.', routesTitle: 'Itinéraires en Espagne', routesIntro: 'Itinéraires d’un ou plusieurs jours à travers les villes, les chemins et les paysages d’Espagne.',
+    parksTitle: 'Parcs et espaces naturels d’Espagne', parksIntro: 'Parcs nationaux, parcs naturels, réserves de la biosphère et autres espaces protégés. Certains demandent un permis ou limitent les visiteurs : vérifiez les conditions avant d’y aller.',
+    parkTypes: { nacional: 'Parcs nationaux', natural: 'Parcs naturels', biosfera: 'Réserves de la biosphère', otros: 'Autres espaces naturels' },
     navLabel: 'Principal',
     langLabel: 'Langue',
     searchLabel: 'Rechercher des idées', searchPlaceholder: 'Cherchez par nom, lieu ou thème…', searchNone: 'Aucune idée ne correspond à votre recherche.', newTab: 's’ouvre dans un nouvel onglet',
@@ -281,8 +290,10 @@ export const t = {
     tagline: 'Ausflugstipps und Veranstaltungen in ganz Spanien, täglich aktuell.',
     heroQ: 'Keine Pläne?',
     heroToday: (d) => `${d}. Das ist los.`,
-    nav: { topics: 'Themen', places: 'Orte', calendar: 'Kalender', museums: 'Museen', routes: 'Routen' },
+    nav: { topics: 'Themen', places: 'Orte', calendar: 'Kalender', museums: 'Museen', routes: 'Routen', parks: 'Naturparks' },
     museumsTitle: 'Museen und Denkmäler in Spanien', museumsIntro: 'Museen, Paläste, Kathedralen und andere Sehenswürdigkeiten, die das ganze Jahr geöffnet sind. Öffnungszeiten und Tickets stehen auf der offiziellen Seite.', routesTitle: 'Routen in Spanien', routesIntro: 'Routen für einen oder mehrere Tage durch Städte, Wege und Landschaften Spaniens.',
+    parksTitle: 'Parks und Naturräume in Spanien', parksIntro: 'Nationalparks, Naturparks, Biosphärenreservate und andere Schutzgebiete. Manche verlangen eine Genehmigung oder begrenzen die Besucherzahl: Bedingungen vorab prüfen.',
+    parkTypes: { nacional: 'Nationalparks', natural: 'Naturparks', biosfera: 'Biosphärenreservate', otros: 'Weitere Naturräume' },
     navLabel: 'Hauptmenü',
     langLabel: 'Sprache',
     searchLabel: 'Tipps suchen', searchPlaceholder: 'Nach Name, Ort oder Thema suchen …', searchNone: 'Keine Tipps passen zu deiner Suche.', newTab: 'öffnet in einem neuen Tab',
@@ -349,8 +360,10 @@ export const t = {
     tagline: 'Idee e eventi in tutta la Spagna, ogni giorno.',
     heroQ: 'Senza piani?',
     heroToday: (d) => `${d}. Ecco cosa c’è.`,
-    nav: { topics: 'Temi', places: 'Luoghi', calendar: 'Calendario', museums: 'Musei', routes: 'Itinerari' },
+    nav: { topics: 'Temi', places: 'Luoghi', calendar: 'Calendario', museums: 'Musei', routes: 'Itinerari', parks: 'Parchi' },
     museumsTitle: 'Musei e monumenti in Spagna', museumsIntro: 'Musei, palazzi, cattedrali e altri luoghi da visitare tutto l’anno. Controlla orari e biglietti sul sito ufficiale di ciascuno.', routesTitle: 'Itinerari in Spagna', routesIntro: 'Itinerari di uno o più giorni tra città, cammini e paesaggi della Spagna.',
+    parksTitle: 'Parchi e spazi naturali della Spagna', parksIntro: 'Parchi nazionali, parchi naturali, riserve della biosfera e altre aree protette. Alcuni richiedono un permesso o limitano gli accessi: controlla le condizioni prima di andare.',
+    parkTypes: { nacional: 'Parchi nazionali', natural: 'Parchi naturali', biosfera: 'Riserve della biosfera', otros: 'Altri spazi naturali' },
     navLabel: 'Principale',
     langLabel: 'Lingua',
     searchLabel: 'Cerca idee', searchPlaceholder: 'Cerca per nome, luogo o tema…', searchNone: 'Nessuna idea corrisponde alla tua ricerca.', newTab: 'si apre in una nuova scheda',
@@ -417,8 +430,10 @@ export const t = {
     tagline: 'Ideias e eventos por toda a Espanha, todos os dias.',
     heroQ: 'Sem planos?',
     heroToday: (d) => `${d}. Eis o que há.`,
-    nav: { topics: 'Temas', places: 'Locais', calendar: 'Calendário', museums: 'Museus', routes: 'Rotas' },
+    nav: { topics: 'Temas', places: 'Locais', calendar: 'Calendário', museums: 'Museus', routes: 'Rotas', parks: 'Parques' },
     museumsTitle: 'Museus e monumentos de Espanha', museumsIntro: 'Museus, palácios, catedrais e outros locais para visitar durante todo o ano. Consulte horários e bilhetes no site oficial de cada um.', routesTitle: 'Rotas em Espanha', routesIntro: 'Itinerários de um ou vários dias por cidades, caminhos e paisagens de Espanha.',
+    parksTitle: 'Parques e espaços naturais de Espanha', parksIntro: 'Parques nacionais, parques naturais, reservas da biosfera e outros espaços protegidos. Alguns exigem licença ou têm lotação limitada: veja as condições antes de ir.',
+    parkTypes: { nacional: 'Parques nacionais', natural: 'Parques naturais', biosfera: 'Reservas da biosfera', otros: 'Outros espaços naturais' },
     navLabel: 'Principal',
     langLabel: 'Idioma',
     searchLabel: 'Pesquisar ideias', searchPlaceholder: 'Pesquise por nome, local ou tema…', searchNone: 'Nenhuma ideia corresponde à sua pesquisa.', newTab: 'abre num novo separador',
