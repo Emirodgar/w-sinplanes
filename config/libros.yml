@@ -53,6 +53,18 @@ destacados:
       es: "Un hidalgo manchego enloquece de tanto leer novelas de caballerías y sale por los caminos a deshacer entuertos, con Sancho Panza como escudero. La gran novela en castellano, y también una de las más divertidas."
       en: "A gentleman from La Mancha reads so many chivalry romances that he loses his wits and rides out to right wrongs, with Sancho Panza as his squire. The great novel in Spanish, and one of the funniest."
 
+  - id: autobiografia-de-rojo
+    titulo: "Autobiografía de Rojo"
+    autor: "Anne Carson"
+    generos: [contemporanea]
+    portada: "/img/libros/autobiografia-de-rojo.webp"
+    desde: "2026-10-08"
+    hasta: "2026-10-31"
+    motivo: { es: "Premio Nobel de Literatura 2026", en: "2026 Nobel Prize in Literature" }
+    sinopsis:
+      es: "Gerión, un niño monstruo rojo y con alas, crece, se enamora de Heracles y escribe su autobiografía. Una novela en verso que reinventa un mito griego, de la poeta canadiense Anne Carson, Nobel de Literatura 2026."
+      en: "Geryon, a red, winged monster boy, grows up, falls in love with Herakles and writes his autobiography. A novel in verse that reinvents a Greek myth, by Canadian poet Anne Carson, 2026 Nobel laureate."
+
   # Premiados y muy comentados de los últimos doce meses (ventanas ya cerradas: solo alimentan el histórico).
   - id: tango-satanico
     titulo: "Tango satánico"
