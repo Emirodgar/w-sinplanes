@@ -54,6 +54,7 @@ const switcher = LANGS.map((l) => ({ l, href: route && avail.includes(l) ? route
         <a href={url.parks(lang)}>{L.nav.parks}</a>
         <a href={url.books(lang)}>{L.nav.books}</a>
         <a href={url.series(lang)}>{L.nav.series}</a>
+        <a href={url.movies(lang)}>{L.nav.movies}</a>
         {podcasts.historico.length > 0 && <a href={url.podcasts(lang)}>{L.nav.podcasts}</a>}
         <a href={url.places(lang)}>{L.nav.places}</a>
         <a href={url.calendar(lang)}>{L.nav.calendar}</a>

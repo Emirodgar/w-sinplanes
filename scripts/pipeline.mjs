@@ -15,6 +15,7 @@ import { translatePlans } from './lib/translate.mjs';
 import { extractPress } from './lib/extract.mjs';
 import { fetchCartelera } from './lib/cartelera.mjs';
 import { fetchSeries } from './lib/series.mjs';
+import { fetchPeliculas } from './lib/peliculas.mjs';
 import { fetchTrends, mergeHistory, saveTrends, readHistory } from './lib/trends.mjs';
 
 const TODAY = process.env.SINPLANES_TODAY || todayISO();
@@ -132,6 +133,18 @@ async function seriesStep() {
   } catch (err) { log(`Series: no disponibles (${err.message}). Se conservan las anteriores.`); }
 }
 
+// Películas: top por género, estrenos en cines y bolsa para la recomendación al azar (TMDB, sin IA). Si falla, se conserva lo anterior.
+async function peliculasStep() {
+  mkdirSync(path.join(ROOT, 'data'), { recursive: true });
+  if (process.env.SINPLANES_OFFLINE) return;
+  if (!process.env.TMDB_API_KEY) { log('Películas: falta TMDB_API_KEY, se omite.'); return; }
+  try {
+    const pelis = await fetchPeliculas(process.env.TMDB_API_KEY, TODAY);
+    writeFileSync(path.join(ROOT, 'data/peliculas-tmdb.json'), JSON.stringify(pelis));
+    log(`Películas: ${pelis.top.length} en el top, ${pelis.estrenos.length} estrenos en cines y ${pelis.azar.length} para el azar.`);
+  } catch (err) { log(`Películas: no disponibles (${err.message}). Se conservan las anteriores.`); }
+}
+
 async function main() {
   log(`Ejecutando para ${TODAY}`);
   const seasonal = buildSeasonalPlans(TODAY);
@@ -154,6 +167,7 @@ async function main() {
   await trendsStep();
   await carteleraStep();
   await seriesStep();
+  await peliculasStep();
 
   mkdirSync(path.join(ROOT, 'data'), { recursive: true });
   writeFileSync(path.join(ROOT, 'data/events.json'), JSON.stringify(events));

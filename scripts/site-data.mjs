@@ -42,6 +42,15 @@ writeFileSync(path.join(ROOT, 'data/series.json'), JSON.stringify({
   novedades: seriesFresh ? (seriesRaw.novedades || []) : [],
   estrenos: seriesFresh ? (seriesRaw.estrenos || []) : [],
 }));
+// Películas: mismo criterio de frescura.
+const pelisRaw = readJSON('data/peliculas-tmdb.json', {});
+const pelisFresh = pelisRaw.generated && (Date.parse(today) - Date.parse(pelisRaw.generated.slice(0, 10))) / 864e5 <= 21;
+writeFileSync(path.join(ROOT, 'data/peliculas.json'), JSON.stringify({
+  generos: pelisRaw.generos || {},
+  top: pelisFresh ? (pelisRaw.top || []) : [],
+  estrenos: pelisFresh ? (pelisRaw.estrenos || []) : [],
+  azar: pelisFresh ? (pelisRaw.azar || []) : [],
+}));
 writeFileSync(path.join(ROOT, 'data/libros.json'), JSON.stringify(buildBooks(today)));
 writeFileSync(path.join(ROOT, 'data/podcasts.json'), JSON.stringify(buildPodcasts(today)));
 writeFileSync(path.join(ROOT, 'data/site.json'), JSON.stringify({

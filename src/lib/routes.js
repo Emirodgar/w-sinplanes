@@ -3,7 +3,7 @@ import { LANGS, routeUrl } from '../i18n/ui.js';
 import { plans, topics, geo, byCcaa, byProvince, slugify, hasText } from './data.js';
 
 function specs() {
-  const out = [{ type: 'home' }, { type: 'topics' }, { type: 'places' }, { type: 'calendar' }, { type: 'museums' }, { type: 'routes' }, { type: 'parks' }, { type: 'books' }, { type: 'series' }, { type: 'podcasts' }];
+  const out = [{ type: 'home' }, { type: 'topics' }, { type: 'places' }, { type: 'calendar' }, { type: 'museums' }, { type: 'routes' }, { type: 'parks' }, { type: 'books' }, { type: 'series' }, { type: 'movies' }, { type: 'podcasts' }];
   for (const p of plans) out.push({ type: 'plan', slug: p.slug, plan: p });
   for (const tp of topics) if (!tp.page) out.push({ type: 'topic', tp }); // museos, rutas y parques tienen página propia
   for (const c of geo) {
