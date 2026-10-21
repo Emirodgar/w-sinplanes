@@ -6,12 +6,13 @@ const { podcast, lazy = true } = Astro.props;
 // Si aún no hay imagen de portada, se dibuja una tipográfica.
 const hasCover = podcast.portada && existsSync(path.join(process.cwd(), 'public', podcast.portada));
 const hue = [...podcast.id].reduce((a, c) => (a * 31 + c.charCodeAt(0)) % 360, 7);
+const name = [podcast.titulo, podcast.autor].filter(Boolean).join(', ');
 ---
 {hasCover ? (
-  <img class="book-cover podcast-cover" src={podcast.portada} alt={`${podcast.titulo}, ${podcast.autor}`} width="300" height="300" loading={lazy ? 'lazy' : undefined} decoding="async" />
+  <img class="book-cover podcast-cover" src={podcast.portada} alt={name} width="300" height="300" loading={lazy ? 'lazy' : undefined} decoding="async" />
 ) : (
-  <div class="book-cover book-cover--type podcast-cover" style={`--h:${hue}`} role="img" aria-label={`${podcast.titulo}, ${podcast.autor}`}>
+  <div class="book-cover book-cover--type podcast-cover" style={`--h:${hue}`} role="img" aria-label={name}>
     <span aria-hidden="true">{podcast.titulo}</span>
-    <small aria-hidden="true">{podcast.autor}</small>
+    {podcast.autor && <small aria-hidden="true">{podcast.autor}</small>}
   </div>
 )}

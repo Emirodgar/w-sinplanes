@@ -288,3 +288,6 @@ p { margin: 0 0 1em; max-width: var(--measure); }
 .podcast-links { list-style: none; display: flex; flex-wrap: wrap; gap: 0.5rem; margin: 1rem 0 0; padding: 0; }
 .podcast-links .button { min-height: 2.25rem; padding: 0.3rem 1rem; font-size: 0.875rem; }
 .podcast .podcast-links + .more { display: inline-block; margin-top: 1rem; }
+.podcast-episode { margin: 0.75rem 0 0; font-size: 0.9375rem; font-weight: 500; }
+.podcast-episode a { color: inherit; text-decoration-color: var(--line); text-underline-offset: 0.2em; }
+.podcast-episode a:hover { text-decoration-color: currentColor; }

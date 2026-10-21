@@ -20,8 +20,9 @@ const links = pod ? listenLinks(pod.enlaces) : [];
       <p class="book-eyebrow" lang={reason ? reason.lang : undefined}>{eyebrow}</p>
       <h2 id="w-podcast">{L.w.podcast}</h2>
       <p class="book-title">{pod.titulo}</p>
-      <p class="book-author">{pod.autor}</p>
-      <p class="book-synopsis" lang={desc.lang !== lang ? desc.lang : undefined}>{desc.text}</p>
+      {pod.autor && <p class="book-author">{pod.autor}</p>}
+      {desc.text && <p class="book-synopsis" lang={desc.lang !== lang ? desc.lang : undefined}>{desc.text}</p>}
+      {pod.episodio && <p class="podcast-episode">{L.podcastStart}: {pod.episodio.enlace ? <a href={pod.episodio.enlace} target="_blank" rel="noopener noreferrer">{pod.episodio.titulo}</a> : pod.episodio.titulo}</p>}
       {links.length > 0 && (
         <ul class="podcast-links">
           {links.map((l) => <li><a class="button button--ghost" href={l.href} target="_blank" rel="noopener noreferrer">{l.key === 'web' ? l.name : `${L.podcastListen} ${l.name}`}</a></li>)}

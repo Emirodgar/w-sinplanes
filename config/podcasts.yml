@@ -7,16 +7,22 @@
 # destacados: podcasts ligados a un estreno, premio o evento, con ventana de fechas (ISO, ambas incluidas).
 #             Si hay varios activos a la vez, gana el primero de la lista.
 #
+# Cada entrada es UNA recomendación (un programa, o un programa con un episodio concreto), así que el `id`
+# debe ser único aunque el programa se repita (p. ej. dos episodios de Polymatas).
+#
 # Campos de cada podcast:
 #   id          identificador (sin espacios)
-#   titulo, autor   (autor: quien lo presenta o la productora)
+#   titulo      nombre del programa
+#   autor       (opcional) quien lo presenta o la productora
 #   generos     [id, …] de la lista de `generos` de abajo
 #   portada     ruta en public/img/podcasts/ (webp o jpg, cuadrada, ~600x600).
 #               Si el fichero no existe, sale una portada tipográfica.
-#   descripcion { es, en }  (los demás idiomas muestran el inglés)
+#   descripcion (opcional) { es, en }  (los demás idiomas muestran el inglés)
+#   episodio    (opcional) { titulo, enlace }  el episodio con el que empezar; sale como «Empieza por…»
 #   motivo      { es, en }  solo en destacados: por qué toca ahora
 #   desde, hasta            solo en destacados
-#   enlaces     (opcional) { spotify, apple, youtube, web } con la URL de cada plataforma; salen como botones
+#   enlaces     (opcional) { spotify, apple, youtube, web } con la URL del PROGRAMA en cada plataforma;
+#               salen como botones
 #
 # Plantilla (copia y rellena):
 #   - id: ejemplo
@@ -24,7 +30,8 @@
 #     autor: "…"
 #     generos: [cultura]
 #     portada: "/img/podcasts/ejemplo.webp"
-#     enlaces: { spotify: "https://open.spotify.com/show/…", apple: "https://podcasts.apple.com/…" }
+#     enlaces: { spotify: "https://open.spotify.com/show/…" }
+#     episodio: { titulo: "…", enlace: "https://open.spotify.com/episode/…" }
 #     descripcion:
 #       es: "…"
 #       en: "…"
@@ -33,13 +40,150 @@
 inicio: "2026-10-19"
 
 generos:
+  literatura: { es: "Literatura", en: "Literature", fr: "Littérature", de: "Literatur", it: "Letteratura", pt: "Literatura" }
   cultura: { es: "Cultura", en: "Culture", fr: "Culture", de: "Kultur", it: "Cultura", pt: "Cultura" }
   historia: { es: "Historia", en: "History", fr: "Histoire", de: "Geschichte", it: "Storia", pt: "História" }
   ciencia: { es: "Ciencia", en: "Science", fr: "Science", de: "Wissenschaft", it: "Scienza", pt: "Ciência" }
+  negocios: { es: "Negocios", en: "Business", fr: "Business", de: "Business", it: "Business", pt: "Negócios" }
   actualidad: { es: "Actualidad", en: "News", fr: "Actualité", de: "Aktuelles", it: "Attualità", pt: "Atualidade" }
-  humor: { es: "Humor", en: "Comedy", fr: "Humour", de: "Comedy", it: "Commedia", pt: "Humor" }
   crimen: { es: "True crime", en: "True crime", fr: "True crime", de: "True Crime", it: "True crime", pt: "True crime" }
 
 destacados: []
 
-reserva: []
+# Orden de la lista original (de la entrega más antigua a la más reciente). Los episodios y programas salen de
+# los enlaces de Spotify, YouTube y RTVE; los datos de cada ficha son los que publican esas plataformas.
+reserva:
+  - id: mago-more-villalonga
+    titulo: "Mago More"
+    generos: [negocios]
+    episodio: { titulo: "“Hay que reinventarse cuando el teléfono deja de sonar” | Juan Villalonga", enlace: "https://www.youtube.com/watch?v=kRLHDTSQOig" }
+
+  - id: el-perfilador
+    titulo: "El perfilador"
+    autor: "Podium Podcast"
+    generos: [crimen]
+    enlaces: { spotify: "https://open.spotify.com/show/66ugPnThwfN5BkgEticf4J" }
+    descripcion:
+      es: "Cada episodio analiza un caso criminal muy mediático (motivaciones, patrones y decisiones) de la mano de Vicente Garrido, catedrático de Criminología."
+      en: "Each episode dissects a high-profile criminal case (motives, patterns and decisions) with Vicente Garrido, professor of Criminology."
+
+  - id: esto-merece-una-explicacion-ave
+    titulo: "Esto merece una explicación"
+    autor: "RNE Audio"
+    generos: [actualidad]
+    episodio: { titulo: "Tras el rastro del AVE", enlace: "https://www.rtve.es/play/audios/esto-merece-una-explicacion/podcast-accidente-adamuz-ave/16987139/" }
+    descripcion:
+      es: "En este capítulo, José María Galán, pasajero del Alvia de Adamuz, vuelve a tomar un tren un mes después del accidente."
+      en: "In this episode, José María Galán, a passenger on the Adamuz Alvia, takes a train again a month after the accident."
+
+  - id: historias-del-mago-more
+    titulo: "Las Historias del Mago More"
+    autor: "Mago More"
+    generos: [cultura]
+    enlaces: { spotify: "https://open.spotify.com/show/0ohRV6ixvFu72tRl0NX04u" }
+    descripcion:
+      es: "Conversaciones e historias de vida que le han llegado al alma al Mago More tras años de entrevistar a todo tipo de personas."
+      en: "Conversations and life stories that have moved the Mago More after years of interviewing all kinds of people."
+
+  - id: invisibles
+    titulo: "Invisibles"
+    autor: "Onda Cero Podcast"
+    generos: [crimen, actualidad]
+    enlaces: { spotify: "https://open.spotify.com/show/4isyRhlissimmtSCoOMpgi" }
+    descripcion:
+      es: "Serie documental sobre el Servicio de Vigilancia Aduanera: en ocho episodios, los propios agentes cuentan en primera persona operaciones reales contra el narcotráfico y el contrabando."
+      en: "A documentary series on Spain’s Customs Surveillance Service: in eight episodes, the agents themselves recount real operations against drug trafficking and smuggling."
+
+  - id: formula-del-exito-maestro
+    titulo: "La Fórmula Del Éxito con Uri Sabat"
+    generos: [negocios]
+    episodio: { titulo: "La felicidad es un timo que te robó la libertad (y nadie te lo dice) | Jesús G. Maestro", enlace: "https://open.spotify.com/episode/3LTYCC25BkDPUMwaBEng9i" }
+
+  - id: grandes-infelices-hemingway
+    titulo: "Grandes Infelices"
+    generos: [literatura]
+    episodio: { titulo: "#34 Ernest Hemingway", enlace: "https://open.spotify.com/episode/1CgOJgmhWOMvgxP7FKQBbb" }
+
+  - id: itnig-uriarte
+    titulo: "Podcast de Itnig: Historias de startups"
+    generos: [negocios]
+    episodio: { titulo: "Jon Uriarte: de vender Ticketbis a presidir el Athletic | #425", enlace: "https://open.spotify.com/episode/3C1peytDSGpD10JOYVqCq5" }
+
+  - id: sagrada-familia-matematicas
+    titulo: "Palacio Hermético LiteraturaTransmedia"
+    generos: [cultura]
+    episodio: { titulo: "La magia matemática de la Sagrada Familia", enlace: "https://www.youtube.com/watch?v=bcg70Joe-kQ" }
+
+  - id: polymatas-pensar-bien
+    titulo: "Polymatas"
+    generos: [ciencia]
+    episodio: { titulo: "#53 ¿Por qué cuesta tanto pensar bien?", enlace: "https://open.spotify.com/episode/26NYllf2ugM13sGwkFvskq" }
+
+  - id: charlando-con-libros-hipercomplejidad
+    titulo: "Charlando con libros"
+    autor: "Adrián Sussudio"
+    generos: [literatura]
+    episodio: { titulo: "#177 Hipercomplejidad, con Sergio Parra", enlace: "https://open.spotify.com/episode/7mi3FKLQBxG4li6szEjZOx" }
+
+  - id: locos-por-los-clasicos
+    titulo: "Locos por los clásicos"
+    autor: "RNE Audio - Emilio del Río"
+    generos: [literatura, historia]
+    enlaces: { spotify: "https://open.spotify.com/show/0aGQpLHTsLo49YGHUwpbev" }
+    descripcion:
+      es: "Lectura compartida de los clásicos latinos y griegos."
+      en: "Shared readings of the Latin and Greek classics."
+
+  - id: babelia-odisea
+    titulo: "Babelia"
+    generos: [literatura]
+    episodio: { titulo: "¿Por qué ‘La odisea’ nos fascina desde hace 3000 años?", enlace: "https://open.spotify.com/episode/0w1e4Ps9WbvzMsheidhZXW" }
+
+  - id: babelia-la-bola
+    titulo: "Babelia"
+    generos: [cultura]
+    episodio: { titulo: "‘La bola’: el engaño más fascinante del periodismo español", enlace: "https://open.spotify.com/episode/366FrmNCEvkNMShumWRcdf" }
+
+  - id: documentos-rne-eclipses
+    titulo: "Documentos RNE"
+    generos: [historia, ciencia]
+    episodio: { titulo: "Los eclipses españoles, trilogía del Sol apagado", enlace: "https://open.spotify.com/episode/6CYsoGnk4kY04Eam5Au373" }
+
+  - id: documentos-rne-quevedo
+    titulo: "Documentos RNE"
+    generos: [historia, literatura]
+    episodio: { titulo: "Quevedo: el ingenio como arma y escudo", enlace: "https://open.spotify.com/episode/1HE7vgP2fR1agTNPtLGKjP" }
+
+  - id: el-copiloto-ismael-clemente
+    titulo: "El Copiloto"
+    generos: [negocios]
+    episodio: { titulo: "Ismael Clemente, el CEO del Ibex", enlace: "https://open.spotify.com/episode/4tczsVHQQAwaeMFWYPZbzv" }
+
+  - id: un-libro-una-hora-delibes
+    titulo: "Un Libro Una Hora"
+    generos: [literatura]
+    episodio: { titulo: "Un autor en una hora | Miguel Delibes", enlace: "https://open.spotify.com/episode/4GNqA2ADeid8ACzkqooG5p" }
+
+  - id: formula-del-exito-longevidad
+    titulo: "La Fórmula Del Éxito con Uri Sabat"
+    generos: [negocios]
+    episodio: { titulo: "El secreto de longevidad de los millonarios", enlace: "https://open.spotify.com/episode/7zmETUvVpjQ1tDnONq9Uh0" }
+
+  - id: polymatas-ia
+    titulo: "Polymatas"
+    generos: [ciencia]
+    episodio: { titulo: "#113 ¿Hay algo que una IA nunca podrá hacer?", enlace: "https://open.spotify.com/episode/2fjcdiZg7idnsSYQKplsqJ" }
+
+  - id: un-libro-una-hora-anna-karenina
+    titulo: "Un Libro Una Hora"
+    generos: [literatura]
+    episodio: { titulo: "‘Anna Karenina’, una obra maestra sobre la búsqueda de la felicidad", enlace: "https://open.spotify.com/episode/1r0wZyLs9LS9QR9zW1ZMD5" }
+
+  - id: episodios-nacionales
+    titulo: "Episodios Nacionales"
+    autor: "RNE - Radio Nacional"
+    generos: [literatura, historia]
+    enlaces: { spotify: "https://open.spotify.com/show/3fdixC2j5bWTEC5FBtIzHU" }
+    descripcion:
+      es: "Adaptación radiofónica de los Episodios nacionales de Benito Pérez Galdós, novelas históricas sobre la España del siglo XIX."
+      en: "Radio adaptation of Benito Pérez Galdós’s Episodios nacionales, historical novels on nineteenth-century Spain."
