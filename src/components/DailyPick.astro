@@ -1,5 +1,5 @@
 ---
-// Cuatro recomendaciones para el día: una serie, un libro, un podcast y una película. Se eligen en el build con una
+// Cuatro widgets, cada uno con la recomendación del día de su categoría: serie, libro, podcast y película. Se eligen en el build con una
 // semilla por fecha (todos los visitantes ven las mismas ese día y cambian solas con el despliegue diario).
 // Una categoría sin datos simplemente no sale.
 import series from '../../data/series.json';
@@ -38,28 +38,25 @@ const cards = [
   };
 });
 ---
-{cards.length > 0 && (
-  <section class="widget widget--wide daily" aria-labelledby="w-daily" data-search-hide>
-    <h2 id="w-daily">{L.w.daily}</h2>
-    <ul class="daily-grid">
-      {cards.map((c) => (
-        <li class="daily-card">
-          <a class="daily-cover" href={c.href} tabindex="-1" aria-hidden="true">
-            {c.tmdb && (
-              <img class="book-cover daily-poster" src={img(c.item.poster, 342)} srcset={`${img(c.item.poster, 185)} 185w, ${img(c.item.poster, 342)} 342w`}
-                sizes="6.5rem" alt="" width="342" height="513" loading="lazy" decoding="async" />
-            )}
-            {c.kind === 'book' && <BookCover book={c.item} />}
-            {c.kind === 'podcast' && <PodcastCover podcast={c.item} />}
-          </a>
-          <div class="daily-body">
-            <p class="book-eyebrow">{c.label}</p>
-            <p class="book-title"><a href={c.href}>{c.title}</a></p>
-            {c.byline && <p class="book-author">{c.byline}</p>}
-            {c.text?.text && <p class="book-synopsis daily-text" lang={c.text.lang !== lang ? c.text.lang : undefined}>{c.text.text}</p>}
-          </div>
-        </li>
-      ))}
-    </ul>
+{cards.map((c) => (
+  <section class={`widget daily daily--${c.kind}`} aria-labelledby={`w-daily-${c.kind}`} data-search-hide>
+    <h2 id={`w-daily-${c.kind}`}>{c.label}</h2>
+    <div class="daily-card">
+      <a class="daily-cover" href={c.href} tabindex="-1" aria-hidden="true">
+        {c.tmdb && (
+          <img class="book-cover daily-poster" src={img(c.item.poster, 342)} srcset={`${img(c.item.poster, 185)} 185w, ${img(c.item.poster, 342)} 342w`}
+            sizes="7rem" alt="" width="342" height="513" loading="lazy" decoding="async" />
+        )}
+        {c.kind === 'book' && <BookCover book={c.item} />}
+        {c.kind === 'podcast' && <PodcastCover podcast={c.item} />}
+      </a>
+      <div class="daily-body">
+        <p class="book-eyebrow">{L.w.daily}</p>
+        <p class="book-title"><a href={c.href}>{c.title}</a></p>
+        {c.byline && <p class="book-author">{c.byline}</p>}
+        {c.text?.text && <p class="book-synopsis daily-text" lang={c.text.lang !== lang ? c.text.lang : undefined}>{c.text.text}</p>}
+      </div>
+    </div>
+    <a class="more" href={c.href}>{L.seeAll}</a>
   </section>
-)}
+))}
