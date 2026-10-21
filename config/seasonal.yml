@@ -1204,6 +1204,26 @@ citas:
     lugar: { provincia: "Gipuzkoa", municipio: "Donostia-San Sebastián" }
     es: { titulo: "Festival de Cine de San Sebastián", resumen: "Estrenos, estrellas en la alfombra roja y proyecciones abiertas al público." }
     en: { titulo: "San Sebastián Film Festival", resumen: "Premieres, red-carpet stars and public screenings." }
+    relacionados: [seminci, festival-internacional-cine-fantastico-cataluna-sitges, goya]
+    contenido:
+      es:
+        texto:
+          - "El Festival de Cine de San Sebastián, conocido como Zinemaldia, es uno de los grandes festivales de cine de España y de Europa. Se celebra en septiembre en Donostia-San Sebastián, con estrenos internacionales, estrellas en la alfombra roja y proyecciones abiertas al público."
+          - "La programación incluye la sección oficial a concurso, que se disputa la Concha de Oro, además de secciones paralelas, retrospectivas y homenajes, como el Premio Donostia a la trayectoria. Las proyecciones se reparten entre varios cines y espacios de la ciudad, entre ellos el Kursaal y el Teatro Victoria Eugenia, y gran parte están abiertas a cualquier espectador."
+          - "Consulta la web oficial para el programa, los horarios y la venta de entradas, que suelen ponerse a la venta pocos días antes de las sesiones y se agotan rápido. Llega pronto a las colas, mira los horarios para combinar sesiones y aprovecha para pasear por la ciudad y probar los pintxos. En septiembre puede llover: lleva un paraguas."
+        faq:
+          - p: "¿Cuándo es el Festival de Cine de San Sebastián?"
+            r: "En septiembre, durante unos nueve días. Las fechas exactas se anuncian cada año."
+          - p: "¿Puede ir cualquiera?"
+            r: "Sí. Además de las sesiones para profesionales y prensa, hay muchas proyecciones abiertas al público con entrada."
+          - p: "¿Dónde compro las entradas?"
+            r: "En los canales oficiales del festival. Se venden con poca antelación y las sesiones más populares se agotan."
+          - p: "¿Qué es la Concha de Oro?"
+            r: "Es el premio principal del festival, que se concede a la mejor película de la sección oficial."
+          - p: "¿Se puede ver a las estrellas?"
+            r: "En la alfombra roja del Teatro Victoria Eugenia suele haber público. Consulta los horarios y llega pronto."
+          - p: "¿Qué más hacer en San Sebastián?"
+            r: "Pasear por la bahía de La Concha, probar los pintxos en la Parte Vieja y visitar Monte Igueldo."
   - id: pilar
     fuente: "https://www.spain.info/es/agenda/fiestas-pilar/"
     regla: { tipo: fija, inicio: "10-12" }
@@ -1262,6 +1282,26 @@ citas:
     lugar: { provincia: "Valladolid", municipio: "Valladolid" }
     es: { titulo: "Seminci de Valladolid", resumen: "Semana Internacional de Cine con proyecciones de cine de autor en toda la ciudad." }
     en: { titulo: "Valladolid International Film Week", resumen: "Arthouse cinema screenings across the city." }
+    relacionados: [festival-san-sebastian, semana-santa-valladolid, festival-internacional-cine-gijon]
+    contenido:
+      es:
+        texto:
+          - "La Seminci, la Semana Internacional de Cine de Valladolid, es uno de los festivales de cine más veteranos de España y uno de los más dedicados al cine de autor. Se celebra en octubre en Valladolid, con proyecciones repartidas por toda la ciudad."
+          - "La sección oficial a concurso disputa la Espiga de Oro, y a lo largo de la semana hay secciones paralelas, ciclos, homenajes, coloquios con directores y películas de todo el mundo. El Teatro Calderón es una de las sedes principales, y hay sesiones en otras salas de la ciudad."
+          - "Consulta el programa en la web oficial, que se publica semanas antes, y compra las entradas con tiempo, porque las sesiones con invitados y los estrenos se llenan. Muchas películas se proyectan en versión original con subtítulos. En octubre las tardes en Valladolid son frescas, así que lleva abrigo."
+        faq:
+          - p: "¿Cuándo es la Seminci?"
+            r: "En octubre, durante unos nueve días. Las fechas exactas se anuncian cada año."
+          - p: "¿Qué tipo de cine se proyecta?"
+            r: "Sobre todo cine de autor y películas premiadas en otros festivales, de todo el mundo, además de ciclos y homenajes."
+          - p: "¿Qué es la Espiga de Oro?"
+            r: "Es el premio principal del festival, que se concede a la mejor película de la sección oficial."
+          - p: "¿Dónde compro las entradas?"
+            r: "En los canales oficiales del festival y en las taquillas de las salas. Los estrenos y las sesiones con invitados se llenan."
+          - p: "¿Las películas llevan subtítulos?"
+            r: "Muchas se proyectan en versión original con subtítulos. Consulta la ficha de cada sesión."
+          - p: "¿Qué más hacer en Valladolid?"
+            r: "Visitar el Museo Nacional de Escultura, la Plaza Mayor y probar los pinchos de la ciudad."
   - id: halloween-difuntos
     regla: { tipo: fija, inicio: "10-31", fin: "11-01" }
     temas: [fiestas, ninos]
@@ -1787,6 +1827,26 @@ citas:
     fuente: "https://www.spain.info/es/agenda/festival-internacional-cine-fantastico-cataluna-sitges/"
     es: { titulo: "Festival de Sitges", resumen: "El gran festival de cine fantástico y de terror, con proyecciones y encuentros en la localidad costera." }
     en: { titulo: "Sitges Film Festival", resumen: "The big festival of fantasy and horror cinema, with screenings and meetings in the seaside town." }
+    relacionados: [festival-san-sebastian, seminci, halloween-difuntos]
+    contenido:
+      es:
+        texto:
+          - "El Festival de Sitges es el gran festival de cine fantástico y de terror de España y uno de los más importantes del mundo en su género. Se celebra en octubre en Sitges, una localidad costera cercana a Barcelona, durante unos once días."
+          - "La programación incluye estrenos de cine de terror, ciencia ficción, fantasía y thriller, retrospectivas, homenajes y encuentros con directores y actores. Hay secciones a concurso y paralelas, y un ambiente de fiesta entre los aficionados, con disfraces y actividades en la calle."
+          - "Sitges está a unos 35 kilómetros de Barcelona y se llega en tren de Rodalies, lo que permite ir y volver en el día. Consulta el programa y compra las entradas con antelación, porque las sesiones populares se agotan. Reserva alojamiento con tiempo si quieres quedarte, ya que la localidad se llena durante el festival."
+        faq:
+          - p: "¿Cuándo es el Festival de Sitges?"
+            r: "En octubre, durante unos once días. Las fechas exactas se anuncian cada año."
+          - p: "¿Qué tipo de cine se proyecta?"
+            r: "Cine fantástico, de terror, ciencia ficción, fantasía y thriller, con estrenos y retrospectivas."
+          - p: "¿Cómo llegar desde Barcelona?"
+            r: "En tren de Rodalies desde Barcelona, en unos 35-45 minutos. También hay autobuses y coche, aunque aparcar es difícil durante el festival."
+          - p: "¿Dónde compro las entradas?"
+            r: "En los canales oficiales del festival. Las sesiones con invitados y los estrenos se agotan."
+          - p: "¿Hay que ir disfrazado?"
+            r: "No es obligatorio, pero hay mucho ambiente de fiesta y muchos aficionados lo hacen."
+          - p: "¿Es buen plan con niños?"
+            r: "Depende de las películas: muchas son para adultos. Consulta la calificación por edades de cada sesión."
   - id: festival-internacional-cine-gijon
     regla: { tipo: fija, inicio: "11-20", fin: "11-28" }
     aprox: true
@@ -1795,6 +1855,26 @@ citas:
     fuente: "https://www.spain.info/es/agenda/festival-internacional-cine-gijon/"
     es: { titulo: "Festival Internacional de Cine de Gijón", resumen: "Cine de autor y descubrimientos en la programación de otoño de Gijón." }
     en: { titulo: "Gijón International Film Festival", resumen: "Auteur cinema and new discoveries in Gijón’s autumn programme." }
+    relacionados: [seminci, sevilla-festival-cine, festival-iberoamericano-cine-huelva]
+    contenido:
+      es:
+        texto:
+          - "El Festival Internacional de Cine de Gijón (FICX) es uno de los festivales de cine independiente y de autor más reconocidos de España. Se celebra en noviembre en Gijón, en la costa de Asturias, con una programación pensada para quienes buscan cine diferente."
+          - "El festival incluye una sección oficial a concurso, secciones paralelas, ciclos, homenajes y actividades para público joven y familiar. Las proyecciones se reparten en varias salas de la ciudad, y el ambiente del festival se mezcla con el de una ciudad de mar y de sidrerías."
+          - "Consulta la web oficial para el programa, que se publica semanas antes, y para la compra de entradas. Combina las sesiones con un paseo por el paseo marítimo y una sidra en una sidrería. En noviembre en Asturias llueve con frecuencia: lleva paraguas y abrigo."
+        faq:
+          - p: "¿Cuándo es el Festival de Cine de Gijón?"
+            r: "En noviembre, durante unos nueve días. Las fechas exactas se anuncian cada año."
+          - p: "¿Qué tipo de cine se proyecta?"
+            r: "Cine de autor, independiente y de nuevas voces, con secciones competitivas y paralelas."
+          - p: "¿Dónde compro las entradas?"
+            r: "En los canales oficiales del festival y en las taquillas. Las sesiones populares se agotan."
+          - p: "¿Hay actividades para niños?"
+            r: "Suele haber secciones y actividades para público joven y familiar. Consulta el programa."
+          - p: "¿Qué más hacer en Gijón?"
+            r: "Pasear por la playa de San Lorenzo, visitar el barrio de Cimavilla y probar la sidra y la gastronomía asturiana."
+          - p: "¿Qué ropa llevar?"
+            r: "Abrigo y paraguas: en noviembre, el tiempo en Asturias es húmedo y fresco."
   - id: sevilla-festival-cine
     regla: { tipo: fija, inicio: "11-06", fin: "11-14" }
     aprox: true
@@ -1803,6 +1883,26 @@ citas:
     fuente: "https://www.spain.info/es/agenda/sevilla-festival-cine/"
     es: { titulo: "Festival de Cine Europeo de Sevilla", resumen: "Una semana de cine europeo con sesiones abiertas al público en los cines de la ciudad." }
     en: { titulo: "Seville European Film Festival", resumen: "A week of European cinema with public screenings in the city’s cinemas." }
+    relacionados: [festival-internacional-cine-gijon, festival-iberoamericano-cine-huelva, semana-santa-sevilla]
+    contenido:
+      es:
+        texto:
+          - "El Festival de Cine Europeo de Sevilla (SEFF) es una de las grandes citas del cine europeo en España. Se celebra en noviembre en Sevilla, durante una semana, con películas de todo el continente y sesiones abiertas al público en los cines de la ciudad."
+          - "La programación incluye una sección oficial a concurso, que se disputa el Giraldillo de Oro, y secciones paralelas, ciclos y homenajes, además de películas europeas poco habituales en la cartelera comercial. Es una buena oportunidad para descubrir cine de autor y propuestas de distintos países."
+          - "Consulta la web oficial para el programa, los horarios y la venta de entradas, que se ponen a la venta con antelación. Muchas películas se proyectan en versión original con subtítulos. Aprovecha para pasear por Sevilla en otoño, cuando el clima es más suave que en verano."
+        faq:
+          - p: "¿Cuándo es el Festival de Cine Europeo de Sevilla?"
+            r: "En noviembre, durante en torno a una semana. Las fechas exactas se anuncian cada año."
+          - p: "¿Qué es el Giraldillo de Oro?"
+            r: "Es el premio principal del festival, que se concede a la mejor película de la sección oficial."
+          - p: "¿Qué tipo de cine se proyecta?"
+            r: "Cine europeo de autor y de distintos países, con estrenos y películas poco habituales en la cartelera comercial."
+          - p: "¿Dónde compro las entradas?"
+            r: "En los canales oficiales del festival y en las taquillas de los cines. Las sesiones con invitados se llenan."
+          - p: "¿Las películas llevan subtítulos?"
+            r: "Muchas se proyectan en versión original con subtítulos. Consulta la ficha de cada sesión."
+          - p: "¿Qué más hacer en Sevilla?"
+            r: "Visitar la Catedral y la Giralda, pasear por el barrio de Santa Cruz y probar las tapas."
   - id: festival-iberoamericano-cine-huelva
     regla: { tipo: fija, inicio: "11-20", fin: "11-28" }
     aprox: true
@@ -1811,6 +1911,26 @@ citas:
     fuente: "https://www.spain.info/es/agenda/festival-iberoamericano-cine-huelva/"
     es: { titulo: "Festival de Cine Iberoamericano de Huelva", resumen: "Cine en español y portugués con proyecciones y un homenaje a una figura del sector." }
     en: { titulo: "Huelva Ibero-American Film Festival", resumen: "Cinema in Spanish and Portuguese, with screenings and a tribute to a figure from the industry." }
+    relacionados: [festival-internacional-cine-gijon, sevilla-festival-cine, romeria-rocio]
+    contenido:
+      es:
+        texto:
+          - "El Festival de Cine Iberoamericano de Huelva es uno de los más veteranos dedicados al cine en español y en portugués. Se celebra en noviembre en Huelva, con proyecciones de películas de España, Portugal y América Latina."
+          - "La sección oficial a concurso disputa el Colón de Oro, y hay secciones paralelas, ciclos, homenajes a figuras del cine iberoamericano y encuentros con directores y actores. El Gran Teatro de Huelva es una de las sedes principales del festival."
+          - "Consulta el programa en la web oficial, que se publica semanas antes, y compra las entradas con tiempo. Aprovecha para conocer Huelva, su costa y su gastronomía, con productos como el jamón de Jabugo y las gambas blancas."
+        faq:
+          - p: "¿Cuándo es el Festival de Cine Iberoamericano de Huelva?"
+            r: "En noviembre, durante unos nueve días. Las fechas exactas se anuncian cada año."
+          - p: "¿Qué cine se proyecta?"
+            r: "Películas de España, Portugal y América Latina, en español y en portugués, con secciones competitivas y paralelas."
+          - p: "¿Qué es el Colón de Oro?"
+            r: "Es el premio principal del festival, que se concede a la mejor película de la sección oficial."
+          - p: "¿Dónde compro las entradas?"
+            r: "En los canales oficiales del festival y en las taquillas. Consulta los precios en el programa."
+          - p: "¿Dónde se celebra?"
+            r: "En Huelva, con proyecciones en el Gran Teatro y en otros espacios de la ciudad."
+          - p: "¿Qué más hacer en Huelva?"
+            r: "Visitar la costa, el barrio Reina Victoria, y probar las gambas blancas y el jamón ibérico de la zona."
   - id: fiestas-vendimia-riojana
     regla: { tipo: fija, inicio: "09-21", fin: "09-27" }
     aprox: true
