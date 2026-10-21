@@ -243,3 +243,211 @@ campanadas:
       r: "Sbuccia gli acini e togli i semi, tienine pronti dodici e comincia con i rintocchi, non con i quarti che li precedono."
     - p: "È un buon programma con i bambini?"
       r: "Sì, a casa o in un evento tranquillo. Con i bambini piccoli, l'uva si può preparare sbucciata, senza semi o tagliata per evitare il soffocamento."
+perseidas:
+  texto:
+    - "Le Perseidi, note popolarmente come le Lacrime di San Lorenzo, sono uno degli sciami di stelle cadenti più facili e spettacolari da vedere dalla Spagna. Si verificano ogni anno quando la Terra attraversa la scia di polvere della cometa Swift-Tuttle."
+    - "L'attività dura da metà luglio a fine agosto e il massimo si ha di solito tra l'11 e il 13 agosto. In una notte serena e senza Luna, con il cielo buio, si possono arrivare a vedere decine di meteore all'ora. La fase lunare di ogni anno influisce molto: con la Luna piena se ne vedono molte meno."
+    - "L'importante è allontanarsi dall'inquinamento luminoso. Riserve e destinazioni con certificazione Starlight, come Monfragüe, la Sierra Sur de Jaén o Gúdar-Javalambre, sono un'ottima scelta, e molte organizzano osservazioni guidate. Non servono telescopio né binocolo: basta sdraiarsi e guardare il cielo aperto."
+    - "Lascia che gli occhi si abituino al buio per circa 20 o 30 minuti ed evita di guardare il cellulare. Porta una coperta o un lettino, abiti caldi, anche se di giorno fa caldo, e qualcosa di caldo da bere. Le ore dopo mezzanotte sono di solito le migliori."
+  mapa:
+    titulo: "Dove vedere le Perseidi"
+    centro: [39.5, -3.5]
+    zoom: 6
+    puntos:
+      - { nombre: "Monfragüe (Cáceres)", lat: 39.83, lon: -6.05, desc: "Parco Nazionale e Riserva Starlight, con osservazioni guidate del cielo." }
+      - { nombre: "Sierra Sur de Jaén", lat: 37.6, lon: -3.85, desc: "Riserva Starlight con cieli molto bui, nei dintorni di Alcalá la Real e Castillo de Locubín." }
+      - { nombre: "Gúdar-Javalambre (Teruel)", lat: 40.2, lon: -0.7, desc: "Riserva Starlight a oltre 1.500 m di altitudine, con cieli limpidi e osservatorio astrofisico." }
+  faq:
+    - p: "Quando si vedono le Perseidi?"
+      r: "L'attività va da metà luglio a fine agosto, con il massimo verso il 12 agosto, di solito tra l'11 e il 13. Le ore migliori sono dopo mezzanotte e fino all'alba."
+    - p: "Dove vederle meglio in Spagna?"
+      r: "In qualsiasi luogo con cielo buio e sereno. Destinazioni con certificazione Starlight, come Monfragüe, la Sierra Sur de Jaén o Gúdar-Javalambre, offrono cieli eccellenti e osservazioni guidate."
+    - p: "Serve un telescopio?"
+      r: "No. Sono meteore dal movimento rapido e si vedono meglio a occhio nudo. Binocoli e telescopi riducono il campo visivo e non aiutano."
+    - p: "In che direzione bisogna guardare?"
+      r: "Hanno origine nella costellazione di Perseo, verso nord-est, ma le meteore compaiono in tutto il cielo. La cosa migliore è guardare in alto senza fissare un punto preciso."
+    - p: "La Luna influisce?"
+      r: "Molto. Con la Luna piena o molto luminosa si vedono molte meno meteore. Conviene controllare la fase lunare di quell'anno prima di pianificare l'uscita."
+    - p: "Cosa bisogna portare?"
+      r: "Una coperta o un lettino, abiti caldi, una torcia a luce rossa (se ti serve), qualcosa di caldo da bere e pazienza. Evita le luci bianche, che rovinano la visione notturna."
+cerezos-jerte:
+  texto:
+    - "Per alcune settimane in primavera, la Valle del Jerte, nel nord di Cáceres, si copre di bianco con la fioritura di centinaia di migliaia di ciliegi. I terrazzamenti sui pendii sembrano innevati e lo spettacolo si completa con la Garganta de los Infiernos e i paesi di pietra della valle."
+    - "La fioritura arriva di solito tra fine marzo e metà aprile, anche se la data esatta cambia ogni anno a seconda dell'inverno e delle temperature. Dura poco, tra una e due settimane per zona, e anticipa o ritarda a seconda dell'altitudine, quindi conviene controllare lo stato della fioritura prima di partire. In quel periodo si celebra la Fiesta del Cerezo en Flor."
+    - "È un programma molto popolare e nei fine settimana di massima fioritura traffico e parcheggio si complicano. Se puoi, vai in settimana o di prima mattina, prenota l'alloggio con anticipo e abbi pazienza sulle strade della valle. I ciliegi sono alberi da coltivazione e hanno un proprietario: rispetta i terreni, non tagliare rami e non entrare nei terrazzamenti recintati."
+  mapa:
+    titulo: "Dove vedere i ciliegi in fiore"
+    centro: [40.2, -5.77]
+    zoom: 11
+    puntos:
+      - { nombre: "Garganta de los Infiernos", lat: 40.22, lon: -5.76, desc: "Riserva naturale in testa alla valle, con sentieri e pozze lungo il fiume." }
+      - { nombre: "Jerte", lat: 40.2147, lon: -5.7508, desc: "Paese di pietra all'ingresso della Garganta, con centro visitatori e ciliegi nei terrazzamenti." }
+      - { nombre: "Navaconcejo", lat: 40.1747, lon: -5.7978, desc: "Paese della valle circondato da ciliegi; una buona base per vedere la fioritura." }
+      - { nombre: "Cabezuela del Valle", lat: 40.1697, lon: -5.7014, desc: "Ciliegi sui pendii e vie di pietra, nel tratto medio della valle." }
+  faq:
+    - p: "Quando fioriscono i ciliegi del Jerte?"
+      r: "Di solito tra fine marzo e metà aprile, per una o due settimane in ogni zona. La data cambia ogni anno con il clima, quindi controlla lo stato della fioritura prima di andare."
+    - p: "Dove vedere i ciliegi in fiore?"
+      r: "La Valle del Jerte (Cáceres) è la più conosciuta, con paesi come Cabezuela del Valle, Navaconcejo o Jerte, e percorsi come quello della Garganta de los Infiernos."
+    - p: "Si può entrare nei terrazzamenti?"
+      r: "Sono terreni agricoli privati. Passeggia lungo sentieri e belvedere segnalati e non entrare nelle parcelle né tagliare fiori o rami."
+    - p: "Bisogna prenotare l'alloggio?"
+      r: "Sì, con anticipo, perché nei fine settimana di massima fioritura si riempie tutto. I paesi vicini della Vera o Plasencia sono un'alternativa."
+    - p: "Come evito la folla?"
+      r: "Vai in settimana, di prima mattina o a fine pomeriggio, ed evita i fine settimana di massimo colore. Meglio parcheggiare nelle zone apposite e spostarsi a piedi."
+    - p: "È un buon programma con i bambini?"
+      r: "Sì, i percorsi facili lungo la valle sono adatti alle famiglie. Se tuo figlio è allergico al polline, porta i medicinali, perché in primavera la fioritura è intensa."
+nieve:
+  texto:
+    - "Andare sulla neve è uno dei grandi programmi invernali, sia per sciare sia per passeggiare, andare in slittino o semplicemente vedere la montagna bianca. La Spagna ha stazioni e paesaggi innevati in Sierra Nevada, nei Pirenei, nella Cordigliera Cantabrica e nel Sistema Centrale."
+    - "La stagione va da dicembre a marzo, anche se la neve dipende molto da ogni inverno. Prima di partire, controlla lo stato delle piste e delle strade: possono servire catene o pneumatici invernali, e gli accessi alle stazioni si congestionano nei fine settimana e nei ponti. Consulta le informazioni sul traffico prima e durante il viaggio."
+    - "Non serve saper sciare. Molte stazioni e valli offrono zone per lo slittino, percorsi con le ciaspole, sci di fondo e passeggiate sulla neve, e l'abbigliamento si può noleggiare. Prenota lo skipass e l'attrezzatura con anticipo nelle date di punta. Porta abiti impermeabili e a strati, occhiali da sole, crema solare e guanti di ricambio, perché il sole e il riflesso sulla neve ingannano."
+  mapa:
+    titulo: "Dove andare sulla neve"
+    centro: [40.5, -3.5]
+    zoom: 6
+    puntos:
+      - { nombre: "Sierra Nevada (Granada)", lat: 37.09, lon: -3.4, desc: "La stazione più meridionale d'Europa, con piste da sci e zone per passeggiate e slittino." }
+      - { nombre: "Pirineo aragonés (Formigal)", lat: 42.78, lon: -0.37, desc: "Ampio comprensorio sciistico dei Pirenei, con sci di fondo e percorsi con le ciaspole nelle vicinanze." }
+      - { nombre: "Pirineo catalán (Baqueira Beret)", lat: 42.7, lon: 0.93, desc: "Una delle stazioni più grandi dei Pirenei, nella Val d'Aran." }
+      - { nombre: "Cordillera Cantábrica (San Isidro)", lat: 43.05, lon: -5.37, desc: "Stazione tra León e Asturie, con paesaggio di alta montagna cantabrica." }
+      - { nombre: "Sistema Central (Navacerrada)", lat: 40.79, lon: -4.01, desc: "La neve più vicina a Madrid, con piste e zone per lo slittino; gli accessi si congestionano nei fine settimana." }
+  faq:
+    - p: "Quando c'è la neve in Spagna?"
+      r: "Di solito da dicembre a marzo, con gennaio e febbraio come mesi più affidabili. Dipende molto da ogni inverno e dall'altitudine."
+    - p: "Dove andare sulla neve?"
+      r: "Sierra Nevada (Granada), i Pirenei (Huesca, Lleida, Navarra), la Cordigliera Cantabrica, il Sistema Centrale (Madrid, Segovia) o il Sistema Iberico offrono stazioni e percorsi."
+    - p: "Bisogna saper sciare?"
+      r: "No. Ci sono slittini, percorsi con le ciaspole, sci di fondo, zone di neve per bambini e passeggiate. Se vuoi sciare, molte scuole offrono lezioni di iniziazione."
+    - p: "Mi servono le catene?"
+      r: "Dipende dalla strada e dal giorno. Consulta le informazioni sul traffico e porta catene o pneumatici invernali. A volte è obbligatorio averle e senza la strada viene chiusa."
+    - p: "Bisogna prenotare?"
+      r: "Nelle date di punta (ponti, Natale, fine settimana con neve) conviene prenotare skipass, noleggio e alloggio. Acquistare online di solito costa meno ed è più rapido."
+    - p: "Che abbigliamento portare?"
+      r: "Abiti impermeabili e a strati, guanti e berretto, occhiali da sole o da sci, protezione solare e calzature con buona suola. Un cambio di abiti asciutti per il viaggio di ritorno non guasta mai."
+festival-san-sebastian:
+  texto:
+    - "Il Festival del Cinema di San Sebastián, noto come Zinemaldia, è uno dei grandi festival cinematografici della Spagna e dell'Europa. Si tiene a settembre a Donostia-San Sebastián, con anteprime internazionali, star sul tappeto rosso e proiezioni aperte al pubblico."
+    - "La programmazione comprende la sezione ufficiale in concorso, che si contende la Concha de Oro, oltre a sezioni parallele, retrospettive e omaggi, come il Premio Donostia alla carriera. Le proiezioni sono distribuite tra vari cinema e spazi della città, tra cui il Kursaal e il Teatro Victoria Eugenia, e buona parte è aperta a qualsiasi spettatore."
+    - "Consulta il sito ufficiale per il programma, gli orari e la vendita dei biglietti, che di solito si mettono in vendita pochi giorni prima delle proiezioni e vanno a ruba. Arriva presto alle code, guarda gli orari per combinare più proiezioni e approfitta per passeggiare in città e assaggiare i pintxos. A settembre può piovere: porta un ombrello."
+  faq:
+    - p: "Quando si tiene il Festival del Cinema di San Sebastián?"
+      r: "A settembre, per circa nove giorni. Le date esatte vengono annunciate ogni anno."
+    - p: "Può andarci chiunque?"
+      r: "Sì. Oltre alle proiezioni per professionisti e stampa, ci sono molte proiezioni aperte al pubblico con biglietto."
+    - p: "Dove compro i biglietti?"
+      r: "Sui canali ufficiali del festival. Si vendono con poco anticipo e le proiezioni più popolari vanno esaurite."
+    - p: "Cos'è la Concha de Oro?"
+      r: "È il premio principale del festival, assegnato al miglior film della sezione ufficiale."
+    - p: "Si possono vedere le star?"
+      r: "Sul tappeto rosso del Teatro Victoria Eugenia di solito c'è pubblico. Consulta gli orari e arriva presto."
+    - p: "Cos'altro fare a San Sebastián?"
+      r: "Passeggiare lungo la baia de La Concha, assaggiare i pintxos nella Parte Vieja e visitare il Monte Igueldo."
+semana-santa-sevilla:
+  texto:
+    - "La Settimana Santa di Siviglia è probabilmente la più famosa della Spagna. Per otto giorni, una sessantina di confraternite percorre la città con i suoi pasos di Cristo e della Vergine, accompagnate da nazareni, bande musicali e migliaia di persone nelle strade."
+    - "Tutte le confraternite passano per la Carrera Oficial, che va dalla Campana alla Cattedrale. La notte tra il Giovedì e il Venerdì Santo è la Madrugá, la più carica di emozione e di affluenza, con confraternite come il Silencio, il Gran Poder, la Macarena, los Gitanos e la Esperanza de Triana."
+    - "È una festa multitudinaria: le strade del centro si riempiono e i cortei impiegano ore a passare. Scarica il programma ufficiale, scegli le confraternite che vuoi vedere e arriva con anticipo. Prenota l'alloggio con mesi di anticipo, usa i mezzi pubblici e sii paziente con le chiusure delle strade. E ricorda: è un atto religioso, quindi rispetta il silenzio e i nazareni."
+  faq:
+    - p: "Quando si tiene la Settimana Santa di Siviglia?"
+      r: "Dalla Domenica delle Palme alla Domenica di Resurrezione, che cambia ogni anno tra marzo e aprile. Consulta il calendario ufficiale per le date esatte."
+    - p: "Cos'è la Madrugá?"
+      r: "È la notte tra il Giovedì Santo e il Venerdì Santo. In quelle ore escono varie tra le confraternite più emblematiche ed è il momento di massima affluenza ed emozione."
+    - p: "Dove vedere le processioni?"
+      r: "Nella Carrera Oficial (dalla Campana alla Cattedrale) c'è molta atmosfera ma anche molta gente. Altre zone del centro o i quartieri, come Triana, permettono di vederle con più tranquillità."
+    - p: "Bisogna prenotare?"
+      r: "Non per vedere le processioni dalla strada, ma sì per l'alloggio e i ristoranti, che si esauriscono con mesi di anticipo."
+    - p: "Come consulto gli orari?"
+      r: "Il Consejo de Hermandades y Cofradías pubblica il programma ufficiale con gli itinerari e gli orari di ogni confraternita. Ci sono anche app e siti con monitoraggio in tempo reale."
+    - p: "Cosa bisogna portare o tenere presente?"
+      r: "Scarpe comode, abiti a strati e pazienza. Rispetta il silenzio, non attraversare tra i cortei ed evita il flash vicino ai pasos."
+fallas:
+  texto:
+    - "Las Fallas sono la festa di Valencia in onore di San Giuseppe, dal 15 al 19 marzo. Dichiarate Patrimonio Culturale Immateriale dell'Umanità dall'UNESCO, uniscono monumenti di cartapesta e legno, pirotecnia, musica, polvere da sparo e tanta vita per strada."
+    - "Le fallas sono enormi monumenti satirici che vengono eretti per le strade il giorno 15. Si possono visitare a piedi e le più importanti concorrono per dei premi. Ogni giorno alle 14:00 la mascletà, una sinfonia di polvere da sparo in plaza del Ayuntamiento, è un appuntamento imperdibile. Il 17 e il 18 si celebra l'Offerta di Fiori alla Virgen de los Desamparados."
+    - "Il gran finale arriva la notte del 19 marzo con la cremà: le fallas vanno a fuoco, a cominciare da quelle infantili e finendo con quella grande, a mezzanotte. Prenota l'alloggio con mesi di anticipo, usa i mezzi pubblici e vai con anticipo per trovare posto alla mascletà. Fai attenzione ai petardi per strada e ai bambini piccoli."
+  faq:
+    - p: "Quando si tengono Las Fallas?"
+      r: "Dal 15 al 19 marzo ogni anno. La plantà è il giorno 15 e la cremà la notte del 19."
+    - p: "Cos'è la mascletà?"
+      r: "È uno spettacolo di polvere da sparo che punta sul suono e sulla potenza più che sui colori. Si spara ogni giorno alle 14:00 in plaza del Ayuntamiento e lo si sente nel corpo."
+    - p: "Cos'è la cremà?"
+      r: "È il rogo delle fallas la notte del 19 marzo, con l'incendio finale della falla municipale a mezzanotte."
+    - p: "Come spostarsi a Valencia durante Las Fallas?"
+      r: "A piedi e con i mezzi pubblici. Ci sono chiusure al traffico e parcheggiare è quasi impossibile. La metropolitana potenzia il servizio."
+    - p: "Cosa si mangia?"
+      r: "Frittelle di zucca con cioccolata, paella e panini di strada. Le frittelle sono il sapore tipico di questa festa."
+    - p: "È un buon programma con i bambini?"
+      r: "Sì, ci sono fallas infantili e varie attività, ma il rumore dei petardi e la folla possono mettere a disagio i più piccoli."
+semana-santa:
+  texto:
+    - "La Settimana Santa è la settimana che precede la Domenica di Resurrezione, dalla Domenica delle Palme alla Domenica di Pasqua, ed è una delle celebrazioni più sentite e visitate della Spagna. Confraternite e hermandades portano in strada i loro pasos e le loro immagini in processioni che uniscono fede, arte, musica e tradizione."
+    - "Ogni città ha il suo stile. A Siviglia e Malaga spiccano i grandi troni e i baldacchini, a Valladolid, Zamora o Salamanca le processioni sono più sobrie e di scultura castigliana, e in luoghi come Cuenca o Murcia ci sono usanze molto particolari. Molte sono Feste di Interesse Turistico Internazionale."
+    - "Poiché le date dipendono dalla Pasqua, cambiano ogni anno, tra marzo e aprile. Se pensi di viaggiare, prenota l'alloggio con largo anticipo e consulta gli itinerari e gli orari ufficiali di ogni confraternita, che vengono pubblicati settimane prima. Le processioni sono atti religiosi: rispetta il silenzio, non attraversare tra i cortei ed evita il flash al passaggio dei pasos."
+  faq:
+    - p: "Quando si tiene la Settimana Santa?"
+      r: "È la settimana che precede la Domenica di Resurrezione, che cade ogni anno in una data diversa tra fine marzo e fine aprile. Va dalla Domenica delle Palme alla Domenica di Pasqua."
+    - p: "Dove vedere le processioni più belle?"
+      r: "Siviglia, Malaga, Valladolid, Zamora, Salamanca, Cuenca, Murcia e Cartagena sono tra le più conosciute, ciascuna con uno stile molto diverso. Molte sono Feste di Interesse Turistico Internazionale."
+    - p: "Bisogna pagare per vedere le processioni?"
+      r: "No. Si vedono gratis dalla strada. In alcune città ci sono sedie a pagamento sul percorso ufficiale o in tratti specifici."
+    - p: "In quali giorni ci sono più processioni?"
+      r: "Giovedì Santo e Venerdì Santo sono di solito i giorni di maggiore affluenza, e la nottata tra i due è quella con più atmosfera in città come Siviglia. Anche la Domenica delle Palme e il Sabato Santo hanno processioni."
+    - p: "Come mi organizzo per vederle?"
+      r: "Consulta il programma ufficiale di ogni confraternita, con orari e itinerari, arriva con anticipo per trovare un buon posto e abbi pazienza: i cortei avanzano lentamente e le strade vengono chiuse al traffico."
+    - p: "È un buon programma con i bambini?"
+      r: "Sì, ma con attenzione: c'è molta gente e molte ore di attesa. Scegli le processioni del pomeriggio, cerca un posto con spazio e spiega loro che è un atto di rispetto."
+feria-abril:
+  texto:
+    - "La Feria de Abril di Siviglia è una settimana di festa con casetas, sevillanas, cavalli e carrozze, e abiti da flamenca. Si tiene nel Real de la Feria, nel quartiere di Los Remedios, circa due settimane dopo la Settimana Santa."
+    - "La feria si apre con l'Alumbrado, la notte del lunedì, quando si accendono le migliaia di lampadine del portale d'ingresso. Durante la settimana, da mezzogiorno, c'è una sfilata di cavalli e carrozze; da quel momento le casetas si riempiono di musica, ballo, cibo e bevande: rebujito, fino, prosciutto e pescaíto frito. La domenica si chiude con uno spettacolo di fuochi d'artificio."
+    - "Una cosa da sapere: la maggior parte delle casetas è privata e vi entra solo chi ha un invito o è socio. Ci sono anche casetas pubbliche e alcune del comune, aperte a tutti, e le strade e il Real si possono percorrere liberamente. Di solito ci si veste bene: abito da flamenca per le donne e traje corto o completo per gli uomini."
+  faq:
+    - p: "Quando si tiene la Feria de Abril?"
+      r: "Di solito inizia due settimane dopo la Domenica di Resurrezione, tra aprile e maggio. Dura una settimana, con l'Alumbrado la notte del lunedì."
+    - p: "Posso entrare in qualsiasi caseta?"
+      r: "No. La maggior parte è privata e si entra solo con invito o essendo soci. Ci sono casetas pubbliche e del comune aperte a tutti."
+    - p: "Quanto costa entrare alla feria?"
+      r: "L'ingresso al recinto è gratuito. Si paga quello che si consuma, e le attrazioni della calle del Infierno sono a pagamento."
+    - p: "Cosa bisogna indossare?"
+      r: "Molti visitatori indossano l'abito da flamenca o il traje corto, ma non è obbligatorio. La cosa più importante sono le scarpe comode, perché si cammina molto."
+    - p: "Come arrivare?"
+      r: "In metropolitana, tram o autobus. Evita di andare in auto: parcheggiare è quasi impossibile e la zona viene chiusa al traffico."
+    - p: "È un buon programma con i bambini?"
+      r: "Di giorno sì, con la sfilata di cavalli e casetas per famiglie. La calle del Infierno ha le giostre. La sera c'è più gente e più rumore."
+san-fermin:
+  texto:
+    - "I Sanfermines sono la festa di Pamplona, dal 6 al 14 luglio, e una delle celebrazioni più conosciute al mondo. Iniziano con il chupinazo in plaza del Ayuntamiento, a mezzogiorno del 6 luglio, e terminano a mezzanotte del 14 con il Pobre de mí."
+    - "Il grande simbolo sono gli encierros, la corsa dei tori: ogni mattina, alle otto, i tori corrono lungo un percorso di circa 850 metri dal corral de Santo Domingo fino alla plaza de toros. Ma i Sanfermines sono molto di più: la processione di San Fermín il 7 luglio, giganti e cabezudos, concerti, fuochi d'artificio, abiti bianchi con fazzoletto rosso e un'atmosfera di strada di giorno e di notte."
+    - "Correre l'encierro è pericoloso e ha delle regole: bisogna essere maggiorenni, non aver bevuto alcol e rispettare le indicazioni dell'organizzazione. Se preferisci guardarlo, puoi farlo in televisione o da qualche punto autorizzato, che si riempie molto presto. Prenota l'alloggio con mesi di anticipo, perché i prezzi salgono e la città si riempie."
+  faq:
+    - p: "Quando si tengono i Sanfermines?"
+      r: "Dal 6 al 14 luglio ogni anno. Iniziano con il chupinazo il giorno 6 a mezzogiorno e terminano con il Pobre de mí a mezzanotte del 14."
+    - p: "A che ora sono gli encierros?"
+      r: "Ogni mattina alle 8:00 dal 7 al 14 luglio. Dura appena qualche minuto."
+    - p: "Come vedere un encierro?"
+      r: "In televisione, oppure dal vivo da zone autorizzate, che si riempiono molto presto. Su alcuni balconi ci sono posti a pagamento. I punti con vista sul percorso si riempiono già prima dell'alba."
+    - p: "Può correre chiunque?"
+      r: "No. Bisogna essere maggiorenni, non essere sotto l'effetto di alcol o altre sostanze e rispettare le regole dell'organizzazione. È un'attività pericolosa e ogni anno ci sono dei feriti."
+    - p: "Come vestirsi?"
+      r: "Tradizionalmente, abiti bianchi con fazzoletto rosso al collo e fascia rossa. Scarpe comode e chiuse e un cambio di vestiti, perché ci si sporca quasi sicuramente."
+    - p: "È un buon programma con i bambini?"
+      r: "L'atmosfera diurna è familiare, con giganti, cabezudos e attività per bambini. Di notte c'è più folla. Conviene evitare gli encierros e le zone più affollate."
+tomatina:
+  texto:
+    - "La Tomatina è la più grande battaglia di pomodori del mondo. Si tiene a Buñol, un paese della provincia di Valencia, l'ultimo mercoledì di agosto, e per circa un'ora migliaia di persone si lanciano pomodori maturi finché le strade non si tingono di rosso."
+    - "Per partecipare serve il biglietto. Il comune limita la capienza e vende i biglietti in anticipo, quindi conviene acquistarli per tempo sui canali ufficiali e diffidare dei rivenditori. La festa inizia con il palo jabón, un palo unto con un prosciutto in cima, e la battaglia comincia quando viene sparato un razzo verso le 11 del mattino."
+    - "Porta vestiti vecchi e scarpe che non ti dispiaccia perdere, occhialini da nuoto per proteggere gli occhi e guanti. Schiaccia il pomodoro prima di lanciarlo per non far male e non lanciare nient'altro che pomodori. Non portare oggetti di valore né macchine fotografiche e parti da Valencia con anticipo, ad esempio in treno o con gli autobus organizzati per quel giorno."
+  faq:
+    - p: "Quando si tiene la Tomatina?"
+      r: "L'ultimo mercoledì di agosto, a Buñol (Valencia). La battaglia dura circa un'ora, a partire dalle 11 del mattino."
+    - p: "Serve il biglietto?"
+      r: "Sì. La capienza è limitata e i biglietti si comprano in anticipo tramite i canali ufficiali. Evita di acquistare dai rivenditori."
+    - p: "Come arrivare a Buñol?"
+      r: "Da Valencia, in treno regionale (Cercanías) o in autobus. Conviene arrivare con anticipo, perché il giorno della festa c'è moltissima gente."
+    - p: "Come vestirsi?"
+      r: "Vestiti vecchi e scarpe che non ti dispiaccia perdere. Molti partecipanti usano occhialini da nuoto per proteggersi gli occhi e guanti."
+    - p: "Quali sono le regole?"
+      r: "Schiaccia il pomodoro prima di lanciarlo, non lanciare nient'altro che pomodori, non portare oggetti di vetro né di valore e segui le indicazioni dell'organizzazione."
+    - p: "È un buon programma con i bambini?"
+      r: "C'è un'età minima per partecipare e la festa è molto affollata. Consulta le condizioni ufficiali prima di acquistare i biglietti."

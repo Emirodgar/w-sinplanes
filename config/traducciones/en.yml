@@ -252,3 +252,221 @@ campanadas:
       r: "Peel the grapes and remove the seeds, have twelve ready and start with the chimes, not with the quarter chimes that come before them."
     - p: "Is it a good plan with kids?"
       r: "Yes, at home or at a quiet event. With small children, the grapes can be prepared peeled, seedless or cut up to avoid choking."
+
+perseidas:
+  texto:
+    - "The Perseids, popularly known as the Tears of Saint Lawrence, are one of the easiest and most spectacular meteor showers to see from Spain. They happen every year when the Earth passes through the dust trail left by comet Swift-Tuttle."
+    - "Activity lasts from mid-July to late August, and the peak usually falls between 11 and 13 August. On a clear, moonless night with dark skies, you can see dozens of meteors an hour. The phase of the Moon each year makes a big difference: with a full Moon you see far fewer."
+    - "The key is to get away from light pollution. Starlight-certified reserves and destinations, such as Monfragüe, Sierra Sur de Jaén or Gúdar-Javalambre, are a great choice, and many of them organise guided stargazing sessions. You don't need a telescope or binoculars: just lie down and look up at the open sky."
+    - "Let your eyes adjust to the dark for about 20 or 30 minutes and avoid looking at your phone. Bring a blanket or a sun lounger, warm clothes even if it is hot during the day, and something hot to drink. The hours after midnight are usually the best."
+  mapa:
+    titulo: "Where to watch the Perseids"
+    centro: [39.5, -3.5]
+    zoom: 6
+    puntos:
+      - { nombre: "Monfragüe (Cáceres)", lat: 39.83, lon: -6.05, desc: "National Park and Starlight Reserve, with guided stargazing sessions." }
+      - { nombre: "Sierra Sur de Jaén", lat: 37.6, lon: -3.85, desc: "Starlight Reserve with very dark skies, around Alcalá la Real and Castillo de Locubín." }
+      - { nombre: "Gúdar-Javalambre (Teruel)", lat: 40.2, lon: -0.7, desc: "Starlight Reserve at over 1,500 m above sea level, with clear skies and an astrophysical observatory." }
+  faq:
+    - p: "When can you see the Perseids?"
+      r: "Activity runs from mid-July to late August, with the peak around 12 August, usually between the 11th and the 13th. The best hours are after midnight and until dawn."
+    - p: "Where is the best place to see them in Spain?"
+      r: "Anywhere with dark, clear skies. Starlight-certified destinations, such as Monfragüe, Sierra Sur de Jaén or Gúdar-Javalambre, offer excellent skies and guided stargazing sessions."
+    - p: "Do I need a telescope?"
+      r: "No. They are fast-moving meteors and are best seen with the naked eye. Binoculars and telescopes narrow your field of view and don't help."
+    - p: "Which way should I look?"
+      r: "They radiate from the constellation Perseus, to the northeast, but meteors appear all over the sky. The best approach is to look up without fixing on one particular spot."
+    - p: "Does the Moon matter?"
+      r: "A lot. With a full or very bright Moon you see far fewer meteors. Check the Moon phase for that year before planning your trip."
+    - p: "What should I bring?"
+      r: "A blanket or sun lounger, warm clothes, a red-light torch (if you need one), something hot to drink and patience. Avoid white lights, which ruin your night vision."
+
+cerezos-jerte:
+  texto:
+    - "For a few weeks in spring, the Jerte Valley, in northern Cáceres, is covered in white by the blossom of hundreds of thousands of cherry trees. The terraced hillsides look snow-covered, and the show is completed by the Garganta de los Infiernos gorge and the valley's stone villages."
+    - "The blossom usually arrives between late March and mid-April, although the exact date changes every year depending on the winter and the temperatures. It is short-lived, between one and two weeks in each area, and comes earlier or later depending on altitude, so it is worth checking the state of the blossom before you travel. The Cherry Blossom Festival (Fiesta del Cerezo en Flor) is held during this time."
+    - "It is a very popular plan, and on the weekends of peak blossom traffic and parking get difficult. If you can, go on a weekday or first thing in the morning, book accommodation well in advance and be patient on the valley's roads. Cherry trees are cultivated crops with owners: respect the farms, don't cut branches and don't enter closed terraces."
+  mapa:
+    titulo: "Where to see the cherry blossom"
+    centro: [40.2, -5.77]
+    zoom: 11
+    puntos:
+      - { nombre: "Garganta de los Infiernos", lat: 40.22, lon: -5.76, desc: "Nature reserve at the head of the valley, with trails and natural pools along the river." }
+      - { nombre: "Jerte", lat: 40.2147, lon: -5.7508, desc: "Stone village at the entrance to the Garganta, with a visitor centre and cherry trees on the terraces." }
+      - { nombre: "Navaconcejo", lat: 40.1747, lon: -5.7978, desc: "Valley village surrounded by cherry trees; a good base for seeing the blossom." }
+      - { nombre: "Cabezuela del Valle", lat: 40.1697, lon: -5.7014, desc: "Cherry trees on the hillsides and cobbled streets, in the middle stretch of the valley." }
+  faq:
+    - p: "When do the cherry trees in the Jerte Valley blossom?"
+      r: "Usually between late March and mid-April, for one or two weeks in each area. The date changes every year with the weather, so check the state of the blossom before you go."
+    - p: "Where can you see the cherry blossom?"
+      r: "The Jerte Valley (Cáceres) is the best known, with villages such as Cabezuela del Valle, Navaconcejo or Jerte, and routes such as the one through the Garganta de los Infiernos."
+    - p: "Can you go into the terraces?"
+      r: "They are private farmland. Walk along the signposted paths and viewpoints, and don't enter the plots or cut flowers or branches."
+    - p: "Do I need to book accommodation?"
+      r: "Yes, well in advance, because everything fills up on the weekends of peak blossom. Nearby towns such as those in La Vera or Plasencia are an alternative."
+    - p: "How do I avoid the crowds?"
+      r: "Go on a weekday, first thing in the morning or late in the afternoon, and avoid the weekends of peak colour. It is best to park in the designated areas and get around on foot."
+    - p: "Is it a good plan with kids?"
+      r: "Yes, the gentle routes through the valley are suitable for families. If your child has a pollen allergy, bring medication, because the blossom is intense in spring."
+
+nieve:
+  texto:
+    - "Heading to the snow is one of the great winter plans, whether to ski, walk, go sledging or simply see the mountains turn white. Spain has resorts and snowy landscapes in Sierra Nevada, the Pyrenees, the Cantabrian range and the Central System."
+    - "The season runs from December to March, although snow depends a lot on each winter. Before setting out, check the state of the slopes and the roads: you may need snow chains or winter tyres, and access roads to the resorts get jammed at weekends and on long weekends. Check traffic information before and during the trip."
+    - "You don't need to ski. Many resorts and valleys offer sledging areas, snowshoe routes, cross-country skiing and snow walks, and you can rent clothing. Book your lift pass and equipment in advance for peak dates. Bring waterproof clothing in layers, sunglasses, sun cream and spare gloves, because the sun and the glare off the snow can fool you."
+  mapa:
+    titulo: "Where to head to the snow"
+    centro: [40.5, -3.5]
+    zoom: 6
+    puntos:
+      - { nombre: "Sierra Nevada (Granada)", lat: 37.09, lon: -3.4, desc: "The southernmost resort in Europe, with ski slopes and areas for walking and sledging." }
+      - { nombre: "Aragonese Pyrenees (Formigal)", lat: 42.78, lon: -0.37, desc: "A large ski area in the Pyrenees, with cross-country skiing and snowshoe routes nearby." }
+      - { nombre: "Catalan Pyrenees (Baqueira Beret)", lat: 42.7, lon: 0.93, desc: "One of the biggest resorts in the Pyrenees, in the Aran Valley." }
+      - { nombre: "Cantabrian range (San Isidro)", lat: 43.05, lon: -5.37, desc: "Resort between León and Asturias, with Cantabrian high-mountain scenery." }
+      - { nombre: "Central System (Navacerrada)", lat: 40.79, lon: -4.01, desc: "The closest snow to Madrid, with slopes and sledging areas; access roads get jammed at weekends." }
+  faq:
+    - p: "When is there snow in Spain?"
+      r: "Usually from December to March, with January and February the most reliable months. It depends a lot on each winter and on altitude."
+    - p: "Where can I go to the snow?"
+      r: "Sierra Nevada (Granada), the Pyrenees (Huesca, Lleida, Navarre), the Cantabrian range, the Central System (Madrid, Segovia) or the Iberian System offer resorts and routes."
+    - p: "Do I need to know how to ski?"
+      r: "No. There are sledges, snowshoe routes, cross-country skiing, snow areas for children and walks. If you want to ski, many schools offer beginner lessons."
+    - p: "Do I need snow chains?"
+      r: "It depends on the road and the day. Check traffic information and carry chains or winter tyres. Sometimes carrying them is compulsory and the road is closed without them."
+    - p: "Do I need to book?"
+      r: "On peak dates (long weekends, Christmas, snowy weekends) it is wise to book your lift pass, rental and accommodation. Buying online is usually cheaper and quicker."
+    - p: "What should I wear?"
+      r: "Waterproof clothing in layers, gloves and a hat, sunglasses or ski goggles, sun protection and footwear with a good sole. A change of dry clothes for the journey back is always a good idea."
+
+festival-san-sebastian:
+  texto:
+    - "The San Sebastián Film Festival, known as Zinemaldia, is one of the great film festivals of Spain and Europe. It takes place in September in Donostia-San Sebastián, with international premieres, stars on the red carpet and screenings open to the public."
+    - "The programme includes the official competition section, which vies for the Golden Shell (Concha de Oro), as well as parallel sections, retrospectives and tributes, such as the Donostia Award for lifetime achievement. Screenings are spread across several cinemas and venues in the city, including the Kursaal and the Victoria Eugenia Theatre, and many of them are open to anyone."
+    - "Check the official website for the programme, schedules and ticket sales, which usually go on sale only a few days before the screenings and sell out quickly. Get to the queues early, look at the schedules so you can combine screenings, and take the chance to stroll around the city and try the pintxos. It can rain in September: bring an umbrella."
+  faq:
+    - p: "When is the San Sebastián Film Festival?"
+      r: "In September, for around nine days. The exact dates are announced each year."
+    - p: "Can anyone go?"
+      r: "Yes. Besides the sessions for industry professionals and press, there are many screenings open to the public with a ticket."
+    - p: "Where do I buy tickets?"
+      r: "Through the festival's official channels. They go on sale shortly beforehand and the most popular screenings sell out."
+    - p: "What is the Golden Shell?"
+      r: "It is the festival's main prize, awarded to the best film in the official section."
+    - p: "Can you see the stars?"
+      r: "There is usually a crowd at the red carpet outside the Victoria Eugenia Theatre. Check the schedules and arrive early."
+    - p: "What else is there to do in San Sebastián?"
+      r: "Stroll along La Concha bay, try pintxos in the Old Town and visit Mount Igueldo."
+
+semana-santa-sevilla:
+  texto:
+    - "Seville's Holy Week (Semana Santa) is probably the most famous in Spain. For eight days, around sixty brotherhoods (hermandades) parade through the city with their floats of Christ and the Virgin, accompanied by hooded penitents (nazarenos), brass bands and thousands of people in the streets."
+    - "All the brotherhoods pass through the Carrera Oficial, the official route that runs from La Campana to the Cathedral. The night between Maundy Thursday and Good Friday is the Madrugá, the most emotional and crowded of all, with brotherhoods such as El Silencio, El Gran Poder, La Macarena, Los Gitanos and La Esperanza de Triana."
+    - "It is a huge event: the streets in the centre fill up and the processions take hours to pass. Download the official programme, choose the brotherhoods you want to see and arrive early. Book accommodation months in advance, use public transport and be patient with street closures. And remember: it is a religious act, so respect the silence and the penitents."
+  faq:
+    - p: "When is Holy Week in Seville?"
+      r: "From Palm Sunday to Easter Sunday, which changes every year between March and April. Check the official calendar for the exact dates."
+    - p: "What is the Madrugá?"
+      r: "It is the night between Maundy Thursday and Good Friday. Several of the most emblematic brotherhoods set out during those hours, and it is the time of greatest crowds and emotion."
+    - p: "Where can I watch the processions?"
+      r: "The Carrera Oficial (from La Campana to the Cathedral) has a great atmosphere but also huge crowds. Other parts of the centre or neighbourhoods such as Triana let you watch them in more peace."
+    - p: "Do I need to book?"
+      r: "Not to watch the processions from the street, but you do for accommodation and restaurants, which sell out months in advance."
+    - p: "How do I check the schedules?"
+      r: "The Consejo de Hermandades y Cofradías publishes the official programme with the routes and times of each brotherhood. There are also apps and websites with real-time tracking."
+    - p: "What should I bring or bear in mind?"
+      r: "Comfortable shoes, layered clothing and patience. Respect the silence, don't cross between the processions and avoid using a flash near the floats."
+
+fallas:
+  texto:
+    - "Las Fallas is Valencia's festival in honour of Saint Joseph, held from 15 to 19 March. Declared Intangible Cultural Heritage of Humanity by UNESCO, it combines cardboard and wood monuments, pyrotechnics, music, gunpowder and plenty of life on the streets."
+    - "The fallas are huge satirical monuments that are set up in the streets on the 15th. You can tour them on foot, and the most important ones compete for prizes. Every day at 14:00, the mascletà, a symphony of gunpowder in the Town Hall square, is an unmissable event. On the 17th and 18th the Flower Offering to the Virgin of the Forsaken (Virgen de los Desamparados) takes place."
+    - "The finale comes on the night of 19 March with the cremà: the fallas are set on fire, starting with the children's ones and ending with the main one at midnight. Book accommodation months in advance, use public transport and get there early to find a spot at the mascletà. Be careful with firecrackers in the street and with small children."
+  faq:
+    - p: "When are the Fallas?"
+      r: "From 15 to 19 March every year. The plantà is on the 15th and the cremà on the night of the 19th."
+    - p: "What is the mascletà?"
+      r: "It is a gunpowder show that focuses on sound and power rather than colours. It is fired every day at 14:00 in the Town Hall square and you feel it in your body."
+    - p: "What is the cremà?"
+      r: "It is the burning of the fallas on the night of 19 March, with the final burning of the city's main falla at midnight."
+    - p: "How do I get around Valencia during the Fallas?"
+      r: "On foot and by public transport. There are road closures and parking is almost impossible. The metro runs a reinforced service."
+    - p: "What is there to eat?"
+      r: "Pumpkin fritters (buñuelos) with hot chocolate, paella and street sandwiches. The buñuelos are the typical flavour of these festivities."
+    - p: "Is it a good plan with children?"
+      r: "Yes, there are children's fallas and activities, but the noise of the firecrackers and the crowds can be overwhelming for little ones."
+
+semana-santa:
+  texto:
+    - "Holy Week (Semana Santa) is the week before Easter Sunday, from Palm Sunday to Easter Sunday, and it is one of the most profound and most visited celebrations in Spain. Brotherhoods (cofradías and hermandades) bring their floats and images out onto the streets in processions that blend faith, art, music and tradition."
+    - "Each city has its own style. In Seville and Málaga the large thrones and canopies stand out, in Valladolid, Zamora or Salamanca the processions are more sober and feature Castilian religious sculpture, and in places like Cuenca or Murcia there are very distinctive customs. Many are Festivals of International Tourist Interest."
+    - "As the dates depend on Easter, they change every year, between March and April. If you plan to travel, book accommodation well in advance and check the official routes and times of each brotherhood, which are published weeks beforehand. The processions are religious events: keep quiet, don't cross between the processions and avoid flash photography when the floats go by."
+  faq:
+    - p: "When is Holy Week?"
+      r: "It is the week before Easter Sunday, which falls on a different date every year between late March and late April. It runs from Palm Sunday to Easter Sunday."
+    - p: "Where can I see the best processions?"
+      r: "Seville, Málaga, Valladolid, Zamora, Salamanca, Cuenca, Murcia and Cartagena are among the best known, each with a very different style. Many are Festivals of International Tourist Interest."
+    - p: "Do I have to pay to watch the processions?"
+      r: "No. You can watch them for free from the street. In some cities there are paid seats along the official route or at specific stretches."
+    - p: "Which days have the most processions?"
+      r: "Maundy Thursday and Good Friday are usually the busiest days, and the nights with the most atmosphere are the early hours between the two in cities like Seville. Palm Sunday and Holy Saturday also have processions."
+    - p: "How do I plan to see them?"
+      r: "Check each brotherhood's official programme, with its times and routes, get to a good spot early and be patient: the processions move slowly and streets are closed to traffic."
+    - p: "Is it a good plan with children?"
+      r: "Yes, but with care: there are big crowds and long waits. Choose afternoon processions, find a spot with room and explain to them that it is a moment of respect."
+
+feria-abril:
+  texto:
+    - "The Seville April Fair (Feria de Abril) is a week of celebration with marquees (casetas), sevillanas dancing, horses and horse-drawn carriages, and flamenco dresses. It is held at the Real de la Feria fairground, in the Los Remedios district, about two weeks after Holy Week."
+    - "The fair kicks off with the Alumbrado, on Monday night, when the thousands of light bulbs on the main gate are switched on. During the week, from midday, there is a parade of horses and carriages; after that, the casetas fill up with music, dancing, food and drink: rebujito, fino sherry, ham and fried fish (pescaíto frito). The fair closes on Sunday with a fireworks display."
+    - "One thing worth knowing: most casetas are private and only people with an invitation or members can get in. There are also public casetas and some run by the city council, open to everyone, and you can walk freely along the streets and around the fairground. People usually dress up: a flamenco dress for women and a short jacket (traje corto) or a suit for men."
+  faq:
+    - p: "When is the April Fair?"
+      r: "It normally starts two weeks after Easter Sunday, between April and May. It lasts a week, with the Alumbrado on Monday night."
+    - p: "Can I enter any caseta?"
+      r: "No. Most are private and you can only get in with an invitation or as a member. There are public casetas and council-run ones open to everyone."
+    - p: "How much does it cost to enter the fair?"
+      r: "Entry to the grounds is free. You pay for what you consume, and the rides on Calle del Infierno are paid."
+    - p: "What should I wear?"
+      r: "Many visitors wear a flamenco dress or traje corto, but it is not compulsory. The most important thing is comfortable footwear, because you walk a lot."
+    - p: "How do I get there?"
+      r: "By metro, tram or bus. Avoid taking a car: parking is almost impossible and the surrounding area is closed to traffic."
+    - p: "Is it a good plan with children?"
+      r: "During the day, yes, with the horse parade and family-friendly casetas. Calle del Infierno has rides. At night there are more people and more noise."
+
+san-fermin:
+  texto:
+    - "San Fermín is Pamplona's festival, held from 6 to 14 July, and one of the best-known celebrations in the world. It begins with the chupinazo in the Town Hall square, at midday on 6 July, and ends at midnight on the 14th with the Pobre de mí."
+    - "The great symbol is the encierros (running of the bulls): every morning at eight o'clock, the bulls run along a route of about 850 metres from the Santo Domingo corral to the bullring. But San Fermín is much more: the procession of San Fermín on 7 July, giants and big-heads (gigantes y cabezudos), concerts, fireworks, white clothing with a red scarf and a street atmosphere day and night."
+    - "Running with the bulls is dangerous and has rules: you must be of legal age, must not have drunk alcohol and must follow the organisers' instructions. If you prefer to watch, you can do so on television or from an authorised spot, which fill up very early. Book accommodation months in advance, because prices go up and the city fills up."
+  faq:
+    - p: "When is San Fermín?"
+      r: "From 6 to 14 July every year. It starts with the chupinazo on the 6th at midday and ends with the Pobre de mí at midnight on the 14th."
+    - p: "What time are the bull runs?"
+      r: "Every morning at 8:00, from 7 to 14 July. It lasts only a few minutes."
+    - p: "How can I watch a bull run?"
+      r: "On television, or live from authorised areas, which fill up very early. Some balconies have paid places. The spots with a view of the route fill up from before dawn."
+    - p: "Can anyone run?"
+      r: "No. You must be of legal age, not be under the influence of alcohol or other substances, and obey the organisers' rules. It is a dangerous activity and people are injured every year."
+    - p: "What should I wear?"
+      r: "Traditionally, white clothes with a red scarf around the neck and a red sash. Comfortable, closed shoes and a change of clothes, because you will almost certainly get dirty."
+    - p: "Is it a good plan with children?"
+      r: "The daytime atmosphere is family-friendly, with giants, big-heads and activities for children. At night it is more crowded. It is best to avoid the bull runs and the most packed areas."
+
+tomatina:
+  texto:
+    - "La Tomatina is the world's biggest tomato fight. It takes place in Buñol, a town in the province of Valencia, on the last Wednesday of August, and for about an hour thousands of people throw ripe tomatoes at each other until the streets are stained red."
+    - "To take part you need a ticket. The town council limits capacity and sells tickets in advance, so it is best to buy them early through the official channels and be wary of resellers. The festival begins with the palo jabón, a greased pole with a ham on top, and the battle starts when a rocket is fired at around 11 in the morning."
+    - "Wear old clothes and shoes you don't mind losing, swimming goggles to protect your eyes, and gloves. Squash the tomato before throwing it so as not to hurt anyone, and throw nothing but tomatoes. Don't bring valuables or cameras, and allow plenty of time to get there from Valencia, for example by train or on the buses organised for that day."
+  faq:
+    - p: "When is La Tomatina?"
+      r: "On the last Wednesday of August, in Buñol (Valencia). The battle lasts about an hour, starting at 11 in the morning."
+    - p: "Do I need a ticket?"
+      r: "Yes. Capacity is limited and tickets are bought in advance through the official channels. Avoid buying from resellers."
+    - p: "How do I get to Buñol?"
+      r: "From Valencia, by Cercanías commuter train or bus. It is best to arrive early, because there are huge crowds on the day of the festival."
+    - p: "What should I wear?"
+      r: "Old clothes and shoes you don't mind losing. Many participants wear swimming goggles to protect their eyes, and gloves."
+    - p: "What are the rules?"
+      r: "Squash the tomato before throwing it, throw nothing but tomatoes, don't bring glass or valuables and follow the organisers' instructions."
+    - p: "Is it a good plan with children?"
+      r: "There is a minimum age to take part and the festival is very crowded. Check the official conditions before buying tickets."
