@@ -86,6 +86,7 @@ function normalize(it) {
       ? { scope: 'nacional' }
       : { scope: 'local', municipio: it.municipio || null, provincia: prov?.provincia || it.provincia || null, ccaa: prov?.ccaa || null, venue: it.venue || null, lat: it.lat || null, lon: it.lon || null },
     source: { name: it._src.nombre, url: it.url || null, license: it._src.licencia || null },
+    ...(it.match ? { match: it.match } : {}),
     ...(it.ai ? { ai: true } : {}),
   };
 }

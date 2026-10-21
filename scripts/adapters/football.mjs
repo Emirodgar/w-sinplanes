@@ -19,8 +19,17 @@ export default async function football(src) {
       const local = new Date(m.utcDate).toLocaleString('sv-SE', { timeZone: 'Europe/Madrid' });
       out.push({
         title: `${h} – ${a} (${comp})`,
-        description: `Partido de ${comp}. Hora peninsular: ${local.slice(11, 16)}.`,
+        description: `Partido de ${comp}${m.matchday ? `, jornada ${m.matchday}` : ''}${m.venue ? ` en ${m.venue}` : ''}. Hora peninsular: ${local.slice(11, 16)}.`,
         start: local.slice(0, 10), end: local.slice(0, 10), time: local.slice(11, 16),
+        venue: m.venue || null,
+        match: {
+          competition: comp, emblem: m.competition?.emblem || null,
+          home: m.homeTeam?.shortName || h, away: m.awayTeam?.shortName || a,
+          homeCrest: m.homeTeam?.crest || null, awayCrest: m.awayTeam?.crest || null,
+          matchday: m.matchday && /REGULAR|LEAGUE/.test(m.stage || '') ? m.matchday : null,
+          stage: m.stage && !/REGULAR/.test(m.stage) ? m.stage.replace(/_/g, ' ').toLowerCase() : null,
+          venue: m.venue || null,
+        },
         url: null, scope: 'nacional', kind: 'pantalla', topics: ['pantalla', 'deporte'],
         indoor: true, free: true, price: null, hints: ['fútbol'], lang: 'es',
       });

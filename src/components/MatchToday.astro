@@ -1,0 +1,39 @@
+---
+// Partidos de hoy. Solo se pinta si hay alguno (planes con `match` y fecha de hoy); solo se usa en la portada.
+// En el resto del sitio el partido es un plan fechado más y sale en calendario, temas, etc.
+import { t, url } from '../i18n/ui.js';
+import { plans, TODAY, hasText } from '../lib/data.js';
+
+const { lang } = Astro.props;
+const L = t[lang];
+const games = plans
+  .filter((p) => p.match && p.start === TODAY)
+  .sort((a, b) => (a.time || '').localeCompare(b.time || ''));
+---
+{games.length > 0 && (
+  <section class="widget widget--wide match" aria-labelledby="w-match" data-search-hide>
+    <h2 id="w-match">{L.w.matchToday}</h2>
+    <ul class="match-list">
+      {games.map((p) => {
+        const m = p.match;
+        const extra = [m.matchday ? `${L.w.matchday} ${m.matchday}` : m.stage ? `${L.w.matchStage}: ${m.stage}` : null, m.venue ? `${L.w.matchVenue}: ${m.venue}` : null].filter(Boolean);
+        return (
+          <li class="match-card">
+            <p class="match-comp">
+              {m.emblem && <img src={m.emblem} alt="" width="20" height="20" loading="lazy" decoding="async" />}
+              <span>{m.competition}</span>
+            </p>
+            <p class="match-teams">
+              <span class="match-team">{m.homeCrest && <img src={m.homeCrest} alt="" width="36" height="36" loading="lazy" decoding="async" />}{m.home}</span>
+              <span class="match-vs" aria-hidden="true">–</span>
+              <span class="match-team">{m.awayCrest && <img src={m.awayCrest} alt="" width="36" height="36" loading="lazy" decoding="async" />}{m.away}</span>
+            </p>
+            <p class="match-time">{p.time && <strong>{p.time}</strong>} <span class="muted">{L.w.matchTime}</span></p>
+            {extra.length > 0 && <p class="muted match-extra">{extra.join(' · ')}</p>}
+            {hasText(p, lang) && <a class="more" href={url.plan(lang, p.slug)}>{L.w.matchMore}</a>}
+          </li>
+        );
+      })}
+    </ul>
+  </section>
+)}

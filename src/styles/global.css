@@ -318,7 +318,29 @@ p { margin: 0 0 1em; max-width: var(--measure); }
   .races td .race-ccaa::before { content: ' · '; }
 }
 
-/* Plan para hoy: tarjeta única de la portada (reutiliza .book). La sinopsis se acorta en pantallas pequeñas. */
-.daily-poster { height: auto; }
-.daily-text { display: -webkit-box; -webkit-line-clamp: 5; -webkit-box-orient: vertical; overflow: hidden; }
-.daily .podcast-cover { aspect-ratio: 1 / 1; }
+/* Plan para hoy: cuatro recomendaciones (serie, libro, podcast, película) */
+.daily h2 { margin-bottom: 1.25rem; }
+.daily-grid { list-style: none; margin: 0; padding: 0; width: 100%; display: grid; gap: 1.5rem 2rem; grid-template-columns: repeat(auto-fit, minmax(min(100%, 17rem), 1fr)); }
+.daily-card { display: flex; gap: 1rem; align-items: flex-start; min-width: 0; }
+.daily-cover { flex: none; width: 6.5rem; }
+.daily-cover .book-cover { width: 100%; }
+.daily-poster { aspect-ratio: 2 / 3; }
+.daily-card .podcast-cover { aspect-ratio: 1 / 1; }
+.daily-body { min-width: 0; }
+.daily-card .book-title { font-size: var(--s1); }
+.daily-card .book-title a { color: inherit; text-decoration: none; }
+.daily-card .book-title a:hover { text-decoration: underline; }
+.daily-card .book-author { margin-bottom: 0.5rem; }
+.daily-text { display: -webkit-box; -webkit-line-clamp: 4; -webkit-box-orient: vertical; overflow: hidden; font-size: 0.875rem; }
+
+/* Partido de hoy (solo portada) */
+.match-list { list-style: none; margin: 0; padding: 0; width: 100%; display: grid; gap: 1rem; grid-template-columns: repeat(auto-fit, minmax(min(100%, 20rem), 1fr)); }
+.match-card { background: var(--fill); border-radius: var(--r-md); padding: 1rem 1.25rem; display: flex; flex-direction: column; gap: 0.35rem; min-width: 0; }
+.match-card p { margin: 0; }
+.match-comp { display: flex; align-items: center; gap: 0.5rem; font-size: 0.8125rem; font-weight: 600; color: var(--ink-soft); }
+.match-teams { display: flex; flex-wrap: wrap; align-items: center; gap: 0.35rem 0.75rem; font-weight: 750; font-size: var(--s1); letter-spacing: -0.03em; }
+.match-team { display: inline-flex; align-items: center; gap: 0.5rem; }
+.match-team img, .match-comp img { object-fit: contain; }
+.match-time strong { font-size: var(--s1); }
+.match-extra { font-size: 0.875rem; }
+.match .more { padding-top: 0.5rem; }

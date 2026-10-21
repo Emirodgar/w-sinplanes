@@ -5,6 +5,7 @@ import NearMe from './NearMe.astro';
 import SearchBox from './SearchBox.astro';
 import CineWidget from './CineWidget.astro';
 import DailyPick from './DailyPick.astro';
+import MatchToday from './MatchToday.astro';
 import { t, url, monthName, HREFLANG } from '../i18n/ui.js';
 import { TODAY, currentMonth, seasonalFor, upcoming, within, overlaps, weekendRange, topicById, fmtDay, cap, ptitle, psummary, textLang, trending, boost, inLang } from '../lib/data.js';
 
@@ -56,6 +57,8 @@ const jsonld = {
   </section>
 
   <div class="widgets" data-search-hide>
+    <MatchToday lang={lang} />
+
     <section class="widget" aria-labelledby="w-weekend">
       <h2 id="w-weekend">{L.w.weekend}</h2>
       <PlanList lang={lang} plans={weekend} />

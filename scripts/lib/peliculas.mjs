@@ -63,7 +63,7 @@ export async function fetchPeliculas(key, today) {
   const topRaw = await localized(key, '/discover/movie', { sort_by: 'vote_average.desc', 'vote_count.gte': '4000', include_adult: 'false', region: 'ES' }, TOP_PAGES);
   const topMovies = topRaw.es.filter(ok).slice(0, TOP_MAX);
   if (!topMovies.length) throw new Error('TMDB no devolvió películas para el top');
-  const top = topMovies.map((m) => item(m, topRaw.names));
+  const top = topMovies.map((m) => item(m, topRaw.names, { overview: true }));
   const topIds = new Set(top.map((m) => m.id));
 
   let estrenos = [];
