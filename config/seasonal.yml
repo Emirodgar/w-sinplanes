@@ -460,6 +460,16 @@ temporada:
           - "Subir a la nieve es uno de los grandes planes de invierno, tanto para esquiar como para pasear, hacer trineo o simplemente ver la montaña blanca. España tiene estaciones y paisajes nevados en Sierra Nevada, el Pirineo, la Cordillera Cantábrica y el Sistema Central."
           - "La temporada va de diciembre a marzo, aunque la nieve depende mucho de cada invierno. Antes de salir, consulta el estado de las pistas y las carreteras: puede hacer falta cadenas o neumáticos de invierno, y los accesos a las estaciones se saturan los fines de semana y en puentes. Mira la información de tráfico antes y durante el viaje."
           - "No hace falta esquiar. Muchas estaciones y valles ofrecen zonas de trineo, rutas con raquetas, esquí de fondo y paseos por nieve, y la ropa se puede alquilar. Reserva el forfait y el material con antelación en las fechas fuertes. Lleva ropa impermeable y por capas, gafas de sol, crema solar y guantes de repuesto, porque el sol y el reflejo en la nieve engañan."
+        mapa:
+          titulo: "Dónde subir a la nieve"
+          centro: [40.5, -3.5]
+          zoom: 6
+          puntos:
+            - { nombre: "Sierra Nevada (Granada)", lat: 37.09, lon: -3.4, desc: "La estación más meridional de Europa, con pistas de esquí y zonas de paseo y trineo." }
+            - { nombre: "Pirineo aragonés (Formigal)", lat: 42.78, lon: -0.37, desc: "Gran dominio esquiable del Pirineo, con esquí de fondo y rutas con raquetas cerca." }
+            - { nombre: "Pirineo catalán (Baqueira Beret)", lat: 42.7, lon: 0.93, desc: "Una de las estaciones más grandes del Pirineo, en el Valle de Arán." }
+            - { nombre: "Cordillera Cantábrica (San Isidro)", lat: 43.05, lon: -5.37, desc: "Estación entre León y Asturias, con paisaje de alta montaña cantábrica." }
+            - { nombre: "Sistema Central (Navacerrada)", lat: 40.79, lon: -4.01, desc: "La nieve más cercana a Madrid, con pistas y zonas de trineo; los accesos se saturan los fines de semana." }
         faq:
           - p: "¿Cuándo hay nieve en España?"
             r: "Normalmente de diciembre a marzo, con enero y febrero como los meses más fiables. Depende mucho de cada invierno y de la altitud."
