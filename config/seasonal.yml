@@ -748,6 +748,24 @@ citas:
     temas: [pantalla, libros]
     es: { titulo: "Premio Nadal de novela", resumen: "El premio literario más antiguo de España se falla cada 6 de enero en Barcelona." }
     en: { titulo: "Nadal Prize for fiction", resumen: "Spain's oldest literary prize is announced every 6 January in Barcelona." }
+    relacionados: [premio-planeta, premio-cervantes, feria-libro-madrid]
+    contenido:
+      es:
+        texto:
+          - "El Premio Nadal de novela es el premio literario más antiguo de España, convocado desde 1944. Se falla cada 6 de enero en una cena en Barcelona y es una de las primeras citas del calendario literario del año."
+          - "La noche del 6 de enero se anuncia el ganador, y en los días siguientes la novela premiada llega a las librerías. Es una buena excusa para empezar el año con una lectura nueva y para descubrir autores y autoras que, en muchos casos, publican su obra por primera vez a gran escala."
+          - "Puedes seguir el fallo por las redes de la editorial y los medios de comunicación. Si quieres leer la novela ganadora, suele estar en las librerías unas semanas después. También puedes repasar títulos de ediciones anteriores, entre los que hay muchos clásicos de la literatura en español."
+        faq:
+          - p: "¿Cuándo se falla el Premio Nadal?"
+            r: "Cada 6 de enero por la noche, en un acto en Barcelona."
+          - p: "¿Qué es el Premio Nadal?"
+            r: "El premio literario de novela más antiguo de España, convocado desde 1944. Lo concede la editorial Destino."
+          - p: "¿Puedo asistir al acto?"
+            r: "Es un acto cerrado, con invitación. Lo habitual es seguirlo por medios de comunicación y redes sociales."
+          - p: "¿Cuándo llega la novela a las librerías?"
+            r: "Suele estar disponible en las semanas siguientes al fallo. Consulta en tu librería."
+          - p: "¿Es el único premio literario importante de enero?"
+            r: "No, a lo largo del año hay otros, como el Planeta en octubre y el Cervantes en abril. Todos tienen su propia ficha en sinplanes."
   - id: carnaval-cadiz
     regla: { tipo: pascua, desde: -52, hasta: -46 }
     aprox: true
@@ -781,18 +799,78 @@ citas:
     temas: [pantalla, deporte]
     es: { titulo: "Ver la Super Bowl", resumen: "La final de la NFL se emite de madrugada en España. Muchos bares deportivos abren para verla." }
     en: { titulo: "Watch the Super Bowl", resumen: "The NFL final airs in the early hours in Spain. Many sports bars open to show it." }
+    relacionados: [oscars, eurovision, final-champions]
+    contenido:
+      es:
+        texto:
+          - "La Super Bowl es la final de la NFL, la liga de fútbol americano, y uno de los eventos deportivos más vistos del mundo. Se celebra el segundo domingo de febrero y, por la diferencia horaria, en España se emite de madrugada, de domingo a lunes."
+          - "Además del partido, la Super Bowl es un espectáculo: el descanso con un concierto de grandes artistas, los anuncios publicitarios más esperados y toda una tradición de comida, como las alitas de pollo, los nachos y las hamburguesas. En España, muchos bares deportivos y restaurantes abren para verla, a veces con menús temáticos."
+          - "Si vas a verla en directo, prepárate para una noche larga: el partido termina bien entrada la madrugada y al día siguiente hay trabajo. Una alternativa es ver los mejores momentos al día siguiente. Consulta la programación del canal que la emite y las fechas de ese año."
+        faq:
+          - p: "¿Cuándo es la Super Bowl?"
+            r: "El segundo domingo de febrero. En España se emite de madrugada, ya en lunes."
+          - p: "¿A qué hora empieza?"
+            r: "En horario de la costa este de Estados Unidos, que en España es muy de madrugada. El partido dura unas tres horas y media con el descanso."
+          - p: "¿Dónde verla?"
+            r: "En casa o en bares deportivos que la retransmitan. Algunos restaurantes preparan menús temáticos."
+          - p: "¿Qué se come?"
+            r: "Tradicionalmente, alitas de pollo, nachos, hamburguesas y cerveza, aunque cada local tiene su propia carta."
+          - p: "¿Es necesario saber de fútbol americano?"
+            r: "No. Muchos espectadores la ven por el espectáculo del descanso y los anuncios."
+          - p: "¿Es buen plan con amigos?"
+            r: "Sí, como plan en casa o en un bar. Eso sí, es una noche larga."
   - id: goya
     regla: { tipo: enesimo, mes: 2, dia_semana: 6, n: 2 }
     aprox: true
     temas: [pantalla, cultura]
     es: { titulo: "Gala de los Premios Goya", resumen: "La gran noche del cine español, en directo por televisión." }
     en: { titulo: "Goya Awards gala", resumen: "Spanish cinema's big night, broadcast live on TV." }
+    relacionados: [oscars, eurovision, seminci]
+    contenido:
+      es:
+        texto:
+          - "La gala de los Premios Goya es la gran noche del cine español. La Academia de las Artes y las Ciencias Cinematográficas de España entrega sus premios a las mejores películas, directores, actores, guionistas y técnicos del año, en una ceremonia que se celebra en febrero y se retransmite en directo."
+          - "La gala se convierte en un acontecimiento social: alfombra roja, vestidos, discursos, números musicales y humor. Los nominados se anuncian semanas antes, y es un buen momento para ver las películas que compiten, que a menudo se reponen en salas o se publican en plataformas."
+          - "Para disfrutar de la gala, consulta la programación del canal que la emite y prepárate con unas palomitas. Algunos cines y salas organizan sesiones especiales y retransmisiones en pantalla grande. Si quieres añadir un reto, haz una porra con tus amigos para adivinar a los ganadores."
+        faq:
+          - p: "¿Cuándo es la gala de los Goya?"
+            r: "Normalmente, un sábado de febrero. La fecha exacta y la sede cambian cada año."
+          - p: "¿Dónde se emite?"
+            r: "En directo por televisión y por internet. Consulta la programación del canal que la retransmite."
+          - p: "¿Puedo asistir a la gala?"
+            r: "Es un acto con invitación. Lo habitual es seguirlo en directo por televisión."
+          - p: "¿Cómo me preparo?"
+            r: "Mira antes las películas nominadas. Muchas se reponen en cines o están disponibles en plataformas."
+          - p: "¿Hay alfombra roja abierta al público?"
+            r: "En algunas ediciones hay zonas para que el público vea llegar a los invitados. Consulta la información de la organización."
+          - p: "¿Es buen plan con amigos?"
+            r: "Sí, muchos lo viven en casa o en un bar o cine con pantalla grande y porra incluida."
   - id: oscars
     regla: { tipo: enesimo, mes: 3, dia_semana: 0, n: 1 }
     aprox: true
     temas: [pantalla]
     es: { titulo: "Noche de los Óscar", resumen: "La gala se emite de madrugada en España. Plan perfecto para ver las películas nominadas antes." }
     en: { titulo: "Oscars night", resumen: "The ceremony airs overnight in Spain. Catch the nominated films beforehand." }
+    relacionados: [goya, eurovision, super-bowl]
+    contenido:
+      es:
+        texto:
+          - "La Noche de los Óscar es el gran acontecimiento del cine mundial. Se celebra en el Dolby Theatre de Los Ángeles, normalmente un domingo de marzo, y, por la diferencia horaria, en España se emite de madrugada."
+          - "Los candidatos se anuncian semanas antes, y es el momento ideal para ver las películas nominadas, que suelen estar en cartel o en plataformas. Mucha gente prepara una porra, una maratón de películas o una noche de cine con amigos, y algunas salas organizan proyecciones especiales."
+          - "Si vas a seguir la gala en directo, prepárate para trasnochar: empieza de noche y termina bien entrada la madrugada. Otra opción es ver los premios principales al día siguiente en los resúmenes de los medios. Consulta la programación del canal que emite la gala en España."
+        faq:
+          - p: "¿Cuándo son los Óscar?"
+            r: "Un domingo de marzo, con la gala de noche en Los Ángeles. En España se emite de madrugada."
+          - p: "¿Dónde se emiten en España?"
+            r: "En directo, por televisión y plataformas. La programación cambia cada año, así que consúltala."
+          - p: "¿A qué hora empieza?"
+            r: "En horario de Los Ángeles. En España es de madrugada, y la ceremonia dura varias horas."
+          - p: "¿Cómo me preparo?"
+            r: "Ver antes las películas nominadas, que suelen estar en cartel o en plataformas, y preparar una porra para adivinar los ganadores."
+          - p: "¿Puedo asistir?"
+            r: "Es un acto con invitación. Lo habitual es seguirlo por televisión."
+          - p: "¿Es buen plan con amigos?"
+            r: "Sí, muchas personas lo viven en grupo, con porra y merienda-cena. También se puede ver al día siguiente en resumen."
   - id: fallas
     fuente: "https://www.spain.info/es/agenda/fallas-san-jose/"
     regla: { tipo: fija, inicio: "03-15", fin: "03-19" }
@@ -904,12 +982,52 @@ citas:
     lugar: { provincia: "Madrid", municipio: "Alcalá de Henares" }
     es: { titulo: "Entrega del Premio Cervantes", resumen: "El galardón más importante de las letras en español se entrega en Alcalá de Henares." }
     en: { titulo: "Cervantes Prize ceremony", resumen: "The top award for Spanish-language literature is presented in Alcalá de Henares." }
+    relacionados: [premio-nadal, sant-jordi, premio-planeta]
+    contenido:
+      es:
+        texto:
+          - "El Premio Cervantes es el galardón más importante de las letras en español y distingue la obra de un autor o autora por su trayectoria. Se entrega cada 23 de abril, Día del Libro, en el Paraninfo de la Universidad de Alcalá, en Alcalá de Henares, con presencia del Rey."
+          - "El premio está dotado con 125.000 euros y el ganador se anuncia meses antes del acto. La ceremonia tiene lugar en un edificio histórico de una ciudad Patrimonio de la Humanidad y cuna de Miguel de Cervantes, lo que le da un valor simbólico especial."
+          - "El acto es solemne y con invitación, pero puedes seguirlo por televisión o internet. Es un buen día para visitar Alcalá de Henares, recorrer su casco histórico y la casa natal de Cervantes, y para descubrir al ganador del año. Consulta el programa de actividades de la ciudad en torno al Día del Libro."
+        faq:
+          - p: "¿Cuándo se entrega el Premio Cervantes?"
+            r: "Cada 23 de abril, Día del Libro."
+          - p: "¿Dónde se entrega?"
+            r: "En el Paraninfo de la Universidad de Alcalá, en Alcalá de Henares (Madrid)."
+          - p: "¿Quién entrega el premio?"
+            r: "Tradicionalmente, el Rey de España."
+          - p: "¿Cuánto dinero tiene?"
+            r: "Está dotado con 125.000 euros."
+          - p: "¿Puedo asistir?"
+            r: "El acto es solemne y con invitación. Se puede seguir por televisión e internet."
+          - p: "¿Qué más ver en Alcalá de Henares?"
+            r: "El casco histórico, Patrimonio de la Humanidad, y la casa natal de Cervantes, entre otros lugares."
   - id: eurovision
     regla: { tipo: enesimo, mes: 5, dia_semana: 6, n: 2 }
     aprox: true
     temas: [pantalla, musica]
     es: { titulo: "Final de Eurovisión", resumen: "Una de las noches con más audiencia del año. Ideal para verla en grupo." }
     en: { titulo: "Eurovision final", resumen: "One of the most-watched nights of the year. Best watched with friends." }
+    relacionados: [final-champions, goya, super-bowl]
+    contenido:
+      es:
+        texto:
+          - "La final de Eurovisión es una de las noches con más audiencia del año en España. El festival reúne a artistas de decenas de países que compiten con una canción en directo, con puestas en escena espectaculares, y miles de personas lo viven en grupo con porras y fiestas temáticas."
+          - "La final es un sábado de mayo, precedida de dos semifinales en la misma semana. España forma parte de los llamados Big Five y pasa directamente a la final. El ganador se decide por la suma del voto de los jurados profesionales de cada país y del televoto del público."
+          - "Para disfrutarla, organiza una fiesta en casa: una porra para adivinar al ganador, una puntuación por canciones y algo de picoteo. Algunos bares y salas organizan retransmisiones en pantalla grande. Consulta la programación del canal que emite el festival y las fechas de ese año."
+        faq:
+          - p: "¿Cuándo es la final de Eurovisión?"
+            r: "Un sábado de mayo, tras dos semifinales en la misma semana. La fecha y la ciudad sede cambian cada año."
+          - p: "¿Cómo funciona la votación?"
+            r: "Cada país otorga puntos por el voto de un jurado profesional y por el televoto del público. Gana la canción con más puntos."
+          - p: "¿España pasa directamente a la final?"
+            r: "Sí, España está entre los países fijos de la final, los llamados Big Five, junto con el país organizador."
+          - p: "¿Dónde se emite?"
+            r: "En directo por televisión y por internet. Consulta la programación."
+          - p: "¿Cómo vivirlo?"
+            r: "En casa con amigos, con una porra y puntuaciones, o en un bar o sala que lo retransmita en pantalla grande."
+          - p: "¿Es buen plan con niños?"
+            r: "Sí, el espectáculo es muy visual y familiar, aunque termina tarde."
   - id: feria-libro-madrid
     regla: { tipo: enesimo, mes: 5, dia_semana: 5, n: -1, dura: 17 }
     aprox: true
@@ -917,12 +1035,52 @@ citas:
     lugar: { provincia: "Madrid", municipio: "Madrid" }
     es: { titulo: "Feria del Libro de Madrid", resumen: "Casetas de librerías y editoriales en el Retiro, con firmas de autores cada día." }
     en: { titulo: "Madrid Book Fair", resumen: "Bookshop and publisher stalls in Retiro Park, with daily author signings." }
+    relacionados: [sant-jordi, premio-planeta, premio-nadal]
+    contenido:
+      es:
+        texto:
+          - "La Feria del Libro de Madrid es una de las citas culturales más populares de la ciudad. Durante unas dos semanas, a finales de mayo y principios de junio, el Parque del Retiro se llena de casetas de librerías y editoriales, con firmas de autores cada día."
+          - "El paseo central del Retiro se convierte en una gran librería al aire libre, con novedades, clásicos, libros infantiles y libros de ocasión. Muchas casetas tienen descuentos, y cada día hay autores firmando ejemplares y presentaciones de libros. Es un plan de lectura, pero también de paseo."
+          - "La entrada es gratuita. Lo mejor es ir entre semana, por la mañana o al atardecer, porque los fines de semana se llena. Lleva una lista de libros, algo de efectivo y calzado cómodo. Si quieres que te firmen un libro, llega pronto y consulta el programa de firmas de cada día."
+        faq:
+          - p: "¿Cuándo es la Feria del Libro de Madrid?"
+            r: "A finales de mayo y principios de junio, durante unas dos o tres semanas. Las fechas exactas cambian cada año."
+          - p: "¿Dónde se celebra?"
+            r: "En el Parque del Retiro, en Madrid."
+          - p: "¿Hay que pagar entrada?"
+            r: "No, la entrada es gratuita."
+          - p: "¿Hay descuentos?"
+            r: "Muchas casetas ofrecen descuentos y ofertas. Consulta las condiciones en cada una."
+          - p: "¿Cómo consigo una firma?"
+            r: "Consulta el programa de firmas en la web de la feria y llega pronto a la caseta, porque las colas son largas."
+          - p: "¿Es buen plan con niños?"
+            r: "Sí, hay libros infantiles, cuentacuentos y actividades. Ve entre semana para evitar las aglomeraciones."
   - id: final-champions
     regla: { tipo: enesimo, mes: 5, dia_semana: 6, n: -1 }
     aprox: true
     temas: [pantalla, deporte]
     es: { titulo: "Final de la Champions League", resumen: "La final europea de clubes, en bares y pantallas gigantes si juega un equipo español." }
     en: { titulo: "Champions League final", resumen: "Europe's club final, shown in bars and on giant screens when a Spanish team plays." }
+    relacionados: [eurovision, super-bowl, goya]
+    contenido:
+      es:
+        texto:
+          - "La final de la Champions League es la gran cita del fútbol de clubes en Europa y una de las noches deportivas más vistas del año. Se celebra un sábado a finales de mayo o principios de junio y, cuando juega un equipo español, la ciudad se llena de ambiente."
+          - "Para verla, muchos bares, restaurantes y locales organizan retransmisiones con pantallas grandes, y algunas ciudades instalan pantallas gigantes en plazas o recintos si juega un equipo español. Si hay celebración, las plazas tradicionales de los equipos, como Cibeles o Neptuno en Madrid, se llenan."
+          - "Si quieres verla en un bar, reserva con tiempo o llega pronto, porque se llenan. Si la ves en casa, organiza una quedada con amigos. Consulta la programación del canal que la emite y confirma la fecha y la hora, que cambian cada año según la sede."
+        faq:
+          - p: "¿Cuándo es la final de la Champions?"
+            r: "Un sábado a finales de mayo o principios de junio. La fecha y la ciudad sede cambian cada año."
+          - p: "¿Dónde verla?"
+            r: "En casa, en bares y restaurantes con pantalla y, si juega un equipo español, en pantallas gigantes en algunas ciudades."
+          - p: "¿Hay que reservar en un bar?"
+            r: "Sí, o llegar pronto. Las finales llenan los locales con retransmisión."
+          - p: "¿Dónde se celebran los títulos?"
+            r: "Cada equipo tiene sus lugares tradicionales: por ejemplo, Cibeles en Madrid o Canaletas y el Arco de Triunfo en Barcelona. Consulta la información oficial del club y del ayuntamiento."
+          - p: "¿Dónde se emite?"
+            r: "Consulta la programación del canal que la retransmite ese año."
+          - p: "¿Es buen plan con niños?"
+            r: "En casa o en un local familiar sí. En la calle, hay que tener cuidado con las aglomeraciones."
   - id: san-juan
     regla: { tipo: fija, inicio: "06-23", fin: "06-24" }
     temas: [fiestas, agua]
@@ -1067,6 +1225,24 @@ citas:
     temas: [pantalla, libros]
     es: { titulo: "Fallo del Premio Planeta", resumen: "El premio literario con mayor dotación de España se anuncia en una gala en Barcelona." }
     en: { titulo: "Planeta Prize announcement", resumen: "Spain's richest literary prize is announced at a gala in Barcelona." }
+    relacionados: [premio-nadal, premio-cervantes, feria-libro-madrid]
+    contenido:
+      es:
+        texto:
+          - "El Premio Planeta es uno de los premios literarios mejor dotados del mundo en lengua española, con un millón de euros para el ganador. Se anuncia a mediados de octubre en una gala en Barcelona y es uno de los grandes acontecimientos editoriales del otoño."
+          - "En la gala se anuncian la novela ganadora y la finalista, y la noticia se sigue en directo por medios y redes. En los días siguientes, la novela premiada llega a las librerías y suele situarse entre los libros más vendidos de la campaña de Navidad."
+          - "Puedes seguir el fallo por los medios y las redes de la editorial. Si quieres leer la novela, suele estar disponible en librerías en cuanto se anuncia. Es un buen momento para conocer a los autores y autoras que forman parte de la gran literatura en español."
+        faq:
+          - p: "¿Cuándo se falla el Premio Planeta?"
+            r: "A mediados de octubre, en una gala en Barcelona."
+          - p: "¿Cuánto dinero tiene el premio?"
+            r: "El ganador recibe un millón de euros y el finalista una cantidad menor, lo que lo convierte en uno de los premios literarios mejor dotados del mundo."
+          - p: "¿Puedo asistir a la gala?"
+            r: "Es un acto con invitación. Se sigue por medios de comunicación y redes sociales."
+          - p: "¿Cuándo llega la novela a las librerías?"
+            r: "Suele estar disponible tras el fallo. Consulta en tu librería."
+          - p: "¿Es lo mismo que el Premio Nadal?"
+            r: "No. El Nadal es el más antiguo de España y se falla el 6 de enero, mientras que el Planeta se falla en octubre."
   - id: seminci
     fuente: "https://www.spain.info/es/agenda/semana-internacional-cine-valladolid-seminci/"
     regla: { tipo: enesimo, mes: 10, dia_semana: 5, n: 4, dura: 9 }
@@ -1106,6 +1282,26 @@ citas:
     temas: [navidad]
     es: { titulo: "Encendido de las luces de Navidad", resumen: "Muchas ciudades encienden su alumbrado a finales de noviembre con un acto público." }
     en: { titulo: "Christmas lights switch-on", resumen: "Many cities switch on their lights in late November with a public event." }
+    relacionados: [luces-navidad, mercadillos-navidad, belenes]
+    contenido:
+      es:
+        texto:
+          - "El encendido de las luces de Navidad es el acto con el que muchas ciudades inauguran su alumbrado navideño. Suele celebrarse a finales de noviembre o principios de diciembre, con un acto público, música y, a veces, espectáculos de luces y fuegos artificiales."
+          - "Cada ciudad tiene su fecha y su formato: en algunas se hace con una cuenta atrás en una plaza, en otras con un desfile o un concierto. Las luces se mantienen encendidas durante las fiestas, normalmente hasta Reyes. Si te interesa ver el momento del encendido, consulta el programa de tu ayuntamiento."
+          - "Los actos de encendido se llenan de gente, así que llega con tiempo, elige un buen sitio y ve a pie o en transporte público. Si prefieres ver las luces con más calma, ve otro día entre semana. Abrígate y ten paciencia con las aglomeraciones."
+        faq:
+          - p: "¿Cuándo se encienden las luces de Navidad?"
+            r: "Normalmente a finales de noviembre o principios de diciembre. Cada ciudad anuncia su fecha unas semanas antes."
+          - p: "¿Hay acto de encendido?"
+            r: "En muchas ciudades sí, con música, cuenta atrás y, a veces, fuegos artificiales. Consulta el programa de tu ayuntamiento."
+          - p: "¿Cuánto tiempo están encendidas?"
+            r: "Normalmente hasta Reyes, el 6 de enero."
+          - p: "¿Cómo llego?"
+            r: "A pie o en transporte público. El centro suele cortarse al tráfico."
+          - p: "¿Cuándo es mejor ir a ver las luces?"
+            r: "Entre semana y a primera hora de la noche. El día del encendido y los fines de semana hay muchísima gente."
+          - p: "¿Es buen plan con niños?"
+            r: "Sí, pero con cuidado en las aglomeraciones. Acordad un punto de encuentro por si os separáis."
   - id: loteria-navidad
     regla: { tipo: fija, inicio: "12-22" }
     temas: [pantalla, navidad]
