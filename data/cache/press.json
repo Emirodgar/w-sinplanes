@@ -1839,5 +1839,1182 @@
   ],
   "a_cubierto": null,
   "confianza": 0.9
+ },
+ "517035e760": {
+  "url": "https://www.20minutos.es/musica/primer-concierto-patti-smith-gijon-50-anos-despues-su-presentacion-espana-negro-con-un-coro-un-millar-voces_7051377_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-10-21",
+  "es_plan": true,
+  "titulo": "Patti Smith en concierto en Gijón",
+  "resumen": "Patti Smith ofrece dos conciertos en el Teatro Jovellanos de Gijón, coincidiendo con el 50 aniversario de su primera actuación en España y la concesión del Premio Princesa de Asturias de las Artes 2026.",
+  "en": {
+   "titulo": "Patti Smith in concert in Gijón",
+   "resumen": "Patti Smith performs two concerts at the Teatro Jovellanos in Gijón, coinciding with the 50th anniversary of her first performance in Spain and the awarding of the 2026 Princess of Asturias Award for the Arts."
+  },
+  "inicio": "2026-10-21",
+  "fin": "2026-10-21",
+  "hora": null,
+  "lugar": "Teatro Jovellanos",
+  "municipio": "Gijón",
+  "provincia": "Asturias",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "470c6a45b1": {
+  "url": "https://www.20minutos.es/cultura/blogs/yaestaellistoquetodolosabe/quince-anos-ya-esta-listo-que-todo-sabe-red-blogs-20minutos-es_7026203_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-10-21",
+  "es_plan": false
+ },
+ "00bee87740": {
+  "url": "https://www.20minutos.es/artes/pedrera-acoge-primera-exposicion-anselm-kiefer-barcelona-un-espectacular-universo-historia-naturaleza-cosmos_7051192_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-10-21",
+  "es_plan": true,
+  "titulo": "Exposición de Anselm Kiefer en La Pedrera, Barcelona",
+  "resumen": "La Pedrera de Barcelona acoge la primera exposición de Anselm Kiefer en la ciudad, 'Colección Grothe', que explora un universo de historia, naturaleza y cosmos hasta el 24 de enero de 2027.",
+  "en": {
+   "titulo": "Anselm Kiefer exhibition at La Pedrera, Barcelona",
+   "resumen": "La Pedrera in Barcelona hosts the first exhibition of Anselm Kiefer in the city, 'Colección Grothe', exploring a universe of history, nature, and cosmos until January 24, 2027."
+  },
+  "inicio": "2026-10-21",
+  "fin": "2027-01-24",
+  "hora": null,
+  "lugar": "La Pedrera",
+  "municipio": "Barcelona",
+  "provincia": "Barcelona",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "132a9901bc": {
+  "url": "https://www.20minutos.es/musica/james-blunt-soy-un-poco-traidor-me-pongo-delante-10-000-personas-les-digo-que-son-beautiful_7050702_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-10-21",
+  "es_plan": false
+ },
+ "f63046c581": {
+  "url": "https://elpais.com/espana/catalunya/2026-10-21/the-strokes-en-su-unico-concierto-en-espana-perdura-la-revolucion-del-calambre-con-un-sant-jordi-en-pie.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-10-21",
+  "es_plan": true,
+  "titulo": "The Strokes en concierto en Barcelona",
+  "resumen": "The Strokes ofrecen su único concierto en España en el Sant Jordi, presentando un repaso de su trayectoria que electriza al público.",
+  "en": {
+   "titulo": "The Strokes in concert in Barcelona",
+   "resumen": "The Strokes perform their only concert in Spain at the Sant Jordi, presenting a review of their career that electrifies the audience."
+  },
+  "inicio": "2026-10-21",
+  "fin": "2026-10-21",
+  "hora": null,
+  "lugar": "Sant Jordi",
+  "municipio": "Barcelona",
+  "provincia": "Barcelona",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "d2a1aca1a4": {
+  "url": "https://elpais.com/cultura/2026-10-21/jon-savage-critico-musical-ser-un-hombre-heterosexual-me-parecia-aburrido-de-ahi-mi-interes-por-el-punk.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-10-21",
+  "es_plan": false
+ },
+ "919b69e77f": {
+  "url": "https://elpais.com/cultura/2026-10-21/parlamentarias-de-ultraderecha-legislando-desde-una-nave-espacial-la-politica-del-futuro-en-clave-de-comedia.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-10-21",
+  "es_plan": true,
+  "titulo": "Estreno de la obra teatral 'Parlamento' en España",
+  "resumen": "El colectivo argentino Piel de Lava estrena en España la obra teatral 'Parlamento', una comedia sobre política futurista ambientada en una nave espacial.",
+  "en": {
+   "titulo": "Theatrical play 'Parlamento' premieres in Spain",
+   "resumen": "The Argentine collective Piel de Lava premieres the theatrical play 'Parlamento' in Spain, a comedy about futuristic politics set on a spaceship."
+  },
+  "inicio": "2026-10-21",
+  "fin": "2026-10-21",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.7
+ },
+ "972c219712": {
+  "url": "https://www.ara.cat/cultura/teatre/xavier-alberti-coneixer-no-coneixer-teva-familia-biologica-no-pot-mai-trauma_1_5885524.html",
+  "fuente": "Ara (Cultura)",
+  "src": "prensa-ara-cultura",
+  "publicado": "2026-10-21",
+  "es_plan": true,
+  "titulo": "Inocencia y desig en la Sala Flyhard, Barcelona",
+  "resumen": "La Sala Flyhard de Barcelona presenta 'Inocencia y desig', una obra teatral de Òscar Constantí sobre los bebés robados, interpretada por Mont Plans, Montse Esteve y Manel Barceló.",
+  "en": {
+   "titulo": "'Inocencia y desig' at Sala Flyhard, Barcelona",
+   "resumen": "Sala Flyhard in Barcelona presents 'Inocencia y desig', a play by Òscar Constantí about stolen babies, starring Mont Plans, Montse Esteve, and Manel Barceló."
+  },
+  "inicio": "2026-10-21",
+  "fin": "2026-12-27",
+  "hora": null,
+  "lugar": "Sala Flyhard",
+  "municipio": "Barcelona",
+  "provincia": "Barcelona",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "278fa609d1": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/21/arde-huesca-depedro-mala-gestion-queralt-lahoz-nueva-temporada-veintiuno-2061428.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-10-21",
+  "es_plan": true,
+  "titulo": "Temporada de conciertos en El Veintiuno, Huesca",
+  "resumen": "La sala El Veintiuno de Huesca celebra su 16º aniversario con 13 conciertos, incluyendo a Depedro, Mala Gestión y Queralt Lahoz, entre noviembre de 2026 y marzo de 2027.",
+  "en": {
+   "titulo": "Concert season at El Veintiuno, Huesca",
+   "resumen": "The El Veintiuno venue in Huesca celebrates its 16th anniversary with 13 concerts, featuring Depedro, Mala Gestión, and Queralt Lahoz, from November 2026 to March 2027."
+  },
+  "inicio": "2026-11-20",
+  "fin": "2027-03-20",
+  "hora": null,
+  "lugar": "El Veintiuno",
+  "municipio": "Huesca",
+  "provincia": "Huesca",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "7791296c54": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/21/sale-subasta-busto-francisco-goya-escultor-julio-antonio-2061401.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-10-21",
+  "es_plan": false
+ },
+ "4b9ceb6227": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/21/doblete-solidario-kase-asturias-para-promover-musica-los-espacios-rurales-2061411.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-10-21",
+  "es_plan": true,
+  "titulo": "Conciertos de Kase.O en Asturias",
+  "resumen": "Kase.O ofrecerá dos conciertos en Asturias, en Grandas de Salime y Boal, como cierre de unos talleres creativos para promover la música en espacios rurales.",
+  "en": {
+   "titulo": "Kase.O concerts in Asturias",
+   "resumen": "Kase.O will perform two concerts in Asturias, in Grandas de Salime and Boal, as the closing event of creative workshops promoting music in rural areas."
+  },
+  "inicio": "2026-10-24",
+  "fin": "2026-10-25",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": "Asturias",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "5aa88dc836": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/21/jose-miguel-contreras-ceo-septima-espana-hueco-debate-tranquilo-sin-gritos-insultos-2061323.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-10-21",
+  "es_plan": true,
+  "titulo": "Lanzamiento de la cadena de televisión La Séptima",
+  "resumen": "La nueva cadena de televisión La Séptima inicia su programación el 5 de noviembre, con contenidos centrados inicialmente en la campaña electoral y un programa al estilo de 'La clave'.",
+  "en": {
+   "titulo": "Launch of the television channel La Séptima",
+   "resumen": "The new television channel La Séptima begins its programming on November 5, with content initially focused on the electoral campaign and a show in the style of 'La clave'."
+  },
+  "inicio": "2026-11-05",
+  "fin": "2026-11-05",
+  "hora": "12:00",
+  "lugar": null,
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "pantalla",
+   "cultura"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "05c106e0db": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/21/maria-uriz-soprano-las-ensenanzas-que-elvira-hidalgo-traslado-maria-callas-me-las-paso-mi-2061275.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-10-21",
+  "es_plan": false
+ },
+ "95b3edb183": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/21/the-heroes-experience-pedro-andreu-salen-gira-por-espana-pasaran-zaragoza-2061259.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-10-21",
+  "es_plan": true,
+  "titulo": "Gira 'Siempre Héroes' de Pedro Andreu y The Héroes Experience",
+  "resumen": "Pedro Andreu y The Héroes Experience inician una gira por diez ciudades españolas para celebrar los treinta años de la separación de Héroes del Silencio, comenzando el 11 de febrero de 2027.",
+  "en": {
+   "titulo": "'Siempre Héroes' tour by Pedro Andreu and The Héroes Experience",
+   "resumen": "Pedro Andreu and The Héroes Experience begin a tour of ten Spanish cities to celebrate thirty years since the separation of Héroes del Silencio, starting on February 11, 2027."
+  },
+  "inicio": "2027-02-11",
+  "fin": "2027-03-19",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "74a2fae03d": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/21/puerto-venecia-zaragoza-celebra-halloween-supervivencia-zombi-cine-terror-actividades-infantiles-horarios-precios-descuentos-2061186.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-10-21",
+  "es_plan": false
+ },
+ "af8c480d34": {
+  "url": "https://www.elnortedecastilla.es/culturas/seminci/programa/programacion-completa-seminci-2025-20261020160155-nt.html",
+  "fuente": "El Norte de Castilla (Culturas)",
+  "src": "prensa-nortecastilla-culturas",
+  "publicado": "2026-10-21",
+  "es_plan": true,
+  "titulo": "Festival de Cine de Valladolid - Seminci 2026",
+  "resumen": "La 71ª edición del Festival de Cine de Valladolid, la Seminci, se celebrará del 23 al 31 de octubre. Consulta la programación completa del evento.",
+  "en": {
+   "titulo": "Valladolid Film Festival - Seminci 2026",
+   "resumen": "The 71st edition of the Valladolid Film Festival, Seminci, will take place from October 23rd to 31st. Check the complete program of the event."
+  },
+  "inicio": "2026-10-23",
+  "fin": "2026-10-31",
+  "hora": null,
+  "lugar": null,
+  "municipio": "Valladolid",
+  "provincia": "Valladolid",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "178b488ee0": {
+  "url": "https://www.elnortedecastilla.es/culturas/arte/gondomar-embajadores-catolicos-tierra-anglicana-puente-valladolid-20261020204153-nt.html",
+  "fuente": "El Norte de Castilla (Culturas)",
+  "src": "prensa-nortecastilla-culturas",
+  "publicado": "2026-10-21",
+  "es_plan": false
+ },
+ "6f35977821": {
+  "url": "https://www.ideal.es/culturas/almeria/fin-plazo-taller-pablo-lopez-sombra-tiempo-20261021121049-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-10-21",
+  "es_plan": false
+ },
+ "a03198b1c6": {
+  "url": "https://www.ideal.es/culturas/almeria/ballet-almeria-directo-royal-opera-house-20261021115638-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-10-21",
+  "es_plan": true,
+  "titulo": "Ballet en Almería: Directo desde la Royal Opera House",
+  "resumen": "Disfruta de una retransmisión vía satélite de ballet desde la Royal Opera House en Kinepolis Almería Mediterráneo el martes 27 de octubre a las 20:15h.",
+  "en": {
+   "titulo": "Ballet in Almería: Live from the Royal Opera House",
+   "resumen": "Enjoy a satellite broadcast of ballet from the Royal Opera House at Kinepolis Almería Mediterráneo on Tuesday, October 27th at 8:15 PM."
+  },
+  "inicio": "2026-10-27",
+  "fin": "2026-10-27",
+  "hora": "20:15",
+  "lugar": "Kinepolis Almería Mediterráneo",
+  "municipio": "Almería",
+  "provincia": "Almería",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "a34e29eb27": {
+  "url": "https://www.ideal.es/culturas/2027-ano-planetario-20261021113201-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-10-21",
+  "es_plan": false
+ },
+ "e9ee95e54a": {
+  "url": "https://www.elcorreo.com/culturas/musica/notevagustar-prenden-comunion-uruguaya-kafe-antzokia-lleno-20261021115742-nt.html",
+  "fuente": "El Correo (Culturas)",
+  "src": "prensa-elcorreo-culturas",
+  "publicado": "2026-10-21",
+  "es_plan": false
+ },
+ "77a304e0dc": {
+  "url": "https://www.elcorreo.com/culturas/libros/escritora-laura-freixas-denuncia-haber-vetada-libreria-20261021114235-nt.html",
+  "fuente": "El Correo (Culturas)",
+  "src": "prensa-elcorreo-culturas",
+  "publicado": "2026-10-21",
+  "es_plan": false
+ },
+ "a36707c54e": {
+  "url": "https://www.diariovasco.com/culturas/musica/falsificacion-entradas-estafa-vez-extendida-sofisticada-20261021000713-nt.html",
+  "fuente": "El Diario Vasco (Culturas)",
+  "src": "prensa-diariovasco-culturas",
+  "publicado": "2026-10-21",
+  "es_plan": false
+ },
+ "273ed92375": {
+  "url": "https://www.lasprovincias.es/culturas/tv/thriller-psicologico-basado-reales-llega-movistar-plus-20261015000808-nt.html",
+  "fuente": "Las Provincias (Culturas)",
+  "src": "prensa-lasprovincias-culturas",
+  "publicado": "2026-10-21",
+  "es_plan": true,
+  "titulo": "Estreno de thriller psicológico en Movistar Plus",
+  "resumen": "Un nuevo thriller psicológico, basado en hechos reales, se estrenará en Movistar Plus el próximo 5 de noviembre y constará de ocho episodios.",
+  "en": {
+   "titulo": "Psychological thriller premiere on Movistar Plus",
+   "resumen": "A new psychological thriller, based on real events, will premiere on Movistar Plus on November 5th and will consist of eight episodes."
+  },
+  "inicio": "2026-11-05",
+  "fin": "2026-11-05",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": "Comunitat Valenciana",
+  "ambito": "nacional",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "pantalla",
+   "cultura"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "446d277dcc": {
+  "url": "https://www.lasprovincias.es/culturas/tv/peliculas-ver-hoy-miercoles-television-popular-comedia-20261020000750-nt.html",
+  "fuente": "Las Provincias (Culturas)",
+  "src": "prensa-lasprovincias-culturas",
+  "publicado": "2026-10-21",
+  "es_plan": true,
+  "titulo": "Películas en televisión: Miércoles 21 de Octubre",
+  "resumen": "La oferta cinematográfica televisiva para hoy, 21 de octubre, incluye una comedia romántica de los 90 y un drama con Brad Pitt, además de una adaptación de 'Los tres mosqueteros'.",
+  "en": {
+   "titulo": "Movies on TV: Wednesday, October 21st",
+   "resumen": "The television film offering for today, October 21st, includes a 90s romantic comedy and a drama with Brad Pitt, as well as an adaptation of 'The Three Musketeers'."
+  },
+  "inicio": "2026-10-21",
+  "fin": "2026-10-21",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": "Comunitat Valenciana",
+  "ambito": "nacional",
+  "gratis": true,
+  "precio": null,
+  "temas": [
+   "pantalla",
+   "cultura"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "124e23d191": {
+  "url": "https://www.larioja.com/culturas/presentacion-retratos-literarios-libreria-cerezo-logrono-20261021112726-nt.html",
+  "fuente": "La Rioja (Culturas)",
+  "src": "prensa-larioja-culturas",
+  "publicado": "2026-10-21",
+  "es_plan": true,
+  "titulo": "Encuentro literario en Logroño: 'Retratos literarios'",
+  "resumen": "Este viernes se celebra en la Librería Cerezo de Logroño un encuentro literario con Jesús Marchamalo e Ignacio Martínez de Pisón para presentar 'Retratos literarios'.",
+  "en": {
+   "titulo": "Literary meeting in Logroño: 'Retratos literarios'",
+   "resumen": "This Friday, a literary meeting with Jesús Marchamalo and Ignacio Martínez de Pisón will take place at Librería Cerezo in Logroño to present 'Retratos literarios'."
+  },
+  "inicio": "2026-10-23",
+  "fin": "2026-10-23",
+  "hora": null,
+  "lugar": "Librería Cerezo",
+  "municipio": "Logroño",
+  "provincia": "La Rioja",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "a8011fcac2": {
+  "url": "https://www.larioja.com/culturas/obras-teatro-breton-festival-teatro-octubre-logrono-20261021103833-nt.html",
+  "fuente": "La Rioja (Culturas)",
+  "src": "prensa-larioja-culturas",
+  "publicado": "2026-10-21",
+  "es_plan": true,
+  "titulo": "Teatro 'R&J' en El Bretón (Logroño)",
+  "resumen": "El Teatro Bretón de Logroño presenta la obra 'R&J' los días 23 y 24 de octubre, con Carolina Yuste y Eneko Sagardoy.",
+  "en": {
+   "titulo": "'R&J' Theater Play at El Bretón (Logroño)",
+   "resumen": "El Bretón Theater in Logroño presents the play 'R&J' on October 23rd and 24th, featuring Carolina Yuste and Eneko Sagardoy."
+  },
+  "inicio": "2026-10-23",
+  "fin": "2026-10-24",
+  "hora": null,
+  "lugar": "El Bretón",
+  "municipio": "Logroño",
+  "provincia": "La Rioja",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "00115670a3": {
+  "url": "https://www.larioja.com/culturas/congreso-ecos-sagasta-centro-cultura-rioja-20261021202036-nt.html",
+  "fuente": "La Rioja (Culturas)",
+  "src": "prensa-larioja-culturas",
+  "publicado": "2026-10-21",
+  "es_plan": true,
+  "titulo": "Congreso 'Ecos de Sagasta' en Logroño",
+  "resumen": "El Centro de la Cultura del Rioja en Logroño acoge el congreso 'Ecos de Sagasta' los días 29 y 30 de octubre.",
+  "en": {
+   "titulo": "'Ecos de Sagasta' Congress in Logroño",
+   "resumen": "The Rioja Culture Center in Logroño hosts the 'Ecos de Sagasta' congress on October 29th and 30th."
+  },
+  "inicio": "2026-10-29",
+  "fin": "2026-10-30",
+  "hora": null,
+  "lugar": "Centro de la Cultura del Rioja",
+  "municipio": "Logroño",
+  "provincia": "La Rioja",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "490133fbf3": {
+  "url": "https://www.20minutos.es/musica/rosalia-daddy-yankee-entre-los-artistas-que-actuaran-los-latin-grammy-2026_7051210_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-10-20",
+  "es_plan": true,
+  "titulo": "Latin Grammy 2026 en Las Vegas",
+  "resumen": "La 27ª edición de los Latin Grammy se celebrará el 12 de noviembre en Las Vegas, con actuaciones confirmadas de Rosalía, Daddy Yankee y Juanes, entre otros.",
+  "en": {
+   "titulo": "Latin Grammy 2026 in Las Vegas",
+   "resumen": "The 27th edition of the Latin Grammy Awards will be held on November 12th in Las Vegas, with confirmed performances by Rosalía, Daddy Yankee, and Juanes, among others."
+  },
+  "inicio": "2026-11-12",
+  "fin": "2026-11-12",
+  "hora": null,
+  "lugar": "MGM Grand Garden Arena",
+  "municipio": "Las Vegas",
+  "provincia": null,
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.5
+ },
+ "4fc961cdfd": {
+  "url": "https://www.20minutos.es/libros/investigador-xavier-nueno-conquista-54o-premio-anagrama-ensayo-con-un-libro-sobre-peso-vital-las-bibliotecas_7051078_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-10-20",
+  "es_plan": true,
+  "titulo": "Premio Anagrama de Ensayo: 'La revuelta de los copistas'",
+  "resumen": "El 54º Premio Anagrama de Ensayo ha sido otorgado a Xavier Nueno por 'La revuelta de los copistas. Cómo el conocimiento perdió el juicio', a la venta desde el 21 de octubre.",
+  "en": {
+   "titulo": "Anagram Essay Prize: 'La revuelta de los copistas'",
+   "resumen": "The 54th Anagram Essay Prize has been awarded to Xavier Nueno for 'La revuelta de los copistas. Cómo el conocimiento perdió el juicio', available since October 21st."
+  },
+  "inicio": "2026-10-21",
+  "fin": "2026-10-21",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": "España",
+  "ambito": "nacional",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "51ae7bb2a8": {
+  "url": "https://www.20minutos.es/cultura/declaran-faro-trafalgar-como-bien-interes-cultural-maximo-nivel-proteccion-que-contempla-ley_7051060_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-10-20",
+  "es_plan": false
+ },
+ "d482de30db": {
+  "url": "https://www.20minutos.es/musica/alcala-norte-presentara-su-nuevo-disco-cinco-conciertos-entre-espana-ciudad-mexico_7051015_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-10-20",
+  "es_plan": true,
+  "titulo": "Alcalá Norte presenta nuevo disco en cinco conciertos",
+  "resumen": "La banda Alcalá Norte presentará su nuevo álbum 'Dejémoslo como estaba' con una gira que incluye conciertos en Madrid, Valencia, Barcelona y Santiago de Compostela, además de una fecha en Ciudad de México.",
+  "en": {
+   "titulo": "Alcalá Norte Presents New Album in Five Concerts",
+   "resumen": "The band Alcalá Norte will present their new album 'Dejémoslo como estaba' with a tour including concerts in Madrid, Valencia, Barcelona, and Santiago de Compostela, as well as a date in Mexico City."
+  },
+  "inicio": "2027-02-20",
+  "fin": "2027-04-24",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "11e20132be": {
+  "url": "https://www.20minutos.es/musica/patti-smith-cambia-ubicacion-su-concierto-asturias-agota-2-000-nuevas-entradas-solo-nueve-minutos_7050967_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-10-20",
+  "es_plan": true,
+  "titulo": "Patti Smith cambia de ubicación su concierto en Asturias",
+  "resumen": "El concierto de Patti Smith en Asturias, parte de la Semana de los Premios Princesa de Asturias 2026, se traslada al Palacio de los Deportes de Gijón por previsión meteorológica. Se han agotado 2.000 entradas adicionales.",
+  "en": {
+   "titulo": "Patti Smith Changes Venue for Asturias Concert",
+   "resumen": "Patti Smith's concert in Asturias, part of the 2026 Princess of Asturias Awards Week, is moved to the Gijón Sports Palace due to unfavorable weather forecasts. An additional 2,000 tickets have been sold out."
+  },
+  "inicio": "2026-10-21",
+  "fin": "2026-10-21",
+  "hora": "20:30",
+  "lugar": "Palacio de los Deportes de la Guía Presidente Adolfo Suárez",
+  "municipio": "Gijón",
+  "provincia": "Asturias",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.95
+ },
+ "f54687598c": {
+  "url": "https://elpais.com/cultura/2026-10-20/patti-smith-50-anos-despues-de-su-debut-en-espana-mistica-compromiso-poesia-y-puro-rock-and-roll.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-10-20",
+  "es_plan": false
+ },
+ "a49f576926": {
+  "url": "https://elpais.com/cultura/cine/2026-10-20/vox-veta-las-ayudas-al-cine-en-castilla-y-leon-a-peliculas-que-impliquen-adoctrinamiento-ideologico.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-10-20",
+  "es_plan": false
+ },
+ "faa4e3f9e4": {
+  "url": "https://elpais.com/cultura/2026-10-20/patti-smith-llama-a-los-ciudadanos-a-levantarse-y-usar-su-poder-contra-el-liderazgo-deplorable-de-trump.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-10-20",
+  "es_plan": false
+ },
+ "c2ccc3357f": {
+  "url": "https://elpais.com/cultura/2026-10-20/xavier-nueno-gana-el-premio-anagrama-de-ensayo-2026-alertando-de-la-privatizacion-del-saber-en-la-ia.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-10-20",
+  "es_plan": true,
+  "titulo": "Xavier Nueno gana el Premio Anagrama de Ensayo 2026",
+  "resumen": "Xavier Nueno gana el Premio Anagrama de Ensayo con 'La revuelta de los copistas', alertando sobre la privatización del saber en la era de la IA. El libro estará disponible en librerías desde el 21 de octubre.",
+  "en": {
+   "titulo": "Xavier Nueno Wins 2026 Anagram Essay Prize",
+   "resumen": "Xavier Nueno wins the Anagram Essay Prize with 'La revuelta de los copistas', warning about the privatization of knowledge in the AI era. The book will be available in bookstores from October 21st."
+  },
+  "inicio": "2026-10-21",
+  "fin": "2026-10-21",
+  "hora": null,
+  "lugar": "librerías",
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.95
+ },
+ "948dfe178b": {
+  "url": "https://elpais.com/cultura/2026-10-20/radar-madrid-el-evento-que-busca-abrir-la-musica-espanola-al-mercado-internacional.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-10-20",
+  "es_plan": true,
+  "titulo": "Radar Madrid: evento para la música española internacional",
+  "resumen": "Radar Madrid es un encuentro profesional que busca proyectar la música española al mercado internacional, reuniendo a 100 profesionales y programando 35 actuaciones en cinco salas de la capital.",
+  "en": {
+   "titulo": "Radar Madrid: Event for International Spanish Music",
+   "resumen": "Radar Madrid is a professional gathering aiming to boost the international projection of Spanish music, bringing together 100 professionals and programming 35 performances in five venues across the capital."
+  },
+  "inicio": "2026-10-20",
+  "fin": "2026-10-21",
+  "hora": null,
+  "lugar": null,
+  "municipio": "Madrid",
+  "provincia": "Madrid",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "3a11e4bdfd": {
+  "url": "https://www.lavanguardia.com/cultura/20261020/11663931/vox-veta-castilla-leon-ayudas-cine-adoctrine-ideologicamente-castilla-leon-convoca-ayudas-cine-limitadas-proyectos-adoctrinamiento-castilla-leon-convoca-ayudas-cine-limitadas-proyectos-adoctrinamiento-castilla-leon-convoca-ayudas.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-10-20",
+  "es_plan": false
+ },
+ "34cbb152df": {
+  "url": "https://www.lavanguardia.com/cultura/20261020/11663883/publico-convierte-neuronas-espejo-stefan-kaegi-sasha-waltz.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-10-20",
+  "es_plan": true,
+  "titulo": "Espectáculo 'Spiegelneuronen' en el Teatre Lliure de Barcelona",
+  "resumen": "El Teatre Lliure de Montjuïc presenta 'Spiegelneuronen', un espectáculo de Stefan Kaegi y Sasha Waltz que explora la empatía a través de las neuronas espejo. Forma parte del festival Flaix de Tardor.",
+  "en": {
+   "titulo": "'Spiegelneuronen' Show at Barcelona's Teatre Lliure",
+   "resumen": "The Teatre Lliure de Montjuïc presents 'Spiegelneuronen', a show by Stefan Kaegi and Sasha Waltz that explores empathy through mirror neurons. It is part of the Flaix de Tardor festival."
+  },
+  "inicio": "2026-10-23",
+  "fin": "2026-10-24",
+  "hora": null,
+  "lugar": "Teatre Lliure de Montjuïc",
+  "municipio": "Barcelona",
+  "provincia": "Barcelona",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.95
+ },
+ "e1f0cd38a9": {
+  "url": "https://www.ara.cat/cultura/teatre/musical-catala-madrid-carregat-premis-assassinat-per-dos_1_5884693.html",
+  "fuente": "Ara (Cultura)",
+  "src": "prensa-ara-cultura",
+  "publicado": "2026-10-20",
+  "es_plan": true,
+  "titulo": "Musical 'Assassinat per a dos' llega a Barcelona",
+  "resumen": "El exitoso musical 'Assassinat per a dos', ganador de varios premios en Madrid, se estrena en el Teatre Goya de Barcelona, con funciones los lunes y martes de noviembre.",
+  "en": {
+   "titulo": "Musical 'Assassinat per a dos' Arrives in Barcelona",
+   "resumen": "The successful musical 'Assassinat per a dos', winner of several awards in Madrid, premieres at Barcelona's Teatre Goya, with performances on Mondays and Tuesdays in November."
+  },
+  "inicio": "2026-11-03",
+  "fin": "2026-11-25",
+  "hora": null,
+  "lugar": "Teatre Goya",
+  "municipio": "Barcelona",
+  "provincia": "Barcelona",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.95
+ },
+ "e8d3cb6a79": {
+  "url": "https://www.ara.cat/media/ccma/in-vitro-no-troba-adn_129_5885123.html",
+  "fuente": "Ara (Cultura)",
+  "src": "prensa-ara-cultura",
+  "publicado": "2026-10-20",
+  "es_plan": false
+ },
+ "c66e02797c": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/20/critica-concierto-orquesta-sinfonica-duesseldorf-zaragoza-estreno-lujo-2061248.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-10-20",
+  "es_plan": false
+ },
+ "b6e6a18c38": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/20/asi-sera-gala-las-estrellas-michelin-huesca-cambio-fecha-cena-gala-presentadora-lujo-2061127.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-10-20",
+  "es_plan": true,
+  "titulo": "Gala de las estrellas Michelin en Huesca",
+  "resumen": "La Gala Michelin 2026 se celebrará en Huesca el 1 de diciembre, reconociendo a la provincia con más estrellas por habitante. Se desvelarán detalles sobre la cena de gala y la presentadora.",
+  "en": {
+   "titulo": "Michelin Stars Gala in Huesca",
+   "resumen": "The 2026 Michelin Gala will be held in Huesca on December 1st, recognizing the province with the most stars per capita. Details about the gala dinner and the presenter will be revealed."
+  },
+  "inicio": "2026-12-01",
+  "fin": "2026-12-01",
+  "hora": null,
+  "lugar": null,
+  "municipio": "Huesca",
+  "provincia": "Huesca",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "gastronomia",
+   "cultura"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.95
+ },
+ "641093c35c": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/20/ministerio-cultura-recuerda-acaba-plazo-pedir-400euros-bono-joven-aragon-2061178.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-10-20",
+  "es_plan": false
+ },
+ "869563180f": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/20/sketches-of-latin-miles-suple-isaiah-sharkey-festival-jazz-zaragoza-2061143.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-10-20",
+  "es_plan": true,
+  "titulo": "Sketches Of Latin Miles en el Festival de Jazz de Zaragoza",
+  "resumen": "El proyecto musical Sketches Of Latin Miles actuará el 13 de noviembre en la sala Multiusos del Auditorio de Zaragoza, sustituyendo al concierto del guitarrista Isaiah Sharkey.",
+  "en": {
+   "titulo": "Sketches Of Latin Miles at the Zaragoza Jazz Festival",
+   "resumen": "The musical project Sketches Of Latin Miles will perform on November 13 at the Multiusos Hall of the Zaragoza Auditorium, replacing the concert by guitarist Isaiah Sharkey."
+  },
+  "inicio": "2026-11-13",
+  "fin": "2026-11-13",
+  "hora": null,
+  "lugar": "Sala Multiusos del Auditorio de Zaragoza Princesa Leonor",
+  "municipio": "Zaragoza",
+  "provincia": "Zaragoza",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "3d620d961c": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/20/cines-palafox-zaragoza-celebran-halloween-maraton-cinco-peliculas-terror-precio-horario-2061129.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-10-20",
+  "es_plan": true,
+  "titulo": "Maratón de cine de terror de Halloween en Zaragoza",
+  "resumen": "Los Cines Palafox de Zaragoza celebran Halloween con una maratón de cinco películas de terror, incluyendo 'La cosa', el 31 de octubre a las 23:59.",
+  "en": {
+   "titulo": "Halloween Horror Film Marathon in Zaragoza",
+   "resumen": "Zaragoza's Palafox Cinemas celebrate Halloween with a marathon of five horror films, including 'The Thing', on October 31st at 11:59 PM."
+  },
+  "inicio": "2026-10-31",
+  "fin": "2026-10-31",
+  "hora": "23:59",
+  "lugar": "Cines Palafox, Sala 4",
+  "municipio": "Zaragoza",
+  "provincia": "Zaragoza",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "31120dcc1e": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/20/bunbury-mexico-concierto-esta-dedicado-memoria-javi-2061133.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-10-20",
+  "es_plan": false
+ },
+ "77826fa4bb": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/20/woody-allen-emocionado-con-un-famoso-pintor-aragones-es-simplemente-un-banquete-2061114.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-10-20",
+  "es_plan": false
+ },
+ "f69c5df70f": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/20/aljaferia-rvive-miercoles-trovatore-hydee-dabusti-ignacio-prieto-2061357.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-10-20",
+  "es_plan": true,
+  "titulo": "La Aljafería revive Il trovatore con recital de ópera y presentación de libro",
+  "resumen": "Este miércoles a las 19:00, la soprano Haydée Dabusti y el tenor Ignacio Prieto ofrecerán un recital de ópera de Verdi en la Aljafería, coincidiendo con la presentación del libro 'El imaginario de la Aljafería en Il trovatore'.",
+  "en": {
+   "titulo": "Aljafería Revives 'Il Trovatore' with Opera Recital and Book Presentation",
+   "resumen": "This Wednesday at 7:00 PM, soprano Haydée Dabusti and tenor Ignacio Prieto will perform a Verdi opera recital at Aljafería, coinciding with the presentation of the book 'El imaginario de la Aljafería en Il trovatore'."
+  },
+  "inicio": "2026-10-21",
+  "fin": "2026-10-21",
+  "hora": "19:00",
+  "lugar": "La Aljafería",
+  "municipio": "Zaragoza",
+  "provincia": "Zaragoza",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "musica",
+   "libros"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "52f57c0df6": {
+  "url": "https://www.diariosur.es/culturas/cine/miguel-herran-rueda-malaga-primera-vez-palo-20261016224132-nt.html",
+  "fuente": "Diario Sur (Culturas)",
+  "src": "prensa-diariosur-culturas",
+  "publicado": "2026-10-20",
+  "es_plan": false
+ },
+ "753abd6587": {
+  "url": "https://www.diariosur.es/festival-malaga/festival-malaga-cumple-anos-imagen-lola-flores-de-carlos-saura-20261020140334-nt.html",
+  "fuente": "Diario Sur (Culturas)",
+  "src": "prensa-diariosur-culturas",
+  "publicado": "2026-10-20",
+  "es_plan": false
+ },
+ "507e19261d": {
+  "url": "https://www.ideal.es/culturas/almeria/mayte-beltran-kasia-ozog-presentan-nueva-creacion-20261020203843-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-10-20",
+  "es_plan": true,
+  "titulo": "Mayte Beltrán y Kasia Ozog presentan 'A través del desierto' en el Teatro Apolo",
+  "resumen": "Este sábado, Mayte Beltrán y Kasia Ozog presentan su nueva creación 'A través del desierto' en el Teatro Apolo, un espectáculo inspirado en el desierto de Tabernas.",
+  "en": {
+   "titulo": "Mayte Beltrán and Kasia Ozog Present 'A través del desierto' at Teatro Apolo",
+   "resumen": "This Saturday, Mayte Beltrán and Kasia Ozog present their new creation 'A través del desierto' at Teatro Apolo, a show inspired by the Tabernas desert."
+  },
+  "inicio": "2026-10-24",
+  "fin": "2026-10-24",
+  "hora": null,
+  "lugar": "Teatro Apolo",
+  "municipio": "Almería",
+  "provincia": "Almería",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "a93285af47": {
+  "url": "https://www.ideal.es/culturas/almeria/plaza-pablo-cazard-recibira-sabado-obra-circense-20261020203320-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-10-20",
+  "es_plan": true,
+  "titulo": "Obra circense 'W.C.' en la plaza Pablo Cazard este sábado",
+  "resumen": "La plaza Pablo Cazard acogerá este sábado la obra circense 'W.C.' de Lapso Producciones & David Cebrián a las 12:00 horas con entrada libre.",
+  "en": {
+   "titulo": "Circus Show 'W.C.' at Pablo Cazard Square This Saturday",
+   "resumen": "Pablo Cazard Square will host the circus show 'W.C.' by Lapso Producciones & David Cebrián this Saturday at 12:00 PM with free admission."
+  },
+  "inicio": "2026-10-24",
+  "fin": "2026-10-24",
+  "hora": "12:00",
+  "lugar": "Plaza Pablo Cazard",
+  "municipio": "Granada",
+  "provincia": "Granada",
+  "ambito": "local",
+  "gratis": true,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "354f4e909c": {
+  "url": "https://www.ideal.es/culturas/almeria/sala-jayran-inaugura-exposicion-fotografica-teatro-calle-20261020202811-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-10-20",
+  "es_plan": true,
+  "titulo": "Exposición fotográfica 'El Teatro de la Calle' en Sala Jayrán",
+  "resumen": "La Sala Jayrán inaugura la exposición fotográfica 'El Teatro de la Calle', organizada por el Colectivo Fotográfico Desencuadre, que muestra 27 imágenes de la vida cotidiana.",
+  "en": {
+   "titulo": "Photographic Exhibition 'El Teatro de la Calle' at Sala Jayrán",
+   "resumen": "Sala Jayrán opens the photographic exhibition 'El Teatro de la Calle', organized by Colectivo Fotográfico Desencuadre, featuring 27 images of daily life."
+  },
+  "inicio": "2026-10-20",
+  "fin": "2026-10-20",
+  "hora": null,
+  "lugar": "Sala Jayrán",
+  "municipio": "Almería",
+  "provincia": "Almería",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "6e0e6ac81d": {
+  "url": "https://www.ideal.es/culturas/festival-grafic-llena-granada-arte-diciembre-20261020194732-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-10-20",
+  "es_plan": true,
+  "titulo": "Festival Grafic llena Granada de arte hasta diciembre",
+  "resumen": "El Festival Grafic se celebra en Granada hasta diciembre, ofreciendo cuatro exposiciones, debates y presentaciones de libros para dar voz a los creadores.",
+  "en": {
+   "titulo": "Grafic Festival Fills Granada with Art Until December",
+   "resumen": "The Grafic Festival takes place in Granada until December, featuring four exhibitions, debates, and book presentations to give voice to creators."
+  },
+  "inicio": "2026-10-20",
+  "fin": "2026-12-31",
+  "hora": null,
+  "lugar": null,
+  "municipio": "Granada",
+  "provincia": "Granada",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.8
+ },
+ "422b6b518a": {
+  "url": "https://www.ideal.es/culturas/jaen/museo-nacional-thyssenbornemisza-martos-unidos-exposicion-tierra-20261020130007-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-10-20",
+  "es_plan": true,
+  "titulo": "Exposición 'Tierra viva' en el Museo Nacional Thyssen-Bornemisza",
+  "resumen": "El Museo Nacional Thyssen-Bornemisza presenta la exposición 'Tierra viva', vinculada al proyecto 'Narraciones', que recoge experiencias y memorias de mujeres marteñas.",
+  "en": {
+   "titulo": "'Tierra viva' Exhibition at the Thyssen-Bornemisza National Museum",
+   "resumen": "The Thyssen-Bornemisza National Museum presents the exhibition 'Tierra viva', linked to the 'Narraciones' project, which collects experiences and memories of women from Martos."
+  },
+  "inicio": "2026-10-20",
+  "fin": "2026-10-20",
+  "hora": null,
+  "lugar": "Museo Nacional Thyssen-Bornemisza",
+  "municipio": "Madrid",
+  "provincia": "Madrid",
+  "ambito": "nacional",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "67ac0e33f6": {
+  "url": "https://www.ideal.es/culturas/teatro-alhambra-continua-sur-escena-trae-granada-20261020161217-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-10-20",
+  "es_plan": true,
+  "titulo": "Danza y títeres en el Teatro Alhambra dentro de 'Sur Escena'",
+  "resumen": "El Teatro Alhambra continúa con 'Sur Escena', presentando esta semana a la bailarina Isabel Vázquez y la compañía Titiritrán con creaciones andaluzas.",
+  "en": {
+   "titulo": "Dance and Puppets at Teatro Alhambra within 'Sur Escena'",
+   "resumen": "Teatro Alhambra continues with 'Sur Escena', featuring dancer Isabel Vázquez and the Titiritrán company with Andalusian creations this week."
+  },
+  "inicio": "2026-10-20",
+  "fin": "2026-10-24",
+  "hora": null,
+  "lugar": "Teatro Alhambra",
+  "municipio": "Granada",
+  "provincia": "Granada",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "3489a97851": {
+  "url": "https://www.ideal.es/culturas/alhambra-redescubre-legado-maria-hungria-grandes-mujeres-20261020155351-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-10-20",
+  "es_plan": true,
+  "titulo": "Exposición sobre María de Hungría en la Alhambra",
+  "resumen": "La Alhambra presenta una exposición audiovisual en el Taller de Cordelería que redescubre el legado de María de Hungría, hermana de Carlos V.",
+  "en": {
+   "titulo": "Exhibition on Mary of Hungary at the Alhambra",
+   "resumen": "The Alhambra presents an audiovisual exhibition in the Cordelería Workshop that rediscovers the legacy of Mary of Hungary, sister of Charles V."
+  },
+  "inicio": "2026-10-20",
+  "fin": "2026-10-20",
+  "hora": null,
+  "lugar": "La Alhambra, Taller de Cordelería",
+  "municipio": "Granada",
+  "provincia": "Granada",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "cdac08477e": {
+  "url": "https://www.ideal.es/culturas/miguel-rios-lori-meyers-solea-morente-reunen-20261020154237-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-10-20",
+  "es_plan": true,
+  "titulo": "Homenaje a Los Ángeles en Granada con Miguel Ríos y Soleá Morente",
+  "resumen": "El 24 de octubre, el Teatro CajaGranada acogerá un concierto homenaje a Los Ángeles con Miguel Ríos, Lori Meyers y Soleá Morente, celebrando 50 años de la banda.",
+  "en": {
+   "titulo": "Tribute to Los Ángeles in Granada with Miguel Ríos and Soleá Morente",
+   "resumen": "On October 24th, Teatro CajaGranada will host a tribute concert to Los Ángeles featuring Miguel Ríos, Lori Meyers, and Soleá Morente, celebrating the band's 50th anniversary."
+  },
+  "inicio": "2026-10-24",
+  "fin": "2026-10-24",
+  "hora": null,
+  "lugar": "Teatro CajaGranada",
+  "municipio": "Granada",
+  "provincia": "Granada",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
  }
 }

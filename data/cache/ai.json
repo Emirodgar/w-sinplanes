@@ -1573,5 +1573,1617 @@
    "cultura"
   ],
   "a_cubierto": true
+ },
+ "645aaa09d3": {
+  "id": "84c8ff4e67",
+  "es": {
+   "titulo": "50 Aniversario Asociación Vecinal Solidaridad Cuatro Caminos-Tetuán",
+   "resumen": "Celebra el 50 aniversario de la Asociación Vecinal Solidaridad Cuatro Caminos-Tetuán en el Centro Sociocultural José de Espronceda. Un evento para conmemorar medio siglo de actividad vecinal."
+  },
+  "en": {
+   "titulo": "50th Anniversary of the Solidarity Neighbors Association Cuatro Caminos-Tetuán",
+   "resumen": "Celebrate the 50th anniversary of the Solidarity Neighbors Association Cuatro Caminos-Tetuán at the José de Espronceda Sociocultural Center. An event to commemorate half a century of neighborhood activity."
+  },
+  "temas": [
+   "cultura",
+   "fiestas"
+  ],
+  "a_cubierto": true
+ },
+ "60aa70ba8c": {
+  "id": "b88c44d6a2",
+  "es": {
+   "titulo": "Acuatlón Indoor de Halloween",
+   "resumen": "Participa en el Acuatlón Indoor de Halloween en el Centro Deportivo Municipal Fuente del Berro. Una divertida competición deportiva para celebrar la festividad."
+  },
+  "en": {
+   "titulo": "Halloween Indoor Aquathlon",
+   "resumen": "Take part in the Halloween Indoor Aquathlon at the Fuente del Berro Municipal Sports Center. A fun sports competition to celebrate the holiday."
+  },
+  "temas": [
+   "deporte",
+   "fiestas"
+  ],
+  "a_cubierto": true
+ },
+ "2b111aa929": {
+  "id": "a87b4d6deb",
+  "es": {
+   "titulo": "Celebrando Halloween en la biblioteca",
+   "resumen": "Únete a la celebración de Halloween en la Biblioteca Pública Municipal Pablo Neruda. Disfruta de actividades especiales para conmemorar esta noche de misterio y diversión."
+  },
+  "en": {
+   "titulo": "Celebrating Halloween at the library",
+   "resumen": "Join the Halloween celebration at the Pablo Neruda Municipal Public Library. Enjoy special activities to commemorate this night of mystery and fun."
+  },
+  "temas": [
+   "cultura",
+   "fiestas",
+   "ninos"
+  ],
+  "a_cubierto": true
+ },
+ "5cc3e7848e": {
+  "id": "48ea2dad9b",
+  "es": {
+   "titulo": "Cine en compañía: 'El exótico hotel Marigold'",
+   "resumen": "Disfruta de una sesión de cine en la Biblioteca Pública Municipal San Fermín con la proyección de 'El exótico hotel Marigold'. Una tarde de cine y buena compañía."
+  },
+  "en": {
+   "titulo": "Cinema in company: 'The Best Exotic Marigold Hotel'",
+   "resumen": "Enjoy a cinema session at the San Fermín Municipal Public Library with the screening of 'The Best Exotic Marigold Hotel'. An afternoon of film and good company."
+  },
+  "temas": [
+   "pantalla",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "3b88532110": {
+  "id": "3367815fa2",
+  "es": {
+   "titulo": "Club de Labores Textiles",
+   "resumen": "Participa en el Club de Labores Textiles en la Biblioteca Pública Municipal Iván de Vargas. Un espacio para compartir y disfrutar de las manualidades textiles."
+  },
+  "en": {
+   "titulo": "Textile Crafts Club",
+   "resumen": "Join the Textile Crafts Club at the Iván de Vargas Municipal Public Library. A space to share and enjoy textile handicrafts."
+  },
+  "temas": [
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "3118bfcb5c": {
+  "id": "1bbcaa67ea",
+  "es": {
+   "titulo": "Club de lectura de Novela Negra",
+   "resumen": "Únete al club de lectura de Novela Negra en la Biblioteca Pública Municipal Francisco Ibáñez. Comparte tu pasión por el género y descubre nuevas historias."
+  },
+  "en": {
+   "titulo": "Noir Novel Book Club",
+   "resumen": "Join the Noir Novel book club at the Francisco Ibáñez Municipal Public Library. Share your passion for the genre and discover new stories."
+  },
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "aebc4dec6a": {
+  "id": "0d611e9b34",
+  "es": {
+   "titulo": "Club de lectura del San Juan",
+   "resumen": "Participa en el club de lectura mensual del Centro Cultural San Juan Bautista. Cada mes se propone un libro diferente para debatir en grupo. Es necesario inscribirse."
+  },
+  "en": {
+   "titulo": "San Juan Book Club",
+   "resumen": "Participate in the monthly book club at the San Juan Bautista Cultural Center. A different book is proposed each month for group discussion. Registration is required."
+  },
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "5689ca61a8": {
+  "id": "22109a85b8",
+  "es": {
+   "titulo": "Club de lectura en Alemán",
+   "resumen": "Participa en el club de lectura en alemán en la Biblioteca Pública Municipal Iván de Vargas. Un espacio para practicar y disfrutar de la literatura en alemán."
+  },
+  "en": {
+   "titulo": "German Book Club",
+   "resumen": "Join the German book club at the Iván de Vargas Municipal Public Library. A space to practice and enjoy literature in German."
+  },
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "a117d595aa": {
+  "id": "cf14c9d6da",
+  "es": {
+   "titulo": "Club de lectura en francés",
+   "resumen": "Únete al club de lectura en francés en la Biblioteca Pública Municipal Gabriel García Márquez. Comparte tu gusto por la literatura francófona y mejora tu francés."
+  },
+  "en": {
+   "titulo": "French Book Club",
+   "resumen": "Join the French book club at the Gabriel García Márquez Municipal Public Library. Share your taste for French-language literature and improve your French."
+  },
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "d33f6062ea": {
+  "id": "97e559f0b6",
+  "es": {
+   "titulo": "Club de lectura en inglés",
+   "resumen": "Participa en el club de lectura en inglés en la Biblioteca Pública Municipal Iván de Vargas. Mejora tu nivel de inglés mientras disfrutas de la lectura."
+  },
+  "en": {
+   "titulo": "English Book Club",
+   "resumen": "Join the English book club at the Iván de Vargas Municipal Public Library. Improve your English level while enjoying reading."
+  },
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "108f2f9d64": {
+  "id": "42530932fb",
+  "es": {
+   "titulo": "Club de lectura Liber Alis",
+   "resumen": "Únete al club de lectura Liber Alis en la Biblioteca Pública Municipal Iván de Vargas. Un espacio para compartir y debatir sobre literatura."
+  },
+  "en": {
+   "titulo": "Liber Alis Book Club",
+   "resumen": "Join the Liber Alis book club at the Iván de Vargas Municipal Public Library. A space to share and discuss literature."
+  },
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "efd611e5fc": {
+  "id": "e99ff2b262",
+  "es": {
+   "titulo": "Club de lectura Naomi Klein",
+   "resumen": "Participa en el club de lectura Naomi Klein en la Biblioteca Pública Municipal Iván de Vargas. Profundiza en las obras y temas de esta influyente autora."
+  },
+  "en": {
+   "titulo": "Naomi Klein Book Club",
+   "resumen": "Join the Naomi Klein book club at the Iván de Vargas Municipal Public Library. Delve into the works and themes of this influential author."
+  },
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "f0df49dd9a": {
+  "id": "3d733b6048",
+  "es": {
+   "titulo": "Club de lectura novela gráfica",
+   "resumen": "Únete al club de lectura de novela gráfica en la Biblioteca Pública Municipal Manuel Vázquez Montalbán. Explora el mundo del cómic y sus narrativas visuales."
+  },
+  "en": {
+   "titulo": "Graphic Novel Book Club",
+   "resumen": "Join the graphic novel book club at the Manuel Vázquez Montalbán Municipal Public Library. Explore the world of comics and their visual narratives."
+  },
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "9253c0ad78": {
+  "id": "3399b2e0e2",
+  "es": {
+   "titulo": "Club de Lectura 'Grandes Amigos'",
+   "resumen": "Participa en el Club de Lectura 'Grandes Amigos' en la Biblioteca Pública Municipal Francisco Ibáñez. Un espacio para compartir la afición por la lectura."
+  },
+  "en": {
+   "titulo": "'Grandes Amigos' Book Club",
+   "resumen": "Participate in the 'Grandes Amigos' Book Club at the Francisco Ibáñez Municipal Public Library. A space to share the love of reading."
+  },
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "6369fa9d5e": {
+  "id": "f5272ff89f",
+  "es": {
+   "titulo": "Club de lectura 'LasdelMal'",
+   "resumen": "Únete al club de lectura 'LasdelMal' en la Biblioteca Pública Municipal Eugenio Trías. Un punto de encuentro para amantes de la lectura en el Retiro."
+  },
+  "en": {
+   "titulo": "'LasdelMal' Book Club",
+   "resumen": "Join the 'LasdelMal' book club at the Eugenio Trías Municipal Public Library. A meeting point for reading enthusiasts in Retiro."
+  },
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "6da5b232f1": {
+  "id": "35a0c066bc",
+  "es": {
+   "titulo": "Club de lectura 'Soledad no deseada'",
+   "resumen": "Participa en el club de lectura 'Soledad no deseada' en la Biblioteca Pública Municipal Miguel Delibes. Un espacio para reflexionar sobre temas sociales a través de la lectura."
+  },
+  "en": {
+   "titulo": "'Soledad no deseada' Book Club",
+   "resumen": "Participate in the 'Soledad no deseada' book club at the Miguel Delibes Municipal Public Library. A space to reflect on social issues through reading."
+  },
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "3977dc2599": {
+  "id": "04b8a735bd",
+  "es": {
+   "titulo": "Club de lectura 'Una voz propia'",
+   "resumen": "Únete al club de lectura 'Una voz propia' en la Biblioteca Pública Municipal Iván de Vargas. Comparte tus interpretaciones y descubre nuevas perspectivas literarias."
+  },
+  "en": {
+   "titulo": "'Una voz propia' Book Club",
+   "resumen": "Join the 'Una voz propia' book club at the Iván de Vargas Municipal Public Library. Share your interpretations and discover new literary perspectives."
+  },
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "7b4fce5690": {
+  "id": "9fc7feeaf1",
+  "es": {
+   "titulo": "Club de lectura 'Universo Tolkien'",
+   "resumen": "Explora el mundo de J.R.R. Tolkien en el club de lectura 'Universo Tolkien' en la Biblioteca Pública Municipal Iván de Vargas. Comparte tu pasión por la Tierra Media."
+  },
+  "en": {
+   "titulo": "'Universo Tolkien' Book Club",
+   "resumen": "Explore the world of J.R.R. Tolkien in the 'Universo Tolkien' book club at the Iván de Vargas Municipal Public Library. Share your passion for Middle-earth."
+  },
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "4e80796895": {
+  "id": "76d3dffe40",
+  "es": {
+   "titulo": "Club de lectura - JRR Tolkien",
+   "resumen": "Participa en el club de lectura dedicado a J.R.R. Tolkien en la Biblioteca Pública Municipal María Lejárraga. Un espacio para los fans del autor y su obra."
+  },
+  "en": {
+   "titulo": "Book Club - JRR Tolkien",
+   "resumen": "Join the book club dedicated to J.R.R. Tolkien at the María Lejárraga Municipal Public Library. A space for fans of the author and his work."
+  },
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "4a72a42b36": {
+  "id": "4718a5566a",
+  "es": {
+   "titulo": "Club de lectura: Entre líneas y ciencia con el CSIC",
+   "resumen": "Explora el cosmos a través de la lectura en este club organizado por el CSIC y Bibliotecas Públicas. Se debatirán temas como la vida extraterrestre y los eclipses solares."
+  },
+  "en": {
+   "titulo": "Book Club: Between Lines and Science with CSIC",
+   "resumen": "Explore the cosmos through reading in this club organized by CSIC and Public Libraries. Topics such as extraterrestrial life and solar eclipses will be discussed."
+  },
+  "temas": [
+   "libros",
+   "cultura",
+   "naturaleza"
+  ],
+  "a_cubierto": null
+ },
+ "514fc50125": {
+  "id": "12e3499111",
+  "es": {
+   "titulo": "Club de lectura: Lectores de Oficio",
+   "resumen": "Únete al club de lectura 'Lectores de Oficio' en la Biblioteca Pública Municipal Iván de Vargas. Un encuentro para compartir y profundizar en la literatura."
+  },
+  "en": {
+   "titulo": "Book Club: Lectores de Oficio",
+   "resumen": "Join the 'Lectores de Oficio' book club at the Iván de Vargas Municipal Public Library. A meeting to share and delve into literature."
+  },
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "8f48b620db": {
+  "id": "0b4d871f8a",
+  "es": {
+   "titulo": "Club de Lectura: Literatura y Mitología",
+   "resumen": "Explora los orígenes de las narraciones en el club de lectura 'Literatura y Mitología' del Centro Sociocultural José de Espronceda. Se comparan mitos clásicos con relatos literarios."
+  },
+  "en": {
+   "titulo": "Book Club: Literature and Mythology",
+   "resumen": "Explore the origins of narratives in the 'Literature and Mythology' book club at the José de Espronceda Sociocultural Center. Classic myths are compared with literary tales."
+  },
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "e8b8d03b2c": {
+  "id": "fa4f771e26",
+  "es": {
+   "titulo": "Club de Lectura: ¿De dónde viene la ópera?",
+   "resumen": "Descubre los orígenes de la ópera en el club de lectura del Centro Sociocultural José de Espronceda. Se analizan temas y obras líricas, con posibilidad de asistir a representaciones."
+  },
+  "en": {
+   "titulo": "Book Club: Where Does Opera Come From?",
+   "resumen": "Discover the origins of opera in the book club at the José de Espronceda Sociocultural Center. Themes and lyrical works are analyzed, with the possibility of attending performances."
+  },
+  "temas": [
+   "libros",
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "008ab92ca3": {
+  "id": "f73424a8d4",
+  "es": {
+   "titulo": "Club de Matemáticas",
+   "resumen": "Participa en el Club de Matemáticas en la Biblioteca Pública Municipal Iván de Vargas. Un espacio para explorar el mundo de los números y la lógica."
+  },
+  "en": {
+   "titulo": "Mathematics Club",
+   "resumen": "Join the Mathematics Club at the Iván de Vargas Municipal Public Library. A space to explore the world of numbers and logic."
+  },
+  "temas": [
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "188c3d3003": {
+  "id": "ab444320b6",
+  "es": {
+   "titulo": "Club de Teatro Vargas Llosa",
+   "resumen": "Únete al Club de Teatro Vargas Llosa en la Biblioteca Pública Municipal Mario Vargas Llosa. Un espacio para explorar el mundo de las artes escénicas."
+  },
+  "en": {
+   "titulo": "Vargas Llosa Theater Club",
+   "resumen": "Join the Vargas Llosa Theater Club at the Mario Vargas Llosa Municipal Public Library. A space to explore the world of performing arts."
+  },
+  "temas": [
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "1066d7b804": {
+  "id": "0803e74927",
+  "es": {
+   "titulo": "Club de 'Las Gatas Lectoras'",
+   "resumen": "Únete al club de lectura 'Las Gatas Lectoras' en la Biblioteca Pública Municipal Francisco Ibáñez. Un espacio para compartir y debatir sobre libros."
+  },
+  "en": {
+   "titulo": "'The Reading Cats' Book Club",
+   "resumen": "Join the 'The Reading Cats' book club at the Francisco Ibáñez Municipal Public Library. A space to share and discuss books."
+  },
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "b97222b5b5": {
+  "id": "e6100dbf44",
+  "es": {
+   "titulo": "Cluedo de árboles en Fuente del Berro",
+   "resumen": "Descubre los secretos de la naturaleza con un divertido 'Cluedo de árboles' en la Quinta de la Fuente del Berro. Una actividad para aprender sobre botánica de forma lúdica."
+  },
+  "en": {
+   "titulo": "Tree Cluedo at Fuente del Berro",
+   "resumen": "Discover nature's secrets with a fun 'Tree Cluedo' at the Quinta de la Fuente del Berro. An activity to learn about botany in a playful way."
+  },
+  "temas": [
+   "naturaleza",
+   "parques",
+   "actividades"
+  ],
+  "a_cubierto": false
+ },
+ "88ea22f0fc": {
+  "id": "99ae5c0610",
+  "es": {
+   "titulo": "Cocinando cuentos en Matadero Madrid",
+   "resumen": "Un cocinero de cuentos llega a Matadero Madrid para preparar historias suculentas con ingredientes mágicos. Un taller interactivo para niños y adultos."
+  },
+  "en": {
+   "titulo": "Cooking Stories at Matadero Madrid",
+   "resumen": "A storyteller chef arrives at Matadero Madrid to prepare delicious tales with magical ingredients. An interactive workshop for children and adults."
+  },
+  "temas": [
+   "cultura",
+   "ninos",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "9ee61b548e": {
+  "id": "04117bb66e",
+  "es": {
+   "titulo": "Taller de buñuelos de viento",
+   "resumen": "Aprende a preparar buñuelos de viento en este taller de cocina en el Centro Cultural Eduardo Úrculo. Ideal para mayores de 16 años y perfecto para celebrar Todos los Santos."
+  },
+  "en": {
+   "titulo": "Wind Fritters Workshop",
+   "resumen": "Learn to make traditional 'buñuelos de viento' in this cooking workshop at the Eduardo Úrculo Cultural Center. Ideal for those over 16 and perfect for celebrating All Saints' Day."
+  },
+  "temas": [
+   "gastronomia",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "bfaa3810b6": {
+  "id": "42cbe5843f",
+  "es": {
+   "titulo": "Proyección de 'Coco' en Villa de Vallecas",
+   "resumen": "Disfruta de la película 'Coco' en el Centro Cultural Benjamín Palencia. Una historia sobre música, familia y la Tierra de los Muertos, apta para todos los públicos."
+  },
+  "en": {
+   "titulo": "'Coco' Screening in Villa de Vallecas",
+   "resumen": "Enjoy the movie 'Coco' at the Benjamín Palencia Cultural Center. A story about music, family, and the Land of the Dead, suitable for all audiences."
+  },
+  "temas": [
+   "pantalla",
+   "musica",
+   "ninos"
+  ],
+  "a_cubierto": true
+ },
+ "80e175256b": {
+  "id": "df72f429c5",
+  "es": {
+   "titulo": "Proyección de 'Coco' en Tetuán",
+   "resumen": "El Centro Cultural Eduardo Úrculo proyecta la película 'Coco'. Sigue a Miguel en su aventura musical a la Tierra de los Muertos para descubrir su legado familiar."
+  },
+  "en": {
+   "titulo": "'Coco' Screening in Tetuán",
+   "resumen": "The Eduardo Úrculo Cultural Center screens the movie 'Coco'. Follow Miguel on his musical adventure to the Land of the Dead to discover his family legacy."
+  },
+  "temas": [
+   "pantalla",
+   "musica",
+   "ninos"
+  ],
+  "a_cubierto": true
+ },
+ "f5d1740a8d": {
+  "id": "0dda1fe918",
+  "es": {
+   "titulo": "Teatro de Títeres 'Cóctel' para adultos",
+   "resumen": "Manu Mansilla presenta 'Cóctel', un espectáculo de títeres para público adulto en el Centro Cultural Lope de Vega. Historias que exploran la condición humana con humor y poesía."
+  },
+  "en": {
+   "titulo": "Puppet Theater 'Cóctel' for Adults",
+   "resumen": "Manu Mansilla presents 'Cóctel', a puppet show for adult audiences at the Lope de Vega Cultural Center. Stories exploring the human condition with humor and poetry."
+  },
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": true
+ },
+ "dfa5e914e6": {
+  "id": "785d2af5d3",
+  "es": {
+   "titulo": "Coloquio literario en Villaverde",
+   "resumen": "Participa en un coloquio con Marcos Giralt Torrente y Javier Memba en la Biblioteca Pública Municipal Francisco Umbral. Un encuentro para los amantes de la literatura."
+  },
+  "en": {
+   "titulo": "Literary Talk in Villaverde",
+   "resumen": "Join a discussion with Marcos Giralt Torrente and Javier Memba at the Francisco Umbral Municipal Public Library. A meeting for literature lovers."
+  },
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "f7b005bbd1": {
+  "id": "01e36af748",
+  "es": {
+   "titulo": "Exposición de pinturas 'Colores y miradas del alma'",
+   "resumen": "Descubre la exposición de pinturas al óleo 'Colores y miradas del alma' de Marta Almudena Rodríguez González-Carvajal en el Centro Sociocultural Teresa de Calcuta."
+  },
+  "en": {
+   "titulo": "'Colors and Gazes of the Soul' Painting Exhibition",
+   "resumen": "Discover the oil painting exhibition 'Colors and Gazes of the Soul' by Marta Almudena Rodríguez González-Carvajal at the Teresa de Calcuta Sociocultural Center."
+  },
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true
+ },
+ "81da173ac1": {
+  "id": "ac60c588bb",
+  "es": {
+   "titulo": "Comedia Teatral 'Cinderella 'Pecata Minuta''",
+   "resumen": "Disfruta de la comedia teatral 'Cinderella 'Pecata Minuta'' de la Cía. De Ramón Barea Monje, apta para todos los públicos, en el Centro Sociocultural Villa de Barajas."
+  },
+  "en": {
+   "titulo": "Theatrical Comedy 'Cinderella 'Pecata Minuta''",
+   "resumen": "Enjoy the theatrical comedy 'Cinderella 'Pecata Minuta'' by Cía. De Ramón Barea Monje, suitable for all audiences, at the Villa de Barajas Sociocultural Center."
+  },
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": true
+ },
+ "6a52e6304e": {
+  "id": "79f63845b4",
+  "es": {
+   "titulo": "Recital 'Como si fuera la última vez'",
+   "resumen": "El Grupo Saúco presenta 'Como si fuera la última vez', un espectáculo que recorre ópera, zarzuela y musical con una soprano y un cantante de teatro musical."
+  },
+  "en": {
+   "titulo": "Recital 'As If It Were the Last Time'",
+   "resumen": "Grupo Saúco presents 'As If It Were the Last Time', a show covering opera, zarzuela, and musical theater with a soprano and a musical theater singer."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "66a96adff3": {
+  "id": "08896cef45",
+  "es": {
+   "titulo": "Concierto de la Orquesta de Guitarras de Madrid",
+   "resumen": "La Orquesta de Guitarras de Madrid ofrece un concierto gratuito en el marco del Festival Internacional Andrés Segovia, con un repertorio que abarca desde el Renacimiento hasta la música contemporánea."
+  },
+  "en": {
+   "titulo": "Concert by the Madrid Guitar Orchestra",
+   "resumen": "The Madrid Guitar Orchestra performs a free concert as part of the Andrés Segovia International Festival, with a repertoire ranging from the Renaissance to contemporary music."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "5e4a6ccd28": {
+  "id": "7c0b5e17d7",
+  "es": {
+   "titulo": "Concierto de Otoño: Celeste Classic & Celeste 21",
+   "resumen": "Dos formaciones, Celeste Classic y Celeste 21, se unen en un concierto que viaja del repertorio clásico al pop y jazz en el Centro Cultural Antonio Machado."
+  },
+  "en": {
+   "titulo": "Autumn Concert: Celeste Classic & Celeste 21",
+   "resumen": "Two ensembles, Celeste Classic and Celeste 21, join forces for a concert that travels from classical repertoire to pop and jazz at the Antonio Machado Cultural Center."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "1a3b2bee0e": {
+  "id": "f6e113e0e9",
+  "es": {
+   "titulo": "Concierto de Paco Seco: 'Música para Guitarra Andaluza'",
+   "resumen": "Paco Seco presenta un recorrido por la guitarra andaluza con composiciones originales y arreglos en el Festival Internacional Andrés Segovia. Entrada libre."
+  },
+  "en": {
+   "titulo": "Paco Seco Concert: 'Music for Andalusian Guitar'",
+   "resumen": "Paco Seco presents a journey through Andalusian guitar with original compositions and arrangements at the Andrés Segovia International Festival. Free entry."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "40c62a3ca1": {
+  "id": "b8b906c440",
+  "es": {
+   "titulo": "Concierto de piano en el Centro Cultural Puerta de Toledo",
+   "resumen": "José Luis Bernaldo de Quirós ofrece un concierto de piano con obras de Schumann y la Suite Española de Albéniz en el Centro Cultural Puerta de Toledo."
+  },
+  "en": {
+   "titulo": "Piano Concert at Puerta de Toledo Cultural Center",
+   "resumen": "José Luis Bernaldo de Quirós performs a piano concert featuring works by Schumann and Albéniz's Suite Española at the Puerta de Toledo Cultural Center."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "2bbf650df8": {
+  "id": "9b73f1c57c",
+  "es": {
+   "titulo": "Concierto en el Amazonas: Homenaje a Tito Puente",
+   "resumen": "Una obra infantil que rinde homenaje a Tito Puente, donde los animales de la selva aprenden sobre la percusión. Recomendado para mayores de 5 años."
+  },
+  "en": {
+   "titulo": "Concert in the Amazon: Tribute to Tito Puente",
+   "resumen": "A children's play that pays tribute to Tito Puente, where jungle animals learn about percussion. Recommended for ages 5 and up."
+  },
+  "temas": [
+   "musica",
+   "ninos",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "74011c3dfd": {
+  "id": "0e06b3cf29",
+  "es": {
+   "titulo": "Concierto Coral Fundación Gredos San Diego",
+   "resumen": "Disfruta de un concierto a cargo de la Coral Fundación Gredos San Diego en la Residencia Fundación Santa Lucía."
+  },
+  "en": {
+   "titulo": "Concert by Coral Fundación Gredos San Diego",
+   "resumen": "Enjoy a concert by the Coral Fundación Gredos San Diego at the Residencia Fundación Santa Lucía."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "ead94d3698": {
+  "id": "824f602603",
+  "es": {
+   "titulo": "Concierto Coral Fundación San Diego",
+   "resumen": "La Coral Fundación San Diego ofrece un concierto en la Parroquia Santa Ana y La Esperanza."
+  },
+  "en": {
+   "titulo": "Concert by Coral Fundación San Diego",
+   "resumen": "The Coral Fundación San Diego performs a concert at the Parroquia Santa Ana y La Esperanza."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "812cca8b1f": {
+  "id": "3848ed9b1c",
+  "es": {
+   "titulo": "Concierto Coral Polifónica Nuestra Señora de la Merced",
+   "resumen": "La Coral Polifónica Nuestra Señora de la Merced ofrece un concierto en la Parroquia Santa Ana y la Esperanza. Entrada libre."
+  },
+  "en": {
+   "titulo": "Concert by Coral Polifónica Nuestra Señora de la Merced",
+   "resumen": "The Coral Polifónica Nuestra Señora de la Merced performs a concert at the Parroquia Santa Ana y la Esperanza. Free entry."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "706a482aa5": {
+  "id": "d6b17d7efa",
+  "es": {
+   "titulo": "Concierto Coral Polifónica Nuestra Señora de la Merced",
+   "resumen": "La Coral Polifónica Nuestra Señora de la Merced presenta un concierto en su parroquia. Entrada libre."
+  },
+  "en": {
+   "titulo": "Concert by Coral Polifónica Nuestra Señora de la Merced",
+   "resumen": "The Coral Polifónica Nuestra Señora de la Merced presents a concert at its parish. Free entry."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "b1ae0e73ed": {
+  "id": "6d7a4f413a",
+  "es": {
+   "titulo": "Concierto: Boleros con alma",
+   "resumen": "Oscar Novoa y Lorenzo Vilches ofrecen un concierto íntimo de boleros en el Centro Sociocultural Rafael de León. Una velada elegante y emotiva."
+  },
+  "en": {
+   "titulo": "Concert: Boleros with Soul",
+   "resumen": "Oscar Novoa and Lorenzo Vilches offer an intimate concert of boleros at the Rafael de León Sociocultural Center. An elegant and emotional evening."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "307d5e1594": {
+  "id": "7194b830b5",
+  "es": {
+   "titulo": "Concierto: Constanza y Fredi",
+   "resumen": "Constanza Cervino y Fredi Marugán crean un viaje musical por baladas, swing y blues en el Centro Dotacional Integrado Arganzuela Ángel del Río."
+  },
+  "en": {
+   "titulo": "Concert: Constanza and Fredi",
+   "resumen": "Constanza Cervino and Fredi Marugán create a musical journey through ballads, swing, and blues at the Arganzuela Ángel del Río Integrated Center."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "bbc99682ca": {
+  "id": "6bd0f43254",
+  "es": {
+   "titulo": "Concierto: Huellas de la cultura Eslava",
+   "resumen": "La pianista Natalie Schwamová recorre la música eslava con obras de Chopin, Schumann y Rachmaninoff en el Centro Sociocultural Alfonso XII."
+  },
+  "en": {
+   "titulo": "Concert: Traces of Slavic Culture",
+   "resumen": "Pianist Natalie Schwamová explores Slavic music with works by Chopin, Schumann, and Rachmaninoff at the Alfonso XII Sociocultural Center."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "2e882e604b": {
+  "id": "36238b88dc",
+  "es": {
+   "titulo": "Concierto: José Morales Quartet",
+   "resumen": "El José Morales Quartet interpreta estándares de jazz, swing y bossanova en el Centro Cultural La Vaguada. Una noche de buena música."
+  },
+  "en": {
+   "titulo": "Concert: José Morales Quartet",
+   "resumen": "The José Morales Quartet performs jazz standards, swing, and bossa nova at the La Vaguada Cultural Center. A night of great music."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "0025bdfc11": {
+  "id": "59fe68a716",
+  "es": {
+   "titulo": "Concierto: La lírica en el cine. Trío lírico",
+   "resumen": "Un trío lírico explora la música de ópera y bandas sonoras de cine en el Centro Cultural Casa del Reloj. Una fusión de géneros para todos los públicos."
+  },
+  "en": {
+   "titulo": "Concert: Opera in Cinema. Lyrical Trio",
+   "resumen": "A lyrical trio explores opera music and film soundtracks at the Casa del Reloj Cultural Center. A fusion of genres for all audiences."
+  },
+  "temas": [
+   "musica",
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": true
+ },
+ "db95f14dd5": {
+  "id": "f8f7342e81",
+  "es": {
+   "titulo": "Ensayo abierto: Réquiem de Brahms",
+   "resumen": "Asiste a un ensayo abierto al público de la Orquesta Filarmónica Española preparando el Réquiem de Brahms. La entrada es libre hasta completar aforo."
+  },
+  "en": {
+   "titulo": "Open Rehearsal: Brahms' Requiem",
+   "resumen": "Attend an open rehearsal for the public of the Spanish Philharmonic Orchestra preparing Brahms' Requiem. Entry is free until capacity is reached."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "2884808df5": {
+  "id": "a50ef0c62b",
+  "es": {
+   "titulo": "Concierto: 'Un viaje en el tiempo a través de la música'",
+   "resumen": "El Trío 37 ofrece un concierto que recorre distintas épocas musicales con un repertorio variado. Disfruta de paisajes sonoros llenos de matices y emoción."
+  },
+  "en": {
+   "titulo": "Concert: 'A Journey Through Time in Music'",
+   "resumen": "Trio 37 presents a concert journeying through different musical eras with a varied repertoire. Enjoy soundscapes full of nuance and emotion."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "d451bbede3": {
+  "id": "022d4006b3",
+  "es": {
+   "titulo": "Concierto: 'Historias de Mi Habitación' con La Nena",
+   "resumen": "Descubre a La Nena, una artista polivalente que fusiona géneros de Cuba y Madrid. Su directo combina música, actuación y baile en una experiencia íntima y madura."
+  },
+  "en": {
+   "titulo": "Concert: 'Stories from My Room' with La Nena",
+   "resumen": "Discover La Nena, a versatile artist blending genres from Cuba and Madrid. Her live performance combines music, acting, and dance in an intimate and mature experience."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "c69c322cec": {
+  "id": "197f7ce7bd",
+  "es": {
+   "titulo": "Concurso Escolar de Belenes",
+   "resumen": "Participa en el Certamen Escolar de Belenes donde centros educativos de Chamberí crearán sus propias representaciones navideñas. Consulta las fechas de solicitud y montaje."
+  },
+  "en": {
+   "titulo": "School Nativity Scene Contest",
+   "resumen": "Participate in the School Nativity Scene Contest where educational centers in Chamberí will create their own Christmas representations. Check the application and assembly dates."
+  },
+  "temas": [
+   "cultura",
+   "navidad",
+   "ninos"
+  ],
+  "a_cubierto": true
+ },
+ "c65ab73295": {
+  "id": "3da3bdb28c",
+  "es": {
+   "titulo": "Conferencia: Teatro de humor en el Siglo de Oro",
+   "resumen": "Explora el teatro cómico del Siglo de Oro español, sus recursos satíricos y su mirada crítica sobre la sociedad y la vida cotidiana. Una conferencia de 60 minutos para todos los públicos."
+  },
+  "en": {
+   "titulo": "Lecture: Humor Theater in the Golden Age",
+   "resumen": "Explore the comic theater of the Spanish Golden Age, its satirical resources, and its critical view of society and daily life. A 60-minute lecture for all audiences."
+  },
+  "temas": [
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": true
+ },
+ "12428cf091": {
+  "id": "7af3c3b9dd",
+  "es": {
+   "titulo": "Conferencias culturales de AJAM",
+   "resumen": "Asiste a las conferencias culturales organizadas por AJAM en la Biblioteca Pública Municipal Iván de Vargas."
+  },
+  "en": {
+   "titulo": "AJAM Cultural Lectures",
+   "resumen": "Attend cultural lectures organized by AJAM at the Iván de Vargas Municipal Public Library."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "185aef7b75": {
+  "id": "41e16e2478",
+  "es": {
+   "titulo": "Conferencias: El Madrid del Siglo de Las Luces, S. XVIII",
+   "resumen": "Asiste a conferencias sobre Fernando VI, los Reales Sitios Madrileños y Carlos de Borbón en el marco del Madrid de la Ilustración."
+  },
+  "en": {
+   "titulo": "Lectures: Madrid in the Age of Enlightenment, 18th Century",
+   "resumen": "Attend lectures on Ferdinand VI, the Royal Sites of Madrid, and Charles of Bourbon within the context of Madrid during the Enlightenment."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "251bcdb001": {
+  "id": "75435bcf85",
+  "es": {
+   "titulo": "Conferencia: Frank Sinatra y Ava Gardner",
+   "resumen": "Eva M.ª Mera Jiménez imparte una conferencia sobre las figuras de Frank Sinatra y Ava Gardner. Entrada libre hasta completar aforo."
+  },
+  "en": {
+   "titulo": "Lecture: Frank Sinatra and Ava Gardner",
+   "resumen": "Eva M.ª Mera Jiménez gives a lecture on the figures of Frank Sinatra and Ava Gardner. Free entry until capacity is reached."
+  },
+  "temas": [
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "f6be951c43": {
+  "id": "680623f318",
+  "es": {
+   "titulo": "Conferencia: Pompeya y la erupción del Vesubio",
+   "resumen": "Paco Álvarez te acerca a la historia de Pompeya, su desaparición por la erupción del Vesubio y cómo este desastre conservó un retrato único de la vida romana."
+  },
+  "en": {
+   "titulo": "Lecture: Pompeii and the Eruption of Vesuvius",
+   "resumen": "Paco Álvarez brings you the history of Pompeii, its destruction by the eruption of Vesuvius, and how this disaster preserved a unique snapshot of Roman life."
+  },
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true
+ },
+ "7f3b1df9de": {
+  "id": "d26d8550f4",
+  "es": {
+   "titulo": "Conferencia: Reinas hispanas, heroínas medievales",
+   "resumen": "Isabel San Sebastián presenta la figura de reinas medievales hispanas, mujeres fuertes y decididas que defendieron sus reinos, como Sancha, Urraca, Toda, María de Molina e Isabel de Castilla."
+  },
+  "en": {
+   "titulo": "Lecture: Hispanic Queens, Medieval Heroines",
+   "resumen": "Isabel San Sebastián presents the role of strong and determined medieval Hispanic queens who defended their kingdoms, such as Sancha, Urraca, Toda, María de Molina, and Isabella I of Castile."
+  },
+  "temas": [
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": true
+ },
+ "0d64ccd91c": {
+  "id": "5754cae0a1",
+  "es": {
+   "titulo": "Conferencia: Trajano, Hispania conquista Roma",
+   "resumen": "Paco Álvarez presenta la figura de Marco Ulpio Trajano, el primer emperador hispano de Roma, considerado un gran gobernante, guerrero y constructor."
+  },
+  "en": {
+   "titulo": "Lecture: Trajan, Hispania Conquers Rome",
+   "resumen": "Paco Álvarez presents the figure of Marcus Ulpius Trajanus, Rome's first Hispanic emperor, considered a great ruler, warrior, and builder."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "7500476846": {
+  "id": "c5d37868f6",
+  "es": {
+   "titulo": "Conferencia: 'Las hermanas Brönte'",
+   "resumen": "Con motivo del Día de las Escritoras, Eva Mera ofrece una charla sobre las hermanas Brönte, autoras de influyentes novelas inglesas, y su legado literario."
+  },
+  "en": {
+   "titulo": "Lecture: 'The Brontë Sisters'",
+   "resumen": "On the occasion of Women Writers' Day, Eva Mera gives a talk about the Brontë sisters, authors of influential English novels, and their literary legacy."
+  },
+  "temas": [
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": true
+ },
+ "9c7a6b9e9f": {
+  "id": "c4e361ee02",
+  "es": {
+   "titulo": "Visita al Congreso de los Diputados",
+   "resumen": "Inscríbete para visitar el Congreso de los Diputados, el órgano que representa al pueblo español. Las inscripciones son telefónicas a partir de octubre de 2026."
+  },
+  "en": {
+   "titulo": "Visit to the Congress of Deputies",
+   "resumen": "Register to visit the Congress of Deputies, the body representing the Spanish people. Registration is by phone starting in October 2026."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "b116bd8f2e": {
+  "id": "3e4edf4384",
+  "es": {
+   "titulo": "Ruta ornitológica: Conoce las aves de la Dehesa",
+   "resumen": "Únete a una ruta ornitológica en la Dehesa de la Villa para conocer las aves que habitan en la zona. Una actividad para los amantes de la naturaleza."
+  },
+  "en": {
+   "titulo": "Birdwatching Route: Discover the Birds of La Dehesa",
+   "resumen": "Join a birdwatching route in La Dehesa de la Villa to learn about the birds that inhabit the area. An activity for nature lovers."
+  },
+  "temas": [
+   "naturaleza",
+   "rutas",
+   "parques"
+  ],
+  "a_cubierto": null
+ },
+ "b5d5d96888": {
+  "id": "b34dae7196",
+  "es": {
+   "titulo": "Taller: Calidad del Aire en El Retiro",
+   "resumen": "Aprende sobre la calidad del aire, la contaminación y el cambio climático en un taller teórico y una visita a una estación de medición en el Parque de El Retiro. Requiere reserva."
+  },
+  "en": {
+   "titulo": "Workshop: Air Quality in El Retiro",
+   "resumen": "Learn about air quality, pollution, and climate change in a theoretical workshop and a visit to a monitoring station in El Retiro Park. Reservation required."
+  },
+  "temas": [
+   "naturaleza",
+   "parques",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "e636bca525": {
+  "id": "f800f29f2a",
+  "es": {
+   "titulo": "Taller: Calidad del Aire en El Retiro (Mayores 16)",
+   "resumen": "Descubre cómo se mide la calidad del aire y su relación con el cambio climático en un taller teórico y visita a una estación de medición en El Retiro. Para mayores de 16 años. Requiere reserva."
+  },
+  "en": {
+   "titulo": "Workshop: Air Quality in El Retiro (Ages 16+)",
+   "resumen": "Discover how air quality is measured and its relationship with climate change in a theoretical workshop and a visit to a monitoring station in El Retiro. For ages 16+. Reservation required."
+  },
+  "temas": [
+   "naturaleza",
+   "parques",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "21420b4fe8": {
+  "id": "dab9b94275",
+  "es": {
+   "titulo": "Visita a la Hemeroteca Municipal: Lyceum Club Femenino",
+   "resumen": "Explora la Hemeroteca Municipal de Madrid y descubre la historia del Lyceum Club Femenino en esta actividad de conocimiento e investigación."
+  },
+  "en": {
+   "titulo": "Visit to the Municipal Newspaper Archive: Lyceum Club Femenino",
+   "resumen": "Explore the Madrid Municipal Newspaper Archive and discover the history of the Lyceum Club Femenino in this knowledge and research activity."
+  },
+  "temas": [
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": true
+ },
+ "0a16f9caca": {
+  "id": "2b5b449e1b",
+  "es": {
+   "titulo": "Conversación con Mariana Enríquez",
+   "resumen": "Participa en un encuentro y conversación con la escritora Mariana Enríquez en Matadero Madrid."
+  },
+  "en": {
+   "titulo": "Conversation with Mariana Enríquez",
+   "resumen": "Take part in a meeting and conversation with the writer Mariana Enríquez at Matadero Madrid."
+  },
+  "temas": [
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": true
+ },
+ "9724eaf8e8": {
+  "id": "e819b2cc67",
+  "es": {
+   "titulo": "Corazón de Agua - Retiro",
+   "resumen": "Disfruta de la actividad 'Corazón de Agua' en el Centro Cultural Casa de Vacas, ubicado en el Parque del Retiro."
+  },
+  "en": {
+   "titulo": "Heart of Water - Retiro",
+   "resumen": "Enjoy the 'Heart of Water' activity at the Casa de Vacas Cultural Center, located in Retiro Park."
+  },
+  "temas": [
+   "cultura",
+   "parques"
+  ],
+  "a_cubierto": true
+ },
+ "38313dfff2": {
+  "id": "56456bc99e",
+  "es": {
+   "titulo": "Concierto: Coro Amabile",
+   "resumen": "Asiste a la actuación del Coro Amabile, un coro polifónico mixto que interpreta un repertorio variado bajo la dirección de Gonzalo García Baz."
+  },
+  "en": {
+   "titulo": "Concert: Coro Amabile",
+   "resumen": "Attend a performance by Coro Amabile, a mixed polyphonic choir performing a varied repertoire under the direction of Gonzalo García Baz."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "3265bd1dbd": {
+  "id": "b17c6bc76d",
+  "es": {
+   "titulo": "Coro de Actores: Madrid de Musicales",
+   "resumen": "Disfruta de 'Madrid de Musicales' a cargo del Coro de Actores, dirigido por Claudio Pascual. Una actuación llena de energía y compromiso."
+  },
+  "en": {
+   "titulo": "Actors' Choir: Madrid of Musicals",
+   "resumen": "Enjoy 'Madrid of Musicals' performed by the Actors' Choir, directed by Claudio Pascual. A performance full of energy and commitment."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "f543e56630": {
+  "id": "8d8c646790",
+  "es": {
+   "titulo": "Coro de Castañuelas de Madrid",
+   "resumen": "Asiste a una actuación del Coro de Castañuelas de Madrid como parte del ciclo de actividades culturales 'Ensaya Coralia'."
+  },
+  "en": {
+   "titulo": "Madrid Castanet Choir",
+   "resumen": "Attend a performance by the Madrid Castanet Choir as part of the 'Ensaya Coralia' cultural activities cycle."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "56676575bf": {
+  "id": "5d91b3ecbc",
+  "es": {
+   "titulo": "CRA produce",
+   "resumen": "Asiste a las producciones de CRA en Matadero Madrid."
+  },
+  "en": {
+   "titulo": "CRA produces",
+   "resumen": "Attend CRA productions at Matadero Madrid."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "8e37141f57": {
+  "id": "ac41428007",
+  "es": {
+   "titulo": "Taller: Crea tus propios libros",
+   "resumen": "Taller de encuadernación para niños de 7 a 10 años donde descubrirán la evolución del libro y sus formatos a través del tiempo."
+  },
+  "en": {
+   "titulo": "Workshop: Create Your Own Books",
+   "resumen": "A bookbinding workshop for children aged 7 to 10, where they will discover the evolution of books and their formats through time."
+  },
+  "temas": [
+   "ninos",
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": true
+ },
+ "d5fed76c99": {
+  "id": "f9ace12874",
+  "es": {
+   "titulo": "Exposición: Crossroads. El viaje circular de Boa Mistura",
+   "resumen": "Explora el trabajo del colectivo artístico Boa Mistura, centrado en el arte urbano y su capacidad para conectar vidas y generar cambios en comunidades de todo el mundo."
+  },
+  "en": {
+   "titulo": "Exhibition: Crossroads. Boa Mistura's Circular Journey",
+   "resumen": "Explore the work of the artistic collective Boa Mistura, focusing on urban art and its ability to connect lives and generate change in communities worldwide."
+  },
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": true
+ },
+ "0f403f5441": {
+  "id": "95676978bb",
+  "es": {
+   "titulo": "Cruz Novillo",
+   "resumen": "Exposición de Cruz Novillo en CentroCentro. Una oportunidad para disfrutar de la obra de este artista."
+  },
+  "en": {
+   "titulo": "Cruz Novillo",
+   "resumen": "Exhibition by Cruz Novillo at CentroCentro. An opportunity to enjoy this artist's work."
+  },
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": null
+ },
+ "2f4b915919": {
+  "id": "3cf06806f0",
+  "es": {
+   "titulo": "Cuatro miradas. Un mismo presente",
+   "resumen": "Exposición colectiva en el Silo de Hortaleza que explora diferentes perspectivas sobre la actualidad. Una muestra para reflexionar sobre nuestro tiempo."
+  },
+  "en": {
+   "titulo": "Four Looks. One Present",
+   "resumen": "A collective exhibition at Silo de Hortaleza exploring different perspectives on current events. A show to reflect on our times."
+  },
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": null
+ },
+ "f2cee4b3cc": {
+  "id": "c9e1c78788",
+  "es": {
+   "titulo": "Cuentacuentos: Cuentos de luna llena y otros espantos",
+   "resumen": "Andrea Ortúzar narra cuentos de miedo y magia para niños de 4 a 8 años en el Centro Sociocultural Montecarmelo. Una sesión para jugar con el bosque, el lobo y las brujas."
+  },
+  "en": {
+   "titulo": "Storytelling: Full Moon Tales and Other Spooks",
+   "resumen": "Andrea Ortúzar tells scary and magical stories for children aged 4 to 8 at the Montecarmelo Sociocultural Center. A session to play with the forest, the wolf, and witches."
+  },
+  "temas": [
+   "ninos",
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "d8a46e8030": {
+  "id": "a88942a9af",
+  "es": {
+   "titulo": "Cuentacuentos: leyendas e historias terroríficamente divertidas",
+   "resumen": "Sesión de cuentos de Halloween para toda la familia en el Jardín del Bulevar de Peña Gorbea. Historias de brujas, fantasmas y criaturas misteriosas llenas de humor y emoción."
+  },
+  "en": {
+   "titulo": "Storytelling: Terrifyingly Fun Legends and Stories",
+   "resumen": "A Halloween storytelling session for the whole family at the Peña Gorbea Boulevard Garden. Stories of witches, ghosts, and mysterious creatures filled with humor and excitement."
+  },
+  "temas": [
+   "ninos",
+   "cultura",
+   "fiestas"
+  ],
+  "a_cubierto": null
+ },
+ "0b8c65681d": {
+  "id": "d5cb76c3f0",
+  "es": {
+   "titulo": "Cuentacuentos: SOS lana",
+   "resumen": "Sesión de cuentacuentos en el Centro de Información y Educación Ambiental de Casa de Campo. Una actividad para disfrutar de historias relacionadas con la lana."
+  },
+  "en": {
+   "titulo": "Storytelling: SOS Wool",
+   "resumen": "Storytelling session at the Environmental Education and Information Center of Casa de Campo. An activity to enjoy stories related to wool."
+  },
+  "temas": [
+   "ninos",
+   "cultura",
+   "naturaleza"
+  ],
+  "a_cubierto": null
+ },
+ "a932c61ef3": {
+  "id": "8a453e1a25",
+  "es": {
+   "titulo": "Cuéntanos contigo",
+   "resumen": "Actividad de narración en el Mercado Municipal Guillermo de Osma. Una invitación a compartir historias y crear comunidad."
+  },
+  "en": {
+   "titulo": "Tell Us With You",
+   "resumen": "Storytelling activity at the Guillermo de Osma Municipal Market. An invitation to share stories and build community."
+  },
+  "temas": [
+   "cultura",
+   "ninos"
+  ],
+  "a_cubierto": null
+ },
+ "60f1e657da": {
+  "id": "5c60c9d595",
+  "es": {
+   "titulo": "Cuentos danzantes",
+   "resumen": "Experiencia que combina literatura, movimiento y naturaleza en Matadero Madrid. Un cuento sobre la naturaleza inspira a despertar cuerpo e imaginación en familia."
+  },
+  "en": {
+   "titulo": "Dancing Stories",
+   "resumen": "An experience combining literature, movement, and nature at Matadero Madrid. A story about nature inspires families to awaken their bodies and imagination."
+  },
+  "temas": [
+   "ninos",
+   "cultura",
+   "naturaleza"
+  ],
+  "a_cubierto": null
+ },
+ "bac1665d98": {
+  "id": "21a06d5313",
+  "es": {
+   "titulo": "Cuentos de fantasmas, brujas y otros seres fantásticos",
+   "resumen": "Nelson Calderón presenta cuentos de miedo y diversión para mayores de 3 años en el Centro Cultural Hortaleza. Historias de vampiros, brujas y demonios para pasar un día especial."
+  },
+  "en": {
+   "titulo": "Tales of Ghosts, Witches, and Other Fantastic Beings",
+   "resumen": "Nelson Calderón presents scary and fun tales for ages 3 and up at the Hortaleza Cultural Center. Stories of vampires, witches, and demons for a special day."
+  },
+  "temas": [
+   "ninos",
+   "cultura",
+   "fiestas"
+  ],
+  "a_cubierto": null
+ },
+ "a65b9a5a33": {
+  "id": "6473f1ad01",
+  "es": {
+   "titulo": "Cuentos de luna llena y otros espantos por Andrea Ortuzar",
+   "resumen": "Andrea Ortúzar narra cuentos de magia y misterio para mayores de 4 años en el Centro Sociocultural García Lorca. Una historia para adentrarse en el bosque en una noche de luna llena."
+  },
+  "en": {
+   "titulo": "Full Moon Tales and Other Spooks by Andrea Ortuzar",
+   "resumen": "Andrea Ortúzar tells tales of magic and mystery for ages 4 and up at the García Lorca Sociocultural Center. A story to venture into the forest on a full moon night."
+  },
+  "temas": [
+   "ninos",
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "39c061802b": {
+  "id": "d448ed0c5a",
+  "es": {
+   "titulo": "Cuentos embrujados",
+   "resumen": "El Rincón de Los Cuentos invita a niños a partir de 6 años a romper hechizos en el Centro Cultural Federico Chueca. Una sesión de Halloween con misterio, risas y conjuros."
+  },
+  "en": {
+   "titulo": "Bewitched Tales",
+   "resumen": "El Rincón de Los Cuentos invites children aged 6 and up to break spells at the Federico Chueca Cultural Center. A Halloween session with mystery, laughter, and spells."
+  },
+  "temas": [
+   "ninos",
+   "cultura",
+   "fiestas"
+  ],
+  "a_cubierto": null
+ },
+ "5daf46e656": {
+  "id": "49c1879b79",
+  "es": {
+   "titulo": "Cuerdas y palabras: fragmentos de clásicos del terror",
+   "resumen": "Lectura dramatizada de clásicos del terror con Natalia Fisac y Carlos Wernicke en el Centro Cultural Quinta del Berro. Una tarde de literatura fantástica y música."
+  },
+  "en": {
+   "titulo": "Strings and Words: Fragments of Horror Classics",
+   "resumen": "Dramatized reading of horror classics with Natalia Fisac and Carlos Wernicke at the Quinta del Berro Cultural Center. An afternoon of fantastic literature and music."
+  },
+  "temas": [
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": null
+ },
+ "e48e307da0": {
+  "id": "fea7d199b3",
+  "es": {
+   "titulo": "Curso anual de cómic",
+   "resumen": "Formación completa sobre cómic en la Casa del Lector. Un curso para profundizar en el arte de la creación de cómics."
+  },
+  "en": {
+   "titulo": "Annual Comic Course",
+   "resumen": "Comprehensive training on comics at Casa del Lector. A course to delve deeper into the art of comic creation."
+  },
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": null
+ },
+ "7de2488d6d": {
+  "id": "e0d3d2e53d",
+  "es": {
+   "titulo": "Curso anual de Cómic para niños y niñas de 8 a 12 años",
+   "resumen": "Curso anual de cómic en Matadero Madrid para niños de 8 a 12 años. Una oportunidad única para aprender a crear cómics de forma creativa y artística."
+  },
+  "en": {
+   "titulo": "Annual Comic Course for Children Aged 8-12",
+   "resumen": "Annual comic course at Matadero Madrid for children aged 8 to 12. A unique opportunity to learn comic creation creatively and artistically."
+  },
+  "temas": [
+   "ninos",
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": null
+ },
+ "f264960984": {
+  "id": "c409b3502a",
+  "es": {
+   "titulo": "Curso anual de Ficción Sonora: Proyectos",
+   "resumen": "Curso en Matadero Madrid para crear ficciones sonoras en grupo, desde la idea hasta la puesta en escena. Aprende todos los roles necesarios para producir audio dramas."
+  },
+  "en": {
+   "titulo": "Annual Sound Fiction Course: Projects",
+   "resumen": "Course at Matadero Madrid to create group sound fictions, from idea to staging. Learn all the necessary roles to produce audio dramas."
+  },
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": null
+ },
+ "f6e684e20e": {
+  "id": "1631a3a002",
+  "es": {
+   "titulo": "Curso de Ficción Sonora. Nivel Iniciación",
+   "resumen": "Curso anual en la Casa del Lector para iniciarse en la ficción sonora. Aprende técnica y construcción de relatos orales, culminando en un espectáculo."
+  },
+  "en": {
+   "titulo": "Sound Fiction Course. Introduction Level",
+   "resumen": "Annual course at Casa del Lector to start in sound fiction. Learn technique and oral storytelling, culminating in a performance."
+  },
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": null
+ },
+ "4511e36810": {
+  "id": "22aa71404c",
+  "es": {
+   "titulo": "Curso de Ficción Sonora. Nivel Intermedio",
+   "resumen": "Continuación del curso de iniciación en la Casa del Lector. Profundiza en la técnica y la creación de relatos sonoros, con un espectáculo final."
+  },
+  "en": {
+   "titulo": "Sound Fiction Course. Intermediate Level",
+   "resumen": "Continuation of the introductory course at Casa del Lector. Delve deeper into technique and the creation of sound stories, with a final performance."
+  },
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": null
+ },
+ "cf13fa0dc5": {
+  "id": "2b1f7c4d59",
+  "es": {
+   "titulo": "Curso de huerto especializado",
+   "resumen": "Formación para educadores ambientales en el Aula Ambiental La Cabaña del Retiro. Aprende sobre servicios ecosistémicos del huerto y su uso educativo."
+  },
+  "en": {
+   "titulo": "Specialized Garden Course",
+   "resumen": "Training for environmental educators at the La Cabaña del Retiro Environmental Classroom. Learn about the garden's ecosystem services and their educational use."
+  },
+  "temas": [
+   "naturaleza",
+   "actividades"
+  ],
+  "a_cubierto": null
+ },
+ "3fcb27588f": {
+  "id": "4d35933db9",
+  "es": {
+   "titulo": "Curso Junior de Ficción Sonora",
+   "resumen": "Taller en Matadero Madrid para niños de 8 a 14 años para crear su propia ficción sonora. Aprenderán técnicas de voz, grabación y edición."
+  },
+  "en": {
+   "titulo": "Junior Sound Fiction Course",
+   "resumen": "Workshop at Matadero Madrid for children aged 8 to 14 to create their own sound fiction. They will learn voice techniques, recording, and editing."
+  },
+  "temas": [
+   "ninos",
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": null
+ },
+ "3cb23e5bed": {
+  "id": "8c936a436a",
+  "es": {
+   "titulo": "Curso junior de ficción sonora",
+   "resumen": "Taller de ficción sonora para jóvenes en la Casa del Lector. Una oportunidad para explorar la creación de historias a través del sonido."
+  },
+  "en": {
+   "titulo": "Junior Sound Fiction Course",
+   "resumen": "Sound fiction workshop for young people at Casa del Lector. An opportunity to explore the creation of stories through sound."
+  },
+  "temas": [
+   "ninos",
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": null
+ },
+ "173f5df11e": {
+  "id": "b8dbd10b20",
+  "es": {
+   "titulo": "Cursos trimestrales",
+   "resumen": "Cursos de Historia del Arte e Historia Cultural en el Centro Sociocultural Valle Inclán. Formación trimestral para ampliar conocimientos."
+  },
+  "en": {
+   "titulo": "Quarterly Courses",
+   "resumen": "Art History and Cultural History courses at the Valle Inclán Sociocultural Center. Quarterly training to expand knowledge."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "05228e1085": {
+  "id": "28636ce597",
+  "es": {
+   "titulo": "Damien Jalet en Centro Danza Matadero",
+   "resumen": "Actuación de Damien Jalet en el Centro Danza Matadero. Una cita con la danza contemporánea."
+  },
+  "en": {
+   "titulo": "Damien Jalet at Matadero Dance Center",
+   "resumen": "Performance by Damien Jalet at the Matadero Dance Center. An event for contemporary dance."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "127ce59272": {
+  "id": "a5bdf8d9ee",
+  "es": {
+   "titulo": "Danza clásica: Drácula",
+   "resumen": "La Compañía de Danza ArTs presenta 'Drácula' en el Centro Cultural Alfredo Kraus. Una versión humana del mito del conde a través de la danza clásica."
+  },
+  "en": {
+   "titulo": "Classical Dance: Dracula",
+   "resumen": "The ArTs Dance Company presents 'Dracula' at the Alfredo Kraus Cultural Center. A human version of the count's myth through classical dance."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "89c927778e": {
+  "id": "dadf37b425",
+  "es": {
+   "titulo": "Danza 'ECO'. A cargo de La Figuranta",
+   "resumen": "La Figuranta presenta 'ECO' en el Centro Cultural Eduardo Úrculo. Una danza que conecta movimientos, melodías y ritmos para transmitir emociones."
+  },
+  "en": {
+   "titulo": "Dance 'ECO'. By La Figuranta",
+   "resumen": "La Figuranta presents 'ECO' at the Eduardo Úrculo Cultural Center. A dance that connects movements, melodies, and rhythms to convey emotions."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "cecec9a8d9": {
+  "id": "c160fa8286",
+  "es": {
+   "titulo": "Danzas de Perú",
+   "resumen": "El Grupo Afroperuano de Olga Gallardo ofrece un espectáculo de danzas peruanas en el Centro Sociocultural Almirante Churruca. Ritmo, color y tradición de la costa peruana."
+  },
+  "en": {
+   "titulo": "Dances of Peru",
+   "resumen": "The Afro-Peruvian Group of Olga Gallardo offers a show of Peruvian dances at the Almirante Churruca Sociocultural Center. Rhythm, color, and tradition from the Peruvian coast."
+  },
+  "temas": [
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": null
+ },
+ "99e9643a49": {
+  "id": "0711062361",
+  "es": {
+   "titulo": "DANZA. La compañía 'Danza Las Arts', presenta 'Drácula, el amor nunca muere'",
+   "resumen": "La compañía 'Danza Las Arts' presenta 'Drácula, el amor nunca muere' en el Centro Cultural Príncipe de Asturias. Una mirada humana al mito del vampiro a través de la danza."
+  },
+  "en": {
+   "titulo": "DANCE. 'Danza Las Arts' Company Presents 'Dracula, Love Never Dies'",
+   "resumen": "'Danza Las Arts' Company presents 'Dracula, Love Never Dies' at the Príncipe de Asturias Cultural Center. A human perspective on the vampire myth through dance."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": null
  }
 }

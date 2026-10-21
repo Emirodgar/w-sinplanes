@@ -58,5 +58,15 @@
   "confianza": 0.65,
   "fuente": "El Diario Vasco (Culturas)",
   "url": "https://www.diariovasco.com/culturas/musica/nogen-anuncia-dejan-simplemente-no-podemos-seguir-20261020161236-nt.html"
+ },
+ {
+  "id": "490133fbf3",
+  "titulo": "Latin Grammy 2026 en Las Vegas",
+  "inicio": "2026-11-12",
+  "municipio": "Las Vegas",
+  "provincia": null,
+  "confianza": 0.5,
+  "fuente": "20minutos (Cultura)",
+  "url": "https://www.20minutos.es/musica/rosalia-daddy-yankee-entre-los-artistas-que-actuaran-los-latin-grammy-2026_7051210_0.html"
  }
 ]
