@@ -465,3 +465,98 @@ tomatina:
       r: "Zerdrücke die Tomate, bevor du sie wirfst, wirf nichts außer Tomaten, bring keine Glas- oder Wertgegenstände mit und folge den Anweisungen der Organisation."
     - p: "Ist es ein guter Plan mit Kindern?"
       r: "Es gibt ein Mindestalter für die Teilnahme, und das Fest ist sehr überlaufen. Sieh dir die offiziellen Bedingungen an, bevor du Tickets kaufst."
+
+san-juan:
+  texto:
+    - "Die Nacht von San Juan, der Vorabend des 24. Juni, gehört zu den ältesten Feiern rund um die Sommersonnenwende. In ganz Spanien werden Feuer entzündet, Wunschrituale vollzogen und an Stränden, auf Plätzen und in den Bergen Feste gefeiert."
+    - "Zu den bekanntesten gehören die von A Coruña mit Feuern an den Stränden Riazor und Orzán, die Hogueras von Alicante, ein Fest von internationalem touristischem Interesse, die Revetlla de Sant Joan in Katalonien mit Knallkörpern und der Coca de Sant Joan sowie die Sonnenwend-Feuerfeste in den Pyrenäen, die von der UNESCO anerkannt sind."
+    - "Üblich ist es, über das Feuer zu springen, um Mitternacht zu baden oder einen Wunsch auf einen Zettel zu schreiben und zu verbrennen. Mach das sicher: Nutze nur genehmigte Feuer, zünde in Risikogebieten nicht selbst ein Feuer an, behalte Kinder bei den Knallkörpern im Auge und sei beim nächtlichen Baden sehr vorsichtig. Und lass keinen Müll am Strand zurück."
+  faq:
+    - p: "Wann ist die Nacht von San Juan?"
+      r: "In der Nacht vom 23. auf den 24. Juni, wobei der 24. in manchen Autonomen Gemeinschaften ein Feiertag ist."
+    - p: "Wo kann man die Feuer sehen?"
+      r: "A Coruña, Alicante, Barcelona, Cádiz und viele Strände an der Küste feiern sehr beliebte Feste. Sieh dir das Programm der jeweiligen Stadtverwaltung an."
+    - p: "Darf man Feuer machen?"
+      r: "Nur dort, wo es erlaubt ist. An vielen Stränden und in Waldgebieten ist es verboten, auf eigene Faust Feuer zu machen, und es drohen Bußgelder und Brandgefahr."
+    - p: "Welche Rituale gibt es?"
+      r: "Über das Feuer springen, sich etwas wünschen, auf einen Zettel schreiben, was man hinter sich lassen will, und ihn verbrennen, und um Mitternacht baden. Jede Gegend hat ihre eigenen Bräuche."
+    - p: "Ist es sicher, nachts zu baden?"
+      r: "Es gibt ein Risiko, vor allem mit Alkohol und schlechter Sicht. Bade nur an bewachten Stränden, in Begleitung und ohne dich weit vom Ufer zu entfernen."
+    - p: "Ist es ein guter Plan mit Kindern?"
+      r: "Ja, es gibt viele Familienaktivitäten, aber man sollte auf Feuer und Knallkörper achten und die Zeiten mit dem größten Gedränge meiden."
+
+batalla-vino:
+  texto:
+    - "Die Batalla del Vino in Haro ist ein einzigartiges Fest: Jedes Jahr am 29. Juni bewerfen sich Tausende Menschen an den Riscos de Bilibio, wenige Kilometer von Haro in La Rioja entfernt, mit Rotwein. Es ist ein Fest zu Ehren von San Pedro, das religiöse Tradition, Wein und viel Humor verbindet."
+    - "Der Tag beginnt mit einer Prozession vom Ort zu den Riscos de Bilibio und einer Messe in der Einsiedelei San Felices. Danach beginnt die Schlacht mit Eimern, Spritzpistolen, Weinschläuchen und Gießkannen, und Tausende Liter Wein werden verspritzt. Fast alle tragen Weiß und ein lila Halstuch."
+    - "Zieh weiße Kleidung an, die du ruhig ruinieren kannst, bequeme Schuhe, die nass werden dürfen, und eine Brille zum Schutz der Augen. Nimm keine Wertsachen und keine Kameras mit, die schmutzig werden könnten, und bedenke, dass das Fest sehr überlaufen ist. Buche Unterkunft und Transport rechtzeitig und trinke mit Verstand."
+  faq:
+    - p: "Wann ist die Batalla del Vino?"
+      r: "Jedes Jahr am 29. Juni, dem Tag von San Pedro, an den Riscos de Bilibio bei Haro (La Rioja)."
+    - p: "Was soll man anziehen?"
+      r: "Weiße Kleidung, die du ruhig ruinieren kannst, und bequeme Schuhe. Viele Teilnehmer tragen eine Schwimmbrille und ein lila Halstuch."
+    - p: "Wie komme ich hin?"
+      r: "Von Haro aus gehen die meisten zu Fuß in der Prozession oder nutzen organisierten Transport. Verzichte aufs Auto, denn das Parken ist schwierig."
+    - p: "Braucht man ein Ticket?"
+      r: "In der Regel ist es ein Volksfest mit freiem Zugang, aber man sollte sich die Bedingungen und das Programm der Stadtverwaltung von Haro ansehen."
+    - p: "Ist es sicher?"
+      r: "Es ist ein sehr überlaufenes Fest mit viel Wein, deshalb sollte man vorsichtig sein, die Augen schützen und nicht allein hingehen."
+    - p: "Ist es ein guter Plan mit Kindern?"
+      r: "Es ist sehr überlaufen und nass, deshalb wird es für kleine Kinder meist nicht empfohlen."
+
+romeria-rocio:
+  texto:
+    - "Die Romería del Rocío ist eine der größten Wallfahrten Spaniens. Hunderttausende Menschen reisen zu Fuß, zu Pferd und in Ochsenkarren aus verschiedenen Teilen Andalusiens zum Pfingstfest in das Dorf El Rocío in Almonte (Huelva)."
+    - "Die in Bruderschaften organisierten Pilger ziehen tagelang durch die Wege von Doñana, mit Gesang, Gebeten, Tanz und Geselligkeit. Der Höhepunkt kommt in der Nacht zum Pfingstmontag, wenn die Einwohner von Almonte über das Gitter springen und die Jungfrau del Rocío in einer Prozession hinaustragen."
+    - "Wenn du es erleben möchtest, ohne Pilger zu sein, kannst du das Dorf besuchen und den Zug der Bruderschaften und Karren sehen. Die Straßen bestehen aus Sand, es sind viele Menschen da, die Hitze ist stark, und Unterkünfte und Parkplätze sind schnell ausgebucht. Nimm Wasser, bequeme Schuhe und viel Geduld mit, und respektiere den religiösen Charakter der Wallfahrt und die Natur von Doñana."
+  faq:
+    - p: "Wann ist die Romería del Rocío?"
+      r: "An Pfingsten, 50 Tage nach dem Ostersonntag, normalerweise zwischen Mai und Juni. Der Haupttag ist der Montag."
+    - p: "Wo findet sie statt?"
+      r: "Im Dorf El Rocío in Almonte (Huelva), direkt am Nationalpark Doñana."
+    - p: "Was ist der Salto de la reja?"
+      r: "Es ist der Moment, in dem die Einwohner von Almonte über das Gitter springen, das die Jungfrau schützt, um sie in der Nacht zum Pfingstmontag in einer Prozession hinauszutragen."
+    - p: "Kann man auch ohne Pilger zu sein hingehen?"
+      r: "Ja, aber die Anreise ist kompliziert: Es sind viele Menschen da, es gibt wenig Parkplätze und die Straßen sind aus Sand. Informiere dich vorab, wie du hinkommst und ob es Verkehrsbeschränkungen gibt."
+    - p: "Was muss man mitnehmen?"
+      r: "Wasser, Hut, Sonnenschutz, bequeme Schuhe und Kleidung für die Hitze am Tag und die Kühle der Nacht. Respektiere die Natur und lass keinen Müll zurück."
+    - p: "Ist es ein guter Plan mit Kindern?"
+      r: "Mit Vorsicht: Es ist sehr heiß, es sind viele Menschen da und die Wege sind lang. Besser besucht man das Dorf zu Zeiten mit weniger Andrang."
+
+feria-malaga:
+  texto:
+    - "Die Feria de Málaga Mitte August ist eines der lebhaftesten Feste im Süden: eine Woche voller Musik, Tanz, Festzelte (Casetas), Feuerwerk und Süßwein. Sie findet an zwei Schauplätzen statt: der Feria del Centro tagsüber und der Feria de Cortijo de Torres abends."
+    - "Tagsüber füllt sich die Altstadt mit Peñas, Musik, Fandangos verdiales und Menschen in Flamenco-Kleidern oder im traditionellen kurzen Anzug. Abends vereint das Festgelände Cortijo de Torres Casetas, Fahrgeschäfte, Konzerte und jede Menge Stimmung. Es gibt Angebote für alle Altersgruppen und viel Pescaíto frito und Málaga-Wein."
+    - "Geh tagsüber ins Zentrum und abends aufs Festgelände. Verzichte aufs Auto und nutze die Busse oder den öffentlichen Transport der Feria, denn Verkehr und Parken sind schwierig. Nimm bequeme Schuhe, leichte Kleidung und Geduld mit und buche die Unterkunft rechtzeitig."
+  faq:
+    - p: "Wann ist die Feria de Málaga?"
+      r: "Mitte August, eine Woche lang. Die genauen Termine ändern sich jedes Jahr."
+    - p: "Was ist die Feria del Centro?"
+      r: "Der Tagesteil der Feria in der Altstadt, mit Musik, Tanz und Volksfeststimmung."
+    - p: "Was ist Cortijo de Torres?"
+      r: "Das Festgelände, auf dem die Feria abends stattfindet, mit Casetas, Konzerten und Fahrgeschäften."
+    - p: "Wie komme ich nach Cortijo de Torres?"
+      r: "Mit Bussen und Sonderverbindungen der Feria. Verzichte aufs Auto, denn das Parken ist schwierig."
+    - p: "Was isst und trinkt man?"
+      r: "Unter anderem Pescaíto frito, Espetos, Schinken und den Süßwein aus Málaga."
+    - p: "Ist es ein guter Plan mit Kindern?"
+      r: "Tagsüber und im Zentrum ja. Abends sind viele Menschen da und es ist laut."
+
+fiesta-santiago-apostol:
+  texto:
+    - "Die Fiestas del Apóstol Santiago feiern den Tag des Schutzpatrons von Spanien und Galicien am 25. Juli, der zugleich der Nationalfeiertag Galiciens ist. Sie finden in Santiago de Compostela statt, eine Woche lang mit religiösen Feiern, Konzerten, Volksfesten und viel Stimmung."
+    - "Zwei Momente stechen hervor: der Vorabend, die Nacht des 24. Juli, mit dem Feuerwerk vor der Obradoiro-Fassade der Kathedrale, und der 25. Juli mit der Ofrenda Nacional al Apóstol in der Kathedrale. Fällt der 25. Juli auf einen Sonntag, wird das Heilige Jahr von Compostela gefeiert, mit noch mehr Pilgern."
+    - "Santiago füllt sich in diesen Tagen mit Besuchern, Pilgern und Touristen. Buche die Unterkunft rechtzeitig, sieh dir das offizielle Programm an und sei früh auf der Praza do Obradoiro, wenn du das Feuerwerk sehen willst. Nimm bequeme Schuhe und einen Regenmantel mit, denn in Galicien wechselt das Wetter schnell."
+  faq:
+    - p: "Wann sind die Fiestas del Apóstol?"
+      r: "Rund um den 25. Juli, mit dem Vorabend des 24. als Feuerwerksnacht."
+    - p: "Was sind die Fuegos del Apóstol?"
+      r: "Ein Feuerwerk, das in der Nacht des 24. Juli vor der Obradoiro-Fassade der Kathedrale stattfindet."
+    - p: "Was ist die Ofrenda Nacional?"
+      r: "Eine religiöse und offizielle Feier am 25. Juli in der Kathedrale mit einer Opfergabe an den Apostel Santiago."
+    - p: "Was ist das Heilige Jahr?"
+      r: "Ein Jubeljahr von Compostela, das gefeiert wird, wenn der 25. Juli auf einen Sonntag fällt. Es zieht deutlich mehr Pilger an."
+    - p: "Muss man die Unterkunft reservieren?"
+      r: "Ja, und zwar sehr früh, denn Santiago ist in diesen Tagen voll."
+    - p: "Ist es ein guter Plan mit Kindern?"
+      r: "Ja, es gibt Familienaktivitäten, aber das Feuerwerk und das Gedränge am Obradoiro sind sehr überlaufen."

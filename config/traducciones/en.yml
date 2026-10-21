@@ -470,3 +470,98 @@ tomatina:
       r: "Squash the tomato before throwing it, throw nothing but tomatoes, don't bring glass or valuables and follow the organisers' instructions."
     - p: "Is it a good plan with children?"
       r: "There is a minimum age to take part and the festival is very crowded. Check the official conditions before buying tickets."
+
+san-juan:
+  texto:
+    - "Saint John's Eve, the night before 24 June, is one of the oldest celebrations linked to the summer solstice. All over Spain bonfires are lit, people perform rituals to make wishes and there are parties on beaches, in squares and in the mountains."
+    - "Some of the best known are in A Coruña, with bonfires on the Riazor and Orzán beaches; the Hogueras of Alicante, a Festival of International Tourist Interest; the Revetlla de Sant Joan in Catalonia, with firecrackers and the coca de Sant Joan; and the solstice fire festivals in the Pyrenees, recognised by UNESCO."
+    - "It is customary to jump over the bonfire, take a midnight swim or write a wish on a piece of paper and burn it. Do it safely: use only authorised bonfires, don't light fires on your own in risk areas, keep an eye on children with firecrackers and be very careful with night swimming. And don't leave litter on the beach."
+  faq:
+    - p: "When is Saint John's Eve?"
+      r: "On the night of 23 to 24 June, with the 24th a public holiday in some regions."
+    - p: "Where can I see the bonfires?"
+      r: "A Coruña, Alicante, Barcelona, Cádiz and many beaches along the coast have very popular celebrations. Check each town council's programme."
+    - p: "Can I light a bonfire?"
+      r: "Only where it is authorised. On many beaches and in forest areas it is forbidden to light fires on your own, and there is a risk of a fine and of starting a fire."
+    - p: "What rituals are performed?"
+      r: "Jumping over the bonfire, making wishes, writing what you want to leave behind on a piece of paper and burning it, and swimming at midnight. Each area has its own customs."
+    - p: "Is it safe to swim at night?"
+      r: "There is a risk, especially with alcohol and poor visibility. Swim only on beaches with lifeguards, with company and without going far from the shore."
+    - p: "Is it a good plan with children?"
+      r: "Yes, there are lots of family activities, but keep an eye on the fire and the firecrackers, and avoid the busiest hours."
+
+batalla-vino:
+  texto:
+    - "The Haro Wine Battle (Batalla del Vino) is a one-of-a-kind festival: every 29 June, thousands of people throw red wine at each other at the Riscos de Bilibio, a few kilometres from Haro, in La Rioja. It is a celebration of Saint Peter that combines religious tradition, wine and plenty of good humour."
+    - "The day begins with a procession from the town to the Riscos de Bilibio and a mass at the hermitage of San Felices. Then the battle starts, with buckets, water pistols, wineskins and watering cans, and thousands of litres of wine are emptied. Almost everyone dresses in white and wears a purple scarf."
+    - "Wear white clothes you don't mind ruining, comfortable shoes that can get wet and goggles to protect your eyes. Don't bring valuables or cameras that could get stained, and bear in mind that the festival is very crowded. Book accommodation and transport in advance and drink responsibly."
+  faq:
+    - p: "When is the Wine Battle?"
+      r: "Every 29 June, Saint Peter's Day, at the Riscos de Bilibio, near Haro (La Rioja)."
+    - p: "What should I wear?"
+      r: "White clothes you don't mind ruining and comfortable shoes. Many participants wear swimming goggles and a purple scarf."
+    - p: "How do I get there?"
+      r: "From Haro, most people go on foot in the procession or by organised transport. Avoid taking a car, because parking is difficult."
+    - p: "Do I need a ticket?"
+      r: "In general it is a popular festival with free access, but check the conditions and the programme from Haro Town Council."
+    - p: "Is it safe?"
+      r: "It is a very crowded festival with wine, so you need to be careful, protect your eyes and not go alone."
+    - p: "Is it a good plan with children?"
+      r: "It is very crowded and wet, so it is not usually recommended for small children."
+
+romeria-rocio:
+  texto:
+    - "The Romería del Rocío is one of the biggest pilgrimages in Spain. Hundreds of thousands of people travel on foot, on horseback and in carts from different parts of Andalusia to the village of El Rocío, in Almonte (Huelva), at Pentecost."
+    - "The pilgrims, organised in brotherhoods (hermandades), travel the paths of Doñana for days, amid singing, prayers, dancing and companionship. The high point comes in the early hours of Whit Monday, when the people of Almonte jump the fence and carry the Virgen del Rocío out in procession."
+    - "If you want to experience it without being a pilgrim, you can visit the village and watch the brotherhoods and carts go by. The streets are sandy and there are lots of people, the heat is intense and accommodation and parking run out. Bring water, comfortable shoes and plenty of patience, and respect the religious nature of the pilgrimage and the natural surroundings of Doñana."
+  faq:
+    - p: "When is the Romería del Rocío?"
+      r: "At Pentecost, 50 days after Easter Sunday, usually between May and June. The main day is the Monday."
+    - p: "Where does it take place?"
+      r: "In the village of El Rocío, in Almonte (Huelva), next to Doñana National Park."
+    - p: "What is the salto de la reja?"
+      r: "It is the moment when the people of Almonte jump the fence that protects the Virgin in order to carry her out in procession, in the early hours of Whit Monday."
+    - p: "Can I go without being a pilgrim?"
+      r: "Yes, but access is difficult: there are lots of people, little parking and sandy streets. Find out in advance how to get there and whether there are traffic restrictions."
+    - p: "What should I bring?"
+      r: "Water, a hat, sun protection, comfortable shoes and clothes for the heat of the day and the chill of the night. Respect the natural surroundings and don't leave litter."
+    - p: "Is it a good plan with children?"
+      r: "With care: it is very hot, very crowded and the journeys are long. It is better to visit the village at the quieter times."
+
+feria-malaga:
+  texto:
+    - "The Málaga Fair (Feria de Málaga), in mid-August, is one of the liveliest fairs in the south: a week of music, dancing, casetas (fair marquees), fireworks and sweet wine. It takes place in two settings: the Feria del Centro, by day, and the Feria de Cortijo de Torres, by night."
+    - "During the day, the historic centre fills with peñas (social clubs), music, fandangos verdiales and people dressed in flamenco dresses or traditional short jackets. At night, the Cortijo de Torres fairground brings together casetas, rides, concerts and a great atmosphere. There are activities for all ages, and plenty of pescaíto frito (fried fish) and Málaga wine."
+    - "Go to the centre by day and to the fairground at night. Avoid the car and use buses or the fair's public transport, because traffic and parking are difficult. Bring comfortable shoes, light clothing and patience, and book accommodation in advance."
+  faq:
+    - p: "When is the Málaga Fair?"
+      r: "In mid-August, for a week. The exact dates change every year."
+    - p: "What is the Feria del Centro?"
+      r: "The daytime part of the fair, in the historic centre, with music, dancing and a lively local atmosphere."
+    - p: "What is Cortijo de Torres?"
+      r: "The fairground where the fair is held at night, with casetas, concerts and rides."
+    - p: "How do I get to Cortijo de Torres?"
+      r: "By bus and special fair services. Avoid the car, because parking is difficult."
+    - p: "What is there to eat and drink?"
+      r: "Pescaíto frito, espetos (grilled sardine skewers), ham and sweet Málaga wine, among other things."
+    - p: "Is it a good plan with children?"
+      r: "By day and in the centre, yes. At night there are lots of people and noise."
+
+fiesta-santiago-apostol:
+  texto:
+    - "The Feast of Saint James the Apostle celebrates the day of the patron saint of Spain and Galicia, 25 July, which is also Galicia's National Day. It takes place in Santiago de Compostela, over a week of religious ceremonies, concerts, popular activities and a great atmosphere."
+    - "Two moments stand out: the eve, the night of 24 July, with the fireworks display in front of the Obradoiro façade of the cathedral, and 25 July, with the National Offering to the Apostle in the cathedral. When 25 July falls on a Sunday, the Compostelan Holy Year is celebrated, with even more pilgrims."
+    - "Santiago fills with visitors, pilgrims and tourists around these dates. Book accommodation in advance, check the official programme and arrive early at the Obradoiro square if you want to see the fireworks. Bring comfortable shoes and a raincoat, because the weather changes quickly in Galicia."
+  faq:
+    - p: "When is the Feast of the Apostle?"
+      r: "Around 25 July, with the eve of the 24th as the night of the fireworks."
+    - p: "What are the Apostle's fireworks?"
+      r: "A pyrotechnic show held on the night of 24 July in front of the Obradoiro façade of the cathedral."
+    - p: "What is the National Offering?"
+      r: "A religious and official ceremony held on 25 July in the cathedral, with an offering to Saint James the Apostle."
+    - p: "What is the Holy Year?"
+      r: "A Compostelan jubilee year held when 25 July falls on a Sunday. It attracts many more pilgrims."
+    - p: "Do I need to book accommodation?"
+      r: "Yes, well in advance, because Santiago fills up around these dates."
+    - p: "Is it a good plan with children?"
+      r: "Yes, there are family activities, but the fireworks and the crowds at the Obradoiro are very busy."
