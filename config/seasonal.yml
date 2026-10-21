@@ -485,6 +485,14 @@ temporada:
           - "La matanza es una tradición rural muy arraigada en Castilla y León, Extremadura y otras zonas de España: la elaboración casera de chorizos, morcillas, jamones y otros embutidos en invierno. Hoy muchos pueblos la celebran como fiesta gastronómica, con demostraciones, degustaciones y comida popular."
           - "Se celebra normalmente entre diciembre y febrero, cuando hace el frío necesario para curar los embutidos. En estas jornadas se pueden probar productos típicos como chorizo, morcilla, farinato, patatas meneás, jijas o sopas de ajo, y conocer de cerca cómo se hacía este trabajo familiar y vecinal."
           - "Para ir, consulta el programa del ayuntamiento o de la asociación organizadora: muchas jornadas son gratuitas y otras piden reservar plaza o comprar un ticket de degustación. Algunas demostraciones incluyen escenas que pueden resultar duras para los más sensibles o para los niños, así que conviene informarse antes de asistir."
+        mapa:
+          titulo: "Dónde ir a una fiesta de la matanza"
+          centro: [40.2, -5.8]
+          zoom: 7
+          puntos:
+            - { nombre: "Guijuelo y sierra de Béjar (Salamanca)", lat: 40.56, lon: -5.67, desc: "Tierra de embutidos y jamón ibérico, con jornadas de matanza en pueblos de la comarca en invierno." }
+            - { nombre: "Zamora (Sayago y Aliste)", lat: 41.5, lon: -6.2, desc: "Comarcas zamoranas donde se mantiene la matanza casera y se celebra en fiestas locales." }
+            - { nombre: "Montánchez (Cáceres)", lat: 39.21, lon: -6.15, desc: "Sierra extremeña de jamones y chorizos, con jornadas de matanza tradicional en invierno." }
         faq:
           - p: "¿Qué es la matanza?"
             r: "Es la elaboración tradicional de embutidos y otros productos del cerdo en invierno. Era un trabajo familiar y vecinal, y hoy se recupera en fiestas con demostraciones y degustaciones."
