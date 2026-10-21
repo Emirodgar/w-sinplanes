@@ -668,6 +668,16 @@ temporada:
           - "El vermut es mucho más que una bebida: es un ritual de fin de semana. Un vermut de grifo, una aceituna, un poco de sifón y una terraza al sol hacen un plan sencillo, barato y muy español, perfecto para antes de comer."
           - "Las mejores épocas para las terrazas son la primavera, antes del calor fuerte, y septiembre, cuando aún se está bien al aire libre. Barcelona, Madrid, Reus, Valencia o Sevilla tienen buenos bares de vermut, y muchos barrios organizan rutas y concursos con tapas y vermut a precio ajustado."
           - "Lo más sencillo es salir a mediodía, en fin de semana, y pasear de bar en bar. Reserva si vas en grupo, porque las terrazas con sol se llenan, y prueba el vermut de la casa, que cada local elabora o selecciona el suyo. Acompáñalo de encurtidos, anchoas, patatas fritas o berberechos."
+        mapa:
+          titulo: "Dónde ir de terrazas y vermut"
+          centro: [40.0, -3.0]
+          zoom: 6
+          puntos:
+            - { nombre: "Barcelona", lat: 41.3874, lon: 2.1686, desc: "Ciudad de bares de vermut y de la hora del vermut en fin de semana." }
+            - { nombre: "Madrid", lat: 40.4168, lon: -3.7038, desc: "Vermut de grifo y terrazas al sol en muchos barrios, con rutas de tapas." }
+            - { nombre: "Reus (Tarragona)", lat: 41.1548, lon: 1.1078, desc: "Cuna del vermut catalán, con bodegas y bares de tradición." }
+            - { nombre: "Valencia", lat: 39.4699, lon: -0.3763, desc: "Terrazas y bares de vermut durante todo el año gracias al clima." }
+            - { nombre: "Sevilla", lat: 37.3891, lon: -5.9845, desc: "Terrazas y bares de tapas con vermut, ideales antes del calor fuerte." }
         faq:
           - p: "¿Cuándo es mejor para ir de terrazas?"
             r: "En primavera, entre abril y junio, y en septiembre, cuando hace buen tiempo y el calor aún no aprieta."
