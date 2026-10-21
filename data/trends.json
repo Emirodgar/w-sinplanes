@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "terms": [
   {
    "term": "mónica garcía",
@@ -19,6 +19,16 @@
     "Detenido un hombre en Ciutadella (Menorca) por estafar 100.000 euros a varios inversores en criptomonedas en Alemania",
     "Detenido en Ciutadella un hombre reclamado por Alemania por una estafa con criptomonedas de 100.000 euros",
     "Atrapan en el puerto de Ciutadella a un prófugo acusado de estafar 100.000 euros con criptomonedas a invers..."
+   ]
+  },
+  {
+   "term": "el telediario de nuestras vidas",
+   "traffic": 10000,
+   "lastSeen": "2026-10-21",
+   "news": [
+    "TVE cae en la trampa de la nostalgia con 'El Telediario de nuestras vidas': \"Compró y vendió el relato franquista\"",
+    "Todas las veces que la reina Letizia apoyó a sus ex compañeros de Televisión Española: menciones, apariciones y recuerdos de su etapa de periodista",
+    "Beatriz Pérez-Aranda pone el broche de oro al 'Telediario' especial por los 70 años de TVE con su icónica frase “como un pepino”"
    ]
   },
   {
@@ -59,6 +69,26 @@
     "Setenta años contando lo trascendente: la memoria de un país y del mundo en 'El Telediario de nuestras vidas'",
     "Todas las veces que la reina Letizia apoyó a sus ex compañeros de Televisión Española: menciones, apariciones y recuerdos de su etapa de periodista",
     "La escena final de Beatriz Pérez-Aranda en el especial 70 años de TVE va a recorrer toda España: la frase que suelta es historia"
+   ]
+  },
+  {
+   "term": "masa de aire",
+   "traffic": 5000,
+   "lastSeen": "2026-10-21",
+   "news": [
+    "El chorro polar se intensificará a partir del miércoles y podría traer más lluvias y frío a España",
+    "Qué es una masa de aire polar y por qué hace tanto frío esta semana en España",
+    "¿Ha llegado el frío para quedarse? Un vaivén térmico"
+   ]
+  },
+  {
+   "term": "milei",
+   "traffic": 5000,
+   "lastSeen": "2026-10-21",
+   "news": [
+    "Última hora de la actualidad política, en directo | Milei visita España en plena precampaña de las elecciones generales",
+    "Sánchez y el PSOE dan la \"bienvenida\" a Milei con una lona en Ferraz reivindicando su orgullo por ser \"zurdos\"",
+    "Milei en España con Ayuso y sin Abascal por primera vez en siete visitas"
    ]
   },
   {
@@ -159,6 +189,26 @@
     "Spain already places 47% of its tourism outside the high season and surpasses Italy and Greece.",
     "Google cloud failure hits millions as UK courts and banks knocked offline",
     "Google Cloud says outage affecting banks and court video links caused by 'power event'"
+   ]
+  },
+  {
+   "term": "municipio",
+   "traffic": 1000,
+   "lastSeen": "2026-10-21",
+   "news": [
+    "Matadepera lamenta que ser el número uno del ranking de pueblos más ricos de Cataluña tenga un efecto llamada para los ladrones",
+    "MAPA | Estos son los municipios más ricos de Catalunya",
+    "Matadepera y Sant Cugat del Vallès, los municipios más ricos de Catalunya: ¿cuáles tienen las rentas más bajas?"
+   ]
+  },
+  {
+   "term": "impago",
+   "traffic": 1000,
+   "lastSeen": "2026-10-21",
+   "news": [
+    "La obligación de que el propietario asuma el seguro de impago presiona al alza los nuevos alquileres",
+    "La Ley de Vivienda pierde respaldo entre los españoles",
+    "El 70% de los propietarios prioriza la seguridad: ¿quién paga cada seguro tras la reforma del alquiler?"
    ]
   },
   {
@@ -269,6 +319,16 @@
     "Carlos González, 29 años, el primer actor galardonado de La Bola negra: «Siento que si no pudiera dedicarme a esto, me moriría»",
     "El New York Times hace su reseña de 'La bola negra' y destaca la actuación de Carlos González: \"Posee un magnetismo que hace que las circunstancias de la historia se sientan reales y vivas\"",
     "De Cintruénigo a los Oscar: la imparable eclosión de Carlos González en 'La bola negra'"
+   ]
+  },
+  {
+   "term": "tifo",
+   "traffic": 500,
+   "lastSeen": "2026-10-21",
+   "news": [
+    "Sources: Barcelona report PSG to UEFA for 'aggressive' tifo",
+    "\"Unacceptable overstepping\": Barcelona complain about Paris Saint-Germain after the four-goal thrashing",
+    "Barcelona to file complaint about 'aggressive and offensive' PSG tifo"
    ]
   },
   {
@@ -398,6 +458,46 @@
     "China's CATL third-quarter profit growth slowest in nearly two years as competition intensifies",
     "CATL's Hong Kong Shares Cut to Neutral by JPMorgan; Stock Plunges Over 8% Ahead of Earnings",
     "Battery giant CATL posts surprise profit slowdown as EV storm clouds gather"
+   ]
+  },
+  {
+   "term": "php",
+   "traffic": 200,
+   "lastSeen": "2026-10-21",
+   "news": [
+    "PHP2Shell: Two Unpatched Critical PHP RCE Flaws (CVSS 9.2) Trigger Emergency Security Alert",
+    "PHP warns it plans to release 2 emergency patches imminently",
+    "PHP vulnerability puts WordPress, websites at risk after leak"
+   ]
+  },
+  {
+   "term": "lluis puig",
+   "traffic": 200,
+   "lastSeen": "2026-10-21",
+   "news": [
+    "Lluís Puig cruza la frontera y regresa a Catalunya nueve años después del referéndum del 1-O",
+    "El exconseller catalán Lluis Puig ha vuelto a España tras nueve años fugado en Bélgica",
+    "El exconsejero Lluís Puig regresa a Cataluña después de nueve años"
+   ]
+  },
+  {
+   "term": "mercadillo",
+   "traffic": 200,
+   "lastSeen": "2026-10-21",
+   "news": [
+    "La Policía levanta el mercadillo ilegal de San Francisco ante las quejas vecinales",
+    "Cuatro detenidos en una macrorredada contra la venta ilegal y el trapicheo en San Francisco",
+    "Redada policial en San Francisco contra la venta ilegal en las calles"
+   ]
+  },
+  {
+   "term": "consulado",
+   "traffic": 100,
+   "lastSeen": "2026-10-21",
+   "news": [
+    "El consulado en México nacionalizó a cientos fuera de plazo alterando las fechas de solicitud",
+    "El Gobierno concedió la nacionalidad española a una exsenadora mexicana del PRI y a su familia solo por tener un bisabuelo español",
+    "Carlos Herrera: \"El consulado en México ha vuelto a conceder la nacionalidad española por la ley de nietos a un mexicano de avanzada edad que ni su padre ni su abuelo nacieron en España\""
    ]
   }
  ]
