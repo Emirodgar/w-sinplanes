@@ -157,3 +157,98 @@ vendimia:
       r: "Comfortable closed shoes, a cap, sunscreen and clothes that can get stained. It's best to go first thing in the morning, when it's cooler."
     - p: "Is it a good plan with kids?"
       r: "Generally, yes. Many wineries organise family activities, with symbolic grape stomping and alcohol-free grape juice. Ask when booking whether children are admitted."
+
+mercadillos-navidad:
+  texto:
+    - "Christmas markets fill the squares of many cities with stalls, lights and the smell of sweets. They are a perfect plan for strolling, shopping for crafts and decorations, and getting into the Christmas spirit."
+    - "Some are classics: the market in Madrid's Plaza Mayor, Barcelona's Fira de Santa Llúcia next to the cathedral, or Bilbao's Santo Tomás market, held on 21 December. Many other cities set up their own, with stalls selling crafts, sweets and nativity scenes, plus shows for children."
+    - "They usually open from late November and stay open until Christmas Eve or Three Kings' Day. The nicest time to go is on a weekday or early in the afternoon, when it is less crowded, and bring cash, because not every stall accepts cards. Wrap up warm: you spend a lot of time outdoors."
+  faq:
+    - p: "When do the Christmas markets open?"
+      r: "Most open from late November or early December and close on Christmas Eve, although some stay open until Three Kings' Day. Check the dates for each city."
+    - p: "Which are the best known?"
+      r: "The one in Madrid's Plaza Mayor, Barcelona's Fira de Santa Llúcia and Bilbao's Santo Tomás market are among the most traditional, although almost every city has its own."
+    - p: "Do you have to pay to get in?"
+      r: "No. Entry is free, and you only pay for what you buy or for specific attractions, such as ice rinks or shows."
+    - p: "What can you buy?"
+      r: "Nativity scenes and figurines, decorations, candles, crafts, Christmas sweets, turrón and toys, depending on the market."
+    - p: "When is the best time to go?"
+      r: "On weekdays and early in the afternoon, to avoid the crowds. Weekends and long weekends get very busy."
+    - p: "Is it a good plan with kids?"
+      r: "Yes, many have toy stalls, shows and visits from Santa Claus or the Three Kings. Watch out for the crowds and keep an eye on the little ones."
+
+luces-navidad:
+  texto:
+    - "Every year, Spanish cities compete to have the most spectacular Christmas lights. Streets covered in lights, huge trees, light and music shows and lots of people strolling make seeing the lights a very simple and very festive plan."
+    - "Vigo has become famous for its display, and Madrid, Málaga, Valencia and Barcelona also put on very popular light displays. The switch-on usually takes place in late November or early December, with a public event, and the lights stay on until Three Kings' Day."
+    - "The easiest way is to go on foot or by public transport, because city centres fill up with people and streets are closed to traffic, especially at weekends and on switch-on days. If you want to avoid the crowds, go on a weekday, early in the evening. Wrap up warm and wear comfortable shoes, because there is a lot of walking."
+  faq:
+    - p: "When are the Christmas lights switched on?"
+      r: "Usually in late November or early December, with a public event. Each city has its own date, which is announced weeks in advance."
+    - p: "How long do they stay on?"
+      r: "Usually until Three Kings' Day, on 6 January, although in some cities they stay on a few more days."
+    - p: "Which cities have the best lights?"
+      r: "Vigo, Madrid, Málaga, Valencia and Barcelona are usually among the most visited, although many mid-sized cities have very well-done displays."
+    - p: "When is the best time to go?"
+      r: "On weekdays and early in the evening. At weekends, on long weekends and on switch-on days it gets very crowded."
+    - p: "How do I get around?"
+      r: "On foot or by public transport. In the busiest areas streets are closed off and parking is difficult."
+    - p: "Is it a good plan with kids?"
+      r: "Yes, they love it. Watch out for the crowds and agree on a meeting point in case you get separated."
+
+cabalgata-reyes:
+  texto:
+    - "The Three Kings Parade (Cabalgata de Reyes) is one of the great family plans of Christmas: on the evening of 5 January, the Three Wise Men travel through the streets of almost every city and town in Spain with floats, music and showers of sweets, before the night they leave the presents."
+    - "The best known are those in Madrid, Barcelona, where the Kings arrive by the port, Seville, with one of the oldest in Spain, and Valencia, but every town organises its own. The floats usually set off at dusk, and the route and time are published on the town hall's website or social media a few days beforehand."
+    - "Arrive early and pick a good spot: the pavements fill up one or two hours beforehand. Bring a big bag for the sweets, warm clothes and patience, and keep an eye on the children while the sweets are raining down. If it rains, check whether it is going ahead or being cancelled."
+  faq:
+    - p: "When is the Three Kings Parade?"
+      r: "On the evening of 5 January, although the time and route change in each town."
+    - p: "Where can I watch the parade?"
+      r: "In almost every city and town. Those in Madrid, Barcelona, Seville and Valencia are among the biggest, but each town hall publishes its route."
+    - p: "Is it free?"
+      r: "Yes, watching the parade from the street is free."
+    - p: "When should I arrive to get a spot?"
+      r: "One or two hours beforehand in big cities, and a little less in small towns."
+    - p: "What should I bring?"
+      r: "Warm clothes, a bag for the sweets and patience. In crowded areas, a meeting point in case you get separated."
+    - p: "What happens if it rains?"
+      r: "It depends on the city. Some go ahead, while others are postponed or shortened. Check the town hall's website or social media."
+
+loteria-navidad:
+  texto:
+    - "The Christmas Lottery draw (Sorteo de la Lotería de Navidad), held every 22 December, is one of the most widely followed rituals of Christmas in Spain. The children of San Ildefonso sing out the numbers and prizes in their unmistakable chant, which can be heard on radio and television across the country."
+    - "For years the draw has been held at Madrid's Teatro Real and lasts several hours, starting first thing in the morning. The most famous prize is El Gordo, but there are many prizes, and people play with family, friends or colleagues, often with a shared number."
+    - "You can follow it on television or radio, or check the results on the official Loterías website. Access to the Teatro Real is limited, so most people watch it from home. If you have played, keep your ticket (décimo) safe and check the deadlines for collecting prizes."
+  faq:
+    - p: "When is the Christmas draw?"
+      r: "On 22 December, starting first thing in the morning. It lasts several hours."
+    - p: "Where is it held?"
+      r: "At the Teatro Real in Madrid. Public access is limited."
+    - p: "Who sings the numbers?"
+      r: "The children of the Colegio de San Ildefonso, who sing them along with the prizes."
+    - p: "How can I follow it?"
+      r: "On television, radio or online. You can also check the results on the official Loterías website."
+    - p: "When do I have to claim the prize?"
+      r: "Prizes have a deadline for being claimed. Check the conditions and deadlines on the official Loterías website."
+    - p: "Is it a good plan with kids?"
+      r: "Yes, many of them love hearing the numbers sung and the atmosphere of the morning."
+
+campanadas:
+  texto:
+    - "The New Year's Eve chimes (Campanadas de Nochevieja) mark the change of year in Spain with a unique tradition: eating twelve grapes, one with each chime, to welcome the new year with good luck. They are broadcast live from the clock at Madrid's Puerta del Sol and are watched in almost every home."
+    - "Many people watch them on television, at home or with friends and family, while others prefer to go to a square. At the Puerta del Sol, access usually has a limited capacity and security checks, so check the conditions and arrive early. Other cities hold their own events in their main squares."
+    - "For the grapes, a few practical tips: peel them and remove the seeds, have the twelve grapes ready in advance and start with the first chimes, not with the quarter chimes. After that, a toast, party favours and a party until the early hours, or off to rest, depending on your plan."
+  faq:
+    - p: "When are the chimes?"
+      r: "On the night of 31 December, at 00:00. The twelve chimes of the clock mark the change of year."
+    - p: "Why do people eat twelve grapes?"
+      r: "It is a tradition of eating one grape with each chime to welcome the year with good luck. It is done all over Spain."
+    - p: "Can I go to the Puerta del Sol?"
+      r: "Yes, but access usually has limited capacity and security checks. Check the conditions from Madrid City Council and arrive early."
+    - p: "Which channels broadcast them?"
+      r: "Several television channels broadcast the chimes live from the Puerta del Sol. Check the schedule."
+    - p: "How do I prepare the grapes?"
+      r: "Peel the grapes and remove the seeds, have twelve ready and start with the chimes, not with the quarter chimes that come before them."
+    - p: "Is it a good plan with kids?"
+      r: "Yes, at home or at a quiet event. With small children, the grapes can be prepared peeled, seedless or cut up to avoid choking."
