@@ -287,7 +287,33 @@ p { margin: 0 0 1em; max-width: var(--measure); }
 .podcast-cover { aspect-ratio: 1 / 1; border-radius: 0.75rem; box-shadow: 0 1px 2px rgba(0, 0, 0, 0.18), 0 14px 32px -10px rgba(0, 0, 0, 0.35); }
 .podcast-links { list-style: none; display: flex; flex-wrap: wrap; gap: 0.5rem; margin: 1rem 0 0; padding: 0; }
 .podcast-links .button { min-height: 2.25rem; padding: 0.3rem 1rem; font-size: 0.875rem; }
-.podcast .podcast-links + .more { display: inline-block; margin-top: 1rem; }
 .podcast-episode { margin: 0.75rem 0 0; font-size: 0.9375rem; font-weight: 500; }
 .podcast-episode a { color: inherit; text-decoration-color: var(--line); text-underline-offset: 0.2em; }
 .podcast-episode a:hover { text-decoration-color: currentColor; }
+.podcast-feature { display: flex; gap: clamp(1rem, 3vw, 1.5rem); align-items: flex-start; width: 100%; }
+.podcast-feature .book-cover { width: clamp(6rem, 30%, 9rem); }
+.podcast-body { min-width: 0; }
+.podcast .book-title { font-size: var(--s1); }
+.podcast .book-author { margin-bottom: 0.6rem; }
+
+/* Carreras populares: tabla de calendario (en móvil cada fila pasa a tarjeta) */
+.races-wrap { background: var(--surface); border-radius: var(--r-xl); box-shadow: var(--shadow); padding: clamp(0.5rem, 2vw, 1rem) clamp(1rem, 3vw, 1.75rem); }
+.races { width: 100%; border-collapse: collapse; font-size: 0.9375rem; }
+.races th, .races td { text-align: left; padding: 0.85rem 0.75rem 0.85rem 0; vertical-align: top; border-top: 1px solid var(--line); }
+.races thead th { border-top: 0; font-size: 0.8125rem; font-weight: 600; color: var(--ink-soft); }
+.races tbody th { font-weight: 600; letter-spacing: -0.02em; }
+.races a { color: inherit; text-decoration-color: var(--line); text-underline-offset: 0.2em; }
+.races a:hover { text-decoration-color: currentColor; }
+.race-type, .race-ccaa { display: block; font-weight: 400; font-size: 0.8125rem; color: var(--ink-soft); }
+.race[hidden] { display: none; }
+.races-note { margin-top: 1rem; font-size: 0.875rem; color: var(--ink-soft); max-width: var(--measure); }
+@media (max-width: 40rem) {
+  .races thead { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); }
+  .races, .races tbody, .race { display: block; }
+  .race { padding-block: 0.85rem; border-top: 1px solid var(--line); }
+  .race:first-child { border-top: 0; }
+  .races th, .races td { display: block; border: 0; padding: 0.1rem 0; }
+  .races td[data-label]::before { content: attr(data-label) ': '; color: var(--ink-soft); }
+  .races td .race-ccaa { display: inline; }
+  .races td .race-ccaa::before { content: ' · '; }
+}
