@@ -1,0 +1,6 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    { "name": "dist-static", "runtimeExecutable": "python", "runtimeArgs": ["-m", "http.server", "4321", "-d", "dist"], "port": 4321 }
+  ]
+}

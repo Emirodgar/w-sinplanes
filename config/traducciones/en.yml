@@ -565,3 +565,101 @@ fiesta-santiago-apostol:
       r: "Yes, well in advance, because Santiago fills up around these dates."
     - p: "Is it a good plan with children?"
       r: "Yes, there are family activities, but the fireworks and the crowds at the Obradoiro are very busy."
+calcotada:
+  texto:
+    - "The calçotada is a typical meal from Catalonia, especially from the Camp de Tarragona and the Alt Camp: calçots (young spring onions) grilled over embers, peeled by hand and dipped in romesco sauce. It is a celebration meal, with a bib, good company and a long after-dinner chat at the table."
+    - "The season starts around December and runs until April, with its peak between January and March. Valls, in the Alt Camp, is the capital of the calçot and holds a big festival at the end of January, with a contest and a public meal. Besides Catalonia, there are also calçotadas in other parts of Spain."
+    - "It is usually eaten with grilled meat, butifarra sausage, beans and wine or cava. Book in advance, especially at weekends, because everything fills up in season. You eat it with your hands: you hold the calçot by the base, pull off the outer layer, dip it in romesco and eat the tender part at the top. It gets messy, so the bib is no exaggeration."
+  mapa:
+    titulo: "Where to go for a calçotada"
+    centro: [41.22, 1.25]
+    zoom: 10
+    puntos:
+      - { nombre: "Valls (Alt Camp)", lat: 41.2872, lon: 1.2507, desc: "Capital of the calçot: at the end of January it holds its big festival, with a contest and a public meal." }
+      - { nombre: "Camp de Tarragona", lat: 41.12, lon: 1.2, desc: "The area where the calçot originated, with farmhouses and restaurants that serve calçotadas in season." }
+      - { nombre: "Alt Camp", lat: 41.36, lon: 1.32, desc: "Inland calçot country, with calçotadas in villages and farmhouses; booking recommended." }
+  faq:
+    - p: "What is a calçot?"
+      r: "It is a variety of young spring onion typical of Catalonia. It is grilled over embers until the outer layer turns black, wrapped up so it steams in its own heat, and eaten with romesco sauce."
+    - p: "When is calçot season?"
+      r: "Roughly from December to April, with the peak between January and March."
+    - p: "Where can I go for a calçotada?"
+      r: "The Camp de Tarragona and the Alt Camp, with Valls as the capital, are the main areas, but there are restaurants and farmhouses serving calçotadas all over Catalonia."
+    - p: "Do I need to book?"
+      r: "Yes, in advance, especially at weekends and in January and February. Many places only serve a calçotada by prior order."
+    - p: "How do you eat calçots?"
+      r: "With your hands: hold it by the base, pull upwards to remove the burnt layer, dip it in romesco and eat the tender part. You usually wear a bib."
+    - p: "What else is on the menu?"
+      r: "Usually grilled meat (lamb, butifarra), beans, bread with tomato, dessert and wine or cava. It is a set menu charged per person."
+carnaval-cadiz:
+  texto:
+    - "The Cádiz Carnival is one of the most famous and distinctive in Spain. Its soul is satire: chirigotas, comparsas, choirs and cuartetos that sing coplas full of humour and criticism about current affairs, filling the streets and theatres for weeks."
+    - "The Concurso de Agrupaciones at the Gran Teatro Falla, in February, is the great showcase for the coplas. On the streets, the atmosphere of costumes, music and copla is at its best over Carnival weekend, with parades, a cavalcade and street groups singing in squares and on corners."
+    - "Tickets for the Teatro Falla sell out very fast. The best of the Cádiz Carnival is on the street, no ticket needed: put on a costume, follow the groups and let the coplas take you by surprise. Book accommodation in advance and be ready for big crowds."
+  faq:
+    - p: "When is the Cádiz Carnival?"
+      r: "It is held before Lent, between February and March depending on the year. The date depends on Easter."
+    - p: "What are chirigotas?"
+      r: "They are groups that sing satirical, humorous coplas about current affairs, in group costumes. It is the most popular genre of the Cádiz carnival."
+    - p: "Do I need a ticket?"
+      r: "For the Gran Teatro Falla contest, yes, and they sell out quickly. The street Carnival is free."
+    - p: "Where can I see the street atmosphere?"
+      r: "In the historic centre of Cádiz: streets and squares fill with groups and people in costume, especially at the weekend."
+    - p: "Do I have to wear a costume?"
+      r: "It is not compulsory, but lots of people do and the atmosphere is better if you join in. The most typical costumes are funny and full of criticism."
+    - p: "Is it a good plan with children?"
+      r: "Yes, there are family activities and a cavalcade. The nights are more crowded."
+sant-jordi:
+  texto:
+    - "On 23 April, World Book Day and Sant Jordi (Saint George's Day) are celebrated, and the streets fill with book and rose stalls. In Catalonia the tradition is to give a rose and a book, and it is one of the best-loved festivals in Barcelona, with crowds out on the streets."
+    - "In Barcelona, book and rose stalls take over Las Ramblas, the Paseo de Gracia and almost every neighbourhood, and many writers sign copies. International Book Day is also celebrated across Spain, with signings, readings and discounts in bookshops, and in Aragon it is Aragon Day."
+    - "If you want to get a book signed, arrive early: the queues are long. Go in the morning or in the late afternoon, when it is less crowded, and check the list of authors and schedules at bookshops and publishers. And remember: you don't need to be from Catalonia to give a rose or a book."
+  faq:
+    - p: "When is Sant Jordi?"
+      r: "Every 23 April. It coincides with World Book Day."
+    - p: "What do people give as gifts?"
+      r: "Traditionally, men give a rose and women give a book. Today both are exchanged between all kinds of people."
+    - p: "Where should I go in Barcelona?"
+      r: "Las Ramblas, the Paseo de Gracia and the streets of the centre fill with stalls. There are stalls in almost every neighbourhood."
+    - p: "Are there author signings?"
+      r: "Yes, many authors sign books at stalls, bookshops and fairs. Arrive early to avoid queues."
+    - p: "Is it celebrated outside Catalonia?"
+      r: "Yes, Book Day is celebrated across Spain and around the world, with activities in bookshops and libraries."
+    - p: "Is it a good plan with children?"
+      r: "Yes, there are storytelling sessions and children's activities. Watch out for the crowds in central Barcelona."
+pilar:
+  texto:
+    - "The Fiestas del Pilar are Zaragoza's main festivities, in honour of the Virgen del Pilar, and are held around 12 October, which is also a national holiday. For a week, the city fills with concerts, parades, community events and a lively street atmosphere."
+    - "The central moment is the Ofrenda de Flores (Flower Offering) on 12 October, when thousands of people, many in traditional Aragonese dress, parade through the centre to the Plaza del Pilar to lay their flowers before the Virgin and form a great floral mantle. The next day, 13 October, the Ofrenda de Frutos (Fruit Offering) takes place."
+    - "Besides the offering, there are giants and big-heads (gigantes y cabezudos), concerts on different stages, fireworks displays and cultural and sporting events. Check the official programme from Zaragoza City Council. Book accommodation in advance, because it is a very popular festival and the centre fills up. And for the offering, arrive early if you want to see the parade."
+  faq:
+    - p: "When are the Fiestas del Pilar?"
+      r: "Around 12 October. They last roughly a week, with the 12th as the main day."
+    - p: "What is the Ofrenda de Flores?"
+      r: "It is the parade in which thousands of people, many in traditional dress, bring flowers to the Virgen del Pilar to form a great floral mantle. It takes place on 12 October."
+    - p: "Do I need to book?"
+      r: "Not to see the offering. But do book accommodation, because Zaragoza fills up during the festivities."
+    - p: "What else can I do?"
+      r: "Concerts, giants and big-heads, fireworks shows, food fairs and children's activities. The city council publishes the official programme."
+    - p: "Is it free?"
+      r: "Most events are free, but some concerts and shows require a ticket."
+    - p: "Is it a good plan with children?"
+      r: "Yes, there are lots of children's activities and they usually love the parade of giants and big-heads. Watch out for the crowds on the 12th."
+semana-santa-malaga:
+  texto:
+    - "Málaga's Holy Week stands out for its enormous thrones, carried on the shoulders of hundreds of bearers through the city centre. A Festival of International Tourist Interest, each procession is a spectacle of music, flowers, incense and popular emotion."
+    - "The brotherhoods (cofradías) set out from their churches and neighbourhoods and head for the Carrera Oficial, along the Alameda and calle Larios, where there is a grandstand and seating. One much-anticipated event is Holy Thursday, with the Legion accompanying the Cristo de la Buena Muerte, although each day has its own processions and each neighbourhood its own atmosphere."
+    - "Check the official programme from the Agrupación de Cofradías for times and routes. The streets in the centre fill up and the processions are slow, so arrive in good time and pick a spot. Book accommodation in advance and, if you can, also go to the neighbourhood processions, which are quieter."
+  faq:
+    - p: "When is Málaga's Holy Week?"
+      r: "From Palm Sunday to Easter Sunday, between March and April depending on the year. There are also events beforehand, from Viernes de Dolores (Friday of Sorrows)."
+    - p: "What makes it different?"
+      r: "The thrones are huge and carried on shoulders, and the atmosphere blends faith, music and popular tradition. The Legion and the marching bands play an important role."
+    - p: "Where can I watch the processions?"
+      r: "On the Carrera Oficial (Alameda, calle Larios and plaza de la Constitución), where there is more atmosphere and more people. The neighbourhood processions are a quieter alternative."
+    - p: "Do I have to pay?"
+      r: "Watching the processions from the street is free. There are paid seats and grandstands on the Carrera Oficial."
+    - p: "How do I check the schedules?"
+      r: "The Agrupación de Cofradías publishes the official programme with the routes and the times of each brotherhood."
+    - p: "Is it a good plan with children?"
+      r: "Yes, with care: there are lots of people and long waits. Choose afternoon processions and a spot with space."

@@ -546,3 +546,101 @@ fiesta-santiago-apostol:
       r: "Sim, com muita antecedência, porque Santiago se enche nessas datas."
     - p: "É um bom programa com crianças?"
       r: "Sim, há atividades familiares, mas o fogo de artifício e as aglomerações do Obradoiro são muito concorridos."
+calcotada:
+  texto:
+    - "A calçotada é uma refeição típica da Catalunha, sobretudo do Camp de Tarragona e do Alt Camp: calçots (cebolinhos tenros) assados na brasa, descascados à mão e molhados em molho romesco. É uma refeição de celebração, com babete, boa companhia e uma longa conversa à mesa."
+    - "A época começa por volta de dezembro e vai até abril, com o ponto alto entre janeiro e março. Valls, no Alt Camp, é a capital do calçot e organiza no final de janeiro uma grande festa, com concurso e refeição popular. Além de na Catalunha, também há calçotadas noutras zonas de Espanha."
+    - "Costuma comer-se com carne grelhada, butifarra, feijão e vinho ou cava. Reserva com antecedência, sobretudo ao fim de semana, porque em época alta fica tudo cheio. Come-se com as mãos: pega-se no calçot pela base, puxa-se a folha exterior, molha-se no romesco e come-se a parte tenra de cima. Suja, por isso o babete não é exagero."
+  mapa:
+    titulo: "Onde ir a uma calçotada"
+    centro: [41.22, 1.25]
+    zoom: 10
+    puntos:
+      - { nombre: "Valls (Alt Camp)", lat: 41.2872, lon: 1.2507, desc: "Capital do calçot: no final de janeiro celebra a sua grande festa, com concurso e refeição popular." }
+      - { nombre: "Camp de Tarragona", lat: 41.12, lon: 1.2, desc: "Zona de origem do calçot, com casas rurais e restaurantes que preparam calçotadas na época." }
+      - { nombre: "Alt Camp", lat: 41.36, lon: 1.32, desc: "Comarca do interior do calçot, com calçotadas em aldeias e casas rurais; melhor com reserva." }
+  faq:
+    - p: "O que é um calçot?"
+      r: "É uma variedade de cebolinho tenro típica da Catalunha. Assa-se na brasa até a camada exterior ficar preta, embrulha-se para cozer no seu próprio vapor e come-se com molho romesco."
+    - p: "Quando é a época dos calçots?"
+      r: "De dezembro a abril, aproximadamente, com o auge entre janeiro e março."
+    - p: "Onde ir a uma calçotada?"
+      r: "O Camp de Tarragona e o Alt Camp, com Valls como capital, são as zonas de referência, mas há restaurantes e casas rurais com calçotada em toda a Catalunha."
+    - p: "É preciso reservar?"
+      r: "Sim, com antecedência, sobretudo ao fim de semana e em janeiro e fevereiro. Muitos sítios só servem calçotada por encomenda."
+    - p: "Como se comem os calçots?"
+      r: "Com as mãos: pega-se pela base, puxa-se para cima para tirar a camada queimada, molha-se no romesco e come-se pela parte tenra. Costuma usar-se babete."
+    - p: "O que mais inclui o menu?"
+      r: "Normalmente carne grelhada (borrego, butifarra), feijão, pão com tomate, sobremesa e vinho ou cava. Cobra-se um menu fechado por pessoa."
+carnaval-cadiz:
+  texto:
+    - "O Carnaval de Cádiz é um dos mais famosos e diferentes de Espanha. A sua alma é a sátira: chirigotas, comparsas, coros e quartetos que cantam coplas com humor e crítica sobre a atualidade, e que enchem as ruas e os teatros durante semanas."
+    - "O Concurso de Agrupaciones do Gran Teatro Falla, em fevereiro, é a grande montra das coplas. Na rua, o ambiente de disfarces, música e copla vive-se sobretudo no fim de semana de Carnaval, com desfiles, cortejo e agrupamentos de rua que cantam em praças e esquinas."
+    - "Os bilhetes do Teatro Falla esgotam muito depressa. O melhor do Carnaval de Cádiz está na rua, sem necessidade de bilhete: disfarça-te, segue as agrupaciones e deixa que as coplas te surpreendam. Reserva alojamento com antecedência e vai preparado para muita gente."
+  faq:
+    - p: "Quando é o Carnaval de Cádiz?"
+      r: "Celebra-se antes da Quaresma, entre fevereiro e março, consoante o ano. A data depende da Páscoa."
+    - p: "O que são as chirigotas?"
+      r: "São agrupamentos que cantam coplas satíricas e humorísticas sobre a atualidade, com disfarces coletivos. É o género mais popular do carnaval gaditano."
+    - p: "É preciso bilhete?"
+      r: "Para o Concurso do Gran Teatro Falla sim, e esgotam depressa. O Carnaval de rua é gratuito."
+    - p: "Onde ver o ambiente de rua?"
+      r: "No centro histórico de Cádiz: ruas e praças enchem-se de agrupamentos e de gente disfarçada, sobretudo ao fim de semana."
+    - p: "É preciso ir disfarçado?"
+      r: "Não é obrigatório, mas muitíssima gente fá-lo e o ambiente é melhor se te juntares. O mais típico são os disfarces com humor e crítica."
+    - p: "É um bom programa com crianças?"
+      r: "Sim, há atividades e cortejo para famílias. As noites são mais sobrelotadas."
+sant-jordi:
+  texto:
+    - "A 23 de abril celebram-se o Dia do Livro e Sant Jordi, e as ruas enchem-se de bancas de livros e de rosas. Na Catalunha, a tradição é oferecer uma rosa e um livro, e é uma das festas mais queridas de Barcelona, com muita gente na rua."
+    - "Em Barcelona, as bancas de livros e rosas ocupam as Ramblas, o Paseo de Gracia e quase todos os bairros, e muitos escritores autografam exemplares. O Dia Internacional do Livro celebra-se também em toda a Espanha, com sessões de autógrafos, leituras e descontos nas livrarias, e em Aragão é o Dia de Aragão."
+    - "Se queres um autógrafo, chega cedo: as filas são longas. Vai de manhã ou ao fim da tarde, quando há menos confusão, e consulta a lista de autores e os horários nas livrarias e editoras. E lembra-te: não é preciso ser da Catalunha para oferecer uma rosa ou um livro."
+  faq:
+    - p: "Quando é Sant Jordi?"
+      r: "Todos os anos a 23 de abril. Coincide com o Dia do Livro."
+    - p: "O que se oferece?"
+      r: "Tradicionalmente, o homem oferece uma rosa e a mulher um livro. Hoje oferecem-se ambos entre todo o tipo de pessoas."
+    - p: "Onde ir em Barcelona?"
+      r: "As Ramblas, o Paseo de Gracia e as ruas do centro enchem-se de bancas. Há bancas em quase todos os bairros."
+    - p: "Há sessões de autógrafos?"
+      r: "Sim, muitos autores autografam livros em bancas, livrarias e feiras. Chega cedo para evitar filas."
+    - p: "Celebra-se fora da Catalunha?"
+      r: "Sim, o Dia do Livro celebra-se em toda a Espanha e no mundo, com atividades em livrarias e bibliotecas."
+    - p: "É um bom programa com crianças?"
+      r: "Sim, há contadores de histórias e atividades infantis. Cuidado com as aglomerações no centro de Barcelona."
+pilar:
+  texto:
+    - "As Fiestas del Pilar são as festas maiores de Saragoça, em honra da Virgen del Pilar, e celebram-se por volta de 12 de outubro, que é também feriado nacional. Durante uma semana, a cidade enche-se de concertos, desfiles, atos populares e muito ambiente na rua."
+    - "O momento central é a Ofrenda de Flores, a 12 de outubro, quando milhares de pessoas, muitas com trajes regionais aragoneses, desfilam pelo centro até à plaza del Pilar para depositar as suas flores diante da Virgem e formar um grande manto floral. No dia seguinte, 13 de outubro, celebra-se a Ofrenda de Frutos."
+    - "Além da ofrenda, há gigantes e cabeçudos, concertos em vários palcos, espetáculos de pirotecnia e atos culturais e desportivos. Consulta o programa oficial da Câmara Municipal de Saragoça. Reserva alojamento com antecedência, porque é uma festa muito popular e o centro fica cheio. E, para a ofrenda, chega cedo se quiseres ver o desfile."
+  faq:
+    - p: "Quando são as Fiestas del Pilar?"
+      r: "Por volta de 12 de outubro. Duram aproximadamente uma semana, com o dia 12 como jornada principal."
+    - p: "O que é a Ofrenda de Flores?"
+      r: "É o desfile em que milhares de pessoas, muitas com trajes regionais, levam flores à Virgen del Pilar para formar um grande manto floral. Celebra-se a 12 de outubro."
+    - p: "É preciso reservar?"
+      r: "Para ver a ofrenda não. Para o alojamento sim, porque Saragoça fica cheia durante as festas."
+    - p: "O que mais se pode fazer?"
+      r: "Concertos, gigantes e cabeçudos, espetáculos de fogo de artifício, feiras gastronómicas e atividades infantis. O programa oficial é publicado pela câmara municipal."
+    - p: "É gratuito?"
+      r: "A maioria dos atos é gratuita, mas alguns concertos e espetáculos têm bilhete."
+    - p: "É um bom programa com crianças?"
+      r: "Sim, há muitas atividades infantis e o desfile de gigantes e cabeçudos costuma encantá-las. Cuidado com as aglomerações no dia 12."
+semana-santa-malaga:
+  texto:
+    - "A Semana Santa de Málaga distingue-se pelos seus tronos de grande tamanho, que desfilam aos ombros de centenas de carregadores pelo centro da cidade. Festa de Interesse Turístico Internacional, cada procissão é um espetáculo de música, flores, incenso e emoção popular."
+    - "As cofradías saem dos seus templos e bairros e dirigem-se à Carrera Oficial, na Alameda e na calle Larios, onde há uma tribuna e cadeiras. Um encontro muito aguardado é o de Quinta-feira Santa, com a Legião a acompanhar o Cristo de la Buena Muerte, embora cada dia tenha as suas próprias procissões e cada bairro o seu ambiente."
+    - "Consulta o programa oficial da Agrupación de Cofradías com os horários e os itinerários. As ruas do centro enchem-se e os desfiles são lentos, por isso chega com tempo e escolhe um sítio. Reserva alojamento com antecedência e, se puderes, vai também às procissões dos bairros, mais tranquilas."
+  faq:
+    - p: "Quando é a Semana Santa de Málaga?"
+      r: "Do Domingo de Ramos ao Domingo de Páscoa, entre março e abril consoante o ano. Há também atos prévios desde a Sexta-feira de Dores."
+    - p: "O que a torna diferente?"
+      r: "Os tronos são grandes e levam-se aos ombros, e o ambiente mistura fé, música e tradição popular. A Legião e as bandas de música têm um papel importante."
+    - p: "Onde ver as procissões?"
+      r: "Na Carrera Oficial (Alameda, calle Larios e plaza de la Constitución), com mais ambiente e mais gente. As procissões dos bairros são uma alternativa mais tranquila."
+    - p: "É preciso pagar?"
+      r: "Ver as procissões da rua é gratuito. Há cadeiras e tribunas pagas na Carrera Oficial."
+    - p: "Como consulto os horários?"
+      r: "A Agrupación de Cofradías publica o programa oficial com os itinerários e os horários de cada cofradía."
+    - p: "É um bom programa com crianças?"
+      r: "Sim, com cuidado: há muita gente e esperas longas. Escolhe procissões de tarde e um sítio com espaço."

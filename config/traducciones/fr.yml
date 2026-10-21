@@ -541,3 +541,101 @@ fiesta-santiago-apostol:
       r: "Oui, très longtemps à l'avance, car Saint-Jacques est pleine à ces dates."
     - p: "Est-ce une bonne idée avec des enfants ?"
       r: "Oui, il y a des activités familiales, mais les feux d'artifice et les foules de l'Obradoiro sont très fréquentés."
+calcotada:
+  texto:
+    - "La calçotada est un repas typique de Catalogne, surtout du Camp de Tarragona et de l'Alt Camp : des calçots (oignons tendres) grillés à la braise, épluchés à la main et trempés dans la sauce romesco. C'est un repas de fête, avec bavoir, bonne compagnie et longue digestion à table."
+    - "La saison commence vers décembre et dure jusqu'en avril, avec son point culminant entre janvier et mars. Valls, dans l'Alt Camp, est la capitale du calçot et organise fin janvier une grande fête, avec concours et repas populaire. En dehors de la Catalogne, il y a aussi des calçotadas dans d'autres régions d'Espagne."
+    - "On les mange généralement avec de la viande grillée, de la butifarra, des haricots blancs et du vin ou du cava. Réserve à l'avance, surtout le week-end, car en pleine saison tout se remplit. On mange avec les mains : on attrape le calçot par la base, on tire sur la feuille extérieure, on le trempe dans le romesco et on mange la partie tendre du haut. Ça tache, donc le bavoir n'est pas exagéré."
+  mapa:
+    titulo: "Où aller à une calçotada"
+    centro: [41.22, 1.25]
+    zoom: 10
+    puntos:
+      - { nombre: "Valls (Alt Camp)", lat: 41.2872, lon: 1.2507, desc: "Capitale du calçot : fin janvier, elle célèbre sa grande fête, avec concours et repas populaire." }
+      - { nombre: "Camp de Tarragona", lat: 41.12, lon: 1.2, desc: "Zone d'origine du calçot, avec des masías et des restaurants qui préparent des calçotadas en saison." }
+      - { nombre: "Alt Camp", lat: 41.36, lon: 1.32, desc: "Comarque intérieure du calçot, avec des calçotadas dans les villages et les masías ; mieux vaut réserver." }
+  faq:
+    - p: "Qu'est-ce qu'un calçot ?"
+      r: "C'est une variété d'oignon tendre typique de Catalogne. On le grille à la braise jusqu'à ce que la couche extérieure devienne noire, on l'enveloppe pour qu'il cuise dans sa propre vapeur et on le mange avec de la sauce romesco."
+    - p: "Quand est la saison des calçots ?"
+      r: "De décembre à avril environ, avec un pic entre janvier et mars."
+    - p: "Où aller à une calçotada ?"
+      r: "Le Camp de Tarragona et l'Alt Camp, avec Valls pour capitale, sont les zones de référence, mais il y a des restaurants et des masías qui proposent des calçotadas dans toute la Catalogne."
+    - p: "Faut-il réserver ?"
+      r: "Oui, à l'avance, surtout le week-end et en janvier et février. Beaucoup d'endroits ne servent la calçotada que sur commande."
+    - p: "Comment mange-t-on les calçots ?"
+      r: "Avec les mains : on les attrape par la base, on tire vers le haut pour retirer la couche brûlée, on les trempe dans le romesco et on mange la partie tendre. On porte généralement un bavoir."
+    - p: "Que comprend aussi le menu ?"
+      r: "Normalement de la viande grillée (agneau, butifarra), des haricots blancs, du pain à la tomate, un dessert et du vin ou du cava. On paie un menu fixe par personne."
+carnaval-cadiz:
+  texto:
+    - "Le Carnaval de Cadix est l'un des plus célèbres et des plus différents d'Espagne. Son âme, c'est la satire : chirigotas, comparsas, chœurs et quatuors qui chantent des coplas pleines d'humour et de critique sur l'actualité, et qui remplissent les rues et les théâtres pendant des semaines."
+    - "Le Concurso de Agrupaciones du Gran Teatro Falla, en février, est la grande vitrine des coplas. Dans la rue, l'ambiance de déguisements, de musique et de copla se vit surtout le week-end du Carnaval, avec des défilés, une cabalgata et des groupes de rue qui chantent sur les places et aux coins des rues."
+    - "Les billets du Teatro Falla s'épuisent très vite. Le meilleur du Carnaval de Cadix se trouve dans la rue, sans besoin de billet : déguise-toi, suis les groupes et laisse les coplas te surprendre. Réserve ton hébergement à l'avance et prépare-toi à beaucoup de monde."
+  faq:
+    - p: "Quand a lieu le Carnaval de Cadix ?"
+      r: "Il se célèbre avant le Carême, entre février et mars selon l'année. La date dépend de Pâques."
+    - p: "Que sont les chirigotas ?"
+      r: "Ce sont des groupes qui chantent des coplas satiriques et humoristiques sur l'actualité, avec des déguisements collectifs. C'est le genre le plus populaire du carnaval de Cadix."
+    - p: "Faut-il un billet ?"
+      r: "Pour le Concurso du Gran Teatro Falla, oui, et ils s'épuisent vite. Le Carnaval de rue est gratuit."
+    - p: "Où voir l'ambiance de rue ?"
+      r: "Dans le centre historique de Cadix : les rues et les places se remplissent de groupes et de gens déguisés, surtout le week-end."
+    - p: "Faut-il se déguiser ?"
+      r: "Ce n'est pas obligatoire, mais énormément de gens le font et l'ambiance est meilleure si tu t'y joins. Le plus typique, ce sont les déguisements pleins d'humour et de critique."
+    - p: "Est-ce une bonne idée avec des enfants ?"
+      r: "Oui, il y a des activités et une cabalgata en famille. Les soirs sont plus bondés."
+sant-jordi:
+  texto:
+    - "Le 23 avril, on célèbre la Journée du livre et la Sant Jordi, et les rues se remplissent de stands de livres et de roses. En Catalogne, la tradition est d'offrir une rose et un livre, et c'est l'une des fêtes les plus aimées de Barcelone, avec beaucoup de monde dans la rue."
+    - "À Barcelone, les stands de livres et de roses occupent les Ramblas, le Paseo de Gracia et presque tous les quartiers, et de nombreux écrivains dédicacent leurs ouvrages. La Journée internationale du livre est aussi célébrée dans toute l'Espagne, avec des dédicaces, des lectures et des réductions dans les librairies, et en Aragon, c'est le Día de Aragón."
+    - "Si tu veux te faire dédicacer un livre, arrive tôt : les files d'attente sont longues. Va-y le matin ou en fin d'après-midi, quand il y a moins de monde, et consulte la liste des auteurs et les horaires dans les librairies et chez les éditeurs. Et n'oublie pas : il n'est pas nécessaire d'être catalan pour offrir une rose ou un livre."
+  faq:
+    - p: "Quand a lieu la Sant Jordi ?"
+      r: "Chaque 23 avril. Elle coïncide avec la Journée du livre."
+    - p: "Que s'offre-t-on ?"
+      r: "Traditionnellement, l'homme offre une rose et la femme un livre. Aujourd'hui, on offre les deux entre toutes sortes de personnes."
+    - p: "Où aller à Barcelone ?"
+      r: "Les Ramblas, le Paseo de Gracia et les rues du centre se remplissent de stands. Il y en a dans presque tous les quartiers."
+    - p: "Y a-t-il des dédicaces d'auteurs ?"
+      r: "Oui, de nombreux auteurs dédicacent des livres sur les stands, dans les librairies et lors des salons. Arrive tôt pour éviter les files."
+    - p: "Est-ce célébré en dehors de la Catalogne ?"
+      r: "Oui, la Journée du livre est célébrée dans toute l'Espagne et dans le monde, avec des activités dans les librairies et les bibliothèques."
+    - p: "Est-ce une bonne idée avec des enfants ?"
+      r: "Oui, il y a des heures du conte et des activités pour enfants. Attention à la foule dans le centre de Barcelone."
+pilar:
+  texto:
+    - "Les Fiestas del Pilar sont les fêtes patronales de Saragosse, en l'honneur de la Vierge du Pilar, et se célèbrent autour du 12 octobre, qui est aussi jour férié national. Pendant une semaine, la ville se remplit de concerts, de défilés, d'événements populaires et de beaucoup d'ambiance dans la rue."
+    - "Le moment central est l'Ofrenda de Flores, le 12 octobre, quand des milliers de personnes, beaucoup en costume régional aragonais, défilent dans le centre jusqu'à la place du Pilar pour déposer leurs fleurs devant la Vierge et former un grand manteau floral. Le lendemain, le 13 octobre, a lieu l'Ofrenda de Frutos."
+    - "Outre l'offrande, il y a des géants et des grosses têtes, des concerts sur différentes scènes, des spectacles pyrotechniques et des activités culturelles et sportives. Consulte le programme officiel de la mairie de Saragosse. Réserve ton hébergement à l'avance, car c'est une fête très populaire et le centre se remplit. Et pour l'offrande, arrive tôt si tu veux voir le défilé."
+  faq:
+    - p: "Quand ont lieu les Fiestas del Pilar ?"
+      r: "Autour du 12 octobre. Elles durent environ une semaine, avec le 12 comme journée principale."
+    - p: "Qu'est-ce que l'Ofrenda de Flores ?"
+      r: "C'est le défilé où des milliers de personnes, beaucoup en costume régional, apportent des fleurs à la Vierge du Pilar pour former un grand manteau floral. Elle a lieu le 12 octobre."
+    - p: "Faut-il réserver ?"
+      r: "Pas pour voir l'offrande. Mais oui pour l'hébergement, car Saragosse se remplit pendant les fêtes."
+    - p: "Que peut-on faire d'autre ?"
+      r: "Des concerts, des géants et des grosses têtes, des feux d'artifice, des foires gastronomiques et des activités pour enfants. Le programme officiel est publié par la mairie."
+    - p: "Est-ce gratuit ?"
+      r: "La plupart des événements sont gratuits, mais certains concerts et spectacles sont payants."
+    - p: "Est-ce une bonne idée avec des enfants ?"
+      r: "Oui, il y a beaucoup d'activités pour enfants et le défilé des géants et des grosses têtes leur plaît souvent. Attention à la foule le 12."
+semana-santa-malaga:
+  texto:
+    - "La Semaine sainte de Málaga se distingue par ses tronos de grande taille, portés à bras par des centaines de porteurs à travers le centre de la ville. Déclarée Fête d'intérêt touristique international, chaque procession est un spectacle de musique, de fleurs, d'encens et d'émotion populaire."
+    - "Les confréries sortent de leurs églises et de leurs quartiers et se dirigent vers la Carrera Oficial, sur l'Alameda et la calle Larios, où se trouvent une tribune et des chaises. Un rendez-vous très attendu est celui du Jeudi saint, avec la Légion qui accompagne le Christ de la Bonne Mort, même si chaque jour a ses propres processions et chaque quartier son ambiance."
+    - "Consulte le programme officiel de l'Agrupación de Cofradías avec les horaires et les itinéraires. Les rues du centre se remplissent et les défilés sont lents, alors arrive en avance et choisis un emplacement. Réserve ton hébergement à l'avance et, si tu peux, va aussi voir les processions des quartiers, plus tranquilles."
+  faq:
+    - p: "Quand a lieu la Semaine sainte de Málaga ?"
+      r: "Du dimanche des Rameaux au dimanche de Pâques, entre mars et avril selon l'année. Il y a aussi des événements préliminaires dès le Vendredi des Douleurs."
+    - p: "Qu'est-ce qui la rend différente ?"
+      r: "Les tronos sont grands et portés à bras, et l'ambiance mêle foi, musique et tradition populaire. La Légion et les fanfares y jouent un rôle important."
+    - p: "Où voir les processions ?"
+      r: "Sur la Carrera Oficial (Alameda, calle Larios et plaza de la Constitución), avec plus d'ambiance et plus de monde. Les processions des quartiers sont une alternative plus tranquille."
+    - p: "Faut-il payer ?"
+      r: "Voir les processions depuis la rue est gratuit. Il y a des chaises et des tribunes payantes sur la Carrera Oficial."
+    - p: "Comment consulter les horaires ?"
+      r: "L'Agrupación de Cofradías publie le programme officiel avec les itinéraires et les horaires de chaque confrérie."
+    - p: "Est-ce une bonne idée avec des enfants ?"
+      r: "Oui, avec précaution : il y a beaucoup de monde et de longues attentes. Choisis des processions de l'après-midi et un endroit avec de l'espace."
