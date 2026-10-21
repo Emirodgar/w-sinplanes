@@ -9,9 +9,9 @@ import { readLugares } from './lib/seasonal.mjs';
 
 const LANGS = ['es', 'en', 'fr', 'de', 'it', 'pt'];
 const SEG = {
-  es: { plan: 'plan', topics: 'temas', places: 'lugares', calendar: 'calendario', museums: 'museos', routes: 'rutas', parks: 'parques', books: 'libros', series: 'series' }, en: { plan: 'plan', topics: 'topics', places: 'places', calendar: 'calendar', museums: 'museums', routes: 'routes', parks: 'parks', books: 'books', series: 'series' },
-  fr: { plan: 'plan', topics: 'themes', places: 'lieux', calendar: 'calendrier', museums: 'musees', routes: 'itineraires', parks: 'parcs', books: 'livres', series: 'series' }, de: { plan: 'plan', topics: 'themen', places: 'orte', calendar: 'kalender', museums: 'museen', routes: 'routen', parks: 'naturparks', books: 'buecher', series: 'serien' },
-  it: { plan: 'piano', topics: 'temi', places: 'luoghi', calendar: 'calendario', museums: 'musei', routes: 'itinerari', parks: 'parchi', books: 'libri', series: 'serie' }, pt: { plan: 'plano', topics: 'temas', places: 'locais', calendar: 'calendario', museums: 'museus', routes: 'rotas', parks: 'parques', books: 'livros', series: 'series' },
+  es: { plan: 'plan', topics: 'temas', places: 'lugares', calendar: 'calendario', museums: 'museos', routes: 'rutas', parks: 'parques', books: 'libros', series: 'series', podcasts: 'podcasts' }, en: { plan: 'plan', topics: 'topics', places: 'places', calendar: 'calendar', museums: 'museums', routes: 'routes', parks: 'parks', books: 'books', series: 'series', podcasts: 'podcasts' },
+  fr: { plan: 'plan', topics: 'themes', places: 'lieux', calendar: 'calendrier', museums: 'musees', routes: 'itineraires', parks: 'parcs', books: 'livres', series: 'series', podcasts: 'podcasts' }, de: { plan: 'plan', topics: 'themen', places: 'orte', calendar: 'kalender', museums: 'museen', routes: 'routen', parks: 'naturparks', books: 'buecher', series: 'serien', podcasts: 'podcasts' },
+  it: { plan: 'piano', topics: 'temi', places: 'luoghi', calendar: 'calendario', museums: 'musei', routes: 'itinerari', parks: 'parchi', books: 'libri', series: 'serie', podcasts: 'podcast' }, pt: { plan: 'plano', topics: 'temas', places: 'locais', calendar: 'calendario', museums: 'museus', routes: 'rotas', parks: 'parques', books: 'livros', series: 'series', podcasts: 'podcasts' },
 };
 const MONTHS = {
   es: ['enero', 'febrero', 'marzo', 'abril', 'mayo', 'junio', 'julio', 'agosto', 'septiembre', 'octubre', 'noviembre', 'diciembre'],
@@ -31,7 +31,7 @@ const expected = [];
 for (const l of LANGS) {
   const pre = l === 'es' ? '' : `${l}/`;
   const s = SEG[l];
-  expected.push(`${pre}`, `${pre}${s.topics}`, `${pre}${s.places}`, `${pre}${s.calendar}`, `${pre}${s.museums}`, `${pre}${s.routes}`, `${pre}${s.parks}`, `${pre}${s.books}`, `${pre}${s.series}`);
+  expected.push(`${pre}`, `${pre}${s.topics}`, `${pre}${s.places}`, `${pre}${s.calendar}`, `${pre}${s.museums}`, `${pre}${s.routes}`, `${pre}${s.parks}`, `${pre}${s.books}`, `${pre}${s.series}`, `${pre}${s.podcasts}`);
   topics.filter((t) => !t.page).forEach((t) => expected.push(`${pre}${s.topics}/${l === 'es' ? t.id : t.slugs[l]}`));
   geo.forEach((c) => { expected.push(`${pre}${s.places}/${c.slug}`); c.provincias.forEach((p) => expected.push(`${pre}${s.places}/${c.slug}/${slugify(p)}`)); });
   MONTHS[l].forEach((m) => expected.push(`${pre}${s.calendar}/${m}`));

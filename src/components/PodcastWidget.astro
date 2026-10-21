@@ -1,0 +1,33 @@
+---
+import podcasts from '../../data/podcasts.json';
+import PodcastCover from './PodcastCover.astro';
+import { t, url } from '../i18n/ui.js';
+import { pickText } from '../lib/data.js';
+import { weekLabel, listenLinks } from '../lib/podcasts.js';
+
+const { lang } = Astro.props;
+const L = t[lang];
+const pod = podcasts.actual;
+const desc = pod ? pickText(pod.descripcion, lang) : null;
+const reason = pod?.motivo ? pickText(pod.motivo, lang) : null;
+const eyebrow = reason?.text || (pod && weekLabel(L, lang, pod.semana));
+const links = pod ? listenLinks(pod.enlaces) : [];
+---
+{pod && (
+  <section class="widget widget--wide book podcast" aria-labelledby="w-podcast">
+    <PodcastCover podcast={pod} />
+    <div class="book-body">
+      <p class="book-eyebrow" lang={reason ? reason.lang : undefined}>{eyebrow}</p>
+      <h2 id="w-podcast">{L.w.podcast}</h2>
+      <p class="book-title">{pod.titulo}</p>
+      <p class="book-author">{pod.autor}</p>
+      <p class="book-synopsis" lang={desc.lang !== lang ? desc.lang : undefined}>{desc.text}</p>
+      {links.length > 0 && (
+        <ul class="podcast-links">
+          {links.map((l) => <li><a class="button button--ghost" href={l.href} target="_blank" rel="noopener noreferrer">{l.key === 'web' ? l.name : `${L.podcastListen} ${l.name}`}</a></li>)}
+        </ul>
+      )}
+      {podcasts.historico.length > 1 && <a class="more" href={url.podcasts(lang)}>{L.podcastsAll}</a>}
+    </div>
+  </section>
+)}

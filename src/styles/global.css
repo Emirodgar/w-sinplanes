@@ -281,3 +281,9 @@ p { margin: 0 0 1em; max-width: var(--measure); }
 .cat-filter .chip .count { font-weight: 400; color: var(--ink-soft); margin-left: 0.4rem; font-size: 0.8125rem; }
 .cat-filter .chip[aria-pressed='true'] .count { color: var(--accent-ink); }
 .plan-list li[data-cat-off] { display: none !important; }
+
+/* Podcast de la semana (reutiliza las tarjetas de libros; la portada es cuadrada) */
+.podcast-cover { aspect-ratio: 1 / 1; border-radius: 0.75rem; box-shadow: 0 1px 2px rgba(0, 0, 0, 0.18), 0 14px 32px -10px rgba(0, 0, 0, 0.35); }
+.podcast-links { list-style: none; display: flex; flex-wrap: wrap; gap: 0.5rem; margin: 1rem 0 0; padding: 0; }
+.podcast-links .button { min-height: 2.25rem; padding: 0.3rem 1rem; font-size: 0.875rem; }
+.podcast .podcast-links + .more { display: inline-block; margin-top: 1rem; }

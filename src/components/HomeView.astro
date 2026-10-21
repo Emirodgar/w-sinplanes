@@ -4,6 +4,7 @@ import PlanList from './PlanList.astro';
 import NearMe from './NearMe.astro';
 import SearchBox from './SearchBox.astro';
 import BookWidget from './BookWidget.astro';
+import PodcastWidget from './PodcastWidget.astro';
 import CineWidget from './CineWidget.astro';
 import SeriesWidget from './SeriesWidget.astro';
 import { t, url, monthName, HREFLANG } from '../i18n/ui.js';
@@ -94,6 +95,8 @@ const jsonld = {
     <SeriesWidget lang={lang} />
 
     <BookWidget lang={lang} />
+
+    <PodcastWidget lang={lang} />
 
     <section class="widget" aria-labelledby="w-next">
       <h2 id="w-next">{L.w.next}</h2>

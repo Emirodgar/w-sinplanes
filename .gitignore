@@ -6,5 +6,6 @@ dist/
 data/plans.json
 data/site.json
 data/libros.json
+data/podcasts.json
 data/cine.json
 data/series.json

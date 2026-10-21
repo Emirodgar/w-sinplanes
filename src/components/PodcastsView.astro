@@ -1,0 +1,97 @@
+---
+import Base from '../layouts/Base.astro';
+import PodcastCover from './PodcastCover.astro';
+import podcasts from '../../data/podcasts.json';
+import { t } from '../i18n/ui.js';
+import { pickText, norm } from '../lib/data.js';
+import { weekLabel, listenLinks } from '../lib/podcasts.js';
+
+const { lang, route } = Astro.props;
+const L = t[lang];
+const list = podcasts.historico;
+const label = (g) => pickText(podcasts.generos[g], lang).text;
+// solo temáticas con algún podcast, en el orden del fichero
+const genres = Object.keys(podcasts.generos).filter((g) => list.some((p) => p.generos?.includes(g)));
+const jsonld = {
+  '@context': 'https://schema.org', '@type': 'ItemList', name: L.podcastsTitle,
+  itemListElement: list.slice(0, 30).map((p, i) => ({ '@type': 'ListItem', position: i + 1, item: { '@type': 'PodcastSeries', name: p.titulo, author: { '@type': 'Person', name: p.autor } } })),
+};
+---
+<Base lang={lang} title={L.podcastsTitle} description={L.podcastsIntro} route={route} jsonld={jsonld}>
+  <header class="page-head">
+    <h1>{L.podcastsTitle}</h1>
+    <p>{L.podcastsIntro}</p>
+  </header>
+
+  {list.length === 0 ? <p class="empty">{L.podcastsEmpty}</p> : (
+    <>
+      <div class="books-tools" data-podcasts>
+        <div class="search" role="search">
+          <label class="visually-hidden" for="podcasts-q">{L.podcastsSearchLabel}</label>
+          <input id="podcasts-q" type="search" autocomplete="off" enterkeyhint="search" placeholder={L.podcastsSearch} />
+        </div>
+        {genres.length > 1 && (
+          <ul class="chips books-genres" aria-label={L.podcastsGenres}>
+            <li><button type="button" class="chip" data-genre="" aria-pressed="true">{L.podcastsAllGenres}</button></li>
+            {genres.map((g) => <li><button type="button" class="chip" data-genre={g} aria-pressed="false">{label(g)}</button></li>)}
+          </ul>
+        )}
+      </div>
+
+      <ul class="books-grid">
+        {list.map((p) => {
+          const desc = pickText(p.descripcion, lang);
+          const why = p.motivo ? pickText(p.motivo, lang) : null;
+          const gl = (p.generos || []).map(label);
+          const links = listenLinks(p.enlaces);
+          return (
+            <li class="book-card podcast-card" data-genres={(p.generos || []).join(' ')} data-q={norm(`${p.titulo} ${p.autor} ${gl.join(' ')} ${why?.text || ''}`)}>
+              <PodcastCover podcast={p} />
+              <div class="book-card-body">
+                <p class="book-eyebrow" lang={why ? why.lang : undefined}>{why?.text || weekLabel(L, lang, p.semana)}</p>
+                <h2 class="book-title">{p.titulo}</h2>
+                <p class="book-author">{p.autor}</p>
+                <p class="book-synopsis" lang={desc.lang !== lang ? desc.lang : undefined}>{desc.text}</p>
+                {gl.length > 0 && <p class="book-tags">{gl.map((g) => <span>{g}</span>)}</p>}
+                {links.length > 0 && (
+                  <ul class="podcast-links">
+                    {links.map((l) => <li><a class="button button--ghost" href={l.href} target="_blank" rel="noopener noreferrer">{l.key === 'web' ? l.name : `${L.podcastListen} ${l.name}`}</a></li>)}
+                  </ul>
+                )}
+              </div>
+            </li>
+          );
+        })}
+      </ul>
+      <p class="empty" hidden data-podcasts-empty>{L.searchNone}</p>
+    </>
+  )}
+</Base>
+
+<script>
+  const root = document.querySelector('[data-podcasts]');
+  if (root) {
+    const input = root.querySelector('input');
+    const empty = document.querySelector('[data-podcasts-empty]');
+    const cards = [...document.querySelectorAll('.podcast-card')];
+    const chips = [...root.querySelectorAll('[data-genre]')];
+    const norm = (s) => String(s).normalize('NFD').replace(/\p{M}/gu, '').toLowerCase();
+    let genre = '';
+    const run = () => {
+      const words = norm(input.value).split(/\s+/).filter(Boolean);
+      let shown = 0;
+      for (const c of cards) {
+        const ok = words.every((w) => c.dataset.q.includes(w)) && (!genre || c.dataset.genres.split(' ').includes(genre));
+        c.hidden = !ok;
+        if (ok) shown++;
+      }
+      empty.hidden = shown > 0;
+    };
+    input.addEventListener('input', run);
+    chips.forEach((chip) => chip.addEventListener('click', () => {
+      genre = chip.dataset.genre;
+      chips.forEach((c) => c.setAttribute('aria-pressed', String(c === chip)));
+      run();
+    }));
+  }
+</script>

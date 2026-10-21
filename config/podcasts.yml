@@ -1,0 +1,45 @@
+# Podcast recomendado de la semana (portada y página /podcasts/)
+# ------------------------------------------------------------
+# Mientras `reserva` y `destacados` estén vacíos, el widget de la portada y el enlace del menú no se muestran.
+#
+# reserva:    la lista base. Se elige uno por semana (de lunes a domingo), de forma estable, y no se repite
+#             hasta recorrer toda la lista. Añade podcasts siempre AL FINAL: así no cambia lo ya recomendado.
+# destacados: podcasts ligados a un estreno, premio o evento, con ventana de fechas (ISO, ambas incluidas).
+#             Si hay varios activos a la vez, gana el primero de la lista.
+#
+# Campos de cada podcast:
+#   id          identificador (sin espacios)
+#   titulo, autor   (autor: quien lo presenta o la productora)
+#   generos     [id, …] de la lista de `generos` de abajo
+#   portada     ruta en public/img/podcasts/ (webp o jpg, cuadrada, ~600x600).
+#               Si el fichero no existe, sale una portada tipográfica.
+#   descripcion { es, en }  (los demás idiomas muestran el inglés)
+#   motivo      { es, en }  solo en destacados: por qué toca ahora
+#   desde, hasta            solo en destacados
+#   enlaces     (opcional) { spotify, apple, youtube, web } con la URL de cada plataforma; salen como botones
+#
+# Plantilla (copia y rellena):
+#   - id: ejemplo
+#     titulo: "…"
+#     autor: "…"
+#     generos: [cultura]
+#     portada: "/img/podcasts/ejemplo.webp"
+#     enlaces: { spotify: "https://open.spotify.com/show/…", apple: "https://podcasts.apple.com/…" }
+#     descripcion:
+#       es: "…"
+#       en: "…"
+
+# inicio: lunes (o cualquier día de la semana) desde la que cuenta el histórico. La reserva avanza un podcast por semana.
+inicio: "2026-10-19"
+
+generos:
+  cultura: { es: "Cultura", en: "Culture", fr: "Culture", de: "Kultur", it: "Cultura", pt: "Cultura" }
+  historia: { es: "Historia", en: "History", fr: "Histoire", de: "Geschichte", it: "Storia", pt: "História" }
+  ciencia: { es: "Ciencia", en: "Science", fr: "Science", de: "Wissenschaft", it: "Scienza", pt: "Ciência" }
+  actualidad: { es: "Actualidad", en: "News", fr: "Actualité", de: "Aktuelles", it: "Attualità", pt: "Atualidade" }
+  humor: { es: "Humor", en: "Comedy", fr: "Humour", de: "Comedy", it: "Commedia", pt: "Humor" }
+  crimen: { es: "True crime", en: "True crime", fr: "True crime", de: "True Crime", it: "True crime", pt: "True crime" }
+
+destacados: []
+
+reserva: []

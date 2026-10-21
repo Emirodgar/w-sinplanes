@@ -25,12 +25,12 @@ export const monthName = (l, m) => (MONTH_LABELS[l]?.[m - 1]) ?? (l === 'en' ? c
 
 // Segmentos de URL traducidos. El español va en la raíz; el resto con prefijo de idioma.
 const SEG = {
-  es: { plan: 'plan', topics: 'temas', places: 'lugares', calendar: 'calendario', museums: 'museos', routes: 'rutas', parks: 'parques', books: 'libros', series: 'series' },
-  en: { plan: 'plan', topics: 'topics', places: 'places', calendar: 'calendar', museums: 'museums', routes: 'routes', parks: 'parks', books: 'books', series: 'series' },
-  fr: { plan: 'plan', topics: 'themes', places: 'lieux', calendar: 'calendrier', museums: 'musees', routes: 'itineraires', parks: 'parcs', books: 'livres', series: 'series' },
-  de: { plan: 'plan', topics: 'themen', places: 'orte', calendar: 'kalender', museums: 'museen', routes: 'routen', parks: 'naturparks', books: 'buecher', series: 'serien' },
-  it: { plan: 'piano', topics: 'temi', places: 'luoghi', calendar: 'calendario', museums: 'musei', routes: 'itinerari', parks: 'parchi', books: 'libri', series: 'serie' },
-  pt: { plan: 'plano', topics: 'temas', places: 'locais', calendar: 'calendario', museums: 'museus', routes: 'rotas', parks: 'parques', books: 'livros', series: 'series' },
+  es: { plan: 'plan', topics: 'temas', places: 'lugares', calendar: 'calendario', museums: 'museos', routes: 'rutas', parks: 'parques', books: 'libros', series: 'series', podcasts: 'podcasts' },
+  en: { plan: 'plan', topics: 'topics', places: 'places', calendar: 'calendar', museums: 'museums', routes: 'routes', parks: 'parks', books: 'books', series: 'series', podcasts: 'podcasts' },
+  fr: { plan: 'plan', topics: 'themes', places: 'lieux', calendar: 'calendrier', museums: 'musees', routes: 'itineraires', parks: 'parcs', books: 'livres', series: 'series', podcasts: 'podcasts' },
+  de: { plan: 'plan', topics: 'themen', places: 'orte', calendar: 'kalender', museums: 'museen', routes: 'routen', parks: 'naturparks', books: 'buecher', series: 'serien', podcasts: 'podcasts' },
+  it: { plan: 'piano', topics: 'temi', places: 'luoghi', calendar: 'calendario', museums: 'musei', routes: 'itinerari', parks: 'parchi', books: 'libri', series: 'serie', podcasts: 'podcast' },
+  pt: { plan: 'plano', topics: 'temas', places: 'locais', calendar: 'calendario', museums: 'museus', routes: 'rotas', parks: 'parques', books: 'livros', series: 'series', podcasts: 'podcasts' },
 };
 const pre = (l) => (l === DEFAULT_LANG ? '/' : `/${l}/`);
 const topicSlug = (l, tp) => (l === DEFAULT_LANG ? tp.id : tp.slugs[l]);
@@ -48,6 +48,7 @@ export const url = {
   routes: (l) => `${pre(l)}${SEG[l].routes}/`,
   parks: (l) => `${pre(l)}${SEG[l].parks}/`,
   books: (l) => `${pre(l)}${SEG[l].books}/`,
+  podcasts: (l) => `${pre(l)}${SEG[l].podcasts}/`,
   series: (l) => `${pre(l)}${SEG[l].series}/`,
   calendar: (l) => `${pre(l)}${SEG[l].calendar}/`,
   month: (l, m) => `${pre(l)}${SEG[l].calendar}/${MONTHS[l][m - 1]}/`,
@@ -71,6 +72,7 @@ export function routeUrl(l, r) {
     case 'routes': return url.routes(l);
     case 'parks': return url.parks(l);
     case 'books': return url.books(l);
+    case 'podcasts': return url.podcasts(l);
     case 'series': return url.series(l);
     case 'calendar': return url.calendar(l);
     case 'month': return url.month(l, r.m);
@@ -84,7 +86,8 @@ export const t = {
     tagline: 'Planes y eventos en toda España, cada día.',
     heroQ: '¿Sin planes?',
     heroToday: (d) => `${d}. Esto es lo que hay.`,
-    nav: { topics: 'Temas', places: 'Lugares', calendar: 'Calendario', museums: 'Museos', routes: 'Rutas', parks: 'Parques', books: 'Libros', series: 'Series' },
+    nav: { topics: 'Temas', places: 'Lugares', calendar: 'Calendario', museums: 'Museos', routes: 'Rutas', parks: 'Parques', books: 'Libros', series: 'Series', podcasts: 'Podcasts' },
+    podcastsTitle: 'Podcasts recomendados', podcastsIntro: 'Un podcast a la semana, elegido a mano. Aquí tienes el de esta semana y todos los que hemos ido recomendando. Busca por título o autor, o filtra por temática.', podcastsSearch: 'Buscar por título o autor', podcastsSearchLabel: 'Buscar podcasts', podcastsGenres: 'Temática', podcastsAllGenres: 'Todos', podcastsAll: 'Ver todos los podcasts', podcastWeekOf: 'Semana del', podcastListen: 'Escuchar en', podcastsEmpty: 'Aún no hay podcasts recomendados. Vuelve pronto.',
     booksTitle: 'Todos los libros recomendados', booksIntro: 'Los libros que hemos ido recomendando, uno al mes, ligados a premios, aniversarios y estrenos. Busca por título o autor, o filtra por género.', booksSearch: 'Buscar por título o autor', booksSearchLabel: 'Buscar libros', booksGenres: 'Género', booksAllGenres: 'Todos', booksAll: 'Ver todos los libros',
     seriesNote: 'Series actuales con nota de 7,5 o más en TMDB (mínimo 500 votos) y disponibles en España. Plataformas: JustWatch. Datos e imágenes de TMDB; este sitio usa su API pero no está avalado ni certificado por TMDB.', seriesRating: 'Nota media en TMDB',
     seriesTitle: 'Series recomendadas', seriesIntro: 'Las series mejor valoradas del momento, los últimos estrenos y una sugerencia al azar para cuando no sabes qué ver. Solo series disponibles en plataformas en España.', seriesBest: 'Las mejor valoradas', seriesNew: 'Últimas novedades', seriesNewNote: 'Estrenadas en los últimos 90 días con nota de 7,0 o más en TMDB (mínimo 100 votos).', seriesPick: 'Una serie al azar', seriesAnother: 'Otra serie', seriesAll: 'Ver todas las series', seriesPlatform: 'Filtrar por plataforma', seriesPlatAll: 'Todas', seriesOpen: 'Ver ficha en TMDB', seriesEmpty: 'La lista de series aún no está disponible. Vuelve pronto.', seriesPremiere: (d) => `Estreno: ${d}`,
@@ -106,6 +109,7 @@ export const t = {
       next: 'Próximas citas del año',
       trending: 'Lo que está sonando',
       book: 'Libro recomendado',
+      podcast: 'Podcast de la semana',
       cine: 'En cartelera',
       series: 'Series con muy buena nota',
     },
@@ -163,7 +167,8 @@ export const t = {
     tagline: 'Things to do across Spain, updated daily.',
     heroQ: 'No plans?',
     heroToday: (d) => `${d}. Here’s what’s on.`,
-    nav: { topics: 'Topics', places: 'Places', calendar: 'Calendar', museums: 'Museums', routes: 'Routes', parks: 'Parks', books: 'Books', series: 'Series' },
+    nav: { topics: 'Topics', places: 'Places', calendar: 'Calendar', museums: 'Museums', routes: 'Routes', parks: 'Parks', books: 'Books', series: 'Series', podcasts: 'Podcasts' },
+    podcastsTitle: 'Recommended podcasts', podcastsIntro: 'One podcast a week, hand-picked. Here is this week’s pick and every one we have recommended so far. Search by title or author, or filter by topic.', podcastsSearch: 'Search by title or author', podcastsSearchLabel: 'Search podcasts', podcastsGenres: 'Topic', podcastsAllGenres: 'All', podcastsAll: 'See all podcasts', podcastWeekOf: 'Week of', podcastListen: 'Listen on', podcastsEmpty: 'No recommended podcasts yet. Check back soon.',
     booksTitle: 'Every recommended book', booksIntro: 'The books we have recommended, one a month, tied to prizes, anniversaries and releases. Search by title or author, or filter by genre.', booksSearch: 'Search by title or author', booksSearchLabel: 'Search books', booksGenres: 'Genre', booksAllGenres: 'All', booksAll: 'See all books',
     seriesNote: 'Current series rated 7.5 or higher on TMDB (at least 500 votes) and available in Spain. Streaming data: JustWatch. Data and images from TMDB; this site uses the TMDB API but is not endorsed or certified by TMDB.', seriesRating: 'Average rating on TMDB',
     seriesTitle: 'Recommended series', seriesIntro: 'The best-rated series right now, the latest premieres and a random pick for when you cannot decide what to watch. Only series available on streaming platforms in Spain.', seriesBest: 'Top rated', seriesNew: 'Latest premieres', seriesNewNote: 'Premiered in the last 90 days and rated 7.0 or higher on TMDB (at least 100 votes).', seriesPick: 'A random series', seriesAnother: 'Another series', seriesAll: 'See all series', seriesPlatform: 'Filter by platform', seriesPlatAll: 'All', seriesOpen: 'View on TMDB', seriesEmpty: 'The series list is not available yet. Please check back soon.', seriesPremiere: (d) => `Premiere: ${d}`,
@@ -185,6 +190,7 @@ export const t = {
       next: 'Coming up this year',
       trending: 'What’s trending',
       book: 'Book of the month',
+      podcast: 'Podcast of the week',
       cine: 'Now in cinemas',
       series: 'Top-rated series right now',
     },
@@ -242,7 +248,8 @@ export const t = {
     tagline: 'Idées de sorties et événements dans toute l’Espagne, chaque jour.',
     heroQ: 'Pas de plan ?',
     heroToday: (d) => `${d}. Voici ce qui se passe.`,
-    nav: { topics: 'Thèmes', places: 'Lieux', calendar: 'Calendrier', museums: 'Musées', routes: 'Itinéraires', parks: 'Parcs', books: 'Livres', series: 'Séries' },
+    nav: { topics: 'Thèmes', places: 'Lieux', calendar: 'Calendrier', museums: 'Musées', routes: 'Itinéraires', parks: 'Parcs', books: 'Livres', series: 'Séries', podcasts: 'Podcasts' },
+    podcastsTitle: 'Podcasts recommandés', podcastsIntro: 'Un podcast par semaine, choisi à la main. Voici celui de cette semaine et tous ceux que nous avons recommandés. Cherchez par titre ou auteur, ou filtrez par thème.', podcastsSearch: 'Rechercher par titre ou auteur', podcastsSearchLabel: 'Rechercher des podcasts', podcastsGenres: 'Thème', podcastsAllGenres: 'Tous', podcastsAll: 'Voir tous les podcasts', podcastWeekOf: 'Semaine du', podcastListen: 'Écouter sur', podcastsEmpty: 'Aucun podcast recommandé pour l’instant. Revenez bientôt.',
     booksTitle: 'Tous les livres recommandés', booksIntro: 'Les livres que nous avons recommandés, un par mois, liés à des prix, des anniversaires et des sorties. Cherchez par titre ou auteur, ou filtrez par genre.', booksSearch: 'Rechercher par titre ou auteur', booksSearchLabel: 'Rechercher des livres', booksGenres: 'Genre', booksAllGenres: 'Tous', booksAll: 'Voir tous les livres',
     seriesNote: 'Séries actuelles notées 7,5 ou plus sur TMDB (au moins 500 votes) et disponibles en Espagne. Plateformes : JustWatch. Données et images de TMDB ; ce site utilise l’API de TMDB mais n’est ni approuvé ni certifié par TMDB.', seriesRating: 'Note moyenne sur TMDB',
     seriesTitle: 'Séries recommandées', seriesIntro: 'Les séries les mieux notées du moment, les dernières nouveautés et une suggestion au hasard pour quand on ne sait pas quoi regarder. Uniquement des séries disponibles sur des plateformes en Espagne.', seriesBest: 'Les mieux notées', seriesNew: 'Dernières nouveautés', seriesNewNote: 'Sorties ces 90 derniers jours, notées 7,0 ou plus sur TMDB (au moins 100 votes).', seriesPick: 'Une série au hasard', seriesAnother: 'Une autre série', seriesAll: 'Voir toutes les séries', seriesPlatform: 'Filtrer par plateforme', seriesPlatAll: 'Toutes', seriesOpen: 'Fiche sur TMDB', seriesEmpty: 'La liste des séries n’est pas encore disponible. Revenez bientôt.', seriesPremiere: (d) => `Sortie : ${d}`,
@@ -264,6 +271,7 @@ export const t = {
       next: 'Prochains rendez-vous de l’année',
       trending: 'Ce qui fait parler',
       book: 'Livre à lire',
+      podcast: 'Podcast de la semaine',
       cine: 'À l’affiche',
       series: 'Séries très bien notées',
     },
@@ -321,7 +329,8 @@ export const t = {
     tagline: 'Ausflugstipps und Veranstaltungen in ganz Spanien, täglich aktuell.',
     heroQ: 'Keine Pläne?',
     heroToday: (d) => `${d}. Das ist los.`,
-    nav: { topics: 'Themen', places: 'Orte', calendar: 'Kalender', museums: 'Museen', routes: 'Routen', parks: 'Naturparks', books: 'Bücher', series: 'Serien' },
+    nav: { topics: 'Themen', places: 'Orte', calendar: 'Kalender', museums: 'Museen', routes: 'Routen', parks: 'Naturparks', books: 'Bücher', series: 'Serien', podcasts: 'Podcasts' },
+    podcastsTitle: 'Empfohlene Podcasts', podcastsIntro: 'Ein handverlesener Podcast pro Woche. Hier ist der Tipp dieser Woche und alle bisherigen Empfehlungen. Suche nach Titel oder Autor oder filtere nach Thema.', podcastsSearch: 'Nach Titel oder Autor suchen', podcastsSearchLabel: 'Podcasts suchen', podcastsGenres: 'Thema', podcastsAllGenres: 'Alle', podcastsAll: 'Alle Podcasts ansehen', podcastWeekOf: 'Woche vom', podcastListen: 'Anhören auf', podcastsEmpty: 'Noch keine empfohlenen Podcasts. Schau bald wieder vorbei.',
     booksTitle: 'Alle empfohlenen Bücher', booksIntro: 'Die Bücher, die wir empfohlen haben, eines pro Monat, passend zu Preisen, Jubiläen und Neuerscheinungen. Suche nach Titel oder Autor oder filtere nach Genre.', booksSearch: 'Nach Titel oder Autor suchen', booksSearchLabel: 'Bücher suchen', booksGenres: 'Genre', booksAllGenres: 'Alle', booksAll: 'Alle Bücher ansehen',
     seriesNote: 'Aktuelle Serien mit 7,5 oder mehr auf TMDB (mindestens 500 Stimmen), in Spanien verfügbar. Streaming-Daten: JustWatch. Daten und Bilder von TMDB; diese Website nutzt die TMDB-API, wird aber von TMDB weder unterstützt noch zertifiziert.', seriesRating: 'Durchschnittsbewertung auf TMDB',
     seriesTitle: 'Serien-Empfehlungen', seriesIntro: 'Die aktuell am besten bewerteten Serien, die neuesten Starts und ein Zufallstipp für alle, die nicht wissen, was sie schauen sollen. Nur Serien, die bei Streamingdiensten in Spanien verfügbar sind.', seriesBest: 'Am besten bewertet', seriesNew: 'Neueste Serien', seriesNewNote: 'In den letzten 90 Tagen gestartet, mit 7,0 oder mehr auf TMDB (mindestens 100 Stimmen).', seriesPick: 'Eine zufällige Serie', seriesAnother: 'Andere Serie', seriesAll: 'Alle Serien ansehen', seriesPlatform: 'Nach Plattform filtern', seriesPlatAll: 'Alle', seriesOpen: 'Eintrag bei TMDB', seriesEmpty: 'Die Serienliste ist noch nicht verfügbar. Schau bald wieder vorbei.', seriesPremiere: (d) => `Start: ${d}`,
@@ -343,6 +352,7 @@ export const t = {
       next: 'Die nächsten Termine des Jahres',
       trending: 'Was gerade gefragt ist',
       book: 'Buchempfehlung',
+      podcast: 'Podcast der Woche',
       cine: 'Jetzt im Kino',
       series: 'Top bewertete Serien aktuell',
     },
@@ -400,7 +410,8 @@ export const t = {
     tagline: 'Idee e eventi in tutta la Spagna, ogni giorno.',
     heroQ: 'Senza piani?',
     heroToday: (d) => `${d}. Ecco cosa c’è.`,
-    nav: { topics: 'Temi', places: 'Luoghi', calendar: 'Calendario', museums: 'Musei', routes: 'Itinerari', parks: 'Parchi', books: 'Libri', series: 'Serie' },
+    nav: { topics: 'Temi', places: 'Luoghi', calendar: 'Calendario', museums: 'Musei', routes: 'Itinerari', parks: 'Parchi', books: 'Libri', series: 'Serie', podcasts: 'Podcast' },
+    podcastsTitle: 'Podcast consigliati', podcastsIntro: 'Un podcast a settimana, scelto a mano. Ecco quello di questa settimana e tutti quelli che abbiamo consigliato. Cerca per titolo o autore, oppure filtra per tema.', podcastsSearch: 'Cerca per titolo o autore', podcastsSearchLabel: 'Cerca podcast', podcastsGenres: 'Tema', podcastsAllGenres: 'Tutti', podcastsAll: 'Vedi tutti i podcast', podcastWeekOf: 'Settimana del', podcastListen: 'Ascolta su', podcastsEmpty: 'Ancora nessun podcast consigliato. Torna presto.',
     booksTitle: 'Tutti i libri consigliati', booksIntro: 'I libri che abbiamo consigliato, uno al mese, legati a premi, anniversari e uscite. Cerca per titolo o autore, oppure filtra per genere.', booksSearch: 'Cerca per titolo o autore', booksSearchLabel: 'Cerca libri', booksGenres: 'Genere', booksAllGenres: 'Tutti', booksAll: 'Vedi tutti i libri',
     seriesNote: 'Serie attuali con voto 7,5 o più su TMDB (almeno 500 voti) e disponibili in Spagna. Piattaforme: JustWatch. Dati e immagini di TMDB; questo sito usa l’API di TMDB ma non è approvato né certificato da TMDB.', seriesRating: 'Voto medio su TMDB',
     seriesTitle: 'Serie consigliate', seriesIntro: 'Le serie meglio valutate del momento, le ultime novità e un suggerimento a caso per quando non sai cosa guardare. Solo serie disponibili su piattaforme in Spagna.', seriesBest: 'Le meglio valutate', seriesNew: 'Ultime novità', seriesNewNote: 'Uscite negli ultimi 90 giorni con voto 7,0 o più su TMDB (almeno 100 voti).', seriesPick: 'Una serie a caso', seriesAnother: 'Un’altra serie', seriesAll: 'Vedi tutte le serie', seriesPlatform: 'Filtra per piattaforma', seriesPlatAll: 'Tutte', seriesOpen: 'Scheda su TMDB', seriesEmpty: 'L’elenco delle serie non è ancora disponibile. Torna presto.', seriesPremiere: (d) => `Uscita: ${d}`,
@@ -422,6 +433,7 @@ export const t = {
       next: 'Prossimi appuntamenti dell’anno',
       trending: 'Di cosa si parla',
       book: 'Libro consigliato',
+      podcast: 'Podcast della settimana',
       cine: 'Al cinema',
       series: 'Serie con ottimi voti',
     },
@@ -479,7 +491,8 @@ export const t = {
     tagline: 'Ideias e eventos por toda a Espanha, todos os dias.',
     heroQ: 'Sem planos?',
     heroToday: (d) => `${d}. Eis o que há.`,
-    nav: { topics: 'Temas', places: 'Locais', calendar: 'Calendário', museums: 'Museus', routes: 'Rotas', parks: 'Parques', books: 'Livros', series: 'Séries' },
+    nav: { topics: 'Temas', places: 'Locais', calendar: 'Calendário', museums: 'Museus', routes: 'Rotas', parks: 'Parques', books: 'Livros', series: 'Séries', podcasts: 'Podcasts' },
+    podcastsTitle: 'Podcasts recomendados', podcastsIntro: 'Um podcast por semana, escolhido a dedo. Aqui está o desta semana e todos os que fomos recomendando. Pesquise por título ou autor, ou filtre por tema.', podcastsSearch: 'Pesquisar por título ou autor', podcastsSearchLabel: 'Pesquisar podcasts', podcastsGenres: 'Tema', podcastsAllGenres: 'Todos', podcastsAll: 'Ver todos os podcasts', podcastWeekOf: 'Semana de', podcastListen: 'Ouvir em', podcastsEmpty: 'Ainda não há podcasts recomendados. Volte em breve.',
     booksTitle: 'Todos os livros recomendados', booksIntro: 'Os livros que fomos recomendando, um por mês, ligados a prémios, aniversários e estreias. Pesquise por título ou autor, ou filtre por género.', booksSearch: 'Pesquisar por título ou autor', booksSearchLabel: 'Pesquisar livros', booksGenres: 'Género', booksAllGenres: 'Todos', booksAll: 'Ver todos os livros',
     seriesNote: 'Séries atuais com nota 7,5 ou superior no TMDB (mínimo de 500 votos) e disponíveis em Espanha. Plataformas: JustWatch. Dados e imagens do TMDB; este site usa a API do TMDB mas não é aprovado nem certificado pelo TMDB.', seriesRating: 'Nota média no TMDB',
     seriesTitle: 'Séries recomendadas', seriesIntro: 'As séries mais bem avaliadas do momento, as últimas estreias e uma sugestão ao acaso para quando não sabes o que ver. Só séries disponíveis em plataformas em Espanha.', seriesBest: 'Mais bem avaliadas', seriesNew: 'Últimas estreias', seriesNewNote: 'Estreadas nos últimos 90 dias com nota 7,0 ou superior no TMDB (mínimo de 100 votos).', seriesPick: 'Uma série ao acaso', seriesAnother: 'Outra série', seriesAll: 'Ver todas as séries', seriesPlatform: 'Filtrar por plataforma', seriesPlatAll: 'Todas', seriesOpen: 'Ver ficha no TMDB', seriesEmpty: 'A lista de séries ainda não está disponível. Volta em breve.', seriesPremiere: (d) => `Estreia: ${d}`,
@@ -501,6 +514,7 @@ export const t = {
       next: 'Próximos encontros do ano',
       trending: 'O que está a dar que falar',
       book: 'Livro recomendado',
+      podcast: 'Podcast da semana',
       cine: 'Em cartaz',
       series: 'Séries muito bem avaliadas',
     },

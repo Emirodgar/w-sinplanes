@@ -13,6 +13,7 @@ import { buildSeasonalPlans } from './lib/seasonal.mjs';
 import { applyCachedTranslations } from './lib/translate.mjs';
 import { applyTrends, readHistory } from './lib/trends.mjs';
 import { buildBooks } from './lib/libros.mjs';
+import { buildPodcasts } from './lib/podcasts.mjs';
 
 const KEEP_PAST_DAYS = 30; // eventos pasados: su página se mantiene 30 días con noindex
 const HORIZON_DAYS = 120;
@@ -41,6 +42,7 @@ writeFileSync(path.join(ROOT, 'data/series.json'), JSON.stringify({
   novedades: seriesFresh ? (seriesRaw.novedades || []) : [],
 }));
 writeFileSync(path.join(ROOT, 'data/libros.json'), JSON.stringify(buildBooks(today)));
+writeFileSync(path.join(ROOT, 'data/podcasts.json'), JSON.stringify(buildPodcasts(today)));
 writeFileSync(path.join(ROOT, 'data/site.json'), JSON.stringify({
   today, generated: new Date().toISOString(), total: plans.length, skeleton: skeleton.length, events: events.length,
   dataUpdated: meta.generated || null,

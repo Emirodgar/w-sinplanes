@@ -2,6 +2,7 @@
 import '../styles/global.css';
 import { t, url, routeUrl, LANGS, HREFLANG, OG_LOCALE, LANG_NAME } from '../i18n/ui.js';
 import { meta, fmtDay } from '../lib/data.js';
+import podcasts from '../../data/podcasts.json';
 
 // route: objeto neutro al idioma (ver routeUrl). avail: idiomas con contenido propio para esta página.
 const { lang = 'es', title, description, route = null, avail = LANGS, noindex = false, jsonld = null, image = null } = Astro.props;
@@ -53,6 +54,7 @@ const switcher = LANGS.map((l) => ({ l, href: route && avail.includes(l) ? route
         <a href={url.parks(lang)}>{L.nav.parks}</a>
         <a href={url.books(lang)}>{L.nav.books}</a>
         <a href={url.series(lang)}>{L.nav.series}</a>
+        {podcasts.historico.length > 0 && <a href={url.podcasts(lang)}>{L.nav.podcasts}</a>}
         <a href={url.places(lang)}>{L.nav.places}</a>
         <a href={url.calendar(lang)}>{L.nav.calendar}</a>
       </nav>
