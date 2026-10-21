@@ -220,6 +220,17 @@ temporada:
           - "La fecha exacta cambia según la zona, la variedad y el año. Las uvas blancas y las variedades tempranas suelen recogerse desde finales de agosto, y las tintas más tardías pueden alargarse hasta octubre. Regiones como La Rioja, la Ribera del Duero, Jerez, el Penedès, Rías Baixas o La Mancha organizan visitas, catas y actividades relacionadas."
           - "Muchas bodegas ofrecen experiencias en las que puedes cortar racimos, pisar la uva o ver cómo llega la cosecha a la bodega, normalmente con reserva previa y de pago. Además hay fiestas dedicadas a la vendimia, como las de Jerez o las de San Mateo en Logroño, con pisado de uva, ofrendas del primer mosto y degustaciones."
           - "Si te apuntas a una experiencia en el viñedo, lleva calzado cerrado y cómodo, gorra, protector solar y ropa que pueda mancharse. Mejor ir a primera hora de la mañana, cuando hace menos calor y se trabaja con más tranquilidad."
+        mapa:
+          titulo: "Dónde vivir la vendimia"
+          centro: [40.0, -3.5]
+          zoom: 6
+          puntos:
+            - { nombre: "La Rioja (Logroño)", lat: 42.4627, lon: -2.445, desc: "Rioja Alta y Rioja Baja, con las fiestas de San Mateo en Logroño y muchas bodegas con visita." }
+            - { nombre: "Ribera del Duero (Burgos y Valladolid)", lat: 41.62, lon: -3.9, desc: "Viñedos de tinto a lo largo del Duero, con bodegas abiertas a la visita." }
+            - { nombre: "Rías Baixas (Pontevedra)", lat: 42.51, lon: -8.81, desc: "Zona del albariño, con vendimia temprana y bodegas en torno a Cambados." }
+            - { nombre: "Penedès (Barcelona)", lat: 41.3446, lon: 1.6988, desc: "Zona del cava y del vino, con bodegas y experiencias de vendimia en torno a Vilafranca." }
+            - { nombre: "La Mancha (Ciudad Real)", lat: 39.0, lon: -3.2, desc: "El mayor viñedo de España, con bodegas y fiestas de la vendimia en sus pueblos." }
+            - { nombre: "Jerez (Cádiz)", lat: 36.6864, lon: -6.1377, desc: "Capital del vino de jerez, con su fiesta de la vendimia y bodegas históricas." }
         faq:
           - p: "¿Cuándo es la vendimia en España?"
             r: "Depende de la zona y la variedad, pero la época principal va de finales de agosto a octubre, con septiembre como mes central. Las uvas blancas y tempranas se recogen antes que las tintas tardías."
