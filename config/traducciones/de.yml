@@ -663,3 +663,98 @@ semana-santa-malaga:
       r: "Die Agrupación de Cofradías veröffentlicht das offizielle Programm mit den Routen und den Zeiten jeder Cofradía."
     - p: "Ist es ein guter Plan mit Kindern?"
       r: "Ja, mit Vorsicht: Es sind viele Menschen da und die Wartezeiten sind lang. Wähle Nachmittagsprozessionen und einen Platz mit genügend Raum."
+
+festival-jerez:
+  texto:
+    - "Das Festival de Jerez ist eines der größten Flamenco-Ereignisse der Welt. Es findet Ende Februar und Anfang März in Jerez de la Frontera statt, der Stadt, in der diese Kunst entstanden ist, und bietet zwei Wochen lang Aufführungen, Kurse und Begegnungen."
+    - "Das Programm umfasst Tanz-, Gesangs- und Gitarrenaufführungen von etablierten Künstlern und neuen Talenten, im Teatro Villamarta und an anderen Orten der Stadt. Außerdem gibt es Flamenco-Kurse für Hobbytänzer und Profis sowie Veranstaltungen in Peñas und Tablaos, mit denen du die Flamenco-Atmosphäre von Jerez hautnah erleben kannst."
+    - "Schau auf der offiziellen Website nach dem Programm und dem Ticketkauf; die Karten werden im Voraus verkauft. Nutze die Gelegenheit, die Peñas flamencas und die Bodegas der Stadt zu besuchen und die Küche von Jerez zu probieren. Die Februarabende sind kühl, also nimm warme Kleidung mit."
+  faq:
+    - p: "Wann findet das Festival de Jerez statt?"
+      r: "Ende Februar und Anfang März, etwa zwei Wochen lang. Die genauen Termine werden jedes Jahr bekannt gegeben."
+    - p: "Wo findet es statt?"
+      r: "In Jerez de la Frontera, vor allem im Teatro Villamarta und an anderen Orten der Stadt."
+    - p: "Was gibt es außer den Aufführungen?"
+      r: "Flamenco-Kurse, Begegnungen und Veranstaltungen in Peñas und Tablaos."
+    - p: "Wo kaufe ich die Tickets?"
+      r: "Über die offiziellen Kanäle des Festivals. Sie werden im Voraus verkauft, und die gefragtesten Aufführungen sind schnell ausverkauft."
+    - p: "Kann ich mich für einen Kurs anmelden?"
+      r: "Ja, es gibt Kurse für Hobbytänzer und Profis. Die Anmeldung findest du auf der offiziellen Website."
+    - p: "Was kann man in Jerez sonst noch unternehmen?"
+      r: "Die Bodegas, die Peñas flamencas und den Real Alcázar besuchen und die lokale Küche probieren."
+
+sonar-festival-internacional-musica-avanzada-barcelona:
+  texto:
+    - "Sónar ist eines der größten Festivals für elektronische Musik und digitale Kreativität in Europa. Es findet im Juni drei Tage lang in Barcelona statt und verbindet Konzerte und DJ-Sets mit Ausstellungen, Vorträgen und Kunst- und Technologieprojekten."
+    - "Das Festival ist in zwei Programme aufgeteilt: Sónar de Día mit Open-Air-Bühnen, Sets und Aktivitäten und Sónar de Noche mit großen Sets und Konzerten auf einem anderen Gelände, bis in die frühen Morgenstunden. Dazu gibt es einen Fachbereich für Kreativität und Technologie."
+    - "Die Tickets werden im Voraus verkauft, als Tageskarte oder als Komplettpass, und das Line-up wird Monate vorher bekannt gegeben. Kaufe nur über die offiziellen Kanäle und informiere dich über die Einlassbedingungen und die erlaubten Gegenstände. Nimm bequeme Schuhe, tagsüber Sonnenschutz, Ohrstöpsel und Wasser mit und plane die Rückfahrt von der Nachtveranstaltung rechtzeitig."
+  faq:
+    - p: "Wann findet Sónar statt?"
+      r: "Im Juni, drei Tage lang. Die genauen Termine werden jedes Jahr bekannt gegeben."
+    - p: "Wo findet es statt?"
+      r: "In Barcelona, mit zwei Geländen: eines für Sónar de Día und eines für Sónar de Noche."
+    - p: "Was ist der Unterschied zwischen Sónar de Día und Sónar de Noche?"
+      r: "Tagsüber gibt es Open-Air-Bühnen und Aktivitäten, nachts große Sets und Konzerte bis in die frühen Morgenstunden."
+    - p: "Wo kaufe ich die Tickets?"
+      r: "Über die offiziellen Kanäle des Festivals. Es gibt Tageskarten und Komplettpässe. Sei vorsichtig bei Weiterverkäufen."
+    - p: "Was sollte man mitnehmen?"
+      r: "Bequeme Schuhe, tagsüber Sonnenschutz und Kappe, Ohrstöpsel und Wasser. Prüfe vor dem Besuch, welche Gegenstände erlaubt sind."
+    - p: "Wie komme ich nach Hause?"
+      r: "Plane die Rückfahrt rechtzeitig: Nach der Nachtveranstaltung kann die U-Bahn schon geschlossen sein, und die Nachfrage nach Taxis ist groß."
+
+bilbao-bbk-live:
+  texto:
+    - "Das Bilbao BBK Live ist ein Musikfestival, das im Juli an den Hängen des Monte Kobetas mit Blick auf die Stadt Bilbao stattfindet. Drei Tage lang vereint es Künstler aus Pop, Rock, Indie und Elektronik in einer ganz besonderen Naturkulisse."
+    - "Das Gelände unter freiem Himmel liegt am Hang und hat mehrere Bühnen sowie einen Bereich für Essen und Erholung. Das Line-up wird Monate vorher bekannt gegeben, und die Tickets werden im Voraus verkauft, als Tageskarte oder als Komplettpass. Das Festival ist eng mit der Stadt verbunden: Man kommt mit öffentlichen Verkehrsmitteln und Sonderverbindungen aus dem Zentrum."
+    - "Informiere dich auf der offiziellen Website über Einlassbedingungen, erlaubte Gegenstände und Zeiten. Nimm bequeme Schuhe, warme Kleidung und einen Regenmantel mit, weil das Wetter in Bilbao schnell umschlagen kann, und Sonnenschutz, falls die Sonne scheint. Buche die Unterkunft frühzeitig, denn die Stadt ist in diesen Tagen voll."
+  faq:
+    - p: "Wann findet das Bilbao BBK Live statt?"
+      r: "Im Juli, drei Tage lang. Die genauen Termine werden jedes Jahr bekannt gegeben."
+    - p: "Wo findet es statt?"
+      r: "An den Hängen des Monte Kobetas in Bilbao, mit Blick auf die Stadt."
+    - p: "Wie komme ich zum Gelände?"
+      r: "Mit öffentlichen Verkehrsmitteln und Sonderverbindungen, die vom Zentrum aus organisiert werden. Details findest du auf der offiziellen Website."
+    - p: "Wo kaufe ich die Tickets?"
+      r: "Über die offiziellen Kanäle des Festivals, als Tageskarte oder Komplettpass. Vermeide den Weiterverkauf."
+    - p: "Welche Kleidung sollte ich mitnehmen?"
+      r: "Bequeme Schuhe, warme Kleidung, Regenmantel und Sonnenschutz. In Bilbao kann das Wetter schnell umschlagen."
+    - p: "Ist es ein guter Plan mit Kindern?"
+      r: "Das hängt vom Line-up und von der Uhrzeit ab. Die Einlassbedingungen für Minderjährige findest du auf der offiziellen Website."
+
+fib-festival-internacional-benicassim:
+  texto:
+    - "Das FIB, Festival Internacional de Benicàssim, ist eines der ältesten und bekanntesten Festivals Spaniens. Es findet im Juli in Benicàssim an der Küste von Castellón statt und verbindet Konzerte mit Strand, Camping und Urlaubsstimmung."
+    - "Vier Tage lang versammeln mehrere Bühnen Künstler aus Rock, Indie, Pop und Elektronik, mit Sets bis in die frühen Morgenstunden. Die Nähe zum Meer ist einer der größten Reize: Viele Besucher nutzen den Vormittag zum Baden und Ausruhen, bevor die Konzerte am Nachmittag und am Abend beginnen."
+    - "Die Tickets werden im Voraus verkauft, als Tageskarte oder Pass, und es kann Optionen mit Camping geben. Kaufe nur über die offiziellen Kanäle und prüfe die Einlassbedingungen. Im Juli ist es sehr heiß: Nimm Sonnenschutz, Kappe, Wasser und bequeme Schuhe mit und buche die Unterkunft rechtzeitig, wenn du nicht zeltest."
+  faq:
+    - p: "Wann findet das FIB statt?"
+      r: "Im Juli, vier Tage lang. Die genauen Termine werden jedes Jahr bekannt gegeben."
+    - p: "Wo findet es statt?"
+      r: "In Benicàssim, an der Küste von Castellón."
+    - p: "Gibt es einen Campingplatz?"
+      r: "In der Regel gibt es Campingoptionen. Die Bedingungen findest du auf der offiziellen Website."
+    - p: "Wie kaufe ich die Tickets?"
+      r: "Über die offiziellen Kanäle des Festivals, als Tageskarte oder Komplettpass. Vermeide den Weiterverkauf."
+    - p: "Was sollte man mitnehmen?"
+      r: "Sonnenschutz, Kappe, Wasser, bequeme Schuhe und Badesachen, denn das Meer ist ganz in der Nähe."
+    - p: "Ist es ein guter Plan mit Kindern?"
+      r: "Das hängt vom Line-up und von der Uhrzeit ab. Die Einlassbedingungen für Minderjährige findest du auf der offiziellen Website."
+
+festival-internacional-cine-fantastico-cataluna-sitges:
+  texto:
+    - "Das Festival de Sitges ist das große Festival für Fantasy- und Horrorfilme in Spanien und eines der wichtigsten der Welt in diesem Genre. Es findet im Oktober in Sitges statt, einem Küstenort nahe Barcelona, und dauert etwa elf Tage."
+    - "Das Programm umfasst Premieren von Horror-, Science-Fiction-, Fantasy- und Thrillerfilmen, Retrospektiven, Hommagen und Begegnungen mit Regisseuren und Schauspielern. Es gibt Wettbewerbs- und Nebenreihen und eine ausgelassene Stimmung unter den Fans, mit Kostümen und Aktionen auf der Straße."
+    - "Sitges liegt etwa 35 Kilometer von Barcelona entfernt und ist mit dem Rodalies-Zug erreichbar, sodass du an einem Tag hin- und zurückfahren kannst. Informiere dich über das Programm und kaufe die Tickets rechtzeitig, denn beliebte Vorstellungen sind schnell ausverkauft. Buche die Unterkunft frühzeitig, wenn du übernachten willst, denn der Ort ist während des Festivals voll."
+  faq:
+    - p: "Wann findet das Festival de Sitges statt?"
+      r: "Im Oktober, etwa elf Tage lang. Die genauen Termine werden jedes Jahr bekannt gegeben."
+    - p: "Welche Art von Filmen wird gezeigt?"
+      r: "Fantasy-, Horror-, Science-Fiction- und Thrillerfilme, mit Premieren und Retrospektiven."
+    - p: "Wie komme ich von Barcelona dorthin?"
+      r: "Mit dem Rodalies-Zug ab Barcelona in etwa 35 bis 45 Minuten. Es gibt auch Busse und die Anreise mit dem Auto, aber das Parken ist während des Festivals schwierig."
+    - p: "Wo kaufe ich die Tickets?"
+      r: "Über die offiziellen Kanäle des Festivals. Vorstellungen mit Gästen und Premieren sind schnell ausverkauft."
+    - p: "Muss man verkleidet kommen?"
+      r: "Es ist nicht Pflicht, aber die Stimmung ist ausgelassen, und viele Fans verkleiden sich."
+    - p: "Ist es ein guter Plan mit Kindern?"
+      r: "Das hängt von den Filmen ab: Viele sind für Erwachsene. Prüfe die Altersfreigabe jeder Vorstellung."
