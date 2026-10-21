@@ -1939,6 +1939,26 @@ citas:
     fuente: "https://www.spain.info/es/agenda/fiestas-vendimia-riojana/"
     es: { titulo: "Fiestas de San Mateo y vendimia riojana", resumen: "Fiestas de Logroño con el pisado de la uva, la ofrenda del primer mosto y degustaciones de la tierra." }
     en: { titulo: "San Mateo festivities and Rioja grape harvest", resumen: "Logroño’s fiestas, with the ceremonial grape treading, the offering of the first must and tastings of local food." }
+    relacionados: [vendimia, fiestas-vendimia-jerez, batalla-vino]
+    contenido:
+      es:
+        texto:
+          - "Las Fiestas de San Mateo y de la Vendimia Riojana son las fiestas mayores de Logroño y una de las mejores formas de vivir la vendimia en La Rioja. Se celebran en septiembre, durante una semana, con actos tradicionales ligados al vino y mucho ambiente en la calle."
+          - "Uno de los momentos más emblemáticos es el pisado de la uva y la ofrenda del primer mosto a la Virgen de Valvanera, patrona de La Rioja. A lo largo de la semana hay también conciertos, desfiles, actividades populares, degustaciones y espectáculos para todos los públicos, y la ciudad se llena de visitantes."
+          - "Aprovecha para probar los pinchos de la calle Laurel y alrededores, y para visitar alguna bodega de la zona, ya que muchas organizan catas y visitas en vendimia. Consulta el programa oficial del ayuntamiento, reserva alojamiento con antelación y, si vas a una bodega, reserva también con tiempo."
+        faq:
+          - p: "¿Cuándo son las Fiestas de San Mateo?"
+            r: "En torno al 21 de septiembre, durante una semana. Las fechas exactas se anuncian cada año."
+          - p: "¿Qué es el pisado de la uva?"
+            r: "Es un acto simbólico de la vendimia en el que se pisa uva y se inicia la ofrenda del primer mosto a la Virgen de Valvanera, patrona de La Rioja."
+          - p: "¿Qué más se puede hacer?"
+            r: "Conciertos, actos populares, degustaciones y visitas a bodegas. Consulta el programa oficial."
+          - p: "¿Dónde comer?"
+            r: "En la calle Laurel y alrededores hay muchos bares de pinchos, uno de los grandes atractivos de Logroño."
+          - p: "¿Se pueden visitar bodegas?"
+            r: "Sí, muchas organizan visitas y catas. Conviene reservar con antelación, sobre todo en fechas de vendimia."
+          - p: "¿Es buen plan con niños?"
+            r: "Sí, hay actividades familiares durante las fiestas. Consulta el programa."
   - id: fiestas-vendimia-jerez
     regla: { tipo: fija, inicio: "09-05", fin: "09-14" }
     aprox: true
@@ -1947,6 +1967,26 @@ citas:
     fuente: "https://www.spain.info/es/agenda/fiestas-vendimia-jerez/"
     es: { titulo: "Fiestas de la Vendimia de Jerez", resumen: "Pisa de la uva y fiestas en honor al vino de Jerez en septiembre, con la bendición de los mostos." }
     en: { titulo: "Jerez Grape Harvest Festival", resumen: "Grape treading and celebrations of Jerez wine in September, with the blessing of the must." }
+    relacionados: [vendimia, fiestas-vendimia-riojana, festival-jerez]
+    contenido:
+      es:
+        texto:
+          - "Las Fiestas de la Vendimia de Jerez celebran el inicio de la recogida de la uva con la que se elaboran los vinos de Jerez. Se celebran en septiembre, durante unos diez días, con actos tradicionales, actividades culturales y mucho ambiente en la calle."
+          - "Los dos momentos más conocidos son la pisa de la uva, en la plaza de la Asunción, y la bendición de los mostos, en la iglesia de San Dionisio. Además hay conciertos, flamenco, degustaciones y actividades para todos los públicos, con la ciudad volcada en su vino."
+          - "Aprovecha para visitar alguna bodega, probar fino, manzanilla y amontillado, y comer en los bares de tapas de la zona. Consulta el programa oficial del ayuntamiento y reserva con tiempo las visitas a bodegas. En septiembre en Jerez hace calor: lleva agua y protección solar."
+        faq:
+          - p: "¿Cuándo son las Fiestas de la Vendimia de Jerez?"
+            r: "En septiembre, durante unos diez días. Las fechas exactas se anuncian cada año."
+          - p: "¿Qué es la pisa de la uva?"
+            r: "Es el acto simbólico con el que se inicia la vendimia, en el que se pisa la uva y se obtiene el primer mosto."
+          - p: "¿Qué es la bendición de los mostos?"
+            r: "Es un acto religioso en el que se bendice el mosto de la nueva cosecha, en la iglesia de San Dionisio."
+          - p: "¿Se pueden visitar bodegas?"
+            r: "Sí, hay muchas bodegas con visita y cata. Conviene reservar con antelación."
+          - p: "¿Qué se bebe?"
+            r: "Vinos de Jerez, como fino, manzanilla, amontillado, oloroso y pedro ximénez."
+          - p: "¿Es buen plan con niños?"
+            r: "Sí, hay actividades familiares, aunque en septiembre hace calor: lleva agua y gorra."
   - id: fiesta-santiago-apostol
     regla: { tipo: fija, inicio: "07-24", fin: "07-25" }
     temas: [fiestas]
@@ -1954,6 +1994,26 @@ citas:
     fuente: "https://www.spain.info/es/agenda/fiesta-santiago-apostol/"
     es: { titulo: "Fiestas del Apóstol Santiago", resumen: "El 25 de julio, Día de Galicia, con la ofrenda al apóstol en la catedral y los fuegos artificiales de la víspera frente a la fachada del Obradoiro." }
     en: { titulo: "Feast of Saint James", resumen: "On 25 July, Galicia’s national day, with the offering to the apostle in the cathedral and the fireworks the evening before in front of the Obradoiro façade." }
+    relacionados: [fiesta-marisco, san-juan, romeria-rocio]
+    contenido:
+      es:
+        texto:
+          - "Las Fiestas del Apóstol Santiago celebran el día del patrón de España y de Galicia, el 25 de julio, que además es el Día Nacional de Galicia. Se celebran en Santiago de Compostela, en una semana con actos religiosos, conciertos, actividades populares y mucho ambiente."
+          - "Dos momentos destacan: la víspera, la noche del 24 de julio, con el espectáculo de fuegos artificiales delante de la fachada del Obradoiro de la catedral, y el 25 de julio, con la Ofrenda Nacional al Apóstol en la catedral. Cuando el 25 de julio cae en domingo se celebra el Año Santo Compostelano, con aún más afluencia de peregrinos."
+          - "Santiago se llena de visitantes, peregrinos y turistas durante esas fechas. Reserva alojamiento con antelación, consulta el programa oficial y llega pronto a la plaza del Obradoiro si quieres ver los fuegos. Lleva calzado cómodo y un chubasquero, porque en Galicia el tiempo cambia rápido."
+        faq:
+          - p: "¿Cuándo son las Fiestas del Apóstol?"
+            r: "Alrededor del 25 de julio, con la víspera del 24 como noche de fuegos artificiales."
+          - p: "¿Qué son los fuegos del Apóstol?"
+            r: "Un espectáculo pirotécnico que se celebra la noche del 24 de julio delante de la fachada del Obradoiro de la catedral."
+          - p: "¿Qué es la Ofrenda Nacional?"
+            r: "Un acto religioso y oficial que se celebra el 25 de julio en la catedral, con una ofrenda al Apóstol Santiago."
+          - p: "¿Qué es el Año Santo?"
+            r: "Un año jubilar compostelano que se celebra cuando el 25 de julio cae en domingo. Atrae a muchos más peregrinos."
+          - p: "¿Hay que reservar alojamiento?"
+            r: "Sí, con mucha antelación, porque Santiago se llena en esas fechas."
+          - p: "¿Es buen plan con niños?"
+            r: "Sí, hay actividades familiares, pero los fuegos y las aglomeraciones del Obradoiro son muy concurridos."
   - id: fiesta-marisco
     regla: { tipo: fija, inicio: "10-03", fin: "10-12" }
     aprox: true
@@ -1962,6 +2022,26 @@ citas:
     fuente: "https://www.spain.info/es/agenda/fiesta-marisco/"
     es: { titulo: "Fiesta del Marisco de O Grove", resumen: "Una fiesta gastronómica de octubre en torno al marisco de las rías gallegas, con casetas y degustaciones." }
     en: { titulo: "O Grove Seafood Festival", resumen: "An October food festival centred on shellfish from Galicia’s rías, with stalls and tastings." }
+    relacionados: [fiesta-santiago-apostol, fiestas-vendimia-riojana, vendimia]
+    contenido:
+      es:
+        texto:
+          - "La Fiesta del Marisco de O Grove es una de las grandes citas gastronómicas de Galicia. Se celebra en octubre, durante unos días, y reúne a miles de visitantes en torno al marisco de las rías gallegas, con casetas, degustaciones y espectáculos."
+          - "O Grove, en la ría de Arousa, es famosa por su marisco: ostras, mejillones, almejas, berberechos, zamburiñas, vieiras o centollo, entre otros. Durante la fiesta, productores y restaurantes ofrecen sus productos en el recinto, y hay también actividades culturales y musicales."
+          - "Consulta el programa oficial del ayuntamiento para las fechas y los horarios. Llega pronto, sobre todo los fines de semana, y ve entre semana si quieres evitar las aglomeraciones. Si tienes alergia al marisco o eres mujer embarazada, consulta antes qué puedes comer. Reserva alojamiento con antelación: la zona se llena."
+        faq:
+          - p: "¿Cuándo es la Fiesta del Marisco de O Grove?"
+            r: "En octubre, durante unos días. Las fechas exactas se anuncian cada año."
+          - p: "¿Qué marisco se puede probar?"
+            r: "Ostras, mejillones, almejas, berberechos, zamburiñas, vieiras o centollo, según la temporada y la oferta de cada caseta."
+          - p: "¿Hay que pagar entrada?"
+            r: "Consulta el programa oficial del ayuntamiento, que detalla las condiciones de acceso y las degustaciones."
+          - p: "¿Cuándo es mejor ir?"
+            r: "Entre semana y a primera hora, para evitar las aglomeraciones. Los fines de semana se llena mucho."
+          - p: "¿Qué más hacer en O Grove?"
+            r: "Visitar la isla de A Toxa, las playas de la península y dar un paseo en barco por la ría."
+          - p: "¿Es buen plan con niños?"
+            r: "Sí, aunque conviene ir pronto y evitar las horas de más afluencia."
   - id: maraton-malaga
     regla: { tipo: enesimo, mes: 12, dia_semana: 0, n: 1 }
     aprox: true
@@ -1970,3 +2050,23 @@ citas:
     fuente: "https://www.spain.info/es/agenda/maraton-malaga/"
     es: { titulo: "Maratón de Málaga", resumen: "Carrera de maratón y media maratón por la ciudad a primeros de diciembre." }
     en: { titulo: "Málaga Marathon", resumen: "A marathon and half-marathon through the city in early December." }
+    relacionados: [feria-malaga, semana-santa-malaga, mercadillos-navidad]
+    contenido:
+      es:
+        texto:
+          - "El Maratón de Málaga es una de las grandes pruebas de atletismo popular de España, con distancias de maratón y media maratón que recorren la ciudad a primeros de diciembre. El clima suave de Málaga en esa época y un recorrido rápido por el paseo marítimo lo hacen muy atractivo para los corredores."
+          - "La carrera reúne a miles de participantes de todos los niveles, desde corredores profesionales hasta aficionados que buscan su marca personal, y es también un plan para los espectadores, que animan desde la calle. El recorrido atraviesa zonas del centro y el litoral de la ciudad."
+          - "Si quieres correr, inscríbete con antelación en la web oficial y consulta los requisitos de participación. Si quieres animar, busca un punto del recorrido en el paseo marítimo o en el centro y ten en cuenta que habrá cortes de tráfico. Lleva ropa cómoda, agua y paciencia."
+        faq:
+          - p: "¿Cuándo es el Maratón de Málaga?"
+            r: "A primeros de diciembre, normalmente un domingo. Las fechas exactas se anuncian cada año."
+          - p: "¿Qué distancias hay?"
+            r: "Maratón y media maratón. Consulta la web oficial por si hay otras pruebas."
+          - p: "¿Cómo me inscribo?"
+            r: "En la web oficial de la prueba, con antelación. Consulta los requisitos de participación y los plazos."
+          - p: "¿Dónde ver la carrera?"
+            r: "En el recorrido, sobre todo en el paseo marítimo y el centro. Consulta el mapa oficial."
+          - p: "¿Hay cortes de tráfico?"
+            r: "Sí. Consulta los cortes y los horarios en la web oficial y en el ayuntamiento."
+          - p: "¿Qué tiempo hace en diciembre en Málaga?"
+            r: "Suele ser suave, aunque puede haber lluvia o viento. Lleva ropa por capas."
