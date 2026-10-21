@@ -1,4 +1,4 @@
-import { readFileSync, existsSync } from 'node:fs';
+import { readFileSync, existsSync, readdirSync } from 'node:fs';
 import path from 'node:path';
 import { load as yamlLoad } from 'js-yaml';
 import { ROOT, addDays, resolveProvince } from './util.mjs';
@@ -73,6 +73,24 @@ export function readFichasLugares() {
   return existsSync(file) ? yamlLoad(readFileSync(file, 'utf8')) || {} : {};
 }
 
+/** Fichas ampliadas traducidas: config/traducciones/<idioma>.yml, por id de plan, con la misma forma que `contenido.es`. */
+export function readContentTranslations() {
+  const dir = path.join(ROOT, 'config/traducciones');
+  if (!existsSync(dir)) return {};
+  const out = {};
+  for (const f of readdirSync(dir).filter((n) => n.endsWith('.yml'))) {
+    out[f.slice(0, -4)] = yamlLoad(readFileSync(path.join(dir, f), 'utf8')) || {};
+  }
+  return out;
+}
+
+/** Une `contenido` (castellano) con las fichas traducidas del plan; nada si no hay ninguna. */
+function contentOf(item, i18n) {
+  const content = { ...(item.contenido || {}) };
+  for (const [lang, byId] of Object.entries(i18n)) if (byId[item.id]) content[lang] = byId[item.id];
+  return Object.keys(content).length ? { content } : {};
+}
+
 function placeOf(lugar) {
   if (!lugar) return { scope: 'nacional' };
   const p = resolveProvince(lugar.provincia);
@@ -82,6 +100,7 @@ function placeOf(lugar) {
 export function buildSeasonalPlans(today) {
   const doc = yamlLoad(readFileSync(path.join(ROOT, 'config/seasonal.yml'), 'utf8'));
   const plans = [];
+  const i18n = readContentTranslations();
 
   for (const t of doc.temporada || []) {
     plans.push({
@@ -90,8 +109,8 @@ export function buildSeasonalPlans(today) {
       summary: { es: t.es.resumen, en: t.en.resumen },
       months: t.meses, topics: t.temas,
       place: placeOf(t.lugar), source: { name: 'sinplanes', url: null },
-      // Ficha ampliada (opcional): texto, imagen y preguntas frecuentes por idioma. Hoy solo en castellano.
-      ...(t.contenido ? { content: t.contenido } : {}),
+      // Ficha ampliada (opcional): texto, imagen y preguntas frecuentes por idioma (es en este archivo; el resto en config/traducciones/).
+      ...contentOf(t, i18n),
       ...(t.imagen ? { image: t.imagen, imageSize: t.imagen_tam || null } : {}),
       ...(t.relacionados ? { related: t.relacionados } : {}),
     });
@@ -107,7 +126,7 @@ export function buildSeasonalPlans(today) {
       summary: { es: c.es.resumen, en: c.en.resumen },
       start, end, topics: c.temas,
       place: placeOf(c.lugar), source: { name: 'sinplanes', url: c.fuente || null },
-      ...(c.contenido ? { content: c.contenido } : {}),
+      ...contentOf(c, i18n),
       ...(c.imagen ? { image: c.imagen, imageSize: c.imagen_tam || null } : {}),
       ...(c.relacionados ? { related: c.relacionados } : {}),
     });

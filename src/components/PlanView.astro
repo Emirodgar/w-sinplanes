@@ -37,12 +37,12 @@ const baseJsonld = isPlace(p) ? (pl.scope !== 'local' ? null : {
   ...(p.source?.url ? { url: p.source.url } : {}),
 } : null;
 
-// Ficha ampliada (texto, imagen y preguntas frecuentes): por ahora solo existe en castellano.
-const extra = lang === 'es' && !tl ? p.content?.es : null;
+// Ficha ampliada (texto, imagen y preguntas frecuentes): solo se muestra en el idioma de la página si existe ficha en él.
+const extra = !tl ? p.content?.[lang] || null : null;
 const faq = extra?.faq || [];
 const related = (p.related || []).map((slug) => plans.find((x) => x.slug === slug)).filter(Boolean);
 const faqLd = faq.length ? {
-  '@context': 'https://schema.org', '@type': 'FAQPage', inLanguage: 'es',
+  '@context': 'https://schema.org', '@type': 'FAQPage', inLanguage: HREFLANG[lang],
   mainEntity: faq.map((f) => ({ '@type': 'Question', name: f.p, acceptedAnswer: { '@type': 'Answer', text: f.r } })),
 } : null;
 const jsonld = [baseJsonld, faqLd].filter(Boolean);
@@ -84,11 +84,11 @@ const jsonld = [baseJsonld, faqLd].filter(Boolean);
       </div>
     )}
 
-    {extra?.mapa?.puntos?.length > 0 && <PlanMap mapa={extra.mapa} />}
+    {extra?.mapa?.puntos?.length > 0 && <PlanMap mapa={extra.mapa} fallback={L.mapDefault} />}
 
     {faq.length > 0 && (
       <section class="plan-faq" aria-labelledby="faq-title">
-        <h2 id="faq-title">Preguntas frecuentes</h2>
+        <h2 id="faq-title">{L.faqTitle}</h2>
         {faq.map((f) => (
           <details>
             <summary>{f.p}</summary>
@@ -100,7 +100,7 @@ const jsonld = [baseJsonld, faqLd].filter(Boolean);
 
     {related.length > 0 && (
       <section class="plan-related" aria-labelledby="rel-title">
-        <h2 id="rel-title">Planes relacionados</h2>
+        <h2 id="rel-title">{L.relatedTitle}</h2>
         <ul>
           {related.map((r) => <li><a href={url.plan(lang, r.slug)}>{ptitle(r, lang)}</a></li>)}
         </ul>

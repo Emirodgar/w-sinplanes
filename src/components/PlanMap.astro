@@ -1,13 +1,13 @@
 ---
 // Mapa de las localizaciones comentadas en una ficha. Leaflet + teselas CARTO, igual que opensalamanca.es.
 // Leaflet se descarga solo cuando el mapa entra en pantalla, para no penalizar la carga de la ficha.
-const { mapa } = Astro.props;
+const { mapa, fallback = 'Dónde ir' } = Astro.props;
 const CARTO_KEY = 'cb1_2izw_1_55d93b51ded1dcecfa044181';
 const puntos = mapa.puntos.map((pt, i) => ({ n: i + 1, ...pt }));
 const data = { key: CARTO_KEY, centro: mapa.centro, zoom: mapa.zoom || 6, puntos };
 ---
 <section class="plan-map" aria-labelledby="map-title">
-  <h2 id="map-title">{mapa.titulo || 'Dónde ir'}</h2>
+  <h2 id="map-title">{mapa.titulo || fallback}</h2>
   <div id="plan-map-canvas" class="plan-map__canvas" role="region" aria-label={mapa.titulo || 'Mapa'} data-map={JSON.stringify(data)}></div>
   <ol class="plan-map__list">
     {puntos.map((pt) => <li value={pt.n}><strong>{pt.nombre}</strong>{pt.desc && <> — {pt.desc}</>}</li>)}

@@ -1,0 +1,159 @@
+castanas-otono:
+  imagen_alt: "Boden eines herbstlichen Kastanienhains, bedeckt mit goldenem Laub und Kastanienigeln"
+  texto:
+    - "Wenn der Oktober kommt, liegen in den Kastanienhainen im Norden und in der Mitte der Halbinsel überall Igel zwischen den Blättern. Kastanien sammeln gehört zu den einfachsten und dankbarsten Herbstplänen: ein gemütlicher Spaziergang durch den Wald, ein Korb, der sich langsam füllt, und zu Hause etwas Leckeres zum Rösten."
+    - "Die Saison beginnt je nach Höhenlage und Jahr etwa Mitte Oktober und zieht sich bis weit in den November hinein. Die besten Kastanienhaine liegen meist in feuchten Berggebieten: El Bierzo (León), das Valle del Genal (Málaga), die Sierra de Francia (Salamanca), das Valle del Tiétar (Ávila) sowie ein großer Teil Galiciens und Asturiens."
+    - "Am wichtigsten ist es zu wissen, wem der Kastanienhain gehört. Viele sind Privatgrundstücke, deren Besitzer sie pflegen und die Früchte verkaufen; ohne Erlaubnis dort zu sammeln, kann Folgen haben. Frag im Dorf, im Rathaus oder in einem Landhotel (casa rural) der Gegend nach: Meist sagt dir jemand, wo man sammeln darf, oder stellt den Kontakt zu einem Besitzer her."
+    - "Nimm feste Schuhe mit gutem Halt, dicke Handschuhe (die Igel stechen wirklich), einen Korb oder Sack und Kleidung mit, die schmutzig werden darf. Reife Kastanien fallen von selbst: Üblich ist, nur die vom Boden aufzusammeln, ohne die Bäume abzuschlagen oder zu beschädigen. Die Tage nach Regen und Wind sind meist die ergiebigsten."
+    - "Zu Hause ritzt du jede Kastanie in der Schale ein, bevor du sie röstest oder kochst, damit sie nicht platzen. Kühl oder im Kühlschrank halten sie sich besser, und du solltest sie innerhalb weniger Tage essen. Der natürliche Abschluss dieses Plans ist ein magosto: geröstete Kastanien, ein Feuer und neuer Wein."
+  mapa:
+    titulo: "Wohin zum Kastaniensammeln"
+    centro: [40.0, -5.0]
+    zoom: 6
+    puntos:
+      - { nombre: "El Bierzo (León)", lat: 42.55, lon: -6.6, desc: "Jahrhundertealte Kastanienhaine bei Las Médulas und in den umliegenden Tälern; Wiege des magosto." }
+      - { nombre: "Valle del Genal (Málaga)", lat: 36.57, lon: -5.17, desc: "Serranía de Ronda: Igualeja, Pujerra, Genalguacil und Júzcar, mit Kastanienbäumen im ganzen Tal." }
+      - { nombre: "Sierra de Francia (Salamanca)", lat: 40.485, lon: -6.108, desc: "Umgebung von La Alberca und Miranda del Castañar, mit Kastanienhainen an den Hängen." }
+      - { nombre: "Valle del Tiétar (Ávila)", lat: 40.2, lon: -5.1, desc: "Arenas de San Pedro, Candeleda und Guisando, am Fuß der Sierra de Gredos." }
+      - { nombre: "Sierra de Aracena (Huelva)", lat: 37.89, lon: -6.56, desc: "Die Kastanienhaine der Provinz Huelva bei Castaño del Robledo und Galaroza." }
+  faq:
+    - p: "Wann ist die Kastaniensaison?"
+      r: "In Spanien ungefähr von Mitte Oktober bis Mitte November. In tieferen Lagen beginnt sie früher, in höheren verzögert sie sich um ein paar Tage. Wenn du den richtigen Zeitpunkt treffen willst, erkundige dich eine Woche vorher vor Ort: Die Ernte ändert sich von Jahr zu Jahr je nach Regen und Sommerhitze."
+    - p: "Darf man in jedem Wald Kastanien sammeln?"
+      r: "Nicht immer. Viele Kastanienhaine sind Privatbesitz, und in öffentlichen Wäldern kann jede Gemeinde ihre eigenen Regeln haben. Frag vor dem Sammeln im Rathaus oder bei den Anwohnern nach und betritt keine eingezäunten Grundstücke."
+    - p: "Wohin zum Kastaniensammeln?"
+      r: "Die klassischen Ziele sind El Bierzo (León), das Valle del Genal (Málaga), die Sierra de Francia (Salamanca) und das Valle del Tiétar (Ávila), außerdem Galicien, Asturien und die Gegend um Aracena. Überall gibt es sehr ausgedehnte Kastanienhaine und viel Tradition."
+    - p: "Was muss man mitnehmen?"
+      r: "Dicke Handschuhe, feste Schuhe, einen Korb oder Sack und warme Kleidung, die schmutzig werden darf. Die Igel öffnet man, indem man mit der Schuhsohle darauftritt, Werkzeug ist nicht nötig."
+    - p: "Wie röstet man Kastanien?"
+      r: "Ritz die Schale jeder Kastanie ein, röste sie in einer Lochpfanne, im Ofen oder auf einem Rost und lass sie 20 bis 30 Minuten, bis die Schale aufplatzt. Wickle sie danach ein paar Minuten in ein Tuch, damit sie im eigenen Dampf weitergaren und sich besser schälen lassen."
+    - p: "Ist das ein guter Plan mit Kindern?"
+      r: "Ja, aber mit Vorsicht: Die Igel stechen. Gib ihnen Handschuhe und bring ihnen bei, nicht blind hineinzugreifen. Für Kinder verbindet sich hier Spaziergang, Spiel und Belohnung."
+    - p: "Was ist ein magosto?"
+      r: "Das ist das traditionelle Herbstfest in Galicien, Asturien und El Bierzo: Man röstet Kastanien am Feuer und isst sie mit neuem Wein oder Apfelwein (Sidra), vor allem um den Martinstag, den 11. November."
+
+setas:
+  imagen_alt: "Hände pflücken einen Steinpilz im Wald, daneben ein Weidenkorb voller Pilze"
+  texto:
+    - "Mit den ersten Herbstregen füllen sich Kiefern-, Eichen- und Kastanienwälder mit Pilzen, und die Suche danach wird zu einem der meistersehnten Pläne des Jahres. Es ist die perfekte Ausrede, den Vormittag im Wald zu verbringen, mit oder ohne vollen Korb."
+    - "Die Hauptsaison dauert von Oktober bis November, hängt aber stark von Regen und Temperaturen ab: Nach einigen feuchten Wochen ohne Frost geht es im Wald richtig los. Provinzen wie Soria, die Pyrenäen, León, Zamora, die Sierra de Gredos oder Katalonien sind Klassiker, und vielerorts gibt es pilzkundliche Routen und organisierte Pilztage."
+    - "Informiere dich vor dem Aufbruch über die Vorschriften der Region. Mehrere autonome Gemeinschaften verlangen eine Sammelgenehmigung oder -erlaubnis (in Kastilien und León zum Beispiel funktioniert das System Micocyl), und es gibt Mengenbegrenzungen, Sperrgebiete und Zeitfenster. Die Regeln unterscheiden sich von Ort zu Ort, schau also auf der Website der Gemeinde oder der autonomen Gemeinschaft nach."
+    - "Wenn du keine Erfahrung hast, gilt die goldene Regel: Iss keinen Pilz, den du nicht sicher bestimmt hast. Zum Einstieg ist es am vernünftigsten, an einer geführten Tour oder einem Pilztag mit einem Experten teilzunehmen und einen Feldführer dabeizuhaben. Sammle in einem Weidenkorb, durch den die Sporen herausfallen und in dem die Pilze atmen können, und schneide oder ziehe sie vorsichtig heraus, ohne den Boden zu verwüsten."
+  mapa:
+    titulo: "Wohin zum Pilzesammeln"
+    centro: [41.2, -3.5]
+    zoom: 6
+    puntos:
+      - { nombre: "Pinares de Soria", lat: 41.95, lon: -2.75, desc: "Vinuesa, Covaleda und Duruelo de la Sierra, mit Micocyl als Genehmigungssystem." }
+      - { nombre: "Pirineo (Valle de Arán)", lat: 42.7, lon: 0.8, desc: "Feuchte Tannen- und Buchenwälder in den Pyrenäen der Provinz Lleida." }
+      - { nombre: "Montaña de León", lat: 42.95, lon: -5.1, desc: "Riaño, Babia und Luna, mit Eichenwäldern und Buchenwäldern." }
+      - { nombre: "Sanabria (Zamora)", lat: 42.1, lon: -6.7, desc: "Kiefern- und Kastanienwälder rund um den See von Sanabria." }
+      - { nombre: "Sierra de Gredos (Ávila)", lat: 40.3, lon: -5.2, desc: "Kiefern- und Eichenwälder im Valle del Tiétar und im Barranco." }
+      - { nombre: "Solsonès (Cataluña)", lat: 42.0, lon: 1.5, desc: "Kiefern- und Mischwälder mit großer pilzkundlicher Tradition." }
+  faq:
+    - p: "Wann ist die Pilzsaison?"
+      r: "In Spanien dauert die Hauptsaison von Oktober bis November, in manchen Gegenden reicht sie bis in den Dezember oder beginnt schon im September. Sie hängt von Regen, Höhenlage und Temperatur ab: Nach mehreren feuchten Wochen ohne Frost geht es im Wald los."
+    - p: "Wo kann man Pilze suchen?"
+      r: "Soria, die Pyrenäen, die Wälder von León und Zamora, die Sierra de Gredos oder Katalonien sind klassische Ziele. Am praktischsten ist es, im Tourismusbüro oder in einem Landhotel (casa rural) der Gegend nachzufragen, wo man die Routen und die geltenden Vorschriften meist kennt."
+    - p: "Braucht man eine Genehmigung zum Pilzesammeln?"
+      r: "In vielen Gegenden ja. Mehrere autonome Gemeinschaften verlangen eine Sammelgenehmigung oder -erlaubnis, und es kann Mengenbegrenzungen und Sperrgebiete geben. Informiere dich vor dem Aufbruch immer auf der Website der Gemeinde oder der autonomen Gemeinschaft."
+    - p: "Woher weiß ich, ob ein Pilz essbar ist?"
+      r: "Verlass dich nicht auf Volksweisheiten: Ein Pilz darf nur gegessen werden, wenn du ihn sicher bestimmt hast. Im Zweifel lass ihn stehen. Eine geführte Tour oder ein Pilztag ist der sicherste Weg zu lernen, und bei einer Vergiftung musst du in die Notaufnahme gehen oder den Notruf 112 wählen."
+    - p: "Was muss man mitnehmen?"
+      r: "Einen Weidenkorb, ein Taschenmesser, ein Bestimmungsbuch, Wanderschuhe, warme Kleidung, Wasser und etwas zu essen. Vermeide Plastiktüten, denn sie verderben die Pilze und lassen die Sporen nicht herausfallen."
+    - p: "Ist das ein guter Plan mit Kindern?"
+      r: "Ja, solange sie begleitet werden und wissen, dass nichts angefasst oder gegessen wird, ohne dass ein Erwachsener es geprüft hat. Die Kleinen haben viel Spaß an der Suche, aber wähle einfache Strecken und achte darauf, dass sie die Hände nicht in den Mund stecken."
+
+hayedos:
+  imagen_alt: "Weg voller Laub zwischen Buchen in Herbstfarben, im Hintergrund etwas Nebel"
+  texto:
+    - "Einige wenige Wochen im Herbst lang färben sich die Buchenwälder von Grün zu Gelb, Orange und Kupfer, und der Boden bedeckt sich mit Laub. Es ist eines der fotogensten Naturschauspiele Spaniens und ein perfekter Plan, um ohne Eile zwischen silbrigen Stämmen zu wandern."
+    - "Die beste Zeit ist meist zwischen Mitte Oktober und Mitte November, auch wenn der Höhepunkt der Farben jedes Jahr je nach Kälte, Regen und Wind variiert. Zu den bekanntesten Buchenwäldern zählen die Selva de Irati (Navarra), der Hayedo de Montejo (Madrid), der Hayedo de la Tejera Negra (Guadalajara) und der von Otzarreta (Bizkaia), dazu die in Kantabrien, Asturien und den Pyrenäen."
+    - "Vorsicht bei den Besucherkontingenten: Einige Buchenwälder, etwa der von Montejo, begrenzen die Besucherzahl oder verlangen eine Reservierung bzw. Zugangsgenehmigung, vor allem an den Wochenenden mit der intensivsten Färbung. Schau vorher auf der Website des Schutzgebiets nach, und wenn du kannst, komm unter der Woche: Es sind weniger Leute da und es ist ruhiger."
+    - "Nimm bequeme Schuhe mit, die auf nassem Laub Halt geben, eine warme Schicht und eine Regenjacke, denn im Buchenwald ist es meist feucht, und bleib auf den markierten Wegen. Morgens mit etwas Nebel und im tiefen Licht des Spätnachmittags lässt es sich am besten fotografieren."
+  mapa:
+    titulo: "Wo man im Herbst einen Buchenwald sieht"
+    centro: [42.0, -2.5]
+    zoom: 7
+    puntos:
+      - { nombre: "Selva de Irati (Navarra)", lat: 42.98, lon: -1.1, desc: "Einer der größten Buchen-Tannen-Wälder Europas, zwischen Ochagavía und Orbaizeta." }
+      - { nombre: "Hayedo de Montejo (Madrid)", lat: 41.12, lon: -3.5, desc: "Der südlichste Buchenwald Europas; Zugang nur mit Kontingent und Reservierung." }
+      - { nombre: "Hayedo de la Tejera Negra (Guadalajara)", lat: 41.15, lon: -3.15, desc: "In der Sierra de Ayllón, bei Cantalojas, mit markierten Routen." }
+      - { nombre: "Hayedo de Otzarreta (Bizkaia)", lat: 43.03, lon: -2.78, desc: "Im Naturpark Gorbeia, einer der meistfotografierten." }
+      - { nombre: "Saja-Besaya (Cantabria)", lat: 43.1, lon: -4.2, desc: "Ausgedehnte Buchenwälder im Naturpark, mit guten Herbstrouten." }
+      - { nombre: "Redes (Asturias)", lat: 43.17, lon: -5.3, desc: "Buchenwälder im Gebirge des Naturparks Redes." }
+      - { nombre: "Selva de Oza (Huesca)", lat: 42.85, lon: -0.75, desc: "Buchen- und Tannenwälder der aragonesischen Pyrenäen, im Tal von Hecho." }
+  faq:
+    - p: "Wann ist die beste Zeit, im Herbst einen Buchenwald zu sehen?"
+      r: "Zwischen Mitte Oktober und Mitte November, wobei der Farbhöhepunkt meist etwa zwei bis drei Wochen dauert. Er ändert sich jedes Jahr mit Kälte und Regen, daher lohnt ein Blick auf den Bericht des Schutzgebiets oder die Social-Media-Kanäle der Besucherzentren."
+    - p: "Welche sind die besten Buchenwälder Spaniens?"
+      r: "Die Selva de Irati (Navarra), der Hayedo de Montejo (Madrid), der Hayedo de la Tejera Negra (Guadalajara) und der von Otzarreta (Bizkaia) sind die bekanntesten. Auch die in Kantabrien, Asturien und den Pyrenäen sind sehenswert."
+    - p: "Muss man reservieren oder eine Genehmigung einholen?"
+      r: "Bei manchen ja. Der Hayedo de Montejo zum Beispiel begrenzt die Besuche und verlangt eine Genehmigung, und in anderen Gebieten gibt es Kontingente oder Parkplätze, die sich an den Wochenenden mit der intensivsten Färbung füllen. Schau vor dem Besuch auf der Website des Schutzgebiets nach."
+    - p: "Kann man mit Kindern oder Hund hin?"
+      r: "Kurze, markierte Strecken sind für Kinder geeignet. Mit Hund hängt es vom jeweiligen Gebiet ab: In manchen sind Hunde verboten oder müssen angeleint sein, prüfe das also vorher."
+    - p: "Welche Kleidung und Schuhe soll ich mitnehmen?"
+      r: "Bequeme Schuhe, die auf nassem Laub Halt geben, warme Kleidung im Zwiebellook und eine Regenjacke, denn im Wald werden Feuchtigkeit und Kälte schnell spürbar."
+    - p: "Wie vermeidet man Menschenmassen?"
+      r: "Komm unter der Woche, frühmorgens oder am späten Nachmittag und meide Brückentage und die Wochenenden mit der intensivsten Färbung. Eine Alternative sind weniger bekannte Buchenwälder in derselben Gegend."
+
+berrea:
+  texto:
+    - "Ende des Sommers beginnen die Hirschbullen zu röhren, um die Weibchen anzulocken und ihre Rivalen herauszufordern. Dieses tiefe, kraftvolle Röhren, das im Morgengrauen und in der Abenddämmerung durch den Wald hallt, ist die berrea, eines der eindrucksvollsten Tierschauspiele Spaniens."
+    - "Die Hirschbrunft (berrea) konzentriert sich auf September und Oktober, mit dem Höhepunkt meist Ende September und Anfang Oktober, je nach Gebiet und Jahr. Die bekanntesten Orte sind der Nationalpark Cabañeros, der Nationalpark Monfragüe, die Sierra de Andújar, das Nationale Reservat Riaño und die Sierra de la Culebra, unter anderen."
+    - "Am besten kommst du vor Sonnenaufgang oder eine Weile vor Einbruch der Dunkelheit, wenn die Hirsche am aktivsten sind, und lauschst still von einem Beobachtungspunkt aus. Nimm ein Fernglas, warme Kleidung in unauffälligen Farben mit und verzichte auf Taschenlampen und Blitz. Brunftige Hirsche sind unberechenbar: Halte immer Abstand und nähere dich ihnen nicht."
+    - "In manchen Gebieten gibt es während der Brunft geführte Routen, Beobachtungshütten oder geregelten Zugang, und es empfiehlt sich, rechtzeitig zu reservieren. Schau vorher auf der Website des Schutzgebiets oder des Besucherzentrums nach."
+  mapa:
+    titulo: "Wo man die Hirschbrunft hören kann"
+    centro: [40.0, -5.0]
+    zoom: 6
+    puntos:
+      - { nombre: "Parque Nacional de Cabañeros (Ciudad Real)", lat: 39.4, lon: -4.5, desc: "Weideflächen (rañas) und mediterraner Wald mit großen Hirschbeständen; geführte Touren während der Brunft." }
+      - { nombre: "Parque Nacional de Monfragüe (Cáceres)", lat: 39.83, lon: -6.05, desc: "Dehesa und Felsen mit mehreren Aussichtspunkten, um im Morgengrauen zu lauschen." }
+      - { nombre: "Sierra de Andújar (Jaén)", lat: 38.25, lon: -4.0, desc: "Einer der besten Orte im Süden; sehr gut besucht, Reservierung empfohlen." }
+      - { nombre: "Reserva Nacional de Riaño (León)", lat: 42.98, lon: -5.0, desc: "Brunft im Gebirge, zwischen Buchen- und Eichenwäldern der Picos de Europa in León." }
+      - { nombre: "Sierra de la Culebra (Zamora)", lat: 41.85, lon: -6.2, desc: "Ausgedehntes Jagdreservat mit vielen Hirschen und ab und zu einem Wolf." }
+  faq:
+    - p: "Wann ist die Hirschbrunft?"
+      r: "Zwischen September und Oktober. Die höchste Aktivität herrscht meist Ende September und Anfang Oktober, wobei sie je nach Gebiet und Jahr variiert. Am besten gehst du im Morgengrauen oder in der Abenddämmerung los."
+    - p: "Wo kann man die Hirschbrunft erleben?"
+      r: "Die bekanntesten Orte sind Cabañeros, Monfragüe, die Sierra de Andújar, das Nationale Reservat Riaño und die Sierra de la Culebra. In vielen gibt es geführte Routen, Beobachtungshütten oder markierte Lauschpunkte."
+    - p: "Was muss man mitnehmen?"
+      r: "Ein Fernglas, warme Kleidung in unauffälligen Farben (Grün, Braun, Grau), bequeme Schuhe und etwas zu essen und zu trinken. In den Stunden mit der meisten Aktivität ist es kühl, auch wenn der Tag heiß wird."
+    - p: "Ist es gefährlich, sich den Hirschen zu nähern?"
+      r: "Ja. Brunftige Hirsche sind sehr aggressiv und unberechenbar. Geh nicht näher heran, umkreise sie nicht, versperre ihnen nicht den Weg und halte den Abstand ein, den die Guides oder die Schilder vorgeben."
+    - p: "Muss man reservieren?"
+      r: "In manchen Gebieten ja, vor allem für geführte Routen, Beobachtungshütten oder geregelten Zugang mitten in der Brunft. Schau vor dem Besuch auf der Website des Schutzgebiets oder des Besucherzentrums nach, denn die Plätze sind schnell vergeben."
+    - p: "Kann man mit Kindern hin?"
+      r: "Ja, für Kinder ist es ein sehr schöner Plan, aber man muss leise sein, früh am Tag gehen und die Gruppe nicht verlassen. Wähle einfache Routen, am besten mit Guide."
+
+vendimia:
+  texto:
+    - "Der September ist in einem großen Teil Spaniens der Monat der Weinlese (vendimia): Die reifen Trauben werden von Hand oder mit der Maschine geschnitten, und die Weingüter duften nach Most. Sie aus der Nähe zu erleben, zwischen Weinbergen und Kelterbottichen, ist einer der charmantesten Pläne zum Spätsommer und hat viel von einem Fest."
+    - "Der genaue Zeitpunkt hängt von Gebiet, Rebsorte und Jahr ab. Weiße und frühe Sorten werden meist ab Ende August gelesen, späte Rotweinsorten können sich bis in den Oktober ziehen. Regionen wie La Rioja, Ribera del Duero, Jerez, Penedès, Rías Baixas oder La Mancha bieten Besichtigungen, Verkostungen und weitere Aktivitäten rund um die Lese an."
+    - "Viele Weingüter bieten Erlebnisse an, bei denen du Trauben schneiden, Trauben treten oder zusehen kannst, wie die Ernte im Weingut ankommt, in der Regel nach vorheriger Reservierung und gegen Bezahlung. Außerdem gibt es Weinlesefeste wie die in Jerez oder die Fiestas de San Mateo in Logroño, mit Traubentreten, Opfergabe des ersten Mosts und Verkostungen."
+    - "Wenn du ein Erlebnis im Weinberg buchst, nimm bequeme, geschlossene Schuhe, eine Mütze, Sonnenschutz und Kleidung mit, die schmutzig werden darf. Am besten gehst du früh am Morgen, wenn es weniger heiß ist und ruhiger gearbeitet wird."
+  mapa:
+    titulo: "Wo man die Weinlese erleben kann"
+    centro: [40.0, -3.5]
+    zoom: 6
+    puntos:
+      - { nombre: "La Rioja (Logroño)", lat: 42.4627, lon: -2.445, desc: "Rioja Alta und Rioja Baja, mit den Fiestas de San Mateo in Logroño und vielen Weingütern mit Besichtigung." }
+      - { nombre: "Ribera del Duero (Burgos y Valladolid)", lat: 41.62, lon: -3.9, desc: "Rotweinberge entlang des Duero, mit Weingütern, die Besichtigungen anbieten." }
+      - { nombre: "Rías Baixas (Pontevedra)", lat: 42.51, lon: -8.81, desc: "Albariño-Gebiet mit früher Lese und Weingütern rund um Cambados." }
+      - { nombre: "Penedès (Barcelona)", lat: 41.3446, lon: 1.6988, desc: "Cava- und Weingebiet, mit Weingütern und Leseerlebnissen rund um Vilafranca." }
+      - { nombre: "La Mancha (Ciudad Real)", lat: 39.0, lon: -3.2, desc: "Das größte Weinbaugebiet Spaniens, mit Weingütern und Weinlesefesten in den Dörfern." }
+      - { nombre: "Jerez (Cádiz)", lat: 36.6864, lon: -6.1377, desc: "Hauptstadt des Sherrys (vino de jerez), mit ihrem Weinlesefest und historischen Bodegas." }
+  faq:
+    - p: "Wann ist die Weinlese in Spanien?"
+      r: "Das hängt von Gebiet und Rebsorte ab, aber die Hauptzeit reicht von Ende August bis Oktober, mit dem September als zentralem Monat. Weiße und frühe Trauben werden vor den späten roten gelesen."
+    - p: "Wo kann man die Weinlese erleben?"
+      r: "Die klassischen Ziele sind La Rioja, Ribera del Duero, Jerez, Penedès, Rías Baixas und La Mancha. Viele Weingüter bieten in dieser Zeit Besichtigungen und Erlebnisse an."
+    - p: "Kann man bei der Weinlese mitmachen?"
+      r: "Ja, manche Weingüter bieten Erlebnisse an, bei denen du Trauben schneiden, Trauben treten oder die Anlieferung der Ernte miterleben kannst. Sie sind meist kostenpflichtig und erfordern eine vorherige Reservierung, informiere dich also rechtzeitig."
+    - p: "Gibt es Weinlesefeste?"
+      r: "Ja. Zu den bekanntesten zählen die Fiestas de la Vendimia in Jerez sowie die Fiestas de San Mateo und das Weinlesefest der Rioja in Logroño, mit Traubentreten, Mostopfergabe und Verkostungen."
+    - p: "Was muss man mitnehmen?"
+      r: "Bequeme, geschlossene Schuhe, eine Mütze, Sonnenschutz und Kleidung, die schmutzig werden darf. Am besten gehst du früh am Morgen, wenn es weniger heiß ist."
+    - p: "Ist das ein guter Plan mit Kindern?"
+      r: "Im Allgemeinen ja. Viele Weingüter bieten Familienaktivitäten an, mit symbolischem Traubentreten und alkoholfreiem Most. Frag bei der Reservierung nach, ob Kinder zugelassen sind."

@@ -1,0 +1,155 @@
+castanas-otono:
+  imagen_alt: "Terreno di un castagneto in autunno coperto di foglie dorate e ricci di castagna"
+  texto:
+    - "Quando arriva ottobre, i castagneti del nord e del centro della penisola si riempiono di ricci caduti tra le foglie. Andare a raccogliere castagne è uno dei programmi autunnali più semplici e più gratificanti: una passeggiata tranquilla nel bosco, un cesto che si riempie piano piano e, una volta a casa, qualcosa di buono da arrostire."
+    - "La stagione comincia, a seconda dell'altitudine e dell'anno, verso metà ottobre e si prolunga fino a novembre inoltrato. I migliori castagneti si trovano di solito in zone di montagna con clima umido: El Bierzo (León), la Valle del Genal (Málaga), la sierra de Francia (Salamanca), la Valle del Tiétar (Ávila), oltre a gran parte della Galizia e delle Asturie."
+    - "La cosa più importante è sapere di chi è il castagneto. Molti sono proprietà private con un padrone che se ne prende cura e le vende, e raccogliere al loro interno senza permesso può avere conseguenze. Chiedi in paese, al comune o in una casa rurale della zona: di solito qualcuno ti indica dove si può raccogliere o ti mette in contatto con un proprietario."
+    - "Porta scarpe chiuse che abbiano buona presa, guanti spessi (i ricci pungono davvero), un cesto o un sacco e vestiti che non ti dispiaccia sporcare. Le castagne cadono da sole quando sono mature: la cosa normale è raccogliere quelle da terra, senza bacchiare gli alberi né danneggiarli. I giorni successivi a pioggia e vento sono di solito i più generosi."
+    - "Una volta a casa, incidi la buccia di ogni castagna prima di arrostirla o lessarla, così non scoppiano. Si conservano meglio in un luogo fresco o in frigorifero, ed è meglio consumarle in pochi giorni. Il finale naturale di questo programma è un magosto: castagne arrostite, falò e vino nuovo."
+  mapa:
+    titulo: "Dove andare a raccogliere castagne"
+    centro: [40.0, -5.0]
+    zoom: 6
+    puntos:
+      - { nombre: "El Bierzo (León)", lat: 42.55, lon: -6.6, desc: "Castagneti centenari di Las Médulas e delle valli vicine; culla del magosto." }
+      - { nombre: "Valle del Genal (Málaga)", lat: 36.57, lon: -5.17, desc: "Serranía de Ronda: Igualeja, Pujerra, Genalguacil e Júzcar, con castagni in tutta la valle." }
+      - { nombre: "Sierra de Francia (Salamanca)", lat: 40.485, lon: -6.108, desc: "Dintorni di La Alberca e Miranda del Castañar, con castagneti sui pendii." }
+      - { nombre: "Valle del Tiétar (Ávila)", lat: 40.2, lon: -5.1, desc: "Arenas de San Pedro, Candeleda e Guisando, ai piedi della Sierra de Gredos." }
+      - { nombre: "Sierra de Aracena (Huelva)", lat: 37.89, lon: -6.56, desc: "I castagneti della provincia di Huelva a Castaño del Robledo e Galaroza." }
+  faq:
+    - p: "Quando è la stagione delle castagne?"
+      r: "In Spagna, più o meno da metà ottobre a metà novembre. Nelle zone basse comincia prima e in quelle più alte slitta di qualche giorno. Se vuoi azzeccare il momento giusto, informati sulla zona la settimana prima: il raccolto cambia da un anno all'altro a seconda della pioggia e del caldo estivo."
+    - p: "Si possono raccogliere castagne in qualsiasi bosco?"
+      r: "Non sempre. Molti castagneti sono proprietà privata e, nei boschi pubblici, ogni comune o comunità può avere le proprie norme. Chiedi al comune o ai vicini prima di raccogliere e non entrare in proprietà recintate."
+    - p: "Dove andare a raccogliere castagne?"
+      r: "Le mete classiche sono El Bierzo (León), la Valle del Genal (Málaga), la sierra de Francia (Salamanca) e la Valle del Tiétar (Ávila), oltre a Galizia, Asturie e la zona di Aracena. Tutte hanno castagneti molto estesi e una grande tradizione."
+    - p: "Cosa bisogna portare?"
+      r: "Guanti spessi, scarpe chiuse, un cesto o un sacco e abiti pesanti che non ti dispiaccia sporcare. I ricci si aprono schiacciandoli con la suola della scarpa, senza bisogno di attrezzi."
+    - p: "Come si arrostiscono le castagne?"
+      r: "Incidi la buccia di ciascuna, mettile in una padella forata, nel forno o su una griglia e lasciale da 20 a 30 minuti, finché la buccia si apre. Avvolgile per qualche minuto in un canovaccio perché continuino a cuocere con il proprio vapore e si sbucciano meglio."
+    - p: "È un buon programma con i bambini?"
+      r: "Sì, ma con attenzione: i ricci pungono. Dai loro dei guanti e insegna a non infilare la mano senza guardare. Per i bambini è un'attività che unisce passeggiata, gioco e ricompensa."
+    - p: "Che cos'è un magosto?"
+      r: "È la tradizionale festa d'autunno di Galizia, Asturie ed El Bierzo: si arrostiscono castagne su un falò e si mangiano con vino nuovo o sidro, soprattutto per San Martino, l'11 novembre."
+setas:
+  imagen_alt: "Mani che raccolgono un boleto nel bosco con un cesto di vimini pieno di funghi"
+  texto:
+    - "Con le prime piogge autunnali, pinete, querceti e castagneti si riempiono di funghi, e andare a cercarli diventa uno dei programmi più attesi dell'anno. È una scusa perfetta per passare la mattina nel bosco, con o senza il cesto pieno."
+    - "La stagione principale va da ottobre a novembre, anche se dipende molto dalla pioggia e dalle temperature: dopo qualche settimana di umidità e senza gelate, il bosco si risveglia. Province come Soria, i Pirenei, León, Zamora, la Sierra de Gredos o la Catalogna sono dei classici, e in molte ci sono percorsi micologici e giornate organizzate."
+    - "Prima di partire, informati sulla normativa della zona. Diverse comunità richiedono un permesso o un'autorizzazione di raccolta (in Castilla y León, per esempio, funziona il sistema Micocyl), e ci sono limiti di quantità, zone vietate e orari. Le norme cambiano da un posto all'altro, quindi consulta il sito del comune o della comunità autonoma."
+    - "Se non hai esperienza, la regola d'oro è non mangiare nessun fungo che non hai identificato con sicurezza. La cosa più sensata per cominciare è iscriversi a un'uscita guidata o a una giornata micologica con un esperto, e portare una guida da campo. Raccogli con un cesto di vimini, che lascia cadere le spore e permette all'esemplare di respirare, e taglia o estrai con cura senza devastare il terreno."
+  mapa:
+    titulo: "Dove andare a funghi"
+    centro: [41.2, -3.5]
+    zoom: 6
+    puntos:
+      - { nombre: "Pinares de Soria", lat: 41.95, lon: -2.75, desc: "Vinuesa, Covaleda e Duruelo de la Sierra, con Micocyl come sistema di permessi." }
+      - { nombre: "Pirineo (Valle de Arán)", lat: 42.7, lon: 0.8, desc: "Boschi umidi di abete e faggio nei Pirenei di Lleida." }
+      - { nombre: "Montaña de León", lat: 42.95, lon: -5.1, desc: "Riaño, Babia e Luna, con querceti di rovere e faggete." }
+      - { nombre: "Sanabria (Zamora)", lat: 42.1, lon: -6.7, desc: "Pinete e castagneti intorno al lago di Sanabria." }
+      - { nombre: "Sierra de Gredos (Ávila)", lat: 40.3, lon: -5.2, desc: "Pinete e querceti della Valle del Tiétar e del Barranco." }
+      - { nombre: "Solsonès (Cataluña)", lat: 42.0, lon: 1.5, desc: "Pinete e boschi misti con una grande tradizione micologica." }
+  faq:
+    - p: "Quando è la stagione dei funghi?"
+      r: "In Spagna, la stagione principale va da ottobre a novembre, anche se in alcune zone si prolunga fino a dicembre o inizia a settembre. Dipende da pioggia, altitudine e temperatura: dopo diverse settimane di umidità e senza gelate, il bosco si risveglia."
+    - p: "Dove cercare funghi?"
+      r: "Soria, i Pirenei, i monti di León e Zamora, la Sierra de Gredos o la Catalogna sono mete classiche. La cosa più pratica è chiedere all'ufficio del turismo o in una casa rurale della zona, dove di solito conoscono i percorsi e la normativa in vigore."
+    - p: "Serve un permesso per raccogliere funghi?"
+      r: "In molte zone sì. Diverse comunità autonome richiedono un permesso o un'autorizzazione di raccolta, e possono esserci limiti di quantità e zone vietate. Informati sempre prima di partire sul sito del comune o della comunità autonoma."
+    - p: "Come faccio a sapere se un fungo è commestibile?"
+      r: "Non fidarti dei trucchi popolari: un fungo si può mangiare solo se lo hai identificato con certezza. Se hai dubbi, non raccoglierlo. Un'uscita guidata o una giornata micologica è il modo più sicuro per imparare, e in caso di intossicazione bisogna andare al pronto soccorso o chiamare il 112."
+    - p: "Cosa bisogna portare?"
+      r: "Un cesto di vimini, un coltellino, una guida per il riconoscimento, scarpe da montagna, abiti pesanti, acqua e qualcosa da mangiare. Evita i sacchetti di plastica, che rovinano i funghi e non lasciano cadere le spore."
+    - p: "È un buon programma con i bambini?"
+      r: "Sì, purché siano accompagnati e sappiano che non si tocca né si mangia nulla senza che un adulto lo controlli. I più piccoli si divertono molto con la ricerca, ma conviene scegliere percorsi semplici e fare attenzione che non si portino le mani alla bocca."
+hayedos:
+  imagen_alt: "Sentiero coperto di foglie tra i faggi con i colori dell'autunno e un po' di nebbia sullo sfondo"
+  texto:
+    - "Per poche settimane in autunno, le faggete passano dal verde al giallo, all'arancione e al color rame, e il terreno si ricopre di foglie. È uno degli spettacoli naturali più fotogenici della Spagna e un programma perfetto per camminare senza fretta tra tronchi argentati."
+    - "Il momento migliore va di solito da metà ottobre a metà novembre, anche se il picco di colore cambia ogni anno in base al freddo, alla pioggia e al vento. Tra le faggete più conosciute ci sono la Selva de Irati (Navarra), il Hayedo de Montejo (Madrid), il Hayedo de la Tejera Negra (Guadalajara) e quello di Otzarreta (Bizkaia), oltre a quelle di Cantabria, Asturie e Pirenei."
+    - "Attenzione ai limiti di accesso: alcune faggete, come quella di Montejo, limitano il numero di visitatori o richiedono prenotazione o permesso di accesso, soprattutto nei fine settimana di massimo colore. Consulta prima il sito dell'area protetta e, se puoi, vai in settimana: ci sarà meno gente e più silenzio."
+    - "Porta scarpe comode che abbiano presa sulle foglie bagnate, uno strato caldo e un k-way, perché nella faggeta l'umidità è frequente, e non uscire dai sentieri segnalati. Le mattine con un po' di nebbia e la luce bassa del tramonto sono le migliori per fotografare."
+  mapa:
+    titulo: "Dove vedere una faggeta in autunno"
+    centro: [42.0, -2.5]
+    zoom: 7
+    puntos:
+      - { nombre: "Selva de Irati (Navarra)", lat: 42.98, lon: -1.1, desc: "Una delle più grandi foreste di faggi e abeti d'Europa, tra Ochagavía e Orbaizeta." }
+      - { nombre: "Hayedo de Montejo (Madrid)", lat: 41.12, lon: -3.5, desc: "La faggeta più meridionale d'Europa; accesso con limite di visitatori e prenotazione." }
+      - { nombre: "Hayedo de la Tejera Negra (Guadalajara)", lat: 41.15, lon: -3.15, desc: "Nella sierra de Ayllón, vicino a Cantalojas, con percorsi segnalati." }
+      - { nombre: "Hayedo de Otzarreta (Bizkaia)", lat: 43.03, lon: -2.78, desc: "Nel Parco Naturale del Gorbeia, una delle più fotografate." }
+      - { nombre: "Saja-Besaya (Cantabria)", lat: 43.1, lon: -4.2, desc: "Faggete estese nel Parco Naturale, con ottimi percorsi autunnali." }
+      - { nombre: "Redes (Asturias)", lat: 43.17, lon: -5.3, desc: "Faggete di montagna nel Parco Naturale di Redes." }
+      - { nombre: "Selva de Oza (Huesca)", lat: 42.85, lon: -0.75, desc: "Faggete e abetaie dei Pirenei aragonesi, nella valle di Hecho." }
+  faq:
+    - p: "Qual è il momento migliore per vedere una faggeta in autunno?"
+      r: "Tra metà ottobre e metà novembre, con un picco di colore che di solito dura due o tre settimane. Varia ogni anno con il freddo e la pioggia, quindi conviene guardare il bollettino dell'area protetta o i social dei centri visitatori."
+    - p: "Quali sono le migliori faggete della Spagna?"
+      r: "La Selva de Irati (Navarra), il Hayedo de Montejo (Madrid), il Hayedo de la Tejera Negra (Guadalajara) e quello di Otzarreta (Bizkaia) sono le più conosciute. Spiccano anche quelle di Cantabria, Asturie e Pirenei."
+    - p: "Bisogna prenotare o chiedere un permesso?"
+      r: "In alcune sì. Il Hayedo de Montejo, per esempio, limita le visite e richiede un'autorizzazione, e in altre aree ci sono limiti di accesso o parcheggi che si riempiono nei fine settimana di massimo colore. Consulta il sito dell'area protetta prima di andare."
+    - p: "Si può andare con bambini o con il cane?"
+      r: "I percorsi brevi e segnalati sono adatti ai bambini. Con il cane dipende da ogni area: in alcune sono vietati o devono stare al guinzaglio, quindi conviene verificarlo prima."
+    - p: "Che abbigliamento e scarpe portare?"
+      r: "Scarpe comode con buona presa sulle foglie bagnate, abiti pesanti a strati e un k-way, perché nel bosco umidità e temperatura scendono rapidamente."
+    - p: "Come evitare la folla?"
+      r: "Vai in settimana, la mattina presto o a fine pomeriggio, ed evita i ponti e i fine settimana di massimo colore. Un'alternativa è scegliere faggete meno conosciute della stessa zona."
+berrea:
+  texto:
+    - "A fine estate i cervi maschi cominciano a bramire per attirare le femmine e sfidare i rivali. Quel ruggito grave e potente, che risuona nel bosco all'alba e al tramonto, è la berrea, il bramito del cervo, uno degli spettacoli faunistici più impressionanti della Spagna."
+    - "La berrea si concentra tra settembre e ottobre, con il momento clou di solito a fine settembre e inizio ottobre, anche se varia a seconda della zona e dell'anno. I luoghi più conosciuti sono il Parco Nazionale di Cabañeros, il Parco Nazionale di Monfragüe, la Sierra de Andújar, la Riserva Nazionale di Riaño e la Sierra de la Culebra, tra gli altri."
+    - "La cosa migliore è arrivare prima dell'alba o un po' prima del tramonto, quando i cervi sono più attivi, e ascoltare in silenzio da un punto di osservazione. Porta un binocolo, abiti caldi e di colori discreti, e non usare torce né flash. I cervi in calore sono imprevedibili: mantieni sempre la distanza e non avvicinarti."
+    - "In alcune aree ci sono percorsi guidati, osservatori o accessi regolamentati durante la berrea, ed è meglio prenotare con anticipo. Consulta il sito dell'area protetta o del centro visitatori prima di andare."
+  mapa:
+    titulo: "Dove ascoltare la berrea"
+    centro: [40.0, -5.0]
+    zoom: 6
+    puntos:
+      - { nombre: "Parque Nacional de Cabañeros (Ciudad Real)", lat: 39.4, lon: -4.5, desc: "Praterie e macchia mediterranea con grandi popolazioni di cervi; visite guidate durante la berrea." }
+      - { nombre: "Parque Nacional de Monfragüe (Cáceres)", lat: 39.83, lon: -6.05, desc: "Dehesa e pareti rocciose con vari punti panoramici per ascoltare all'alba." }
+      - { nombre: "Sierra de Andújar (Jaén)", lat: 38.25, lon: -4.0, desc: "Uno dei posti migliori del sud; molto frequentato, conviene prenotare." }
+      - { nombre: "Reserva Nacional de Riaño (León)", lat: 42.98, lon: -5.0, desc: "Berrea di montagna, tra faggete e querceti dei Picos de Europa leonesi." }
+      - { nombre: "Sierra de la Culebra (Zamora)", lat: 41.85, lon: -6.2, desc: "Ampia riserva di caccia con molti cervi e qualche lupo." }
+  faq:
+    - p: "Quando è la berrea del cervo?"
+      r: "Tra settembre e ottobre. Il momento di maggiore attività di solito è a fine settembre e inizio ottobre, anche se cambia a seconda della zona e dell'anno. La cosa migliore è uscire all'alba o al tramonto."
+    - p: "Dove vedere la berrea?"
+      r: "I luoghi più conosciuti sono Cabañeros, Monfragüe, la Sierra de Andújar, la Riserva Nazionale di Riaño e la Sierra de la Culebra. In molti ci sono percorsi guidati, osservatori o punti di ascolto segnalati."
+    - p: "Cosa bisogna portare?"
+      r: "Binocolo, abiti caldi e di colori discreti (verdi, marroni, grigi), scarpe comode e qualcosa da mangiare e da bere. Nelle ore di maggiore attività fa fresco, anche se la giornata è calda."
+    - p: "È pericoloso avvicinarsi ai cervi?"
+      r: "Sì. I maschi in calore sono molto aggressivi e imprevedibili. Non avvicinarti, non aggirarli né tagliare loro la strada e mantieni la distanza indicata dalle guide o dai cartelli."
+    - p: "Bisogna prenotare?"
+      r: "In alcune aree sì, soprattutto per percorsi guidati, osservatori o accessi regolamentati in piena berrea. Guarda il sito dell'area protetta o del centro visitatori prima di andare, perché i posti si esauriscono."
+    - p: "Si può andare con i bambini?"
+      r: "Sì, è un programma bellissimo per loro, ma bisogna andare in silenzio, di buon'ora e senza staccarsi dal gruppo. Scegli percorsi semplici e meglio con una guida."
+vendimia:
+  texto:
+    - "Settembre è il mese della vendemmia in buona parte della Spagna: i grappoli maturi si tagliano a mano o a macchina e le cantine si riempiono di profumo di mosto. Viverla da vicino, tra vigneti e palmenti, è uno dei programmi di fine estate più affascinanti, e ha molto di festa."
+    - "La data esatta cambia a seconda della zona, del vitigno e dell'anno. Le uve bianche e le varietà precoci si raccolgono di solito da fine agosto, mentre le rosse più tardive possono arrivare fino a ottobre. Regioni come La Rioja, la Ribera del Duero, Jerez, il Penedès, le Rías Baixas o La Mancha organizzano visite, degustazioni e attività collegate."
+    - "Molte cantine offrono esperienze in cui puoi tagliare i grappoli, pigiare l'uva o vedere come arriva il raccolto in cantina, di solito con prenotazione e a pagamento. Ci sono inoltre feste dedicate alla vendemmia, come quelle di Jerez o quelle di San Mateo a Logroño, con pigiatura dell'uva, offerte del primo mosto e degustazioni."
+    - "Se ti iscrivi a un'esperienza in vigneto, porta scarpe chiuse e comode, cappello, protezione solare e abiti che si possano sporcare. Meglio andare la mattina presto, quando fa meno caldo e si lavora con più calma."
+  mapa:
+    titulo: "Dove vivere la vendemmia"
+    centro: [40.0, -3.5]
+    zoom: 6
+    puntos:
+      - { nombre: "La Rioja (Logroño)", lat: 42.4627, lon: -2.445, desc: "Rioja Alta e Rioja Baja, con le feste di San Mateo a Logroño e molte cantine con visita." }
+      - { nombre: "Ribera del Duero (Burgos y Valladolid)", lat: 41.62, lon: -3.9, desc: "Vigneti di rosso lungo il Duero, con cantine aperte alle visite." }
+      - { nombre: "Rías Baixas (Pontevedra)", lat: 42.51, lon: -8.81, desc: "Zona dell'albariño, con vendemmia precoce e cantine intorno a Cambados." }
+      - { nombre: "Penedès (Barcelona)", lat: 41.3446, lon: 1.6988, desc: "Zona del cava e del vino, con cantine ed esperienze di vendemmia intorno a Vilafranca." }
+      - { nombre: "La Mancha (Ciudad Real)", lat: 39.0, lon: -3.2, desc: "Il più grande vigneto della Spagna, con cantine e feste della vendemmia nei suoi paesi." }
+      - { nombre: "Jerez (Cádiz)", lat: 36.6864, lon: -6.1377, desc: "Capitale del vino di Jerez (sherry), con la sua festa della vendemmia e cantine storiche." }
+  faq:
+    - p: "Quando è la vendemmia in Spagna?"
+      r: "Dipende dalla zona e dal vitigno, ma il periodo principale va da fine agosto a ottobre, con settembre come mese centrale. Le uve bianche e precoci si raccolgono prima delle rosse tardive."
+    - p: "Dove vivere la vendemmia?"
+      r: "Le mete classiche sono La Rioja, la Ribera del Duero, Jerez, il Penedès, le Rías Baixas e La Mancha. Molte cantine organizzano visite ed esperienze in quelle date."
+    - p: "Si può partecipare alla vendemmia?"
+      r: "Sì, ci sono cantine che offrono esperienze in cui puoi tagliare i grappoli, pigiare l'uva o vedere l'arrivo del raccolto. Di solito sono a pagamento e richiedono prenotazione, quindi informati per tempo."
+    - p: "Ci sono feste della vendemmia?"
+      r: "Sì. Tra le più conosciute ci sono le Fiestas de la Vendimia di Jerez e le Fiestas de San Mateo e della vendemmia riojana a Logroño, con pigiatura dell'uva, offerta del mosto e degustazioni."
+    - p: "Cosa bisogna portare?"
+      r: "Scarpe chiuse e comode, cappello, protezione solare e abiti che si possano sporcare. Meglio andare la mattina presto, quando fa meno caldo."
+    - p: "È un buon programma con i bambini?"
+      r: "In generale sì. Molte cantine organizzano attività per famiglie, con pigiatura simbolica dell'uva e mosto analcolico. Chiedi al momento della prenotazione se accettano bambini."

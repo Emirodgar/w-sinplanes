@@ -1,0 +1,155 @@
+castanas-otono:
+  imagen_alt: "Chão de um souto no outono coberto de folhas douradas e ouriços de castanha"
+  texto:
+    - "Quando chega outubro, os soutos do norte e do centro da península enchem-se de ouriços caídos entre as folhas. Ir apanhar castanhas é um dos programas de outono mais simples e mais gratificantes: um passeio tranquilo pelo monte, um cesto que se vai enchendo e, ao voltar, algo saboroso para assar em casa."
+    - "A época começa, consoante a altitude e o ano, por meados de outubro e prolonga-se até bem entrado novembro. Os melhores soutos costumam estar em zonas de montanha com clima húmido: El Bierzo (León), o Valle del Genal (Málaga), a Sierra de Francia (Salamanca), o Valle del Tiétar (Ávila), além de boa parte da Galiza e das Astúrias."
+    - "O mais importante é saber de quem é o souto. Muitos são propriedades privadas, com um dono que cuida delas e as vende, e apanhar castanhas nelas sem autorização pode ter consequências. Pergunta na aldeia, na câmara municipal ou numa casa rural da zona: é habitual que alguém te indique onde se pode apanhar ou te ponha em contacto com um proprietário."
+    - "Leva calçado fechado que tenha boa aderência, luvas grossas (os ouriços picam a sério), um cesto ou um saco e roupa que não te importes de sujar. As castanhas caem sozinhas quando estão maduras: o normal é apanhar as do chão, sem varejar as árvores nem as danificar. Os dias seguintes à chuva e ao vento costumam ser os mais generosos."
+    - "Já em casa, faz um corte na casca de cada castanha antes de a assar ou cozer, para que não rebentem. Conservam-se melhor num local fresco ou no frigorífico, e convém consumi-las em poucos dias. O remate natural deste programa é um magosto: castanhas assadas, fogueira e vinho novo."
+  mapa:
+    titulo: "Onde ir apanhar castanhas"
+    centro: [40.0, -5.0]
+    zoom: 6
+    puntos:
+      - { nombre: "El Bierzo (León)", lat: 42.55, lon: -6.6, desc: "Soutos centenários de Las Médulas e dos vales próximos; berço do magosto." }
+      - { nombre: "Valle del Genal (Málaga)", lat: 36.57, lon: -5.17, desc: "Serranía de Ronda: Igualeja, Pujerra, Genalguacil e Júzcar, com castanheiros por todo o vale." }
+      - { nombre: "Sierra de Francia (Salamanca)", lat: 40.485, lon: -6.108, desc: "Zona de La Alberca e Miranda del Castañar, com soutos nas encostas." }
+      - { nombre: "Valle del Tiétar (Ávila)", lat: 40.2, lon: -5.1, desc: "Arenas de San Pedro, Candeleda e Guisando, aos pés de Gredos." }
+      - { nombre: "Sierra de Aracena (Huelva)", lat: 37.89, lon: -6.56, desc: "Os soutos de Huelva, em Castaño del Robledo e Galaroza." }
+  faq:
+    - p: "Quando é a época das castanhas?"
+      r: "Em Espanha, de meados de outubro a meados de novembro, aproximadamente. Nas zonas baixas começa mais cedo e nas mais altas atrasa-se alguns dias. Se quiseres acertar, pergunta pela zona na semana anterior: a colheita muda de um ano para o outro consoante a chuva e o calor do verão."
+    - p: "Pode-se apanhar castanhas em qualquer monte?"
+      r: "Nem sempre. Muitos soutos são propriedade privada e, em monte público, cada câmara municipal ou comunidade pode ter as suas próprias regras. Pergunta na câmara municipal ou aos vizinhos antes de apanhar e não entres em propriedades vedadas."
+    - p: "Onde ir apanhar castanhas?"
+      r: "Os destinos clássicos são El Bierzo (León), o Valle del Genal (Málaga), a Sierra de Francia (Salamanca) e o Valle del Tiétar (Ávila), além da Galiza, das Astúrias e da zona de Aracena. Todos têm soutos muito extensos e muita tradição."
+    - p: "O que é preciso levar?"
+      r: "Luvas grossas, calçado fechado, um cesto ou saco e roupa quente que não te importes de sujar. Os ouriços abrem-se pisando-os com a sola do sapato, sem necessidade de ferramentas."
+    - p: "Como se assam as castanhas?"
+      r: "Faz um corte na casca de cada uma, coloca-as numa frigideira própria com furos, no forno ou numa grelha, e deixa-as 20 a 30 minutos até a casca se abrir. Embrulha-as uns minutos num pano para que continuem a cozinhar com o seu próprio vapor e se descasquem melhor."
+    - p: "É um bom programa com crianças?"
+      r: "Sim, embora com cuidado: os ouriços picam. Dá-lhes luvas e ensina-as a não meter a mão sem olhar. Para elas, é uma atividade que mistura passeio, brincadeira e recompensa."
+    - p: "O que é um magosto?"
+      r: "É a festa tradicional de outono da Galiza, das Astúrias e de El Bierzo: assam-se castanhas numa fogueira e comem-se com vinho novo ou sidra, sobretudo por São Martinho, a 11 de novembro."
+setas:
+  imagen_alt: "Mãos a apanhar um boleto no bosque, com um cesto de vime cheio de cogumelos"
+  texto:
+    - "Com as primeiras chuvas de outono, os pinhais, carvalhais e soutos enchem-se de cogumelos, e sair à sua procura torna-se um dos programas mais esperados do ano. É a desculpa perfeita para passar a manhã no monte, com o cesto cheio ou não."
+    - "A época forte vai de outubro a novembro, embora dependa muito da chuva e das temperaturas: depois de umas semanas húmidas e sem geadas, o monte arranca. Províncias como Soria, o Pirenéu, León, Zamora, a Sierra de Gredos ou a Catalunha são clássicos, e em muitas há percursos micológicos e jornadas organizadas."
+    - "Antes de sair, informa-te sobre a regulamentação da zona. Várias comunidades exigem uma licença ou autorização de colheita (em Castela e Leão, por exemplo, funciona o sistema Micocyl), e existem limites de quantidade, zonas vedadas e horários. As regras mudam de um sítio para o outro, por isso consulta o site da câmara municipal ou da comunidade autónoma."
+    - "Se não tens experiência, a regra de ouro é não comer nenhum cogumelo que não tenhas identificado com segurança. O mais sensato para começar é inscreveres-te numa saída guiada ou numa jornada micológica com um especialista, e levar um guia de campo. Apanha com um cesto de vime, que deixa cair os esporos e permite que o exemplar respire, e corta ou extrai com cuidado, sem devastar o terreno."
+  mapa:
+    titulo: "Onde ir apanhar cogumelos"
+    centro: [41.2, -3.5]
+    zoom: 6
+    puntos:
+      - { nombre: "Pinhais de Soria", lat: 41.95, lon: -2.75, desc: "Vinuesa, Covaleda e Duruelo de la Sierra, com a Micocyl como sistema de licenças." }
+      - { nombre: "Pirenéu (Valle de Arán)", lat: 42.7, lon: 0.8, desc: "Bosques húmidos de abeto e faia no Pirenéu de Lleida." }
+      - { nombre: "Montanha de León", lat: 42.95, lon: -5.1, desc: "Riaño, Babia e Luna, com carvalhais e faiais." }
+      - { nombre: "Sanabria (Zamora)", lat: 42.1, lon: -6.7, desc: "Pinhais e soutos em redor do lago de Sanabria." }
+      - { nombre: "Sierra de Gredos (Ávila)", lat: 40.3, lon: -5.2, desc: "Pinhais e carvalhais do Valle del Tiétar e do Barranco." }
+      - { nombre: "Solsonès (Catalunha)", lat: 42.0, lon: 1.5, desc: "Pinhais e bosques mistos com muita tradição micológica." }
+  faq:
+    - p: "Quando é a época dos cogumelos?"
+      r: "Em Espanha, a época principal vai de outubro a novembro, embora em algumas zonas se prolongue até dezembro ou comece em setembro. Depende da chuva, da altitude e da temperatura: depois de várias semanas húmidas e sem geadas, o monte arranca."
+    - p: "Onde procurar cogumelos?"
+      r: "Soria, o Pirenéu, os montes de León e Zamora, a Sierra de Gredos ou a Catalunha são destinos clássicos. O mais prático é perguntar no posto de turismo ou numa casa rural da zona, onde costumam conhecer os percursos e a regulamentação em vigor."
+    - p: "É preciso licença para apanhar cogumelos?"
+      r: "Em muitas zonas, sim. Várias comunidades autónomas exigem uma licença ou autorização de colheita, e pode haver limites de quantidade e zonas vedadas. Informa-te sempre antes de sair no site da câmara municipal ou da comunidade autónoma."
+    - p: "Como sei se um cogumelo é comestível?"
+      r: "Não confies em truques populares: só se pode comer um cogumelo se o tiveres identificado com certeza. Se tiveres dúvidas, não o apanhes. Uma saída guiada ou uma jornada micológica é a forma mais segura de aprender e, em caso de intoxicação, é preciso ir às urgências ou ligar para o 112."
+    - p: "O que é preciso levar?"
+      r: "Um cesto de vime, um canivete, um guia de identificação, calçado de montanha, roupa quente, água e algo para comer. Evita os sacos de plástico, que estragam os cogumelos e não deixam cair os esporos."
+    - p: "É um bom programa com crianças?"
+      r: "Sim, desde que vão acompanhadas e saibam que não se toca nem se come nada sem que um adulto o verifique. Os mais pequenos gostam muito da busca, mas convém escolher percursos simples e ter atenção para que não levem as mãos à boca."
+hayedos:
+  imagen_alt: "Caminho coberto de folhas entre faias com as cores do outono e algum nevoeiro ao fundo"
+  texto:
+    - "Durante umas poucas semanas de outono, os faiais passam do verde ao amarelo, ao laranja e ao acobreado, e o chão cobre-se de folhas. É um dos espetáculos naturais mais fotogénicos de Espanha e um programa perfeito para caminhar sem pressa entre troncos prateados."
+    - "O melhor momento costuma ser entre meados de outubro e meados de novembro, embora o pico de cor mude a cada ano consoante o frio, a chuva e o vento. Entre os faiais mais conhecidos estão a Selva de Irati (Navarra), o Hayedo de Montejo (Madrid), o Hayedo de la Tejera Negra (Guadalajara) e o de Otzarreta (Bizkaia), além dos da Cantábria, das Astúrias e do Pirenéu."
+    - "Atenção às quotas: alguns faiais, como o de Montejo, limitam o número de visitantes ou exigem reserva ou autorização de acesso, sobretudo nos fins de semana de cor máxima. Consulta antes o site do espaço protegido e, se puderes, vai durante a semana: haverá menos gente e mais silêncio."
+    - "Leva calçado confortável que tenha aderência em folhas molhadas, um casaco quente e um impermeável, porque no faial a humidade é habitual, e não saias dos trilhos sinalizados. As manhãs com algum nevoeiro e a luz baixa do fim da tarde são as melhores para fotografar."
+  mapa:
+    titulo: "Onde ver um faial no outono"
+    centro: [42.0, -2.5]
+    zoom: 7
+    puntos:
+      - { nombre: "Selva de Irati (Navarra)", lat: 42.98, lon: -1.1, desc: "Um dos maiores bosques de faias e abetos da Europa, entre Ochagavía e Orbaizeta." }
+      - { nombre: "Hayedo de Montejo (Madrid)", lat: 41.12, lon: -3.5, desc: "O faial mais a sul da Europa; acesso com quota e reserva." }
+      - { nombre: "Hayedo de la Tejera Negra (Guadalajara)", lat: 41.15, lon: -3.15, desc: "Na serra de Ayllón, junto a Cantalojas, com percursos sinalizados." }
+      - { nombre: "Hayedo de Otzarreta (Bizkaia)", lat: 43.03, lon: -2.78, desc: "No Parque Natural de Gorbeia, um dos mais fotografados." }
+      - { nombre: "Saja-Besaya (Cantábria)", lat: 43.1, lon: -4.2, desc: "Faiais extensos no Parque Natural, com bons percursos de outono." }
+      - { nombre: "Redes (Astúrias)", lat: 43.17, lon: -5.3, desc: "Faiais de montanha no Parque Natural de Redes." }
+      - { nombre: "Selva de Oza (Huesca)", lat: 42.85, lon: -0.75, desc: "Faiais e abetais do Pirenéu aragonês, no vale de Hecho." }
+  faq:
+    - p: "Quando é o melhor momento para ver um faial no outono?"
+      r: "Entre meados de outubro e meados de novembro, com um pico de cor que costuma durar umas duas ou três semanas. Varia a cada ano com o frio e a chuva, por isso convém consultar o boletim do espaço protegido ou as redes sociais dos centros de visitantes."
+    - p: "Quais são os melhores faiais de Espanha?"
+      r: "A Selva de Irati (Navarra), o Hayedo de Montejo (Madrid), o Hayedo de la Tejera Negra (Guadalajara) e o de Otzarreta (Bizkaia) são os mais conhecidos. Destacam-se também os da Cantábria, das Astúrias e do Pirenéu."
+    - p: "É preciso reservar ou pedir autorização?"
+      r: "Em alguns, sim. O Hayedo de Montejo, por exemplo, limita as visitas e exige autorização e, noutros espaços, há quotas ou parques de estacionamento que enchem nos fins de semana de cor máxima. Consulta o site do espaço protegido antes de ir."
+    - p: "Pode-se ir com crianças ou com cão?"
+      r: "Os percursos curtos e sinalizados são adequados para crianças. Com cão depende de cada espaço: em alguns são proibidos ou têm de ir com trela, por isso convém verificar antes."
+    - p: "Que roupa e calçado levar?"
+      r: "Calçado confortável que tenha aderência em folhas molhadas, roupa quente em camadas e um impermeável, porque a humidade e a temperatura descem depressa no bosque."
+    - p: "Como evitar as multidões?"
+      r: "Vai durante a semana, logo de manhã cedo ou ao fim da tarde, e evita as pontes e os fins de semana de cor máxima. Uma alternativa é escolher faiais menos conhecidos da mesma zona."
+berrea:
+  texto:
+    - "No final do verão, os veados machos começam a bramar para atrair as fêmeas e desafiar os rivais. Esse rugido grave e poderoso, que ecoa pelo monte ao amanhecer e ao entardecer, é a berrea (a brama do veado), um dos espetáculos de fauna mais impressionantes de Espanha."
+    - "A berrea concentra-se entre setembro e outubro, com o momento alto normalmente no final de setembro e início de outubro, embora varie consoante a zona e o ano. Os locais mais conhecidos são o Parque Nacional de Cabañeros, o Parque Nacional de Monfragüe, a Sierra de Andújar, a Reserva Nacional de Riaño e a Sierra de la Culebra, entre outros."
+    - "O melhor é chegar antes do amanhecer ou um pouco antes de anoitecer, quando os veados estão mais ativos, e escutar em silêncio a partir de um ponto de observação. Leva binóculos, roupa quente e de cores discretas, e não uses lanternas nem flash. Os veados no cio são imprevisíveis: mantém sempre a distância e não te aproximes deles."
+    - "Em alguns espaços há percursos guiados, observatórios ou acessos regulados durante a berrea, e convém reservar com antecedência. Consulta o site do espaço protegido ou do centro de visitantes antes de ir."
+  mapa:
+    titulo: "Onde escutar a berrea"
+    centro: [40.0, -5.0]
+    zoom: 6
+    puntos:
+      - { nombre: "Parque Nacional de Cabañeros (Ciudad Real)", lat: 39.4, lon: -4.5, desc: "Rañas (planícies) e monte mediterrânico com grandes populações de veado; visitas guiadas durante a berrea." }
+      - { nombre: "Parque Nacional de Monfragüe (Cáceres)", lat: 39.83, lon: -6.05, desc: "Montado e rochedos com vários miradouros para escutar ao amanhecer." }
+      - { nombre: "Sierra de Andújar (Jaén)", lat: 38.25, lon: -4.0, desc: "Um dos melhores locais do sul; muito concorrido, convém reservar." }
+      - { nombre: "Reserva Nacional de Riaño (León)", lat: 42.98, lon: -5.0, desc: "Berrea de montanha, entre faiais e carvalhais dos Picos de Europa leoneses." }
+      - { nombre: "Sierra de la Culebra (Zamora)", lat: 41.85, lon: -6.2, desc: "Extensa reserva de caça com muito veado e algum lobo." }
+  faq:
+    - p: "Quando é a berrea do veado?"
+      r: "Entre setembro e outubro. O momento de maior atividade costuma ser no final de setembro e início de outubro, embora mude consoante a zona e o ano. O melhor é sair ao amanhecer ou ao entardecer."
+    - p: "Onde ver a berrea?"
+      r: "Os locais mais conhecidos são Cabañeros, Monfragüe, a Sierra de Andújar, a Reserva Nacional de Riaño e a Sierra de la Culebra. Em muitos há percursos guiados, observatórios ou pontos de escuta sinalizados."
+    - p: "O que é preciso levar?"
+      r: "Binóculos, roupa quente e de cores discretas (verdes, castanhos, cinzentos), calçado confortável e algo para comer e beber. Nas horas de maior atividade está fresco, mesmo que o dia seja quente."
+    - p: "É perigoso aproximar-se dos veados?"
+      r: "Sim. Os machos no cio estão muito agressivos e são imprevisíveis. Não te aproximes, não os rodeies nem lhes cortes o caminho, e mantém a distância que indicarem os guias ou os cartazes."
+    - p: "É preciso reservar?"
+      r: "Em alguns espaços, sim, sobretudo para percursos guiados, observatórios ou acessos regulados em plena berrea. Consulta o site do espaço protegido ou do centro de visitantes antes de ir, porque as vagas esgotam."
+    - p: "Pode-se ir com crianças?"
+      r: "Sim, é um programa muito bonito para elas, mas é preciso ir em silêncio, a horas matinais e sem se afastar do grupo. Escolhe percursos simples e, de preferência, com um guia."
+vendimia:
+  texto:
+    - "Setembro é o mês da vindima em boa parte de Espanha: os cachos maduros são cortados à mão ou à máquina e as adegas enchem-se de cheiro a mosto. Vivê-la de perto, entre vinhas e lagares, é um dos programas de fim de verão com mais encanto, e tem muito de festa."
+    - "A data exata muda consoante a zona, a casta e o ano. As uvas brancas e as castas precoces costumam ser colhidas desde o final de agosto, e as tintas mais tardias podem prolongar-se até outubro. Regiões como La Rioja, a Ribera del Duero, Jerez, o Penedès, as Rías Baixas ou La Mancha organizam visitas, provas e atividades relacionadas."
+    - "Muitas adegas oferecem experiências em que podes cortar cachos, pisar a uva ou ver como a colheita chega à adega, normalmente com reserva prévia e pagas. Há ainda festas dedicadas à vindima, como as de Jerez ou as de San Mateo em Logroño, com pisa da uva, oferendas do primeiro mosto e degustações."
+    - "Se te inscreveres numa experiência na vinha, leva calçado fechado e confortável, boné, protetor solar e roupa que se possa manchar. É melhor ir logo de manhã cedo, quando está menos calor e se trabalha com mais tranquilidade."
+  mapa:
+    titulo: "Onde viver a vindima"
+    centro: [40.0, -3.5]
+    zoom: 6
+    puntos:
+      - { nombre: "La Rioja (Logroño)", lat: 42.4627, lon: -2.445, desc: "Rioja Alta e Rioja Baja, com as festas de San Mateo em Logroño e muitas adegas com visita." }
+      - { nombre: "Ribera del Duero (Burgos e Valladolid)", lat: 41.62, lon: -3.9, desc: "Vinhas de tinto ao longo do Douro, com adegas abertas a visitas." }
+      - { nombre: "Rías Baixas (Pontevedra)", lat: 42.51, lon: -8.81, desc: "Zona do alvarinho, com vindima precoce e adegas em redor de Cambados." }
+      - { nombre: "Penedès (Barcelona)", lat: 41.3446, lon: 1.6988, desc: "Zona do cava e do vinho, com adegas e experiências de vindima em redor de Vilafranca." }
+      - { nombre: "La Mancha (Ciudad Real)", lat: 39.0, lon: -3.2, desc: "A maior vinha de Espanha, com adegas e festas da vindima nas suas aldeias." }
+      - { nombre: "Jerez (Cádiz)", lat: 36.6864, lon: -6.1377, desc: "Capital do vinho de Jerez, com a sua festa da vindima e adegas históricas." }
+  faq:
+    - p: "Quando é a vindima em Espanha?"
+      r: "Depende da zona e da casta, mas a época principal vai do final de agosto a outubro, com setembro como mês central. As uvas brancas e precoces são colhidas antes das tintas tardias."
+    - p: "Onde viver a vindima?"
+      r: "Os destinos clássicos são La Rioja, a Ribera del Duero, Jerez, o Penedès, as Rías Baixas e La Mancha. Muitas adegas organizam visitas e experiências nessas datas."
+    - p: "Pode-se participar na vindima?"
+      r: "Sim, há adegas que oferecem experiências em que podes cortar cachos, pisar a uva ou ver a entrada da colheita. Costumam ser pagas e requerem reserva prévia, por isso informa-te com tempo."
+    - p: "Há festas da vindima?"
+      r: "Sim. Entre as mais conhecidas estão as Fiestas de la Vendimia de Jerez e as Fiestas de San Mateo e da vindima riojana em Logroño, com pisa da uva, oferenda do mosto e degustações."
+    - p: "O que é preciso levar?"
+      r: "Calçado fechado e confortável, boné, protetor solar e roupa que se possa manchar. É melhor ir logo de manhã cedo, quando está menos calor."
+    - p: "É um bom programa com crianças?"
+      r: "Em geral, sim. Muitas adegas organizam atividades para famílias, com pisa simbólica da uva e mosto sem álcool. Pergunta ao reservar se aceitam crianças."

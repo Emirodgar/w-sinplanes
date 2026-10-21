@@ -1,0 +1,155 @@
+castanas-otono:
+  imagen_alt: "Sol d'une châtaigneraie en automne couvert de feuilles dorées et de bogues de châtaigne"
+  texto:
+    - "Quand octobre arrive, les châtaigneraies du nord et du centre de la péninsule se couvrent de bogues tombées parmi les feuilles. Aller ramasser des châtaignes est l'un des plans d'automne les plus simples et les plus gratifiants : une balade tranquille en forêt, un panier qui se remplit peu à peu et, au retour, quelque chose de délicieux à faire griller à la maison."
+    - "La saison commence, selon l'altitude et l'année, vers la mi-octobre et se prolonge jusque bien avant dans novembre. Les meilleures châtaigneraies se trouvent généralement en montagne, dans des zones au climat humide : El Bierzo (León), le Valle del Genal (Málaga), la sierra de Francia (Salamanque), le Valle del Tiétar (Ávila), ainsi qu'une bonne partie de la Galice et des Asturies."
+    - "Le plus important est de savoir à qui appartient la châtaigneraie. Beaucoup sont des propriétés privées, avec un propriétaire qui les entretient et en vend les fruits, et ramasser sans autorisation peut avoir des conséquences. Renseigne-toi au village, à la mairie ou dans une maison d'hôtes de la région : il est fréquent que quelqu'un t'indique où l'on peut ramasser ou te mette en contact avec un propriétaire."
+    - "Prévois des chaussures fermées qui accrochent bien, des gants épais (les bogues piquent pour de bon), un panier ou un sac et des vêtements que tu ne crains pas de salir. Les châtaignes tombent toutes seules quand elles sont mûres : le plus courant est de ramasser celles qui sont au sol, sans gauler les arbres ni les abîmer. Les jours qui suivent la pluie et le vent sont généralement les plus généreux."
+    - "Une fois à la maison, fais une entaille dans la peau de chaque châtaigne avant de la griller ou de la cuire, pour qu'elle n'éclate pas. Elles se conservent mieux dans un endroit frais ou au réfrigérateur, et il vaut mieux les consommer en quelques jours. Le final naturel de ce plan, c'est un magosto : châtaignes grillées, feu de joie et vin nouveau."
+  mapa:
+    titulo: "Où aller ramasser des châtaignes"
+    centro: [40.0, -5.0]
+    zoom: 6
+    puntos:
+      - { nombre: "El Bierzo (León)", lat: 42.55, lon: -6.6, desc: "Châtaigneraies centenaires de Las Médulas et des vallées voisines ; berceau du magosto." }
+      - { nombre: "Valle del Genal (Málaga)", lat: 36.57, lon: -5.17, desc: "Serranía de Ronda : Igualeja, Pujerra, Genalguacil et Júzcar, avec des châtaigniers dans toute la vallée." }
+      - { nombre: "Sierra de Francia (Salamanque)", lat: 40.485, lon: -6.108, desc: "Autour de La Alberca et de Miranda del Castañar, avec des châtaigneraies sur les versants." }
+      - { nombre: "Valle del Tiétar (Ávila)", lat: 40.2, lon: -5.1, desc: "Arenas de San Pedro, Candeleda et Guisando, au pied de la sierra de Gredos." }
+      - { nombre: "Sierra de Aracena (Huelva)", lat: 37.89, lon: -6.56, desc: "Les châtaigneraies de la province de Huelva, à Castaño del Robledo et Galaroza." }
+  faq:
+    - p: "Quand est la saison des châtaignes ?"
+      r: "En Espagne, de la mi-octobre à la mi-novembre environ. Dans les zones basses elle commence plus tôt et dans les zones plus élevées elle est décalée de quelques jours. Pour viser juste, renseigne-toi sur la zone la semaine précédente : la récolte change d'une année à l'autre selon la pluie et la chaleur de l'été."
+    - p: "Peut-on ramasser des châtaignes dans n'importe quelle forêt ?"
+      r: "Pas toujours. Beaucoup de châtaigneraies sont des propriétés privées et, en forêt publique, chaque mairie ou communauté peut avoir ses propres règles. Renseigne-toi auprès de la mairie ou des habitants avant de ramasser, et n'entre pas dans les propriétés clôturées."
+    - p: "Où aller ramasser des châtaignes ?"
+      r: "Les destinations classiques sont El Bierzo (León), le Valle del Genal (Málaga), la sierra de Francia (Salamanque) et le Valle del Tiétar (Ávila), ainsi que la Galice, les Asturies et la région d'Aracena. Toutes ont de très vastes châtaigneraies et une grande tradition."
+    - p: "Que faut-il emporter ?"
+      r: "Des gants épais, des chaussures fermées, un panier ou un sac et des vêtements chauds que tu ne crains pas de salir. Les bogues s'ouvrent en les écrasant avec la semelle de la chaussure, sans besoin d'outils."
+    - p: "Comment fait-on griller les châtaignes ?"
+      r: "Fais une entaille dans la peau de chacune, mets-les dans une poêle à châtaignes percée, au four ou sur un gril, et laisse-les de 20 à 30 minutes jusqu'à ce que la peau s'ouvre. Enveloppe-les quelques minutes dans un torchon pour qu'elles continuent de cuire dans leur propre vapeur et s'épluchent mieux."
+    - p: "Est-ce un bon plan avec des enfants ?"
+      r: "Oui, mais avec précaution : les bogues piquent. Donne-leur des gants et apprends-leur à ne pas mettre la main sans regarder. Pour eux, c'est une activité qui mêle balade, jeu et récompense."
+    - p: "Qu'est-ce qu'un magosto ?"
+      r: "C'est la fête traditionnelle d'automne de la Galice, des Asturies et d'El Bierzo : on fait griller des châtaignes sur un feu de joie et on les mange avec du vin nouveau ou du cidre, surtout à la Saint-Martin, le 11 novembre."
+setas:
+  imagen_alt: "Mains cueillant un bolet en forêt, avec un panier en osier rempli de champignons"
+  texto:
+    - "Avec les premières pluies d'automne, les pinèdes, les chênaies et les châtaigneraies se remplissent de champignons, et partir à leur recherche devient l'un des plans les plus attendus de l'année. C'est une excuse parfaite pour passer la matinée en forêt, avec ou sans panier plein."
+    - "La haute saison va d'octobre à novembre, même si elle dépend beaucoup de la pluie et des températures : après quelques semaines humides et sans gelées, la forêt se met en route. Des provinces comme Soria, les Pyrénées, León, Zamora, la sierra de Gredos ou la Catalogne sont des classiques, et dans beaucoup d'entre elles il existe des sentiers mycologiques et des journées organisées."
+    - "Avant de partir, renseigne-toi sur la réglementation de la zone. Plusieurs communautés exigent un permis ou une autorisation de cueillette (en Castille-et-León, par exemple, fonctionne le système Micocyl), et il existe des limites de quantité, des zones interdites et des horaires. Les règles changent d'un endroit à l'autre, alors consulte le site de la mairie ou de la communauté autonome."
+    - "Si tu n'as pas d'expérience, la règle d'or est de ne manger aucun champignon que tu n'as pas identifié avec certitude. Le plus sage pour commencer est de t'inscrire à une sortie guidée ou à une journée mycologique avec un expert, et d'emporter un guide de terrain. Cueille avec un panier en osier, qui laisse tomber les spores et permet au champignon de respirer, et coupe ou extrais avec soin sans ravager le terrain."
+  mapa:
+    titulo: "Où aller aux champignons"
+    centro: [41.2, -3.5]
+    zoom: 6
+    puntos:
+      - { nombre: "Pinèdes de Soria", lat: 41.95, lon: -2.75, desc: "Vinuesa, Covaleda et Duruelo de la Sierra, avec Micocyl comme système de permis." }
+      - { nombre: "Pyrénées (Val d'Aran)", lat: 42.7, lon: 0.8, desc: "Forêts humides de sapins et de hêtres dans les Pyrénées de Lleida." }
+      - { nombre: "Montagne de León", lat: 42.95, lon: -5.1, desc: "Riaño, Babia et Luna, avec des chênaies de chênes tauzins et des hêtraies." }
+      - { nombre: "Sanabria (Zamora)", lat: 42.1, lon: -6.7, desc: "Pinèdes et châtaigneraies autour du lac de Sanabria." }
+      - { nombre: "Sierra de Gredos (Ávila)", lat: 40.3, lon: -5.2, desc: "Pinèdes et chênaies du Valle del Tiétar et du Barranco." }
+      - { nombre: "Solsonès (Catalogne)", lat: 42.0, lon: 1.5, desc: "Pinèdes et forêts mixtes avec une grande tradition mycologique." }
+  faq:
+    - p: "Quand est la saison des champignons ?"
+      r: "En Espagne, la saison principale va d'octobre à novembre, même si dans certaines zones elle se prolonge jusqu'en décembre ou commence en septembre. Elle dépend de la pluie, de l'altitude et de la température : après plusieurs semaines humides et sans gelées, la forêt se met en route."
+    - p: "Où chercher des champignons ?"
+      r: "Soria, les Pyrénées, les montagnes de León et de Zamora, la sierra de Gredos ou la Catalogne sont des destinations classiques. Le plus pratique est de demander à l'office de tourisme ou dans une maison d'hôtes de la région, où l'on connaît en général les parcours et la réglementation en vigueur."
+    - p: "Faut-il un permis pour cueillir des champignons ?"
+      r: "Dans beaucoup de zones, oui. Plusieurs communautés autonomes exigent un permis ou une autorisation de cueillette, et il peut y avoir des limites de quantité et des zones interdites. Renseigne-toi toujours avant de partir sur le site de la mairie ou de la communauté autonome."
+    - p: "Comment savoir si un champignon est comestible ?"
+      r: "Ne te fie pas aux astuces populaires : on ne peut manger un champignon que si on l'a identifié avec certitude. Dans le doute, ne le cueille pas. Une sortie guidée ou une journée mycologique est le moyen le plus sûr d'apprendre, et en cas d'intoxication il faut se rendre aux urgences ou appeler le 112."
+    - p: "Que faut-il emporter ?"
+      r: "Un panier en osier, un couteau, un guide d'identification, des chaussures de montagne, des vêtements chauds, de l'eau et de quoi manger. Évite les sacs en plastique, qui abîment les champignons et empêchent les spores de tomber."
+    - p: "Est-ce un bon plan avec des enfants ?"
+      r: "Oui, à condition qu'ils soient accompagnés et sachent qu'on ne touche ni ne mange rien sans qu'un adulte l'ait vérifié. Les plus petits adorent la recherche, mais il vaut mieux choisir des parcours simples et veiller à ce qu'ils ne portent pas les mains à la bouche."
+hayedos:
+  imagen_alt: "Sentier couvert de feuilles entre des hêtres aux couleurs de l'automne, avec un peu de brume au fond"
+  texto:
+    - "Pendant quelques semaines d'automne, les hêtraies passent du vert au jaune, à l'orange et au cuivré, et le sol se couvre de feuilles. C'est l'un des spectacles naturels les plus photogéniques d'Espagne et un plan parfait pour marcher sans se presser entre des troncs argentés."
+    - "Le meilleur moment se situe généralement entre la mi-octobre et la mi-novembre, même si le pic de couleur change chaque année selon le froid, la pluie et le vent. Parmi les hêtraies les plus connues figurent la Selva de Irati (Navarre), le Hayedo de Montejo (Madrid), le Hayedo de la Tejera Negra (Guadalajara) et celui d'Otzarreta (Biscaye), ainsi que ceux de Cantabrie, des Asturies et des Pyrénées."
+    - "Attention aux quotas : certaines hêtraies, comme celle de Montejo, limitent le nombre de visiteurs ou exigent une réservation ou un permis d'accès, surtout les week-ends de couleur maximale. Consulte d'abord le site de l'espace protégé et, si tu peux, vas-y en semaine : il y aura moins de monde et plus de silence."
+    - "Prévois des chaussures confortables qui accrochent sur les feuilles mouillées, une couche chaude et un imperméable, car dans la hêtraie l'humidité est habituelle, et ne t'écarte pas des sentiers balisés. Les matins avec un peu de brume et la lumière basse de fin de journée sont les meilleurs moments pour photographier."
+  mapa:
+    titulo: "Où voir une hêtraie en automne"
+    centro: [42.0, -2.5]
+    zoom: 7
+    puntos:
+      - { nombre: "Selva de Irati (Navarre)", lat: 42.98, lon: -1.1, desc: "L'une des plus grandes hêtraies-sapinières d'Europe, entre Ochagavía et Orbaizeta." }
+      - { nombre: "Hayedo de Montejo (Madrid)", lat: 41.12, lon: -3.5, desc: "La hêtraie la plus méridionale d'Europe ; accès avec quota et réservation." }
+      - { nombre: "Hayedo de la Tejera Negra (Guadalajara)", lat: 41.15, lon: -3.15, desc: "Dans la sierra de Ayllón, près de Cantalojas, avec des sentiers balisés." }
+      - { nombre: "Hayedo de Otzarreta (Biscaye)", lat: 43.03, lon: -2.78, desc: "Dans le parc naturel de Gorbeia, l'une des plus photographiées." }
+      - { nombre: "Saja-Besaya (Cantabrie)", lat: 43.1, lon: -4.2, desc: "Vastes hêtraies dans le parc naturel, avec de beaux sentiers d'automne." }
+      - { nombre: "Redes (Asturies)", lat: 43.17, lon: -5.3, desc: "Hêtraies de montagne dans le parc naturel de Redes." }
+      - { nombre: "Selva de Oza (Huesca)", lat: 42.85, lon: -0.75, desc: "Hêtraies et sapinières des Pyrénées aragonaises, dans la vallée de Hecho." }
+  faq:
+    - p: "Quel est le meilleur moment pour voir une hêtraie en automne ?"
+      r: "Entre la mi-octobre et la mi-novembre, avec un pic de couleur qui dure en général deux ou trois semaines. Il varie chaque année avec le froid et la pluie ; il vaut donc mieux consulter le bulletin de l'espace protégé ou les réseaux sociaux des centres d'accueil des visiteurs."
+    - p: "Quelles sont les plus belles hêtraies d'Espagne ?"
+      r: "La Selva de Irati (Navarre), le Hayedo de Montejo (Madrid), le Hayedo de la Tejera Negra (Guadalajara) et celui d'Otzarreta (Biscaye) sont les plus connues. Celles de Cantabrie, des Asturies et des Pyrénées sont aussi remarquables."
+    - p: "Faut-il réserver ou demander un permis ?"
+      r: "Pour certaines, oui. Le Hayedo de Montejo, par exemple, limite les visites et exige une autorisation, et dans d'autres espaces il y a des quotas ou des parkings qui se remplissent les week-ends de couleur maximale. Consulte le site de l'espace protégé avant d'y aller."
+    - p: "Peut-on y aller avec des enfants ou un chien ?"
+      r: "Les parcours courts et balisés conviennent aux enfants. Avec un chien, cela dépend de chaque espace : dans certains ils sont interdits ou doivent être tenus en laisse ; il vaut donc mieux vérifier avant."
+    - p: "Quels vêtements et quelles chaussures prévoir ?"
+      r: "Des chaussures confortables qui accrochent sur les feuilles mouillées, des vêtements chauds en couches et un imperméable, car l'humidité et la température chutent vite en forêt."
+    - p: "Comment éviter la foule ?"
+      r: "Va-y en semaine, tôt le matin ou en fin d'après-midi, et évite les ponts et les week-ends de couleur maximale. Une autre option consiste à choisir des hêtraies moins connues de la même région."
+berrea:
+  texto:
+    - "À la fin de l'été, les cerfs mâles commencent à bramer pour attirer les femelles et défier leurs rivaux. Ce rugissement grave et puissant, qui résonne dans la montagne à l'aube et au crépuscule, c'est la berrea (le brame du cerf), l'un des spectacles de faune les plus impressionnants d'Espagne."
+    - "La berrea se concentre entre septembre et octobre, avec son point culminant généralement à la fin septembre et au début octobre, même si cela varie selon la zone et l'année. Les lieux les plus connus sont le parc national de Cabañeros, le parc national de Monfragüe, la Sierra de Andújar, la Reserva Nacional de Riaño et la Sierra de la Culebra, entre autres."
+    - "Le mieux est d'arriver avant l'aube ou un peu avant la tombée de la nuit, quand les cerfs sont les plus actifs, et d'écouter en silence depuis un point d'observation. Emporte des jumelles, des vêtements chauds et de couleurs discrètes, et n'utilise ni lampe torche ni flash. Les cerfs en rut sont imprévisibles : garde toujours tes distances et ne t'approche pas d'eux."
+    - "Dans certains espaces, il y a des parcours guidés, des observatoires ou des accès réglementés pendant la berrea, et il vaut mieux réserver à l'avance. Consulte le site de l'espace protégé ou du centre d'accueil des visiteurs avant d'y aller."
+  mapa:
+    titulo: "Où écouter la berrea"
+    centro: [40.0, -5.0]
+    zoom: 6
+    puntos:
+      - { nombre: "Parc national de Cabañeros (Ciudad Real)", lat: 39.4, lon: -4.5, desc: "Rañas (plateaux herbeux) et forêt méditerranéenne avec de grandes populations de cerfs ; visites guidées pendant la berrea." }
+      - { nombre: "Parc national de Monfragüe (Cáceres)", lat: 39.83, lon: -6.05, desc: "Dehesa et falaises avec plusieurs belvédères pour écouter à l'aube." }
+      - { nombre: "Sierra de Andújar (Jaén)", lat: 38.25, lon: -4.0, desc: "L'un des meilleurs endroits du sud ; très fréquenté, il vaut mieux réserver." }
+      - { nombre: "Reserva Nacional de Riaño (León)", lat: 42.98, lon: -5.0, desc: "Berrea de montagne, entre hêtraies et chênaies des Picos de Europa de León." }
+      - { nombre: "Sierra de la Culebra (Zamora)", lat: 41.85, lon: -6.2, desc: "Vaste réserve de chasse avec beaucoup de cerfs et quelques loups." }
+  faq:
+    - p: "Quand a lieu la berrea du cerf ?"
+      r: "Entre septembre et octobre. Le moment de plus forte activité est généralement la fin septembre et le début octobre, même si cela change selon la zone et l'année. Le mieux est de sortir à l'aube ou au crépuscule."
+    - p: "Où voir la berrea ?"
+      r: "Les lieux les plus connus sont Cabañeros, Monfragüe, la Sierra de Andújar, la Reserva Nacional de Riaño et la Sierra de la Culebra. Dans beaucoup d'entre eux, il y a des parcours guidés, des observatoires ou des points d'écoute balisés."
+    - p: "Que faut-il emporter ?"
+      r: "Des jumelles, des vêtements chauds et de couleurs discrètes (verts, marrons, gris), des chaussures confortables et de quoi manger et boire. Aux heures de plus grande activité, il fait frais, même si la journée est chaude."
+    - p: "Est-il dangereux de s'approcher des cerfs ?"
+      r: "Oui. Les mâles en rut sont très agressifs et imprévisibles. Ne t'approche pas, ne les contourne pas, ne leur coupe pas le passage et garde la distance indiquée par les guides ou les panneaux."
+    - p: "Faut-il réserver ?"
+      r: "Dans certains espaces, oui, surtout pour les parcours guidés, les observatoires ou les accès réglementés en pleine berrea. Consulte le site de l'espace protégé ou du centre d'accueil des visiteurs avant d'y aller, car les places partent vite."
+    - p: "Peut-on y aller avec des enfants ?"
+      r: "Oui, c'est un très beau plan pour eux, mais il faut y aller en silence, tôt le matin et sans s'éloigner du groupe. Choisis des parcours simples, et de préférence avec un guide."
+vendimia:
+  texto:
+    - "Septembre est le mois des vendanges dans une bonne partie de l'Espagne : les grappes mûres sont coupées à la main ou à la machine et les caves se remplissent d'une odeur de moût. Les vivre de près, entre vignobles et pressoirs, est l'un des plans de fin d'été les plus charmants, et il a beaucoup d'une fête."
+    - "La date exacte change selon la zone, le cépage et l'année. Les raisins blancs et les variétés précoces se récoltent souvent dès la fin août, et les rouges les plus tardifs peuvent se prolonger jusqu'en octobre. Des régions comme La Rioja, la Ribera del Duero, Jerez, le Penedès, les Rías Baixas ou La Mancha organisent des visites, des dégustations et des activités liées aux vendanges."
+    - "Beaucoup de caves proposent des expériences où tu peux couper des grappes, fouler le raisin ou voir comment la récolte arrive à la cave, généralement sur réservation préalable et payantes. Il y a aussi des fêtes consacrées aux vendanges, comme celles de Jerez ou celles de San Mateo à Logroño, avec foulage du raisin, offrandes du premier moût et dégustations."
+    - "Si tu t'inscris à une expérience dans le vignoble, prévois des chaussures fermées et confortables, une casquette, de la crème solaire et des vêtements qui peuvent se tacher. Il vaut mieux y aller tôt le matin, quand il fait moins chaud et qu'on travaille plus tranquillement."
+  mapa:
+    titulo: "Où vivre les vendanges"
+    centro: [40.0, -3.5]
+    zoom: 6
+    puntos:
+      - { nombre: "La Rioja (Logroño)", lat: 42.4627, lon: -2.445, desc: "Rioja Alta et Rioja Baja, avec les fêtes de San Mateo à Logroño et de nombreuses caves ouvertes à la visite." }
+      - { nombre: "Ribera del Duero (Burgos et Valladolid)", lat: 41.62, lon: -3.9, desc: "Vignobles de rouge le long du Duero, avec des caves ouvertes à la visite." }
+      - { nombre: "Rías Baixas (Pontevedra)", lat: 42.51, lon: -8.81, desc: "Terre de l'albariño, avec des vendanges précoces et des caves autour de Cambados." }
+      - { nombre: "Penedès (Barcelone)", lat: 41.3446, lon: 1.6988, desc: "Terre du cava et du vin, avec des caves et des expériences de vendanges autour de Vilafranca." }
+      - { nombre: "La Mancha (Ciudad Real)", lat: 39.0, lon: -3.2, desc: "Le plus grand vignoble d'Espagne, avec des caves et des fêtes des vendanges dans ses villages." }
+      - { nombre: "Jerez (Cadix)", lat: 36.6864, lon: -6.1377, desc: "Capitale du xérès, avec sa fête des vendanges et ses caves historiques." }
+  faq:
+    - p: "Quand ont lieu les vendanges en Espagne ?"
+      r: "Cela dépend de la zone et du cépage, mais la période principale va de la fin août à octobre, avec septembre comme mois central. Les raisins blancs et précoces sont récoltés avant les rouges tardifs."
+    - p: "Où vivre les vendanges ?"
+      r: "Les destinations classiques sont La Rioja, la Ribera del Duero, Jerez, le Penedès, les Rías Baixas et La Mancha. Beaucoup de caves organisent des visites et des expériences à ces dates."
+    - p: "Peut-on participer aux vendanges ?"
+      r: "Oui, certaines caves proposent des expériences où tu peux couper des grappes, fouler le raisin ou voir l'arrivée de la récolte. Elles sont généralement payantes et sur réservation préalable ; renseigne-toi donc à l'avance."
+    - p: "Y a-t-il des fêtes des vendanges ?"
+      r: "Oui. Parmi les plus connues figurent les Fiestas de la Vendimia de Jerez et les Fiestas de San Mateo et des vendanges de La Rioja à Logroño, avec foulage du raisin, offrande du moût et dégustations."
+    - p: "Que faut-il emporter ?"
+      r: "Des chaussures fermées et confortables, une casquette, de la crème solaire et des vêtements qui peuvent se tacher. Il vaut mieux y aller tôt le matin, quand il fait moins chaud."
+    - p: "Est-ce un bon plan avec des enfants ?"
+      r: "En général, oui. Beaucoup de caves organisent des activités pour les familles, avec un foulage de raisin symbolique et du moût sans alcool. Demande lors de la réservation si les enfants sont admis."

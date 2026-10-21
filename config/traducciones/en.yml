@@ -1,0 +1,159 @@
+castanas-otono:
+  imagen_alt: "Chestnut grove floor in autumn covered in golden leaves and chestnut burrs"
+  texto:
+    - "When October arrives, the chestnut groves of northern and central Spain fill up with burrs fallen among the leaves. Going out to pick chestnuts is one of the simplest and most rewarding autumn plans: a quiet walk in the countryside, a basket slowly filling up and, back home, something tasty to roast."
+    - "Depending on altitude and the year, the season starts around mid-October and runs well into November. The best chestnut groves tend to be in mountain areas with a damp climate: El Bierzo (León), the Genal Valley (Málaga), the Sierra de Francia (Salamanca), the Tiétar Valley (Ávila), as well as much of Galicia and Asturias."
+    - "The most important thing is to know who owns the grove. Many are private estates whose owners look after them and sell the harvest, and picking on them without permission can have consequences. Ask in the village, at the town hall or at a country guesthouse in the area: someone will usually tell you where you can pick or put you in touch with an owner."
+    - "Bring sturdy closed shoes with good grip, thick gloves (the burrs really do prick), a basket or a sack and clothes you don't mind getting dirty. Chestnuts fall on their own when they are ripe: the usual way is to gather the ones on the ground, without beating the trees or damaging them. The days after rain and wind tend to be the most generous."
+    - "Once home, cut a slit in the skin of each chestnut before roasting or boiling it so they don't burst. They keep best in a cool place or in the fridge, and are best eaten within a few days. The natural finale to this plan is a magosto: roasted chestnuts, a bonfire and new wine."
+  mapa:
+    titulo: "Where to go chestnut picking"
+    centro: [40.0, -5.0]
+    zoom: 6
+    puntos:
+      - { nombre: "El Bierzo (León)", lat: 42.55, lon: -6.6, desc: "Centuries-old chestnut groves around Las Médulas and the nearby valleys; the home of the magosto." }
+      - { nombre: "Genal Valley (Málaga)", lat: 36.57, lon: -5.17, desc: "Serranía de Ronda: Igualeja, Pujerra, Genalguacil and Júzcar, with chestnut trees all over the valley." }
+      - { nombre: "Sierra de Francia (Salamanca)", lat: 40.485, lon: -6.108, desc: "Around La Alberca and Miranda del Castañar, with chestnut groves on the hillsides." }
+      - { nombre: "Tiétar Valley (Ávila)", lat: 40.2, lon: -5.1, desc: "Arenas de San Pedro, Candeleda and Guisando, at the foot of the Sierra de Gredos." }
+      - { nombre: "Sierra de Aracena (Huelva)", lat: 37.89, lon: -6.56, desc: "The chestnut groves of Huelva, at Castaño del Robledo and Galaroza." }
+  faq:
+    - p: "When is chestnut season?"
+      r: "In Spain, roughly from mid-October to mid-November. It starts earlier in lower areas and a few days later in higher ones. To time it right, ask about the area the week before: the harvest changes from year to year depending on the rain and the summer heat."
+    - p: "Can you pick chestnuts in any forest?"
+      r: "Not always. Many chestnut groves are private property and, in public forests, each town hall or regional government may have its own rules. Ask at the town hall or the locals before picking, and don't enter fenced estates."
+    - p: "Where can I go chestnut picking?"
+      r: "The classic destinations are El Bierzo (León), the Genal Valley (Málaga), the Sierra de Francia (Salamanca) and the Tiétar Valley (Ávila), as well as Galicia, Asturias and the Aracena area. They all have very extensive chestnut groves and a strong tradition."
+    - p: "What should I bring?"
+      r: "Thick gloves, closed shoes, a basket or sack and warm clothes you don't mind getting dirty. The burrs can be opened by stepping on them with the sole of your shoe, no tools needed."
+    - p: "How do you roast chestnuts?"
+      r: "Cut a slit in the skin of each one, put them in a perforated chestnut pan, in the oven or on a grill, and leave them for 20 to 30 minutes until the skin splits open. Wrap them in a cloth for a few minutes so they keep cooking in their own steam and are easier to peel."
+    - p: "Is it a good plan with kids?"
+      r: "Yes, though take care: the burrs prick. Give them gloves and teach them not to put their hand in without looking. For them it's an activity that combines a walk, play and a reward."
+    - p: "What is a magosto?"
+      r: "It is the traditional autumn festival of Galicia, Asturias and El Bierzo: chestnuts are roasted on a bonfire and eaten with new wine or cider, especially around Saint Martin's Day, on 11 November."
+
+setas:
+  imagen_alt: "Hands picking a bolete in the forest next to a wicker basket full of mushrooms"
+  texto:
+    - "With the first autumn rains, pine, oak and chestnut woods fill up with mushrooms, and going out to look for them becomes one of the most eagerly awaited plans of the year. It's a perfect excuse to spend the morning in the countryside, whether or not you come back with a full basket."
+    - "The main season runs from October to November, although it depends a lot on rainfall and temperatures: after a few damp, frost-free weeks, the forest bursts into life. Provinces such as Soria, the Pyrenees, León, Zamora, the Sierra de Gredos or Catalonia are classics, and many of them have mushroom trails and organised events."
+    - "Before heading out, find out about the local regulations. Several regions require a permit or foraging authorisation (in Castilla y León, for example, the Micocyl system is used), and there are quantity limits, closed areas and time restrictions. Rules vary from place to place, so check the website of the town hall or the regional government."
+    - "If you have no experience, the golden rule is not to eat any mushroom you haven't identified with certainty. The most sensible way to start is to join a guided outing or a mushroom day with an expert, and to carry a field guide. Pick with a wicker basket, which lets the spores fall and lets the mushrooms breathe, and cut or remove them carefully without tearing up the ground."
+  mapa:
+    titulo: "Where to go mushroom foraging"
+    centro: [41.2, -3.5]
+    zoom: 6
+    puntos:
+      - { nombre: "Pine forests of Soria", lat: 41.95, lon: -2.75, desc: "Vinuesa, Covaleda and Duruelo de la Sierra, with Micocyl as the permit system." }
+      - { nombre: "Pyrenees (Aran Valley)", lat: 42.7, lon: 0.8, desc: "Damp fir and beech forests in the Pyrenees of Lleida." }
+      - { nombre: "León mountains", lat: 42.95, lon: -5.1, desc: "Riaño, Babia and Luna, with Pyrenean oak woods and beech forests." }
+      - { nombre: "Sanabria (Zamora)", lat: 42.1, lon: -6.7, desc: "Pine and chestnut woods around Lake Sanabria." }
+      - { nombre: "Sierra de Gredos (Ávila)", lat: 40.3, lon: -5.2, desc: "Pine and oak woods in the Tiétar Valley and the Barranco." }
+      - { nombre: "Solsonès (Catalonia)", lat: 42.0, lon: 1.5, desc: "Pine and mixed forests with a strong mushroom-hunting tradition." }
+  faq:
+    - p: "When is mushroom season?"
+      r: "In Spain, the main season runs from October to November, although in some areas it lasts until December or starts in September. It depends on rain, altitude and temperature: after several damp, frost-free weeks, the forest bursts into life."
+    - p: "Where can I look for mushrooms?"
+      r: "Soria, the Pyrenees, the mountains of León and Zamora, the Sierra de Gredos or Catalonia are classic destinations. The most practical thing is to ask at the tourist office or at a country guesthouse in the area, where they usually know the trails and the current rules."
+    - p: "Do I need a permit to pick mushrooms?"
+      r: "In many areas, yes. Several regional governments require a permit or foraging authorisation, and there may be quantity limits and closed areas. Always check before heading out on the website of the town hall or the regional government."
+    - p: "How do I know if a mushroom is edible?"
+      r: "Don't trust popular tricks: you can only eat a mushroom if you have identified it with certainty. If in doubt, don't pick it. A guided outing or a mushroom day is the safest way to learn, and in case of poisoning you must go to the emergency room or call 112."
+    - p: "What should I bring?"
+      r: "A wicker basket, a pocket knife, an identification guide, hiking shoes, warm clothes, water and something to eat. Avoid plastic bags, which spoil the mushrooms and don't let the spores fall."
+    - p: "Is it a good plan with kids?"
+      r: "Yes, as long as they are accompanied and know that nothing is touched or eaten without an adult checking it. Younger children enjoy the search a lot, but it's best to choose easy routes and make sure they don't put their hands in their mouths."
+
+hayedos:
+  imagen_alt: "Path covered in leaves among beech trees in autumn colours with some mist in the background"
+  texto:
+    - "For a few weeks in autumn, beech forests turn from green to yellow, orange and copper, and the ground is covered in leaves. It is one of the most photogenic natural spectacles in Spain and a perfect plan for walking unhurriedly among silvery trunks."
+    - "The best time is usually between mid-October and mid-November, although the peak of colour changes every year depending on the cold, the rain and the wind. Among the best-known beech forests are the Selva de Irati (Navarre), the Hayedo de Montejo (Madrid), the Hayedo de la Tejera Negra (Guadalajara) and Otzarreta (Bizkaia), as well as those of Cantabria, Asturias and the Pyrenees."
+    - "Watch out for visitor quotas: some beech forests, such as Montejo, limit the number of visitors or require a reservation or an access permit, especially at weekends of peak colour. Check the protected area's website beforehand, and if you can, go on a weekday: there will be fewer people and more silence."
+    - "Bring comfortable shoes that grip on wet leaves, a warm layer and a rain jacket, since damp is common in the beech forest, and stay on the marked trails. Mornings with some mist and the low light of late afternoon are the best for photography."
+  mapa:
+    titulo: "Where to see a beech forest in autumn"
+    centro: [42.0, -2.5]
+    zoom: 7
+    puntos:
+      - { nombre: "Selva de Irati (Navarre)", lat: 42.98, lon: -1.1, desc: "One of the largest beech and fir forests in Europe, between Ochagavía and Orbaizeta." }
+      - { nombre: "Hayedo de Montejo (Madrid)", lat: 41.12, lon: -3.5, desc: "The southernmost beech forest in Europe; access with a quota and reservation." }
+      - { nombre: "Hayedo de la Tejera Negra (Guadalajara)", lat: 41.15, lon: -3.15, desc: "In the Sierra de Ayllón, near Cantalojas, with marked trails." }
+      - { nombre: "Hayedo de Otzarreta (Bizkaia)", lat: 43.03, lon: -2.78, desc: "In the Gorbeia Natural Park, one of the most photographed." }
+      - { nombre: "Saja-Besaya (Cantabria)", lat: 43.1, lon: -4.2, desc: "Extensive beech forests in the Natural Park, with good autumn trails." }
+      - { nombre: "Redes (Asturias)", lat: 43.17, lon: -5.3, desc: "Mountain beech forests in the Redes Natural Park." }
+      - { nombre: "Selva de Oza (Huesca)", lat: 42.85, lon: -0.75, desc: "Beech and fir forests of the Aragonese Pyrenees, in the Hecho Valley." }
+  faq:
+    - p: "When is the best time to see a beech forest in autumn?"
+      r: "Between mid-October and mid-November, with a colour peak that usually lasts about two or three weeks. It varies each year with the cold and the rain, so it's worth checking the protected area's updates or the visitor centres' social media."
+    - p: "What are the best beech forests in Spain?"
+      r: "The Selva de Irati (Navarre), the Hayedo de Montejo (Madrid), the Hayedo de la Tejera Negra (Guadalajara) and Otzarreta (Bizkaia) are the best known. Those of Cantabria, Asturias and the Pyrenees also stand out."
+    - p: "Do I need to book or ask for a permit?"
+      r: "In some, yes. The Hayedo de Montejo, for example, limits visits and requires authorisation, and in other areas there are quotas or car parks that fill up at weekends of peak colour. Check the protected area's website before going."
+    - p: "Can I go with kids or with a dog?"
+      r: "Short, marked routes are suitable for children. With a dog it depends on each area: in some they are banned or must be kept on a lead, so check beforehand."
+    - p: "What clothes and shoes should I bring?"
+      r: "Comfortable shoes that grip on wet leaves, warm clothing in layers and a rain jacket, because humidity and temperature drop quickly in the forest."
+    - p: "How can I avoid the crowds?"
+      r: "Go on a weekday, first thing in the morning or late in the afternoon, and avoid long weekends and weekends of peak colour. Another option is to pick less well-known beech forests in the same area."
+
+berrea:
+  texto:
+    - "At the end of summer, male red deer start to bellow to attract females and challenge their rivals. That deep, powerful roar echoing across the countryside at dawn and dusk is the berrea, the red deer rut, one of the most impressive wildlife spectacles in Spain."
+    - "The rut is concentrated between September and October, with the peak normally at the end of September and the beginning of October, although it varies by area and year. The best-known places are Cabañeros National Park, Monfragüe National Park, the Sierra de Andújar, the Riaño National Reserve and the Sierra de la Culebra, among others."
+    - "The best approach is to arrive before sunrise or a little before nightfall, when the deer are most active, and listen quietly from an observation point. Bring binoculars and warm clothes in muted colours, and don't use torches or flash. Deer in rut are unpredictable: always keep your distance and don't approach them."
+    - "In some areas there are guided routes, observatories or regulated access during the rut, and it is best to book in advance. Check the protected area's or visitor centre's website before going."
+  mapa:
+    titulo: "Where to hear the red deer rut"
+    centro: [40.0, -5.0]
+    zoom: 6
+    puntos:
+      - { nombre: "Cabañeros National Park (Ciudad Real)", lat: 39.4, lon: -4.5, desc: "Rañas (open grassy plains) and Mediterranean scrub with large deer populations; guided visits during the rut." }
+      - { nombre: "Monfragüe National Park (Cáceres)", lat: 39.83, lon: -6.05, desc: "Dehesa (open oak pasture) and rocky crags with several viewpoints for listening at dawn." }
+      - { nombre: "Sierra de Andújar (Jaén)", lat: 38.25, lon: -4.0, desc: "One of the best places in the south; very busy, so booking is advisable." }
+      - { nombre: "Riaño National Reserve (León)", lat: 42.98, lon: -5.0, desc: "Mountain rut, among beech forests and Pyrenean oak woods in the León side of the Picos de Europa." }
+      - { nombre: "Sierra de la Culebra (Zamora)", lat: 41.85, lon: -6.2, desc: "Vast game reserve with plenty of deer and the odd wolf." }
+  faq:
+    - p: "When is the red deer rut?"
+      r: "Between September and October. The time of greatest activity is usually the end of September and the beginning of October, although it changes depending on the area and the year. It's best to go out at dawn or dusk."
+    - p: "Where can I see the rut?"
+      r: "The best-known places are Cabañeros, Monfragüe, the Sierra de Andújar, the Riaño National Reserve and the Sierra de la Culebra. Many have guided routes, observatories or marked listening points."
+    - p: "What should I bring?"
+      r: "Binoculars, warm clothing in muted colours (greens, browns, greys), comfortable shoes and something to eat and drink. It's chilly during the busiest hours, even if the day is hot."
+    - p: "Is it dangerous to approach the deer?"
+      r: "Yes. Males in rut are very aggressive and unpredictable. Don't approach them, don't circle around them or block their path, and keep the distance indicated by the guides or the signs."
+    - p: "Do I need to book?"
+      r: "In some areas, yes, especially for guided routes, observatories or regulated access at the height of the rut. Check the protected area's or visitor centre's website before going, because places sell out."
+    - p: "Can I go with kids?"
+      r: "Yes, it's a lovely plan for them, but you have to go quietly, at early hours and without leaving the group. Choose easy routes, ideally with a guide."
+
+vendimia:
+  texto:
+    - "September is grape harvest month in much of Spain: ripe bunches are cut by hand or by machine and the wineries fill with the smell of must. Experiencing it up close, among vineyards and wine presses, is one of the most charming end-of-summer plans, and it has a lot of festival spirit."
+    - "The exact date changes depending on the area, the variety and the year. White grapes and early varieties are usually picked from the end of August, and later red varieties can run into October. Regions such as La Rioja, Ribera del Duero, Jerez, Penedès, Rías Baixas or La Mancha organise visits, tastings and related activities."
+    - "Many wineries offer experiences in which you can cut bunches, stomp the grapes or see how the harvest arrives at the winery, usually by prior reservation and for a fee. There are also festivals dedicated to the grape harvest, such as those in Jerez or the San Mateo festivities in Logroño, with grape stomping, offerings of the first must and tastings."
+    - "If you sign up for a vineyard experience, bring comfortable closed shoes, a cap, sunscreen and clothes that can get stained. It's best to go first thing in the morning, when it's cooler and the work is done more calmly."
+  mapa:
+    titulo: "Where to experience the grape harvest"
+    centro: [40.0, -3.5]
+    zoom: 6
+    puntos:
+      - { nombre: "La Rioja (Logroño)", lat: 42.4627, lon: -2.445, desc: "Rioja Alta and Rioja Baja, with the San Mateo festivities in Logroño and many wineries offering visits." }
+      - { nombre: "Ribera del Duero (Burgos and Valladolid)", lat: 41.62, lon: -3.9, desc: "Red wine vineyards along the Duero river, with wineries open to visitors." }
+      - { nombre: "Rías Baixas (Pontevedra)", lat: 42.51, lon: -8.81, desc: "Albariño country, with an early harvest and wineries around Cambados." }
+      - { nombre: "Penedès (Barcelona)", lat: 41.3446, lon: 1.6988, desc: "Cava and wine country, with wineries and harvest experiences around Vilafranca." }
+      - { nombre: "La Mancha (Ciudad Real)", lat: 39.0, lon: -3.2, desc: "Spain's largest vineyard, with wineries and harvest festivals in its villages." }
+      - { nombre: "Jerez (Cádiz)", lat: 36.6864, lon: -6.1377, desc: "Capital of sherry wine, with its harvest festival and historic wineries." }
+  faq:
+    - p: "When is the grape harvest in Spain?"
+      r: "It depends on the area and the variety, but the main period runs from the end of August to October, with September as the central month. White and early grapes are picked before the late reds."
+    - p: "Where can I experience the grape harvest?"
+      r: "The classic destinations are La Rioja, Ribera del Duero, Jerez, Penedès, Rías Baixas and La Mancha. Many wineries organise visits and experiences at that time."
+    - p: "Can I take part in the grape harvest?"
+      r: "Yes, some wineries offer experiences in which you can cut bunches, stomp the grapes or see the harvest come in. They are usually paid and require prior booking, so find out in advance."
+    - p: "Are there grape harvest festivals?"
+      r: "Yes. Among the best known are the Jerez Grape Harvest Festival and the San Mateo festivities and Rioja grape harvest celebrations in Logroño, with grape stomping, the offering of the must and tastings."
+    - p: "What should I bring?"
+      r: "Comfortable closed shoes, a cap, sunscreen and clothes that can get stained. It's best to go first thing in the morning, when it's cooler."
+    - p: "Is it a good plan with kids?"
+      r: "Generally, yes. Many wineries organise family activities, with symbolic grape stomping and alcohol-free grape juice. Ask when booking whether children are admitted."
