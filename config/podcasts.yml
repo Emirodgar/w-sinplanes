@@ -12,6 +12,8 @@
 #
 # Campos de cada podcast:
 #   id          identificador (sin espacios)
+#   fecha       (opcional) día real en que se recomendó, si es ANTERIOR a `inicio`: entra en el histórico de la
+#               página con esa semana, sin afectar a la rotación. Después de `inicio` no hace falta.
 #   titulo      nombre del programa
 #   autor       (opcional) quien lo presenta o la productora
 #   generos     [id, …] de la lista de `generos` de abajo
@@ -54,11 +56,13 @@ destacados: []
 # los enlaces de Spotify, YouTube y RTVE; los datos de cada ficha son los que publican esas plataformas.
 reserva:
   - id: mago-more-villalonga
+    fecha: "2026-05-02"
     titulo: "Mago More"
     generos: [negocios]
     episodio: { titulo: "“Hay que reinventarse cuando el teléfono deja de sonar” | Juan Villalonga", enlace: "https://www.youtube.com/watch?v=kRLHDTSQOig" }
 
   - id: el-perfilador
+    fecha: "2026-05-09"
     portada: "/img/podcasts/el-perfilador.jpg"
     titulo: "El perfilador"
     autor: "Podium Podcast"
@@ -69,6 +73,7 @@ reserva:
       en: "Each episode dissects a high-profile criminal case (motives, patterns and decisions) with Vicente Garrido, professor of Criminology."
 
   - id: esto-merece-una-explicacion-ave
+    fecha: "2026-05-16"
     titulo: "Esto merece una explicación"
     autor: "RNE Audio"
     generos: [actualidad]
@@ -78,6 +83,7 @@ reserva:
       en: "In this episode, José María Galán, a passenger on the Adamuz Alvia, takes a train again a month after the accident."
 
   - id: historias-del-mago-more
+    fecha: "2026-05-23"
     portada: "/img/podcasts/historias-del-mago-more.jpg"
     titulo: "Las Historias del Mago More"
     autor: "Mago More"
@@ -88,6 +94,7 @@ reserva:
       en: "Conversations and life stories that have moved the Mago More after years of interviewing all kinds of people."
 
   - id: invisibles
+    fecha: "2026-05-30"
     portada: "/img/podcasts/invisibles.jpg"
     titulo: "Invisibles"
     autor: "Onda Cero Podcast"
@@ -98,38 +105,45 @@ reserva:
       en: "A documentary series on Spain’s Customs Surveillance Service: in eight episodes, the agents themselves recount real operations against drug trafficking and smuggling."
 
   - id: formula-del-exito-maestro
+    fecha: "2026-06-13"
     titulo: "La Fórmula Del Éxito con Uri Sabat"
     generos: [negocios]
     episodio: { titulo: "La felicidad es un timo que te robó la libertad (y nadie te lo dice) | Jesús G. Maestro", enlace: "https://open.spotify.com/episode/3LTYCC25BkDPUMwaBEng9i" }
 
   - id: grandes-infelices-hemingway
+    fecha: "2026-06-20"
     portada: "/img/podcasts/grandes-infelices-hemingway.jpg"
     titulo: "Grandes Infelices"
     generos: [literatura]
     episodio: { titulo: "#34 Ernest Hemingway", enlace: "https://open.spotify.com/episode/1CgOJgmhWOMvgxP7FKQBbb" }
 
   - id: itnig-uriarte
+    fecha: "2026-06-27"
     titulo: "Podcast de Itnig: Historias de startups"
     generos: [negocios]
     episodio: { titulo: "Jon Uriarte: de vender Ticketbis a presidir el Athletic | #425", enlace: "https://open.spotify.com/episode/3C1peytDSGpD10JOYVqCq5" }
 
   - id: sagrada-familia-matematicas
+    fecha: "2026-07-04"
     titulo: "Palacio Hermético LiteraturaTransmedia"
     generos: [cultura]
     episodio: { titulo: "La magia matemática de la Sagrada Familia", enlace: "https://www.youtube.com/watch?v=bcg70Joe-kQ" }
 
   - id: polymatas-pensar-bien
+    fecha: "2026-07-11"
     titulo: "Polymatas"
     generos: [ciencia]
     episodio: { titulo: "#53 ¿Por qué cuesta tanto pensar bien?", enlace: "https://open.spotify.com/episode/26NYllf2ugM13sGwkFvskq" }
 
   - id: charlando-con-libros-hipercomplejidad
+    fecha: "2026-07-18"
     titulo: "Charlando con libros"
     autor: "Adrián Sussudio"
     generos: [literatura]
     episodio: { titulo: "#177 Hipercomplejidad, con Sergio Parra", enlace: "https://open.spotify.com/episode/7mi3FKLQBxG4li6szEjZOx" }
 
   - id: locos-por-los-clasicos
+    fecha: "2026-07-25"
     portada: "/img/podcasts/locos-por-los-clasicos.jpg"
     titulo: "Locos por los clásicos"
     autor: "RNE Audio - Emilio del Río"
@@ -140,57 +154,67 @@ reserva:
       en: "Shared readings of the Latin and Greek classics."
 
   - id: babelia-odisea
+    fecha: "2026-08-01"
     portada: "/img/podcasts/babelia-odisea.jpg"
     titulo: "Babelia"
     generos: [literatura]
     episodio: { titulo: "¿Por qué ‘La odisea’ nos fascina desde hace 3000 años?", enlace: "https://open.spotify.com/episode/0w1e4Ps9WbvzMsheidhZXW" }
 
   - id: babelia-la-bola
+    fecha: "2026-08-08"
     portada: "/img/podcasts/babelia-la-bola.jpg"
     titulo: "Babelia"
     generos: [cultura]
     episodio: { titulo: "‘La bola’: el engaño más fascinante del periodismo español", enlace: "https://open.spotify.com/episode/366FrmNCEvkNMShumWRcdf" }
 
   - id: documentos-rne-eclipses
+    fecha: "2026-08-15"
     portada: "/img/podcasts/documentos-rne-eclipses.jpg"
     titulo: "Documentos RNE"
     generos: [historia, ciencia]
     episodio: { titulo: "Los eclipses españoles, trilogía del Sol apagado", enlace: "https://open.spotify.com/episode/6CYsoGnk4kY04Eam5Au373" }
 
   - id: documentos-rne-quevedo
+    fecha: "2026-08-22"
     portada: "/img/podcasts/documentos-rne-quevedo.jpg"
     titulo: "Documentos RNE"
     generos: [historia, literatura]
     episodio: { titulo: "Quevedo: el ingenio como arma y escudo", enlace: "https://open.spotify.com/episode/1HE7vgP2fR1agTNPtLGKjP" }
 
   - id: el-copiloto-ismael-clemente
+    fecha: "2026-09-05"
     titulo: "El Copiloto"
     generos: [negocios]
     episodio: { titulo: "Ismael Clemente, el CEO del Ibex", enlace: "https://open.spotify.com/episode/4tczsVHQQAwaeMFWYPZbzv" }
 
   - id: un-libro-una-hora-delibes
+    fecha: "2026-09-12"
     portada: "/img/podcasts/un-libro-una-hora-delibes.jpg"
     titulo: "Un Libro Una Hora"
     generos: [literatura]
     episodio: { titulo: "Un autor en una hora | Miguel Delibes", enlace: "https://open.spotify.com/episode/4GNqA2ADeid8ACzkqooG5p" }
 
   - id: formula-del-exito-longevidad
+    fecha: "2026-09-19"
     titulo: "La Fórmula Del Éxito con Uri Sabat"
     generos: [negocios]
     episodio: { titulo: "El secreto de longevidad de los millonarios", enlace: "https://open.spotify.com/episode/7zmETUvVpjQ1tDnONq9Uh0" }
 
   - id: polymatas-ia
+    fecha: "2026-10-03"
     titulo: "Polymatas"
     generos: [ciencia]
     episodio: { titulo: "#113 ¿Hay algo que una IA nunca podrá hacer?", enlace: "https://open.spotify.com/episode/2fjcdiZg7idnsSYQKplsqJ" }
 
   - id: un-libro-una-hora-anna-karenina
+    fecha: "2026-10-10"
     portada: "/img/podcasts/un-libro-una-hora-anna-karenina.jpg"
     titulo: "Un Libro Una Hora"
     generos: [literatura]
     episodio: { titulo: "‘Anna Karenina’, una obra maestra sobre la búsqueda de la felicidad", enlace: "https://open.spotify.com/episode/1r0wZyLs9LS9QR9zW1ZMD5" }
 
   - id: episodios-nacionales
+    fecha: "2026-10-17"
     portada: "/img/podcasts/episodios-nacionales.jpg"
     titulo: "Episodios Nacionales"
     autor: "RNE - Radio Nacional"

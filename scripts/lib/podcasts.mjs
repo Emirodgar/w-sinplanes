@@ -45,6 +45,10 @@ export function buildPodcasts(today, cfgPath = path.join(ROOT, 'config/podcasts.
       if (busy.has(wi)) continue;
       history.push({ ...reservaDe(wi), semana: weekStart(wi), origen: 'reserva' });
     }
+    // Recomendaciones anteriores al arranque de la rotación: entran en el histórico con su fecha real.
+    for (const p of reserva) {
+      if (p.fecha && weekIndex(p.fecha) < startW) history.push({ ...p, semana: weekStart(weekIndex(p.fecha)), origen: 'archivo' });
+    }
   }
   // Un podcast que repite (reserva tras recorrer la lista) sale una vez, con su recomendación más reciente.
   history.sort((a, b) => b.semana.localeCompare(a.semana));
