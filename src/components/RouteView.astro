@@ -3,6 +3,7 @@ import HomeView from './HomeView.astro';
 import PlanView from './PlanView.astro';
 import ListView from './ListView.astro';
 import BooksView from './BooksView.astro';
+import SeriesView from './SeriesView.astro';
 import { t, url, monthName } from '../i18n/ui.js';
 import { topics, byTopic, byCcaa, byProvince, slugify, geo, inMonth, currentMonth, cap, inLang, isPlace, byGroup } from '../lib/data.js';
 
@@ -55,6 +56,8 @@ const split = (list) => ({ seasonal: list.filter((p) => p.kind === 'estacional')
   groups={['nacional', 'natural', 'biosfera', 'otros'].map((k) => ({ title: L.parkTypes[k], plans: byGroup('naturaleza').filter((p) => p.parkType === k) }))} />}
 
 {r.type === 'books' && <BooksView lang={lang} route={r} />}
+
+{r.type === 'series' && <SeriesView lang={lang} route={r} />}
 
 {r.type === 'calendar' && (
   <ListView lang={lang} title={L.calendarTitle} intro={L.calendarIntro} route={r} noindex={false}>

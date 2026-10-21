@@ -128,7 +128,7 @@ async function seriesStep() {
   try {
     const series = await fetchSeries(process.env.TMDB_API_KEY, TODAY);
     writeFileSync(path.join(ROOT, 'data/series-tmdb.json'), JSON.stringify(series));
-    log(`Series: ${series.series.length} series.`);
+    log(`Series: ${series.mejores.length} mejores y ${series.novedades.length} novedades.`);
   } catch (err) { log(`Series: no disponibles (${err.message}). Se conservan las anteriores.`); }
 }
 

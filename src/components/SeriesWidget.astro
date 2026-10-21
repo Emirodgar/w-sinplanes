@@ -1,12 +1,12 @@
 ---
 // Carrusel de series muy valoradas. Marcado y estilos de la cartelera; su script (data-cine) vive en CineWidget.astro.
 import series from '../../data/series.json';
-import { t } from '../i18n/ui.js';
+import { t, url } from '../i18n/ui.js';
 import { pickText } from '../lib/data.js';
 
 const { lang } = Astro.props;
 const L = t[lang];
-const items = series.series;
+const items = series.mejores.slice(0, 14);
 const img = (path, w) => `https://image.tmdb.org/t/p/w${w}${path}`;
 const kidsCount = items.filter((s) => s.publico === 'ninos').length;
 const fmtRating = (n) => n.toLocaleString(lang, { minimumFractionDigits: 1, maximumFractionDigits: 1 });
@@ -48,5 +48,6 @@ const fmtRating = (n) => n.toLocaleString(lang, { minimumFractionDigits: 1, maxi
     </ul>
     </div>
     <p class="cine-note muted">{L.seriesNote}</p>
+    <a class="more" href={url.series(lang)}>{L.seriesAll}</a>
   </section>
 )}

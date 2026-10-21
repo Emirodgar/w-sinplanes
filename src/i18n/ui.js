@@ -25,12 +25,12 @@ export const monthName = (l, m) => (MONTH_LABELS[l]?.[m - 1]) ?? (l === 'en' ? c
 
 // Segmentos de URL traducidos. El español va en la raíz; el resto con prefijo de idioma.
 const SEG = {
-  es: { plan: 'plan', topics: 'temas', places: 'lugares', calendar: 'calendario', museums: 'museos', routes: 'rutas', parks: 'parques', books: 'libros' },
-  en: { plan: 'plan', topics: 'topics', places: 'places', calendar: 'calendar', museums: 'museums', routes: 'routes', parks: 'parks', books: 'books' },
-  fr: { plan: 'plan', topics: 'themes', places: 'lieux', calendar: 'calendrier', museums: 'musees', routes: 'itineraires', parks: 'parcs', books: 'livres' },
-  de: { plan: 'plan', topics: 'themen', places: 'orte', calendar: 'kalender', museums: 'museen', routes: 'routen', parks: 'naturparks', books: 'buecher' },
-  it: { plan: 'piano', topics: 'temi', places: 'luoghi', calendar: 'calendario', museums: 'musei', routes: 'itinerari', parks: 'parchi', books: 'libri' },
-  pt: { plan: 'plano', topics: 'temas', places: 'locais', calendar: 'calendario', museums: 'museus', routes: 'rotas', parks: 'parques', books: 'livros' },
+  es: { plan: 'plan', topics: 'temas', places: 'lugares', calendar: 'calendario', museums: 'museos', routes: 'rutas', parks: 'parques', books: 'libros', series: 'series' },
+  en: { plan: 'plan', topics: 'topics', places: 'places', calendar: 'calendar', museums: 'museums', routes: 'routes', parks: 'parks', books: 'books', series: 'series' },
+  fr: { plan: 'plan', topics: 'themes', places: 'lieux', calendar: 'calendrier', museums: 'musees', routes: 'itineraires', parks: 'parcs', books: 'livres', series: 'series' },
+  de: { plan: 'plan', topics: 'themen', places: 'orte', calendar: 'kalender', museums: 'museen', routes: 'routen', parks: 'naturparks', books: 'buecher', series: 'serien' },
+  it: { plan: 'piano', topics: 'temi', places: 'luoghi', calendar: 'calendario', museums: 'musei', routes: 'itinerari', parks: 'parchi', books: 'libri', series: 'serie' },
+  pt: { plan: 'plano', topics: 'temas', places: 'locais', calendar: 'calendario', museums: 'museus', routes: 'rotas', parks: 'parques', books: 'livros', series: 'series' },
 };
 const pre = (l) => (l === DEFAULT_LANG ? '/' : `/${l}/`);
 const topicSlug = (l, tp) => (l === DEFAULT_LANG ? tp.id : tp.slugs[l]);
@@ -48,6 +48,7 @@ export const url = {
   routes: (l) => `${pre(l)}${SEG[l].routes}/`,
   parks: (l) => `${pre(l)}${SEG[l].parks}/`,
   books: (l) => `${pre(l)}${SEG[l].books}/`,
+  series: (l) => `${pre(l)}${SEG[l].series}/`,
   calendar: (l) => `${pre(l)}${SEG[l].calendar}/`,
   month: (l, m) => `${pre(l)}${SEG[l].calendar}/${MONTHS[l][m - 1]}/`,
 };
@@ -70,6 +71,7 @@ export function routeUrl(l, r) {
     case 'routes': return url.routes(l);
     case 'parks': return url.parks(l);
     case 'books': return url.books(l);
+    case 'series': return url.series(l);
     case 'calendar': return url.calendar(l);
     case 'month': return url.month(l, r.m);
     default: throw new Error(`Ruta desconocida: ${r.type}`);
@@ -82,9 +84,10 @@ export const t = {
     tagline: 'Planes y eventos en toda España, cada día.',
     heroQ: '¿Sin planes?',
     heroToday: (d) => `${d}. Esto es lo que hay.`,
-    nav: { topics: 'Temas', places: 'Lugares', calendar: 'Calendario', museums: 'Museos', routes: 'Rutas', parks: 'Parques', books: 'Libros' },
+    nav: { topics: 'Temas', places: 'Lugares', calendar: 'Calendario', museums: 'Museos', routes: 'Rutas', parks: 'Parques', books: 'Libros', series: 'Series' },
     booksTitle: 'Todos los libros recomendados', booksIntro: 'Los libros que hemos ido recomendando, uno al mes, ligados a premios, aniversarios y estrenos. Busca por título o autor, o filtra por género.', booksSearch: 'Buscar por título o autor', booksSearchLabel: 'Buscar libros', booksGenres: 'Género', booksAllGenres: 'Todos', booksAll: 'Ver todos los libros',
     seriesNote: 'Series actuales con nota de 7,5 o más en TMDB (mínimo 500 votos) y disponibles en España. Plataformas: JustWatch. Datos e imágenes de TMDB; este sitio usa su API pero no está avalado ni certificado por TMDB.', seriesRating: 'Nota media en TMDB',
+    seriesTitle: 'Series recomendadas', seriesIntro: 'Las series mejor valoradas del momento, los últimos estrenos y una sugerencia al azar para cuando no sabes qué ver. Solo series disponibles en plataformas en España.', seriesBest: 'Las mejor valoradas', seriesNew: 'Últimas novedades', seriesNewNote: 'Estrenadas en los últimos 90 días con nota de 7,0 o más en TMDB (mínimo 100 votos).', seriesPick: 'Una serie al azar', seriesAnother: 'Otra serie', seriesAll: 'Ver todas las series', seriesPlatform: 'Filtrar por plataforma', seriesPlatAll: 'Todas', seriesOpen: 'Ver ficha en TMDB', seriesEmpty: 'La lista de series aún no está disponible. Vuelve pronto.', seriesPremiere: (d) => `Estreno: ${d}`,
     cineFilter: 'Filtrar por público', cineAll: 'Todas', cinePrev: 'Anterior', cineNext: 'Siguiente', cineKids: 'Niños', cineAdults: 'Adultos', cineNote: 'Cartelera de cine en España. Datos e imágenes de TMDB; este sitio usa su API pero no está avalado ni certificado por TMDB.',
     museumsTitle: 'Museos y monumentos de España', museumsIntro: 'Museos, palacios, catedrales y otros lugares de interés que se pueden visitar todo el año. Consulta horarios y entradas en la web oficial de cada uno.', routesTitle: 'Rutas de España', routesIntro: 'Itinerarios de uno o varios días por ciudades, caminos y paisajes de España.',
     parksTitle: 'Parques y espacios naturales de España', parksIntro: 'Parques nacionales, parques naturales, reservas de la biosfera y otros espacios protegidos. Algunos exigen permiso o tienen aforo limitado: consulta las condiciones antes de ir.',
@@ -160,9 +163,10 @@ export const t = {
     tagline: 'Things to do across Spain, updated daily.',
     heroQ: 'No plans?',
     heroToday: (d) => `${d}. Here’s what’s on.`,
-    nav: { topics: 'Topics', places: 'Places', calendar: 'Calendar', museums: 'Museums', routes: 'Routes', parks: 'Parks', books: 'Books' },
+    nav: { topics: 'Topics', places: 'Places', calendar: 'Calendar', museums: 'Museums', routes: 'Routes', parks: 'Parks', books: 'Books', series: 'Series' },
     booksTitle: 'Every recommended book', booksIntro: 'The books we have recommended, one a month, tied to prizes, anniversaries and releases. Search by title or author, or filter by genre.', booksSearch: 'Search by title or author', booksSearchLabel: 'Search books', booksGenres: 'Genre', booksAllGenres: 'All', booksAll: 'See all books',
     seriesNote: 'Current series rated 7.5 or higher on TMDB (at least 500 votes) and available in Spain. Streaming data: JustWatch. Data and images from TMDB; this site uses the TMDB API but is not endorsed or certified by TMDB.', seriesRating: 'Average rating on TMDB',
+    seriesTitle: 'Recommended series', seriesIntro: 'The best-rated series right now, the latest premieres and a random pick for when you cannot decide what to watch. Only series available on streaming platforms in Spain.', seriesBest: 'Top rated', seriesNew: 'Latest premieres', seriesNewNote: 'Premiered in the last 90 days and rated 7.0 or higher on TMDB (at least 100 votes).', seriesPick: 'A random series', seriesAnother: 'Another series', seriesAll: 'See all series', seriesPlatform: 'Filter by platform', seriesPlatAll: 'All', seriesOpen: 'View on TMDB', seriesEmpty: 'The series list is not available yet. Please check back soon.', seriesPremiere: (d) => `Premiere: ${d}`,
     cineFilter: 'Filter by audience', cineAll: 'All', cinePrev: 'Previous', cineNext: 'Next', cineKids: 'Kids', cineAdults: 'Adults', cineNote: 'Cinema listings for Spain. Data and images from TMDB; this site uses the TMDB API but is not endorsed or certified by TMDB.',
     museumsTitle: 'Museums and monuments in Spain', museumsIntro: 'Museums, palaces, cathedrals and other sights you can visit all year round. Check opening times and tickets on each site\'s official page.', routesTitle: 'Routes in Spain', routesIntro: 'Itineraries of one or several days through Spain\'s cities, trails and landscapes.',
     parksTitle: 'Parks and natural areas in Spain', parksIntro: 'National parks, natural parks, biosphere reserves and other protected areas. Some require a permit or have limited numbers: check the conditions before you go.',
@@ -238,9 +242,10 @@ export const t = {
     tagline: 'Idées de sorties et événements dans toute l’Espagne, chaque jour.',
     heroQ: 'Pas de plan ?',
     heroToday: (d) => `${d}. Voici ce qui se passe.`,
-    nav: { topics: 'Thèmes', places: 'Lieux', calendar: 'Calendrier', museums: 'Musées', routes: 'Itinéraires', parks: 'Parcs', books: 'Livres' },
+    nav: { topics: 'Thèmes', places: 'Lieux', calendar: 'Calendrier', museums: 'Musées', routes: 'Itinéraires', parks: 'Parcs', books: 'Livres', series: 'Séries' },
     booksTitle: 'Tous les livres recommandés', booksIntro: 'Les livres que nous avons recommandés, un par mois, liés à des prix, des anniversaires et des sorties. Cherchez par titre ou auteur, ou filtrez par genre.', booksSearch: 'Rechercher par titre ou auteur', booksSearchLabel: 'Rechercher des livres', booksGenres: 'Genre', booksAllGenres: 'Tous', booksAll: 'Voir tous les livres',
     seriesNote: 'Séries actuelles notées 7,5 ou plus sur TMDB (au moins 500 votes) et disponibles en Espagne. Plateformes : JustWatch. Données et images de TMDB ; ce site utilise l’API de TMDB mais n’est ni approuvé ni certifié par TMDB.', seriesRating: 'Note moyenne sur TMDB',
+    seriesTitle: 'Séries recommandées', seriesIntro: 'Les séries les mieux notées du moment, les dernières nouveautés et une suggestion au hasard pour quand on ne sait pas quoi regarder. Uniquement des séries disponibles sur des plateformes en Espagne.', seriesBest: 'Les mieux notées', seriesNew: 'Dernières nouveautés', seriesNewNote: 'Sorties ces 90 derniers jours, notées 7,0 ou plus sur TMDB (au moins 100 votes).', seriesPick: 'Une série au hasard', seriesAnother: 'Une autre série', seriesAll: 'Voir toutes les séries', seriesPlatform: 'Filtrer par plateforme', seriesPlatAll: 'Toutes', seriesOpen: 'Fiche sur TMDB', seriesEmpty: 'La liste des séries n’est pas encore disponible. Revenez bientôt.', seriesPremiere: (d) => `Sortie : ${d}`,
     cineFilter: 'Filtrer par public', cineAll: 'Tous', cinePrev: 'Précédent', cineNext: 'Suivant', cineKids: 'Enfants', cineAdults: 'Adultes', cineNote: 'Films à l’affiche en Espagne. Données et images de TMDB ; ce site utilise l’API de TMDB mais n’est ni approuvé ni certifié par TMDB.',
     museumsTitle: 'Musées et monuments d’Espagne', museumsIntro: 'Musées, palais, cathédrales et autres lieux à visiter toute l’année. Vérifiez horaires et billets sur le site officiel de chacun.', routesTitle: 'Itinéraires en Espagne', routesIntro: 'Itinéraires d’un ou plusieurs jours à travers les villes, les chemins et les paysages d’Espagne.',
     parksTitle: 'Parcs et espaces naturels d’Espagne', parksIntro: 'Parcs nationaux, parcs naturels, réserves de la biosphère et autres espaces protégés. Certains demandent un permis ou limitent les visiteurs : vérifiez les conditions avant d’y aller.',
@@ -316,9 +321,10 @@ export const t = {
     tagline: 'Ausflugstipps und Veranstaltungen in ganz Spanien, täglich aktuell.',
     heroQ: 'Keine Pläne?',
     heroToday: (d) => `${d}. Das ist los.`,
-    nav: { topics: 'Themen', places: 'Orte', calendar: 'Kalender', museums: 'Museen', routes: 'Routen', parks: 'Naturparks', books: 'Bücher' },
+    nav: { topics: 'Themen', places: 'Orte', calendar: 'Kalender', museums: 'Museen', routes: 'Routen', parks: 'Naturparks', books: 'Bücher', series: 'Serien' },
     booksTitle: 'Alle empfohlenen Bücher', booksIntro: 'Die Bücher, die wir empfohlen haben, eines pro Monat, passend zu Preisen, Jubiläen und Neuerscheinungen. Suche nach Titel oder Autor oder filtere nach Genre.', booksSearch: 'Nach Titel oder Autor suchen', booksSearchLabel: 'Bücher suchen', booksGenres: 'Genre', booksAllGenres: 'Alle', booksAll: 'Alle Bücher ansehen',
     seriesNote: 'Aktuelle Serien mit 7,5 oder mehr auf TMDB (mindestens 500 Stimmen), in Spanien verfügbar. Streaming-Daten: JustWatch. Daten und Bilder von TMDB; diese Website nutzt die TMDB-API, wird aber von TMDB weder unterstützt noch zertifiziert.', seriesRating: 'Durchschnittsbewertung auf TMDB',
+    seriesTitle: 'Serien-Empfehlungen', seriesIntro: 'Die aktuell am besten bewerteten Serien, die neuesten Starts und ein Zufallstipp für alle, die nicht wissen, was sie schauen sollen. Nur Serien, die bei Streamingdiensten in Spanien verfügbar sind.', seriesBest: 'Am besten bewertet', seriesNew: 'Neueste Serien', seriesNewNote: 'In den letzten 90 Tagen gestartet, mit 7,0 oder mehr auf TMDB (mindestens 100 Stimmen).', seriesPick: 'Eine zufällige Serie', seriesAnother: 'Andere Serie', seriesAll: 'Alle Serien ansehen', seriesPlatform: 'Nach Plattform filtern', seriesPlatAll: 'Alle', seriesOpen: 'Eintrag bei TMDB', seriesEmpty: 'Die Serienliste ist noch nicht verfügbar. Schau bald wieder vorbei.', seriesPremiere: (d) => `Start: ${d}`,
     cineFilter: 'Nach Zielgruppe filtern', cineAll: 'Alle', cinePrev: 'Zurück', cineNext: 'Weiter', cineKids: 'Kinder', cineAdults: 'Erwachsene', cineNote: 'Kinoprogramm für Spanien. Daten und Bilder von TMDB; diese Website nutzt die TMDB-API, wird aber von TMDB weder unterstützt noch zertifiziert.',
     museumsTitle: 'Museen und Denkmäler in Spanien', museumsIntro: 'Museen, Paläste, Kathedralen und andere Sehenswürdigkeiten, die das ganze Jahr geöffnet sind. Öffnungszeiten und Tickets stehen auf der offiziellen Seite.', routesTitle: 'Routen in Spanien', routesIntro: 'Routen für einen oder mehrere Tage durch Städte, Wege und Landschaften Spaniens.',
     parksTitle: 'Parks und Naturräume in Spanien', parksIntro: 'Nationalparks, Naturparks, Biosphärenreservate und andere Schutzgebiete. Manche verlangen eine Genehmigung oder begrenzen die Besucherzahl: Bedingungen vorab prüfen.',
@@ -394,9 +400,10 @@ export const t = {
     tagline: 'Idee e eventi in tutta la Spagna, ogni giorno.',
     heroQ: 'Senza piani?',
     heroToday: (d) => `${d}. Ecco cosa c’è.`,
-    nav: { topics: 'Temi', places: 'Luoghi', calendar: 'Calendario', museums: 'Musei', routes: 'Itinerari', parks: 'Parchi', books: 'Libri' },
+    nav: { topics: 'Temi', places: 'Luoghi', calendar: 'Calendario', museums: 'Musei', routes: 'Itinerari', parks: 'Parchi', books: 'Libri', series: 'Serie' },
     booksTitle: 'Tutti i libri consigliati', booksIntro: 'I libri che abbiamo consigliato, uno al mese, legati a premi, anniversari e uscite. Cerca per titolo o autore, oppure filtra per genere.', booksSearch: 'Cerca per titolo o autore', booksSearchLabel: 'Cerca libri', booksGenres: 'Genere', booksAllGenres: 'Tutti', booksAll: 'Vedi tutti i libri',
     seriesNote: 'Serie attuali con voto 7,5 o più su TMDB (almeno 500 voti) e disponibili in Spagna. Piattaforme: JustWatch. Dati e immagini di TMDB; questo sito usa l’API di TMDB ma non è approvato né certificato da TMDB.', seriesRating: 'Voto medio su TMDB',
+    seriesTitle: 'Serie consigliate', seriesIntro: 'Le serie meglio valutate del momento, le ultime novità e un suggerimento a caso per quando non sai cosa guardare. Solo serie disponibili su piattaforme in Spagna.', seriesBest: 'Le meglio valutate', seriesNew: 'Ultime novità', seriesNewNote: 'Uscite negli ultimi 90 giorni con voto 7,0 o più su TMDB (almeno 100 voti).', seriesPick: 'Una serie a caso', seriesAnother: 'Un’altra serie', seriesAll: 'Vedi tutte le serie', seriesPlatform: 'Filtra per piattaforma', seriesPlatAll: 'Tutte', seriesOpen: 'Scheda su TMDB', seriesEmpty: 'L’elenco delle serie non è ancora disponibile. Torna presto.', seriesPremiere: (d) => `Uscita: ${d}`,
     cineFilter: 'Filtra per pubblico', cineAll: 'Tutti', cinePrev: 'Precedente', cineNext: 'Successivo', cineKids: 'Bambini', cineAdults: 'Adulti', cineNote: 'Programmazione cinematografica in Spagna. Dati e immagini di TMDB; questo sito usa l’API di TMDB ma non è approvato né certificato da TMDB.',
     museumsTitle: 'Musei e monumenti in Spagna', museumsIntro: 'Musei, palazzi, cattedrali e altri luoghi da visitare tutto l’anno. Controlla orari e biglietti sul sito ufficiale di ciascuno.', routesTitle: 'Itinerari in Spagna', routesIntro: 'Itinerari di uno o più giorni tra città, cammini e paesaggi della Spagna.',
     parksTitle: 'Parchi e spazi naturali della Spagna', parksIntro: 'Parchi nazionali, parchi naturali, riserve della biosfera e altre aree protette. Alcuni richiedono un permesso o limitano gli accessi: controlla le condizioni prima di andare.',
@@ -472,9 +479,10 @@ export const t = {
     tagline: 'Ideias e eventos por toda a Espanha, todos os dias.',
     heroQ: 'Sem planos?',
     heroToday: (d) => `${d}. Eis o que há.`,
-    nav: { topics: 'Temas', places: 'Locais', calendar: 'Calendário', museums: 'Museus', routes: 'Rotas', parks: 'Parques', books: 'Livros' },
+    nav: { topics: 'Temas', places: 'Locais', calendar: 'Calendário', museums: 'Museus', routes: 'Rotas', parks: 'Parques', books: 'Livros', series: 'Séries' },
     booksTitle: 'Todos os livros recomendados', booksIntro: 'Os livros que fomos recomendando, um por mês, ligados a prémios, aniversários e estreias. Pesquise por título ou autor, ou filtre por género.', booksSearch: 'Pesquisar por título ou autor', booksSearchLabel: 'Pesquisar livros', booksGenres: 'Género', booksAllGenres: 'Todos', booksAll: 'Ver todos os livros',
     seriesNote: 'Séries atuais com nota 7,5 ou superior no TMDB (mínimo de 500 votos) e disponíveis em Espanha. Plataformas: JustWatch. Dados e imagens do TMDB; este site usa a API do TMDB mas não é aprovado nem certificado pelo TMDB.', seriesRating: 'Nota média no TMDB',
+    seriesTitle: 'Séries recomendadas', seriesIntro: 'As séries mais bem avaliadas do momento, as últimas estreias e uma sugestão ao acaso para quando não sabes o que ver. Só séries disponíveis em plataformas em Espanha.', seriesBest: 'Mais bem avaliadas', seriesNew: 'Últimas estreias', seriesNewNote: 'Estreadas nos últimos 90 dias com nota 7,0 ou superior no TMDB (mínimo de 100 votos).', seriesPick: 'Uma série ao acaso', seriesAnother: 'Outra série', seriesAll: 'Ver todas as séries', seriesPlatform: 'Filtrar por plataforma', seriesPlatAll: 'Todas', seriesOpen: 'Ver ficha no TMDB', seriesEmpty: 'A lista de séries ainda não está disponível. Volta em breve.', seriesPremiere: (d) => `Estreia: ${d}`,
     cineFilter: 'Filtrar por público', cinePrev: 'Anterior', cineNext: 'Seguinte', cineAll: 'Todos', cineKids: 'Crianças', cineAdults: 'Adultos', cineNote: 'Cartaz de cinema em Espanha. Dados e imagens do TMDB; este site usa a API do TMDB mas não é aprovado nem certificado pelo TMDB.',
     museumsTitle: 'Museus e monumentos de Espanha', museumsIntro: 'Museus, palácios, catedrais e outros locais para visitar durante todo o ano. Consulte horários e bilhetes no site oficial de cada um.', routesTitle: 'Rotas em Espanha', routesIntro: 'Itinerários de um ou vários dias por cidades, caminhos e paisagens de Espanha.',
     parksTitle: 'Parques e espaços naturais de Espanha', parksIntro: 'Parques nacionais, parques naturais, reservas da biosfera e outros espaços protegidos. Alguns exigem licença ou têm lotação limitada: veja as condições antes de ir.',
