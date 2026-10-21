@@ -7,7 +7,7 @@ const { s, lang, showDate = false } = Astro.props;
 const L = t[lang];
 const img = (path, w) => `https://image.tmdb.org/t/p/w${w}${path}`;
 const title = pickText(s.titulo, lang).text;
-const rating = s.nota.toLocaleString(lang, { minimumFractionDigits: 1, maximumFractionDigits: 1 });
+const rating = s.nota == null ? null : s.nota.toLocaleString(lang, { minimumFractionDigits: 1, maximumFractionDigits: 1 });
 const premiere = showDate && s.estreno
   ? new Date(`${s.estreno}T12:00:00Z`).toLocaleDateString(lang, { day: 'numeric', month: 'long', year: 'numeric', timeZone: 'UTC' })
   : null;
@@ -17,7 +17,7 @@ const premiere = showDate && s.estreno
     <div class="poster">
       <img src={img(s.poster, 342)} srcset={`${img(s.poster, 185)} 185w, ${img(s.poster, 342)} 342w, ${img(s.poster, 500)} 500w`}
         sizes="(min-width: 46rem) 10rem, 40vw" alt={title} width="342" height="513" loading="lazy" decoding="async" />
-      <span class="badge badge--rating" title={L.seriesRating}>★ {rating}</span>
+      {rating && <span class="badge badge--rating" title={L.seriesRating}>★ {rating}</span>}
     </div>
     <p class="film-title">{title}</p>
   </a>

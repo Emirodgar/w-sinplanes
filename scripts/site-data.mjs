@@ -40,6 +40,7 @@ const seriesFresh = seriesRaw.generated && (Date.parse(today) - Date.parse(serie
 writeFileSync(path.join(ROOT, 'data/series.json'), JSON.stringify({
   mejores: seriesFresh ? (seriesRaw.mejores || seriesRaw.series || []) : [],
   novedades: seriesFresh ? (seriesRaw.novedades || []) : [],
+  estrenos: seriesFresh ? (seriesRaw.estrenos || []) : [],
 }));
 writeFileSync(path.join(ROOT, 'data/libros.json'), JSON.stringify(buildBooks(today)));
 writeFileSync(path.join(ROOT, 'data/podcasts.json'), JSON.stringify(buildPodcasts(today)));
