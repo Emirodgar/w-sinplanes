@@ -1,0 +1,48 @@
+# Carreras populares de España (página /carreras/; NO está enlazada en el menú superior)
+# ------------------------------------------------------------
+# Las fechas son APROXIMADAS: cada edición cambia el domingo exacto. La página solo muestra mes y tramo
+# (principios / mediados / finales), así que basta con acertar la época. Antes de publicar, contrasta las
+# que marques con `revisar: true` en la web oficial de la carrera.
+#
+# Campos de cada carrera:
+#   id         identificador único (sin espacios)
+#   nombre     nombre de la carrera (igual en todos los idiomas)
+#   ciudad     ciudad o localidad de salida
+#   ccaa       slug de config/geo.json (andalucia, madrid, pais-vasco…); se traduce solo
+#   tipo       maraton | media | popular | trail
+#   distancia  texto libre: "42,195 km", "10 km", "21–110 km"…
+#   mes        1-12 (0 = varía según la ciudad o la edición)
+#   cuando     principios | mediados | finales   (omitir si mes: 0)
+#   web        (opcional) URL oficial; si existe sale el nombre como enlace
+#   revisar    (opcional) true si la fecha es la que menos seguridad tengo
+#
+# Plantilla:
+#   - id: ejemplo
+#     nombre: "…"
+#     ciudad: "…"
+#     ccaa: madrid
+#     tipo: popular
+#     distancia: "10 km"
+#     mes: 5
+#     cuando: mediados   # principios | mediados | finales
+#     web: "https://…"
+
+carreras:
+  - { id: 10k-valencia, nombre: "10K Valencia Ibercaja", ciudad: Valencia, ccaa: comunitat-valenciana, tipo: popular, distancia: "10 km", mes: 1, cuando: mediados }
+  - { id: maraton-sevilla, nombre: "Maratón de Sevilla", ciudad: Sevilla, ccaa: andalucia, tipo: maraton, distancia: "42,195 km", mes: 2, cuando: finales }
+  - { id: media-barcelona, nombre: "Mitja Marató de Barcelona", ciudad: Barcelona, ccaa: cataluna, tipo: media, distancia: "21,097 km", mes: 2, cuando: mediados }
+  - { id: transgrancanaria, nombre: "Transgrancanaria", ciudad: Las Palmas de Gran Canaria, ccaa: canarias, tipo: trail, distancia: "17–128 km", mes: 2, cuando: finales, revisar: true }
+  - { id: maraton-barcelona, nombre: "Marató de Barcelona", ciudad: Barcelona, ccaa: cataluna, tipo: maraton, distancia: "42,195 km", mes: 3, cuando: mediados }
+  - { id: penyagolosa, nombre: "Penyagolosa Trails", ciudad: Castellón de la Plana, ccaa: comunitat-valenciana, tipo: trail, distancia: "60–115 km", mes: 4, cuando: finales, revisar: true }
+  - { id: maraton-madrid, nombre: "Maratón y Medio Maratón de Madrid", ciudad: Madrid, ccaa: madrid, tipo: maraton, distancia: "21 y 42 km", mes: 4, cuando: finales }
+  - { id: zegama, nombre: "Zegama-Aizkorri", ciudad: Zegama, ccaa: pais-vasco, tipo: trail, distancia: "42 km", mes: 5, cuando: finales }
+  - { id: carrera-mujer, nombre: "Carrera de la Mujer", ciudad: "Madrid, Barcelona, Valencia y otras", ccaa: madrid, tipo: popular, distancia: "5 km", mes: 0 }
+  - { id: ultra-pirineu, nombre: "Ultra Pirineu", ciudad: Bagà, ccaa: cataluna, tipo: trail, distancia: "30–110 km", mes: 10, cuando: principios, revisar: true }
+  - { id: maraton-palma, nombre: "Palma Marathon", ciudad: Palma, ccaa: illes-balears, tipo: maraton, distancia: "42,195 km", mes: 10, cuando: mediados }
+  - { id: media-valencia, nombre: "Medio Maratón Valencia Trinidad Alfonso", ciudad: Valencia, ccaa: comunitat-valenciana, tipo: media, distancia: "21,097 km", mes: 10, cuando: finales }
+  - { id: bilbao-night, nombre: "Bilbao Night Marathon", ciudad: Bilbao, ccaa: pais-vasco, tipo: maraton, distancia: "42,195 km", mes: 10, cuando: finales, revisar: true }
+  - { id: behobia, nombre: "Behobia–San Sebastián", ciudad: Irun – San Sebastián, ccaa: pais-vasco, tipo: popular, distancia: "20 km", mes: 11, cuando: mediados }
+  - { id: maraton-donostia, nombre: "Maratón de San Sebastián", ciudad: San Sebastián, ccaa: pais-vasco, tipo: maraton, distancia: "42,195 km", mes: 11, cuando: finales }
+  - { id: maraton-valencia, nombre: "Maratón de Valencia Trinidad Alfonso", ciudad: Valencia, ccaa: comunitat-valenciana, tipo: maraton, distancia: "42,195 km", mes: 12, cuando: principios }
+  - { id: maraton-malaga, nombre: "Maratón de Málaga", ciudad: Málaga, ccaa: andalucia, tipo: maraton, distancia: "42,195 km", mes: 12, cuando: mediados, revisar: true }
+  - { id: san-silvestre-vallecana, nombre: "San Silvestre Vallecana", ciudad: Madrid, ccaa: madrid, tipo: popular, distancia: "10 km", mes: 12, cuando: finales }

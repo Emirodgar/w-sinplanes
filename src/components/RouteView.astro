@@ -4,6 +4,7 @@ import PlanView from './PlanView.astro';
 import ListView from './ListView.astro';
 import BooksView from './BooksView.astro';
 import PodcastsView from './PodcastsView.astro';
+import RacesView from './RacesView.astro';
 import SeriesView from './SeriesView.astro';
 import MoviesView from './MoviesView.astro';
 import { t, url, monthName } from '../i18n/ui.js';
@@ -64,6 +65,8 @@ const split = (list) => ({ seasonal: list.filter((p) => p.kind === 'estacional')
 {r.type === 'movies' && <MoviesView lang={lang} route={r} />}
 
 {r.type === 'podcasts' && <PodcastsView lang={lang} route={r} />}
+
+{r.type === 'races' && <RacesView lang={lang} route={r} />}
 
 {r.type === 'calendar' && (
   <ListView lang={lang} title={L.calendarTitle} intro={L.calendarIntro} route={r} noindex={false}>

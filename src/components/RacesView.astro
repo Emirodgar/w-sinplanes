@@ -1,0 +1,83 @@
+---
+// Página /carreras: calendario de carreras populares de España con fecha aproximada (config/carreras.yml). Sin enlace en el menú.
+import Base from '../layouts/Base.astro';
+import { t, monthName } from '../i18n/ui.js';
+import { geo, norm } from '../lib/data.js';
+import { races } from '../lib/carreras.js';
+
+const { lang, route } = Astro.props;
+const L = t[lang];
+const R = L.races;
+const ccaa = (slug) => geo.find((c) => c.slug === slug)?.[lang] || '';
+const when = (r) => (r.mes ? R.when[r.cuando](monthName(lang, r.mes)) : R.varies);
+const types = Object.keys(R.types).filter((k) => races.some((r) => r.tipo === k));
+const jsonld = {
+  '@context': 'https://schema.org', '@type': 'ItemList', name: R.title,
+  itemListElement: races.map((r, i) => ({ '@type': 'ListItem', position: i + 1, name: r.nombre })),
+};
+---
+<Base lang={lang} title={R.title} description={R.intro} route={route} jsonld={jsonld}>
+  <header class="page-head">
+    <h1>{R.title}</h1>
+    <p>{R.intro}</p>
+  </header>
+
+  <div class="books-tools" data-races>
+    <div class="search" role="search">
+      <label class="visually-hidden" for="races-q">{R.searchLabel}</label>
+      <input id="races-q" type="search" autocomplete="off" enterkeyhint="search" placeholder={R.search} />
+    </div>
+    <ul class="chips books-genres" aria-label={R.typeLabel}>
+      <li><button type="button" class="chip" data-type="" aria-pressed="true">{R.all}</button></li>
+      {types.map((k) => <li><button type="button" class="chip" data-type={k} aria-pressed="false">{R.types[k]}</button></li>)}
+    </ul>
+  </div>
+
+  <div class="races-wrap">
+    <table class="races">
+      <thead>
+        <tr><th scope="col">{R.cols.race}</th><th scope="col">{R.cols.place}</th><th scope="col">{R.cols.distance}</th><th scope="col">{R.cols.when}</th></tr>
+      </thead>
+      <tbody>
+        {races.map((r) => (
+          <tr class="race" data-type={r.tipo} data-q={norm(`${r.nombre} ${r.ciudad} ${ccaa(r.ccaa)} ${R.types[r.tipo]} ${r.distancia}`)}>
+            <th scope="row">{r.web ? <a href={r.web} target="_blank" rel="noopener noreferrer">{r.nombre}</a> : r.nombre}<span class="race-type">{R.types[r.tipo]}</span></th>
+            <td data-label={R.cols.place}>{r.ciudad}<span class="race-ccaa">{ccaa(r.ccaa)}</span></td>
+            <td data-label={R.cols.distance}>{r.distancia}</td>
+            <td data-label={R.cols.when}>{when(r)}</td>
+          </tr>
+        ))}
+      </tbody>
+    </table>
+  </div>
+  <p class="empty" hidden data-races-empty>{L.searchNone}</p>
+  <p class="races-note">{R.note}</p>
+</Base>
+
+<script>
+  const root = document.querySelector('[data-races]');
+  if (root) {
+    const input = root.querySelector('input');
+    const empty = document.querySelector('[data-races-empty]');
+    const rows = [...document.querySelectorAll('.race')];
+    const chips = [...root.querySelectorAll('[data-type]')];
+    const norm = (s) => String(s).normalize('NFD').replace(/\p{M}/gu, '').toLowerCase();
+    let type = '';
+    const run = () => {
+      const words = norm(input.value).split(/\s+/).filter(Boolean);
+      let shown = 0;
+      for (const r of rows) {
+        const ok = words.every((w) => r.dataset.q.includes(w)) && (!type || r.dataset.type === type);
+        r.hidden = !ok;
+        if (ok) shown++;
+      }
+      empty.hidden = shown > 0;
+    };
+    input.addEventListener('input', run);
+    chips.forEach((chip) => chip.addEventListener('click', () => {
+      type = chip.dataset.type;
+      chips.forEach((c) => c.setAttribute('aria-pressed', String(c === chip)));
+      run();
+    }));
+  }
+</script>
