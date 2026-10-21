@@ -1,0 +1,51 @@
+---
+// Una sola sugerencia cultural al día (serie, libro o podcast), elegida en el build con una semilla por fecha:
+// todos los visitantes ven la misma ese día y cambia sola con el despliegue diario. Si un tipo no tiene datos, no entra.
+import series from '../../data/series.json';
+import libros from '../../data/libros.json';
+import podcasts from '../../data/podcasts.json';
+import BookCover from './BookCover.astro';
+import PodcastCover from './PodcastCover.astro';
+import { t, url } from '../i18n/ui.js';
+import { pickText, TODAY } from '../lib/data.js';
+
+const { lang } = Astro.props;
+const L = t[lang];
+
+const hash = (s) => [...s].reduce((a, c) => (Math.imul(a, 31) + c.charCodeAt(0)) >>> 0, 7);
+const img = (path, w) => `https://image.tmdb.org/t/p/w${w}${path}`;
+
+const pools = {
+  series: series.mejores || [],
+  book: libros.todos || (libros.actual ? [libros.actual] : []),
+  podcast: podcasts.todos || (podcasts.actual ? [podcasts.actual] : []),
+};
+const kinds = Object.keys(pools).filter((k) => pools[k].length > 0);
+const kind = kinds.length ? kinds[hash(`${TODAY}:tipo`) % kinds.length] : null;
+const item = kind ? pools[kind][hash(`${TODAY}:${kind}`) % pools[kind].length] : null;
+
+const kindLabel = { series: L.w.dailySeries, book: L.w.dailyBook, podcast: L.w.dailyPodcast }[kind];
+const more = { series: [url.series(lang), L.seriesAll], book: [url.books(lang), L.booksAll], podcast: [url.podcasts(lang), L.podcastsAll] }[kind];
+const title = item && (kind === 'series' ? pickText(item.titulo, lang).text : item.titulo);
+const byline = item && (kind === 'series' ? (item.plataformas || []).join(' · ') : item.autor);
+const textObj = item && (kind === 'series' ? item.sinopsis : kind === 'book' ? item.sinopsis : item.descripcion);
+const text = textObj ? pickText(textObj, lang) : null;
+---
+{item && (
+  <section class="widget widget--wide book daily" aria-labelledby="w-daily" data-search-hide>
+    {kind === 'series' && (
+      <img class="book-cover daily-poster" src={img(item.poster, 342)} srcset={`${img(item.poster, 185)} 185w, ${img(item.poster, 342)} 342w`}
+        sizes="(min-width: 46rem) 11rem, 7rem" alt={title} width="342" height="513" loading="lazy" decoding="async" />
+    )}
+    {kind === 'book' && <BookCover book={item} />}
+    {kind === 'podcast' && <PodcastCover podcast={item} />}
+    <div class="book-body">
+      <p class="book-eyebrow">{kindLabel}</p>
+      <h2 id="w-daily">{L.w.daily}</h2>
+      <p class="book-title">{title}</p>
+      {byline && <p class="book-author">{byline}</p>}
+      {text?.text && <p class="book-synopsis daily-text" lang={text.lang !== lang ? text.lang : undefined}>{text.text}</p>}
+      <a class="more" href={more[0]}>{more[1]}</a>
+    </div>
+  </section>
+)}

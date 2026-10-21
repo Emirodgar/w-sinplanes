@@ -55,5 +55,7 @@ export function buildPodcasts(today, cfgPath = path.join(ROOT, 'config/podcasts.
   const seen = new Set();
   const historico = history.filter((p) => !seen.has(p.id) && seen.add(p.id));
 
-  return { actual, historico, generos: cfg.generos || {} };
+  const todos = [...destacados, ...reserva].filter((p, i, a) => a.findIndex((x) => x.id === p.id) === i);
+
+  return { actual, historico, todos, generos: cfg.generos || {} };
 }

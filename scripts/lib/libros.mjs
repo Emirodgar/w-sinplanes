@@ -51,5 +51,8 @@ export function buildBooks(today) {
   const seen = new Set();
   const historico = history.filter((b) => !seen.has(b.id) && seen.add(b.id)).map(({ orden, ...b }) => b);
 
-  return { actual, historico, generos: cfg.generos || {} };
+  // todos: el fondo completo (destacados + reserva, sin repetir), del que la portada saca la sugerencia del día.
+  const todos = [...destacados, ...reserva].filter((b, i, a) => a.findIndex((x) => x.id === b.id) === i);
+
+  return { actual, historico, todos, generos: cfg.generos || {} };
 }

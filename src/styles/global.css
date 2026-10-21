@@ -94,9 +94,9 @@ p { margin: 0 0 1em; max-width: var(--measure); }
 @media (min-width: 52rem) { .season { grid-template-columns: minmax(16rem, 0.75fr) 1.25fr; align-items: start; } }
 
 /* Tarjetas de widgets */
-.widgets { display: grid; gap: var(--gap); grid-template-columns: 1fr; padding-bottom: 5rem; }
-@media (min-width: 46rem) { .widgets { grid-template-columns: 1fr 1fr; } }
-.widget { background: var(--surface); border-radius: var(--r-xl); padding: clamp(1.25rem, 3.5vw, 2rem); box-shadow: var(--shadow); display: flex; flex-direction: column; align-items: flex-start; }
+.widgets { display: grid; gap: var(--gap); grid-template-columns: minmax(0, 1fr); padding-bottom: 5rem; }
+@media (min-width: 46rem) { .widgets { grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); } }
+.widget { min-width: 0; background: var(--surface); border-radius: var(--r-xl); padding: clamp(1.25rem, 3.5vw, 2rem); box-shadow: var(--shadow); display: flex; flex-direction: column; align-items: flex-start; }
 .widget h2 { font-size: var(--s2); letter-spacing: -0.035em; margin-bottom: 1rem; }
 .widget > .muted { font-size: 0.9375rem; }
 .widget .plan-list { width: 100%; }
@@ -317,3 +317,8 @@ p { margin: 0 0 1em; max-width: var(--measure); }
   .races td .race-ccaa { display: inline; }
   .races td .race-ccaa::before { content: ' · '; }
 }
+
+/* Plan para hoy: tarjeta única de la portada (reutiliza .book). La sinopsis se acorta en pantallas pequeñas. */
+.daily-poster { height: auto; }
+.daily-text { display: -webkit-box; -webkit-line-clamp: 5; -webkit-box-orient: vertical; overflow: hidden; }
+.daily .podcast-cover { aspect-ratio: 1 / 1; }

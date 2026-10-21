@@ -3,10 +3,8 @@ import Base from '../layouts/Base.astro';
 import PlanList from './PlanList.astro';
 import NearMe from './NearMe.astro';
 import SearchBox from './SearchBox.astro';
-import BookWidget from './BookWidget.astro';
-import PodcastWidget from './PodcastWidget.astro';
 import CineWidget from './CineWidget.astro';
-import SeriesWidget from './SeriesWidget.astro';
+import DailyPick from './DailyPick.astro';
 import { t, url, monthName, HREFLANG } from '../i18n/ui.js';
 import { TODAY, currentMonth, seasonalFor, upcoming, within, overlaps, weekendRange, topicById, fmtDay, cap, ptitle, psummary, textLang, trending, boost, inLang } from '../lib/data.js';
 
@@ -92,11 +90,7 @@ const jsonld = {
 
     <CineWidget lang={lang} />
 
-    <SeriesWidget lang={lang} />
-
-    <BookWidget lang={lang} />
-
-    <PodcastWidget lang={lang} />
+    <DailyPick lang={lang} />
 
     <section class="widget" aria-labelledby="w-next">
       <h2 id="w-next">{L.w.next}</h2>
