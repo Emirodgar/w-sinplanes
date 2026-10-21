@@ -1608,6 +1608,26 @@ citas:
     fuente: "https://www.spain.info/es/agenda/festival-jerez/"
     es: { titulo: "Festival de Jerez", resumen: "Dos semanas de espectáculos, cursos y encuentros de flamenco en la ciudad donde nació el género." }
     en: { titulo: "Jerez Festival", resumen: "Two weeks of flamenco shows, classes and gatherings in the city where the genre was born." }
+    relacionados: [festival-internacional-santander, festival-womad-caceres, fiestas-vendimia-jerez]
+    contenido:
+      es:
+        texto:
+          - "El Festival de Jerez es una de las grandes citas del flamenco en el mundo. Se celebra a finales de febrero y principios de marzo en Jerez de la Frontera, la ciudad donde nació este arte, con espectáculos, cursos y encuentros durante dos semanas."
+          - "La programación incluye espectáculos de baile, cante y guitarra de artistas consagrados y de nuevos talentos, en el Teatro Villamarta y en otros espacios de la ciudad. Además, hay cursos de flamenco abiertos a aficionados y profesionales, y actividades en peñas y tablaos que permiten conocer de cerca el ambiente flamenco de Jerez."
+          - "Consulta la web oficial para el programa y la compra de entradas, que se venden con antelación. Aprovecha para visitar las peñas flamencas y las bodegas de la ciudad, y para probar la gastronomía jerezana. Las noches de febrero son frescas, así que lleva ropa de abrigo."
+        faq:
+          - p: "¿Cuándo es el Festival de Jerez?"
+            r: "A finales de febrero y principios de marzo, durante unas dos semanas. Las fechas exactas se anuncian cada año."
+          - p: "¿Dónde se celebra?"
+            r: "En Jerez de la Frontera, sobre todo en el Teatro Villamarta y otros espacios de la ciudad."
+          - p: "¿Qué hay además de espectáculos?"
+            r: "Cursos de flamenco, encuentros y actividades en peñas y tablaos."
+          - p: "¿Dónde compro las entradas?"
+            r: "En los canales oficiales del festival. Se venden con antelación y los espectáculos más demandados se agotan."
+          - p: "¿Puedo apuntarme a un curso?"
+            r: "Sí, hay cursos para aficionados y profesionales. Consulta la inscripción en la web oficial."
+          - p: "¿Qué más hacer en Jerez?"
+            r: "Visitar las bodegas, las peñas flamencas, el Real Alcázar y probar la gastronomía local."
   - id: sonar-festival-internacional-musica-avanzada-barcelona
     regla: { tipo: enesimo, mes: 6, dia_semana: 4, n: 3, dura: 3 }
     aprox: true
@@ -1616,6 +1636,26 @@ citas:
     fuente: "https://www.spain.info/es/agenda/sonar-festival-internacional-musica-avanzada-barcelona/"
     es: { titulo: "Sónar", resumen: "Festival de música electrónica y creatividad con conciertos de día y de noche en Barcelona." }
     en: { titulo: "Sónar", resumen: "A festival of electronic music and creativity, with daytime and nighttime shows in Barcelona." }
+    relacionados: [bilbao-bbk-live, fib-festival-internacional-benicassim, festival-womad-caceres]
+    contenido:
+      es:
+        texto:
+          - "Sónar es uno de los grandes festivales de música electrónica y creatividad digital de Europa. Se celebra en Barcelona en junio, durante tres días, y combina conciertos y sesiones de DJ con exposiciones, charlas y propuestas de arte y tecnología."
+          - "El festival se divide en dos programas: Sónar de Día, con escenarios al aire libre, sesiones y actividades, y Sónar de Noche, con grandes sesiones y conciertos en un recinto distinto, hasta la madrugada. También incluye un área profesional dedicada a la creatividad y la tecnología."
+          - "Las entradas se venden con antelación, por días o con abono completo, y el cartel se anuncia meses antes. Compra solo en los canales oficiales y consulta las condiciones de acceso y los objetos permitidos. Lleva calzado cómodo, protección solar de día, tapones para los oídos y agua, y planifica con antelación el transporte de vuelta de la sesión de noche."
+        faq:
+          - p: "¿Cuándo es Sónar?"
+            r: "En junio, durante tres días. Las fechas exactas se anuncian cada año."
+          - p: "¿Dónde se celebra?"
+            r: "En Barcelona, con dos recintos: uno para Sónar de Día y otro para Sónar de Noche."
+          - p: "¿Qué diferencia hay entre Sónar de Día y de Noche?"
+            r: "De día, escenarios al aire libre y actividades; de noche, sesiones y conciertos de gran formato hasta la madrugada."
+          - p: "¿Dónde compro las entradas?"
+            r: "En los canales oficiales del festival. Hay entradas por día y abonos completos. Desconfía de reventas."
+          - p: "¿Qué conviene llevar?"
+            r: "Calzado cómodo, protección solar y gorra de día, tapones para los oídos y agua. Revisa los objetos permitidos antes de ir."
+          - p: "¿Cómo vuelvo a casa?"
+            r: "Planifica el transporte con antelación: tras la sesión de noche, el metro puede estar cerrado y hay mucha demanda de taxis."
   - id: bilbao-bbk-live
     regla: { tipo: enesimo, mes: 7, dia_semana: 4, n: 2, dura: 3 }
     aprox: true
@@ -1624,6 +1664,26 @@ citas:
     fuente: "https://www.spain.info/es/agenda/bilbao-bbk-live/"
     es: { titulo: "Bilbao BBK Live", resumen: "Tres días de festival de música en las laderas del monte Kobetas, con vistas a la ciudad." }
     en: { titulo: "Bilbao BBK Live", resumen: "Three days of music on the slopes of Mount Kobetas, with views over the city." }
+    relacionados: [sonar-festival-internacional-musica-avanzada-barcelona, fib-festival-internacional-benicassim, festival-internacional-santander]
+    contenido:
+      es:
+        texto:
+          - "El Bilbao BBK Live es un festival de música que se celebra en julio en las laderas del monte Kobetas, con vistas a la ciudad de Bilbao. Durante tres días, reúne a artistas de pop, rock, indie y electrónica en un entorno natural muy particular."
+          - "El recinto, al aire libre y en pendiente, tiene varios escenarios y una zona de gastronomía y descanso. El cartel se anuncia meses antes y las entradas se venden con antelación, tanto por día como en abono completo. Es un festival muy ligado a la ciudad: se llega en transporte público y servicios especiales desde el centro."
+          - "Consulta en la web oficial las condiciones de acceso, los objetos permitidos y los horarios. Lleva calzado cómodo, ropa de abrigo y chubasquero, porque en Bilbao el tiempo puede cambiar rápido, y protección solar si hace sol. Reserva alojamiento con tiempo, porque la ciudad se llena esos días."
+        faq:
+          - p: "¿Cuándo es el Bilbao BBK Live?"
+            r: "En julio, durante tres días. Las fechas exactas se anuncian cada año."
+          - p: "¿Dónde se celebra?"
+            r: "En las laderas del monte Kobetas, en Bilbao, con vistas a la ciudad."
+          - p: "¿Cómo llego al recinto?"
+            r: "En transporte público y en servicios especiales que se organizan desde el centro. Consulta la web oficial para los detalles."
+          - p: "¿Dónde compro las entradas?"
+            r: "En los canales oficiales del festival, por día o con abono completo. Evita las reventas."
+          - p: "¿Qué ropa llevar?"
+            r: "Calzado cómodo, ropa de abrigo, chubasquero y protección solar. En Bilbao el tiempo puede cambiar rápido."
+          - p: "¿Es buen plan con niños?"
+            r: "Depende del cartel y del horario. Consulta las condiciones de acceso de menores en la web oficial."
   - id: fib-festival-internacional-benicassim
     regla: { tipo: enesimo, mes: 7, dia_semana: 4, n: 3, dura: 4 }
     aprox: true
@@ -1632,6 +1692,26 @@ citas:
     fuente: "https://www.spain.info/es/agenda/fib-festival-internacional-benicassim/"
     es: { titulo: "FIB Benicàssim", resumen: "Festival de música en la costa de Castellón con conciertos, camping y playa durante cuatro días." }
     en: { titulo: "FIB Benicàssim", resumen: "A music festival on the Castellón coast, with concerts, camping and beach over four days." }
+    relacionados: [sonar-festival-internacional-musica-avanzada-barcelona, bilbao-bbk-live, festival-internacional-santander]
+    contenido:
+      es:
+        texto:
+          - "El FIB, Festival Internacional de Benicàssim, es uno de los festivales más veteranos y conocidos de España. Se celebra en julio en Benicàssim, en la costa de Castellón, y combina conciertos con playa, camping y un ambiente de vacaciones."
+          - "Durante cuatro días, varios escenarios reúnen a artistas de rock, indie, pop y electrónica, con sesiones hasta la madrugada. La cercanía del mar es uno de sus grandes atractivos: muchos asistentes aprovechan la mañana para bañarse y descansar antes de los conciertos de la tarde y la noche."
+          - "Las entradas se venden con antelación, por día o con abono, y puede haber opciones con camping. Compra solo en los canales oficiales y revisa las condiciones de acceso. En julio hace mucho calor: lleva protección solar, gorra, agua y calzado cómodo, y reserva alojamiento con tiempo si no vas a acampar."
+        faq:
+          - p: "¿Cuándo es el FIB?"
+            r: "En julio, durante cuatro días. Las fechas exactas se anuncian cada año."
+          - p: "¿Dónde se celebra?"
+            r: "En Benicàssim, en la costa de Castellón."
+          - p: "¿Hay camping?"
+            r: "Suele haber opciones de camping. Consulta las condiciones en la web oficial."
+          - p: "¿Cómo compro las entradas?"
+            r: "En los canales oficiales del festival, por día o con abono completo. Evita las reventas."
+          - p: "¿Qué conviene llevar?"
+            r: "Protección solar, gorra, agua, calzado cómodo y bañador, porque el mar queda cerca."
+          - p: "¿Es buen plan con niños?"
+            r: "Depende del cartel y del horario. Consulta las condiciones de acceso de menores en la web oficial."
   - id: festival-internacional-santander
     regla: { tipo: fija, inicio: "08-01", fin: "08-31" }
     aprox: true
@@ -1640,6 +1720,26 @@ citas:
     fuente: "https://www.spain.info/es/agenda/festival-internacional-santander/"
     es: { titulo: "Festival Internacional de Santander", resumen: "Música clásica, danza y ópera durante el mes de agosto en teatros y escenarios singulares de la ciudad." }
     en: { titulo: "Santander International Festival", resumen: "Classical music, dance and opera through August, in the city’s theatres and unusual venues." }
+    relacionados: [festival-jerez, festival-womad-caceres, bilbao-bbk-live]
+    contenido:
+      es:
+        texto:
+          - "El Festival Internacional de Santander es una de las grandes citas de la música clásica, la danza y la ópera en España. Se celebra en agosto, durante varias semanas, en teatros y escenarios singulares de Santander y de otros lugares de Cantabria."
+          - "La programación reúne a orquestas, solistas, compañías de danza y grupos de ópera de nivel internacional, con conciertos en el Palacio de Festivales y en espacios históricos de la ciudad. Es un plan perfecto para quienes quieren combinar cultura y verano en la costa cántabra."
+          - "Consulta la web oficial para el programa completo y la compra de entradas, que se venden con antelación. Algunas actividades tienen precios asequibles o son gratuitas. Lleva ropa de abrigo ligera, porque las noches de agosto en Santander son frescas, y reserva alojamiento con tiempo."
+        faq:
+          - p: "¿Cuándo es el Festival Internacional de Santander?"
+            r: "En agosto, durante varias semanas. Consulta la web oficial para el programa."
+          - p: "¿Qué tipo de espectáculos hay?"
+            r: "Música clásica, danza y ópera, con artistas y compañías internacionales."
+          - p: "¿Dónde se celebran los conciertos?"
+            r: "En el Palacio de Festivales y en otros teatros y escenarios de Santander y Cantabria."
+          - p: "¿Dónde compro las entradas?"
+            r: "En los canales oficiales del festival. Se venden con antelación y los espectáculos populares se agotan."
+          - p: "¿Hay actividades gratuitas?"
+            r: "Algunas ediciones incluyen actividades gratuitas o de bajo coste. Consulta el programa."
+          - p: "¿Es buen plan con niños?"
+            r: "Hay espectáculos familiares y de danza que pueden gustar a los más pequeños. Consulta el programa."
   - id: festival-womad-caceres
     regla: { tipo: enesimo, mes: 5, dia_semana: 4, n: 2, dura: 3 }
     aprox: true
@@ -1648,6 +1748,26 @@ citas:
     fuente: "https://www.spain.info/es/agenda/festival-womad-caceres/"
     es: { titulo: "WOMAD Cáceres", resumen: "Festival de músicas del mundo con conciertos en las plazas de la ciudad monumental." }
     en: { titulo: "WOMAD Cáceres", resumen: "A world-music festival with concerts in the squares of the monumental old town." }
+    relacionados: [semana-santa-caceres, festival-jerez, festival-internacional-santander]
+    contenido:
+      es:
+        texto:
+          - "WOMAD Cáceres es un festival de músicas del mundo que convierte las plazas de la ciudad monumental en escenarios al aire libre. Se celebra en mayo y combina conciertos de artistas de distintos países, talleres, actividades para niños y gastronomía."
+          - "El marco es parte de su encanto: plazas medievales, palacios y calles de piedra de una ciudad Patrimonio de la Humanidad. Muchos de los conciertos son en plazas abiertas, y el festival cuenta además con propuestas culturales y de ocio para todas las edades."
+          - "Consulta la web oficial para el programa, las plazas y los horarios, y para saber qué conciertos son de acceso libre y cuáles requieren entrada o abono. Lleva calzado cómodo, porque las calles son empedradas, y ropa por capas. Reserva alojamiento con antelación: Cáceres se llena durante el festival."
+        faq:
+          - p: "¿Cuándo es WOMAD Cáceres?"
+            r: "En mayo, durante unos días. Las fechas exactas se anuncian cada año."
+          - p: "¿Qué tipo de música hay?"
+            r: "Músicas del mundo: folclore, fusión, etno y música tradicional de distintos países."
+          - p: "¿Dónde se celebran los conciertos?"
+            r: "En plazas y espacios de la ciudad monumental de Cáceres. Consulta el programa."
+          - p: "¿Todos los conciertos son gratis?"
+            r: "Depende de la edición. Hay conciertos de acceso libre y otros con entrada o abono. Consulta la web oficial."
+          - p: "¿Qué conviene llevar?"
+            r: "Calzado cómodo, porque las calles son empedradas, y ropa por capas."
+          - p: "¿Es buen plan con niños?"
+            r: "Sí, el festival suele incluir talleres y actividades para niños. Consulta el programa."
   - id: festival-internacional-cine-fantastico-cataluna-sitges
     regla: { tipo: enesimo, mes: 10, dia_semana: 4, n: 2, dura: 11 }
     aprox: true
