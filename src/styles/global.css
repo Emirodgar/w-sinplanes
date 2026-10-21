@@ -262,6 +262,7 @@ p { margin: 0 0 1em; max-width: var(--measure); }
 
 /* Página de series */
 .series-pick { margin-block: 1rem 2.5rem; }
+.series-pick > .muted { margin-bottom: 1rem; font-size: 0.9375rem; }
 .series-pick__card { display: grid; gap: 1.25rem 2rem; grid-template-columns: minmax(7rem, 12rem) 1fr; align-items: start; padding: clamp(1rem, 3vw, 1.75rem); border-radius: var(--r-xl); background: var(--surface); box-shadow: var(--shadow); }
 .series-pick__poster { width: 100%; }
 .series-pick__body h3 { margin: 0 0 0.35rem; font-size: clamp(1.4rem, 3vw, 1.9rem); letter-spacing: -0.03em; }

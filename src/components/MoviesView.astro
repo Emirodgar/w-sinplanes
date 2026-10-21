@@ -1,0 +1,135 @@
+---
+// Página /peliculas: top por género, estrenos en cines y recomendación al azar (datos de TMDB, ver scripts/lib/peliculas.mjs).
+import Base from '../layouts/Base.astro';
+import MovieCard from './MovieCard.astro';
+import peliculas from '../../data/peliculas.json';
+import { t } from '../i18n/ui.js';
+import { pickText, TODAY } from '../lib/data.js';
+
+const { lang, route } = Astro.props;
+const L = t[lang];
+const { generos, top, estrenos, azar } = peliculas;
+const empty = top.length === 0;
+
+const img = (path, w) => `https://image.tmdb.org/t/p/w${w}${path}`;
+const fmt = (n) => n.toLocaleString(lang, { minimumFractionDigits: 1, maximumFractionDigits: 1 });
+const genreName = (id) => pickText(generos[id] || {}, lang).text;
+
+// Géneros con suficientes películas en el top para merecer su botón, de más a menos.
+const genreCount = {};
+for (const m of top) for (const g of m.generos) genreCount[g] = (genreCount[g] || 0) + 1;
+const genreList = Object.entries(genreCount).filter(([id, n]) => n >= 4 && genreName(id)).sort((a, b) => b[1] - a[1]).map(([id, n]) => ({ id, n, name: genreName(id) }));
+
+// Bolsa de la recomendación al azar (solo en el idioma de la página). Son películas que NO están en el top.
+const pool = azar.map((m) => ({
+  id: m.id, title: pickText(m.titulo, lang).text, plot: pickText(m.sinopsis || {}, lang).text, poster: m.poster,
+  rating: m.nota == null ? null : fmt(m.nota), year: m.anio, genres: m.generos.map(genreName).filter(Boolean).slice(0, 3),
+}));
+const dayIndex = Math.floor(Date.parse(TODAY) / 864e5);
+const first = pool.length ? pool[dayIndex % pool.length] : null;
+const meta = (p) => [p.rating && `★ ${p.rating}`, p.year, p.genres.join(' · ')].filter(Boolean).join(' · ');
+
+const jsonld = {
+  '@context': 'https://schema.org', '@type': 'ItemList', name: L.moviesTitle,
+  itemListElement: top.slice(0, 20).map((m, i) => ({ '@type': 'ListItem', position: i + 1, item: { '@type': 'Movie', name: pickText(m.titulo, lang).text, url: `https://www.themoviedb.org/movie/${m.id}` } })),
+};
+const safeJSON = (o) => JSON.stringify(o).replace(/</g, '\\u003c');
+---
+<Base lang={lang} title={L.moviesTitle} description={L.moviesIntro} route={route} noindex={empty} jsonld={empty ? null : jsonld}>
+  <header class="page-head">
+    <h1>{L.moviesTitle}</h1>
+    <p>{L.moviesIntro}</p>
+  </header>
+
+  {empty && <p class="empty">{L.moviesEmpty}</p>}
+
+  {!empty && (
+    <div data-movies>
+      <section class="series-section" aria-labelledby="m-top">
+        <h2 id="m-top">{L.moviesTop}</h2>
+        <p class="muted">{L.moviesTopNote}</p>
+        {genreList.length > 1 && (
+          <ul class="chips" aria-label={L.moviesGenres}>
+            <li><button type="button" class="chip" data-genre="" aria-pressed="true">{L.moviesAllGenres}<span class="count">{top.length}</span></button></li>
+            {genreList.map((g) => <li><button type="button" class="chip" data-genre={g.id} aria-pressed="false">{g.name}<span class="count">{g.n}</span></button></li>)}
+          </ul>
+        )}
+        <ul class="series-grid">
+          {top.map((m) => <MovieCard m={m} lang={lang} />)}
+        </ul>
+      </section>
+
+      {estrenos.length > 0 && (
+        <section class="series-section" aria-labelledby="m-now">
+          <h2 id="m-now">{L.moviesNow}</h2>
+          <p class="muted">{L.moviesNowNote}</p>
+          <ul class="series-grid">
+            {estrenos.map((m) => <MovieCard m={m} lang={lang} showDate />)}
+          </ul>
+        </section>
+      )}
+
+      {first && (
+        <section class="series-pick" aria-labelledby="m-pick" data-movie-pick>
+          <h2 id="m-pick">{L.moviesPick}</h2>
+          <p class="muted">{L.moviesPickNote}</p>
+          <div class="series-pick__card">
+            <div class="poster series-pick__poster">
+              <img data-pick-img src={img(first.poster, 342)} srcset={`${img(first.poster, 342)} 342w, ${img(first.poster, 500)} 500w`}
+                sizes="(min-width: 40rem) 12rem, 60vw" alt={first.title} width="342" height="513" decoding="async" loading="lazy" />
+            </div>
+            <div class="series-pick__body" aria-live="polite">
+              <h3 data-pick-title>{first.title}</h3>
+              <p class="series-pick__meta muted" data-pick-meta>{meta(first)}</p>
+              <p data-pick-plot>{first.plot}</p>
+              <p class="series-pick__actions">
+                <button type="button" class="chip" data-pick-next>{L.moviesAnother}</button>
+                <a data-pick-link href={`https://www.themoviedb.org/movie/${first.id}`} target="_blank" rel="noopener noreferrer">{L.moviesOpen}</a>
+              </p>
+            </div>
+          </div>
+          <script type="application/json" data-pick-pool set:html={safeJSON(pool)} />
+        </section>
+      )}
+    </div>
+  )}
+</Base>
+
+<script>
+  const root = document.querySelector('[data-movies]');
+  if (root) {
+    // Filtro por género del top
+    const cards = [...root.querySelectorAll('[aria-labelledby="m-top"] [data-movie-card]')];
+    const chips = [...root.querySelectorAll('[data-genre]')];
+    chips.forEach((chip) => chip.addEventListener('click', () => {
+      chips.forEach((c) => c.setAttribute('aria-pressed', String(c === chip)));
+      cards.forEach((c) => { c.hidden = Boolean(chip.dataset.genre) && !c.dataset.genres.split('|').includes(chip.dataset.genre); });
+    }));
+
+    // Recomendación al azar entre la bolsa (películas que no están en el top)
+    const poolEl = root.querySelector('[data-pick-pool]');
+    if (poolEl) {
+      const pool = JSON.parse(poolEl.textContent);
+      const el = (s) => root.querySelector(s);
+      const img = el('[data-pick-img]');
+      let current = pool.find((p) => img.alt === p.title) || null;
+      const show = (p) => {
+        current = p;
+        img.src = `https://image.tmdb.org/t/p/w342${p.poster}`;
+        img.srcset = `https://image.tmdb.org/t/p/w342${p.poster} 342w, https://image.tmdb.org/t/p/w500${p.poster} 500w`;
+        img.alt = p.title;
+        el('[data-pick-title]').textContent = p.title;
+        el('[data-pick-meta]').textContent = [p.rating && `★ ${p.rating}`, p.year, p.genres.join(' · ')].filter(Boolean).join(' · ');
+        el('[data-pick-plot]').textContent = p.plot;
+        el('[data-pick-link]').href = `https://www.themoviedb.org/movie/${p.id}`;
+      };
+      const pick = () => {
+        const others = pool.filter((p) => p.id !== current?.id);
+        const list = others.length ? others : pool;
+        show(list[Math.floor(Math.random() * list.length)]);
+      };
+      el('[data-pick-next]').addEventListener('click', pick);
+      if (pool.length > 1) pick(); // al cargar: una al azar en lugar de la del día
+    }
+  }
+</script>

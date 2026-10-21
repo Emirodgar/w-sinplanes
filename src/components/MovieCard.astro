@@ -1,0 +1,25 @@
+---
+// Ficha de una película en las cuadrículas de /peliculas.
+import { t } from '../i18n/ui.js';
+import { pickText } from '../lib/data.js';
+
+const { m, lang, showDate = false } = Astro.props;
+const L = t[lang];
+const img = (path, w) => `https://image.tmdb.org/t/p/w${w}${path}`;
+const title = pickText(m.titulo, lang).text;
+const rating = m.nota == null ? null : m.nota.toLocaleString(lang, { minimumFractionDigits: 1, maximumFractionDigits: 1 });
+const premiere = showDate && m.estreno
+  ? new Date(`${m.estreno}T12:00:00Z`).toLocaleDateString(lang, { day: 'numeric', month: 'long', year: 'numeric', timeZone: 'UTC' })
+  : null;
+---
+<li class="film" data-movie-card data-genres={m.generos.join('|')}>
+  <a class="film-link" href={`https://www.themoviedb.org/movie/${m.id}`} target="_blank" rel="noopener noreferrer">
+    <div class="poster">
+      <img src={img(m.poster, 342)} srcset={`${img(m.poster, 185)} 185w, ${img(m.poster, 342)} 342w, ${img(m.poster, 500)} 500w`}
+        sizes="(min-width: 46rem) 10rem, 40vw" alt={title} width="342" height="513" loading="lazy" decoding="async" />
+      {rating && <span class="badge badge--rating" title={L.seriesRating}>★ {rating}</span>}
+    </div>
+    <p class="film-title">{title}</p>
+  </a>
+  {premiere ? <p class="film-where muted">{L.moviesRelease(premiere)}</p> : m.anio && <p class="film-where muted">{m.anio}</p>}
+</li>
