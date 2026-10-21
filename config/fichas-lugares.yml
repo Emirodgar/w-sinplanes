@@ -1,0 +1,303 @@
+# Fichas ampliadas de los lugares fijos (museos, monumentos, parques, rutas y actividades), por id de config/lugares.yml.
+# ------------------------------------------------------------
+# Cada ficha: relacionados (ids de otros planes), imagen / imagen_tam [ancho, alto] (opcionales) y contenido.es con
+# imagen_alt (si hay imagen), texto (párrafos) y faq (p = pregunta, r = respuesta). Hoy solo en castellano.
+# Horarios, precios y condiciones de entrada NO se publican aquí: cambian y se remite siempre a la web oficial.
+
+museo-nacional-prado:
+  relacionados: [museo-reina-sofia, museo-thyssen-bornemisza, parque-buen-retiro, museos-gratis]
+  contenido:
+    es:
+      texto:
+        - "El Museo Nacional del Prado es la gran pinacoteca de España y una de las más importantes del mundo. Abrió sus puertas en 1819 y reúne una colección extraordinaria de pintura europea, con especial fuerza en los siglos XVI al XIX."
+        - "Entre sus obras más célebres están Las Meninas de Velázquez, las Majas y los fusilamientos del 3 de mayo de Goya, El jardín de las delicias de El Bosco y varias obras maestras de El Greco, Tiziano o Rubens. Es imposible verlo todo en una visita, así que conviene elegir qué salas priorizar."
+        - "Lo mejor es ir con un plan: elige entre tres y cinco obras o salas, consulta el plano y reserva la entrada con antelación en temporada alta. El museo ofrece franjas de entrada gratuita, que suelen estar muy concurridas. Combina la visita con el Retiro, que está al lado, y con el Reina Sofía y el Thyssen, que completan el llamado Paseo del Arte."
+      faq:
+        - p: "¿Qué no hay que perderse en el Prado?"
+          r: "Las Meninas, las Majas y los fusilamientos del 3 de mayo de Goya, El jardín de las delicias de El Bosco, y obras de El Greco, Tiziano y Rubens. Elige antes qué ver, porque el museo es enorme."
+        - p: "¿Cuánto tiempo se necesita?"
+          r: "Entre dos y tres horas para una visita selectiva. Si quieres verlo con calma, reserva medio día o divide la visita en dos."
+        - p: "¿Cuándo es gratis?"
+          r: "El museo tiene franjas de entrada gratuita a lo largo de la semana. Consulta siempre la web oficial para horarios, entradas y condiciones de acceso, que cambian."
+        - p: "¿Hay que reservar entrada?"
+          r: "Se recomienda comprar la entrada con antelación, sobre todo en temporada alta, fines de semana y festivos, para evitar colas."
+        - p: "¿Se pueden hacer fotos?"
+          r: "Las condiciones sobre fotografía y mochilas las fija el museo y cambian. Consúltalas en la web oficial antes de ir."
+        - p: "¿Es buen plan con niños?"
+          r: "Sí, con una visita corta y centrada en pocas obras. El museo ofrece materiales y actividades para familias; consúltalos en su web."
+museo-reina-sofia:
+  relacionados: [museo-nacional-prado, museo-thyssen-bornemisza, matadero-madrid, museos-gratis]
+  contenido:
+    es:
+      texto:
+        - "El Museo Reina Sofía es el gran museo de arte del siglo XX y contemporáneo de España. Está instalado en el antiguo Hospital General de San Carlos, un edificio del siglo XVIII al que se añadieron torres de cristal diseñadas por Jean Nouvel."
+        - "Su pieza más famosa es el Guernica de Picasso, que ocupa una sala propia y acompaña a bocetos y estudios del cuadro. La colección incluye además a Dalí, Miró, Juan Gris y otros nombres de las vanguardias, y un buen repaso al arte español y europeo del último siglo."
+        - "El Guernica suele concentrar a la mayoría de los visitantes, así que conviene verlo a primera hora o en las franjas de menos afluencia. Después, recorre el resto de la colección con calma. El museo organiza exposiciones temporales y tiene una cafetería y una librería muy completa. Consulta siempre la web oficial para horarios, entradas y condiciones de acceso, que cambian."
+      faq:
+        - p: "¿Dónde está el Guernica?"
+          r: "En el Museo Reina Sofía, en una sala propia, junto con bocetos y estudios de la obra."
+        - p: "¿Qué más hay en el museo?"
+          r: "Obras de Dalí, Miró, Juan Gris y otros artistas de las vanguardias, además de arte español y europeo del siglo XX y contemporáneo."
+        - p: "¿Cuándo es gratis?"
+          r: "El museo tiene franjas de entrada gratuita. Consulta siempre la web oficial para horarios, entradas y condiciones de acceso, que cambian."
+        - p: "¿Cuánto tiempo se necesita?"
+          r: "Entre dos y tres horas para una visita selectiva, con el Guernica incluido."
+        - p: "¿Hay que reservar entrada?"
+          r: "Se recomienda reservar con antelación en temporada alta y los fines de semana."
+        - p: "¿Qué más ver cerca?"
+          r: "El Museo del Prado, el Thyssen y el Retiro están a pocos minutos a pie. El conjunto se conoce como el Paseo del Arte."
+museo-thyssen-bornemisza:
+  relacionados: [museo-nacional-prado, museo-reina-sofia, parque-buen-retiro]
+  contenido:
+    es:
+      texto:
+        - "El Museo Thyssen-Bornemisza completa el llamado Paseo del Arte de Madrid junto al Prado y al Reina Sofía. Su colección recorre ocho siglos de pintura, desde el gótico hasta las vanguardias del siglo XX, y se disfruta con un recorrido cronológico muy fácil de seguir."
+        - "Reúne obras de grandes maestros, desde primitivos italianos y flamencos hasta impresionistas, expresionistas y artistas del siglo XX, en un edificio que antes fue el palacio de Villahermosa. Es un museo manejable, con una visita más abarcable que la del Prado."
+        - "Si tienes poco tiempo, es una buena opción para una visita de dos horas. El recorrido empieza por la planta superior con el arte más antiguo y baja hacia el presente. Aprovecha para ver las exposiciones temporales y para pasear después por el Retiro. Consulta siempre la web oficial para horarios, entradas y condiciones de acceso, que cambian."
+      faq:
+        - p: "¿Qué tipo de arte hay en el Thyssen?"
+          r: "Pintura europea de ocho siglos, desde el gótico hasta las vanguardias del siglo XX, con obras de maestros antiguos, impresionistas y expresionistas."
+        - p: "¿Cuánto tiempo se necesita?"
+          r: "Entre dos y tres horas bastan para recorrerlo con calma."
+        - p: "¿Se visita por orden?"
+          r: "Sí, el recorrido es cronológico, de la planta superior (arte antiguo) a la inferior (arte moderno)."
+        - p: "¿Hay que reservar entrada?"
+          r: "Se recomienda comprar la entrada con antelación en temporada alta y fines de semana."
+        - p: "¿Cuándo es gratis?"
+          r: "El museo tiene franjas de entrada gratuita o reducida. Consulta siempre la web oficial para horarios, entradas y condiciones de acceso, que cambian."
+        - p: "¿Es buen plan con niños?"
+          r: "Sí, con una visita breve. El museo ofrece actividades y recorridos para familias."
+palacio-real-madrid:
+  relacionados: [galeria-de-las-colecciones-reales, plaza-mayor-madrid, real-monasterio-encarnacion, teatro-real-madrid]
+  contenido:
+    es:
+      texto:
+        - "El Palacio Real de Madrid es la residencia oficial del Rey, aunque solo se utiliza para actos de Estado. Es el mayor palacio real de Europa occidental por superficie y se puede visitar casi todo el año, salvo cuando hay actos oficiales."
+        - "La visita recorre salones decorados con tapices, frescos y lámparas de cristal, como el Salón del Trono y el Comedor de Gala, además de la Real Armería y la Real Farmacia. Hay colecciones de instrumentos de cuerda, relojes y mobiliario de los siglos XVIII y XIX."
+        - "Consulta con antelación si el palacio está abierto el día que quieras ir, porque se cierra por actos oficiales. Reserva la entrada en temporada alta para evitar colas y calcula entre una y dos horas de visita. Los jardines de Sabatini y el Campo del Moro, junto al palacio, son un buen complemento. Consulta siempre la web oficial para horarios, entradas y condiciones de acceso, que cambian."
+      faq:
+        - p: "¿Vive el Rey en el Palacio Real?"
+          r: "No, la residencia de la familia real es otro lugar. El palacio se usa para actos oficiales y ceremonias."
+        - p: "¿Qué se visita?"
+          r: "Salones de gala, como el del Trono y el Comedor de Gala, la Real Armería, la Real Farmacia y distintas colecciones de arte y mobiliario."
+        - p: "¿Cuánto tiempo se necesita?"
+          r: "Entre una y dos horas para la visita completa."
+        - p: "¿Puede estar cerrado?"
+          r: "Sí, el palacio cierra durante actos oficiales. Comprueba la web antes de ir."
+        - p: "¿Hay que reservar entrada?"
+          r: "Se recomienda reservar con antelación en temporada alta."
+        - p: "¿Qué más ver cerca?"
+          r: "La Catedral de la Almudena, la plaza de Oriente, los jardines de Sabatini y el Campo del Moro."
+galeria-de-las-colecciones-reales:
+  relacionados: [palacio-real-madrid, museo-nacional-prado, real-monasterio-encarnacion]
+  contenido:
+    es:
+      texto:
+        - "La Galería de las Colecciones Reales es un museo situado junto al Palacio Real de Madrid, dedicado a las colecciones que la Corona de España ha reunido durante siglos. Muestra tapices, pintura, mobiliario, carruajes y piezas de gran valor histórico y artístico."
+        - "El edificio, de diseño contemporáneo, mira al valle del Manzanares y a la Casa de Campo. Su recorrido ordena las obras por épocas y reyes, y permite entender cómo se formó el patrimonio artístico de la monarquía española."
+        - "Es una buena visita complementaria al Palacio Real, y se puede hacer en una o dos horas. Si vas a combinar ambos, mira si hay entradas conjuntas y reserva con antelación. Consulta siempre la web oficial para horarios, entradas y condiciones de acceso, que cambian."
+      faq:
+        - p: "¿Qué hay en la Galería de las Colecciones Reales?"
+          r: "Tapices, pinturas, mobiliario, carruajes y otras piezas de las colecciones de la Corona."
+        - p: "¿Dónde está?"
+          r: "Junto al Palacio Real de Madrid, mirando al valle del Manzanares."
+        - p: "¿Cuánto tiempo se necesita?"
+          r: "Entre una y dos horas."
+        - p: "¿Se puede combinar con el Palacio Real?"
+          r: "Sí, ambos están muy cerca. Consulta en la web si hay entradas conjuntas."
+        - p: "¿Hay que reservar?"
+          r: "Se recomienda reservar en temporada alta y los fines de semana."
+plaza-mayor-madrid:
+  relacionados: [puerta-sol-madrid, mercado-san-miguel, mercadillos-navidad, barrio-la-latina]
+  contenido:
+    es:
+      texto:
+        - "La Plaza Mayor es una de las plazas más conocidas de Madrid. Es un gran espacio rectangular y cerrado, rodeado de soportales y de edificios de varias plantas, que se construyó a comienzos del siglo XVII y ha sido escenario de fiestas, mercados y actos públicos durante siglos."
+        - "En el centro se alza la estatua de Felipe III, y en uno de los lados, la Casa de la Panadería, con sus frescos en la fachada. Bajo los soportales hay tiendas de recuerdos, sellos y monedas, y las terrazas de la plaza son un lugar clásico para tomar algo, aunque más caro que en las calles de alrededor."
+        - "En invierno se instala el mercado navideño, con puestos de belenes y adornos, y a lo largo del año hay conciertos y actividades. Para comer, mejor salir a las callejuelas cercanas, donde están los bocadillos de calamares y las tabernas más tradicionales. A primera hora de la mañana se ve con más calma."
+      faq:
+        - p: "¿Qué se puede ver en la Plaza Mayor?"
+          r: "La estatua de Felipe III, la Casa de la Panadería con sus frescos, los soportales y el ambiente de las terrazas."
+        - p: "¿Hay mercado de Navidad?"
+          r: "Sí, en invierno se instala el mercado navideño, con puestos de belenes y adornos. Consulta las fechas cada año."
+        - p: "¿Es mejor comer en la plaza?"
+          r: "Las terrazas de la plaza son más caras. Las callejuelas de los alrededores tienen tabernas y bocadillos de calamares más económicos."
+        - p: "¿Cuándo es mejor ir?"
+          r: "A primera hora de la mañana o al atardecer, para evitar las horas de más gente."
+        - p: "¿Qué más ver cerca?"
+          r: "El Mercado de San Miguel, la Puerta del Sol, el Palacio Real y el barrio de La Latina."
+puerta-sol-madrid:
+  relacionados: [plaza-mayor-madrid, campanadas, mercado-san-miguel, palacio-real-madrid]
+  contenido:
+    es:
+      texto:
+        - "La Puerta del Sol es el corazón de Madrid y uno de los lugares más conocidos de España. Aquí está el kilómetro cero de las carreteras radiales, marcado con una placa en el suelo, y el reloj de la Real Casa de Correos que marca las campanadas de Nochevieja."
+        - "La plaza es un punto de encuentro habitual y un cruce de calles muy transitado. En ella se encuentran la estatua del Oso y el Madroño, símbolo de la ciudad, el edificio de la Real Casa de Correos, hoy sede del gobierno regional, y el cartel luminoso de Tío Pepe, uno de los más fotografiados."
+        - "Es una parada rápida, de quince o veinte minutos, que se combina bien con un paseo por la Plaza Mayor, la calle Mayor o las calles peatonales del centro. Cuidado con los carteristas en las zonas de mucha gente y con los timos habituales de las zonas turísticas. En Nochevieja se llena de personas que quieren vivir las campanadas."
+      faq:
+        - p: "¿Qué es el kilómetro cero?"
+          r: "Una placa en el suelo, frente a la Real Casa de Correos, que marca el origen de las carreteras radiales de España."
+        - p: "¿Qué reloj es el de las Campanadas?"
+          r: "El de la Real Casa de Correos, situado en la Puerta del Sol, que marca las doce campanadas de Nochevieja."
+        - p: "¿Qué más ver en la plaza?"
+          r: "La estatua del Oso y el Madroño, el cartel de Tío Pepe y la Real Casa de Correos."
+        - p: "¿Cuánto tiempo se necesita?"
+          r: "Unos quince o veinte minutos para ver los puntos principales, más si te sientas a observar el ambiente."
+        - p: "¿Hay peligro de carteristas?"
+          r: "Es una zona muy concurrida y los carteristas actúan en sitios con mucha gente. Cuida tus pertenencias."
+        - p: "¿Qué hay cerca?"
+          r: "La Plaza Mayor, el Mercado de San Miguel, la calle Preciados y el Palacio Real están a pocos minutos a pie."
+puerta-alcala-madrid:
+  relacionados: [parque-buen-retiro, museo-nacional-prado, puerta-sol-madrid]
+  contenido:
+    es:
+      texto:
+        - "La Puerta de Alcalá es un arco de triunfo neoclásico del siglo XVIII, erigido por orden de Carlos III y diseñado por Francesco Sabatini. Se levanta en la plaza de la Independencia, junto al parque del Retiro, y es uno de los símbolos más reconocibles de Madrid."
+        - "Tiene cinco vanos y está adornado con esculturas y relieves. Estuvo en la antigua entrada de la ciudad desde el camino de Alcalá y hoy se encuentra rodeada de tráfico. Se ve bien desde la acera y por la noche, iluminada, tiene especial encanto."
+        - "Es una parada rápida de diez o quince minutos que se combina con un paseo por el Retiro, a un paso. Para una buena foto, ve a primera hora o al atardecer, cuando hay menos gente y la luz es más suave."
+      faq:
+        - p: "¿Quién construyó la Puerta de Alcalá?"
+          r: "Fue diseñada por Francesco Sabatini y construida en el siglo XVIII por orden de Carlos III."
+        - p: "¿Se puede subir?"
+          r: "No, es un monumento para ver desde fuera."
+        - p: "¿Cuánto tiempo se necesita?"
+          r: "Diez o quince minutos para verla y hacer fotos."
+        - p: "¿Qué hay cerca?"
+          r: "El parque del Retiro está a pocos metros, con el Palacio de Cristal y el estanque."
+        - p: "¿Cuándo es mejor ir?"
+          r: "A primera hora o al atardecer, para evitar el tráfico y tener mejor luz."
+parque-buen-retiro:
+  relacionados: [museo-nacional-prado, puerta-alcala-madrid, feria-libro-madrid, museo-thyssen-bornemisza]
+  contenido:
+    es:
+      texto:
+        - "El Parque del Buen Retiro es el gran parque de Madrid y uno de los lugares más queridos por los madrileños. Declarado Patrimonio Mundial por la UNESCO junto al Paseo del Prado, es un oasis de jardines, paseos arbolados, estanques y monumentos en pleno centro."
+        - "Entre sus rincones más conocidos están el Estanque Grande, con barcas de remo y el monumento a Alfonso XII, el Palacio de Cristal, el Palacio de Velázquez y la Rosaleda. También hay un paseo de esculturas y varios rincones tranquilos, como el Bosque del Recuerdo."
+        - "Es perfecto para pasear, hacer deporte, leer o simplemente descansar. El parque abre desde primera hora y lo mejor es visitarlo por la mañana o al atardecer. En primavera, con la Rosaleda, y en otoño, con los colores, es especialmente bonito. Cada año acoge la Feria del Libro, a finales de primavera."
+      faq:
+        - p: "¿Qué ver en el Retiro?"
+          r: "El Estanque Grande con barcas, el Palacio de Cristal, el Palacio de Velázquez, la Rosaleda y el Bosque del Recuerdo."
+        - p: "¿Es gratis?"
+          r: "El acceso al parque es libre. Algunas actividades, como alquilar una barca, son de pago."
+        - p: "¿Se pueden alquilar barcas?"
+          r: "Sí, en el Estanque Grande, normalmente con horario de apertura y temporada. Consulta las condiciones."
+        - p: "¿Cuándo es mejor ir?"
+          r: "Por la mañana o al atardecer. En primavera y otoño el parque está especialmente bonito."
+        - p: "¿Es buen plan con niños?"
+          r: "Sí, hay zonas de juegos, barcas, marionetas en algunos periodos y mucho espacio para correr."
+        - p: "¿Es Patrimonio Mundial?"
+          r: "Sí, forma parte del Paisaje de la Luz, Paseo del Prado y El Retiro, declarado por la UNESCO."
+teatro-real-madrid:
+  relacionados: [loteria-navidad, palacio-real-madrid, plaza-mayor-madrid]
+  contenido:
+    es:
+      texto:
+        - "El Teatro Real es el coliseo de la ópera de Madrid. Inaugurado en 1850, ha sido escenario de grandes estrenos y de la mejor ópera, ballet y música clásica, y sigue siendo una de las instituciones culturales más importantes de España."
+        - "Tiene temporada propia de ópera, con producciones de alto nivel, y también programa ballet y conciertos. Además, el edificio se puede visitar con una visita guiada, que permite conocer la sala, los camerinos, los talleres y los entresijos de un gran teatro."
+        - "Si quieres ir a una función, consulta la programación y compra con antelación: las óperas más demandadas se agotan. Hay entradas de distintos precios, algunas con visibilidad reducida. Cada 22 de diciembre se celebra aquí el sorteo de la Lotería de Navidad. Consulta siempre la web oficial para horarios, entradas y condiciones de acceso, que cambian."
+      faq:
+        - p: "¿Qué se puede hacer en el Teatro Real?"
+          r: "Asistir a una ópera, un ballet o un concierto, o hacer una visita guiada al edificio."
+        - p: "¿Se puede visitar sin ir a una función?"
+          r: "Sí, hay visitas guiadas al edificio. Consulta los horarios y la reserva en la web oficial."
+        - p: "¿Hay entradas baratas?"
+          r: "Hay entradas de distintos precios, incluidas algunas con visibilidad reducida. Consulta las condiciones en la web."
+        - p: "¿Qué ropa llevar?"
+          r: "No hay código de vestir obligatorio, aunque muchas personas se visten con algo más formal para ir a la ópera."
+        - p: "¿Qué más ver cerca?"
+          r: "El Palacio Real, la Plaza de Oriente y la plaza de Isabel II están a pocos pasos."
+matadero-madrid:
+  relacionados: [museo-reina-sofia, parque-buen-retiro, barrio-la-latina]
+  contenido:
+    es:
+      texto:
+        - "Matadero Madrid es un gran centro de creación contemporánea instalado en el antiguo matadero municipal de la ciudad, junto al río Manzanares. Las naves industriales del siglo XX se han transformado en espacios de arte, teatro, cine y cultura."
+        - "Su programación es muy variada: exposiciones, teatro, danza, música, cine, talleres y encuentros, además de mercados y eventos al aire libre. Alberga espacios como las Naves del Español, la Cineteca y la Central de Diseño, y es un buen lugar para descubrir propuestas culturales diferentes."
+        - "Muchas actividades son gratuitas o de bajo coste, pero conviene consultar la programación antes de ir. Es un plan que combina bien con un paseo por Madrid Río y con una comida por el barrio de Legazpi y Arganzuela. Consulta siempre la web oficial para horarios, entradas y condiciones de acceso, que cambian."
+      faq:
+        - p: "¿Qué es Matadero Madrid?"
+          r: "Un centro de creación contemporánea en el antiguo matadero municipal, con exposiciones, teatro, cine y más."
+        - p: "¿Es gratis?"
+          r: "Muchas actividades son gratuitas o de bajo coste, pero depende de cada espacio. Consulta la programación."
+        - p: "¿Qué más hay cerca?"
+          r: "Madrid Río, con paseos y zonas de ocio junto al Manzanares."
+        - p: "¿Cómo llegar?"
+          r: "En metro hasta Legazpi, o a pie desde Madrid Río. Consulta las opciones de transporte público."
+        - p: "¿Es buen plan con niños?"
+          r: "Hay actividades para familias en algunos periodos. Consulta la programación."
+mercado-san-miguel:
+  relacionados: [plaza-mayor-madrid, barrio-la-latina, puerta-sol-madrid]
+  contenido:
+    es:
+      texto:
+        - "El Mercado de San Miguel es un mercado cubierto de hierro y cristal inaugurado en 1916, junto a la Plaza Mayor. Hoy es un espacio gastronómico donde se puede picar de todo, de pie o sentado, entre puestos de producto fresco, tapas, vinos y conservas."
+        - "Ofrece una gran variedad: jamón, quesos, mariscos, tortillas, croquetas, pinchos, dulces y bebidas de todo tipo. Es muy popular entre turistas y madrileños, y ofrece una forma rápida de probar muchas cosas en un solo sitio, aunque los precios son más altos que en las tabernas de la zona."
+        - "Se llena mucho a la hora de comer y los fines de semana, así que conviene ir a primera hora o a media tarde. Si quieres una experiencia más barata, combina una parada aquí con unas tapas en las tabernas de La Latina. Consulta siempre la web oficial para horarios, entradas y condiciones de acceso, que cambian."
+      faq:
+        - p: "¿Qué se puede comer?"
+          r: "Jamón, quesos, mariscos, tortillas, croquetas, pinchos, dulces y vino, entre otros productos."
+        - p: "¿Es caro?"
+          r: "Los precios suelen ser más altos que en las tabernas de la zona, por ser un enclave muy turístico."
+        - p: "¿Cuándo es mejor ir?"
+          r: "A primera hora o a media tarde. A la hora de comer y los fines de semana se llena."
+        - p: "¿Se puede reservar?"
+          r: "En general no, es un mercado de libre acceso. Algunos puestos tienen mesas."
+        - p: "¿Qué más ver cerca?"
+          r: "La Plaza Mayor, la Puerta del Sol y el barrio de La Latina."
+barrio-la-latina:
+  relacionados: [mercado-san-miguel, plaza-mayor-madrid, matadero-madrid]
+  contenido:
+    es:
+      texto:
+        - "La Latina es uno de los barrios más animados y castizos de Madrid. Sus calles medievales, estrechas y con mucha historia, están llenas de tabernas, bares de tapas y terrazas, y es el lugar perfecto para un aperitivo o una tarde de tapeo."
+        - "La calle de la Cava Baja y sus alrededores concentran muchos de los bares más conocidos. Los domingos y festivos por la mañana se celebra el Rastro, el gran mercadillo de Madrid, y después los bares de La Latina se llenan de gente que sale a tomar el vermut y las tapas."
+        - "Para disfrutarlo, ve a pie, sin prisas, y entra en distintos bares para probar una tapa en cada uno. Los domingos hay mucha gente y es mejor ir pronto. Si prefieres algo más tranquilo, elige un día entre semana. Consulta siempre la web oficial para horarios, entradas y condiciones de acceso, que cambian."
+      faq:
+        - p: "¿Qué es el Rastro?"
+          r: "El mercadillo al aire libre de Madrid, que se celebra los domingos y festivos por la mañana, en las calles cercanas a La Latina."
+        - p: "¿Qué se puede comer en La Latina?"
+          r: "Tapas tradicionales, como tortilla, croquetas, patatas bravas, calamares y raciones, en las tabernas y bares del barrio."
+        - p: "¿Cuándo es mejor ir?"
+          r: "Los domingos tras el Rastro hay mucho ambiente. Entre semana está más tranquilo."
+        - p: "¿Es seguro?"
+          r: "Es una zona muy concurrida, así que conviene cuidar tus pertenencias, sobre todo en el Rastro."
+        - p: "¿Es buen plan con niños?"
+          r: "Sí, durante el día. Por la noche es más de adultos."
+casa-villa-casa-cisneros:
+  relacionados: [plaza-mayor-madrid, puerta-sol-madrid, real-monasterio-encarnacion]
+  contenido:
+    es:
+      texto:
+        - "La Casa de la Villa y la Casa de Cisneros son dos edificios históricos situados en la plaza de la Villa, en el corazón del Madrid de los Austrias. Durante siglos fueron la sede del Ayuntamiento de la ciudad y hoy se pueden visitar."
+        - "La Casa de la Villa es un edificio del siglo XVII de estilo barroco, con una fachada de ladrillo y piedra y salones decorados con tapices y pinturas. La Casa de Cisneros, de estilo plateresco, está conectada por una pasarela y se utiliza para actos institucionales."
+        - "La plaza de la Villa es una de las más antiguas y tranquilas de Madrid, y con la estatua de Álvaro de Bazán en el centro. Para visitar los interiores, consulta si hay visitas guiadas y sus horarios, ya que a veces hay que reservar. Consulta siempre la web oficial para horarios, entradas y condiciones de acceso, que cambian."
+      faq:
+        - p: "¿Qué es la Casa de la Villa?"
+          r: "Un edificio del siglo XVII que fue sede del Ayuntamiento de Madrid durante siglos."
+        - p: "¿Se puede visitar?"
+          r: "Sí, a través de visitas guiadas. Consulta los horarios y la reserva en la web oficial."
+        - p: "¿Qué es la Casa de Cisneros?"
+          r: "Un edificio de estilo plateresco junto a la Casa de la Villa, unido por una pasarela."
+        - p: "¿Dónde está?"
+          r: "En la plaza de la Villa, junto a la calle Mayor, en el Madrid de los Austrias."
+        - p: "¿Qué hay cerca?"
+          r: "La Plaza Mayor, el Mercado de San Miguel y el Palacio Real están a pocos minutos a pie."
+real-monasterio-encarnacion:
+  relacionados: [palacio-real-madrid, galeria-de-las-colecciones-reales, casa-villa-casa-cisneros]
+  contenido:
+    es:
+      texto:
+        - "El Real Monasterio de la Encarnación es un convento de monjas agustinas recoletas fundado en 1611 por la reina Margarita de Austria, esposa de Felipe III. Se encuentra junto al Palacio Real y se puede visitar en visita guiada."
+        - "El monasterio conserva una interesante colección de pintura y escultura religiosa de los siglos XVII y XVIII, con obras de Gregorio Fernández y otros artistas. Su relicario es uno de los más singulares de España, con miles de piezas, entre ellas una ampolla con la sangre de san Pantaleón, que según la tradición se licúa cada 27 de julio."
+        - "La visita es por grupos y con guía, y conviene consultar el horario y la reserva con antelación, ya que no abre todos los días. Es una buena opción para completar la visita al Palacio Real, más tranquila y con un ambiente muy distinto. Consulta siempre la web oficial para horarios, entradas y condiciones de acceso, que cambian."
+      faq:
+        - p: "¿Qué es el Real Monasterio de la Encarnación?"
+          r: "Un convento de monjas agustinas recoletas fundado en 1611 por Margarita de Austria, junto al Palacio Real."
+        - p: "¿Qué se puede ver?"
+          r: "Pintura y escultura religiosa de los siglos XVII y XVIII y un relicario con miles de piezas."
+        - p: "¿Qué es el milagro de san Pantaleón?"
+          r: "Según la tradición, la sangre del santo, conservada en una ampolla, se licúa cada 27 de julio."
+        - p: "¿Cómo se visita?"
+          r: "Con visita guiada y por grupos. Conviene reservar. Consulta los horarios en la web oficial."
+        - p: "¿Qué más ver cerca?"
+          r: "El Palacio Real, la Plaza de Oriente y el Teatro Real están a pocos minutos."

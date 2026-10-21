@@ -1,4 +1,4 @@
-import { readFileSync } from 'node:fs';
+import { readFileSync, existsSync } from 'node:fs';
 import path from 'node:path';
 import { load as yamlLoad } from 'js-yaml';
 import { ROOT, addDays, resolveProvince } from './util.mjs';
@@ -67,6 +67,12 @@ export function readLugares() {
   return Object.keys(doc.bases || {}).flatMap((g) => (doc[g] || []).map((l) => ({ ...l, grupo: g, fuente: doc.bases[g] + l.id + '/' })));
 }
 
+/** Fichas ampliadas de los lugares fijos (texto, imagen y preguntas frecuentes), por id, en config/fichas-lugares.yml. Opcional. */
+export function readFichasLugares() {
+  const file = path.join(ROOT, 'config/fichas-lugares.yml');
+  return existsSync(file) ? yamlLoad(readFileSync(file, 'utf8')) || {} : {};
+}
+
 function placeOf(lugar) {
   if (!lugar) return { scope: 'nacional' };
   const p = resolveProvince(lugar.provincia);
@@ -108,13 +114,18 @@ export function buildSeasonalPlans(today) {
   }
 
   // Lugares fijos (museos, parques, rutas…): sin fecha, abiertos todo el año. Ver config/lugares.yml.
+  const fichas = readFichasLugares();
   for (const l of readLugares()) {
+    const f = fichas[l.id];
     plans.push({
       id: `l-${l.id}`, slug: l.id, kind: 'lugar', group: l.grupo,
       title: { es: l.es[0], en: l.en[0] },
       summary: { es: l.es[1], en: l.en[1] },
       months: [], topics: [...l.temas, ...(GROUP_TOPIC[l.grupo] ? [GROUP_TOPIC[l.grupo]] : [])], ...(l.grupo === 'naturaleza' ? { parkType: parkType(l.es[0]) } : {}),
       place: placeOf(l.lugar ? { provincia: l.lugar[0], municipio: l.lugar[1] } : null), source: { name: 'sinplanes', url: l.fuente },
+      ...(f?.contenido ? { content: f.contenido } : {}),
+      ...(f?.imagen ? { image: f.imagen, imageSize: f.imagen_tam || null } : {}),
+      ...(f?.relacionados ? { related: f.relacionados } : {}),
     });
   }
   return plans;
