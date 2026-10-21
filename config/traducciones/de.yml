@@ -758,3 +758,98 @@ festival-internacional-cine-fantastico-cataluna-sitges:
       r: "Es ist nicht Pflicht, aber die Stimmung ist ausgelassen, und viele Fans verkleiden sich."
     - p: "Ist es ein guter Plan mit Kindern?"
       r: "Das hängt von den Filmen ab: Viele sind für Erwachsene. Prüfe die Altersfreigabe jeder Vorstellung."
+
+fiesta-piraguas-descenso-internacional-sella:
+  texto:
+    - "Der Descenso Internacional del Sella ist eines der beliebtesten Feste Asturiens und eines der bekanntesten Spaniens. Jedes Jahr im August paddeln Tausende Kanufahrer den Fluss Sella zwischen Arriondas und Ribadesella hinunter, während Tausende Menschen das Spektakel von den Ufern aus miterleben, mit Essen, Trinken und jeder Menge Stimmung."
+    - "Das Fest ist als Fiesta de Interés Turístico Internacional ausgezeichnet und verbindet sportlichen Wettkampf, Tradition und Volksfest. Die Teilnehmer legen rund zwanzig Kilometer auf dem Fluss zurück. Die Strecke lässt sich von mehreren Punkten und von den Ufern aus verfolgen, mit Picknicks und Musik entlang des gesamten Weges."
+    - "Wenn du dir den Descenso ansehen möchtest, such dir einen Platz mit guter Zufahrt aus, komm früh und rechne damit, dass der Verkehr schwierig wird und Arriondas und Ribadesella sehr voll sind. Wer selbst mitpaddeln will, muss sich rechtzeitig anmelden. Nimm Wasser, Sonnencreme und bequeme Schuhe mit."
+  faq:
+    - p: "Wann findet der Descenso del Sella statt?"
+      r: "Normalerweise am ersten Samstag im August. Prüfe das genaue Datum jedes Jahr."
+    - p: "Wo findet er statt?"
+      r: "Auf dem Fluss Sella, zwischen Arriondas und Ribadesella in Asturien."
+    - p: "Wie kann ich ihn mir ansehen?"
+      r: "Von den Ufern aus, mit Picknick und Festtagsstimmung, oder von eigens eingerichteten Aussichtspunkten. Das Ziel liegt in Ribadesella."
+    - p: "Kann man mitmachen?"
+      r: "Ja, aber du musst dich rechtzeitig anmelden und die Anforderungen der Organisation erfüllen."
+    - p: "Wie komme ich hin?"
+      r: "Plane genug Zeit ein: Der Verkehr wird schwierig. Nutze am besten organisierte Transportangebote und ausgewiesene Parkplätze."
+    - p: "Ist es ein guter Plan mit Kindern?"
+      r: "Ja, die Stimmung am Ufer ist familiär, aber es ist viel los und heiß. Nimm Wasser und Sonnencreme mit."
+
+festival-womad-caceres:
+  texto:
+    - "WOMAD Cáceres ist ein Festival für Weltmusik, das die Plätze der Altstadt in Open-Air-Bühnen verwandelt. Es findet im Mai statt und verbindet Konzerte von Künstlern aus verschiedenen Ländern mit Workshops, Aktivitäten für Kinder und Gastronomie."
+    - "Der Rahmen gehört zu seinem Charme: mittelalterliche Plätze, Paläste und Steingassen einer Stadt, die zum Weltkulturerbe zählt. Viele Konzerte finden auf offenen Plätzen statt, und das Festival bietet außerdem Kultur- und Freizeitangebote für alle Altersgruppen."
+    - "Auf der offiziellen Website findest du das Programm, die Spielorte und die Zeiten sowie die Information, welche Konzerte frei zugänglich sind und für welche man ein Ticket oder einen Pass braucht. Trag bequeme Schuhe, denn die Gassen sind gepflastert, und Kleidung im Zwiebellook. Buche die Unterkunft rechtzeitig: Während des Festivals ist Cáceres voll."
+  faq:
+    - p: "Wann findet WOMAD Cáceres statt?"
+      r: "Im Mai, über einige Tage. Die genauen Termine werden jedes Jahr bekannt gegeben."
+    - p: "Welche Art von Musik gibt es?"
+      r: "Weltmusik: Folklore, Fusion, Ethno und traditionelle Musik aus verschiedenen Ländern."
+    - p: "Wo finden die Konzerte statt?"
+      r: "Auf Plätzen und an Orten in der Altstadt von Cáceres. Sieh dir das Programm an."
+    - p: "Sind alle Konzerte kostenlos?"
+      r: "Das hängt von der Ausgabe ab. Es gibt frei zugängliche Konzerte und andere mit Ticket oder Pass. Informiere dich auf der offiziellen Website."
+    - p: "Was sollte man mitnehmen?"
+      r: "Bequeme Schuhe, denn die Gassen sind gepflastert, und Kleidung im Zwiebellook."
+    - p: "Ist es ein guter Plan mit Kindern?"
+      r: "Ja, das Festival bietet in der Regel Workshops und Aktivitäten für Kinder. Sieh dir das Programm an."
+
+fiestas-vendimia-riojana:
+  texto:
+    - "Die Fiestas de San Mateo und die Weinlese-Feste der Rioja (Vendimia Riojana) sind die großen Stadtfeste von Logroño und eine der besten Arten, die Weinlese in La Rioja mitzuerleben. Sie finden im September statt, eine Woche lang, mit traditionellen weinbezogenen Veranstaltungen und viel Leben auf der Straße."
+    - "Einer der symbolträchtigsten Momente ist das Traubenstampfen und die Darbringung des ersten Mostes an die Virgen de Valvanera, die Schutzpatronin von La Rioja. Im Lauf der Woche gibt es außerdem Konzerte, Umzüge, Volksfeste, Verkostungen und Shows für alle Altersgruppen, und die Stadt füllt sich mit Besuchern."
+    - "Nutze die Gelegenheit, die Pinchos in der Calle Laurel und Umgebung zu probieren und eine Bodega in der Gegend zu besuchen, denn viele bieten während der Weinlese Verkostungen und Führungen an. Sieh dir das offizielle Programm der Stadtverwaltung an, buche die Unterkunft rechtzeitig und reserviere auch für den Bodega-Besuch frühzeitig."
+  faq:
+    - p: "Wann finden die Fiestas de San Mateo statt?"
+      r: "Rund um den 21. September, eine Woche lang. Die genauen Termine werden jedes Jahr bekannt gegeben."
+    - p: "Was ist das Traubenstampfen?"
+      r: "Es ist ein symbolischer Weinleseakt, bei dem Trauben gestampft werden und die Darbringung des ersten Mostes an die Virgen de Valvanera, die Schutzpatronin von La Rioja, beginnt."
+    - p: "Was kann man sonst noch unternehmen?"
+      r: "Konzerte, Volksfeste, Verkostungen und Bodega-Besuche. Sieh dir das offizielle Programm an."
+    - p: "Wo kann man essen?"
+      r: "In der Calle Laurel und Umgebung gibt es viele Pinchos-Bars, eine der größten Attraktionen von Logroño."
+    - p: "Kann man Bodegas besichtigen?"
+      r: "Ja, viele bieten Führungen und Verkostungen an. Am besten reservierst du frühzeitig, vor allem zur Weinlesezeit."
+    - p: "Ist es ein guter Plan mit Kindern?"
+      r: "Ja, während der Fiestas gibt es Angebote für Familien. Sieh dir das Programm an."
+
+fiesta-marisco:
+  texto:
+    - "Die Fiesta del Marisco von O Grove ist eines der großen gastronomischen Ereignisse Galiciens. Sie findet im Oktober statt, einige Tage lang, und versammelt Tausende Besucher rund um die Meeresfrüchte der galicischen Rías, mit Ständen, Verkostungen und Shows."
+    - "O Grove an der Ría de Arousa ist berühmt für seine Meeresfrüchte: unter anderem Austern, Miesmuscheln, Venusmuscheln, Herzmuscheln, Zamburiñas, Jakobsmuscheln oder Seespinne. Während des Festes bieten Erzeuger und Restaurants ihre Produkte auf dem Festgelände an, und es gibt auch Kultur- und Musikangebote."
+    - "Sieh dir das offizielle Programm der Stadtverwaltung für Termine und Zeiten an. Komm früh, vor allem am Wochenende, und geh unter der Woche hin, wenn du das Gedränge vermeiden willst. Wenn du eine Meeresfrüchteallergie hast oder schwanger bist, informiere dich vorher, was du essen darfst. Buche die Unterkunft rechtzeitig: Die Gegend ist dann voll."
+  faq:
+    - p: "Wann findet die Fiesta del Marisco von O Grove statt?"
+      r: "Im Oktober, einige Tage lang. Die genauen Termine werden jedes Jahr bekannt gegeben."
+    - p: "Welche Meeresfrüchte kann man probieren?"
+      r: "Austern, Miesmuscheln, Venusmuscheln, Herzmuscheln, Zamburiñas, Jakobsmuscheln oder Seespinne, je nach Saison und Angebot der einzelnen Stände."
+    - p: "Muss man Eintritt zahlen?"
+      r: "Sieh dir das offizielle Programm der Stadtverwaltung an, in dem die Zugangsbedingungen und die Verkostungen beschrieben sind."
+    - p: "Wann ist der beste Zeitpunkt für einen Besuch?"
+      r: "Unter der Woche und am frühen Morgen, um das Gedränge zu vermeiden. An den Wochenenden ist es sehr voll."
+    - p: "Was kann man sonst noch in O Grove unternehmen?"
+      r: "Die Insel A Toxa und die Strände der Halbinsel besuchen und eine Bootsfahrt auf der Ría machen."
+    - p: "Ist es ein guter Plan mit Kindern?"
+      r: "Ja, aber am besten kommst du früh und meidest die Stoßzeiten."
+
+maraton-malaga:
+  texto:
+    - "Der Maratón de Málaga ist eine der großen Volkslauf-Veranstaltungen Spaniens, mit Marathon- und Halbmarathon-Distanzen, die Anfang Dezember durch die Stadt führen. Das milde Klima Málagas zu dieser Jahreszeit und eine schnelle Strecke entlang der Strandpromenade machen ihn für Läufer sehr attraktiv."
+    - "Der Lauf versammelt Tausende Teilnehmer aller Leistungsklassen, von Profis bis zu Hobbyläufern auf der Jagd nach der persönlichen Bestzeit, und ist auch für Zuschauer ein Erlebnis, die von der Straße aus anfeuern. Die Strecke führt durch Teile der Innenstadt und der Küste der Stadt."
+    - "Wenn du mitlaufen möchtest, melde dich rechtzeitig auf der offiziellen Website an und prüfe die Teilnahmebedingungen. Wenn du anfeuern willst, such dir einen Platz an der Strecke an der Strandpromenade oder im Zentrum und rechne mit Verkehrssperrungen. Nimm bequeme Kleidung, Wasser und Geduld mit."
+  faq:
+    - p: "Wann findet der Maratón de Málaga statt?"
+      r: "Anfang Dezember, in der Regel an einem Sonntag. Die genauen Termine werden jedes Jahr bekannt gegeben."
+    - p: "Welche Distanzen gibt es?"
+      r: "Marathon und Halbmarathon. Prüfe auf der offiziellen Website, ob es weitere Läufe gibt."
+    - p: "Wie melde ich mich an?"
+      r: "Auf der offiziellen Website der Veranstaltung, rechtzeitig im Voraus. Prüfe die Teilnahmebedingungen und die Fristen."
+    - p: "Wo kann man den Lauf ansehen?"
+      r: "An der Strecke, vor allem an der Strandpromenade und im Zentrum. Sieh dir den offiziellen Plan an."
+    - p: "Gibt es Verkehrssperrungen?"
+      r: "Ja. Sperrungen und Zeiten findest du auf der offiziellen Website und bei der Stadtverwaltung."
+    - p: "Wie ist das Wetter im Dezember in Málaga?"
+      r: "In der Regel mild, auch wenn es Regen oder Wind geben kann. Zieh dich im Zwiebellook an."
