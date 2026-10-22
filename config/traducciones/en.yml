@@ -963,3 +963,111 @@ maraton-malaga:
       r: "Yes. Check the closures and times on the official website and with the town hall."
     - p: "What is the weather like in Málaga in December?"
       r: "It is usually mild, although there can be rain or wind. Wear layers."
+playas-fluviales:
+  texto:
+    - "A river beach (playa fluvial) is a bathing area set up on a river, a reservoir or a lake, with sand or grass, signposted access and, in many cases, services such as parking, a beach bar, toilets or a lifeguard. It is a very convenient way to spend the day in the water without going to the coast, ideal for families and for people who live inland."
+    - "You will find them in almost every region: Extremadura, Castile and León, Castilla-La Mancha, Galicia, Aragon, Madrid and Asturias all have very popular bathing areas, and the San Juan reservoir, in Madrid, is a classic. The season runs from June to September, with July and August as the busiest time."
+    - "Even if they look like a beach, they are still fresh water with currents, uneven bottoms and, in reservoirs, water levels that change. Swim only in the marked area, don't go far from the shore with children, and respect the flags and notices. In summer there can be occasional closures because of water quality, for example because of algae blooms, so it is worth checking."
+    - "Before you go, check the town hall's website and the health information on bathing areas, which is published on the Ministry of Health's Náyade system. Bring a parasol, water shoes because the bottom is often stone or mud, water and sunscreen, and arrive early at weekends: the best-known ones fill up."
+  faq:
+    - p: "What is a river beach?"
+      r: "It is a marked bathing area on a river, a reservoir or a lake, with sand or grass and, often, services such as parking, a beach bar, toilets and a lifeguard. It is fresh water, not salt water."
+    - p: "When should I go to a river beach?"
+      r: "From June to September. In July and August there is more atmosphere and also more people, so if you want some peace and quiet, go on a weekday or first thing in the morning."
+    - p: "How do I know if the water is safe for swimming?"
+      r: "The water quality of official bathing areas is published on the Ministry of Health's Náyade system, and there are usually signs at the beach itself. In summer there can be occasional closures, for example because of algae, so it is worth checking beforehand."
+    - p: "Are there lifeguards?"
+      r: "At many of them there are, during the high season, but not at all. If there aren't, take extra care with children, swim only in the marked area and don't go far from the shore."
+    - p: "What should I bring?"
+      r: "A parasol, sunscreen, water, water shoes (the bottom is often stone or mud) and a bag for your rubbish. Many have a beach bar, but not always."
+    - p: "Can I go with children or a dog?"
+      r: "With children it is a very easy plan, but always supervise them in the water. With a dog it depends on the beach: some ban them or have a specific area, so check the local rules."
+verbenas:
+  texto:
+    - "Between July and September, almost every village in Spain celebrates its patron saint festivities (fiestas patronales). These are weeks of verbenas (open-air dances with a live band), peñas (friends' social clubs), processions, concerts, communal meals and activities for the little ones, and a very cheap way to see village life from the inside."
+    - "August has most of them, especially around the 15th, the feast of the Assumption, although there are festivals on practically every date of the summer. Each region has its own style: in Castile and León and Castilla-La Mancha, peñas and popular bull-running events are common, in Galicia the romerías (pilgrimage festivals), and in the north contests and traditional music."
+    - "The most useful thing before you go is to check the programme on the town hall's website or social media. Verbenas usually start late, often after midnight, and are normally free to enter. If you are coming from outside, bear in mind parking and the way back, and respect the neighbours' rest."
+  faq:
+    - p: "When are the village festivals?"
+      r: "Mostly from July to September, with August as the busiest month. Each village has its own date, normally tied to its patron saint, and the programmes are usually published a few weeks beforehand."
+    - p: "How do I find a village's festivals?"
+      r: "The most reliable source is the town hall's website or social media, where the full programme is published. You can also check the sinplanes agenda by province."
+    - p: "Are verbenas free?"
+      r: "Almost always: entry to verbenas and to most popular events is free. Some communal meals or specific shows may need a ticket."
+    - p: "What time do they start?"
+      r: "Verbenas with a live band usually start late and go on until the early hours. Children's activities, processions and communal meals are scheduled during the day."
+    - p: "What should I bring?"
+      r: "Comfortable clothes, something warm for the night, shoes that can take it if you are going to dance or visit the peñas, and cash, because some bars and stalls don't take cards."
+    - p: "Is it a good plan with kids?"
+      r: "Yes, most festivals have children's activities during the day. At night the atmosphere is more adult, so consider the noise and the time."
+matanza:
+  texto:
+    - "The matanza is a deeply rooted rural tradition in Castile and León, Extremadura and other parts of Spain: the home-made production of chorizos, black puddings (morcillas), hams and other cured sausages in winter. Today many villages celebrate it as a food festival, with demonstrations, tastings and communal meals."
+    - "It is normally held between December and February, when it is cold enough to cure the sausages. During these events you can try typical products such as chorizo, morcilla, farinato, patatas meneás (mashed potatoes with paprika and bacon), jijas or garlic soup, and see up close how this family and neighbourhood job used to be done."
+    - "To go, check the programme of the town hall or the organising association: many events are free and others ask you to book a place or buy a tasting ticket. Some demonstrations include scenes that can be hard for the more sensitive or for children, so it is best to find out before attending."
+  mapa:
+    titulo: "Where to go to a matanza festival"
+    centro: [40.2, -5.8]
+    zoom: 7
+    puntos:
+      - { nombre: "Guijuelo and the Sierra de Béjar (Salamanca)", lat: 40.56, lon: -5.67, desc: "Land of cured sausages and Iberian ham, with matanza events in villages of the area in winter." }
+      - { nombre: "Zamora (Sayago and Aliste)", lat: 41.5, lon: -6.2, desc: "Areas of Zamora where the home matanza is still kept alive and celebrated at local festivals." }
+      - { nombre: "Montánchez (Cáceres)", lat: 39.21, lon: -6.15, desc: "The Extremaduran mountains of hams and chorizos, with traditional matanza events in winter." }
+  faq:
+    - p: "What is the matanza?"
+      r: "It is the traditional making of cured sausages and other pork products in winter. It was a family and neighbourhood job, and today it is revived at festivals with demonstrations and tastings."
+    - p: "When is it held?"
+      r: "Normally from December to February, although the dates vary from one village to another. Check each town's programme."
+    - p: "Where are there matanza festivals?"
+      r: "Mainly in Castile and León and Extremadura, and also in other rural areas. Look at the town hall's agenda or the sinplanes agenda by province."
+    - p: "What can I try?"
+      r: "Chorizo, morcilla, farinato, patatas meneás, jijas, garlic soup and pork products, depending on the area. Many events include a tasting menu."
+    - p: "Is it free?"
+      r: "It depends. Some events are free and others require buying a ticket or booking a place for the tastings."
+    - p: "Is it a good plan with kids?"
+      r: "Sometimes. Some demonstrations can be hard for the little ones, so it is best to ask beforehand what they include. Many festivals also have children's activities."
+flores-primavera:
+  texto:
+    - "In April and May, the fields, the dehesas (open oak pastureland) and the mid-mountain slopes fill with flowers. Poppies, rockroses, daisies, daffodils and other species colour landscapes that, for a few weeks, look like a different place. It is a simple, cheap and very photogenic plan."
+    - "The best time depends on the area and the altitude, and on how much it rained in winter: a good spring gives especially showy fields. In the dehesas of Extremadura and Andalusia, in the fields of Castile and in the mountain meadows there are easy routes to enjoy them. In high areas, flowering is delayed until May and June."
+    - "Choose marked trails and, ideally, go on a weekday. Don't pick flowers, don't trample crops and don't leave the paths: many fields are sown land or pasture. If you have pollen allergies, bring medication, and check your clothes when you get back, because in spring there are ticks in some areas."
+  mapa:
+    titulo: "Where to see fields of flowers"
+    centro: [40.0, -4.5]
+    zoom: 6
+    puntos:
+      - { nombre: "Extremaduran dehesa (Cáceres)", lat: 39.3, lon: -6.9, desc: "Holm oak and cork oak dehesas with flower meadows, around the Sierra de San Pedro and Monfragüe." }
+      - { nombre: "Andalusian dehesa (Seville)", lat: 37.95, lon: -5.8, desc: "The Sierra Norte de Sevilla, with dehesas, rockrose scrub and easy routes." }
+      - { nombre: "Fields of Castile (Palencia)", lat: 42.1, lon: -4.8, desc: "Tierra de Campos and the Castilian moorland plateaus, with poppies among the crops." }
+      - { nombre: "Mountain meadows (Picos de Europa)", lat: 43.2, lon: -4.85, desc: "Meadows with daffodils and other flowers, with later flowering, until May and June." }
+  faq:
+    - p: "When is the best time to see flowers?"
+      r: "Between April and May in most of Spain. In the mountains it is delayed to June, and in the south and on the islands it can start in March."
+    - p: "Where can I see fields of flowers?"
+      r: "The dehesas of Extremadura and Andalusia, the fields of Castile, mountain meadows and natural parks are good places. Look for marked routes."
+    - p: "Can I pick flowers?"
+      r: "Better not. Many are protected and, in farmland, you damage the crop. Enjoy them and take photos."
+    - p: "What should I bring?"
+      r: "Comfortable shoes, layered clothing, a hat, sunscreen, water and, if you have allergies, medication. Check your clothes when you get back in case of ticks."
+    - p: "Is there a risk of allergies?"
+      r: "Yes, pollen is intense in spring. If you are allergic, talk to your doctor and avoid the middle of the day and windy days."
+    - p: "Is it a good plan with kids?"
+      r: "Yes, with short, flat routes. Teach them not to pick flowers or walk into cultivated fields."
+museos-gratis:
+  texto:
+    - "Many museums in Spain have free entry hours or days, and making use of them is one of the best ways to enjoy a cultural plan without spending money. With a bit of planning, you can see world-class collections at almost no cost."
+    - "State-owned museums are usually free on Saturday afternoons and on Sundays, and some have free hours during the week. The large national museums have their own hours and conditions. There are also special dates such as International Museum Day, on 18 May, or Museum Night, with free entry or special activities."
+    - "Hours and conditions change, so always check each museum's website before you go. In many cases you need to pick up a free ticket, and the free hours are the busiest, so arrive early or be patient with the queues. Under-18s, students, retirees and other groups almost always get free or reduced entry."
+  faq:
+    - p: "When is it free to enter a museum?"
+      r: "It depends on each museum. State museums are usually free on Saturday afternoons and on Sundays, and many have free hours during the week. Always check their website."
+    - p: "What is International Museum Day?"
+      r: "It is held on 18 May and many museums open for free or with special activities. It is a good opportunity to visit collections."
+    - p: "Do I need to book a ticket?"
+      r: "Sometimes. During free hours many museums ask you to pick up or reserve a free ticket, and there are queues."
+    - p: "Who always gets free entry?"
+      r: "At many museums, children under 18, some students and retirees, people who are unemployed or have a disability, and other groups. Check each museum's conditions."
+    - p: "How do I avoid the queues?"
+      r: "Go on a weekday, at the start of the free window, and book if you can. Weekends get very crowded."
+    - p: "Is it a good plan with kids?"
+      r: "Yes, many museums have family tours and workshops, and entry for children is usually free."

@@ -936,3 +936,111 @@ semana-santa-sevilla:
       r: "O Consejo de Hermandades y Cofradías publica o programa oficial com os itinerários e os horários de cada irmandade. Também há aplicações e sites com acompanhamento em tempo real."
     - p: "O que é preciso levar ou ter em conta?"
       r: "Calçado confortável, roupa em camadas e paciência. Respeita o silêncio, não atravesses entre os cortejos e evita o flash perto dos passos."
+playas-fluviales:
+  texto:
+    - "Uma praia fluvial é uma zona de banhos preparada num rio, numa albufeira ou num lago, com areia ou relva, acessos sinalizados e, em muitos casos, serviços como estacionamento, quiosque, casas de banho ou nadador-salvador. É uma forma muito cómoda de passar o dia na água sem ir à costa, ideal para famílias e para quem vive no interior."
+    - "Há-as em quase todas as comunidades: a Extremadura, Castela e Leão, Castela-A Mancha, a Galiza, Aragão, Madrid ou as Astúrias têm zonas de banho muito populares, e a albufeira de San Juan, em Madrid, é um clássico. A época vai de junho a setembro, com julho e agosto como momento de maior afluência."
+    - "Embora pareçam uma praia, continuam a ser água doce, com correntes, fundos irregulares e, nas albufeiras, níveis que variam. Banha-te apenas na zona sinalizada, não te afastes da margem com crianças e respeita as bandeiras e os avisos. No verão pode haver encerramentos pontuais por causa da qualidade da água, por exemplo por proliferação de algas, pelo que convém verificar."
+    - "Antes de ir, consulta o site da câmara municipal e a informação sanitária das zonas de banho, que é publicada no sistema Náyade do Ministério da Saúde. Leva guarda-sol, sapatos de água porque o fundo costuma ser de pedra ou lodo, água e protetor solar, e chega cedo ao fim de semana: as mais conhecidas enchem-se."
+  faq:
+    - p: "O que é uma praia fluvial?"
+      r: "É uma zona de banhos sinalizada num rio, numa albufeira ou num lago, com areia ou relva e, muitas vezes, serviços como estacionamento, quiosque, casas de banho e nadador-salvador. É água doce, não salgada."
+    - p: "Quando ir a uma praia fluvial?"
+      r: "De junho a setembro. Em julho e agosto há mais ambiente e também mais gente, por isso, se quiseres sossego, vai durante a semana ou logo de manhã."
+    - p: "Como sei se a água é segura para banhos?"
+      r: "A qualidade da água das zonas de banho oficiais é publicada no sistema Náyade do Ministério da Saúde e costuma haver sinalização na própria praia. No verão pode haver encerramentos pontuais, por exemplo por causa de algas, pelo que convém verificar antes."
+    - p: "Há nadadores-salvadores?"
+      r: "Em muitas há, na época alta, mas não em todas. Se não houver, redobra os cuidados com as crianças, banha-te apenas na zona sinalizada e não te afastes da margem."
+    - p: "O que é preciso levar?"
+      r: "Guarda-sol, protetor solar, água, sapatos de água (o fundo costuma ser de pedra ou lodo) e um saco para o teu lixo. Muitas têm quiosque, mas nem sempre."
+    - p: "Pode-se ir com crianças ou com cão?"
+      r: "Com crianças é um programa muito cómodo, mas sempre com supervisão dentro de água. Com cão depende da praia: algumas proíbem-no ou têm uma área específica, por isso consulta a regulamentação local."
+verbenas:
+  texto:
+    - "Entre julho e setembro, quase todas as aldeias de Espanha celebram as suas festas patronais. São semanas de verbenas com orquestra, peñas, procissões, concertos, refeições populares e atividades para os mais pequenos, e um programa muito barato para conhecer a vida de uma aldeia por dentro."
+    - "Agosto concentra a maioria, sobretudo em torno do dia 15, dia da Assunção, embora haja festas em praticamente todas as datas do verão. Cada comunidade tem o seu estilo: em Castela e Leão e em Castela-A Mancha são habituais as peñas e os festejos taurinos populares, na Galiza as romarias e no norte os concursos e a música tradicional."
+    - "O mais útil antes de ir é consultar o programa no site da câmara municipal ou nas suas redes sociais. Normalmente as verbenas começam tarde, muitas vezes depois da meia-noite, e costumam ter entrada livre. Se vais de fora, tem em conta o estacionamento e o transporte de regresso, e respeita o descanso dos vizinhos."
+  faq:
+    - p: "Quando são as festas das aldeias?"
+      r: "Sobretudo de julho a setembro, com agosto como o mês mais forte. Cada aldeia tem a sua data, normalmente ligada ao seu santo padroeiro, e os programas costumam ser publicados algumas semanas antes."
+    - p: "Como encontro as festas de uma aldeia?"
+      r: "O mais fiável é o site ou as redes sociais da câmara municipal, onde se publica o programa completo. Também podes consultar a agenda do sinplanes por província."
+    - p: "As verbenas são gratuitas?"
+      r: "Quase sempre sim: a entrada nas verbenas e na maioria dos atos populares é livre. Algumas refeições populares ou espetáculos concretos podem exigir bilhete."
+    - p: "A que horas começam?"
+      r: "As verbenas com orquestra costumam começar tarde e prolongar-se até de madrugada. Os atos infantis, as procissões e as refeições populares são programados para o dia."
+    - p: "O que convém levar?"
+      r: "Roupa confortável, um casaco para a noite, calçado resistente se fores dançar ou às peñas e dinheiro em numerário, porque alguns bares e casetas não aceitam cartão."
+    - p: "É um bom programa com crianças?"
+      r: "Sim, a maioria das festas tem atividades infantis durante o dia. À noite o ambiente é mais de adultos, e convém ter em conta o ruído e a hora."
+matanza:
+  texto:
+    - "A matança do porco é uma tradição rural muito enraizada em Castela e Leão, na Extremadura e noutras zonas de Espanha: a elaboração caseira de chouriços, morcelas, presuntos e outros enchidos no inverno. Hoje muitas aldeias celebram-na como festa gastronómica, com demonstrações, provas e refeição popular."
+    - "Celebra-se normalmente entre dezembro e fevereiro, quando está o frio necessário para curar os enchidos. Nestas jornadas podem provar-se produtos típicos como chouriço, morcela, farinato, patatas meneás, jijas ou sopas de alho, e conhecer de perto como se fazia este trabalho familiar e de vizinhança."
+    - "Para ir, consulta o programa da câmara municipal ou da associação organizadora: muitas jornadas são gratuitas e outras pedem reserva de lugar ou a compra de um bilhete de degustação. Algumas demonstrações incluem cenas que podem ser duras para os mais sensíveis ou para as crianças, pelo que convém informar-se antes de assistir."
+  mapa:
+    titulo: "Onde ir a uma festa da matança"
+    centro: [40.2, -5.8]
+    zoom: 7
+    puntos:
+      - { nombre: "Guijuelo e Sierra de Béjar (Salamanca)", lat: 40.56, lon: -5.67, desc: "Terra de enchidos e presunto ibérico, com jornadas de matança em aldeias da comarca no inverno." }
+      - { nombre: "Zamora (Sayago e Aliste)", lat: 41.5, lon: -6.2, desc: "Comarcas zamoranas onde se mantém a matança caseira e se celebra em festas locais." }
+      - { nombre: "Montánchez (Cáceres)", lat: 39.21, lon: -6.15, desc: "Serra extremenha de presuntos e chouriços, com jornadas de matança tradicional no inverno." }
+  faq:
+    - p: "O que é a matança?"
+      r: "É a elaboração tradicional de enchidos e outros produtos do porco no inverno. Era um trabalho familiar e de vizinhança, e hoje recupera-se em festas com demonstrações e provas."
+    - p: "Quando se celebra?"
+      r: "Normalmente de dezembro a fevereiro, embora as datas mudem de uma aldeia para outra. Consulta o programa de cada localidade."
+    - p: "Onde há festas da matança?"
+      r: "Sobretudo em Castela e Leão e na Extremadura, e também noutras zonas rurais. Procura na agenda da câmara municipal ou na do sinplanes por província."
+    - p: "O que se pode provar?"
+      r: "Chouriço, morcela, farinato, patatas meneás, jijas, sopas de alho e produtos de porco, consoante a zona. Muitas jornadas incluem um menu de degustação."
+    - p: "É gratuita?"
+      r: "Depende. Algumas jornadas são gratuitas e outras exigem a compra de um bilhete ou a reserva de lugar para as degustações."
+    - p: "É um bom programa com crianças?"
+      r: "Às vezes. Algumas demonstrações podem ser duras para os mais pequenos, pelo que convém perguntar antes o que incluem. Muitas festas têm ainda atividades infantis."
+flores-primavera:
+  texto:
+    - "Em abril e maio, os campos, as dehesas e as encostas de média montanha enchem-se de flores. Papoilas, estevas, margaridas, narcisos e outras espécies colorem paisagens que, durante algumas semanas, parecem outras. É um programa simples, barato e muito fotogénico."
+    - "O melhor momento depende da zona, da altitude e de quanto choveu no inverno: uma boa primavera dá campos especialmente vistosos. Na dehesa extremenha e andaluza, nos campos de Castela e nos prados de montanha há percursos fáceis para os desfrutar. Nas zonas altas, a floração atrasa-se até maio e junho."
+    - "Escolhe trilhos sinalizados e, de preferência, vai durante a semana. Não apanhes flores, não pises culturas nem saias dos caminhos: muitos campos são searas ou pastagens. Se tens alergia ao pólen, leva medicação e verifica a roupa ao voltar, porque na primavera há carraças em alguns terrenos."
+  mapa:
+    titulo: "Onde ver campos de flores"
+    centro: [40.0, -4.5]
+    zoom: 6
+    puntos:
+      - { nombre: "Dehesa extremenha (Cáceres)", lat: 39.3, lon: -6.9, desc: "Dehesas de azinheira e sobreiro com prados de flores, pela Sierra de San Pedro e Monfragüe." }
+      - { nombre: "Dehesa andaluza (Sevilha)", lat: 37.95, lon: -5.8, desc: "Sierra Norte de Sevilha, com dehesas, estevais e percursos fáceis." }
+      - { nombre: "Campos de Castela (Palencia)", lat: 42.1, lon: -4.8, desc: "Tierra de Campos e os páramos castelhanos, com papoilas entre as culturas." }
+      - { nombre: "Prados de montanha (Picos de Europa)", lat: 43.2, lon: -4.85, desc: "Prados com narcisos e outras flores, com floração mais tardia, até maio e junho." }
+  faq:
+    - p: "Qual é a melhor época para ver flores?"
+      r: "Entre abril e maio na maior parte de Espanha. Na montanha atrasa-se para junho, e no sul e nas ilhas pode começar em março."
+    - p: "Onde ver campos de flores?"
+      r: "As dehesas da Extremadura e da Andaluzia, os campos de Castela, os prados de montanha e os parques naturais são bons locais. Procura percursos sinalizados."
+    - p: "Pode-se apanhar flores?"
+      r: "Melhor não. Muitas estão protegidas e, nos campos de cultivo, prejudicas a sementeira. Desfruta delas e tira fotografias."
+    - p: "O que é preciso levar?"
+      r: "Calçado confortável, roupa por camadas, chapéu, protetor solar, água e, se tens alergia, medicação. Verifica a roupa ao voltar, por causa das carraças."
+    - p: "Há risco de alergia?"
+      r: "Sim, na primavera o pólen é intenso. Se és alérgico, consulta o teu médico e evita as horas centrais do dia e os dias de vento."
+    - p: "É um bom programa com crianças?"
+      r: "Sim, com percursos curtos e planos. Ensina-lhes a não apanhar flores nem entrar em campos cultivados."
+museos-gratis:
+  texto:
+    - "Muitos museus de Espanha têm horários ou dias de entrada gratuita, e aproveitá-los é uma das melhores formas de fazer um programa cultural sem gastar. Com um pouco de planeamento, podes conhecer coleções de primeiro nível quase sem custo."
+    - "Os museus de titularidade estatal costumam ser gratuitos aos sábados à tarde e aos domingos, e alguns têm horários gratuitos durante a semana. Os grandes museus nacionais têm os seus próprios horários e condições. Além disso, há datas especiais como o Dia Internacional dos Museus, a 18 de maio, ou a Noite dos Museus, com entrada gratuita ou atividades especiais."
+    - "Os horários e as condições mudam, por isso consulta sempre o site de cada museu antes de ir. Em muitos casos é preciso levantar um bilhete gratuito, e os horários de gratuitidade são os mais concorridos, pelo que convém chegar cedo ou ter paciência com as filas. Os menores, os estudantes, os reformados e outros grupos têm quase sempre entrada gratuita ou reduzida."
+  faq:
+    - p: "Quando é gratuita a entrada num museu?"
+      r: "Depende de cada museu. Os estatais costumam ser gratuitos aos sábados à tarde e aos domingos, e muitos têm horários gratuitos durante a semana. Consulta sempre o respetivo site."
+    - p: "O que é o Dia Internacional dos Museus?"
+      r: "Celebra-se a 18 de maio e muitos museus abrem gratuitamente ou com atividades especiais. É uma boa ocasião para visitar coleções."
+    - p: "É preciso reservar bilhete?"
+      r: "Às vezes sim. Nos horários gratuitos, muitos museus pedem que se levante ou reserve um bilhete gratuito, e há filas."
+    - p: "Quem tem sempre entrada gratuita?"
+      r: "Em muitos museus, os menores de 18 anos, alguns estudantes e reformados, pessoas desempregadas ou com deficiência e outros grupos. Vê as condições de cada museu."
+    - p: "Como evito as filas?"
+      r: "Vai durante a semana, logo no início do período gratuito e reserva, se for possível. Aos fins de semana enche muito."
+    - p: "É um bom programa com crianças?"
+      r: "Sim, muitos museus têm visitas e oficinas para famílias, e a entrada para menores costuma ser gratuita."

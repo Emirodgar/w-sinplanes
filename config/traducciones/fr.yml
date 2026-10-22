@@ -935,3 +935,111 @@ halloween-difuntos:
       r: "Une pièce de théâtre de José Zorrilla que l'on joue traditionnellement à cette période dans de nombreux théâtres."
     - p: "Est-ce un bon plan avec des enfants ?"
       r: "Oui, il y a beaucoup d'activités pour enfants à Halloween. Si tu vas dans un cimetière, il vaut mieux leur expliquer le sens paisible de la visite."
+playas-fluviales:
+  texto:
+    - "Une plage fluviale est une zone de baignade aménagée sur une rivière, un lac de barrage ou un lac, avec du sable ou de l'herbe, des accès signalisés et, souvent, des services comme un parking, une buvette, des toilettes ou un maître-nageur. C'est une façon très pratique de passer la journée dans l'eau sans aller sur la côte, idéale pour les familles et pour ceux qui vivent à l'intérieur des terres."
+    - "On en trouve dans presque toutes les communautés : l'Estrémadure, la Castille-et-León, la Castille-La Manche, la Galice, l'Aragon, Madrid ou les Asturies ont des zones de baignade très populaires, et le réservoir de San Juan, à Madrid, est un classique. La saison va de juin à septembre, avec juillet et août comme période de plus forte affluence."
+    - "Même si elles ressemblent à une plage, il s'agit toujours d'eau douce, avec des courants, des fonds irréguliers et, dans les réservoirs, des niveaux qui changent. Baigne-toi uniquement dans la zone signalisée, ne t'éloigne pas du bord avec des enfants et respecte les drapeaux et les avis. En été, il peut y avoir des fermetures ponctuelles pour cause de qualité de l'eau, par exemple à cause de la prolifération d'algues, alors mieux vaut vérifier."
+    - "Avant de partir, consulte le site de la mairie et les informations sanitaires sur les zones de baignade, publiées dans le système Náyade du ministère de la Santé. Emporte un parasol, des chaussures d'eau car le fond est souvent fait de pierres ou de vase, de l'eau et de la crème solaire, et arrive tôt le week-end : les plus connues se remplissent."
+  faq:
+    - p: "Qu'est-ce qu'une plage fluviale ?"
+      r: "C'est une zone de baignade signalisée sur une rivière, un lac de barrage ou un lac, avec du sable ou de l'herbe et, souvent, des services comme un parking, une buvette, des toilettes et un maître-nageur. C'est de l'eau douce, pas de l'eau salée."
+    - p: "Quand aller à une plage fluviale ?"
+      r: "De juin à septembre. En juillet et en août, il y a plus d'ambiance et aussi plus de monde ; si tu veux de la tranquillité, vas-y en semaine ou à la première heure."
+    - p: "Comment savoir si l'eau est sûre pour se baigner ?"
+      r: "La qualité de l'eau des zones de baignade officielles est publiée dans le système Náyade du ministère de la Santé, et il y a généralement des panneaux sur la plage elle-même. En été, il peut y avoir des fermetures ponctuelles, par exemple à cause des algues, alors mieux vaut vérifier avant."
+    - p: "Y a-t-il des maîtres-nageurs ?"
+      r: "Dans beaucoup de plages oui, en haute saison, mais pas dans toutes. S'il n'y en a pas, redouble de prudence avec les enfants, baigne-toi uniquement dans la zone signalisée et ne t'éloigne pas du bord."
+    - p: "Que faut-il emporter ?"
+      r: "Un parasol, de la crème solaire, de l'eau, des chaussures d'eau (le fond est souvent fait de pierres ou de vase) et un sac pour tes déchets. Beaucoup ont une buvette, mais pas toujours."
+    - p: "Peut-on y aller avec des enfants ou avec un chien ?"
+      r: "Avec des enfants, c'est un plan très pratique, mais toujours sous surveillance dans l'eau. Avec un chien, cela dépend de la plage : certaines l'interdisent ou ont une zone précise, alors consulte la réglementation locale."
+verbenas:
+  texto:
+    - "Entre juillet et septembre, presque chaque village d'Espagne célèbre ses fêtes patronales. Ce sont des semaines de verbenas avec orchestre, de peñas, de processions, de concerts, de repas populaires et d'animations pour les plus petits, et un plan très bon marché pour découvrir la vie d'un village de l'intérieur."
+    - "Août concentre la plupart des fêtes, surtout autour du 15, jour de l'Assomption, même s'il y en a pratiquement à toutes les dates de l'été. Chaque communauté a son style : en Castille-et-León et en Castille-La Manche, les peñas et les fêtes taurines populaires sont courantes, en Galice les romerías, et dans le nord les concours et la musique traditionnelle."
+    - "Le plus utile avant d'y aller est de consulter le programme sur le site de la mairie ou sur ses réseaux. Normalement, les verbenas commencent tard, souvent après minuit, et sont généralement en entrée libre. Si tu viens de loin, pense au stationnement et au transport pour le retour, et respecte le repos des habitants."
+  faq:
+    - p: "Quand ont lieu les fêtes des villages ?"
+      r: "Surtout de juillet à septembre, avec août comme mois le plus fort. Chaque village a sa date, normalement liée à son saint patron, et les programmes sont généralement publiés quelques semaines avant."
+    - p: "Comment trouver les fêtes d'un village ?"
+      r: "Le plus fiable est le site ou les réseaux de la mairie, où le programme complet est publié. Tu peux aussi consulter l'agenda de sinplanes par province."
+    - p: "Les verbenas sont-elles gratuites ?"
+      r: "Presque toujours oui : l'entrée aux verbenas et à la plupart des événements populaires est libre. Certains repas populaires ou spectacles précis peuvent nécessiter un ticket."
+    - p: "À quelle heure commencent-elles ?"
+      r: "Les verbenas avec orchestre commencent généralement tard et se prolongent jusqu'au petit matin. Les animations pour enfants, les processions et les repas populaires sont programmés en journée."
+    - p: "Qu'est-ce qu'il vaut mieux emporter ?"
+      r: "Des vêtements confortables, de quoi te couvrir pour la nuit, des chaussures qui tiennent le coup si tu vas danser ou dans les peñas, et des espèces, car certains bars et stands n'acceptent pas la carte."
+    - p: "Est-ce un bon plan avec des enfants ?"
+      r: "Oui, la plupart des fêtes proposent des activités pour enfants pendant la journée. La nuit, l'ambiance est plutôt adulte, et il faut tenir compte du bruit et de l'heure."
+matanza:
+  texto:
+    - "La matanza est une tradition rurale très enracinée en Castille-et-León, en Estrémadure et dans d'autres régions d'Espagne : la préparation artisanale de chorizos, de boudins, de jambons et d'autres charcuteries en hiver. Aujourd'hui, beaucoup de villages la célèbrent comme une fête gastronomique, avec des démonstrations, des dégustations et un repas populaire."
+    - "Elle se célèbre normalement entre décembre et février, quand il fait le froid nécessaire pour affiner les charcuteries. Pendant ces journées, on peut goûter des produits typiques comme le chorizo, le boudin, le farinato, les patatas meneás, les jijas ou les soupes à l'ail, et voir de près comment se faisait ce travail familial et de voisinage."
+    - "Pour y aller, consulte le programme de la mairie ou de l'association organisatrice : beaucoup de journées sont gratuites et d'autres demandent de réserver une place ou d'acheter un ticket de dégustation. Certaines démonstrations comprennent des scènes qui peuvent être dures pour les personnes sensibles ou pour les enfants, alors mieux vaut se renseigner avant d'y assister."
+  mapa:
+    titulo: "Où aller à une fête de la matanza"
+    centro: [40.2, -5.8]
+    zoom: 7
+    puntos:
+      - { nombre: "Guijuelo et sierra de Béjar (Salamanque)", lat: 40.56, lon: -5.67, desc: "Terre de charcuteries et de jambon ibérique, avec des journées de matanza dans les villages de la région en hiver." }
+      - { nombre: "Zamora (Sayago et Aliste)", lat: 41.5, lon: -6.2, desc: "Régions de Zamora où la matanza artisanale se maintient et se célèbre lors de fêtes locales." }
+      - { nombre: "Montánchez (Cáceres)", lat: 39.21, lon: -6.15, desc: "Sierra d'Estrémadure de jambons et de chorizos, avec des journées de matanza traditionnelle en hiver." }
+  faq:
+    - p: "Qu'est-ce que la matanza ?"
+      r: "C'est la préparation traditionnelle de charcuteries et d'autres produits du porc en hiver. C'était un travail familial et de voisinage, et aujourd'hui on le retrouve lors de fêtes avec démonstrations et dégustations."
+    - p: "Quand a-t-elle lieu ?"
+      r: "Normalement de décembre à février, même si les dates changent d'un village à l'autre. Consulte le programme de chaque localité."
+    - p: "Où y a-t-il des fêtes de la matanza ?"
+      r: "Surtout en Castille-et-León et en Estrémadure, et aussi dans d'autres zones rurales. Cherche dans l'agenda de la mairie ou dans celui de sinplanes par province."
+    - p: "Que peut-on goûter ?"
+      r: "Du chorizo, du boudin, du farinato, des patatas meneás, des jijas, des soupes à l'ail et des produits du porc, selon la région. Beaucoup de journées comprennent un menu de dégustation."
+    - p: "Est-ce gratuit ?"
+      r: "Cela dépend. Certaines journées sont gratuites et d'autres demandent d'acheter un ticket ou de réserver une place pour les dégustations."
+    - p: "Est-ce un bon plan avec des enfants ?"
+      r: "Parfois. Certaines démonstrations peuvent être dures pour les plus petits, alors mieux vaut demander avant ce qu'elles comprennent. Beaucoup de fêtes proposent aussi des activités pour enfants."
+flores-primavera:
+  texto:
+    - "En avril et en mai, les champs, les dehesas et les versants de moyenne montagne se couvrent de fleurs. Coquelicots, cistes, marguerites, narcisses et autres espèces colorent des paysages qui, pendant quelques semaines, semblent tout autres. C'est un plan simple, bon marché et très photogénique."
+    - "Le meilleur moment dépend de la zone, de l'altitude et de la quantité de pluie tombée en hiver : un bon printemps donne des champs particulièrement spectaculaires. Dans la dehesa d'Estrémadure et d'Andalousie, dans les campagnes de Castille et dans les prairies de montagne, il y a des itinéraires faciles pour en profiter. En altitude, la floraison est retardée jusqu'en mai et juin."
+    - "Choisis des sentiers balisés, et plutôt en semaine. Ne cueille pas les fleurs, ne piétine pas les cultures et ne quitte pas les chemins : beaucoup de champs sont des semis ou des pâturages. Si tu es allergique au pollen, emporte tes médicaments, et inspecte tes vêtements au retour, car au printemps il y a des tiques dans certains terrains."
+  mapa:
+    titulo: "Où voir des champs de fleurs"
+    centro: [40.0, -4.5]
+    zoom: 6
+    puntos:
+      - { nombre: "Dehesa d'Estrémadure (Cáceres)", lat: 39.3, lon: -6.9, desc: "Dehesas de chênes verts et de chênes-lièges avec des prairies fleuries, du côté de la Sierra de San Pedro et de Monfragüe." }
+      - { nombre: "Dehesa d'Andalousie (Séville)", lat: 37.95, lon: -5.8, desc: "Sierra Norte de Séville, avec des dehesas, des cistaies et des itinéraires faciles." }
+      - { nombre: "Campagnes de Castille (Palencia)", lat: 42.1, lon: -4.8, desc: "Tierra de Campos et les paramos castillans, avec des coquelicots parmi les cultures." }
+      - { nombre: "Prairies de montagne (Picos de Europa)", lat: 43.2, lon: -4.85, desc: "Prairies avec des narcisses et d'autres fleurs, avec une floraison plus tardive, jusqu'en mai et juin." }
+  faq:
+    - p: "Quelle est la meilleure période pour voir des fleurs ?"
+      r: "Entre avril et mai dans la majeure partie de l'Espagne. En montagne, elle est décalée à juin, et dans le sud et sur les îles, elle peut commencer en mars."
+    - p: "Où voir des champs de fleurs ?"
+      r: "Les dehesas d'Estrémadure et d'Andalousie, les campagnes de Castille, les prairies de montagne et les parcs naturels sont de bons endroits. Cherche des itinéraires balisés."
+    - p: "Peut-on cueillir des fleurs ?"
+      r: "Mieux vaut ne pas le faire. Beaucoup sont protégées et, dans les champs cultivés, tu abîmes les semis. Profites-en et prends des photos."
+    - p: "Que faut-il emporter ?"
+      r: "Des chaussures confortables, des vêtements en couches, un chapeau, de la crème solaire, de l'eau et, si tu es allergique, des médicaments. Inspecte tes vêtements au retour au cas où il y aurait des tiques."
+    - p: "Y a-t-il un risque d'allergie ?"
+      r: "Oui, au printemps le pollen est intense. Si tu es allergique, consulte ton médecin et évite les heures du milieu de la journée et les jours de vent."
+    - p: "Est-ce un bon plan avec des enfants ?"
+      r: "Oui, avec des itinéraires courts et plats. Apprends-leur à ne pas cueillir de fleurs ni à entrer dans les champs cultivés."
+museos-gratis:
+  texto:
+    - "Beaucoup de musées d'Espagne ont des horaires ou des jours d'entrée gratuite, et en profiter est l'une des meilleures façons de faire une sortie culturelle sans dépenser. Avec un peu d'organisation, tu peux découvrir des collections de premier plan presque sans frais."
+    - "Les musées d'État sont généralement gratuits le samedi après-midi et le dimanche, et certains ont des horaires gratuits en semaine. Les grands musées nationaux ont leurs propres horaires et conditions. De plus, il y a des dates spéciales comme la Journée internationale des musées, le 18 mai, ou la Nuit des musées, avec entrée gratuite ou activités spéciales."
+    - "Les horaires et les conditions changent, alors consulte toujours le site de chaque musée avant d'y aller. Dans beaucoup de cas, il faut retirer un billet gratuit, et les créneaux de gratuité sont les plus fréquentés, alors arrive tôt ou arme-toi de patience pour les files d'attente. Les mineurs, les étudiants, les retraités et d'autres catégories ont presque toujours l'entrée gratuite ou à tarif réduit."
+  faq:
+    - p: "Quand l'entrée d'un musée est-elle gratuite ?"
+      r: "Cela dépend de chaque musée. Les musées d'État sont généralement gratuits le samedi après-midi et le dimanche, et beaucoup ont des horaires gratuits en semaine. Consulte toujours leur site."
+    - p: "Qu'est-ce que la Journée internationale des musées ?"
+      r: "Elle a lieu le 18 mai et beaucoup de musées ouvrent gratuitement ou avec des activités spéciales. C'est une bonne occasion de visiter des collections."
+    - p: "Faut-il réserver son billet ?"
+      r: "Parfois oui. Pendant les horaires gratuits, beaucoup de musées demandent de retirer ou de réserver un billet gratuit, et il y a de la queue."
+    - p: "Qui a toujours l'entrée gratuite ?"
+      r: "Dans beaucoup de musées, les moins de 18 ans, certains étudiants et retraités, les personnes au chômage ou en situation de handicap et d'autres catégories. Consulte les conditions de chaque musée."
+    - p: "Comment éviter les files d'attente ?"
+      r: "Va-y en semaine, au début du créneau gratuit, et réserve si c'est possible. Le week-end, c'est très fréquenté."
+    - p: "Est-ce un bon plan avec des enfants ?"
+      r: "Oui, beaucoup de musées proposent des visites et des ateliers en famille, et l'entrée pour les mineurs est généralement gratuite."

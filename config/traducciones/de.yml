@@ -969,3 +969,111 @@ halloween-difuntos:
       r: "Ein Theaterstück von José Zorrilla, das traditionell in diesen Tagen in vielen Theatern aufgeführt wird."
     - p: "Ist das ein guter Plan mit Kindern?"
       r: "Ja, es gibt viele Kinderaktivitäten zu Halloween. Wenn du auf einen Friedhof gehst, sollte man ihnen den ruhigen Sinn des Besuchs erklären."
+playas-fluviales:
+  texto:
+    - "Eine playa fluvial (Flussstrand) ist eine hergerichtete Badestelle an einem Fluss, Stausee oder See, mit Sand oder Rasen, ausgeschilderten Zugängen und oft auch Einrichtungen wie Parkplatz, Strandbar (chiringuito), Toiletten oder Rettungsschwimmer. Es ist eine sehr bequeme Art, den Tag im Wasser zu verbringen, ohne an die Küste zu fahren, ideal für Familien und für alle, die im Landesinneren wohnen."
+    - "Du findest sie in fast allen Regionen: Extremadura, Kastilien-León, Kastilien-La Mancha, Galicien, Aragón, Madrid oder Asturien haben sehr beliebte Badestellen, und der Stausee San Juan in Madrid ist ein Klassiker. Die Saison dauert von Juni bis September, mit Juli und August als Zeit des größten Andrangs."
+    - "Auch wenn sie wie ein Strand aussehen, ist es weiterhin Süßwasser mit Strömungen, unebenem Grund und, an Stauseen, wechselnden Wasserständen. Bade nur in der ausgeschilderten Zone, entferne dich mit Kindern nicht vom Ufer und beachte Flaggen und Hinweise. Im Sommer kann es vorübergehende Sperrungen wegen der Wasserqualität geben, zum Beispiel wegen Algenblüte, also prüfe das besser vorher."
+    - "Schau vor dem Ausflug auf die Website der Gemeinde und in die Gesundheitsinformationen zu den Badestellen, die im System Náyade des Gesundheitsministeriums veröffentlicht werden. Nimm einen Sonnenschirm, Wasserschuhe (der Grund besteht meist aus Steinen oder Schlamm), Wasser und Sonnenschutz mit und komm am Wochenende früh: Die bekannteren Strände füllen sich."
+  faq:
+    - p: "Was ist eine playa fluvial?"
+      r: "Es ist eine ausgeschilderte Badestelle an einem Fluss, Stausee oder See, mit Sand oder Rasen und oft mit Einrichtungen wie Parkplatz, Strandbar, Toiletten und Rettungsschwimmer. Es ist Süßwasser, kein Salzwasser."
+    - p: "Wann sollte man zu einer playa fluvial gehen?"
+      r: "Von Juni bis September. Im Juli und August ist mehr Stimmung los, aber auch mehr Betrieb. Wenn du Ruhe willst, geh unter der Woche oder früh am Morgen."
+    - p: "Woher weiß ich, ob das Wasser zum Baden sicher ist?"
+      r: "Die Wasserqualität der offiziellen Badestellen wird im System Náyade des Gesundheitsministeriums veröffentlicht, und meist hängen auch Schilder direkt am Strand. Im Sommer kann es vorübergehende Sperrungen geben, zum Beispiel wegen Algen, also prüfe es vorher."
+    - p: "Gibt es Rettungsschwimmer?"
+      r: "An vielen ja, in der Hauptsaison, aber nicht an allen. Falls keiner da ist, sei mit Kindern besonders vorsichtig, bade nur in der ausgeschilderten Zone und entferne dich nicht vom Ufer."
+    - p: "Was muss man mitnehmen?"
+      r: "Sonnenschirm, Sonnenschutz, Wasser, Wasserschuhe (der Grund besteht meist aus Steinen oder Schlamm) und eine Tüte für deinen Müll. Viele haben eine Strandbar, aber nicht immer."
+    - p: "Kann man mit Kindern oder mit Hund hingehen?"
+      r: "Mit Kindern ist es ein sehr bequemer Plan, aber immer mit Aufsicht im Wasser. Mit Hund hängt es vom Strand ab: Manche verbieten es oder haben einen eigenen Bereich, also informiere dich über die örtlichen Vorschriften."
+verbenas:
+  texto:
+    - "Zwischen Juli und September feiert fast jedes Dorf in Spanien sein Patronatsfest (fiestas patronales). Das sind Wochen voller verbenas (Tanzabende unter freiem Himmel) mit Orchester, peñas (Festgemeinschaften), Prozessionen, Konzerten, Volksessen und Programm für die Kleinsten, und ein sehr günstiger Plan, um das Leben in einem Dorf von innen kennenzulernen."
+    - "Der August vereint die meisten, vor allem rund um den 15., den Tag Mariä Himmelfahrt, aber es gibt Feste praktisch zu jedem Termin im Sommer. Jede Region hat ihren eigenen Stil: In Kastilien-León und Kastilien-La Mancha sind peñas und volkstümliche Stierfeste üblich, in Galicien die romerías (Wallfahrtsfeste) und im Norden Wettbewerbe und traditionelle Musik."
+    - "Am nützlichsten ist es, vor dem Besuch das Programm auf der Website der Gemeinde oder in ihren sozialen Netzwerken anzusehen. Die verbenas beginnen normalerweise spät, oft erst nach Mitternacht, und der Eintritt ist meist frei. Wenn du von auswärts kommst, denk an Parkplatz und Rückfahrt und respektiere die Nachtruhe der Nachbarn."
+  faq:
+    - p: "Wann sind die Dorffeste?"
+      r: "Vor allem von Juli bis September, mit dem August als stärkstem Monat. Jedes Dorf hat seinen eigenen Termin, meist an seinen Schutzheiligen gebunden, und die Programme werden in der Regel einige Wochen vorher veröffentlicht."
+    - p: "Wie finde ich die Feste eines Dorfes?"
+      r: "Am zuverlässigsten sind die Website oder die sozialen Netzwerke der Gemeinde, wo das vollständige Programm veröffentlicht wird. Du kannst auch den sinplanes-Kalender nach Provinz ansehen."
+    - p: "Sind die verbenas kostenlos?"
+      r: "Fast immer ja: Der Eintritt zu den verbenas und zu den meisten Volksveranstaltungen ist frei. Manche Volksessen oder bestimmte Shows können ein Ticket erfordern."
+    - p: "Um wie viel Uhr fangen sie an?"
+      r: "Die verbenas mit Orchester beginnen meist spät und ziehen sich bis in die Morgenstunden. Kinderprogramm, Prozessionen und Volksessen finden tagsüber statt."
+    - p: "Was sollte man mitnehmen?"
+      r: "Bequeme Kleidung, etwas Warmes für die Nacht, Schuhe, die etwas aushalten, wenn du tanzen oder zu den peñas gehst, und Bargeld, denn manche Bars und Festzelte nehmen keine Karten."
+    - p: "Ist es ein guter Plan mit Kindern?"
+      r: "Ja, die meisten Feste haben tagsüber Kinderaktivitäten. Nachts ist die Stimmung eher für Erwachsene, und man sollte Lärm und Uhrzeit bedenken."
+matanza:
+  texto:
+    - "Die matanza ist eine tief verwurzelte ländliche Tradition in Kastilien-León, Extremadura und anderen Gegenden Spaniens: die hausgemachte Herstellung von chorizo, morcilla, Schinken und anderen Wurstwaren im Winter. Heute feiern viele Dörfer sie als kulinarisches Fest, mit Vorführungen, Verkostungen und gemeinsamem Essen."
+    - "Sie findet normalerweise zwischen Dezember und Februar statt, wenn es kalt genug ist, um die Wurstwaren zu reifen. Bei diesen Veranstaltungen kann man typische Produkte wie chorizo, morcilla, farinato, patatas meneás, jijas oder Knoblauchsuppe probieren und aus der Nähe erfahren, wie diese Arbeit von Familie und Nachbarschaft früher gemacht wurde."
+    - "Informiere dich vorab im Programm der Gemeinde oder des veranstaltenden Vereins: Viele Veranstaltungen sind kostenlos, andere verlangen eine Platzreservierung oder den Kauf eines Verkostungstickets. Manche Vorführungen enthalten Szenen, die für Empfindliche oder für Kinder hart sein können, also informiere dich besser vor dem Besuch."
+  mapa:
+    titulo: "Wohin zu einem matanza-Fest"
+    centro: [40.2, -5.8]
+    zoom: 7
+    puntos:
+      - { nombre: "Guijuelo und Sierra de Béjar (Salamanca)", lat: 40.56, lon: -5.67, desc: "Land der Wurstwaren und des iberischen Schinkens, mit matanza-Veranstaltungen in Dörfern der Region im Winter." }
+      - { nombre: "Zamora (Sayago und Aliste)", lat: 41.5, lon: -6.2, desc: "Landstriche in Zamora, in denen die hausgemachte matanza bewahrt und bei örtlichen Festen gefeiert wird." }
+      - { nombre: "Montánchez (Cáceres)", lat: 39.21, lon: -6.15, desc: "Bergland in Extremadura mit Schinken und chorizo, mit traditionellen matanza-Veranstaltungen im Winter." }
+  faq:
+    - p: "Was ist die matanza?"
+      r: "Es ist die traditionelle Herstellung von Wurstwaren und anderen Schweineprodukten im Winter. Sie war eine Arbeit von Familie und Nachbarschaft und wird heute bei Festen mit Vorführungen und Verkostungen wiederbelebt."
+    - p: "Wann wird sie gefeiert?"
+      r: "Normalerweise von Dezember bis Februar, wobei die Termine von Dorf zu Dorf unterschiedlich sind. Schau ins Programm des jeweiligen Ortes."
+    - p: "Wo gibt es matanza-Feste?"
+      r: "Vor allem in Kastilien-León und Extremadura, aber auch in anderen ländlichen Gegenden. Such im Veranstaltungskalender der Gemeinde oder im sinplanes-Kalender nach Provinz."
+    - p: "Was kann man probieren?"
+      r: "Chorizo, morcilla, farinato, patatas meneás, jijas, Knoblauchsuppe und Schweinefleischprodukte, je nach Gegend. Viele Veranstaltungen bieten ein Verkostungsmenü."
+    - p: "Ist es kostenlos?"
+      r: "Das hängt davon ab. Manche Veranstaltungen sind kostenlos, andere verlangen ein Ticket oder eine Platzreservierung für die Verkostungen."
+    - p: "Ist es ein guter Plan mit Kindern?"
+      r: "Manchmal. Manche Vorführungen können für die Kleinsten hart sein, also frag vorher nach, was dazugehört. Viele Feste haben außerdem Kinderaktivitäten."
+flores-primavera:
+  texto:
+    - "Im April und Mai füllen sich Felder, Dehesas (Weideland mit Eichenbestand) und Hänge der Mittelgebirge mit Blumen. Mohn, Zistrosen, Margeriten, Narzissen und andere Arten färben Landschaften, die für ein paar Wochen wie verwandelt aussehen. Es ist ein einfacher, günstiger und sehr fotogener Plan."
+    - "Der beste Zeitpunkt hängt von der Gegend, der Höhenlage und davon ab, wie viel es im Winter geregnet hat: Ein guter Frühling bringt besonders prächtige Felder. In der Dehesa von Extremadura und Andalusien, auf den Feldern Kastiliens und auf den Bergwiesen gibt es leichte Routen, um sie zu genießen. In höheren Lagen verschiebt sich die Blüte auf Mai und Juni."
+    - "Wähl markierte Wege und am besten Wochentage. Pflück keine Blumen, tritt nicht auf Felder und verlass die Wege nicht: Viele Felder sind Saatflächen oder Weiden. Wenn du eine Pollenallergie hast, nimm Medikamente mit und kontrolliere bei der Rückkehr deine Kleidung, denn im Frühling gibt es in manchen Gebieten Zecken."
+  mapa:
+    titulo: "Wo man Blumenfelder sieht"
+    centro: [40.0, -4.5]
+    zoom: 6
+    puntos:
+      - { nombre: "Dehesa in Extremadura (Cáceres)", lat: 39.3, lon: -6.9, desc: "Dehesas mit Stein- und Korkeichen und blumenreichen Wiesen, bei der Sierra de San Pedro und im Monfragüe." }
+      - { nombre: "Dehesa in Andalusien (Sevilla)", lat: 37.95, lon: -5.8, desc: "Sierra Norte de Sevilla, mit Dehesas, Zistrosengebüsch und leichten Routen." }
+      - { nombre: "Felder Kastiliens (Palencia)", lat: 42.1, lon: -4.8, desc: "Tierra de Campos und die kastilischen Hochebenen, mit Mohn zwischen den Feldfrüchten." }
+      - { nombre: "Bergwiesen (Picos de Europa)", lat: 43.2, lon: -4.85, desc: "Wiesen mit Narzissen und anderen Blumen, mit späterer Blüte bis Mai und Juni." }
+  faq:
+    - p: "Wann ist die beste Zeit, um Blumen zu sehen?"
+      r: "Zwischen April und Mai in den meisten Teilen Spaniens. In den Bergen verschiebt es sich auf Juni, und im Süden und auf den Inseln kann es schon im März beginnen."
+    - p: "Wo sieht man Blumenfelder?"
+      r: "Die Dehesas in Extremadura und Andalusien, die Felder Kastiliens, die Bergwiesen und die Naturparks sind gute Orte. Such nach ausgeschilderten Routen."
+    - p: "Darf man Blumen pflücken?"
+      r: "Besser nicht. Viele stehen unter Schutz, und auf Ackerflächen schadest du der Saat. Genieß sie und mach Fotos."
+    - p: "Was muss man mitnehmen?"
+      r: "Bequeme Schuhe, Kleidung im Zwiebellook, Hut, Sonnenschutz, Wasser und, falls du Allergien hast, Medikamente. Kontrolliere bei der Rückkehr deine Kleidung auf Zecken."
+    - p: "Besteht Allergiegefahr?"
+      r: "Ja, im Frühling ist der Pollenflug stark. Wenn du Allergiker bist, sprich mit deinem Arzt und meide die Mittagsstunden und windige Tage."
+    - p: "Ist es ein guter Plan mit Kindern?"
+      r: "Ja, mit kurzen, flachen Routen. Bring ihnen bei, keine Blumen zu pflücken und keine bewirtschafteten Felder zu betreten."
+museos-gratis:
+  texto:
+    - "Viele Museen in Spanien haben kostenlose Eintrittszeiten oder -tage, und sie zu nutzen ist eine der besten Möglichkeiten für einen Kulturplan ohne große Ausgaben. Mit etwas Planung kannst du erstklassige Sammlungen fast kostenlos kennenlernen."
+    - "Staatliche Museen sind meist samstags nachmittags und sonntags kostenlos, und einige haben auch unter der Woche kostenlose Zeiten. Die großen Nationalmuseen haben ihre eigenen Zeiten und Bedingungen. Dazu kommen besondere Termine wie der Internationale Museumstag am 18. Mai oder die Nacht der Museen, mit kostenlosem Eintritt oder besonderen Aktivitäten."
+    - "Zeiten und Bedingungen ändern sich, also schau vor dem Besuch immer auf die Website des jeweiligen Museums. Oft muss man ein kostenloses Ticket abholen, und die kostenlosen Zeiten sind die am stärksten besuchten, also komm früh oder hab Geduld mit den Warteschlangen. Minderjährige, Studierende, Rentner und andere Gruppen haben fast immer freien oder ermäßigten Eintritt."
+  faq:
+    - p: "Wann ist der Eintritt in ein Museum kostenlos?"
+      r: "Das hängt vom jeweiligen Museum ab. Die staatlichen sind meist samstags nachmittags und sonntags kostenlos, und viele haben auch unter der Woche kostenlose Zeiten. Schau immer auf ihre Website."
+    - p: "Was ist der Internationale Museumstag?"
+      r: "Er wird am 18. Mai gefeiert, und viele Museen öffnen dann kostenlos oder mit besonderen Aktivitäten. Es ist eine gute Gelegenheit, Sammlungen zu besuchen."
+    - p: "Muss man ein Ticket reservieren?"
+      r: "Manchmal ja. In den kostenlosen Zeiten verlangen viele Museen, dass man ein kostenloses Ticket abholt oder reserviert, und es gibt Warteschlangen."
+    - p: "Wer hat immer freien Eintritt?"
+      r: "In vielen Museen Personen unter 18 Jahren, manche Studierende und Rentner, Arbeitslose oder Menschen mit Behinderung und andere Gruppen. Sieh dir die Bedingungen des jeweiligen Museums an."
+    - p: "Wie vermeide ich die Warteschlangen?"
+      r: "Geh unter der Woche, gleich zu Beginn des kostenlosen Zeitfensters, und reserviere, wenn es möglich ist. An den Wochenenden ist es sehr voll."
+    - p: "Ist es ein guter Plan mit Kindern?"
+      r: "Ja, viele Museen bieten Führungen und Workshops für Familien, und der Eintritt für Minderjährige ist meist frei."

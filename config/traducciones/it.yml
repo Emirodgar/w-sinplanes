@@ -935,3 +935,111 @@ halloween-difuntos:
       r: "Un'opera teatrale di José Zorrilla che si rappresenta tradizionalmente in queste date in molti teatri."
     - p: "È un buon programma con i bambini?"
       r: "Sì, ci sono molte attività per bambini per Halloween. Se vai in un cimitero, conviene spiegare loro il senso tranquillo della visita."
+playas-fluviales:
+  texto:
+    - "Una playa fluvial (playa fluvial) è una zona balneabile attrezzata lungo un fiume, un bacino artificiale o un lago, con sabbia o prato, accessi segnalati e, in molti casi, servizi come parcheggio, chiringuito, bagni o bagnino. È un modo molto comodo di passare la giornata in acqua senza andare sulla costa, ideale per le famiglie e per chi vive nell'entroterra."
+    - "Ce ne sono in quasi tutte le comunità: Extremadura, Castilla y León, Castilla-La Mancha, Galizia, Aragona, Madrid o Asturie hanno zone balneabili molto frequentate, e il bacino di San Juan, a Madrid, è un classico. La stagione va da giugno a settembre, con luglio e agosto come periodo di massima affluenza."
+    - "Anche se sembrano una spiaggia, restano acqua dolce con correnti, fondali irregolari e, nei bacini artificiali, livelli che cambiano. Fai il bagno solo nella zona segnalata, non allontanarti dalla riva con i bambini e rispetta le bandiere e gli avvisi. In estate possono esserci chiusure temporanee per la qualità dell'acqua, ad esempio per la proliferazione di alghe, quindi conviene controllare."
+    - "Prima di andare, consulta il sito del comune e le informazioni sanitarie sulle zone balneabili, che vengono pubblicate nel sistema Náyade del Ministero della Salute. Porta l'ombrellone, scarpe da scoglio perché il fondo è spesso di pietra o fango, acqua e protezione solare, e arriva presto nel fine settimana: le più conosciute si riempiono."
+  faq:
+    - p: "Che cos'è una playa fluvial?"
+      r: "È una zona balneabile segnalata lungo un fiume, un bacino artificiale o un lago, con sabbia o prato e, spesso, servizi come parcheggio, chiringuito, bagni e bagnino. È acqua dolce, non salata."
+    - p: "Quando andare in una playa fluvial?"
+      r: "Da giugno a settembre. A luglio e agosto c'è più atmosfera e anche più gente, quindi se vuoi un po' di tranquillità, vai durante la settimana o la mattina presto."
+    - p: "Come faccio a sapere se l'acqua è sicura per fare il bagno?"
+      r: "La qualità dell'acqua delle zone balneabili ufficiali viene pubblicata nel sistema Náyade del Ministero della Salute e di solito ci sono dei cartelli sulla spiaggia stessa. In estate possono esserci chiusure temporanee, ad esempio per le alghe, quindi conviene controllare prima."
+    - p: "Ci sono bagnini?"
+      r: "In molte sì, durante l'alta stagione, ma non in tutte. Se non ci sono, fai molta attenzione con i bambini, fai il bagno solo nella zona segnalata e non allontanarti dalla riva."
+    - p: "Cosa bisogna portare?"
+      r: "Ombrellone, protezione solare, acqua, scarpe da scoglio (il fondo è spesso di pietra o fango) e un sacchetto per i tuoi rifiuti. Molte hanno un chiringuito, ma non sempre."
+    - p: "Si può andare con i bambini o con il cane?"
+      r: "Con i bambini è un programma molto comodo, ma sempre con supervisione in acqua. Con il cane dipende dalla spiaggia: alcune lo vietano o hanno un'area apposita, quindi consulta la normativa locale."
+verbenas:
+  texto:
+    - "Tra luglio e settembre, quasi ogni paese della Spagna celebra le proprie feste patronali. Sono settimane di verbenas con orchestra (balli all'aperto), peñas, processioni, concerti, pranzi popolari e attività per i più piccoli, e un programma molto economico per conoscere la vita di un paese da dentro."
+    - "Agosto concentra la maggior parte delle feste, soprattutto intorno al 15, giorno dell'Assunzione, anche se ce ne sono praticamente in tutte le date dell'estate. Ogni comunità ha il suo stile: in Castilla y León e Castilla-La Mancha sono abituali le peñas e i festeggiamenti taurini popolari, in Galizia le romerías e nel nord i concorsi e la musica tradizionale."
+    - "La cosa più utile prima di andare è consultare il programma sul sito del comune o sui suoi social. Di solito le verbenas iniziano tardi, spesso dopo mezzanotte, e di norma l'ingresso è libero. Se vieni da fuori, tieni conto del parcheggio e dei trasporti per il ritorno, e rispetta il riposo dei vicini."
+  faq:
+    - p: "Quando sono le feste dei paesi?"
+      r: "Soprattutto da luglio a settembre, con agosto come mese più intenso. Ogni paese ha la sua data, di solito legata al santo patrono, e i programmi si pubblicano di solito qualche settimana prima."
+    - p: "Come trovo le feste di un paese?"
+      r: "La cosa più affidabile è il sito o i social del comune, dove viene pubblicato il programma completo. Puoi anche consultare l'agenda di sinplanes per provincia."
+    - p: "Le verbenas sono gratuite?"
+      r: "Quasi sempre sì: l'ingresso alle verbenas e alla maggior parte degli eventi popolari è libero. Alcuni pranzi popolari o spettacoli specifici possono richiedere un biglietto."
+    - p: "A che ora iniziano?"
+      r: "Le verbenas con orchestra di solito iniziano tardi e vanno avanti fino all'alba. Le attività per bambini, le processioni e i pranzi popolari sono programmati di giorno."
+    - p: "Cosa conviene portare?"
+      r: "Abiti comodi, qualcosa di più pesante per la notte, scarpe resistenti se vai a ballare o alle peñas e contanti, perché alcuni banconi e casetas non accettano la carta."
+    - p: "È un buon programma con i bambini?"
+      r: "Sì, la maggior parte delle feste ha attività per bambini durante il giorno. Di notte l'atmosfera è più da adulti, e conviene valutare il rumore e l'orario."
+matanza:
+  texto:
+    - "La matanza è una tradizione rurale molto radicata in Castilla y León, Extremadura e altre zone della Spagna: la preparazione casalinga di chorizo, morcilla, prosciutti e altri insaccati in inverno. Oggi molti paesi la celebrano come festa gastronomica, con dimostrazioni, degustazioni e pranzo popolare."
+    - "Si celebra di solito tra dicembre e febbraio, quando fa il freddo necessario per stagionare gli insaccati. In queste giornate si possono assaggiare prodotti tipici come chorizo, morcilla, farinato, patatas meneás, jijas o sopas de ajo, e vedere da vicino come si svolgeva questo lavoro familiare e di vicinato."
+    - "Per andare, consulta il programma del comune o dell'associazione organizzatrice: molte giornate sono gratuite e altre richiedono di prenotare un posto o acquistare un biglietto per la degustazione. Alcune dimostrazioni includono scene che possono risultare dure per i più sensibili o per i bambini, quindi conviene informarsi prima di partecipare."
+  mapa:
+    titulo: "Dove andare a una festa della matanza"
+    centro: [40.2, -5.8]
+    zoom: 7
+    puntos:
+      - { nombre: "Guijuelo y sierra de Béjar (Salamanca)", lat: 40.56, lon: -5.67, desc: "Terra di insaccati e prosciutto iberico, con giornate di matanza nei paesi della comarca in inverno." }
+      - { nombre: "Zamora (Sayago y Aliste)", lat: 41.5, lon: -6.2, desc: "Comarche di Zamora dove si mantiene la matanza casalinga e si celebra nelle feste locali." }
+      - { nombre: "Montánchez (Cáceres)", lat: 39.21, lon: -6.15, desc: "Sierra dell'Extremadura di prosciutti e chorizo, con giornate di matanza tradizionale in inverno." }
+  faq:
+    - p: "Che cos'è la matanza?"
+      r: "È la preparazione tradizionale di insaccati e altri prodotti del maiale in inverno. Era un lavoro familiare e di vicinato, e oggi viene recuperata nelle feste con dimostrazioni e degustazioni."
+    - p: "Quando si celebra?"
+      r: "Di solito da dicembre a febbraio, anche se le date cambiano da un paese all'altro. Consulta il programma di ogni località."
+    - p: "Dove ci sono feste della matanza?"
+      r: "Soprattutto in Castilla y León ed Extremadura, e anche in altre zone rurali. Cerca nell'agenda del comune o in quella di sinplanes per provincia."
+    - p: "Cosa si può assaggiare?"
+      r: "Chorizo, morcilla, farinato, patatas meneás, jijas, sopas de ajo e prodotti del maiale, a seconda della zona. Molte giornate includono un menù degustazione."
+    - p: "È gratuita?"
+      r: "Dipende. Alcune giornate sono gratuite e altre richiedono l'acquisto di un biglietto o la prenotazione di un posto per le degustazioni."
+    - p: "È un buon programma con i bambini?"
+      r: "A volte. Alcune dimostrazioni possono risultare dure per i più piccoli, quindi conviene chiedere prima che cosa includono. Molte feste hanno inoltre attività per bambini."
+flores-primavera:
+  texto:
+    - "Ad aprile e maggio, i campi, le dehesas e i pendii di media montagna si riempiono di fiori. Papaveri, cisti, margherite, narcisi e altre specie colorano paesaggi che, per qualche settimana, sembrano altri. È un programma semplice, economico e molto fotogenico."
+    - "Il momento migliore dipende dalla zona e dall'altitudine, e da quanto ha piovuto in inverno: una buona primavera regala campi particolarmente vistosi. Nella dehesa dell'Extremadura e dell'Andalusia, nei campi della Castiglia e nei prati di montagna ci sono percorsi facili per godersi lo spettacolo. Nelle zone alte la fioritura slitta a maggio e giugno."
+    - "Scegli sentieri segnalati e meglio durante la settimana. Non raccogliere fiori, non calpestare le colture e non uscire dai sentieri: molti campi sono seminati o pascoli. Se hai allergia al polline, porta i farmaci, e controlla i vestiti al ritorno, perché in primavera in alcuni terreni ci sono le zecche."
+  mapa:
+    titulo: "Dove vedere i campi di fiori"
+    centro: [40.0, -4.5]
+    zoom: 6
+    puntos:
+      - { nombre: "Dehesa extremeña (Cáceres)", lat: 39.3, lon: -6.9, desc: "Dehesas di leccio e sughera con prati fioriti, nella Sierra de San Pedro e a Monfragüe." }
+      - { nombre: "Dehesa andaluza (Sevilla)", lat: 37.95, lon: -5.8, desc: "Sierra Norte di Siviglia, con dehesas, macchie di cisto e percorsi facili." }
+      - { nombre: "Campos de Castilla (Palencia)", lat: 42.1, lon: -4.8, desc: "Tierra de Campos e gli altopiani castigliani, con papaveri tra le coltivazioni." }
+      - { nombre: "Prados de montaña (Picos de Europa)", lat: 43.2, lon: -4.85, desc: "Prati con narcisi e altri fiori, con fioritura più tardiva, fino a maggio e giugno." }
+  faq:
+    - p: "Qual è il periodo migliore per vedere i fiori?"
+      r: "Tra aprile e maggio nella maggior parte della Spagna. In montagna slitta a giugno, e al sud e nelle isole può iniziare a marzo."
+    - p: "Dove vedere i campi di fiori?"
+      r: "Le dehesas dell'Extremadura e dell'Andalusia, i campi della Castiglia, i prati di montagna e i parchi naturali sono ottimi luoghi. Cerca percorsi segnalati."
+    - p: "Si possono raccogliere i fiori?"
+      r: "Meglio di no. Molti sono protetti e, nei campi coltivati, danneggi la semina. Goditeli e fai delle foto."
+    - p: "Cosa bisogna portare?"
+      r: "Scarpe comode, abbigliamento a strati, cappello, protezione solare, acqua e, se hai allergia, i farmaci. Controlla i vestiti al ritorno per via delle zecche."
+    - p: "C'è rischio di allergia?"
+      r: "Sì, in primavera il polline è intenso. Se sei allergico, consulta il medico ed evita le ore centrali della giornata e i giorni ventosi."
+    - p: "È un buon programma con i bambini?"
+      r: "Sì, con percorsi brevi e pianeggianti. Insegna loro a non raccogliere i fiori né entrare nei campi coltivati."
+museos-gratis:
+  texto:
+    - "Molti musei della Spagna hanno orari o giorni di ingresso gratuito, e approfittarne è uno dei modi migliori per fare un programma culturale senza spendere. Con un po' di pianificazione, puoi conoscere collezioni di altissimo livello quasi senza costi."
+    - "I musei statali sono di solito gratuiti il sabato pomeriggio e la domenica, e alcuni hanno orari gratuiti durante la settimana. I grandi musei nazionali hanno i propri orari e condizioni. Inoltre, ci sono date speciali come la Giornata Internazionale dei Musei, il 18 maggio, o la Notte dei Musei, con ingresso gratuito o attività speciali."
+    - "Gli orari e le condizioni cambiano, quindi consulta sempre il sito di ciascun museo prima di andare. In molti casi bisogna ritirare un biglietto gratuito, e le fasce di gratuità sono le più affollate, quindi arriva presto o abbi pazienza con le code. I minori, gli studenti, i pensionati e altre categorie hanno quasi sempre ingresso gratuito o ridotto."
+  faq:
+    - p: "Quando è gratis entrare in un museo?"
+      r: "Dipende da ogni museo. Quelli statali sono di solito gratuiti il sabato pomeriggio e la domenica, e molti hanno orari gratuiti durante la settimana. Consulta sempre il loro sito."
+    - p: "Che cos'è la Giornata Internazionale dei Musei?"
+      r: "Si celebra il 18 maggio e molti musei aprono gratis o con attività speciali. È una buona occasione per visitare le collezioni."
+    - p: "Bisogna prenotare il biglietto?"
+      r: "A volte sì. Negli orari gratuiti molti musei chiedono di ritirare o prenotare un biglietto gratuito, e ci sono code."
+    - p: "Chi ha sempre l'ingresso gratuito?"
+      r: "In molti musei, i minori di 18 anni, alcuni studenti e pensionati, persone disoccupate o con disabilità e altre categorie. Controlla le condizioni di ciascun museo."
+    - p: "Come evito le code?"
+      r: "Vai durante la settimana, all'inizio della fascia gratuita e prenota se possibile. Nei fine settimana si riempie molto."
+    - p: "È un buon programma con i bambini?"
+      r: "Sì, molti musei offrono visite e laboratori per famiglie, e l'ingresso per i minori è di solito gratuito."
