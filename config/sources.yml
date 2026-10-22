@@ -58,7 +58,18 @@ fuentes:
     secreto: FOOTBALL_DATA_TOKEN
     competiciones: [PD, CL]
     # Solo entran partidos con alguno de estos equipos o fases finales
-    equipos_destacados: ["Real Madrid", "FC Barcelona", "Barcelona", "Atlético", "Athletic", "Real Sociedad", "Sevilla", "Betis", "Villarreal", "Valencia"]
+    equipos_destacados: ["Real Madrid", "FC Barcelona", "Atlético", "Athletic", "Real Sociedad", "Sevilla", "Betis", "Villarreal", "Valencia"]
+    # Estadio de cada equipo destacado (el plan gratuito de la API no da el estadio). Mismo texto que en equipos_destacados.
+    estadios:
+      "Real Madrid": "Santiago Bernabéu"
+      "FC Barcelona": "Spotify Camp Nou"
+      "Atlético": "Riyadh Air Metropolitano"
+      "Athletic": "San Mamés"
+      "Real Sociedad": "Reale Arena"
+      "Sevilla": "Ramón Sánchez-Pizjuán"
+      "Betis": "Benito Villamarín"
+      "Villarreal": "Estadio de la Cerámica"
+      "Valencia": "Mestalla"
     activa: true
 
   # --- Prensa: secciones de cultura y ocio (feeds comprobados el 19/10/2026) ---

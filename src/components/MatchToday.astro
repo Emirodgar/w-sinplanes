@@ -16,7 +16,7 @@ const games = plans
     <ul class="match-list">
       {games.map((p) => {
         const m = p.match;
-        const extra = [m.matchday ? `${L.w.matchday} ${m.matchday}` : m.stage ? `${L.w.matchStage}: ${m.stage}` : null, m.venue ? `${L.w.matchVenue}: ${m.venue}` : null].filter(Boolean);
+        const extra = [m.matchday ? `${L.w.matchday} ${m.matchday}` : m.stage ? `${L.w.matchStage}: ${L.w.matchStages[m.stage] || m.stage}` : null, m.venue ? `${L.w.matchVenue}: ${m.venue}` : null].filter(Boolean);
         return (
           <li class="match-card">
             <p class="match-comp">
