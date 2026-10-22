@@ -1,11 +1,11 @@
 {
-  "generated": "2026-10-22T09:25:57.522Z",
+  "generated": "2026-10-22T10:42:35.002Z",
   "today": "2026-10-22",
-  "events": 2340,
+  "events": 2370,
   "review": 7,
   "ai": {
-    "calls": 0,
-    "seconds": 48,
+    "calls": 13,
+    "seconds": 183,
     "tripped": false
   },
   "sources": [
@@ -60,7 +60,7 @@
     {
       "id": "prensa-lavanguardia-cultura",
       "status": "ok",
-      "count": 22,
+      "count": 23,
       "candidatos": true
     },
     {
@@ -72,7 +72,7 @@
     {
       "id": "prensa-heraldo-ocio",
       "status": "ok",
-      "count": 16,
+      "count": 17,
       "candidatos": true
     },
     {
@@ -96,7 +96,7 @@
     {
       "id": "prensa-ideal-culturas",
       "status": "ok",
-      "count": 32,
+      "count": 34,
       "candidatos": true
     },
     {
@@ -108,13 +108,13 @@
     {
       "id": "prensa-elcorreo-culturas",
       "status": "ok",
-      "count": 19,
+      "count": 21,
       "candidatos": true
     },
     {
       "id": "prensa-diariovasco-culturas",
       "status": "ok",
-      "count": 12,
+      "count": 14,
       "candidatos": true
     },
     {
@@ -144,7 +144,7 @@
     {
       "id": "prensa-larioja-culturas",
       "status": "ok",
-      "count": 10,
+      "count": 13,
       "candidatos": true
     },
     {

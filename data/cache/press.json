@@ -3016,5 +3016,1100 @@
   ],
   "a_cubierto": true,
   "confianza": 0.85
+ },
+ "05e9e5772f": {
+  "url": "https://www.20minutos.es/artes/un-baritono-expulsado-opera-calgary-tras-mostrar-una-bandera-palestina-ningun-arrepentimiento_7051844_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-10-22",
+  "es_plan": false
+ },
+ "ff8410b52a": {
+  "url": "https://www.20minutos.es/cultura/solo-goya-arte-ver-rey-mendigo-un-recorrido-40-cuadros-por-las-luces-las-sombras-sociedad-museo-goya_7051546_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-10-22",
+  "es_plan": false
+ },
+ "64fc1724c0": {
+  "url": "https://www.20minutos.es/libros/dolores-redondo-boom-editorial-otono-mi-no-me-interesa-que-mis-novelas-sean-las-mas-vendidas-sino-las-mas-amadas_7051520_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-10-22",
+  "es_plan": false
+ },
+ "d44824db5a": {
+  "url": "https://elpais.com/cultura/2026-10-22/lori-meyers-supervivientes-de-un-indie-que-ya-desaparecio-somos-currelas-de-los-festivales.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-10-22",
+  "es_plan": false
+ },
+ "22c1c00b51": {
+  "url": "https://elpais.com/cultura/2026-10-22/art-basel-paris-el-mercado-del-arte-se-prueba-a-si-mismo-en-una-ciudad-en-llamas.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-10-22",
+  "es_plan": false
+ },
+ "dc6fce1020": {
+  "url": "https://elpais.com/cultura/2026-10-22/paco-rabal-la-memoria-de-una-leyenda-a-traves-de-su-propia-voz.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-10-22",
+  "es_plan": true,
+  "titulo": "Estreno del documental '200 vidas. Paco Rabal' en cines",
+  "resumen": "Llega a los cines el documental '200 vidas. Paco Rabal', dirigido por Vanesa Benítez. La película reconstruye la vida del icónico actor español a través de grabaciones y testimonios.",
+  "en": {
+   "titulo": "Premiere of the documentary '200 vidas. Paco Rabal' in cinemas",
+   "resumen": "The documentary '200 vidas. Paco Rabal', directed by Vanesa Benítez, is released in cinemas. The film reconstructs the life of the iconic Spanish actor through recordings and testimonies."
+  },
+  "inicio": "2026-10-23",
+  "fin": "2026-10-23",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "491b4112f6": {
+  "url": "https://elpais.com/cultura/2026-10-22/la-generacion-del-27-en-el-centro-de-la-18-edicion-del-festival-ene.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-10-22",
+  "es_plan": true,
+  "titulo": "Festival Eñe: La Generación del 27 y Polonia, protagonistas",
+  "resumen": "La 18ª edición del Festival Eñe se celebra en Madrid y Málaga, centrada en la Generación del 27 y con Polonia como país invitado. El festival ofrecerá más de 100 actividades culturales.",
+  "en": {
+   "titulo": "Eñe Festival: The Generation of '27 and Poland take center stage",
+   "resumen": "The 18th edition of the Eñe Festival will take place in Madrid and Malaga, focusing on the Generation of '27 with Poland as the guest country. The festival will feature over 100 cultural activities."
+  },
+  "inicio": "2026-11-04",
+  "fin": "2026-11-30",
+  "hora": null,
+  "lugar": null,
+  "municipio": "Madrid",
+  "provincia": "Madrid",
+  "ambito": "nacional",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "f11ba5dfa4": {
+  "url": "https://www.lavanguardia.com/cultura/20261022/11665325/festival-feroe-cancela-segunda-edicion-poca-venta-entradas.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-10-22",
+  "es_plan": false
+ },
+ "b97c182d57": {
+  "url": "https://www.lavanguardia.com/cultura/20261022/11665286/opera-cagliari-echa-papel-tosca-baritono-gabriel-sanchez-ortega-mostrar-bandera-palestina.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-10-22",
+  "es_plan": false
+ },
+ "aee3c01d21": {
+  "url": "https://www.lavanguardia.com/cultura/20261022/11664947/tolcachir-morganti-forest.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-10-22",
+  "es_plan": true,
+  "titulo": "Estreno de 'The forest' en España dentro del festival Temporada Alta",
+  "resumen": "La obra 'The forest', una fusión de teatro y danza de Claudio Tolcachir y Cristiana Morganti, se estrena en España en el Teatre de Salt. Forma parte del festival Temporada Alta.",
+  "en": {
+   "titulo": "Premiere of 'The forest' in Spain as part of the Temporada Alta festival",
+   "resumen": "The play 'The forest', a fusion of theater and dance by Claudio Tolcachir and Cristiana Morganti, premieres in Spain at the Teatre de Salt. It is part of the Temporada Alta festival."
+  },
+  "inicio": "2026-10-24",
+  "fin": "2026-10-25",
+  "hora": null,
+  "lugar": "Teatre de Salt",
+  "municipio": "Salt",
+  "provincia": "Girona",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "bb2f32ee4d": {
+  "url": "https://www.lavanguardia.com/cultura/20261022/11664816/indie-renueva-diez-bandas-abanderan-nueva-ola.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-10-22",
+  "es_plan": false
+ },
+ "192293626d": {
+  "url": "https://www.lavanguardia.com/cultura/20261022/11665078/arte-paris-insurrecto.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-10-22",
+  "es_plan": false
+ },
+ "47be5f727f": {
+  "url": "https://www.lavanguardia.com/cultura/20261022/11665070/marinetti-i-puig-i-cadafalch.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-10-22",
+  "es_plan": false
+ },
+ "f992e2034e": {
+  "url": "https://llegim.ara.cat/actualitat/us-imagineu-mural-miquel-barcelo-anunciant-ametller-origen_1_5886330.html",
+  "fuente": "Ara (Cultura)",
+  "src": "prensa-ara-cultura",
+  "publicado": "2026-10-22",
+  "es_plan": true,
+  "titulo": "Carlota Gurt ofrece 6 conferencias en el barrio Gótico de Barcelona",
+  "resumen": "La escritora Carlota Gurt realizará 6 conferencias de 6 minutos cada una en distintos puntos del barrio Gótico de Barcelona. La actividad forma parte del ciclo 'Aparadors Artístics'.",
+  "en": {
+   "titulo": "Carlota Gurt offers 6 talks in Barcelona's Gothic Quarter",
+   "resumen": "Writer Carlota Gurt will give 6 talks, each lasting 6 minutes, at various locations in Barcelona's Gothic Quarter. This activity is part of the 'Aparadors Artístics' series."
+  },
+  "inicio": "2026-10-22",
+  "fin": "2026-10-22",
+  "hora": null,
+  "lugar": null,
+  "municipio": "Barcelona",
+  "provincia": "Barcelona",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "actividades",
+   "rutas"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "e7e83c7894": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/22/ernest-hemingway-famosa-reflexion-espana-pueblo-espanol-tiene-rasgo-comun-orgullo-tiene-otro-sentido-comun-2035874.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-10-22",
+  "es_plan": false
+ },
+ "804dff0f46": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/22/javier-benito-sala-conciertos-zaragoza-lata-bombillas-vio-crecer-love-of-lesbian-2061110.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-10-22",
+  "es_plan": false
+ },
+ "24b725d35d": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/22/superthings-una-pelicula-con-ritmazo-sobre-unos-munecos-espanoles-exito-mundial-2061745.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-10-22",
+  "es_plan": true,
+  "titulo": "Estreno de la película 'Superthings: La película'",
+  "resumen": "Se estrena este jueves la película de animación 'Superthings: La película', basada en los populares muñecos españoles creados por Magic Box, con voces de Ana Morgade y Brays Efe.",
+  "en": {
+   "titulo": "Premiere of the movie 'Superthings: The Movie'",
+   "resumen": "The animated film 'Superthings: The Movie', based on the popular Spanish toys created by Magic Box and featuring voices by Ana Morgade and Brays Efe, premieres this Thursday."
+  },
+  "inicio": "2026-10-24",
+  "fin": "2026-10-24",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "pantalla",
+   "ninos"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "85ed936a86": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/22/ciclo-mujeres-escena-regresa-teatro-las-esquinas-zaragoza-con-una-edicion-diez-2061633.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-10-22",
+  "es_plan": true,
+  "titulo": "Ciclo 'Mujeres a escena' en el Teatro de las Esquinas de Zaragoza",
+  "resumen": "El Teatro de las Esquinas de Zaragoza presenta el ciclo 'Mujeres a escena' durante noviembre, con cuatro montajes que visibilizan propuestas teatrales escritas y dirigidas por mujeres.",
+  "en": {
+   "titulo": "'Women on Stage' cycle at Zaragoza's Teatro de las Esquinas",
+   "resumen": "Zaragoza's Teatro de las Esquinas presents the 'Women on Stage' cycle during November, featuring four theatrical productions that highlight works written and directed by women."
+  },
+  "inicio": "2026-11-01",
+  "fin": "2026-11-30",
+  "hora": null,
+  "lugar": "Teatro de las Esquinas",
+  "municipio": "Zaragoza",
+  "provincia": "Zaragoza",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "30a69cc9c5": {
+  "url": "https://www.elnortedecastilla.es/culturas/musica/musica-voz-anos-213-triunfos-diferentes-20261022000657-ntrc.html",
+  "fuente": "El Norte de Castilla (Culturas)",
+  "src": "prensa-nortecastilla-culturas",
+  "publicado": "2026-10-22",
+  "es_plan": false
+ },
+ "fefa1b357f": {
+  "url": "https://www.elnortedecastilla.es/culturas/tv/rtve-estrena-guerra-programa-busca-ayudar-entender-20261022000551-ntrc.html",
+  "fuente": "El Norte de Castilla (Culturas)",
+  "src": "prensa-nortecastilla-culturas",
+  "publicado": "2026-10-22",
+  "es_plan": true,
+  "titulo": "Estreno de '¡Cuánta guerra!' en RTVE",
+  "resumen": "RTVE estrena el programa de investigación '¡Cuánta guerra!', conducido por Conchi Cejudo, que explora las historias familiares de la Guerra Civil.",
+  "en": {
+   "titulo": "Premiere of '¡Cuánta guerra!' on RTVE",
+   "resumen": "RTVE premieres the investigative program '¡Cuánta guerra!', hosted by Conchi Cejudo, which explores family histories from the Spanish Civil War."
+  },
+  "inicio": "2026-10-22",
+  "fin": "2026-10-22",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "pantalla",
+   "libros"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "9ebdcf176a": {
+  "url": "https://www.diariosur.es/culturas/carmen-thyssen-subasta-cuadro-hopper-estrella-exposicion-20261021054506-nt.html",
+  "fuente": "Diario Sur (Culturas)",
+  "src": "prensa-diariosur-culturas",
+  "publicado": "2026-10-22",
+  "es_plan": false
+ },
+ "51976661f6": {
+  "url": "https://www.ideal.es/culturas/junta-andalucia-entra-consorcio-granada-2031-eleva-20261022113634-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-10-22",
+  "es_plan": false
+ },
+ "5c5cd58195": {
+  "url": "https://www.ideal.es/culturas/almeria/ruta-ciencia-encara-recta-final-llega-berja-20261022112935-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-10-22",
+  "es_plan": true,
+  "titulo": "La 'Ruta de la Ciencia' llega a Berja",
+  "resumen": "La muestra itinerante 'Ruta de la Ciencia', que acerca la investigación de la UAL, estará disponible en la Biblioteca Municipal Miguel de Cervantes de Berja hasta el 29 de octubre.",
+  "en": {
+   "titulo": "'Science Route' arrives in Berja",
+   "resumen": "The traveling exhibition 'Science Route', which showcases research from the UAL, will be available at the Miguel de Cervantes Municipal Library in Berja until October 29th."
+  },
+  "inicio": "2026-10-22",
+  "fin": "2026-10-29",
+  "hora": null,
+  "lugar": "Biblioteca Municipal Miguel de Cervantes",
+  "municipio": "Berja",
+  "provincia": "Almería",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "2aec22a428": {
+  "url": "https://www.ideal.es/culturas/diputacion-ftl-presentan-cartel-final-iii-circuito-20261022090621-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-10-22",
+  "es_plan": true,
+  "titulo": "Final del III Circuito Provincial de novilladas en Huéscar",
+  "resumen": "La final del III Circuito Provincial de novilladas sin picadores se celebrará este sábado en la Plaza de Huéscar, con la participación de seis novilleros.",
+  "en": {
+   "titulo": "Final of the 3rd Provincial Novillada Circuit in Huéscar",
+   "resumen": "The final of the 3rd Provincial Novillada Circuit (without picadors) will take place this Saturday at the Huéscar Bullring, featuring six young bullfighters."
+  },
+  "inicio": "2026-10-24",
+  "fin": "2026-10-24",
+  "hora": null,
+  "lugar": "Plaza de Huéscar",
+  "municipio": "Huéscar",
+  "provincia": "Granada",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "deporte",
+   "cultura"
+  ],
+  "a_cubierto": false,
+  "confianza": 0.9
+ },
+ "222a177db4": {
+  "url": "https://www.ideal.es/culturas/fallecio-octubre-1936-20261022154928-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-10-22",
+  "es_plan": false
+ },
+ "b144c99bd3": {
+  "url": "https://www.elcorreo.com/culturas/musica/alex-sardui-resucita-exkixu-concierto-bilbao-arena-20261022114904-nt.html",
+  "fuente": "El Correo (Culturas)",
+  "src": "prensa-elcorreo-culturas",
+  "publicado": "2026-10-22",
+  "es_plan": true,
+  "titulo": "Concierto de Exkixu en el Bilbao Arena",
+  "resumen": "La banda Exkixu, legendaria de Gernika, regresa a los escenarios tras 30 años para ofrecer un concierto en el Bilbao Arena el próximo abril.",
+  "en": {
+   "titulo": "Exkixu concert at Bilbao Arena",
+   "resumen": "The legendary band Exkixu from Gernika returns to the stage after 30 years for a concert at the Bilbao Arena next April."
+  },
+  "inicio": "2027-04-01",
+  "fin": "2027-04-01",
+  "hora": null,
+  "lugar": "Bilbao Arena",
+  "municipio": "Bilbao",
+  "provincia": "Bizkaia",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "23b13defc8": {
+  "url": "https://www.elcorreo.com/culturas/arte/escoltas-zugaza-20261004004729-nt.html",
+  "fuente": "El Correo (Culturas)",
+  "src": "prensa-elcorreo-culturas",
+  "publicado": "2026-10-22",
+  "es_plan": false
+ },
+ "c3bfb7d677": {
+  "url": "https://www.elcorreo.com/culturas/tv/parrilla-septima-sarah-santaolalla-tardes-alba-carrillo-20261022095823-nt.html",
+  "fuente": "El Correo (Culturas)",
+  "src": "prensa-elcorreo-culturas",
+  "publicado": "2026-10-22",
+  "es_plan": true,
+  "titulo": "Estreno de la cadena de TDT La Séptima",
+  "resumen": "La nueva cadena de televisión TDT 'La Séptima' comenzará sus emisiones el próximo 5 de noviembre, con Sarah Santaolalla en las tardes y Alba Carrillo los fines de semana.",
+  "en": {
+   "titulo": "Premiere of the DTT channel La Séptima",
+   "resumen": "The new DTT television channel 'La Séptima' will begin broadcasting on November 5th, featuring Sarah Santaolalla in the afternoons and Alba Carrillo on weekends."
+  },
+  "inicio": "2026-11-05",
+  "fin": "2026-11-05",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "pantalla",
+   "cultura"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "436e86187e": {
+  "url": "https://www.elcorreo.com/culturas/musica/flamencas-mercedes-ruiz-paca-rodriguez-macanita-actuan-20261022012938-nt.html",
+  "fuente": "El Correo (Culturas)",
+  "src": "prensa-elcorreo-culturas",
+  "publicado": "2026-10-22",
+  "es_plan": true,
+  "titulo": "Actuaciones flamencas en Bizkaia",
+  "resumen": "Las cantaoras Mercedes Ruiz, Paca Rodríguez y La Macanita ofrecerán tres espectáculos flamencos separados en Bizkaia durante el fin de semana.",
+  "en": {
+   "titulo": "Flamenco performances in Bizkaia",
+   "resumen": "Singers Mercedes Ruiz, Paca Rodríguez, and La Macanita will offer three separate flamenco shows in Bizkaia over the weekend."
+  },
+  "inicio": "2026-10-23",
+  "fin": "2026-10-25",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": "Bizkaia",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "aa46d24656": {
+  "url": "https://www.diariovasco.com/culturas/cine/pelicula-vasca-salitre-inaugurara-semana-terror-20261022122652-nt.html",
+  "fuente": "El Diario Vasco (Culturas)",
+  "src": "prensa-diariovasco-culturas",
+  "publicado": "2026-10-22",
+  "es_plan": true,
+  "titulo": "La película vasca 'Salitre' inaugura la Semana del Terror",
+  "resumen": "La película vasca 'Salitre' será la encargada de inaugurar la Semana del Terror. Los abonos salen a la venta este viernes y las entradas sueltas el lunes.",
+  "en": {
+   "titulo": "Basque film 'Salitre' to open the Terror Week",
+   "resumen": "The Basque film 'Salitre' will open the Terror Week festival. Passes go on sale this Friday, and individual tickets from next Monday."
+  },
+  "inicio": "2026-10-23",
+  "fin": "2026-10-23",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": "Gipuzkoa",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "d83c7f6998": {
+  "url": "https://www.diariovasco.com/culturas/musica/acceso-concierto-anastacia-donostia-control-personal-exhaustivo-20261022113646-nt.html",
+  "fuente": "El Diario Vasco (Culturas)",
+  "src": "prensa-diariovasco-culturas",
+  "publicado": "2026-10-22",
+  "es_plan": true,
+  "titulo": "Concierto de Anastacia en Donostia",
+  "resumen": "Anastacia ofrecerá un concierto en el Kursaal de Donostia. La apertura de puertas será excepcionalmente a las 18:30 horas.",
+  "en": {
+   "titulo": "Anastacia Concert in Donostia",
+   "resumen": "Anastacia will perform a concert at the Kursaal in Donostia. Doors will open exceptionally at 6:30 PM."
+  },
+  "inicio": "2026-10-22",
+  "fin": "2026-10-22",
+  "hora": "18:30",
+  "lugar": "Kursaal",
+  "municipio": "Donostia-San Sebastián",
+  "provincia": "Gipuzkoa",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "musica"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "70e36d916b": {
+  "url": "https://www.diariovasco.com/culturas/libros/eli-tolaretxipi-vida-pasado-siento-vez-libre-20261021191635-nt.html",
+  "fuente": "El Diario Vasco (Culturas)",
+  "src": "prensa-diariovasco-culturas",
+  "publicado": "2026-10-22",
+  "es_plan": false
+ },
+ "9e1c5ddcfa": {
+  "url": "https://www.lasprovincias.es/culturas/teatro/principal-apunta-arma-politica-20261021004855-nt.html",
+  "fuente": "Las Provincias (Culturas)",
+  "src": "prensa-lasprovincias-culturas",
+  "publicado": "2026-10-22",
+  "es_plan": false
+ },
+ "1b0116a499": {
+  "url": "https://www.lasprovincias.es/culturas/tv/punt-retransmitira-directo-encierros-taurinos-fira-donda-20261019005229-nt.html",
+  "fuente": "Las Provincias (Culturas)",
+  "src": "prensa-lasprovincias-culturas",
+  "publicado": "2026-10-22",
+  "es_plan": true,
+  "titulo": "Encierros taurinos de la Fira d'Onda",
+  "resumen": "À Punt retransmitirá en directo los encierros taurinos de la Fira d'Onda. Participarán toros de ganaderías de primer nivel.",
+  "en": {
+   "titulo": "Bullruns of the Fira d'Onda",
+   "resumen": "À Punt will broadcast live the bullruns of the Fira d'Onda. Bulls from top-tier ranches will participate."
+  },
+  "inicio": "2026-10-22",
+  "fin": "2026-10-24",
+  "hora": null,
+  "lugar": "Fira d'Onda",
+  "municipio": "Onda",
+  "provincia": "Castellón",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "fiestas",
+   "deporte"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "c0762ea372": {
+  "url": "https://www.laverdad.es/culturas/arde-bogota-abre-jueves-venta-general-entradas-20261022103522-nt.html",
+  "fuente": "La Verdad (Culturas)",
+  "src": "prensa-laverdad-culturas",
+  "publicado": "2026-10-22",
+  "es_plan": true,
+  "titulo": "Gira de Arde Bogotá en 2027",
+  "resumen": "Arde Bogotá iniciará la venta general de entradas para su gira de 2027. El grupo recorrerá 12 ciudades españolas entre mayo y septiembre.",
+  "en": {
+   "titulo": "Arde Bogotá Tour in 2027",
+   "resumen": "Arde Bogotá will start general ticket sales for their 2027 tour. The group will visit 12 Spanish cities between May and September."
+  },
+  "inicio": "2027-05-01",
+  "fin": "2027-09-30",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "musica"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.7
+ },
+ "575c0356e3": {
+  "url": "https://www.laverdad.es/culturas/artista-ceheginero-nicolas-maya-finalista-premio-bmw-20261022111608-nt.html",
+  "fuente": "La Verdad (Culturas)",
+  "src": "prensa-laverdad-culturas",
+  "publicado": "2026-10-22",
+  "es_plan": false
+ },
+ "6d2985831e": {
+  "url": "https://www.laverdad.es/culturas/feria-libro-murcia-bate-record-asistencia-20261021001448-nt.html",
+  "fuente": "La Verdad (Culturas)",
+  "src": "prensa-laverdad-culturas",
+  "publicado": "2026-10-22",
+  "es_plan": false
+ },
+ "6b4435779c": {
+  "url": "https://www.eldiariomontanes.es/culturas/lucia-mir-invita-galeria-mecha-detenerse-paisajes-20261022073359-nt.html",
+  "fuente": "El Diario Montañés (Culturas)",
+  "src": "prensa-diariomontanes-culturas",
+  "publicado": "2026-10-22",
+  "es_plan": true,
+  "titulo": "Exposición 'Paisajes Soñados' de Lucía Mir",
+  "resumen": "La Galería Mecha acoge la exposición 'Paisajes Soñados' de la artista ilicitana Lucía Mir, explorando vínculos entre memoria e imaginación.",
+  "en": {
+   "titulo": "'Dream Landscapes' Exhibition by Lucía Mir",
+   "resumen": "The Mecha Gallery hosts the exhibition 'Dream Landscapes' by artist Lucía Mir, exploring links between memory and imagination."
+  },
+  "inicio": "2026-10-23",
+  "fin": "2026-10-23",
+  "hora": null,
+  "lugar": "Galería Mecha",
+  "municipio": null,
+  "provincia": "Cantabria",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "b5ab37e85e": {
+  "url": "https://www.eldiariomontanes.es/culturas/cafe-artes-lleva-escena-limites-dos-propuestas-20261022073350-nt.html",
+  "fuente": "El Diario Montañés (Culturas)",
+  "src": "prensa-diariomontanes-culturas",
+  "publicado": "2026-10-22",
+  "es_plan": false
+ },
+ "c871087bdf": {
+  "url": "https://www.eldiariomontanes.es/culturas/artistas-cantabros-dia-muertos-estrenan-especiales-faro-20261022072429-nt.html",
+  "fuente": "El Diario Montañés (Culturas)",
+  "src": "prensa-diariomontanes-culturas",
+  "publicado": "2026-10-22",
+  "es_plan": true,
+  "titulo": "Especiales de Faro Santander: Día de Muertos",
+  "resumen": "Faro Santander celebra el Día de Muertos con un Altar inspirado en la Colección Gelman y un programa especial del 28 de octubre al 9 de noviembre.",
+  "en": {
+   "titulo": "Faro Santander Specials: Day of the Dead",
+   "resumen": "Faro Santander celebrates the Day of the Dead with an Altar inspired by the Gelman Collection and a special program from October 28 to November 9."
+  },
+  "inicio": "2026-10-28",
+  "fin": "2026-11-09",
+  "hora": null,
+  "lugar": "Faro Santander",
+  "municipio": "Santander",
+  "provincia": "Cantabria",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "fiestas",
+   "museos"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "90484f6614": {
+  "url": "https://www.larioja.com/culturas/musica/grupo-rock-duro-stereo-logrono-20261022115341-nt.html",
+  "fuente": "La Rioja (Culturas)",
+  "src": "prensa-larioja-culturas",
+  "publicado": "2026-10-22",
+  "es_plan": true,
+  "titulo": "Conciertos de Rock en el Stereo",
+  "resumen": "El recinto Stereo de Logroño acoge conciertos de rock este viernes con Duro y Cuarentena, y el sábado con Naked Eva y Protocolo Snob.",
+  "en": {
+   "titulo": "Rock Concerts at Stereo",
+   "resumen": "The Stereo venue in Logroño hosts rock concerts this Friday with Duro y Cuarentena, and on Saturday with Naked Eva and Protocolo Snob."
+  },
+  "inicio": "2026-10-23",
+  "fin": "2026-10-24",
+  "hora": null,
+  "lugar": "Stereo",
+  "municipio": "Logroño",
+  "provincia": "La Rioja",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "40aa747b4c": {
+  "url": "https://www.larioja.com/culturas/musica/sala-fundicion-celebra-cinco-anos-musica-directo-20261021175206-nt.html",
+  "fuente": "La Rioja (Culturas)",
+  "src": "prensa-larioja-culturas",
+  "publicado": "2026-10-22",
+  "es_plan": true,
+  "titulo": "Aniversario de la sala Fundición",
+  "resumen": "La sala Fundición celebra su quinto aniversario con conciertos que se extenderán hasta este domingo.",
+  "en": {
+   "titulo": "Fundición Venue's Anniversary",
+   "resumen": "The Fundición venue celebrates its fifth anniversary with concerts running until this Sunday."
+  },
+  "inicio": "2026-10-22",
+  "fin": "2026-10-25",
+  "hora": null,
+  "lugar": "Sala Fundición",
+  "municipio": null,
+  "provincia": "La Rioja",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "ebd2377e4f": {
+  "url": "https://www.larioja.com/culturas/agenda-cultural-rioja-octubre-20261015113024-nt.html",
+  "fuente": "La Rioja (Culturas)",
+  "src": "prensa-larioja-culturas",
+  "publicado": "2026-10-22",
+  "es_plan": true,
+  "titulo": "Agenda cultural de La Rioja (22-25 Oct)",
+  "resumen": "La Rioja ofrece música con Vivaldi y 'El lago de los cisnes', teatro en el Bretón y microteatro en Calahorra entre el 22 y 25 de octubre.",
+  "en": {
+   "titulo": "Cultural Agenda of La Rioja (Oct 22-25)",
+   "resumen": "La Rioja offers music with Vivaldi and 'Swan Lake', theater at Bretón, and micro-theater in Calahorra between October 22 and 25."
+  },
+  "inicio": "2026-10-22",
+  "fin": "2026-10-25",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": "La Rioja",
+  "ambito": "nacional",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "musica",
+   "libros"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "c3c38b2622": {
+  "url": "https://www.larioja.com/culturas/intercambio-coral-iglesia-santa-maria-palacio-logrono-20261022112758-nt.html",
+  "fuente": "La Rioja (Culturas)",
+  "src": "prensa-larioja-culturas",
+  "publicado": "2026-10-22",
+  "es_plan": true,
+  "titulo": "Intercambio coral en Logroño",
+  "resumen": "Las agrupaciones Cantemos y Mairu Abesbatza ofrecerán un intercambio coral conjunto este sábado a las 20:15 en la Iglesia de Palacio de Logroño.",
+  "en": {
+   "titulo": "Choral Exchange in Logroño",
+   "resumen": "The choirs Cantemos and Mairu Abesbatza will offer a joint choral exchange this Saturday at 8:15 PM in the Iglesia de Palacio in Logroño."
+  },
+  "inicio": "2026-10-24",
+  "fin": "2026-10-24",
+  "hora": "20:15",
+  "lugar": "Iglesia de Palacio",
+  "municipio": "Logroño",
+  "provincia": "La Rioja",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "4937f8e4a8": {
+  "url": "https://www.larioja.com/culturas/grupo-enigma-taller-sonoro-xii-festival-musica-20261022092020-nt.html",
+  "fuente": "La Rioja (Culturas)",
+  "src": "prensa-larioja-culturas",
+  "publicado": "2026-10-22",
+  "es_plan": true,
+  "titulo": "Festival de Música Contemporánea en La Rioja",
+  "resumen": "Rioja Filarmonía organiza el XII Festival de Música Contemporánea con tres conciertos y una charla del 23 de octubre al 28 de noviembre.",
+  "en": {
+   "titulo": "Contemporary Music Festival in La Rioja",
+   "resumen": "Rioja Filarmonía organizes the 12th Contemporary Music Festival with three concerts and a talk from October 23 to November 28."
+  },
+  "inicio": "2026-10-23",
+  "fin": "2026-11-28",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": "La Rioja",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "6fcfe59213": {
+  "url": "https://www.20minutos.es/libros/real-academia-avanza-sus-proyectos-edicion-24-su-diccionario-60-aniversario-cien-anos-soledad-generacion-27_7051708_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-10-21",
+  "es_plan": true,
+  "titulo": "Presentación de la 24ª edición del Diccionario de la Lengua Española en Madrid",
+  "resumen": "La Real Academia Española presenta la 24ª edición de su Diccionario de la Lengua Española y una versión accesible. El evento tendrá lugar en la sede de la institución en Madrid.",
+  "en": {
+   "titulo": "Presentation of the 24th edition of the Dictionary of the Spanish Language in Madrid",
+   "resumen": "The Royal Spanish Academy presents the 24th edition of its Dictionary of the Spanish Language and an accessible version. The event will take place at the institution's headquarters in Madrid."
+  },
+  "inicio": "2026-10-30",
+  "fin": "2026-10-30",
+  "hora": null,
+  "lugar": "Sede institucional",
+  "municipio": "Madrid",
+  "provincia": "Madrid",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "aced85f260": {
+  "url": "https://www.20minutos.es/musica/fallece-musico-artista-polifacetico-igor-arzuaga-los-48-anos_7051623_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-10-21",
+  "es_plan": false
+ },
+ "8244594d7d": {
+  "url": "https://www.20minutos.es/musica/musical-querido-evan-hansen-llega-madrid-con-una-historia-sobre-identidad-necesidad-encajar_7051592_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-10-21",
+  "es_plan": true,
+  "titulo": "El musical 'Querido Evan Hansen' se estrena en Madrid",
+  "resumen": "El Teatro Rialto de Madrid acoge el estreno del musical 'Querido Evan Hansen', una historia sobre la identidad y la necesidad de encajar, con música de los creadores de La La Land.",
+  "en": {
+   "titulo": "The musical 'Dear Evan Hansen' premieres in Madrid",
+   "resumen": "The Rialto Theatre in Madrid hosts the premiere of the musical 'Dear Evan Hansen', a story about identity and the need to fit in, with music by the creators of La La Land."
+  },
+  "inicio": "2026-10-22",
+  "fin": "2026-10-22",
+  "hora": null,
+  "lugar": "Teatro Rialto",
+  "municipio": "Madrid",
+  "provincia": "Madrid",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "35718e5aef": {
+  "url": "https://www.20minutos.es/libros/influencer-natalia-jimenez-relata-su-lucha-contra-cancer-su-libro-amor-plena-guerra_7051584_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-10-21",
+  "es_plan": true,
+  "titulo": "Presentación del libro 'Amor en plena guerra' de Natalia Jiménez en Madrid",
+  "resumen": "La influencer Natalia Jiménez presenta su nuevo libro 'Amor en plena guerra', un testimonio sobre su lucha contra el cáncer. La presentación tendrá lugar en Madrid.",
+  "en": {
+   "titulo": "Presentation of the book 'Amor en plena guerra' by Natalia Jiménez in Madrid",
+   "resumen": "Influencer Natalia Jiménez presents her new book 'Amor en plena guerra', a testimony about her fight against cancer. The presentation will take place in Madrid."
+  },
+  "inicio": "2026-11-07",
+  "fin": "2026-11-07",
+  "hora": null,
+  "lugar": null,
+  "municipio": "Madrid",
+  "provincia": "Madrid",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "2ff9adc782": {
+  "url": "https://elpais.com/cultura/2026-10-21/urtasun-califica-de-censura-intolerable-el-veto-ideologico-de-vox-al-cine-en-castilla-y-leon.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-10-21",
+  "es_plan": false
+ },
+ "1aa51d8e23": {
+  "url": "https://elpais.com/cultura/2026-10-21/llega-a-espana-querido-evan-hansen-el-musical-improbable-convertido-en-fenomeno-social-que-engancha-a-jovenes-y-profanos-del-genero.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-10-21",
+  "es_plan": true,
+  "titulo": "El musical 'Querido Evan Hansen' llega a Madrid",
+  "resumen": "El musical 'Querido Evan Hansen', un fenómeno social sobre el suicidio adolescente y la ansiedad, se estrena en el Teatro Rialto de Madrid.",
+  "en": {
+   "titulo": "The musical 'Dear Evan Hansen' arrives in Madrid",
+   "resumen": "The musical 'Dear Evan Hansen', a social phenomenon about teenage suicide and anxiety, premieres at the Rialto Theatre in Madrid."
+  },
+  "inicio": "2026-10-23",
+  "fin": "2026-10-23",
+  "hora": null,
+  "lugar": "Teatro Rialto",
+  "municipio": "Madrid",
+  "provincia": "Madrid",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "8c66676393": {
+  "url": "https://elpais.com/espana/catalunya/2026-10-21/exposicion-de-tiburones-en-cosmocaixa-necesitara-un-barco-mas-grande.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-10-21",
+  "es_plan": false
+ },
+ "32346ea704": {
+  "url": "https://www.lavanguardia.com/cultura/20261021/11664805/exposicion-reivindica-compromiso-social-legado-antibelicista-pau-casals.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-10-21",
+  "es_plan": true,
+  "titulo": "Exposición 'Pau Casals, música per la pau' en el Palau Robert",
+  "resumen": "El Palau Robert de Barcelona acoge la exposición gratuita 'Pau Casals, música per la pau', que reivindica el compromiso social y el legado antibelicista del músico.",
+  "en": {
+   "titulo": "Exhibition 'Pau Casals, Music for Peace' at Palau Robert",
+   "resumen": "The Palau Robert in Barcelona hosts the free exhibition 'Pau Casals, Music for Peace', which highlights the musician's social commitment and anti-war legacy."
+  },
+  "inicio": "2026-10-21",
+  "fin": "2027-01-10",
+  "hora": null,
+  "lugar": "Palau Robert",
+  "municipio": "Barcelona",
+  "provincia": "Barcelona",
+  "ambito": "local",
+  "gratis": true,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "musica",
+   "libros"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "c9d15890ac": {
+  "url": "https://www.lavanguardia.com/cultura/20261021/11664725/julian-barnes-premio-princesa-asturias-letras-galardon-brexit.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-10-21",
+  "es_plan": false
+ },
+ "3e0ac8e2db": {
+  "url": "https://www.lavanguardia.com/local/barcelones-nord/20261021/11663894/passage-insolit-vuelve-santa-coloma-16-espectaculos-tres-estrenos.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-10-21",
+  "es_plan": true,
+  "titulo": "Festival Passatge Insòlit en Santa Coloma de Gramenet",
+  "resumen": "La 21ª edición del festival Passatge Insòlit se celebra en Santa Coloma de Gramenet con 16 espectáculos de artes escénicas, incluyendo tres estrenos.",
+  "en": {
+   "titulo": "Passage Insòlit Festival in Santa Coloma de Gramenet",
+   "resumen": "The 21st edition of the Passatge Insòlit festival takes place in Santa Coloma de Gramenet with 16 performing arts shows, including three premieres."
+  },
+  "inicio": "2026-10-24",
+  "fin": "2026-10-25",
+  "hora": null,
+  "lugar": null,
+  "municipio": "Santa Coloma de Gramenet",
+  "provincia": "Barcelona",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "actividades",
+   "fiestas"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "b350fa259c": {
+  "url": "https://www.lavanguardia.com/cultura/20261021/11664600/preocupacion-vivienda-acoso-sexual-tematica-lgtbi-sacudiran-asian-film-festival-barcelona.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-10-21",
+  "es_plan": true,
+  "titulo": "Asian Film Festival Barcelona: foco en la India",
+  "resumen": "La 14ª edición del Asian Film Festival Barcelona proyectará más de 120 títulos, con una retrospectiva dedicada a la India, coincidiendo con el Año Dual España-India 2026.",
+  "en": {
+   "titulo": "Asian Film Festival Barcelona: focus on India",
+   "resumen": "The 14th edition of the Asian Film Festival Barcelona will screen over 120 titles, with a retrospective dedicated to India, coinciding with the Spain-India Dual Year 2026."
+  },
+  "inicio": "2026-10-22",
+  "fin": "2026-11-01",
+  "hora": null,
+  "lugar": null,
+  "municipio": "Barcelona",
+  "provincia": "Barcelona",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "19d3f86fd0": {
+  "url": "https://www.ara.cat/cultura/art/lluis-nacenta-museu-disseny-no-aiguabarreig-criteri_128_5885678.html",
+  "fuente": "Ara (Cultura)",
+  "src": "prensa-ara-cultura",
+  "publicado": "2026-10-21",
+  "es_plan": false
+ },
+ "ace36ca2bc": {
+  "url": "https://www.ara.cat/cultura/teatre/veles-s-inflaran-llegat-dagoll-dagom-torna-als-escenaris_1_5885729.html",
+  "fuente": "Ara (Cultura)",
+  "src": "prensa-ara-cultura",
+  "publicado": "2026-10-21",
+  "es_plan": true,
+  "titulo": "El musical 'Les veles s'inflaran!' de Dagoll Dagom se estrena en Martorell",
+  "resumen": "La compañía Enraona Teatre estrena 'Les veles s'inflaran!', un espectáculo que recupera momentos emblemáticos de los musicales de Dagoll Dagom, iniciando una gira por Cataluña.",
+  "en": {
+   "titulo": "The musical 'Les veles s'inflaran!' by Dagoll Dagom premieres in Martorell",
+   "resumen": "The company Enraona Teatre premieres 'Les veles s'inflaran!', a show that recovers emblematic moments from Dagoll Dagom's musicals, starting a tour through Catalonia."
+  },
+  "inicio": "2026-11-15",
+  "fin": "2026-11-15",
+  "hora": null,
+  "lugar": null,
+  "municipio": "Martorell",
+  "provincia": "Barcelona",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "cda6466690": {
+  "url": "https://llegim.ara.cat/actualitat/eider-rodriguez-veronica-raimo-primeres-confirmacions-festival-mot_25_5886268.html",
+  "fuente": "Ara (Cultura)",
+  "src": "prensa-ara-cultura",
+  "publicado": "2026-10-21",
+  "es_plan": true,
+  "titulo": "Festival MOT en Girona y Olot con Eider Rodríguez y Veronica Raimo",
+  "resumen": "El festival MOT celebrará su 13ª edición en Girona y Olot, con la participación de las escritoras Eider Rodríguez y Veronica Raimo, y girará en torno a la familia.",
+  "en": {
+   "titulo": "MOT Festival in Girona and Olot with Eider Rodríguez and Veronica Raimo",
+   "resumen": "The MOT festival will celebrate its 13th edition in Girona and Olot, featuring writers Eider Rodríguez and Veronica Raimo, and will focus on the theme of family."
+  },
+  "inicio": "2027-03-11",
+  "fin": "2027-03-13",
+  "hora": null,
+  "lugar": null,
+  "municipio": "Girona",
+  "provincia": "Girona",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "f037e3e45a": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/21/diego-ventura-tras-accidente-camion-sus-caballos-viniendo-zaragoza-quiero-agradecer-todos-los-mensajes-animo-2061651.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-10-21",
+  "es_plan": false
  }
 }

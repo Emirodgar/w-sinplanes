@@ -102,6 +102,26 @@
    ]
   },
   {
+   "term": "iñaki williams",
+   "traffic": 5000,
+   "lastSeen": "2026-10-22",
+   "news": [
+    "Iñaki Williams, sobre las palabras de Tainta: “El momento y las formas quizás no eran las adecuadas”",
+    "Tirón de orejas de Williams a Tainta por sus palabras sobre Nico: «No era quizá el momento ni las formas»",
+    "Iñaki Williams: “Nico ha demostrado que quiere estar en el Athletic y cumplir su contrato”"
+   ]
+  },
+  {
+   "term": "enric masip",
+   "traffic": 5000,
+   "lastSeen": "2026-10-22",
+   "news": [
+    "“Lo que hace el Madrid es una vergüenza y está maltratando a toda la competición”",
+    "Enric Masip: \"Lo que hace el Real Madrid es una vergüenza y está maltratando a toda la competición\"",
+    "Enric Masip, sobre Mourinho antes del Clásico: \"Siempre lanza dardos. Cosas raras es meterle el dedo en el ojo a un entrenador\""
+   ]
+  },
+  {
    "term": "santiago pedraz",
    "traffic": 2000,
    "lastSeen": "2026-10-20",
@@ -149,6 +169,26 @@
     "María Patiño pone a Marc Giró a hacer ejercicio: \"El perro boca abajo me va a gustar\"",
     "María Patiño vuelve a televisión en 'Cara al show': \"Ha sido una travesía por el desierto que no he sabido gestionar\"",
     "María Patiño: “Tenía un plan B, poner un negocio. Estaba viendo que funciona muy bien lo de las uñas. Yo no quiero ser una persona que invierta, quiero ejecutar”"
+   ]
+  },
+  {
+   "term": "arde bogota",
+   "traffic": 2000,
+   "lastSeen": "2026-10-22",
+   "news": [
+    "Venta general de entradas para los conciertos de Arde Bogotá en 2027: a qué hora empieza, precios y fechas",
+    "Cómo comprar las entradas para el concierto de Arde Bogotá en Sevilla: precios y cuándo salen",
+    "Arde Bogotá: Conciertos y residencia urbana en Cartagena"
+   ]
+  },
+  {
+   "term": "malas lenguas",
+   "traffic": 2000,
+   "lastSeen": "2026-10-22",
+   "news": [
+    "Gonzalo Miró y Esther Palomera se coronan en 'Malas Lenguas' de TVE con esta parodia sobre Ayuso y Milei",
+    "TVE blinda a Jesús Cintora, Gonzalo Miró y Marta Flich renovando sus formatos más allá de las elecciones",
+    "RTVE renueva sus programas más polémicos hasta más allá de las elecciones"
    ]
   },
   {
@@ -279,6 +319,16 @@
     "La colisión de dos turismos obliga a cortar la A-5 a la altura de Badajoz y provoca retenciones",
     "Un herido en un colisión entre dos coches en la A-5 a la altura de Badajoz",
     "Un accidente corta la A-5 en Badajoz: una persona herida tras quedar atrapada"
+   ]
+  },
+  {
+   "term": "base naval de rota",
+   "traffic": 1000,
+   "lastSeen": "2026-10-22",
+   "news": [
+    "El destructor de EEUU 'USS Paul Ignatius' regresa a la Base de Rota tras hundir una fragata con sus misiles en un ejercicio",
+    "La Base Naval de Rota, un polígono industrial para la Bahía: la huella económica de la presencia militar norteamericana",
+    "Seis destructores completan en Rota el escudo antimisiles de la Armada"
    ]
   },
   {
@@ -677,6 +727,56 @@
     "VOX nombra a Jordi de la Fuente candidato al Congreso por Tarragona",
     "Cambios quirúrgicos en unas listas continuistas: Vox garantiza a sus diputados puestos de salida y ficha de dentro para el 29-N",
     "Vox nombra candidato al Congreso por Tarragona a un neonazi acusado de un ataque racista a un centro de menores"
+   ]
+  },
+  {
+   "term": "maricarmen administradora unica",
+   "traffic": 200,
+   "lastSeen": "2026-10-22",
+   "news": [
+    "Maricarmen fue administradora única y luego consejera de una empresa dedicada a la «inversión en inmuebles»...",
+    "A ellos Maricarmen también les daba igual",
+    "Intensamente"
+   ]
+  },
+  {
+   "term": "resentimiento",
+   "traffic": 200,
+   "lastSeen": "2026-10-22",
+   "news": [
+    "Las personas que se mantienen calladas para evitar conflictos tienen una personalidad marcada por el resent...",
+    "Según la psicología, las personas que de chicos nunca llevaban la contra a sus padres suelen tener este problema de adultos",
+    "Katz en RDI: “Hay muchos resentimientos que está organizando la vida política en occidente”"
+   ]
+  },
+  {
+   "term": "alfonso serrano",
+   "traffic": 200,
+   "lastSeen": "2026-10-22",
+   "news": [
+    "\"La mayoría de verduleras que conozco están muy por encima de este nivel\": la reacción de Ferreras tras llamar Serrano (PP) \"verdulera\" a Bergerot (Más Madrid)",
+    "Alfonso Serrano grita a la oposición: \"Cállate ya, verdulera\"",
+    "Ayuso reprocha a la oposición no tener educación y 30 segundos más tarde su número dos llama \"verdulera\" a Manuela Bergerot"
+   ]
+  },
+  {
+   "term": "mar espinar",
+   "traffic": 200,
+   "lastSeen": "2026-10-22",
+   "news": [
+    "La portavoz del PSOE en Madrid vive en un piso público de la Universidad Rey Juan Carlos que solo pueden usar sus empleados y ella no lo es",
+    "La \"hipocresía de la izquierda\": Ayuso censura a Mar Espinar, que vive \"a precio de amigo\" en un piso público en Alcorcón",
+    "PSOE y Más Madrid borran la vivienda de su libreto contra Ayuso: \"Les importa una Mínguez\""
+   ]
+  },
+  {
+   "term": "playstation plus",
+   "traffic": 200,
+   "lastSeen": "2026-10-22",
+   "news": [
+    "Ya disponibles para descargar los 9 juegos de PlayStation Plus Extra y Premium, que incluyen Mafia: The Old Country",
+    "Mafia The Old Country, Horizon Forbidden West y Dino Crisis 2 lideran los nuevos juegos de PS Plus Extra y Premium en octubre de 2026",
+    "Los 9 juegos nuevos de PS Plus de octubre, a votación: Mafia: The Old Country, favorito"
    ]
   },
   {

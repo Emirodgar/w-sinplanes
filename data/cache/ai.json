@@ -1,4 +1,21 @@
 {
+ "1723011224": {
+  "id": "6f5e5a8232",
+  "es": {
+   "titulo": "Embajada de Hungría: Danzas Folclóricas",
+   "resumen": "Disfruta de danzas folclóricas húngaras interpretadas por el grupo Csúzai Csárdás. Un espectáculo que preserva las tradiciones y muestra la riqueza del folclore de la cuenca de los Cárpatos."
+  },
+  "en": {
+   "titulo": "Embassy of Hungary: Folk Dances",
+   "resumen": "Enjoy Hungarian folk dances performed by the Csúzai Csárdás group. A show that preserves traditions and showcases the richness of Carpathian Basin folklore."
+  },
+  "temas": [
+   "musica",
+   "cultura",
+   "fiestas"
+  ],
+  "a_cubierto": null
+ },
  "3665434669": {
   "id": "6d40a8b27d",
   "es": {
@@ -3185,5 +3202,1582 @@
    "cultura"
   ],
   "a_cubierto": null
+ },
+ "b0fe35783f": {
+  "id": "7c995dc2dc",
+  "es": {
+   "titulo": "Encuentro SER Ética: Salud, dinero y amor",
+   "resumen": "La Biblioteca Pública Municipal Eugenio Trías acoge el 4º Encuentro SER Ética, centrado en la salud, el dinero y el amor. Una jornada para reflexionar sobre estos pilares fundamentales de la vida."
+  },
+  "en": {
+   "titulo": "SER Ethics Encounter: Health, Money, and Love",
+   "resumen": "The Eugenio Trías Municipal Public Library hosts the 4th SER Ethics Encounter, focusing on health, money, and love. A session to reflect on these fundamental pillars of life."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "deb17f94f4": {
+  "id": "e841e3d6b9",
+  "es": {
+   "titulo": "Ruta guiada por el Barrio de los Jerónimos",
+   "resumen": "Descubre la influencia del Retiro y el Jardín Botánico en la arquitectura burguesa de Madrid. Un recorrido guiado por el Barrio de los Jerónimos con historias de sus vecinos ilustres. Requiere inscripción previa."
+  },
+  "en": {
+   "titulo": "Guided tour of the Jerónimos neighborhood",
+   "resumen": "Discover the influence of Retiro Park and the Botanical Garden on Madrid's bourgeois architecture. A guided tour of the Jerónimos neighborhood with stories of its notable residents. Prior registration required."
+  },
+  "temas": [
+   "cultura",
+   "rutas",
+   "parques"
+  ],
+  "a_cubierto": null
+ },
+ "2d1301104c": {
+  "id": "4848e99a86",
+  "es": {
+   "titulo": "Cine infantil: 'Shrek' en la Biblioteca María Lejárraga",
+   "resumen": "Disfruta de la película 'Shrek' en la Biblioteca Pública Municipal María Lejárraga. Una divertida aventura para toda la familia con entrada libre hasta completar aforo."
+  },
+  "en": {
+   "titulo": "Children's Cinema: 'Shrek' at María Lejárraga Library",
+   "resumen": "Enjoy the movie 'Shrek' at the María Lejárraga Municipal Public Library. A fun adventure for the whole family with free admission until capacity is reached."
+  },
+  "temas": [
+   "pantalla",
+   "ninos"
+  ],
+  "a_cubierto": true
+ },
+ "8940bcf4b3": {
+  "id": "bceb37305e",
+  "es": {
+   "titulo": "Collage Vivo + Puzle Mural en Villa de Vallecas",
+   "resumen": "Actividad artística en Villa de Vallecas que combina 'Collage Vivo' y 'Puzle Mural'. Una experiencia creativa para todos los públicos."
+  },
+  "en": {
+   "titulo": "Live Collage + Mural Puzzle in Villa de Vallecas",
+   "resumen": "An artistic activity in Villa de Vallecas combining 'Live Collage' and 'Mural Puzzle'. A creative experience for all audiences."
+  },
+  "temas": [
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "57eeae6d8f": {
+  "id": "f439fd9d2a",
+  "es": {
+   "titulo": "Creando una nueva vida: creatividad y recuperación",
+   "resumen": "La Biblioteca Pública Municipal Eugenio Trías organiza una sesión sobre creatividad y recuperación, titulada 'Creando una nueva vida'. Un espacio para la reflexión y el desarrollo personal."
+  },
+  "en": {
+   "titulo": "Creating a New Life: Creativity and Recovery",
+   "resumen": "The Eugenio Trías Municipal Public Library organizes a session on creativity and recovery, titled 'Creating a New Life'. A space for reflection and personal development."
+  },
+  "temas": [
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "0688831230": {
+  "id": "f9ace12874",
+  "es": {
+   "titulo": "Crossroads: El viaje circular de Boa Mistura",
+   "resumen": "La Cineteca Madrid presenta 'Crossroads', un documental sobre el colectivo artístico Boa Mistura y su impacto en comunidades de Sudáfrica y otros lugares. Incluye un encuentro con los artistas."
+  },
+  "en": {
+   "titulo": "Crossroads: Boa Mistura's Circular Journey",
+   "resumen": "Cineteca Madrid presents 'Crossroads', a documentary about the artistic collective Boa Mistura and its impact on communities in South Africa and elsewhere. Includes a meeting with the artists."
+  },
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": true
+ },
+ "702c68566d": {
+  "id": "bf893a30de",
+  "es": {
+   "titulo": "Danza: Beatriz de Paz y María José Oporto en GATADANS",
+   "resumen": "El XXIV Festival GATADANS presenta el ciclo 'Mujeres Creadoras' con las actuaciones de Beatriz de Paz y María José Oporto. Una muestra de danza contemporánea en el Centro Cultural Príncipe de Asturias."
+  },
+  "en": {
+   "titulo": "Dance: Beatriz de Paz and María José Oporto at GATADANS",
+   "resumen": "The XXIV GATADANS Dance Festival presents the 'Women Creators' cycle featuring performances by Beatriz de Paz and María José Oporto. A showcase of contemporary dance at the Príncipe de Asturias Cultural Center."
+  },
+  "temas": [
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "ed2eaff062": {
+  "id": "5b65dea411",
+  "es": {
+   "titulo": "Concierto 'De la opereta al vals' en Centro Cultural Zazuar",
+   "resumen": "Disfruta de un programa musical que viaja de la opereta al vals, con piezas de Strauss, Satie y Chaikovski, entre otros. Requiere reserva previa de entradas."
+  },
+  "en": {
+   "titulo": "'From Operetta to Waltz' Concert at Zazuar Cultural Center",
+   "resumen": "Enjoy a musical program that travels from operetta to waltz, featuring pieces by Strauss, Satie, and Tchaikovsky, among others. Advance ticket reservation required."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "d95c9f64bd": {
+  "id": "cd12657062",
+  "es": {
+   "titulo": "Concierto 'Del Caribe a la Patagonia' en Centro Cultural Zazuar",
+   "resumen": "Un recorrido musical desde el Caribe hasta la Patagonia con obras de Lecuona, Gardel, Villalobos y Guastavino. Requiere reserva previa de entradas."
+  },
+  "en": {
+   "titulo": "'From the Caribbean to Patagonia' Concert at Zazuar Cultural Center",
+   "resumen": "A musical journey from the Caribbean to Patagonia with works by Lecuona, Gardel, Villalobos, and Guastavino. Advance ticket reservation required."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "6bfb993fe9": {
+  "id": "ee4711299d",
+  "es": {
+   "titulo": "Recital flamenco 'Del corazón a la boca' con Jesús Corbacho",
+   "resumen": "El ganador de la Lámpara minera 2024, Jesús Corbacho, presenta su recital flamenco 'Del corazón a la boca' en el Centro Cultural El Pozo del tío Raimundo."
+  },
+  "en": {
+   "titulo": "Flamenco Recital 'From the Heart to the Mouth' with Jesús Corbacho",
+   "resumen": "The winner of the 2024 Lámpara minera, Jesús Corbacho, presents his flamenco recital 'From the Heart to the Mouth' at the El Pozo del tío Raimundo Cultural Center."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "a4b82b530a": {
+  "id": "5a539688ea",
+  "es": {
+   "titulo": "Jornada de deportes de raqueta para niños",
+   "resumen": "Actividad deportiva gratuita en el Parque Pradolongo para niños de 8 a 14 años, donde podrán conocer y practicar deportes de raqueta. Acceso libre, sin inscripción."
+  },
+  "en": {
+   "titulo": "Racquet sports day for children",
+   "resumen": "Free sports activity at Parque Pradolongo for children aged 8 to 14, where they can learn and practice racquet sports. Free access, no registration required."
+  },
+  "temas": [
+   "deporte",
+   "ninos"
+  ],
+  "a_cubierto": false
+ },
+ "e529a887dd": {
+  "id": "e48ebca251",
+  "es": {
+   "titulo": "Teatro: 'Desde el Churruca con humor'",
+   "resumen": "El Grupo de teatro Churruca presenta tres sainetes cómicos: 'La sinceridad', 'El inspector de Hacienda' y 'Madrileñas'. Una tarde de humor y situaciones cotidianas en el Centro Cultural Sara Montiel."
+  },
+  "en": {
+   "titulo": "Theater: 'From Churruca with Humor'",
+   "resumen": "The Churruca Theater Group presents three comedic one-act plays: 'Sincerity', 'The Tax Inspector', and 'Madrileñas'. An afternoon of humor and everyday situations at the Sara Montiel Cultural Center."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "24759b8c73": {
+  "id": "92dbecaaa7",
+  "es": {
+   "titulo": "Conferencia: Desmitificando al vampiro",
+   "resumen": "La Biblioteca Pública Municipal Francisco Ibáñez ofrece una conferencia sobre la evolución y los secretos del mito del vampiro. Una exploración cultural sobre estas fascinantes criaturas."
+  },
+  "en": {
+   "titulo": "Lecture: Demystifying the Vampire",
+   "resumen": "The Francisco Ibáñez Municipal Public Library offers a lecture on the evolution and secrets of the vampire myth. A cultural exploration of these fascinating creatures."
+  },
+  "temas": [
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": true
+ },
+ "98340697c9": {
+  "id": "b26cc9fa23",
+  "es": {
+   "titulo": "Cine: 'Deux femmes en or'",
+   "resumen": "Proyección de la película 'Deux femmes en or', que explora la búsqueda de la felicidad y la rebelión contra una sociedad rígida. Incluye coloquio con la directora."
+  },
+  "en": {
+   "titulo": "Cinema: 'Deux femmes en or'",
+   "resumen": "Screening of the film 'Deux femmes en or', which explores the search for happiness and rebellion against a rigid society. Includes a Q&A with the director."
+  },
+  "temas": [
+   "pantalla",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "3f1b46ec8e": {
+  "id": "1474d428f8",
+  "es": {
+   "titulo": "Sesión de DJ Plead en CondeDuque",
+   "resumen": "El Centro de Cultura Contemporánea CondeDuque presenta una sesión de música a cargo de DJ Plead. Una oportunidad para disfrutar de ritmos actuales en un espacio cultural de referencia."
+  },
+  "en": {
+   "titulo": "DJ Plead Session at CondeDuque",
+   "resumen": "The Conde Duque Contemporary Culture Center presents a music session by DJ Plead. An opportunity to enjoy current rhythms in a landmark cultural space."
+  },
+  "temas": [
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "0815351b28": {
+  "id": "01136b1f01",
+  "es": {
+   "titulo": "Cine: 'Don’t Call Me Mama'",
+   "resumen": "Proyección de 'Don’t Call Me Mama', un drama noruego sobre un romance clandestino y sus devastadoras consecuencias. Incluye coloquio con la directora Nina Knag."
+  },
+  "en": {
+   "titulo": "Cinema: 'Don’t Call Me Mama'",
+   "resumen": "Screening of 'Don’t Call Me Mama', a Norwegian drama about a clandestine romance and its devastating consequences. Includes a Q&A with director Nina Knag."
+  },
+  "temas": [
+   "pantalla",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "d97e5de47d": {
+  "id": "cdc3cc8c88",
+  "es": {
+   "titulo": "Demostración de acuarela 'Dos mundos en acuarela'",
+   "resumen": "José Luis Gil Lidó y Yolanda Díaz López ofrecen una demostración de pintura en acuarela y un encuentro con los artistas en el Centro Cultural Buenavista. Entrada libre."
+  },
+  "en": {
+   "titulo": "Watercolor demonstration 'Two Worlds in Watercolor'",
+   "resumen": "José Luis Gil Lidó and Yolanda Díaz López offer a watercolor painting demonstration and a meeting with the artists at the Buenavista Cultural Center. Free admission."
+  },
+  "temas": [
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "a42a0c6eb4": {
+  "id": "7575bcf441",
+  "es": {
+   "titulo": "Obra de teatro 'Duermen bajo las aguas'",
+   "resumen": "El Teatro Español presenta la obra 'Duermen bajo las aguas'. Una propuesta escénica que invita a la reflexión y al disfrute del arte dramático."
+  },
+  "en": {
+   "titulo": "Play: 'They Sleep Under the Waters'",
+   "resumen": "The Teatro Español presents the play 'They Sleep Under the Waters'. A theatrical production that invites reflection and enjoyment of dramatic art."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "70b1c34f04": {
+  "id": "924f77fb3e",
+  "es": {
+   "titulo": "Dúo Liquid Jazz: CANCELADA",
+   "resumen": "El concierto de Dúo Liquid Jazz, previsto en el Centro Cultural Benjamín Palencia, ha sido CANCELADO. Lamentamos las molestias."
+  },
+  "en": {
+   "titulo": "Duo Liquid Jazz: CANCELLED",
+   "resumen": "The Duo Liquid Jazz concert, scheduled at the Benjamín Palencia Cultural Center, has been CANCELLED. We apologize for any inconvenience."
+  },
+  "temas": [
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "dd76e692b5": {
+  "id": "a273112893",
+  "es": {
+   "titulo": "Dúo Lírico: El Género en el Canto",
+   "resumen": "Javier Blanco y Eva del Moral ofrecen un recorrido por los géneros del canto (ópera, zarzuela, etc.) con explicaciones narradas. Imprescindible reserva previa."
+  },
+  "en": {
+   "titulo": "Duo Lírico: Genre in Singing",
+   "resumen": "Javier Blanco and Eva del Moral offer a journey through singing genres (opera, zarzuela, etc.) with narrated explanations. Advance reservation essential."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "92bbcafd6c": {
+  "id": "596364bacf",
+  "es": {
+   "titulo": "Documental 'Durmiendo con lobos' en Cineteca Madrid",
+   "resumen": "La Cineteca Madrid proyecta 'Durmiendo con lobos', un documental sobre la búsqueda de lobos en libertad y la importancia de su conservación. Apta para todos los públicos."
+  },
+  "en": {
+   "titulo": "Documentary 'Sleeping with Wolves' at Cineteca Madrid",
+   "resumen": "Cineteca Madrid screens 'Sleeping with Wolves', a documentary about searching for wolves in the wild and the importance of their conservation. Suitable for all audiences."
+  },
+  "temas": [
+   "naturaleza",
+   "pantalla"
+  ],
+  "a_cubierto": true
+ },
+ "a7d53f632b": {
+  "id": "0fd112ec3e",
+  "es": {
+   "titulo": "Conferencia 'El arte y la muerte: la belleza de lo efímero'",
+   "resumen": "Explora cómo el arte ha representado el paso del tiempo y lo efímero en una conferencia en el Centro Cultural Galileo. Reserva de entrada una hora antes."
+  },
+  "en": {
+   "titulo": "Lecture 'Art and Death: The Beauty of the Ephemeral'",
+   "resumen": "Explore how art has represented the passage of time and the ephemeral in a lecture at the Galileo Cultural Center. Reserve your ticket one hour in advance."
+  },
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true
+ },
+ "61fb8292f4": {
+  "id": "b95c75ce19",
+  "es": {
+   "titulo": "Conferencia: El asesinato de Aristóteles",
+   "resumen": "Marcos Chicot presenta su última novela 'El asesinato de Aristóteles' en el Centro Cultural Sanchinarro. Una charla sobre historia antigua y literatura."
+  },
+  "en": {
+   "titulo": "Lecture: The Assassination of Aristotle",
+   "resumen": "Marcos Chicot presents his latest novel 'The Assassination of Aristotle' at the Sanchinarro Cultural Center. A talk on ancient history and literature."
+  },
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "0310a8c1a8": {
+  "id": "4bfdcd1b4e",
+  "es": {
+   "titulo": "Teatro infantil: 'El baúl del abuelo'",
+   "resumen": "Espectáculo infantil 'El baúl del abuelo' en el Centro Cultural Julio Cortázar. Revive los juegos de antaño con un actor y narrador. Intérprete de Lengua de Signos. Entrada gratuita previa reserva."
+  },
+  "en": {
+   "titulo": "Children's Theater: 'Grandfather's Trunk'",
+   "resumen": "Children's show 'Grandfather's Trunk' at the Julio Cortázar Cultural Center. Relive old-fashioned games with an actor and narrator. Sign language interpreter. Free entry with prior reservation."
+  },
+  "temas": [
+   "ninos",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "32c78911d8": {
+  "id": "5449010159",
+  "es": {
+   "titulo": "Espectáculo infantil 'El baúl viajero'",
+   "resumen": "El Teatro Municipal de Vallecas presenta 'El baúl viajero', un espectáculo para toda la familia con cuentos, magia y canciones sobre valores como la amistad y la tolerancia. A partir de 4 años."
+  },
+  "en": {
+   "titulo": "Children's Show: 'The Traveling Trunk'",
+   "resumen": "The Vallecas Municipal Theater presents 'The Traveling Trunk', a show for the whole family with stories, magic, and songs about values like friendship and tolerance. For ages 4 and up."
+  },
+  "temas": [
+   "ninos",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "3a50f08b94": {
+  "id": "4fb4efba35",
+  "es": {
+   "titulo": "El bosque suena: Taller musical en familia",
+   "resumen": "Sumérgete en un bosque lleno de sonidos y aventuras con este taller musical para toda la familia. A través de canciones, juegos y actividades, descubriréis la naturaleza y sus habitantes, fomentando la creatividad y el vínculo familiar."
+  },
+  "en": {
+   "titulo": "The Forest Sounds: Family Music Workshop",
+   "resumen": "Immerse yourself in a forest full of sounds and adventures with this family music workshop. Through songs, games, and activities, you will discover nature and its inhabitants, fostering creativity and family bonding."
+  },
+  "temas": [
+   "ninos",
+   "naturaleza",
+   "musica"
+  ],
+  "a_cubierto": null
+ },
+ "d621358ddb": {
+  "id": "16ed79e6bc",
+  "es": {
+   "titulo": "El deshielo: Misterio en los Andes",
+   "resumen": "En un remoto hotel de los Andes, la amistad entre dos jóvenes se ve truncada por una misteriosa desaparición. La búsqueda de la desaparecida desentierra verdades ocultas en este drama chileno."
+  },
+  "en": {
+   "titulo": "The Thaw: Mystery in the Andes",
+   "resumen": "In a remote hotel in the Andes, the friendship between two young girls is cut short by a mysterious disappearance. The search for the missing girl unearths hidden truths in this Chilean drama."
+  },
+  "temas": [
+   "pantalla",
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "b12db5877f": {
+  "id": "07b6737358",
+  "es": {
+   "titulo": "El estigma del silencio: Documental sobre salud mental",
+   "resumen": "Este documental aborda la salud mental y el suicidio, temas a menudo silenciados. A través de testimonios y la visión de expertos, busca visibilizar y ofrecer esperanza para salvar vidas."
+  },
+  "en": {
+   "titulo": "The Stigma of Silence: Documentary on Mental Health",
+   "resumen": "This documentary addresses mental health and suicide, often silenced topics. Through testimonies and expert insights, it aims to raise awareness and offer hope for saving lives."
+  },
+  "temas": [
+   "pantalla",
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "fd2197aacc": {
+  "id": "9b7fcd3124",
+  "es": {
+   "titulo": "El gran show: Aventura musical para todos los públicos",
+   "resumen": "Leo y Miki emprenden una gira llena de canciones, cuentos y humor. Junto a sus amigos, descubrirán que los sueños se cumplen mejor en compañía en esta divertida aventura para toda la familia."
+  },
+  "en": {
+   "titulo": "The Great Show: Musical Adventure for All Audiences",
+   "resumen": "Leo and Miki embark on a tour full of songs, stories, and humor. Together with their friends, they will discover that dreams are best fulfilled in company in this fun adventure for the whole family."
+  },
+  "temas": [
+   "ninos",
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "f1b77415b7": {
+  "id": "ee788c011b",
+  "es": {
+   "titulo": "El hombre que sabía demasiado: Clásico de espionaje",
+   "resumen": "Una familia de vacaciones en Marruecos se ve envuelta en una trama de espionaje internacional tras el secuestro de su hijo. Una angustiosa pesadilla llena de suspense y giros inesperados."
+  },
+  "en": {
+   "titulo": "The Man Who Knew Too Much: Espionage Classic",
+   "resumen": "A family on vacation in Morocco gets caught up in an international espionage plot after their son is kidnapped. A suspenseful nightmare full of unexpected twists."
+  },
+  "temas": [
+   "pantalla",
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "b1f50c5195": {
+  "id": "78f8242c3a",
+  "es": {
+   "titulo": "El hospital de la caridad de Sevilla: Joya del barroco",
+   "resumen": "Descubre el Hospital de la Santa Caridad de Sevilla, una impresionante joya del barroco del siglo XVII. Una visita que te preparará para la exposición en el Conde Duque."
+  },
+  "en": {
+   "titulo": "The Charity Hospital of Seville: Baroque Jewel",
+   "resumen": "Discover the Hospital de la Santa Caridad in Seville, an impressive 17th-century Baroque jewel. This visit will prepare you for the exhibition at the Conde Duque."
+  },
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": null
+ },
+ "7e42ed75a3": {
+  "id": "8191055200",
+  "es": {
+   "titulo": "El instante es semilla viva",
+   "resumen": "Una propuesta en CentroCentro."
+  },
+  "en": {
+   "titulo": "The Moment is a Living Seed",
+   "resumen": "A proposal at CentroCentro."
+  },
+  "temas": [],
+  "a_cubierto": null
+ },
+ "fb9cd7a320": {
+  "id": "1088054d5c",
+  "es": {
+   "titulo": "El irreal Valerio",
+   "resumen": "Una proyección en la Cineteca Madrid."
+  },
+  "en": {
+   "titulo": "The Unreal Valerio",
+   "resumen": "A screening at Cineteca Madrid."
+  },
+  "temas": [
+   "pantalla"
+  ],
+  "a_cubierto": null
+ },
+ "77078e29b0": {
+  "id": "9ce8d4ce20",
+  "es": {
+   "titulo": "El libro del buen amor: Comedia musical moderna",
+   "resumen": "El Arcipreste de Hita regresa en esta comedia musical que mezcla humor, canciones y el clásico texto. Un viaje delirante por las contradicciones humanas, ideal para mayores de 16 años."
+  },
+  "en": {
+   "titulo": "The Book of Good Love: Modern Musical Comedy",
+   "resumen": "The Archpriest of Hita returns in this musical comedy blending humor, songs, and the classic text. A wild journey through human contradictions, recommended for ages 16 and up."
+  },
+  "temas": [
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": null
+ },
+ "81b06d49c6": {
+  "id": "070d5d3c06",
+  "es": {
+   "titulo": "El nudo gordiano",
+   "resumen": "Una obra de teatro en el Teatro Español."
+  },
+  "en": {
+   "titulo": "The Gordian Knot",
+   "resumen": "A theater play at Teatro Español."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "bda3505a2b": {
+  "id": "6524d9d435",
+  "es": {
+   "titulo": "El país de todos contentos: Títeres sobre integración",
+   "resumen": "Una historia de títeres sobre un reino feliz amenazado por un pirata envidioso. Una obra que, con risas y clown, habla de integración, igualdad y empatía para todos los públicos."
+  },
+  "en": {
+   "titulo": "The Land of All Happy: Puppets on Integration",
+   "resumen": "A puppet show about a happy kingdom threatened by an envious pirate. Through laughter and a clown, this play addresses integration, equality, and empathy for all audiences."
+  },
+  "temas": [
+   "ninos",
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "618b0c378f": {
+  "id": "bae3efbfa3",
+  "es": {
+   "titulo": "El pueblo, con la compañía Tralart: Misterio y desconfianza",
+   "resumen": "En un pueblo donde nada es lo que parece, el miedo se apodera de los habitantes tras extraños sucesos. Una tragicomedia que mezcla misterio e intriga, basada en el juego del 'pueblo duerme'."
+  },
+  "en": {
+   "titulo": "The Village, with Tralart Company: Mystery and Mistrust",
+   "resumen": "In a village where nothing is as it seems, fear grips the inhabitants after strange events. A tragicomedy blending mystery and intrigue, based on the 'werewolf' game."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "2ebd07fa18": {
+  "id": "86ae2906f0",
+  "es": {
+   "titulo": "El suelo. Un paseo por la vida: Exposición sobre el ecosistema",
+   "resumen": "Explora la importancia vital del suelo, un ecosistema esencial para la vida en la Tierra. La exposición detalla su formación, estructura y funciones, destacando su relevancia para la sociedad."
+  },
+  "en": {
+   "titulo": "The Soil. A Walk Through Life: Exhibition on the Ecosystem",
+   "resumen": "Explore the vital importance of soil, an ecosystem essential for life on Earth. The exhibition details its formation, structure, and functions, highlighting its relevance to society."
+  },
+  "temas": [
+   "naturaleza",
+   "parques",
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "04cb3c9277": {
+  "id": "c208b2f659",
+  "es": {
+   "titulo": "El sueño: Encuentro onírico de artistas",
+   "resumen": "Un encuentro imaginario entre Camille Claudel y Alberto Giacometti explora la inmortalidad de la obra, el oficio y los miedos del artista en un espacio poético y onírico."
+  },
+  "en": {
+   "titulo": "The Dream: Dreamlike Encounter of Artists",
+   "resumen": "An imaginary meeting between Camille Claudel and Alberto Giacometti explores the immortality of art, the craft, and the artist's fears in a poetic and dreamlike space."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "deafd9c3ef": {
+  "id": "3e888dffd0",
+  "es": {
+   "titulo": "El tango de Marilyn: Monólogo cómico y musical",
+   "resumen": "Un hilarante monólogo narra el viaje de una protagonista desde Buenos Aires a Las Vegas, compartiendo anécdotas de tango y éxitos que la llevaron a convertirse en Marilyn."
+  },
+  "en": {
+   "titulo": "Marilyn's Tango: Comedic and Musical Monologue",
+   "resumen": "A hilarious monologue recounts a protagonist's journey from Buenos Aires to Las Vegas, sharing tango anecdotes and hits that led her to become Marilyn."
+  },
+  "temas": [
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": null
+ },
+ "70139e0035": {
+  "id": "765a5da180",
+  "es": {
+   "titulo": "El voluntariado viene a ti: Información y orientación",
+   "resumen": "Personas mayores de 16 años interesadas en el voluntariado recibirán información y orientación sobre oportunidades y el programa municipal 'Voluntarios por Madrid'."
+  },
+  "en": {
+   "titulo": "Volunteering Comes to You: Information and Guidance",
+   "resumen": "Individuals over 16 interested in volunteering will receive information and guidance on opportunities and the municipal program 'Volunteers for Madrid'."
+  },
+  "temas": [
+   "actividades"
+  ],
+  "a_cubierto": null
+ },
+ "43d3d3c0ec": {
+  "id": "45888a8836",
+  "es": {
+   "titulo": "Elements of(f) Balance: Documental sobre ecosistemas",
+   "resumen": "Este documental explora ecosistemas poco conocidos y propone formas alternativas de habitar el mundo, basadas en la interdependencia y la cooperación, invitando a repensar nuestra relación con la naturaleza."
+  },
+  "en": {
+   "titulo": "Elements of(f) Balance: Documentary on Ecosystems",
+   "resumen": "This documentary explores little-known ecosystems and proposes alternative ways of inhabiting the world, based on interdependence and cooperation, inviting a rethink of our relationship with nature."
+  },
+  "temas": [
+   "naturaleza",
+   "pantalla"
+  ],
+  "a_cubierto": null
+ },
+ "84caa043ac": {
+  "id": "b77e712f3b",
+  "es": {
+   "titulo": "Elena Jiménez",
+   "resumen": "Una propuesta en CentroCentro."
+  },
+  "en": {
+   "titulo": "Elena Jiménez",
+   "resumen": "A proposal at CentroCentro."
+  },
+  "temas": [],
+  "a_cubierto": null
+ },
+ "81dd82f80f": {
+  "id": "a596e1e7e5",
+  "es": {
+   "titulo": "Elogio de la Sombra: Fotografía noir y postindustrial",
+   "resumen": "Explora atmósferas inquietantes y poéticas a través de fotografías que transitan entre el urban noir y la estética postindustrial, convirtiendo lo cotidiano en escenarios evocadores."
+  },
+  "en": {
+   "titulo": "In Praise of Shadow: Noir and Post-Industrial Photography",
+   "resumen": "Explore unsettling and poetic atmospheres through photographs that move between urban noir and post-industrial aesthetics, transforming the everyday into evocative scenes."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "0dfd7b7add": {
+  "id": "82378af20a",
+  "es": {
+   "titulo": "En Punto: Dúo de guitarras con repertorio diverso",
+   "resumen": "Un dúo de guitarras investiga y presenta un repertorio variado de diferentes épocas y estilos, incluyendo obras originales y adaptaciones de compositores españoles, franceses y sudamericanos."
+  },
+  "en": {
+   "titulo": "En Punto: Guitar Duo with Diverse Repertoire",
+   "resumen": "A guitar duo researches and presents a varied repertoire from different eras and musical styles, including original works and adaptations by Spanish, French, and South American composers."
+  },
+  "temas": [
+   "musica"
+  ],
+  "a_cubierto": null
+ },
+ "14e81aa343": {
+  "id": "69a5a10f28",
+  "es": {
+   "titulo": "Encontrados. Teatro Silfo: Exposición accesible",
+   "resumen": "Una exposición inédita en Madrid con piezas que incorporan códigos QR (NaviLens) para facilitar el acceso autónomo a la información y contenidos de la muestra."
+  },
+  "en": {
+   "titulo": "Found. Silfo Theater: Accessible Exhibition",
+   "resumen": "An unprecedented exhibition in Madrid featuring pieces with QR codes (NaviLens) to facilitate autonomous access to information and content."
+  },
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": null
+ },
+ "e896fddb0b": {
+  "id": "530b0b21e8",
+  "es": {
+   "titulo": "Encuentros para conversar en francés",
+   "resumen": "Un espacio para practicar y conversar en francés en la Biblioteca Pública Municipal José Hierro."
+  },
+  "en": {
+   "titulo": "Meetings to Converse in French",
+   "resumen": "A space to practice and converse in French at the José Hierro Municipal Public Library."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "23f43231ae": {
+  "id": "51cf34ffbb",
+  "es": {
+   "titulo": "Entre líneas y ciencia con el CSIC: 'Salud Global'",
+   "resumen": "Club de lectura que debate sobre ejercicio y cerebro, cambio global y la IA en medicina, con autores y expertos del CSIC. Se analizan temas de salud humana y planetaria."
+  },
+  "en": {
+   "titulo": "Between Lines and Science with CSIC: 'Global Health'",
+   "resumen": "A book club discussing exercise and the brain, global change, and AI in medicine with CSIC authors and experts. Topics of human and planetary health are analyzed."
+  },
+  "temas": [
+   "libros",
+   "naturaleza",
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "621395ddb2": {
+  "id": "da617bddda",
+  "es": {
+   "titulo": "Entre líneas y ciencia con el CSIC: 'Semillas, bulos y microplásticos'",
+   "resumen": "Club de lectura sobre la importancia de las semillas, desmentir bulos nutricionales y la presencia de microplásticos. Organizado por el CSIC y Bibliotecas Públicas."
+  },
+  "en": {
+   "titulo": "Between Lines and Science with CSIC: 'Seeds, Nutrition Myths, and Microplastics'",
+   "resumen": "A book club focusing on the importance of seeds, debunking nutrition myths, and the presence of microplastics. Organized by CSIC and Public Libraries."
+  },
+  "temas": [
+   "libros",
+   "naturaleza",
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "e6f92e4653": {
+  "id": "088be8c5c2",
+  "es": {
+   "titulo": "Club de lectura 'Universo' con el CSIC",
+   "resumen": "Explora el cosmos y la vida extraterrestre en este club de lectura organizado por el CSIC. Se debatirán libros sobre planetas, la detección de vida y la contaminación lumínica."
+  },
+  "en": {
+   "titulo": "CSIC's 'Universe' Reading Club",
+   "resumen": "Explore the cosmos and extraterrestrial life in this reading club organized by the CSIC. Books on planets, life detection, and light pollution will be discussed."
+  },
+  "temas": [
+   "cultura",
+   "libros",
+   "naturaleza"
+  ],
+  "a_cubierto": null
+ },
+ "e96cc3ef6e": {
+  "id": "a9092b3d46",
+  "es": {
+   "titulo": "Entrega del XVIII Premio de Microrrelatos",
+   "resumen": "Ceremonia de entrega del XVIII Premio de Microrrelatos en la Biblioteca Pública Municipal Iván de Vargas."
+  },
+  "en": {
+   "titulo": "XVIII Short Story Award Ceremony",
+   "resumen": "Award ceremony for the XVIII Short Story Prize at the Iván de Vargas Municipal Public Library."
+  },
+  "temas": [
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": null
+ },
+ "4c645ec290": {
+  "id": "9aa99efbba",
+  "es": {
+   "titulo": "Ruta del agua: de Legazpi a Hospital Doce de Octubre",
+   "resumen": "Participa en una ruta de senderismo urbano guiada de 5 km para conocer la gestión del agua en Madrid. Actividad para mayores de 18 años con inscripción previa."
+  },
+  "en": {
+   "titulo": "Water Route: From Legazpi to Hospital Doce de Octubre",
+   "resumen": "Join a guided 5 km urban hiking route to learn about water management in Madrid. Activity for adults (18+) with prior registration."
+  },
+  "temas": [
+   "rutas",
+   "agua",
+   "naturaleza"
+  ],
+  "a_cubierto": false
+ },
+ "925271dc36": {
+  "id": "a987499f2e",
+  "es": {
+   "titulo": "Erik Truffaz & Antonio Lizana: New Sketches of Spain",
+   "resumen": "Concierto de Erik Truffaz y Antonio Lizana en el Centro de Cultura Contemporánea CondeDuque."
+  },
+  "en": {
+   "titulo": "Erik Truffaz & Antonio Lizana: New Sketches of Spain",
+   "resumen": "Concert by Erik Truffaz and Antonio Lizana at the CondeDuque Contemporary Culture Center."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "19ceb97491": {
+  "id": "7dc30a5cc2",
+  "es": {
+   "titulo": "Escape room: El código de las palabras",
+   "resumen": "Jóvenes de 12 a 18 años pueden participar en este escape room en el Centro Sociocultural Montecarmelo. Deberán descifrar enigmas para encontrar libros secretos."
+  },
+  "en": {
+   "titulo": "Escape Room: The Code of Words",
+   "resumen": "Teens aged 12-18 can participate in this escape room at the Montecarmelo Sociocultural Center. They must decipher riddles to find secret books."
+  },
+  "temas": [
+   "cultura",
+   "libros",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "f204b33310": {
+  "id": "e6eed42550",
+  "es": {
+   "titulo": "Escape room: La cena misteriosa (Noche de Halloween)",
+   "resumen": "Jóvenes de 12 a 18 años participan en un escape room temático de Halloween en el Centro Cultural La Vaguada. Deberán resolver un misterio tras un apagón."
+  },
+  "en": {
+   "titulo": "Escape Room: The Mysterious Dinner (Halloween Night)",
+   "resumen": "Teens aged 12-18 participate in a Halloween-themed escape room at La Vaguada Cultural Center. They must solve a mystery after a blackout."
+  },
+  "temas": [
+   "cultura",
+   "actividades",
+   "fiestas"
+  ],
+  "a_cubierto": true
+ },
+ "4c22d17abb": {
+  "id": "949b0dbdc5",
+  "es": {
+   "titulo": "Escenario Joven CSKG (Octubre)",
+   "resumen": "Concierto gratuito de alumnos destacados del Centro Superior Katarina Gurska en el Centro Cultural Galileo. Disfruta de diversos estilos musicales."
+  },
+  "en": {
+   "titulo": "Young Stage CSKG (October)",
+   "resumen": "Free concert by outstanding students from the Katarina Gurska Higher Center at the Galileo Cultural Center. Enjoy diverse musical styles."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "f20bfecff7": {
+  "id": "093886697c",
+  "es": {
+   "titulo": "Escenario Joven CSKG (Noviembre)",
+   "resumen": "Concierto gratuito de alumnos destacados del Centro Superior Katarina Gurska en el Centro Cultural Galileo. Disfruta de diversos estilos musicales."
+  },
+  "en": {
+   "titulo": "Young Stage CSKG (November)",
+   "resumen": "Free concert by outstanding students from the Katarina Gurska Higher Center at the Galileo Cultural Center. Enjoy diverse musical styles."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "131b0e7ca2": {
+  "id": "5ea43ed24f",
+  "es": {
+   "titulo": "Escenario Joven CSKG (Noviembre)",
+   "resumen": "Concierto gratuito de alumnos destacados del Centro Superior Katarina Gurska en el Centro Cultural Galileo. Disfruta de diversos estilos musicales."
+  },
+  "en": {
+   "titulo": "Young Stage CSKG (November)",
+   "resumen": "Free concert by outstanding students from the Katarina Gurska Higher Center at the Galileo Cultural Center. Enjoy diverse musical styles."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "517edf28ee": {
+  "id": "a172f22841",
+  "es": {
+   "titulo": "Escenas de microteatro",
+   "resumen": "Microteatro en la Biblioteca Pública Municipal David Gistau."
+  },
+  "en": {
+   "titulo": "Micro-theater Scenes",
+   "resumen": "Micro-theater performances at the David Gistau Municipal Public Library."
+  },
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": null
+ },
+ "1a1cf6f253": {
+  "id": "daa68dc29f",
+  "es": {
+   "titulo": "Escenas de microteatro dramatizadas y teatralizadas",
+   "resumen": "La compañía Con Lorcura Teatro presenta lecturas dramatizadas de libros de actualidad, aptas para todos los públicos, en el Centro Cultural Buenavista."
+  },
+  "en": {
+   "titulo": "Dramatized and Theatricalized Micro-theater Scenes",
+   "resumen": "The Con Lorcura Teatro company presents dramatized readings of current books, suitable for all audiences, at the Buenavista Cultural Center."
+  },
+  "temas": [
+   "cultura",
+   "libros",
+   "pantalla"
+  ],
+  "a_cubierto": true
+ },
+ "f810b3646f": {
+  "id": "f0d580032c",
+  "es": {
+   "titulo": "Escribir mundos para recuperar el poder",
+   "resumen": "Actividad en Matadero Madrid sobre escritura y empoderamiento."
+  },
+  "en": {
+   "titulo": "Writing Worlds to Reclaim Power",
+   "resumen": "Activity at Matadero Madrid focused on writing and empowerment."
+  },
+  "temas": [
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": true
+ },
+ "7a32ffbcce": {
+  "id": "2e410b9929",
+  "es": {
+   "titulo": "Escritura compartida",
+   "resumen": "Actividad de escritura colaborativa en la Biblioteca Pública Municipal José Saramago."
+  },
+  "en": {
+   "titulo": "Shared Writing",
+   "resumen": "Collaborative writing activity at the José Saramago Municipal Public Library."
+  },
+  "temas": [
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": null
+ },
+ "dd0c24e6a5": {
+  "id": "f490da4432",
+  "es": {
+   "titulo": "Españolas en el Nuevo Mundo: Historias olvidadas",
+   "resumen": "Conferencia de Daniel Arveras sobre mujeres olvidadas en la historia de España en el Nuevo Mundo, en el Centro Cultural Sanchinarro."
+  },
+  "en": {
+   "titulo": "Spanish Women in the New World: Forgotten Stories",
+   "resumen": "Lecture by Daniel Arveras about forgotten women in the history of Spain in the New World, at the Sanchinarro Cultural Center."
+  },
+  "temas": [
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": true
+ },
+ "b65333c3ec": {
+  "id": "b8198d6cd3",
+  "es": {
+   "titulo": "Espectáculo de humor: 50 años de humor y amor con Tony Antonio",
+   "resumen": "Tony Antonio, humorista con 50 años de carrera, presenta un monólogo de humor blanco y anécdotas en el Centro Dotacional Integrado Arganzuela."
+  },
+  "en": {
+   "titulo": "Comedy Show: 50 Years of Humor and Love with Tony Antonio",
+   "resumen": "Tony Antonio, a comedian with 50 years of career, presents a clean humor monologue and anecdotes at the Arganzuela Integrated Center."
+  },
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": true
+ },
+ "c6d0ad8a6d": {
+  "id": "c5804cf3e2",
+  "es": {
+   "titulo": "Espectáculo teatral: 'Una hora con Nora'",
+   "resumen": "Monólogo tragicómico sobre la vida, el amor y la pérdida de una gata, interpretado por Almasy en el Centro Sociocultural Valle Inclán."
+  },
+  "en": {
+   "titulo": "Theatrical Show: 'An Hour with Nora'",
+   "resumen": "A tragicomic monologue about life, love, and the loss of a cat, performed by Almasy at the Valle Inclán Sociocultural Center."
+  },
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": true
+ },
+ "b6f4020858": {
+  "id": "7cd44a53d6",
+  "es": {
+   "titulo": "Esta copla es para ti: Concierto de Alberto Moreno",
+   "resumen": "Concierto del cantautor Alberto Moreno con una selección de coplas y canciones emotivas en el Centro Sociocultural Almirante Churruca."
+  },
+  "en": {
+   "titulo": "This Copla is for You: Alberto Moreno Concert",
+   "resumen": "Concert by singer-songwriter Alberto Moreno featuring a selection of emotional coplas and songs at the Almirante Churruca Sociocultural Center."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "b2ceed328b": {
+  "id": "87b72c56f4",
+  "es": {
+   "titulo": "Exposición de pintura: 'Estaciones'",
+   "resumen": "Exposición colectiva de pintura de paisaje con tinta china inspirada en el calendario tradicional chino, en la Junta Municipal de Usera."
+  },
+  "en": {
+   "titulo": "Painting Exhibition: 'Seasons'",
+   "resumen": "Collective exhibition of Chinese ink landscape paintings inspired by the traditional Chinese calendar, at the Usera Municipal Board."
+  },
+  "temas": [
+   "cultura",
+   "naturaleza"
+  ],
+  "a_cubierto": true
+ },
+ "3751b8cd69": {
+  "id": "619b061cfc",
+  "es": {
+   "titulo": "Este Madriz: Tributo a Leño",
+   "resumen": "Concierto tributo a la banda de rock urbano Leño en el Parque Cerro del Tío Pío, con la esencia del rock madrileño."
+  },
+  "en": {
+   "titulo": "Este Madriz: Tribute to Leño",
+   "resumen": "Tribute concert to the urban rock band Leño at Cerro del Tío Pío Park, capturing the essence of Madrid rock."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": false
+ },
+ "f3edc10116": {
+  "id": "c52ae6a97b",
+  "es": {
+   "titulo": "Exhibición 'Roma: ingeniería y artesanía'",
+   "resumen": "El Museo de San Isidro presenta una exhibición sobre la ingeniería y artesanía del mundo romano, incluyendo construcción de arcos y objetos cotidianos."
+  },
+  "en": {
+   "titulo": "Exhibition 'Rome: Engineering and Craftsmanship'",
+   "resumen": "The San Isidro Museum presents an exhibition on Roman engineering and craftsmanship, including arch construction and everyday objects."
+  },
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true
+ },
+ "47b0d09c0c": {
+  "id": "c218424557",
+  "es": {
+   "titulo": "Exhibición: hilado y torcido de lana",
+   "resumen": "Demostración de técnicas de hilado y torcido de lana en el Centro de Información y Educación Ambiental de Casa de Campo."
+  },
+  "en": {
+   "titulo": "Exhibition: Wool Spinning and Twisting",
+   "resumen": "Demonstration of wool spinning and twisting techniques at the Casa de Campo Environmental Information and Education Center."
+  },
+  "temas": [
+   "naturaleza",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "cd5df20b5f": {
+  "id": "bc6e60b697",
+  "es": {
+   "titulo": "Exposición colectiva 'Por amor al arte'",
+   "resumen": "Exposición colectiva de arte titulada 'Por amor al arte' en el Centro Cultural Miguel Hernández."
+  },
+  "en": {
+   "titulo": "Collective Exhibition 'For the Love of Art'",
+   "resumen": "Collective art exhibition titled 'For the Love of Art' at the Miguel Hernández Cultural Center."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "e8c762f3c1": {
+  "id": "10f450b47c",
+  "es": {
+   "titulo": "Exposición de acuarela: Los colores del agua",
+   "resumen": "Exposición de acuarelas titulada 'Los colores del agua' a cargo del Centro de Mayores Mirasierra en el Centro Cultural Alfredo Kraus."
+  },
+  "en": {
+   "titulo": "Watercolor Exhibition: The Colors of Water",
+   "resumen": "Watercolor exhibition titled 'The Colors of Water' by the Mirasierra Senior Center at the Alfredo Kraus Cultural Center."
+  },
+  "temas": [
+   "cultura",
+   "agua"
+  ],
+  "a_cubierto": true
+ },
+ "930347ec23": {
+  "id": "d425c1eda7",
+  "es": {
+   "titulo": "Exposición de Astrofotografía",
+   "resumen": "Exposición de fotografías astronómicas del Grupo de Fotografía Astronómica de la UPCM en el Centro Cultural San Francisco La Prensa."
+  },
+  "en": {
+   "titulo": "Astrophotography Exhibition",
+   "resumen": "Exhibition of astronomical photographs by the UPCM Astronomical Photography Group at the San Francisco La Prensa Cultural Center."
+  },
+  "temas": [
+   "cultura",
+   "naturaleza"
+  ],
+  "a_cubierto": true
+ },
+ "acf596c58e": {
+  "id": "0519925d20",
+  "es": {
+   "titulo": "Exposición de fotografía de bodegones",
+   "resumen": "Arantxa Forcada presenta fotografías de bodegones inspiradas en el siglo XVII, combinando técnica pictórica y estética barroca en el Espacio Cultural Núñez de Balboa."
+  },
+  "en": {
+   "titulo": "Still Life Photography Exhibition",
+   "resumen": "Arantxa Forcada presents still life photographs inspired by the 17th century, combining painterly technique and baroque aesthetics at the Núñez de Balboa Cultural Space."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "97c1ee1fed": {
+  "id": "39dfa51dd6",
+  "es": {
+   "titulo": "Exposición de talleres de pintura en el Centro Sociocultural Francisco Fatou",
+   "resumen": "Descubre las obras creadas por los grupos de adultos en los talleres de pintura del Centro Sociocultural Francisco Fatou. Una muestra del talento y la mirada artística de sus participantes."
+  },
+  "en": {
+   "titulo": "Painting Workshop Exhibition at Francisco Fatou Sociocultural Center",
+   "resumen": "Discover the artworks created by adult groups in the painting workshops at the Francisco Fatou Sociocultural Center. A showcase of the talent and artistic vision of its participants."
+  },
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true
+ },
+ "40706defed": {
+  "id": "a91e09b5fc",
+  "es": {
+   "titulo": "Exposición de Pintura de Abel Garrido",
+   "resumen": "Exposición de pintura del artista Abel Garrido en el Centro Sociocultural San Cristóbal de los Ángeles."
+  },
+  "en": {
+   "titulo": "Painting Exhibition by Abel Garrido",
+   "resumen": "Painting exhibition by artist Abel Garrido at the San Cristóbal de los Ángeles Sociocultural Center."
+  },
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true
+ },
+ "df5a0f5520": {
+  "id": "ea8853e874",
+  "es": {
+   "titulo": "XXV Exposición de Pintura Colectiva 'Día del Socio'",
+   "resumen": "Participa en la XXV Exposición de Pintura Colectiva 'Día del Socio' organizada por la Asociación Nacional de Artistas 'Carmen Holgueras' en el Centro Sociocultural Eduardo Chillida."
+  },
+  "en": {
+   "titulo": "25th Collective Painting Exhibition 'Member's Day'",
+   "resumen": "Take part in the 25th Collective Painting Exhibition 'Member's Day' organized by the National Association of Artists 'Carmen Holgueras' at the Eduardo Chillida Sociocultural Center."
+  },
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true
+ },
+ "e096c4479b": {
+  "id": "f6a4df2c33",
+  "es": {
+   "titulo": "Exposición de pintura de J. Emilio Cuesta Cos en el Centro Cultural Buenavista",
+   "resumen": "Explora la obra pictórica de J. Emilio Cuesta Cos, que combina colores puros, superficies planas y geometría evocando al cubismo, en el Centro Cultural Buenavista."
+  },
+  "en": {
+   "titulo": "Painting Exhibition by J. Emilio Cuesta Cos at Buenavista Cultural Center",
+   "resumen": "Explore the pictorial work of J. Emilio Cuesta Cos at the Buenavista Cultural Center, featuring pure colors, flat surfaces, and geometry that subtly evokes cubism."
+  },
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true
+ },
+ "e460dd55f3": {
+  "id": "4e24e5f175",
+  "es": {
+   "titulo": "Exposición de pinturas de Rafael Díaz Maderuelo (2010-2026)",
+   "resumen": "Visita la exposición de pinturas de Rafael Díaz Maderuelo, que abarca obras realizadas entre 2010 y 2026, en el Centro Sociocultural Cánovas del Castillo. Entrada libre."
+  },
+  "en": {
+   "titulo": "Exhibition of Paintings by Rafael Díaz Maderuelo (2010-2026)",
+   "resumen": "Visit the exhibition of paintings by Rafael Díaz Maderuelo, featuring works from 2010 to 2026, at the Cánovas del Castillo Sociocultural Center. Free admission."
+  },
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true
+ },
+ "36f8569b4a": {
+  "id": "3f37f8f253",
+  "es": {
+   "titulo": "Exposición de pintura 'Abarcar el límite' de Marta Maldonado",
+   "resumen": "La pintora Marta Maldonado redefine los límites entre expansión y contención en su exposición 'Abarcar el límite', transformando el espacio expositivo en un mural infinito."
+  },
+  "en": {
+   "titulo": "Painting Exhibition 'Embracing the Limit' by Marta Maldonado",
+   "resumen": "Painter Marta Maldonado redefines the boundaries between expansion and containment in her exhibition 'Embracing the Limit', turning the exhibition space into an infinite mural."
+  },
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true
+ },
+ "fc892efbc3": {
+  "id": "6d7caf3a3a",
+  "es": {
+   "titulo": "Exposición de pintura 'Azul interior. Mujeres azules' de Bibiana Vicente",
+   "resumen": "Descubre la exposición 'Azul interior. Mujeres azules' de la artista Bibiana Vicente 'BIBIVI' en el Claustro del Centro Sociocultural Montecarmelo."
+  },
+  "en": {
+   "titulo": "Painting Exhibition 'Blue Interior. Blue Women' by Bibiana Vicente",
+   "resumen": "Discover the exhibition 'Blue Interior. Blue Women' by artist Bibiana Vicente 'BIBIVI' in the Cloister of the Montecarmelo Sociocultural Center."
+  },
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true
+ },
+ "34af7cfa1b": {
+  "id": "1438603749",
+  "es": {
+   "titulo": "Exposición de pintura 'Geometría abstracta' de Alejandro Gámez",
+   "resumen": "El artista Alejandro Gámez 'JANÍN' presenta su exposición de pintura 'Geometría abstracta' en el Claustro del Centro Sociocultural Montecarmelo."
+  },
+  "en": {
+   "titulo": "Painting Exhibition 'Abstract Geometry' by Alejandro Gámez",
+   "resumen": "Artist Alejandro Gámez 'JANÍN' presents his painting exhibition 'Abstract Geometry' in the Cloister of the Montecarmelo Sociocultural Center."
+  },
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true
+ },
+ "aadba45c1d": {
+  "id": "2aa9e7c66b",
+  "es": {
+   "titulo": "Exposición de pintura 'PERSONA' de Paula Moscuzza",
+   "resumen": "Paula Moscuzza presenta su exposición de pintura titulada 'PERSONA' en la Biblioteca Pública Municipal Benito Pérez Galdós."
+  },
+  "en": {
+   "titulo": "Painting Exhibition 'PERSONA' by Paula Moscuzza",
+   "resumen": "Paula Moscuzza presents her painting exhibition titled 'PERSONA' at the Benito Pérez Galdós Municipal Public Library."
+  },
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true
+ },
+ "edc69d199c": {
+  "id": "4b21ca746d",
+  "es": {
+   "titulo": "Exposición de pintura XVIII Festival de los Búlgaros del Mundo 'Yo Soy Búlgaro'",
+   "resumen": "Descubre las obras del concurso infantil de pintura del XVIII Festival de los Búlgaros del Mundo 'Yo Soy Búlgaro' en el Centro Sociocultural Marconi. Una iniciativa para mantener las raíces."
+  },
+  "en": {
+   "titulo": "Painting Exhibition 18th Festival of Bulgarians of the World 'I Am Bulgarian'",
+   "resumen": "Discover the artworks from the children's painting competition of the 18th Festival of Bulgarians of the World 'I Am Bulgarian' at the Marconi Sociocultural Center. An initiative to preserve roots."
+  },
+  "temas": [
+   "cultura",
+   "ninos",
+   "museos"
+  ],
+  "a_cubierto": true
+ },
+ "860306ca14": {
+  "id": "b5c5f9ab72",
+  "es": {
+   "titulo": "Exposición de Zentangle: 'Espacio Zen'",
+   "resumen": "Explora la exposición de Zentangle titulada 'Espacio Zen' en la Biblioteca Pública Municipal José Saramago."
+  },
+  "en": {
+   "titulo": "Zentangle Exhibition: 'Zen Space'",
+   "resumen": "Explore the Zentangle exhibition titled 'Zen Space' at the José Saramago Municipal Public Library."
+  },
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true
+ },
+ "c7cd5e67e8": {
+  "id": "80e7eba2ac",
+  "es": {
+   "titulo": "Exposición Fotográfica 'Voces Femeninas' de Carolina Izquierdo",
+   "resumen": "La exposición fotográfica 'Voces Femeninas' de Carolina Izquierdo celebra la fuerza y dignidad de la mujer en todas las etapas de la vida en el Centro Sociocultural Ágata."
+  },
+  "en": {
+   "titulo": "Photographic Exhibition 'Female Voices' by Carolina Izquierdo",
+   "resumen": "The photographic exhibition 'Female Voices' by Carolina Izquierdo celebrates the strength and dignity of women at all life stages at the Ágata Sociocultural Center."
+  },
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true
+ },
+ "f48226b0d9": {
+  "id": "9e41c93d81",
+  "es": {
+   "titulo": "Exposición gráfica 'Súper Letras'",
+   "resumen": "La exposición 'Súper Letras' transforma letras y números en materia gráfica experimental, mostrando tipografía, lettering y caligrafía contemporánea."
+  },
+  "en": {
+   "titulo": "Graphic Exhibition 'Super Letters'",
+   "resumen": "The 'Super Letters' exhibition transforms letters and numbers into experimental graphic material, showcasing contemporary typography, lettering, and calligraphy."
+  },
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true
+ },
+ "f2ad6e0f0b": {
+  "id": "baef24fcdb",
+  "es": {
+   "titulo": "Exposición informativa: Madrid tiene su punto",
+   "resumen": "Infórmate sobre la importancia del reciclaje y el cuidado del medio ambiente en la exposición 'Madrid tiene su punto' en el Centro Sociocultural Montecarmelo."
+  },
+  "en": {
+   "titulo": "Informative Exhibition: Madrid Has Its Point",
+   "resumen": "Learn about the importance of recycling and environmental care at the 'Madrid Has Its Point' exhibition at the Montecarmelo Sociocultural Center."
+  },
+  "temas": [
+   "naturaleza",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "75124ac40f": {
+  "id": "c806a5042a",
+  "es": {
+   "titulo": "Exposición PHotoESPAÑA 'Topología de un contraste'",
+   "resumen": "Disfruta de la exposición PHotoESPAÑA 'Topología de un contraste' en el Museo de Arte Contemporáneo de Madrid."
+  },
+  "en": {
+   "titulo": "PHotoESPAÑA Exhibition 'Topology of a Contrast'",
+   "resumen": "Enjoy the PHotoESPAÑA exhibition 'Topology of a Contrast' at the Museum of Contemporary Art of Madrid."
+  },
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true
+ },
+ "235bf98266": {
+  "id": "b68a7e6ee0",
+  "es": {
+   "titulo": "Exposición 'Confluencias' de Fotografía Colectiva",
+   "resumen": "La Sala de exposiciones José Luis Sampedro del Centro Cultural Galileo acoge la exposición colectiva de fotografía 'Confluencias'."
+  },
+  "en": {
+   "titulo": "Exhibition 'Confluences' of Collective Photography",
+   "resumen": "The José Luis Sampedro exhibition hall at the Galileo Cultural Center hosts the collective photography exhibition 'Confluences'."
+  },
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true
+ },
+ "860e85f514": {
+  "id": "a8fbb8940b",
+  "es": {
+   "titulo": "Exposición 'El deber de lo nuevo'",
+   "resumen": "Explora la exposición 'El deber de lo nuevo' en el Museo de Arte Contemporáneo de Madrid."
+  },
+  "en": {
+   "titulo": "Exhibition 'The Duty of the New'",
+   "resumen": "Explore the exhibition 'The Duty of the New' at the Museum of Contemporary Art of Madrid."
+  },
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true
+ },
+ "81878f4992": {
+  "id": "d4bfafd053",
+  "es": {
+   "titulo": "Exposición 'Materia y forma' de Luz Martín Ballester",
+   "resumen": "La Sala de exposiciones Clotilde García del Castillo del Centro Cultural Galileo presenta 'Materia y forma', una exposición de Luz Martín Ballester."
+  },
+  "en": {
+   "titulo": "Exhibition 'Matter and Form' by Luz Martín Ballester",
+   "resumen": "The Clotilde García del Castillo exhibition hall at the Galileo Cultural Center presents 'Matter and Form', an exhibition by Luz Martín Ballester."
+  },
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true
+ },
+ "a4bfca4eeb": {
+  "id": "0471a74c33",
+  "es": {
+   "titulo": "Exposición 'Retorno' de Alfredo Piquer",
+   "resumen": "La Sala de exposiciones José Luís Sampedro del Centro Cultural Galileo acoge la exposición 'Retorno' de Alfredo Piquer."
+  },
+  "en": {
+   "titulo": "Exhibition 'Return' by Alfredo Piquer",
+   "resumen": "The José Luís Sampedro exhibition hall at the Galileo Cultural Center hosts the exhibition 'Return' by Alfredo Piquer."
+  },
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true
+ },
+ "0db61333d6": {
+  "id": "87839ed081",
+  "es": {
+   "titulo": "Exposición pictórica colectiva 'Viaje existencial'",
+   "resumen": "La Sala de exposiciones Clotilde García del Castillo del Centro Cultural Galileo presenta 'Viaje existencial', una exposición pictórica colectiva."
+  },
+  "en": {
+   "titulo": "Collective Pictorial Exhibition 'Existential Journey'",
+   "resumen": "The Clotilde García del Castillo exhibition hall at the Galileo Cultural Center presents 'Existential Journey', a collective pictorial exhibition."
+  },
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true
+ },
+ "5a1866c4d8": {
+  "id": "4c646d7ce3",
+  "es": {
+   "titulo": "Exposición 'Bailad, bailad, malditos' de Carlos Aires",
+   "resumen": "Carlos Aires presenta su exposición 'Bailad, bailad, malditos' en Matadero Madrid."
+  },
+  "en": {
+   "titulo": "Exhibition 'Dance, Dance, Damned' by Carlos Aires",
+   "resumen": "Carlos Aires presents his exhibition 'Dance, Dance, Damned' at Matadero Madrid."
+  },
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true
+ },
+ "3cece14b6f": {
+  "id": "2e8c2f10f6",
+  "es": {
+   "titulo": "Exposición de pintura 'Paisaje y latidos, un pulso común'",
+   "resumen": "La Biblioteca Pública Municipal Ángel González acoge la exposición de pintura 'Paisaje y latidos, un pulso común', organizada por AFANIAS, que explora el paisaje como espacio de encuentro."
+  },
+  "en": {
+   "titulo": "Painting Exhibition 'Landscape and Heartbeats, a Common Pulse'",
+   "resumen": "The Ángel González Municipal Public Library hosts the painting exhibition 'Landscape and Heartbeats, a Common Pulse', organized by AFANIAS, exploring landscape as a space for connection."
+  },
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true
+ },
+ "e373c7d507": {
+  "id": "7a4d97b98b",
+  "es": {
+   "titulo": "Exposición 'Soñando Océanos'",
+   "resumen": "La exposición 'Soñando Océanos' en Matadero Madrid visibiliza y genera recursos para la investigación marina, a través de la mirada de la Asociación WeWhale & Iberian Orca."
+  },
+  "en": {
+   "titulo": "Exhibition 'Dreaming Oceans'",
+   "resumen": "The 'Dreaming Oceans' exhibition at Matadero Madrid raises awareness and generates resources for marine research, through the perspective of the WeWhale & Iberian Orca Association."
+  },
+  "temas": [
+   "naturaleza",
+   "agua",
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true
+ },
+ "35aec063d0": {
+  "id": "6667e9c924",
+  "es": {
+   "titulo": "Exposición 'Colectivo esto pinta bien'",
+   "resumen": "Un grupo de artistas de Coslada presenta sus obras en la exposición 'Colectivo esto pinta bien' en el Centro Cultural Carril del Conde, buscando transmitir emociones."
+  },
+  "en": {
+   "titulo": "Exhibition 'Collective This Paints Well'",
+   "resumen": "A group of artists from Coslada presents their works in the 'Collective This Paints Well' exhibition at the Carril del Conde Cultural Center, aiming to convey emotions."
+  },
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true
+ },
+ "1ef42ba869": {
+  "id": "bc05e6c9b6",
+  "es": {
+   "titulo": "Exposición 'La cultura pop en la ilustración tradicional'",
+   "resumen": "David Fernández Collado presenta 'La cultura pop en la ilustración tradicional' en el Centro Cultural Hortaleza, combinando acuarelas, acrílico y bolígrafo para evocar la cultura pop."
+  },
+  "en": {
+   "titulo": "Exhibition 'Pop Culture in Traditional Illustration'",
+   "resumen": "David Fernández Collado presents 'Pop Culture in Traditional Illustration' at the Hortaleza Cultural Center, blending watercolors, acrylics, and pen to evoke pop culture."
+  },
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true
  }
 }

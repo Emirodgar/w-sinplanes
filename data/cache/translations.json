@@ -4084,5 +4084,1805 @@
    "titulo": "Dois dias em Santander",
    "resumen": "Itinerário pela baía, Palácio da Magdalena, Centro Botín e praias do Sardinero."
   }
+ },
+ "9a4e67d66a": {
+  "fr": {
+   "titulo": "Barcelone en deux jours",
+   "resumen": "Itinéraire à travers le Quartier Gothique, les œuvres de Gaudí et les marchés de la ville."
+  },
+  "de": {
+   "titulo": "Barcelona an zwei Tagen",
+   "resumen": "Reiseroute durch das Gotische Viertel, Gaudís Werke und die Märkte der Stadt."
+  },
+  "it": {
+   "titulo": "Barcellona in due giorni",
+   "resumen": "Itinerario attraverso il Quartiere Gotico, le opere di Gaudí e i mercati della città."
+  },
+  "pt": {
+   "titulo": "Barcelona em dois dias",
+   "resumen": "Itinerário pelo Bairro Gótico, obras de Gaudí e os mercados da cidade."
+  }
+ },
+ "7d3619e203": {
+  "fr": {
+   "titulo": "Bilbao en deux jours",
+   "resumen": "Itinéraire à travers le Guggenheim, la Vieille Ville et les bars à pintxos."
+  },
+  "de": {
+   "titulo": "Bilbao an zwei Tagen",
+   "resumen": "Reiseroute durch das Guggenheim, die Altstadt und die Pintxo-Bars."
+  },
+  "it": {
+   "titulo": "Bilbao in due giorni",
+   "resumen": "Itinerario attraverso il Guggenheim, la Città Vecchia e i bar di pintxos."
+  },
+  "pt": {
+   "titulo": "Bilbau em dois dias",
+   "resumen": "Itinerário pelo Guggenheim, a Cidade Velha e os bares de pintxos."
+  }
+ },
+ "a1ced5540a": {
+  "fr": {
+   "titulo": "Deux jours à Séville",
+   "resumen": "Itinéraire à travers l'Alcázar, la cathédrale, Santa Cruz et la Plaza de España."
+  },
+  "de": {
+   "titulo": "Zwei Tage in Sevilla",
+   "resumen": "Reiseroute durch den Alcázar, die Kathedrale, Santa Cruz und die Plaza de España."
+  },
+  "it": {
+   "titulo": "Due giorni a Siviglia",
+   "resumen": "Itinerario attraverso l'Alcázar, la cattedrale, Santa Cruz e Plaza de España."
+  },
+  "pt": {
+   "titulo": "Dois dias em Sevilha",
+   "resumen": "Itinerário pelo Alcázar, a catedral, Santa Cruz e a Plaza de España."
+  }
+ },
+ "90d031ae0f": {
+  "fr": {
+   "titulo": "Deux jours à Madrid",
+   "resumen": "Itinéraire à travers le Paseo del Arte, le Palais Royal, le parc du Retiro et les quartiers du centre."
+  },
+  "de": {
+   "titulo": "Zwei Tage in Madrid",
+   "resumen": "Reiseroute durch den Kunst-Boulevard, den Königspalast, den Retiro-Park und die Viertel im Zentrum."
+  },
+  "it": {
+   "titulo": "Due giorni a Madrid",
+   "resumen": "Itinerario attraverso il Paseo del Arte, il Palazzo Reale, il Parco del Retiro e i quartieri centrali."
+  },
+  "pt": {
+   "titulo": "Dois dias em Madrid",
+   "resumen": "Itinerário pelo Paseo del Arte, o Palácio Real, o Retiro e os bairros centrais."
+  }
+ },
+ "d6954a7ba8": {
+  "fr": {
+   "titulo": "Une semaine dans l'Espagne Verte",
+   "resumen": "Itinéraire le long de la côte cantabrique : Galice, Asturies, Cantabrie et Pays Basque."
+  },
+  "de": {
+   "titulo": "Eine Woche im Grünen Spanien",
+   "resumen": "Reiseroute entlang der kantabrischen Küste: Galicien, Asturien, Kantabrien und das Baskenland."
+  },
+  "it": {
+   "titulo": "Una settimana nella Spagna Verde",
+   "resumen": "Itinerario lungo la costa cantabrica: Galizia, Asturie, Cantabria e Paesi Baschi."
+  },
+  "pt": {
+   "titulo": "Uma semana na Espanha Verde",
+   "resumen": "Itinerário pela costa cantábrica: Galiza, Astúrias, Cantábria e País Basco."
+  }
+ },
+ "bb9edfc898": {
+  "fr": {
+   "titulo": "Villes et villages médiévaux d'Espagne",
+   "resumen": "Route à travers les remparts, châteaux et vieilles villes d'origine médiévale bien conservés."
+  },
+  "de": {
+   "titulo": "Mittelalterliche Städte und Dörfer Spaniens",
+   "resumen": "Route durch gut erhaltene mittelalterliche Stadtmauern, Burgen und Altstädte."
+  },
+  "it": {
+   "titulo": "Città e borghi medievali della Spagna",
+   "resumen": "Percorso attraverso mura, castelli e centri storici di origine medievale ben conservati."
+  },
+  "pt": {
+   "titulo": "Cidades e vilas medievais de Espanha",
+   "resumen": "Rota por muralhas, castelos e centros históricos de origem medieval bem conservados."
+  }
+ },
+ "c0affc1876": {
+  "fr": {
+   "titulo": "Route de la Vía de la Plata",
+   "resumen": "Ancienne voie romaine du nord au sud traversant des villes comme Mérida, Cáceres, Salamanque et Astorga."
+  },
+  "de": {
+   "titulo": "Route Vía de la Plata",
+   "resumen": "Antike römische Straße von Nord nach Süd durch Städte wie Mérida, Cáceres, Salamanca und Astorga."
+  },
+  "it": {
+   "titulo": "Percorso Via de la Plata",
+   "resumen": "Antica strada romana da nord a sud attraverso città come Mérida, Cáceres, Salamanca e Astorga."
+  },
+  "pt": {
+   "titulo": "Rota Vía de la Plata",
+   "resumen": "Antiga estrada romana de norte a sul com cidades como Mérida, Cáceres, Salamanca e Astorga."
+  }
+ },
+ "de91039e59": {
+  "fr": {
+   "titulo": "Route en voilier autour des îles Baléares",
+   "resumen": "Parcours en voilier autour des quatre îles, avec des criques, des mouillages et des villages de pêcheurs."
+  },
+  "de": {
+   "titulo": "Segelroute durch die Balearen",
+   "resumen": "Segeltour um die vier Inseln mit Buchten, Ankerplätzen und Fischerdörfern."
+  },
+  "it": {
+   "titulo": "Itinerario in barca a vela nelle Baleari",
+   "resumen": "Percorso in barca a vela tra le quattro isole, con calette, ancoraggi e villaggi di pescatori."
+  },
+  "pt": {
+   "titulo": "Rota de veleiro pelas Ilhas Baleares",
+   "resumen": "Percurso de veleiro pelas quatro ilhas, com enseadas, fundeadouros e vilas piscatórias."
+  }
+ },
+ "54e68de4f7": {
+  "fr": {
+   "titulo": "Chemin de la langue castillane",
+   "resumen": "Route culturelle à travers les lieux liés à la naissance et à la diffusion du castillan."
+  },
+  "de": {
+   "titulo": "Weg der kastilischen Sprache",
+   "resumen": "Kulturroute durch Orte, die mit der Entstehung und Verbreitung des Kastilischen verbunden sind."
+  },
+  "it": {
+   "titulo": "Cammino della lingua castigliana",
+   "resumen": "Percorso culturale attraverso i luoghi legati alla nascita e alla diffusione del castigliano."
+  },
+  "pt": {
+   "titulo": "Caminho da língua castelhana",
+   "resumen": "Rota cultural pelos locais ligados ao nascimento e difusão do castelhano."
+  }
+ },
+ "7a7fed9277": {
+  "fr": {
+   "titulo": "Route du Canal de Castilla",
+   "resumen": "Canal du XVIIIe siècle à travers la Castille-et-León, avec des écluses, des ponts et des promenades au bord de l'eau."
+  },
+  "de": {
+   "titulo": "Route des Canal de Castilla",
+   "resumen": "Kanal aus dem 18. Jahrhundert durch Kastilien und León mit Schleusen, Brücken und Uferwegen."
+  },
+  "it": {
+   "titulo": "Percorso del Canale di Castiglia",
+   "resumen": "Canale del XVIII secolo attraverso la Castiglia e León, con chiuse, ponti e passeggiate lungo l'acqua."
+  },
+  "pt": {
+   "titulo": "Rota do Canal de Castilla",
+   "resumen": "Canal do século XVIII por Castela e Leão, com eclusas, pontes e passeios junto à água."
+  }
+ },
+ "351ae53a48": {
+  "fr": {
+   "titulo": "Route de Don Quichotte",
+   "resumen": "Parcours à travers les moulins, villages et auberges de La Manche liés au roman de Cervantes."
+  },
+  "de": {
+   "titulo": "Route des Don Quijote",
+   "resumen": "Route durch die Windmühlen, Dörfer und Gasthöfe von La Mancha, die mit Cervantes' Roman verbunden sind."
+  },
+  "it": {
+   "titulo": "Percorso di Don Chisciotte",
+   "resumen": "Percorso attraverso i mulini, i villaggi e le locande de La Mancha legati al romanzo di Cervantes."
+  },
+  "pt": {
+   "titulo": "Rota de D. Quixote",
+   "resumen": "Percurso pelos moinhos, aldeias e estalagens de La Mancha ligados ao romance de Cervantes."
+  }
+ },
+ "4aece6f685": {
+  "fr": {
+   "titulo": "Les routes de l'Héritage Andalou",
+   "resumen": "Itinéraires à travers les monuments, villes et paysages laissés par l'époque d'Al-Andalus."
+  },
+  "de": {
+   "titulo": "Routen des andalusischen Erbes",
+   "resumen": "Routen durch die Monumente, Städte und Landschaften aus der Zeit von Al-Andalus."
+  },
+  "it": {
+   "titulo": "Le rotte dell'Eredità Andalusa",
+   "resumen": "Itinerari attraverso i monumenti, le città e i paesaggi lasciati dal periodo di Al-Andalus."
+  },
+  "pt": {
+   "titulo": "As rotas do Legado Andaluz",
+   "resumen": "Itinerários pelos monumentos, cidades e paisagens deixados pela época de Al-Andalus."
+  }
+ },
+ "2f67e6f3a6": {
+  "fr": {
+   "titulo": "Chemin de Saint-Jacques à Fisterra et Muxía",
+   "resumen": "La prolongation du Chemin depuis Saint-Jacques jusqu'au bout de la Terre, sur la Costa da Morte."
+  },
+  "de": {
+   "titulo": "Jakobsweg nach Fisterra und Muxía",
+   "resumen": "Die Verlängerung des Jakobswegs von Santiago bis zum Ende der Welt an der Costa da Morte."
+  },
+  "it": {
+   "titulo": "Cammino di Santiago a Fisterra e Muxía",
+   "resumen": "Il prolungamento del Cammino da Santiago fino alla fine della Terra, sulla Costa da Morte."
+  },
+  "pt": {
+   "titulo": "Caminho de Santiago a Fisterra e Muxía",
+   "resumen": "A prolongação do Caminho desde Santiago até ao fim da Terra, na Costa da Morte."
+  }
+ },
+ "9302b19013": {
+  "fr": {
+   "titulo": "Canyoning en famille dans la Sierra de Guara",
+   "resumen": "Descente de canyons de faible difficulté avec guides, adaptée aux enfants. Une activité d'eau et de roche dans les Pyrénées de Huesca."
+  },
+  "de": {
+   "titulo": "Canyoning für Familien in der Sierra de Guara",
+   "resumen": "Geführte Abstiege durch leichte Schluchten für Kinder. Eine Wasser- und Felsaktivität in den Pyrenäen von Huesca."
+  },
+  "it": {
+   "titulo": "Torrentismo per famiglie nella Sierra de Guara",
+   "resumen": "Discesa di canyon di bassa difficoltà con guide, adatta ai bambini. Un'attività di acqua e roccia nei Pirenei di Huesca."
+  },
+  "pt": {
+   "titulo": "Canyoning em família na Sierra de Guara",
+   "resumen": "Descida de barrancos de baixa dificuldade com guias, adaptada para crianças. Uma atividade de água e rocha nos Pirenéus de Huesca."
+  }
+ },
+ "fc6d54586a": {
+  "fr": {
+   "titulo": "Bulnes en funiculaire et grotte du fromage Cabrales",
+   "resumen": "Le village de Bulnes, dans les Picos de Europa, accessible en funiculaire, et les grottes où le fromage Cabrales mûrit."
+  },
+  "de": {
+   "titulo": "Bulnes mit der Seilbahn und Cabrales-Käsehöhle",
+   "resumen": "Das Dorf Bulnes in den Picos de Europa, erreichbar mit der Seilbahn, und die Höhlen, in denen der Cabrales-Käse reift."
+  },
+  "it": {
+   "titulo": "Bulnes in funicolare e grotta del formaggio Cabrales",
+   "resumen": "Il villaggio di Bulnes, nei Picos de Europa, raggiungibile in funicolare, e le grotte dove matura il formaggio Cabrales."
+  },
+  "pt": {
+   "titulo": "Bulnes de funicular e gruta do queijo Cabrales",
+   "resumen": "A aldeia de Bulnes, nos Picos de Europa, acessível de funicular, e as grutas onde matura o queijo Cabrales."
+  }
+ },
+ "a250e72c66": {
+  "fr": {
+   "titulo": "Festival du Cinéma Européen de Séville",
+   "resumen": "Une semaine de cinéma européen avec des projections ouvertes au public dans les cinémas de la ville."
+  },
+  "de": {
+   "titulo": "Europäisches Filmfestival Sevilla",
+   "resumen": "Eine Woche europäisches Kino mit öffentlichen Vorführungen in den Kinos der Stadt."
+  },
+  "it": {
+   "titulo": "Festival del Cinema Europeo di Siviglia",
+   "resumen": "Una settimana di cinema europeo con proiezioni aperte al pubblico nei cinema della città."
+  },
+  "pt": {
+   "titulo": "Festival de Cinema Europeu de Sevilha",
+   "resumen": "Uma semana de cinema europeu com sessões abertas ao público nos cinemas da cidade."
+  }
+ },
+ "81e07d3988": {
+  "fr": {
+   "titulo": "Festival International du Film de Gijón",
+   "resumen": "Cinéma d'auteur et découvertes dans la programmation d'automne de Gijón."
+  },
+  "de": {
+   "titulo": "Internationales Filmfestival Gijón",
+   "resumen": "Autorenkino und Entdeckungen im Herbstprogramm von Gijón."
+  },
+  "it": {
+   "titulo": "Festival Internazionale del Cinema di Gijón",
+   "resumen": "Cinema d'autore e scoperte nella programmazione autunnale di Gijón."
+  },
+  "pt": {
+   "titulo": "Festival Internacional de Cinema de Gijón",
+   "resumen": "Cinema de autor e descobertas na programação de outono de Gijón."
+  }
+ },
+ "0cc0555d13": {
+  "fr": {
+   "titulo": "Festival du Cinéma Ibéro-Américain de Huelva",
+   "resumen": "Cinéma en espagnol et portugais avec des projections et un hommage à une personnalité du secteur."
+  },
+  "de": {
+   "titulo": "Iberoamerikanisches Filmfestival Huelva",
+   "resumen": "Filme in spanischer und portugiesischer Sprache mit Vorführungen und einer Ehrung für eine Persönlichkeit der Branche."
+  },
+  "it": {
+   "titulo": "Festival del Cinema Iberoamericano di Huelva",
+   "resumen": "Cinema in spagnolo e portoghese con proiezioni e un omaggio a una figura del settore."
+  },
+  "pt": {
+   "titulo": "Festival de Cinema Ibero-Americano de Huelva",
+   "resumen": "Cinema em espanhol e português com exibições e uma homenagem a uma figura do setor."
+  }
+ },
+ "300c2c98bd": {
+  "fr": {
+   "titulo": "Marathon de Malaga",
+   "resumen": "Course de marathon et semi-marathon dans la ville début décembre."
+  },
+  "de": {
+   "titulo": "Marathon von Málaga",
+   "resumen": "Marathon- und Halbmarathonlauf durch die Stadt Anfang Dezember."
+  },
+  "it": {
+   "titulo": "Maratona di Malaga",
+   "resumen": "Corsa di maratona e mezza maratona per la città all'inizio di dicembre."
+  },
+  "pt": {
+   "titulo": "Maratona de Málaga",
+   "resumen": "Corrida de maratona e meia maratona pela cidade no início de dezembro."
+  }
+ },
+ "e1eeb79148": {
+  "fr": {
+   "titulo": "Festival de Jerez",
+   "resumen": "Deux semaines de spectacles, cours et rencontres de flamenco dans la ville où le genre est né."
+  },
+  "de": {
+   "titulo": "Festival von Jerez",
+   "resumen": "Zwei Wochen Flamenco-Aufführungen, Kurse und Treffen in der Stadt, in der das Genre geboren wurde."
+  },
+  "it": {
+   "titulo": "Festival di Jerez",
+   "resumen": "Due settimane di spettacoli, corsi e incontri di flamenco nella città dove è nato il genere."
+  },
+  "pt": {
+   "titulo": "Festival de Jerez",
+   "resumen": "Duas semanas de espetáculos, cursos e encontros de flamenco na cidade onde nasceu o género."
+  }
+ },
+ "bbc03aa4c9": {
+  "fr": {
+   "titulo": "Semana Santa Marinera de Valencia",
+   "resumen": "Processions dans les quartiers marins du Cabanyal et du Grau, avec la Résurrection de Pâques comme clôture."
+  },
+  "de": {
+   "titulo": "Seefahrer-Karwoche in Valencia",
+   "resumen": "Prozessionen in den Seefahrer-Vierteln Cabanyal und El Grau, die mit der Osterauferstehung enden."
+  },
+  "it": {
+   "titulo": "Settimana Santa Marinara di Valencia",
+   "resumen": "Processioni nei quartieri marinari del Cabanyal e del Grau, con la Resurrezione di Pasqua come chiusura."
+  },
+  "pt": {
+   "titulo": "Semana Santa Marinera de Valência",
+   "resumen": "Procissões nos bairros marinheiros do Cabanyal e do Grau, com a Ressurreição da Páscoa como encerramento."
+  }
+ },
+ "0cc8a1b1d6": {
+  "fr": {
+   "titulo": "Semana Santa de Sevilla",
+   "resumen": "Des dizaines de confréries parcourent la ville chaque jour avec leurs chars et leurs pénitents. La Madrugá du Vendredi Saint est la nuit la plus fréquentée."
+  },
+  "de": {
+   "titulo": "Karwoche in Sevilla",
+   "resumen": "Dutzende von Bruderschaften durchqueren täglich die Stadt mit ihren Prozessionswagen und Büßern. Die „Madrugá“ am Karfreitag ist die meistbesuchte Nacht."
+  },
+  "it": {
+   "titulo": "Settimana Santa di Siviglia",
+   "resumen": "Decine di confraternite attraversano la città ogni giorno con i loro passi e i loro nazareni. La Madrugá del Venerdì Santo è la notte più affollata."
+  },
+  "pt": {
+   "titulo": "Semana Santa de Sevilha",
+   "resumen": "Dezenas de irmandades percorrem a cidade todos os dias com os seus passos e os seus nazarenos. A Madrugá de Sexta-feira Santa é a noite mais concorrida."
+  }
+ },
+ "e6454468fe": {
+  "fr": {
+   "titulo": "Semana Santa de Málaga",
+   "resumen": "D'immenses trônes portés à bras dans le centre, avec le transfert du Christ de l'Espérance comme moment fort."
+  },
+  "de": {
+   "titulo": "Karwoche in Málaga",
+   "resumen": "Riesige Throne, die auf Schultern durch das Stadtzentrum getragen werden, wobei die Prozession des „Cristo de la Esperanza“ ein Höhepunkt ist."
+  },
+  "it": {
+   "titulo": "Settimana Santa di Malaga",
+   "resumen": "Enormi troni portati a spalla nel centro della città, con il trasporto del Cristo de la Esperanza come momento clou."
+  },
+  "pt": {
+   "titulo": "Semana Santa de Málaga",
+   "resumen": "Tronos de grande dimensão que desfilam aos ombros pelo centro, com a trasladação do Cristo da Esperança como momento de destaque."
+  }
+ },
+ "4b4add6f00": {
+  "fr": {
+   "titulo": "Semana Santa de Valladolid",
+   "resumen": "Processions sobres avec des sculptures en bois polychrome des grands sculpteurs castillans."
+  },
+  "de": {
+   "titulo": "Karwoche in Valladolid",
+   "resumen": "Schlichte Prozessionen mit polychromen Holzskulpturen großer kastilischer Bildhauer."
+  },
+  "it": {
+   "titulo": "Settimana Santa di Valladolid",
+   "resumen": "Processioni sobrie con sculture in legno policromo dei grandi scultori castigliani."
+  },
+  "pt": {
+   "titulo": "Semana Santa de Valladolid",
+   "resumen": "Procissões sóbrias com imaginária em madeira policromada dos grandes escultores castelhanos."
+  }
+ },
+ "a880698e39": {
+  "fr": {
+   "titulo": "Semana Santa de Salamanca",
+   "resumen": "Des confréries qui parcourent la ville de pierre dorée, avec la procession du Christ Jacente parmi ses moments les plus émouvants."
+  },
+  "de": {
+   "titulo": "Karwoche in Salamanca",
+   "resumen": "Bruderschaften ziehen durch die goldene Steinstadt, wobei die Prozession des „Cristo Yacente“ zu den bewegendsten Momenten gehört."
+  },
+  "it": {
+   "titulo": "Settimana Santa di Salamanca",
+   "resumen": "Confraternite che percorrono la città di pietra dorata, con la processione del Cristo Yacente tra i suoi momenti più sentiti."
+  },
+  "pt": {
+   "titulo": "Semana Santa de Salamanca",
+   "resumen": "Cofrarias que percorrem a cidade de pedra dourada, com a procissão do Cristo Yacente entre os seus momentos mais sentidos."
+  }
+ },
+ "eb77d7a11a": {
+  "fr": {
+   "titulo": "Semana Santa de Cáceres",
+   "resumen": "Processions dans la ville monumentale, dont les places médiévales servent de décor aux chars et confréries."
+  },
+  "de": {
+   "titulo": "Karwoche in Cáceres",
+   "resumen": "Prozessionen durch die monumentale Altstadt, deren mittelalterliche Plätze als Bühne für Prozessionswagen und Bruderschaften dienen."
+  },
+  "it": {
+   "titulo": "Settimana Santa di Cáceres",
+   "resumen": "Processioni attraverso la città monumentale, le cui piazze medievali fungono da palcoscenico per passi e confraternite."
+  },
+  "pt": {
+   "titulo": "Semana Santa de Cáceres",
+   "resumen": "Procissões pela cidade monumental, cujas praças medievais servem de palco para passos e confrarias."
+  }
+ },
+ "c72dff13a7": {
+  "fr": {
+   "titulo": "WOMAD Cáceres",
+   "resumen": "Festival de musiques du monde avec des concerts dans les places de la ville monumentale."
+  },
+  "de": {
+   "titulo": "WOMAD Cáceres",
+   "resumen": "Ein Weltmusikfestival mit Konzerten auf den Plätzen der monumentalen Altstadt."
+  },
+  "it": {
+   "titulo": "WOMAD Cáceres",
+   "resumen": "Festival di musiche del mondo con concerti nelle piazze della città monumentale."
+  },
+  "pt": {
+   "titulo": "WOMAD Cáceres",
+   "resumen": "Festival de músicas do mundo com concertos nas praças da cidade monumental."
+  }
+ },
+ "7389bbeba1": {
+  "fr": {
+   "titulo": "Romería del Rocío",
+   "resumen": "Des centaines de milliers de pèlerins arrivent au village d'El Rocío en charrettes, à cheval et à pied à la Pentecôte. Se termine par la procession de la Vierge."
+  },
+  "de": {
+   "titulo": "El Rocío-Pilgerfahrt",
+   "resumen": "Hunderttausende von Pilgern erreichen das Dorf El Rocío zu Pfingsten mit Karren, zu Pferd und zu Fuß. Die Wallfahrt endet mit der Prozession der Jungfrau."
+  },
+  "it": {
+   "titulo": "Pellegrinaggio del Rocío",
+   "resumen": "Centinaia di migliaia di pellegrini raggiungono il villaggio di El Rocío in carrozza, a cavallo e a piedi a Pentecoste. Termina con la processione della Vergine."
+  },
+  "pt": {
+   "titulo": "Romaria do Rocío",
+   "resumen": "Centenas de milhares de peregrinos chegam à aldeia de El Rocío em carroças, a cavalo e a pé no Pentecostes. Termina com a procissão da Virgem."
+  }
+ },
+ "55e779585b": {
+  "fr": {
+   "titulo": "Sónar",
+   "resumen": "Festival de musique électronique et de créativité avec des concerts de jour et de nuit à Barcelone."
+  },
+  "de": {
+   "titulo": "Sónar",
+   "resumen": "Ein Festival für elektronische Musik und Kreativität mit Konzerten bei Tag und Nacht in Barcelona."
+  },
+  "it": {
+   "titulo": "Sónar",
+   "resumen": "Festival di musica elettronica e creatività con concerti diurni e notturni a Barcellona."
+  },
+  "pt": {
+   "titulo": "Sónar",
+   "resumen": "Festival de música eletrónica e criatividade com concertos diurnos e noturnos em Barcelona."
+  }
+ },
+ "e42d7796b8": {
+  "fr": {
+   "titulo": "Bilbao BBK Live",
+   "resumen": "Trois jours de festival de musique sur les pentes du mont Kobetas, avec vue sur la ville."
+  },
+  "de": {
+   "titulo": "Bilbao BBK Live",
+   "resumen": "Drei Tage Musikfestival an den Hängen des Kobetas-Berges mit Blick auf die Stadt."
+  },
+  "it": {
+   "titulo": "Bilbao BBK Live",
+   "resumen": "Tre giorni di festival musicale sui pendii del monte Kobetas, con vista sulla città."
+  },
+  "pt": {
+   "titulo": "Bilbao BBK Live",
+   "resumen": "Três dias de festival de música nas encostas do monte Kobetas, com vista para a cidade."
+  }
+ },
+ "7a8e01c59a": {
+  "fr": {
+   "titulo": "FIB Benicàssim",
+   "resumen": "Festival de musique sur la côte de Castellón avec concerts, camping et plage pendant quatre jours."
+  },
+  "de": {
+   "titulo": "FIB Benicàssim",
+   "resumen": "Ein Musikfestival an der Küste von Castellón mit Konzerten, Camping und Strand für vier Tage."
+  },
+  "it": {
+   "titulo": "FIB Benicàssim",
+   "resumen": "Festival musicale sulla costa di Castellón con concerti, campeggio e spiaggia per quattro giorni."
+  },
+  "pt": {
+   "titulo": "FIB Benicàssim",
+   "resumen": "Festival de música na costa de Castellón com concertos, campismo e praia durante quatro dias."
+  }
+ },
+ "dac2f96699": {
+  "fr": {
+   "titulo": "Fêtes de l'Apôtre Saint Jacques",
+   "resumen": "Le 25 juillet, Jour de Galice, avec l'offrande à l'apôtre dans la cathédrale et les feux d'artifice de la veille devant la façade de l'Obradoiro."
+  },
+  "de": {
+   "titulo": "Fest des Apostels Jakobus",
+   "resumen": "Am 25. Juli, dem Tag Galiciens, mit der Opfergabe an den Apostel in der Kathedrale und dem Feuerwerk am Vorabend vor der Fassade des Obradoiro."
+  },
+  "it": {
+   "titulo": "Festa dell'Apostolo San Giacomo",
+   "resumen": "Il 25 luglio, Giorno della Galizia, con l'offerta all'apostolo nella cattedrale e i fuochi d'artificio della vigilia di fronte alla facciata dell'Obradoiro."
+  },
+  "pt": {
+   "titulo": "Festas do Apóstolo Santiago",
+   "resumen": "A 25 de julho, Dia da Galiza, com a oferenda ao apóstolo na catedral e os fogos de artifício da véspera em frente à fachada do Obradoiro."
+  }
+ },
+ "fac2fc7ef6": {
+  "fr": {
+   "titulo": "Festival International de Santander",
+   "resumen": "Musique classique, danse et opéra pendant le mois d'août dans les théâtres et lieux singuliers de la ville."
+  },
+  "de": {
+   "titulo": "Internationales Festival Santander",
+   "resumen": "Klassische Musik, Tanz und Oper den ganzen August über in Theatern und besonderen Veranstaltungsorten der Stadt."
+  },
+  "it": {
+   "titulo": "Festival Internazionale di Santander",
+   "resumen": "Musica classica, danza e opera durante il mese di agosto nei teatri e nei luoghi singolari della città."
+  },
+  "pt": {
+   "titulo": "Festival Internacional de Santander",
+   "resumen": "Música clássica, dança e ópera durante o mês de agosto em teatros e locais singulares da cidade."
+  }
+ },
+ "a174604313": {
+  "fr": {
+   "titulo": "Descente Internationale du Sella",
+   "resumen": "Des milliers de kayakistes descendent la rivière d'Arriondas à Ribadesella, avec une fête sur les rives toute la journée."
+  },
+  "de": {
+   "titulo": "Internationale Sella-Kanuabfahrt",
+   "resumen": "Tausende von Kajakfahrern befahren den Fluss von Arriondas nach Ribadesella, mit einem Fest am Ufer den ganzen Tag über."
+  },
+  "it": {
+   "titulo": "Discesa Internazionale del Sella",
+   "resumen": "Migliaia di kayakisti scendono il fiume da Arriondas a Ribadesella, con una festa sulle rive per tutta la giornata."
+  },
+  "pt": {
+   "titulo": "Descida Internacional do Sella",
+   "resumen": "Milhares de canoístas descem o rio de Arriondas a Ribadesella, com festa nas margens durante todo o dia."
+  }
+ },
+ "b819116e0b": {
+  "fr": {
+   "titulo": "Feria de Málaga",
+   "resumen": "Une semaine d'août avec des stands, de la musique et de la danse dans le centre et sur le site de Cortijo de Torres."
+  },
+  "de": {
+   "titulo": "Málaga-Messe",
+   "resumen": "Eine Woche im August mit Ständen, Musik und Tanz im Zentrum und auf dem Festgelände von Cortijo de Torres."
+  },
+  "it": {
+   "titulo": "Fiera di Malaga",
+   "resumen": "Una settimana di agosto con stand, musica e balli nel centro e nel quartiere fieristico di Cortijo de Torres."
+  },
+  "pt": {
+   "titulo": "Feira de Málaga",
+   "resumen": "Uma semana de agosto com barracas, música e dança no centro e no recinto de feiras de Cortijo de Torres."
+  }
+ },
+ "20962ca897": {
+  "fr": {
+   "titulo": "Fêtes des vendanges de Jerez",
+   "resumen": "Pied de raisin et fêtes en l'honneur du vin de Jerez en septembre, avec la bénédiction des moûts."
+  },
+  "de": {
+   "titulo": "Jerez-Weinlesefest",
+   "resumen": "Traubenstampfen und Feierlichkeiten zu Ehren des Jerez-Weins im September, mit dem Segen des Mostes."
+  },
+  "it": {
+   "titulo": "Feste della vendemmia di Jerez",
+   "resumen": "Pigiatura dell'uva e feste in onore del vino di Jerez a settembre, con la benedizione dei mosti."
+  },
+  "pt": {
+   "titulo": "Festas da Vindima de Jerez",
+   "resumen": "Pisa da uva e festas em honra do vinho de Jerez em setembro, com a bênção dos mostos."
+  }
+ },
+ "304c9e354d": {
+  "fr": {
+   "titulo": "Fêtes de San Mateo et vendanges de la Rioja",
+   "resumen": "Fêtes de Logroño avec le foulage du raisin, l'offrande du premier moût et des dégustations locales."
+  },
+  "de": {
+   "titulo": "San Mateo-Fest und Weinlese in Rioja",
+   "resumen": "Festlichkeiten in Logroño mit dem zeremoniellen Traubenstampfen, der Opfergabe des ersten Mostes und Verkostungen lokaler Spezialitäten."
+  },
+  "it": {
+   "titulo": "Feste di San Mateo e vendemmia della Rioja",
+   "resumen": "Feste di Logroño con la pigiatura dell'uva, l'offerta del primo mosto e degustazioni locali."
+  },
+  "pt": {
+   "titulo": "Festas de San Mateo e vindima da Rioja",
+   "resumen": "Festas de Logroño com a pisa da uva, a oferenda do primeiro mosto e degustações da terra."
+  }
+ },
+ "fba44eefe3": {
+  "fr": {
+   "titulo": "Fête des fruits de mer d'O Grove",
+   "resumen": "Une fête gastronomique d'octobre autour des fruits de mer des rías galiciennes, avec des stands et des dégustations."
+  },
+  "de": {
+   "titulo": "O Grove-Meeresfrüchtefest",
+   "resumen": "Ein gastronomisches Fest im Oktober rund um Meeresfrüchte aus den galicischen Rías, mit Ständen und Verkostungen."
+  },
+  "it": {
+   "titulo": "Festa del Frutti di Mare di O Grove",
+   "resumen": "Una festa gastronomica di ottobre a base di frutti di mare delle rías galiziane, con stand e degustazioni."
+  },
+  "pt": {
+   "titulo": "Festa do Marisco de O Grove",
+   "resumen": "Uma festa gastronómica de outubro em torno do marisco das rías galegas, com barracas e degustações."
+  }
+ },
+ "5a3fcff026": {
+  "fr": {
+   "titulo": "Festival de Sitges",
+   "resumen": "Le grand festival de cinéma fantastique et d'horreur, avec projections et rencontres dans la localité côtière."
+  },
+  "de": {
+   "titulo": "Sitges Film Festival",
+   "resumen": "Das große Festival für Fantasy- und Horrorfilme mit Vorführungen und Treffen im Küstenort."
+  },
+  "it": {
+   "titulo": "Festival di Sitges",
+   "resumen": "Il grande festival del cinema fantastico e dell'orrore, con proiezioni e incontri nella località balneare."
+  },
+  "pt": {
+   "titulo": "Festival de Sitges",
+   "resumen": "O grande festival de cinema fantástico e de terror, com exibições e encontros na localidade costeira."
+  }
+ },
+ "71a77daa06": {
+  "fr": {
+   "titulo": "Fiesta del Cine : entrées à 3,50 euros",
+   "resumen": "Du lundi 19 au jeudi 22 octobre, plus de 330 cinémas de toute l'Espagne proposent leurs séances à 3,50 euros."
+  },
+  "de": {
+   "titulo": "Fiesta del Cine: Tickets für 3,50 Euro",
+   "resumen": "Von Montag, 19. Oktober, bis Donnerstag, 22. Oktober, bieten über 330 Kinos in ganz Spanien ihre Vorstellungen für 3,50 Euro an."
+  },
+  "it": {
+   "titulo": "Fiesta del Cinema: biglietti a 3,50 euro",
+   "resumen": "Da lunedì 19 a giovedì 22 ottobre, oltre 330 cinema in tutta la Spagna offrono le loro proiezioni a 3,50 euro."
+  },
+  "pt": {
+   "titulo": "Fiesta del Cine: bilhetes a 3,50 euros",
+   "resumen": "De segunda-feira, 19, a quinta-feira, 22 de outubro, mais de 330 cinemas de toda a Espanha oferecem as suas sessões a 3,50 euros."
+  }
+ },
+ "7c2b4c44e7": {
+  "fr": {
+   "titulo": "Deep Purple en concert à Madrid",
+   "resumen": "Le groupe britannique se produit à Madrid le 20 octobre, au lendemain de son concert à Barcelone."
+  },
+  "de": {
+   "titulo": "Deep Purple live in Madrid",
+   "resumen": "Die britische Band spielt am 20. Oktober in Madrid, einen Tag nach ihrem Konzert in Barcelona."
+  },
+  "it": {
+   "titulo": "Deep Purple in concerto a Madrid",
+   "resumen": "La band britannica si esibisce a Madrid il 20 ottobre, un giorno dopo il concerto a Barcellona."
+  },
+  "pt": {
+   "titulo": "Deep Purple em concerto em Madrid",
+   "resumen": "A banda britânica atua em Madrid a 20 de outubro, um dia após o seu concerto em Barcelona."
+  }
+ },
+ "f224dfbcd3": {
+  "fr": {
+   "titulo": "Journées de Photographie de l'IEFC à La Virreina",
+   "resumen": "Du 20 au 22 octobre, cinq artistes réfléchissent sur la matérialité de la photographie à La Virreina Centre de la Imatge, sous la direction d'Óscar Muñoz."
+  },
+  "de": {
+   "titulo": "IEFC Fototage in La Virreina",
+   "resumen": "Vom 20. bis 22. Oktober reflektieren fünf Künstler über die Materialität der Fotografie im La Virreina Centre de la Imatge unter der Leitung von Óscar Muñoz."
+  },
+  "it": {
+   "titulo": "Giornate di Fotografia IEFC a La Virreina",
+   "resumen": "Dal 20 al 22 ottobre, cinque artisti riflettono sulla materialità della fotografia presso La Virreina Centre de la Imatge, guidati da Óscar Muñoz."
+  },
+  "pt": {
+   "titulo": "Jornadas de Fotografia IEFC em La Virreina",
+   "resumen": "De 20 a 22 de outubro, cinco artistas refletem sobre a materialidade da fotografia em La Virreina Centre de la Imatge, com Óscar Muñoz à frente."
+  }
+ },
+ "ab426e32fb": {
+  "fr": {
+   "titulo": "Défilés du 080 Barcelona Fashion dans la rue",
+   "resumen": "Du 20 au 23 octobre, des écrans géants retransmettent les défilés dans des places de la ville, sans invitation ni file d'attente : Can Fabra, Glòries, la Barceloneta et El Born."
+  },
+  "de": {
+   "titulo": "080 Barcelona Fashion Shows auf der Straße",
+   "resumen": "Vom 20. bis 23. Oktober übertragen riesige Bildschirme Modenschauen auf Stadtplätzen ohne Einladung oder Warteschlangen: Can Fabra, Glòries, Barceloneta und El Born."
+  },
+  "it": {
+   "titulo": "Sfilate 080 Barcelona Fashion per strada",
+   "resumen": "Dal 20 al 23 ottobre, maxischermi trasmettono le sfilate in piazze della città, senza invito né code: Can Fabra, Glòries, la Barceloneta e El Born."
+  },
+  "pt": {
+   "titulo": "Desfiles 080 Barcelona Fashion na rua",
+   "resumen": "De 20 a 23 de outubro, ecrãs gigantes transmitem desfiles em praças da cidade, sem convite nem filas: Can Fabra, Glòries, a Barceloneta e El Born."
+  }
+ },
+ "df04bef8d7": {
+  "fr": {
+   "titulo": "Corto de Arnedo le 28 Octobre",
+   "resumen": "Du mardi 20 au vendredi 23 octobre, les 27 courts métrages en compétition sont projetés à 20h30 au Teatro Cervantes d'Arnedo et aux Cines 7 Infantes de Logroño."
+  },
+  "de": {
+   "titulo": "Corto de Arnedo am 28. Oktober",
+   "resumen": "Vom Dienstag, 20. bis Freitag, 23. Oktober, werden um 20:30 Uhr die 27 Kurzfilme im Wettbewerb im Teatro Cervantes in Arnedo und in den Cines 7 Infantes in Logroño gezeigt."
+  },
+  "it": {
+   "titulo": "Corto de Arnedo il 28 Ottobre",
+   "resumen": "Dal martedì 20 al venerdì 23 ottobre vengono proiettati alle 20:30 i 27 cortometraggi in concorso al Teatro Cervantes di Arnedo e ai Cines 7 Infantes di Logroño."
+  },
+  "pt": {
+   "titulo": "Corto de Arnedo a 28 de Outubro",
+   "resumen": "De terça-feira, 20, a sexta-feira, 23 de outubro, são exibidos às 20h30 os 27 curtas-metragens a concurso no Teatro Cervantes de Arnedo e nos Cines 7 Infantes de Logroño."
+  }
+ },
+ "9f4bb99870": {
+  "fr": {
+   "titulo": "Radar Madrid : événement pour la musique espagnole internationale",
+   "resumen": "Radar Madrid est un rendez-vous professionnel qui vise à projeter la musique espagnole sur le marché international, réunissant 100 professionnels et programmant 35 spectacles dans cinq salles de la capitale."
+  },
+  "de": {
+   "titulo": "Radar Madrid: Veranstaltung für internationale spanische Musik",
+   "resumen": "Radar Madrid ist ein professionelles Treffen, das darauf abzielt, die internationale Projektion spanischer Musik zu fördern. Es bringt 100 Fachleute zusammen und plant 35 Auftritte in fünf Veranstaltungsorten der Hauptstadt."
+  },
+  "it": {
+   "titulo": "Radar Madrid: evento per la musica spagnola internazionale",
+   "resumen": "Radar Madrid è un incontro professionale che mira a proiettare la musica spagnola sul mercato internazionale, riunendo 100 professionisti e programmando 35 esibizioni in cinque locali della capitale."
+  },
+  "pt": {
+   "titulo": "Radar Madrid: evento para a música espanhola internacional",
+   "resumen": "Radar Madrid é um encontro profissional que visa projetar a música espanhola no mercado internacional, reunindo 100 profissionais e programando 35 atuações em cinco salas da capital."
+  }
+ },
+ "a6cb72d006": {
+  "fr": {
+   "titulo": "Exposition photographique 'El Teatro de la Calle' à la Sala Jayrán",
+   "resumen": "La Sala Jayrán inaugure l'exposition photographique 'El Teatro de la Calle', organisée par le Collectif Photographique Desencuadre, qui présente 27 images de la vie quotidienne."
+  },
+  "de": {
+   "titulo": "Fotoausstellung 'El Teatro de la Calle' in der Sala Jayrán",
+   "resumen": "Die Sala Jayrán eröffnet die Fotoausstellung 'El Teatro de la Calle', organisiert vom Kollektiv Desencuadre, die 27 Bilder des täglichen Lebens zeigt."
+  },
+  "it": {
+   "titulo": "Mostra fotografica 'El Teatro de la Calle' alla Sala Jayrán",
+   "resumen": "La Sala Jayrán inaugura la mostra fotografica 'El Teatro de la Calle', organizzata dal Collettivo Fotográfico Desencuadre, che espone 27 immagini della vita quotidiana."
+  },
+  "pt": {
+   "titulo": "Exposição fotográfica 'El Teatro de la Calle' na Sala Jayrán",
+   "resumen": "A Sala Jayrán inaugura a exposição fotográfica 'El Teatro de la Calle', organizada pelo Coletivo Fotográfico Desencuadre, que mostra 27 imagens do quotidiano."
+  }
+ },
+ "75d835cf98": {
+  "fr": {
+   "titulo": "Le Festival Grafic remplit Grenade d'art jusqu'en décembre",
+   "resumen": "Le Festival Grafic se déroule à Grenade jusqu'en décembre, proposant quatre expositions, des débats et des présentations de livres pour donner la parole aux créateurs."
+  },
+  "de": {
+   "titulo": "Grafic Festival füllt Granada bis Dezember mit Kunst",
+   "resumen": "Das Grafic Festival findet bis Dezember in Granada statt und bietet vier Ausstellungen, Debatten und Buchvorstellungen, um den Schöpfern eine Stimme zu geben."
+  },
+  "it": {
+   "titulo": "Il Festival Grafic riempie Granada d'arte fino a dicembre",
+   "resumen": "Il Festival Grafic si svolge a Granada fino a dicembre, offrendo quattro mostre, dibattiti e presentazioni di libri per dare voce ai creatori."
+  },
+  "pt": {
+   "titulo": "Festival Grafic enche Granada de arte até dezembro",
+   "resumen": "O Festival Grafic decorre em Granada até dezembro, com quatro exposições, debates e apresentações de livros para dar voz aos criadores."
+  }
+ },
+ "01d8720acb": {
+  "fr": {
+   "titulo": "Exposition 'Tierra viva' au Musée National Thyssen-Bornemisza",
+   "resumen": "Le Musée National Thyssen-Bornemisza présente l'exposition 'Tierra viva', liée au projet 'Narraciones', qui recueille les expériences et les mémoires de femmes de Martos."
+  },
+  "de": {
+   "titulo": "Ausstellung 'Tierra viva' im Nationalmuseum Thyssen-Bornemisza",
+   "resumen": "Das Nationalmuseum Thyssen-Bornemisza präsentiert die Ausstellung 'Tierra viva', die mit dem Projekt 'Narraciones' verbunden ist und Erfahrungen und Erinnerungen von Frauen aus Martos sammelt."
+  },
+  "it": {
+   "titulo": "Mostra 'Tierra viva' al Museo Nazionale Thyssen-Bornemisza",
+   "resumen": "Il Museo Nazionale Thyssen-Bornemisza presenta la mostra 'Tierra viva', legata al progetto 'Narraciones', che raccoglie esperienze e memorie di donne di Martos."
+  },
+  "pt": {
+   "titulo": "Exposição 'Tierra viva' no Museu Nacional Thyssen-Bornemisza",
+   "resumen": "O Museu Nacional Thyssen-Bornemisza apresenta a exposição 'Tierra viva', ligada ao projeto 'Narraciones', que recolhe experiências e memórias de mulheres de Martos."
+  }
+ },
+ "c2c1f82fde": {
+  "fr": {
+   "titulo": "Danse et marionnettes au Teatro Alhambra dans le cadre de 'Sur Escena'",
+   "resumen": "Le Teatro Alhambra poursuit 'Sur Escena', présentant cette semaine la danseuse Isabel Vázquez et la compagnie Titiritrán avec des créations andalouses."
+  },
+  "de": {
+   "titulo": "Tanz und Puppenspiel im Teatro Alhambra im Rahmen von 'Sur Escena'",
+   "resumen": "Das Teatro Alhambra setzt 'Sur Escena' fort und präsentiert diese Woche die Tänzerin Isabel Vázquez und die Kompanie Titiritrán mit andalusischen Kreationen."
+  },
+  "it": {
+   "titulo": "Danza e burattini al Teatro Alhambra nell'ambito di 'Sur Escena'",
+   "resumen": "Il Teatro Alhambra prosegue con 'Sur Escena', presentando questa settimana la ballerina Isabel Vázquez e la compagnia Titiritrán con creazioni andaluse."
+  },
+  "pt": {
+   "titulo": "Dança e marionetas no Teatro Alhambra dentro de 'Sur Escena'",
+   "resumen": "O Teatro Alhambra continua com 'Sur Escena', apresentando esta semana a bailarina Isabel Vázquez e a companhia Titiritrán com criações andaluzas."
+  }
+ },
+ "553a0e882f": {
+  "fr": {
+   "titulo": "Exposition sur Marie de Hongrie à l'Alhambra",
+   "resumen": "L'Alhambra présente une exposition audiovisuelle à l'Atelier de Corderie qui redécouvre l'héritage de Marie de Hongrie, sœur de Charles Quint."
+  },
+  "de": {
+   "titulo": "Ausstellung über Maria von Ungarn in der Alhambra",
+   "resumen": "Die Alhambra präsentiert eine audiovisuelle Ausstellung im Seilerei-Atelier, die das Erbe von Maria von Ungarn, der Schwester Karls V., neu entdeckt."
+  },
+  "it": {
+   "titulo": "Mostra su Maria d'Ungheria all'Alhambra",
+   "resumen": "L'Alhambra presenta una mostra audiovisiva nel Laboratorio di Cordatura che riscopre l'eredità di Maria d'Ungheria, sorella di Carlo V."
+  },
+  "pt": {
+   "titulo": "Exposição sobre Maria da Hungria na Alhambra",
+   "resumen": "A Alhambra apresenta uma exposição audiovisual no Atelier de Cordelaria que redescobre o legado de Maria da Hungria, irmã de Carlos V."
+  }
+ },
+ "9dc50501b0": {
+  "fr": {
+   "titulo": "Dolores Redondo publie 'Todas las noches, todas las ciudades'",
+   "resumen": "Le 21 octobre, le nouveau roman de l'auteure arrive en librairie, une affaire de la psychologue Nash Elizondo concernant un romancier à succès."
+  },
+  "de": {
+   "titulo": "Dolores Redondo veröffentlicht 'Todas las noches, todas las ciudades'",
+   "resumen": "Am 21. Oktober erscheint der neue Roman der Autorin in den Buchhandlungen, ein Fall der Psychologin Nash Elizondo über einen erfolgreichen Romanautor."
+  },
+  "it": {
+   "titulo": "Dolores Redondo pubblica 'Todas las noches, todas las ciudades'",
+   "resumen": "Il 21 ottobre arriva in libreria il nuovo romanzo dell'autrice, un caso della psicologa Nash Elizondo su un romanziere di successo."
+  },
+  "pt": {
+   "titulo": "Dolores Redondo publica 'Todas las noches, todas las ciudades'",
+   "resumen": "A 21 de outubro chega às livrarias o novo romance da autora, um caso da psicóloga Nash Elizondo sobre um romancista de sucesso."
+  }
+ },
+ "ba3c0a944b": {
+  "fr": {
+   "titulo": "Patti Smith en concert à Gijón",
+   "resumen": "Patti Smith donne deux concerts au Teatro Jovellanos de Gijón, coïncidant avec le 50e anniversaire de sa première représentation en Espagne et l'attribution du Prix Princesse des Asturies des Arts 2026."
+  },
+  "de": {
+   "titulo": "Patti Smith live in Gijón",
+   "resumen": "Patti Smith gibt zwei Konzerte im Teatro Jovellanos in Gijón, anlässlich des 50. Jahrestages ihres ersten Auftritts in Spanien und der Verleihung des Prinzessin-von-Asturien-Preises für Kunst 2026."
+  },
+  "it": {
+   "titulo": "Patti Smith in concerto a Gijón",
+   "resumen": "Patti Smith offre due concerti al Teatro Jovellanos di Gijón, in coincidenza con il 50° anniversario della sua prima esibizione in Spagna e l'assegnazione del Premio Principessa delle Asturie per le Arti 2026."
+  },
+  "pt": {
+   "titulo": "Patti Smith em concerto em Gijón",
+   "resumen": "Patti Smith oferece dois concertos no Teatro Jovellanos de Gijón, coincidindo com o 50º aniversário da sua primeira atuação em Espanha e a atribuição do Prémio Princesa das Astúrias das Artes 2026."
+  }
+ },
+ "c62f558b59": {
+  "fr": {
+   "titulo": "Exposition d'Anselm Kiefer à La Pedrera, Barcelone",
+   "resumen": "La Pedrera de Barcelone accueille la première exposition d'Anselm Kiefer dans la ville, 'Colección Grothe', qui explore un univers d'histoire, de nature et de cosmos jusqu'au 24 janvier 2027."
+  },
+  "de": {
+   "titulo": "Anselm Kiefer Ausstellung in La Pedrera, Barcelona",
+   "resumen": "La Pedrera in Barcelona beherbergt die erste Ausstellung von Anselm Kiefer in der Stadt, 'Colección Grothe', die bis zum 24. Januar 2027 ein Universum aus Geschichte, Natur und Kosmos erforscht."
+  },
+  "it": {
+   "titulo": "Mostra di Anselm Kiefer a La Pedrera, Barcellona",
+   "resumen": "La Pedrera di Barcellona ospita la prima mostra di Anselm Kiefer in città, 'Colección Grothe', che esplora un universo di storia, natura e cosmo fino al 24 gennaio 2027."
+  },
+  "pt": {
+   "titulo": "Exposição de Anselm Kiefer em La Pedrera, Barcelona",
+   "resumen": "La Pedrera de Barcelona acolhe a primeira exposição de Anselm Kiefer na cidade, 'Colección Grothe', que explora um universo de história, natureza e cosmos até 24 de janeiro de 2027."
+  }
+ },
+ "9758ddbe47": {
+  "fr": {
+   "titulo": "The Strokes en concert à Barcelone",
+   "resumen": "The Strokes donnent leur unique concert en Espagne au Sant Jordi, présentant un aperçu de leur carrière qui électrise le public."
+  },
+  "de": {
+   "titulo": "The Strokes live in Barcelona",
+   "resumen": "The Strokes geben ihr einziges Konzert in Spanien im Sant Jordi und präsentieren einen Rückblick auf ihre Karriere, der das Publikum begeistert."
+  },
+  "it": {
+   "titulo": "The Strokes in concerto a Barcellona",
+   "resumen": "The Strokes offrono il loro unico concerto in Spagna al Sant Jordi, presentando una retrospettiva della loro carriera che elettrizza il pubblico."
+  },
+  "pt": {
+   "titulo": "The Strokes em concerto em Barcelona",
+   "resumen": "The Strokes dão o seu único concerto em Espanha no Sant Jordi, apresentando um percurso pela sua carreira que eletriza o público."
+  }
+ },
+ "e8c329d954": {
+  "fr": {
+   "titulo": "Première de la pièce de théâtre 'Parlamento' en Espagne",
+   "resumen": "Le collectif argentin Piel de Lava crée en Espagne la pièce de théâtre 'Parlamento', une comédie sur la politique futuriste se déroulant dans un vaisseau spatial."
+  },
+  "de": {
+   "titulo": "Theaterstück 'Parlamento' feiert Premiere in Spanien",
+   "resumen": "Das argentinische Kollektiv Piel de Lava uraufführt in Spanien das Theaterstück 'Parlamento', eine Komödie über futuristische Politik auf einem Raumschiff."
+  },
+  "it": {
+   "titulo": "Debutto dello spettacolo teatrale 'Parlamento' in Spagna",
+   "resumen": "Il collettivo argentino Piel de Lava debutta in Spagna con lo spettacolo teatrale 'Parlamento', una commedia sulla politica futuristica ambientata su un'astronave."
+  },
+  "pt": {
+   "titulo": "Estreia da peça de teatro 'Parlamento' em Espanha",
+   "resumen": "O coletivo argentino Piel de Lava estreia em Espanha a peça de teatro 'Parlamento', uma comédia sobre política futurista ambientada numa nave espacial."
+  }
+ },
+ "2920dbf0e0": {
+  "fr": {
+   "titulo": "Inocencia y desig à la Sala Flyhard, Barcelone",
+   "resumen": "La Sala Flyhard de Barcelone présente 'Inocencia y desig', une pièce de théâtre d'Òscar Constantí sur les bébés volés, interprétée par Mont Plans, Montse Esteve et Manel Barceló."
+  },
+  "de": {
+   "titulo": "Inocencia y desig in der Sala Flyhard, Barcelona",
+   "resumen": "Die Sala Flyhard in Barcelona präsentiert 'Inocencia y desig', ein Theaterstück von Òscar Constantí über gestohlene Babys, gespielt von Mont Plans, Montse Esteve und Manel Barceló."
+  },
+  "it": {
+   "titulo": "Inocencia y desig alla Sala Flyhard, Barcellona",
+   "resumen": "La Sala Flyhard di Barcellona presenta 'Inocencia y desig', un'opera teatrale di Òscar Constantí sui bambini rubati, interpretata da Mont Plans, Montse Esteve e Manel Barceló."
+  },
+  "pt": {
+   "titulo": "Inocencia y desig na Sala Flyhard, Barcelona",
+   "resumen": "A Sala Flyhard de Barcelona apresenta 'Inocencia y desig', uma peça de teatro de Òscar Constantí sobre bebés roubados, interpretada por Mont Plans, Montse Esteve e Manel Barceló."
+  }
+ },
+ "f38824b802": {
+  "fr": {
+   "titulo": "Films à la télévision : Mercredi 21 Octobre",
+   "resumen": "L'offre cinématographique télévisuelle pour aujourd'hui, 21 octobre, comprend une comédie romantique des années 90 et un drame avec Brad Pitt, ainsi qu'une adaptation des 'Trois Mousquetaires'."
+  },
+  "de": {
+   "titulo": "Filme im Fernsehen: Mittwoch, 21. Oktober",
+   "resumen": "Das Filmangebot im Fernsehen für heute, den 21. Oktober, umfasst eine romantische Komödie aus den 90er Jahren und ein Drama mit Brad Pitt sowie eine Adaption von 'Die drei Musketiere'."
+  },
+  "it": {
+   "titulo": "Film in televisione: Mercoledì 21 Ottobre",
+   "resumen": "L'offerta cinematografica televisiva per oggi, 21 ottobre, include una commedia romantica degli anni '90 e un dramma con Brad Pitt, oltre a un adattamento de 'I tre moschettieri'."
+  },
+  "pt": {
+   "titulo": "Filmes na televisão: Quarta-feira, 21 de Outubro",
+   "resumen": "A oferta cinematográfica televisiva para hoje, 21 de outubro, inclui uma comédia romântica dos anos 90 e um drama com Brad Pitt, além de uma adaptação de 'Os três mosqueteiros'."
+  }
+ },
+ "f899accfd2": {
+  "fr": {
+   "titulo": "Prix Anagrama d'Essai : 'La revuelta de los copistas'",
+   "resumen": "Le 54e Prix Anagrama d'Essai a été décerné à Xavier Nueno pour 'La revuelta de los copistas. Cómo el conocimiento perdió el juicio', en vente depuis le 21 octobre."
+  },
+  "de": {
+   "titulo": "Anagram Essay Preis: 'La revuelta de los copistas'",
+   "resumen": "Der 54. Anagram Essay Preis wurde an Xavier Nueno für 'La revuelta de los copistas. Cómo el conocimiento perdió el juicio' verliehen, das seit dem 21. Oktober erhältlich ist."
+  },
+  "it": {
+   "titulo": "Premio Anagrama di Saggio: 'La revuelta de los copistas'",
+   "resumen": "Il 54° Premio Anagrama di Saggio è stato assegnato a Xavier Nueno per 'La revuelta de los copistas. Cómo el conocimiento perdió el juicio', in vendita dal 21 ottobre."
+  },
+  "pt": {
+   "titulo": "Prémio Anagrama de Ensaio: 'La revuelta de los copistas'",
+   "resumen": "O 54º Prémio Anagrama de Ensaio foi atribuído a Xavier Nueno por 'La revuelta de los copistas. Cómo el conocimiento perdió el juicio', à venda desde 21 de outubro."
+  }
+ },
+ "b924777ad1": {
+  "fr": {
+   "titulo": "Patti Smith change de lieu pour son concert dans les Asturies",
+   "resumen": "Le concert de Patti Smith dans les Asturies, dans le cadre de la Semaine des Prix Princesse des Asturies 2026, est déplacé au Palais des Sports de Gijón en raison des prévisions météorologiques. 2 000 billets supplémentaires ont été vendus."
+  },
+  "de": {
+   "titulo": "Patti Smith verlegt Konzert in Asturien",
+   "resumen": "Das Konzert von Patti Smith in Asturien, Teil der Prinzessin-von-Asturien-Preiswoche 2026, wird aufgrund ungünstiger Wettervorhersagen in den Palacio de los Deportes in Gijón verlegt. Zusätzliche 2.000 Tickets wurden verkauft."
+  },
+  "it": {
+   "titulo": "Patti Smith cambia sede per il concerto nelle Asturie",
+   "resumen": "Il concerto di Patti Smith nelle Asturie, parte della Settimana dei Premi Principessa delle Asturie 2026, viene spostato al Palacio de los Deportes di Gijón a causa delle previsioni meteorologiche avverse. Sono stati esauriti 2.000 biglietti aggiuntivi."
+  },
+  "pt": {
+   "titulo": "Patti Smith muda local de concerto nas Astúrias",
+   "resumen": "O concerto de Patti Smith nas Astúrias, parte da Semana dos Prémios Princesa das Astúrias 2026, é transferido para o Palacio de los Deportes de Gijón devido a previsões meteorológicas desfavoráveis. Foram esgotados 2.000 bilhetes adicionais."
+  }
+ },
+ "aaddf03aa3": {
+  "fr": {
+   "titulo": "Xavier Nueno remporte le Prix Anagrama d'Essai 2026",
+   "resumen": "Xavier Nueno remporte le Prix Anagrama d'Essai avec 'La revuelta de los copistas', alertant sur la privatisation du savoir à l'ère de l'IA. Le livre sera disponible en librairie à partir du 21 octobre."
+  },
+  "de": {
+   "titulo": "Xavier Nueno gewinnt den Anagram Essay Preis 2026",
+   "resumen": "Xavier Nueno gewinnt den Anagram Essay Preis mit 'La revuelta de los copistas' und warnt vor der Privatisierung von Wissen im KI-Zeitalter. Das Buch wird ab dem 21. Oktober in Buchhandlungen erhältlich sein."
+  },
+  "it": {
+   "titulo": "Xavier Nueno vince il Premio Anagrama di Saggio 2026",
+   "resumen": "Xavier Nueno vince il Premio Anagrama di Saggio con 'La revuelta de los copistas', mettendo in guardia contro la privatizzazione del sapere nell'era dell'IA. Il libro sarà disponibile in libreria dal 21 ottobre."
+  },
+  "pt": {
+   "titulo": "Xavier Nueno vence Prémio Anagrama de Ensaio 2026",
+   "resumen": "Xavier Nueno vence o Prémio Anagrama de Ensaio com 'La revuelta de los copistas', alertando para a privatização do saber na era da IA. O livro estará disponível em livrarias a partir de 21 de outubro."
+  }
+ },
+ "d9e845615b": {
+  "fr": {
+   "titulo": "La Aljafería fait revivre Il trovatore avec un récital d'opéra et une présentation de livre",
+   "resumen": "Ce mercredi à 19h00, la soprano Haydée Dabusti et le ténor Ignacio Prieto offriront un récital d'opéra de Verdi à l'Aljafería, coïncidant avec la présentation du livre 'El imaginario de la Aljafería en Il trovatore'."
+  },
+  "de": {
+   "titulo": "Aljafería lässt 'Il Trovatore' mit Opernrezital und Buchvorstellung wieder aufleben",
+   "resumen": "An diesem Mittwoch um 19:00 Uhr geben die Sopranistin Haydée Dabusti und der Tenor Ignacio Prieto ein Verdi-Opernrezital in der Aljafería, das mit der Vorstellung des Buches 'El imaginario de la Aljafería en Il trovatore' zusammenfällt."
+  },
+  "it": {
+   "titulo": "La Aljafería fa rivivere Il trovatore con recital d'opera e presentazione di libro",
+   "resumen": "Questo mercoledì alle 19:00, il soprano Haydée Dabusti e il tenore Ignacio Prieto offriranno un recital d'opera di Verdi alla Aljafería, in coincidenza con la presentazione del libro 'El imaginario de la Aljafería en Il trovatore'."
+  },
+  "pt": {
+   "titulo": "A Aljafería revive Il trovatore com recital de ópera e apresentação de livro",
+   "resumen": "Esta quarta-feira às 19:00, a soprano Haydée Dabusti e o tenor Ignacio Prieto oferecerão um recital de ópera de Verdi na Aljafería, coincidindo com a apresentação do livro 'El imaginario de la Aljafería en Il trovatore'."
+  }
+ },
+ "3c86eda218": {
+  "fr": {
+   "titulo": "Exposition 'Pau Casals, musique pour la paix' au Palau Robert",
+   "resumen": "Le Palau Robert de Barcelone accueille l'exposition gratuite 'Pau Casals, música per la pau', qui revendique l'engagement social et l'héritage anti-guerre du musicien."
+  },
+  "de": {
+   "titulo": "Ausstellung 'Pau Casals, Musik für den Frieden' im Palau Robert",
+   "resumen": "Der Palau Robert in Barcelona beherbergt die kostenlose Ausstellung 'Pau Casals, música per la pau', die das soziale Engagement und das pazifistische Erbe des Musikers hervorhebt."
+  },
+  "it": {
+   "titulo": "Mostra 'Pau Casals, musica per la pace' al Palau Robert",
+   "resumen": "Il Palau Robert di Barcellona ospita la mostra gratuita 'Pau Casals, música per la pau', che rivendica l'impegno sociale e l'eredità pacifista del musicista."
+  },
+  "pt": {
+   "titulo": "Exposição 'Pau Casals, música pela paz' no Palau Robert",
+   "resumen": "O Palau Robert de Barcelona acolhe a exposição gratuita 'Pau Casals, música per la pau', que reivindica o compromisso social e o legado pacifista do músico."
+  }
+ },
+ "99cd3811b5": {
+  "fr": {
+   "titulo": "Présentation du livre 'Historia de Calatayud en la Antigüedad'",
+   "resumen": "Présentation du livre qui retrace 1000 ans d'histoire de Calatayud, de la Celtibérie à l'invasion arabe. Aura lieu à la Mairie de Calatayud."
+  },
+  "de": {
+   "titulo": "Buchvorstellung 'Geschichte von Calatayud in der Antike'",
+   "resumen": "Vorstellung des Buches, das 1000 Jahre Geschichte von Calatayud von der keltiberischen Zeit bis zur arabischen Invasion behandelt. Findet im Rathaus von Calatayud statt."
+  },
+  "it": {
+   "titulo": "Presentazione del libro 'Storia di Calatayud nell'Antichità'",
+   "resumen": "Presentazione del libro che ripercorre 1.000 anni di storia di Calatayud, dalla Celtiberia all'invasione araba. Si terrà nel Municipio di Calatayud."
+  },
+  "pt": {
+   "titulo": "Apresentação do livro 'História de Calatayud na Antiguidade'",
+   "resumen": "Apresentação do livro que repassa 1.000 anos de história de Calatayud, da Celtibéria à invasão árabe. Será na Câmara Municipal de Calatayud."
+  }
+ },
+ "f5583ae699": {
+  "fr": {
+   "titulo": "Carlota Gurt donne 6 conférences dans le quartier gothique de Barcelone",
+   "resumen": "L'écrivaine Carlota Gurt donnera 6 conférences de 6 minutes chacune dans différents lieux du quartier gothique de Barcelone. L'activité fait partie du cycle 'Aparadors Artístics'."
+  },
+  "de": {
+   "titulo": "Carlota Gurt hält 6 Vorträge im Gotischen Viertel von Barcelona",
+   "resumen": "Die Schriftstellerin Carlota Gurt wird 6 Vorträge von jeweils 6 Minuten an verschiedenen Orten im Gotischen Viertel von Barcelona halten. Die Aktivität ist Teil der Reihe 'Aparadors Artístics'."
+  },
+  "it": {
+   "titulo": "Carlota Gurt tiene 6 conferenze nel quartiere Gotico di Barcellona",
+   "resumen": "La scrittrice Carlota Gurt terrà 6 conferenze di 6 minuti ciascuna in diversi punti del quartiere Gotico di Barcellona. L'attività fa parte del ciclo 'Aparadors Artístics'."
+  },
+  "pt": {
+   "titulo": "Carlota Gurt oferece 6 palestras no bairro Gótico de Barcelona",
+   "resumen": "A escritora Carlota Gurt realizará 6 palestras de 6 minutos cada em diferentes locais do bairro Gótico de Barcelona. A atividade faz parte do ciclo 'Aparadors Artístics'."
+  }
+ },
+ "25a9a907eb": {
+  "fr": {
+   "titulo": "Première de '¡Cuánta guerra!' sur RTVE",
+   "resumen": "RTVE lance le programme d'investigation '¡Cuánta guerra!', animé par Conchi Cejudo, qui explore les histoires familiales de la Guerre Civile."
+  },
+  "de": {
+   "titulo": "Premiere von '¡Cuánta guerra!' auf RTVE",
+   "resumen": "RTVE startet das Ermittlungsprogramm '¡Cuánta guerra!' unter der Leitung von Conchi Cejudo, das Familiengeschichten aus dem Spanischen Bürgerkrieg erforscht."
+  },
+  "it": {
+   "titulo": "Anteprima di '¡Cuánta guerra!' su RTVE",
+   "resumen": "RTVE lancia il programma investigativo '¡Cuánta guerra!', condotto da Conchi Cejudo, che esplora le storie familiari della Guerra Civile Spagnola."
+  },
+  "pt": {
+   "titulo": "Estreia de '¡Cuánta guerra!' na RTVE",
+   "resumen": "A RTVE estreia o programa de investigação '¡Cuánta guerra!', conduzido por Conchi Cejudo, que explora as histórias familiares da Guerra Civil Espanhola."
+  }
+ },
+ "a37d4775e2": {
+  "fr": {
+   "titulo": "La 'Route de la Science' arrive à Berja",
+   "resumen": "L'exposition itinérante 'Ruta de la Ciencia', qui présente la recherche de l'UAL, sera disponible à la Bibliothèque Municipale Miguel de Cervantes de Berja jusqu'au 29 octobre."
+  },
+  "de": {
+   "titulo": "'Wissenschaftsroute' erreicht Berja",
+   "resumen": "Die Wanderausstellung 'Ruta de la Ciencia', die die Forschung der UAL vorstellt, wird bis zum 29. Oktober in der Städtischen Bibliothek Miguel de Cervantes in Berja zu sehen sein."
+  },
+  "it": {
+   "titulo": "La 'Strada della Scienza' arriva a Berja",
+   "resumen": "La mostra itinerante 'Ruta de la Ciencia', che presenta la ricerca dell'UAL, sarà disponibile presso la Biblioteca Comunale Miguel de Cervantes di Berja fino al 29 ottobre."
+  },
+  "pt": {
+   "titulo": "A 'Rota da Ciência' chega a Berja",
+   "resumen": "A mostra itinerante 'Ruta de la Ciencia', que divulga a investigação da UAL, estará disponível na Biblioteca Municipal Miguel de Cervantes de Berja até 29 de outubro."
+  }
+ },
+ "941cf8cfd2": {
+  "fr": {
+   "titulo": "Concert d'Anastacia à Donostia",
+   "resumen": "Anastacia donnera un concert au Kursaal de Donostia. L'ouverture des portes se fera exceptionnellement à 18h30."
+  },
+  "de": {
+   "titulo": "Konzert von Anastacia in Donostia",
+   "resumen": "Anastacia gibt ein Konzert im Kursaal von Donostia. Die Türen öffnen ausnahmsweise um 18:30 Uhr."
+  },
+  "it": {
+   "titulo": "Concerto di Anastacia a Donostia",
+   "resumen": "Anastacia terrà un concerto al Kursaal di Donostia. L'apertura delle porte avverrà eccezionalmente alle 18:30."
+  },
+  "pt": {
+   "titulo": "Concerto de Anastacia em Donostia",
+   "resumen": "Anastacia dará um concerto no Kursaal de Donostia. A abertura das portas será excecionalmente às 18:30."
+  }
+ },
+ "2ec47a6fde": {
+  "fr": {
+   "titulo": "Courses de taureaux de la Fira d'Onda",
+   "resumen": "À Punt retransmettra en direct les courses de taureaux de la Fira d'Onda. Des taureaux de ganaderías de premier niveau participeront."
+  },
+  "de": {
+   "titulo": "Stierläufe der Fira d'Onda",
+   "resumen": "À Punt überträgt live die Stierläufe der Fira d'Onda. Es werden Bullen von erstklassigen Züchtern teilnehmen."
+  },
+  "it": {
+   "titulo": "Corse di tori della Fira d'Onda",
+   "resumen": "À Punt trasmetterà in diretta le corse di tori della Fira d'Onda. Parteciperanno tori di allevamenti di primo livello."
+  },
+  "pt": {
+   "titulo": "Corridas de touros da Fira d'Onda",
+   "resumen": "A À Punt transmitirá em direto as corridas de touros da Fira d'Onda. Participarão touros de ganadarias de primeiro nível."
+  }
+ },
+ "256213b398": {
+  "fr": {
+   "titulo": "Anniversaire de la salle Fundición",
+   "resumen": "La salle Fundición célèbre son cinquième anniversaire avec des concerts qui se prolongeront jusqu'à dimanche."
+  },
+  "de": {
+   "titulo": "Jubiläum des Fundición-Saals",
+   "resumen": "Der Fundición-Saal feiert sein fünfjähriges Bestehen mit Konzerten, die bis Sonntag andauern."
+  },
+  "it": {
+   "titulo": "Anniversario della sala Fundición",
+   "resumen": "La sala Fundición celebra il suo quinto anniversario con concerti che si protrarranno fino a domenica."
+  },
+  "pt": {
+   "titulo": "Aniversário da sala Fundición",
+   "resumen": "A sala Fundición celebra o seu quinto aniversário com concertos que se prolongarão até domingo."
+  }
+ },
+ "26e1aa0830": {
+  "fr": {
+   "titulo": "Agenda culturelle de La Rioja (22-25 oct)",
+   "resumen": "La Rioja propose de la musique avec Vivaldi et 'Le lac des cygnes', du théâtre au Bretón et du micro-théâtre à Calahorra entre le 22 et le 25 octobre."
+  },
+  "de": {
+   "titulo": "Kulturkalender von La Rioja (22.-25. Okt.)",
+   "resumen": "La Rioja bietet Musik mit Vivaldi und 'Schwanensee', Theater im Bretón und Mikrotheater in Calahorra vom 22. bis 25. Oktober."
+  },
+  "it": {
+   "titulo": "Agenda culturale de La Rioja (22-25 ott)",
+   "resumen": "La Rioja offre musica con Vivaldi e 'Il lago dei cigni', teatro al Bretón e microteatro a Calahorra tra il 22 e il 25 ottobre."
+  },
+  "pt": {
+   "titulo": "Agenda cultural de La Rioja (22-25 Out)",
+   "resumen": "La Rioja oferece música com Vivaldi e 'O Lago dos Cisnes', teatro no Bretón e microteatro em Calahorra entre 22 e 25 de outubro."
+  }
+ },
+ "2c04206455": {
+  "fr": {
+   "titulo": "La comédie musicale 'Querido Evan Hansen' en première à Madrid",
+   "resumen": "Le Théâtre Rialto de Madrid accueille la première de la comédie musicale 'Querido Evan Hansen', une histoire sur l'identité et le besoin d'intégration, avec la musique des créateurs de La La Land."
+  },
+  "de": {
+   "titulo": "Das Musical 'Querido Evan Hansen' feiert Premiere in Madrid",
+   "resumen": "Das Teatro Rialto in Madrid feiert die Premiere des Musicals 'Querido Evan Hansen', eine Geschichte über Identität und das Bedürfnis, dazuzugehören, mit Musik der Macher von La La Land."
+  },
+  "it": {
+   "titulo": "Il musical 'Querido Evan Hansen' debutta a Madrid",
+   "resumen": "Il Teatro Rialto di Madrid ospita la prima del musical 'Querido Evan Hansen', una storia sull'identità e il bisogno di integrarsi, con musiche dei creatori di La La Land."
+  },
+  "pt": {
+   "titulo": "O musical 'Querido Evan Hansen' estreia em Madrid",
+   "resumen": "O Teatro Rialto de Madrid acolhe a estreia do musical 'Querido Evan Hansen', uma história sobre identidade e a necessidade de se encaixar, com música dos criadores de La La Land."
+  }
+ },
+ "8c5a40109b": {
+  "fr": {
+   "titulo": "Asian Film Festival Barcelona : focus sur l'Inde",
+   "resumen": "La 14e édition de l'Asian Film Festival Barcelona projettera plus de 120 titres, avec une rétrospective dédiée à l'Inde, coïncidant avec l'Année Double Espagne-Inde 2026."
+  },
+  "de": {
+   "titulo": "Asian Film Festival Barcelona: Fokus auf Indien",
+   "resumen": "Die 14. Ausgabe des Asian Film Festival Barcelona zeigt über 120 Titel mit einer Retrospektive über Indien, die mit dem Doppeljahr Spanien-Indien 2026 zusammenfällt."
+  },
+  "it": {
+   "titulo": "Asian Film Festival Barcelona: focus sull'India",
+   "resumen": "La 14ª edizione dell'Asian Film Festival Barcelona proietterà oltre 120 titoli, con una retrospettiva dedicata all'India, in coincidenza con l'Anno Doppio Spagna-India 2026."
+  },
+  "pt": {
+   "titulo": "Asian Film Festival Barcelona: foco na Índia",
+   "resumen": "A 14ª edição do Asian Film Festival Barcelona exibirá mais de 120 títulos, com uma retrospectiva dedicada à Índia, coincidindo com o Ano Duplo Espanha-Índia 2026."
+  }
+ },
+ "207ffcf2d5": {
+  "fr": {
+   "titulo": "'André & Dorine' de Kulunka Teatro à Huesca",
+   "resumen": "Le vendredi 23 octobre, la compagnie Kulunka Teatro présente au Teatro Olimpia son spectacle multiprimé, une œuvre solidaire qui mêle émotion et humour."
+  },
+  "de": {
+   "titulo": "'André & Dorine' von Kulunka Teatro in Huesca",
+   "resumen": "Am Freitag, den 23. Oktober, präsentiert die Kompanie Kulunka Teatro im Teatro Olimpia ihre preisgekrönte Show, ein Benefizstück, das Emotion und Humor vereint."
+  },
+  "it": {
+   "titulo": "'André & Dorine' di Kulunka Teatro a Huesca",
+   "resumen": "Venerdì 23 ottobre, la compagnia Kulunka Teatro presenta al Teatro Olimpia il suo spettacolo pluripremiato, un'opera benefica che unisce emozione e umorismo."
+  },
+  "pt": {
+   "titulo": "'André & Dorine' de Kulunka Teatro em Huesca",
+   "resumen": "Na sexta-feira, 23 de outubro, a companhia Kulunka Teatro apresenta no Teatro Olimpia o seu espetáculo multipremiado, uma obra solidária que combina emoção e humor."
+  }
+ },
+ "ab110924b8": {
+  "fr": {
+   "titulo": "Improvisation de flamenco, danse et son à Almería",
+   "resumen": "Le vendredi 23 octobre, à 19h30, trois artistes improvisent entre le chant flamenco, la danse espagnole et l'espace sonore. Entrée libre dans la limite des places disponibles."
+  },
+  "de": {
+   "titulo": "Flamenco-, Tanz- und Klangimprovisation in Almería",
+   "resumen": "Am Freitag, den 23. Oktober, um 19:30 Uhr, improvisieren drei Künstler zwischen Flamenco-Gesang, spanischem Tanz und Klangraum. Freier Eintritt, solange der Vorrat reicht."
+  },
+  "it": {
+   "titulo": "Improvvisazione di flamenco, danza e suono ad Almería",
+   "resumen": "Venerdì 23 ottobre, alle 19:30, tre artisti improvvisano tra il canto flamenco, la danza spagnola e lo spazio sonoro. Ingresso libero fino a esaurimento posti."
+  },
+  "pt": {
+   "titulo": "Improvisação de flamenco, dança e som em Almería",
+   "resumen": "Na sexta-feira, 23 de outubro, às 19:30, três artistas improvisam entre o canto flamenco, a dança espanhola e o espaço sonoro. Entrada livre até lotação esgotar."
+  }
+ },
+ "afa78a630c": {
+  "fr": {
+   "titulo": "Chelo Matesanz au Palacete del Embarcadero",
+   "resumen": "Le vendredi 23 octobre, inauguration de l'exposition d'automne sur l'imaginaire et les processus de travail de l'artiste de Cantabrie."
+  },
+  "de": {
+   "titulo": "Chelo Matesanz im Palacete del Embarcadero",
+   "resumen": "Am Freitag, den 23. Oktober, wird die Herbstausstellung über das Imaginäre und die Arbeitsprozesse der Künstlerin aus Kantabrien eröffnet."
+  },
+  "it": {
+   "titulo": "Chelo Matesanz al Palacete del Embarcadero",
+   "resumen": "Venerdì 23 ottobre viene inaugurata la mostra autunnale sull'immaginario e sui processi di lavoro dell'artista cantabrica."
+  },
+  "pt": {
+   "titulo": "Chelo Matesanz no Palacete del Embarcadero",
+   "resumen": "Na sexta-feira, 23 de outubro, inaugura-se a exposição de outono sobre o imaginário e os processos de trabalho da artista cantábrica."
+  }
+ },
+ "221c7427a5": {
+  "fr": {
+   "titulo": "Festival du Film de Valladolid - Seminci 2026",
+   "resumen": "La 71e édition du Festival du Film de Valladolid, la Seminci, se déroulera du 23 au 31 octobre. Consultez la programmation complète de l'événement."
+  },
+  "de": {
+   "titulo": "Filmfestival von Valladolid - Seminci 2026",
+   "resumen": "Die 71. Ausgabe des Filmfestivals von Valladolid, Seminci, findet vom 23. bis 31. Oktober statt. Konsultieren Sie das vollständige Programm der Veranstaltung."
+  },
+  "it": {
+   "titulo": "Festival del Cinema di Valladolid - Seminci 2026",
+   "resumen": "La 71ª edizione del Festival del Cinema di Valladolid, la Seminci, si svolgerà dal 23 al 31 ottobre. Consultare il programma completo dell'evento."
+  },
+  "pt": {
+   "titulo": "Festival de Cinema de Valladolid - Seminci 2026",
+   "resumen": "A 71ª edição do Festival de Cinema de Valladolid, a Seminci, realizar-se-á de 23 a 31 de outubro. Consulte a programação completa do evento."
+  }
+ },
+ "1aee5f363b": {
+  "fr": {
+   "titulo": "Rencontre littéraire à Logroño : 'Retratos literarios'",
+   "resumen": "Ce vendredi, une rencontre littéraire avec Jesús Marchamalo et Ignacio Martínez de Pisón aura lieu à la Librairie Cerezo de Logroño pour présenter 'Retratos literarios'."
+  },
+  "de": {
+   "titulo": "Literarisches Treffen in Logroño: 'Retratos literarios'",
+   "resumen": "An diesem Freitag findet in der Buchhandlung Librería Cerezo in Logroño ein literarisches Treffen mit Jesús Marchamalo und Ignacio Martínez de Pisón statt, um 'Retratos literarios' vorzustellen."
+  },
+  "it": {
+   "titulo": "Incontro letterario a Logroño: 'Retratos literarios'",
+   "resumen": "Questo venerdì si terrà presso la Librería Cerezo di Logroño un incontro letterario con Jesús Marchamalo e Ignacio Martínez de Pisón per presentare 'Retratos literarios'."
+  },
+  "pt": {
+   "titulo": "Encontro literário em Logroño: 'Retratos literarios'",
+   "resumen": "Esta sexta-feira realiza-se na Livraria Cerezo de Logroño um encontro literário com Jesús Marchamalo e Ignacio Martínez de Pisón para apresentar 'Retratos literarios'."
+  }
+ },
+ "26be49e029": {
+  "fr": {
+   "titulo": "Théâtre 'R&J' à El Bretón (Logroño)",
+   "resumen": "Le Théâtre Bretón de Logroño présente la pièce 'R&J' les 23 et 24 octobre, avec Carolina Yuste et Eneko Sagardoy."
+  },
+  "de": {
+   "titulo": "Theaterstück 'R&J' im El Bretón (Logroño)",
+   "resumen": "Das Teatro Bretón in Logroño präsentiert das Stück 'R&J' am 23. und 24. Oktober mit Carolina Yuste und Eneko Sagardoy."
+  },
+  "it": {
+   "titulo": "Teatro 'R&J' al Bretón (Logroño)",
+   "resumen": "Il Teatro Bretón di Logroño presenta l'opera 'R&J' il 23 e 24 ottobre, con Carolina Yuste ed Eneko Sagardoy."
+  },
+  "pt": {
+   "titulo": "Peça de teatro 'R&J' no El Bretón (Logroño)",
+   "resumen": "O Teatro Bretón de Logroño apresenta a peça 'R&J' nos dias 23 e 24 de outubro, com Carolina Yuste e Eneko Sagardoy."
+  }
+ },
+ "a642fd6cb1": {
+  "fr": {
+   "titulo": "Spectacle 'Spiegelneuronen' au Teatre Lliure de Barcelone",
+   "resumen": "Le Teatre Lliure de Montjuïc présente 'Spiegelneuronen', un spectacle de Stefan Kaegi et Sasha Waltz qui explore l'empathie à travers les neurones miroirs. Il fait partie du festival Flaix de Tardor."
+  },
+  "de": {
+   "titulo": "Show 'Spiegelneuronen' im Teatre Lliure Barcelona",
+   "resumen": "Das Teatre Lliure de Montjuïc präsentiert 'Spiegelneuronen', eine Show von Stefan Kaegi und Sasha Waltz, die Empathie durch Spiegelneuronen erforscht. Sie ist Teil des Festivals Flaix de Tardor."
+  },
+  "it": {
+   "titulo": "Spettacolo 'Spiegelneuronen' al Teatre Lliure di Barcellona",
+   "resumen": "Il Teatre Lliure de Montjuïc presenta 'Spiegelneuronen', uno spettacolo di Stefan Kaegi e Sasha Waltz che esplora l'empatia attraverso i neuroni specchio. Fa parte del festival Flaix de Tardor."
+  },
+  "pt": {
+   "titulo": "Espetáculo 'Spiegelneuronen' no Teatre Lliure de Barcelona",
+   "resumen": "O Teatre Lliure de Montjuïc apresenta 'Spiegelneuronen', um espetáculo de Stefan Kaegi e Sasha Waltz que explora a empatia através dos neurónios espelho. Faz parte do festival Flaix de Tardor."
+  }
+ },
+ "d2fcc83fd8": {
+  "fr": {
+   "titulo": "Première du documentaire '200 vidas. Paco Rabal' au cinéma",
+   "resumen": "Le documentaire '200 vidas. Paco Rabal', réalisé par Vanesa Benítez, sort au cinéma. Le film retrace la vie de l'acteur espagnol emblématique à travers des enregistrements et des témoignages."
+  },
+  "de": {
+   "titulo": "Premiere des Dokumentarfilms '200 vidas. Paco Rabal' im Kino",
+   "resumen": "Der Dokumentarfilm '200 vidas. Paco Rabal' unter der Regie von Vanesa Benítez kommt ins Kino. Der Film rekonstruiert das Leben des ikonischen spanischen Schauspielers anhand von Aufnahmen und Zeugenaussagen."
+  },
+  "it": {
+   "titulo": "Anteprima del documentario '200 vidas. Paco Rabal' al cinema",
+   "resumen": "Arriva al cinema il documentario '200 vidas. Paco Rabal', diretto da Vanesa Benítez. Il film ricostruisce la vita dell'iconico attore spagnolo attraverso registrazioni e testimonianze."
+  },
+  "pt": {
+   "titulo": "Estreia do documentário '200 vidas. Paco Rabal' nos cinemas",
+   "resumen": "Chega aos cinemas o documentário '200 vidas. Paco Rabal', dirigido por Vanesa Benítez. O filme reconstrói a vida do icónico ator espanhol através de gravações e testemunhos."
+  }
+ },
+ "06fbe6a969": {
+  "fr": {
+   "titulo": "Spectacles de flamenco à Bizkaia",
+   "resumen": "Les chanteuses Mercedes Ruiz, Paca Rodríguez et La Macanita proposeront trois spectacles de flamenco distincts en Bizkaia durant le week-end."
+  },
+  "de": {
+   "titulo": "Flamenco-Aufführungen in Bizkaia",
+   "resumen": "Die Sängerinnen Mercedes Ruiz, Paca Rodríguez und La Macanita bieten am Wochenende drei separate Flamenco-Shows in Bizkaia dar."
+  },
+  "it": {
+   "titulo": "Spettacoli di flamenco a Bizkaia",
+   "resumen": "Le cantanti Mercedes Ruiz, Paca Rodríguez e La Macanita offriranno tre spettacoli di flamenco separati a Bizkaia durante il fine settimana."
+  },
+  "pt": {
+   "titulo": "Atuações de flamenco em Bizkaia",
+   "resumen": "As cantoras Mercedes Ruiz, Paca Rodríguez e La Macanita oferecerão três espetáculos de flamenco distintos em Bizkaia durante o fim de semana."
+  }
+ },
+ "32c973e4f0": {
+  "fr": {
+   "titulo": "Le film basque 'Salitre' inaugure la Semaine de la Terreur",
+   "resumen": "Le film basque 'Salitre' sera chargé d'inaugurer la Semaine de la Terreur. Les abonnements seront mis en vente ce vendredi et les billets individuels le lundi."
+  },
+  "de": {
+   "titulo": "Der baskische Film 'Salitre' eröffnet die Terrorwoche",
+   "resumen": "Der baskische Film 'Salitre' wird die Terrorwoche eröffnen. Dauerkarten sind ab Freitag erhältlich, Einzeltickets ab Montag."
+  },
+  "it": {
+   "titulo": "Il film basco 'Salitre' inaugura la Settimana del Terrore",
+   "resumen": "Il film basco 'Salitre' sarà incaricato di inaugurare la Settimana del Terrore. Gli abbonamenti saranno in vendita questo venerdì e i biglietti singoli lunedì."
+  },
+  "pt": {
+   "titulo": "O filme basco 'Salitre' inaugura a Semana do Terror",
+   "resumen": "O filme basco 'Salitre' será o responsável por inaugurar a Semana do Terror. Os passes estarão à venda na sexta-feira e os bilhetes individuais na segunda-feira."
+  }
+ },
+ "6f8d39fae3": {
+  "fr": {
+   "titulo": "Exposition 'Paisajes Soñados' de Lucía Mir",
+   "resumen": "La Galerie Mecha accueille l'exposition 'Paisajes Soñados' de l'artiste ilicitana Lucía Mir, explorant les liens entre mémoire et imagination."
+  },
+  "de": {
+   "titulo": "Ausstellung 'Paisajes Soñados' von Lucía Mir",
+   "resumen": "Die Galerie Mecha beherbergt die Ausstellung 'Paisajes Soñados' der Künstlerin Lucía Mir aus Elche, die Verbindungen zwischen Erinnerung und Vorstellungskraft erforscht."
+  },
+  "it": {
+   "titulo": "Mostra 'Paisajes Soñados' di Lucía Mir",
+   "resumen": "La Galleria Mecha ospita la mostra 'Paisajes Soñados' dell'artista ilicitana Lucía Mir, esplorando i legami tra memoria e immaginazione."
+  },
+  "pt": {
+   "titulo": "Exposição 'Paisajes Soñados' de Lucía Mir",
+   "resumen": "A Galeria Mecha acolhe a exposição 'Paisajes Soñados' da artista ilicitana Lucía Mir, explorando os laços entre memória e imaginação."
+  }
+ },
+ "050ce3d351": {
+  "fr": {
+   "titulo": "Concerts de Rock au Stereo",
+   "resumen": "La salle Stereo de Logroño accueille des concerts de rock ce vendredi avec Duro y Cuarentena, et samedi avec Naked Eva et Protocolo Snob."
+  },
+  "de": {
+   "titulo": "Rockkonzerte im Stereo",
+   "resumen": "Der Veranstaltungsort Stereo in Logroño beherbergt am Freitag Rockkonzerte mit Duro y Cuarentena und am Samstag mit Naked Eva und Protocolo Snob."
+  },
+  "it": {
+   "titulo": "Concerti Rock allo Stereo",
+   "resumen": "Il locale Stereo di Logroño ospita concerti rock questo venerdì con Duro y Cuarentena, e sabato con Naked Eva e Protocolo Snob."
+  },
+  "pt": {
+   "titulo": "Concertos de Rock no Stereo",
+   "resumen": "O recinto Stereo de Logroño acolhe concertos de rock esta sexta-feira com Duro y Cuarentena, e no sábado com Naked Eva e Protocolo Snob."
+  }
+ },
+ "33556b5a76": {
+  "fr": {
+   "titulo": "Festival de Musique Contemporaine à La Rioja",
+   "resumen": "Rioja Filarmonía organise le XII Festival de Musique Contemporaine avec trois concerts et une conférence du 23 octobre au 28 novembre."
+  },
+  "de": {
+   "titulo": "Festival für zeitgenössische Musik in La Rioja",
+   "resumen": "Rioja Filarmonía organisiert das 12. Festival für zeitgenössische Musik mit drei Konzerten und einem Vortrag vom 23. Oktober bis 28. November."
+  },
+  "it": {
+   "titulo": "Festival di Musica Contemporanea a La Rioja",
+   "resumen": "Rioja Filarmonía organizza il XII Festival di Musica Contemporanea con tre concerti e una conferenza dal 23 ottobre al 28 novembre."
+  },
+  "pt": {
+   "titulo": "Festival de Música Contemporânea em La Rioja",
+   "resumen": "Rioja Filarmonía organiza o XII Festival de Música Contemporânea com três concertos e uma palestra de 23 de outubro a 28 de novembro."
+  }
+ },
+ "5716012f58": {
+  "fr": {
+   "titulo": "La comédie musicale 'Querido Evan Hansen' arrive à Madrid",
+   "resumen": "La comédie musicale 'Querido Evan Hansen', un phénomène social sur le suicide adolescent et l'anxiété, est présentée au Théâtre Rialto de Madrid."
+  },
+  "de": {
+   "titulo": "Das Musical 'Querido Evan Hansen' kommt nach Madrid",
+   "resumen": "Das Musical 'Querido Evan Hansen', ein soziales Phänomen über jugendlichen Selbstmord und Angstzustände, feiert Premiere im Teatro Rialto in Madrid."
+  },
+  "it": {
+   "titulo": "Il musical 'Querido Evan Hansen' arriva a Madrid",
+   "resumen": "Il musical 'Querido Evan Hansen', un fenomeno sociale sul suicidio adolescenziale e l'ansia, debutta al Teatro Rialto di Madrid."
+  },
+  "pt": {
+   "titulo": "O musical 'Querido Evan Hansen' chega a Madrid",
+   "resumen": "O musical 'Querido Evan Hansen', um fenómeno social sobre suicídio adolescente e ansiedade, estreia no Teatro Rialto de Madrid."
+  }
+ },
+ "cee31539bb": {
+  "fr": {
+   "titulo": "48h Open House Barcelona 2026",
+   "resumen": "Festival d'architecture avec des visites de bâtiments ouverts le samedi 24 et le dimanche 25 octobre à Barcelone et dans cinq autres communes."
+  },
+  "de": {
+   "titulo": "48h Open House Barcelona 2026",
+   "resumen": "Architekturfestival mit Besichtigungen offener Gebäude am Samstag, den 24. und Sonntag, den 25. Oktober in Barcelona und fünf weiteren Gemeinden."
+  },
+  "it": {
+   "titulo": "48h Open House Barcelona 2026",
+   "resumen": "Festival di architettura con visite a edifici aperti sabato 24 e domenica 25 ottobre a Barcellona e in altre cinque località."
+  },
+  "pt": {
+   "titulo": "48h Open House Barcelona 2026",
+   "resumen": "Festival de arquitetura com visitas a edifícios abertos no sábado 24 e domingo 25 de outubro em Barcelona e em cinco outras localidades."
+  }
+ },
+ "905215a066": {
+  "fr": {
+   "titulo": "El Tenorio au cimetière de San Javier",
+   "resumen": "Le samedi 24 octobre, le spectacle théâtral basé sur le Tenorio de Zorrilla revient, après une promenade sensorielle dans les tombes du cimetière."
+  },
+  "de": {
+   "titulo": "El Tenorio auf dem Friedhof von San Javier",
+   "resumen": "Am Samstag, den 24. Oktober, kehrt die Theateraufführung basierend auf Zorrillas Tenorio zurück, nach einem sinnlichen Spaziergang durch die Gräber des Friedhofs."
+  },
+  "it": {
+   "titulo": "El Tenorio nel cimitero di San Javier",
+   "resumen": "Sabato 24 ottobre torna lo spettacolo teatrale basato sul Tenorio di Zorrilla, dopo una passeggiata sensoriale tra le tombe del cimitero."
+  },
+  "pt": {
+   "titulo": "El Tenorio no cemitério de San Javier",
+   "resumen": "No sábado, 24 de outubro, regressa o espetáculo teatral baseado no Tenorio de Zorrilla, após um passeio sensorial pelos túmulos do cemitério."
+  }
+ },
+ "a94d349b34": {
+  "fr": {
+   "titulo": "Nuria Mora à la Torre de Don Borja",
+   "resumen": "Le 24 octobre, l'artiste madrilène anime à Santillana del Mar la rencontre 'Fuera del marco: espacio y color' dans le cadre de l'Œuvre Invitée."
+  },
+  "de": {
+   "titulo": "Nuria Mora im Torre de Don Borja",
+   "resumen": "Am 24. Oktober leitet die Madrider Künstlerin in Santillana del Mar das Treffen 'Fuera del marco: espacio y color' im Rahmen des Gastwerks."
+  },
+  "it": {
+   "titulo": "Nuria Mora alla Torre de Don Borja",
+   "resumen": "Il 24 ottobre, l'artista madrilena guida a Santillana del Mar l'incontro 'Fuera del marco: espacio y color' nell'ambito dell'Opera Invitata."
+  },
+  "pt": {
+   "titulo": "Nuria Mora na Torre de Don Borja",
+   "resumen": "No dia 24 de outubro, a artista madrilena protagoniza em Santillana del Mar o encontro 'Fuera del marco: espacio y color' como parte da Obra Convidada."
+  }
+ },
+ "15e213836f": {
+  "fr": {
+   "titulo": "Concerts de Kase.O dans les Asturies",
+   "resumen": "Kase.O donnera deux concerts dans les Asturies, à Grandas de Salime et Boal, pour clôturer des ateliers créatifs visant à promouvoir la musique dans les zones rurales."
+  },
+  "de": {
+   "titulo": "Kase.O-Konzerte in Asturien",
+   "resumen": "Kase.O gibt zwei Konzerte in Asturien, in Grandas de Salime und Boal, als Abschluss von Kreativworkshops zur Förderung von Musik in ländlichen Gebieten."
+  },
+  "it": {
+   "titulo": "Concerti di Kase.O nelle Asturie",
+   "resumen": "Kase.O terrà due concerti nelle Asturie, a Grandas de Salime e Boal, come chiusura di laboratori creativi per promuovere la musica nelle aree rurali."
+  },
+  "pt": {
+   "titulo": "Concertos de Kase.O nas Astúrias",
+   "resumen": "Kase.O oferecerá dois concertos nas Astúrias, em Grandas de Salime e Boal, como encerramento de oficinas criativas para promover a música em áreas rurais."
+  }
+ },
+ "8b3ac87e72": {
+  "fr": {
+   "titulo": "Mayte Beltrán et Kasia Ozog présentent 'A través del desierto' au Teatro Apolo",
+   "resumen": "Ce samedi, Mayte Beltrán et Kasia Ozog présentent leur nouvelle création 'A través del desierto' au Teatro Apolo, un spectacle inspiré par le désert de Tabernas."
+  },
+  "de": {
+   "titulo": "Mayte Beltrán und Kasia Ozog präsentieren 'A través del desierto' im Teatro Apolo",
+   "resumen": "Diesen Samstag präsentieren Mayte Beltrán und Kasia Ozog ihre neue Kreation 'A través del desierto' im Teatro Apolo, eine Show, die vom Tabernas-Wüste inspiriert ist."
+  },
+  "it": {
+   "titulo": "Mayte Beltrán e Kasia Ozog presentano 'A través del desierto' al Teatro Apolo",
+   "resumen": "Questo sabato, Mayte Beltrán e Kasia Ozog presentano la loro nuova creazione 'A través del desierto' al Teatro Apolo, uno spettacolo ispirato al deserto di Tabernas."
+  },
+  "pt": {
+   "titulo": "Mayte Beltrán e Kasia Ozog apresentam 'A través del desierto' no Teatro Apolo",
+   "resumen": "Este sábado, Mayte Beltrán e Kasia Ozog apresentam a sua nova criação 'A través del desierto' no Teatro Apolo, um espetáculo inspirado no deserto de Tabernas."
+  }
+ },
+ "89aaffd6d0": {
+  "fr": {
+   "titulo": "Spectacle de cirque 'W.C.' sur la place Pablo Cazard ce samedi",
+   "resumen": "La place Pablo Cazard accueillera ce samedi le spectacle de cirque 'W.C.' de Lapso Producciones & David Cebrián à 12h00 avec entrée libre."
+  },
+  "de": {
+   "titulo": "Zirkusshow 'W.C.' am Samstag auf dem Pablo Cazard Platz",
+   "resumen": "Der Pablo Cazard Platz wird am Samstag die Zirkusshow 'W.C.' von Lapso Producciones & David Cebrián um 12:00 Uhr bei freiem Eintritt beherbergen."
+  },
+  "it": {
+   "titulo": "Spettacolo circense 'W.C.' in piazza Pablo Cazard questo sabato",
+   "resumen": "La piazza Pablo Cazard ospiterà questo sabato lo spettacolo circense 'W.C.' di Lapso Producciones & David Cebrián alle 12:00 con ingresso libero."
+  },
+  "pt": {
+   "titulo": "Espetáculo de circo 'W.C.' na praça Pablo Cazard este sábado",
+   "resumen": "A praça Pablo Cazard acolherá este sábado o espetáculo de circo 'W.C.' de Lapso Producciones & David Cebrián às 12:00 com entrada livre."
+  }
+ },
+ "25a2016ff1": {
+  "fr": {
+   "titulo": "Hommage à Los Ángeles à Grenade avec Miguel Ríos et Soleá Morente",
+   "resumen": "Le 24 octobre, le Teatro CajaGranada accueillera un concert hommage à Los Ángeles avec Miguel Ríos, Lori Meyers et Soleá Morente, célébrant les 50 ans du groupe."
+  },
+  "de": {
+   "titulo": "Hommage an Los Ángeles in Granada mit Miguel Ríos und Soleá Morente",
+   "resumen": "Am 24. Oktober findet im Teatro CajaGranada ein Tributkonzert für Los Ángeles mit Miguel Ríos, Lori Meyers und Soleá Morente statt, das das 50-jährige Bestehen der Band feiert."
+  },
+  "it": {
+   "titulo": "Omaggio a Los Ángeles a Granada con Miguel Ríos e Soleá Morente",
+   "resumen": "Il 24 ottobre, il Teatro CajaGranada ospiterà un concerto omaggio a Los Ángeles con Miguel Ríos, Lori Meyers e Soleá Morente, celebrando i 50 anni della band."
+  },
+  "pt": {
+   "titulo": "Homenagem a Los Ángeles em Granada com Miguel Ríos e Soleá Morente",
+   "resumen": "No dia 24 de outubro, o Teatro CajaGranada acolherá um concerto de homenagem a Los Ángeles com Miguel Ríos, Lori Meyers e Soleá Morente, celebrando os 50 anos da banda."
+  }
+ },
+ "5b0a515972": {
+  "fr": {
+   "titulo": "Première de 'The forest' en Espagne dans le cadre du festival Temporada Alta",
+   "resumen": "La pièce 'The forest', une fusion de théâtre et de danse de Claudio Tolcachir et Cristiana Morganti, est présentée en première en Espagne au Teatre de Salt. Elle fait partie du festival Temporada Alta."
+  },
+  "de": {
+   "titulo": "Premiere von 'The forest' in Spanien im Rahmen des Festivals Temporada Alta",
+   "resumen": "Das Stück 'The forest', eine Fusion aus Theater und Tanz von Claudio Tolcachir und Cristiana Morganti, feiert seine Premiere in Spanien im Teatre de Salt. Es ist Teil des Festivals Temporada Alta."
+  },
+  "it": {
+   "titulo": "Anteprima di 'The forest' in Spagna nell'ambito del festival Temporada Alta",
+   "resumen": "L'opera 'The forest', una fusione di teatro e danza di Claudio Tolcachir e Cristiana Morganti, debutta in Spagna al Teatre de Salt. Fa parte del festival Temporada Alta."
+  },
+  "pt": {
+   "titulo": "Estreia de 'The forest' em Espanha no âmbito do festival Temporada Alta",
+   "resumen": "A peça 'The forest', uma fusão de teatro e dança de Claudio Tolcachir e Cristiana Morganti, estreia em Espanha no Teatre de Salt. Faz parte do festival Temporada Alta."
+  }
+ },
+ "8f2953e4e5": {
+  "fr": {
+   "titulo": "Sortie du film 'Superthings: La película'",
+   "resumen": "Le film d'animation 'Superthings: La película', basé sur les jouets populaires espagnols créés par Magic Box et doublé par Ana Morgade et Brays Efe, sort ce jeudi."
+  },
+  "de": {
+   "titulo": "Premiere des Films 'Superthings: La película'",
+   "resumen": "Der Animationsfilm 'Superthings: La película', basierend auf den beliebten spanischen Spielzeugen von Magic Box und synchronisiert von Ana Morgade und Brays Efe, kommt diesen Donnerstag heraus."
+  },
+  "it": {
+   "titulo": "Uscita del film 'Superthings: La película'",
+   "resumen": "Esce questo giovedì il film d'animazione 'Superthings: La película', basato sui popolari giocattoli spagnoli creati da Magic Box e doppiato da Ana Morgade e Brays Efe."
+  },
+  "pt": {
+   "titulo": "Estreia do filme 'Superthings: La película'",
+   "resumen": "Estreia esta quinta-feira o filme de animação 'Superthings: La película', baseado nos populares bonecos espanhóis criados pela Magic Box, com as vozes de Ana Morgade e Brays Efe."
+  }
+ },
+ "4bab669a6d": {
+  "fr": {
+   "titulo": "Finale du III Circuit Provincial de novilladas à Huéscar",
+   "resumen": "La finale du III Circuit Provincial de novilladas sans picadors se tiendra ce samedi dans les arènes de Huéscar, avec la participation de six jeunes novilleros."
+  },
+  "de": {
+   "titulo": "Finale des III. Provinzialen Novillada-Zirkus in Huéscar",
+   "resumen": "Das Finale des III. Provinzialen Novillada-Zirkus (ohne Picadores) findet diesen Samstag in der Stierkampfarena von Huéscar statt, mit der Teilnahme von sechs jungen Novilleros."
+  },
+  "it": {
+   "titulo": "Finale del III Circuito Provinciale di novilladas a Huéscar",
+   "resumen": "La finale del III Circuito Provinciale di novilladas senza picadores si terrà questo sabato nell'arena di Huéscar, con la partecipazione di sei giovani novilleros."
+  },
+  "pt": {
+   "titulo": "Final do III Circuito Provincial de novilhadas em Huéscar",
+   "resumen": "A final do III Circuito Provincial de novilhadas sem picadores realizar-se-á este sábado na Praça de Huéscar, com a participação de seis novilheiros."
+  }
+ },
+ "5d8277620c": {
+  "fr": {
+   "titulo": "Échange choral à Logroño",
+   "resumen": "Les groupes Cantemos et Mairu Abesbatza offriront un échange choral commun ce samedi à 20h15 en l'église de Palacio de Logroño."
+  },
+  "de": {
+   "titulo": "Choraustausch in Logroño",
+   "resumen": "Die Chöre Cantemos und Mairu Abesbatza bieten am Samstag um 20:15 Uhr in der Iglesia de Palacio in Logroño einen gemeinsamen Choraustausch an."
+  },
+  "it": {
+   "titulo": "Scambio corale a Logroño",
+   "resumen": "I gruppi Cantemos e Mairu Abesbatza offriranno uno scambio corale congiunto questo sabato alle 20:15 nella Chiesa di Palacio di Logroño."
+  },
+  "pt": {
+   "titulo": "Intercâmbio coral em Logroño",
+   "resumen": "Os grupos Cantemos e Mairu Abesbatza oferecerão um intercâmbio coral conjunto este sábado às 20:15 na Igreja de Palacio de Logroño."
+  }
+ },
+ "956a06e54c": {
+  "fr": {
+   "titulo": "Festival Passatge Insòlit à Santa Coloma de Gramenet",
+   "resumen": "La 21ème édition du festival Passatge Insòlit se déroule à Santa Coloma de Gramenet avec 16 spectacles d'arts de la scène, dont trois premières."
+  },
+  "de": {
+   "titulo": "Festival Passatge Insòlit in Santa Coloma de Gramenet",
+   "resumen": "Die 21. Ausgabe des Festivals Passatge Insòlit findet in Santa Coloma de Gramenet mit 16 Darbietungen statt, darunter drei Premieren."
+  },
+  "it": {
+   "titulo": "Festival Passatge Insòlit a Santa Coloma de Gramenet",
+   "resumen": "La 21ª edizione del festival Passatge Insòlit si svolge a Santa Coloma de Gramenet con 16 spettacoli di arti performative, tra cui tre anteprime."
+  },
+  "pt": {
+   "titulo": "Festival Passatge Insòlit em Santa Coloma de Gramenet",
+   "resumen": "A 21ª edição do festival Passatge Insòlit decorre em Santa Coloma de Gramenet com 16 espetáculos de artes performativas, incluindo três estreias."
+  }
+ },
+ "af3561ad00": {
+  "fr": {
+   "titulo": "Ballet à Almería : En direct de la Royal Opera House",
+   "resumen": "Profitez d'une retransmission par satellite de ballet depuis la Royal Opera House au Kinepolis Almería Mediterráneo le mardi 27 octobre à 20h15."
+  },
+  "de": {
+   "titulo": "Ballett in Almería: Live von der Royal Opera House",
+   "resumen": "Genießen Sie eine Satellitenübertragung von Ballett von der Royal Opera House im Kinepolis Almería Mediterráneo am Dienstag, den 27. Oktober um 20:15 Uhr."
+  },
+  "it": {
+   "titulo": "Balletto ad Almería: Diretta dalla Royal Opera House",
+   "resumen": "Goditi una trasmissione via satellite di balletto dalla Royal Opera House al Kinepolis Almería Mediterráneo martedì 27 ottobre alle 20:15."
+  },
+  "pt": {
+   "titulo": "Ballet em Almería: Direto da Royal Opera House",
+   "resumen": "Desfrute de uma transmissão via satélite de ballet da Royal Opera House no Kinepolis Almería Mediterráneo na terça-feira, 27 de outubro, às 20:15."
+  }
+ },
+ "342108f3e6": {
+  "fr": {
+   "titulo": "Spécials Faro Santander : Día de Muertos",
+   "resumen": "Faro Santander célèbre le Día de Muertos avec un autel inspiré de la Collection Gelman et un programme spécial du 28 octobre au 9 novembre."
+  },
+  "de": {
+   "titulo": "Faro Santander Specials: Tag der Toten",
+   "resumen": "Faro Santander feiert den Tag der Toten mit einem Altar, der von der Gelman Collection inspiriert ist, und einem Sonderprogramm vom 28. Oktober bis 9. November."
+  },
+  "it": {
+   "titulo": "Speciali Faro Santander: Giorno dei Morti",
+   "resumen": "Faro Santander celebra il Giorno dei Morti con un Altare ispirato alla Collezione Gelman e un programma speciale dal 28 ottobre al 9 novembre."
+  },
+  "pt": {
+   "titulo": "Especiais Faro Santander: Dia dos Mortos",
+   "resumen": "Faro Santander celebra o Dia dos Mortos com um Altar inspirado na Coleção Gelman e um programa especial de 28 de outubro a 9 de novembro."
+  }
  }
 }
