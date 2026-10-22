@@ -1,6 +1,7 @@
 ---
-// Partidos de hoy. Solo se pinta si hay alguno (planes con `match` y fecha de hoy); solo se usa en la portada.
-// En el resto del sitio el partido es un plan fechado más y sale en calendario, temas, etc.
+// Partidos de hoy: widget alargado con escudos, hora, puesto en la clasificación y datos del partido.
+// Solo se pinta si hay alguno (planes con `match` y fecha de hoy) y solo se usa en la portada.
+// En el resto del sitio el partido es un plan fechado más y sale en calendario, temas, deportes, etc.
 import { t, url } from '../i18n/ui.js';
 import { plans, TODAY, hasText } from '../lib/data.js';
 
@@ -9,6 +10,9 @@ const L = t[lang];
 const games = plans
   .filter((p) => p.match && p.start === TODAY)
   .sort((a, b) => (a.time || '').localeCompare(b.time || ''));
+const side = (m, k) => ({
+  name: m[k], crest: m[`${k}Crest`], pos: m[`${k}Pos`], pts: m[`${k}Pts`],
+});
 ---
 {games.length > 0 && (
   <section class="widget widget--wide match" aria-labelledby="w-match" data-search-hide>
@@ -16,21 +20,32 @@ const games = plans
     <ul class="match-list">
       {games.map((p) => {
         const m = p.match;
-        const extra = [m.matchday ? `${L.w.matchday} ${m.matchday}` : m.stage ? `${L.w.matchStage}: ${L.w.matchStages[m.stage] || m.stage}` : null, m.venue ? `${L.w.matchVenue}: ${m.venue}` : null].filter(Boolean);
+        const sides = [side(m, 'home'), side(m, 'away')];
+        const round = m.matchday ? `${L.w.matchday} ${m.matchday}` : m.stage ? (L.w.matchStages[m.stage] || m.stage) : null;
         return (
           <li class="match-card">
             <p class="match-comp">
               {m.emblem && <img src={m.emblem} alt="" width="20" height="20" loading="lazy" decoding="async" />}
-              <span>{m.competition}</span>
+              <span>{[m.competition, round].filter(Boolean).join(' · ')}</span>
             </p>
-            <p class="match-teams">
-              <span class="match-team">{m.homeCrest && <img src={m.homeCrest} alt="" width="36" height="36" loading="lazy" decoding="async" />}{m.home}</span>
-              <span class="match-vs" aria-hidden="true">–</span>
-              <span class="match-team">{m.awayCrest && <img src={m.awayCrest} alt="" width="36" height="36" loading="lazy" decoding="async" />}{m.away}</span>
+            <div class="match-fixture">
+              {sides.map((s, i) => (
+                <div class={`match-side${i ? ' match-side--away' : ''}`}>
+                  {s.crest && <img src={s.crest} alt="" width="56" height="56" loading="lazy" decoding="async" />}
+                  <span class="match-name">{s.name}</span>
+                  {s.pos != null && <span class="match-pos">{L.w.matchPos} {s.pos}{s.pts != null && ` · ${s.pts} ${L.w.matchPts}`}</span>}
+                </div>
+              ))}
+              <div class="match-center">
+                {p.time && <strong class="match-clock">{p.time}</strong>}
+                <span class="muted">{L.w.matchTime}</span>
+              </div>
+            </div>
+            {m.venue && <p class="muted match-extra">{L.w.matchVenue}: {m.venue}</p>}
+            <p class="match-links">
+              {hasText(p, lang) && <a class="more" href={url.plan(lang, p.slug)}>{L.w.matchMore}</a>}
+              <a class="more" href={url.sports(lang)}>{L.w.matchSports}</a>
             </p>
-            <p class="match-time">{p.time && <strong>{p.time}</strong>} <span class="muted">{L.w.matchTime}</span></p>
-            {extra.length > 0 && <p class="muted match-extra">{extra.join(' · ')}</p>}
-            {hasText(p, lang) && <a class="more" href={url.plan(lang, p.slug)}>{L.w.matchMore}</a>}
           </li>
         );
       })}

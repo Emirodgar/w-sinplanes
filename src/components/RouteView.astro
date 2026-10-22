@@ -68,6 +68,17 @@ const split = (list) => ({ seasonal: list.filter((p) => p.kind === 'estacional')
 
 {r.type === 'races' && <RacesView lang={lang} route={r} />}
 
+{/* Página de deportes: solo planes con tema deporte. Sin enlace en el menú. */}
+{r.type === 'sports' && (
+  <ListView lang={lang} title={L.sportsTitle} intro={L.sportsIntro} route={r} noindex={false} {...split(byTopic('deporte'))}>
+    <section class="section">
+      <h2>{L.sportsRaces}</h2>
+      <p>{L.sportsRacesIntro}</p>
+      <p><a class="more" href={url.races(lang)}>{L.races.title}</a></p>
+    </section>
+  </ListView>
+)}
+
 {r.type === 'calendar' && (
   <ListView lang={lang} title={L.calendarTitle} intro={L.calendarIntro} route={r} noindex={false}>
     <ul class="months">

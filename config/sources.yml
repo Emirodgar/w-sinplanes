@@ -57,6 +57,8 @@ fuentes:
     adaptador: football
     secreto: FOOTBALL_DATA_TOKEN
     competiciones: [PD, CL]
+    # Entra el partido si alguno de los dos equipos está entre los N primeros de la clasificación (además de la lista de abajo)
+    top_clasificacion: 5
     # Solo entran partidos con alguno de estos equipos o fases finales
     equipos_destacados: ["Real Madrid", "FC Barcelona", "Atlético", "Athletic", "Real Sociedad", "Sevilla", "Betis", "Villarreal", "Valencia"]
     # Estadio de cada equipo destacado (el plan gratuito de la API no da el estadio). Mismo texto que en equipos_destacados.

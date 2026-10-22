@@ -25,12 +25,12 @@ export const monthName = (l, m) => (MONTH_LABELS[l]?.[m - 1]) ?? (l === 'en' ? c
 
 // Segmentos de URL traducidos. El español va en la raíz; el resto con prefijo de idioma.
 const SEG = {
-  es: { plan: 'plan', topics: 'temas', places: 'lugares', calendar: 'calendario', museums: 'museos', routes: 'rutas', parks: 'parques', books: 'libros', series: 'series', movies: 'peliculas', podcasts: 'podcasts', races: 'carreras' },
-  en: { plan: 'plan', topics: 'topics', places: 'places', calendar: 'calendar', museums: 'museums', routes: 'routes', parks: 'parks', books: 'books', series: 'series', movies: 'movies', podcasts: 'podcasts', races: 'races' },
-  fr: { plan: 'plan', topics: 'themes', places: 'lieux', calendar: 'calendrier', museums: 'musees', routes: 'itineraires', parks: 'parcs', books: 'livres', series: 'series', movies: 'films', podcasts: 'podcasts', races: 'courses' },
-  de: { plan: 'plan', topics: 'themen', places: 'orte', calendar: 'kalender', museums: 'museen', routes: 'routen', parks: 'naturparks', books: 'buecher', series: 'serien', movies: 'filme', podcasts: 'podcasts', races: 'laeufe' },
-  it: { plan: 'piano', topics: 'temi', places: 'luoghi', calendar: 'calendario', museums: 'musei', routes: 'itinerari', parks: 'parchi', books: 'libri', series: 'serie', movies: 'film', podcasts: 'podcast', races: 'corse' },
-  pt: { plan: 'plano', topics: 'temas', places: 'locais', calendar: 'calendario', museums: 'museus', routes: 'rotas', parks: 'parques', books: 'livros', series: 'series', movies: 'filmes', podcasts: 'podcasts', races: 'corridas' },
+  es: { plan: 'plan', sports: 'deportes', topics: 'temas', places: 'lugares', calendar: 'calendario', museums: 'museos', routes: 'rutas', parks: 'parques', books: 'libros', series: 'series', movies: 'peliculas', podcasts: 'podcasts', races: 'carreras' },
+  en: { plan: 'plan', sports: 'sports', topics: 'topics', places: 'places', calendar: 'calendar', museums: 'museums', routes: 'routes', parks: 'parks', books: 'books', series: 'series', movies: 'movies', podcasts: 'podcasts', races: 'races' },
+  fr: { plan: 'plan', sports: 'sports', topics: 'themes', places: 'lieux', calendar: 'calendrier', museums: 'musees', routes: 'itineraires', parks: 'parcs', books: 'livres', series: 'series', movies: 'films', podcasts: 'podcasts', races: 'courses' },
+  de: { plan: 'plan', sports: 'sport', topics: 'themen', places: 'orte', calendar: 'kalender', museums: 'museen', routes: 'routen', parks: 'naturparks', books: 'buecher', series: 'serien', movies: 'filme', podcasts: 'podcasts', races: 'laeufe' },
+  it: { plan: 'piano', sports: 'sport', topics: 'temi', places: 'luoghi', calendar: 'calendario', museums: 'musei', routes: 'itinerari', parks: 'parchi', books: 'libri', series: 'serie', movies: 'film', podcasts: 'podcast', races: 'corse' },
+  pt: { plan: 'plano', sports: 'desportos', topics: 'temas', places: 'locais', calendar: 'calendario', museums: 'museus', routes: 'rotas', parks: 'parques', books: 'livros', series: 'series', movies: 'filmes', podcasts: 'podcasts', races: 'corridas' },
 };
 const pre = (l) => (l === DEFAULT_LANG ? '/' : `/${l}/`);
 const topicSlug = (l, tp) => (l === DEFAULT_LANG ? tp.id : tp.slugs[l]);
@@ -50,6 +50,7 @@ export const url = {
   books: (l) => `${pre(l)}${SEG[l].books}/`,
   podcasts: (l) => `${pre(l)}${SEG[l].podcasts}/`,
   races: (l) => `${pre(l)}${SEG[l].races}/`,
+  sports: (l) => `${pre(l)}${SEG[l].sports}/`,
   series: (l) => `${pre(l)}${SEG[l].series}/`,
   movies: (l) => `${pre(l)}${SEG[l].movies}/`,
   calendar: (l) => `${pre(l)}${SEG[l].calendar}/`,
@@ -76,6 +77,7 @@ export function routeUrl(l, r) {
     case 'books': return url.books(l);
     case 'podcasts': return url.podcasts(l);
     case 'races': return url.races(l);
+    case 'sports': return url.sports(l);
     case 'series': return url.series(l);
     case 'movies': return url.movies(l);
     case 'calendar': return url.calendar(l);
@@ -101,6 +103,7 @@ export const t = {
     museumsTitle: 'Museos y monumentos de España', museumsIntro: 'Museos, palacios, catedrales y otros lugares de interés que se pueden visitar todo el año. Consulta horarios y entradas en la web oficial de cada uno.', routesTitle: 'Rutas de España', routesIntro: 'Itinerarios de uno o varios días por ciudades, caminos y paisajes de España.',
     parksTitle: 'Parques y espacios naturales de España', parksIntro: 'Parques nacionales, parques naturales, reservas de la biosfera y otros espacios protegidos. Algunos exigen permiso o tienen aforo limitado: consulta las condiciones antes de ir.',
     parkTypes: { nacional: 'Parques nacionales', natural: 'Parques naturales', biosfera: 'Reservas de la biosfera', otros: 'Otros espacios naturales' },
+    sportsTitle: 'Deporte en España', sportsIntro: 'Partidos de fútbol, carreras populares y otras citas deportivas, ordenadas por fecha.', sportsRaces: 'Carreras populares', sportsRacesIntro: 'Las carreras más conocidas del calendario español, con su fecha aproximada.',
     navLabel: 'Principal',
     langLabel: 'Idioma',
     searchLabel: 'Buscar planes', searchPlaceholder: 'Busca por nombre, lugar o tema…', searchNone: 'No hay planes que coincidan con tu búsqueda.', newTab: 'se abre en una pestaña nueva',
@@ -118,7 +121,7 @@ export const t = {
       podcast: 'Podcast de la semana',
       cine: 'En cartelera',
       series: 'Series con muy buena nota',
-      daily: 'Recomendaciones para hoy', dailySeries: 'Serie', dailyBook: 'Libro', dailyPodcast: 'Podcast', dailyMovie: 'Película', matchToday: 'Hoy hay partido', matchTime: 'Hora peninsular', matchday: 'Jornada', matchStage: 'Fase', matchVenue: 'Estadio', matchMore: 'Ver ficha', matchStages: { PLAYOFFS: 'Play-off', LAST_16: 'Octavos de final', QUARTER_FINALS: 'Cuartos de final', SEMI_FINALS: 'Semifinales', FINAL: 'Final' },
+      daily: 'Recomendaciones para hoy', dailySeries: 'Serie', dailyBook: 'Libro', dailyPodcast: 'Podcast', dailyMovie: 'Película', matchToday: 'Hoy hay partido', matchTime: 'Hora peninsular', matchday: 'Jornada', matchStage: 'Fase', matchVenue: 'Estadio', matchMore: 'Ver ficha', matchStages: { PLAYOFFS: 'Play-off', LAST_16: 'Octavos de final', QUARTER_FINALS: 'Cuartos de final', SEMI_FINALS: 'Semifinales', FINAL: 'Final' }, matchPos: 'Puesto', matchPts: 'pts', matchSports: 'Más deportes',
     },
     trendingIntro: 'Planes relacionados con lo que más se busca en Google estos días.',
     nearIntro: 'Te mostramos los planes más cercanos y, si va a llover, primero los que son a cubierto. Tu ubicación no sale de tu navegador.',
@@ -188,6 +191,7 @@ export const t = {
     museumsTitle: 'Museums and monuments in Spain', museumsIntro: 'Museums, palaces, cathedrals and other sights you can visit all year round. Check opening times and tickets on each site\'s official page.', routesTitle: 'Routes in Spain', routesIntro: 'Itineraries of one or several days through Spain\'s cities, trails and landscapes.',
     parksTitle: 'Parks and natural areas in Spain', parksIntro: 'National parks, natural parks, biosphere reserves and other protected areas. Some require a permit or have limited numbers: check the conditions before you go.',
     parkTypes: { nacional: 'National parks', natural: 'Natural parks', biosfera: 'Biosphere reserves', otros: 'Other natural areas' },
+    sportsTitle: 'Sport in Spain', sportsIntro: 'Football matches, popular races and other sporting events, in date order.', sportsRaces: 'Popular races', sportsRacesIntro: 'The best-known races on the Spanish calendar, with approximate dates.',
     navLabel: 'Main',
     langLabel: 'Language',
     searchLabel: 'Search plans', searchPlaceholder: 'Search by name, place or topic…', searchNone: 'No plans match your search.', newTab: 'opens in a new tab',
@@ -205,7 +209,7 @@ export const t = {
       podcast: 'Podcast of the week',
       cine: 'Now in cinemas',
       series: 'Top-rated series right now',
-      daily: 'Picks for today', dailySeries: 'Series', dailyBook: 'Book', dailyPodcast: 'Podcast', dailyMovie: 'Movie', matchToday: 'Match today', matchTime: 'Mainland Spain time', matchday: 'Matchday', matchStage: 'Stage', matchVenue: 'Stadium', matchMore: 'See details', matchStages: { PLAYOFFS: 'Play-offs', LAST_16: 'Round of 16', QUARTER_FINALS: 'Quarter-finals', SEMI_FINALS: 'Semi-finals', FINAL: 'Final' },
+      daily: 'Picks for today', dailySeries: 'Series', dailyBook: 'Book', dailyPodcast: 'Podcast', dailyMovie: 'Movie', matchToday: 'Match today', matchTime: 'Mainland Spain time', matchday: 'Matchday', matchStage: 'Stage', matchVenue: 'Stadium', matchMore: 'See details', matchStages: { PLAYOFFS: 'Play-offs', LAST_16: 'Round of 16', QUARTER_FINALS: 'Quarter-finals', SEMI_FINALS: 'Semi-finals', FINAL: 'Final' }, matchPos: 'Position', matchPts: 'pts', matchSports: 'More sport',
     },
     trendingIntro: 'Plans related to what people are searching for on Google right now.',
     nearIntro: 'We’ll show the closest plans and, if rain is likely, indoor ones first. Your location stays in your browser.',
@@ -275,6 +279,7 @@ export const t = {
     museumsTitle: 'Musées et monuments d’Espagne', museumsIntro: 'Musées, palais, cathédrales et autres lieux à visiter toute l’année. Vérifiez horaires et billets sur le site officiel de chacun.', routesTitle: 'Itinéraires en Espagne', routesIntro: 'Itinéraires d’un ou plusieurs jours à travers les villes, les chemins et les paysages d’Espagne.',
     parksTitle: 'Parcs et espaces naturels d’Espagne', parksIntro: 'Parcs nationaux, parcs naturels, réserves de la biosphère et autres espaces protégés. Certains demandent un permis ou limitent les visiteurs : vérifiez les conditions avant d’y aller.',
     parkTypes: { nacional: 'Parcs nationaux', natural: 'Parcs naturels', biosfera: 'Réserves de la biosphère', otros: 'Autres espaces naturels' },
+    sportsTitle: 'Sport en Espagne', sportsIntro: 'Matchs de football, courses populaires et autres rendez-vous sportifs, par date.', sportsRaces: 'Courses populaires', sportsRacesIntro: 'Les courses les plus connues du calendrier espagnol, avec leur date approximative.',
     navLabel: 'Principal',
     langLabel: 'Langue',
     searchLabel: 'Rechercher des idées', searchPlaceholder: 'Cherchez par nom, lieu ou thème…', searchNone: 'Aucune idée ne correspond à votre recherche.', newTab: 's’ouvre dans un nouvel onglet',
@@ -292,7 +297,7 @@ export const t = {
       podcast: 'Podcast de la semaine',
       cine: 'À l’affiche',
       series: 'Séries très bien notées',
-      daily: 'À découvrir aujourd’hui', dailySeries: 'Série', dailyBook: 'Livre', dailyPodcast: 'Podcast', dailyMovie: 'Film', matchToday: 'Match aujourd’hui', matchTime: 'Heure d’Espagne', matchday: 'Journée', matchStage: 'Phase', matchVenue: 'Stade', matchMore: 'Voir la fiche', matchStages: { PLAYOFFS: 'Barrages', LAST_16: 'Huitièmes de finale', QUARTER_FINALS: 'Quarts de finale', SEMI_FINALS: 'Demi-finales', FINAL: 'Finale' },
+      daily: 'À découvrir aujourd’hui', dailySeries: 'Série', dailyBook: 'Livre', dailyPodcast: 'Podcast', dailyMovie: 'Film', matchToday: 'Match aujourd’hui', matchTime: 'Heure d’Espagne', matchday: 'Journée', matchStage: 'Phase', matchVenue: 'Stade', matchMore: 'Voir la fiche', matchStages: { PLAYOFFS: 'Barrages', LAST_16: 'Huitièmes de finale', QUARTER_FINALS: 'Quarts de finale', SEMI_FINALS: 'Demi-finales', FINAL: 'Finale' }, matchPos: 'Classement', matchPts: 'pts', matchSports: 'Plus de sport',
     },
     trendingIntro: 'Des idées liées à ce que l’on recherche le plus sur Google en ce moment.',
     nearIntro: 'Nous affichons les idées les plus proches et, s’il risque de pleuvoir, d’abord celles à l’abri. Votre position ne quitte pas votre navigateur.',
@@ -362,6 +367,7 @@ export const t = {
     museumsTitle: 'Museen und Denkmäler in Spanien', museumsIntro: 'Museen, Paläste, Kathedralen und andere Sehenswürdigkeiten, die das ganze Jahr geöffnet sind. Öffnungszeiten und Tickets stehen auf der offiziellen Seite.', routesTitle: 'Routen in Spanien', routesIntro: 'Routen für einen oder mehrere Tage durch Städte, Wege und Landschaften Spaniens.',
     parksTitle: 'Parks und Naturräume in Spanien', parksIntro: 'Nationalparks, Naturparks, Biosphärenreservate und andere Schutzgebiete. Manche verlangen eine Genehmigung oder begrenzen die Besucherzahl: Bedingungen vorab prüfen.',
     parkTypes: { nacional: 'Nationalparks', natural: 'Naturparks', biosfera: 'Biosphärenreservate', otros: 'Weitere Naturräume' },
+    sportsTitle: 'Sport in Spanien', sportsIntro: 'Fußballspiele, Volksläufe und andere Sportereignisse, nach Datum geordnet.', sportsRaces: 'Beliebte Läufe', sportsRacesIntro: 'Die bekanntesten Läufe im spanischen Kalender mit ungefähren Terminen.',
     navLabel: 'Hauptmenü',
     langLabel: 'Sprache',
     searchLabel: 'Tipps suchen', searchPlaceholder: 'Nach Name, Ort oder Thema suchen …', searchNone: 'Keine Tipps passen zu deiner Suche.', newTab: 'öffnet in einem neuen Tab',
@@ -379,7 +385,7 @@ export const t = {
       podcast: 'Podcast der Woche',
       cine: 'Jetzt im Kino',
       series: 'Top bewertete Serien aktuell',
-      daily: 'Tipps für heute', dailySeries: 'Serie', dailyBook: 'Buch', dailyPodcast: 'Podcast', dailyMovie: 'Film', matchToday: 'Heute Spiel', matchTime: 'Uhrzeit (Spanien)', matchday: 'Spieltag', matchStage: 'Phase', matchVenue: 'Stadion', matchMore: 'Zur Seite', matchStages: { PLAYOFFS: 'Play-offs', LAST_16: 'Achtelfinale', QUARTER_FINALS: 'Viertelfinale', SEMI_FINALS: 'Halbfinale', FINAL: 'Finale' },
+      daily: 'Tipps für heute', dailySeries: 'Serie', dailyBook: 'Buch', dailyPodcast: 'Podcast', dailyMovie: 'Film', matchToday: 'Heute Spiel', matchTime: 'Uhrzeit (Spanien)', matchday: 'Spieltag', matchStage: 'Phase', matchVenue: 'Stadion', matchMore: 'Zur Seite', matchStages: { PLAYOFFS: 'Play-offs', LAST_16: 'Achtelfinale', QUARTER_FINALS: 'Viertelfinale', SEMI_FINALS: 'Halbfinale', FINAL: 'Finale' }, matchPos: 'Platz', matchPts: 'Pkt.', matchSports: 'Mehr Sport',
     },
     trendingIntro: 'Tipps passend zu dem, wonach auf Google gerade am meisten gesucht wird.',
     nearIntro: 'Wir zeigen dir die nächstgelegenen Tipps und, wenn Regen droht, zuerst die überdachten. Dein Standort verlässt deinen Browser nicht.',
@@ -449,6 +455,7 @@ export const t = {
     museumsTitle: 'Musei e monumenti in Spagna', museumsIntro: 'Musei, palazzi, cattedrali e altri luoghi da visitare tutto l’anno. Controlla orari e biglietti sul sito ufficiale di ciascuno.', routesTitle: 'Itinerari in Spagna', routesIntro: 'Itinerari di uno o più giorni tra città, cammini e paesaggi della Spagna.',
     parksTitle: 'Parchi e spazi naturali della Spagna', parksIntro: 'Parchi nazionali, parchi naturali, riserve della biosfera e altre aree protette. Alcuni richiedono un permesso o limitano gli accessi: controlla le condizioni prima di andare.',
     parkTypes: { nacional: 'Parchi nazionali', natural: 'Parchi naturali', biosfera: 'Riserve della biosfera', otros: 'Altri spazi naturali' },
+    sportsTitle: 'Sport in Spagna', sportsIntro: 'Partite di calcio, corse popolari e altri eventi sportivi, in ordine di data.', sportsRaces: 'Corse popolari', sportsRacesIntro: 'Le corse più conosciute del calendario spagnolo con la data approssimativa.',
     navLabel: 'Principale',
     langLabel: 'Lingua',
     searchLabel: 'Cerca idee', searchPlaceholder: 'Cerca per nome, luogo o tema…', searchNone: 'Nessuna idea corrisponde alla tua ricerca.', newTab: 'si apre in una nuova scheda',
@@ -466,7 +473,7 @@ export const t = {
       podcast: 'Podcast della settimana',
       cine: 'Al cinema',
       series: 'Serie con ottimi voti',
-      daily: 'Consigli per oggi', dailySeries: 'Serie', dailyBook: 'Libro', dailyPodcast: 'Podcast', dailyMovie: 'Film', matchToday: 'Oggi c’è una partita', matchTime: 'Ora della Spagna', matchday: 'Giornata', matchStage: 'Fase', matchVenue: 'Stadio', matchMore: 'Vedi scheda', matchStages: { PLAYOFFS: 'Spareggi', LAST_16: 'Ottavi di finale', QUARTER_FINALS: 'Quarti di finale', SEMI_FINALS: 'Semifinali', FINAL: 'Finale' },
+      daily: 'Consigli per oggi', dailySeries: 'Serie', dailyBook: 'Libro', dailyPodcast: 'Podcast', dailyMovie: 'Film', matchToday: 'Oggi c’è una partita', matchTime: 'Ora della Spagna', matchday: 'Giornata', matchStage: 'Fase', matchVenue: 'Stadio', matchMore: 'Vedi scheda', matchStages: { PLAYOFFS: 'Spareggi', LAST_16: 'Ottavi di finale', QUARTER_FINALS: 'Quarti di finale', SEMI_FINALS: 'Semifinali', FINAL: 'Finale' }, matchPos: 'Posizione', matchPts: 'pt.', matchSports: 'Altri sport',
     },
     trendingIntro: 'Idee legate a ciò che si cerca di più su Google in questi giorni.',
     nearIntro: 'Ti mostriamo le idee più vicine e, se è previsto maltempo, prima quelle al coperto. La tua posizione non esce dal tuo browser.',
@@ -536,6 +543,7 @@ export const t = {
     museumsTitle: 'Museus e monumentos de Espanha', museumsIntro: 'Museus, palácios, catedrais e outros locais para visitar durante todo o ano. Consulte horários e bilhetes no site oficial de cada um.', routesTitle: 'Rotas em Espanha', routesIntro: 'Itinerários de um ou vários dias por cidades, caminhos e paisagens de Espanha.',
     parksTitle: 'Parques e espaços naturais de Espanha', parksIntro: 'Parques nacionais, parques naturais, reservas da biosfera e outros espaços protegidos. Alguns exigem licença ou têm lotação limitada: veja as condições antes de ir.',
     parkTypes: { nacional: 'Parques nacionais', natural: 'Parques naturais', biosfera: 'Reservas da biosfera', otros: 'Outros espaços naturais' },
+    sportsTitle: 'Desporto em Espanha', sportsIntro: 'Jogos de futebol, corridas populares e outros eventos desportivos, por ordem de data.', sportsRaces: 'Corridas populares', sportsRacesIntro: 'As corridas mais conhecidas do calendário espanhol, com a data aproximada.',
     navLabel: 'Principal',
     langLabel: 'Idioma',
     searchLabel: 'Pesquisar ideias', searchPlaceholder: 'Pesquise por nome, local ou tema…', searchNone: 'Nenhuma ideia corresponde à sua pesquisa.', newTab: 'abre num novo separador',
@@ -553,7 +561,7 @@ export const t = {
       podcast: 'Podcast da semana',
       cine: 'Em cartaz',
       series: 'Séries muito bem avaliadas',
-      daily: 'Sugestões para hoje', dailySeries: 'Série', dailyBook: 'Livro', dailyPodcast: 'Podcast', dailyMovie: 'Filme', matchToday: 'Hoje há jogo', matchTime: 'Hora de Espanha', matchday: 'Jornada', matchStage: 'Fase', matchVenue: 'Estádio', matchMore: 'Ver ficha', matchStages: { PLAYOFFS: 'Play-offs', LAST_16: 'Oitavos de final', QUARTER_FINALS: 'Quartos de final', SEMI_FINALS: 'Meias-finais', FINAL: 'Final' },
+      daily: 'Sugestões para hoje', dailySeries: 'Série', dailyBook: 'Livro', dailyPodcast: 'Podcast', dailyMovie: 'Filme', matchToday: 'Hoje há jogo', matchTime: 'Hora de Espanha', matchday: 'Jornada', matchStage: 'Fase', matchVenue: 'Estádio', matchMore: 'Ver ficha', matchStages: { PLAYOFFS: 'Play-offs', LAST_16: 'Oitavos de final', QUARTER_FINALS: 'Quartos de final', SEMI_FINALS: 'Meias-finais', FINAL: 'Final' }, matchPos: 'Posição', matchPts: 'pts', matchSports: 'Mais desporto',
     },
     trendingIntro: 'Ideias relacionadas com o que mais se pesquisa no Google nestes dias.',
     nearIntro: 'Mostramos as ideias mais próximas e, se for provável chover, primeiro as que são ao abrigo. A sua localização não sai do seu navegador.',
