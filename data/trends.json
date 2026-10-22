@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21",
+ "updated": "2026-10-22",
  "terms": [
   {
    "term": "mónica garcía",
@@ -29,6 +29,16 @@
     "TVE cae en la trampa de la nostalgia con 'El Telediario de nuestras vidas': \"Compró y vendió el relato franquista\"",
     "Todas las veces que la reina Letizia apoyó a sus ex compañeros de Televisión Española: menciones, apariciones y recuerdos de su etapa de periodista",
     "Beatriz Pérez-Aranda pone el broche de oro al 'Telediario' especial por los 70 años de TVE con su icónica frase “como un pepino”"
+   ]
+  },
+  {
+   "term": "pensión",
+   "traffic": 10000,
+   "lastSeen": "2026-10-22",
+   "news": [
+    "El 78% de los jóvenes ve necesario ahorrar más allá de la pensión pública",
+    "Solo el 9,2% de los empleados ahorra para la jubilación a través de su empresa",
+    "Tres de cuatro trabajadores ve insuficiente la pensión pública para mantener su nivel de vida tras el retiro"
    ]
   },
   {
@@ -109,6 +119,36 @@
     "Un atraco perfecto y millones desaparecidos: la historia del mayor robo bancario en Murcia que ahora será serie",
     "La Región acoge el rodaje de la miniserie 'Casper', protagonizada por Roberto Álamo y Rodolfo Sancho",
     "La serie policíaca que logra que el actor de 'Las hijas de la criada' Alain Hernández vuelva a TVE después de 'La caza'"
+   ]
+  },
+  {
+   "term": "gonzalo bernardos",
+   "traffic": 2000,
+   "lastSeen": "2026-10-22",
+   "news": [
+    "Gonzalo Bernardos, economista: “El mejor plan de pensiones que pueden ustedes tener es una vivienda”",
+    "\"Preparaos para lo que viene\": la advertencia del economista Gonzalo Bernardos sobre la jubilación",
+    "Gonzalo Bernardos, economista, advierte sobre el aumento en la edad de jubilación: \"Preparaos\""
+   ]
+  },
+  {
+   "term": "cambio horario invierno",
+   "traffic": 2000,
+   "lastSeen": "2026-10-22",
+   "news": [
+    "Cambio de hora de octubre de 2026: ¿dormimos más o menos? Comprueba cuánto sabes con este test",
+    "No, el de este domingo tampoco es el último cambio de hora en España (aunque no haya más en el BOE)",
+    "“Una hora más en el reloj no siempre es una hora más de sueño”: los consejos de Alejandro Pastor, especialista del sueño, para una mejor gestión con el cambio de hora"
+   ]
+  },
+  {
+   "term": "cara al show",
+   "traffic": 2000,
+   "lastSeen": "2026-10-22",
+   "news": [
+    "María Patiño pone a Marc Giró a hacer ejercicio: \"El perro boca abajo me va a gustar\"",
+    "María Patiño vuelve a televisión en 'Cara al show': \"Ha sido una travesía por el desierto que no he sabido gestionar\"",
+    "María Patiño: “Tenía un plan B, poner un negocio. Estaba viendo que funciona muy bien lo de las uñas. Yo no quiero ser una persona que invierta, quiero ejecutar”"
    ]
   },
   {
@@ -229,6 +269,16 @@
     "La frase del día hoy, miércoles 21 de octubre: \"La dignidad no tiene precio. Cuando alguien comienza a dar pequeñas concesiones, al final, la vida pierde su sentido\", José Saramago",
     "Comece: El bien común debe guiar la innovación tecnológica",
     "Se presenta en Aranda la propuesta de León XIV para preservar la dignidad humana en tiempos de inteligencia artificial"
+   ]
+  },
+  {
+   "term": "badajoz",
+   "traffic": 1000,
+   "lastSeen": "2026-10-22",
+   "news": [
+    "La colisión de dos turismos obliga a cortar la A-5 a la altura de Badajoz y provoca retenciones",
+    "Un herido en un colisión entre dos coches en la A-5 a la altura de Badajoz",
+    "Un accidente corta la A-5 en Badajoz: una persona herida tras quedar atrapada"
    ]
   },
   {
@@ -359,6 +409,16 @@
     "Spain braces for 100km/h gusts and 10-metre waves as the polar jet stream arrives Wednesday",
     "UK Weather: Storm Austen Will Be Stronger Than Forecast Along Coasts",
     "Storm Austen: Strong 70mph winds could hit south Wales on Friday"
+   ]
+  },
+  {
+   "term": "vertedero",
+   "traffic": 500,
+   "lastSeen": "2026-10-22",
+   "news": [
+    "Ropa destinada al vertedero: la industria textil en la era de la moda rápida",
+    "Innovación circular para la transformación sostenible de la moda",
+    "¿Y si mejor reciclamos?"
    ]
   },
   {
@@ -590,6 +650,36 @@
    ]
   },
   {
+   "term": "england vs sri lanka",
+   "traffic": 200,
+   "lastSeen": "2026-10-22",
+   "news": [
+    "Sri Lanka vs England LIVE: ODI tri-series, Rawalpindi - cricket score, radio commentary & updates",
+    "Sri Lanka, England close Rawalpindi leg in search of first points",
+    "Wheat flour prices increased"
+   ]
+  },
+  {
+   "term": "parauta",
+   "traffic": 200,
+   "lastSeen": "2026-10-22",
+   "news": [
+    "El PSOE teme una rebelión municipal tras la marcha de la alcaldesa más votada de España",
+    "Ley del silencio en Parauta ante el nuevo rumbo de su alcaldesa",
+    "Quién es Katrin Ortega, la alcaldesa de Parauta que ha dicho no al PSOE: madre de tres hijos y empresaria del fitness"
+   ]
+  },
+  {
+   "term": "jordi de la fuente",
+   "traffic": 200,
+   "lastSeen": "2026-10-22",
+   "news": [
+    "VOX nombra a Jordi de la Fuente candidato al Congreso por Tarragona",
+    "Cambios quirúrgicos en unas listas continuistas: Vox garantiza a sus diputados puestos de salida y ficha de dentro para el 29-N",
+    "Vox nombra candidato al Congreso por Tarragona a un neonazi acusado de un ataque racista a un centro de menores"
+   ]
+  },
+  {
    "term": "consulado",
    "traffic": 100,
    "lastSeen": "2026-10-21",
@@ -597,6 +687,16 @@
     "El consulado en México nacionalizó a cientos fuera de plazo alterando las fechas de solicitud",
     "El Gobierno concedió la nacionalidad española a una exsenadora mexicana del PRI y a su familia solo por tener un bisabuelo español",
     "Carlos Herrera: \"El consulado en México ha vuelto a conceder la nacionalidad española por la ley de nietos a un mexicano de avanzada edad que ni su padre ni su abuelo nacieron en España\""
+   ]
+  },
+  {
+   "term": "voto por correo 29n",
+   "traffic": 100,
+   "lastSeen": "2026-10-22",
+   "news": [
+    "¿Cómo solicitar el voto por correo en las elecciones generales del 29 de noviembre?",
+    "Cómo votar por correo en las elecciones generales del 29-N",
+    "Unos 2.000 erasmus de la UGR repartidos por toda Europa están convocados a las urnas"
    ]
   }
  ]
