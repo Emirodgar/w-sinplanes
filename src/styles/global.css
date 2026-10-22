@@ -319,8 +319,9 @@ p { margin: 0 0 1em; max-width: var(--measure); }
 }
 
 /* Recomendaciones del día: un widget por categoría (serie, libro, podcast, película) */
-.daily h2 { display: flex; align-items: center; gap: 0.5rem; }
-.daily-icon { flex: none; color: var(--ink-soft); opacity: 0.8; }
+/* Pestaña con el icono de la categoría, asomando por el borde superior de la tarjeta */
+.daily { position: relative; }
+.daily-tab { position: absolute; top: -0.75rem; right: clamp(1.25rem, 3.5vw, 2rem); width: 3.25rem; height: 2.75rem; display: grid; place-items: center; padding-top: 0.4rem; background: var(--surface); border-radius: 0.875rem 0.875rem 0 0; color: var(--ink-soft); opacity: 0.9; }
 .daily-card { display: flex; gap: 1rem; align-items: flex-start; width: 100%; min-width: 0; }
 .daily-cover { flex: none; width: clamp(6rem, 28%, 7.5rem); }
 .daily-cover .book-cover { width: 100%; }
