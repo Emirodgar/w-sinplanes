@@ -819,3 +819,119 @@ maraton-malaga:
       r: "Oui. Consulte les coupures et les horaires sur le site officiel et auprès de la mairie."
     - p: "Quel temps fait-il en décembre à Málaga ?"
       r: "En général doux, même s'il peut y avoir de la pluie ou du vent. Prévois des vêtements à superposer."
+magostos:
+  texto:
+    - "Le magosto est la grande fête de la châtaigne : un feu de joie, des châtaignes grillées, du vin nouveau et beaucoup de monde autour. Il se célèbre surtout en Galice, dans les Asturies (où il s'appelle amagüestu) et à El Bierzo, et son grand jour tombe autour de la Saint-Martin, le 11 novembre."
+    - "Il y a des magostos en famille, de quartier, de village et d'associations, et de nombreuses mairies les organisent ouverts à tout le monde, parfois avec de la musique, de la danse et des jeux traditionnels. Dans d'autres zones de l'intérieur, comme le Valle del Jerte en Estrémadure, il existe une tradition similaire autour de la Toussaint, que l'on appelle calbotá."
+    - "Pour en trouver un, consulte l'agenda de la mairie ou de l'association de voisins de la zone quelques jours avant : les dates changent chaque année et beaucoup sont annoncés au dernier moment. Prends des vêtements chauds, car on est en plein air, et n'attends rien de sophistiqué : tout le charme tient au feu de joie et aux châtaignes mangées bien chaudes, en bonne compagnie."
+  mapa:
+    titulo: "Où se célèbrent les magostos"
+    centro: [41.8, -6.2]
+    zoom: 6
+    puntos:
+      - { nombre: "Galice (Ourense et Lugo)", lat: 42.4, lon: -7.6, desc: "Berceau du magosto : on le célèbre dans les villages, les quartiers et les écoles, avec la grande date autour de la Saint-Martin." }
+      - { nombre: "Asturies", lat: 43.3, lon: -5.8, desc: "Ici, on l'appelle amagüestu et on l'accompagne de cidre nouveau." }
+      - { nombre: "El Bierzo (León)", lat: 42.55, lon: -6.6, desc: "Des magostos dans de nombreux villages de la comarque, en pleine châtaigneraie." }
+      - { nombre: "Valle del Jerte (Cáceres)", lat: 40.2, lon: -5.8, desc: "Sa version est la calbotá, autour de la Toussaint." }
+  faq:
+    - p: "Qu'est-ce qu'un magosto ?"
+      r: "C'est une fête traditionnelle d'automne où l'on fait griller des châtaignes sur un feu de joie et où on les mange avec du vin nouveau, du cidre ou du moût. Elle est typique de la Galice, des Asturies et d'El Bierzo, même s'il existe des célébrations similaires ailleurs."
+    - p: "Quand a-t-il lieu ?"
+      r: "Surtout en novembre, avec la Saint-Martin, le 11 novembre, comme date de référence. Beaucoup de villages le célèbrent le week-end le plus proche, et il y a aussi des magostos fin octobre."
+    - p: "Où aller à un magosto ?"
+      r: "En Galice, dans les Asturies et à El Bierzo, il y a des magostos dans énormément de villages et de quartiers. Le plus fiable est de consulter l'agenda de la mairie ou de la zone quelques jours avant."
+    - p: "Faut-il payer ou réserver ?"
+      r: "Cela dépend. Beaucoup de magostos populaires sont gratuits ou demandent une petite participation, et d'autres, organisés par des restaurants ou des caves, exigent une réservation. Renseigne-toi auprès de l'organisateur."
+    - p: "Puis-je faire un magosto chez moi ?"
+      r: "Oui. Fais une entaille dans la peau de chaque châtaigne, fais-les griller à la poêle ou au four et enveloppe-les dans un torchon quelques minutes avant de les éplucher. Accompagne-les de vin ou de cidre, si tu en as envie."
+    - p: "Est-ce un bon plan avec des enfants ?"
+      r: "Oui, l'ambiance est généralement très familiale. Il faut simplement surveiller le feu et s'assurer que les châtaignes sont tièdes avant de les manger."
+piscinas-naturales:
+  imagen_alt: "Vasque d'eau verte et transparente entre des rochers de granit avec une baigneuse dans une gorge de montagne"
+  texto:
+    - "Des vasques d'eau cristalline entre des rochers de granit, de petites cascades et des gorges fraîches en plein été : les piscines naturelles sont l'une des meilleures façons d'échapper à la chaleur sans aller sur la côte. C'est de l'eau de rivière ou de ruisseau de montagne, sans chlore ni maître-nageur, ce qui les rend aussi spéciales que fragiles."
+    - "Les zones les plus connues se trouvent dans le nord de Cáceres et dans le Système central : La Vera, le Valle del Jerte (avec ses fameux Pilones), Las Hurdes et la sierra de Gredos, dans la province d'Ávila. Il y en a aussi énormément en Galice, dans les Asturies, en Cantabrie, en Castille-et-León, dans les Pyrénées et à la Sierra Nevada, et l'eau est souvent froide même en août."
+    - "Entre dans l'eau doucement, surtout si tu as passé des heures au soleil, car le changement de température peut provoquer une hydrocution. Ne saute pas sans connaître le fond, fais attention aux rochers glissants et ne te baigne pas après de fortes pluies ni quand le débit est élevé. Dans les vasques, il n'y a pas de surveillance : va toujours accompagné et fais particulièrement attention aux enfants."
+    - "Certaines vasques, en raison de leur fragilité ou de leur fréquentation, ont une capacité limitée, une réservation préalable ou des accès réglementés en été, et les week-ends d'août elles se remplissent vite. Consulte avant le site de la mairie ou de l'espace naturel et arrive tôt. Prends des chaussures qui accrochent dans l'eau, n'utilise ni savon ni crème dans la vasque et emporte tous tes déchets."
+  faq:
+    - p: "Où y a-t-il des piscines naturelles en Espagne ?"
+      r: "Les zones les plus connues sont La Vera et le Valle del Jerte (Cáceres), Las Hurdes, la sierra de Gredos (Ávila) et le Système central, ainsi que de nombreuses vasques en Galice, dans les Asturies, en Cantabrie, dans les Pyrénées et à la Sierra Nevada."
+    - p: "Quand aller dans une piscine naturelle ?"
+      r: "De juin à septembre, juillet et août étant les mois les plus fréquentés. Si tu veux de la tranquillité, va-y en semaine et arrive tôt. Dans celles qui dépendent de la fonte des neiges ou de la pluie, le débit baisse en fin d'été."
+    - p: "Faut-il réserver ou payer ?"
+      r: "Elles sont presque toujours gratuites, mais certaines ont une capacité limitée, un accès réglementé ou un parking payant en haute saison. Consulte le site de la mairie ou de l'espace naturel avant d'y aller."
+    - p: "Y a-t-il des maîtres-nageurs ?"
+      r: "Pas dans la plupart des vasques et des gorges, qui sont de l'eau de rivière sans surveillance. Va accompagné, ne laisse pas les enfants sans surveillance et évite de te baigner par mauvais temps ou si le débit a augmenté."
+    - p: "Que faut-il emporter ?"
+      r: "Des chaussures qui accrochent dans l'eau (sandales de rivière ou chaussons aquatiques), une serviette, de l'eau, quelque chose à manger, de la crème solaire et un sac pour tes déchets. N'utilise ni savon ni crème dans la vasque."
+    - p: "Peut-on y aller avec des enfants ou un chien ?"
+      r: "Avec des enfants, mieux vaut choisir des vasques peu profondes et faciles d'accès, et toujours avec un adulte dans l'eau. Avec un chien, cela dépend de l'espace : dans certains, c'est interdit ou il doit être tenu en laisse, alors vérifie la réglementation locale."
+almendros:
+  texto:
+    - "Les amandiers sont les premiers arbres à fleurir en Espagne. À la fin de l'hiver, quand il fait encore froid, les versants se couvrent de fleurs blanches et roses, et l'on peut s'y promener sous une lumière particulièrement belle."
+    - "La floraison va généralement de fin janvier à mars, selon la zone et l'année, et le pic arrive plus tôt dans le sud et sur les îles. Majorque, l'Axarquía de Málaga, Tenerife et la zone de Carthagène sont des destinations connues, et à plusieurs endroits il y a des sentiers balisés et des fêtes dédiées, comme celle de l'amandier en fleur à Tenerife."
+    - "Comme les fleurs durent peu et dépendent du temps, il vaut mieux vérifier l'état de la floraison quelques jours avant. Les amandiers sont des cultures qui ont un propriétaire : promène-toi sur les chemins publics, ne coupe pas de branches, ne cueille pas de fleurs et n'entre pas dans les propriétés closes. Si tu es allergique au pollen, prends tes médicaments, car il y en a beaucoup à cette époque."
+  mapa:
+    titulo: "Où voir les amandiers en fleur"
+    centro: [37.5, -6.0]
+    zoom: 5
+    puntos:
+      - { nombre: "Majorque", lat: 39.65, lon: 2.95, desc: "Le Pla de Mallorca et les versants de l'intérieur se couvrent d'amandiers blancs et roses." }
+      - { nombre: "L'Axarquía (Málaga)", lat: 36.85, lon: -4.3, desc: "Comarque de Málaga avec des amandiers en fleur dès fin janvier." }
+      - { nombre: "Campo de Cartagena (Murcie)", lat: 37.65, lon: -1.0, desc: "Floraison précoce dans le campo de Cartagena, avec des sentiers entre les amandiers." }
+      - { nombre: "Tenerife", lat: 28.3, lon: -16.8, desc: "Des amandiers en fleur dans l'ouest de l'île, avec la fête de l'amandier en fleur." }
+  faq:
+    - p: "Quand les amandiers fleurissent-ils ?"
+      r: "Entre fin janvier et mars, selon la zone et l'année. Dans le sud, aux Baléares et aux Canaries, elle est souvent plus précoce."
+    - p: "Où voir des amandiers en fleur ?"
+      r: "Majorque, l'Axarquía (Málaga), Tenerife, la zone de Carthagène et d'autres zones de culture du sud et de l'est de la péninsule sont des destinations habituelles."
+    - p: "Peut-on cueillir des fleurs ou des amandes ?"
+      r: "Non. Ce sont des cultures privées, même si cela ressemble à de la campagne ouverte. Profite-en depuis les chemins et respecte les propriétés."
+    - p: "Combien de temps dure la floraison ?"
+      r: "Très peu, entre une et deux semaines par zone, et elle peut être écourtée par le vent ou la pluie. Vérifie l'état de la floraison avant de voyager."
+    - p: "Que faut-il emporter ?"
+      r: "Des chaussures de balade, des vêtements chauds en plusieurs couches, un appareil photo et, si tu es allergique, des antihistaminiques. C'est un bon plan pour faire des photos à l'aube ou au coucher du soleil."
+    - p: "Est-ce un bon plan avec des enfants ?"
+      r: "Oui, les petites balades entre les amandiers conviennent aux familles, et c'est un bon moment pour leur montrer comment les cultures changent au fil des saisons."
+lavanda-brihuega:
+  texto:
+    - "Début juillet, les champs de lavande de Brihuega, dans la province de Guadalajara, se teintent de violet. C'est l'un des paysages d'été les plus photogéniques d'Espagne et, contrairement à la Provence française, on y arrive en deux heures depuis Madrid."
+    - "La floraison va généralement de fin juin à la mi-juillet, avec un pic durant la première quinzaine de juillet, même si cela dépend de l'année. Pendant ces semaines se tient le Festival de la Lavande, avec des activités, un marché et de la musique à Brihuega, et c'est le moment de plus forte affluence."
+    - "Pour en profiter sans stress, va-y tôt le matin ou au coucher du soleil, quand la chaleur est moindre et la lumière plus belle. Les champs de lavande sont des cultures qui ont un propriétaire : respecte les limites et les zones aménagées pour les photos et la promenade, qui sont parfois payantes. Prends un chapeau, de la crème solaire et de l'eau, et sache qu'il y a beaucoup d'abeilles."
+  mapa:
+    titulo: "Où se trouvent les champs de lavande"
+    centro: [40.76, -2.87]
+    zoom: 11
+    puntos:
+      - { nombre: "Brihuega (Guadalajara)", lat: 40.7625, lon: -2.8728, desc: "Les champs de lavande entourent la localité ; le Festival de la Lavande s'y tient pendant la floraison." }
+  faq:
+    - p: "Quand la lavande fleurit-elle à Brihuega ?"
+      r: "De fin juin à la mi-juillet, avec un maximum durant la première quinzaine de juillet. Cela varie chaque année selon le climat."
+    - p: "Où sont les champs de lavande ?"
+      r: "Aux alentours de Brihuega (Guadalajara), avec des accès balisés depuis le village. Il y a des zones de promenade et des belvédères."
+    - p: "Quelle est la meilleure heure pour y aller ?"
+      r: "Tôt le matin ou au coucher du soleil, quand il fait moins chaud, qu'il y a moins de monde et que la lumière est plus belle."
+    - p: "Faut-il payer ?"
+      r: "Certaines zones aménagées pour la promenade et les photos demandent une petite entrée. Renseigne-toi sur les conditions avant d'y aller, et n'entre pas dans des champs non autorisés."
+    - p: "Que faut-il emporter ?"
+      r: "Un chapeau, de la crème solaire, de l'eau et des chaussures confortables. Il y a beaucoup d'abeilles, il vaut donc mieux ne pas les déranger."
+    - p: "Est-ce un bon plan avec des enfants ?"
+      r: "Oui, mais avec la chaleur et les abeilles : surveille les plus petits, évite les heures du milieu de journée et emporte de l'eau."
+halloween-difuntos:
+  texto:
+    - "Le 31 octobre et le 1er novembre, deux traditions très différentes coexistent en Espagne : Halloween, avec ses déguisements, ses parcours de l'horreur et ses fêtes pour enfants, et la Toussaint, un jour de souvenir des défunts, avec des visites au cimetière et des douceurs propres à cette date."
+    - "Halloween prend de plus en plus de place, surtout chez les jeunes et les enfants, avec des fêtes à thème, des maisons hantées et des parcs d'attractions décorés. Le 1er novembre, en revanche, est un jour férié et traditionnel : on visite les cimetières avec des fleurs, on mange des huesos de santo et des buñuelos de viento et, en Catalogne, des panellets et des châtaignes lors de la castañada."
+    - "Dans de nombreux théâtres, on joue ces jours-ci Don Juan Tenorio, de Zorrilla, une tradition des 1er et 2 novembre. Consulte l'affiche des spectacles et les programmes de la mairie, et si tu y vas avec des enfants, choisis des fêtes adaptées et célèbre aussi la partie traditionnelle."
+  faq:
+    - p: "Que célèbre-t-on le 1er novembre ?"
+      r: "La Toussaint, jour férié dans toute l'Espagne, où l'on se souvient des défunts et où l'on visite les cimetières avec des fleurs."
+    - p: "Quelles douceurs mange-t-on ?"
+      r: "Des huesos de santo, des buñuelos de viento et, en Catalogne, des panellets et des châtaignes lors de la castañada."
+    - p: "Qu'est-ce que la castañada ?"
+      r: "Une fête traditionnelle catalane de la Toussaint où l'on mange des châtaignes, des panellets et des patates douces."
+    - p: "Que faire à Halloween ?"
+      r: "Des fêtes costumées, des parcours de l'horreur, des maisons hantées et des circuits mystère. De nombreux parcs d'attractions et mairies organisent des activités."
+    - p: "Qu'est-ce que Don Juan Tenorio ?"
+      r: "Une pièce de théâtre de José Zorrilla que l'on joue traditionnellement à cette période dans de nombreux théâtres."
+    - p: "Est-ce un bon plan avec des enfants ?"
+      r: "Oui, il y a beaucoup d'activités pour enfants à Halloween. Si tu vas dans un cimetière, il vaut mieux leur expliquer le sens paisible de la visite."

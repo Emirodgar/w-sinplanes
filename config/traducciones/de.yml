@@ -853,3 +853,119 @@ maraton-malaga:
       r: "Ja. Sperrungen und Zeiten findest du auf der offiziellen Website und bei der Stadtverwaltung."
     - p: "Wie ist das Wetter im Dezember in Málaga?"
       r: "In der Regel mild, auch wenn es Regen oder Wind geben kann. Zieh dich im Zwiebellook an."
+magostos:
+  texto:
+    - "Der magosto ist das große Fest der Kastanie: ein Feuer, geröstete Kastanien, neuer Wein und viele Menschen drumherum. Gefeiert wird er vor allem in Galicien, Asturien (wo er amagüestu heißt) und El Bierzo, und sein großer Tag fällt auf den Martinstag, den 11. November."
+    - "Es gibt magostos in der Familie, im Viertel, im Dorf und von Vereinen, und viele Gemeinden organisieren sie offen für alle, manchmal mit Musik, Tanz und traditionellen Spielen. In anderen Gegenden im Landesinneren, etwa im Valle del Jerte in Extremadura, gibt es eine ähnliche Tradition rund um Allerheiligen, die calbotá genannt wird."
+    - "Um einen zu finden, wirf ein paar Tage vorher einen Blick in den Veranstaltungskalender der Gemeinde oder des Nachbarschaftsvereins vor Ort: Die Termine ändern sich jedes Jahr, und viele werden erst kurzfristig angekündigt. Zieh dich warm an, denn man steht im Freien, und erwarte nichts Schickes: Der Reiz liegt im Feuer und darin, die heißen Kastanien in Gesellschaft zu essen."
+  mapa:
+    titulo: "Wo magostos gefeiert werden"
+    centro: [41.8, -6.2]
+    zoom: 6
+    puntos:
+      - { nombre: "Galicien (Ourense und Lugo)", lat: 42.4, lon: -7.6, desc: "Wiege des magosto: Er wird in Dörfern, Vierteln und Schulen gefeiert, mit dem großen Termin rund um den Martinstag." }
+      - { nombre: "Asturien", lat: 43.3, lon: -5.8, desc: "Hier heißt er amagüestu und wird mit neuem Apfelwein (sidra) begleitet." }
+      - { nombre: "El Bierzo (León)", lat: 42.55, lon: -6.6, desc: "Magostos in vielen Dörfern der Comarca, mitten im Kastanienhain." }
+      - { nombre: "Valle del Jerte (Cáceres)", lat: 40.2, lon: -5.8, desc: "Die dortige Variante ist die calbotá, rund um Allerheiligen." }
+  faq:
+    - p: "Was ist ein magosto?"
+      r: "Ein traditionelles Herbstfest, bei dem Kastanien am Feuer geröstet und mit neuem Wein, Apfelwein oder Most gegessen werden. Typisch ist es für Galicien, Asturien und El Bierzo, doch in anderen Gegenden gibt es ähnliche Feiern."
+    - p: "Wann wird er gefeiert?"
+      r: "Vor allem im November, mit dem Martinstag am 11. November als Richtdatum. Viele Dörfer feiern ihn am nächstgelegenen Wochenende, und auch Ende Oktober gibt es magostos."
+    - p: "Wohin zu einem magosto?"
+      r: "In Galicien, Asturien und El Bierzo gibt es magostos in sehr vielen Dörfern und Vierteln. Am zuverlässigsten ist ein Blick in den Veranstaltungskalender der Gemeinde oder der Gegend ein paar Tage vorher."
+    - p: "Muss man bezahlen oder reservieren?"
+      r: "Das hängt davon ab. Viele Volks-magostos sind kostenlos oder bitten um einen kleinen Beitrag, andere, die von Restaurants oder Bodegas veranstaltet werden, erfordern eine Reservierung. Frag beim Veranstalter nach."
+    - p: "Kann ich zu Hause einen magosto machen?"
+      r: "Ja. Ritz die Schale jeder Kastanie ein, röste sie in einer Pfanne oder im Ofen und wickle sie vor dem Schälen ein paar Minuten in ein Tuch. Dazu passt Wein oder Apfelwein, wenn du magst."
+    - p: "Ist das ein guter Plan mit Kindern?"
+      r: "Ja, meist herrscht eine sehr familiäre Stimmung. Man sollte nur auf das Feuer achten und darauf, dass die Kastanien lauwarm sind, bevor man sie isst."
+piscinas-naturales:
+  imagen_alt: "Grünes, klares Wasserbecken zwischen Granitfelsen mit einer Badenden in einer Berg-Schlucht"
+  texto:
+    - "Kristallklare Becken zwischen Granitfelsen, kleine Wasserfälle und frische Schluchten mitten im Sommer: Naturschwimmbecken sind eine der besten Möglichkeiten, der Hitze zu entkommen, ohne an die Küste zu fahren. Es ist Fluss- oder Bergbachwasser, ohne Chlor und ohne Bademeister, und das macht sie ebenso besonders wie empfindlich."
+    - "Die bekanntesten Gebiete liegen im Norden der Provinz Cáceres und im Sistema Central: La Vera, das Valle del Jerte (mit seinen berühmten Pilones), Las Hurdes und die Sierra de Gredos in Ávila. Auch in Galicien, Asturien, Kantabrien, Kastilien und León, den Pyrenäen und der Sierra Nevada gibt es sehr viele, und das Wasser ist oft selbst im August kalt."
+    - "Geh ruhig und langsam ins Wasser, vor allem wenn du stundenlang in der Sonne warst, denn der Temperaturunterschied kann einen Kreislaufschock (corte de digestión) auslösen. Spring nicht, ohne den Grund zu kennen, nimm dich vor rutschigen Felsen in Acht und bade nicht nach starkem Regen oder bei hohem Wasserstand. An den Becken gibt es keine Aufsicht, also geh immer in Begleitung und achte besonders auf Kinder."
+    - "Manche Becken haben wegen ihrer Empfindlichkeit oder des Andrangs im Sommer begrenzte Besucherzahlen, eine Vorab-Reservierung oder geregelte Zugänge, und an den Augustwochenenden sind sie schnell voll. Informiere dich vorher auf der Website der Gemeinde oder des Naturparks und komm früh. Nimm Schuhe mit, die im Wasser Halt geben, benutze keine Seife oder Creme im Becken und nimm deinen ganzen Müll wieder mit."
+  faq:
+    - p: "Wo gibt es Naturschwimmbecken in Spanien?"
+      r: "Die bekanntesten Gebiete sind La Vera und das Valle del Jerte (Cáceres), Las Hurdes, die Sierra de Gredos (Ávila) und das Sistema Central, dazu viele Becken in Galicien, Asturien, Kantabrien, den Pyrenäen und der Sierra Nevada."
+    - p: "Wann sollte man zu einem Naturschwimmbecken gehen?"
+      r: "Von Juni bis September, wobei Juli und August die Monate mit dem meisten Andrang sind. Wenn du Ruhe willst, geh unter der Woche und komm früh. Bei denen, die von der Schneeschmelze oder vom Regen abhängen, sinkt der Wasserstand gegen Ende des Sommers."
+    - p: "Muss man reservieren oder bezahlen?"
+      r: "Meistens sind sie kostenlos, doch manche haben begrenzte Besucherzahlen, geregelten Zugang oder kostenpflichtige Parkplätze in der Hochsaison. Informiere dich vor dem Besuch auf der Website der Gemeinde oder des Naturparks."
+    - p: "Gibt es Bademeister?"
+      r: "An den meisten Becken und Schluchten nicht, denn es ist unbeaufsichtigtes Flusswasser. Geh in Begleitung, lass Kinder nie unbeaufsichtigt und bade nicht bei schlechtem Wetter oder wenn der Wasserstand gestiegen ist."
+    - p: "Was muss man mitnehmen?"
+      r: "Schuhe, die im Wasser Halt geben (Flusssandalen oder Wasserschuhe), ein Handtuch, Wasser, etwas zu essen, Sonnenschutz und eine Tüte für deinen Müll. Benutze keine Seife oder Creme im Becken."
+    - p: "Kann man mit Kindern oder Hund hingehen?"
+      r: "Mit Kindern am besten zu flachen, leicht zugänglichen Becken und immer mit einem Erwachsenen im Wasser. Mit Hund kommt es auf das Gebiet an: An manchen ist er verboten oder muss angeleint sein, also prüfe die örtlichen Vorschriften."
+almendros:
+  texto:
+    - "Mandelbäume sind die ersten Bäume, die in Spanien blühen. Gegen Ende des Winters, wenn es noch kalt ist, bedecken sich die Hänge mit weißen und rosa Blüten, und man kann in einem besonders schönen Licht zwischen ihnen spazieren gehen."
+    - "Die Blüte dauert meist von Ende Januar bis März, je nach Gegend und Jahr, und der Höhepunkt kommt im Süden und auf den Inseln früher. Mallorca, die Axarquía bei Málaga, Teneriffa und die Gegend um Cartagena sind bekannte Ziele, und an mehreren Orten gibt es ausgeschilderte Routen und eigene Feste, wie das Mandelblütenfest auf Teneriffa."
+    - "Da die Blüten nur kurz halten und vom Wetter abhängen, lohnt es sich, ein paar Tage vorher nach dem Stand der Blüte zu schauen. Mandelbäume sind Nutzpflanzen mit Besitzer: Geh auf öffentlichen Wegen, schneide keine Zweige ab, pflücke keine Blüten und betritt keine umzäunten Grundstücke. Wenn du auf Pollen allergisch bist, nimm Medikamente mit, denn in dieser Zeit gibt es viele davon."
+  mapa:
+    titulo: "Wo man Mandelblüten sehen kann"
+    centro: [37.5, -6.0]
+    zoom: 5
+    puntos:
+      - { nombre: "Mallorca", lat: 39.65, lon: 2.95, desc: "Der Pla de Mallorca und die Hänge im Landesinneren füllen sich mit weißen und rosa Mandelbäumen." }
+      - { nombre: "La Axarquía (Málaga)", lat: 36.85, lon: -4.3, desc: "Comarca bei Málaga mit blühenden Mandelbäumen ab Ende Januar." }
+      - { nombre: "Campo de Cartagena (Murcia)", lat: 37.65, lon: -1.0, desc: "Frühe Blüte im Campo de Cartagena, mit Routen zwischen Mandelbäumen." }
+      - { nombre: "Teneriffa", lat: 28.3, lon: -16.8, desc: "Blühende Mandelbäume im Westen der Insel, mit dem Mandelblütenfest." }
+  faq:
+    - p: "Wann blühen die Mandelbäume?"
+      r: "Zwischen Ende Januar und März, je nach Gegend und Jahr. Im Süden sowie auf den Balearen und Kanaren kommt sie meist früher."
+    - p: "Wo kann man Mandelblüten sehen?"
+      r: "Mallorca, die Axarquía (Málaga), Teneriffa, die Gegend um Cartagena und andere Anbaugebiete im Süden und Osten der Halbinsel sind übliche Ziele."
+    - p: "Darf man Blüten oder Mandeln pflücken?"
+      r: "Nein. Es sind private Anbauflächen, auch wenn sie wie offene Landschaft aussehen. Genieße sie von den Wegen aus und respektiere die Grundstücke."
+    - p: "Wie lange dauert die Blüte?"
+      r: "Sehr kurz, pro Gegend ein bis zwei Wochen, und bei Wind oder Regen kann sie noch kürzer ausfallen. Schau vor der Reise nach dem Stand der Blüte."
+    - p: "Was muss man mitnehmen?"
+      r: "Spazierschuhe, warme Kleidung im Zwiebellook, eine Kamera und, falls du Allergien hast, Antihistaminika. Es ist ein guter Plan für Fotos bei Sonnenaufgang oder Sonnenuntergang."
+    - p: "Ist das ein guter Plan mit Kindern?"
+      r: "Ja, kurze Spaziergänge zwischen Mandelbäumen sind familientauglich, und es ist ein guter Moment, um zu zeigen, wie sich die Kulturen mit den Jahreszeiten verändern."
+lavanda-brihuega:
+  texto:
+    - "Anfang Juli färben sich die Lavendelfelder von Brihuega in der Provinz Guadalajara violett. Es ist eine der fotogensten Sommerlandschaften Spaniens, und anders als die französische Provence erreicht man sie von Madrid aus in etwa zwei Stunden."
+    - "Die Blüte dauert meist von Ende Juni bis Mitte Juli, mit dem Höhepunkt in der ersten Julihälfte, wobei es vom Jahr abhängt. In diesen Wochen findet in Brihuega das Lavendelfest (Festival de la Lavanda) mit Aktivitäten, Markt und Musik statt, und dann ist der Andrang am größten."
+    - "Um ohne Gedränge zu genießen, geh früh am Morgen oder am Abend, wenn die Hitze geringer und das Licht schöner ist. Lavendelfelder sind Nutzflächen mit Besitzer: Respektiere die Grenzen und die ausgewiesenen Bereiche für Fotos und Spaziergänge, die manchmal kostenpflichtig sind. Nimm Hut, Sonnenschutz und Wasser mit und denk daran, dass es viele Bienen gibt."
+  mapa:
+    titulo: "Wo die Lavendelfelder liegen"
+    centro: [40.76, -2.87]
+    zoom: 11
+    puntos:
+      - { nombre: "Brihuega (Guadalajara)", lat: 40.7625, lon: -2.8728, desc: "Die Lavendelfelder umgeben den Ort; das Lavendelfest findet dort während der Blüte statt." }
+  faq:
+    - p: "Wann blüht der Lavendel in Brihuega?"
+      r: "Von Ende Juni bis Mitte Juli, mit dem Höhepunkt in der ersten Julihälfte. Das variiert jedes Jahr mit dem Wetter."
+    - p: "Wo liegen die Lavendelfelder?"
+      r: "In der Umgebung von Brihuega (Guadalajara), mit ausgeschilderten Zugängen vom Ort aus. Es gibt Spazierbereiche und Aussichtspunkte."
+    - p: "Welche Uhrzeit ist die beste?"
+      r: "Früh am Morgen oder am Abend, wenn es weniger heiß ist, weniger Leute da sind und das Licht schöner ist."
+    - p: "Muss man bezahlen?"
+      r: "Manche für Spaziergänge und Fotos eingerichtete Bereiche verlangen einen kleinen Eintritt. Informiere dich vor dem Besuch über die Bedingungen und betritt keine nicht erlaubten Felder."
+    - p: "Was muss man mitnehmen?"
+      r: "Hut, Sonnenschutz, Wasser und bequeme Schuhe. Es gibt viele Bienen, also sollte man sie nicht stören."
+    - p: "Ist das ein guter Plan mit Kindern?"
+      r: "Ja, aber bei Hitze und mit Bienen, also behalte die Kleinsten im Auge, meide die Mittagsstunden und nimm Wasser mit."
+halloween-difuntos:
+  texto:
+    - "Am 31. Oktober und 1. November existieren in Spanien zwei sehr unterschiedliche Traditionen nebeneinander: Halloween, mit Verkleidungen, Gruselpassagen und Kinderfesten, und Allerheiligen (Todos los Santos), ein Tag des Gedenkens an die Verstorbenen, mit Friedhofsbesuchen und eigenen Süßspeisen."
+    - "Halloween gewinnt immer mehr an Bedeutung, vor allem bei Jugendlichen und Kindern, mit Mottopartys, Gruselhäusern und dekorierten Freizeitparks. Der 1. November dagegen ist ein traditioneller Feiertag: Man besucht die Friedhöfe mit Blumen, isst huesos de santo und buñuelos de viento und, in Katalonien, panellets und Kastanien bei der castañada."
+    - "In vielen Theatern wird in diesen Tagen Don Juan Tenorio von Zorrilla aufgeführt, eine Tradition am 1. und 2. November. Schau in den Veranstaltungskalender und in die Programme der Gemeinde, und wenn du mit Kindern unterwegs bist, wähle kindgerechte Feste und feiere auch den traditionellen Teil mit."
+  faq:
+    - p: "Was wird am 1. November gefeiert?"
+      r: "Allerheiligen (Día de Todos los Santos), ein Feiertag in ganz Spanien, an dem man der Verstorbenen gedenkt und die Friedhöfe mit Blumen besucht."
+    - p: "Welche Süßigkeiten isst man?"
+      r: "Huesos de santo, buñuelos de viento und, in Katalonien, panellets und Kastanien bei der castañada."
+    - p: "Was ist die castañada?"
+      r: "Ein traditionelles katalanisches Allerheiligenfest, bei dem man Kastanien, panellets und Süßkartoffeln isst."
+    - p: "Was kann man an Halloween unternehmen?"
+      r: "Kostümpartys, Gruselpassagen, Spukhäuser und Mystery-Routen. Viele Freizeitparks und Gemeinden organisieren Aktivitäten."
+    - p: "Was ist Don Juan Tenorio?"
+      r: "Ein Theaterstück von José Zorrilla, das traditionell in diesen Tagen in vielen Theatern aufgeführt wird."
+    - p: "Ist das ein guter Plan mit Kindern?"
+      r: "Ja, es gibt viele Kinderaktivitäten zu Halloween. Wenn du auf einen Friedhof gehst, sollte man ihnen den ruhigen Sinn des Besuchs erklären."

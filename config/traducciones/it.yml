@@ -819,3 +819,119 @@ maraton-malaga:
       r: "Sì. Consulta le chiusure e gli orari sul sito ufficiale e presso il comune."
     - p: "Che tempo fa a dicembre a Málaga?"
       r: "Di solito è mite, anche se possono esserci pioggia o vento. Porta abiti a strati."
+magostos:
+  texto:
+    - "Il magosto è la grande festa della castagna: un falò, castagne arrostite, vino novello e tanta gente intorno. Si celebra soprattutto in Galizia, nelle Asturie (dove si chiama amagüestu) e a El Bierzo, e ha il suo giorno clou intorno a San Martino, l'11 novembre."
+    - "Ci sono magosti di famiglia, di quartiere, di paese e di associazioni, e molti comuni li organizzano aperti a tutti, a volte con musica, balli e giochi tradizionali. In altre zone dell'interno, come la Valle del Jerte in Extremadura, esiste una tradizione simile legata a Ognissanti, che si chiama calbotá."
+    - "Per trovarne uno, dai un'occhiata all'agenda del comune o della pro loco della zona qualche giorno prima: le date cambiano ogni anno e molti vengono annunciati con poco anticipo. Porta vestiti caldi, perché si sta all'aperto, e non aspettarti niente di sofisticato: il bello sta nel falò e nel mangiare le castagne calde, in compagnia."
+  mapa:
+    titulo: "Dove si celebrano i magosti"
+    centro: [41.8, -6.2]
+    zoom: 6
+    puntos:
+      - { nombre: "Galizia (Ourense e Lugo)", lat: 42.4, lon: -7.6, desc: "Culla del magosto: si celebra in paesi, quartieri e scuole, con la data principale intorno a San Martino." }
+      - { nombre: "Asturie", lat: 43.3, lon: -5.8, desc: "Qui si chiama amagüestu e lo si accompagna con sidro novello." }
+      - { nombre: "El Bierzo (León)", lat: 42.55, lon: -6.6, desc: "Magosti in molti paesi della comarca, in pieno castagneto." }
+      - { nombre: "Valle del Jerte (Cáceres)", lat: 40.2, lon: -5.8, desc: "La sua versione è la calbotá, intorno a Ognissanti." }
+  faq:
+    - p: "Che cos'è un magosto?"
+      r: "È una festa tradizionale d'autunno in cui si arrostiscono castagne su un falò e si mangiano con vino novello, sidro o mosto. È tipica di Galizia, Asturie e El Bierzo, anche se esistono celebrazioni simili in altre zone."
+    - p: "Quando si celebra?"
+      r: "Soprattutto a novembre, con il giorno di San Martino, l'11 novembre, come data di riferimento. Molti paesi lo festeggiano nel fine settimana più vicino, e ci sono magosti anche a fine ottobre."
+    - p: "Dove andare a un magosto?"
+      r: "In Galizia, nelle Asturie e a El Bierzo ci sono magosti in moltissimi paesi e quartieri. La cosa più affidabile è consultare l'agenda del comune o della zona qualche giorno prima."
+    - p: "Bisogna pagare o prenotare?"
+      r: "Dipende. Molti magosti popolari sono gratuiti o chiedono un piccolo contributo, mentre altri, organizzati da ristoranti o cantine, richiedono la prenotazione. Chiedi all'organizzatore."
+    - p: "Posso fare un magosto a casa?"
+      r: "Sì. Incidi la buccia di ogni castagna, arrostiscile in padella o nel forno e avvolgile in un canovaccio per qualche minuto prima di sbucciarle. Accompagnale con vino o sidro, se ti va."
+    - p: "È un buon programma con i bambini?"
+      r: "Sì, di solito l'atmosfera è molto familiare. Basta stare attenti al falò e far sì che le castagne siano tiepide prima di mangiarle."
+piscinas-naturales:
+  imagen_alt: "Pozza d'acqua verde e trasparente tra rocce di granito con una bagnante in una gola di montagna"
+  texto:
+    - "Pozze d'acqua cristallina tra rocce di granito, piccole cascate e gole fresche in pieno estate: le piscine naturali sono uno dei modi migliori per scappare dal caldo senza andare in costa. Sono acqua di fiume o di torrente di montagna, senza cloro né bagnino, e questo le rende tanto speciali quanto delicate."
+    - "Le zone più conosciute si trovano nel nord di Cáceres e nel Sistema Centrale: La Vera, la Valle del Jerte (con i suoi famosi Pilones), Las Hurdes e la sierra de Gredos, ad Ávila. Ce ne sono moltissime anche in Galizia, Asturie, Cantabria, Castilla y León, nei Pirenei e in Sierra Nevada, e l'acqua è di solito fredda anche ad agosto."
+    - "Entra in acqua con calma, soprattutto se vieni da ore passate al sole, perché lo sbalzo di temperatura può provocare un blocco della digestione. Non tuffarti senza conoscere il fondale, fai attenzione alle rocce scivolose e non fare il bagno dopo forti piogge o con la portata alta. Nelle pozze non c'è sorveglianza, quindi vai sempre in compagnia e presta particolare attenzione ai bambini."
+    - "Alcune pozze, per la loro fragilità o per l'afflusso, hanno capienza limitata, prenotazione obbligatoria o accessi regolamentati in estate, e nei fine settimana di agosto si riempiono presto. Consulta prima il sito del comune o dell'area naturale e arriva presto. Porta calzature che aderiscano bene dentro l'acqua, non usare sapone né creme nella pozza e porta via tutta la tua spazzatura."
+  faq:
+    - p: "Dove ci sono piscine naturali in Spagna?"
+      r: "Le zone più conosciute sono La Vera e la Valle del Jerte (Cáceres), Las Hurdes, la sierra de Gredos (Ávila) e il Sistema Centrale, oltre a molte pozze di Galizia, Asturie, Cantabria, Pirenei e Sierra Nevada."
+    - p: "Quando andare in una piscina naturale?"
+      r: "Da giugno a settembre, con luglio e agosto come mesi di maggiore affluenza. Se vuoi un po' di tranquillità, vai in settimana e arriva presto. In quelle che dipendono dal disgelo o dalla pioggia, la portata cala a fine estate."
+    - p: "Bisogna prenotare o pagare?"
+      r: "Quasi sempre sono gratuite, ma alcune hanno capienza limitata, accesso regolamentato o parcheggio a pagamento in alta stagione. Consulta il sito del comune o dell'area naturale prima di andare."
+    - p: "Ci sono bagnini?"
+      r: "Nella maggior parte delle pozze e delle gole no: sono acqua di fiume senza sorveglianza. Vai in compagnia, non lasciare i bambini senza supervisione ed evita di fare il bagno se il tempo è brutto o la portata è aumentata."
+    - p: "Cosa bisogna portare?"
+      r: "Calzature che aderiscano in acqua (sandali da fiume o scarpette), asciugamano, acqua, qualcosa da mangiare, protezione solare e un sacchetto per la tua spazzatura. Non usare sapone né creme nella pozza."
+    - p: "Si può andare con bambini o con il cane?"
+      r: "Con i bambini, meglio pozze poco profonde e di facile accesso, e sempre con un adulto in acqua. Con il cane dipende dall'area: in alcune è vietato o deve stare al guinzaglio, quindi controlla la normativa locale."
+almendros:
+  texto:
+    - "I mandorli sono i primi alberi a fiorire in Spagna. A fine inverno, quando fa ancora freddo, i pendii si coprono di fiori bianchi e rosa, e si può passeggiare tra di essi con una luce particolarmente bella."
+    - "La fioritura va di solito da fine gennaio a marzo, a seconda della zona e dell'anno, e il picco anticipa nel sud e nelle isole. Maiorca, l'Axarquía di Málaga, Tenerife e la zona di Cartagena sono mete conosciute, e in vari luoghi ci sono percorsi segnalati e feste dedicate, come quella del mandorlo in fiore a Tenerife."
+    - "Poiché i fiori durano poco e dipendono dal tempo, conviene controllare lo stato della fioritura qualche giorno prima. I mandorli sono colture con un proprietario: cammina su sentieri pubblici, non tagliare rami né raccogliere fiori e non entrare in proprietà recintate. Se sei allergico al polline, porta i farmaci, perché in questo periodo ce n'è molto."
+  mapa:
+    titulo: "Dove vedere i mandorli in fiore"
+    centro: [37.5, -6.0]
+    zoom: 5
+    puntos:
+      - { nombre: "Maiorca", lat: 39.65, lon: 2.95, desc: "Il Pla de Mallorca e i pendii dell'interno si riempiono di mandorli bianchi e rosa." }
+      - { nombre: "L'Axarquía (Málaga)", lat: 36.85, lon: -4.3, desc: "Comarca di Málaga con mandorli in fiore da fine gennaio." }
+      - { nombre: "Campo de Cartagena (Murcia)", lat: 37.65, lon: -1.0, desc: "Fioritura precoce nel campo de Cartagena, con percorsi tra i mandorli." }
+      - { nombre: "Tenerife", lat: 28.3, lon: -16.8, desc: "Mandorli in fiore nell'ovest dell'isola, con la festa del mandorlo in fiore." }
+  faq:
+    - p: "Quando fioriscono i mandorli?"
+      r: "Tra fine gennaio e marzo, a seconda della zona e dell'anno. Nel sud e alle Baleari e alle Canarie di solito anticipa."
+    - p: "Dove vedere i mandorli in fiore?"
+      r: "Maiorca, l'Axarquía (Málaga), Tenerife, la zona di Cartagena e altre aree di coltivazione del sud e dell'est della penisola sono mete abituali."
+    - p: "Si possono raccogliere fiori o mandorle?"
+      r: "No. Sono coltivazioni private, anche se sembrano campagna aperta. Goditeli dai sentieri e rispetta le proprietà."
+    - p: "Quanto dura la fioritura?"
+      r: "Molto poco, tra una e due settimane per zona, e può accorciarsi con vento o pioggia. Controlla lo stato della fioritura prima di partire."
+    - p: "Cosa bisogna portare?"
+      r: "Scarpe da passeggio, vestiti caldi a strati, macchina fotografica e, se hai allergie, antistaminici. È un buon programma per fare foto all'alba o al tramonto."
+    - p: "È un buon programma con i bambini?"
+      r: "Sì, le passeggiate brevi tra i mandorli sono adatte alle famiglie, ed è un buon momento per mostrare come cambiano le colture con le stagioni."
+lavanda-brihuega:
+  texto:
+    - "All'inizio di luglio, i campi di lavanda di Brihuega, in provincia di Guadalajara, si tingono di viola. È uno dei paesaggi estivi più fotogenici della Spagna e, a differenza della Provenza francese, ci si arriva in un paio d'ore da Madrid."
+    - "La fioritura va di solito da fine giugno a metà luglio, con il picco nella prima quindicina di luglio, anche se dipende dall'anno. In quelle settimane si celebra il Festival della Lavanda, con attività, mercato e musica a Brihuega, ed è il momento di maggiore affluenza."
+    - "Per goderti il posto senza ressa, vai la mattina presto o al tramonto, quando il caldo è minore e la luce è più bella. I campi di lavanda sono colture con un proprietario: rispetta i confini e le zone attrezzate per foto e passeggiate, che a volte sono a pagamento. Porta cappello, protezione solare e acqua, e tieni presente che ci sono molte api."
+  mapa:
+    titulo: "Dove si trovano i campi di lavanda"
+    centro: [40.76, -2.87]
+    zoom: 11
+    puntos:
+      - { nombre: "Brihuega (Guadalajara)", lat: 40.7625, lon: -2.8728, desc: "I campi di lavanda circondano il paese; il Festival della Lavanda vi si celebra durante la fioritura." }
+  faq:
+    - p: "Quando fiorisce la lavanda a Brihuega?"
+      r: "Da fine giugno a metà luglio, con il massimo nella prima quindicina di luglio. Varia ogni anno a seconda del clima."
+    - p: "Dove sono i campi di lavanda?"
+      r: "Nei dintorni di Brihuega (Guadalajara), con accessi segnalati dal paese. Ci sono zone per passeggiare e punti panoramici."
+    - p: "Qual è l'ora migliore per andare?"
+      r: "La mattina presto o al tramonto, quando fa meno caldo, c'è meno gente e la luce è più bella."
+    - p: "Bisogna pagare?"
+      r: "Alcune zone attrezzate per passeggiate e foto chiedono un piccolo biglietto d'ingresso. Informati sulle condizioni prima di andare e non entrare in campi non autorizzati."
+    - p: "Cosa bisogna portare?"
+      r: "Cappello, protezione solare, acqua e scarpe comode. Ci sono molte api, quindi è meglio non disturbarle."
+    - p: "È un buon programma con i bambini?"
+      r: "Sì, ma con caldo e api, quindi tieni d'occhio i più piccoli, evita le ore centrali e porta acqua."
+halloween-difuntos:
+  texto:
+    - "Il 31 ottobre e il 1° novembre in Spagna convivono due tradizioni molto diverse: Halloween, con costumi, percorsi dell'orrore e feste per bambini, e Ognissanti, un giorno di ricordo dei defunti, con visite al cimitero e dolci tipici."
+    - "Halloween ha sempre più presenza, soprattutto tra i giovani e i bambini, con feste a tema, case degli orrori e parchi di divertimento decorati. Il 1° novembre, invece, è festivo e tradizionale: si visitano i cimiteri con i fiori, si mangiano huesos de santo e buñuelos de viento e, in Catalogna, panellets e castagne durante la castañada."
+    - "In molti teatri in questi giorni si rappresenta Don Juan Tenorio, di Zorrilla, una tradizione dell'1 e del 2 novembre. Consulta il cartellone e i programmi del comune e, se vai con i bambini, scegli feste adatte a loro e celebra anche la parte tradizionale."
+  faq:
+    - p: "Che cosa si celebra il 1° novembre?"
+      r: "Il Giorno di Ognissanti, festivo in tutta la Spagna, in cui si ricordano i defunti e si visitano i cimiteri con i fiori."
+    - p: "Quali dolci si mangiano?"
+      r: "Huesos de santo, buñuelos de viento e, in Catalogna, panellets e castagne durante la castañada."
+    - p: "Che cos'è la castañada?"
+      r: "Una festa tradizionale catalana di Ognissanti in cui si mangiano castagne, panellets e patate dolci."
+    - p: "Cosa fare a Halloween?"
+      r: "Feste in maschera, percorsi dell'orrore, case stregate e itinerari del mistero. Molti parchi di divertimento e comuni organizzano attività."
+    - p: "Che cos'è Don Juan Tenorio?"
+      r: "Un'opera teatrale di José Zorrilla che si rappresenta tradizionalmente in queste date in molti teatri."
+    - p: "È un buon programma con i bambini?"
+      r: "Sì, ci sono molte attività per bambini per Halloween. Se vai in un cimitero, conviene spiegare loro il senso tranquillo della visita."
