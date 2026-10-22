@@ -1093,7 +1093,7 @@ semana-santa-salamanca:
     - p: "Qual è la processione più sentita?"
       r: "Quella del Cristo Yacente è una delle più ricordate, con un'atmosfera molto sobria. Consulta il programma per il giorno e l'ora esatti."
     - p: "Quale immagine annuncia la Settimana Santa di Salamanca 2027?"
-    r: "La Piedad della Confraternita Domenicana (Nostra Signora dei Dolori), nella fotografia «El brillo del dolor» di Pablo Julián Mateos, vincitrice del concorso fotografico e manifesto del 2027."
+      r: "La Piedad della Confraternita Domenicana (Nostra Signora dei Dolori), nella fotografia «El brillo del dolor» di Pablo Julián Mateos, vincitrice del concorso fotografico e manifesto del 2027."
     - p: "È gratis?"
       r: "Sì, assistere alle processioni dalla strada è gratuito."
     - p: "Che abbigliamento portare?"

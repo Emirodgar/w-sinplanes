@@ -1094,7 +1094,7 @@ semana-santa-salamanca:
     - p: "Qual é a procissão mais sentida?"
       r: "A do Cristo Yacente é uma das mais recordadas, com um ambiente muito sóbrio. Consulta o programa para saber o dia e a hora exatos."
     - p: "Que imagem anuncia a Semana Santa de Salamanca 2027?"
-    r: "A Piedad da Irmandade Dominicana (Nossa Senhora das Dores), na fotografia «El brillo del dolor» de Pablo Julián Mateos, vencedora do concurso de fotografia e cartaz de 2027."
+      r: "A Piedad da Irmandade Dominicana (Nossa Senhora das Dores), na fotografia «El brillo del dolor» de Pablo Julián Mateos, vencedora do concurso de fotografia e cartaz de 2027."
     - p: "É grátis?"
       r: "Sim, ver as procissões da rua é gratuito."
     - p: "Que roupa levar?"
