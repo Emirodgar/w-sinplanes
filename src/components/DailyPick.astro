@@ -11,7 +11,8 @@ import PodcastCover from './PodcastCover.astro';
 import { t, url } from '../i18n/ui.js';
 import { pickText, TODAY } from '../lib/data.js';
 
-const { lang } = Astro.props;
+// `kinds` permite colocar cada pareja de widgets en un punto distinto de la home (libro y podcast arriba, película y serie bajo la cartelera).
+const { lang, kinds = ['series', 'book', 'podcast', 'movie'] } = Astro.props;
 const L = t[lang];
 
 const hash = (s) => [...s].reduce((a, c) => (Math.imul(a, 31) + c.charCodeAt(0)) >>> 0, 7);
@@ -26,7 +27,7 @@ const cards = [
   { kind: 'book', label: L.w.dailyBook, item: choose('book', libros.todos || (libros.actual ? [libros.actual] : [])), href: url.books(lang) },
   { kind: 'podcast', label: L.w.dailyPodcast, item: choose('podcast', podcasts.todos || (podcasts.actual ? [podcasts.actual] : [])), href: url.podcasts(lang) },
   { kind: 'movie', label: L.w.dailyMovie, item: choose('movie', moviePool), href: url.movies(lang) },
-].filter((c) => c.item).map((c) => {
+].filter((c) => kinds.includes(c.kind) && c.item).sort((a, b) => kinds.indexOf(a.kind) - kinds.indexOf(b.kind)).map((c) => {
   const tmdb = c.kind === 'series' || c.kind === 'movie';
   const obj = c.kind === 'podcast' ? c.item.descripcion : c.item.sinopsis;
   return {

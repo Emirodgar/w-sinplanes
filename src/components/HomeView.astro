@@ -92,6 +92,8 @@ const jsonld = {
       <PlanList lang={lang} plans={free} />
     </section>
 
+    <DailyPick lang={lang} kinds={['book', 'podcast']} />
+
     <section class="widget" aria-labelledby="w-kids">
       <h2 id="w-kids">{L.w.kids}</h2>
       <PlanList lang={lang} plans={kids} />
@@ -108,7 +110,7 @@ const jsonld = {
 
     <CineWidget lang={lang} />
 
-    <DailyPick lang={lang} />
+    <DailyPick lang={lang} kinds={['movie', 'series']} />
 
     <section class="widget" aria-labelledby="w-next">
       <h2 id="w-next">{L.w.next}</h2>
