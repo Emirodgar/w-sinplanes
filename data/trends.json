@@ -2,6 +2,16 @@
  "updated": "2026-10-22",
  "terms": [
   {
+   "term": "enric masip",
+   "traffic": 100000,
+   "lastSeen": "2026-10-22",
+   "news": [
+    "Enric Masip: \"Lo que hace el Real Madrid es una vergüenza y está maltratando a toda la competición\"",
+    "“Lo que hace el Madrid es una vergüenza y está maltratando a toda la competición”",
+    "Enric Masip, sobre Mourinho antes del Clásico: \"Siempre lanza dardos. Cosas raras es meterle el dedo en el ojo a un entrenador\""
+   ]
+  },
+  {
    "term": "mónica garcía",
    "traffic": 20000,
    "lastSeen": "2026-10-20",
@@ -109,16 +119,6 @@
     "Iñaki Williams, sobre las palabras de Tainta: “El momento y las formas quizás no eran las adecuadas”",
     "Tirón de orejas de Williams a Tainta por sus palabras sobre Nico: «No era quizá el momento ni las formas»",
     "Iñaki Williams: “Nico ha demostrado que quiere estar en el Athletic y cumplir su contrato”"
-   ]
-  },
-  {
-   "term": "enric masip",
-   "traffic": 5000,
-   "lastSeen": "2026-10-22",
-   "news": [
-    "“Lo que hace el Madrid es una vergüenza y está maltratando a toda la competición”",
-    "Enric Masip: \"Lo que hace el Real Madrid es una vergüenza y está maltratando a toda la competición\"",
-    "Enric Masip, sobre Mourinho antes del Clásico: \"Siempre lanza dardos. Cosas raras es meterle el dedo en el ojo a un entrenador\""
    ]
   },
   {
@@ -472,6 +472,36 @@
    ]
   },
   {
+   "term": "resentimiento",
+   "traffic": 500,
+   "lastSeen": "2026-10-22",
+   "news": [
+    "Las personas que se mantienen calladas para evitar conflictos tienen una personalidad marcada por el resent...",
+    "Según la psicología, las personas que de chicos nunca llevaban la contra a sus padres suelen tener este problema de adultos",
+    "Katz en RDI: “Hay muchos resentimientos que está organizando la vida política en occidente”"
+   ]
+  },
+  {
+   "term": "alfonso serrano",
+   "traffic": 500,
+   "lastSeen": "2026-10-22",
+   "news": [
+    "Alfonso Serrano (PP) pierde los papeles en la Asamblea de Madrid y estalla contra Manuela Bergerot: \"¡Cállate ya, verdulera!\"",
+    "Alfonso Serrano grita a la oposición: \"Cállate ya, verdulera\"",
+    "Ayuso reprocha a la oposición no tener educación y 30 segundos más tarde su número dos llama \"verdulera\" a Manuela Bergerot"
+   ]
+  },
+  {
+   "term": "cerro muriano",
+   "traffic": 500,
+   "lastSeen": "2026-10-22",
+   "news": [
+    "Muere un militar atropellado en la base de Cerro Muriano en Córdoba",
+    "Fallecido un soldado tras ser atropellado por un vehículo militar en la base de Cerro Muriano",
+    "Muere atropellado un militar en la base de Cerro Muriano de Córdoba"
+   ]
+  },
+  {
    "term": "grieta",
    "traffic": 200,
    "lastSeen": "2026-10-20",
@@ -740,33 +770,13 @@
    ]
   },
   {
-   "term": "resentimiento",
-   "traffic": 200,
-   "lastSeen": "2026-10-22",
-   "news": [
-    "Las personas que se mantienen calladas para evitar conflictos tienen una personalidad marcada por el resent...",
-    "Según la psicología, las personas que de chicos nunca llevaban la contra a sus padres suelen tener este problema de adultos",
-    "Katz en RDI: “Hay muchos resentimientos que está organizando la vida política en occidente”"
-   ]
-  },
-  {
-   "term": "alfonso serrano",
-   "traffic": 200,
-   "lastSeen": "2026-10-22",
-   "news": [
-    "\"La mayoría de verduleras que conozco están muy por encima de este nivel\": la reacción de Ferreras tras llamar Serrano (PP) \"verdulera\" a Bergerot (Más Madrid)",
-    "Alfonso Serrano grita a la oposición: \"Cállate ya, verdulera\"",
-    "Ayuso reprocha a la oposición no tener educación y 30 segundos más tarde su número dos llama \"verdulera\" a Manuela Bergerot"
-   ]
-  },
-  {
    "term": "mar espinar",
    "traffic": 200,
    "lastSeen": "2026-10-22",
    "news": [
     "La portavoz del PSOE en Madrid vive en un piso público de la Universidad Rey Juan Carlos que solo pueden usar sus empleados y ella no lo es",
-    "La \"hipocresía de la izquierda\": Ayuso censura a Mar Espinar, que vive \"a precio de amigo\" en un piso público en Alcorcón",
-    "PSOE y Más Madrid borran la vivienda de su libreto contra Ayuso: \"Les importa una Mínguez\""
+    "PSOE y Más Madrid borran la vivienda de su libreto contra Ayuso: \"Les importa una Mínguez\"",
+    "La \"hipocresía de la izquierda\": Ayuso censura a Mar Espinar, que vive \"a precio de amigo\" en un piso público en Alcorcón"
    ]
   },
   {
@@ -777,6 +787,26 @@
     "Ya disponibles para descargar los 9 juegos de PlayStation Plus Extra y Premium, que incluyen Mafia: The Old Country",
     "Mafia The Old Country, Horizon Forbidden West y Dino Crisis 2 lideran los nuevos juegos de PS Plus Extra y Premium en octubre de 2026",
     "Los 9 juegos nuevos de PS Plus de octubre, a votación: Mafia: The Old Country, favorito"
+   ]
+  },
+  {
+   "term": "virus shamonda",
+   "traffic": 200,
+   "lastSeen": "2026-10-22",
+   "news": [
+    "Muere en Francia un hombre infectado por el virus Shamonda en el primer caso conocido en un ser humano",
+    "Francia confirma la primera muerte humana por el virus Shamonda",
+    "Muere en Francia una persona con el virus shamonda, que se creía no transmisible al hombre"
+   ]
+  },
+  {
+   "term": "calabaza",
+   "traffic": 200,
+   "lastSeen": "2026-10-22",
+   "news": [
+    "Mercadona confirma el origen de las calabazas que vende en sus supermercados este otoño",
+    "La calabaza de asar de Benaguasil gana peso en Mercadona: 450 toneladas para la campaña de otoño e invierno",
+    "¿Dónde comprar la mejor calabaza este Halloween? Mercadona ofrecerá 450 toneladas de esta fruta valenciana"
    ]
   },
   {

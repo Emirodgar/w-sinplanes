@@ -1,11 +1,11 @@
 {
-  "generated": "2026-10-22T10:42:35.002Z",
+  "generated": "2026-10-22T11:27:27.003Z",
   "today": "2026-10-22",
-  "events": 2370,
+  "events": 2374,
   "review": 7,
   "ai": {
-    "calls": 13,
-    "seconds": 183,
+    "calls": 0,
+    "seconds": 53,
     "tripped": false
   },
   "sources": [
@@ -36,8 +36,8 @@
     },
     {
       "id": "futbol-laliga-champions",
-      "status": "omitida",
-      "detail": "falta el secreto FOOTBALL_DATA_TOKEN"
+      "status": "ok",
+      "count": 4
     },
     {
       "id": "prensa-europapress-cultura",
@@ -54,13 +54,13 @@
     {
       "id": "prensa-elpais-cultura",
       "status": "ok",
-      "count": 14,
+      "count": 15,
       "candidatos": true
     },
     {
       "id": "prensa-lavanguardia-cultura",
       "status": "ok",
-      "count": 23,
+      "count": 24,
       "candidatos": true
     },
     {
@@ -114,13 +114,13 @@
     {
       "id": "prensa-diariovasco-culturas",
       "status": "ok",
-      "count": 14,
+      "count": 15,
       "candidatos": true
     },
     {
       "id": "prensa-lasprovincias-culturas",
       "status": "ok",
-      "count": 17,
+      "count": 18,
       "candidatos": true
     },
     {
