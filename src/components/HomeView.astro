@@ -6,7 +6,7 @@ import SearchBox from './SearchBox.astro';
 import CineWidget from './CineWidget.astro';
 import DailyPick from './DailyPick.astro';
 import MatchToday from './MatchToday.astro';
-import { t, url, monthName, HREFLANG } from '../i18n/ui.js';
+import { t, url, monthName, HREFLANG, INTL_LOCALE } from '../i18n/ui.js';
 import { TODAY, currentMonth, seasonalFor, upcoming, within, overlaps, weekendRange, topicById, fmtDay, cap, ptitle, psummary, textLang, trending, boost, inLang } from '../lib/data.js';
 
 const { lang } = Astro.props;
@@ -35,8 +35,23 @@ const jsonld = {
 <Base lang={lang} route={{ type: 'home' }} jsonld={jsonld}>
   <section class="hero">
     <h1>{L.heroQ}</h1>
-    <p>{L.heroToday(cap(fmtDay(lang, TODAY)))}</p>
+    <p data-today={TODAY} data-locale={INTL_LOCALE[lang]} data-label={cap(fmtDay(lang, TODAY))}>{L.heroToday(cap(fmtDay(lang, TODAY)))}</p>
   </section>
+  <script is:inline>
+    // El HTML se genera en el build; si el despliegue diario se retrasa, la fecha del saludo se corrige aquí con la de hoy en Madrid.
+    (function () {
+      var p = document.querySelector('[data-today]');
+      if (!p) return;
+      try {
+        var now = new Date();
+        var iso = now.toLocaleDateString('sv-SE', { timeZone: 'Europe/Madrid' });
+        if (iso === p.dataset.today) return;
+        var label = new Intl.DateTimeFormat(p.dataset.locale, { weekday: 'long', day: 'numeric', month: 'long', timeZone: 'Europe/Madrid' }).format(now);
+        label = label.charAt(0).toUpperCase() + label.slice(1);
+        p.textContent = p.textContent.replace(p.dataset.label, label);
+      } catch (e) {}
+    })();
+  </script>
 
   <SearchBox lang={lang} mode="index" />
 

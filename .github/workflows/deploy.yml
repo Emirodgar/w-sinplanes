@@ -16,7 +16,12 @@ on:
     workflows: ['Datos · agendas y tendencias (sin IA)', 'Datos · prensa, resúmenes y traducciones (IA)']
     types: [completed]
   schedule:
-    - cron: '27 8 * * *'
+    # GitHub retrasa (a veces horas) o se salta disparos de `schedule`, así que hay varios: justo tras la medianoche de Madrid
+    # (22:00 UTC en verano, 23:00 en invierno) para que el día cambie a tiempo, y más durante la madrugada y la mañana como respaldo.
+    # Reconstruir es barato e idempotente, así que no pasa nada si varios llegan.
+    - cron: '7 22,23 * * *'
+    - cron: '37 22,23,0 * * *'
+    - cron: '27 2,5,8 * * *'
   workflow_dispatch: {}
 
 permissions:
