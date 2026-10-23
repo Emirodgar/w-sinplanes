@@ -1216,3 +1216,168 @@ gruta-las-maravillas:
           r: "Sí, la visita suele gustar a los niños, aunque hay escaleras y tramos estrechos."
         - p: "¿Qué más hacer en Aracena?"
           r: "Probar el jamón ibérico, visitar el castillo y pasear por la sierra."
+universidad-salamanca:
+  relacionados: [catedrales-salamanca, casa-las-conchas, clerecia, plaza-mayor-salamanca, salamanca-un-dia, llaves-de-la-ciudad-salamanca]
+  contenido:
+    es:
+      texto:
+        - "La Universidad de Salamanca es la más antigua de España que sigue en funcionamiento. Nació en 1218 y fue durante siglos uno de los grandes centros del saber europeo, con figuras como Fray Luis de León o Miguel de Unamuno ligadas a sus aulas."
+        - "El conjunto histórico gira en torno al Patio de Escuelas. La fachada plateresca de las Escuelas Mayores es una de las imágenes más reconocibles de la ciudad, y en ella se esconde una pequeña rana sobre una calavera que los visitantes buscan por tradición. Dentro se recorren las aulas históricas y la Biblioteca Antigua, con fondos de gran valor."
+        - "Otoño es buen momento para visitarla: la Biblioteca Antigua forma parte de «Las llaves de la ciudad», el programa de visitas guiadas que Salamanca celebra cada año (en 2026, del 24 de octubre al 20 de diciembre). Quien completa el pasaporte del programa puede optar a un sorteo para ver el sanctasanctórum de la biblioteca. Consulta siempre la web oficial para horarios, entradas y condiciones de acceso, que cambian."
+      faq:
+        - p: "¿Qué es lo más conocido de la Universidad de Salamanca?"
+          r: "La fachada plateresca de las Escuelas Mayores, con la rana escondida, y la Biblioteca Antigua."
+        - p: "¿Dónde está la rana?"
+          r: "En la fachada de las Escuelas Mayores, sobre una calavera. Es tradición intentar encontrarla."
+        - p: "¿Se puede visitar la Biblioteca Antigua?"
+          r: "Sí. Además de la visita habitual, forma parte de «Las llaves de la ciudad», con visitas guiadas en otoño. Consulta la web oficial para plazas y condiciones."
+        - p: "¿Qué es Las llaves de la ciudad?"
+          r: "Un programa anual de visitas guiadas a espacios patrimoniales de Salamanca. La prensa local lo presenta como gratuito, pero hay que reservar en la web de Turismo de Salamanca."
+        - p: "¿Cuánto tiempo se necesita?"
+          r: "Una hora o dos para el exterior y las zonas visitables. Más si añades la Biblioteca Antigua y el entorno de las catedrales."
+        - p: "¿Qué más ver cerca?"
+          r: "Las Catedrales, la Casa de las Conchas y la Clerecía están a pocos minutos a pie."
+plaza-mayor-salamanca:
+  relacionados: [universidad-salamanca, casa-las-conchas, catedrales-salamanca, salamanca-un-dia, llaves-de-la-ciudad-salamanca]
+  contenido:
+    es:
+      texto:
+        - "La Plaza Mayor de Salamanca es una de las más bellas de España y el centro de la vida de la ciudad. Es una plaza barroca de piedra dorada, construida en el siglo XVIII con diseño de Alberto de Churriguera, con soportales continuos y un conjunto muy armónico."
+        - "En los arcos y en las fachadas hay medallones con relieves de personajes de la historia de España, y en uno de sus lados se levanta el Ayuntamiento, la Casa Consistorial. De día es un buen punto para tomar un café bajo los soportales, y de noche, con la iluminación, gana mucho."
+        - "Este otoño la Casa Consistorial participa en «Las llaves de la ciudad», el programa de visitas del Ayuntamiento (en 2026, del 24 de octubre al 20 de diciembre), que abre algunas de sus dependencias. Consulta siempre la web oficial para horarios y condiciones de visita, que cambian."
+      faq:
+        - p: "¿Quién diseñó la Plaza Mayor?"
+          r: "Alberto de Churriguera, en el siglo XVIII, dentro del barroco salmantino."
+        - p: "¿Qué son los medallones?"
+          r: "Relieves con retratos de personajes de la historia de España que decoran los arcos y las fachadas de la plaza."
+        - p: "¿Se puede visitar el Ayuntamiento?"
+          r: "Se abre a visitas durante «Las llaves de la ciudad», que se celebra en otoño. Consulta la web oficial de Turismo de Salamanca para fechas y reservas."
+        - p: "¿Cuándo es mejor ir?"
+          r: "De día para pasear y tomar un café, y al anochecer, cuando la iluminación resalta la piedra dorada."
+        - p: "¿Qué más ver cerca?"
+          r: "La Casa de las Conchas, la Universidad y las Catedrales, todas a pocos minutos a pie."
+catedrales-salamanca:
+  relacionados: [universidad-salamanca, casa-las-conchas, clerecia, plaza-mayor-salamanca, salamanca-un-dia]
+  contenido:
+    es:
+      texto:
+        - "Salamanca tiene dos catedrales unidas: la Vieja, románica y del siglo XII, y la Nueva, gótica y construida entre los siglos XVI y XVIII. Se recorren juntas y son una de las visitas principales de la ciudad."
+        - "La Catedral Vieja conserva un interior recogido y un retablo muy admirado, y la Nueva destaca por sus bóvedas y su gran altura. En la Puerta de Ramos de la Catedral Nueva hay detalles curiosos añadidos en una restauración reciente, como un astronauta y un dragón comiendo un helado, que los visitantes suelen buscar."
+        - "Las torres tienen acceso con recorrido por el interior de la catedral y vistas sobre la ciudad. Reserva con antelación en temporada alta y combina la visita con la Universidad y la Casa de las Conchas, que están muy cerca. Consulta siempre la web oficial para horarios, entradas y condiciones de acceso, que cambian."
+      faq:
+        - p: "¿Qué diferencia hay entre la Catedral Vieja y la Nueva?"
+          r: "La Vieja es románica, del siglo XII. La Nueva es gótica, construida entre los siglos XVI y XVIII."
+        - p: "¿Dónde está el astronauta?"
+          r: "En la Puerta de Ramos de la Catedral Nueva. Junto a él hay otras figuras curiosas, como un dragón con un helado."
+        - p: "¿Se puede subir a las torres?"
+          r: "Sí, hay acceso a las torres con vistas de la ciudad. Consulta la web oficial para entradas y horarios."
+        - p: "¿Cuánto tiempo se necesita?"
+          r: "Entre una y dos horas para ver las dos catedrales, más si subes a las torres."
+        - p: "¿Hay que reservar?"
+          r: "Se recomienda en temporada alta, fines de semana y festivos."
+        - p: "¿Qué más ver cerca?"
+          r: "La Universidad, la Casa de las Conchas y la Clerecía están a pocos minutos a pie."
+casa-las-conchas:
+  relacionados: [universidad-salamanca, clerecia, catedrales-salamanca, plaza-mayor-salamanca, salamanca-un-dia]
+  contenido:
+    es:
+      texto:
+        - "La Casa de las Conchas es uno de los edificios más fotografiados de Salamanca. Es una casa señorial gótica de principios del siglo XVI, con la fachada cubierta de conchas de vieira, un símbolo asociado al Camino de Santiago."
+        - "Hoy es una biblioteca pública, así que se puede entrar a su patio interior, con una galería de arcos de aire mudéjar, un buen sitio para parar un momento. Las ventanas con rejas de estilo plateresco completan una fachada que mezcla influencias muy distintas."
+        - "Está muy cerca de la Clerecía y de la Universidad, así que es fácil incluirla en un paseo por el centro. Conviene mirar la fachada con luz de tarde, cuando la piedra dorada se ve mejor. Consulta siempre la web oficial para horarios y condiciones de acceso, que cambian."
+      faq:
+        - p: "¿Por qué tiene conchas?"
+          r: "Las conchas de vieira son el símbolo del Camino de Santiago y decoran la fachada del edificio."
+        - p: "¿Se puede entrar?"
+          r: "Sí, funciona como biblioteca pública y se puede acceder a su patio. Consulta los horarios en la web oficial."
+        - p: "¿Cuánto tiempo se necesita?"
+          r: "Unos 15 o 30 minutos."
+        - p: "¿Qué más ver cerca?"
+          r: "La Clerecía, la Universidad, las Catedrales y la Plaza Mayor."
+clerecia:
+  relacionados: [casa-las-conchas, universidad-salamanca, catedrales-salamanca, llaves-de-la-ciudad-salamanca, salamanca-un-dia]
+  contenido:
+    es:
+      texto:
+        - "La Clerecía es el antiguo Real Colegio del Espíritu Santo, levantado por los jesuitas en el siglo XVII. Es un gran edificio barroco que preside una de las calles más fotografiadas de Salamanca, con una iglesia monumental, un patio claustral y dos torres."
+        - "Su gran atractivo son las torres, conocidas como Scala Coeli, la escalera del cielo. Se sube por el interior hasta lo alto, con vistas muy buenas sobre los tejados y las cúpulas de la ciudad."
+        - "La nueva museografía de Scala Coeli y de las torres es una de las novedades de «Las llaves de la ciudad», el programa de visitas guiadas que Salamanca celebra en otoño (en 2026, del 24 de octubre al 20 de diciembre). Consulta siempre la web oficial para horarios, entradas y condiciones de acceso, que cambian."
+      faq:
+        - p: "¿Qué es la Clerecía?"
+          r: "El antiguo colegio jesuita de Salamanca, un gran conjunto barroco del siglo XVII."
+        - p: "¿Qué es Scala Coeli?"
+          r: "La visita a las torres de la Clerecía, con un recorrido interior y vistas de la ciudad."
+        - p: "¿Qué novedad tiene en 2026?"
+          r: "Se ha renovado la museografía de Scala Coeli y de las torres, dentro de «Las llaves de la ciudad»."
+        - p: "¿Hay que reservar?"
+          r: "Se recomienda reservar, sobre todo en temporada alta, en la web oficial de Turismo de Salamanca."
+        - p: "¿Qué más ver cerca?"
+          r: "La Casa de las Conchas y la Universidad están a pocos minutos a pie."
+convento-duenas:
+  relacionados: [catedrales-salamanca, universidad-salamanca, colegio-mayor-arzobispo-fonseca, llaves-de-la-ciudad-salamanca, salamanca-un-dia]
+  contenido:
+    es:
+      texto:
+        - "El Convento de las Dueñas es un convento dominico del siglo XVI con uno de los claustros más especiales de Salamanca. Su claustro plateresco es de dos pisos, con arcos y capiteles tallados con figuras fantásticas, calaveras, animales y rostros extraños que han dado pie a numerosas leyendas."
+        - "Conviene mirar los capiteles con calma, porque son muy distintos entre sí. El convento está muy cerca de San Esteban, en un barrio de calles tranquilas junto a la zona de las Catedrales."
+        - "El convento forma parte de «Las llaves de la ciudad», el programa de visitas de Salamanca (en 2026, del 24 de octubre al 20 de diciembre), con una visita teatralizada que se recupera este año. Consulta siempre la web oficial para horarios, entradas y condiciones de acceso, que cambian."
+      faq:
+        - p: "¿Qué tiene de especial el claustro?"
+          r: "Es plateresco, con dos pisos y capiteles tallados con figuras fantásticas, animales, calaveras y rostros."
+        - p: "¿Se puede visitar con guía?"
+          r: "Sí, en otoño hay una visita teatralizada dentro de «Las llaves de la ciudad». Consulta la web oficial de Turismo de Salamanca."
+        - p: "¿Qué es Las llaves de la ciudad?"
+          r: "Un programa anual de visitas guiadas a espacios patrimoniales de Salamanca. La prensa local lo presenta como gratuito, pero hay que reservar en la web oficial."
+        - p: "¿Qué más ver cerca?"
+          r: "San Esteban y las Catedrales están a pocos minutos a pie."
+colegio-mayor-arzobispo-fonseca:
+  relacionados: [convento-duenas, universidad-salamanca, clerecia, llaves-de-la-ciudad-salamanca, salamanca-un-dia]
+  contenido:
+    es:
+      texto:
+        - "El Colegio Mayor Arzobispo Fonseca, conocido como el de los Irlandeses, es un edificio renacentista del siglo XVI. Destaca por su patio de columnas de estilo plateresco, de proporciones muy elegantes."
+        - "Es uno de los espacios más tranquilos del centro histórico, un buen lugar para detenerse en el camino entre la Universidad y las Catedrales. El patio se disfruta con calma y suele sorprender a quienes lo descubren por primera vez."
+        - "El colegio participa en «Las llaves de la ciudad», el programa de visitas de Salamanca (en 2026, del 24 de octubre al 20 de diciembre), con una visita teatralizada. Consulta siempre la web oficial para horarios, entradas y condiciones de acceso, que cambian."
+      faq:
+        - p: "¿Por qué se le llama de los Irlandeses?"
+          r: "Es el nombre popular del colegio mayor, por su vinculación histórica con estudiantes irlandeses."
+        - p: "¿Qué tiene de especial?"
+          r: "Su patio de columnas plateresco, de estilo renacentista."
+        - p: "¿Se puede visitar con guía?"
+          r: "Sí, en otoño hay una visita teatralizada dentro de «Las llaves de la ciudad». Consulta la web oficial de Turismo de Salamanca para reservar."
+        - p: "¿Qué más ver cerca?"
+          r: "La Universidad, las Catedrales y las Dueñas, todas a pocos minutos a pie."
+museo-art-nouveau-art-deco:
+  relacionados: [catedrales-salamanca, universidad-salamanca, casa-las-conchas, salamanca-un-dia]
+  contenido:
+    es:
+      texto:
+        - "El Museo Art Nouveau y Art Déco, en la Casa Lis, ocupa un palacete modernista junto a la muralla, sobre el río Tormes. Es un museo distinto al resto de Salamanca: aquí se ve el arte decorativo de 1900 a 1930, con vidrieras, esculturas, cristal, joyas, objetos cotidianos y una gran colección de muñecas y juguetes."
+        - "La luz que entra por las vidrieras es parte del atractivo del edificio. Es una buena visita para cambiar de registro tras unos días de piedra románica y barroca, y se recorre sin prisa en una hora o dos."
+        - "Combínalo con un paseo por el río y por la zona de las Catedrales, que está muy cerca. Consulta siempre la web oficial para horarios, entradas y condiciones de acceso, que cambian."
+      faq:
+        - p: "¿Qué se puede ver en la Casa Lis?"
+          r: "Arte decorativo modernista y art déco: vidrieras, esculturas, cristal, objetos cotidianos y una colección de muñecas y juguetes."
+        - p: "¿Cuánto tiempo se necesita?"
+          r: "Una o dos horas."
+        - p: "¿Hay que reservar?"
+          r: "Se recomienda en fines de semana y temporada alta. Consulta la web oficial."
+        - p: "¿Qué más ver cerca?"
+          r: "Las Catedrales y el paseo junto al Tormes."
+domus-artium-2002:
+  relacionados: [museo-art-nouveau-art-deco, catedrales-salamanca, llaves-de-la-ciudad-salamanca, salamanca-un-dia]
+  contenido:
+    es:
+      texto:
+        - "El Domus Artium 2002, conocido como DA2, es el centro de arte contemporáneo de Salamanca. Reúne exposiciones temporales de artistas actuales y es una visita muy distinta de la oferta monumental de la ciudad."
+        - "Las exposiciones cambian a lo largo del año, así que conviene consultar qué hay en cartel antes de ir. Sirve de contrapunto moderno a un centro histórico dominado por la piedra y el barroco."
+        - "Este otoño el DA2 abre sus almacenes dentro de «Las llaves de la ciudad», el programa de visitas de Salamanca (en 2026, del 24 de octubre al 20 de diciembre). Consulta siempre la web oficial para horarios, entradas y condiciones de acceso, que cambian."
+      faq:
+        - p: "¿Qué es el DA2?"
+          r: "El centro de arte contemporáneo de Salamanca, con exposiciones temporales."
+        - p: "¿Se pueden ver los almacenes?"
+          r: "Sí, durante «Las llaves de la ciudad» hay una visita a los almacenes del DA2. Consulta la web oficial de Turismo de Salamanca para reservar."
+        - p: "¿Qué exposiciones hay ahora?"
+          r: "Cambian durante el año. Consulta la programación en la web oficial."
+        - p: "¿Qué más ver cerca?"
+          r: "Las Catedrales y el paseo junto al Tormes."

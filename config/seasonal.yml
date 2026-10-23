@@ -1516,6 +1516,35 @@ citas:
             r: "Ropa de abrigo, porque las noches son frías en Salamanca, y calzado cómodo."
           - p: "¿Es buen plan con niños?"
             r: "Sí, con precaución: hay mucha gente y esperas largas."
+  - id: llaves-de-la-ciudad-salamanca
+    regla: { tipo: fija, inicio: "10-24", fin: "12-20" }
+    aprox: true
+    temas: [cultura]
+    lugar: { provincia: "Salamanca", municipio: "Salamanca" }
+    fuente: "https://salamanca.es/programas-singulares/las-llaves-de-la-ciudad-2026"
+    es: { titulo: "Las llaves de la ciudad de Salamanca", resumen: "Cada otoño, visitas guiadas y teatralizadas a una treintena de espacios patrimoniales de Salamanca, algunos poco habituales. La edición de 2026 incluye 29 espacios y 33 actividades." }
+    en: { titulo: "Las llaves de la ciudad in Salamanca", resumen: "Every autumn, guided and dramatised visits to some thirty heritage sites in Salamanca, several rarely open. The 2026 edition has 29 sites and 33 activities." }
+    relacionados: [universidad-salamanca, convento-duenas, colegio-mayor-arzobispo-fonseca, domus-artium-2002, clerecia, plaza-mayor-salamanca, salamanca-un-dia]
+    contenido:
+      es:
+        texto:
+          - "Las llaves de la ciudad es el programa con el que Salamanca abre cada otoño espacios patrimoniales que muchas veces están cerrados o pasan desapercibidos. La edición de 2026 es la más amplia hasta la fecha, con 29 espacios y 33 actividades entre el 24 de octubre y el 20 de diciembre. Su lema es «Lecciones para el nuevo mundo» y se suma al V centenario de la Escuela de Salamanca y al Año Jubilar de San Juan de la Cruz."
+          - "Entre las novedades de este año están la nueva museografía de Scala Coeli, en las torres de la Clerecía, la reapertura del yacimiento del Cerro de San Vicente con cubierta y accesos nuevos, y la visita a dependencias de la Casa Consistorial, en la Plaza Mayor. Vuelven las visitas al Convento de San Esteban y al de las Dueñas, y el Pozo de Nieve ofrece gafas de realidad virtual para ver cómo era antes."
+          - "Hay visitas guiadas, visitas teatralizadas (Colegio de Fonseca, Anaya, Casa de Santa Teresa, Carmen de Abajo y Santa María de la Vega, entre otras), juegos de pistas y una partida simultánea de ajedrez. Quien sella el pasaporte del programa en al menos 14 espacios y lo entrega en Monumenta Salmanticae antes del 29 de diciembre entra en el sorteo de una visita al sanctasanctórum de la Biblioteca Antigua de la Universidad."
+          - "La prensa local presenta las visitas como gratuitas, pero la reserva de plazas se hace en la web de Turismo de Salamanca (apartados «Visitas» y «Eventos»), y algunas actividades requieren reserva previa. Cada espacio fija sus días y horarios, así que conviene consultar la web oficial antes de planificar la ruta."
+        faq:
+          - p: "¿Cuándo es Las llaves de la ciudad?"
+            r: "La edición de 2026 va del 24 de octubre al 20 de diciembre. El programa se repite cada otoño, pero las fechas cambian de un año a otro."
+          - p: "¿Es gratis?"
+            r: "La prensa local lo presenta como un programa de visitas gratuitas, pero la web de Turismo de Salamanca gestiona la reserva de entradas. Confirma el coste de cada actividad al reservar."
+          - p: "¿Hay que reservar?"
+            r: "Para muchas visitas sí. La reserva se hace en los apartados «Visitas» y «Eventos» de la web de Turismo de Salamanca."
+          - p: "¿Cuántos espacios participan?"
+            r: "En 2026 son 29 espacios y 33 actividades, la cifra más alta hasta ahora."
+          - p: "¿Qué es el pasaporte del programa?"
+            r: "Un documento donde se sellan las visitas. Con al menos 14 sellos y entregado en Monumenta Salmanticae antes del 29 de diciembre, se participa en el sorteo de una visita al sanctasanctórum de la Biblioteca Antigua de la Universidad."
+          - p: "¿Es buen plan con niños?"
+            r: "Sí, hay juegos de pistas y actividades participativas pensadas para familias. Consulta en la web oficial cuáles se adaptan a cada edad."
   - id: semana-santa-caceres
     regla: { tipo: pascua, desde: -7, hasta: 0 }
     temas: [fiestas, cultura]
