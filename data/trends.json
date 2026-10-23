@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22",
+ "updated": "2026-10-23",
  "terms": [
   {
    "term": "enric masip",
@@ -192,6 +192,26 @@
    ]
   },
   {
+   "term": "impuesto sobre la renta",
+   "traffic": 2000,
+   "lastSeen": "2026-10-23",
+   "news": [
+    "El PP reducirá los tramos del IRPF y deflactará todos ellos cada año",
+    "El PP ve fácil elevar el SMI y busca subir los salarios medios",
+    "Juan Bravo (PP): “Hay que cambiar el modelo de crecimiento del país”"
+   ]
+  },
+  {
+   "term": "javier ambrossi",
+   "traffic": 2000,
+   "lastSeen": "2026-10-23",
+   "news": [
+    "Los Javis atribuyen el éxito de ‘La bola negra’ a la libertad con la que la dirigieron",
+    "‘La bola negra’ gana a ‘Torrente’",
+    "Javier Ambrossi, director de 'La Bola Negra': \"Es una película gay, con actores gays interpretando personajes gays y dirigida por personas gays\""
+   ]
+  },
+  {
    "term": "marta riesco",
    "traffic": 1000,
    "lastSeen": "2026-10-20",
@@ -329,6 +349,16 @@
     "El destructor de EEUU 'USS Paul Ignatius' regresa a la Base de Rota tras hundir una fragata con sus misiles en un ejercicio",
     "La Base Naval de Rota, un polígono industrial para la Bahía: la huella económica de la presencia militar norteamericana",
     "Seis destructores completan en Rota el escudo antimisiles de la Armada"
+   ]
+  },
+  {
+   "term": "accidente",
+   "traffic": 1000,
+   "lastSeen": "2026-10-23",
+   "news": [
+    "Accidente mortal en Ibiza: un hombre fallece y dos jóvenes resultan heridas",
+    "Fallece un hombre de 41 años en un accidente de tráfico en Santa Eulària",
+    "Muere un hombre y dos jóvenes resultan heridas en un accidente de tráfico en Santa Eulària (Ibiza)"
    ]
   },
   {
@@ -499,6 +529,26 @@
     "Muere un militar atropellado en la base de Cerro Muriano en Córdoba",
     "Fallecido un soldado tras ser atropellado por un vehículo militar en la base de Cerro Muriano",
     "Muere atropellado un militar en la base de Cerro Muriano de Córdoba"
+   ]
+  },
+  {
+   "term": "canarias",
+   "traffic": 500,
+   "lastSeen": "2026-10-23",
+   "news": [
+    "Vivienda inicia el procedimiento de adjudicación de las 42 casas de Los Ajaches para alquiler asequible en Playa Blanca",
+    "Exigen 12 años de residencia en Canarias y cinco en Yaiza para acceder a las 42 viviendas públicas de Playa Blanca",
+    "42 viviendas para Lanzarote, ayudas a la compra: decisión de las Islas Canarias"
+   ]
+  },
+  {
+   "term": "iphone duo",
+   "traffic": 500,
+   "lastSeen": "2026-10-23",
+   "news": [
+    "El iPhone Duo de 2.300 euros desata una fiebre inédita por los plegables: se agota y acumula tres meses de espera",
+    "El auge de pedidos anticipados del iPhone Duo lleva a Apple a elevar sus objetivos de envío",
+    "El esperado iPhone plegable de Appel llega a las tiendas"
    ]
   },
   {
@@ -810,6 +860,26 @@
    ]
   },
   {
+   "term": "noticia",
+   "traffic": 200,
+   "lastSeen": "2026-10-23",
+   "news": [
+    "La Aemet pone el foco en Castilla y León ante lo que se espera este fin de semana",
+    "La Aemet avanza la mejor noticia para este fin de semana otoñal en Castilla y León",
+    "Vox pide al PP que se aparte en dos provincias a cambio de su retirada en circunscripciones clave para el Senado"
+   ]
+  },
+  {
+   "term": "stéfanos tsitsipás",
+   "traffic": 200,
+   "lastSeen": "2026-10-23",
+   "news": [
+    "Stefanos Tsitsipas reacts to Gael Monfils and Stan Wawrinka deciding to retire from tennis this year",
+    "‘Like dying and being reborn’: Tsitsipas opens up on Wawrinka and Monfils retirements",
+    "Tsitsipas and a ¿dart? at his former relationship with Badosa: \"I never liked being in the public eye\""
+   ]
+  },
+  {
    "term": "consulado",
    "traffic": 100,
    "lastSeen": "2026-10-21",
@@ -827,6 +897,30 @@
     "¿Cómo solicitar el voto por correo en las elecciones generales del 29 de noviembre?",
     "Cómo votar por correo en las elecciones generales del 29-N",
     "Unos 2.000 erasmus de la UGR repartidos por toda Europa están convocados a las urnas"
+   ]
+  },
+  {
+   "term": "urbanismo",
+   "traffic": 100,
+   "lastSeen": "2026-10-23",
+   "news": [
+    "Propietarios de Vista Alegre logran inscribir sus viviendas pese al bloqueo urbanístico de Sant Josep",
+    "Víctor Soriano: «El PGOU de Sant Josep no se aprobará antes de 2030, pero hay que solicitar licencias cuanto antes»",
+    "Urbanismo a la carta: Sant Josep afronta al menos diez reclamaciones de más de 30 propietarios"
+   ]
+  },
+  {
+   "term": "urbanització",
+   "traffic": 100,
+   "lastSeen": "2026-10-23",
+   "news": []
+  },
+  {
+   "term": "stick run manuel otto",
+   "traffic": 100,
+   "lastSeen": "2026-10-23",
+   "news": [
+    "Muere a los 30 años Manuel Otto, el creador de 'Stick Run', tras una retransmisión en directo en Twitch"
    ]
   }
  ]
