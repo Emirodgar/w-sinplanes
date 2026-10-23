@@ -38,6 +38,7 @@ const jsonld = {
   <section class="hero">
     <h1>{L.heroQ}</h1>
     <p data-today={TODAY} data-locale={INTL_LOCALE[lang]} data-label={cap(fmtDay(lang, TODAY))}>{L.heroToday(cap(fmtDay(lang, TODAY)))}</p>
+    {L.heroSpain && <p class="hero-note">{L.heroSpain}</p>}
   </section>
   <script is:inline>
     // El HTML se genera en el build; si el despliegue diario se retrasa, la fecha del saludo se corrige aquí con la de hoy en Madrid.
