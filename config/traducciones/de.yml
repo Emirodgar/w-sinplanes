@@ -1260,3 +1260,99 @@ final-champions:
       r: "Informiere dich über das Programm des Senders, der es in dem jeweiligen Jahr überträgt."
     - p: "Ist das ein guter Plan mit Kindern?"
       r: "Zu Hause oder in einem familienfreundlichen Lokal ja. Auf der Straße sollte man bei Menschenansammlungen vorsichtig sein."
+terrazas-primavera:
+  texto:
+    - "Der Vermut ist viel mehr als ein Getränk: Er ist ein Wochenendritual. Ein Vermut vom Fass, eine Olive, ein Spritzer Soda und eine Terrasse in der Sonne ergeben einen einfachen, günstigen und sehr spanischen Plan, perfekt für die Zeit vor dem Mittagessen."
+    - "Die besten Zeiten für die Terrassen sind der Frühling, bevor die große Hitze kommt, und der September, wenn man im Freien noch gut sitzen kann. Barcelona, Madrid, Reus, Valencia oder Sevilla haben gute Vermutbars, und in vielen Vierteln gibt es Routen und Wettbewerbe mit Tapas und Vermut zu günstigen Preisen."
+    - "Am einfachsten ist es, am Wochenende gegen Mittag loszuziehen und von Bar zu Bar zu schlendern. Reserviere, wenn du in einer Gruppe unterwegs bist, denn die Terrassen in der Sonne füllen sich schnell, und probiere den Hausvermut, denn jedes Lokal stellt seinen eigenen her oder wählt ihn selbst aus. Dazu passen eingelegtes Gemüse, Sardellen, Kartoffelchips oder Herzmuscheln."
+  mapa:
+    titulo: "Wohin zum Terrassen- und Vermutbummel"
+    centro: [40.0, -3.0]
+    zoom: 6
+    puntos:
+      - { nombre: "Barcelona", lat: 41.3874, lon: 2.1686, desc: "Stadt der Vermutbars und der Vermutstunde am Wochenende." }
+      - { nombre: "Madrid", lat: 40.4168, lon: -3.7038, desc: "Vermut vom Fass und Terrassen in der Sonne in vielen Vierteln, mit Tapas-Routen." }
+      - { nombre: "Reus (Tarragona)", lat: 41.1548, lon: 1.1078, desc: "Wiege des katalanischen Vermuts, mit traditionsreichen Weinkellereien und Bars." }
+      - { nombre: "Valencia", lat: 39.4699, lon: -0.3763, desc: "Terrassen und Vermutbars das ganze Jahr über dank des milden Klimas." }
+      - { nombre: "Sevilla", lat: 37.3891, lon: -5.9845, desc: "Terrassen und Tapas-Bars mit Vermut, ideal vor der großen Hitze." }
+  faq:
+    - p: "Wann ist die beste Zeit für einen Terrassenbummel?"
+      r: "Im Frühling, zwischen April und Juni, und im September, wenn das Wetter schön ist und die Hitze noch nicht drückt."
+    - p: "Was bestellt man zum Vermut?"
+      r: "Olive, Orange oder eine Zitronenscheibe und Eis, manchmal einen Spritzer Soda. Dazu isst man eingelegtes Gemüse, Kartoffelchips, Herzmuscheln oder Sardellen."
+    - p: "Wohin zum Vermut?"
+      r: "Barcelona, Madrid, Reus, Valencia und Sevilla haben viel Tradition, aber fast jede Stadt hat ihre eigene Vermutbar."
+    - p: "Muss man reservieren?"
+      r: "Am Wochenende und bei einer Terrasse in der Sonne solltest du reservieren oder früh kommen, vor allem in einer Gruppe."
+    - p: "Was kostet das?"
+      r: "Das hängt von der Stadt und vom Lokal ab. Ein Vermut vom Fass ist meist günstig, und viele Tapas-Routen beinhalten Vermut zu einem Festpreis."
+    - p: "Ist das ein guter Plan mit Kindern?"
+      r: "Auf Terrassen ja, mit alkoholfreien Getränken und mittags. Die Zeiten mit dem größten Andrang meidet man besser."
+premio-nadal:
+  texto:
+    - "Der Premio Nadal für Romane ist der älteste Literaturpreis Spaniens und wird seit 1944 ausgeschrieben. Der Gewinner wird jedes Jahr am 6. Januar bei einem Abendessen in Barcelona bekannt gegeben, und der Preis ist einer der ersten Termine im Literaturkalender des Jahres."
+    - "In der Nacht des 6. Januar wird der Gewinner verkündet, und in den folgenden Tagen kommt der preisgekrönte Roman in die Buchhandlungen. Das ist ein guter Anlass, das Jahr mit einer neuen Lektüre zu beginnen und Autorinnen und Autoren zu entdecken, die in vielen Fällen zum ersten Mal in großem Stil veröffentlichen."
+    - "Du kannst die Bekanntgabe über die Kanäle des Verlags in den sozialen Netzwerken und über die Medien verfolgen. Wenn du den Gewinnerroman lesen möchtest: Er liegt meist einige Wochen später in den Buchhandlungen. Du kannst auch Titel früherer Ausgaben nachschlagen, darunter viele Klassiker der spanischsprachigen Literatur."
+  faq:
+    - p: "Wann wird der Premio Nadal bekannt gegeben?"
+      r: "Jedes Jahr am Abend des 6. Januar, bei einer Veranstaltung in Barcelona."
+    - p: "Was ist der Premio Nadal?"
+      r: "Der älteste Literaturpreis für Romane in Spanien, ausgeschrieben seit 1944. Er wird vom Verlag Destino vergeben."
+    - p: "Kann ich an der Veranstaltung teilnehmen?"
+      r: "Es ist eine geschlossene Veranstaltung nur mit Einladung. Üblich ist es, sie über die Medien und die sozialen Netzwerke zu verfolgen."
+    - p: "Wann kommt der Roman in die Buchhandlungen?"
+      r: "Er ist meist in den Wochen nach der Bekanntgabe erhältlich. Frag am besten in deiner Buchhandlung nach."
+    - p: "Ist das der einzige wichtige Literaturpreis im Januar?"
+      r: "Nein, übers Jahr verteilt gibt es weitere, etwa den Planeta im Oktober und den Cervantes im April. Alle haben ihren eigenen Steckbrief auf sinplanes."
+premio-cervantes:
+  texto:
+    - "Der Premio Cervantes ist die wichtigste Auszeichnung der spanischsprachigen Literatur und würdigt das Gesamtwerk eines Autors oder einer Autorin. Er wird jedes Jahr am 23. April, dem Welttag des Buches, im Paraninfo der Universität Alcalá in Alcalá de Henares im Beisein des Königs überreicht."
+    - "Der Preis ist mit 125.000 Euro dotiert, und der Gewinner wird Monate vor der Zeremonie bekannt gegeben. Die Zeremonie findet in einem historischen Gebäude einer UNESCO-Welterbestadt statt, die zugleich die Geburtsstadt von Miguel de Cervantes ist, was ihr einen besonderen symbolischen Wert verleiht."
+    - "Die Feier ist feierlich und nur mit Einladung, aber du kannst sie im Fernsehen oder im Internet verfolgen. Es ist ein guter Tag, um Alcalá de Henares zu besuchen, die Altstadt und das Geburtshaus von Cervantes zu erkunden und den Preisträger des Jahres kennenzulernen. Informiere dich über das Veranstaltungsprogramm der Stadt rund um den Welttag des Buches."
+  faq:
+    - p: "Wann wird der Premio Cervantes überreicht?"
+      r: "Jedes Jahr am 23. April, dem Welttag des Buches."
+    - p: "Wo wird er überreicht?"
+      r: "Im Paraninfo der Universität Alcalá in Alcalá de Henares (Madrid)."
+    - p: "Wer überreicht den Preis?"
+      r: "Traditionell der König von Spanien."
+    - p: "Wie hoch ist das Preisgeld?"
+      r: "Der Preis ist mit 125.000 Euro dotiert."
+    - p: "Kann ich teilnehmen?"
+      r: "Die Feier ist feierlich und nur mit Einladung. Man kann sie im Fernsehen und im Internet verfolgen."
+    - p: "Was gibt es sonst noch in Alcalá de Henares zu sehen?"
+      r: "Die Altstadt, die zum Welterbe gehört, und das Geburtshaus von Cervantes, unter anderem."
+feria-libro-madrid:
+  texto:
+    - "Die Feria del Libro de Madrid (Madrider Buchmesse) ist eine der beliebtesten Kulturveranstaltungen der Stadt. Etwa zwei Wochen lang, Ende Mai und Anfang Juni, füllt sich der Retiro-Park mit Ständen von Buchhandlungen und Verlagen, und jeden Tag signieren Autorinnen und Autoren."
+    - "Die Hauptallee des Retiro verwandelt sich in eine große Buchhandlung unter freiem Himmel, mit Neuerscheinungen, Klassikern, Kinderbüchern und Antiquariat. Viele Stände bieten Rabatte, und jeden Tag signieren Autorinnen und Autoren Exemplare und stellen ihre Bücher vor. Es ist ein Plan zum Lesen, aber auch zum Spazierengehen."
+    - "Der Eintritt ist frei. Am besten kommst du unter der Woche, vormittags oder am späten Nachmittag, denn am Wochenende ist es sehr voll. Bring eine Bücherliste, etwas Bargeld und bequeme Schuhe mit. Wenn du ein Buch signieren lassen möchtest, komm früh und informiere dich über das Signierprogramm des jeweiligen Tages."
+  faq:
+    - p: "Wann findet die Feria del Libro de Madrid statt?"
+      r: "Ende Mai und Anfang Juni, etwa zwei bis drei Wochen lang. Die genauen Termine ändern sich jedes Jahr."
+    - p: "Wo findet sie statt?"
+      r: "Im Retiro-Park in Madrid."
+    - p: "Muss man Eintritt zahlen?"
+      r: "Nein, der Eintritt ist frei."
+    - p: "Gibt es Rabatte?"
+      r: "Viele Stände bieten Rabatte und Sonderangebote. Informiere dich über die Bedingungen am jeweiligen Stand."
+    - p: "Wie bekomme ich eine Signatur?"
+      r: "Sieh dir das Signierprogramm auf der Website der Messe an und komm früh zum Stand, denn die Schlangen sind lang."
+    - p: "Ist das ein guter Plan mit Kindern?"
+      r: "Ja, es gibt Kinderbücher, Geschichtenerzähler und Aktivitäten. Geh unter der Woche hin, um das Gedränge zu vermeiden."
+premio-planeta:
+  texto:
+    - "Der Premio Planeta ist einer der am höchsten dotierten Literaturpreise der Welt in spanischer Sprache, mit einer Million Euro für den Gewinner. Er wird Mitte Oktober bei einer Gala in Barcelona verkündet und ist eines der großen Verlagsereignisse des Herbstes."
+    - "Bei der Gala werden der Gewinnerroman und der Finalist bekannt gegeben, und die Nachricht wird live in den Medien und in den sozialen Netzwerken verfolgt. In den folgenden Tagen kommt der preisgekrönte Roman in die Buchhandlungen und gehört meist zu den meistverkauften Büchern des Weihnachtsgeschäfts."
+    - "Du kannst die Bekanntgabe über die Medien und die Kanäle des Verlags in den sozialen Netzwerken verfolgen. Wenn du den Roman lesen möchtest: Er ist meist in den Buchhandlungen erhältlich, sobald er verkündet wird. Es ist ein guter Moment, um Autorinnen und Autoren kennenzulernen, die zur großen spanischsprachigen Literatur gehören."
+  faq:
+    - p: "Wann wird der Premio Planeta bekannt gegeben?"
+      r: "Mitte Oktober, bei einer Gala in Barcelona."
+    - p: "Wie hoch ist das Preisgeld?"
+      r: "Der Gewinner erhält eine Million Euro und der Finalist einen geringeren Betrag, was ihn zu einem der am höchsten dotierten Literaturpreise der Welt macht."
+    - p: "Kann ich an der Gala teilnehmen?"
+      r: "Es ist eine Veranstaltung nur mit Einladung. Man verfolgt sie über die Medien und die sozialen Netzwerke."
+    - p: "Wann kommt der Roman in die Buchhandlungen?"
+      r: "Er ist meist nach der Bekanntgabe erhältlich. Frag am besten in deiner Buchhandlung nach."
+    - p: "Ist das dasselbe wie der Premio Nadal?"
+      r: "Nein. Der Nadal ist der älteste Preis Spaniens und wird am 6. Januar verkündet, während der Planeta im Oktober verkündet wird."

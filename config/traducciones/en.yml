@@ -1254,3 +1254,99 @@ final-champions:
       r: "Check the schedule of the channel that broadcasts it that year."
     - p: "Is it a good plan with kids?"
       r: "At home or in a family-friendly venue, yes. On the street, be careful with the crowds."
+terrazas-primavera:
+  texto:
+    - "Vermouth is much more than a drink: it is a weekend ritual. A vermouth on tap, an olive, a splash of soda and a terrace in the sun make for a simple, cheap and very Spanish plan, perfect before lunch."
+    - "The best times for terraces are spring, before the heat sets in, and September, when it is still pleasant to be outdoors. Barcelona, Madrid, Reus, Valencia and Seville all have good vermouth bars, and many neighbourhoods organise crawls and contests with tapas and vermouth at a set price."
+    - "The easiest way is to head out at midday on a weekend and stroll from bar to bar. Book if you are going in a group, because sunny terraces fill up, and try the house vermouth, since each place makes or selects its own. Pair it with pickles, anchovies, crisps or cockles."
+  mapa:
+    titulo: "Where to go for terraces and vermouth"
+    centro: [40.0, -3.0]
+    zoom: 6
+    puntos:
+      - { nombre: "Barcelona", lat: 41.3874, lon: 2.1686, desc: "A city of vermouth bars and of the weekend vermouth hour." }
+      - { nombre: "Madrid", lat: 40.4168, lon: -3.7038, desc: "Vermouth on tap and sunny terraces in many neighbourhoods, with tapas crawls." }
+      - { nombre: "Reus (Tarragona)", lat: 41.1548, lon: 1.1078, desc: "The birthplace of Catalan vermouth, with traditional wineries and bars." }
+      - { nombre: "Valencia", lat: 39.4699, lon: -0.3763, desc: "Terraces and vermouth bars all year round thanks to the climate." }
+      - { nombre: "Seville", lat: 37.3891, lon: -5.9845, desc: "Terraces and tapas bars with vermouth, ideal before the heat sets in." }
+  faq:
+    - p: "When is the best time to go out for terraces?"
+      r: "In spring, between April and June, and in September, when the weather is nice and the heat is not yet oppressive."
+    - p: "What do you order with vermouth?"
+      r: "An olive, an orange or lemon slice and ice, sometimes a splash of soda. It is served with pickles, crisps, cockles or anchovies."
+    - p: "Where should I go for vermouth?"
+      r: "Barcelona, Madrid, Reus, Valencia and Seville have a long tradition, but almost every city has its own vermouth bar."
+    - p: "Do I need to book?"
+      r: "At weekends and for a terrace in the sun, it is best to book or arrive early, especially in a group."
+    - p: "How much does it cost?"
+      r: "It depends on the city and the venue. A vermouth on tap is usually affordable, and many tapas crawls include vermouth at a fixed price."
+    - p: "Is it a good plan with kids?"
+      r: "On terraces, yes, with non-alcoholic drinks and at midday. It is better to avoid the busiest hours."
+premio-nadal:
+  texto:
+    - "The Nadal Prize for fiction is Spain's oldest literary prize, awarded since 1944. It is announced every 6 January at a dinner in Barcelona and is one of the first dates in the year's literary calendar."
+    - "The winner is announced on the night of 6 January, and in the following days the winning novel reaches the bookshops. It is a good excuse to start the year with a new read and to discover authors who, in many cases, are publishing their work on a large scale for the first time."
+    - "You can follow the announcement on the publisher's social media and in the press. If you want to read the winning novel, it is usually in bookshops a few weeks later. You can also look back at titles from previous editions, which include many classics of Spanish-language literature."
+  faq:
+    - p: "When is the Nadal Prize announced?"
+      r: "Every 6 January in the evening, at an event in Barcelona."
+    - p: "What is the Nadal Prize?"
+      r: "Spain's oldest literary prize for fiction, awarded since 1944. It is given by the publisher Destino."
+    - p: "Can I attend the event?"
+      r: "It is a private, invitation-only event. The usual way is to follow it through the press and social media."
+    - p: "When does the novel reach the bookshops?"
+      r: "It is usually available in the weeks after the announcement. Check with your bookshop."
+    - p: "Is it the only major literary prize in January?"
+      r: "No, there are others throughout the year, such as the Planeta in October and the Cervantes in April. They all have their own page on sinplanes."
+premio-cervantes:
+  texto:
+    - "The Cervantes Prize is the most important award in Spanish-language literature and honours an author's body of work. It is presented every 23 April, Book Day, in the Paraninfo of the University of Alcalá, in Alcalá de Henares, in the presence of the King."
+    - "The prize is worth 125,000 euros and the winner is announced months before the ceremony. The ceremony takes place in a historic building in a UNESCO World Heritage city that is the birthplace of Miguel de Cervantes, which gives it a special symbolic value."
+    - "The ceremony is formal and by invitation only, but you can follow it on television or online. It is a good day to visit Alcalá de Henares, walk around its old town and Cervantes' birthplace, and to find out who this year's winner is. Check the city's programme of activities around Book Day."
+  faq:
+    - p: "When is the Cervantes Prize presented?"
+      r: "Every 23 April, Book Day."
+    - p: "Where is it presented?"
+      r: "In the Paraninfo of the University of Alcalá, in Alcalá de Henares (Madrid)."
+    - p: "Who presents the prize?"
+      r: "Traditionally, the King of Spain."
+    - p: "How much money is it worth?"
+      r: "It is worth 125,000 euros."
+    - p: "Can I attend?"
+      r: "The ceremony is formal and by invitation only. It can be followed on television and online."
+    - p: "What else is there to see in Alcalá de Henares?"
+      r: "The old town, a UNESCO World Heritage site, and Cervantes' birthplace, among other places."
+feria-libro-madrid:
+  texto:
+    - "The Madrid Book Fair is one of the city's most popular cultural events. For about two weeks, in late May and early June, Retiro Park fills with bookshop and publisher stalls, with author signings every day."
+    - "The central avenue of Retiro becomes a huge open-air bookshop, with new releases, classics, children's books and second-hand books. Many stalls offer discounts, and every day there are authors signing copies and book presentations. It is a reading plan, but also a stroll."
+    - "Admission is free. It is best to go on a weekday, in the morning or at dusk, because it gets crowded at weekends. Bring a list of books, some cash and comfortable shoes. If you want a book signed, arrive early and check each day's signing programme."
+  faq:
+    - p: "When is the Madrid Book Fair?"
+      r: "In late May and early June, for about two or three weeks. The exact dates change every year."
+    - p: "Where is it held?"
+      r: "In Retiro Park, in Madrid."
+    - p: "Do I have to pay to get in?"
+      r: "No, admission is free."
+    - p: "Are there discounts?"
+      r: "Many stalls offer discounts and special deals. Check the terms at each one."
+    - p: "How do I get a signature?"
+      r: "Check the signing programme on the fair's website and arrive early at the stall, because the queues are long."
+    - p: "Is it a good plan with kids?"
+      r: "Yes, there are children's books, storytelling sessions and activities. Go on a weekday to avoid the crowds."
+premio-planeta:
+  texto:
+    - "The Planeta Prize is one of the best-endowed literary prizes in the world in the Spanish language, with one million euros for the winner. It is announced in mid-October at a gala in Barcelona and is one of the big publishing events of the autumn."
+    - "At the gala, the winning novel and the runner-up are announced, and the news is followed live in the press and on social media. In the following days, the winning novel reaches the bookshops and usually ranks among the best-selling books of the Christmas season."
+    - "You can follow the announcement in the press and on the publisher's social media. If you want to read the novel, it is usually available in bookshops as soon as it is announced. It is a good time to get to know the authors who are part of the great literature in Spanish."
+  faq:
+    - p: "When is the Planeta Prize announced?"
+      r: "In mid-October, at a gala in Barcelona."
+    - p: "How much money is the prize worth?"
+      r: "The winner receives one million euros and the runner-up a smaller amount, which makes it one of the best-endowed literary prizes in the world."
+    - p: "Can I attend the gala?"
+      r: "It is an invitation-only event. It is followed through the press and social media."
+    - p: "When does the novel reach the bookshops?"
+      r: "It is usually available after the announcement. Check with your bookshop."
+    - p: "Is it the same as the Nadal Prize?"
+      r: "No. The Nadal is Spain's oldest and is announced on 6 January, whereas the Planeta is announced in October."

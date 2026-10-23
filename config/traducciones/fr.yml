@@ -1226,3 +1226,103 @@ final-champions:
       r: "Consulte la programmation de la chaîne qui la retransmet cette année-là."
     - p: "Est-ce un bon plan avec des enfants ?"
       r: "À la maison ou dans un établissement familial, oui. Dans la rue, il faut faire attention aux mouvements de foule."
+terrazas-primavera:
+  texto:
+    - "Le vermut est bien plus qu'une boisson : c'est un rituel du week-end. Un vermut à la pression, une olive, un peu de siphon et une terrasse au soleil font un plan simple, bon marché et très espagnol, parfait avant le déjeuner."
+    - "Les meilleures périodes pour les terrasses sont le printemps, avant les grosses chaleurs, et septembre, quand on est encore bien dehors. Barcelone, Madrid, Reus, Valence ou Séville ont de bons bars à vermut, et beaucoup de quartiers organisent des parcours et des concours avec tapas et vermut à prix serré."
+    - "Le plus simple, c'est de sortir à midi, le week-end, et de faire la tournée des bars à pied. Réserve si vous êtes en groupe, car les terrasses au soleil se remplissent vite, et goûte le vermut de la maison, que chaque établissement élabore ou sélectionne à sa façon. Accompagne-le de pickles, d'anchois, de chips ou de coques."
+  mapa:
+    titulo: "Où aller en terrasse et boire un vermut"
+    centro: [40.0, -3.0]
+    zoom: 6
+    puntos:
+      - { nombre: "Barcelone", lat: 41.3874, lon: 2.1686, desc: "Ville de bars à vermut et de l'heure du vermut le week-end." }
+      - { nombre: "Madrid", lat: 40.4168, lon: -3.7038, desc: "Vermut à la pression et terrasses au soleil dans de nombreux quartiers, avec des parcours de tapas." }
+      - { nombre: "Reus (Tarragone)", lat: 41.1548, lon: 1.1078, desc: "Berceau du vermut catalan, avec des caves et des bars de tradition." }
+      - { nombre: "Valence", lat: 39.4699, lon: -0.3763, desc: "Terrasses et bars à vermut toute l'année grâce au climat." }
+      - { nombre: "Séville", lat: 37.3891, lon: -5.9845, desc: "Terrasses et bars à tapas avec vermut, idéaux avant les grosses chaleurs." }
+  faq:
+    - p: "Quel est le meilleur moment pour aller en terrasse ?"
+      r: "Au printemps, entre avril et juin, et en septembre, quand il fait beau et que la chaleur n'est pas encore écrasante."
+    - p: "Que commande-t-on avec le vermut ?"
+      r: "Une olive, une orange ou une rondelle de citron et des glaçons, parfois un trait de siphon. On l'accompagne de pickles, de chips, de coques ou d'anchois."
+    - p: "Où aller boire un vermut ?"
+      r: "Barcelone, Madrid, Reus, Valence et Séville ont une longue tradition, mais presque toutes les villes ont leur bar à vermut."
+    - p: "Faut-il réserver ?"
+      r: "Le week-end et avec une terrasse au soleil, mieux vaut réserver ou arriver tôt, surtout en groupe."
+    - p: "Combien ça coûte ?"
+      r: "Cela dépend de la ville et de l'établissement. Un vermut à la pression est généralement abordable et beaucoup de parcours de tapas incluent le vermut à prix fixe."
+    - p: "Est-ce un bon plan avec des enfants ?"
+      r: "En terrasse, oui, avec des boissons sans alcool, et à midi. Mieux vaut éviter les heures de plus grande affluence."
+
+premio-nadal:
+  texto:
+    - "Le Premio Nadal de roman est le prix littéraire le plus ancien d'Espagne, décerné depuis 1944. Il est annoncé chaque 6 janvier lors d'un dîner à Barcelone et c'est l'un des premiers rendez-vous du calendrier littéraire de l'année."
+    - "Le soir du 6 janvier, le lauréat est annoncé, et dans les jours qui suivent le roman primé arrive en librairie. C'est une bonne excuse pour commencer l'année avec une nouvelle lecture et pour découvrir des auteurs et autrices qui, dans bien des cas, publient leur œuvre pour la première fois à grande échelle."
+    - "Tu peux suivre l'annonce sur les réseaux de la maison d'édition et dans les médias. Si tu veux lire le roman lauréat, il est généralement en librairie quelques semaines plus tard. Tu peux aussi parcourir les titres des éditions précédentes, parmi lesquels figurent de nombreux classiques de la littérature en espagnol."
+  faq:
+    - p: "Quand est annoncé le Premio Nadal ?"
+      r: "Chaque 6 janvier au soir, lors d'une cérémonie à Barcelone."
+    - p: "Qu'est-ce que le Premio Nadal ?"
+      r: "Le prix littéraire de roman le plus ancien d'Espagne, décerné depuis 1944. Il est attribué par la maison d'édition Destino."
+    - p: "Puis-je assister à la cérémonie ?"
+      r: "C'est un événement fermé, sur invitation. Le plus courant est de le suivre dans les médias et sur les réseaux sociaux."
+    - p: "Quand le roman arrive-t-il en librairie ?"
+      r: "Il est généralement disponible dans les semaines qui suivent l'annonce. Renseigne-toi auprès de ta librairie."
+    - p: "Est-ce le seul grand prix littéraire de janvier ?"
+      r: "Non, il y en a d'autres tout au long de l'année, comme le Planeta en octobre et le Cervantes en avril. Tous ont leur propre fiche sur sinplanes."
+
+premio-cervantes:
+  texto:
+    - "Le Premio Cervantes est la distinction la plus importante des lettres espagnoles et récompense l'œuvre d'un auteur ou d'une autrice pour l'ensemble de sa carrière. Il est remis chaque 23 avril, Journée du livre, dans le Paraninfo de l'université d'Alcalá, à Alcalá de Henares, en présence du Roi."
+    - "Le prix est doté de 125 000 euros et le lauréat est annoncé des mois avant la cérémonie. La cérémonie se déroule dans un édifice historique d'une ville inscrite au patrimoine mondial et berceau de Miguel de Cervantes, ce qui lui donne une valeur symbolique particulière."
+    - "La cérémonie est solennelle et sur invitation, mais tu peux la suivre à la télévision ou sur internet. C'est un bon jour pour visiter Alcalá de Henares, parcourir son centre historique et la maison natale de Cervantes, et pour découvrir le lauréat de l'année. Consulte le programme des activités de la ville autour de la Journée du livre."
+  faq:
+    - p: "Quand le Premio Cervantes est-il remis ?"
+      r: "Chaque 23 avril, Journée du livre."
+    - p: "Où est-il remis ?"
+      r: "Dans le Paraninfo de l'université d'Alcalá, à Alcalá de Henares (Madrid)."
+    - p: "Qui remet le prix ?"
+      r: "Traditionnellement, le Roi d'Espagne."
+    - p: "Quelle est sa dotation ?"
+      r: "Il est doté de 125 000 euros."
+    - p: "Puis-je y assister ?"
+      r: "La cérémonie est solennelle et sur invitation. On peut la suivre à la télévision et sur internet."
+    - p: "Que voir d'autre à Alcalá de Henares ?"
+      r: "Le centre historique, patrimoine mondial, et la maison natale de Cervantes, entre autres lieux."
+
+feria-libro-madrid:
+  texto:
+    - "La Feria del Libro de Madrid (Foire du livre de Madrid) est l'un des rendez-vous culturels les plus populaires de la ville. Pendant environ deux semaines, fin mai et début juin, le parc du Retiro se remplit de stands de librairies et de maisons d'édition, avec des dédicaces d'auteurs chaque jour."
+    - "L'allée centrale du Retiro se transforme en grande librairie en plein air, avec des nouveautés, des classiques, des livres pour enfants et des livres d'occasion. Beaucoup de stands proposent des remises, et chaque jour des auteurs dédicacent des exemplaires et présentent leurs livres. C'est un plan lecture, mais aussi un plan balade."
+    - "L'entrée est gratuite. Le mieux est d'y aller en semaine, le matin ou en fin de journée, car le week-end il y a foule. Emporte une liste de livres, un peu d'espèces et des chaussures confortables. Si tu veux te faire dédicacer un livre, arrive tôt et consulte le programme des dédicaces de chaque jour."
+  faq:
+    - p: "Quand a lieu la Feria del Libro de Madrid ?"
+      r: "Fin mai et début juin, pendant environ deux ou trois semaines. Les dates exactes changent chaque année."
+    - p: "Où se déroule-t-elle ?"
+      r: "Dans le parc du Retiro, à Madrid."
+    - p: "Faut-il payer l'entrée ?"
+      r: "Non, l'entrée est gratuite."
+    - p: "Y a-t-il des remises ?"
+      r: "Beaucoup de stands proposent des remises et des offres. Renseigne-toi sur les conditions auprès de chacun."
+    - p: "Comment obtenir une dédicace ?"
+      r: "Consulte le programme des dédicaces sur le site de la foire et arrive tôt au stand, car les files d'attente sont longues."
+    - p: "Est-ce un bon plan avec des enfants ?"
+      r: "Oui, il y a des livres pour enfants, des conteurs et des activités. Va-y en semaine pour éviter la foule."
+
+premio-planeta:
+  texto:
+    - "Le Premio Planeta est l'un des prix littéraires les mieux dotés du monde en langue espagnole, avec un million d'euros pour le lauréat. Il est annoncé à la mi-octobre lors d'un gala à Barcelone et c'est l'un des grands événements éditoriaux de l'automne."
+    - "Lors du gala, on annonce le roman lauréat et le finaliste, et la nouvelle est suivie en direct dans les médias et sur les réseaux. Dans les jours qui suivent, le roman primé arrive en librairie et se classe généralement parmi les livres les plus vendus de la campagne de Noël."
+    - "Tu peux suivre l'annonce dans les médias et sur les réseaux de la maison d'édition. Si tu veux lire le roman, il est généralement disponible en librairie dès son annonce. C'est un bon moment pour faire connaissance avec les auteurs et autrices qui font partie de la grande littérature en espagnol."
+  faq:
+    - p: "Quand est annoncé le Premio Planeta ?"
+      r: "À la mi-octobre, lors d'un gala à Barcelone."
+    - p: "Quelle est la dotation du prix ?"
+      r: "Le lauréat reçoit un million d'euros et le finaliste une somme moindre, ce qui en fait l'un des prix littéraires les mieux dotés du monde."
+    - p: "Puis-je assister au gala ?"
+      r: "C'est un événement sur invitation. On le suit dans les médias et sur les réseaux sociaux."
+    - p: "Quand le roman arrive-t-il en librairie ?"
+      r: "Il est généralement disponible après l'annonce. Renseigne-toi auprès de ta librairie."
+    - p: "Est-ce la même chose que le Premio Nadal ?"
+      r: "Non. Le Nadal est le plus ancien d'Espagne et est annoncé le 6 janvier, tandis que le Planeta est annoncé en octobre."

@@ -1227,3 +1227,99 @@ final-champions:
       r: "Consulta a programação do canal que a transmite nesse ano."
     - p: "É um bom programa com crianças?"
       r: "Em casa ou num estabelecimento familiar, sim. Na rua, é preciso ter cuidado com as aglomerações."
+terrazas-primavera:
+  texto:
+    - "O vermute é muito mais do que uma bebida: é um ritual de fim de semana. Um vermute de pressão, uma azeitona, um pouco de sifão e uma esplanada ao sol fazem um programa simples, barato e muito espanhol, perfeito para antes do almoço."
+    - "As melhores épocas para as esplanadas são a primavera, antes do calor forte, e setembro, quando ainda se está bem ao ar livre. Barcelona, Madrid, Reus, Valência ou Sevilha têm bons bares de vermute, e muitos bairros organizam roteiros e concursos com petiscos e vermute a preço ajustado."
+    - "O mais simples é sair ao meio-dia, ao fim de semana, e passear de bar em bar. Reserva se fores em grupo, porque as esplanadas ao sol enchem-se, e prova o vermute da casa, que cada estabelecimento elabora ou seleciona o seu. Acompanha-o com conservas em vinagre, anchovas, batatas fritas ou berbigões."
+  mapa:
+    titulo: "Onde ir de esplanadas e vermute"
+    centro: [40.0, -3.0]
+    zoom: 6
+    puntos:
+      - { nombre: "Barcelona", lat: 41.3874, lon: 2.1686, desc: "Cidade de bares de vermute e da hora do vermute ao fim de semana." }
+      - { nombre: "Madrid", lat: 40.4168, lon: -3.7038, desc: "Vermute de pressão e esplanadas ao sol em muitos bairros, com roteiros de petiscos." }
+      - { nombre: "Reus (Tarragona)", lat: 41.1548, lon: 1.1078, desc: "Berço do vermute catalão, com adegas e bares de tradição." }
+      - { nombre: "Valência", lat: 39.4699, lon: -0.3763, desc: "Esplanadas e bares de vermute durante todo o ano graças ao clima." }
+      - { nombre: "Sevilha", lat: 37.3891, lon: -5.9845, desc: "Esplanadas e bares de tapas com vermute, ideais antes do calor forte." }
+  faq:
+    - p: "Quando é melhor ir às esplanadas?"
+      r: "Na primavera, entre abril e junho, e em setembro, quando está bom tempo e o calor ainda não aperta."
+    - p: "O que se pede com o vermute?"
+      r: "Azeitona, laranja ou rodela de limão e gelo, às vezes um fio de sifão. Acompanha-se com conservas em vinagre, batatas fritas, berbigões ou anchovas."
+    - p: "Onde ir beber vermute?"
+      r: "Barcelona, Madrid, Reus, Valência e Sevilha têm muita tradição, mas quase todas as cidades têm o seu bar de vermute."
+    - p: "É preciso reservar?"
+      r: "Ao fim de semana e com esplanada ao sol, convém reservar ou chegar cedo, sobretudo em grupo."
+    - p: "Quanto custa?"
+      r: "Depende da cidade e do estabelecimento. Um vermute de pressão costuma ser acessível e muitos roteiros de petiscos incluem vermute a preço fechado."
+    - p: "É um bom programa com crianças?"
+      r: "Nas esplanadas sim, com bebidas sem álcool e ao meio-dia. É melhor evitar as horas de maior aglomeração."
+premio-nadal:
+  texto:
+    - "O Prémio Nadal de romance é o prémio literário mais antigo de Espanha, atribuído desde 1944. É anunciado todos os anos a 6 de janeiro num jantar em Barcelona e é um dos primeiros encontros do calendário literário do ano."
+    - "Na noite de 6 de janeiro anuncia-se o vencedor e, nos dias seguintes, o romance premiado chega às livrarias. É uma boa desculpa para começar o ano com uma leitura nova e para descobrir autores e autoras que, em muitos casos, publicam a sua obra pela primeira vez em grande escala."
+    - "Podes acompanhar o anúncio pelas redes da editora e pelos meios de comunicação. Se quiseres ler o romance vencedor, costuma estar nas livrarias umas semanas depois. Também podes rever títulos de edições anteriores, entre os quais há muitos clássicos da literatura em língua espanhola."
+  faq:
+    - p: "Quando é anunciado o Prémio Nadal?"
+      r: "Todos os anos a 6 de janeiro à noite, num evento em Barcelona."
+    - p: "O que é o Prémio Nadal?"
+      r: "O prémio literário de romance mais antigo de Espanha, atribuído desde 1944. É concedido pela editora Destino."
+    - p: "Posso assistir ao evento?"
+      r: "É um evento fechado, por convite. O habitual é acompanhá-lo pelos meios de comunicação e pelas redes sociais."
+    - p: "Quando chega o romance às livrarias?"
+      r: "Costuma estar disponível nas semanas seguintes ao anúncio. Consulta a tua livraria."
+    - p: "É o único prémio literário importante de janeiro?"
+      r: "Não, ao longo do ano há outros, como o Planeta em outubro e o Cervantes em abril. Todos têm a sua própria ficha no sinplanes."
+premio-cervantes:
+  texto:
+    - "O Prémio Cervantes é o galardão mais importante das letras em língua espanhola e distingue a obra de um autor ou autora pela sua trajetória. É entregue todos os anos a 23 de abril, Dia do Livro, no Paraninfo da Universidade de Alcalá, em Alcalá de Henares, com a presença do Rei."
+    - "O prémio está dotado com 125.000 euros e o vencedor é anunciado meses antes da cerimónia. A cerimónia realiza-se num edifício histórico de uma cidade Património da Humanidade e berço de Miguel de Cervantes, o que lhe confere um valor simbólico especial."
+    - "A cerimónia é solene e por convite, mas podes acompanhá-la pela televisão ou pela internet. É um bom dia para visitar Alcalá de Henares, percorrer o seu centro histórico e a casa onde nasceu Cervantes, e para descobrir o vencedor do ano. Consulta o programa de atividades da cidade em torno do Dia do Livro."
+  faq:
+    - p: "Quando é entregue o Prémio Cervantes?"
+      r: "Todos os anos a 23 de abril, Dia do Livro."
+    - p: "Onde é entregue?"
+      r: "No Paraninfo da Universidade de Alcalá, em Alcalá de Henares (Madrid)."
+    - p: "Quem entrega o prémio?"
+      r: "Tradicionalmente, o Rei de Espanha."
+    - p: "Qual é o valor do prémio?"
+      r: "Está dotado com 125.000 euros."
+    - p: "Posso assistir?"
+      r: "A cerimónia é solene e por convite. Pode ser acompanhada pela televisão e pela internet."
+    - p: "O que mais ver em Alcalá de Henares?"
+      r: "O centro histórico, Património da Humanidade, e a casa onde nasceu Cervantes, entre outros locais."
+feria-libro-madrid:
+  texto:
+    - "A Feira do Livro de Madrid é um dos eventos culturais mais populares da cidade. Durante cerca de duas semanas, no final de maio e início de junho, o Parque do Retiro enche-se de bancas de livrarias e editoras, com sessões de autógrafos de autores todos os dias."
+    - "A alameda central do Retiro transforma-se numa grande livraria ao ar livre, com novidades, clássicos, livros infantis e livros em segunda mão. Muitas bancas têm descontos e, todos os dias, há autores a autografar exemplares e apresentações de livros. É um programa de leitura, mas também de passeio."
+    - "A entrada é gratuita. O melhor é ir durante a semana, de manhã ou ao fim da tarde, porque ao fim de semana enche-se. Leva uma lista de livros, algum dinheiro em numerário e calçado confortável. Se quiseres que te autografem um livro, chega cedo e consulta o programa de autógrafos de cada dia."
+  faq:
+    - p: "Quando é a Feira do Livro de Madrid?"
+      r: "No final de maio e início de junho, durante cerca de duas ou três semanas. As datas exatas mudam todos os anos."
+    - p: "Onde se realiza?"
+      r: "No Parque do Retiro, em Madrid."
+    - p: "É preciso pagar entrada?"
+      r: "Não, a entrada é gratuita."
+    - p: "Há descontos?"
+      r: "Muitas bancas oferecem descontos e promoções. Consulta as condições em cada uma."
+    - p: "Como consigo um autógrafo?"
+      r: "Consulta o programa de autógrafos no site da feira e chega cedo à banca, porque as filas são longas."
+    - p: "É um bom programa com crianças?"
+      r: "Sim, há livros infantis, contadores de histórias e atividades. Vai durante a semana para evitar as aglomerações."
+premio-planeta:
+  texto:
+    - "O Prémio Planeta é um dos prémios literários mais bem dotados do mundo em língua espanhola, com um milhão de euros para o vencedor. É anunciado a meados de outubro numa gala em Barcelona e é um dos grandes acontecimentos editoriais do outono."
+    - "Na gala são anunciados o romance vencedor e o finalista, e a notícia é acompanhada em direto pelos meios de comunicação e pelas redes. Nos dias seguintes, o romance premiado chega às livrarias e costuma figurar entre os livros mais vendidos da campanha de Natal."
+    - "Podes acompanhar o anúncio pelos meios de comunicação e pelas redes da editora. Se quiseres ler o romance, costuma estar disponível nas livrarias assim que é anunciado. É um bom momento para conhecer os autores e autoras que fazem parte da grande literatura em língua espanhola."
+  faq:
+    - p: "Quando é anunciado o Prémio Planeta?"
+      r: "A meados de outubro, numa gala em Barcelona."
+    - p: "Qual é o valor do prémio?"
+      r: "O vencedor recebe um milhão de euros e o finalista uma quantia menor, o que faz dele um dos prémios literários mais bem dotados do mundo."
+    - p: "Posso assistir à gala?"
+      r: "É um evento por convite. Acompanha-se pelos meios de comunicação e pelas redes sociais."
+    - p: "Quando chega o romance às livrarias?"
+      r: "Costuma estar disponível após o anúncio. Consulta a tua livraria."
+    - p: "É o mesmo que o Prémio Nadal?"
+      r: "Não. O Nadal é o mais antigo de Espanha e é anunciado a 6 de janeiro, enquanto o Planeta é anunciado em outubro."
