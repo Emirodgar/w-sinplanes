@@ -851,3 +851,368 @@ catedral-segorbe:
           r: "Alrededor de una hora."
         - p: "¿Qué más ver en Segorbe?"
           r: "El casco antiguo, las murallas y los paisajes de la sierra Espadán."
+real-alcazar-sevilla:
+  relacionados: [giralda, archivo-general-indias, casa-pilatos, feria-abril]
+  contenido:
+    es:
+      texto:
+        - "El Real Alcázar de Sevilla es un palacio fortificado de origen musulmán, ampliado con los siglos, y uno de los mejores ejemplos del estilo mudéjar. Es Patrimonio Mundial junto con la catedral y el Archivo de Indias, y sigue siendo residencia oficial del Rey cuando visita la ciudad."
+        - "El corazón del conjunto es el Palacio de Pedro I, del siglo XIV, con el Patio de las Doncellas, el Salón de Embajadores con su cúpula dorada y yeserías de gran delicadeza. A su alrededor se extienden jardines con estanques, fuentes, naranjos y rincones sombreados. Ha sido escenario de series y películas, entre ellas Juego de Tronos."
+        - "Reserva la entrada con antelación, porque se agota, sobre todo en primavera y otoño. Prevé entre dos y tres horas de visita y evita las horas de más calor si vas en verano. Combina el Alcázar con la catedral, la Giralda y el barrio de Santa Cruz, que están al lado. Consulta siempre la web oficial para horarios, entradas y condiciones de acceso, que cambian."
+      faq:
+        - p: "¿Qué es el Real Alcázar de Sevilla?"
+          r: "Un palacio fortificado de origen musulmán, ampliado en época cristiana, con el Palacio mudéjar de Pedro I como pieza central."
+        - p: "¿Hay que reservar entrada?"
+          r: "Sí, conviene reservar con antelación, sobre todo en temporada alta."
+        - p: "¿Cuánto tiempo se necesita?"
+          r: "Entre dos y tres horas, entre palacios y jardines."
+        - p: "¿Qué no hay que perderse?"
+          r: "El Patio de las Doncellas, el Salón de Embajadores, el Palacio de Carlos V y los jardines."
+        - p: "¿Sigue siendo residencia real?"
+          r: "Sí, forma parte de las residencias oficiales del Rey y se usa para actos oficiales."
+        - p: "¿Es Patrimonio Mundial?"
+          r: "Sí, junto con la catedral y el Archivo General de Indias, desde 1987."
+giralda:
+  relacionados: [real-alcazar-sevilla, torre-oro, barrio-santa-cruz, semana-santa-sevilla]
+  contenido:
+    es:
+      texto:
+        - "La Giralda es el símbolo de Sevilla. Era el alminar de la antigua mezquita almohade, construido en el siglo XII, al que los cristianos añadieron en el siglo XVI un campanario renacentista. Hoy forma parte de la catedral, Patrimonio Mundial junto al Alcázar y el Archivo de Indias."
+        - "Subir a la Giralda es una de las experiencias más populares de la ciudad. En vez de escaleras tiene rampas, que según la tradición permitían subir a caballo, y desde lo alto se ve toda Sevilla, con los tejados, los patios de la catedral y el río. La entrada a la torre suele incluir la visita a la catedral."
+        - "Compra las entradas con antelación y evita las horas de más calor. En la catedral también puedes ver el sepulcro de Cristóbal Colón y el retablo mayor. Prevé una hora y media para el conjunto. Consulta siempre la web oficial para horarios, entradas y condiciones de acceso, que cambian."
+      faq:
+        - p: "¿Qué es la Giralda?"
+          r: "La torre de la catedral de Sevilla, antiguo alminar de la mezquita almohade del siglo XII, con un campanario renacentista añadido después."
+        - p: "¿Se puede subir?"
+          r: "Sí, por rampas en vez de escaleras. Desde lo alto hay vistas de toda la ciudad."
+        - p: "¿Hay que pagar?"
+          r: "La entrada a la catedral y la Giralda es de pago, con condiciones especiales en algunos horarios. Consulta siempre la web oficial para horarios, entradas y condiciones de acceso, que cambian."
+        - p: "¿Qué más ver en la catedral?"
+          r: "El sepulcro de Colón, el retablo mayor y el patio de los Naranjos."
+        - p: "¿Cuánto tiempo se necesita?"
+          r: "Alrededor de hora y media para catedral y torre."
+torre-oro:
+  relacionados: [giralda, real-alcazar-sevilla, plaza-espana-sevilla]
+  contenido:
+    es:
+      texto:
+        - "La Torre del Oro es una torre albarrana de origen almohade, construida a comienzos del siglo XIII a orillas del Guadalquivir como parte de las defensas de la ciudad. Su nombre se atribuye a los reflejos dorados de sus azulejos sobre el agua, o al oro llegado de América que se guardó en ella."
+        - "Hoy alberga un pequeño museo naval, con maquetas, instrumentos y documentos sobre la historia del puerto de Sevilla, y desde su azotea se ven el río y el casco antiguo. La visita es corta, de unos 20 o 30 minutos, y combina bien con un paseo por el paseo de Colón."
+        - "Es una de las imágenes más típicas de Sevilla, y se ve especialmente bien al atardecer, con la luz sobre el río. Aprovecha para cruzar el puente de Triana o pasear por la orilla. Consulta siempre la web oficial para horarios, entradas y condiciones de acceso, que cambian."
+      faq:
+        - p: "¿Qué es la Torre del Oro?"
+          r: "Una torre defensiva de origen almohade, del siglo XIII, a orillas del Guadalquivir."
+        - p: "¿Por qué se llama así?"
+          r: "Se atribuye a los reflejos dorados de sus azulejos sobre el agua, o al oro que llegó de América."
+        - p: "¿Se puede visitar?"
+          r: "Sí, alberga un museo naval. Consulta los horarios y las condiciones."
+        - p: "¿Cuánto tiempo se necesita?"
+          r: "Unos 20-30 minutos."
+        - p: "¿Cuándo es mejor verla?"
+          r: "Al atardecer, cuando la luz reflejada en el río da más color."
+archivo-general-indias:
+  relacionados: [real-alcazar-sevilla, giralda, casa-pilatos]
+  contenido:
+    es:
+      texto:
+        - "El Archivo General de Indias es uno de los grandes archivos del mundo y custodia millones de documentos sobre la historia de la América española, la administración colonial y los viajes de descubrimiento. Está en la antigua Casa Lonja de Mercaderes, un edificio renacentista de Juan de Herrera, del siglo XVI."
+        - "Entre los documentos se conservan cartas de Colón, Hernán Cortés, Cervantes o Magallanes, mapas, planos y dibujos. En la visita se ve el edificio, la gran escalera de mármol y jaspe, y exposiciones que muestran algunos de los documentos más significativos."
+        - "Es una visita corta, de entre 30 y 60 minutos, ideal para combinar con la catedral y el Alcázar, que están a pocos pasos. Forma parte, junto con ellos, del conjunto Patrimonio Mundial de la UNESCO. Consulta siempre la web oficial para horarios, entradas y condiciones de acceso, que cambian."
+      faq:
+        - p: "¿Qué es el Archivo General de Indias?"
+          r: "Un archivo con millones de documentos sobre la América española, instalado en la antigua Lonja de Mercaderes de Sevilla."
+        - p: "¿Qué documentos hay?"
+          r: "Documentos de Colón, Cortés, Magallanes y otros personajes, además de mapas, planos y dibujos."
+        - p: "¿Se puede visitar?"
+          r: "Sí, hay visita al edificio y exposiciones. Consulta los horarios y condiciones."
+        - p: "¿Cuánto tiempo se necesita?"
+          r: "Entre 30 y 60 minutos."
+        - p: "¿Es Patrimonio Mundial?"
+          r: "Sí, forma parte del conjunto de la catedral, el Alcázar y el Archivo de Indias."
+casa-pilatos:
+  relacionados: [real-alcazar-sevilla, barrio-santa-cruz, archivo-general-indias]
+  contenido:
+    es:
+      texto:
+        - "La Casa de Pilatos es uno de los palacios más bellos de Sevilla, una mezcla de estilos mudéjar, gótico y renacentista italiano. Construida a finales del siglo XV y comienzos del XVI por la familia Enríquez de Ribera, hoy pertenece a la casa ducal de Medinaceli."
+        - "Destaca por su patio principal, con arcos, azulejos y yeserías, y por sus jardines. Conserva una de las mayores colecciones de azulejos de España, además de esculturas clásicas, techos artesonados y una escalera con cúpula. El recorrido tiene una planta baja y una alta, esta última con visita guiada."
+        - "Es una visita agradable, de una hora, menos masificada que el Alcázar. Se encuentra en el centro, cerca del barrio de Santa Cruz y de la plaza del Salvador. Consulta siempre la web oficial para horarios, entradas y condiciones de acceso, que cambian."
+      faq:
+        - p: "¿Qué es la Casa de Pilatos?"
+          r: "Un palacio sevillano de los siglos XV y XVI, con estilos mudéjar, gótico y renacentista."
+        - p: "¿Qué ver?"
+          r: "El patio principal con azulejos, los jardines, las esculturas clásicas y la escalera con cúpula."
+        - p: "¿Cuánto tiempo se necesita?"
+          r: "Alrededor de una hora."
+        - p: "¿Quién es su propietario?"
+          r: "Pertenece a la casa ducal de Medinaceli."
+        - p: "¿Dónde está?"
+          r: "En el centro de Sevilla, cerca del barrio de Santa Cruz."
+plaza-espana-sevilla:
+  relacionados: [parque-maria-luisa, torre-oro, real-alcazar-sevilla]
+  contenido:
+    es:
+      texto:
+        - "La Plaza de España es una de las plazas más hermosas de España. Diseñada por Aníbal González para la Exposición Iberoamericana de 1929, tiene forma de semicírculo, con un gran edificio de ladrillo y cerámica, una torre a cada extremo y un canal con puentes."
+        - "A lo largo de la plaza hay bancos de azulejos que representan las provincias españolas, cada una con su escudo y una escena histórica. Se puede pasear por los soportales, cruzar los puentes y alquilar una barca en el canal. Ha sido escenario de películas, como una de la saga Star Wars."
+        - "La entrada es libre y está junto al parque de María Luisa. Ve a primera hora o al atardecer, cuando hay menos gente y mejor luz, y evita las horas de más calor. Consulta siempre la web oficial para horarios, entradas y condiciones de acceso, que cambian."
+      faq:
+        - p: "¿Qué es la Plaza de España?"
+          r: "Una gran plaza semicircular construida para la Exposición Iberoamericana de 1929, obra de Aníbal González."
+        - p: "¿Se paga entrada?"
+          r: "No, es de acceso libre. Las barcas del canal sí son de pago."
+        - p: "¿Qué ver?"
+          r: "Los bancos de azulejos de las provincias, los puentes, las torres y el canal."
+        - p: "¿Cuándo es mejor ir?"
+          r: "A primera hora o al atardecer, para evitar las multitudes y el calor."
+        - p: "¿Qué hay cerca?"
+          r: "El parque de María Luisa y el barrio de Santa Cruz."
+parque-maria-luisa:
+  relacionados: [plaza-espana-sevilla, torre-oro, barrio-santa-cruz]
+  contenido:
+    es:
+      texto:
+        - "El Parque de María Luisa es el gran pulmón verde de Sevilla, un parque romántico con jardines, fuentes, estanques y pabellones que se creó para la Exposición Iberoamericana de 1929. Se llega desde la Plaza de España y es perfecto para pasear a la sombra."
+        - "Entre sus rincones más bonitos están la Glorieta de Bécquer, con monumentos al poeta, la Fuente de las Ranas y la Plaza de América, con tres pabellones y palomas. En los pabellones están el Museo Arqueológico y el Museo de Artes y Costumbres Populares."
+        - "La entrada es libre y se puede recorrer a pie, en bici o en coche de caballos. Es un buen plan para las horas de calor, con sombras y agua. Llévate agua y calzado cómodo. Consulta siempre la web oficial para horarios, entradas y condiciones de acceso, que cambian."
+      faq:
+        - p: "¿Qué ver en el Parque de María Luisa?"
+          r: "La Glorieta de Bécquer, la Fuente de las Ranas, la Plaza de América y los pabellones con museos."
+        - p: "¿Es gratis?"
+          r: "Sí, el acceso al parque es libre."
+        - p: "¿Cómo recorrerlo?"
+          r: "A pie, en bici o en coche de caballos."
+        - p: "¿Qué museos hay?"
+          r: "El Museo Arqueológico y el Museo de Artes y Costumbres Populares, en la Plaza de América."
+        - p: "¿Es buen plan con niños?"
+          r: "Sí, hay mucho espacio, fuentes y palomas, y se puede alquilar bici o carrito."
+barrio-santa-cruz:
+  relacionados: [giralda, real-alcazar-sevilla, casa-pilatos]
+  contenido:
+    es:
+      texto:
+        - "El barrio de Santa Cruz es el antiguo barrio judío de Sevilla y uno de los rincones más encantadores del centro histórico. Sus callejuelas estrechas, plazas con naranjos, casas encaladas y patios con flores forman un laberinto pensado para perderse."
+        - "Entre sus lugares más conocidos están la plaza de Doña Elvira, la calle Agua, la plaza de los Venerables y los Jardines de Murillo. Aquí se siente la Sevilla más tradicional, con tabernas, tiendas de artesanía y rincones tranquilos a pocos metros de la catedral y del Alcázar."
+        - "Lo mejor es recorrerlo a pie, sin prisas y sin mapa, a primera hora de la mañana o al atardecer, cuando hay menos gente. En las horas centrales se llena de turistas y calor. Cuida tus pertenencias y prueba una tapa en alguna taberna del barrio. Consulta siempre la web oficial para horarios, entradas y condiciones de acceso, que cambian."
+      faq:
+        - p: "¿Qué es el barrio de Santa Cruz?"
+          r: "El antiguo barrio judío de Sevilla, con calles estrechas, plazas con naranjos y casas encaladas."
+        - p: "¿Qué ver?"
+          r: "La plaza de Doña Elvira, la calle Agua, la plaza de los Venerables y los Jardines de Murillo."
+        - p: "¿Cuándo es mejor ir?"
+          r: "A primera hora o al atardecer, para evitar el calor y las multitudes."
+        - p: "¿Es seguro?"
+          r: "Es una zona muy concurrida, así que conviene cuidar tus pertenencias."
+        - p: "¿Qué más hay cerca?"
+          r: "La catedral, la Giralda, el Alcázar y la Casa de Pilatos."
+metropol-parasol:
+  relacionados: [giralda, ayuntamiento-sevilla, barrio-santa-cruz]
+  contenido:
+    es:
+      texto:
+        - "Las Setas de Sevilla, oficialmente Metropol Parasol, son una enorme estructura de madera diseñada por el arquitecto Jürgen Mayer en la Plaza de la Encarnación. Con sus formas onduladas, parecen setas gigantes y son uno de los mayores símbolos de la Sevilla contemporánea."
+        - "Se puede subir a la azotea para pasear por la pasarela y ver la ciudad desde las alturas, con vistas de la catedral y de los tejados del casco antiguo. Debajo hay un mercado, un espacio de ocio y el Antiquarium, con restos romanos encontrados durante las obras."
+        - "El mejor momento para subir es el atardecer, con la ciudad iluminada, aunque se llena. Consulta los horarios del mirador y las condiciones de acceso, que cambian según la época. Consulta siempre la web oficial para horarios, entradas y condiciones de acceso, que cambian."
+      faq:
+        - p: "¿Qué son las Setas de Sevilla?"
+          r: "Una gran estructura de madera de Jürgen Mayer, el Metropol Parasol, en la Plaza de la Encarnación."
+        - p: "¿Se puede subir?"
+          r: "Sí, hay un mirador en la azotea con vistas de la ciudad. Consulta los horarios."
+        - p: "¿Qué hay debajo?"
+          r: "Un mercado, un espacio de ocio y el Antiquarium, con restos romanos."
+        - p: "¿Cuándo es mejor ir?"
+          r: "Al atardecer, para ver la ciudad iluminada. Se llena, así que llega pronto."
+        - p: "¿Cuánto tiempo se necesita?"
+          r: "Alrededor de una hora, entre subida, paseo y visita al Antiquarium."
+ayuntamiento-sevilla:
+  relacionados: [metropol-parasol, giralda, barrio-santa-cruz]
+  contenido:
+    es:
+      texto:
+        - "El Ayuntamiento de Sevilla es un hermoso edificio en la Plaza Nueva, con una fachada renacentista plateresca del siglo XVI, rica en relieves y esculturas, y otra neoclásica del siglo XIX que da a la plaza. Es la sede del gobierno municipal y un buen ejemplo de la arquitectura histórica de la ciudad."
+        - "La fachada plateresca, con sus detalles ornamentales, es una de las más bellas de Andalucía. En el interior se pueden ver salones históricos, como el Salón Colombino y la Sala Capitular, que muestran el esplendor de la Sevilla del Siglo de Oro."
+        - "Hay visitas guiadas al interior en determinados horarios y con reserva, normalmente gratuitas. Consulta las condiciones antes de ir. La Plaza Nueva es una de las plazas más animadas del centro, con terrazas y un monumento a San Fernando. Consulta siempre la web oficial para horarios, entradas y condiciones de acceso, que cambian."
+      faq:
+        - p: "¿Qué es el Ayuntamiento de Sevilla?"
+          r: "La sede del gobierno municipal, con una fachada renacentista plateresca del siglo XVI y otra neoclásica."
+        - p: "¿Se puede visitar?"
+          r: "Sí, con visitas guiadas en determinados horarios. Consulta la web oficial."
+        - p: "¿Qué ver?"
+          r: "La fachada plateresca, el Salón Colombino y la Sala Capitular."
+        - p: "¿Dónde está?"
+          r: "En la Plaza Nueva, en el centro de Sevilla."
+        - p: "¿Es gratis?"
+          r: "Las visitas suelen ser gratuitas, pero conviene confirmarlo. Consulta siempre la web oficial para horarios, entradas y condiciones de acceso, que cambian."
+museo-picasso-malaga:
+  relacionados: [museo-carmen-thyssen, centre-pompidou, alcazaba-malaga, museo-picasso-barcelona]
+  contenido:
+    es:
+      texto:
+        - "El Museo Picasso Málaga está dedicado al artista más universal nacido en la ciudad, en 1881. Se encuentra en el Palacio de Buenavista, un edificio renacentista del siglo XVI en el casco histórico, y reúne obras de distintas etapas de su vida, donadas en gran parte por su familia."
+        - "La colección recorre la trayectoria de Picasso, desde sus primeras obras hasta su etapa final, con pintura, dibujo, escultura, cerámica y obra gráfica. El edificio conserva además restos arqueológicos fenicios y romanos visibles en el sótano, y se organizan exposiciones temporales."
+        - "Es una buena visita de una hora y media o dos. Combínala con la casa natal de Picasso, que está cerca, en la plaza de la Merced, y con un paseo por el centro. Reserva con antelación en temporada alta. Consulta siempre la web oficial para horarios, entradas y condiciones de acceso, que cambian."
+      faq:
+        - p: "¿Nació Picasso en Málaga?"
+          r: "Sí, nació en Málaga en 1881. El museo está en el centro histórico de la ciudad."
+        - p: "¿Qué hay en el museo?"
+          r: "Pintura, dibujo, escultura, cerámica y obra gráfica de distintas etapas de Picasso."
+        - p: "¿Cuánto tiempo se necesita?"
+          r: "Entre una hora y media y dos horas."
+        - p: "¿Hay que reservar?"
+          r: "Se recomienda reservar en temporada alta."
+        - p: "¿Qué más ver cerca?"
+          r: "La casa natal de Picasso, la plaza de la Merced y la catedral."
+museo-carmen-thyssen:
+  relacionados: [museo-picasso-malaga, catedral-malaga, centre-pompidou]
+  contenido:
+    es:
+      texto:
+        - "El Museo Carmen Thyssen Málaga ocupa el Palacio de Villalón, un edificio renacentista del siglo XVI en el centro histórico. Su colección se centra en la pintura española del siglo XIX, con especial atención a la pintura andaluza, el costumbrismo y el paisaje."
+        - "Reúne obras de artistas como Zurbarán, Sorolla, Zuloaga o Ignacio Pinazo, y es una buena oportunidad para conocer el arte andaluz del XIX en un entorno muy agradable. El museo organiza además exposiciones temporales y actividades culturales."
+        - "Es una visita de una o dos horas, que se combina bien con el Picasso y la catedral. Consulta las exposiciones temporales, porque pueden ser un atractivo especial. Consulta siempre la web oficial para horarios, entradas y condiciones de acceso, que cambian."
+      faq:
+        - p: "¿Qué hay en el Museo Carmen Thyssen?"
+          r: "Pintura española del siglo XIX, con énfasis en la andaluza, el costumbrismo y el paisaje."
+        - p: "¿Dónde está?"
+          r: "En el Palacio de Villalón, en el centro histórico de Málaga."
+        - p: "¿Cuánto tiempo se necesita?"
+          r: "Entre una y dos horas."
+        - p: "¿Qué más ver cerca?"
+          r: "El Museo Picasso, la catedral y el teatro romano."
+        - p: "¿Hay exposiciones temporales?"
+          r: "Sí, el museo programa varias al año. Consulta la web."
+coleccion-museo-ruso-malaga:
+  relacionados: [centre-pompidou, museo-picasso-malaga, museo-carmen-thyssen]
+  contenido:
+    es:
+      texto:
+        - "La Colección del Museo Ruso de Málaga es una sede del Museo Estatal Ruso de San Petersburgo, instalada en la antigua Tabacalera, un edificio industrial junto al río Guadalmedina. Presenta arte ruso de los siglos XV al XXI y es uno de los espacios culturales más singulares de la ciudad."
+        - "La colección ofrece un recorrido por el arte ruso, con iconos, pintura realista, vanguardias y arte contemporáneo, y organiza exposiciones temporales. Es una buena opción para conocer una cultura poco presente en otros museos españoles."
+        - "Antes de ir, comprueba el estado actual del museo, su programación y sus horarios, ya que pueden haber cambiado. Está cerca de otros museos de Málaga, por lo que se combina bien con un recorrido cultural por la ciudad. Consulta siempre la web oficial para horarios, entradas y condiciones de acceso, que cambian."
+      faq:
+        - p: "¿Qué es el Museo Ruso de Málaga?"
+          r: "Una sede del Museo Estatal Ruso, instalada en la antigua Tabacalera, dedicada al arte ruso."
+        - p: "¿Qué hay en la colección?"
+          r: "Arte ruso de los siglos XV al XXI, con iconos, pintura realista, vanguardias y arte contemporáneo."
+        - p: "¿Dónde está?"
+          r: "En el edificio de la antigua Tabacalera, en Málaga."
+        - p: "¿Está abierto?"
+          r: "Comprueba el estado y los horarios actuales en la web oficial, ya que han podido cambiar."
+        - p: "¿Qué más ver cerca?"
+          r: "El Centre Pompidou y el Museo Automovilístico y de la Moda."
+centre-pompidou:
+  relacionados: [museo-picasso-malaga, coleccion-museo-ruso-malaga, soho-malaga-barrio-las-artes]
+  contenido:
+    es:
+      texto:
+        - "El Centre Pompidou Málaga es una sede del museo parisino en el puerto de Málaga, en el Muelle Uno. Es conocido por su edificio, el Cubo, un cubo de cristal de colores diseñado por Daniel Buren, y por una colección de arte moderno y contemporáneo de primer nivel."
+        - "Su exposición permanente reúne obras de artistas como Picasso, Frida Kahlo, Miró, Giacometti o Magritte, en un recorrido por los grandes movimientos del siglo XX. Además, organiza exposiciones temporales y actividades para todos los públicos."
+        - "Prevé entre una y dos horas de visita. El museo está en el puerto, rodeado de restaurantes y terrazas, por lo que se combina bien con un paseo junto al mar. Consulta la programación y las condiciones del acuerdo con el Pompidou, que se ha renovado en distintas ocasiones. Consulta siempre la web oficial para horarios, entradas y condiciones de acceso, que cambian."
+      faq:
+        - p: "¿Qué es el Cubo?"
+          r: "Un edificio con forma de cubo de cristal de colores, diseñado por Daniel Buren, que alberga el Centre Pompidou en el puerto de Málaga."
+        - p: "¿Qué hay en el museo?"
+          r: "Arte moderno y contemporáneo de la colección del Pompidou, con obras de grandes maestros del siglo XX."
+        - p: "¿Dónde está?"
+          r: "En el Muelle Uno, en el puerto de Málaga."
+        - p: "¿Cuánto tiempo se necesita?"
+          r: "Entre una y dos horas."
+        - p: "¿Qué hay cerca?"
+          r: "El paseo del Muelle Uno, con terrazas y tiendas, y el centro histórico."
+catedral-malaga:
+  relacionados: [alcazaba-malaga, teatro-romano-malaga, museo-carmen-thyssen, semana-santa-malaga]
+  contenido:
+    es:
+      texto:
+        - "La Catedral de Málaga es una gran iglesia renacentista construida entre los siglos XVI y XVIII. Se la conoce como La Manquita porque tiene una sola torre terminada: según la tradición, el dinero previsto para la segunda se destinó a otros fines."
+        - "El interior destaca por su coro de madera tallada, sus altas bóvedas y sus capillas. Se puede subir a la cubierta, desde donde se ven la ciudad, el puerto y la Alcazaba, con una vista panorámica muy completa del centro histórico."
+        - "Respeta el carácter religioso del edificio y la vestimenta adecuada. Prevé entre una hora y una hora y media de visita. Consulta los horarios, que varían según el culto. Consulta siempre la web oficial para horarios, entradas y condiciones de acceso, que cambian."
+      faq:
+        - p: "¿Por qué se llama La Manquita?"
+          r: "Porque solo tiene una torre terminada, de las dos previstas."
+        - p: "¿Qué ver?"
+          r: "El coro de madera tallada, las capillas y las vistas desde la cubierta."
+        - p: "¿Se puede subir a la cubierta?"
+          r: "Sí, con entrada aparte. Consulta las condiciones."
+        - p: "¿Cuánto tiempo se necesita?"
+          r: "Entre una hora y una hora y media."
+        - p: "¿Qué ropa llevar?"
+          r: "Ropa discreta, con hombros y rodillas cubiertos, por respeto al carácter religioso."
+alcazaba-malaga:
+  relacionados: [teatro-romano-malaga, catedral-malaga, museo-picasso-malaga]
+  contenido:
+    es:
+      texto:
+        - "La Alcazaba de Málaga es una fortaleza palaciega musulmana del siglo XI, una de las mejor conservadas de España. Se alza sobre una colina en pleno centro, con patios, jardines, fuentes, murallas y vistas del puerto y de la ciudad."
+        - "El recorrido asciende por varias puertas y patios hasta los palacios nazaríes, con arcos de herradura, yeserías y estanques. Desde las murallas se ven la catedral, el puerto y el Teatro Romano, que se encuentra justo a sus pies. Otra fortaleza, el castillo de Gibralfarro, está unida por un camino fortificado."
+        - "Lleva calzado cómodo, agua y protección solar, porque hay cuestas y escaleras. Evita las horas de más calor y reserva una hora y media o dos para la visita. Consulta siempre la web oficial para horarios, entradas y condiciones de acceso, que cambian."
+      faq:
+        - p: "¿Qué es la Alcazaba de Málaga?"
+          r: "Una fortaleza palaciega musulmana del siglo XI, con patios, jardines y vistas de la ciudad."
+        - p: "¿Qué ver?"
+          r: "Los patios, los jardines, los palacios nazaríes y las vistas del puerto desde las murallas."
+        - p: "¿Cuánto tiempo se necesita?"
+          r: "Entre una hora y media y dos horas."
+        - p: "¿Cómo se sube?"
+          r: "A pie, por rampas y escaleras. Hay un ascensor desde el exterior en algunos tramos; consulta la accesibilidad."
+        - p: "¿Qué hay cerca?"
+          r: "El Teatro Romano, la catedral y el Museo Picasso."
+teatro-romano-malaga:
+  relacionados: [alcazaba-malaga, catedral-malaga, museo-picasso-malaga]
+  contenido:
+    es:
+      texto:
+        - "El Teatro Romano de Málaga es un teatro del siglo I a.C., construido en época de Augusto, al pie de la Alcazaba. Quedó oculto durante siglos bajo edificios y fue redescubierto en 1951, y hoy se puede visitar en pleno centro, junto a la plaza de la Aduana."
+        - "Se conserva buena parte de la cávea, con las gradas de piedra en forma de semicírculo, y el escenario, además de restos de columnas y elementos decorativos. Un centro de interpretación ayuda a entender la historia del teatro y de la ciudad romana de Malaca."
+        - "La visita es corta, de unos 20 o 30 minutos. Se combina con la Alcazaba, que está justo encima, y con el Museo Picasso. Consulta los horarios y las condiciones de entrada. Consulta siempre la web oficial para horarios, entradas y condiciones de acceso, que cambian."
+      faq:
+        - p: "¿Qué es el Teatro Romano de Málaga?"
+          r: "Un teatro del siglo I a.C., al pie de la Alcazaba, redescubierto en 1951."
+        - p: "¿Se puede visitar?"
+          r: "Sí, con un centro de interpretación. Consulta horarios y condiciones."
+        - p: "¿Cuánto tiempo se necesita?"
+          r: "Unos 20-30 minutos."
+        - p: "¿Dónde está?"
+          r: "En el centro de Málaga, junto a la plaza de la Aduana y al pie de la Alcazaba."
+        - p: "¿Qué más ver cerca?"
+          r: "La Alcazaba, el Museo Picasso y la catedral."
+soho-malaga-barrio-las-artes:
+  relacionados: [centre-pompidou, coleccion-museo-ruso-malaga, museo-picasso-malaga]
+  contenido:
+    es:
+      texto:
+        - "El Soho de Málaga, conocido como el barrio de las artes, es una zona del centro que se ha transformado en un gran espacio de arte urbano, galerías, estudios y creatividad. Sus calles están llenas de murales de artistas locales e internacionales."
+        - "El proyecto MAUS, Málaga Arte Urbano Soho, ha convertido muchas paredes en lienzos, con obras de gran tamaño repartidas por el barrio. Además hay cafés, tiendas independientes y restaurantes, y es una zona perfecta para pasear con calma y fotografiar."
+        - "Se recorre a pie en una o dos horas, con ayuda de un mapa o una ruta guiada de arte urbano. Combínalo con el Centre Pompidou y el Muelle Uno, que están cerca. Consulta siempre la web oficial para horarios, entradas y condiciones de acceso, que cambian."
+      faq:
+        - p: "¿Qué es el Soho de Málaga?"
+          r: "Un barrio del centro de la ciudad, conocido como barrio de las artes, con murales, galerías y estudios."
+        - p: "¿Qué es el MAUS?"
+          r: "El proyecto Málaga Arte Urbano Soho, que ha llenado el barrio de murales de artistas locales e internacionales."
+        - p: "¿Cuánto tiempo se necesita?"
+          r: "Una o dos horas, a pie."
+        - p: "¿Hay rutas guiadas?"
+          r: "Sí, existen rutas de arte urbano por el barrio. Consulta la oferta local."
+        - p: "¿Qué más ver cerca?"
+          r: "El Centre Pompidou, el Muelle Uno y el centro histórico."
+gruta-las-maravillas:
+  relacionados: [barrio-santa-cruz, parque-nacional-donana, alcazaba-malaga]
+  contenido:
+    es:
+      texto:
+        - "La Gruta de las Maravillas es una cueva en Aracena, en la Sierra de Aracena y Picos de Aroche, en Huelva. Es una de las cuevas más bellas de España, con lagos subterráneos, estalactitas, estalagmitas y salas de formas caprichosas que se recorren con visita guiada."
+        - "El recorrido dura unos 45 minutos y atraviesa distintas salas con nombres como la Sala de los Culs de Gat o la Sala de la Catedral, con formaciones de gran variedad de colores y formas. La temperatura se mantiene estable durante todo el año."
+        - "Lleva una chaqueta y calzado cómodo, porque hay humedad y escaleras. El aforo es limitado, así que conviene reservar con antelación. Aracena es también famosa por su jamón ibérico, y la sierra es un buen destino para pasear y comer. Consulta siempre la web oficial para horarios, entradas y condiciones de acceso, que cambian."
+      faq:
+        - p: "¿Qué es la Gruta de las Maravillas?"
+          r: "Una cueva en Aracena (Huelva) con lagos subterráneos y formaciones de estalactitas y estalagmitas."
+        - p: "¿Cuánto dura la visita?"
+          r: "Unos 45 minutos aproximadamente, con guía."
+        - p: "¿Hay que reservar?"
+          r: "Sí, conviene reservar con antelación, porque el aforo es limitado."
+        - p: "¿Qué ropa llevar?"
+          r: "Una chaqueta y calzado cómodo, porque hay humedad y escaleras."
+        - p: "¿Es buen plan con niños?"
+          r: "Sí, la visita suele gustar a los niños, aunque hay escaleras y tramos estrechos."
+        - p: "¿Qué más hacer en Aracena?"
+          r: "Probar el jamón ibérico, visitar el castillo y pasear por la sierra."
