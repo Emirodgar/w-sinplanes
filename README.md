@@ -66,7 +66,7 @@ SINPLANES_OFFLINE=1 npm run pipeline     # opcional: eventos de ejemplo, sin red
 - `SINPLANES_MAX_PRESS` (60 titulares nuevos por ejecución) y `SINPLANES_CONF_MIN` (0,7) controlan coste y exigencia.
 - `npm run check-sources` avisa de feeds caídos, vacíos u obsoletos (sin nada nuevo en 30 días).
 
-**Google Trends.** Cada día se lee `trends.google.com/trending/rss?geo=ES` y se guarda un historial de 14 días en `data/trends.json`. Un plan "conecta" si el término aparece en su título, resumen o municipio; los términos que conectan con más de 8 planes se ignoran por genéricos. La señal solo reordena (`boost`) y alimenta el widget "Lo que está sonando"; nunca crea páginas.
+**Google Trends.** Cada día se lee `trends.google.com/trending/rss?geo=ES` y se guarda un historial de 14 días en `data/trends.json`. Un plan "conecta" si el término aparece en su título o municipio (no en el resumen); los términos que conectan con más de 8 planes se ignoran por genéricos. La señal solo reordena (`boost`) y alimenta el widget "Lo que está sonando" (máximo 2 planes por municipio); nunca crea páginas.
 
 **Idiomas.** Español (raíz) más `/en/`, `/fr/`, `/de/`, `/it/` y `/pt/`, con segmentos de URL traducidos (`/fr/lieux/`, `/de/orte/`, `/it/luoghi/`…) y meses y temas con slug propio. Un único router (`src/pages/[...route].astro`) genera todas las páginas; los textos de interfaz están en `src/i18n/ui.js`.
 - La traducción a fr/de/it/pt es por IA, con caché en `data/cache/translations.json`. Se traduce el calendario propio, los planes de prensa y los eventos de datos abiertos de las próximas 3 semanas (`SINPLANES_MAX_TRANSLATE`, 100 planes nuevos por ejecución).

@@ -93,11 +93,22 @@ export function fmtPlace(p, allSpain) {
 export const cap = (s) => s.charAt(0).toUpperCase() + s.slice(1);
 
 /** Planes que conectan con las búsquedas en tendencia (la señal la calcula el pipeline). */
-export const trending = (n = 5) =>
-  plans
+const MAX_PER_PLACE = 2;
+export const trending = (n = 5) => {
+  const perPlace = new Map();
+  return plans
     .filter((p) => p.trend && (isDated(p) ? !isPast(p) : p.months?.includes(currentMonth())))
     .sort((a, b) => b.trend - a.trend)
+    .filter((p) => {
+      // Máximo MAX_PER_PLACE planes por municipio para que una sola ciudad no copie el widget
+      const k = p.place?.municipio?.toLowerCase();
+      if (!k) return true;
+      const c = perPlace.get(k) || 0;
+      perPlace.set(k, c + 1);
+      return c < MAX_PER_PLACE;
+    })
     .slice(0, n);
+};
 
 /** Reordena de forma estable: lo que está en tendencia sube; a igualdad, se mantiene el orden por fecha. */
 export const boost = (list) => [...list].sort((a, b) => (b.trend || 0) - (a.trend || 0));

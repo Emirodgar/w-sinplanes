@@ -2,7 +2,7 @@
 //
 // El RSS diario solo trae ~10 búsquedas, así que se guarda un historial de 14 días en data/trends.json
 // y cada término pierde peso con los días. Un plan "conecta" con una tendencia si el término aparece
-// en su título, resumen o municipio (todas las palabras significativas del término).
+// en su título o municipio, no en el resumen (todas las palabras significativas del término).
 import { readFileSync, writeFileSync, mkdirSync, existsSync } from 'node:fs';
 import path from 'node:path';
 import { ROOT, addDays, slugify, getText } from './util.mjs';
@@ -52,7 +52,7 @@ export function applyTrends(plans, history, today) {
   const terms = history
     .map((h) => ({ ...h, w: words(h.term), decay: Math.max(0, 1 - daysBetween(h.lastSeen, today) / WINDOW_DAYS) }))
     .filter((h) => h.w.length > 0 && h.decay > 0);
-  const hay = plans.map((p) => new Set(words(`${p.title.es} ${p.summary.es} ${p.place?.municipio || ''} ${p.place?.provincia || ''}`)));
+  const hay = plans.map((p) => new Set(words(`${p.title.es} ${p.place?.municipio || ''} ${p.place?.provincia || ''}`)));
   const score = new Array(plans.length).fill(0);
   for (const h of terms) {
     const hits = hay.flatMap((set, i) => (h.w.every((w) => set.has(w)) ? [i] : []));
