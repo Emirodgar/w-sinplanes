@@ -73,9 +73,9 @@ export function readFichasLugares() {
   return existsSync(file) ? yamlLoad(readFileSync(file, 'utf8')) || {} : {};
 }
 
-/** Fichas ampliadas traducidas: config/traducciones/<idioma>.yml, por id de plan, con la misma forma que `contenido.es`. */
-export function readContentTranslations() {
-  const dir = path.join(ROOT, 'config/traducciones');
+/** Fichas ampliadas traducidas: <carpeta>/<idioma>.yml (config/traducciones para el calendario, config/traducciones-lugares para los lugares fijos), por id de plan, con la misma forma que `contenido.es`. */
+export function readContentTranslations(folder = 'config/traducciones') {
+  const dir = path.join(ROOT, folder);
   if (!existsSync(dir)) return {};
   const out = {};
   for (const f of readdirSync(dir).filter((n) => n.endsWith('.yml'))) {
@@ -134,6 +134,7 @@ export function buildSeasonalPlans(today) {
 
   // Lugares fijos (museos, parques, rutas…): sin fecha, abiertos todo el año. Ver config/lugares.yml.
   const fichas = readFichasLugares();
+  const i18nLugares = readContentTranslations('config/traducciones-lugares');
   for (const l of readLugares()) {
     const f = fichas[l.id];
     plans.push({
@@ -142,7 +143,7 @@ export function buildSeasonalPlans(today) {
       summary: { es: l.es[1], en: l.en[1] },
       months: [], topics: [...l.temas, ...(GROUP_TOPIC[l.grupo] ? [GROUP_TOPIC[l.grupo]] : [])], ...(l.grupo === 'naturaleza' ? { parkType: parkType(l.es[0]) } : {}),
       place: placeOf(l.lugar ? { provincia: l.lugar[0], municipio: l.lugar[1] } : null), source: { name: 'sinplanes', url: l.fuente },
-      ...(f?.contenido ? { content: f.contenido } : {}),
+      ...contentOf({ id: l.id, contenido: f?.contenido }, i18nLugares),
       ...(f?.imagen ? { image: f.imagen, imageSize: f.imagen_tam || null } : {}),
       ...(f?.relacionados ? { related: f.relacionados } : {}),
     });
