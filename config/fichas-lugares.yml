@@ -301,3 +301,553 @@ real-monasterio-encarnacion:
           r: "Con visita guiada y por grupos. Conviene reservar. Consulta los horarios en la web oficial."
         - p: "¿Qué más ver cerca?"
           r: "El Palacio Real, la Plaza de Oriente y el Teatro Real están a pocos minutos."
+sagrada-familia:
+  relacionados: [park-guell, casa-batllo, casa-mila-pedrera, catedral-barcelona]
+  contenido:
+    es:
+      texto:
+        - "La Sagrada Familia es la obra maestra inacabada de Antoni Gaudí y el monumento más visitado de Barcelona. Sus obras comenzaron en 1882 y siguen en marcha, financiadas en gran parte con las entradas de los visitantes. Forma parte de las obras de Gaudí declaradas Patrimonio Mundial por la UNESCO."
+        - "Las fachadas del Nacimiento y de la Pasión cuentan la vida de Jesús con una escultura muy distinta en cada una. El interior es lo más sorprendente: columnas que se abren como árboles, bóvedas de formas naturales y una luz de colores que cambia a lo largo del día según la hora y la orientación de las vidrieras."
+        - "Las entradas se venden con día y hora fijados y se agotan con antelación, así que reserva online antes de viajar. Prevé entre una hora y media y dos para la visita, con o sin audioguía, y valora subir a una de las torres si hay plazas. Cuidado con los revendedores en las colas de alrededor. Consulta siempre la web oficial para horarios, entradas y condiciones de acceso, que cambian."
+      faq:
+        - p: "¿Por qué sigue sin terminar?"
+          r: "Porque las obras comenzaron en 1882 y se financian principalmente con las entradas y donaciones, con un proyecto muy complejo. Consulta en la web oficial el estado actual de las obras."
+        - p: "¿Hay que reservar entrada?"
+          r: "Sí, conviene reservar online con antelación: las entradas se venden con hora y se agotan, sobre todo en temporada alta."
+        - p: "¿Cuánto tiempo se necesita?"
+          r: "Entre una hora y media y dos horas, más si subes a una torre."
+        - p: "¿Se puede subir a las torres?"
+          r: "Sí, hay entradas con subida a las torres, con plazas limitadas. Consulta las condiciones en la web."
+        - p: "¿Qué ver por dentro?"
+          r: "Las columnas en forma de árbol, las bóvedas y las vidrieras de colores, que cambian de luz a lo largo del día."
+        - p: "¿Es Patrimonio Mundial?"
+          r: "Sí, forma parte de las obras de Antoni Gaudí declaradas Patrimonio Mundial por la UNESCO."
+park-guell:
+  relacionados: [sagrada-familia, casa-batllo, casa-mila-pedrera]
+  contenido:
+    es:
+      texto:
+        - "El Park Güell es el parque modernista de Gaudí, con arquitectura y naturaleza fundidas en una colina con vistas a toda Barcelona. Forma parte de las obras de Gaudí declaradas Patrimonio Mundial por la UNESCO y es uno de los lugares más fotografiados de la ciudad."
+        - "Lo más famoso es la Zona Monumental: la gran plaza con su banco ondulado cubierto de mosaico de trencadís, la salamandra de colores, las columnas inclinadas del pórtico y los edificios de la entrada. El resto del parque son senderos, jardines y miradores de acceso libre."
+        - "La Zona Monumental tiene aforo limitado y entrada con horario, y conviene reservarla con antelación. Evita las horas centrales y ve a primera hora o al final de la tarde, cuando hay menos gente y mejor luz. Lleva calzado cómodo, porque hay cuestas, y agua. Consulta siempre la web oficial para horarios, entradas y condiciones de acceso, que cambian."
+      faq:
+        - p: "¿Es gratis el Park Güell?"
+          r: "Parte del parque es de acceso libre, pero la Zona Monumental, con el banco ondulado, requiere entrada con horario. Consulta siempre la web oficial para horarios, entradas y condiciones de acceso, que cambian."
+        - p: "¿Hay que reservar?"
+          r: "Sí, conviene reservar con antelación la entrada a la Zona Monumental, porque el aforo es limitado."
+        - p: "¿Cuánto tiempo se necesita?"
+          r: "Entre una hora y media y dos horas, más si exploras la zona libre del parque."
+        - p: "¿Cuándo es mejor ir?"
+          r: "A primera hora de la mañana o al final de la tarde, cuando hay menos gente y la luz es mejor."
+        - p: "¿Cómo llegar?"
+          r: "En metro y autobús o a pie desde las paradas cercanas. Hay cuestas, así que lleva calzado cómodo."
+        - p: "¿Es buen plan con niños?"
+          r: "Sí, aunque hay cuestas y escaleras. Los mosaicos y la salamandra suelen gustar a los pequeños."
+casa-batllo:
+  relacionados: [casa-mila-pedrera, sagrada-familia, park-guell]
+  contenido:
+    es:
+      texto:
+        - "La Casa Batlló es una de las casas más espectaculares de Gaudí, en pleno Passeig de Gràcia. Gaudí la reformó entre 1904 y 1906 y creó una fachada de colores y formas ondulantes, con balcones que parecen máscaras y un tejado que recuerda al lomo de un dragón."
+        - "Por dentro, todo parece naturaleza: el patio de luces cubierto de azulejos azules que cambian de tono según la altura, el salón principal con sus ventanales, la escalera y el desván, con arcos de catenaria. Es una casa donde casi no hay líneas rectas y cada detalle está pensado."
+        - "La visita se hace con audioguía y suele incluir realidad aumentada. Reserva con antelación, porque en temporada alta se agotan las entradas, y prevé una hora y media. La Casa Batlló forma parte del tramo conocido como la Manzana de la Discordia, junto a la Casa Amatller y la Casa Lleó Morera. Consulta siempre la web oficial para horarios, entradas y condiciones de acceso, que cambian."
+      faq:
+        - p: "¿Quién construyó la Casa Batlló?"
+          r: "Antoni Gaudí la reformó entre 1904 y 1906 para la familia Batlló."
+        - p: "¿Qué es la Manzana de la Discordia?"
+          r: "El tramo del Passeig de Gràcia donde conviven edificios modernistas de distintos arquitectos, entre ellos la Casa Batlló, la Casa Amatller y la Casa Lleó Morera."
+        - p: "¿Hay que reservar entrada?"
+          r: "Sí, conviene reservar con antelación, sobre todo en temporada alta."
+        - p: "¿Cuánto dura la visita?"
+          r: "Entre una hora y una hora y media, con audioguía."
+        - p: "¿Qué no hay que perderse?"
+          r: "La fachada, el patio de luces de azulejos azules, el salón principal y la azotea con las chimeneas."
+        - p: "¿Es Patrimonio Mundial?"
+          r: "Sí, forma parte de las obras de Gaudí declaradas Patrimonio Mundial por la UNESCO."
+casa-mila-pedrera:
+  relacionados: [casa-batllo, sagrada-familia, park-guell]
+  contenido:
+    es:
+      texto:
+        - "La Casa Milà, conocida como La Pedrera, es otra de las grandes obras de Gaudí en Barcelona. Se construyó entre 1906 y 1912 como vivienda para la familia Milà, y su fachada de piedra ondulada, sin apenas líneas rectas, le valió ese apodo de cantera."
+        - "Lo más impresionante es la azotea, con sus chimeneas y salidas de ventilación que parecen guerreros esculpidos y con vistas a la ciudad, y el desván, con arcos de ladrillo que forman una estructura de costillas. También se puede visitar un piso reconstruido para ver cómo se vivía a principios del siglo XX."
+        - "Reserva con antelación, porque las entradas se agotan en temporada alta, y prevé una hora y media para la visita. La Pedrera también organiza visitas nocturnas y actividades culturales. Forma parte de las obras de Gaudí declaradas Patrimonio Mundial por la UNESCO. Consulta siempre la web oficial para horarios, entradas y condiciones de acceso, que cambian."
+      faq:
+        - p: "¿Por qué se llama La Pedrera?"
+          r: "Por su fachada de piedra ondulada, que recuerda a una cantera, apodo que se le dio cuando se construyó."
+        - p: "¿Qué ver en La Pedrera?"
+          r: "La azotea con las chimeneas, el desván con sus arcos y un piso reconstruido de principios del siglo XX."
+        - p: "¿Hay que reservar entrada?"
+          r: "Sí, conviene reservar con antelación, sobre todo en temporada alta."
+        - p: "¿Cuánto dura la visita?"
+          r: "Una hora y media aproximadamente."
+        - p: "¿Hay visitas nocturnas?"
+          r: "La Pedrera organiza visitas y actividades en horario especial. Consulta la oferta en la web oficial."
+        - p: "¿Es Patrimonio Mundial?"
+          r: "Sí, forma parte de las obras de Gaudí declaradas Patrimonio Mundial por la UNESCO."
+palau-musica-catalana:
+  relacionados: [gran-teatre-liceu, catedral-barcelona, museo-picasso-barcelona]
+  contenido:
+    es:
+      texto:
+        - "El Palau de la Música Catalana es una joya del modernismo, obra de Lluís Domènech i Montaner, inaugurada en 1908. Forma parte, con el Hospital de Sant Pau, del conjunto declarado Patrimonio Mundial por la UNESCO y sigue siendo una sala de conciertos en activo."
+        - "La sala principal es el gran atractivo: una claraboya invertida de cristal de colores preside el techo, rodeada de esculturas, mosaicos y vidrieras. Los detalles decorativos, con flores, instrumentos y figuras, cubren casi todas las superficies del edificio, y el fastuoso auditorio es de una belleza muy especial."
+        - "Se puede visitar con una visita guiada o asistir a un concierto, que es la mejor manera de vivir la sala con su acústica. Reserva con antelación, porque las visitas se llenan. Consulta siempre la web oficial para horarios, entradas y condiciones de acceso, que cambian."
+      faq:
+        - p: "¿Qué es el Palau de la Música Catalana?"
+          r: "Una sala de conciertos modernista, obra de Domènech i Montaner, inaugurada en 1908 y declarada Patrimonio Mundial."
+        - p: "¿Se puede visitar?"
+          r: "Sí, con visitas guiadas. Consulta los horarios y la reserva en la web oficial."
+        - p: "¿Es mejor visitar o ir a un concierto?"
+          r: "Si puedes, un concierto: ves la sala en uso y disfrutas de la acústica. Si no, la visita guiada te permite verla con detalle."
+        - p: "¿Cuánto dura la visita?"
+          r: "Alrededor de una hora. Consulta la duración exacta en la web."
+        - p: "¿Qué no hay que perderse?"
+          r: "La gran claraboya de cristal de colores de la sala de conciertos."
+gran-teatre-liceu:
+  relacionados: [palau-musica-catalana, teatro-real-madrid, catedral-barcelona]
+  contenido:
+    es:
+      texto:
+        - "El Gran Teatre del Liceu es el gran teatro de ópera de Barcelona, situado en La Rambla desde 1847. Ha sido escenario de grandes estrenos y de una de las mejores temporadas de ópera de Europa, y es un símbolo cultural de la ciudad."
+        - "En 1994 un incendio destruyó gran parte del teatro, que se reconstruyó y reabrió en 1999 respetando su sala en forma de herradura, con palcos dorados y una decoración muy cuidada. Hoy combina la tradición con la tecnología más moderna, y ofrece ópera, ballet y conciertos."
+        - "Puedes asistir a una función o hacer una visita guiada, que muestra la sala, los foyers, los salones y algunas zonas de backstage. Reserva con antelación si quieres ver una ópera en temporada, y consulta si hay entradas a precios reducidos. Consulta siempre la web oficial para horarios, entradas y condiciones de acceso, que cambian."
+      faq:
+        - p: "¿Qué es el Liceu?"
+          r: "El gran teatro de ópera de Barcelona, en La Rambla, inaugurado en 1847."
+        - p: "¿Qué pasó en 1994?"
+          r: "Un incendio destruyó gran parte del edificio, que se reconstruyó y reabrió en 1999."
+        - p: "¿Se puede visitar sin ir a una función?"
+          r: "Sí, hay visitas guiadas al edificio. Consulta los horarios en la web oficial."
+        - p: "¿Hay entradas baratas?"
+          r: "El teatro suele ofrecer entradas de distintos precios, incluidas algunas con visibilidad reducida. Consulta la web."
+        - p: "¿Qué ropa llevar?"
+          r: "No hay código de vestir obligatorio, aunque muchas personas se visten con algo más formal para ir a la ópera."
+catedral-barcelona:
+  relacionados: [museo-picasso-barcelona, palau-musica-catalana, sagrada-familia]
+  contenido:
+    es:
+      texto:
+        - "La Catedral de la Santa Cruz y Santa Eulalia es la catedral gótica de Barcelona, en pleno Barrio Gótico. Se construyó entre los siglos XIII y XV y su fachada principal es de finales del siglo XIX, aunque se inspira en el diseño medieval original."
+        - "Por dentro destacan las naves altas y oscuras, el coro de madera tallada, la cripta con el sepulcro de santa Eulalia y el claustro, un remanso de paz con jardín y una colonia de trece ocas que viven en él desde hace siglos. También se puede subir en ascensor a la azotea para ver la ciudad desde arriba."
+        - "Muchas personas visitan la catedral en horarios de culto, con entrada gratuita limitada, y existe además una entrada de pago para el recorrido turístico. Respeta el carácter religioso del edificio y la vestimenta adecuada. Los domingos, delante de la catedral, se suele bailar la sardana. Consulta siempre la web oficial para horarios, entradas y condiciones de acceso, que cambian."
+      faq:
+        - p: "¿Qué ver en la catedral de Barcelona?"
+          r: "El coro, la cripta de santa Eulalia, el claustro con las ocas y la vista desde la azotea."
+        - p: "¿Por qué hay ocas en el claustro?"
+          r: "Es una tradición de siglos: hay trece ocas, que recuerdan la edad de santa Eulalia al morir según la leyenda."
+        - p: "¿Se puede subir a la azotea?"
+          r: "Sí, hay un ascensor que lleva a la azotea, con entrada aparte. Consulta las condiciones."
+        - p: "¿Es gratis?"
+          r: "Hay horarios de culto con acceso limitado y una entrada de pago para el recorrido turístico. Consulta siempre la web oficial para horarios, entradas y condiciones de acceso, que cambian."
+        - p: "¿Qué ropa llevar?"
+          r: "Ropa discreta, con hombros y rodillas cubiertos, por respeto al carácter religioso del edificio."
+        - p: "¿Qué es la sardana?"
+          r: "Una danza tradicional catalana que se baila en corro. Suele celebrarse delante de la catedral algunos días; consulta el horario."
+mnac-museo-nacional-arte-cataluna:
+  relacionados: [museo-picasso-barcelona, museo-arte-contemporaneo-macba, sagrada-familia]
+  contenido:
+    es:
+      texto:
+        - "El MNAC, Museo Nacional de Arte de Cataluña, ocupa el Palau Nacional de Montjuïc, un edificio construido para la Exposición Internacional de 1929. Reúne una de las colecciones de arte catalán más completas, desde el románico hasta el siglo XX, con una vista espectacular de Barcelona."
+        - "Su gran tesoro es la colección de pintura mural románica, con ábsides completos trasladados desde iglesias del Pirineo, que se exponen recreando su espacio original. También hay arte gótico, renacentista y barroco, y una sección de arte moderno que incluye el modernismo catalán."
+        - "Desde la terraza del Palau Nacional se ve toda la ciudad, y delante está la Fuente Mágica de Montjuïc, que ofrece espectáculos de luz y música en horarios concretos. Combina la visita con un paseo por la montaña de Montjuïc. Consulta siempre la web oficial para horarios, entradas y condiciones de acceso, que cambian."
+      faq:
+        - p: "¿Qué hay en el MNAC?"
+          r: "Arte catalán desde el románico hasta el siglo XX, con una excepcional colección de pintura mural románica."
+        - p: "¿Dónde está?"
+          r: "En el Palau Nacional, en la montaña de Montjuïc, Barcelona."
+        - p: "¿Qué es la Fuente Mágica?"
+          r: "Una fuente de agua, luz y música que ofrece espectáculos en horarios concretos, delante del museo."
+        - p: "¿Cuánto tiempo se necesita?"
+          r: "Entre dos y tres horas para una visita selectiva."
+        - p: "¿Hay buenas vistas?"
+          r: "Sí, desde la terraza del Palau Nacional se ve toda Barcelona."
+        - p: "¿Cómo llegar?"
+          r: "En metro y autobús, o a pie subiendo desde Plaça d'Espanya con las escaleras mecánicas."
+museo-arte-contemporaneo-macba:
+  relacionados: [museo-picasso-barcelona, mnac-museo-nacional-arte-cataluna, boqueria]
+  contenido:
+    es:
+      texto:
+        - "El MACBA, Museo de Arte Contemporáneo de Barcelona, ocupa un edificio blanco y luminoso diseñado por Richard Meier en el barrio del Raval. Su colección recoge arte de la segunda mitad del siglo XX y del siglo XXI, con obras de artistas catalanes, españoles e internacionales."
+        - "El museo organiza exposiciones temporales y recorridos por su colección, y está en la plaza dels Àngels, un punto de encuentro de patinadores y jóvenes que da un ambiente muy especial al entorno. Cerca están el CCCB, la Boqueria y la Rambla del Raval."
+        - "Si te interesa el arte contemporáneo, es una buena visita de dos horas. Combínalo con un paseo por el Raval y una comida cercana. Consulta siempre la web oficial para horarios, entradas y condiciones de acceso, que cambian."
+      faq:
+        - p: "¿Qué hay en el MACBA?"
+          r: "Arte contemporáneo de la segunda mitad del siglo XX y del XXI, con exposiciones temporales y colección propia."
+        - p: "¿Quién diseñó el edificio?"
+          r: "El arquitecto Richard Meier."
+        - p: "¿Dónde está?"
+          r: "En el barrio del Raval, en la plaza dels Àngels, en Barcelona."
+        - p: "¿Cuánto tiempo se necesita?"
+          r: "Alrededor de dos horas."
+        - p: "¿Qué hay cerca?"
+          r: "El CCCB, el mercado de la Boqueria y la Rambla del Raval."
+museo-picasso-barcelona:
+  relacionados: [catedral-barcelona, museo-arte-contemporaneo-macba, boqueria]
+  contenido:
+    es:
+      texto:
+        - "El Museo Picasso de Barcelona ocupa cinco palacios medievales de la calle Montcada, en el barrio de la Ribera. Su colección se centra en la juventud del artista y en su relación con la ciudad, y es una de las mejores para entender cómo evolucionó Picasso desde sus primeros años."
+        - "Reúne obras de su etapa de formación, de su periodo azul y de otras épocas, y sobre todo la serie completa de Las Meninas, una reinterpretación del cuadro de Velázquez que Picasso pintó en 1957. El recorrido permite seguir la evolución del artista antes de llegar a la fama."
+        - "Reserva con antelación, porque las entradas se agotan en temporada alta, y prevé una hora y media de visita. Es un museo pequeño y bien organizado, ideal para combinar con un paseo por el Born y la basílica de Santa María del Mar. Consulta siempre la web oficial para horarios, entradas y condiciones de acceso, que cambian."
+      faq:
+        - p: "¿Qué hay en el Museo Picasso?"
+          r: "Obras de juventud y de distintas etapas de Picasso, además de la serie completa de Las Meninas."
+        - p: "¿Dónde está?"
+          r: "En la calle Montcada, en el barrio de la Ribera, en Barcelona, en cinco palacios medievales."
+        - p: "¿Hay que reservar entrada?"
+          r: "Sí, conviene reservar con antelación, sobre todo en temporada alta."
+        - p: "¿Cuánto dura la visita?"
+          r: "Una hora y media aproximadamente."
+        - p: "¿Qué más ver cerca?"
+          r: "La basílica de Santa María del Mar, el barrio del Born y la catedral."
+boqueria:
+  relacionados: [museo-arte-contemporaneo-macba, catedral-barcelona, museo-picasso-barcelona, mercado-san-miguel]
+  contenido:
+    es:
+      texto:
+        - "La Boqueria, oficialmente Mercat de Sant Josep, es el mercado más famoso de Barcelona y uno de los más conocidos de Europa. Se encuentra en La Rambla y reúne puestos de fruta, verdura, carne, pescado, embutidos, dulces y mucho colorido."
+        - "Además de comprar producto fresco, se puede comer y picar en los bares del mercado, que sirven platos de cocina catalana como huevos con setas, calamares o tortilla. Los puestos de fruta y zumos recién hechos están a la entrada, y los más tradicionales, en el interior."
+        - "Se llena mucho, sobre todo a mediodía, y es una zona con carteristas, así que cuida tus pertenencias. Para comer más auténtico y más barato, evita los puestos de la entrada y adéntrate hacia el interior, o sal a las calles cercanas. Ve a primera hora de la mañana si quieres evitar las multitudes. Consulta siempre la web oficial para horarios, entradas y condiciones de acceso, que cambian."
+      faq:
+        - p: "¿Qué es la Boqueria?"
+          r: "El mercado más famoso de Barcelona, oficialmente Mercat de Sant Josep, situado en La Rambla."
+        - p: "¿Qué se puede comer?"
+          r: "Tapas y platos de cocina catalana en los bares del mercado, además de fruta, zumos, embutidos y dulces."
+        - p: "¿Cuándo es mejor ir?"
+          r: "A primera hora de la mañana, antes de que se llene de gente."
+        - p: "¿Es caro?"
+          r: "Los puestos de la entrada son los más turísticos y caros. Los del interior y de las calles cercanas suelen ser más económicos."
+        - p: "¿Hay peligro de carteristas?"
+          r: "Sí, es una zona muy concurrida. Cuida tus pertenencias."
+teatro-museo-dali:
+  relacionados: [casa-salvador-dali-portlligat, museo-picasso-barcelona, parque-natural-cap-creus]
+  contenido:
+    es:
+      texto:
+        - "El Teatro-Museo Dalí, en Figueres, es el gran museo dedicado a Salvador Dalí, creado por el propio artista en el antiguo teatro municipal de su ciudad natal e inaugurado en 1974. Es una obra de arte en sí misma, un espacio surrealista pensado por Dalí como un único objeto teatral."
+        - "El recorrido incluye una enorme cúpula geodésica, el patio con el Cadillac lluvioso, la Sala Mae West, obras de todas las épocas del artista y la cripta donde está enterrado. Es un museo lleno de sorpresas y detalles, con una colección que va de sus primeras obras a las últimas."
+        - "Figueres está a unas dos horas de Barcelona y a poco más de una de la Costa Brava. Reserva con antelación, porque las entradas se agotan en verano, y combínalo con la Casa de Dalí en Portlligat y el castillo de Púbol para completar el llamado triángulo daliniano. Consulta siempre la web oficial para horarios, entradas y condiciones de acceso, que cambian."
+      faq:
+        - p: "¿Quién creó el Teatro-Museo Dalí?"
+          r: "El propio Salvador Dalí, que lo diseñó en el antiguo teatro municipal de Figueres, inaugurado como museo en 1974."
+        - p: "¿Dónde está enterrado Dalí?"
+          r: "En una cripta del propio Teatro-Museo, en Figueres."
+        - p: "¿Cuánto tiempo se necesita?"
+          r: "Entre dos y tres horas."
+        - p: "¿Hay que reservar entrada?"
+          r: "Sí, conviene reservar con antelación, sobre todo en verano."
+        - p: "¿Qué más ver de Dalí?"
+          r: "La Casa de Dalí en Portlligat (Cadaqués) y el castillo de Púbol, que forman el triángulo daliniano."
+        - p: "¿Cómo llegar desde Barcelona?"
+          r: "En tren o autobús hasta Figueres, en aproximadamente dos horas."
+casa-salvador-dali-portlligat:
+  relacionados: [teatro-museo-dali, parque-natural-cap-creus]
+  contenido:
+    es:
+      texto:
+        - "La Casa de Salvador Dalí en Portlligat, junto a Cadaqués, es la casa donde vivió y trabajó el artista durante gran parte de su vida. Está en una pequeña bahía de la Costa Brava, y se ha mantenido casi igual que cuando vivían Dalí y Gala."
+        - "El recorrido incluye el taller, la biblioteca, el dormitorio, los patios y el jardín con su piscina en forma de falo, además de las obras y los objetos que el artista usaba. Es una visita muy íntima, que permite entender la relación entre Dalí, el paisaje y su obra."
+        - "El acceso es muy limitado: las visitas son en grupos reducidos y con horario fijado, así que reserva con mucha antelación. Cadaqués es un pueblo precioso de casas blancas, con una iglesia que domina la bahía, y está dentro del Parque Natural del Cap de Creus. Consulta siempre la web oficial para horarios, entradas y condiciones de acceso, que cambian."
+      faq:
+        - p: "¿Es difícil conseguir entrada?"
+          r: "El aforo es muy limitado y se visita en grupos con hora fijada, así que reserva con mucha antelación."
+        - p: "¿Qué se puede ver?"
+          r: "El taller, la biblioteca, el dormitorio, los patios y el jardín con la piscina."
+        - p: "¿Cuánto dura la visita?"
+          r: "Es una visita corta, de menos de una hora. Consulta la duración exacta en la web."
+        - p: "¿Cómo llegar?"
+          r: "Desde Cadaqués, en coche o a pie por un sendero costero. Consulta las condiciones de acceso."
+        - p: "¿Qué más ver cerca?"
+          r: "El pueblo de Cadaqués y el Parque Natural del Cap de Creus."
+monasterio-santa-maria-ripoll:
+  relacionados: [monasterio-san-juan-abadesas, parque-natural-zona-volcanica-garrotxa, catedral-barcelona]
+  contenido:
+    es:
+      texto:
+        - "El Monasterio de Santa María de Ripoll es uno de los grandes monumentos del románico catalán y un lugar clave en la historia de Cataluña. Fundado en el siglo IX por Wifredo el Velloso, se le considera cuna de Cataluña y alberga su sepulcro."
+        - "Lo más impresionante es la portada, una obra maestra de la escultura románica del siglo XII, con relieves que narran escenas del Antiguo y el Nuevo Testamento a modo de gran libro de piedra. El claustro, de dos pisos, es otro de los grandes atractivos."
+        - "Ripoll está en el Ripollès, a unos 100 kilómetros de Barcelona, y es una buena excursión de un día que se combina con Sant Joan de les Abadesses. Consulta los horarios de apertura del monasterio y del claustro, y prevé una hora de visita. Consulta siempre la web oficial para horarios, entradas y condiciones de acceso, que cambian."
+      faq:
+        - p: "¿Qué es el Monasterio de Ripoll?"
+          r: "Un monasterio benedictino fundado en el siglo IX, considerado cuna de Cataluña, con una portada románica excepcional."
+        - p: "¿Qué ver?"
+          r: "La portada esculpida del siglo XII, el claustro y la iglesia con el sepulcro de Wifredo el Velloso."
+        - p: "¿Cuánto tiempo se necesita?"
+          r: "Alrededor de una hora."
+        - p: "¿Cómo llegar desde Barcelona?"
+          r: "En tren desde Barcelona hasta Ripoll, o en coche. Consulta los horarios."
+        - p: "¿Qué más ver cerca?"
+          r: "El monasterio de Sant Joan de les Abadesses y la Zona Volcánica de la Garrotxa."
+monasterio-san-juan-abadesas:
+  relacionados: [monasterio-santa-maria-ripoll, parque-natural-zona-volcanica-garrotxa]
+  contenido:
+    es:
+      texto:
+        - "El Monasterio de Sant Joan de les Abadesses es uno de los grandes monumentos del románico catalán. Fundado en el siglo IX, está en el Ripollès y destaca por su iglesia románica y por el Santísimo Misterio, un conjunto escultórico del siglo XIII."
+        - "El Santísimo Misterio es un grupo de madera policromada que representa el Descendimiento de la cruz, una obra de gran expresividad. El monasterio incluye también un claustro gótico, un museo con piezas de orfebrería y textiles y una iglesia de planta basilical."
+        - "El pueblo, con su puente medieval, es muy agradable para pasear y combina bien con Ripoll, a pocos kilómetros. Consulta los horarios de visita del monasterio y prevé una hora. Consulta siempre la web oficial para horarios, entradas y condiciones de acceso, que cambian."
+      faq:
+        - p: "¿Qué es el Santísimo Misterio?"
+          r: "Un conjunto escultórico de madera policromada del siglo XIII que representa el Descendimiento de la cruz."
+        - p: "¿Qué más hay en el monasterio?"
+          r: "Una iglesia románica, un claustro y un museo con piezas de orfebrería y textiles."
+        - p: "¿Cuánto tiempo se necesita?"
+          r: "Alrededor de una hora."
+        - p: "¿Qué más ver cerca?"
+          r: "El monasterio de Santa María de Ripoll, el puente medieval del pueblo y la Garrotxa."
+        - p: "¿Cómo llegar?"
+          r: "En coche desde Ripoll o Barcelona. El transporte público es más limitado; consulta horarios."
+ciudad-artes-ciencias:
+  relacionados: [museo-las-ciencias, lonja-seda, catedral-valencia, fallas]
+  contenido:
+    es:
+      texto:
+        - "La Ciudad de las Artes y las Ciencias es el gran complejo cultural y de ocio de Valencia, un conjunto de edificios futuristas obra de Santiago Calatrava y Félix Candela que se ha convertido en uno de los símbolos de la ciudad. Está en el antiguo cauce del río Turia, hoy un gran jardín."
+        - "Reúne varios espacios: el Hemisfèric, con su cine IMAX y planetario con forma de ojo; el Museu de les Ciències Príncipe Felipe; el Oceanogràfic, uno de los mayores acuarios de Europa; el Palau de les Arts Reina Sofía, dedicado a la ópera; el Ágora y el Umbracle, un paseo con jardines. Cada uno se visita por separado y hay entradas combinadas."
+        - "Aunque se puede pasear por el exterior sin pagar, el interior de los edificios requiere entrada. Si vas con niños, el Oceanogràfic y el Museo de las Ciencias son los más recomendables. Ve en bici o a pie desde el jardín del Turia y evita las horas de más calor. Consulta siempre la web oficial para horarios, entradas y condiciones de acceso, que cambian."
+      faq:
+        - p: "¿Qué incluye la Ciudad de las Artes y las Ciencias?"
+          r: "El Hemisfèric, el Museu de les Ciències, el Oceanogràfic, el Palau de les Arts, el Ágora y el Umbracle."
+        - p: "¿Se puede entrar gratis?"
+          r: "Se puede pasear por el exterior, pero el acceso a los edificios requiere entrada. Consulta siempre la web oficial para horarios, entradas y condiciones de acceso, que cambian."
+        - p: "¿Qué ver si tengo poco tiempo?"
+          r: "Un paseo por el exterior para ver la arquitectura y, si hay tiempo, el Oceanogràfic o el Museo de las Ciencias."
+        - p: "¿Es buen plan con niños?"
+          r: "Sí, el Oceanogràfic y el Museo de las Ciencias están muy pensados para las familias."
+        - p: "¿Cómo llegar?"
+          r: "En metro, tranvía o autobús, o a pie y en bici por el jardín del Turia."
+        - p: "¿Hay entradas combinadas?"
+          r: "Sí, existen entradas combinadas para varios espacios. Consulta las opciones en la web oficial."
+museo-las-ciencias:
+  relacionados: [ciudad-artes-ciencias, instituto-valenciano-arte-moderno-ivam, lonja-seda]
+  contenido:
+    es:
+      texto:
+        - "El Museo de las Ciencias Príncipe Felipe, dentro de la Ciudad de las Artes y las Ciencias, es un museo interactivo pensado para tocar, experimentar y aprender. Su lema, prohibido no tocar, resume su filosofía: aquí la ciencia se explica a través de exhibiciones y experimentos."
+        - "Ocupa un gran edificio de Calatrava con forma de esqueleto de ballena. Incluye exposiciones permanentes dedicadas a la genética, la física, la geología o el cuerpo humano, además de exposiciones temporales y espacios de juego para los más pequeños."
+        - "Es uno de los mejores museos de España para ir con niños, y también interesa a los adultos. Prevé entre dos y tres horas de visita y consulta si hay talleres o actividades. Consulta siempre la web oficial para horarios, entradas y condiciones de acceso, que cambian."
+      faq:
+        - p: "¿Qué es el Museo de las Ciencias?"
+          r: "Un museo interactivo en el que se puede tocar y experimentar, dentro de la Ciudad de las Artes y las Ciencias."
+        - p: "¿Es buen plan con niños?"
+          r: "Sí, es uno de los mejores museos de España para familias."
+        - p: "¿Cuánto tiempo se necesita?"
+          r: "Entre dos y tres horas."
+        - p: "¿Qué ver?"
+          r: "Exposiciones sobre el cuerpo humano, la genética, la física y la geología, además de exposiciones temporales."
+        - p: "¿Hay entradas combinadas?"
+          r: "Sí, se puede combinar con otros espacios de la Ciudad de las Artes y las Ciencias."
+lonja-seda:
+  relacionados: [catedral-valencia, miguelete, palacio-generalitat, ciudad-artes-ciencias]
+  contenido:
+    es:
+      texto:
+        - "La Lonja de la Seda es uno de los grandes monumentos del gótico civil europeo y Patrimonio Mundial de la UNESCO desde 1996. Se construyó entre los siglos XV y XVI como sede de las transacciones mercantiles de la seda, en la época de mayor esplendor de Valencia."
+        - "Lo más espectacular es la Sala de Contratación, una gran nave con columnas helicoidales que se abren como palmeras hasta formar bóvedas. Además, el edificio tiene un patio de naranjos, una torre y un salón del Consulado del Mar, con un techo de madera policromada."
+        - "Es una visita corta, de una hora aproximadamente, y está en el centro, junto al Mercado Central. Combínala con la catedral y el Miguelete. Consulta siempre la web oficial para horarios, entradas y condiciones de acceso, que cambian."
+      faq:
+        - p: "¿Qué es la Lonja de la Seda?"
+          r: "Un edificio gótico civil del siglo XV, antigua sede de las transacciones de la seda, declarado Patrimonio Mundial."
+        - p: "¿Qué ver?"
+          r: "La Sala de Contratación con sus columnas helicoidales, el patio de naranjos y el salón del Consulado del Mar."
+        - p: "¿Cuánto tiempo se necesita?"
+          r: "Alrededor de una hora."
+        - p: "¿Dónde está?"
+          r: "En el centro de Valencia, junto al Mercado Central."
+        - p: "¿Es Patrimonio Mundial?"
+          r: "Sí, desde 1996, declarada por la UNESCO."
+catedral-valencia:
+  relacionados: [miguelete, lonja-seda, palacio-generalitat]
+  contenido:
+    es:
+      texto:
+        - "La Catedral de Valencia es un templo gótico con elementos románicos, renacentistas y barrocos que reflejan siglos de historia. Está en pleno centro, junto a la plaza de la Virgen, y es el gran templo de la ciudad."
+        - "Guarda en su capilla del Santo Cáliz una copa que la tradición considera el Santo Grial, un objeto de gran devoción. También destacan sus puertas, como la de los Apóstoles, donde los jueves a mediodía se reúne el Tribunal de las Aguas, la institución más antigua de Europa que sigue en funcionamiento. Además, se puede subir al Miguelete, su torre campanario."
+        - "Respeta el carácter religioso del edificio y la vestimenta adecuada. Consulta los horarios de visita, porque algunas zonas se cierran durante el culto. Consulta siempre la web oficial para horarios, entradas y condiciones de acceso, que cambian."
+      faq:
+        - p: "¿Qué es el Santo Cáliz?"
+          r: "Una copa que la tradición considera el Santo Grial y que se venera en una capilla de la catedral."
+        - p: "¿Qué es el Tribunal de las Aguas?"
+          r: "Una institución medieval que resuelve cada jueves a mediodía los conflictos de riego de la huerta, ante la puerta de los Apóstoles."
+        - p: "¿Se puede subir a la torre?"
+          r: "Sí, al Miguelete, la torre campanario. Consulta las condiciones de acceso."
+        - p: "¿Es gratis?"
+          r: "Hay una entrada para el recorrido turístico. Consulta siempre la web oficial para horarios, entradas y condiciones de acceso, que cambian."
+        - p: "¿Qué ropa llevar?"
+          r: "Ropa discreta, con hombros y rodillas cubiertos, por respeto al carácter religioso del edificio."
+miguelete:
+  relacionados: [catedral-valencia, lonja-seda, palacio-generalitat]
+  contenido:
+    es:
+      texto:
+        - "El Miguelete es la torre campanario de la Catedral de Valencia, uno de los símbolos de la ciudad. Es una torre gótica octogonal de unos 50 metros de altura y su nombre procede de la campana de San Miguel, que se colocó en el siglo XV."
+        - "Subir es una de las visitas más populares de Valencia. Hay más de doscientos escalones de caracol, con tramos estrechos, hasta llegar a la terraza, donde las vistas de los tejados, las calles y el casco antiguo son magníficas. Desde arriba se aprecia bien la forma del casco histórico."
+        - "La escalera es estrecha y se hace a pie: no es apta para personas con movilidad reducida ni recomendable si tienes vértigo o claustrofobia. Evita las horas de más calor y compra la entrada con antelación si puedes. Consulta siempre la web oficial para horarios, entradas y condiciones de acceso, que cambian."
+      faq:
+        - p: "¿Cuántos escalones tiene?"
+          r: "Más de doscientos, en una escalera de caracol estrecha."
+        - p: "¿Merece la pena subir?"
+          r: "Sí, las vistas del casco antiguo y de la ciudad desde la terraza son de las mejores de Valencia."
+        - p: "¿Es apto para todo el mundo?"
+          r: "No. La escalera es estrecha y no es adecuada para personas con movilidad reducida, vértigo o claustrofobia."
+        - p: "¿Cuánto tiempo se necesita?"
+          r: "Unos 30-45 minutos entre subida, vistas y bajada."
+        - p: "¿Cuándo es mejor ir?"
+          r: "A primera hora o al atardecer, para evitar el calor y las colas."
+palacio-generalitat:
+  relacionados: [catedral-valencia, lonja-seda, miguelete]
+  contenido:
+    es:
+      texto:
+        - "El Palacio de la Generalitat es la sede del gobierno autonómico valenciano y un excelente ejemplo del gótico civil valenciano. Se construyó entre los siglos XV y XVI, y su fachada, con una galería y una torre, es una de las más reconocibles del centro de Valencia."
+        - "Por dentro destacan el Salón de Cortes, con un techo de madera dorada y policromada, y el patio gótico con una escalera de piedra. El edificio conserva pinturas, tapices y objetos históricos que cuentan la historia de las instituciones valencianas."
+        - "Se puede visitar con visitas guiadas en determinados días y con reserva, normalmente gratuitas. Consulta los horarios con antelación, porque cambian. Está en la plaza de Manises, junto a la catedral. Consulta siempre la web oficial para horarios, entradas y condiciones de acceso, que cambian."
+      faq:
+        - p: "¿Qué es el Palacio de la Generalitat?"
+          r: "La sede del gobierno autonómico valenciano, en un edificio gótico de los siglos XV y XVI."
+        - p: "¿Se puede visitar?"
+          r: "Sí, con visitas guiadas en determinados días y con reserva. Consulta la web oficial."
+        - p: "¿Qué ver?"
+          r: "El Salón de Cortes con su techo dorado, el patio gótico y la escalera de piedra."
+        - p: "¿Es gratis?"
+          r: "Las visitas suelen ser gratuitas, pero conviene confirmarlo y reservar. Consulta siempre la web oficial para horarios, entradas y condiciones de acceso, que cambian."
+        - p: "¿Dónde está?"
+          r: "En la plaza de Manises, junto a la catedral, en el centro de Valencia."
+palau-musica-valencia:
+  relacionados: [ciudad-artes-ciencias, instituto-valenciano-arte-moderno-ivam, estacion-norte]
+  contenido:
+    es:
+      texto:
+        - "El Palau de la Música de València es una gran sala de conciertos situada en los jardines del antiguo cauce del Turia, inaugurada en 1987. Es sede de orquestas y de una programación de música clásica, ópera, jazz y música popular, y un lugar de referencia de la vida cultural de la ciudad."
+        - "El edificio, de líneas contemporáneas, destaca por su gran cúpula de cristal y por los jardines que lo rodean. La sala principal tiene una acústica muy cuidada y acoge conciertos de la Orquesta de Valencia y de grandes artistas nacionales e internacionales."
+        - "Lo mejor es consultar la programación y asistir a un concierto. El entorno, con el jardín del Turia, es perfecto para pasear antes o después. Consulta siempre la web oficial para horarios, entradas y condiciones de acceso, que cambian."
+      faq:
+        - p: "¿Qué es el Palau de la Música?"
+          r: "Una sala de conciertos en el jardín del Turia, inaugurada en 1987."
+        - p: "¿Qué se puede ver?"
+          r: "Conciertos de música clásica, ópera, jazz y otros géneros. Consulta la programación."
+        - p: "¿Dónde está?"
+          r: "En los jardines del antiguo cauce del Turia, en Valencia."
+        - p: "¿Se puede visitar sin concierto?"
+          r: "Depende de la programación y de las visitas organizadas. Consulta la web oficial."
+        - p: "¿Qué más hacer cerca?"
+          r: "Pasear por el jardín del Turia y visitar el Museo de Bellas Artes o los Jardines de Viveros."
+instituto-valenciano-arte-moderno-ivam:
+  relacionados: [museo-las-ciencias, ciudad-artes-ciencias, palau-musica-valencia]
+  contenido:
+    es:
+      texto:
+        - "El IVAM, Instituto Valenciano de Arte Moderno, es el gran museo de arte moderno y contemporáneo de la Comunidad Valenciana. Fue inaugurado en 1989 y su colección parte de la obra del escultor Julio González, con un fondo importante de arte del siglo XX."
+        - "Su colección permanente incluye obras de Julio González, vanguardias españolas y europeas, fotografía y artistas contemporáneos, además de un programa de exposiciones temporales que cambia con frecuencia. Es un museo pensado para recorrer con calma."
+        - "Prevé entre una hora y media y dos de visita, y consulta la programación de exposiciones temporales antes de ir, porque a veces son el atractivo principal. Consulta siempre la web oficial para horarios, entradas y condiciones de acceso, que cambian."
+      faq:
+        - p: "¿Qué hay en el IVAM?"
+          r: "Arte moderno y contemporáneo, con una colección centrada en Julio González y vanguardias del siglo XX, además de exposiciones temporales."
+        - p: "¿Quién fue Julio González?"
+          r: "Un escultor español, pionero de la escultura en hierro, cuya obra es la base de la colección."
+        - p: "¿Cuánto tiempo se necesita?"
+          r: "Entre una hora y media y dos horas."
+        - p: "¿Hay exposiciones temporales?"
+          r: "Sí, el museo programa varias al año. Consulta la web."
+        - p: "¿Dónde está?"
+          r: "En el centro de Valencia, junto al antiguo cauce del Turia."
+estacion-norte:
+  relacionados: [lonja-seda, catedral-valencia, palacio-generalitat]
+  contenido:
+    es:
+      texto:
+        - "La Estación del Norte de Valencia es una estación ferroviaria modernista inaugurada en 1917, una de las más bellas de España. Su fachada, decorada con motivos de naranjas, flores y mosaicos, la convierte en un monumento en sí misma, junto a la plaza de toros y al ayuntamiento."
+        - "Por dentro destacan el vestíbulo, con mosaicos cerámicos y marquetería, y las taquillas de madera tallada, que conservan el aire de la época. Aunque es una estación en activo, se puede visitar sin necesidad de viajar y merece una parada breve."
+        - "Es una visita rápida, de unos 15 o 20 minutos, que se combina bien con un paseo por el centro, la plaza del Ayuntamiento y la Plaza de Toros. Si llegas en tren, aprovecha para verla con calma. Consulta siempre la web oficial para horarios, entradas y condiciones de acceso, que cambian."
+      faq:
+        - p: "¿Qué es la Estación del Norte?"
+          r: "La principal estación de Valencia, un edificio modernista inaugurado en 1917."
+        - p: "¿Se puede visitar sin viajar?"
+          r: "Sí, el vestíbulo y las taquillas se pueden ver sin billete."
+        - p: "¿Qué ver?"
+          r: "La fachada con motivos de naranjas y flores, el vestíbulo con mosaicos cerámicos y las taquillas de madera."
+        - p: "¿Cuánto tiempo se necesita?"
+          r: "Unos 15-20 minutos."
+        - p: "¿Qué hay cerca?"
+          r: "La plaza del Ayuntamiento, la plaza de Toros y el centro histórico."
+castillo-santa-barbara:
+  relacionados: [palmeral, san-juan, castillo-peniscola]
+  contenido:
+    es:
+      texto:
+        - "El Castillo de Santa Bárbara domina Alicante desde lo alto del monte Benacantil y es el gran mirador de la ciudad. Es una fortaleza medieval con siglos de historia, que fue ampliada en distintas épocas y que ofrece unas vistas espectaculares de la bahía, el puerto y la costa."
+        - "Se puede subir a pie por un sendero o en coche, y también en un ascensor desde la playa del Postiguet. El recorrido incluye patios, murallas, salas y un pequeño museo que explica la historia del castillo y de la ciudad. Al atardecer, la luz sobre la bahía es especialmente bonita."
+        - "Lleva calzado cómodo, agua y protección solar, porque en verano hace mucho calor y hay poca sombra. Prevé entre una hora y dos de visita. Consulta las condiciones de acceso y si hay entrada. Consulta siempre la web oficial para horarios, entradas y condiciones de acceso, que cambian."
+      faq:
+        - p: "¿Cómo se sube al castillo?"
+          r: "A pie por un sendero, en coche o en ascensor desde la playa del Postiguet."
+        - p: "¿Es gratis?"
+          r: "Consulta las condiciones de acceso en la web oficial, porque pueden cambiar."
+        - p: "¿Cuánto tiempo se necesita?"
+          r: "Entre una y dos horas, según lo que veas."
+        - p: "¿Cuándo es mejor ir?"
+          r: "Al atardecer, para evitar el calor y ver la ciudad con la mejor luz."
+        - p: "¿Qué ropa y calzado llevar?"
+          r: "Calzado cómodo, gorra, agua y protección solar, sobre todo en verano."
+        - p: "¿Es buen plan con niños?"
+          r: "Sí, aunque hay cuestas y escaleras. El ascensor facilita el acceso."
+palmeral:
+  relacionados: [castillo-santa-barbara, castillo-peniscola, catedral-segorbe]
+  contenido:
+    es:
+      texto:
+        - "El Palmeral de Elche es el mayor palmeral de Europa y un paisaje único, Patrimonio Mundial de la UNESCO desde el año 2000. Creado en época andalusí con un sistema de riego, reúne a decenas de miles de palmeras datileras que forman un bosque de huertos urbanos."
+        - "Dentro del palmeral hay lugares muy visitados, como el Huerto del Cura, un jardín con la palmera imperial, y otras zonas con senderos, estanques y acequias. Elche también es famosa por el Misteri d'Elx, una representación religiosa medieval que se celebra cada agosto, declarada Patrimonio Inmaterial."
+        - "Lo mejor es recorrerlo a pie, con calma y a primera hora o al atardecer, evitando las horas de más calor. Lleva agua y protección solar, y consulta las visitas guiadas y las entradas del Huerto del Cura. Consulta siempre la web oficial para horarios, entradas y condiciones de acceso, que cambian."
+      faq:
+        - p: "¿Qué es el Palmeral de Elche?"
+          r: "El mayor palmeral de Europa, creado en época andalusí y Patrimonio Mundial de la UNESCO."
+        - p: "¿Qué es el Huerto del Cura?"
+          r: "Un jardín dentro del palmeral, con una palmera imperial y otras especies de plantas."
+        - p: "¿Qué es el Misteri d'Elx?"
+          r: "Una representación religiosa medieval que se celebra en agosto en Elche, declarada Patrimonio Inmaterial."
+        - p: "¿Cuándo es mejor ir?"
+          r: "A primera hora o al atardecer, para evitar el calor."
+        - p: "¿Es gratis?"
+          r: "Hay zonas de acceso libre y espacios de pago, como el Huerto del Cura. Consulta siempre la web oficial para horarios, entradas y condiciones de acceso, que cambian."
+castillo-peniscola:
+  relacionados: [castillo-santa-barbara, palmeral, catedral-segorbe]
+  contenido:
+    es:
+      texto:
+        - "El Castillo de Peñíscola es una fortaleza templaria del siglo XIII que se alza sobre un peñón que entra en el Mediterráneo y es uno de los castillos más fotogénicos de España. Fue residencia del papa Luna, Benedicto XIII, durante el cisma de Occidente, y ha servido de escenario de series y películas."
+        - "La visita recorre patios, salones, la iglesia, los jardines y el torreón con vistas, con una exposición sobre su historia. El casco antiguo de Peñíscola, de calles estrechas y casas blancas, rodea el castillo y se recorre en un paseo agradable, con tiendas y bares."
+        - "Evita las horas de calor en verano y prevé una hora y media de visita. Lleva calzado cómodo, porque hay escaleras y cuestas, y consulta si hay visitas guiadas o nocturnas. Consulta siempre la web oficial para horarios, entradas y condiciones de acceso, que cambian."
+      faq:
+        - p: "¿Quién fue el papa Luna?"
+          r: "Benedicto XIII, que vivió en el castillo de Peñíscola durante el cisma de Occidente."
+        - p: "¿Qué ver?"
+          r: "Los patios, la iglesia, los salones, los jardines y las vistas del Mediterráneo desde las torres."
+        - p: "¿Cuánto tiempo se necesita?"
+          r: "Alrededor de una hora y media."
+        - p: "¿Cuándo es mejor ir?"
+          r: "A primera hora o al atardecer, para evitar el calor y las aglomeraciones."
+        - p: "¿Es buen plan con niños?"
+          r: "Sí, aunque hay escaleras y cuestas. Les suele gustar por su aspecto de fortaleza."
+catedral-segorbe:
+  relacionados: [castillo-peniscola, palmeral, catedral-valencia]
+  contenido:
+    es:
+      texto:
+        - "La Catedral de Segorbe es el gran templo de esta ciudad del interior de Castellón, sede episcopal de la diócesis de Segorbe-Castellón. Un edificio de origen gótico, con añadidos posteriores, que conserva su claustro y un importante museo catedralicio."
+        - "El museo reúne retablos, tallas, orfebrería y otras piezas de arte sacro de gran valor, y permite conocer la historia religiosa y artística de la ciudad. El claustro y las capillas completan la visita, en un ambiente tranquilo y poco masificado."
+        - "Segorbe es una buena excursión desde Valencia o Castellón, con un casco antiguo bien conservado y una gastronomía con productos de la sierra. Consulta los horarios de visita, que suelen ser limitados. Consulta siempre la web oficial para horarios, entradas y condiciones de acceso, que cambian."
+      faq:
+        - p: "¿Qué es la Catedral de Segorbe?"
+          r: "La catedral de la diócesis de Segorbe-Castellón, un edificio de origen gótico con museo catedralicio."
+        - p: "¿Qué ver?"
+          r: "El museo catedralicio, el claustro y las capillas."
+        - p: "¿Dónde está?"
+          r: "En Segorbe, en el interior de Castellón, a unos 60 kilómetros de Valencia."
+        - p: "¿Cuánto tiempo se necesita?"
+          r: "Alrededor de una hora."
+        - p: "¿Qué más ver en Segorbe?"
+          r: "El casco antiguo, las murallas y los paisajes de la sierra Espadán."
