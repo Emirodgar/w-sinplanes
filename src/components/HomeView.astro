@@ -6,8 +6,9 @@ import SearchBox from './SearchBox.astro';
 import CineWidget from './CineWidget.astro';
 import DailyPick from './DailyPick.astro';
 import MatchToday from './MatchToday.astro';
+import TodayIn from './TodayIn.astro';
 import { t, url, monthName, HREFLANG, INTL_LOCALE } from '../i18n/ui.js';
-import { TODAY, currentMonth, seasonalFor, upcoming, within, overlaps, weekendRange, topicById, fmtDay, cap, ptitle, psummary, textLang, trending, boost, inLang } from '../lib/data.js';
+import { TODAY, currentMonth, seasonalFor, upcoming, within, overlaps, weekendRange, span, isCourse, topicById, fmtDay, cap, ptitle, psummary, textLang, trending, boost, inLang } from '../lib/data.js';
 
 const { lang } = Astro.props;
 const L = t[lang];
@@ -16,12 +17,13 @@ const [wFrom, wTo] = weekendRange();
 const local = inLang(upcoming(), lang).filter((p) => p.kind === 'evento');
 
 const season = boost(inLang(seasonalFor(m), lang)).slice(0, 5);
-// Un plan de "este finde" no puede durar meses: las exposiciones de todo el año no son un plan para el sábado.
-const span = (p) => (new Date((p.end || p.start) + 'T12:00:00Z') - new Date(p.start + 'T12:00:00Z')) / 864e5;
-const weekend = boost(local.filter((p) => overlaps(p, wFrom, wTo) && span(p) <= 14)).slice(0, 5);
+// Un plan de "este finde" no puede durar meses ni ser un curso: las exposiciones de todo el año no son un plan para el sábado.
+// Los widgets "Gratis" y "Con niños" aplican el mismo criterio (con más margen) para no repetir los planes permanentes de siempre.
+const weekend = boost(local.filter((p) => overlaps(p, wFrom, wTo) && span(p) <= 14 && !isCourse(p))).slice(0, 5);
 const watch = boost(inLang(upcoming(), lang).filter((p) => p.kind === 'pantalla')).slice(0, 5);
-const free = inLang(within(21), lang).filter((p) => p.free).slice(0, 5);
-const kids = inLang(within(30), lang).filter((p) => p.topics?.includes('ninos')).slice(0, 5);
+const fresh = (p) => span(p) <= 45 && !isCourse(p);
+const free = inLang(within(21), lang).filter((p) => p.free && fresh(p)).slice(0, 5);
+const kids = inLang(within(30), lang).filter((p) => p.topics?.includes('ninos') && fresh(p)).slice(0, 5);
 const trend = inLang(trending(30), lang).slice(0, 5);
 const next = inLang(upcoming(), lang).filter((p) => p.recurring && p.kind === 'evento').slice(0, 5);
 
@@ -52,6 +54,8 @@ const jsonld = {
       } catch (e) {}
     })();
   </script>
+
+  <TodayIn lang={lang} />
 
   <SearchBox lang={lang} mode="index" />
 

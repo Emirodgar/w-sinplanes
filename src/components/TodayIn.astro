@@ -1,0 +1,245 @@
+---
+// Bloque "Hoy en [ciudad]": el visitante elige su provincia (o la deduce el navegador) y ve qué hay hoy, mañana o el fin de semana,
+// con la previsión de lluvia (Open-Meteo, sin clave) para poner primero lo que es a cubierto. Se filtra en el navegador sobre los planes
+// de los próximos días que se incrustan aquí; la provincia elegida se recuerda en localStorage.
+import { t, url, INTL_LOCALE } from '../i18n/ui.js';
+import { plans, TODAY, geo, slugify, isDated, isCourse, span, ptitle, inLang } from '../lib/data.js';
+
+const { lang } = Astro.props;
+const L = t[lang];
+const S = L.today;
+
+const addDays = (iso, n) => { const d = new Date(iso + 'T12:00:00Z'); d.setUTCDate(d.getUTCDate() + n); return d.toISOString().slice(0, 10); };
+// Margen de un día por detrás por si el despliegue diario se retrasa: el navegador filtra con la fecha real de Madrid.
+const from = addDays(TODAY, -1);
+const horizon = addDays(TODAY, 10);
+// Para que la página no engorde con Madrid (la mitad de la agenda), de cada provincia se guardan los mejores PER_DAY planes de cada día.
+const PER_DAY = 8;
+const days = Array.from({ length: 12 }, (_, i) => addDays(from, i));
+
+const pool = inLang(plans, lang).filter((p) =>
+  p.kind === 'evento' && isDated(p) && !isCourse(p) && span(p) <= 120 && p.start <= horizon && (p.end || p.start) >= from);
+
+const rank = (a, b) => ((span(a) <= 3 ? 0 : 1) - (span(b) <= 3 ? 0 : 1)) || ((b.trend || 0) - (a.trend || 0)) || a.start.localeCompare(b.start);
+const groups = new Map();
+for (const p of [...pool].sort(rank)) {
+  const key = (p.place?.scope === 'local' && p.place.provincia) || '';
+  if (!groups.has(key)) groups.set(key, []);
+  groups.get(key).push(p);
+}
+const chosen = new Set();
+for (const list of groups.values()) {
+  for (const day of days) {
+    let n = 0;
+    for (const p of list) {
+      if (p.start > day || (p.end || p.start) < day) continue;
+      chosen.add(p);
+      if (++n >= PER_DAY) break;
+    }
+  }
+}
+const items = [];
+for (const p of pool.filter((x) => chosen.has(x)).sort(rank)) {
+  const local = p.place?.scope === 'local' && p.place.provincia;
+  const it = { t: ptitle(p, lang), u: url.plan(lang, p.slug), s: p.start, e: p.end || p.start, d: span(p) };
+  if (local) { it.pr = p.place.provincia; if (p.place.municipio) it.mu = p.place.municipio; } else it.n = 1;
+  if (p.time) it.h = p.time;
+  if (p.indoor === true) it.i = 1; else if (p.indoor === false) it.i = 0;
+  if (p.free) it.f = 1;
+  if (p.topics?.includes('ninos')) it.k = 1;
+  items.push(it);
+}
+
+// Provincias con planes: centro aproximado (media de sus coordenadas), enlace a su página y nº de planes.
+const ccaaOf = new Map(geo.flatMap((c) => c.provincias.map((pv) => [pv, c.slug])));
+const provs = {};
+for (const p of pool) {
+  const pv = p.place?.scope === 'local' && p.place.provincia;
+  if (!pv) continue;
+  const o = (provs[pv] ||= { la: 0, lo: 0, c: 0, k: 0, ccaa: p.place.ccaa || ccaaOf.get(pv) });
+  o.k++;
+  if (p.place.lat && p.place.lon) { o.la += p.place.lat; o.lo += p.place.lon; o.c++; }
+}
+for (const [pv, o] of Object.entries(provs)) {
+  const slug = ccaaOf.get(pv) || o.ccaa;
+  provs[pv] = { la: o.c ? +(o.la / o.c).toFixed(3) : null, lo: o.c ? +(o.lo / o.c).toFixed(3) : null, k: o.k, h: slug ? url.province(lang, slug, slugify(pv)) : null };
+}
+
+const data = { items, provs, loc: INTL_LOCALE[lang], today: TODAY, s: { ...S, indoor: L.indoor, free: L.free_, denied: L.nearDenied, loading: L.nearLoading } };
+---
+<section class="today" data-search-hide aria-labelledby="today-h">
+  <h2 id="today-h">{S.heading}</h2>
+  <p class="muted" id="today-intro">{S.intro}</p>
+
+  <div class="today-controls">
+    <label class="sr-only" for="today-city">{S.cityLabel}</label>
+    <select id="today-city" disabled></select>
+    <button class="button button--ghost" type="button" id="today-geo">{L.nearButton}</button>
+  </div>
+  <div class="today-quick" id="today-quick" role="group" aria-label={S.quick}></div>
+
+  <div id="today-panel" hidden>
+    <div class="today-filters" role="group" aria-label={S.filters}>
+      <button class="chip" type="button" data-day="today" aria-pressed="true">{S.dayToday}</button>
+      <button class="chip" type="button" data-day="tomorrow" aria-pressed="false">{S.dayTomorrow}</button>
+      <button class="chip" type="button" data-day="weekend" aria-pressed="false">{S.dayWeekend}</button>
+      <span class="sep" aria-hidden="true"></span>
+      <button class="chip" type="button" data-flag="f" aria-pressed="false">{L.free_}</button>
+      <button class="chip" type="button" data-flag="k" aria-pressed="false">{S.kids}</button>
+      <button class="chip" type="button" data-flag="i" aria-pressed="false">{S.indoor}</button>
+    </div>
+    <p class="notice" id="today-wx" hidden></p>
+    <div id="today-out" aria-live="polite"></div>
+    <div class="today-actions">
+      <button class="button" type="button" id="today-surprise">{S.surprise}</button>
+      <a class="more-link" id="today-more" href="#" hidden></a>
+    </div>
+  </div>
+  <script type="application/json" id="today-data" set:html={JSON.stringify(data)} />
+  <noscript><p class="muted">{S.noscript}</p></noscript>
+</section>
+
+<script>
+  const data = JSON.parse(document.getElementById('today-data').textContent);
+  const { items, provs, loc, s } = data;
+  const $ = (id) => document.getElementById(id);
+  const esc = (x) => String(x ?? '').replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
+  const store = {
+    get: (k) => { try { return localStorage.getItem(k); } catch { return null; } },
+    set: (k, v) => { try { localStorage.setItem(k, v); } catch { /* sin almacenamiento, seguimos */ } },
+  };
+  const addDays = (iso, n) => { const d = new Date(iso + 'T12:00:00Z'); d.setUTCDate(d.getUTCDate() + n); return d.toISOString().slice(0, 10); };
+  // La fecha de hoy se toma en el navegador (Madrid): si el despliegue diario se retrasa, la web no se queda anclada al día anterior.
+  const todayIso = () => { try { return new Date().toLocaleDateString('sv-SE', { timeZone: 'Europe/Madrid' }); } catch { return data.today; } };
+  const range = (day, t0) => {
+    if (day === 'today') return [t0, t0];
+    if (day === 'tomorrow') { const x = addDays(t0, 1); return [x, x]; }
+    const d = new Date(t0 + 'T12:00:00Z').getUTCDay(); // misma regla que weekendRange() del servidor
+    if (d === 0) return [t0, t0];
+    if (d >= 5) return [t0, addDays(t0, 7 - d)];
+    return [addDays(t0, 5 - d), addDays(t0, 7 - d)];
+  };
+  const fmt = (iso, year) => new Intl.DateTimeFormat(loc, { day: 'numeric', month: 'short', ...(year ? { year: 'numeric' } : {}), timeZone: 'UTC' }).format(new Date(iso + 'T12:00:00Z'));
+
+  const select = $('today-city');
+  const state = { city: null, day: 'today', f: false, k: false, i: false, pick: null };
+  const names = Object.keys(provs).sort((a, b) => a.localeCompare(b, 'es'));
+  select.innerHTML = `<option value="">${esc(s.cityPlaceholder)}</option>` + names.map((n) => `<option value="${esc(n)}">${esc(n)}</option>`).join('');
+  select.disabled = false;
+  $('today-quick').innerHTML = [...names].sort((a, b) => provs[b].k - provs[a].k).slice(0, 6).map((n) => `<button class="chip" type="button" data-city="${esc(n)}">${esc(n)}</button>`).join('');
+
+  // Previsión por provincia (centro aproximado de sus planes). Se pide una vez y se reutiliza.
+  const wx = {};
+  const forecast = (city) => {
+    const p = provs[city];
+    if (!p || p.la == null) return Promise.resolve(null);
+    return (wx[city] ||= fetch(`https://api.open-meteo.com/v1/forecast?latitude=${p.la}&longitude=${p.lo}&daily=precipitation_probability_max,temperature_2m_max&timezone=Europe%2FMadrid&forecast_days=7`)
+      .then((r) => r.json()).then((j) => j.daily || null).catch(() => null));
+  };
+
+  const dist = (a, b, c, d) => {
+    const r = Math.PI / 180, x = Math.sin(((c - a) * r) / 2) ** 2 + Math.cos(a * r) * Math.cos(c * r) * Math.sin(((d - b) * r) / 2) ** 2;
+    return 12742 * Math.asin(Math.sqrt(x));
+  };
+
+  const matches = (rain) => {
+    const t0 = todayIso();
+    const [from, to] = range(state.day, t0);
+    // Hoy no se ofrece lo que empezó hace más de una hora (solo planes de un día con hora).
+    let now = '';
+    try { now = new Date(Date.now() - 36e5).toLocaleTimeString('en-GB', { timeZone: 'Europe/Madrid', hour: '2-digit', minute: '2-digit' }); } catch { /* sin hora, no se filtra */ }
+    const started = (x) => state.day === 'today' && x.d === 0 && x.h && now && x.h < now;
+    return items
+      .filter((x) => (x.n || x.pr === state.city) && x.s <= to && x.e >= from && !started(x) && (!state.f || x.f) && (!state.k || x.k) && (!state.i || x.i === 1))
+      .sort((a, b) =>
+        ((a.n ? 1 : 0) - (b.n ? 1 : 0)) ||
+        (rain ? ((b.i === 1) - (a.i === 1)) || ((a.i === 0) - (b.i === 0)) : 0) ||
+        ((a.d > 14 ? 1 : 0) - (b.d > 14 ? 1 : 0)) ||
+        (a.h || '99').localeCompare(b.h || '99') || a.d - b.d);
+  };
+
+  const when = (x) => {
+    if (x.h) return x.h;
+    if (x.d === 0) return '';
+    const yr = x.e.slice(0, 4) !== todayIso().slice(0, 4);
+    return s.until.replace('{d}', fmt(x.e, yr));
+  };
+  const li = (x) => {
+    const meta = [when(x), x.mu && x.mu.toLowerCase() !== state.city.toLowerCase() ? x.mu : '']
+      .filter(Boolean).map((m) => `<span>${esc(m)}</span>`).join('') +
+      (x.f ? `<span class="tag">${esc(s.free)}</span>` : '') + (x.i === 1 ? `<span class="tag">${esc(s.indoor)}</span>` : '');
+    return `<li><a class="title" href="${esc(x.u)}">${esc(x.t)}</a>${meta ? `<span class="plan-meta">${meta}</span>` : ''}</li>`;
+  };
+
+  let seq = 0;
+  async function render() {
+    const mine = ++seq;
+    const city = state.city;
+    $('today-panel').hidden = !city;
+    $('today-quick').hidden = !!city;
+    $('today-intro').hidden = !!city;
+    $('today-h').textContent = city ? s['title_' + state.day].replace('{city}', city) : s.heading;
+    select.value = city || '';
+    if (!city) return;
+    document.querySelectorAll('#today-panel [data-day]').forEach((b) => b.setAttribute('aria-pressed', String(b.dataset.day === state.day)));
+    document.querySelectorAll('#today-panel [data-flag]').forEach((b) => b.setAttribute('aria-pressed', String(state[b.dataset.flag])));
+
+    // Tiempo: si llueve, primero lo que es a cubierto. Si la previsión no llega, se muestra la lista igualmente.
+    const draw = (rain, note) => {
+      const all = matches(rain);
+      const list = state.pick ? [state.pick] : all.slice(0, 5);
+      const wxEl = $('today-wx');
+      wxEl.hidden = !note; wxEl.textContent = note || '';
+      $('today-out').innerHTML = list.length ? `<ul class="plan-list">${list.map(li).join('')}</ul>` : `<p class="empty">${esc(s.empty.replace('{city}', city))}</p>`;
+      $('today-surprise').textContent = state.pick ? s.another : s.surprise;
+      $('today-surprise').hidden = all.length < 2 && !state.pick;
+      $('today-surprise').dataset.n = String(all.length);
+      const more = $('today-more');
+      more.hidden = !provs[city].h;
+      if (provs[city].h) { more.href = provs[city].h; more.textContent = s.more.replace('{city}', city); }
+    };
+    draw(false, '');
+    const daily = await forecast(city);
+    if (mine !== seq || !daily) return;
+    const i = daily.time.indexOf(range(state.day, todayIso())[0]);
+    if (i < 0) return;
+    const p = daily.precipitation_probability_max[i] ?? 0, tmax = Math.round(daily.temperature_2m_max[i]);
+    const rain = p >= 60;
+    draw(rain, (rain ? s.rain : s.dry).replace('{p}', String(p)).replace('{t}', String(tmax)));
+  }
+
+  const setCity = (c) => { state.city = c || null; state.pick = null; if (c) store.set('sp-city', c); render(); };
+
+  select.addEventListener('change', () => setCity(select.value));
+  $('today-quick').addEventListener('click', (e) => { const b = e.target.closest('[data-city]'); if (b) setCity(b.dataset.city); });
+  $('today-panel').addEventListener('click', (e) => {
+    const d = e.target.closest('[data-day]'), f = e.target.closest('[data-flag]');
+    if (d) state.day = d.dataset.day;
+    else if (f) state[f.dataset.flag] = !state[f.dataset.flag];
+    else return;
+    state.pick = null; render();
+  });
+  $('today-surprise').addEventListener('click', async () => {
+    const daily = state.city ? await forecast(state.city) : null;
+    const i = daily ? daily.time.indexOf(range(state.day, todayIso())[0]) : -1;
+    const all = matches(i >= 0 && (daily.precipitation_probability_max[i] ?? 0) >= 60);
+    if (!all.length) return;
+    const others = all.filter((x) => x !== state.pick);
+    state.pick = others[Math.floor(Math.random() * others.length)] || all[0];
+    render();
+  });
+  $('today-geo').addEventListener('click', () => {
+    const intro = $('today-intro'); intro.hidden = false;
+    if (!navigator.geolocation) { intro.textContent = s.denied; return; }
+    intro.textContent = s.loading;
+    navigator.geolocation.getCurrentPosition(({ coords }) => {
+      let best = null, bd = Infinity;
+      for (const n of names) { const p = provs[n]; if (p.la == null) continue; const d = dist(coords.latitude, coords.longitude, p.la, p.lo); if (d < bd) { bd = d; best = n; } }
+      // Si la provincia con planes más cercana queda lejos, mejor decirlo que enseñar planes de otra punta de España.
+      if (best && bd <= 150) { intro.textContent = s.intro; setCity(best); } else intro.textContent = s.far;
+    }, () => { intro.textContent = s.denied; }, { timeout: 10000, maximumAge: 600000 });
+  });
+
+  const saved = store.get('sp-city');
+  if (saved && provs[saved]) setCity(saved);
+</script>

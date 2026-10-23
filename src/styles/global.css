@@ -352,3 +352,18 @@ p { margin: 0 0 1em; max-width: var(--measure); }
 .match-links { display: flex; flex-wrap: wrap; justify-content: center; gap: 0.25rem 1.5rem; }
 .match .more { padding-top: 0; margin-top: 0; }
 @media (max-width: 30rem) { .match-side img { width: 44px; height: 44px; } .match-name { font-size: 0.9375rem; } }
+
+/* "Hoy en [ciudad]" (solo portada): selector de provincia, filtros rápidos y resultados */
+.sr-only { position: absolute; width: 1px; height: 1px; margin: -1px; padding: 0; overflow: hidden; clip: rect(0, 0, 0, 0); white-space: nowrap; border: 0; }
+.today { background: var(--surface); border-radius: var(--r-xl); padding: clamp(1.25rem, 3.5vw, 2rem); box-shadow: var(--shadow); margin-bottom: var(--gap); }
+.today h2 { font-size: var(--s2); letter-spacing: -0.035em; margin-bottom: 0.35rem; }
+.today-controls { display: flex; flex-wrap: wrap; gap: 0.5rem; align-items: center; margin-top: 1rem; }
+.today select { font: inherit; min-height: 2.75rem; max-width: 100%; padding: 0.5rem 1rem; border: 0; border-radius: 999px; background: var(--canvas); box-shadow: 0 0 0 1px var(--line); color: var(--ink); }
+.today-quick, .today-filters { display: flex; flex-wrap: wrap; gap: 0.5rem; margin-top: 0.75rem; }
+.today-filters { margin: 1rem 0; }
+.today-filters .sep { width: 1px; background: var(--line); margin: 0.25rem 0.25rem; }
+.today .notice { margin: 0 0 1rem; }
+.today-actions { display: flex; flex-wrap: wrap; align-items: center; gap: 0.75rem 1.25rem; margin-top: 1.1rem; }
+.today-actions .more-link { font-size: 0.9375rem; font-weight: 500; text-decoration: none; }
+.today-actions .more-link::after { content: ' ›'; }
+.today-actions .more-link:hover { text-decoration: underline; }

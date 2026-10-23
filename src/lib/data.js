@@ -16,6 +16,10 @@ export const isPlace = (p) => p.kind === 'lugar'; // museo, monumento…: sin fe
 export const isDated = (p) => p.kind !== 'estacional' && !isPlace(p);
 export const upcoming = (list = plans) => list.filter((p) => isDated(p) && !isPast(p));
 export const overlaps = (p, from, to) => p.start <= to && (p.end || p.start) >= from;
+/** Días que dura un plan (0 = un solo día). Las exposiciones y ciclos de todo el año no son un plan para "este sábado". */
+export const span = (p) => (new Date((p.end || p.start) + 'T12:00:00Z') - new Date(p.start + 'T12:00:00Z')) / 864e5;
+/** Cursos, clases y formación: salen en las agendas municipales pero no son un plan para quien se aburre. */
+export const isCourse = (p) => /^(cursos?|cursillos?|clases?|m[áa]ster|formaci[óo]n|escuela|aula)\b|\bcurso anual\b|\bmatr[íi]cula/i.test(p.title?.es || '');
 export const currentMonth = () => Number(TODAY.slice(5, 7));
 export const seasonalFor = (m) => plans.filter((p) => p.kind === 'estacional' && p.months.includes(m));
 export const within = (days) => upcoming().filter((p) => p.start <= addDays(TODAY, days));
@@ -82,7 +86,10 @@ export function fmtWhen(lang, p) {
   }
   const short = { day: 'numeric', month: 'short' };
   const same = !p.end || p.end === p.start;
-  const base = same ? fmtDay(lang, p.start) : `${fmtDay(lang, p.start, short)} – ${fmtDay(lang, p.end, short)}`;
+  // Si el plan acaba en otro año, se indica: "17 jul – 17 jul" sin año parece un error.
+  const long = { ...short, year: 'numeric' };
+  const crossYear = !same && p.end.slice(0, 4) !== p.start.slice(0, 4);
+  const base = same ? fmtDay(lang, p.start) : `${fmtDay(lang, p.start, crossYear ? long : short)} – ${fmtDay(lang, p.end, crossYear ? long : short)}`;
   return p.time ? `${base}, ${p.time}` : base;
 }
 export function fmtPlace(p, allSpain) {
