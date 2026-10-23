@@ -1,11 +1,11 @@
 {
-  "generated": "2026-10-23T09:21:57.350Z",
+  "generated": "2026-10-23T10:36:35.545Z",
   "today": "2026-10-23",
-  "events": 2414,
-  "review": 7,
+  "events": 2448,
+  "review": 9,
   "ai": {
-    "calls": 0,
-    "seconds": 36,
+    "calls": 18,
+    "seconds": 281,
     "tripped": false
   },
   "sources": [
@@ -72,7 +72,7 @@
     {
       "id": "prensa-heraldo-ocio",
       "status": "ok",
-      "count": 20,
+      "count": 21,
       "candidatos": true
     },
     {
@@ -114,7 +114,7 @@
     {
       "id": "prensa-diariovasco-culturas",
       "status": "ok",
-      "count": 14,
+      "count": 15,
       "candidatos": true
     },
     {

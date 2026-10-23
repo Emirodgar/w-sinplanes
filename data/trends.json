@@ -212,6 +212,16 @@
    ]
   },
   {
+   "term": "ingreso",
+   "traffic": 2000,
+   "lastSeen": "2026-10-23",
+   "news": [
+    "El Gobierno concede el Ingreso Mínimo Vital a las personas con ingresos inferiores a 723 euros al mes, aunque paga de oficio un complemento a las familias con menores",
+    "La ayuda de casi 1.000 euros que pueden recibir las parejas sin hijos: consulta los requisitos",
+    "Está confirmado por la Seguridad Social y es oficial: los nacidos a partir de 1960 pueden pedir la ayuda de..."
+   ]
+  },
+  {
    "term": "marta riesco",
    "traffic": 1000,
    "lastSeen": "2026-10-20",
@@ -536,9 +546,9 @@
    "traffic": 500,
    "lastSeen": "2026-10-23",
    "news": [
-    "Vivienda inicia el procedimiento de adjudicación de las 42 casas de Los Ajaches para alquiler asequible en Playa Blanca",
-    "Exigen 12 años de residencia en Canarias y cinco en Yaiza para acceder a las 42 viviendas públicas de Playa Blanca",
-    "42 viviendas para Lanzarote, ayudas a la compra: decisión de las Islas Canarias"
+    "Las lluvias se quedan en Canarias: la Aemet sentencia el fin de semana en estas islas",
+    "Terminan los avisos y la alerta, pero las lluvias siguen: la previsión de Aemet para Canarias",
+    "Nubes, claros y lluvias en Canarias: el pronóstico que cambia según la isla"
    ]
   },
   {
@@ -549,6 +559,35 @@
     "El iPhone Duo de 2.300 euros desata una fiebre inédita por los plegables: se agota y acumula tres meses de espera",
     "El auge de pedidos anticipados del iPhone Duo lleva a Apple a elevar sus objetivos de envío",
     "El esperado iPhone plegable de Appel llega a las tiendas"
+   ]
+  },
+  {
+   "term": "robert pattinson",
+   "traffic": 500,
+   "lastSeen": "2026-10-23",
+   "news": [
+    "Robert Pattinson Officially Breaks His Own Box Office Record",
+    "Lance Oppenheim’s ‘Primetime’ makes me ashamed to be online",
+    "Robert Pattinson says new film is ‘not an indictment’ of TV host Chris Hansen"
+   ]
+  },
+  {
+   "term": "golfo pérsico",
+   "traffic": 500,
+   "lastSeen": "2026-10-23",
+   "news": [
+    "Guerra de trincheras de los petroleros del Golfo Pérsico: por qué el crudo sale pero los carburantes no bajan",
+    "Petróleo: Los riesgos en el estrecho de Ormuz y los costes de transporte impulsan los precios al alza – Rabobank",
+    "El precio del petróleo cierra sin grandes movimientos pese a exportaciones de Oriente Medio"
+   ]
+  },
+  {
+   "term": "jornada laboral",
+   "traffic": 500,
+   "lastSeen": "2026-10-23",
+   "news": [
+    "Los 35 días de trabajo que regalan los profesores en España cada año: “La mayoría de las palizas me las pego los domingos”",
+    "La líder de La Izquierda de Alemania imagina un futuro con cuatro horas de trabajo y otras cuatro dedicadas a..."
    ]
   },
   {
@@ -880,6 +919,36 @@
    ]
   },
   {
+   "term": "árbol",
+   "traffic": 200,
+   "lastSeen": "2026-10-23",
+   "news": [
+    "Árbol caído en el Diseminado de Jacomar: «Esto podía haber sido una catástrofe»",
+    "Un camión golpea un árbol en Tamaraceite y las ramas caen sobre la fachada de una casa",
+    "La caída de un árbol obliga a cortar una calle en La Galera (Las Palmas de Gran Canaria)"
+   ]
+  },
+  {
+   "term": "incendio",
+   "traffic": 200,
+   "lastSeen": "2026-10-23",
+   "news": [
+    "Cinco coches quemados en un incendio en un aparcamiento en Leganés",
+    "Cinco vehículos afectados por un incendio en un aparcamiento de superficie en Leganés",
+    "Un incendio calcina cinco vehículos en un aparcamiento público de Leganés"
+   ]
+  },
+  {
+   "term": "volvo cars",
+   "traffic": 200,
+   "lastSeen": "2026-10-23",
+   "news": [
+    "Volvo Cars shares slump on big loss, 2,500 more jobs to go",
+    "Volvo Cars plunges 27% as CEO says China sales slump came 'faster than we thought'",
+    "Volvo Car CEO Says China Market Gone for Western Automakers"
+   ]
+  },
+  {
    "term": "consulado",
    "traffic": 100,
    "lastSeen": "2026-10-21",
@@ -921,6 +990,26 @@
    "lastSeen": "2026-10-23",
    "news": [
     "Muere a los 30 años Manuel Otto, el creador de 'Stick Run', tras una retransmisión en directo en Twitch"
+   ]
+  },
+  {
+   "term": "catar",
+   "traffic": 100,
+   "lastSeen": "2026-10-23",
+   "news": [
+    "Primark debuta en Catar en el marco de su acuerdo con el operador local Alshaya",
+    "Primark avanza su desarrollo en Oriente Medio con la entrada en Qatar con Alshaya",
+    "Turquía está a la espera del contrato para comprar otros 24 cazas Eurofighter a Catar y Omán"
+   ]
+  },
+  {
+   "term": "premios billboard de la música latina",
+   "traffic": 100,
+   "lastSeen": "2026-10-23",
+   "news": [
+    "Los tres increíbles looks de Rosalía en los Billboard Latinos deja atrás al resto de looks del día. Compruébalo tú misma",
+    "Rosalía reivindica el español en los Billboard y recupera el mítico meme de la doctora Polo: «Ni ningún 'hello'»",
+    "Rosalía triunfa en los Billboard Latin Music Awards con tres premios y un sensual look que deja al descubierto sus abdominales de acero"
    ]
   }
  ]

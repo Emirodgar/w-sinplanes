@@ -4111,5 +4111,1251 @@
   "src": "prensa-heraldo-ocio",
   "publicado": "2026-10-21",
   "es_plan": false
+ },
+ "65d241719a": {
+  "url": "https://www.20minutos.es/musica/lisa-blackpink-lanza-su-primer-ep-solitario-press-play-junto-videoclip-sencillo-tarantino_7052529_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-10-23",
+  "es_plan": true,
+  "titulo": "Lisa de BLACKPINK lanza su EP 'Press Play' con videoclip de 'Tarantino'",
+  "resumen": "La estrella del K-pop Lisa, integrante de BLACKPINK, estrena su primer EP en solitario, 'Press Play', que incluye el videoclip de su nuevo sencillo 'Tarantino', con referencias a películas de Quentin Tarantino. El lanzamiento también presenta otros temas y sigue a su reconocimiento en los MTV Video ",
+  "en": {
+   "titulo": "BLACKPINK's Lisa releases 'Press Play' EP with 'Tarantino' music video",
+   "resumen": "K-pop star Lisa, a member of BLACKPINK, has released her first solo EP, 'Press Play', featuring the music video for her new single 'Tarantino', which includes references to Quentin Tarantino's films. The release also includes other tracks and follows her MTV Video Music Awards recognition."
+  },
+  "inicio": "2026-10-23",
+  "fin": "2026-10-23",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "14869f4970": {
+  "url": "https://elpais.com/cultura/cine/2026-10-23/dos-decadas-en-las-que-el-cine-vio-como-cambiaba-todo-salvo-la-ley.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-10-23",
+  "es_plan": false
+ },
+ "daf132f5ef": {
+  "url": "https://elpais.com/cultura/2026-10-23/cultura-se-lanza-a-impugnar-el-cambio-en-las-ayudas-al-cine-de-castilla-y-leon-para-no-apoyar-obras-que-impliquen-adoctrinamiento-ideologico.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-10-23",
+  "es_plan": false
+ },
+ "c80d70743a": {
+  "url": "https://elpais.com/cultura/2026-10-23/premios-princesa-de-asturias-2026-galardonados-muy-queridos-y-nuevos-retos-para-la-princesa-leonor.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-10-23",
+  "es_plan": true,
+  "titulo": "Premios Princesa de Asturias 2026: entrega de galardones en Oviedo",
+  "resumen": "Este viernes se celebra en el Teatro Campoamor de Oviedo la solemne gala de entrega de los Premios Princesa de Asturias 2026, reconociendo a figuras como Patti Smith, Leo Messi y Studio Ghibli, con la princesa Leonor presidiendo por primera vez en solitario.",
+  "en": {
+   "titulo": "Princess of Asturias Awards 2026: award ceremony in Oviedo",
+   "resumen": "The solemn award ceremony for the Princess of Asturias Awards 2026 will take place this Friday at the Campoamor Theatre in Oviedo, honoring figures like Patti Smith, Leo Messi, and Studio Ghibli, with Princess Leonor presiding solo for the first time."
+  },
+  "inicio": "2026-10-23",
+  "fin": "2026-10-23",
+  "hora": null,
+  "lugar": "Teatro Campoamor",
+  "municipio": "Oviedo",
+  "provincia": "Asturias",
+  "ambito": "nacional",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "libros",
+   "deporte"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "91cbb43fa8": {
+  "url": "https://elpais.com/cultura/cine/2026-10-23/sentido-y-sensibilidad-vean-sentido-y-sensibilidad-la-antigua-por-supuesto.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-10-23",
+  "es_plan": true,
+  "titulo": "Estreno de 'Sentido y sensibilidad' de Georgia Oakley",
+  "resumen": "La película 'Sentido y sensibilidad', dirigida por Georgia Oakley, se estrena este 23 de octubre. El drama británico de 132 minutos explora historias con encanto y emoción, protagonizado por Daisy Edgar-Jones y Esmé Creed-Miles.",
+  "en": {
+   "titulo": "Release of 'Sense and Sensibility' by Georgia Oakley",
+   "resumen": "The film 'Sense and Sensibility', directed by Georgia Oakley, premieres this October 23rd. The 132-minute British drama explores stories with charm and emotion, starring Daisy Edgar-Jones and Esmé Creed-Miles."
+  },
+  "inicio": "2026-10-23",
+  "fin": "2026-10-23",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "7677715d19": {
+  "url": "https://elpais.com/cultura/cine/2026-10-23/wildwood-espectacular-animacion-en-stop-motion-con-aventura-guerra-y-traumas.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-10-23",
+  "es_plan": true,
+  "titulo": "Estreno de 'Wildwood', animación stop motion de Laika",
+  "resumen": "El estudio Laika estrena 'Wildwood', una película de animación stop motion que destaca por su espectacularidad visual y narrativa. La cinta de aventuras, dirigida por Travis Knight, se estrena el 23 de octubre.",
+  "en": {
+   "titulo": "Premiere of 'Wildwood', Laika's stop-motion animation",
+   "resumen": "The studio Laika premieres 'Wildwood', a stop-motion animation film noted for its spectacular visuals and narrative. The adventure film, directed by Travis Knight, is released on October 23rd."
+  },
+  "inicio": "2026-10-23",
+  "fin": "2026-10-23",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "ninos",
+   "pantalla"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "381db74aac": {
+  "url": "https://elpais.com/us/entretenimiento/2026-10-23/una-visita-a-laika-el-estudio-de-animacion-donde-cada-detalle-se-hace-a-mano-pajaros-de-3000-plumas-y-mas-de-100-escenarios.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-10-23",
+  "es_plan": false
+ },
+ "a56db415c0": {
+  "url": "https://elpais.com/cultura/cine/2026-10-23/un-amor-posible-el-discreto-encanto-de-la-clase-trabajadora-segun-lee-chang-dong.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-10-23",
+  "es_plan": true,
+  "titulo": "Estreno de 'Un amor posible' de Lee Chang-dong",
+  "resumen": "El director surcoreano Lee Chang-dong estrena 'Un amor posible', un drama sobre dos matrimonios de distintas clases sociales. La película, de 164 minutos, se estrena el 23 de octubre y explora anhelos y contradicciones de clase.",
+  "en": {
+   "titulo": "Premiere of 'A Possible Love' by Lee Chang-dong",
+   "resumen": "South Korean director Lee Chang-dong premieres 'A Possible Love', a drama about two marriages from different social classes. The 164-minute film, released on October 23rd, explores class aspirations and contradictions."
+  },
+  "inicio": "2026-10-23",
+  "fin": "2026-10-23",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "87c48a471d": {
+  "url": "https://elpais.com/cultura/cine/2026-10-23/moscas-un-pequeno-cuento-de-calamidades-y-sonrisas.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-10-23",
+  "es_plan": true,
+  "titulo": "Estreno de 'Moscas' de Fernando Eimbcke",
+  "resumen": "La película 'Moscas', del director mexicano Fernando Eimbcke, se estrena el 23 de octubre. Este drama con toques de comedia absurda, de 102 minutos, narra una historia mínima con sencillez.",
+  "en": {
+   "titulo": "Premiere of 'Flies' by Fernando Eimbcke",
+   "resumen": "The film 'Flies', by Mexican director Fernando Eimbcke, premieres on October 23rd. This drama with touches of absurd comedy, running 102 minutes, tells a minimal story with simplicity."
+  },
+  "inicio": "2026-10-23",
+  "fin": "2026-10-23",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "1fa1591c3f": {
+  "url": "https://elpais.com/cultura/cine/2026-10-23/arriba-tutto-fascistas-contra-comicos-para-el-afable-debut-de-jose-mota.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-10-23",
+  "es_plan": true,
+  "titulo": "Estreno de 'Arriba Tutto' de José Mota",
+  "resumen": "El humorista José Mota debuta como director y protagonista con 'Arriba Tutto', una tragicomedia familiar para niños. La película, de 98 minutos, se estrena el 23 de octubre y cuenta con Karra Elejalde y Pablo Cabello.",
+  "en": {
+   "titulo": "Premiere of 'Arriba Tutto' by José Mota",
+   "resumen": "Comedian José Mota debuts as director and star in 'Arriba Tutto', a family tragicomedy for children. The 98-minute film, released on October 23rd, also features Karra Elejalde and Pablo Cabello."
+  },
+  "inicio": "2026-10-23",
+  "fin": "2026-10-23",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "ninos",
+   "pantalla"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "2aec72e9ad": {
+  "url": "https://elpais.com/cultura/2026-10-23/fontaines-dc-la-grandeza-de-una-banda-capaz-de-ofrecer-una-epifania-en-un-mundo-colapsado.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-10-23",
+  "es_plan": true,
+  "titulo": "Concierto de Fontaines D.C. en Madrid",
+  "resumen": "La banda irlandesa Fontaines D.C. ofreció un concierto en el Movistar Arena de Madrid, desplegando su sonido postpunk y abordando temas sombríos de la sociedad occidental. El evento contó con la asistencia de Pedro Sánchez.",
+  "en": {
+   "titulo": "Fontaines D.C. concert in Madrid",
+   "resumen": "Irish band Fontaines D.C. performed a concert at Madrid's Movistar Arena, showcasing their post-punk sound and addressing dark themes of Western society. The event was attended by Pedro Sánchez."
+  },
+  "inicio": "2026-10-23",
+  "fin": "2026-10-23",
+  "hora": null,
+  "lugar": "Movistar Arena",
+  "municipio": "Madrid",
+  "provincia": "Madrid",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "4da6be906c": {
+  "url": "https://elpais.com/cultura/cine/2026-10-23/ester-exposito-y-oriol-pla-protagonizaran-la-regenta-en-una-nueva-version-filmica-de-netflix.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-10-23",
+  "es_plan": true,
+  "titulo": "Netflix rueda nueva versión de 'La Regenta' con Ester Expósito",
+  "resumen": "Netflix ha iniciado el rodaje de una nueva adaptación cinematográfica de 'La Regenta', la icónica novela de Leopoldo Alas \"Clarín\". La producción, dirigida por Mar Coll, cuenta con Ester Expósito y Oriol Pla como protagonistas.",
+  "en": {
+   "titulo": "Netflix films new version of 'La Regenta' with Ester Expósito",
+   "resumen": "Netflix has begun filming a new cinematic adaptation of 'La Regenta', the iconic novel by Leopoldo Alas \"Clarín\". The production, directed by Mar Coll, stars Ester Expósito and Oriol Pla."
+  },
+  "inicio": "2026-10-23",
+  "fin": "2026-10-23",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "libros",
+   "pantalla"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "4d4ec506ec": {
+  "url": "https://elpais.com/cultura/2026-10-23/javier-moreno-premiado-imitador-del-canto-de-los-pajaros-me-costara-superar-el-jilguero.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-10-23",
+  "es_plan": false
+ },
+ "4047da07d9": {
+  "url": "https://www.lavanguardia.com/cultura/20261023/11666273/muere-transgresor-escritor-japones-ryu-murakami.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-10-23",
+  "es_plan": false
+ },
+ "8d9b66ffbc": {
+  "url": "https://www.lavanguardia.com/cultura/20261023/11665850/modernisme-alemania-barcelona-gaudi-picasso-exposicion-primera-vez-catalan-arte.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-10-23",
+  "es_plan": true,
+  "titulo": "Exposición 'Barcelona moderna. De Gaudí a Picasso' en Múnich",
+  "resumen": "El Kunsthalle de Múnich acoge la exposición 'Barcelona moderna. De Gaudí a Picasso', la primera muestra exhaustiva en Alemania sobre el modernismo catalán. La exposición presenta 160 obras y abre sus puertas este viernes.",
+  "en": {
+   "titulo": "Exhibition 'Modern Barcelona. From Gaudí to Picasso' in Munich",
+   "resumen": "The Kunsthalle in Munich hosts the exhibition 'Modern Barcelona. From Gaudí to Picasso', the first comprehensive display in Germany of Catalan modernism. The exhibition features 160 works and opens this Friday."
+  },
+  "inicio": "2026-10-23",
+  "fin": "2026-10-23",
+  "hora": null,
+  "lugar": "Kunsthalle",
+  "municipio": "Múnich",
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "00e5fc6569": {
+  "url": "https://www.lavanguardia.com/cultura/musica/20261023/11665832/corona-capa-freddie-mercury-vuelven-brillar-londres.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-10-23",
+  "es_plan": true,
+  "titulo": "Exposición de Freddie Mercury en Londres",
+  "resumen": "El museo Victoria and Albert de Londres acoge una exposición dedicada a Freddie Mercury, coincidiendo con el 80 aniversario de su nacimiento. Se exhibirán objetos emblemáticos del cantante.",
+  "en": {
+   "titulo": "Freddie Mercury Exhibition in London",
+   "resumen": "The Victoria and Albert Museum in London is hosting an exhibition dedicated to Freddie Mercury, coinciding with the 80th anniversary of his birth. Iconic items from the singer will be on display."
+  },
+  "inicio": "2026-10-23",
+  "fin": "2026-10-23",
+  "hora": null,
+  "lugar": "Victoria and Albert Museum",
+  "municipio": "Londres",
+  "provincia": null,
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "musica",
+   "museos"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.5
+ },
+ "edad38b3ea": {
+  "url": "https://www.lavanguardia.com/cultura/20261023/11665816/nathan-ambrosioni-todos-derecho-desaparecer-que-ocurre-quienes-quedan.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-10-23",
+  "es_plan": false
+ },
+ "7544690791": {
+  "url": "https://www.lavanguardia.com/qf/20261023/11665682/dani-martin-natural-palau-sant-jordi.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-10-23",
+  "es_plan": true,
+  "titulo": "Dani Martín en concierto en el Palau Sant Jordi",
+  "resumen": "Dani Martín despedirá su gira ‘25 putos años’ con dos conciertos en Barcelona, repasando clásicos de El Canto del Loco y temas de su último disco.",
+  "en": {
+   "titulo": "Dani Martín in concert at Palau Sant Jordi",
+   "resumen": "Dani Martín will conclude his '25 putos años' tour with two concerts in Barcelona, revisiting El Canto del Loco classics and songs from his latest album."
+  },
+  "inicio": "2026-10-23",
+  "fin": "2026-10-23",
+  "hora": null,
+  "lugar": "Palau Sant Jordi",
+  "municipio": "Barcelona",
+  "provincia": "Barcelona",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "e520db8d53": {
+  "url": "https://www.lavanguardia.com/qf/artes/20261023/11665601/cosmocaixa-invita-perder-miedo-tiburones-diez-replicas-tamano-real.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-10-23",
+  "es_plan": true,
+  "titulo": "Exposición 'Tiburones. Los guardianes del océano' en CosmoCaixa",
+  "resumen": "El CosmoCaixa de Barcelona presenta la exposición 'Tiburones. Los guardianes del océano' con diez réplicas a tamaño real para desmitificar a estos animales y conocer su importancia.",
+  "en": {
+   "titulo": "'Sharks. Guardians of the Ocean' exhibition at CosmoCaixa",
+   "resumen": "CosmoCaixa in Barcelona presents the exhibition 'Sharks. Guardians of the Ocean' with ten life-size replicas to demystify these animals and understand their importance."
+  },
+  "inicio": "2026-10-23",
+  "fin": "2026-10-23",
+  "hora": null,
+  "lugar": "CosmoCaixa",
+  "municipio": "Barcelona",
+  "provincia": "Barcelona",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "museos",
+   "naturaleza",
+   "agua",
+   "actividades"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "35ade6584d": {
+  "url": "https://www.lavanguardia.com/cultura/20261023/11665352/wildwood-bosque-salvaje-mas-cultura-esfuerzo-otros-estrenos-semana.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-10-23",
+  "es_plan": true,
+  "titulo": "Estrenos de cine: 'Wildwood: El bosque salvaje' y otros",
+  "resumen": "Se estrenan en cines varias películas este 23 de octubre, incluyendo 'Wildwood: El bosque salvaje', 'Sentido y sensibilidad' y 'Arriba Tutto'.",
+  "en": {
+   "titulo": "Cinema premieres: 'Wildwood: The Wild Forest' and others",
+   "resumen": "Several films premiere in cinemas this October 23rd, including 'Wildwood: The Wild Forest', 'Sense and Sensibility', and 'Arriba Tutto'."
+  },
+  "inicio": "2026-10-23",
+  "fin": "2026-10-23",
+  "hora": null,
+  "lugar": "Cines",
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "pantalla",
+   "cultura"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "a054f21878": {
+  "url": "https://www.lavanguardia.com/qf/planes/20261023/11665131/marianne-faithfull-david-bowie-fermin-muguruza-jordi-savall-protagonistas-festival-in-edit.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-10-23",
+  "es_plan": true,
+  "titulo": "Festival In-Edit de cine musical en Barcelona",
+  "resumen": "La 24ª edición del festival In-Edit proyectará 70 documentales musicales del 29 de octubre al 8 de noviembre en los cines Mooby Aribau de Barcelona.",
+  "en": {
+   "titulo": "In-Edit Music Film Festival in Barcelona",
+   "resumen": "The 24th edition of the In-Edit festival will screen 70 music documentaries from October 29th to November 8th at the Mooby Aribau cinemas in Barcelona."
+  },
+  "inicio": "2026-10-29",
+  "fin": "2026-11-08",
+  "hora": null,
+  "lugar": "Mooby Aribau",
+  "municipio": "Barcelona",
+  "provincia": "Barcelona",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "7d44884657": {
+  "url": "https://www.lavanguardia.com/cultura/teatro/20261023/11664865/pecado-gola-beckett.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-10-23",
+  "es_plan": true,
+  "titulo": "Obra de teatro 'La Gola' en la Beckett",
+  "resumen": "Pau Matas y Oriol Pla presentan de nuevo la obra 'La Gola' en el teatro Beckett, un montaje que parte del pecado de gula y explora la insatisfacción.",
+  "en": {
+   "titulo": "'La Gola' play at Beckett",
+   "resumen": "Pau Matas and Oriol Pla are re-staging the play 'La Gola' at the Beckett theatre, a production that explores gluttony and dissatisfaction."
+  },
+  "inicio": "2026-10-23",
+  "fin": "2026-10-23",
+  "hora": null,
+  "lugar": "Teatro Beckett",
+  "municipio": "Barcelona",
+  "provincia": "Barcelona",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "9786c5a9cc": {
+  "url": "https://www.lavanguardia.com/cultura/teatro/20261023/11664850/tenoriu-vuelve-coliseum-todos-santos-silvia-abril-david-olivares.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-10-23",
+  "es_plan": true,
+  "titulo": "'El Tenoriu' en el teatro Coliseum",
+  "resumen": "La nueva versión del clásico de Zorrilla, 'El Tenoriu', vuelve al teatro Coliseum de Barcelona por Todos los Santos con Sílvia Abril y David Olivares.",
+  "en": {
+   "titulo": "'El Tenoriu' at the Coliseum theatre",
+   "resumen": "The new version of the Zorrilla classic, 'El Tenoriu', returns to the Coliseum theatre in Barcelona for All Saints' Day, starring Sílvia Abril and David Olivares."
+  },
+  "inicio": "2026-10-23",
+  "fin": "2026-10-23",
+  "hora": null,
+  "lugar": "Teatro Coliseum",
+  "municipio": "Barcelona",
+  "provincia": "Barcelona",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "e5540b3f89": {
+  "url": "https://www.lavanguardia.com/qf/20261023/11664800/libros-todos-festival-canalla-vic.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-10-23",
+  "es_plan": true,
+  "titulo": "Festival de literatura infantil y juvenil Canalla! en Vic",
+  "resumen": "Vic acoge este fin de semana el festival Canalla!, una nueva iniciativa para convertirse en referente de la literatura infantil y juvenil.",
+  "en": {
+   "titulo": "Canalla! Children's and Young Adult Literature Festival in Vic",
+   "resumen": "Vic hosts the Canalla! festival this weekend, a new initiative aiming to become a benchmark for children's and young adult literature."
+  },
+  "inicio": "2026-10-23",
+  "fin": "2026-10-23",
+  "hora": null,
+  "lugar": null,
+  "municipio": "Vic",
+  "provincia": "Barcelona",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "libros",
+   "ninos",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "9e1248cd63": {
+  "url": "https://www.lavanguardia.com/qf/20261023/11663794/mazoni-amigos-celebrar-veinte.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-10-23",
+  "es_plan": true,
+  "titulo": "Concierto de Mazoni en Barcelona",
+  "resumen": "Jaume Pla (Mazoni) celebra las dos décadas de su disco 'Esgarrapada' con un concierto en el Paral·lel de Barcelona, repasando su trayectoria.",
+  "en": {
+   "titulo": "Mazoni concert in Barcelona",
+   "resumen": "Jaume Pla (Mazoni) celebrates the two-decade anniversary of his album 'Esgarrapada' with a concert at Barcelona's Paral·lel, reviewing his career."
+  },
+  "inicio": "2026-10-23",
+  "fin": "2026-10-23",
+  "hora": null,
+  "lugar": "Paral·lel",
+  "municipio": "Barcelona",
+  "provincia": "Barcelona",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "b52f124405": {
+  "url": "https://www.lavanguardia.com/cultura/20261023/11662867/talento-mallorquin-universo-magico-wildwood-bosque-salvaje.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-10-23",
+  "es_plan": true,
+  "titulo": "Estreno de 'Wildwood: El bosque salvaje' en cines",
+  "resumen": "La película de animación 'Wildwood: El bosque salvaje', aclamada por la crítica y con talento mallorquín en su equipo, se estrena este fin de semana.",
+  "en": {
+   "titulo": "Premiere of 'Wildwood: The Wild Forest' in cinemas",
+   "resumen": "The animated film 'Wildwood: The Wild Forest', critically acclaimed and featuring Mallorcan talent in its team, premieres this weekend."
+  },
+  "inicio": "2026-10-23",
+  "fin": "2026-10-23",
+  "hora": null,
+  "lugar": "Cines",
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "pantalla",
+   "cultura",
+   "ninos"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "d5dc0193e6": {
+  "url": "https://llegim.ara.cat/critiques-literaries/barcelona-mare-avia-maria-canelles-si-fos-una-sibila_1_5881146.html",
+  "fuente": "Ara (Cultura)",
+  "src": "prensa-ara-cultura",
+  "publicado": "2026-10-23",
+  "es_plan": false
+ },
+ "4ef19fd994": {
+  "url": "https://www.ara.cat/cultura/cinema/wildwood-millor-animacio-stop-motion-historia_1_5887179.html",
+  "fuente": "Ara (Cultura)",
+  "src": "prensa-ara-cultura",
+  "publicado": "2026-10-23",
+  "es_plan": false
+ },
+ "e0e186f989": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/23/camilo-anuncia-regreso-espana-nueva-gira-fechas-entradas-ciudades-2027-2062107.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-10-23",
+  "es_plan": true,
+  "titulo": "Gira de Camilo en España en 2027",
+  "resumen": "El cantautor Camilo anuncia su regreso a España en junio y julio de 2027 con su gira 'Para Cuando Sean Mayores Tour', presentando su último álbum.",
+  "en": {
+   "titulo": "Camilo's tour in Spain in 2027",
+   "resumen": "Singer-songwriter Camilo announces his return to Spain in June and July 2027 with his 'Para Cuando Sean Mayores Tour', presenting his latest album."
+  },
+  "inicio": "2027-06-01",
+  "fin": "2027-07-31",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "d52e804e2e": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/23/horario-donde-ver-corrida-miranda-rufo-adrian-television-24octubre-feria-lima-2062099.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-10-23",
+  "es_plan": true,
+  "titulo": "Corrida de toros en la Feria de Lima (TV)",
+  "resumen": "Retransmisión televisiva de la corrida de toros en la Feria de Lima el 24 de octubre, con David de Miranda, Fernando Adrián y Tomás Rufo.",
+  "en": {
+   "titulo": "Bullfight in Lima Fair (TV)",
+   "resumen": "Television broadcast of the bullfight at the Lima Fair on October 24th, featuring David de Miranda, Fernando Adrián, and Tomás Rufo."
+  },
+  "inicio": "2026-10-24",
+  "fin": "2026-10-24",
+  "hora": "22:30",
+  "lugar": "Plaza de Acho",
+  "municipio": "Lima",
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "deporte"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "b736687fc5": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/23/comedia-ultima-oportunidad-retorno-llega-teatro-mercado-zaragoza-2061944.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-10-23",
+  "es_plan": true,
+  "titulo": "La comedia \"La última oportunidad, el retorno\" en el Teatro del Mercado de Zaragoza",
+  "resumen": "La compañía Teatro con Botas presenta \"La última oportunidad, el retorno\" en el Teatro del Mercado de Zaragoza. La obra, que coincide con el décimo aniversario de la compañía, se podrá ver desde este viernes hasta el domingo.",
+  "en": {
+   "titulo": "The comedy \"La última oportunidad, el retorno\" at the Teatro del Mercado in Zaragoza",
+   "resumen": "The company Teatro con Botas presents \"La última oportunidad, el retorno\" at the Teatro del Mercado in Zaragoza. The play, coinciding with the company's tenth anniversary, can be seen from this Friday to Sunday."
+  },
+  "inicio": "2026-10-23",
+  "fin": "2026-10-25",
+  "hora": null,
+  "lugar": "Teatro del Mercado",
+  "municipio": "Zaragoza",
+  "provincia": "Zaragoza",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "a06bc02329": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/23/marta-borraz-pesar-premio-tusquets-todavia-me-siento-mas-lectora-que-escritora-2061928.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-10-23",
+  "es_plan": true,
+  "titulo": "Presentación de \"Las leopardas\" de Marta Borraz en el IAACC Pablo Serrano",
+  "resumen": "La autora oscense Marta Borraz presentará su novela \"Las leopardas\", ganadora del XXII Premio Tusquets, este viernes en el IAACC Pablo Serrano de Zaragoza. El evento comenzará a las 19:00 horas.",
+  "en": {
+   "titulo": "Presentation of Marta Borraz's \"Las leopardas\" at IAACC Pablo Serrano",
+   "resumen": "The author from Huesca, Marta Borraz, will present her novel \"Las leopardas\", winner of the XXII Tusquets Prize, this Friday at the IAACC Pablo Serrano in Zaragoza. The event will start at 7:00 PM."
+  },
+  "inicio": "2026-10-23",
+  "fin": "2026-10-23",
+  "hora": "19:00",
+  "lugar": "IAACC Pablo Serrano",
+  "municipio": "Zaragoza",
+  "provincia": "Zaragoza",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "3187fa5d43": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/23/pueblo-zaragoza-transformara-plato-cine-animacion-2061898.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-10-23",
+  "es_plan": true,
+  "titulo": "XXIII Festival Nacional de Cortos de Animación \"Animainzón\" en Ainzón",
+  "resumen": "El municipio de Ainzón celebra la XXIII edición del festival nacional de cortos de animación \"Animainzón\" este fin de semana, del viernes 23 al domingo 25 de octubre. El evento se ha consolidado como una cita imprescindible en el Campo de Borja.",
+  "en": {
+   "titulo": "XXIII National Animation Short Film Festival \"Animainzón\" in Ainzón",
+   "resumen": "The municipality of Ainzón celebrates the XXIII edition of the national animation short film festival \"Animainzón\" this weekend, from Friday, October 23rd to Sunday, October 25th. The event has become an essential date in the Campo de Borja region."
+  },
+  "inicio": "2026-10-23",
+  "fin": "2026-10-25",
+  "hora": null,
+  "lugar": null,
+  "municipio": "Ainzón",
+  "provincia": "Zaragoza",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "0a4ec9743f": {
+  "url": "https://www.elnortedecastilla.es/culturas/seminci/programa/programa-completo-seminci-2025-viernes-octubre-20261023064849-nt.html",
+  "fuente": "El Norte de Castilla (Culturas)",
+  "src": "prensa-nortecastilla-culturas",
+  "publicado": "2026-10-23",
+  "es_plan": true,
+  "titulo": "Programa de la Seminci 2026: Viernes 23 de octubre",
+  "resumen": "Consulta el programa completo de la primera jornada de la Semana Internacional de Cine de Valladolid (Seminci) para este viernes 23 de octubre.",
+  "en": {
+   "titulo": "Seminci 2026 Program: Friday, October 23rd",
+   "resumen": "Consult the full program for the first day of the Valladolid International Film Week (Seminci) for this Friday, October 23rd."
+  },
+  "inicio": "2026-10-23",
+  "fin": "2026-10-23",
+  "hora": null,
+  "lugar": null,
+  "municipio": "Valladolid",
+  "provincia": "Valladolid",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "f55818ce0e": {
+  "url": "https://www.elnortedecastilla.es/valladolid/trafico/calles-cortadas-viernes-gala-inauguracion-seminci-20261023064812-nt.html",
+  "fuente": "El Norte de Castilla (Culturas)",
+  "src": "prensa-nortecastilla-culturas",
+  "publicado": "2026-10-23",
+  "es_plan": true,
+  "titulo": "Calles cortadas por la gala de inauguración de la Seminci 2026",
+  "resumen": "Varias calles de Valladolid, incluyendo Angustias, Bajada de la Libertad y San Blas, estarán cortadas al tráfico este viernes a partir de las 15:00 horas debido a la ceremonia de inauguración de la Seminci en el Teatro Calderón.",
+  "en": {
+   "titulo": "Streets closed for the Seminci 2026 opening gala",
+   "resumen": "Several streets in Valladolid, including Angustias, Bajada de la Libertad, and San Blas, will be closed to traffic this Friday from 3:00 PM due to the Seminci opening ceremony at the Teatro Calderón."
+  },
+  "inicio": "2026-10-23",
+  "fin": "2026-10-23",
+  "hora": "15:00",
+  "lugar": "Teatro Calderón",
+  "municipio": "Valladolid",
+  "provincia": "Valladolid",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "0294e69094": {
+  "url": "https://www.ideal.es/culturas/falla-abre-armario-fantasias-etcetera-20261023235045-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-10-23",
+  "es_plan": true,
+  "titulo": "Estreno de \"Donde sueñan los peces\" de Falla en Güéjar Sierra",
+  "resumen": "La compañía granadina Falla estrena mañana, sábado 24 de octubre, su espectáculo \"Donde sueñan los peces\" en su espacio creativo de Güéjar Sierra. Se trata de una \"miniatura gigante\" con una cuidada factura técnica.",
+  "en": {
+   "titulo": "Premiere of Falla's \"Donde sueñan los peces\" in Güéjar Sierra",
+   "resumen": "The Granada-based company Falla premieres its show \"Donde sueñan los peces\" tomorrow, Saturday, October 24th, at its creative space in Güéjar Sierra. It is a \"giant miniature\" with exquisite technical craftsmanship."
+  },
+  "inicio": "2026-10-24",
+  "fin": "2026-10-24",
+  "hora": null,
+  "lugar": null,
+  "municipio": "Güéjar Sierra",
+  "provincia": "Granada",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "db4dbbbefe": {
+  "url": "https://www.elcorreo.com/culturas/musica/ura-bere-bidean-agita-cancionero-vasco-primera-20261022215631-nt.html",
+  "fuente": "El Correo (Culturas)",
+  "src": "prensa-elcorreo-culturas",
+  "publicado": "2026-10-23",
+  "es_plan": false
+ },
+ "16b969fea8": {
+  "url": "https://www.elcorreo.com/culturas/musica/macanita-morente-decia-nina-anos-vas-cantar-20261022002735-nt.html",
+  "fuente": "El Correo (Culturas)",
+  "src": "prensa-elcorreo-culturas",
+  "publicado": "2026-10-23",
+  "es_plan": true,
+  "titulo": "La Macanita actúa en el Teatro Barakaldo con \"Oro Molío\"",
+  "resumen": "La cantaora La Macanita actuará este viernes en el Teatro Barakaldo con su espectáculo \"Oro Molío\", acompañada a la guitarra por Manuel Valencia. El concierto comienza a las 21:00.",
+  "en": {
+   "titulo": "La Macanita performs at Teatro Barakaldo with \"Oro Molío\"",
+   "resumen": "The flamenco singer La Macanita will perform this Friday at the Teatro Barakaldo with her show \"Oro Molío\", accompanied on guitar by Manuel Valencia. The concert starts at 9:00 PM."
+  },
+  "inicio": "2026-10-23",
+  "fin": "2026-10-23",
+  "hora": "21:00",
+  "lugar": "Teatro Barakaldo",
+  "municipio": "Barakaldo",
+  "provincia": "Bizkaia",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "ab23b3fd2d": {
+  "url": "https://www.diariovasco.com/culturas/san-telmo-exposicion-mauricio-anton-prehistoria-20261023120521-nt.html",
+  "fuente": "El Diario Vasco (Culturas)",
+  "src": "prensa-diariovasco-culturas",
+  "publicado": "2026-10-23",
+  "es_plan": false
+ },
+ "9805b85f2b": {
+  "url": "https://www.diariovasco.com/bidasoa/irun/habitacion-roja-paloma-pondran-bailar-sabado-sala-20261022202158-nt.html",
+  "fuente": "El Diario Vasco (Culturas)",
+  "src": "prensa-diariovasco-culturas",
+  "publicado": "2026-10-23",
+  "es_plan": true,
+  "titulo": "Concierto de La Habitación Roja y La Paloma en Irun",
+  "resumen": "La Habitación Roja y La Paloma ofrecerán un concierto de rock este sábado en la sala Irun Zuzenean. La música comenzará a las 21:00 horas, con DJ Optigan 1 ambientando desde antes.",
+  "en": {
+   "titulo": "Concert by La Habitación Roja and La Paloma in Irun",
+   "resumen": "La Habitación Roja and La Paloma will perform a rock concert this Saturday at the Irun Zuzenean venue. The music will start at 9:00 PM, with DJ Optigan 1 setting the mood beforehand."
+  },
+  "inicio": "2026-10-24",
+  "fin": "2026-10-24",
+  "hora": "21:00",
+  "lugar": "Irun Zuzenean",
+  "municipio": "Irun",
+  "provincia": "Gipuzkoa",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "42550b5a67": {
+  "url": "https://www.diariovasco.com/culturas/viaje-arte-resistencia-xabier-morras-nueva-exposicion-20261022182247-nt.html",
+  "fuente": "El Diario Vasco (Culturas)",
+  "src": "prensa-diariovasco-culturas",
+  "publicado": "2026-10-23",
+  "es_plan": false
+ },
+ "e94e1441bf": {
+  "url": "https://www.diariovasco.com/culturas/musica/exkixu-vuelve-alex-sardui-concierto-20261022125445-nt.html",
+  "fuente": "El Diario Vasco (Culturas)",
+  "src": "prensa-diariovasco-culturas",
+  "publicado": "2026-10-23",
+  "es_plan": true,
+  "titulo": "Concierto de Exkixu en el Bilbao Arena",
+  "resumen": "El grupo Exkixu, liderado por Alex Sardui, ofrecerá un concierto de regreso 30 años después el próximo 17 de abril en el Bilbao Arena.",
+  "en": {
+   "titulo": "Exkixu concert at Bilbao Arena",
+   "resumen": "The group Exkixu, led by Alex Sardui, will offer a comeback concert 30 years later on April 17th at the Bilbao Arena."
+  },
+  "inicio": "2027-04-17",
+  "fin": "2027-04-17",
+  "hora": null,
+  "lugar": "Bilbao Arena",
+  "municipio": "Bilbao",
+  "provincia": "Bizkaia",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "6153109166": {
+  "url": "https://www.diariovasco.com/culturas/benetan-teatroaren-bidutzi-bihar-eibarko-coliseoan-20261023072458-nt.html",
+  "fuente": "El Diario Vasco (Culturas)",
+  "src": "prensa-diariovasco-culturas",
+  "publicado": "2026-10-23",
+  "es_plan": true,
+  "titulo": "Espectáculo infantil \"Bidutzi\" de Benetan Be Teatroaren en Eibar",
+  "resumen": "La compañía Benetan Be Teatroaren presenta \"Bidutzi\", un espectáculo en euskera para niños mayores de tres años y familias, que combina humor, títeres y música en directo. Se podrá ver mañana en el Coliseo de Eibar.",
+  "en": {
+   "titulo": "Children's show \"Bidutzi\" by Benetan Be Teatroaren in Eibar",
+   "resumen": "The company Benetan Be Teatroaren presents \"Bidutzi\", a show in Basque for children over three years old and families, combining humor, puppets, and live music. It can be seen tomorrow at the Coliseo de Eibar."
+  },
+  "inicio": "2026-10-24",
+  "fin": "2026-10-24",
+  "hora": null,
+  "lugar": "Coliseo",
+  "municipio": "Eibar",
+  "provincia": "Gipuzkoa",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "ninos",
+   "cultura"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "7d1d19adea": {
+  "url": "https://www.lasprovincias.es/culturas/musica/javier-botella-convierte-ateneo-refugio-amor-20261023104040-nt.html",
+  "fuente": "Las Provincias (Culturas)",
+  "src": "prensa-lasprovincias-culturas",
+  "publicado": "2026-10-23",
+  "es_plan": false
+ },
+ "59b3b06b67": {
+  "url": "https://www.lasprovincias.es/culturas/chema-cardena-vetos-cultura-ejercicio-descarado-abyecto-20261022005311-nt.html",
+  "fuente": "Las Provincias (Culturas)",
+  "src": "prensa-lasprovincias-culturas",
+  "publicado": "2026-10-23",
+  "es_plan": false
+ },
+ "09714f7f6b": {
+  "url": "https://www.lasprovincias.es/culturas/tv/cadena-tdt-bemad-emite-abierto-viernes-pulp-20261022005630-nt.html",
+  "fuente": "Las Provincias (Culturas)",
+  "src": "prensa-lasprovincias-culturas",
+  "publicado": "2026-10-23",
+  "es_plan": true,
+  "titulo": "Estreno de 'Pulp Fiction' en TDT",
+  "resumen": "La cadena BeMad emite en abierto la icónica película de Quentin Tarantino 'Pulp Fiction' este viernes. Disfruta de esta obra maestra protagonizada por John Travolta y Samuel L. Jackson.",
+  "en": {
+   "titulo": "'Pulp Fiction' Premieres on TDT",
+   "resumen": "The BeMad channel is broadcasting Quentin Tarantino's iconic film 'Pulp Fiction' for free this Friday. Enjoy this masterpiece starring John Travolta and Samuel L. Jackson."
+  },
+  "inicio": "2026-10-23",
+  "fin": "2026-10-23",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": true,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "adc5daacf6": {
+  "url": "https://www.lasprovincias.es/culturas/origenes-paco-roca-viajan-marruecos-20261022163532-nt.html",
+  "fuente": "Las Provincias (Culturas)",
+  "src": "prensa-lasprovincias-culturas",
+  "publicado": "2026-10-23",
+  "es_plan": false
+ },
+ "a37f26cdaa": {
+  "url": "https://www.lasprovincias.es/culturas/tv/tulsa-king-temporada-sylvester-stallone-vuelve-skyshowtime-20261020171243-nt.html",
+  "fuente": "Las Provincias (Culturas)",
+  "src": "prensa-lasprovincias-culturas",
+  "publicado": "2026-10-23",
+  "es_plan": false
+ },
+ "64673bea8a": {
+  "url": "https://www.laverdad.es/culturas/musica/poster-boy-intentamos-poner-palabras-sencillas-posibles-20261022000215-nt.html",
+  "fuente": "La Verdad (Culturas)",
+  "src": "prensa-laverdad-culturas",
+  "publicado": "2026-10-23",
+  "es_plan": true,
+  "titulo": "Poster Boy lanza su primer trabajo discográfico",
+  "resumen": "El dúo murciano Poster Boy, formado por María Lázaro y Luz Abril, presenta este viernes su primer álbum. El proyecto busca expresar sentimientos generacionales.",
+  "en": {
+   "titulo": "Poster Boy Releases Their Debut Album",
+   "resumen": "The duo from Murcia, Poster Boy, formed by María Lázaro and Luz Abril, presents their first album this Friday. The project aims to express generational feelings."
+  },
+  "inicio": "2026-10-23",
+  "fin": "2026-10-23",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": null,
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.5
+ },
+ "f30c0ff392": {
+  "url": "https://www.laverdad.es/culturas/caminos-risa-region-murcia-20261022210627-nt.html",
+  "fuente": "La Verdad (Culturas)",
+  "src": "prensa-laverdad-culturas",
+  "publicado": "2026-10-23",
+  "es_plan": true,
+  "titulo": "Fin de semana de humor en la Región de Murcia",
+  "resumen": "La Región de Murcia celebra un fin de semana lleno de humor con eventos en el Teatro Circo Apolo, La Puerta Falsa y el festival Murcia Sonríe.",
+  "en": {
+   "titulo": "Weekend of Comedy in the Region of Murcia",
+   "resumen": "The Region of Murcia celebrates a weekend full of comedy with events at Teatro Circo Apolo, La Puerta Falsa, and the Murcia Sonríe festival."
+  },
+  "inicio": "2026-10-23",
+  "fin": "2026-10-25",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": "Murcia",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "fiestas"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "9d98751a5a": {
+  "url": "https://www.laverdad.es/culturas/musica/aluvion-guitarras-radiantes-caravaca-20261022223912-nt.html",
+  "fuente": "La Verdad (Culturas)",
+  "src": "prensa-laverdad-culturas",
+  "publicado": "2026-10-23",
+  "es_plan": true,
+  "titulo": "Caravaca Power Pop celebra su octava edición",
+  "resumen": "La octava edición del festival Caravaca Power Pop arranca este viernes con un cartel encabezado por The Lemon Twigs. El evento promete guitarras vibrantes.",
+  "en": {
+   "titulo": "Caravaca Power Pop Celebrates Its Eighth Edition",
+   "resumen": "The eighth edition of the Caravaca Power Pop festival kicks off this Friday with a lineup headlined by The Lemon Twigs. The event promises vibrant guitars."
+  },
+  "inicio": "2026-10-23",
+  "fin": "2026-10-23",
+  "hora": null,
+  "lugar": null,
+  "municipio": "Caravaca",
+  "provincia": "Murcia",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura",
+   "fiestas"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "8b74b84088": {
+  "url": "https://www.eldiariomontanes.es/culturas/sotileza/musica-intima-20261023073219-nt.html",
+  "fuente": "El Diario Montañés (Culturas)",
+  "src": "prensa-diariomontanes-culturas",
+  "publicado": "2026-10-23",
+  "es_plan": false
+ },
+ "3121b62015": {
+  "url": "https://www.eldiariomontanes.es/culturas/sotileza/maton-caballero-20261023073210-nt.html",
+  "fuente": "El Diario Montañés (Culturas)",
+  "src": "prensa-diariomontanes-culturas",
+  "publicado": "2026-10-23",
+  "es_plan": false
+ },
+ "2682f7731d": {
+  "url": "https://www.eldiariomontanes.es/culturas/museo-altamira-refleja-arquitectura-cierre-aniversario-20261023072756-nt.html",
+  "fuente": "El Diario Montañés (Culturas)",
+  "src": "prensa-diariomontanes-culturas",
+  "publicado": "2026-10-23",
+  "es_plan": false
+ },
+ "747f3c2527": {
+  "url": "https://www.eldiariomontanes.es/culturas/pablo-alana-frontera-verdad-justicia-linea-fina-20261023072622-nt.html",
+  "fuente": "El Diario Montañés (Culturas)",
+  "src": "prensa-diariomontanes-culturas",
+  "publicado": "2026-10-23",
+  "es_plan": true,
+  "titulo": "Presentación de 'La doble víctima' en Cantabria",
+  "resumen": "El abogado y novelista Pablo Alaña presenta su thriller judicial 'La doble víctima' este viernes en Taiga (Torrelavega). La presentación recorrerá varias localidades cántabras.",
+  "en": {
+   "titulo": "'La doble víctima' Presentation in Cantabria",
+   "resumen": "Lawyer and novelist Pablo Alaña presents his judicial thriller 'La doble víctima' this Friday at Taiga (Torrelavega). The presentation will tour several towns in Cantabria."
+  },
+  "inicio": "2026-10-23",
+  "fin": "2026-10-23",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": "Cantabria",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "libros",
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "8d84f2c864": {
+  "url": "https://www.larioja.com/culturas/disenos-cine-pablo-buratti-anticipan-cuentalo-ayuntamiento-20261023093551-nt.html",
+  "fuente": "La Rioja (Culturas)",
+  "src": "prensa-larioja-culturas",
+  "publicado": "2026-10-23",
+  "es_plan": false
+ },
+ "72f02e25b2": {
+  "url": "https://www.larioja.com/culturas/grupo-enigma-rioja-filarmonia-abren-festival-xii-20261023093539-nt.html",
+  "fuente": "La Rioja (Culturas)",
+  "src": "prensa-larioja-culturas",
+  "publicado": "2026-10-23",
+  "es_plan": false
+ },
+ "bfc5e16c89": {
+  "url": "https://www.larioja.com/culturas/muestra-aficionados-completa-tres-ultimas-funciones-auditorio-20261023093524-nt.html",
+  "fuente": "La Rioja (Culturas)",
+  "src": "prensa-larioja-culturas",
+  "publicado": "2026-10-23",
+  "es_plan": false
+ },
+ "3d403669ba": {
+  "url": "https://www.larioja.com/culturas/musica/abonos-ciegos-festival-moradillos-prejano-20261022160052-nt.html",
+  "fuente": "La Rioja (Culturas)",
+  "src": "prensa-larioja-culturas",
+  "publicado": "2026-10-23",
+  "es_plan": true,
+  "titulo": "Festival El Moradillos de Préjano anuncia su undécima edición",
+  "resumen": "El festival El Moradillos de Préjano anuncia las fechas para su undécima edición, que se celebrará el 2 y 3 de julio. Se anticipa como la edición más internacional.",
+  "en": {
+   "titulo": "El Moradillos de Préjano Festival Announces Its Eleventh Edition",
+   "resumen": "The El Moradillos de Préjano festival announces the dates for its eleventh edition, which will take place on July 2nd and 3rd. It is anticipated to be the most international edition."
+  },
+  "inicio": "2027-07-02",
+  "fin": "2027-07-03",
+  "hora": null,
+  "lugar": null,
+  "municipio": "Préjano",
+  "provincia": "La Rioja",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "fiestas",
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "db3126de25": {
+  "url": "https://www.20minutos.es/libros/ya-se-conocen-las-portadas-los-premios-planeta-2026-isabel-allende-sergio-hernandez-calle-dia-4-noviembre_7052223_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-10-22",
+  "es_plan": true,
+  "titulo": "Nuevas novelas de Isabel Allende y Sergio Hernández a la venta",
+  "resumen": "Las portadas de 'La hora antes del Alba' de Isabel Allende y 'La añoranza' de Sergio Hernández, ganadores de los Premios Planeta 2026, salen a la venta el 4 de noviembre. Ambas novelas exploran temas de amor, coraje y memoria.",
+  "en": {
+   "titulo": "New Novels by Isabel Allende and Sergio Hernández on Sale",
+   "resumen": "The covers of 'La hora antes del Alba' by Isabel Allende and 'La añoranza' by Sergio Hernández, winners of the 2026 Planeta Awards, go on sale on November 4th. Both novels explore themes of love, courage, and memory."
+  },
+  "inicio": "2026-11-04",
+  "fin": "2026-11-04",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
  }
 }

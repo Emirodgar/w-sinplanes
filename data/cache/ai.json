@@ -4779,5 +4779,1221 @@
    "museos"
   ],
   "a_cubierto": true
+ },
+ "85ce7c3511": {
+  "id": "b76a71604a",
+  "es": {
+   "titulo": "31 Queer Cinema Fest",
+   "resumen": "Festival de cine queer en la Cineteca de Madrid. Descubre lo mejor del cine LGTBIQ+ en un evento cultural imperdible."
+  },
+  "en": {
+   "titulo": "31 Queer Cinema Fest",
+   "resumen": "Queer film festival at Cineteca Madrid. Discover the best of LGBTQ+ cinema in an unmissable cultural event."
+  },
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": true
+ },
+ "9c1e254fda": {
+  "id": "c9715113a8",
+  "es": {
+   "titulo": "75 Años en Madrid: Historia de Vicálvaro",
+   "resumen": "Documental que recorre la historia de Vicálvaro, desde sus orígenes hasta la actualidad. Explora las transformaciones, patrimonio y memoria colectiva del distrito madrileño."
+  },
+  "en": {
+   "titulo": "75 Years in Madrid: History of Vicálvaro",
+   "resumen": "Documentary tracing the history of Vicálvaro, from its origins to the present day. Explore the transformations, heritage, and collective memory of this Madrid district."
+  },
+  "temas": [
+   "cultura",
+   "historia"
+  ],
+  "a_cubierto": true
+ },
+ "c42b7c123d": {
+  "id": "41764e7ff6",
+  "es": {
+   "titulo": "Amor a mano en Villa de Vallecas",
+   "resumen": "Evento cultural en el distrito de Villa de Vallecas, Madrid. Más detalles sobre la actividad se pueden encontrar en la programación local."
+  },
+  "en": {
+   "titulo": "Love by Hand in Villa de Vallecas",
+   "resumen": "Cultural event in the Villa de Vallecas district of Madrid. Further details about the activity can be found in the local program."
+  },
+  "temas": [
+   "cultura",
+   "artesania"
+  ],
+  "a_cubierto": true
+ },
+ "e1664bef9e": {
+  "id": "2a8c2ef0e6",
+  "es": {
+   "titulo": "AntonashPiano en Chamberí",
+   "resumen": "Actuación musical de AntonashPiano en el Centro Cultural Galileo, ubicado en el distrito de Chamberí, Madrid."
+  },
+  "en": {
+   "titulo": "AntonashPiano in Chamberí",
+   "resumen": "Musical performance by AntonashPiano at the Galileo Cultural Center, located in the Chamberí district of Madrid."
+  },
+  "temas": [
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "6a614586fb": {
+  "id": "b64290820a",
+  "es": {
+   "titulo": "Sonidos Danzantes II: Flamenco a Contratiempo",
+   "resumen": "Evento de flamenco titulado 'Sonidos danzantes II (flamenco a contratiempo)' en la Cineteca de Madrid. Una propuesta rítmica y expresiva."
+  },
+  "en": {
+   "titulo": "Dancing Sounds II: Flamenco Off-Beat",
+   "resumen": "Flamenco event titled 'Dancing Sounds II (flamenco off-beat)' at Cineteca Madrid. A rhythmic and expressive performance."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "5ef793223f": {
+  "id": "1dd0b0bff2",
+  "es": {
+   "titulo": "Concierto de Piano de Antonio Carmona Eisman",
+   "resumen": "Joven promesa del piano, Antonio Carmona Eisman, ofrece un concierto gratuito en el Centro Cultural Galileo. Explora su versatilidad entre blues, rock, jazz y flamenco."
+  },
+  "en": {
+   "titulo": "Piano Concert by Antonio Carmona Eisman",
+   "resumen": "Young piano prodigy Antonio Carmona Eisman offers a free concert at the Galileo Cultural Center. Explore his versatility across blues, rock, jazz, and flamenco."
+  },
+  "temas": [
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "bd551b3c75": {
+  "id": "a8e091f52e",
+  "es": {
+   "titulo": "Exposición 'Diver_gentes' sobre discapacidad intelectual",
+   "resumen": "Exposición fotográfica en el Centro Sociocultural Cánovas del Castillo que sensibiliza sobre la discapacidad intelectual. Invita a reflexionar sobre la percepción."
+  },
+  "en": {
+   "titulo": "'Diver_gentes' Exhibition on Intellectual Disability",
+   "resumen": "Photographic exhibition at the Cánovas del Castillo Cultural Center raises awareness about intellectual disability. It invites reflection on perception."
+  },
+  "temas": [
+   "cultura",
+   "fotografia"
+  ],
+  "a_cubierto": true
+ },
+ "92be0c5bf0": {
+  "id": "a9f513f5ff",
+  "es": {
+   "titulo": "Dúo de Jazz y Bolero: Natalia Baeza y Jesús Parra",
+   "resumen": "Concierto íntimo de voz y guitarra con Natalia Baeza y Jesús Parra en el Centro Sociocultural San Fermín. Un repertorio que fusiona jazz, bolero y otros géneros."
+  },
+  "en": {
+   "titulo": "Jazz and Bolero Duo: Natalia Baeza and Jesús Parra",
+   "resumen": "Intimate voice and guitar concert by Natalia Baeza and Jesús Parra at the San Fermín Cultural Center. A repertoire blending jazz, bolero, and other genres."
+  },
+  "temas": [
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "050aac17ee": {
+  "id": "a00575e719",
+  "es": {
+   "titulo": "El joven Fionn y el troll de las estrellas",
+   "resumen": "Cuentacuentos infantil 'El joven Fionn. El troll de las estrellas de Ezao' en la Biblioteca Pública Municipal Eugenio Trías, Retiro."
+  },
+  "en": {
+   "titulo": "Young Fionn and the Troll of the Stars",
+   "resumen": "Children's storytelling event 'Young Fionn. The Troll of the Stars of Ezao' at the Eugenio Trías Municipal Public Library in Retiro."
+  },
+  "temas": [
+   "ninos",
+   "libros"
+  ],
+  "a_cubierto": true
+ },
+ "110cb0bd37": {
+  "id": "a2d535b48b",
+  "es": {
+   "titulo": "Cuentos 'El porqué de los seres y las cosas'",
+   "resumen": "Espectáculo infantil en el Centro Sociocultural San Fermín que explica el origen de las cosas a través de cuentos populares de América."
+  },
+  "en": {
+   "titulo": "Stories: 'The Why of Beings and Things'",
+   "resumen": "Children's show at the San Fermín Cultural Center explains the origin of things through popular tales from America."
+  },
+  "temas": [
+   "ninos",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "6daeca78cd": {
+  "id": "7a36e09025",
+  "es": {
+   "titulo": "Esas Imágenes en Movimiento (II)",
+   "resumen": "Continuación del ciclo 'Esas imágenes en movimiento' en la Cineteca de Madrid. Exploración del cine y sus formas."
+  },
+  "en": {
+   "titulo": "Those Moving Images (II)",
+   "resumen": "Continuation of the 'Those Moving Images' series at Cineteca Madrid. An exploration of cinema and its forms."
+  },
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": true
+ },
+ "88f0f8eb2d": {
+  "id": "e0aa5bea68",
+  "es": {
+   "titulo": "Exposición Colectiva Contodoarte",
+   "resumen": "Muestra artística en el Centro Cultural Puerta de Toledo con obras de artistas con discapacidad. Explora la creatividad y la expresión artística."
+  },
+  "en": {
+   "titulo": "Contodoarte Collective Exhibition",
+   "resumen": "Art exhibition at the Puerta de Toledo Cultural Center featuring works by artists with disabilities. Explores creativity and artistic expression."
+  },
+  "temas": [
+   "cultura",
+   "arte"
+  ],
+  "a_cubierto": true
+ },
+ "331631b163": {
+  "id": "65ed5b06e3",
+  "es": {
+   "titulo": "Exposición Inmersiva: La Odisea",
+   "resumen": "Experiencia inmersiva en Matadero Madrid basada en 'La Odisea'. Un viaje a través de la famosa epopeya."
+  },
+  "en": {
+   "titulo": "Immersive Exhibition: The Odyssey",
+   "resumen": "Immersive experience at Matadero Madrid based on 'The Odyssey'. A journey through the famous epic."
+  },
+  "temas": [
+   "cultura",
+   "arte"
+  ],
+  "a_cubierto": true
+ },
+ "7850aa5109": {
+  "id": "6ae65be049",
+  "es": {
+   "titulo": "45 Certamen de Pequeño Formato",
+   "resumen": "Exposición del 45º Certamen de Pequeño Formato de la Asociación Española de Pintores y Escultores en el Centro Cultural Príncipe de Asturias."
+  },
+  "en": {
+   "titulo": "45th Small Format Competition",
+   "resumen": "Exhibition of the 45th Small Format Competition by the Spanish Association of Painters and Sculptors at the Príncipe de Asturias Cultural Center."
+  },
+  "temas": [
+   "cultura",
+   "arte"
+  ],
+  "a_cubierto": true
+ },
+ "ccc2db78f8": {
+  "id": "5a2e1d6877",
+  "es": {
+   "titulo": "Exposición 'Contra Mitos'",
+   "resumen": "Revisión crítica de la mitología griega en el Centro Sociocultural Alfonso XII, centrada en el papel de la mujer. Del 1 al 29 de octubre."
+  },
+  "en": {
+   "titulo": "Exhibition: 'Against Myths'",
+   "resumen": "Critical review of Greek mythology at the Alfonso XII Cultural Center, focusing on the role of women. From October 1st to 29th."
+  },
+  "temas": [
+   "cultura",
+   "arte"
+  ],
+  "a_cubierto": true
+ },
+ "0c2005f2e3": {
+  "id": "e44df63e6c",
+  "es": {
+   "titulo": "Exposición 'Madera y Fuego'",
+   "resumen": "Exposición de pirograbado en madera en el Centro Sociocultural Rafael de León. Muestra el arte de quemar madera para crear imágenes."
+  },
+  "en": {
+   "titulo": "Exhibition: 'Wood and Fire'",
+   "resumen": "Wood pyrography exhibition at the Rafael de León Cultural Center. Showcases the art of burning wood to create images."
+  },
+  "temas": [
+   "cultura",
+   "arte"
+  ],
+  "a_cubierto": true
+ },
+ "f563558b6c": {
+  "id": "a258c7678c",
+  "es": {
+   "titulo": "Exposición: XI Salón del Realismo",
+   "resumen": "El XI Salón del Realismo, organizado por la Asociación Española de Pintores y Escultores, se exhibe en el Centro Cultural La Vaguada."
+  },
+  "en": {
+   "titulo": "Exhibition: XI Salon of Realism",
+   "resumen": "The XI Salon of Realism, organized by the Spanish Association of Painters and Sculptors, is exhibited at the La Vaguada Cultural Center."
+  },
+  "temas": [
+   "cultura",
+   "arte"
+  ],
+  "a_cubierto": true
+ },
+ "d8e7181999": {
+  "id": "3067e35407",
+  "es": {
+   "titulo": "Exposición: 'De Madrid al Cielo'",
+   "resumen": "VI Concurso de fotografía del Museo de Historia de Madrid. Explora la relación entre el cielo y el paisaje urbano madrileño."
+  },
+  "en": {
+   "titulo": "Exhibition: 'From Madrid to the Sky'",
+   "resumen": "6th Photography Contest by the Madrid History Museum. Explores the relationship between the sky and Madrid's urban landscape."
+  },
+  "temas": [
+   "cultura",
+   "fotografia",
+   "naturaleza"
+  ],
+  "a_cubierto": true
+ },
+ "8a1f5fdb57": {
+  "id": "2f4c7b6457",
+  "es": {
+   "titulo": "Exposición: 'Instantes en Blanco y Negro'",
+   "resumen": "Exposición fotográfica 'Instantes en blanco y negro' de Fernando Mardones Morales en el Centro Sociocultural Valle Inclán."
+  },
+  "en": {
+   "titulo": "Exhibition: 'Moments in Black and White'",
+   "resumen": "Photographic exhibition 'Moments in Black and White' by Fernando Mardones Morales at the Valle Inclán Cultural Center."
+  },
+  "temas": [
+   "cultura",
+   "fotografia"
+  ],
+  "a_cubierto": true
+ },
+ "f98d9f7f4d": {
+  "id": "9ce70e173a",
+  "es": {
+   "titulo": "Exposición: '40 Años, el Madrid de Tierno'",
+   "resumen": "Exposición conmemorativa sobre Enrique Tierno Galván, alcalde de Madrid. Repasa su legado como político, intelectual y profesor."
+  },
+  "en": {
+   "titulo": "Exhibition: '40 Years, Tierno's Madrid'",
+   "resumen": "Commemorative exhibition about Enrique Tierno Galván, former mayor of Madrid. Reviews his legacy as a politician, intellectual, and professor."
+  },
+  "temas": [
+   "cultura",
+   "historia"
+  ],
+  "a_cubierto": true
+ },
+ "96eb09edd4": {
+  "id": "9c241bab26",
+  "es": {
+   "titulo": "Exposición: 'Biodiversidad Doméstica. Compañeros de Piso'",
+   "resumen": "Exposición del Museo Nacional de Ciencias Naturales sobre los seres vivos que conviven en nuestros hogares. Descubre la vida microscópica."
+  },
+  "en": {
+   "titulo": "Exhibition: 'Domestic Biodiversity. Flatmates'",
+   "resumen": "Exhibition from the National Museum of Natural Sciences about the living beings that coexist in our homes. Discover microscopic life."
+  },
+  "temas": [
+   "naturaleza",
+   "ninos",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "665cd71aea": {
+  "id": "e33d34912e",
+  "es": {
+   "titulo": "Obra: 'Extraño anuncio de Adolfo Marsillac'",
+   "resumen": "Comedia teatral en el Centro Cultural Lope de Vega. Un hombre de rutinas recibe visitas inesperadas que alteran su vida monótona."
+  },
+  "en": {
+   "titulo": "Play: 'Strange Announcement by Adolfo Marsillac'",
+   "resumen": "Theatrical comedy at the Lope de Vega Cultural Center. A man of routine receives unexpected visitors that disrupt his monotonous life."
+  },
+  "temas": [
+   "cultura",
+   "teatro"
+  ],
+  "a_cubierto": true
+ },
+ "bd45b6084e": {
+  "id": "c9706017e8",
+  "es": {
+   "titulo": "Espectáculo Familiar: 7 Bubbles: 'Burbuja'",
+   "resumen": "Espectáculo familiar '7 Bubbles: Burbuja' en el Centro Cultural Villa de Barajas. Una propuesta para todos los públicos."
+  },
+  "en": {
+   "titulo": "Family Show: 7 Bubbles: 'Bubble'",
+   "resumen": "Family show '7 Bubbles: Bubble' at the Villa de Barajas Cultural Center. A performance for all audiences."
+  },
+  "temas": [
+   "ninos",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "0117696ba3": {
+  "id": "e7109ba9a8",
+  "es": {
+   "titulo": "Exposición: 'Fantasía: la magia del color'",
+   "resumen": "Exposición pictórica de Andrés Blanco en el Centro Cultural San Juan Bautista. Muestra la evolución de su trayectoria artística y estilos."
+  },
+  "en": {
+   "titulo": "Exhibition: 'Fantasy: The Magic of Color'",
+   "resumen": "Painting exhibition by Andrés Blanco at the San Juan Bautista Cultural Center. Shows the evolution of his artistic career and styles."
+  },
+  "temas": [
+   "cultura",
+   "arte"
+  ],
+  "a_cubierto": true
+ },
+ "d5ef7ca37b": {
+  "id": "fce3437de8",
+  "es": {
+   "titulo": "Far Away Jazz Quartet en Hortaleza",
+   "resumen": "Concierto de jazz acústico con el Far Away Jazz Quartet en el Centro Cultural Carril del Conde. Improvisación y composiciones originales."
+  },
+  "en": {
+   "titulo": "Far Away Jazz Quartet in Hortaleza",
+   "resumen": "Acoustic jazz concert with the Far Away Jazz Quartet at the Carril del Conde Cultural Center. Featuring improvisation and original compositions."
+  },
+  "temas": [
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "93b4619d98": {
+  "id": "f83569e1bd",
+  "es": {
+   "titulo": "Festival de Teatro Fernando Santos",
+   "resumen": "Cuatro obras cortas de teatro se presentan en el Centro Sociocultural Rosario de Acuña. Las piezas exploran temas como la infidelidad, la lectura a personas ciegas, las relaciones de pareja y los reencuentros."
+  },
+  "en": {
+   "titulo": "Fernando Santos Theater Festival",
+   "resumen": "Four short plays are presented at the Rosario de Acuña Sociocultural Center. The pieces explore themes such as infidelity, reading to blind people, couple relationships, and reunions."
+  },
+  "temas": [
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "7e0c36258d": {
+  "id": "8412eabbec",
+  "es": {
+   "titulo": "Festival EÑE «Poéticas de la identidad»",
+   "resumen": "El Centro de Cultura Contemporánea CondeDuque acoge el Festival EÑE, centrado en las 'Poéticas de la identidad'. Un evento cultural que explora la expresión literaria y la identidad."
+  },
+  "en": {
+   "titulo": "EÑE Festival «Poetics of Identity»",
+   "resumen": "The CondeDuque Contemporary Culture Center hosts the EÑE Festival, focusing on 'Poetics of Identity'. A cultural event exploring literary expression and identity."
+  },
+  "temas": [
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": true
+ },
+ "66ee567264": {
+  "id": "e8b7a97e7d",
+  "es": {
+   "titulo": "Festival Internacional de Guitarra Andrés Segovia: Concierto",
+   "resumen": "El Museo de Historia de Madrid celebra la 40ª edición del Festival Internacional Andrés Segovia con un concierto de guitarra solista a cargo de Ioanna Kazoglou. La entrada es libre hasta completar aforo."
+  },
+  "en": {
+   "titulo": "Andrés Segovia International Guitar Festival: Concert",
+   "resumen": "The Museum of History of Madrid celebrates the 40th edition of the Andrés Segovia International Guitar Festival with a solo guitar concert by Ioanna Kazoglou. Entry is free until capacity is reached."
+  },
+  "temas": [
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "887454fcaf": {
+  "id": "d5dc5306a1",
+  "es": {
+   "titulo": "Festival Internacional JAZZMADRID26",
+   "resumen": "El Fernán Gómez Centro Cultural de la Villa presenta el Festival Internacional JAZZMADRID26. Un evento dedicado a la música jazz en la capital."
+  },
+  "en": {
+   "titulo": "JAZZMADRID26 International Festival",
+   "resumen": "The Fernán Gómez Cultural Center of the City presents the JAZZMADRID26 International Festival. An event dedicated to jazz music in the capital."
+  },
+  "temas": [
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "1d76f97a07": {
+  "id": "1ddb0f934d",
+  "es": {
+   "titulo": "Festival Literario 'Otoño Negro'. Primera jornada.",
+   "resumen": "La Biblioteca Pública Municipal Iván de Vargas inicia el Festival Literario 'Otoño Negro' con mesas redondas sobre novela bélica y género negro, y la influencia de la IA en la novela negra."
+  },
+  "en": {
+   "titulo": "Literary Festival 'Black Autumn'. First day.",
+   "resumen": "The Iván de Vargas Municipal Public Library begins the 'Black Autumn' Literary Festival with round tables on war novels and the noir genre, and the influence of AI on noir fiction."
+  },
+  "temas": [
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": true
+ },
+ "ca302c065a": {
+  "id": "1ed1ce1e6d",
+  "es": {
+   "titulo": "Festival Literario 'Otoño Negro'. Segunda jornada.",
+   "resumen": "La segunda jornada del Festival Literario 'Otoño Negro' en la Biblioteca Pública Municipal Iván de Vargas aborda perfiles de asesinos, el costumbrismo en la novela policíaca y la relación entre humor y novela negra."
+  },
+  "en": {
+   "titulo": "Literary Festival 'Black Autumn'. Second day.",
+   "resumen": "The second day of the 'Black Autumn' Literary Festival at the Iván de Vargas Municipal Public Library discusses killer profiles, local customs in detective novels, and the relationship between humor and noir fiction."
+  },
+  "temas": [
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": true
+ },
+ "e2bbd2e6e2": {
+  "id": "8c7c2f1412",
+  "es": {
+   "titulo": "Festival Literario 'Otoño Negro'. Tercera jornada.",
+   "resumen": "La clausura del Festival Literario 'Otoño Negro' en la Biblioteca Pública Municipal Iván de Vargas incluye debates sobre la trama criminal, géneros de thriller y el propósito de la novela negra, finalizando con un recorrido literario por el 'Madrid de la muerte'."
+  },
+  "en": {
+   "titulo": "Literary Festival 'Black Autumn'. Third day.",
+   "resumen": "The closing of the 'Black Autumn' Literary Festival at the Iván de Vargas Municipal Public Library includes debates on criminal plots, thriller genres, and the purpose of noir fiction, concluding with a literary tour of 'Madrid of Death'."
+  },
+  "temas": [
+   "cultura",
+   "libros",
+   "rutas"
+  ],
+  "a_cubierto": true
+ },
+ "6b80d7439d": {
+  "id": "a0885f6813",
+  "es": {
+   "titulo": "Fiesta de Halloween en Río Esmeralda",
+   "resumen": "El Centro Intergeneracional Río Esmeralda celebra una fiesta de Halloween. Un evento para disfrutar de la noche más terrorífica del año."
+  },
+  "en": {
+   "titulo": "Halloween Party at Río Esmeralda",
+   "resumen": "The Río Esmeralda Intergenerational Center is hosting a Halloween party. An event to enjoy the most terrifying night of the year."
+  },
+  "temas": [
+   "fiestas",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "00408a78cb": {
+  "id": "a0c589a0d5",
+  "es": {
+   "titulo": "Fiesta en el castillo",
+   "resumen": "Ditirambo presenta 'Fiesta en el castillo', una obra infantil donde una maga y un fantasma simpático interactúan con los niños. Recomendada para edades de 6 a 10 años."
+  },
+  "en": {
+   "titulo": "Party at the Castle",
+   "resumen": "Ditirambo presents 'Party at the Castle', a children's play where a magician and a friendly ghost interact with the children. Recommended for ages 6 to 10."
+  },
+  "temas": [
+   "cultura",
+   "ninos",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "85342709d5": {
+  "id": "9f69f67127",
+  "es": {
+   "titulo": "Filmoteca SanFerFLIX: 'Irlanda: más allá de los tópicos'",
+   "resumen": "La Biblioteca Pública Municipal San Fermín proyecta 'Irlanda: más allá de los tópicos' como parte de su ciclo Filmoteca SanFerFLIX. Una oportunidad para descubrir la cultura irlandesa."
+  },
+  "en": {
+   "titulo": "SanFerFLIX Film Library: 'Ireland: Beyond the Stereotypes'",
+   "resumen": "The San Fermín Municipal Public Library screens 'Ireland: Beyond the Stereotypes' as part of its SanFerFLIX Film Library series. An opportunity to discover Irish culture."
+  },
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": true
+ },
+ "1494bbc33a": {
+  "id": "34d48f8d01",
+  "es": {
+   "titulo": "Finca Vista Alegre: Recorrido Histórico",
+   "resumen": "Se ofrece un recorrido por la Finca Vista Alegre, una antigua finca aristocrática del siglo XIX, para conocer su esencia y la historia de las fiestas palaciegas. Actividad para adultos con inscripción previa."
+  },
+  "en": {
+   "titulo": "Vista Alegre Estate: Historical Tour",
+   "resumen": "A tour is offered of the Vista Alegre Estate, a former aristocratic 19th-century estate, to learn about its essence and the history of its palace parties. Activity for adults with prior registration."
+  },
+  "temas": [
+   "cultura",
+   "rutas",
+   "parques"
+  ],
+  "a_cubierto": null
+ },
+ "fbdcf810de": {
+  "id": "c2d8e3f1b7",
+  "es": {
+   "titulo": "Fire Supply",
+   "resumen": "La Cineteca Madrid presenta 'Fire Supply', un film donde una madre confiesa su admiración por el dueño de un centro de patinaje, inspirando a su hijo a acercarse a él."
+  },
+  "en": {
+   "titulo": "Fire Supply",
+   "resumen": "Cineteca Madrid presents 'Fire Supply', a film where a mother confesses her admiration for the owner of an ice skating rink, inspiring her son to approach him."
+  },
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": true
+ },
+ "beffb6b8dd": {
+  "id": "f761115e41",
+  "es": {
+   "titulo": "Flamenco Kids",
+   "resumen": "Flamenco Kids es un espectáculo didáctico y divertido que acerca el flamenco a niños y mayores a través de música, juego y personajes singulares. Una aventura en directo con José Luis Montón."
+  },
+  "en": {
+   "titulo": "Flamenco Kids",
+   "resumen": "Flamenco Kids is an educational and fun show that introduces flamenco to children and adults through music, games, and unique characters. A live adventure with José Luis Montón."
+  },
+  "temas": [
+   "cultura",
+   "musica",
+   "ninos"
+  ],
+  "a_cubierto": true
+ },
+ "b2e925fa56": {
+  "id": "0f097e2019",
+  "es": {
+   "titulo": "Fragmentos de identidad",
+   "resumen": "El Centro Cultural Usera presenta 'Fragmentos de identidad', una exposición vibrante que descompone facciones y emociones en un juego de formas, texturas y tonalidades. Apta para todos los públicos."
+  },
+  "en": {
+   "titulo": "Fragments of Identity",
+   "resumen": "The Usera Cultural Center presents 'Fragments of Identity', a vibrant exhibition that breaks down features and emotions into a play of unique shapes, textures, and tones. Suitable for all audiences."
+  },
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true
+ },
+ "e958a356b1": {
+  "id": "e0f4471fa3",
+  "es": {
+   "titulo": "Fulgencio Malayerba de Javier Baeza",
+   "resumen": "La Biblioteca Pública Municipal Iván de Vargas acoge la obra 'Fulgencio Malayerba' de Javier Baeza. Un evento cultural en el corazón de Madrid."
+  },
+  "en": {
+   "titulo": "Fulgencio Malayerba by Javier Baeza",
+   "resumen": "The Iván de Vargas Municipal Public Library hosts the work 'Fulgencio Malayerba' by Javier Baeza. A cultural event in the heart of Madrid."
+  },
+  "temas": [
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": true
+ },
+ "a53392c44f": {
+  "id": "7c0923778c",
+  "es": {
+   "titulo": "Full of memories",
+   "resumen": "El Centro Cultural José Luis López Vázquez presenta la exposición 'Full of memories' de Carlos Losa. Una muestra que invita a la reflexión a través de la obra del artista."
+  },
+  "en": {
+   "titulo": "Full of memories",
+   "resumen": "The José Luis López Vázquez Cultural Center presents the exhibition 'Full of memories' by Carlos Losa. A show that invites reflection through the artist's work."
+  },
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true
+ },
+ "5fc188d7e9": {
+  "id": "ab3f4da56c",
+  "es": {
+   "titulo": "Gallega invernal + Avenida Saenz 1073",
+   "resumen": "La Cineteca Madrid proyecta dos piezas: 'Gallega invernal', sobre el amor a una confitería, y 'Avenida Saenz 1073', un video dedicado a la enfermedad de un padre."
+  },
+  "en": {
+   "titulo": "Winter Galician + Avenida Saenz 1073",
+   "resumen": "Cineteca Madrid screens two pieces: 'Winter Galician', about love for a confectionery, and 'Avenida Saenz 1073', a video dedicated to a father's illness."
+  },
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": true
+ },
+ "45ea9848fc": {
+  "id": "435952b296",
+  "es": {
+   "titulo": "Ganchillo en compañía",
+   "resumen": "La Biblioteca Pública Municipal Ángel González ofrece un espacio para la práctica del ganchillo en compañía. Una actividad para compartir y crear."
+  },
+  "en": {
+   "titulo": "Crochet Together",
+   "resumen": "The Ángel González Municipal Public Library offers a space for practicing crochet together. An activity to share and create."
+  },
+  "temas": [
+   "actividades",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "f149595f82": {
+  "id": "77cff6b3b1",
+  "es": {
+   "titulo": "Gatadans. Creadores Emergentes: Lucía Ramírez",
+   "resumen": "El Festival Gatadans, en su XXIV edición, presenta en el Centro Cultural Fernando Lázaro Carreter a Lucía Ramírez y Compañía La Chula. Impulsa la danza de jóvenes creadores."
+  },
+  "en": {
+   "titulo": "Gatadans. Emerging Creators: Lucía Ramírez",
+   "resumen": "The Gatadans Festival, in its 24th edition, presents Lucía Ramírez and Compañía La Chula at the Fernando Lázaro Carreter Cultural Center. It promotes dance by young creators."
+  },
+  "temas": [
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "41f4c1f9cd": {
+  "id": "c4df2602da",
+  "es": {
+   "titulo": "Gatos encaramados",
+   "resumen": "La Cineteca Madrid proyecta 'Gatos encaramados', un viaje visual y reflexivo por París tras el 11-S, explorando arte urbano y protestas sociales. Incluye coloquio posterior."
+  },
+  "en": {
+   "titulo": "Perched Cats",
+   "resumen": "Cineteca Madrid screens 'Perched Cats', a visual and reflective journey through Paris after 9/11, exploring urban art and social protests. Includes a post-screening discussion."
+  },
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": true
+ },
+ "b03ba1e636": {
+  "id": "506d3cc39c",
+  "es": {
+   "titulo": "Gaudí eterno, 100 años después (1926-2026)",
+   "resumen": "El Centro Cultural San Francisco La Prensa ofrece una conferencia sobre Antoni Gaudí, explorando su pensamiento y obra arquitectónica que rompió moldes y sigue fascinando."
+  },
+  "en": {
+   "titulo": "Eternal Gaudí, 100 Years Later (1926-2026)",
+   "resumen": "The San Francisco La Prensa Cultural Center offers a lecture on Antoni Gaudí, exploring his thought and architectural work that broke molds and continues to fascinate."
+  },
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true
+ },
+ "b204c1f1d1": {
+  "id": "73fd62a8c0",
+  "es": {
+   "titulo": "Gentle Monster",
+   "resumen": "La Cineteca Madrid presenta 'Gentle Monster', un film de Marie Kreutzer sobre una cantante que busca recuperarse en el campo. Se incluye información sobre la directora."
+  },
+  "en": {
+   "titulo": "Gentle Monster",
+   "resumen": "Cineteca Madrid presents 'Gentle Monster', a film by Marie Kreutzer about a singer seeking recovery in the countryside. Information about the director is included."
+  },
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": true
+ },
+ "b8c722bae8": {
+  "id": "8aa72dabd2",
+  "es": {
+   "titulo": "Glamour",
+   "resumen": "La Junta Municipal de Usera presenta 'Glamour', una exposición de Álvaro J. Abad Sanz que invita a un viaje visual a través de artistas despojados de color para revelar su esencia."
+  },
+  "en": {
+   "titulo": "Glamour",
+   "resumen": "The Usera Municipal Board presents 'Glamour', an exhibition by Álvaro J. Abad Sanz that invites a visual journey through artists stripped of color to reveal their essence."
+  },
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true
+ },
+ "a5ca69f6b3": {
+  "id": "90e1b06e56",
+  "es": {
+   "titulo": "Gloria en mi memoria",
+   "resumen": "El Centro Sociocultural Miguel de Cervantes presenta 'Gloria en mi memoria', una obra de Teatro Trastapillada que narra la vida de Gloria Fuertes a través de poemas y canciones, promoviendo valores."
+  },
+  "en": {
+   "titulo": "Glory in My Memory",
+   "resumen": "The Miguel de Cervantes Sociocultural Center presents 'Glory in My Memory', a play by Teatro Trastapillada that narrates the life of Gloria Fuertes through poems and songs, promoting values."
+  },
+  "temas": [
+   "cultura",
+   "ninos"
+  ],
+  "a_cubierto": true
+ },
+ "32c960049a": {
+  "id": "efb8f115d9",
+  "es": {
+   "titulo": "Gran asedio de Malta: Tercios. Hugo A. Cañete",
+   "resumen": "La Sala de exposiciones La Lonja acoge una charla de Hugo A. Cañete sobre el Gran Asedio de Malta y el papel de los tercios españoles, analizando la dimensión militar del Mediterráneo."
+  },
+  "en": {
+   "titulo": "Great Siege of Malta: Tercio. Hugo A. Cañete",
+   "resumen": "The La Lonja exhibition hall hosts a talk by Hugo A. Cañete on the Great Siege of Malta and the role of the Spanish tercios, analyzing the military dimension of the Mediterranean."
+  },
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true
+ },
+ "a8b3a52f6c": {
+  "id": "e653b8781f",
+  "es": {
+   "titulo": "Gravity & other myths",
+   "resumen": "Disfruta de un espectáculo de teatro y circo en el Teatro Circo Price. Una experiencia que combina fuerza y arte escénico."
+  },
+  "en": {
+   "titulo": "Gravity & other myths",
+   "resumen": "Enjoy a theater and circus show at Teatro Circo Price. An experience combining strength and stage art."
+  },
+  "temas": [
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "0d1369a9ab": {
+  "id": "b091b3d062",
+  "es": {
+   "titulo": "Gregorio Ordóñez: Exposición",
+   "resumen": "La Fundación FAES rinde homenaje al político Gregorio Ordóñez con una exposición en el Centro Cultural Eduardo Úrculo. Descubre su legado y sacrificio por las libertades."
+  },
+  "en": {
+   "titulo": "Gregorio Ordóñez: Exhibition",
+   "resumen": "The FAES Foundation pays tribute to politician Gregorio Ordóñez with an exhibition at the Eduardo Úrculo Cultural Center. Discover his legacy and sacrifice for freedom."
+  },
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true
+ },
+ "6b2ec67766": {
+  "id": "65cb8ac4aa",
+  "es": {
+   "titulo": "Guardiana de dragones (Dragonkeeper)",
+   "resumen": "Asiste a la proyección de 'Guardiana de dragones' en el Centro Cultural Alfonso Ussía. Una aventura que te transportará a mundos fantásticos."
+  },
+  "en": {
+   "titulo": "Dragonkeeper",
+   "resumen": "Attend the screening of 'Dragonkeeper' at the Alfonso Ussía Cultural Center. An adventure that will transport you to fantastic worlds."
+  },
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": true
+ },
+ "16021416e8": {
+  "id": "5e4623ac39",
+  "es": {
+   "titulo": "Guatemala: Derechos de las niñas",
+   "resumen": "Explora la exposición fotográfica de UNICEF España en el Centro Cultural Sanchinarro. Conoce los programas que mejoran la vida y promueven los derechos de las niñas en Guatemala."
+  },
+  "en": {
+   "titulo": "Guatemala: Girls' Rights",
+   "resumen": "Explore UNICEF Spain's photographic exhibition at the Sanchinarro Cultural Center. Learn about programs improving the lives and promoting the rights of girls in Guatemala."
+  },
+  "temas": [
+   "cultura",
+   "ninos"
+  ],
+  "a_cubierto": true
+ },
+ "3faa549459": {
+  "id": "5e43ab9c71",
+  "es": {
+   "titulo": "Guerrero",
+   "resumen": "Evento titulado 'Guerrero' en Madrid. Más detalles sobre el contenido no están disponibles."
+  },
+  "en": {
+   "titulo": "Guerrero",
+   "resumen": "Event titled 'Guerrero' in Madrid. Further details about the content are not available."
+  },
+  "temas": [
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": null
+ },
+ "870b293c54": {
+  "id": "210ada9aef",
+  "es": {
+   "titulo": "Gymkana de Halloween",
+   "resumen": "Participa en una divertida Gymkana de Halloween para jóvenes de 8 a 14 años en la plaza Romana. Juegos cooperativos y pruebas temáticas gratuitas."
+  },
+  "en": {
+   "titulo": "Halloween Gymkhana",
+   "resumen": "Join a fun Halloween Gymkhana for ages 8-14 in Plaza Romana. Free cooperative games and themed challenges await."
+  },
+  "temas": [
+   "fiestas",
+   "actividades",
+   "ninos"
+  ],
+  "a_cubierto": false
+ },
+ "234702ff10": {
+  "id": "191e9e8f6a",
+  "es": {
+   "titulo": "HablArte: Arte y Naturaleza en la era IA",
+   "resumen": "Conferencia de Antonio Vigo sobre 'Arte y Naturaleza en el tiempo de la IA' en el Museo de Historia de Madrid. Explora la relación entre arte, naturaleza y tecnología."
+  },
+  "en": {
+   "titulo": "HablArte: Art & Nature in the AI Era",
+   "resumen": "Lecture by Antonio Vigo on 'Art and Nature in the Age of AI' at the Museum of History of Madrid. Explore the relationship between art, nature, and technology."
+  },
+  "temas": [
+   "cultura",
+   "naturaleza",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "088e88b917": {
+  "id": "86f9e6766a",
+  "es": {
+   "titulo": "HablArte: Arte y Naturaleza en la era IA",
+   "resumen": "Ignacio Asenjo imparte una charla sobre 'Arte y Naturaleza en el tiempo de la IA' en el Museo de Historia de Madrid. Reflexiona sobre el impacto de la inteligencia artificial en el arte."
+  },
+  "en": {
+   "titulo": "HablArte: Art & Nature in the AI Era",
+   "resumen": "Ignacio Asenjo gives a talk on 'Art and Nature in the Age of AI' at the Museum of History of Madrid. Reflect on the impact of artificial intelligence on art."
+  },
+  "temas": [
+   "cultura",
+   "naturaleza",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "26de55be38": {
+  "id": "460d403a42",
+  "es": {
+   "titulo": "Halloween: Talleres terroríficos",
+   "resumen": "Celebra Halloween en el Centro Sociocultural Rosario de Acuña con talleres de manualidades terroríficas y competiciones para niños de 3 a 12 años. ¡Crea tu propia calabaza o máscara!"
+  },
+  "en": {
+   "titulo": "Halloween: Terrifying Workshops",
+   "resumen": "Celebrate Halloween at the Rosario de Acuña Cultural Center with spooky craft workshops and competitions for children aged 3-12. Create your own pumpkin or mask!"
+  },
+  "temas": [
+   "fiestas",
+   "ninos",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "a3d1c4f81e": {
+  "id": "281ca1d730",
+  "es": {
+   "titulo": "Halloween Infantil: Cuentos de Luna Llena",
+   "resumen": "Andrea Ortuzar presenta 'Cuentos de luna llena y otros espantos' para niños a partir de 4 años en el Auditorio Carmen Laforet. Una sesión de cuentacuentos mágica y terrorífica."
+  },
+  "en": {
+   "titulo": "Children's Halloween: Full Moon Tales",
+   "resumen": "Andrea Ortuzar presents 'Full Moon Tales and Other Spooks' for children aged 4+ at the Carmen Laforet Auditorium. A magical and spooky storytelling session."
+  },
+  "temas": [
+   "ninos",
+   "cultura",
+   "fiestas"
+  ],
+  "a_cubierto": true
+ },
+ "2ea62bd6d3": {
+  "id": "60b8dbb0d9",
+  "es": {
+   "titulo": "Halloween: Crea tu disfraz",
+   "resumen": "Taller de caracterización y maquillaje de terror para jóvenes de 14 a 30 años en el Centro Sociocultural San Fermín. ¡Prepárate para celebrar Halloween con un look espeluznante!"
+  },
+  "en": {
+   "titulo": "Halloween: Create Your Costume",
+   "resumen": "A special effects and horror makeup workshop for young people aged 14-30 at the San Fermín Cultural Center. Get ready to celebrate Halloween with a spooky look!"
+  },
+  "temas": [
+   "fiestas",
+   "actividades",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "c0cc881483": {
+  "id": "c384bfe591",
+  "es": {
+   "titulo": "Halloween: ¡Manos a la calabaza!",
+   "resumen": "Disfruta de una tarde de manualidades terroríficas en el Centro Sociocultural Blasco Ibáñez. Crea tus propias decoraciones de Halloween y da rienda suelta a tu imaginación."
+  },
+  "en": {
+   "titulo": "Halloween: Hands on the Pumpkin!",
+   "resumen": "Enjoy an afternoon of spooky crafts at the Blasco Ibáñez Cultural Center. Create your own Halloween decorations and unleash your imagination."
+  },
+  "temas": [
+   "fiestas",
+   "ninos",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "11c8ffb36a": {
+  "id": "ebb8220d28",
+  "es": {
+   "titulo": "Halloween: ¡Manos a la calabaza!",
+   "resumen": "El Centro Sociocultural Oporto celebra Halloween con un taller de manualidades terroríficas. ¡Crea tus propios adornos y vive una experiencia divertida y espeluznante!"
+  },
+  "en": {
+   "titulo": "Halloween: Hands on the Pumpkin!",
+   "resumen": "The Oporto Cultural Center celebrates Halloween with a spooky craft workshop. Create your own decorations and have a fun and frightful experience!"
+  },
+  "temas": [
+   "fiestas",
+   "ninos",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "eb81778cbc": {
+  "id": "c27dbd0cd4",
+  "es": {
+   "titulo": "Hansel y Gretel",
+   "resumen": "Teatro Silfo presenta una versión infantil de 'Hansel y Gretel' en el Centro Cultural Miguel Hernández. Una historia de aventuras y unión familiar adaptada para los más pequeños."
+  },
+  "en": {
+   "titulo": "Hansel and Gretel",
+   "resumen": "Teatro Silfo presents a children's version of 'Hansel and Gretel' at the Miguel Hernández Cultural Center. A story of adventure and family unity adapted for the little ones."
+  },
+  "temas": [
+   "ninos",
+   "cultura",
+   "teatro"
+  ],
+  "a_cubierto": true
+ },
+ "29abfdccf9": {
+  "id": "11837e240d",
+  "es": {
+   "titulo": "Happy Halloween: Concierto Gospel",
+   "resumen": "Disfruta de un concierto especial de Halloween a cargo del Coro Gospel UCM en el Centro Cultural Galileo. Un repertorio festivo y familiar para celebrar la noche más terrorífica."
+  },
+  "en": {
+   "titulo": "Happy Halloween: Gospel Concert",
+   "resumen": "Enjoy a special Halloween concert by the UCM Gospel Choir at the Galileo Cultural Center. A festive and family-friendly repertoire to celebrate the spookiest night."
+  },
+  "temas": [
+   "musica",
+   "fiestas",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "7168196fd2": {
+  "id": "d2d5c0c00b",
+  "es": {
+   "titulo": "Haz el humor, no la guerra",
+   "resumen": "Tony Antonio presenta su espectáculo de humor 'Haz el humor, no la guerra' en el Centro Cultural el Madroño. Prepárate para reír con sus anécdotas más delirantes."
+  },
+  "en": {
+   "titulo": "Make Humor, Not War",
+   "resumen": "Tony Antonio presents his comedy show 'Make Humor, Not War' at the El Madroño Cultural Center. Get ready to laugh with his most hilarious anecdotes."
+  },
+  "temas": [
+   "cultura",
+   "humor"
+  ],
+  "a_cubierto": true
+ },
+ "24c5abcb3a": {
+  "id": "2e6620ba67",
+  "es": {
+   "titulo": "Herramientas de vida: Actitud positiva",
+   "resumen": "Taller 'Herramientas de vida: Cómo entrenar una actitud positiva' impartido por Elena Naranjo en la Biblioteca Pública Municipal José Hierro. Aprende a cultivar el optimismo."
+  },
+  "en": {
+   "titulo": "Life Tools: Positive Attitude",
+   "resumen": "Workshop 'Life Tools: How to Cultivate a Positive Attitude' led by Elena Naranjo at the José Hierro Municipal Public Library. Learn to foster optimism."
+  },
+  "temas": [
+   "actividades",
+   "libros"
+  ],
+  "a_cubierto": true
+ },
+ "7efd2800e1": {
+  "id": "a896f6e7ae",
+  "es": {
+   "titulo": "Hierba",
+   "resumen": "Evento titulado 'Hierba' en el Centro de Cultura Contemporánea CondeDuque. Más detalles sobre el contenido no están disponibles."
+  },
+  "en": {
+   "titulo": "Hierba",
+   "resumen": "Event titled 'Hierba' at the CondeDuque Contemporary Culture Center. Further details about the content are not available."
+  },
+  "temas": [
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "9e82ab27f1": {
+  "id": "4634d41179",
+  "es": {
+   "titulo": "Hierba, de Keum Suk Gendry- Kim",
+   "resumen": "Exposición 'Hierba' de Keum Suk Gendry-Kim en el Centro de Cultura Contemporánea CondeDuque. Una muestra que explora temas relevantes a través del arte."
+  },
+  "en": {
+   "titulo": "Grass, by Keum Suk Gendry-Kim",
+   "resumen": "Exhibition 'Grass' by Keum Suk Gendry-Kim at the CondeDuque Contemporary Culture Center. A show exploring relevant themes through art."
+  },
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true
+ },
+ "358e837145": {
+  "id": "ffd8a09b28",
+  "es": {
+   "titulo": "Hijas del Bosque",
+   "resumen": "Proyección de 'Hijas del Bosque' en Cineteca Madrid. Un documental que combina ciencia y documentalismo para explorar el mundo de los hongos y la naturaleza."
+  },
+  "en": {
+   "titulo": "Daughters of the Forest",
+   "resumen": "Screening of 'Daughters of the Forest' at Cineteca Madrid. A documentary combining science and documentary filmmaking to explore the world of fungi and nature."
+  },
+  "temas": [
+   "naturaleza",
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": true
+ },
+ "d4fd2574ff": {
+  "id": "0f1371fe4a",
+  "es": {
+   "titulo": "Historia de una Muñeca Abandonada",
+   "resumen": "Teatro Silfo presenta 'Historia de una Muñeca Abandonada' en el Centro Cultural Lope de Vega. Una obra de títeres sobre el cuidado, el valor y la reutilización."
+  },
+  "en": {
+   "titulo": "Story of an Abandoned Doll",
+   "resumen": "Teatro Silfo presents 'Story of an Abandoned Doll' at the Lope de Vega Cultural Center. A puppet show about care, value, and reuse."
+  },
+  "temas": [
+   "cultura",
+   "teatro",
+   "ninos"
+  ],
+  "a_cubierto": true
+ },
+ "6713b14e98": {
+  "id": "4c6d352904",
+  "es": {
+   "titulo": "Historias de vísperas de difuntos",
+   "resumen": "La Compañía Nelson Calderón presenta 'Historias de vísperas de difuntos' en el Centro Cultural Hortaleza. Un ciclo de cuentos para adentrarse en lo sobrenatural."
+  },
+  "en": {
+   "titulo": "Tales of All Souls' Eve",
+   "resumen": "The Nelson Calderón Company presents 'Tales of All Souls' Eve' at the Hortaleza Cultural Center. A series of stories to delve into the supernatural."
+  },
+  "temas": [
+   "cultura",
+   "fiestas"
+  ],
+  "a_cubierto": true
+ },
+ "ff073a5981": {
+  "id": "c8aafc8b30",
+  "es": {
+   "titulo": "Hora del cuento en Manuel Vázquez Montalbán",
+   "resumen": "¡Vuelven las horas del cuento en la Biblioteca Manuel Vázquez Montalbán! Aventuras para los más pequeños con Leopoldo y Ratón. Entrada libre hasta completar aforo."
+  },
+  "en": {
+   "titulo": "Story Time at Manuel Vázquez Montalbán",
+   "resumen": "Story time returns to the Manuel Vázquez Montalbán Library! Adventures for the little ones with Leopoldo and Ratón. Free entry until capacity is reached."
+  },
+  "temas": [
+   "ninos",
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": true
+ },
+ "61a5bb174d": {
+  "id": "4a0895d3e4",
+  "es": {
+   "titulo": "Humor: Jesús Arenas: 'Campechano'",
+   "resumen": "Disfruta del espectáculo de humor 'Campechano' de Jesús Arenas en el Centro Sociocultural Villa de Barajas. Un show para todos los públicos."
+  },
+  "en": {
+   "titulo": "Comedy: Jesús Arenas: 'Campechano'",
+   "resumen": "Enjoy the comedy show 'Campechano' by Jesús Arenas at the Villa de Barajas Cultural Center. A show for all audiences."
+  },
+  "temas": [
+   "cultura",
+   "humor"
+  ],
+  "a_cubierto": true
+ },
+ "120c2f68fa": {
+  "id": "e07c674421",
+  "es": {
+   "titulo": "II Certamen de danza de Tetuán",
+   "resumen": "Asiste a la final y entrega de premios del II Certamen de danza de Tetuán en el Centro Cultural Eduardo Úrculo. Descubre el talento emergente de la danza."
+  },
+  "en": {
+   "titulo": "2nd Tetuán Dance Competition",
+   "resumen": "Attend the final and awards ceremony of the 2nd Tetuán Dance Competition at the Eduardo Úrculo Cultural Center. Discover emerging dance talent."
+  },
+  "temas": [
+   "cultura",
+   "deporte",
+   "actividades"
+  ],
+  "a_cubierto": true
  }
 }
