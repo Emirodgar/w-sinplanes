@@ -30,16 +30,6 @@
   "url": "https://www.diariovasco.com/culturas/donostiarra-itziar-okariz-galardonada-trayectoria-premios-gure-artea-20261019114706-nt.html"
  },
  {
-  "id": "2e595f721b",
-  "titulo": "VII edición de Pandemia Filosófica",
-  "inicio": "2026-10-23",
-  "municipio": null,
-  "provincia": "Cantabria",
-  "confianza": 0.6,
-  "fuente": "El Diario Montañés (Culturas)",
-  "url": "https://www.eldiariomontanes.es/culturas/pandemia-filosofica-potencia-reflexion-traves-nuevos-formatos-20261017074536-nt.html"
- },
- {
   "id": "16ed03c155",
   "titulo": "Premios Deporte Galego 2025 en Lugo",
   "inicio": "2026-10-29",
@@ -68,25 +58,5 @@
   "confianza": 0.5,
   "fuente": "20minutos (Cultura)",
   "url": "https://www.20minutos.es/musica/rosalia-daddy-yankee-entre-los-artistas-que-actuaran-los-latin-grammy-2026_7051210_0.html"
- },
- {
-  "id": "00e5fc6569",
-  "titulo": "Exposición de Freddie Mercury en Londres",
-  "inicio": "2026-10-23",
-  "municipio": "Londres",
-  "provincia": null,
-  "confianza": 0.5,
-  "fuente": "La Vanguardia (Cultura)",
-  "url": "https://www.lavanguardia.com/cultura/musica/20261023/11665832/corona-capa-freddie-mercury-vuelven-brillar-londres.html"
- },
- {
-  "id": "64673bea8a",
-  "titulo": "Poster Boy lanza su primer trabajo discográfico",
-  "inicio": "2026-10-23",
-  "municipio": null,
-  "provincia": null,
-  "confianza": 0.5,
-  "fuente": "La Verdad (Culturas)",
-  "url": "https://www.laverdad.es/culturas/musica/poster-boy-intentamos-poner-palabras-sencillas-posibles-20261022000215-nt.html"
  }
 ]

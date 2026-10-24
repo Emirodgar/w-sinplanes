@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23",
+ "updated": "2026-10-24",
  "terms": [
   {
    "term": "enric masip",
@@ -219,6 +219,16 @@
     "El Gobierno concede el Ingreso Mínimo Vital a las personas con ingresos inferiores a 723 euros al mes, aunque paga de oficio un complemento a las familias con menores",
     "La ayuda de casi 1.000 euros que pueden recibir las parejas sin hijos: consulta los requisitos",
     "Está confirmado por la Seguridad Social y es oficial: los nacidos a partir de 1960 pueden pedir la ayuda de..."
+   ]
+  },
+  {
+   "term": "piedra",
+   "traffic": 2000,
+   "lastSeen": "2026-10-24",
+   "news": [
+    "El menor que dejó en coma a un conductor se entregó y se negó a declarar ante la policía",
+    "Testimonio de personas a las que les arrojaron una pedrada cuando iban conduciendo",
+    "Investigan a un menor por tirar una piedra de grandes dimensiones desde un puente de la AP-41 y herir a un conductor"
    ]
   },
   {
@@ -591,6 +601,16 @@
    ]
   },
   {
+   "term": "maxi iglesias",
+   "traffic": 500,
+   "lastSeen": "2026-10-24",
+   "news": [
+    "Aitana Sánchez-Gijón y Maxi Iglesias, las fotos del viaje para dos de una pareja que sigue unida y no se esconde",
+    "Las portadas de las revistas del corazón de hoy: Maxi Iglesias con Aitana Sánchez Gijón, la princesa Leonor y Taylor Swift con los Javis",
+    "Las sospechas de Juan Sanguino ante las dos portadas sobre Aitana Sánchez-Gijón y Maxi Iglesias"
+   ]
+  },
+  {
    "term": "grieta",
    "traffic": 200,
    "lastSeen": "2026-10-20",
@@ -949,6 +969,66 @@
    ]
   },
   {
+   "term": "la voz",
+   "traffic": 200,
+   "lastSeen": "2026-10-24",
+   "news": [
+    "'La Voz' lidera la noche del viernes con más de un millón y un 13,1% en Antena 3",
+    "Audiencias TV ayer | 'La Voz' sube y lidera con sus últimas audiciones a ciegas y 'De viernes' cumple con Silvia Bronchalo y Alba Silva",
+    "Antena 3 gana el viernes con lo más visto y reina en Prime Time con 'La Voz': líder y lo más visto de la noche con récord"
+   ]
+  },
+  {
+   "term": "shaquille o'neal",
+   "traffic": 200,
+   "lastSeen": "2026-10-24",
+   "news": [
+    "Legendary LSU Basketball Coach Dale Brown Passes Away on Friday",
+    "FNL 26: Week 8 - Southside at STM",
+    "In 1984, Dale Brown discovered 13-year-old Shaquille O’Neal, beginning a friendship that lasted over 40 years | Hindustan Times"
+   ]
+  },
+  {
+   "term": "discapacidad",
+   "traffic": 200,
+   "lastSeen": "2026-10-24",
+   "news": [
+    "Una panadería defiende a una aprendiz de 16 años con discapacidad tras las críticas de los clientes por retrasos en el cambio: \"Todos merecen una oportunidad\"",
+    "Cerca de 9.600 riojanos tienen reconocido algún grado de dependencia",
+    "Los cambios en la ley de Dependencia obligan a resolver las valoraciones en tres meses"
+   ]
+  },
+  {
+   "term": "ander herrera",
+   "traffic": 200,
+   "lastSeen": "2026-10-24",
+   "news": [
+    "Ander Herrera: \"Le dije a Ibai que estaba loco, mete cuatro delanteros y le sale bien, es un entrenador especial\"",
+    "Tres puntos de oro para el Real Zaragoza en un partido de muy bajo nivel en Barcelona",
+    "Primera RFEF Grupo 2: resultados, partidos y clasificación de la jornada 9"
+   ]
+  },
+  {
+   "term": "taller",
+   "traffic": 200,
+   "lastSeen": "2026-10-24",
+   "news": [
+    "El dueño de un taller de Zaragoza puede haber desenmascarado al grafitero más buscado por la Policía: \"Espero que sirva para algo\"",
+    "Vídeo: El dueño de un taller de Zaragoza puede haber desenmascarado al grafitero más buscado por la Policía",
+    "El dueño de un taller revela la lista de cinco marcas que menos pasan por sus instalaciones: «No se rompen»"
+   ]
+  },
+  {
+   "term": "mindhunter",
+   "traffic": 200,
+   "lastSeen": "2026-10-24",
+   "news": [
+    "Stephen Graham Talks New Thriller ‘Nocturne,’ ‘Heat 2,’ More",
+    "Licensable picture: NY: 'Miss Representation: Rise Up' Special Screening - Arrivals",
+    "Mindhunter Meets Prisoners In Apple TV's Gritty Crime Drama Releasing Next Week"
+   ]
+  },
+  {
    "term": "consulado",
    "traffic": 100,
    "lastSeen": "2026-10-21",
@@ -1010,6 +1090,26 @@
     "Los tres increíbles looks de Rosalía en los Billboard Latinos deja atrás al resto de looks del día. Compruébalo tú misma",
     "Rosalía reivindica el español en los Billboard y recupera el mítico meme de la doctora Polo: «Ni ningún 'hello'»",
     "Rosalía triunfa en los Billboard Latin Music Awards con tres premios y un sensual look que deja al descubierto sus abdominales de acero"
+   ]
+  },
+  {
+   "term": "trey lyles",
+   "traffic": 100,
+   "lastSeen": "2026-10-24",
+   "news": [
+    "Trey Lyles se suma a la fiesta de los Wolves",
+    "Magic - Timberwolves LIVE. NBA latest updates",
+    "Orlando Magic Go Cold From 3-Point Range in Loss to Minnesota Timberwolves"
+   ]
+  },
+  {
+   "term": "peio etxeberria",
+   "traffic": 100,
+   "lastSeen": "2026-10-24",
+   "news": [
+    "Peio Etxeberria pone pie y medio en las semifinales del Cuatro y Medio",
+    "El campeón se pone el buzo",
+    "Ander Murua quiere hablar danés"
    ]
   }
  ]
