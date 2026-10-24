@@ -5995,5 +5995,1226 @@
    "actividades"
   ],
   "a_cubierto": true
+ },
+ "da97d8ad92": {
+  "id": "1d8cf4fada",
+  "es": {
+   "titulo": "Academia de héroes y heroínas",
+   "resumen": "Actividad lúdica para niños de 8 a 14 años inspirada en el mundo de los superhéroes. Fomenta la imaginación y la cooperación a través de juegos y retos."
+  },
+  "en": {
+   "titulo": "Heroes and Heroines Academy",
+   "resumen": "A fun activity for children aged 8 to 14, inspired by the world of superheroes. It encourages imagination and cooperation through games and challenges."
+  },
+  "temas": [
+   "ninos",
+   "actividades"
+  ],
+  "a_cubierto": null
+ },
+ "4902e6c14e": {
+  "id": "5eb71d77ed",
+  "es": {
+   "titulo": "Aeternum: Recorridos guiados en el Cementerio de San Isidro",
+   "resumen": "Visitas guiadas especiales con motivo de Todos los Santos en el Cementerio Sacramental de San Isidro. Reflexiona sobre el paso del tiempo y la memoria colectiva a través de los panteones y senderos de este histórico lugar."
+  },
+  "en": {
+   "titulo": "Aeternum: Guided Tours at San Isidro Cemetery",
+   "resumen": "Special guided tours for All Saints' Day at the San Isidro Sacramental Cemetery. Reflect on the passage of time and collective memory through the pantheons and paths of this historic site."
+  },
+  "temas": [
+   "cultura",
+   "rutas"
+  ],
+  "a_cubierto": null
+ },
+ "0151e81e2c": {
+  "id": "fe78f8efad",
+  "es": {
+   "titulo": "Altar de muertos en CentroCentro",
+   "resumen": "Exposición o evento relacionado con el 'Altar de muertos' en el espacio cultural CentroCentro."
+  },
+  "en": {
+   "titulo": "Altar of the Dead at CentroCentro",
+   "resumen": "An exhibition or event related to the 'Altar of the Dead' at the cultural space CentroCentro."
+  },
+  "temas": [
+   "cultura",
+   "fiestas"
+  ],
+  "a_cubierto": null
+ },
+ "c36b9c8786": {
+  "id": "272087c6f5",
+  "es": {
+   "titulo": "Anonimato: Obra de teatro",
+   "resumen": "Obra de teatro para mayores de 14 años sobre una pareja cuya vida se ve alterada por una sospecha médica. Explora la identidad y la realidad."
+  },
+  "en": {
+   "titulo": "Anonymity: Theater Play",
+   "resumen": "A play for audiences over 14 years old about a couple whose life is disrupted by a medical suspicion. It explores identity and reality."
+  },
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": null
+ },
+ "2f99f83332": {
+  "id": "340f11fe4c",
+  "es": {
+   "titulo": "ANULADO - Danza 'ECO'",
+   "resumen": "La actuación de danza 'ECO' de La Figuranta ha sido cancelada y podría posponerse. Se informará próximamente sobre nuevas fechas."
+  },
+  "en": {
+   "titulo": "CANCELLED - Dance 'ECO'",
+   "resumen": "The dance performance 'ECO' by La Figuranta has been cancelled and may be postponed. Further information will be provided soon."
+  },
+  "temas": [
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": null
+ },
+ "3ecb9bde24": {
+  "id": "7cc5468dd5",
+  "es": {
+   "titulo": "Bazán en Lepanto y Navarino: Conferencia",
+   "resumen": "Conferencia sobre la relación de Álvaro de Bazán con las batallas navales de Lepanto y Navarino, situando su figura en los conflictos de su época."
+  },
+  "en": {
+   "titulo": "Bazán in Lepanto and Navarino: Conference",
+   "resumen": "A conference discussing Álvaro de Bazán's connection to the naval battles of Lepanto and Navarino, placing his figure within the conflicts of his era."
+  },
+  "temas": [
+   "cultura",
+   "historia"
+  ],
+  "a_cubierto": null
+ },
+ "ac2ebf6b93": {
+  "id": "43d0a2450e",
+  "es": {
+   "titulo": "Carnaval de los animales: Concierto infantil",
+   "resumen": "Concierto didáctico para niños basado en 'El Carnaval de los Animales' de Camille Saint-Saëns. Una exploración musical de animales creados con sonidos."
+  },
+  "en": {
+   "titulo": "Carnival of the Animals: Children's Concert",
+   "resumen": "An educational concert for children based on Camille Saint-Saëns' 'The Carnival of the Animals'. A musical exploration of animals made from sounds."
+  },
+  "temas": [
+   "ninos",
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "392c14276e": {
+  "id": "fb4019b939",
+  "es": {
+   "titulo": "Cempasúchil: música, memoria y reencuentro",
+   "resumen": "Evento en la Biblioteca Musical Víctor Espinós que combina música, memoria y reencuentro, posiblemente relacionado con tradiciones mexicanas."
+  },
+  "en": {
+   "titulo": "Cempasúchil: Music, Memory, and Reunion",
+   "resumen": "An event at the Víctor Espinós Musical Library combining music, memory, and reunion, possibly related to Mexican traditions."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "d11ea4948a": {
+  "id": "f2ad93b18c",
+  "es": {
+   "titulo": "Cinefórum: Proyección de 'Tierra prometida'",
+   "resumen": "Proyección de la película 'Tierra prometida' (2012) seguida de debate. Aborda el impacto del fracking en comunidades rurales desde una perspectiva social y política."
+  },
+  "en": {
+   "titulo": "Cineforum: Screening of 'Promised Land'",
+   "resumen": "Screening of the film 'Promised Land' (2012) followed by a discussion. It addresses the impact of fracking on rural communities from a social and political perspective."
+  },
+  "temas": [
+   "pantalla",
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "3ede36bce7": {
+  "id": "2346ca085e",
+  "es": {
+   "titulo": "Clausura: Llevar la pintura a la historia",
+   "resumen": "Encuentro de clausura del ciclo de conferencias y exposición, centrado en la relación entre la pintura y la historia."
+  },
+  "en": {
+   "titulo": "Closing: Bringing Painting to History",
+   "resumen": "A closing event for a conference cycle and exhibition, focusing on the relationship between painting and history."
+  },
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": null
+ },
+ "2a80e1ac12": {
+  "id": "04848b2544",
+  "es": {
+   "titulo": "Cómo hacer una huerta en casa",
+   "resumen": "Taller para niños a partir de 5 años sobre opciones de huertos urbanos y los requisitos para tener una huerta en casa. Requiere reserva previa."
+  },
+  "en": {
+   "titulo": "How to Create a Home Garden",
+   "resumen": "A workshop for children aged 5 and up about urban gardening options and what's needed to start a home garden. Prior reservation is required."
+  },
+  "temas": [
+   "ninos",
+   "naturaleza",
+   "actividades"
+  ],
+  "a_cubierto": null
+ },
+ "33717a8896": {
+  "id": "99f09340a7",
+  "es": {
+   "titulo": "Concierto didáctico: Mujeres en la música",
+   "resumen": "Concierto que visibiliza la contribución de las mujeres a la música, desde el mundo clásico hasta la canción popular. Entrada libre."
+  },
+  "en": {
+   "titulo": "Educational Concert: Women in Music",
+   "resumen": "A concert highlighting women's contributions to music, from classical to popular genres. Free admission."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "702588492a": {
+  "id": "0eba568218",
+  "es": {
+   "titulo": "Concierto: Arias y Romanzas al Alba",
+   "resumen": "Gala lírica que combina arias de ópera y romanzas de zarzuela al amanecer, celebrando la emoción y el renacer de la música lírica."
+  },
+  "en": {
+   "titulo": "Concert: Arias and Romances at Dawn",
+   "resumen": "A lyrical gala combining opera arias and zarzuela romances at dawn, celebrating emotion and the rebirth of lyrical music."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "ca01329fc4": {
+  "id": "d7e04de84e",
+  "es": {
+   "titulo": "Conferencia: Álvaro de Bazán y la Batalla de Lepanto",
+   "resumen": "Tertulia-café sobre Álvaro de Bazán y su decisiva participación en la Batalla de Lepanto, analizando la estrategia y dimensión militar de la confrontación."
+  },
+  "en": {
+   "titulo": "Conference: Álvaro de Bazán and the Battle of Lepanto",
+   "resumen": "A café-discussion about Álvaro de Bazán and his decisive role in the Battle of Lepanto, analyzing the strategy and military dimension of the confrontation."
+  },
+  "temas": [
+   "cultura",
+   "historia"
+  ],
+  "a_cubierto": null
+ },
+ "f76e41a465": {
+  "id": "77fcac3ad4",
+  "es": {
+   "titulo": "Conferencia: A mí la legión (romana)",
+   "resumen": "Conferencia sobre la vida, armamento y funcionamiento de un legionario romano, explicando por qué las legiones imperiales eran tan temidas."
+  },
+  "en": {
+   "titulo": "Conference: Give me the (Roman) Legion",
+   "resumen": "A lecture on the life, weaponry, and functioning of a Roman legionary, explaining why the imperial legions were so feared."
+  },
+  "temas": [
+   "cultura",
+   "historia"
+  ],
+  "a_cubierto": null
+ },
+ "8e36ca1a7e": {
+  "id": "f0768d2814",
+  "es": {
+   "titulo": "Conferencia: Conservación y transmisión de nuestra Historia",
+   "resumen": "Reflexión sobre la importancia de conservar, estudiar y transmitir el patrimonio histórico y documental para mantener viva la memoria."
+  },
+  "en": {
+   "titulo": "Conference: Conservation and Transmission of Our History",
+   "resumen": "A reflection on the importance of conserving, studying, and transmitting historical and documentary heritage to keep memory alive."
+  },
+  "temas": [
+   "cultura",
+   "historia"
+  ],
+  "a_cubierto": null
+ },
+ "1a88e206ef": {
+  "id": "0562bc89c8",
+  "es": {
+   "titulo": "Conferencia: Dura lex, sed lex",
+   "resumen": "Exploración de las curiosidades del Derecho romano y cómo sus principios sentaron las bases del Estado de Derecho y la protección legal igualitaria."
+  },
+  "en": {
+   "titulo": "Conference: Dura lex, sed lex",
+   "resumen": "An exploration of the curiosities of Roman Law and how its principles laid the foundation for the rule of law and equal legal protection."
+  },
+  "temas": [
+   "cultura",
+   "historia"
+  ],
+  "a_cubierto": null
+ },
+ "c6c2facbcd": {
+  "id": "9db5b6912e",
+  "es": {
+   "titulo": "Conferencia: La muerte en el arte",
+   "resumen": "Recorrido histórico sobre cómo el arte ha representado la muerte a través de los siglos y en diferentes culturas, analizando su significado."
+  },
+  "en": {
+   "titulo": "Conference: Death in Art",
+   "resumen": "A historical journey through how art has represented death across centuries and in different cultures, analyzing its meaning."
+  },
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": null
+ },
+ "5411992e41": {
+  "id": "41ac9fda54",
+  "es": {
+   "titulo": "Conferencia: Todos los Santos y Fieles Difuntos",
+   "resumen": "Análisis del origen y tradiciones del culto a los difuntos en España, desde ritos antiguos hasta las costumbres actuales de Todos los Santos y Fieles Difuntos."
+  },
+  "en": {
+   "titulo": "Conference: All Saints' and All Souls' Day",
+   "resumen": "An analysis of the origin and traditions of commemorating the deceased in Spain, from ancient rites to current All Saints' and All Souls' Day customs."
+  },
+  "temas": [
+   "cultura",
+   "fiestas"
+  ],
+  "a_cubierto": null
+ },
+ "1b74e55e91": {
+  "id": "e6da6fe85c",
+  "es": {
+   "titulo": "Crea tu álbum de otoño",
+   "resumen": "Taller infantil para niños a partir de 5 años donde crearán un álbum con hojas de otoño para identificar árboles. Requiere reserva previa."
+  },
+  "en": {
+   "titulo": "Create Your Autumn Album",
+   "resumen": "A children's workshop for ages 5 and up where they will create an album with autumn leaves to identify trees. Prior reservation is required."
+  },
+  "temas": [
+   "ninos",
+   "naturaleza",
+   "actividades"
+  ],
+  "a_cubierto": null
+ },
+ "1f8e694a74": {
+  "id": "126fe47cf0",
+  "es": {
+   "titulo": "Cuentacuentos: Cuentagotas",
+   "resumen": "Espectáculo de títeres para público familiar sobre el viaje del agua, su ciclo y la importancia de su cuidado. Recomendado de 5 a 8 años."
+  },
+  "en": {
+   "titulo": "Storytelling: Cuentagotas",
+   "resumen": "A puppet show for families about the journey of water, its cycle, and the importance of its care. Recommended for ages 5 to 8."
+  },
+  "temas": [
+   "ninos",
+   "agua",
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "f44c1c16b8": {
+  "id": "d50fc26cfb",
+  "es": {
+   "titulo": "Deportes para el Barrio",
+   "resumen": "Jornada deportiva para jóvenes de 16 a 30 años con baloncesto 3x3, juegos y un desafío de equipo para fomentar la actividad física y la cooperación."
+  },
+  "en": {
+   "titulo": "Sports for the Neighborhood",
+   "resumen": "A sports event for young people aged 16 to 30 featuring 3x3 basketball, games, and a team challenge to promote physical activity and cooperation."
+  },
+  "temas": [
+   "deporte",
+   "actividades"
+  ],
+  "a_cubierto": null
+ },
+ "2ef31617ed": {
+  "id": "0c8858b718",
+  "es": {
+   "titulo": "Drácula: Espectáculo de Danza",
+   "resumen": "La Compañía de Danza Arts presenta una versión de Drácula desde una óptica más humana, explorando la historia del príncipe Vlad y su condena eterna."
+  },
+  "en": {
+   "titulo": "Dracula: Dance Performance",
+   "resumen": "The Arts Dance Company presents a more human take on Dracula, exploring the story of Prince Vlad and his eternal curse."
+  },
+  "temas": [
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": null
+ },
+ "501eeede02": {
+  "id": "0423129314",
+  "es": {
+   "titulo": "El cuerpo del flamenco",
+   "resumen": "Evento o espectáculo centrado en el flamenco y la expresión corporal en el Centro Danza Matadero."
+  },
+  "en": {
+   "titulo": "The Body of Flamenco",
+   "resumen": "An event or performance focused on flamenco and bodily expression at the Matadero Dance Center."
+  },
+  "temas": [
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": null
+ },
+ "e723c27bf6": {
+  "id": "42750e5886",
+  "es": {
+   "titulo": "El ney y las tradiciones musicales de Oriente Próximo",
+   "resumen": "Conferencia o evento en la Biblioteca Musical Víctor Espinós sobre el ney y las tradiciones musicales de Oriente Próximo."
+  },
+  "en": {
+   "titulo": "The Ney and Musical Traditions of the Middle East",
+   "resumen": "A lecture or event at the Víctor Espinós Musical Library about the ney and the musical traditions of the Middle East."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "ce846ae426": {
+  "id": "86ae2906f0",
+  "es": {
+   "titulo": "El suelo: un paseo por la vida",
+   "resumen": "Descubre la importancia del suelo, un ecosistema vital para la vida en la Tierra. La exposición explica su formación, estructura y funciones esenciales, como proveer alimento y regular el clima."
+  },
+  "en": {
+   "titulo": "Soil: A Walk Through Life",
+   "resumen": "Discover the importance of soil, a vital ecosystem for life on Earth. The exhibition explains its formation, structure, and essential functions, such as providing food and regulating the climate."
+  },
+  "temas": [
+   "naturaleza",
+   "actividades"
+  ],
+  "a_cubierto": null
+ },
+ "337a620cbf": {
+  "id": "5a0ad32311",
+  "es": {
+   "titulo": "Espacio de encuentro 'Bid26. Bienal Iberoamericana de Diseño'",
+   "resumen": "Explora el espacio de encuentro de la Bienal Iberoamericana de Diseño (Bid26). Un lugar para la reflexión y el intercambio en Matadero Madrid."
+  },
+  "en": {
+   "titulo": "Meeting Space 'Bid26. Ibero-American Design Biennial'",
+   "resumen": "Explore the meeting space of the Ibero-American Design Biennial (Bid26). A place for reflection and exchange at Matadero Madrid."
+  },
+  "temas": [
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": null
+ },
+ "26a529ce83": {
+  "id": "04939161bd",
+  "es": {
+   "titulo": "Exhibición 'Roma: ingeniería'",
+   "resumen": "Descubre la ingeniería romana a través de la construcción de arcos, puentes y acueductos. Una exhibición en el Museo de San Isidro sobre el papel de los legionarios como constructores."
+  },
+  "en": {
+   "titulo": "Exhibition 'Rome: Engineering'",
+   "resumen": "Discover Roman engineering through the construction of arches, bridges, and aqueducts. An exhibition at the Museum of San Isidro about the role of legionaries as builders."
+  },
+  "temas": [
+   "cultura",
+   "museos",
+   "actividades"
+  ],
+  "a_cubierto": null
+ },
+ "0d23e7e90e": {
+  "id": "91896c138f",
+  "es": {
+   "titulo": "Expedición jurásica",
+   "resumen": "Aventura temática para niños de 8 a 14 años sobre dinosaurios. Participa en actividades de exploración y descubrimiento en el Colegio Público Pradolongo."
+  },
+  "en": {
+   "titulo": "Jurassic Expedition",
+   "resumen": "A themed adventure for children aged 8 to 14 about dinosaurs. Participate in exploration and discovery activities at Colegio Público Pradolongo."
+  },
+  "temas": [
+   "ninos",
+   "actividades"
+  ],
+  "a_cubierto": null
+ },
+ "32f5a12355": {
+  "id": "c7bc779880",
+  "es": {
+   "titulo": "Festival de literatura fantástica 'Sui Generis Madrid'",
+   "resumen": "Sumérgete en el festival de literatura fantástica 'Sui Generis Madrid' en Matadero Madrid. Un evento para los amantes de lo imaginario."
+  },
+  "en": {
+   "titulo": "Fantasy Literature Festival 'Sui Generis Madrid'",
+   "resumen": "Immerse yourself in the fantasy literature festival 'Sui Generis Madrid' at Matadero Madrid. An event for lovers of the imaginary."
+  },
+  "temas": [
+   "libros",
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": null
+ },
+ "8a9def5ad8": {
+  "id": "f5ef1a44c0",
+  "es": {
+   "titulo": "Gala Evolución de la Danza",
+   "resumen": "Disfruta de la evolución de la danza clásica y contemporánea en la Gala 'Evolución de la Danza'. Una experiencia inmersiva con explicaciones de cada pieza."
+  },
+  "en": {
+   "titulo": "Evolution of Dance Gala",
+   "resumen": "Enjoy the evolution of classical and contemporary dance at the 'Evolution of Dance' Gala. An immersive experience with explanations of each piece."
+  },
+  "temas": [
+   "cultura",
+   "musica",
+   "actividades"
+  ],
+  "a_cubierto": null
+ },
+ "0fd79c0977": {
+  "id": "e8d3d27879",
+  "es": {
+   "titulo": "Taller de cómic: Héroes vs villanos",
+   "resumen": "Aprende a diseñar personajes de cómic en este taller exprés. Descubre cómo la psicología y la geometría definen héroes y villanos en la Imprenta Municipal."
+  },
+  "en": {
+   "titulo": "Comic Workshop: Heroes vs Villains",
+   "resumen": "Learn to design comic characters in this express workshop. Discover how psychology and geometry define heroes and villains at the Imprenta Municipal."
+  },
+  "temas": [
+   "cultura",
+   "ninos",
+   "actividades"
+  ],
+  "a_cubierto": null
+ },
+ "9cf79a12d4": {
+  "id": "cde4b4d195",
+  "es": {
+   "titulo": "II Certamen Premios María Corina Machado: '¿Qué es la libertad para ti?'",
+   "resumen": "Participa en el certamen '¿Qué es la libertad para ti?' dirigido a estudiantes. Expresa tu visión a través de relatos, poemas, arte o audiovisuales."
+  },
+  "en": {
+   "titulo": "2nd María Corina Machado Awards Contest: 'What is Freedom to You?'",
+   "resumen": "Participate in the 'What is Freedom to You?' contest aimed at students. Express your vision through stories, poems, art, or audiovisual creations."
+  },
+  "temas": [
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": null
+ },
+ "166d2e25c4": {
+  "id": "7cca9bf5c5",
+  "es": {
+   "titulo": "II Ciclo de Música Clásica: Del Caribe a la Patagonia",
+   "resumen": "Disfruta del II Ciclo de Música Clásica con un programa que viaja del Caribe a la Patagonia. Un recital de soprano, tenor y piano en el Centro Cultural San Francisco La Prensa."
+  },
+  "en": {
+   "titulo": "2nd Classical Music Cycle: From the Caribbean to Patagonia",
+   "resumen": "Enjoy the 2nd Classical Music Cycle with a program traveling from the Caribbean to Patagonia. A soprano, tenor, and piano recital at the Centro Cultural San Francisco La Prensa."
+  },
+  "temas": [
+   "musica",
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": null
+ },
+ "4d310bc55b": {
+  "id": "9f28779237",
+  "es": {
+   "titulo": "III Edición Latina Integra",
+   "resumen": "Celebra la diversidad cultural en la III Edición Latina Integra. Un recital folclórico intercultural con agrupaciones de Perú, Ecuador, Paraguay y Bolivia en el Auditorio Paco de Lucía."
+  },
+  "en": {
+   "titulo": "3rd Latina Integra Edition",
+   "resumen": "Celebrate cultural diversity at the 3rd Latina Integra Edition. An intercultural folk recital featuring groups from Peru, Ecuador, Paraguay, and Bolivia at the Paco de Lucía Auditorium."
+  },
+  "temas": [
+   "cultura",
+   "musica",
+   "fiestas"
+  ],
+  "a_cubierto": null
+ },
+ "d2eacd7fa3": {
+  "id": "ca4dc0c3cc",
+  "es": {
+   "titulo": "III Escuela de espectadores Sénior",
+   "resumen": "Participa en la III Escuela de espectadores Sénior en Matadero Madrid. Un espacio dedicado a la creación dramática contemporánea."
+  },
+  "en": {
+   "titulo": "3rd Senior Audience School",
+   "resumen": "Participate in the 3rd Senior Audience School at Matadero Madrid. A space dedicated to contemporary dramatic creation."
+  },
+  "temas": [
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": null
+ },
+ "67d636db0c": {
+  "id": "e863e7be5c",
+  "es": {
+   "titulo": "In the sentimental Lugo",
+   "resumen": "Proyección de 'In the sentimental Lugo' en la Cineteca Madrid. Un filme sobre el regreso de un gallego a su tierra natal tras 27 años."
+  },
+  "en": {
+   "titulo": "In the sentimental Lugo",
+   "resumen": "Screening of 'In the sentimental Lugo' at Cineteca Madrid. A film about a Galician returning to his homeland after 27 years."
+  },
+  "temas": [
+   "pantalla",
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "6f91587016": {
+  "id": "b43cb3475e",
+  "es": {
+   "titulo": "Exposición Revela Butarque (V Edición): Tus Lugares Favoritos del Barrio",
+   "resumen": "Inauguración de la V Edición de la exposición fotográfica 'Revela Butarque'. Descubre los lugares favoritos del barrio a través de las miradas de sus vecinos."
+  },
+  "en": {
+   "titulo": "Exhibition Revela Butarque (V Edition): Your Favorite Neighborhood Spots",
+   "resumen": "Opening of the V Edition of the photographic exhibition 'Revela Butarque'. Discover the neighborhood's favorite spots through the eyes of its residents."
+  },
+  "temas": [
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": null
+ },
+ "0544479439": {
+  "id": "c734705bbe",
+  "es": {
+   "titulo": "INFANTIL: 'Pequeñas huellas, grandes historias'",
+   "resumen": "Espectáculo infantil 'Pequeñas huellas, grandes historias' para mayores de 4 años. Acompaña a los insectos en aventuras mágicas por bosques y selvas."
+  },
+  "en": {
+   "titulo": "CHILDREN'S: 'Small Footprints, Big Stories'",
+   "resumen": "Children's show 'Small Footprints, Big Stories' for ages 4 and up. Join insects on magical adventures through forests and jungles."
+  },
+  "temas": [
+   "ninos",
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": null
+ },
+ "99b53d9c0f": {
+  "id": "e970778cf3",
+  "es": {
+   "titulo": "Instalación de terror y fiesta Halloween",
+   "resumen": "Vive una experiencia inmersiva de terror con escape room y fiesta de Halloween. Una actividad organizada por jóvenes para todos los públicos en Villaverde."
+  },
+  "en": {
+   "titulo": "Terror Installation and Halloween Party",
+   "resumen": "Experience an immersive horror event with an escape room and Halloween party. An activity organized by youth for all audiences in Villaverde."
+  },
+  "temas": [
+   "fiestas",
+   "actividades",
+   "ninos"
+  ],
+  "a_cubierto": null
+ },
+ "e4fb418a88": {
+  "id": "09fd213ec1",
+  "es": {
+   "titulo": "Introducción a la novela policíaca",
+   "resumen": "Explora los fundamentos de la novela policíaca en esta introducción. Un evento para descubrir los secretos del género."
+  },
+  "en": {
+   "titulo": "Introduction to the Detective Novel",
+   "resumen": "Explore the fundamentals of the detective novel in this introduction. An event to discover the secrets of the genre."
+  },
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "6620bf4d67": {
+  "id": "2c970fb842",
+  "es": {
+   "titulo": "Invasión Travesti",
+   "resumen": "Asiste a la proyección de 'Invasión Travesti' en la Cineteca Madrid. Una comedia transgresora para mayores de 18 años."
+  },
+  "en": {
+   "titulo": "Travesti Invasion",
+   "resumen": "Attend the screening of 'Travesti Invasion' at Cineteca Madrid. A transgressive comedy for adults over 18."
+  },
+  "temas": [
+   "pantalla",
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "f6d473cb65": {
+  "id": "57e132b9a7",
+  "es": {
+   "titulo": "Investigactica: Especial Superimanes, Energía y Naturaleza",
+   "resumen": "Taller científico para niños de 2 a 8 años sobre imanes, energía y naturaleza. Explora fenómenos naturales con materiales adaptados y accesibles."
+  },
+  "en": {
+   "titulo": "Investigactica: Special Supermagnets, Energy, and Nature",
+   "resumen": "Science workshop for children aged 2 to 8 about magnets, energy, and nature. Explore natural phenomena with adapted and accessible materials."
+  },
+  "temas": [
+   "ninos",
+   "naturaleza",
+   "actividades"
+  ],
+  "a_cubierto": null
+ },
+ "935b5264ef": {
+  "id": "edbdfce411",
+  "es": {
+   "titulo": "In-Verso",
+   "resumen": "Descubre 'In-Verso', una obra sobre codependencia y pérdida de identidad. Dos personajes se sumergen en un juego psicológico en el Centro Cultural José Luis Sampedro."
+  },
+  "en": {
+   "titulo": "In-Verse",
+   "resumen": "Discover 'In-Verse', a play about codependency and loss of identity. Two characters immerse themselves in a psychological game at the José Luis Sampedro Cultural Center."
+  },
+  "temas": [
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": null
+ },
+ "fdb5fcc042": {
+  "id": "2bc2889232",
+  "es": {
+   "titulo": "Itinerario botánico: La vuelta al mundo en 80 plantas",
+   "resumen": "Realiza un itinerario botánico en la Dehesa de la Villa. Descubre 80 plantas en un recorrido educativo y natural."
+  },
+  "en": {
+   "titulo": "Botanical Itinerary: Around the World in 80 Plants",
+   "resumen": "Take a botanical itinerary in the Dehesa de la Villa. Discover 80 plants on an educational and natural tour."
+  },
+  "temas": [
+   "naturaleza",
+   "rutas",
+   "parques"
+  ],
+  "a_cubierto": null
+ },
+ "cda5e66367": {
+  "id": "7ab984f2ec",
+  "es": {
+   "titulo": "Itinerario Ornitológico Parque Emperatriz María de Austria",
+   "resumen": "Únete a un itinerario ornitológico en el Parque Emperatriz María de Austria. Observa la rica biodiversidad de aves en este espacio natural."
+  },
+  "en": {
+   "titulo": "Birdwatching Itinerary Empress María de Austria Park",
+   "resumen": "Join a birdwatching itinerary in Empress María de Austria Park. Observe the rich bird biodiversity in this natural space."
+  },
+  "temas": [
+   "naturaleza",
+   "rutas",
+   "parques",
+   "actividades"
+  ],
+  "a_cubierto": null
+ },
+ "a8f2906105": {
+  "id": "3a14c7e88b",
+  "es": {
+   "titulo": "IV Concurso bilingüe de Microrrelatos francés-español",
+   "resumen": "Participa en el IV Concurso bilingüe de Microrrelatos francés-español. Comparte tu creatividad literaria en la Biblioteca Pública Municipal Iván de Vargas."
+  },
+  "en": {
+   "titulo": "4th Bilingual Micro-story Contest French-Spanish",
+   "resumen": "Participate in the 4th Bilingual Micro-story Contest French-Spanish. Share your literary creativity at the Iván de Vargas Municipal Public Library."
+  },
+  "temas": [
+   "libros",
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": null
+ },
+ "2b2e97c3be": {
+  "id": "ed6eff68d5",
+  "es": {
+   "titulo": "Jardín El Capricho (itinerario interpretativo)",
+   "resumen": "Realiza un itinerario interpretativo por el Jardín El Capricho. Descubre sus caprichos arquitectónicos y especies vegetales con un educador ambiental."
+  },
+  "en": {
+   "titulo": "El Capricho Garden (Interpretive Itinerary)",
+   "resumen": "Take an interpretive itinerary through El Capricho Garden. Discover its architectural follies and plant species with an environmental educator."
+  },
+  "temas": [
+   "naturaleza",
+   "rutas",
+   "parques",
+   "actividades"
+  ],
+  "a_cubierto": null
+ },
+ "d01868213b": {
+  "id": "7c0327be87",
+  "es": {
+   "titulo": "Jardines del Campo del Moro (itinerario interpretativo)",
+   "resumen": "Explora los Jardines del Campo del Moro en un itinerario interpretativo. Descubre la historia y la botánica de este emblemático espacio."
+  },
+  "en": {
+   "titulo": "Campo del Moro Gardens (Interpretive Itinerary)",
+   "resumen": "Explore the Campo del Moro Gardens on an interpretive itinerary. Discover the history and botany of this emblematic space."
+  },
+  "temas": [
+   "naturaleza",
+   "rutas",
+   "parques"
+  ],
+  "a_cubierto": null
+ },
+ "a6cd9a9f8b": {
+  "id": "223fb6ceaf",
+  "es": {
+   "titulo": "Jardines escondidos: De Nuevos Ministerios a la Fundación Juan March",
+   "resumen": "Descubre jardines ocultos en Madrid en un itinerario de senderismo urbano. Una ruta de 5 km guiada por un educador ambiental."
+  },
+  "en": {
+   "titulo": "Hidden Gardens: From Nuevos Ministerios to the Juan March Foundation",
+   "resumen": "Discover hidden gardens in Madrid on an urban hiking itinerary. A 5 km route guided by an environmental educator."
+  },
+  "temas": [
+   "naturaleza",
+   "rutas",
+   "parques",
+   "actividades"
+  ],
+  "a_cubierto": null
+ },
+ "0118c99534": {
+  "id": "7dedae324f",
+  "es": {
+   "titulo": "La Maga: Espectáculo Infantil de Magia y Cuentos",
+   "resumen": "Un espectáculo de magia, títeres y canciones para todos los públicos donde una maga cuenta historias del mundo a través de trucos y la participación infantil. Ideal para disfrutar en familia."
+  },
+  "en": {
+   "titulo": "La Maga: Children's Magic and Storytelling Show",
+   "resumen": "A magic, puppet, and song show for all ages where a sorceress tells stories from around the world through tricks and audience participation. Perfect for family fun."
+  },
+  "temas": [
+   "ninos",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "e8582126dc": {
+  "id": "b98c926d99",
+  "es": {
+   "titulo": "Exposición 'Las Miradas del Alma' de Pintura",
+   "resumen": "Una exposición de pintura que explora las emociones y la personalidad del artista a través de retratos. Las obras nacen de la emoción y el corazón, invitando a la reflexión."
+  },
+  "en": {
+   "titulo": "'Las Miradas del Alma' Painting Exhibition",
+   "resumen": "A painting exhibition exploring emotions and the artist's personality through portraits. The works originate from emotion and the heart, inviting reflection."
+  },
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true
+ },
+ "41f19a3705": {
+  "id": "767770ad65",
+  "es": {
+   "titulo": "Concierto de Violín, Danza y Narración: La Musa de la Música",
+   "resumen": "Un concierto interactivo de violín y danza con narraciones que transporta al público a mundos de fantasía. Una experiencia lúdica y participativa para mayores de 14 años."
+  },
+  "en": {
+   "titulo": "Violin, Dance, and Narration Concert: La Musa de la Música",
+   "resumen": "An interactive violin and dance concert with storytelling that transports the audience to fantasy worlds. A playful and participatory experience for ages 14 and up."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "3dc93b4228": {
+  "id": "c38ab3d9dd",
+  "es": {
+   "titulo": "Concierto Recital 'La Música de las Palabras' con Poemas de Bethencourt",
+   "resumen": "Un recital de piano y voz que combina poemas de Pablo Bethencourt con música original. Una velada literaria y musical para disfrutar de la palabra y la melodía."
+  },
+  "en": {
+   "titulo": "'La Música de las Palabras' Concert Recital with Bethencourt's Poems",
+   "resumen": "A piano and voice recital combining Pablo Bethencourt's poems with original music. A literary and musical evening to enjoy words and melody."
+  },
+  "temas": [
+   "musica",
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": true
+ },
+ "fa1d17d76d": {
+  "id": "efbb0fcd06",
+  "es": {
+   "titulo": "Proyección de 'La Novia Cadáver' de Tim Burton",
+   "resumen": "Proyección de la película de Tim Burton 'La Novia Cadáver', una historia de fantasía oscura para todos los públicos a partir de 7 años. Duración: 75 minutos."
+  },
+  "en": {
+   "titulo": "Screening of Tim Burton's 'Corpse Bride'",
+   "resumen": "Screening of Tim Burton's film 'Corpse Bride', a dark fantasy story for all audiences aged 7 and up. Duration: 75 minutes."
+  },
+  "temas": [
+   "pantalla",
+   "ninos",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "8d2de9af71": {
+  "id": "599e0f63f7",
+  "es": {
+   "titulo": "Experiencia Inmersiva 'La Odisea'",
+   "resumen": "Una experiencia inmersiva basada en 'La Odisea' en Matadero Madrid. Sumérgete en un viaje épico y sensorial."
+  },
+  "en": {
+   "titulo": "Immersive Experience 'The Odyssey'",
+   "resumen": "An immersive experience based on 'The Odyssey' at Matadero Madrid. Dive into an epic and sensory journey."
+  },
+  "temas": [
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "d383b6ffcc": {
+  "id": "db0126968b",
+  "es": {
+   "titulo": "Teatro: 'La Piedra'",
+   "resumen": "Una obra teatral que reflexiona sobre la vulnerabilidad del artista, la censura y el mercado del arte. Una pieza que cuestiona las estructuras y el poder."
+  },
+  "en": {
+   "titulo": "Theater: 'The Stone'",
+   "resumen": "A play that reflects on the artist's vulnerability, censorship, and the art market. A piece that questions structures and power."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "c8c2f2c6b8": {
+  "id": "b19fcbc4d1",
+  "es": {
+   "titulo": "Teatro: 'La Profanación de Don Juan'",
+   "resumen": "Una propuesta teatral inspirada en Buñuel, Dalí y Lorca, que revisita el mito de Don Juan. Una exploración del delirio y la transgresión."
+  },
+  "en": {
+   "titulo": "Theater: 'The Profanation of Don Juan'",
+   "resumen": "A theatrical proposal inspired by Buñuel, Dalí, and Lorca, revisiting the myth of Don Juan. An exploration of delirium and transgression."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "1b10da1fe6": {
+  "id": "d9c629637f",
+  "es": {
+   "titulo": "Educación Ambiental: La Riqueza de los Pastos del Sistema Central",
+   "resumen": "Una actividad de educación ambiental en la Casa de Campo para conocer la riqueza de los pastos del Sistema Central. Ideal para amantes de la naturaleza."
+  },
+  "en": {
+   "titulo": "Environmental Education: The Richness of the Central System's Pastures",
+   "resumen": "An environmental education activity in Casa de Campo to learn about the richness of the Central System's pastures. Ideal for nature lovers."
+  },
+  "temas": [
+   "naturaleza",
+   "parques"
+  ],
+  "a_cubierto": true
+ },
+ "b3f290e171": {
+  "id": "54c035650f",
+  "es": {
+   "titulo": "Visita Guiada: Arte y Misericordia. El Barroco de la Santa Caridad de Sevilla",
+   "resumen": "Visita guiada a la exposición 'Arte y Misericordia' centrada en el Barroco sevillano. Una oportunidad para descubrir la obra de la Santa Caridad de Sevilla."
+  },
+  "en": {
+   "titulo": "Guided Tour: Art and Mercy. The Baroque of the Holy Charity of Seville",
+   "resumen": "Guided tour of the 'Art and Mercy' exhibition focusing on Sevillian Baroque art. An opportunity to discover the work of the Holy Charity of Seville."
+  },
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true
+ },
+ "d4fd6a80ce": {
+  "id": "399f648fc3",
+  "es": {
+   "titulo": "Teatro: 'La Sombra del Tenorio'",
+   "resumen": "Una emotiva obra sobre un viejo actor que revive sus días de gloria en un hospital. Basada en el mito del Tenorio, explora la vida y la memoria."
+  },
+  "en": {
+   "titulo": "Theater: 'The Shadow of Tenorio'",
+   "resumen": "An emotional play about an old actor reliving his glory days in a hospital. Based on the Tenorio myth, it explores life and memory."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "0b6d466d37": {
+  "id": "91e5988cc2",
+  "es": {
+   "titulo": "Teatro: 'La Sombra del Tenorio' (CANCELADO)",
+   "resumen": "Reinterpretación del Don Juan Tenorio en formato monólogo. Una historia tierna y emotiva con un toque de actualidad, invitando a la participación del público."
+  },
+  "en": {
+   "titulo": "Theater: 'The Shadow of Tenorio' (CANCELLED)",
+   "resumen": "A monologue reinterpretation of Don Juan Tenorio. A tender and emotional story with a modern touch, inviting audience participation."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "4acffc4a0b": {
+  "id": "4ea8f08674",
+  "es": {
+   "titulo": "Biblioteca Musical Víctor Espinós: La Sonrisa de Cibeles",
+   "resumen": "Evento en la Biblioteca Musical Víctor Espinós. Más detalles sobre 'La Sonrisa de Cibeles' disponibles en el centro."
+  },
+  "en": {
+   "titulo": "Víctor Espinós Musical Library: The Smile of Cibeles",
+   "resumen": "Event at the Víctor Espinós Musical Library. More details about 'The Smile of Cibeles' are available at the venue."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "6ca7b3db4c": {
+  "id": "a1d4aa0c7d",
+  "es": {
+   "titulo": "Zarzuela: 'La Verbena de La Paloma'",
+   "resumen": "Representación de la zarzuela 'La Verbena de La Paloma' por el Grupo Lírico Taller de Zarzuela de Madrid. Una obra clásica del género."
+  },
+  "en": {
+   "titulo": "Zarzuela: 'La Verbena de La Paloma'",
+   "resumen": "Performance of the zarzuela 'La Verbena de La Paloma' by the Grupo Lírico Taller de Zarzuela de Madrid. A classic work of the genre."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "a4e97e724c": {
+  "id": "556e33673a",
+  "es": {
+   "titulo": "Monólogo 'La Vida Pasa Volando' con Tiovivo Teatro",
+   "resumen": "Un monólogo tragicómico sobre el paso del tiempo y las decisiones vitales, protagonizado por un sobrecargo de 50 años. Para mayores de 16 años."
+  },
+  "en": {
+   "titulo": "Monologue 'Life Flies By' with Tiovivo Teatro",
+   "resumen": "A tragicomic monologue about the passage of time and life choices, starring a 50-year-old flight attendant. For ages 16 and up."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "509f981f76": {
+  "id": "418c27f791",
+  "es": {
+   "titulo": "Conferencia: La Virgen de la Almudena en la Literatura",
+   "resumen": "Conferencia que explora la presencia de la Virgen de la Almudena en la literatura madrileña. Un recorrido por obras y autores que la mencionan."
+  },
+  "en": {
+   "titulo": "Lecture: The Virgin of Almudena in Literature",
+   "resumen": "A lecture exploring the presence of the Virgin of Almudena in Madrid literature. A journey through works and authors who mention her."
+  },
+  "temas": [
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": true
+ },
+ "fa8a1fa4ef": {
+  "id": "03b5db3756",
+  "es": {
+   "titulo": "Laboratorio de K-pop para Jóvenes",
+   "resumen": "Taller de baile K-pop, un estilo enérgico y coreografiado. Dirigido a jóvenes de 8 a 16 años, con inscripción previa. Actividad gratuita."
+  },
+  "en": {
+   "titulo": "K-pop Dance Workshop for Youth",
+   "resumen": "K-pop dance workshop, an energetic and choreographed style. Aimed at youth aged 8 to 16, with prior registration. Free activity."
+  },
+  "temas": [
+   "actividades",
+   "musica",
+   "ninos"
+  ],
+  "a_cubierto": true
+ },
+ "bbc0dc77d4": {
+  "id": "46bcfda124",
+  "es": {
+   "titulo": "Laboratorio Infantil de Halloween",
+   "resumen": "Actividad infantil para celebrar Halloween con cuentos, adivinanzas y juegos el día 17, y creación de monstruos el día 24. Para niños de 5 a 12 años."
+  },
+  "en": {
+   "titulo": "Children's Halloween Workshop",
+   "resumen": "Children's activity to celebrate Halloween with stories, riddles, and games on the 17th, and monster creation on the 24th. For children aged 5 to 12."
+  },
+  "temas": [
+   "ninos",
+   "fiestas",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "9d1a3c0269": {
+  "id": "200dc15f5a",
+  "es": {
+   "titulo": "Laboratorio Infantil: Preparando Halloween",
+   "resumen": "Taller infantil para preparar Halloween con hechizos, pociones y monstruos reciclados el día 21, y sombras chinescas para contar cuentos el día 28. Para niños de 5 a 12 años."
+  },
+  "en": {
+   "titulo": "Children's Workshop: Preparing for Halloween",
+   "resumen": "Children's workshop to prepare for Halloween with spells, potions, and recycled monsters on the 21st, and shadow puppets for storytelling on the 28th. For children aged 5 to 12."
+  },
+  "temas": [
+   "ninos",
+   "fiestas",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "9f3b4b8a48": {
+  "id": "103c91a821",
+  "es": {
+   "titulo": "Lali Aygüadé Company en Centro Danza Matadero",
+   "resumen": "Actuación de la Lali Aygüadé Company en el Centro Danza Matadero. Una cita para los amantes de la danza contemporánea."
+  },
+  "en": {
+   "titulo": "Lali Aygüadé Company at Matadero Dance Center",
+   "resumen": "Performance by Lali Aygüadé Company at the Matadero Dance Center. An event for contemporary dance lovers."
+  },
+  "temas": [
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "4fb8c78ce0": {
+  "id": "4e58650b94",
+  "es": {
+   "titulo": "Teatro: 'Las Brujas de Salem' (CANCELADA)",
+   "resumen": "Representación teatral de 'Las Brujas de Salem', que narra la caza de brujas en la localidad. Obra para mayores de 13 años."
+  },
+  "en": {
+   "titulo": "Theater: 'The Crucible' (CANCELLED)",
+   "resumen": "Theatrical performance of 'The Crucible', depicting the witch hunts in the town. Play for ages 13 and up."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "722d7dd0b0": {
+  "id": "f4519e5e1c",
+  "es": {
+   "titulo": "Actividad Cultural: Las Castañuelas como Instrumento de Concierto",
+   "resumen": "Una actividad dentro del ciclo 'Respirando Arte' que explora el uso de las castañuelas como instrumento de concierto. Una mirada a la música tradicional."
+  },
+  "en": {
+   "titulo": "Cultural Activity: Castanets as a Concert Instrument",
+   "resumen": "An activity within the 'Breathing Art' cycle exploring the use of castanets as a concert instrument. A look at traditional music."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "b8a5e3dae9": {
+  "id": "71f854b62b",
+  "es": {
+   "titulo": "Cine: 'Las Corrientes'",
+   "resumen": "Proyección de la película 'Las Corrientes', que narra el regreso de una mujer a Buenos Aires y la aparición de un pasado superado. Recomendada a partir de 12 años."
+  },
+  "en": {
+   "titulo": "Film: 'The Currents'",
+   "resumen": "Screening of the film 'The Currents', which tells the story of a woman's return to Buenos Aires and the emergence of a past she thought was overcome. Recommended for ages 12 and up."
+  },
+  "temas": [
+   "pantalla",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "59596c3ebf": {
+  "id": "112b96ba0b",
+  "es": {
+   "titulo": "Cine: 'Las Melancólicas'",
+   "resumen": "Proyección de la película 'Las Melancólicas', un drama para mayores de 18 años sobre una mujer bajo el cuidado de un doctor tras un exorcismo. Presentación a cargo de Alberto Sedano."
+  },
+  "en": {
+   "titulo": "Film: 'The Melancholics'",
+   "resumen": "Screening of the film 'The Melancholics', a drama for adults (18+) about a woman under a doctor's care after an exorcism. Introduction by Alberto Sedano."
+  },
+  "temas": [
+   "pantalla",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "9921a50050": {
+  "id": "c513b7d0d2",
+  "es": {
+   "titulo": "Evento en CentroCentro: Lê Quan Ninh",
+   "resumen": "Evento en CentroCentro con la participación de Lê Quan Ninh. Más detalles disponibles en el centro."
+  },
+  "en": {
+   "titulo": "Event at CentroCentro: Lê Quan Ninh",
+   "resumen": "Event at CentroCentro featuring Lê Quan Ninh. More details are available at the venue."
+  },
+  "temas": [
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": true
  }
 }

@@ -1,11 +1,11 @@
 {
-  "generated": "2026-10-24T08:53:47.231Z",
+  "generated": "2026-10-24T09:51:58.221Z",
   "today": "2026-10-24",
-  "events": 2476,
+  "events": 2502,
   "review": 6,
   "ai": {
-    "calls": 0,
-    "seconds": 43,
+    "calls": 14,
+    "seconds": 220,
     "tripped": false
   },
   "sources": [
@@ -54,7 +54,7 @@
     {
       "id": "prensa-elpais-cultura",
       "status": "ok",
-      "count": 18,
+      "count": 19,
       "candidatos": true
     },
     {

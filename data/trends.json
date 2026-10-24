@@ -232,6 +232,16 @@
    ]
   },
   {
+   "term": "madrid barca",
+   "traffic": 2000,
+   "lastSeen": "2026-10-24",
+   "news": [
+    "Empate técnico tras 124 años",
+    "Las posibles alineaciones de Barcelona y Real Madrid para el Clásico",
+    "El Clásico: un negocio global en auge que va mucho más allá de 90 minutos"
+   ]
+  },
+  {
    "term": "marta riesco",
    "traffic": 1000,
    "lastSeen": "2026-10-20",
@@ -379,6 +389,26 @@
     "Accidente mortal en Ibiza: un hombre fallece y dos jóvenes resultan heridas",
     "Fallece un hombre de 41 años en un accidente de tráfico en Santa Eulària",
     "Muere un hombre y dos jóvenes resultan heridas en un accidente de tráfico en Santa Eulària (Ibiza)"
+   ]
+  },
+  {
+   "term": "barca madrid",
+   "traffic": 1000,
+   "lastSeen": "2026-10-24",
+   "news": [
+    "La tentación de Mourinho",
+    "La previa del Clásico entre FC Barcelona y Real Madrid, en directo",
+    "Ojito, Flick, que el Madrid viene crecidito al Camp Nou"
+   ]
+  },
+  {
+   "term": "david bisbal",
+   "traffic": 1000,
+   "lastSeen": "2026-10-24",
+   "news": [
+    "David Bisbal: “Puedo ir a Mercadona gracias a mi mujer. Para salir de casa había que sacarme prácticamente con una espátula”",
+    "David Bisbal (47 años): «Puedo ir a Mercadona gracias a mi esposa, antes para salir de casa había que sacar...",
+    "David Bisbal se abre en canal: \"La música y el deporte me han salvado mucho\""
    ]
   },
   {
@@ -554,11 +584,11 @@
   {
    "term": "canarias",
    "traffic": 500,
-   "lastSeen": "2026-10-23",
+   "lastSeen": "2026-10-24",
    "news": [
-    "Las lluvias se quedan en Canarias: la Aemet sentencia el fin de semana en estas islas",
-    "Terminan los avisos y la alerta, pero las lluvias siguen: la previsión de Aemet para Canarias",
-    "Nubes, claros y lluvias en Canarias: el pronóstico que cambia según la isla"
+    "27 empresas canarias impulsan su internacionalización",
+    "Las empresas canarias buscan en Bruselas las herramientas para competir en Europa",
+    "Bruselas recibe a la Cámara de Lanzarote y empresas canarias para explorar apoyo empresarial de la UE"
    ]
   },
   {
@@ -608,6 +638,16 @@
     "Aitana Sánchez-Gijón y Maxi Iglesias, las fotos del viaje para dos de una pareja que sigue unida y no se esconde",
     "Las portadas de las revistas del corazón de hoy: Maxi Iglesias con Aitana Sánchez Gijón, la princesa Leonor y Taylor Swift con los Javis",
     "Las sospechas de Juan Sanguino ante las dos portadas sobre Aitana Sánchez-Gijón y Maxi Iglesias"
+   ]
+  },
+  {
+   "term": "athletic club - sevilla",
+   "traffic": 500,
+   "lastSeen": "2026-10-24",
+   "news": [
+    "LA PREVIA DEL ATHLETIC CLUB VS SEVILLA FC FEMENINO DE LA LIGA F MOEVE 26-27",
+    "Athletic Club W – Sevilla FC W: horario y dónde ver hoy por TV el partido de fútbol de la Liga F",
+    "El Sevilla Femenino se juega tres puntos importantes en Lezama"
    ]
   },
   {
@@ -1029,6 +1069,46 @@
    ]
   },
   {
+   "term": "frutas sol",
+   "traffic": 200,
+   "lastSeen": "2026-10-24",
+   "news": [
+    "Frutas Sol cierra todas sus tiendas en Vigo y ultima un despido colectivo",
+    "Sorpresa por el cierre de las tiendas en Vigo de una popular cadena, \"nos lo acaban de decir\"",
+    "La viguesa Frutas Sol echa el cierre definitivo en Galicia: \"Este es el último día\""
+   ]
+  },
+  {
+   "term": "pueblo ejemplar asturias 2026",
+   "traffic": 200,
+   "lastSeen": "2026-10-24",
+   "news": [
+    "Pueblo Ejemplar 2026, en directo: la princesa Leonor, acompañada por los Reyes y la infanta Sofia, descubre en Llanes más 600 años de tradición marinera",
+    "Pueblo Ejemplar 2026: visita a Llanes, discurso, cierre Premios Princesa de Asturias y última hora, hoy en directo",
+    "El Premio Pueblo Ejemplar de Asturias 2026 no ha recaído en un pueblo... pero tiene un buen motivo para ello"
+   ]
+  },
+  {
+   "term": "quentin tarantino",
+   "traffic": 200,
+   "lastSeen": "2026-10-24",
+   "news": [
+    "Quentin Tarantino and David Fincher team up to talk their 'crime-story' Cliff Booth movie (Exclusive)",
+    "David Fincher Says He Cut 60 Pages from Quentin Tarantino’s ‘Cliff Booth’ Script",
+    "Let THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH Take You Back to 1977"
+   ]
+  },
+  {
+   "term": "sharon stone",
+   "traffic": 200,
+   "lastSeen": "2026-10-24",
+   "news": [
+    "Amanda Seyfried Joins Ramy Youssef’s ‘Martha & Muhammad’ At A24",
+    "Amanda Seyfried joins Sharon Stone in Martha & Muhammad",
+    "Ramy Youssef’s A24 directorial debut Martha & Muhammad: What we know"
+   ]
+  },
+  {
    "term": "consulado",
    "traffic": 100,
    "lastSeen": "2026-10-21",
@@ -1111,6 +1191,12 @@
     "El campeón se pone el buzo",
     "Ander Murua quiere hablar danés"
    ]
+  },
+  {
+   "term": "слави бинев",
+   "traffic": 100,
+   "lastSeen": "2026-10-24",
+   "news": []
   }
  ]
 }
