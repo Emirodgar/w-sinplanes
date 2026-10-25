@@ -1,11 +1,11 @@
 {
-  "generated": "2026-10-25T09:10:24.443Z",
+  "generated": "2026-10-25T10:14:10.752Z",
   "today": "2026-10-25",
-  "events": 2419,
+  "events": 2440,
   "review": 6,
   "ai": {
-    "calls": 0,
-    "seconds": 41,
+    "calls": 18,
+    "seconds": 274,
     "tripped": false
   },
   "sources": [
@@ -36,8 +36,9 @@
     },
     {
       "id": "futbol-laliga-champions",
-      "status": "ok",
-      "count": 18
+      "nombre": "Partidos destacados de LaLiga y Champions (football-data.org)",
+      "status": "error",
+      "detail": "HTTP 500 en https://api.football-data.org/v4/competitions/PD/matches?dateFrom=2026-10-25&dateTo=2026-11-08"
     },
     {
       "id": "prensa-europapress-cultura",
@@ -54,7 +55,7 @@
     {
       "id": "prensa-elpais-cultura",
       "status": "ok",
-      "count": 19,
+      "count": 20,
       "candidatos": true
     },
     {
@@ -96,7 +97,7 @@
     {
       "id": "prensa-ideal-culturas",
       "status": "ok",
-      "count": 22,
+      "count": 23,
       "candidatos": true
     },
     {

@@ -6319,5 +6319,828 @@
   "src": "prensa-heraldo-ocio",
   "publicado": "2026-10-23",
   "es_plan": false
+ },
+ "c8db34d754": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/25/laura-contreras-actriz-infancia-mis-padres-me-ensenaron-creer-mi-2062511.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-10-25",
+  "es_plan": false
+ },
+ "e6f31e36ae": {
+  "url": "https://www.elnortedecastilla.es/culturas/seminci/programa/programa-completo-seminci-2026-domingo-octubre-20261025092537-nt.html",
+  "fuente": "El Norte de Castilla (Culturas)",
+  "src": "prensa-nortecastilla-culturas",
+  "publicado": "2026-10-25",
+  "es_plan": true,
+  "titulo": "Programa Seminci 2026: domingo 25 de octubre",
+  "resumen": "Consulta el programa completo de la tercera jornada de la Semana Internacional del Cine de Valladolid, que se celebra hoy.",
+  "en": {
+   "titulo": "Seminci 2026 Program: Sunday, October 25",
+   "resumen": "Check out the full program for the third day of the Valladolid International Film Week, taking place today."
+  },
+  "inicio": "2026-10-25",
+  "fin": "2026-10-25",
+  "hora": null,
+  "lugar": null,
+  "municipio": "Valladolid",
+  "provincia": "Valladolid",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "1cd0321080": {
+  "url": "https://www.ideal.es/culturas/fandi-julio-norte-protagonizan-sendos-indultos-ecuador-20261025101324-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-10-25",
+  "es_plan": false
+ },
+ "83520e6810": {
+  "url": "https://www.ideal.es/culturas/musica/eco-infinito-angeles-20261025000827-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-10-25",
+  "es_plan": true,
+  "titulo": "Homenaje a los pioneros del pop granadino en Granada",
+  "resumen": "Concierto histórico en el Teatro CajaGranada donde músicos de todas las generaciones rindieron homenaje a los pioneros del pop granadino.",
+  "en": {
+   "titulo": "Tribute to Granada Pop Pioneers in Granada",
+   "resumen": "Historic concert at the CajaGranada Theater where musicians of all generations paid tribute to the pioneers of Granada pop."
+  },
+  "inicio": "2026-10-24",
+  "fin": "2026-10-24",
+  "hora": null,
+  "lugar": "Teatro CajaGranada",
+  "municipio": "Granada",
+  "provincia": "Granada",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "fc974c296f": {
+  "url": "https://www.elcorreo.com/culturas/musica/hijos-ruina-quema-cimientos-miribilla-versos-barrio-20261025014030-nt.html",
+  "fuente": "El Correo (Culturas)",
+  "src": "prensa-elcorreo-culturas",
+  "publicado": "2026-10-25",
+  "es_plan": true,
+  "titulo": "Hijos de la Ruina en concierto en el Bilbao Arena",
+  "resumen": "El trío Hijos de la Ruina ofreció un concierto de dos horas y media en el Bilbao Arena ante un público entregado.",
+  "en": {
+   "titulo": "Hijos de la Ruina in Concert at Bilbao Arena",
+   "resumen": "The trio Hijos de la Ruina performed a two-and-a-half-hour concert at the Bilbao Arena to an enthusiastic audience."
+  },
+  "inicio": "2026-10-24",
+  "fin": "2026-10-24",
+  "hora": null,
+  "lugar": "Bilbao Arena",
+  "municipio": "Bilbao",
+  "provincia": "Vizcaya",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "a240359362": {
+  "url": "https://www.elcorreo.com/culturas/musica/pasion-vega-musica-aliciente-importante-crear-unidad-20261024231339-nt.html",
+  "fuente": "El Correo (Culturas)",
+  "src": "prensa-elcorreo-culturas",
+  "publicado": "2026-10-25",
+  "es_plan": true,
+  "titulo": "Pasión Vega en el Teatro Arriaga con temas de Almodóvar",
+  "resumen": "Pasión Vega actuará el próximo domingo en el Teatro Arriaga interpretando temas de películas de Almodóvar, como parte de su proyecto 'Ura Bere Bidean'.",
+  "en": {
+   "titulo": "Pasión Vega at Arriaga Theater with Almodóvar Film Themes",
+   "resumen": "Pasión Vega will perform next Sunday at the Arriaga Theater, singing songs from Almodóvar's films, as part of her 'Ura Bere Bidean' project."
+  },
+  "inicio": "2026-10-25",
+  "fin": "2026-10-25",
+  "hora": null,
+  "lugar": "Teatro Arriaga",
+  "municipio": "Bilbao",
+  "provincia": "Vizcaya",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "bc7a560e6c": {
+  "url": "https://www.diariovasco.com/culturas/cuatro-hojas-bola-negra-20261025235603-nt.html",
+  "fuente": "El Diario Vasco (Culturas)",
+  "src": "prensa-diariovasco-culturas",
+  "publicado": "2026-10-25",
+  "es_plan": false
+ },
+ "2bca9ab977": {
+  "url": "https://www.lasprovincias.es/culturas/musica/valenciano-salva-videojuegos-olvido-20261014235831-nt.html",
+  "fuente": "Las Provincias (Culturas)",
+  "src": "prensa-lasprovincias-culturas",
+  "publicado": "2026-10-25",
+  "es_plan": true,
+  "titulo": "Concierto de música de videojuegos en el Roig Arena",
+  "resumen": "Luis García, coleccionista de videojuegos, promueve un concierto en el Roig Arena con música de sagas como Final Fantasy y Super Mario Bros.",
+  "en": {
+   "titulo": "Video Game Music Concert at Roig Arena",
+   "resumen": "Video game collector Luis García is promoting a concert at the Roig Arena featuring music from sagas like Final Fantasy and Super Mario Bros."
+  },
+  "inicio": "2026-10-25",
+  "fin": "2026-10-25",
+  "hora": null,
+  "lugar": "Roig Arena",
+  "municipio": "Valencia",
+  "provincia": "Valencia",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "060379a31e": {
+  "url": "https://www.lasprovincias.es/culturas/tv/tve-emite-domingo-orgullo-prejuicio-keira-knightley-20261024235242-nt.html",
+  "fuente": "Las Provincias (Culturas)",
+  "src": "prensa-lasprovincias-culturas",
+  "publicado": "2026-10-25",
+  "es_plan": true,
+  "titulo": "TVE emite 'Orgullo y prejuicio' este domingo",
+  "resumen": "La oferta televisiva de TVE para este domingo 25 de octubre incluye la emisión de la película 'Orgullo y prejuicio', además de una de James Bond y 'Captain Fantastic'.",
+  "en": {
+   "titulo": "TVE Airs 'Pride and Prejudice' This Sunday",
+   "resumen": "TVE's television offering for this Sunday, October 25, includes the broadcast of the film 'Pride and Prejudice', as well as a James Bond movie and 'Captain Fantastic'."
+  },
+  "inicio": "2026-10-25",
+  "fin": "2026-10-25",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "pantalla",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "50128883b8": {
+  "url": "https://www.eldiariomontanes.es/culturas/seleccion-cantabra-folclore-reune-300-personas-puesta-20261025080816-nt.html",
+  "fuente": "El Diario Montañés (Culturas)",
+  "src": "prensa-diariomontanes-culturas",
+  "publicado": "2026-10-25",
+  "es_plan": false
+ },
+ "051629a71e": {
+  "url": "https://www.eldiariomontanes.es/culturas/jose-cobo-lleva-obras-propone-intervencion-dialoga-20261025075606-nt.html",
+  "fuente": "El Diario Montañés (Culturas)",
+  "src": "prensa-diariomontanes-culturas",
+  "publicado": "2026-10-25",
+  "es_plan": true,
+  "titulo": "Exposición 'humus' de José Cobo en el MAS",
+  "resumen": "El Museo inaugura este miércoles 28 de octubre la exposición 'humus' del escultor José Cobo, que dialoga con la Colección del MAS.",
+  "en": {
+   "titulo": "'humus' Exhibition by José Cobo at MAS",
+   "resumen": "The Museum inaugurates the 'humus' exhibition by sculptor José Cobo this Wednesday, October 28, which dialogues with the MAS Collection."
+  },
+  "inicio": "2026-10-28",
+  "fin": "2026-10-28",
+  "hora": null,
+  "lugar": "Museo",
+  "municipio": "Santander",
+  "provincia": "Cantabria",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "46a79edc6c": {
+  "url": "https://www.larioja.com/culturas/azconiano-20261024081532-nt.html",
+  "fuente": "La Rioja (Culturas)",
+  "src": "prensa-larioja-culturas",
+  "publicado": "2026-10-25",
+  "es_plan": false
+ },
+ "9665bb56c9": {
+  "url": "https://www.europapress.es/cultura/musica-00129/noticia-armenia-gana-eurovision-junior-202-puntos-gracias-voto-publico-espana-queda-segunda-184-puntos-20261024234754.html",
+  "fuente": "Europa Press (Cultura)",
+  "src": "prensa-europapress-cultura",
+  "publicado": "2026-10-24",
+  "es_plan": false
+ },
+ "5a5390d7f8": {
+  "url": "https://www.europapress.es/cultura/musica-00129/noticia-musica-esperanza-unen-madrid-mujeres-luchan-contra-cancer-mama-nadie-solo-20261024232138.html",
+  "fuente": "Europa Press (Cultura)",
+  "src": "prensa-europapress-cultura",
+  "publicado": "2026-10-24",
+  "es_plan": true,
+  "titulo": "Concierto solidario 'Cadena 100 Por Ellas' en Madrid",
+  "resumen": "El Movistar Arena de Madrid acogió el concierto solidario 'Cadena 100 Por Ellas' a beneficio de la Asociación Española Contra el Cáncer (AECC).",
+  "en": {
+   "titulo": "Charity Concert 'Cadena 100 Por Ellas' in Madrid",
+   "resumen": "The Movistar Arena in Madrid hosted the charity concert 'Cadena 100 Por Ellas' to benefit the Spanish Association Against Cancer (AECC)."
+  },
+  "inicio": "2026-10-24",
+  "fin": "2026-10-24",
+  "hora": null,
+  "lugar": "Movistar Arena",
+  "municipio": "Madrid",
+  "provincia": "Madrid",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica",
+   "actividades"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "8fee82b042": {
+  "url": "https://elpais.com/cultura/2026-10-24/el-caso-de-la-novela-galardonada-y-presuntamente-escrita-por-ia-abre-el-debate-sobre-los-filtros-ante-obras-ineditas.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-10-24",
+  "es_plan": false
+ },
+ "33c9fc6e1c": {
+  "url": "https://elpais.com/cultura/2026-10-24/del-titubeo-a-la-firmeza-la-compania-nacional-de-danza-repasa-la-historia-mas-clasica-del-movimiento.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-10-24",
+  "es_plan": true,
+  "titulo": "Compañía Nacional de Danza presenta 'Aión'",
+  "resumen": "La Compañía Nacional de Danza estrena el programa 'Aión', que incluye las piezas 'Paquita', 'Petit Morte' y 'The second detail'. La obra explora la historia clásica de la danza con un enfoque en la precisión y la confianza.",
+  "en": {
+   "titulo": "National Dance Company presents 'Aión'",
+   "resumen": "The National Dance Company premieres the program 'Aión', featuring the pieces 'Paquita', 'Petit Morte', and 'The second detail'. The work explores the classic history of dance with a focus on precision and confidence."
+  },
+  "inicio": "2026-10-24",
+  "fin": "2026-10-24",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "213c1ca15b": {
+  "url": "https://www.lavanguardia.com/cultura/20261024/11667495/fenomeno-masas.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-10-24",
+  "es_plan": true,
+  "titulo": "Mariana Enríquez en Barcelona: actos literarios",
+  "resumen": "La escritora Mariana Enríquez visita Barcelona para participar en el jurado del premio Zaforteza y en varios actos literarios. Sus eventos, que incluyen conversaciones y presentaciones, han generado gran expectación y agotado entradas.",
+  "en": {
+   "titulo": "Mariana Enríquez in Barcelona: Literary Events",
+   "resumen": "Writer Mariana Enríquez visits Barcelona to participate in the Zaforteza award jury and several literary events. Her events, including talks and presentations, have generated great anticipation and sold-out tickets."
+  },
+  "inicio": "2026-10-24",
+  "fin": "2026-10-24",
+  "hora": null,
+  "lugar": null,
+  "municipio": "Barcelona",
+  "provincia": "Barcelona",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.7
+ },
+ "f5d36a6e33": {
+  "url": "https://www.lavanguardia.com/cultura/20261024/11667493/artista-mariaelena-roque.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-10-24",
+  "es_plan": true,
+  "titulo": "Exposición de Mariaelena Roque en Galería Rocío Santa Cruz",
+  "resumen": "La galería Rocío Santa Cruz presenta una exposición de la artista plástica Mariaelena Roque, conocida por sus colaboraciones escenográficas. La muestra explora ejes como la prostitución y sigue la línea de exposiciones anteriores.",
+  "en": {
+   "titulo": "Mariaelena Roque Exhibition at Rocío Santa Cruz Gallery",
+   "resumen": "The Rocío Santa Cruz gallery presents an exhibition by visual artist Mariaelena Roque, known for her scenographic collaborations. The show explores themes such as prostitution and follows the line of previous exhibitions."
+  },
+  "inicio": "2026-10-24",
+  "fin": "2026-11-21",
+  "hora": null,
+  "lugar": "Galería Rocío Santa Cruz",
+  "municipio": "Barcelona",
+  "provincia": "Barcelona",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "64ab8f1186": {
+  "url": "https://www.lavanguardia.com/cultura/20261024/11667209/riccardo-primo-reflejos.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-10-24",
+  "es_plan": true,
+  "titulo": "Ópera 'Riccardo Primo' de Händel en el Cicle Palau Òpera",
+  "resumen": "El Cicle Palau Òpera inaugura su temporada con una versión en concierto de la ópera 'Riccardo Primo' de Händel. La producción cuenta con una orquesta refinada y un reparto solvente.",
+  "en": {
+   "titulo": "Handel's Opera 'Riccardo Primo' at Cicle Palau Òpera",
+   "resumen": "The Cicle Palau Òpera opens its season with a concert version of Handel's opera 'Riccardo Primo'. The production features a refined orchestra and a capable cast."
+  },
+  "inicio": "2026-10-24",
+  "fin": "2026-10-24",
+  "hora": null,
+  "lugar": "Palau Òpera",
+  "municipio": "Barcelona",
+  "provincia": "Barcelona",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "1517c45428": {
+  "url": "https://www.lavanguardia.com/cultura/20261024/11667189/joe-jackson-grandes.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-10-24",
+  "es_plan": true,
+  "titulo": "Concierto de Joe Jackson en Barcelona",
+  "resumen": "Joe Jackson, a sus 72 años, ofrece un concierto en Barcelona presentando su nuevo disco 'Hope and Fury' y grandes éxitos de su carrera. El público disfrutó de su energía y maestría musical.",
+  "en": {
+   "titulo": "Joe Jackson Concert in Barcelona",
+   "resumen": "Joe Jackson, at 72, performs a concert in Barcelona, presenting his new album 'Hope and Fury' and career hits. The audience enjoyed his energy and musical mastery."
+  },
+  "inicio": "2026-10-24",
+  "fin": "2026-10-24",
+  "hora": null,
+  "lugar": null,
+  "municipio": "Barcelona",
+  "provincia": "Barcelona",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "a2ef5587c2": {
+  "url": "https://www.ara.cat/cultura/negre-banyoles-deute-museus-no-pagar_1_5879988.html",
+  "fuente": "Ara (Cultura)",
+  "src": "prensa-ara-cultura",
+  "publicado": "2026-10-24",
+  "es_plan": true,
+  "titulo": "Exposiciones 'Llegats en potència' en Bòlit Centre d'Art Contemporani",
+  "resumen": "El Bòlit, Centre d’Art Contemporani de Girona, presenta el programa de exposiciones 'Llegats en potència'. La iniciativa reflexiona sobre el papel de los museos en la memoria de pueblos olvidados.",
+  "en": {
+   "titulo": "'Llegats en potència' Exhibitions at Bòlit Centre d'Art Contemporani",
+   "resumen": "Bòlit, Centre d’Art Contemporani de Girona, presents the exhibition program 'Llegats en potència'. The initiative reflects on the role of museums in the memory of forgotten peoples."
+  },
+  "inicio": "2026-10-24",
+  "fin": "2026-10-24",
+  "hora": null,
+  "lugar": "Bòlit, Centre d’Art Contemporani",
+  "municipio": "Girona",
+  "provincia": "Girona",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "ed6ba40e08": {
+  "url": "https://www.ara.cat/cultura/arquitectura/tothom-vol-aconseguir-efecte-guggenheim-idea-passat_128_5886126.html",
+  "fuente": "Ara (Cultura)",
+  "src": "prensa-ara-cultura",
+  "publicado": "2026-10-24",
+  "es_plan": true,
+  "titulo": "Elizabeth Diller en el Museu Nacional d'Art de Catalunya",
+  "resumen": "La arquitecta Elizabeth Diller participa en el ciclo 'Pensar el museu, imaginar futurs' en el Museu Nacional d'Art de Catalunya, Barcelona. Abordará los retos arquitectónicos de los museos y su financiación.",
+  "en": {
+   "titulo": "Elizabeth Diller at the Museu Nacional d'Art de Catalunya",
+   "resumen": "Architect Elizabeth Diller participates in the cycle 'Pensar el museu, imaginar futurs' at the Museu Nacional d'Art de Catalunya, Barcelona. She will address the architectural challenges of museums and their funding."
+  },
+  "inicio": "2026-10-24",
+  "fin": "2026-10-24",
+  "hora": null,
+  "lugar": "Museu Nacional d'Art de Catalunya",
+  "municipio": "Barcelona",
+  "provincia": "Barcelona",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "d761b67247": {
+  "url": "https://www.heraldo.es/ocio-y-cultura/rastrillo-ozanam-zaragoza-2026-fotos-2062519-1.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-10-24",
+  "es_plan": true,
+  "titulo": "Rastrillo Ozanam 2026 en Zaragoza",
+  "resumen": "El Rastrillo Ozanam 2026, un mercadillo solidario organizado por la Fundación Federico Ozanam, se celebra en Zaragoza. El evento ofrece actividades para todos los públicos con el objetivo de mejorar la atención a personas mayores.",
+  "en": {
+   "titulo": "Rastrillo Ozanam 2026 in Zaragoza",
+   "resumen": "The Rastrillo Ozanam 2026, a charity market organized by the Federico Ozanam Foundation, is taking place in Zaragoza. The event offers activities for all audiences with the aim of improving care for the elderly."
+  },
+  "inicio": "2026-10-24",
+  "fin": "2026-11-02",
+  "hora": null,
+  "lugar": "Sala Multiusos",
+  "municipio": "Zaragoza",
+  "provincia": "Zaragoza",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "fiestas",
+   "actividades",
+   "ninos"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "e3b58aa68e": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/24/dani-martin-golpeado-por-muerte-su-padre-estar-con-sus-ultimos-momentos-con-las-manos-cogidas-fue-mas-sanador-2062503.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-10-24",
+  "es_plan": false
+ },
+ "66af1af9e4": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/24/critica-teatro-ultima-oportunidad-retorno-comedias-para-un-reality-2062501.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-10-24",
+  "es_plan": false
+ },
+ "e708a2afb7": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/24/concurso-musical-pop-rock-busca-zaragoza-sus-semifinalistas-2062457.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-10-24",
+  "es_plan": true,
+  "titulo": "Concurso musical Popyrock 2026 en Zaragoza",
+  "resumen": "El concurso musical Popyrock 2026, organizado por el Ayuntamiento de Zaragoza, busca semifinalistas. Las semifinales se celebrarán en noviembre en El Túnel, culminando con una final el 28 de noviembre.",
+  "en": {
+   "titulo": "Popyrock 2026 Music Competition in Zaragoza",
+   "resumen": "The Popyrock 2026 music competition, organized by the Zaragoza City Council, is seeking semifinalists. The semifinals will be held in November at El Túnel, culminating in a final on November 28th."
+  },
+  "inicio": "2026-11-06",
+  "fin": "2026-11-28",
+  "hora": null,
+  "lugar": "El Túnel",
+  "municipio": "Zaragoza",
+  "provincia": "Zaragoza",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "7314027387": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/24/espanol-supera-2026-los-640-millones-hablantes-potenciales-crece-las-aulas-china-gana-peso-mundo-economico-2062473.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-10-24",
+  "es_plan": false
+ },
+ "4dd2bbfd9c": {
+  "url": "https://www.elnortedecastilla.es/culturas/seminci/cine-alimento-20261024211145-nt.html",
+  "fuente": "El Norte de Castilla (Culturas)",
+  "src": "prensa-nortecastilla-culturas",
+  "publicado": "2026-10-24",
+  "es_plan": false
+ },
+ "5a666ad443": {
+  "url": "https://www.elnortedecastilla.es/culturas/seminci/seryo-proceso-creativo-ayuda-pasar-proceso-curativo-20261024201914-nt.html",
+  "fuente": "El Norte de Castilla (Culturas)",
+  "src": "prensa-nortecastilla-culturas",
+  "publicado": "2026-10-24",
+  "es_plan": false
+ },
+ "1a7d625c3c": {
+  "url": "https://www.elnortedecastilla.es/culturas/seminci/may-eltoukhy-experiencia-femenina-recibido-poca-atencion-20261024134903-nt.html",
+  "fuente": "El Norte de Castilla (Culturas)",
+  "src": "prensa-nortecastilla-culturas",
+  "publicado": "2026-10-24",
+  "es_plan": false
+ },
+ "40ea0dcff8": {
+  "url": "https://www.ideal.es/culturas/jaen/vilches-dedica-emotivo-homenaje-postumo-vida-obra-20261024171217-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-10-24",
+  "es_plan": true,
+  "titulo": "Homenaje póstumo a Juan Hervás en Vilches",
+  "resumen": "Vilches inaugura una exposición de arte en homenaje al pintor y dibujante Juan Hervás. La sala expositiva llevará su nombre.",
+  "en": {
+   "titulo": "Posthumous tribute to Juan Hervás in Vilches",
+   "resumen": "Vilches inaugurates an art exhibition in tribute to the painter and draftsman Juan Hervás. The exhibition hall will bear his name."
+  },
+  "inicio": "2026-10-24",
+  "fin": "2026-10-24",
+  "hora": null,
+  "lugar": "sala expositiva",
+  "municipio": "Vilches",
+  "provincia": "Jaén",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "655afd0ada": {
+  "url": "https://www.hoy.es/culturas/trazos/maton-caballero-20261024120517-nt.html",
+  "fuente": "Hoy (Culturas)",
+  "src": "prensa-hoy-culturas",
+  "publicado": "2026-10-24",
+  "es_plan": false
+ },
+ "a08a646615": {
+  "url": "https://www.hoy.es/culturas/trazos/mirada-artista-contagia-ver-mundo-vez-nueva-20261024120344-nt.html",
+  "fuente": "Hoy (Culturas)",
+  "src": "prensa-hoy-culturas",
+  "publicado": "2026-10-24",
+  "es_plan": false
+ },
+ "45ee7513c4": {
+  "url": "https://www.hoy.es/culturas/trazos/vidas-plenas-20261024120519-nt.html",
+  "fuente": "Hoy (Culturas)",
+  "src": "prensa-hoy-culturas",
+  "publicado": "2026-10-24",
+  "es_plan": false
+ },
+ "cd505eb706": {
+  "url": "https://www.elcorreo.com/culturas/libros/tesoros-papel-tinta-20261023193456-nt.html",
+  "fuente": "El Correo (Culturas)",
+  "src": "prensa-elcorreo-culturas",
+  "publicado": "2026-10-24",
+  "es_plan": false
+ },
+ "1b1a12e4ec": {
+  "url": "https://www.diariovasco.com/culturas/vida-profunda-san-francisco-asis-unio-arte-20261024195720-nt.html",
+  "fuente": "El Diario Vasco (Culturas)",
+  "src": "prensa-diariovasco-culturas",
+  "publicado": "2026-10-24",
+  "es_plan": false
+ },
+ "ef20765bc9": {
+  "url": "https://www.lasprovincias.es/culturas/tv/eurovision-junior-2026-posicion-cantara-espana-20261020132805-nt.html",
+  "fuente": "Las Provincias (Culturas)",
+  "src": "prensa-lasprovincias-culturas",
+  "publicado": "2026-10-24",
+  "es_plan": true,
+  "titulo": "Eurovisión Junior 2026: España en Malta",
+  "resumen": "Lucas Paulano representará a España en Eurovisión Junior 2026 cantando 'Cuore Bello (Te quiero, te quiero)' en Malta.",
+  "en": {
+   "titulo": "Junior Eurovision 2026: Spain in Malta",
+   "resumen": "Lucas Paulano will represent Spain at Junior Eurovision 2026 singing 'Cuore Bello (Te quiero, te quiero)' in Malta."
+  },
+  "inicio": "2026-10-24",
+  "fin": "2026-10-24",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica",
+   "pantalla"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "54576f7a3b": {
+  "url": "https://www.lasprovincias.es/culturas/tv/eurovision-junior-2026-letra-video-cancion-espana-20261020132733-nt.html",
+  "fuente": "Las Provincias (Culturas)",
+  "src": "prensa-lasprovincias-culturas",
+  "publicado": "2026-10-24",
+  "es_plan": true,
+  "titulo": "Eurovisión Junior 2026: Canción de España 'Cuore Bello'",
+  "resumen": "Lucas Paulano representa a España en la final del festival Eurovisión Junior 2026 en Ta' Qali (Malta) con la canción 'Cuore Bello (Te quiero, te quiero)'.",
+  "en": {
+   "titulo": "Junior Eurovision 2026: Spain's song 'Cuore Bello'",
+   "resumen": "Lucas Paulano represents Spain in the final of the Junior Eurovision 2026 festival in Ta' Qali (Malta) with the song 'Cuore Bello (Te quiero, te quiero)'."
+  },
+  "inicio": "2026-10-24",
+  "fin": "2026-10-24",
+  "hora": null,
+  "lugar": "Ta' Qali",
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica",
+   "pantalla"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "17efbfdc9d": {
+  "url": "https://www.lasprovincias.es/culturas/libros/fiesta-literaria-rambleta-20261024124737-nt.html",
+  "fuente": "Las Provincias (Culturas)",
+  "src": "prensa-lasprovincias-culturas",
+  "publicado": "2026-10-24",
+  "es_plan": true,
+  "titulo": "Premios de la Crítica de la Comunitat Valenciana en La Rambleta",
+  "resumen": "Los escritores recibirán los Premios de la Crítica de la Comunitat Valenciana en un evento literario celebrado en La Rambleta.",
+  "en": {
+   "titulo": "Valencian Community Critics' Awards at La Rambleta",
+   "resumen": "Writers will receive the Valencian Community Critics' Awards at a literary event held at La Rambleta."
+  },
+  "inicio": "2026-10-24",
+  "fin": "2026-10-24",
+  "hora": null,
+  "lugar": "La Rambleta",
+  "municipio": null,
+  "provincia": "Comunitat Valenciana",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.5
+ },
+ "210f4f982f": {
+  "url": "https://www.eldiariomontanes.es/culturas/trayectos-cine-vida-20261024130841-nt.html",
+  "fuente": "El Diario Montañés (Culturas)",
+  "src": "prensa-diariomontanes-culturas",
+  "publicado": "2026-10-24",
+  "es_plan": false
+ },
+ "8994eb01ff": {
+  "url": "https://www.larioja.com/culturas/colision-sacude-octubre-corto-20261024204542-nt.html",
+  "fuente": "La Rioja (Culturas)",
+  "src": "prensa-larioja-culturas",
+  "publicado": "2026-10-24",
+  "es_plan": false
+ },
+ "4a16865ba4": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/23/anticorrupcion-apunta-presunta-malversacion-zapatero-por-no-entregar-las-joyas-su-despacho-patrimonio-2062258.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-10-23",
+  "es_plan": false
+ },
+ "c6c31dcf0f": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/23/ultima-oportunidad-ferias-valdespartera-zaragoza-atracciones-descuento-2062173.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-10-23",
+  "es_plan": true,
+  "titulo": "Último día de ferias en Valdespartera (Zaragoza): atracciones al 50%",
+  "resumen": "Este domingo 25 de octubre es el último día para disfrutar de las ferias de Valdespartera en Zaragoza, con atracciones al 50% de descuento.",
+  "en": {
+   "titulo": "Last day of fairs in Valdespartera (Zaragoza): 50% off rides",
+   "resumen": "This Sunday, October 25th, is the last day to enjoy the Valdespartera fairs in Zaragoza, with rides at 50% discount."
+  },
+  "inicio": "2026-10-25",
+  "fin": "2026-10-25",
+  "hora": null,
+  "lugar": "Recinto Ferial de Valdespartera",
+  "municipio": "Zaragoza",
+  "provincia": "Zaragoza",
+  "ambito": "local",
+  "gratis": false,
+  "precio": "50% de descuento en atracciones",
+  "temas": [
+   "fiestas",
+   "actividades"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "c380089eac": {
+  "url": "https://www.elnortedecastilla.es/culturas/seminci/sigue-llegada-invitados-gala-inauguracion-seminci-20261023175951-di.html",
+  "fuente": "El Norte de Castilla (Culturas)",
+  "src": "prensa-nortecastilla-culturas",
+  "publicado": "2026-10-23",
+  "es_plan": true,
+  "titulo": "Inauguración de la 71 Seminci en Valladolid",
+  "resumen": "La 71 Semana Internacional de Cine de Valladolid (Seminci) arranca con la proyección de 'My Notes on Mars', de Lili Horvát.",
+  "en": {
+   "titulo": "Opening of the 71st Seminci in Valladolid",
+   "resumen": "The 71st Valladolid International Film Festival (Seminci) kicks off with the screening of 'My Notes on Mars' by Lili Horvát."
+  },
+  "inicio": "2026-10-23",
+  "fin": "2026-10-23",
+  "hora": null,
+  "lugar": null,
+  "municipio": "Valladolid",
+  "provincia": "Castilla y León",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.5
+ },
+ "2232f7da62": {
+  "url": "https://www.elnortedecastilla.es/culturas/seminci/seminci-reivindica-libertad-creativa-ceremonia-rinde-homenaje-20261023224309-nt.html",
+  "fuente": "El Norte de Castilla (Culturas)",
+  "src": "prensa-nortecastilla-culturas",
+  "publicado": "2026-10-23",
+  "es_plan": true,
+  "titulo": "Seminci reivindica la libertad creativa en su gala inaugural",
+  "resumen": "La gala de inauguración de la Seminci homenajea a José Luis Cienfuegos y lanza mensajes contra la censura, reivindicando la libertad creativa.",
+  "en": {
+   "titulo": "Seminci champions creative freedom at its opening ceremony",
+   "resumen": "The Seminci opening ceremony pays tribute to José Luis Cienfuegos and sends messages against censorship, championing creative freedom."
+  },
+  "inicio": "2026-10-23",
+  "fin": "2026-10-23",
+  "hora": null,
+  "lugar": null,
+  "municipio": "Valladolid",
+  "provincia": "Castilla y León",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.5
  }
 }

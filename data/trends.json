@@ -422,6 +422,26 @@
    ]
   },
   {
+   "term": "courtois",
+   "traffic": 1000,
+   "lastSeen": "2026-10-25",
+   "news": [
+    "Courtois, baja de última hora",
+    "Lleida - Real Madrid: horario, TV y dónde ver la ACB 2026-27",
+    "Encuentra pide medidas ante tantas lesiones"
+   ]
+  },
+  {
+   "term": "cultural leonesa - pontevedra",
+   "traffic": 1000,
+   "lastSeen": "2026-10-25",
+   "news": [
+    "Cultural Leonesa 1 - Pontevedra 2: resumen, goles y resultado",
+    "Derrota de la Cultural Leonesa que deja a Jandro muy tocado",
+    "Remontada del Pontevedra para coronarse en el Reino de León (1-2)"
+   ]
+  },
+  {
    "term": "revolut down",
    "traffic": 500,
    "lastSeen": "2026-10-20",
@@ -668,6 +688,16 @@
     "Barcelona - Real Madrid, en directo: rueda de prensa de Mourinho y Flick, última hora del Clásico, en vivo",
     "Flick: Audacia y buena educación al servicio de la filosofía Barça",
     "Hansi Flick: \"Mourinho es un gran compañero, los jugadores hablan maravillas de él\""
+   ]
+  },
+  {
+   "term": "autobús",
+   "traffic": 500,
+   "lastSeen": "2026-10-25",
+   "news": [
+    "«He llegado al autobús y habían revendido mi billete»",
+    "La Diputación estudia fijar una frecuencia de 30 minutos en las horas con mayor demanda",
+    "Mejorar la conexión con Loiu"
    ]
   },
   {
@@ -1179,6 +1209,56 @@
    ]
   },
   {
+   "term": "jose luis garcia sanchez",
+   "traffic": 200,
+   "lastSeen": "2026-10-25",
+   "news": [
+    "Muere el director de cine José Luis García Sánchez, Oso de Oro en Berlín por 'Las truchas'",
+    "Muere José Luis García Sánchez, coguionista de 'Belle Èpoque' y autor de obras como 'La corte del faraón'",
+    "Fallece José Luis García Sánchez, un cronista de su tiempo"
+   ]
+  },
+  {
+   "term": "cangas",
+   "traffic": 200,
+   "lastSeen": "2026-10-25",
+   "news": [
+    "Muere un hombre en una pelea en un edificio okupa de Cangas (Pontevedra) y otro es detenido",
+    "Muere un hombre en Cangas tras una pelea en un edificio en el que ya apareció un cadáver hace tres años",
+    "Detenido por la muerte de un varón en una pelea por el robo de una tarjeta bancaria en el edificio okupa de la calle Atranco en Cangas"
+   ]
+  },
+  {
+   "term": "guaguas municipales",
+   "traffic": 200,
+   "lastSeen": "2026-10-25",
+   "news": [
+    "El contrato para la gestión inteligente de las guaguas de Gran Canaria acaba en los tribunales",
+    "Falta de dinero, retraso en el cobro y sin cocheras: estos son los obstáculos a los que se enfrenta Guaguas Municipales en 2027",
+    "Guaguas Municipales invertirá 13,1 millones para renovar su flota y avanzar en la MetroGuagua"
+   ]
+  },
+  {
+   "term": "zelda ocarina of time remake",
+   "traffic": 200,
+   "lastSeen": "2026-10-25",
+   "news": [
+    "Se anuncia la primera fecha oficial de restock del Pro Controller del 40º aniversario de Zelda, por ahora solo por parte de Nintendo Australia",
+    "Una medalla de esmeralda, el detalle del último trailer de Ocarina of Time que está volviendo locos a los fans",
+    "Más detalles de Zelda: Ocarina of Time Remake salen a la luz por el organismo de calificación por edades de EE. UU."
+   ]
+  },
+  {
+   "term": "elena rybakina",
+   "traffic": 200,
+   "lastSeen": "2026-10-25",
+   "news": [
+    "The finalists of the Ningbo and Osaka tournaments are now known",
+    "Elena Rybakina reacts after reaching her sixth final of the season at the Ningbo Open",
+    "WTA roundup: No. 1 Elena Rybakina chasing 4th title of '26"
+   ]
+  },
+  {
    "term": "consulado",
    "traffic": 100,
    "lastSeen": "2026-10-21",
@@ -1296,6 +1376,26 @@
     "La vivienda, «emergencia social» por el crecimiento de la «exclusión residencial» en toda España",
     "Cáritas Jaén ha acompañado a más de 300 personas sin hogar este año, 'Un hogar, un lugar al que pertenecer', campaña que pone el valor en la comunidad, los vínculos y el sentido de pertenencia",
     "Cáritas Diocesana de Santiago acompañó a 877 personas en situación de vulnerabilidad residencial en 2025"
+   ]
+  },
+  {
+   "term": "islam makhachev",
+   "traffic": 100,
+   "lastSeen": "2026-10-25",
+   "news": [
+    "Two Electric Title Fights Announced For UFC 336",
+    "Why did Islam Makhachev drop out of UFC 336 and who will fight Carlos Prates instead?",
+    "Dana White explains why interim welterweight title being introduced with Islam Makhachev still champion"
+   ]
+  },
+  {
+   "term": "premier padel",
+   "traffic": 100,
+   "lastSeen": "2026-10-25",
+   "news": [
+    "Chingalán, baja de última hora en Kuwait por lesión de Galán",
+    "Los cuadros. Chingotto y Galan regresan a Kuwait como campeones del mundo. ¿Josemaria contra Sanchez? Solo en semifinales",
+    "Sorteados los caminos a la gloria en el Kuwait Major: la dura ruta de Coello-Tapia hacia el título"
    ]
   }
  ]
