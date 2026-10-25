@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24",
+ "updated": "2026-10-25",
  "terms": [
   {
    "term": "enric masip",
@@ -412,6 +412,16 @@
    ]
   },
   {
+   "term": "england vs pakistan",
+   "traffic": 1000,
+   "lastSeen": "2026-10-25",
+   "news": [
+    "Pakistan vs England, ODI tri-series LIVE! Latest cricket score, updates, video and analysis as Harry Brook's side target first win",
+    "Pakistan eyeing final, England need lift after Pindi capitulation",
+    "“The Future Is With Minhas Brothers”: Bashaar Syed After Arafat Minhas’ Performance Against England"
+   ]
+  },
+  {
    "term": "revolut down",
    "traffic": 500,
    "lastSeen": "2026-10-20",
@@ -648,6 +658,16 @@
     "LA PREVIA DEL ATHLETIC CLUB VS SEVILLA FC FEMENINO DE LA LIGA F MOEVE 26-27",
     "Athletic Club W – Sevilla FC W: horario y dónde ver hoy por TV el partido de fútbol de la Liga F",
     "El Sevilla Femenino se juega tres puntos importantes en Lezama"
+   ]
+  },
+  {
+   "term": "clasico hoy",
+   "traffic": 500,
+   "lastSeen": "2026-10-25",
+   "news": [
+    "Barcelona - Real Madrid, en directo: rueda de prensa de Mourinho y Flick, última hora del Clásico, en vivo",
+    "Flick: Audacia y buena educación al servicio de la filosofía Barça",
+    "Hansi Flick: \"Mourinho es un gran compañero, los jugadores hablan maravillas de él\""
    ]
   },
   {
@@ -1109,6 +1129,56 @@
    ]
   },
   {
+   "term": "ahorro",
+   "traffic": 200,
+   "lastSeen": "2026-10-25",
+   "news": [
+    "¿Dónde tienen los españoles su ahorro? Los hogares más pobres, en la vivienda; los ricos, en activos financieros",
+    "Adió al mito del ahorro en España: los inquilinos ahorran más que los propietarios sin hipoteca",
+    "Los bancos pisan el acelerador por el ahorro: cuentas y depósitos remunerados al 3% y sin importe mínimo"
+   ]
+  },
+  {
+   "term": "normativa",
+   "traffic": 200,
+   "lastSeen": "2026-10-25",
+   "news": [
+    "La Unión Europea cambia la normativa: el nuevo límite para pagos en efectivo que entrará en vigor en 2027",
+    "La Unión Europea topará los pagos en efectivo a partir de julio de 2027 y no se podrá pagar en metálico cuando se supere esta cantidad",
+    "Ya es oficial: Europa cambia las normas y, a partir del 10 de julio de 2027, obligará a reducir el límite máximo para los pagos en efectivo"
+   ]
+  },
+  {
+   "term": "eng vs pak",
+   "traffic": 200,
+   "lastSeen": "2026-10-25",
+   "news": [
+    "Pakistan v England: tri-series one day international cricket – live",
+    "Harry Brook underlines status as world's best all-format batter in Rawalpindi run-fest",
+    "Brook defends Rashid omission after England fail to defend 429"
+   ]
+  },
+  {
+   "term": "neymar",
+   "traffic": 200,
+   "lastSeen": "2026-10-25",
+   "news": [
+    "Neymar, expulsado por la 'Ley Vinicius'",
+    "Otra polémica con Neymar: expulsado por la 'Ley Vinicius'... ¡durante el descanso!",
+    "📹 Neymar 'se pica', ve amarilla y se pierde el Santos-Palmeiras"
+   ]
+  },
+  {
+   "term": "trashumancia madrid",
+   "traffic": 200,
+   "lastSeen": "2026-10-25",
+   "news": [
+    "Fiesta de la Trashumancia en Madrid hoy: a qué hora es, recorrido y cortes de tráfico previstos por el paso de las ovejas",
+    "La acampada de Sol deja a los madrileños sin el tradicional recorrido de la fiesta de la Trashumancia",
+    "Un rebaño de 1.400 ovejas y cabras protagoniza la Fiesta de la Trashumancia: el cambio de recorrido llevará la recepción municipal a la plaza de la Villa"
+   ]
+  },
+  {
    "term": "consulado",
    "traffic": 100,
    "lastSeen": "2026-10-21",
@@ -1197,6 +1267,36 @@
    "traffic": 100,
    "lastSeen": "2026-10-24",
    "news": []
+  },
+  {
+   "term": "calima",
+   "traffic": 100,
+   "lastSeen": "2026-10-25",
+   "news": [
+    "La noria del tiempo vuelve a girar en Canarias: la Aemet avisa de la vuelta a los 30 grados y calima",
+    "Anuncian intervalos nubosos, calima y temperaturas máximas en ligero ascenso",
+    "El viento gana fuerza en Canarias este sábado y la calima volverá el domingo"
+   ]
+  },
+  {
+   "term": "gavi",
+   "traffic": 100,
+   "lastSeen": "2026-10-25",
+   "news": [
+    "Gavi: “En los clásicos se tiene que ir a la guerra, son partidos a muerte”",
+    "Gavi, futbolista del FC Barcelona: \"Soy de esos jugadores que les gusta mucho ir a la guerra en los Clásicos\"",
+    "Gavi: \"En los clásicos se tiene que ir a la guerra, son partidos a muerte\""
+   ]
+  },
+  {
+   "term": "sinhogarismo",
+   "traffic": 100,
+   "lastSeen": "2026-10-25",
+   "news": [
+    "La vivienda, «emergencia social» por el crecimiento de la «exclusión residencial» en toda España",
+    "Cáritas Jaén ha acompañado a más de 300 personas sin hogar este año, 'Un hogar, un lugar al que pertenecer', campaña que pone el valor en la comunidad, los vínculos y el sentido de pertenencia",
+    "Cáritas Diocesana de Santiago acompañó a 877 personas en situación de vulnerabilidad residencial en 2025"
+   ]
   }
  ]
 }
