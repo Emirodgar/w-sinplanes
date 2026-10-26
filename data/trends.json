@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25",
+ "updated": "2026-10-26",
  "terms": [
   {
    "term": "enric masip",
@@ -122,6 +122,16 @@
    ]
   },
   {
+   "term": "ibex 35",
+   "traffic": 5000,
+   "lastSeen": "2026-10-26",
+   "news": [
+    "Telefónica se desploma un 8% en la bolsa tras la victoria de Lula en Brasil y Santander pierde un 5%",
+    "¿Por qué cae hoy la acción de Banco Santander?",
+    "El Ibex se descuelga de Europa por el 'efecto Brasil'"
+   ]
+  },
+  {
    "term": "santiago pedraz",
    "traffic": 2000,
    "lastSeen": "2026-10-20",
@@ -239,6 +249,16 @@
     "Empate técnico tras 124 años",
     "Las posibles alineaciones de Barcelona y Real Madrid para el Clásico",
     "El Clásico: un negocio global en auge que va mucho más allá de 90 minutos"
+   ]
+  },
+  {
+   "term": "festival de la canción de eurovisión junior",
+   "traffic": 2000,
+   "lastSeen": "2026-10-26",
+   "news": [
+    "Eurovisión Junior 2026 (12.2%) lidera en RTVE con la mejor cuota y la segunda gala más vista desde la vuelta de España en 2019",
+    "Audiencias TV | Lucas Paulano otorga a Eurovisión Junior 2026 su mejor marca desde que TVE recuperó el festival en 2019",
+    "Armenia gana Eurovisión Junior 2026 y España queda segunda con Lucas Paulano y ‘Cuore Bello (Te quiero, te quiero)’"
    ]
   },
   {
@@ -439,6 +459,16 @@
     "Cultural Leonesa 1 - Pontevedra 2: resumen, goles y resultado",
     "Derrota de la Cultural Leonesa que deja a Jandro muy tocado",
     "Remontada del Pontevedra para coronarse en el Reino de León (1-2)"
+   ]
+  },
+  {
+   "term": "crisis migratoria",
+   "traffic": 1000,
+   "lastSeen": "2026-10-26",
+   "news": [
+    "Vivas en la manifestación de Madrid: \"Ceuta sigue viviendo una situación absolutamente insostenible\"",
+    "Vivas lamenta desde la multitudinaria protesta de Mujeres Caballas que no haya devoluciones administrativas",
+    "Vivas reitera que Ceuta sigue sin recuperar la normalidad y lamenta que no haya devoluciones"
    ]
   },
   {
@@ -698,6 +728,16 @@
     "«He llegado al autobús y habían revendido mi billete»",
     "La Diputación estudia fijar una frecuencia de 30 minutos en las horas con mayor demanda",
     "Mejorar la conexión con Loiu"
+   ]
+  },
+  {
+   "term": "sindicato",
+   "traffic": 500,
+   "lastSeen": "2026-10-26",
+   "news": [
+    "Valeria Racu: “Todos los gobiernos han promovido el rentismo”",
+    "De la acampada a los barrios: el Sindicato de Inquilinas busca construir \"alianzas entre vecinos\" ante desahucios",
+    "Salamanca se moviliza por la vivienda y llama a la huelga general del 11N"
    ]
   },
   {
@@ -1256,6 +1296,66 @@
     "The finalists of the Ningbo and Osaka tournaments are now known",
     "Elena Rybakina reacts after reaching her sixth final of the season at the Ningbo Open",
     "WTA roundup: No. 1 Elena Rybakina chasing 4th title of '26"
+   ]
+  },
+  {
+   "term": "alfredo sánchez monteseirín",
+   "traffic": 200,
+   "lastSeen": "2026-10-26",
+   "news": [
+    "NOPUBLICAR MONTESEIRÍN.",
+    "Muere Alfredo Sánchez Monteseirín, el alcalde de la gran transformación de Sevilla",
+    "Muere a los 69 años el exalcalde de Sevilla Alfredo Sánchez Monteseirín"
+   ]
+  },
+  {
+   "term": "gran premio de malasia",
+   "traffic": 200,
+   "lastSeen": "2026-10-26",
+   "news": [
+    "¿A qué hora es el GP de Malasia de MotoGP? TV, horarios, cómo y dónde ver las carreras desde Sepang en vivo",
+    "Horarios del GP de Malasia de MotoGP: fechas y dónde ver en TV a Marc Márquez y Jorge Martín en Sepang",
+    "Horarios del GP de Malasia de MotoGP en Sepang y cómo verlo en TV"
+   ]
+  },
+  {
+   "term": "gran hermano",
+   "traffic": 200,
+   "lastSeen": "2026-10-26",
+   "news": [
+    "Ania Iglesias, de ‘Gran Hermano 1’, anuncia que tiene cáncer: “Rendirme jamás será una opción”",
+    "Ania Iglesias (GH1) nos habla de su lucha contra el cáncer: \"Fuera de creencias místicas, mi historia es un milagro\"",
+    "El mensaje de Ania Iglesias ('GH 1') tras anunciar que padece cáncer de colon: \"Cuando acabe los ciclos de quimio...\""
+   ]
+  },
+  {
+   "term": "nàstic - hércules de alicante",
+   "traffic": 200,
+   "lastSeen": "2026-10-26",
+   "news": [
+    "El Hércules CF celebra Halloween por adelantado",
+    "El Nàstic ridiculiza al Hércules en 18 minutos",
+    "Crónica Nàstic-Hércules: Apagón y pesadilla en el Nou Estadi de Tarragona"
+   ]
+  },
+  {
+   "term": "portal del abonado racing",
+   "traffic": 200,
+   "lastSeen": "2026-10-26",
+   "news": [
+    "Arranca la venta anticipada de entradas para la visita del Real Madrid a EL SARDINERO",
+    "Las entradas para el Racing-Real Madrid, desde las 10.00 horas de este lunes y solo en el portal del abonado",
+    "Cómo conseguir entradas para el Racing de Santander-Real Madrid: Precios de LaLiga, información del partido, venta de última hora y más"
+   ]
+  },
+  {
+   "term": "cayetana alvarez de toledo",
+   "traffic": 200,
+   "lastSeen": "2026-10-26",
+   "news": [
+    "Feijóo blinda de nuevo en las listas al núcleo duro que lo acompaña desde Galicia: Marta Varela y Mar Sánchez irán en la candidatura al Congreso",
+    "Alma Ezcurra será la cuarta en la lista del PP por Madrid y la mano derecha de Almeida irá la segunda para el Senado",
+    "Cayetana, la indomable futura ministra de Feijóo"
    ]
   },
   {
