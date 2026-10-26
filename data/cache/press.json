@@ -7142,5 +7142,488 @@
   ],
   "a_cubierto": null,
   "confianza": 0.5
+ },
+ "4a0f58722c": {
+  "url": "https://www.20minutos.es/musica/salvador-sobral-cultura-se-acabo-ser-apolitico-eso-es-girar-cara-los-artistas-tenemos-que-hablar-concienciar_7051168_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-10-26",
+  "es_plan": false
+ },
+ "d673f12ff8": {
+  "url": "https://elpais.com/cultura/2026-10-26/stevie-wonder-el-sumo-sacerdote-del-soul-sigue-obrando-milagros.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-10-26",
+  "es_plan": false
+ },
+ "6ddaed77a6": {
+  "url": "https://www.lavanguardia.com/cultura/20261026/11667791/vidas.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-10-26",
+  "es_plan": false
+ },
+ "2fe54dcf43": {
+  "url": "https://www.lavanguardia.com/cultura/20261026/11667942/pere-calders-indigesta-nunca.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-10-26",
+  "es_plan": false
+ },
+ "2a66514329": {
+  "url": "https://www.ara.cat/cultura/arquitectura/48h-open-house-bcn-tanca-17a-edicio-record-historic-mes-75-000-visitants_25_5890542.html",
+  "fuente": "Ara (Cultura)",
+  "src": "prensa-ara-cultura",
+  "publicado": "2026-10-26",
+  "es_plan": false
+ },
+ "c047b2ccde": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/26/muere-los-46-anos-eric-bauza-hombre-que-daba-voz-pato-lucas-bugs-bunny-piolin-2062871.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-10-26",
+  "es_plan": false
+ },
+ "fd27d88751": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/26/ben-sims-dj-pepo-estella-boersma-halloween-florida-135-2062854.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-10-26",
+  "es_plan": true,
+  "titulo": "Halloween en Florida 135 con Ben Sims, DJ Pepo y Estella Boersma",
+  "resumen": "Florida 135 celebra Halloween con una noche de techno el sábado 31 de octubre, con Ben Sims, DJ Pepo, Estella Boersma y MAURER. La Boîte ofrecerá un All Night Long con Rabent.",
+  "en": {
+   "titulo": "Halloween at Florida 135 with Ben Sims, DJ Pepo, and Estella Boersma",
+   "resumen": "Florida 135 celebrates Halloween with a techno night on Saturday, October 31st, featuring Ben Sims, DJ Pepo, Estella Boersma, and MAURER. La Boîte will host an All Night Long set by Rabent."
+  },
+  "inicio": "2026-10-31",
+  "fin": "2026-10-31",
+  "hora": null,
+  "lugar": "Florida 135",
+  "municipio": null,
+  "provincia": "Huesca",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "musica",
+   "fiestas"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "85bb9da411": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/26/nacho-lamar-deja-boquiabierta-barcelona-con-su-desfile-080-influencer-misho-artesanos-aragoneses-gran-eco-las-redes-sociales-2062639.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-10-26",
+  "es_plan": false
+ },
+ "a061615837": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/26/por-que-carolyn-bessette-kennedy-sigue-moda-27-anos-despues-su-muerte-las-claves-su-estilo-que-encontraras-las-tiendas-2062836.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-10-26",
+  "es_plan": false
+ },
+ "a64e05ffd6": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/26/restaurante-propiedad-famoso-artista-conquista-bunbury-gira-2062822.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-10-26",
+  "es_plan": false
+ },
+ "cfec70238f": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/26/segunda-temporada-serie-exitosa-megan-montaner-fecha-estreno-television-2062817.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-10-26",
+  "es_plan": true,
+  "titulo": "Estreno 2ª temporada de 'Entre tierras' el 29 de octubre",
+  "resumen": "La segunda temporada de la serie 'Entre tierras', protagonizada por Megan Montaner, se estrena en abierto el jueves 29 de octubre en Antena 3. La ficción cuenta con diez capítulos.",
+  "en": {
+   "titulo": "2nd season of 'Entre tierras' premieres October 29th",
+   "resumen": "The second season of the series 'Entre tierras', starring Megan Montaner, premieres on free-to-air television on Thursday, October 29th on Antena 3. The fiction has ten episodes."
+  },
+  "inicio": "2026-10-29",
+  "fin": "2026-10-29",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": true,
+  "precio": null,
+  "temas": [
+   "pantalla",
+   "cultura"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "8394a0fe04": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/26/victor-manuel-coyunturas-insanas-extrema-derecha-policias-jueces-2062818.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-10-26",
+  "es_plan": false
+ },
+ "d0576b8b11": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/26/eva-amaral-vivo-aldea-rio-maravilloso-entrenar-2062820.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-10-26",
+  "es_plan": true,
+  "titulo": "Eva Amaral: Conciertos en Barcelona y Madrid en diciembre",
+  "resumen": "Eva Amaral ofrecerá dos conciertos el 18 de diciembre en el Palau Sant Jordi de Barcelona y el 28 de diciembre en el Movistar Arena de Madrid, como cierre de su disco \"Dolce vita\".",
+  "en": {
+   "titulo": "Eva Amaral: Concerts in Barcelona and Madrid in December",
+   "resumen": "Eva Amaral will perform two concerts on December 18th at Palau Sant Jordi in Barcelona and on December 28th at Movistar Arena in Madrid, concluding her \"Dolce vita\" album tour."
+  },
+  "inicio": "2026-12-18",
+  "fin": "2026-12-28",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "d085977b45": {
+  "url": "https://www.heraldo.es/ocio-y-cultura/video-nacho-lamar-deja-boquiabierta-barcelona-con-su-desfile-080-2062686-2.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-10-26",
+  "es_plan": false
+ },
+ "9a46abaf81": {
+  "url": "https://www.elnortedecastilla.es/culturas/seminci/programa/programa-completo-seminci-2026-lunes-octubre-20261026093617-nt.html",
+  "fuente": "El Norte de Castilla (Culturas)",
+  "src": "prensa-nortecastilla-culturas",
+  "publicado": "2026-10-26",
+  "es_plan": true,
+  "titulo": "Programa de la Seminci 2026: Lunes 26 de octubre",
+  "resumen": "Consulta el programa completo de la cuarta jornada de la Semana Internacional del Cine de Valladolid (Seminci) para el lunes 26 de octubre.",
+  "en": {
+   "titulo": "Seminci 2026 Program: Monday, October 26th",
+   "resumen": "Consult the complete program for the fourth day of the Valladolid International Film Week (Seminci) for Monday, October 26th."
+  },
+  "inicio": "2026-10-26",
+  "fin": "2026-10-26",
+  "hora": null,
+  "lugar": "Seminci",
+  "municipio": "Valladolid",
+  "provincia": "Valladolid",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "71757325da": {
+  "url": "https://www.diariosur.es/culturas/cine/antonio-banderas-despide-director-abrio-puerta-mitologia-20261026120256-nt.html",
+  "fuente": "Diario Sur (Culturas)",
+  "src": "prensa-diariosur-culturas",
+  "publicado": "2026-10-26",
+  "es_plan": false
+ },
+ "ee36c85128": {
+  "url": "https://www.ideal.es/culturas/cine/festival-jovenes-realizadores-despide-triple-record-espectadores-20261026114916-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-10-26",
+  "es_plan": false
+ },
+ "fa6c86bf07": {
+  "url": "https://www.ideal.es/culturas/fundacion-caja-rural-granada-renueva-compromiso-orquesta-20261026114619-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-10-26",
+  "es_plan": false
+ },
+ "0c52e2ff93": {
+  "url": "https://www.ideal.es/culturas/tif-granada-comienza-programa-2500-escolares-fomentar-20261026104530-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-10-26",
+  "es_plan": false
+ },
+ "e56b61a69e": {
+  "url": "https://www.elcorreo.com/culturas/cine/sur-exitos-netflix-20261023000737-nt.html",
+  "fuente": "El Correo (Culturas)",
+  "src": "prensa-elcorreo-culturas",
+  "publicado": "2026-10-26",
+  "es_plan": false
+ },
+ "39455b4c47": {
+  "url": "https://www.diariovasco.com/culturas/musica/orfeon-donostiarra-concierto-ivan-terrible-prokofiev-inaki-gabilondo-kursaal-20261026111857-nt.html",
+  "fuente": "El Diario Vasco (Culturas)",
+  "src": "prensa-diariovasco-culturas",
+  "publicado": "2026-10-26",
+  "es_plan": true,
+  "titulo": "Orfeón Donostiarra interpreta Iván el Terrible con Iñaki Gabilondo",
+  "resumen": "El Orfeón Donostiarra interpretará 'Iván el Terrible' de Prokófiev el 30 de octubre en el Kursaal, con Iñaki Gabilondo como narrador.",
+  "en": {
+   "titulo": "Orfeón Donostiarra performs Ivan the Terrible with Iñaki Gabilondo",
+   "resumen": "The Orfeón Donostiarra will perform Prokofiev's 'Ivan the Terrible' on October 30th at the Kursaal, with Iñaki Gabilondo as narrator."
+  },
+  "inicio": "2026-10-30",
+  "fin": "2026-10-30",
+  "hora": null,
+  "lugar": "Kursaal",
+  "municipio": null,
+  "provincia": "Gipuzkoa",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "a508dd03b5": {
+  "url": "https://www.diariovasco.com/culturas/cine/jose-luis-garcia-sanchez-director-agito-donostia-20261025191911-nt.html",
+  "fuente": "El Diario Vasco (Culturas)",
+  "src": "prensa-diariovasco-culturas",
+  "publicado": "2026-10-26",
+  "es_plan": false
+ },
+ "b225461ef1": {
+  "url": "https://www.diariovasco.com/culturas/arkaitz-anorgako-dantzariak-celebro-centenario-victoria-eugenia-20261026080930-nt.html",
+  "fuente": "El Diario Vasco (Culturas)",
+  "src": "prensa-diariovasco-culturas",
+  "publicado": "2026-10-26",
+  "es_plan": false
+ },
+ "ee31737a65": {
+  "url": "https://www.diariovasco.com/culturas/cine/pasan-anos-puedes-aportar-madurez-hora-contar-20261026070102-nt.html",
+  "fuente": "El Diario Vasco (Culturas)",
+  "src": "prensa-diariovasco-culturas",
+  "publicado": "2026-10-26",
+  "es_plan": false
+ },
+ "5a426d7dc5": {
+  "url": "https://www.lasprovincias.es/culturas/tv/thriller-accion-chris-pratt-solo-ocho-episodios-20261020115405-nt.html",
+  "fuente": "Las Provincias (Culturas)",
+  "src": "prensa-lasprovincias-culturas",
+  "publicado": "2026-10-26",
+  "es_plan": false
+ },
+ "3e9cb1c1bd": {
+  "url": "https://www.lasprovincias.es/culturas/tv/netflix-anuncia-estreno-serie-inma-cuesta-alex-20261022001810-nt.html",
+  "fuente": "Las Provincias (Culturas)",
+  "src": "prensa-lasprovincias-culturas",
+  "publicado": "2026-10-26",
+  "es_plan": false
+ },
+ "8a13b3e73c": {
+  "url": "https://www.eldiariomontanes.es/culturas/lucia-lacarra-danza-tulipanes-amor-horrores-guerra-20261026071320-nt.html",
+  "fuente": "El Diario Montañés (Culturas)",
+  "src": "prensa-diariomontanes-culturas",
+  "publicado": "2026-10-26",
+  "es_plan": true,
+  "titulo": "Lucía Lacarra presenta 'Lost Letters' este viernes",
+  "resumen": "La bailarina Lucía Lacarra presenta este viernes en el Palacio de Festivales 'Lost Letters', una obra inspirada en una carta de la Primera Guerra Mundial.",
+  "en": {
+   "titulo": "Lucía Lacarra presents 'Lost Letters' this Friday",
+   "resumen": "Dancer Lucía Lacarra presents 'Lost Letters' this Friday at the Palacio de Festivales, a work inspired by a letter from World War I."
+  },
+  "inicio": "2026-10-30",
+  "fin": "2026-10-30",
+  "hora": null,
+  "lugar": "Palacio de Festivales",
+  "municipio": null,
+  "provincia": "Cantabria",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "268d4baaf7": {
+  "url": "https://www.larioja.com/culturas/jose-manuel-leon-melia-cine-flor-piel-20261026084505-nt.html",
+  "fuente": "La Rioja (Culturas)",
+  "src": "prensa-larioja-culturas",
+  "publicado": "2026-10-26",
+  "es_plan": false
+ },
+ "575f1b941d": {
+  "url": "https://www.europapress.es/cultura/cine-00128/noticia-muere-cineasta-jose-luis-garcia-sanchez-oso-oro-berlin-truchas-20261025112555.html",
+  "fuente": "Europa Press (Cultura)",
+  "src": "prensa-europapress-cultura",
+  "publicado": "2026-10-25",
+  "es_plan": false
+ },
+ "98cc2b9009": {
+  "url": "https://elpais.com/cultura/cine/2026-10-25/muere-a-los-85-anos-el-cineasta-jose-luis-garcia-sanchez-director-que-uso-el-humor-para-filosofar-sobre-la-vida.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-10-25",
+  "es_plan": false
+ },
+ "262ffc2884": {
+  "url": "https://elpais.com/cultura/cine/2026-10-25/jose-luis-garcia-sanchez-habia-que-deshacer-la-casa.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-10-25",
+  "es_plan": false
+ },
+ "c45226e6ca": {
+  "url": "https://elpais.com/cultura/2026-10-25/cinco-peliculas-imprescindibles-de-jose-luis-garcia-sanchez.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-10-25",
+  "es_plan": false
+ },
+ "e3b57e2f9d": {
+  "url": "https://elpais.com/cultura/2026-10-25/vox-mete-la-motosierra-en-la-cultura.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-10-25",
+  "es_plan": false
+ },
+ "adcc36c5bc": {
+  "url": "https://elpais.com/cultura/cine/2026-10-25/ricardo-gomez-actor-y-director-llevo-toda-la-vida-escuchando-te-conozco-te-he-visto-crecer-y-a-mi-no-me-ha-visto-crecer-nadie.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-10-25",
+  "es_plan": false
+ },
+ "24f6697135": {
+  "url": "https://elpais.com/cultura/2026-10-25/habemus-sigfrido-michael-volle-reina-como-wotan-papal-en-el-anillo-romano-de-daniel-harding.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-10-25",
+  "es_plan": true,
+  "titulo": "Habemus ‘Sigfrido’: Michael Volle reina como Wotan papal en el ‘Anillo’ romano",
+  "resumen": "Crónica de la representación de 'Sigfrido', segunda jornada de la tetralogía wagneriana 'El anillo del nibelungo', en el Auditorio Parco della Musica de Roma. La obra se podrá ver hasta el 27 de octubre.",
+  "en": {
+   "titulo": "Habemus 'Siegfried': Michael Volle reigns as papal Wotan in the Roman 'Ring'",
+   "resumen": "Review of the performance of 'Siegfried', the second part of Wagner's 'Ring of the Nibelung' tetralogy, at the Auditorium Parco della Musica in Rome. The opera runs until October 27th."
+  },
+  "inicio": "2026-10-24",
+  "fin": "2026-10-27",
+  "hora": null,
+  "lugar": "Auditorio Parco della Musica, Sala Santa Cecilia",
+  "municipio": "Roma",
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "7c9dae55a2": {
+  "url": "https://elpais.com/cultura/2026-10-25/judeline-voy-a-llegar-muy-alto-tengo-confianza-ciega-en-mi.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-10-25",
+  "es_plan": false
+ },
+ "1124f211dc": {
+  "url": "https://elpais.com/cultura/2026-10-25/muere-el-fotografo-miguel-bergasa-que-documento-la-hermetica-vida-de-la-comunidad-menonita-en-paraguay.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-10-25",
+  "es_plan": false
+ },
+ "c2d27af545": {
+  "url": "https://www.lavanguardia.com/cultura/20261025/11667809/muere-actriz-teatro-cine-television-pepa-arenos.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-10-25",
+  "es_plan": false
+ },
+ "4f2a2a242b": {
+  "url": "https://www.lavanguardia.com/cultura/20261025/11667707/cultura-espanol-filnyc-nueva-ucles-york-trump.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-10-25",
+  "es_plan": true,
+  "titulo": "La ‘resistencia’ a Trump habla (y lee) español",
+  "resumen": "La octava edición de la Feria del Libro en Español de Nueva York (FILNYC) ha batido récords de asistencia y ventas. El evento se celebra hasta hoy domingo.",
+  "en": {
+   "titulo": "The 'resistance' to Trump speaks (and reads) Spanish",
+   "resumen": "The eighth edition of the New York Spanish Book Fair (FILNYC) has broken attendance and sales records. The event is held until this Sunday."
+  },
+  "inicio": "2026-10-25",
+  "fin": "2026-10-26",
+  "hora": null,
+  "lugar": null,
+  "municipio": "Nueva York",
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "8f33e9690d": {
+  "url": "https://www.lavanguardia.com/cultura/cine/20261025/11667683/cortometraje-majid-zafar-alza-maximo-galardon-filmets-badalona.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-10-25",
+  "es_plan": false
+ },
+ "fd8373af04": {
+  "url": "https://www.lavanguardia.com/cultura/cine/20261025/11667664/truchas-corte-faraon-garcia-sanchez-belle-epoque.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-10-25",
+  "es_plan": false
+ },
+ "83f20270be": {
+  "url": "https://www.lavanguardia.com/cultura/20261025/11667639/muere-85-anos-jose-luis-garcia-sanchez-director-truchas-guionista-belle-epoque.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-10-25",
+  "es_plan": false
+ },
+ "0ec2b0546c": {
+  "url": "https://www.lavanguardia.com/cultura/20261025/11667492/francia-revueltas-libros-cine.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-10-25",
+  "es_plan": false
+ },
+ "fc0f3f3fa7": {
+  "url": "https://www.lavanguardia.com/cultura/20261025/11667262/decisiones-toman-cuerpos-la-carne-david-szalay.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-10-25",
+  "es_plan": false
+ },
+ "5976e5e550": {
+  "url": "https://www.lavanguardia.com/cultura/20261025/11667146/cine-brasileno-teme-bolsonaro.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-10-25",
+  "es_plan": false
  }
 }

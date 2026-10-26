@@ -52,6 +52,16 @@
    ]
   },
   {
+   "term": "crisis migratoria",
+   "traffic": 10000,
+   "lastSeen": "2026-10-26",
+   "news": [
+    "Dos mandos a gritos y la frontera de Ceuta desbordada: el bochorno de la bronca en pleno asalto llega hoy a la Audiencia Nacional",
+    "Última hora de la crisis migratoria de Cauta, en directo: El inspector jefe de la Policía Nacional y el teniente coronel de la Guardia Civil declaran hoy ante la Audiencia Nacional",
+    "La investigación en la Audiencia Nacional por la entrada masiva en Ceuta toma impulso con declaraciones de policías y consejeros que gestionaron la crisis"
+   ]
+  },
+  {
    "term": "cristian toro",
    "traffic": 5000,
    "lastSeen": "2026-10-20",
@@ -129,6 +139,16 @@
     "Telefónica se desploma un 8% en la bolsa tras la victoria de Lula en Brasil y Santander pierde un 5%",
     "¿Por qué cae hoy la acción de Banco Santander?",
     "El Ibex se descuelga de Europa por el 'efecto Brasil'"
+   ]
+  },
+  {
+   "term": "festival de la canción de eurovisión junior",
+   "traffic": 5000,
+   "lastSeen": "2026-10-26",
+   "news": [
+    "Armenia gana Eurovisión Junior 2026 y España queda segunda con Lucas Paulano y ‘Cuore Bello (Te quiero, te quiero)’",
+    "Eurovisión Junior 2026 (12.2%) lidera en RTVE con la mejor cuota y la segunda gala más vista desde la vuelta de España en 2019",
+    "La 1 lidera con Eurovisión Junior, que logra su mejor cuota en 20 años (12,2%), y Lucas Paulano devuelve a España al podio"
    ]
   },
   {
@@ -252,13 +272,33 @@
    ]
   },
   {
-   "term": "festival de la canción de eurovisión junior",
+   "term": "alfredo sánchez monteseirín",
    "traffic": 2000,
    "lastSeen": "2026-10-26",
    "news": [
-    "Eurovisión Junior 2026 (12.2%) lidera en RTVE con la mejor cuota y la segunda gala más vista desde la vuelta de España en 2019",
-    "Audiencias TV | Lucas Paulano otorga a Eurovisión Junior 2026 su mejor marca desde que TVE recuperó el festival en 2019",
-    "Armenia gana Eurovisión Junior 2026 y España queda segunda con Lucas Paulano y ‘Cuore Bello (Te quiero, te quiero)’"
+    "Muere Alfredo Sánchez Monteseirín, el alcalde que modernizó Sevilla, a los 69 años",
+    "Los diez grandes proyectos de Monteseirín: del tranvía a las Setas pasando por la nueva Alameda",
+    "Muere el exalcalde de Sevilla Alfredo Sánchez Monteseirín, a los 69 años"
+   ]
+  },
+  {
+   "term": "herencia",
+   "traffic": 2000,
+   "lastSeen": "2026-10-26",
+   "news": [
+    "Guerra por la herencia de una mujer que cambió tres veces de testamento según quién la cuidaba",
+    "Aceptar una herencia: 30 días para evitar la aceptación pura y simple",
+    "El caso Isak Andic da un nuevo giro: 33 testigos, una herencia millonaria y el testimonio de su hermano"
+   ]
+  },
+  {
+   "term": "electricidad",
+   "traffic": 2000,
+   "lastSeen": "2026-10-26",
+   "news": [
+    "Los embalses hidroeléctricos están en los niveles más bajos de los últimos tres años y amenazan con un invierno de precios caros de electricidad",
+    "La crisis de las renovables fuerza a la banca a una carrera por deshacerse de la deuda del sector",
+    "España afronta un parón de nuevos proyectos de renovables por el caos de los precios de la luz y el portazo de los bancos"
    ]
   },
   {
@@ -462,13 +502,21 @@
    ]
   },
   {
-   "term": "crisis migratoria",
+   "term": "balcón",
    "traffic": 1000,
    "lastSeen": "2026-10-26",
    "news": [
-    "Vivas en la manifestación de Madrid: \"Ceuta sigue viviendo una situación absolutamente insostenible\"",
-    "Vivas lamenta desde la multitudinaria protesta de Mujeres Caballas que no haya devoluciones administrativas",
-    "Vivas reitera que Ceuta sigue sin recuperar la normalidad y lamenta que no haya devoluciones"
+    "Un hombre, grave tras caer desde un balcón en Las Palmas de Gran Canaria",
+    "Grave accidente de madrugada en Las Palmas de Gran Canaria: un varón de 36 años cae a la vía pública desde un balcón",
+    "En estado crítico tras precipitarse desde cinco metros de altura en Gran Canaria"
+   ]
+  },
+  {
+   "term": "cyanide lol",
+   "traffic": 1000,
+   "lastSeen": "2026-10-26",
+   "news": [
+    "Cyanide, former Fnatic jungler and LoL World Champion, dies aged 31"
    ]
   },
   {
@@ -1299,16 +1347,6 @@
    ]
   },
   {
-   "term": "alfredo sánchez monteseirín",
-   "traffic": 200,
-   "lastSeen": "2026-10-26",
-   "news": [
-    "NOPUBLICAR MONTESEIRÍN.",
-    "Muere Alfredo Sánchez Monteseirín, el alcalde de la gran transformación de Sevilla",
-    "Muere a los 69 años el exalcalde de Sevilla Alfredo Sánchez Monteseirín"
-   ]
-  },
-  {
    "term": "gran premio de malasia",
    "traffic": 200,
    "lastSeen": "2026-10-26",
@@ -1356,6 +1394,26 @@
     "Feijóo blinda de nuevo en las listas al núcleo duro que lo acompaña desde Galicia: Marta Varela y Mar Sánchez irán en la candidatura al Congreso",
     "Alma Ezcurra será la cuarta en la lista del PP por Madrid y la mano derecha de Almeida irá la segunda para el Senado",
     "Cayetana, la indomable futura ministra de Feijóo"
+   ]
+  },
+  {
+   "term": "toni nadal",
+   "traffic": 200,
+   "lastSeen": "2026-10-26",
+   "news": [
+    "Toni Nadal, entrenador: \"La gente de hoy en día, no sé si es porque cae antes en la frustración, no suele ir al límite\"",
+    "Toni Nadal dará en Oviedo el 9 de noviembre la conferencia 'Todo se puede entrenar'",
+    "Toni Nadal, el entrenador que llevó a Rafa Nadal a la élite, dará una conferencia en Oviedo"
+   ]
+  },
+  {
+   "term": "toledo",
+   "traffic": 200,
+   "lastSeen": "2026-10-26",
+   "news": [
+    "CHEMICAL LEAK UPDATE: EPA reports extremely low glycidyl methacrylate detection in north Toledo",
+    "U.S. EPA air monitoring data show elevated concentrations of inhalable particles near hazmat site",
+    "‘Error’ caused Toledo chemical leak, EPA says, triggering evacuations and calls to stay inside"
    ]
   },
   {
@@ -1496,6 +1554,16 @@
     "Chingalán, baja de última hora en Kuwait por lesión de Galán",
     "Los cuadros. Chingotto y Galan regresan a Kuwait como campeones del mundo. ¿Josemaria contra Sanchez? Solo en semifinales",
     "Sorteados los caminos a la gloria en el Kuwait Major: la dura ruta de Coello-Tapia hacia el título"
+   ]
+  },
+  {
+   "term": "nuevecuatrouno",
+   "traffic": 100,
+   "lastSeen": "2026-10-26",
+   "news": [
+    "No votes a Eliska en WhatsApp: la Policía Nacional de La Rioja alerta de la estafa que busca controlar tu cuenta",
+    "Aviso de la Policía Nacional si una persona cercana te manda este mensaje: cuidado si te piden esto",
+    "\"¿Podrías votar por Eliska?\": el inofensivo mensaje de WhatsApp diseñado para robar tu cuenta"
    ]
   }
  ]

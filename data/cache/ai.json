@@ -16,6 +16,23 @@
   ],
   "a_cubierto": null
  },
+ "2125724036": {
+  "id": "3ad16747f2",
+  "es": {
+   "titulo": "Presentación catálogo exposición Ramón Gómez de la Serna",
+   "resumen": "Presentación del catálogo de la exposición bibliográfica dedicada a Ramón Gómez de la Serna en el Museo de Arte Contemporáneo de Madrid."
+  },
+  "en": {
+   "titulo": "Presentation of the catalog for the Ramón Gómez de la Serna exhibition",
+   "resumen": "Presentation of the catalog for the bibliographical exhibition dedicated to Ramón Gómez de la Serna at the Museum of Contemporary Art of Madrid."
+  },
+  "temas": [
+   "cultura",
+   "libros",
+   "museos"
+  ],
+  "a_cubierto": true
+ },
  "3665434669": {
   "id": "6d40a8b27d",
   "es": {
@@ -8789,5 +8806,1556 @@
    "musica"
   ],
   "a_cubierto": true
+ },
+ "4d82453ab8": {
+  "id": "4b4477f3fe",
+  "es": {
+   "titulo": "Madrid verso a verso: Charla y recorrido poético",
+   "resumen": "Explora Madrid a través de la poesía en una charla y un paseo guiado. Descubre cómo poetas de distintas épocas han cantado a la ciudad, recorriendo lugares emblemáticos."
+  },
+  "en": {
+   "titulo": "Madrid Verse by Verse: Poetry Talk and Guided Tour",
+   "resumen": "Explore Madrid through poetry in a talk and guided walk. Discover how poets from different eras have celebrated the city, visiting emblematic locations."
+  },
+  "temas": [
+   "cultura",
+   "rutas"
+  ],
+  "a_cubierto": null
+ },
+ "530989c7a1": {
+  "id": "909265e8be",
+  "es": {
+   "titulo": "Charla y experimento: El origen de los colores",
+   "resumen": "Descubre el fascinante mundo de los flavonoides, compuestos vegetales que dan color y aportan beneficios a la salud. Aprende cómo se sintetizan y sus propiedades antioxidantes."
+  },
+  "en": {
+   "titulo": "Talk and Experiment: Where Do Colors Come From?",
+   "resumen": "Discover the fascinating world of flavonoids, plant compounds that provide color and health benefits. Learn how they are synthesized and their antioxidant properties."
+  },
+  "temas": [
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "0b53acbaaa": {
+  "id": "95381284e6",
+  "es": {
+   "titulo": "Curso de oratoria para ganar confianza",
+   "resumen": "Mejora tus habilidades comunicativas y habla en público con seguridad. Este curso intensivo te ayudará a ganar confianza y a proyectar tu mejor versión."
+  },
+  "en": {
+   "titulo": "Public Speaking Course to Gain Confidence",
+   "resumen": "Improve your communication skills and speak confidently in public. This intensive course will help you gain confidence and project your best self."
+  },
+  "temas": [
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "57ad6cdbc3": {
+  "id": "9120eee369",
+  "es": {
+   "titulo": "Taller de escritura poética: Entre versos",
+   "resumen": "Participa en un taller de escritura poética para explorar tu creatividad y dar rienda suelta a tu inspiración literaria."
+  },
+  "en": {
+   "titulo": "Poetic Writing Workshop: Between Verses",
+   "resumen": "Participate in a poetic writing workshop to explore your creativity and unleash your literary inspiration."
+  },
+  "temas": [
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": true
+ },
+ "2290c6f4cd": {
+  "id": "60a9fd6601",
+  "es": {
+   "titulo": "Guía de Autores Europeos: Hungría",
+   "resumen": "Explora la literatura húngara a través de una guía de autores europeos. Descubre nuevas voces y perspectivas del panorama literario de Hungría."
+  },
+  "en": {
+   "titulo": "Guide to European Authors - Hungary",
+   "resumen": "Explore Hungarian literature through a guide to European authors. Discover new voices and perspectives from Hungary's literary scene."
+  },
+  "temas": [
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": true
+ },
+ "542c9e3d35": {
+  "id": "31246c74fe",
+  "es": {
+   "titulo": "Ópera 'Bastián y Bastiana' de Mozart para todos los públicos",
+   "resumen": "Disfruta de una divertida ópera de Mozart, compuesta a los 12 años, que narra una historia de amor con toques mágicos. Ideal para toda la familia."
+  },
+  "en": {
+   "titulo": "Opera 'Bastien and Bastienne' by Mozart for All Audiences",
+   "resumen": "Enjoy a fun opera by Mozart, composed at age 12, telling a love story with magical touches. Ideal for the whole family."
+  },
+  "temas": [
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "af75a87cdc": {
+  "id": "6ff28fd18b",
+  "es": {
+   "titulo": "Exposición 'Nada Espontáneo': Una mirada a los 90",
+   "resumen": "Sumérgete en la década de los 90 a través de la exposición 'Nada Espontáneo'. Una retrospectiva que explora la cultura y el arte de esa época."
+  },
+  "en": {
+   "titulo": "Exhibition 'Nothing Spontaneous': A Look at the 90s",
+   "resumen": "Immerse yourself in the 90s through the 'Nothing Spontaneous' exhibition. A retrospective exploring the culture and art of that era."
+  },
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": true
+ },
+ "7f02cdf4b8": {
+  "id": "d194e2cb10",
+  "es": {
+   "titulo": "Teatro de títeres 'Nanuk en el bosque de las emociones'",
+   "resumen": "Un osito polar perdido en un bosque descubre emociones y vive aventuras en esta conmovedora obra de títeres para niños a partir de 4 años."
+  },
+  "en": {
+   "titulo": "Puppet Theater 'Nanuk in the Forest of Emotions'",
+   "resumen": "A polar bear lost in a forest discovers emotions and has adventures in this touching puppet show for children aged 4 and up."
+  },
+  "temas": [
+   "cultura",
+   "ninos"
+  ],
+  "a_cubierto": true
+ },
+ "a1f343739e": {
+  "id": "5ad8d79575",
+  "es": {
+   "titulo": "Exposición 'Niños de Vallecas' de Benjamín Palencia",
+   "resumen": "Descubre 15 reproducciones de obras de Benjamín Palencia que retratan la infancia en Vallecas durante los años 40. Una ventana a la historia y la niñez."
+  },
+  "en": {
+   "titulo": "Exhibition 'Children of Vallecas' by Benjamín Palencia",
+   "resumen": "Discover 15 reproductions of works by Benjamín Palencia depicting childhood in Vallecas during the 1940s. A window into history and childhood."
+  },
+  "temas": [
+   "cultura",
+   "ninos"
+  ],
+  "a_cubierto": true
+ },
+ "42ef609d34": {
+  "id": "ecb3876276",
+  "es": {
+   "titulo": "Concierto 'O Kwarteto' en Arganzuela",
+   "resumen": "Disfruta de una actuación musical del grupo 'O Kwarteto' en el centro cultural de Arganzuela."
+  },
+  "en": {
+   "titulo": "Concert 'O Kwarteto' in Arganzuela",
+   "resumen": "Enjoy a musical performance by the group 'O Kwarteto' at the Arganzuela cultural center."
+  },
+  "temas": [
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "7f9d43ce8b": {
+  "id": "d1c8ca9185",
+  "es": {
+   "titulo": "Concierto 'O Kwarteto' en Chamartín",
+   "resumen": "Disfruta de una actuación musical del grupo 'O Kwarteto' en el centro cultural de Chamartín."
+  },
+  "en": {
+   "titulo": "Concert 'O Kwarteto' in Chamartín",
+   "resumen": "Enjoy a musical performance by the group 'O Kwarteto' at the Chamartín cultural center."
+  },
+  "temas": [
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "5f0916e97a": {
+  "id": "3f2130c024",
+  "es": {
+   "titulo": "Teatro: 'Obras cortas de Chéjov'",
+   "resumen": "El grupo Juglar al Cinquillo adapta tres cuentos de Antón Chéjov, explorando la condición humana y la incomunicación a través de su estilo realista."
+  },
+  "en": {
+   "titulo": "Theater: 'Short Works by Chekhov'",
+   "resumen": "The Juglar al Cinquillo group adapts three short stories by Anton Chekhov, exploring the human condition and lack of communication through his realistic style."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "f1cfdcf390": {
+  "id": "a3a3b2cb88",
+  "es": {
+   "titulo": "Conferencia: Origen y tradición de La Almudena en Madrid",
+   "resumen": "Conoce el origen, las tradiciones y la evolución de la importancia de La Almudena en el imaginario madrileño en esta interesante conferencia."
+  },
+  "en": {
+   "titulo": "Conference: Origin and Tradition of La Almudena in Madrid",
+   "resumen": "Learn about the origin, traditions, and evolving importance of La Almudena in the Madrid imagination during this interesting conference."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "3436d8b159": {
+  "id": "591f139e88",
+  "es": {
+   "titulo": "Concierto de la Orquesta de pulso y púa Félix Jiménez",
+   "resumen": "Disfruta de un variado repertorio musical, desde música popular española hasta temas reconocibles, interpretado por la Orquesta de pulso y púa Félix Jiménez."
+  },
+  "en": {
+   "titulo": "Concert by the Félix Jiménez Plucked String Orchestra",
+   "resumen": "Enjoy a varied musical repertoire, from Spanish folk music to recognizable tunes, performed by the Félix Jiménez Plucked String Orchestra."
+  },
+  "temas": [
+   "musica"
+  ],
+  "a_cubierto": null
+ },
+ "76d8d6f2df": {
+  "id": "fa90fd0d13",
+  "es": {
+   "titulo": "Cuentacuentos 'Palabras de ida y vuelta' para público familiar",
+   "resumen": "Un espectáculo de cuentacuentos teatralizados, lleno de humor y amor, para niños a partir de 3 años y toda la familia. Una experiencia mágica."
+  },
+  "en": {
+   "titulo": "Storytelling 'Words Back and Forth' for Family Audiences",
+   "resumen": "A theatrical storytelling show, full of humor and love, for children aged 3 and up and the whole family. A magical experience."
+  },
+  "temas": [
+   "ninos",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "51d2ce6b2c": {
+  "id": "46c0cff84c",
+  "es": {
+   "titulo": "Parque de Berlín",
+   "resumen": "Visita el Parque de Berlín, un espacio verde para disfrutar de la naturaleza y el aire libre en la ciudad."
+  },
+  "en": {
+   "titulo": "Berlin Park",
+   "resumen": "Visit Berlin Park, a green space to enjoy nature and the outdoors in the city."
+  },
+  "temas": [
+   "naturaleza",
+   "parques"
+  ],
+  "a_cubierto": false
+ },
+ "1f3e2db081": {
+  "id": "c74bda84cc",
+  "es": {
+   "titulo": "Parque del Oeste: Itinerario interpretativo",
+   "resumen": "Realiza un recorrido interpretativo por el Parque del Oeste, descubriendo sus encantos y aprendiendo sobre su historia y características."
+  },
+  "en": {
+   "titulo": "Parque del Oeste: Interpretive Itinerary",
+   "resumen": "Take an interpretive tour through Parque del Oeste, discovering its charms and learning about its history and features."
+  },
+  "temas": [
+   "naturaleza",
+   "rutas",
+   "parques"
+  ],
+  "a_cubierto": false
+ },
+ "4047ce4630": {
+  "id": "26d176cbdb",
+  "es": {
+   "titulo": "Partida de rol de Halloween en la Biblioteca Iván de Vargas",
+   "resumen": "Participa en una emocionante partida de rol ambientada en Halloween en la Biblioteca Pública Municipal Iván de Vargas. ¡Una noche de misterio y diversión!"
+  },
+  "en": {
+   "titulo": "Halloween Role-Playing Game at Iván de Vargas Library",
+   "resumen": "Join an exciting Halloween-themed role-playing game at the Iván de Vargas Municipal Public Library. A night of mystery and fun!"
+  },
+  "temas": [
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "14c3359bbd": {
+  "id": "00a7908909",
+  "es": {
+   "titulo": "Pasaje del terror para mayores de 8 años",
+   "resumen": "Vive una experiencia escalofriante en este pasaje del terror lleno de sorpresas y sustos. ¡Apto para valientes a partir de 8 años!"
+  },
+  "en": {
+   "titulo": "Haunted House for Ages 8+",
+   "resumen": "Experience a chilling adventure in this haunted house full of surprises and scares. Suitable for the brave aged 8 and up!"
+  },
+  "temas": [
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "46b89d6707": {
+  "id": "8d9c0f9b5c",
+  "es": {
+   "titulo": "Pasaje del terror en Puente de Vallecas",
+   "resumen": "Disfruta de un pasaje del terror en Puente de Vallecas. Una experiencia espeluznante para celebrar la noche más terrorífica del año."
+  },
+  "en": {
+   "titulo": "Haunted House in Puente de Vallecas",
+   "resumen": "Enjoy a haunted house experience in Puente de Vallecas. A spooky adventure to celebrate the most terrifying night of the year."
+  },
+  "temas": [
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "9c382aef3e": {
+  "id": "8ebcdb6118",
+  "es": {
+   "titulo": "Ruta comercial histórica por Chamberí",
+   "resumen": "Recorre el Chamberí más castizo y descubre sus comercios históricos y actuales. Un paseo por la memoria comercial del barrio."
+  },
+  "en": {
+   "titulo": "Historic Shopping Route Through Chamberí",
+   "resumen": "Explore the most traditional Chamberí and discover its historic and current shops. A walk through the commercial memory of the neighborhood."
+  },
+  "temas": [
+   "cultura",
+   "rutas"
+  ],
+  "a_cubierto": true
+ },
+ "363918ee69": {
+  "id": "fb72d6db64",
+  "es": {
+   "titulo": "Paseo ornitológico en la Casa de Campo",
+   "resumen": "Descubre la avifauna de la Casa de Campo en una ruta circular. Observa aves acuáticas, forestales y rapaces en su hábitat natural."
+  },
+  "en": {
+   "titulo": "Birdwatching Walk in Casa de Campo",
+   "resumen": "Discover the birdlife of Casa de Campo on a circular route. Observe aquatic, forest, and birds of prey in their natural habitat."
+  },
+  "temas": [
+   "naturaleza",
+   "rutas",
+   "deporte"
+  ],
+  "a_cubierto": false
+ },
+ "cb46b45717": {
+  "id": "8cdfd791dc",
+  "es": {
+   "titulo": "Danza española: 'Bien vale un imperio' de Paula Comitre",
+   "resumen": "Paula Comitre estrena 'Bien vale un imperio', un espectáculo de danza española inspirado en Pastora Imperio, que fusiona tradición y lenguaje contemporáneo."
+  },
+  "en": {
+   "titulo": "Spanish Dance: 'Bien vale un imperio' by Paula Comitre",
+   "resumen": "Paula Comitre premieres 'Bien vale un imperio', a Spanish dance performance inspired by Pastora Imperio, blending tradition and contemporary language."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "1a65814f51": {
+  "id": "a3025c0fe7",
+  "es": {
+   "titulo": "Danza contemporánea: Peeping Tom en Matadero",
+   "resumen": "Experimenta la danza contemporánea con la compañía Peeping Tom en el Centro Danza Matadero. Una propuesta escénica innovadora."
+  },
+  "en": {
+   "titulo": "Contemporary Dance: Peeping Tom at Matadero",
+   "resumen": "Experience contemporary dance with the Peeping Tom company at Centro Danza Matadero. An innovative stage production."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "092316e9b2": {
+  "id": "bce484a53a",
+  "es": {
+   "titulo": "Cine: 'Domingo de carnaval' de Edgar Neville",
+   "resumen": "Disfruta de 'Domingo de carnaval', un film noir de Edgar Neville ambientado en el Madrid de los años 40. Un misterio entre máscaras y tipos castizos."
+  },
+  "en": {
+   "titulo": "Film: 'Domingo de carnaval' by Edgar Neville",
+   "resumen": "Enjoy 'Domingo de carnaval', a film noir by Edgar Neville set in 1940s Madrid. A mystery amidst masks and traditional characters."
+  },
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": true
+ },
+ "b62a6e530b": {
+  "id": "c45dfde8fe",
+  "es": {
+   "titulo": "Cine: El cameraman (1928)",
+   "resumen": "Un torpe empleado se enamora de una oficinista y decide convertirse en camarógrafo para estar cerca de ella. Una comedia muda clásica de Edward Sedgwick."
+  },
+  "en": {
+   "titulo": "Film: The Cameraman (1928)",
+   "resumen": "A clumsy employee falls for an office worker and decides to become a cameraman to be near her. A classic silent comedy by Edward Sedgwick."
+  },
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": true
+ },
+ "2da46a75f5": {
+  "id": "cfcd211476",
+  "es": {
+   "titulo": "Cine: El crimen de la calle Bordadores (1946)",
+   "resumen": "Ambientada en el Madrid de finales del siglo XIX, esta película narra un apasionante proceso judicial tras el asesinato de una rica viuda. Un retrato de la vida madrileña."
+  },
+  "en": {
+   "titulo": "Film: The Crime of Bordadores Street (1946)",
+   "resumen": "Set in late 19th-century Madrid, this film depicts a captivating judicial process following the murder of a wealthy widow. A vivid portrait of Madrid life."
+  },
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": true
+ },
+ "a7d7964d49": {
+  "id": "fdede96fbe",
+  "es": {
+   "titulo": "Cine: El forzudo (1926)",
+   "resumen": "Un soldado belga en la Primera Guerra Mundial viaja a Estados Unidos tras recibir una carta de una mujer que nunca ha conocido. Una película de Frank Capra."
+  },
+  "en": {
+   "titulo": "Film: The Strong Man (1926)",
+   "resumen": "A meek Belgian soldier in World War I travels to the United States after receiving a letter from a woman he has never met. A film by Frank Capra."
+  },
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": true
+ },
+ "ebc323f6af": {
+  "id": "f7c1384891",
+  "es": {
+   "titulo": "Cine: El último caballo (1950)",
+   "resumen": "Tras la mili, Fernando salva a su caballo de ir a la plaza de toros, pero mantenerlo en un Madrid moderno se convierte en una aventura. Una fábula de Edgar Neville."
+  },
+  "en": {
+   "titulo": "Film: The Last Horse (1950)",
+   "resumen": "After military service, Fernando saves his horse from the bullring, but keeping it in a modern Madrid becomes an adventure. A fable by Edgar Neville."
+  },
+  "temas": [
+   "cultura",
+   "pantalla",
+   "rutas"
+  ],
+  "a_cubierto": true
+ },
+ "b2dcfbee10": {
+  "id": "49620987c2",
+  "es": {
+   "titulo": "Cine: Las siete ocasiones (1925)",
+   "resumen": "Un agente de bolsa cerca de la bancarrota debe casarse antes de su 27 cumpleaños para heredar una fortuna. Una comedia de Buster Keaton."
+  },
+  "en": {
+   "titulo": "Film: The Seven Chances (1925)",
+   "resumen": "A stockbroker on the verge of bankruptcy must marry before his 27th birthday to inherit a fortune. A comedy by Buster Keaton."
+  },
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": true
+ },
+ "80232907aa": {
+  "id": "c72f4c5c97",
+  "es": {
+   "titulo": "Teatro: Peluqueras marxistas",
+   "resumen": "Tres en Banda presenta 'Peluqueras marxistas', una obra que explora la revolución desde una peluquería. Dos mujeres buscan ser dueñas de su tiempo y su destino."
+  },
+  "en": {
+   "titulo": "Theater: Marxist Hairdressers",
+   "resumen": "Tres en Banda presents 'Marxist Hairdressers,' a play exploring revolution from a hair salon. Two women seek to own their time and destiny."
+  },
+  "temas": [
+   "cultura",
+   "fiestas"
+  ],
+  "a_cubierto": true
+ },
+ "a3c1cfbf5e": {
+  "id": "bdf51a7842",
+  "es": {
+   "titulo": "Actividad infantil: Pequeños monstruos",
+   "resumen": "Celebra Halloween con hechizos, pociones y la creación de monstruos con materiales reciclados. Una actividad divertida para los más pequeños."
+  },
+  "en": {
+   "titulo": "Children's Activity: Little Monsters",
+   "resumen": "Celebrate Halloween with spells, potions, and creating monsters from recycled materials. A fun activity for children."
+  },
+  "temas": [
+   "ninos",
+   "fiestas",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "fcc596b81e": {
+  "id": "0d23ec7478",
+  "es": {
+   "titulo": "Cine: Pesadilla antes de Navidad",
+   "resumen": "Jack Skellington, el Señor de Halloween, descubre la Navidad y decide mejorarla a su macabra manera. Una película de Tim Burton para mayores de 10 años."
+  },
+  "en": {
+   "titulo": "Film: The Nightmare Before Christmas",
+   "resumen": "Jack Skellington, the Pumpkin King, discovers Christmas and decides to improve it in his own macabre way. A Tim Burton film for ages 10+."
+  },
+  "temas": [
+   "pantalla",
+   "ninos",
+   "navidad"
+  ],
+  "a_cubierto": true
+ },
+ "926adffd10": {
+  "id": "26e2e4b206",
+  "es": {
+   "titulo": "Taller infantil: Pimpiringallo",
+   "resumen": "Taller para niños y acompañantes donde se recitan cuentos y poesías, se aprenden técnicas de memorización y se fomenta la creación de historias."
+  },
+  "en": {
+   "titulo": "Children's Workshop: Pimpiringallo",
+   "resumen": "A workshop for children and their guardians to recite stories and poems, learn memorization techniques, and encourage story creation."
+  },
+  "temas": [
+   "ninos",
+   "libros",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "c241ae7050": {
+  "id": "3a2650fa2a",
+  "es": {
+   "titulo": "Actividad: Pinta tu Halloween",
+   "resumen": "Una actividad creativa para celebrar Halloween en la Biblioteca Pública Municipal María Zambrano."
+  },
+  "en": {
+   "titulo": "Activity: Paint Your Halloween",
+   "resumen": "A creative activity to celebrate Halloween at the María Zambrano Municipal Public Library."
+  },
+  "temas": [
+   "ninos",
+   "fiestas",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "11614188d4": {
+  "id": "85a843a462",
+  "es": {
+   "titulo": "Actividad: POM CondeDuque. 2026-27",
+   "resumen": "Programa de actividades en el Centro de Cultura Contemporánea CondeDuque."
+  },
+  "en": {
+   "titulo": "Activity: POM CondeDuque. 2026-27",
+   "resumen": "Program of activities at the Conde Duque Contemporary Culture Center."
+  },
+  "temas": [
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "0a6c9a82de": {
+  "id": "63f692e197",
+  "es": {
+   "titulo": "Concierto lírico: Por ser la Virgen de la Almudena",
+   "resumen": "Concierto lírico gratuito dedicado a la Patrona de Madrid, la Virgen de la Almudena, en la Plaza de los Chisperos."
+  },
+  "en": {
+   "titulo": "Lyrical Concert: For Our Lady of Almudena",
+   "resumen": "A free lyrical concert dedicated to Madrid's patron saint, Our Lady of Almudena, held at Plaza de los Chisperos."
+  },
+  "temas": [
+   "cultura",
+   "musica",
+   "fiestas"
+  ],
+  "a_cubierto": true
+ },
+ "790fb8bf94": {
+  "id": "6b72d44e93",
+  "es": {
+   "titulo": "Cine: Póstumo",
+   "resumen": "Un encuentro entre Dolores y Luis permite explorar su vínculo familiar a través del realismo mágico. Película de Lucía Carreras."
+  },
+  "en": {
+   "titulo": "Film: Póstumo",
+   "resumen": "An encounter between Dolores and Luis allows them to explore their family connection through magical realism. A film by Lucía Carreras."
+  },
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": true
+ },
+ "df3eb4382b": {
+  "id": "b99f1fffb4",
+  "es": {
+   "titulo": "Presentación colección 'Talento y exilio: la diáspora del conocimiento'",
+   "resumen": "Presentación de la colección 'Talento y exilio: la diáspora del conocimiento' en la Biblioteca Pública Municipal Eugenio Trías."
+  },
+  "en": {
+   "titulo": "Presentation of the collection 'Talent and exile: the diaspora of knowledge'",
+   "resumen": "Presentation of the collection 'Talent and exile: the diaspora of knowledge' at the Eugenio Trías Municipal Public Library."
+  },
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "0ee76c5697": {
+  "id": "8787a4e4a0",
+  "es": {
+   "titulo": "Presentación obras José Zuleta y Alberto Manrique",
+   "resumen": "Presentación de las nuevas obras de los autores José Zuleta y Alberto Manrique en la Biblioteca Pública Municipal Eugenio Trías."
+  },
+  "en": {
+   "titulo": "Presentation of works by José Zuleta and Alberto Manrique",
+   "resumen": "Presentation of new works by authors José Zuleta and Alberto Manrique at the Eugenio Trías Municipal Public Library."
+  },
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "18a3ab9da6": {
+  "id": "aac456cad2",
+  "es": {
+   "titulo": "Presentación libro: La Fe de Marco",
+   "resumen": "Presentación del libro 'La Fe de Marco', un relato vivencial de una madre sobre su hijo con Trastorno del Espectro Autista (TEA). Entrada libre."
+  },
+  "en": {
+   "titulo": "Book Presentation: La Fe de Marco",
+   "resumen": "Presentation of the book 'La Fe de Marco,' a mother's personal account about her son with Autism Spectrum Disorder (ASD). Free entry."
+  },
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "41a61c54c8": {
+  "id": "829f3e3bb4",
+  "es": {
+   "titulo": "Presentación libro: Recetas de toda la vida",
+   "resumen": "Presentación del libro 'Recetas de toda la vida' para preservar la memoria gastronómica de Vicálvaro, reuniendo recetas y recuerdos de sus vecinos."
+  },
+  "en": {
+   "titulo": "Book Presentation: Traditional Recipes",
+   "resumen": "Presentation of the book 'Traditional Recipes' to preserve Vicálvaro's gastronomic memory, gathering recipes and memories from its residents."
+  },
+  "temas": [
+   "gastronomia",
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "292ac66459": {
+  "id": "b566af7ec7",
+  "es": {
+   "titulo": "Presentación libro: Semblanzas, de Rogelio Sánchez Molero",
+   "resumen": "Presentación del libro 'Semblanzas' de Rogelio Sánchez Molero en la Imprenta Municipal. Artes del libro."
+  },
+  "en": {
+   "titulo": "Book Presentation: Semblanzas, by Rogelio Sánchez Molero",
+   "resumen": "Presentation of the book 'Semblanzas' by Rogelio Sánchez Molero at the Municipal Printing House. Book Arts."
+  },
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "3657fc62a5": {
+  "id": "53c272e8a6",
+  "es": {
+   "titulo": "Presentación libro: Trabajos de amor, de Agustín Araque Jubete",
+   "resumen": "Presentación del libro 'Trabajos de amor' de Agustín Araque Jubete en la Imprenta Municipal. Artes del libro."
+  },
+  "en": {
+   "titulo": "Book Presentation: Love's Labors, by Agustín Araque Jubete",
+   "resumen": "Presentation of the book 'Love's Labors' by Agustín Araque Jubete at the Municipal Printing House. Book Arts."
+  },
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "4ee062556e": {
+  "id": "fd8b256b8a",
+  "es": {
+   "titulo": "Presentación libro: El hombre que solo escribía en los aviones",
+   "resumen": "Presentación del libro 'El hombre que solo escribía en los aviones' de Pedro Almodóvar en Matadero Madrid."
+  },
+  "en": {
+   "titulo": "Book Presentation: The Man Who Only Wrote on Airplanes",
+   "resumen": "Presentation of the book 'The Man Who Only Wrote on Airplanes' by Pedro Almodóvar at Matadero Madrid."
+  },
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "26aa87a1cd": {
+  "id": "3522bd9fe8",
+  "es": {
+   "titulo": "Presentación libro: Las calles de Madrid",
+   "resumen": "Presentación y homenaje al periodista Víctor de la Serna con su libro 'Las calles de Madrid'. Un recorrido por la historia y evolución de la ciudad."
+  },
+  "en": {
+   "titulo": "Book Presentation: The Streets of Madrid",
+   "resumen": "Presentation and tribute to journalist Víctor de la Serna with his book 'The Streets of Madrid.' A journey through the city's history and evolution."
+  },
+  "temas": [
+   "libros",
+   "cultura",
+   "rutas"
+  ],
+  "a_cubierto": true
+ },
+ "08aa248c40": {
+  "id": "c78a61655a",
+  "es": {
+   "titulo": "Presentación libro: La marquesa y Bonaparte",
+   "resumen": "Presentación del libro 'La marquesa y Bonaparte' de María José Rubio. Una historia de amor, diplomacia e intriga en el Madrid de 1800."
+  },
+  "en": {
+   "titulo": "Book Presentation: The Marchioness and Bonaparte",
+   "resumen": "Presentation of the book 'The Marchioness and Bonaparte' by María José Rubio. A story of love, diplomacy, and intrigue in 1800s Madrid."
+  },
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "09158c6ed0": {
+  "id": "570928005d",
+  "es": {
+   "titulo": "Programa de actividades familiares otoño",
+   "resumen": "Programa de actividades diseñado para familias durante la temporada de otoño en Matadero Madrid."
+  },
+  "en": {
+   "titulo": "Autumn Family Activities Program",
+   "resumen": "Program of activities designed for families during the autumn season at Matadero Madrid."
+  },
+  "temas": [
+   "ninos",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "81ba9af410": {
+  "id": "5b635c9e74",
+  "es": {
+   "titulo": "Programación Cultural: Taller Especial Halloween",
+   "resumen": "Taller de Halloween para familias en el Centro Cultural Galileo. Fomenta la curiosidad, creatividad y el trabajo en equipo a través del juego y el arte."
+  },
+  "en": {
+   "titulo": "Cultural Program: Special Halloween Workshop",
+   "resumen": "Halloween workshop for families at the Galileo Cultural Center. Encourages curiosity, creativity, and teamwork through play and art."
+  },
+  "temas": [
+   "ninos",
+   "fiestas",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "8e8dd9bcae": {
+  "id": "28a86ecd4f",
+  "es": {
+   "titulo": "Punto de intercambio de libros",
+   "resumen": "Estrena un espacio para amantes de la lectura donde puedes llevarte un libro y dejar otro. ¡Haz que las historias sigan viajando en el Centro Cultural San Juan Bautista!"
+  },
+  "en": {
+   "titulo": "Book exchange point",
+   "resumen": "A new space for book lovers where you can take a book and leave another. Let stories keep traveling at the San Juan Bautista Cultural Center!"
+  },
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "7f3b735df0": {
+  "id": "54af2a6e84",
+  "es": {
+   "titulo": "Punto de intercambio de libros gratuito",
+   "resumen": "Disfruta de un punto de intercambio de libros gratuito en el Centro Sociocultural Teresa de Calcuta. Un espacio para compartir lecturas."
+  },
+  "en": {
+   "titulo": "Free book exchange point",
+   "resumen": "Enjoy a free book exchange point at the Teresa de Calcuta Sociocultural Center. A space to share readings."
+  },
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "dad4d9418e": {
+  "id": "6dc3e7f604",
+  "es": {
+   "titulo": "Puntos de intercambio gratuitos de libros",
+   "resumen": "Descubre los puntos de intercambio de libros gratuitos disponibles en los Centros Culturales de Barajas. Comparte tus lecturas y descubre nuevas historias."
+  },
+  "en": {
+   "titulo": "Free book exchange points",
+   "resumen": "Discover the free book exchange points available in the Barajas Cultural Centers. Share your readings and discover new stories."
+  },
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "fa0c5a7300": {
+  "id": "d030ecf98e",
+  "es": {
+   "titulo": "Quinta de Montijo: itinerario histórico",
+   "resumen": "Recorre la histórica Quinta de Montijo y su transformación urbana. Descubre historias de condes, villas romanas y ermitas en este itinerario para adultos."
+  },
+  "en": {
+   "titulo": "Quinta de Montijo: historical itinerary",
+   "resumen": "Explore the historic Quinta de Montijo and its urban transformation. Discover stories of counts, Roman villas, and hermitages on this adult-oriented itinerary."
+  },
+  "temas": [
+   "rutas",
+   "cultura",
+   "naturaleza"
+  ],
+  "a_cubierto": null
+ },
+ "46c30b5f11": {
+  "id": "11cce55ea6",
+  "es": {
+   "titulo": "Quinta de Torre Arias (itinerario interpretativo)",
+   "resumen": "Realiza un recorrido interpretativo por la Quinta de Torre Arias, un espacio que combina historia y naturaleza."
+  },
+  "en": {
+   "titulo": "Quinta de Torre Arias (interpretive itinerary)",
+   "resumen": "Take an interpretive tour of Quinta de Torre Arias, a space that combines history and nature."
+  },
+  "temas": [
+   "rutas",
+   "naturaleza",
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "397568f987": {
+  "id": "0bdc72fb34",
+  "es": {
+   "titulo": "Raynald Colom y Diego Amador en JAZZMADRID",
+   "resumen": "Disfruta de la actuación de Raynald Colom (trompeta) y Diego Amador (piano y cante) en el festival JAZZMADRID, fusionando jazz con influencias flamencas."
+  },
+  "en": {
+   "titulo": "Raynald Colom and Diego Amador at JAZZMADRID",
+   "resumen": "Enjoy the performance of Raynald Colom (trumpet) and Diego Amador (piano and vocals) at the JAZZMADRID festival, blending jazz with flamenco influences."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "d10a90f695": {
+  "id": "c71af59303",
+  "es": {
+   "titulo": "Recorrido por los Jardines del Campo del Moro",
+   "resumen": "Descubre los Jardines del Campo del Moro en una visita guiada, admirando ejemplares arbóreos singulares y motivos ornamentales de estilo romántico."
+  },
+  "en": {
+   "titulo": "Tour of the Campo del Moro Gardens",
+   "resumen": "Discover the Campo del Moro Gardens on a guided tour, admiring unique trees and romantic ornamental features."
+  },
+  "temas": [
+   "naturaleza",
+   "rutas",
+   "parques"
+  ],
+  "a_cubierto": null
+ },
+ "7c5bf820d9": {
+  "id": "c0bf8adfcd",
+  "es": {
+   "titulo": "Repair Café Madrid",
+   "resumen": "Participa en el Repair Café Madrid en Matadero Medialab, un espacio para reparar objetos y fomentar la sostenibilidad."
+  },
+  "en": {
+   "titulo": "Repair Café Madrid",
+   "resumen": "Join the Repair Café Madrid at Matadero Medialab, a space to fix objects and promote sustainability."
+  },
+  "temas": [
+   "actividades",
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "36c96c7baa": {
+  "id": "e8737d8c73",
+  "es": {
+   "titulo": "Residencia internacional Rogue Artists’ Studios",
+   "resumen": "CentroCentro acoge la residencia internacional Rogue Artists’ Studios de Mánchester, fomentando el intercambio artístico."
+  },
+  "en": {
+   "titulo": "International Residency Rogue Artists’ Studios",
+   "resumen": "CentroCentro hosts the international residency Rogue Artists’ Studios from Manchester, fostering artistic exchange."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "bddf031bc8": {
+  "id": "925b7be0fe",
+  "es": {
+   "titulo": "Residencias CentroCentro",
+   "resumen": "CentroCentro ofrece residencias para artistas, apoyando la creación y el desarrollo de proyectos artísticos."
+  },
+  "en": {
+   "titulo": "CentroCentro Residencies",
+   "resumen": "CentroCentro offers residencies for artists, supporting the creation and development of artistic projects."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "295059eb2f": {
+  "id": "a13d557f6c",
+  "es": {
+   "titulo": "Residencias para artistas visuales",
+   "resumen": "Matadero Madrid abre sus puertas a artistas visuales a través de su programa de residencias, impulsando la creación contemporánea."
+  },
+  "en": {
+   "titulo": "Residencies for visual artists",
+   "resumen": "Matadero Madrid opens its doors to visual artists through its residency program, promoting contemporary creation."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "758e45ad20": {
+  "id": "7c7d0de85a",
+  "es": {
+   "titulo": "Reto en 60 segundos",
+   "resumen": "Jóvenes de 14 a 30 años participan en dinámicas de grupo y retos contrarreloj en el Centro Sociocultural Cánovas del Castillo. Acceso libre."
+  },
+  "en": {
+   "titulo": "Challenge in 60 seconds",
+   "resumen": "Young people aged 14-30 participate in group dynamics and timed challenges at the Cánovas del Castillo Sociocultural Center. Free access."
+  },
+  "temas": [
+   "actividades",
+   "deporte"
+  ],
+  "a_cubierto": null
+ },
+ "e037fcc2e2": {
+  "id": "6bb3efe41c",
+  "es": {
+   "titulo": "Reunión tejido manual",
+   "resumen": "Comparte conocimientos de ganchillo y punto en el Centro Cultural Mercado de Ibiza. Un espacio para conversar y crear juntas."
+  },
+  "en": {
+   "titulo": "Handicraft meeting",
+   "resumen": "Share crochet and knitting knowledge at the Mercado de Ibiza Cultural Center. A space to chat and create together."
+  },
+  "temas": [
+   "actividades",
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "710a0bc01a": {
+  "id": "da3268ab8b",
+  "es": {
+   "titulo": "Rezar como quería: presentación",
+   "resumen": "Presentación del libro 'Rezar como quería' en la Cineteca Madrid, una reflexión sobre la Semana Santa a través de podcasts."
+  },
+  "en": {
+   "titulo": "Rezar como quería: presentation",
+   "resumen": "Presentation of the book 'Rezar como quería' at Cineteca Madrid, a reflection on Holy Week through podcasts."
+  },
+  "temas": [
+   "libros",
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": true
+ },
+ "ce85e562fc": {
+  "id": "da93f8d0cd",
+  "es": {
+   "titulo": "Ronda de libros para bebés",
+   "resumen": "Experiencia lectora para bebés y familias en Matadero Madrid, con lecturas seleccionadas y actividades lúdicas para disfrutar con los cinco sentidos."
+  },
+  "en": {
+   "titulo": "Book circle for babies",
+   "resumen": "Reading experience for babies and families at Matadero Madrid, with selected readings and playful activities to enjoy with all five senses."
+  },
+  "temas": [
+   "libros",
+   "ninos",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "18524dd81f": {
+  "id": "9a47028a4f",
+  "es": {
+   "titulo": "Rossita",
+   "resumen": "Evento en el Centro Dotacional Integrado Arganzuela Ángel del Río."
+  },
+  "en": {
+   "titulo": "Rossita",
+   "resumen": "Event at the Arganzuela Ángel del Río Integrated Endowment Center."
+  },
+  "temas": [],
+  "a_cubierto": null
+ },
+ "bcf87d0fe0": {
+  "id": "bd1c3e4b5d",
+  "es": {
+   "titulo": "Ruin Rapaz: folclore castellano",
+   "resumen": "Concierto de Ruin Rapaz en el Jardín del Bulevar de Peña Gorbea, que reinventa el folclore castellano fusionando tradición y modernidad."
+  },
+  "en": {
+   "titulo": "Ruin Rapaz: Castilian folklore",
+   "resumen": "Ruin Rapaz concert in the Peña Gorbea Boulevard Garden, reinventing Castilian folklore by merging tradition and modernity."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "78edae2245": {
+  "id": "bfde577a09",
+  "es": {
+   "titulo": "Ruta teatralizada: Maestros de la ciencia",
+   "resumen": "Recorrido teatralizado por la Residencia de Estudiantes con personajes históricos que narran la ciencia española del siglo XX."
+  },
+  "en": {
+   "titulo": "Theatrical route: Masters of science",
+   "resumen": "Theatrical tour through the Residencia de Estudiantes with historical figures narrating 20th-century Spanish science."
+  },
+  "temas": [
+   "cultura",
+   "rutas",
+   "museos"
+  ],
+  "a_cubierto": null
+ },
+ "98f0636548": {
+  "id": "e3f6214340",
+  "es": {
+   "titulo": "Sábados de cine de otoño",
+   "resumen": "Disfruta de sesiones de cine los sábados por la tarde y matinés infantiles los domingos en el Centro Cultural Buero Vallejo. También talleres."
+  },
+  "en": {
+   "titulo": "Autumn cinema Saturdays",
+   "resumen": "Enjoy cinema screenings on Saturday afternoons and children's matinees on Sundays at the Buero Vallejo Cultural Center. Workshops also available."
+  },
+  "temas": [
+   "pantalla",
+   "ninos",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "70250f699e": {
+  "id": "736869ef74",
+  "es": {
+   "titulo": "Salida cultural a Valladolid",
+   "resumen": "Viaje cultural gratuito a Valladolid para empadronados en Puente de Vallecas. Incluye transporte, guía y comida. Visita al centro histórico."
+  },
+  "en": {
+   "titulo": "Cultural trip to Valladolid",
+   "resumen": "Free cultural trip to Valladolid for residents of Puente de Vallecas. Includes transport, guide, and meal. Visit to the historic center."
+  },
+  "temas": [
+   "cultura",
+   "rutas"
+  ],
+  "a_cubierto": null
+ },
+ "8884378f3b": {
+  "id": "fb42c042d2",
+  "es": {
+   "titulo": "Salida Multiaventura: Humor amarillo",
+   "resumen": "Jornada de risas y diversión familiar con 'Humor Amarillo' en Navalcarnero. Actividad en recinto cerrado, apta para mayores de 8 años."
+  },
+  "en": {
+   "titulo": "Multiaventura Trip: Yellow Humor",
+   "resumen": "A day of family laughter and fun with 'Yellow Humor' in Navalcarnero. Indoor activity, suitable for ages 8 and up."
+  },
+  "temas": [
+   "deporte",
+   "actividades",
+   "ninos"
+  ],
+  "a_cubierto": null
+ },
+ "eb02728295": {
+  "id": "8dd21ee056",
+  "es": {
+   "titulo": "Salida Multiaventura: Aventura Amazonía",
+   "resumen": "Disfruta de deporte y naturaleza en Aventura Amazonía Cercedilla. Circuitos de aventura adaptados para todas las edades a partir de 6 años."
+  },
+  "en": {
+   "titulo": "Multiaventura Trip: Amazonia Adventure",
+   "resumen": "Enjoy sports and nature at Aventura Amazonía Cercedilla. Adventure circuits adapted for all ages from 6 years old."
+  },
+  "temas": [
+   "deporte",
+   "naturaleza",
+   "actividades"
+  ],
+  "a_cubierto": null
+ },
+ "95d870d7bc": {
+  "id": "1e65eb515b",
+  "es": {
+   "titulo": "San Fermín recuerda: Altar de Muertos",
+   "resumen": "La Biblioteca Pública Municipal San Fermín en Usera celebra el Día de Muertos con una exposición especial. Un evento cultural para recordar y reflexionar."
+  },
+  "en": {
+   "titulo": "San Fermín remembers: Altar of the Dead",
+   "resumen": "The San Fermín Municipal Public Library in Usera celebrates the Day of the Dead with a special exhibition. A cultural event for remembrance and reflection."
+  },
+  "temas": [
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": true
+ },
+ "e93171762a": {
+  "id": "a96c5546d8",
+  "es": {
+   "titulo": "SanFerFLIX Cine de Terror: 'El Proyecto de la Bruja de Blair'",
+   "resumen": "La Biblioteca Pública Municipal San Fermín (Usera) proyecta la icónica película de terror 'El Proyecto de la Bruja de Blair'. Una noche de sustos garantizada."
+  },
+  "en": {
+   "titulo": "SanFerFLIX Horror Cinema: 'The Blair Witch Project'",
+   "resumen": "The San Fermín Municipal Public Library (Usera) screens the iconic horror film 'The Blair Witch Project'. A night of guaranteed scares."
+  },
+  "temas": [
+   "pantalla",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "bc4a0349c9": {
+  "id": "f742a13392",
+  "es": {
+   "titulo": "Saturdays Disorders",
+   "resumen": "Una peregrinación surrealista a Luján se convierte en un laberinto de rarezas urbanas. Paralelamente, un extraño torneo de tenis tiene lugar. Presentación a cargo de Lucía Seles en Cineteca Madrid."
+  },
+  "en": {
+   "titulo": "Saturdays Disorders",
+   "resumen": "A surreal pilgrimage to the town of Luján turns into a labyrinth of urban oddities. Meanwhile, a strange tennis tournament unfolds. Presented by Lucía Seles at Cineteca Madrid."
+  },
+  "temas": [
+   "pantalla",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "b82673e446": {
+  "id": "98e50b6f9d",
+  "es": {
+   "titulo": "Se abre el telón: En boca de artista 3",
+   "resumen": "Un evento en Matadero Madrid que promete abrir el telón a nuevas expresiones artísticas. Descubre la tercera edición de 'En boca de artista'."
+  },
+  "en": {
+   "titulo": "The curtain rises: In the artist's mouth 3",
+   "resumen": "An event at Matadero Madrid promises to raise the curtain on new artistic expressions. Discover the third edition of 'In the artist's mouth'."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "b540da3bd2": {
+  "id": "0e63a6c35c",
+  "es": {
+   "titulo": "Se busca",
+   "resumen": "La Cineteca Madrid presenta 'Se busca', un viaje interior de una adolescente que huye hacia Ciudad Juárez. Dirigida por Kenya Márquez, explora temas de identidad y autodescubrimiento."
+  },
+  "en": {
+   "titulo": "Wanted",
+   "resumen": "Cineteca Madrid presents 'Wanted', an inner journey of a teenager fleeing to Ciudad Juárez. Directed by Kenya Márquez, it explores themes of identity and self-discovery."
+  },
+  "temas": [
+   "pantalla",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "8602417f1d": {
+  "id": "baabf10ad3",
+  "es": {
+   "titulo": "Sección cortometrajes Internacional - AWFF 26",
+   "resumen": "La Cineteca Madrid acoge una selección internacional de cortometrajes del AWFF 26. Ocho historias que exploran humor, vidas ocultas y miradas poéticas."
+  },
+  "en": {
+   "titulo": "International Short Film Section - AWFF 26",
+   "resumen": "Cineteca Madrid hosts an international selection of short films from AWFF 26. Eight stories exploring humor, hidden lives, and poetic perspectives."
+  },
+  "temas": [
+   "pantalla",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "d511e68a29": {
+  "id": "5ac1e821cb",
+  "es": {
+   "titulo": "Senda de la biodiversidad en Pradolongo",
+   "resumen": "Descubre la rica biodiversidad de fauna y flora del Parque de Pradolongo en esta senda guiada. Una actividad para público general a partir de 7 años en el Centro Maris Stella."
+  },
+  "en": {
+   "titulo": "Biodiversity Trail in Pradolongo",
+   "resumen": "Discover the rich biodiversity of fauna and flora in Pradolongo Park on this guided trail. An activity for the general public aged 7 and up at the Maris Stella Center."
+  },
+  "temas": [
+   "naturaleza",
+   "parques",
+   "rutas"
+  ],
+  "a_cubierto": null
+ },
+ "13310f0e03": {
+  "id": "e91d5c4f16",
+  "es": {
+   "titulo": "Senda Descubre el Parque de Pradolongo",
+   "resumen": "Explora la historia, fauna, flora y paisajes del Parque de Pradolongo en esta senda guiada. Ideal para mayores de 7 años, con estanques, jardines y cascadas artificiales."
+  },
+  "en": {
+   "titulo": "Discover Pradolongo Park Trail",
+   "resumen": "Explore the history, fauna, flora, and landscapes of Pradolongo Park on this guided trail. Ideal for those over 7, featuring ponds, gardens, and artificial waterfalls."
+  },
+  "temas": [
+   "naturaleza",
+   "parques",
+   "rutas"
+  ],
+  "a_cubierto": null
+ },
+ "8c0b1126c5": {
+  "id": "c34ffd289b",
+  "es": {
+   "titulo": "Senda guiada 'Los frutos del otoño'",
+   "resumen": "Ruta botánica por el Retiro para público adulto, centrada en las especies que producen frutos en otoño. Inscripción previa necesaria en el Aula Ambiental La Cabaña."
+  },
+  "en": {
+   "titulo": "Guided Trail 'The Fruits of Autumn'",
+   "resumen": "A botanical route through El Retiro for adults, focusing on species that bear fruit in autumn. Advance registration required at La Cabaña Environmental Classroom."
+  },
+  "temas": [
+   "naturaleza",
+   "rutas",
+   "parques"
+  ],
+  "a_cubierto": null
+ },
+ "471be6250d": {
+  "id": "338687894e",
+  "es": {
+   "titulo": "Senda guiada 'Usos de las plantas del Retiro'",
+   "resumen": "Descubre los usos tradicionales de las plantas del Parque del Retiro en esta ruta botánica para adultos. Inscripción previa en el Aula Ambiental La Cabaña."
+  },
+  "en": {
+   "titulo": "Guided Trail 'Uses of El Retiro's Plants'",
+   "resumen": "Discover the traditional uses of plants in El Retiro Park on this botanical route for adults. Advance registration at La Cabaña Environmental Classroom."
+  },
+  "temas": [
+   "naturaleza",
+   "rutas",
+   "parques"
+  ],
+  "a_cubierto": null
+ },
+ "39d358966a": {
+  "id": "6694390b86",
+  "es": {
+   "titulo": "Senda Pajareando con peques por el Parque Lineal del Manzanares",
+   "resumen": "Una senda para que los niños descubran las aves del Parque Lineal del Manzanares. Actividad para mayores de 7 años con reserva previa en el Centro Maris Stella."
+  },
+  "en": {
+   "titulo": "Birdwatching Trail with Kids in Manzanares Linear Park",
+   "resumen": "A trail for children to discover the birds of Manzanares Linear Park. Activity for ages 7+ with prior booking at the Maris Stella Center."
+  },
+  "temas": [
+   "naturaleza",
+   "ninos",
+   "parques"
+  ],
+  "a_cubierto": null
+ },
+ "016f7494ee": {
+  "id": "9b2aab5d8f",
+  "es": {
+   "titulo": "Senda 'Descubriendo los frutos del otoño'",
+   "resumen": "Actividad familiar para descubrir los frutos del otoño en el Retiro, con recorridos y talleres creativos. Para niños a partir de 8 años, con reserva previa."
+  },
+  "en": {
+   "titulo": "Trail 'Discovering the Fruits of Autumn'",
+   "resumen": "A family activity to discover autumn fruits in El Retiro, including walks and creative workshops. For children aged 8 and up, with prior booking."
+  },
+  "temas": [
+   "naturaleza",
+   "ninos",
+   "parques"
+  ],
+  "a_cubierto": null
+ },
+ "4ad88f3f85": {
+  "id": "5871ddec0b",
+  "es": {
+   "titulo": "Senderismo Dehesa de la Villa a Casa de Campo",
+   "resumen": "Ruta de senderismo lineal de 11 km entre la Dehesa de la Villa y la Casa de Campo. Se explorarán las similitudes de estas zonas verdes. Apta para mayores de 12 años."
+  },
+  "en": {
+   "titulo": "Hiking from Dehesa de la Villa to Casa de Campo",
+   "resumen": "A 11 km linear hiking route between Dehesa de la Villa and Casa de Campo, exploring the similarities of these green areas. Suitable for ages 12 and up."
+  },
+  "temas": [
+   "naturaleza",
+   "rutas",
+   "deporte"
+  ],
+  "a_cubierto": null
+ },
+ "6e4adbcb16": {
+  "id": "0ba1587c51",
+  "es": {
+   "titulo": "Senderismo Entre pinares",
+   "resumen": "Itinerario circular de 10 km para descubrir pinos en la Casa de Campo e identificar coníferas. Ruta de senderismo para mayores de 12 años."
+  },
+  "en": {
+   "titulo": "Hiking Among Pine Forests",
+   "resumen": "A 10 km circular route to discover pine trees in Casa de Campo and identify conifers. Hiking route for ages 12 and up."
+  },
+  "temas": [
+   "naturaleza",
+   "rutas",
+   "deporte"
+  ],
+  "a_cubierto": null
+ },
+ "bdd45f7f72": {
+  "id": "fb85d7c17b",
+  "es": {
+   "titulo": "Servicio de Asesoramiento de Vivienda",
+   "resumen": "El Ayuntamiento de Madrid ofrece asesoramiento jurídico gratuito sobre vivienda en el Centro Sociocultural Juvenil de Moratalaz. Cita previa necesaria."
+  },
+  "en": {
+   "titulo": "Housing Advice Service",
+   "resumen": "The Madrid City Council offers free legal advice on housing at the Moratalaz Youth Sociocultural Center. Prior appointment required."
+  },
+  "temas": [],
+  "a_cubierto": true
+ },
+ "a8fa710259": {
+  "id": "adb1fe75e1",
+  "es": {
+   "titulo": "Sesión de experimentación: el vuelo de las avecinas",
+   "resumen": "Una sesión de experimentación sobre el vuelo de las avecinas en el Espacio Abierto Quinta de los Molinos. Una oportunidad para observar y aprender."
+  },
+  "en": {
+   "titulo": "Experimentation Session: The Flight of the Swifts",
+   "resumen": "An experimentation session on the flight of swifts at Espacio Abierto Quinta de los Molinos. An opportunity to observe and learn."
+  },
+  "temas": [
+   "naturaleza",
+   "actividades"
+  ],
+  "a_cubierto": null
+ },
+ "63d1c56c34": {
+  "id": "d59039e880",
+  "es": {
+   "titulo": "Sesiones temáticas de huerto",
+   "resumen": "El Aula Ambiental La Cabaña del Retiro ofrece sesiones sobre huerto y alimentación sostenible. Reflexiona sobre soberanía alimentaria y huertos comunitarios."
+  },
+  "en": {
+   "titulo": "Themed Garden Sessions",
+   "resumen": "La Cabaña del Retiro Environmental Classroom offers sessions on gardening and sustainable food. Reflect on food sovereignty and community gardens."
+  },
+  "temas": [
+   "naturaleza",
+   "actividades",
+   "gastronomia"
+  ],
+  "a_cubierto": null
+ },
+ "65b60a9eb1": {
+  "id": "19a349ae05",
+  "es": {
+   "titulo": "Smog en tu corazón",
+   "resumen": "Cinco empleados de un club de tenis se ven envueltos en tensiones al planear una peregrinación. Presentación y coloquio con Lucía Seles en Cineteca Madrid."
+  },
+  "en": {
+   "titulo": "Smog in Your Heart",
+   "resumen": "Five employees at a tennis club face escalating tensions while planning a pilgrimage. Presentation and discussion with Lucía Seles at Cineteca Madrid."
+  },
+  "temas": [
+   "pantalla",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "23e9293359": {
+  "id": "21a33351ed",
+  "es": {
+   "titulo": "Sonidos ópticos",
+   "resumen": "Un evento audiovisual en Cineteca Madrid que explora la relación entre sonido e imagen. Una experiencia sensorial única."
+  },
+  "en": {
+   "titulo": "Optical Sounds",
+   "resumen": "An audiovisual event at Cineteca Madrid exploring the relationship between sound and image. A unique sensory experience."
+  },
+  "temas": [
+   "pantalla",
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "816437c521": {
+  "id": "b751895c13",
+  "es": {
+   "titulo": "Soy unlucky. Guía de cómo arruinarlo todo con dignidad",
+   "resumen": "Una obra que fusiona escritura y pintura para mostrar la belleza de lo imperfecto. Explora historias que sanan a través del arte en el Centro Cultural Fernando de los Ríos."
+  },
+  "en": {
+   "titulo": "I'm Unlucky. A Guide on How to Ruin Everything with Dignity",
+   "resumen": "A work merging writing and painting to showcase the beauty of imperfection. Explores stories that heal through art at the Fernando de los Ríos Cultural Center."
+  },
+  "temas": [
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": true
+ },
+ "7ba51257c2": {
+  "id": "460641ea13",
+  "es": {
+   "titulo": "Súbete al bote",
+   "resumen": "Actividad de remo en el Estanque del Retiro para concienciar sobre el cáncer de mama. Fortalece cuerpo y mente. Es necesario saber nadar."
+  },
+  "en": {
+   "titulo": "Get in the Boat",
+   "resumen": "Rowing activity in the Retiro Pond to raise awareness for breast cancer. Strengthens body and mind. Swimming ability is required."
+  },
+  "temas": [
+   "deporte",
+   "agua",
+   "actividades"
+  ],
+  "a_cubierto": null
+ },
+ "51c6b0b13e": {
+  "id": "8f0f49acf9",
+  "es": {
+   "titulo": "Súper letras",
+   "resumen": "Un evento dedicado a las letras y la lectura en la Casa del Lector. Una actividad para fomentar el amor por los libros."
+  },
+  "en": {
+   "titulo": "Super Letters",
+   "resumen": "An event dedicated to letters and reading at Casa del Lector. An activity to foster a love for books."
+  },
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "d57593d210": {
+  "id": "f97dc30ce3",
+  "es": {
+   "titulo": "Swingueando",
+   "resumen": "Concierto de gipsy jazz en Moncloa con temas de Django Reinhart y otros. Un viaje al swing de los años 30. Entrada gratuita previa reserva."
+  },
+  "en": {
+   "titulo": "Swinging",
+   "resumen": "A gipsy jazz concert in Moncloa featuring songs by Django Reinhardt and others. A journey into the swing of the 30s. Free entry with prior reservation."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "cdf2deac70": {
+  "id": "f1ee18b4ce",
+  "es": {
+   "titulo": "Take off (Nada de esto tuvo que haber ocurrido)",
+   "resumen": "Una obra de Creación Dramática Contemporánea en la Nave 10 de Matadero. Una pieza teatral que invita a la reflexión."
+  },
+  "en": {
+   "titulo": "Take off (None of this should have happened)",
+   "resumen": "A contemporary dramatic creation play at Nave 10 of Matadero. A theatrical piece that invites reflection."
+  },
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": true
+ },
+ "8cd160cabc": {
+  "id": "73fbc1d45e",
+  "es": {
+   "titulo": "Taller Conoce el mundo de las semillas",
+   "resumen": "Taller infantil en el Centro Maris Stella para aprender sobre semillas: recolectarlas, identificarlas y conservarlas. A partir de 6 años."
+  },
+  "en": {
+   "titulo": "Workshop: Discover the World of Seeds",
+   "resumen": "Children's workshop at the Maris Stella Center to learn about seeds: collecting, identifying, and preserving them. For ages 6 and up."
+  },
+  "temas": [
+   "naturaleza",
+   "ninos",
+   "actividades"
+  ],
+  "a_cubierto": null
  }
 }
