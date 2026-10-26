@@ -9,7 +9,8 @@ import { readFileSync, writeFileSync, mkdirSync, existsSync } from 'node:fs';
 import path from 'node:path';
 import { load as yamlLoad } from 'js-yaml';
 import { ROOT, slugify, hash, truncate, tidyTitle, cleanDescription, todayISO, addDays, resolveProvince, guessTopics, guessIndoor } from './lib/util.mjs';
-import { buildSeasonalPlans } from './lib/seasonal.mjs';
+import { buildSeasonalPlans, readCitas } from './lib/seasonal.mjs';
+import { readHistorico, updateCandidates } from './lib/historico.mjs';
 import { enrich, aiStats } from './lib/ai.mjs';
 import { translatePlans } from './lib/translate.mjs';
 import { extractPress } from './lib/extract.mjs';
@@ -165,6 +166,8 @@ async function main() {
   // Se traduce el calendario propio junto con los eventos para rellenar la caché; el calendario no se guarda aquí.
   const translated = await translatePlans([...seasonal, ...external], TODAY, log);
   const events = translated.filter((p) => p.source?.name !== 'sinplanes').sort((a, b) => (a.start || '9999').localeCompare(b.start || '9999'));
+  const pending = updateCandidates(events, TODAY, readCitas(), readHistorico());
+  if (pending.length) log(`Histórico: ${pending.length} ediciones pasadas por redactar en config/historico.yml (ver data/historico-candidatos.json).`);
   await trendsStep();
   await carteleraStep();
   await seriesStep();

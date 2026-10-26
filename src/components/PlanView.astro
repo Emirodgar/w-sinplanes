@@ -4,7 +4,7 @@ import CalendarMenu from './CalendarMenu.astro';
 import PlanMap from './PlanMap.astro';
 import { calendarDates } from '../lib/calendar.js';
 import { t, url, LANGS, HREFLANG } from '../i18n/ui.js';
-import { fmtWhen, fmtPlace, topicById, isPast, isPlace, textLang, slugify, ptitle, psummary, availLangs, plans } from '../lib/data.js';
+import { TODAY, fmtWhen, fmtPlace, topicById, isPast, isPlace, textLang, slugify, ptitle, psummary, availLangs, plans } from '../lib/data.js';
 
 const { lang, plan: p } = Astro.props;
 const L = t[lang];
@@ -15,13 +15,14 @@ const pl = p.place || {};
 const canCal = !past && !!calendarDates(p);
 const tl = textLang(lang, p);
 
-// Event solo cuando hay fecha y lugar físico (requisito de Google para resultados de eventos)
+// Event solo cuando hay fecha y lugar físico (requisito de Google para resultados de eventos).
+// Con fecha aproximada (citas anuales aún sin confirmar) no se publica Event: una fecha estimada como si fuera oficial rompe las directrices.
 const address = { '@type': 'PostalAddress', addressLocality: pl.municipio, addressRegion: pl.provincia, addressCountry: 'ES' };
 const baseJsonld = isPlace(p) ? (pl.scope !== 'local' ? null : {
   '@context': 'https://schema.org', '@type': 'TouristAttraction',
   name: title, description: summary, inLanguage: HREFLANG[tl || lang], address,
   ...(p.source?.url ? { url: p.source.url } : {}),
-}) : p.kind !== 'estacional' && pl.scope === 'local' && !past ? {
+}) : p.kind !== 'estacional' && pl.scope === 'local' && !past && !p.approx ? {
   '@context': 'https://schema.org', '@type': 'Event',
   name: title, description: summary,
   startDate: p.time ? `${p.start}T${p.time}` : p.start, endDate: p.end || p.start,
@@ -40,6 +41,7 @@ const baseJsonld = isPlace(p) ? (pl.scope !== 'local' ? null : {
 // Ficha ampliada (texto, imagen y preguntas frecuentes): solo se muestra en el idioma de la página si existe ficha en él.
 const extra = !tl ? p.content?.[lang] || null : null;
 const faq = extra?.faq || [];
+const history = p.history || [];
 const related = (p.related || []).map((slug) => plans.find((x) => x.slug === slug)).filter(Boolean);
 const faqLd = faq.length ? {
   '@context': 'https://schema.org', '@type': 'FAQPage', inLanguage: HREFLANG[lang],
@@ -62,7 +64,7 @@ const jsonld = [baseJsonld, faqLd].filter(Boolean);
     {p.approx && <p class="notice">{L.approx}</p>}
 
     <dl class="facts">
-      <dt>{L.when}</dt><dd>{fmtWhen(lang, p)}{p.recurring && ` (${L.inRecurring})`}</dd>
+      <dt>{p.recurring && p.start > TODAY ? L.nextEdition : L.when}</dt><dd>{fmtWhen(lang, p)}{p.recurring && ` (${L.inRecurring})`}</dd>
       <dt>{L.where}</dt>
       <dd>
         {pl.scope === 'local' && pl.ccaa
@@ -94,6 +96,22 @@ const jsonld = [baseJsonld, faqLd].filter(Boolean);
             <summary>{f.p}</summary>
             <p>{f.r}</p>
           </details>
+        ))}
+      </section>
+    )}
+
+    {history.length > 0 && (
+      <section class="plan-history" aria-labelledby="hist-title">
+        <h2 id="hist-title">{L.historyTitle}</h2>
+        {lang !== 'es' && <p class="muted">{L.historyIntro}</p>}
+        {history.map((e) => (
+          <article class="edition">
+            <h3>{e.year}</h3>
+            <p class="muted">{fmtWhen(lang, e)}</p>
+            <p lang="es">{e.summary}</p>
+            {e.figures?.length > 0 && <ul lang="es">{e.figures.map((f) => <li>{f}</li>)}</ul>}
+            {e.url && <p><a href={e.url} target="_blank" rel="noopener noreferrer">{e.urlName || L.historySource}<span class="visually-hidden"> ({L.newTab})</span></a></p>}
+          </article>
         ))}
       </section>
     )}

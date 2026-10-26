@@ -191,6 +191,12 @@ p { margin: 0 0 1em; max-width: var(--measure); }
 .plan-faq summary { cursor: pointer; font-weight: 600; padding: 1rem 0; min-height: 2.75rem; letter-spacing: -0.01em; }
 .plan-faq details[open] summary { padding-bottom: 0.5rem; }
 .plan-faq details p { margin: 0 0 1.1rem; color: var(--ink-soft); line-height: 1.6; }
+.plan-history { margin-block: 2.5rem; }
+.plan-history h2 { font-size: clamp(1.4rem, 3vw, 1.75rem); letter-spacing: -0.03em; margin-bottom: 1rem; }
+.plan-history .edition { background: var(--surface); border-radius: var(--r-lg); box-shadow: var(--shadow); padding: 1rem 1.25rem; margin-bottom: 0.6rem; }
+.plan-history .edition h3 { margin: 0; font-size: 1.15rem; letter-spacing: -0.02em; }
+.plan-history .edition p { margin: 0.35rem 0 0; line-height: 1.6; }
+.plan-history .edition ul { margin: 0.5rem 0 0; padding-left: 1.2rem; color: var(--ink-soft); }
 .plan-related { margin-block: 2rem; }
 .plan-related ul { list-style: none; padding: 0; margin: 0; display: flex; flex-wrap: wrap; gap: 0.5rem; }
 .plan-related a { display: inline-flex; align-items: center; min-height: 2.5rem; padding: 0.4rem 1rem; border-radius: 999px; background: var(--surface); box-shadow: 0 0 0 1px var(--line); color: var(--ink); text-decoration: none; font-weight: 500; font-size: 0.9375rem; }
@@ -356,14 +362,17 @@ p { margin: 0 0 1em; max-width: var(--measure); }
 /* "Hoy en [ciudad]" (solo portada): selector de provincia, filtros rápidos y resultados */
 .sr-only { position: absolute; width: 1px; height: 1px; margin: -1px; padding: 0; overflow: hidden; clip: rect(0, 0, 0, 0); white-space: nowrap; border: 0; }
 .today { background: var(--surface); border-radius: var(--r-xl); padding: clamp(1.25rem, 3.5vw, 2rem); box-shadow: var(--shadow); margin-bottom: var(--gap); }
-.today h2 { font-size: var(--s2); letter-spacing: -0.035em; margin-bottom: 0.35rem; }
-.today-controls { display: flex; flex-wrap: wrap; gap: 0.5rem; align-items: center; margin-top: 1rem; }
-.today select { font: inherit; min-height: 2.75rem; max-width: 100%; padding: 0.5rem 1rem; border: 0; border-radius: 999px; background: var(--canvas); box-shadow: 0 0 0 1px var(--line); color: var(--ink); }
-.today-quick, .today-filters { display: flex; flex-wrap: wrap; gap: 0.5rem; margin-top: 0.75rem; }
-.today-filters { margin: 1rem 0; }
-.today-filters .sep { width: 1px; background: var(--line); margin: 0.25rem 0.25rem; }
-.today .notice { margin: 0 0 1rem; }
-.today-actions { display: flex; flex-wrap: wrap; align-items: center; gap: 0.75rem 1.25rem; margin-top: 1.1rem; }
+.today h2 { font-size: var(--s2); letter-spacing: -0.035em; margin-bottom: 0.5rem; }
+.today-controls { display: flex; flex-wrap: wrap; gap: 0.75rem; align-items: center; margin-top: 1.25rem; }
+.today select { font: inherit; min-height: 2.75rem; max-width: 100%; padding: 0.5rem 2.75rem 0.5rem 1.25rem; border: 0; border-radius: 999px; background-color: var(--canvas); background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='8' viewBox='0 0 12 8' fill='none' stroke='%23666' stroke-width='1.8' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M1 1.5l5 5 5-5'/%3E%3C/svg%3E"); background-repeat: no-repeat; background-position: right 1.1rem center; -webkit-appearance: none; appearance: none; box-shadow: 0 0 0 1px var(--line); color: var(--ink); cursor: pointer; }
+.today-quick, .today-filters { display: flex; flex-wrap: wrap; gap: 0.625rem; margin-top: 1rem; }
+.today-filters { margin: 1.25rem 0 1.5rem; }
+.today-filters .sep { width: 1px; background: var(--line); margin: 0.25rem 0.5rem; }
+.today .notice { margin: 0 0 1.25rem; padding: 0.85rem 1.1rem; }
+.today .plan-list li { padding-block: 1rem; gap: 0.4rem; }
+.today .plan-list li:first-child { padding-top: 0.25rem; }
+.today .plan-meta { gap: 0.35rem 0.75rem; align-items: center; }
+.today-actions { display: flex; flex-wrap: wrap; align-items: center; gap: 0.75rem 1.5rem; margin-top: 1.5rem; }
 .today-actions .more-link { font-size: 0.9375rem; font-weight: 500; text-decoration: none; }
 .today-actions .more-link::after { content: ' ›'; }
 .today-actions .more-link:hover { text-decoration: underline; }

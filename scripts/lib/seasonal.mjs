@@ -2,6 +2,7 @@ import { readFileSync, existsSync, readdirSync } from 'node:fs';
 import path from 'node:path';
 import { load as yamlLoad } from 'js-yaml';
 import { ROOT, addDays, resolveProvince } from './util.mjs';
+import { readHistorico } from './historico.mjs';
 
 const iso = (y, m, d) => `${y}-${String(m).padStart(2, '0')}-${String(d).padStart(2, '0')}`;
 
@@ -97,10 +98,17 @@ function placeOf(lugar) {
   return { scope: 'local', provincia: p?.provincia || lugar.provincia, ccaa: p?.ccaa || null, municipio: lugar.municipio || null };
 }
 
+/** Citas anuales con lo necesario para reconocer sus ediciones en las agendas (título, alias opcionales y provincia). */
+export function readCitas() {
+  const doc = yamlLoad(readFileSync(path.join(ROOT, 'config/seasonal.yml'), 'utf8'));
+  return (doc.citas || []).map((c) => ({ id: c.id, titulo: c.es.titulo, alias: c.alias || [], provincia: c.lugar?.provincia || null }));
+}
+
 export function buildSeasonalPlans(today) {
   const doc = yamlLoad(readFileSync(path.join(ROOT, 'config/seasonal.yml'), 'utf8'));
   const plans = [];
   const i18n = readContentTranslations();
+  const historico = readHistorico();
 
   for (const t of doc.temporada || []) {
     plans.push({
@@ -127,6 +135,7 @@ export function buildSeasonalPlans(today) {
       start, end, topics: c.temas,
       place: placeOf(c.lugar), source: { name: 'sinplanes', url: c.fuente || null },
       ...contentOf(c, i18n),
+      ...(historico[c.id] ? { history: historico[c.id] } : {}),
       ...(c.imagen ? { image: c.imagen, imageSize: c.imagen_tam || null } : {}),
       ...(c.relacionados ? { related: c.relacionados } : {}),
     });

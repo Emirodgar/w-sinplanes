@@ -1,0 +1,18 @@
+# Histórico de ediciones anteriores de las citas anuales (config/seasonal.yml → citas). SE ESCRIBE A MANO.
+# La clave es el id de la cita. La ficha muestra estas ediciones (la más reciente primero) bajo "Ediciones anteriores"
+# y así el contenido crece año a año sin cambiar la URL.
+#
+# Reglas: resumen propio (nunca texto copiado de la fuente) y con datos comprobables; enlace a la fuente cuando exista.
+# Las fechas, entre comillas. `cifras`, `enlace` y `enlace_nombre` son opcionales.
+# data/historico-candidatos.json (lo rellena el cron de datos) lista las ediciones que ya han pasado y se detectaron en las agendas:
+# sirve de lista de trabajo para redactar aquí.
+#
+# semana-santa:
+#   - anio: 2025
+#     inicio: "2025-04-13"
+#     fin: "2025-04-20"
+#     resumen: "Qué pasó: programa, novedades, incidencias, clima…"
+#     cifras:
+#       - "Dato comprobable (afluencia, cofradías, participantes…)"
+#     enlace: "https://…"
+#     enlace_nombre: "Ayuntamiento"
