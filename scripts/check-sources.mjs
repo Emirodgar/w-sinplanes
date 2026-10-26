@@ -15,7 +15,7 @@ for (const src of fuentes) {
     const sample = items.find((i) => i.title && (i.start || i.published));
     rows.push([src.id, items.length ? '✅ ok' : '⚠️ vacía', `${items.length} elementos${sample ? ` · ej.: ${sample.title.slice(0, 50)} (${sample.start || sample.published})` : ''}`]);
   } catch (e) {
-    rows.push([src.id, '❌ error', e.message.slice(0, 120)]);
+    rows.push([src.id, src.opcional ? '⚠️ error (opcional)' : '❌ error', e.message.slice(0, 120)]);
   }
 }
 const md = ['| Fuente | Estado | Detalle |', '|---|---|---|', ...rows.map((r) => `| ${r.join(' | ')} |`)].join('\n');

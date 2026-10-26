@@ -66,7 +66,7 @@ temporada:
       es:
         texto:
           - "El magosto es la gran fiesta de la castaña: una hoguera, castañas asadas, vino nuevo y mucha gente alrededor. Se celebra sobre todo en Galicia, Asturias (donde se llama amagüestu) y El Bierzo, y tiene su día grande en torno a San Martín, el 11 de noviembre."
-          - "Hay magostos familiares, de barrio, de pueblo y de asociaciones, y muchos ayuntamientos los organizan abiertos a todo el mundo, a veces con música, baile y juegos tradicionales. En otras zonas del interior, como el Valle del Jerte en Extremadura, existe una tradición parecida en torno a los Santos, que se conoce como calbotá."
+          - "Hay magostos familiares, de barrio, de pueblo y de asociaciones, y muchos ayuntamientos los organizan abiertos a todo el mundo, a veces con música, baile y juegos tradicionales. En otras zonas del interior, como el Valle del Jerte en Extremadura, existe una tradición parecida en torno a los Santos, que se conoce como calbotá. En la Sierra de Francia, en Salamanca, se llama calbochada: este año San Esteban de la Sierra la celebra el sábado 31 de octubre, a las 19:00, en su Plaza Mayor, con castañas, chocolate, bizcochos y disfraces por Halloween."
           - "Para encontrar uno, mira la agenda del ayuntamiento o de la asociación de vecinos de la zona unos días antes: las fechas cambian cada año y muchos se anuncian con poca antelación. Lleva ropa de abrigo, que se está al aire libre, y no esperes cosas sofisticadas: la gracia está en la hoguera y en comer las castañas calientes, en compañía."
         mapa:
           titulo: "Dónde se celebran los magostos"
@@ -77,6 +77,7 @@ temporada:
             - { nombre: "Asturias", lat: 43.3, lon: -5.8, desc: "Aquí se llama amagüestu y se acompaña con sidra nueva." }
             - { nombre: "El Bierzo (León)", lat: 42.55, lon: -6.6, desc: "Magostos en muchos pueblos de la comarca, en pleno castañar." }
             - { nombre: "Valle del Jerte (Cáceres)", lat: 40.2, lon: -5.8, desc: "Su versión es la calbotá, en torno a los Santos." }
+            - { nombre: "San Esteban de la Sierra (Salamanca)", lat: 40.47, lon: -5.93, desc: "En la Sierra de Francia se llama calbochada; el 31 de octubre de 2026 se celebra en la Plaza Mayor, con castañas, chocolate y disfraces." }
         faq:
           - p: "¿Qué es un magosto?"
             r: "Es una fiesta tradicional de otoño en la que se asan castañas en una hoguera y se comen con vino nuevo, sidra o mosto. Es típica de Galicia, Asturias y El Bierzo, aunque hay celebraciones parecidas en otras zonas."

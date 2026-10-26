@@ -209,3 +209,4 @@ fuentes:
     region: "Galicia (Lugo)"
     provincia: "Lugo"
     activa: true
+    opcional: true  # 403 desde GitHub Actions (anti-bot): avisa en check-sources pero no falla el job

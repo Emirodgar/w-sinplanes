@@ -223,3 +223,8 @@ reserva:
     descripcion:
       es: "Adaptación radiofónica de los Episodios nacionales de Benito Pérez Galdós, novelas históricas sobre la España del siglo XIX."
       en: "Radio adaptation of Benito Pérez Galdós’s Episodios nacionales, historical novels on nineteenth-century Spain."
+
+  - id: aprendizaje-infinito-leer-rapido
+    titulo: "Aprendizaje infinito"
+    generos: [cultura]
+    episodio: { titulo: "Cómo leer más rápido (sin sacrificar comprensión)", enlace: "https://open.spotify.com/episode/3mkbH2sXVZlStuHr5NUk0p" }
