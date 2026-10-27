@@ -20,7 +20,7 @@ import { fetchPeliculas } from './lib/peliculas.mjs';
 import { fetchTrends, mergeHistory, saveTrends, readHistory } from './lib/trends.mjs';
 
 const TODAY = process.env.SINPLANES_TODAY || todayISO();
-const KEEP_PAST_DAYS = 30;   // las páginas de eventos pasados se mantienen 30 días (noindex)
+const KEEP_PAST_DAYS = 30;   // al leer las fuentes se ignoran los eventos acabados hace más de 30 días (los ya publicados se archivan aparte)
 const HORIZON_DAYS = 120;    // no publicamos eventos a más de 4 meses vista
 
 const log = (...a) => console.log('[sinplanes]', ...a);
@@ -167,6 +167,18 @@ async function main() {
   const translated = await translatePlans([...seasonal, ...external], TODAY, log);
   const events = translated.filter((p) => p.source?.name !== 'sinplanes').sort((a, b) => (a.start || '9999').localeCompare(b.start || '9999'));
   const pending = updateCandidates(events, TODAY, readCitas(), readHistorico());
+
+  // Los planes pasados no se borran: las fuentes dejan de listarlos, pero su página (con el aviso de que ya pasó) sigue accesible.
+  // Se rescatan de la última publicación; así data/events.json acumula el archivo.
+  if (existsSync(path.join(ROOT, 'data/events.json'))) {
+    const have = new Set(events.map((p) => p.slug));
+    const archived = JSON.parse(readFileSync(path.join(ROOT, 'data/events.json'), 'utf8')).filter((p) => (p.end || p.start) < TODAY && !have.has(p.slug));
+    if (archived.length) {
+      events.push(...archived);
+      events.sort((a, b) => (a.start || '9999').localeCompare(b.start || '9999'));
+      log(`Archivo: se conservan ${archived.length} planes ya pasados.`);
+    }
+  }
   if (pending.length) log(`Histórico: ${pending.length} ediciones pasadas por redactar en config/historico.yml (ver data/historico-candidatos.json).`);
   await trendsStep();
   await carteleraStep();

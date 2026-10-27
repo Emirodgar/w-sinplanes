@@ -15,14 +15,13 @@ import { applyTrends, readHistory } from './lib/trends.mjs';
 import { buildBooks } from './lib/libros.mjs';
 import { buildPodcasts } from './lib/podcasts.mjs';
 
-const KEEP_PAST_DAYS = 30; // eventos pasados: su página se mantiene 30 días con noindex
 const HORIZON_DAYS = 120;
 
 const today = process.env.SINPLANES_TODAY || todayISO();
 const readJSON = (rel, fallback) => (existsSync(path.join(ROOT, rel)) ? JSON.parse(readFileSync(path.join(ROOT, rel), 'utf8')) : fallback);
 
 const skeleton = applyCachedTranslations(buildSeasonalPlans(today));
-const events = readJSON('data/events.json', []).filter((p) => (p.end || p.start) >= addDays(today, -KEEP_PAST_DAYS) && p.start <= addDays(today, HORIZON_DAYS));
+const events = readJSON('data/events.json', []).filter((p) => p.start <= addDays(today, HORIZON_DAYS)); // los pasados se conservan (noindex, con aviso)
 const meta = readJSON('data/meta.json', {});
 
 const plans = applyTrends([...skeleton, ...events], readHistory(), today)
