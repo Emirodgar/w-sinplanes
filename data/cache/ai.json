@@ -10357,5 +10357,1189 @@
    "actividades"
   ],
   "a_cubierto": null
+ },
+ "880d0d1b9f": {
+  "id": "55ebce1a70",
+  "es": {
+   "titulo": "93 Salón de Otoño",
+   "resumen": "Exposición de arte de la Asociación Española de Pintores y Escultores. Entrada libre hasta completar aforo. Abierto todos los días de 10h a 21h."
+  },
+  "en": {
+   "titulo": "93 Autumn Salon",
+   "resumen": "Art exhibition by the Spanish Association of Painters and Sculptors. Free entry until capacity is reached. Open daily from 10 am to 9 pm."
+  },
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true
+ },
+ "344b826e15": {
+  "id": "664fb51e0a",
+  "es": {
+   "titulo": "Actividad literaria: 'Que Arda: Del Tránsito a la Escritura'",
+   "resumen": "Presentación del libro 'Que arda. Tránsito femenino hacia otra fertilidad' con la autora Inma Luna, seguida de un taller de escritura creativa centrado en la menopausia. Dirigido a mayores de 14 años."
+  },
+  "en": {
+   "titulo": "Literary Activity: 'Que Arda: From Transition to Writing'",
+   "resumen": "Presentation of the book 'Que arda. Tránsito femenino hacia otra fertilidad' with author Inma Luna, followed by a creative writing workshop focusing on menopause. For ages 14 and up."
+  },
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "a6b3bc13ea": {
+  "id": "14ec82d71e",
+  "es": {
+   "titulo": "Actuación musical e improvisación visual: 'Atmósferas Sonoras y Visuales'",
+   "resumen": "El dúo Tiki-Plum fusiona Neo Soul y Latin Jazz con folclore tradicional, creando atmósferas sonoras que improvisan sobre proyecciones visuales en tiempo real. Para todos los públicos."
+  },
+  "en": {
+   "titulo": "Musical Performance and Visual Improvisation: 'Sound and Visual Atmospheres'",
+   "resumen": "The duo Tiki-Plum blends Neo Soul and Latin Jazz with traditional folklore, creating soundscapes that improvise over real-time visual projections. For all audiences."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "7fb04cfeda": {
+  "id": "50f201e1d5",
+  "es": {
+   "titulo": "Así acabé",
+   "resumen": "Monólogo de comedia de Dartearte Teatro sobre las decisiones vitales y las segundas oportunidades. Sigue la historia de Cintia, quien busca mejorar su destino. Recomendado a partir de 12 años."
+  },
+  "en": {
+   "titulo": "This is How I Ended Up",
+   "resumen": "A comedic monologue by Dartearte Teatro exploring life choices and second chances. Follows Cintia's journey as she seeks to improve her destiny. Recommended for ages 12 and up."
+  },
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": true
+ },
+ "bbf77b2ff0": {
+  "id": "d653ab1c0b",
+  "es": {
+   "titulo": "Ballet Arenas Blancas",
+   "resumen": "Espectáculo de danza de la Compañía Jac Ballet que utiliza el movimiento para representar el paso del tiempo, evocando la fluidez de un reloj de arena. Apto para todos los públicos."
+  },
+  "en": {
+   "titulo": "White Sand Ballet",
+   "resumen": "A dance performance by Compañía Jac Ballet that uses movement to represent the passage of time, evoking the flow of an hourglass. Suitable for all audiences."
+  },
+  "temas": [
+   "cultura",
+   "deporte"
+  ],
+  "a_cubierto": true
+ },
+ "af50210a70": {
+  "id": "2f15064c11",
+  "es": {
+   "titulo": "Caos",
+   "resumen": "Dos obras de microteatro de la Compañía Patricia Berot que combinan comedia y situaciones caóticas que alteran la tranquilidad de las protagonistas. Para público adulto."
+  },
+  "en": {
+   "titulo": "Chaos",
+   "resumen": "Two micro-theater plays by Compañía Patricia Berot that blend comedy with chaotic situations disrupting the protagonists' lives. For adult audiences."
+  },
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": true
+ },
+ "cfe5355c64": {
+  "id": "cb323311fd",
+  "es": {
+   "titulo": "Charla de Salud Mental Juvenil",
+   "resumen": "Presentación de resultados de una investigación sobre salud mental juvenil en Villaverde, recogiendo perspectivas de jóvenes, familias y profesionales. Aborda malestares, bienestar y propuestas de mejora."
+  },
+  "en": {
+   "titulo": "Youth Mental Health Talk",
+   "resumen": "Presentation of research findings on youth mental health in Villaverde, gathering perspectives from young people, families, and professionals. Addresses emotional well-being, distress, and improvement proposals."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "c1e80f3740": {
+  "id": "53446566f2",
+  "es": {
+   "titulo": "Charla informativa sobre odontología",
+   "resumen": "Consejos prácticos sobre salud bucodental, abordando cómo el envejecimiento afecta la boca, la relación entre salud oral y bienestar general, y cuidados preventivos. Para todos los públicos."
+  },
+  "en": {
+   "titulo": "Informative Talk on Dentistry",
+   "resumen": "Practical advice on oral health, discussing how aging affects the mouth, the link between oral health and general well-being, and preventive care. For all audiences."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "abdc5da63a": {
+  "id": "5ae5fd013f",
+  "es": {
+   "titulo": "CICLO DE BEBÉS. Cía Tyl tyl-Lapotínguele, presenta 'Semillarte'",
+   "resumen": "Experiencia teatral sensorial y poética para bebés de 1 a 3 años y sus acompañantes. 'Semillarte' fomenta la curiosidad, la calma y el asombro en un espacio seguro de exploración."
+  },
+  "en": {
+   "titulo": "BABIES CYCLE. Tyl tyl-Lapotínguele Company presents 'Semillarte'",
+   "resumen": "A sensory and poetic theater experience for babies aged 1 to 3 and their companions. 'Semillarte' fosters curiosity, calm, and wonder in a safe space for exploration."
+  },
+  "temas": [
+   "cultura",
+   "ninos"
+  ],
+  "a_cubierto": true
+ },
+ "5661cc8306": {
+  "id": "b33511906f",
+  "es": {
+   "titulo": "Ciudades sumergidas",
+   "resumen": "Exposición de Juan Manuel López-Reina que combina paisajes urbanos, referencias marinas y técnicas mixtas, ofreciendo una mirada imaginativa sobre la ciudad a través del color y la composición."
+  },
+  "en": {
+   "titulo": "Submerged Cities",
+   "resumen": "Exhibition by Juan Manuel López-Reina combining urban landscapes, marine references, and mixed media, offering an imaginative view of the city through color and composition."
+  },
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true
+ },
+ "9fc03134fc": {
+  "id": "aadd61ac1d",
+  "es": {
+   "titulo": "Concierto de otoño",
+   "resumen": "Concierto dirigido por Jorge L. Benito Santamaría con el Coro BBVA. Reparto de entradas una hora antes hasta completar aforo."
+  },
+  "en": {
+   "titulo": "Autumn Concert",
+   "resumen": "Concert conducted by Jorge L. Benito Santamaría featuring the BBVA Choir. Tickets distributed one hour prior until capacity is reached."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "7049d89d2d": {
+  "id": "d9e6b4626d",
+  "es": {
+   "titulo": "Concierto: Arias y romanzas al alba: el despertar de la lírica",
+   "resumen": "Gala lírica que entrelaza arias de ópera y romanzas de zarzuela, celebrando la música vocal y las emociones al amanecer. Una propuesta elegante y llena de vida."
+  },
+  "en": {
+   "titulo": "Concert: Arias and Romances at Dawn: The Awakening of Lyric",
+   "resumen": "A lyrical gala blending opera arias and zarzuela romances, celebrating vocal music and emotions at dawn. An elegant and vibrant performance."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "c5856c7aee": {
+  "id": "b49ba5e79e",
+  "es": {
+   "titulo": "Concierto: 'Máquina de Hits'",
+   "resumen": "El Golden Hour Quartet, liderado por Ali The Eccentric Artist, ofrece un concierto ecléctico que fusiona estilos y épocas, conectando generaciones con arreglos originales y versiones internacionales."
+  },
+  "en": {
+   "titulo": "Concert: 'Hit Machine'",
+   "resumen": "The Golden Hour Quartet, led by Ali The Eccentric Artist, presents an eclectic concert blending styles and eras, connecting generations with original arrangements and international covers."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "32bdcd9f16": {
+  "id": "90deed040d",
+  "es": {
+   "titulo": "Conferencia: Lo tuyo es puro teatro",
+   "resumen": "Paco Álvarez explora el legado teatral de autores como Plauto y Terencio, cuyo trabajo inspiró a dramaturgos como Shakespeare y Molière, recorriendo el origen de muchas historias y personajes."
+  },
+  "en": {
+   "titulo": "Lecture: Yours is Pure Theater",
+   "resumen": "Paco Álvarez explores the theatrical legacy of authors like Plautus and Terence, whose work inspired playwrights such as Shakespeare and Molière, tracing the origins of many stories and characters."
+  },
+  "temas": [
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": true
+ },
+ "a862d0490e": {
+  "id": "39e65b0d62",
+  "es": {
+   "titulo": "Conferencia: '¿Cómo se altera y modifica nuestro cerebro?'",
+   "resumen": "Charla sobre el sistema nervioso, las alteraciones en la percepción y la plasticidad neuronal. Adaptable a diferentes públicos, explica cómo la experiencia modifica nuestro cerebro."
+  },
+  "en": {
+   "titulo": "Lecture: 'How is Our Brain Altered and Modified?'",
+   "resumen": "Talk on the nervous system, alterations in perception, and neural plasticity. Adaptable to various audiences, it explains how experience modifies our brain."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "d08ef48eb3": {
+  "id": "aa531523f0",
+  "es": {
+   "titulo": "Consecuencias jurídicas y económicas de la música sintética",
+   "resumen": "Conferencia del FORO DENAE sobre las implicaciones legales y financieras de la música sintética. Dirigida a público adulto."
+  },
+  "en": {
+   "titulo": "Legal and Economic Consequences of Synthetic Music",
+   "resumen": "FORO DENAE lecture on the legal and financial implications of synthetic music. Aimed at an adult audience."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "ac85d1daf0": {
+  "id": "285f278c08",
+  "es": {
+   "titulo": "È Stato Cosí",
+   "resumen": "Espectáculo de danza de la Compagnia Francesca Selva/ConCorda, parte de la X Edición del CFest. Para público adulto."
+  },
+  "en": {
+   "titulo": "È Stato Cosí",
+   "resumen": "Dance performance by Compagnia Francesca Selva/ConCorda, part of the 10th CFest Edition. For adult audiences."
+  },
+  "temas": [
+   "cultura",
+   "deporte"
+  ],
+  "a_cubierto": true
+ },
+ "3b4a558729": {
+  "id": "4278a71298",
+  "es": {
+   "titulo": "Edificios con historia y encanto II",
+   "resumen": "Conferencia de la historiadora Eva Mª Puig sobre la Real Casa de Correos, el edificio más antiguo de la Puerta del Sol, destacando su arquitectura y su importancia en el urbanismo ilustrado de Madrid."
+  },
+  "en": {
+   "titulo": "Buildings with History and Charm II",
+   "resumen": "Lecture by historian Eva Mª Puig on the Real Casa de Correos, the oldest building in Madrid's Puerta del Sol, highlighting its architecture and significance in Madrid's Enlightenment urbanism."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "9e5c99db8a": {
+  "id": "059857d35a",
+  "es": {
+   "titulo": "El gigante que jugaba con las palabras",
+   "resumen": "Sesión de narración oral de Nelson Calderón inspirada en Julio Cortázar, acercando sus relatos a través de la palabra, la imaginación y el juego narrativo. Para todos los públicos."
+  },
+  "en": {
+   "titulo": "The Giant Who Played with Words",
+   "resumen": "Nelson Calderón's oral storytelling session inspired by Julio Cortázar, bringing his tales closer through words, imagination, and narrative play. For all audiences."
+  },
+  "temas": [
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": true
+ },
+ "156a8a08d4": {
+  "id": "4675726531",
+  "es": {
+   "titulo": "El Retiro. 1 año, 12 retos, 7 miradas.",
+   "resumen": "Exposición fotográfica donde siete artistas exploran el Parque del Retiro a lo largo de un año, experimentando con diferentes técnicas y capturando su transformación estacional."
+  },
+  "en": {
+   "titulo": "El Retiro. 1 Year, 12 Challenges, 7 Perspectives.",
+   "resumen": "Photography exhibition where seven artists explore El Retiro Park over a year, experimenting with different techniques and capturing its seasonal transformations."
+  },
+  "temas": [
+   "cultura",
+   "parques",
+   "naturaleza"
+  ],
+  "a_cubierto": true
+ },
+ "d5ce579e29": {
+  "id": "98711ca414",
+  "es": {
+   "titulo": "El vestido de novia",
+   "resumen": "Presentación de la novela de Ana Montojo, un relato en primera persona sobre la vida de una mujer desde la posguerra hasta la vejez, marcada por dificultades pero que encuentra felicidad al final. Para todos los públicos."
+  },
+  "en": {
+   "titulo": "The Wedding Dress",
+   "resumen": "Presentation of Ana Montojo's novel, a first-person account of a woman's life from the post-war period to old age, marked by hardship but finding happiness in the end. For all audiences."
+  },
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "089c561aab": {
+  "id": "a1648f9038",
+  "es": {
+   "titulo": "Escenario Joven",
+   "resumen": "Conciertos gratuitos de alumnos destacados del Centro Superior Katarina Gurska (CSKG), presentando una variedad de estilos e instrumentaciones en música de cámara y solista."
+  },
+  "en": {
+   "titulo": "Young Stage",
+   "resumen": "Free concerts by outstanding students from the Katarina Gurska Higher Center (CSKG), showcasing a variety of styles and instrumentations in chamber and solo music."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "262dafabf2": {
+  "id": "5d13715841",
+  "es": {
+   "titulo": "Exposición de pintura",
+   "resumen": "Exposición de las obras creadas durante el Concurso de Pintura Rápida celebrado en la plaza de Dalí."
+  },
+  "en": {
+   "titulo": "Painting Exhibition",
+   "resumen": "Exhibition of works created during the Quick Painting Contest held in Dalí Square."
+  },
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true
+ },
+ "5140659e8a": {
+  "id": "8798d2c7fb",
+  "es": {
+   "titulo": "Exposición de pintura / acuarela",
+   "resumen": "Exposición de las obras participantes en el concurso de pintura al aire libre celebrado en el parque de la Quinta del Berro."
+  },
+  "en": {
+   "titulo": "Painting / Watercolor Exhibition",
+   "resumen": "Exhibition of works participating in the outdoor painting contest held in Quinta del Berro park."
+  },
+  "temas": [
+   "cultura",
+   "parques",
+   "naturaleza"
+  ],
+  "a_cubierto": true
+ },
+ "4580ec22f3": {
+  "id": "84be314dda",
+  "es": {
+   "titulo": "Exposición de tapices 'Debajo de todo', de Raquel Lobo",
+   "resumen": "Exposición de tapices titulada 'Debajo de todo' de la artista Raquel Lobo en Matadero Madrid."
+  },
+  "en": {
+   "titulo": "Tapestry Exhibition 'Underneath Everything', by Raquel Lobo",
+   "resumen": "Exhibition of tapestries titled 'Underneath Everything' by artist Raquel Lobo at Matadero Madrid."
+  },
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true
+ },
+ "b23ac1b6f1": {
+  "id": "d30bf5c538",
+  "es": {
+   "titulo": "Exposición de Francisco Cebollada González",
+   "resumen": "Descubre las obras de este artista autodidacta que emplea diversas técnicas como óleo, acuarela y tinta. Una muestra en el Centro Cultural Buenavista."
+  },
+  "en": {
+   "titulo": "Exhibition by Francisco Cebollada González",
+   "resumen": "Discover the works of this self-taught artist who uses various techniques such as oil, watercolor, and ink. An exhibition at the Buenavista Cultural Center."
+  },
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": null
+ },
+ "af65881c55": {
+  "id": "8b63eb39d7",
+  "es": {
+   "titulo": "HablArte: Arte y Naturaleza en la Era de la IA",
+   "resumen": "Ciclo de conferencias que explora el impacto de la Inteligencia Artificial en el arte y la naturaleza. Críticos, investigadores y artistas debatirán sobre esta nueva relación."
+  },
+  "en": {
+   "titulo": "HablArte: Art and Nature in the Age of AI",
+   "resumen": "A series of conferences exploring the impact of Artificial Intelligence on art and nature. Critics, researchers, and artists will discuss this new relationship."
+  },
+  "temas": [
+   "cultura",
+   "naturaleza",
+   "pantalla"
+  ],
+  "a_cubierto": null
+ },
+ "073490c42d": {
+  "id": "27a5162ddd",
+  "es": {
+   "titulo": "IV Festival Alicia de Larrocha",
+   "resumen": "Disfruta de un concierto a cargo de alumnos del profesor Francisco Fierro. Entrada libre hasta completar aforo en el Centro Cultural Casa de Vacas."
+  },
+  "en": {
+   "titulo": "IV Alicia de Larrocha Festival",
+   "resumen": "Enjoy a concert by students of Professor Francisco Fierro. Free entry until capacity is reached at the Casa de Vacas Cultural Center."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "0a83f08728": {
+  "id": "28d7b409f4",
+  "es": {
+   "titulo": "Jornadas de Filosofía",
+   "resumen": "Un ciclo de charlas para reflexionar sobre grandes preguntas existenciales, la justicia, la libertad y la compasión. Una oportunidad para el debate filosófico."
+  },
+  "en": {
+   "titulo": "Philosophy Conference Series",
+   "resumen": "A series of talks to reflect on major existential questions, justice, freedom, and compassion. An opportunity for philosophical debate."
+  },
+  "temas": [
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": null
+ },
+ "61a98a77ba": {
+  "id": "2946ad749b",
+  "es": {
+   "titulo": "Jornadas de Ritmos Latinos y Bailes Americanos (Nivel Medio)",
+   "resumen": "Aprende y practica ritmos latinos y bailes americanos en este curso de nivel medio. Varias sesiones disponibles para inscribirse en el Centro Cultural Antonio Machado."
+  },
+  "en": {
+   "titulo": "Latin Rhythms and American Dances (Intermediate Level)",
+   "resumen": "Learn and practice Latin rhythms and American dances in this intermediate-level course. Several sessions are available for registration at the Antonio Machado Cultural Center."
+  },
+  "temas": [
+   "musica",
+   "deporte",
+   "fiestas"
+  ],
+  "a_cubierto": null
+ },
+ "fbb60e69e6": {
+  "id": "40f274a7cd",
+  "es": {
+   "titulo": "Kasper, Sky y el Oso verde: Seguridad Digital Infantil",
+   "resumen": "Un espectáculo infantil que enseña sobre el uso responsable de Internet a través de la historia de Kasper y un oso verde. Ideal para niños de 7 a 10 años."
+  },
+  "en": {
+   "titulo": "Kasper, Sky, and the Green Bear: Children's Digital Safety",
+   "resumen": "A children's show that teaches about responsible internet use through the story of Kasper and a green bear. Ideal for ages 7 to 10."
+  },
+  "temas": [
+   "ninos",
+   "pantalla",
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "622cc12b70": {
+  "id": "e01d2072df",
+  "es": {
+   "titulo": "La copla y la América: Recorrido Musical",
+   "resumen": "Marina Ferrer y Sergio Fulqueris ofrecen un viaje musical entre España y América, explorando la copla y sus vínculos con el bolero, la habanera y el tango."
+  },
+  "en": {
+   "titulo": "La Copla and the Americas: Musical Journey",
+   "resumen": "Marina Ferrer and Sergio Fulqueris offer a musical journey between Spain and the Americas, exploring 'copla' and its connections to bolero, habanera, and tango."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "8fd2758f53": {
+  "id": "cbcf36face",
+  "es": {
+   "titulo": "La Generación del 27: Palabra, Verso, Música y Danza",
+   "resumen": "Un evento que celebra la Generación del 27 con poesía, música y danza. Participan destacados poetas, músicos y bailarines en el Centro Cultural Casa de Vacas."
+  },
+  "en": {
+   "titulo": "The Generation of '27: Word, Verse, Music, and Dance",
+   "resumen": "An event celebrating the Generation of '27 with poetry, music, and dance. Featuring prominent poets, musicians, and dancers at the Casa de Vacas Cultural Center."
+  },
+  "temas": [
+   "cultura",
+   "musica",
+   "libros"
+  ],
+  "a_cubierto": null
+ },
+ "90edc9ae79": {
+  "id": "ec6aca5584",
+  "es": {
+   "titulo": "La llamaban Tula: Teatro sobre Gertrudis Gómez de Avellaneda",
+   "resumen": "La Compañía La Kimera Teatro presenta una obra sobre Gertrudis Gómez de Avellaneda, pionera feminista y antiesclavista. Una ficción con canciones en directo."
+  },
+  "en": {
+   "titulo": "She Was Called Tula: Theater about Gertrudis Gómez de Avellaneda",
+   "resumen": "La Kimera Teatro Company presents a play about Gertrudis Gómez de Avellaneda, a pioneering feminist and abolitionist. A fictional work with live songs."
+  },
+  "temas": [
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": null
+ },
+ "aed380f89e": {
+  "id": "cf23797b9f",
+  "es": {
+   "titulo": "Madrid a Tempo: Jóvenes y Clásicos en el Retiro",
+   "resumen": "Recital de piano de Marina Sánchez Viso con obras de Debussy, Granados y Chopin. Una cita musical en el Centro Cultural Casa de Vacas."
+  },
+  "en": {
+   "titulo": "Madrid a Tempo: Young and Classical in Retiro",
+   "resumen": "Piano recital by Marina Sánchez Viso featuring works by Debussy, Granados, and Chopin. A musical event at the Casa de Vacas Cultural Center."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "637059a3ea": {
+  "id": "79a640f334",
+  "es": {
+   "titulo": "Madrid Distrito en Corto en la Biblioteca José Hierro",
+   "resumen": "Exhibición de cortometrajes en la Biblioteca Pública Municipal José Hierro. Una iniciativa para acercar el cine a los barrios."
+  },
+  "en": {
+   "titulo": "Madrid Distrito en Corto at José Hierro Library",
+   "resumen": "Screening of short films at the José Hierro Municipal Public Library. An initiative to bring cinema to the neighborhoods."
+  },
+  "temas": [
+   "pantalla",
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "ca5077d5c9": {
+  "id": "b0a24d44bd",
+  "es": {
+   "titulo": "Madrid en corto 2026: Exhibición de Cortometrajes",
+   "resumen": "Programa gratuito de exhibición de cortometrajes en espacios públicos municipales. Una colaboración entre el Ayuntamiento de Madrid y la industria del cortometraje."
+  },
+  "en": {
+   "titulo": "Madrid en corto 2026: Short Film Exhibition",
+   "resumen": "Free program showcasing short films in municipal public spaces. A collaboration between the Madrid City Council and the short film industry."
+  },
+  "temas": [
+   "pantalla",
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "0c777d9325": {
+  "id": "9eac98703b",
+  "es": {
+   "titulo": "Magia: ¡Alucina Pepinillos!",
+   "resumen": "Espectáculo de magia y clown para todos los públicos con Rubén Reyeros. Una propuesta interactiva llena de humor y diversión."
+  },
+  "en": {
+   "titulo": "Magic: ¡Alucina Pepinillos!",
+   "resumen": "A magic and clown show for all audiences with Rubén Reyeros. An interactive performance full of humor and fun."
+  },
+  "temas": [
+   "cultura",
+   "ninos"
+  ],
+  "a_cubierto": null
+ },
+ "3dd664c60f": {
+  "id": "94c42d5181",
+  "es": {
+   "titulo": "Mar Berlanga y su escuela: Música y Danza Española",
+   "resumen": "Espectáculo de música y danza que conmemora el patrimonio musical español, con piezas de zarzuela, flamenco y más. Apto para toda la familia."
+  },
+  "en": {
+   "titulo": "Mar Berlanga and her School: Spanish Music and Dance",
+   "resumen": "A music and dance performance commemorating Spanish musical heritage, featuring zarzuela pieces, flamenco, and more. Suitable for the whole family."
+  },
+  "temas": [
+   "musica",
+   "cultura",
+   "ninos"
+  ],
+  "a_cubierto": null
+ },
+ "e44ce23b72": {
+  "id": "ace8ce0f51",
+  "es": {
+   "titulo": "Martes con Historia: Visitas guiadas 'El agua en Madrid'",
+   "resumen": "Visita guiada temática gratuita centrada en 'El agua en Madrid'. Plazas limitadas, requiere inscripción previa."
+  },
+  "en": {
+   "titulo": "Tuesdays with History: Guided Tours 'Water in Madrid'",
+   "resumen": "Free thematic guided tour focusing on 'Water in Madrid'. Limited spots, prior registration required."
+  },
+  "temas": [
+   "cultura",
+   "rutas",
+   "agua"
+  ],
+  "a_cubierto": null
+ },
+ "8becf34ba4": {
+  "id": "56ce36253f",
+  "es": {
+   "titulo": "Mentalismo en el Teatro Circo Price",
+   "resumen": "Experimenta un espectáculo de mentalismo en el emblemático Teatro Circo Price. Una noche de misterio y asombro."
+  },
+  "en": {
+   "titulo": "Mentalism at Teatro Circo Price",
+   "resumen": "Experience a mentalism show at the iconic Teatro Circo Price. A night of mystery and wonder."
+  },
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": null
+ },
+ "e2c27d7d3b": {
+  "id": "0c30fae610",
+  "es": {
+   "titulo": "Mesa redonda: 'Carne, sangre y territorio' en Matadero",
+   "resumen": "Participa en una mesa redonda sobre literatura contemporánea titulada 'Carne, sangre y territorio' en Matadero Madrid."
+  },
+  "en": {
+   "titulo": "Round Table: 'Flesh, Blood, and Territory' at Matadero",
+   "resumen": "Join a round table discussion on contemporary literature titled 'Flesh, Blood, and Territory' at Matadero Madrid."
+  },
+  "temas": [
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": null
+ },
+ "287802b822": {
+  "id": "91a61fad8a",
+  "es": {
+   "titulo": "Mi madre y el dinero en el CondeDuque",
+   "resumen": "Una propuesta cultural en el Centro de Cultura Contemporánea CondeDuque. Más detalles sobre el evento se encuentran en la descripción."
+  },
+  "en": {
+   "titulo": "My Mother and Money at CondeDuque",
+   "resumen": "A cultural event at the CondeDuque Contemporary Culture Center. More details about the event can be found in the description."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "eca0ca42b9": {
+  "id": "7e59b584b2",
+  "es": {
+   "titulo": "Mujer y flamenco: Espectáculo de Cante, Guitarra y Baile",
+   "resumen": "Un espectáculo que celebra el Día Internacional del Flamenco, explorando sus palos y transmitiendo la pasión del arte jondo. Para todos los públicos."
+  },
+  "en": {
+   "titulo": "Woman and Flamenco: Singing, Guitar, and Dance Show",
+   "resumen": "A show celebrating International Flamenco Day, exploring its styles and conveying the passion of this art form. For all audiences."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "796215b578": {
+  "id": "b2947286c2",
+  "es": {
+   "titulo": "Ars Melódica presenta 'Verbena de Zarzuelas'",
+   "resumen": "Disfruta de un repertorio festivo de zarzuelas narrado por una mezzo-soprano, acompañada de soprano, barítono y pianista. Incluye anécdotas y contexto histórico."
+  },
+  "en": {
+   "titulo": "Ars Melódica presents 'Verbena de Zarzuelas'",
+   "resumen": "Enjoy a festive repertoire of zarzuelas narrated by a mezzo-soprano, accompanied by a soprano, baritone, and pianist. Includes anecdotes and historical context."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "4ab0d6c16a": {
+  "id": "c3643ca239",
+  "es": {
+   "titulo": "No soy yo, eres tú: Humor e Improvisación",
+   "resumen": "David Carra ofrece un espectáculo de humor e improvisación con participación del público. Historias compartidas se transforman en situaciones cómicas."
+  },
+  "en": {
+   "titulo": "It's Not Me, It's You: Humor and Improvisation",
+   "resumen": "David Carra presents a humor and improvisation show with audience participation. Shared stories are transformed into comedic situations."
+  },
+  "temas": [
+   "cultura",
+   "fiestas"
+  ],
+  "a_cubierto": null
+ },
+ "a3f20bcd0f": {
+  "id": "d4abaeac8b",
+  "es": {
+   "titulo": "Teatro: Tenorio, Zorrilla y su tiempo",
+   "resumen": "Una obra teatral que explora la figura de José Zorrilla y el contexto de su 'Don Juan Tenorio'. Ambientación de época para una experiencia cultural."
+  },
+  "en": {
+   "titulo": "Theater: Tenorio, Zorrilla, and His Time",
+   "resumen": "A theatrical play exploring the figure of José Zorrilla and the context of his 'Don Juan Tenorio'. Period setting for a cultural experience."
+  },
+  "temas": [
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": null
+ },
+ "6f41d13891": {
+  "id": "82f7ce6ace",
+  "es": {
+   "titulo": "Pablo d'Ors en Matadero: Creación Dramática Contemporánea",
+   "resumen": "Una propuesta de creación dramática contemporánea con Pablo d'Ors en la Nave 10 de Matadero."
+  },
+  "en": {
+   "titulo": "Pablo d'Ors at Matadero: Contemporary Dramatic Creation",
+   "resumen": "A contemporary dramatic creation event featuring Pablo d'Ors at Nave 10 of Matadero."
+  },
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": null
+ },
+ "6b9c5a6c44": {
+  "id": "648844c39f",
+  "es": {
+   "titulo": "Taller de cocina y degustación con Mange Quoi",
+   "resumen": "Taller de cocina y degustación para jóvenes de 14 a 30 años en Madrid. Fomenta la participación y la convivencia a través de la gastronomía. Se imparte de 17 a 20 horas."
+  },
+  "en": {
+   "titulo": "Cooking and Tasting Workshop with Mange Quoi",
+   "resumen": "A cooking and tasting workshop for young people aged 14 to 30 in Madrid. It promotes participation and coexistence through gastronomy. Held from 5 PM to 8 PM."
+  },
+  "temas": [
+   "gastronomia",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "047923658c": {
+  "id": "f7237f7fd1",
+  "es": {
+   "titulo": "Taller de comederos para aves",
+   "resumen": "Taller familiar en Madrid para construir comederos de aves en invierno. Aprende sobre las especies locales y cómo ayudar a su alimentación. Duración aproximada de 1.5 horas. Requiere inscripción previa."
+  },
+  "en": {
+   "titulo": "Bird Feeder Workshop",
+   "resumen": "Family workshop in Madrid to build bird feeders for winter. Learn about local species and how to help feed them. Approximately 1.5 hours long. Prior registration required."
+  },
+  "temas": [
+   "naturaleza",
+   "ninos",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "c846359390": {
+  "id": "e247268bd4",
+  "es": {
+   "titulo": "Taller de cómic en la Biblioteca Gerardo Diego",
+   "resumen": "Taller de cómic para jóvenes de 12 a 17 años en la Biblioteca Gerardo Diego (Madrid). Fomenta el desarrollo de un estilo propio y la autonomía en la creación de historias. Se imparte quincenalmente los martes a las 18h."
+  },
+  "en": {
+   "titulo": "Comic Workshop at Gerardo Diego Library",
+   "resumen": "Comic workshop for 12-17 year olds at Gerardo Diego Library (Madrid). Encourages developing a personal style and autonomy in story creation. Held bi-weekly on Tuesdays at 6 PM."
+  },
+  "temas": [
+   "cultura",
+   "libros",
+   "ninos"
+  ],
+  "a_cubierto": true
+ },
+ "c6ddec89e8": {
+  "id": "6e8b07a847",
+  "es": {
+   "titulo": "Taller de cómic en la Biblioteca José Hierro",
+   "resumen": "Taller de cómic para jóvenes de 12 a 17 años en la Biblioteca José Hierro (Madrid). Ayuda a definir un estilo propio y a crear historias más complejas. Se realiza quincenalmente los miércoles a las 17:30h."
+  },
+  "en": {
+   "titulo": "Comic Workshop at José Hierro Library",
+   "resumen": "Comic workshop for 12-17 year olds at José Hierro Library (Madrid). Helps define a personal style and create more complex stories. Held bi-weekly on Wednesdays at 5:30 PM."
+  },
+  "temas": [
+   "cultura",
+   "libros",
+   "ninos"
+  ],
+  "a_cubierto": true
+ },
+ "46a212f0fe": {
+  "id": "af499444aa",
+  "es": {
+   "titulo": "Taller de cómic juvenil",
+   "resumen": "Taller de cómic dirigido a jóvenes en la Biblioteca Pública Municipal Victoria Prego, en Carabanchel, Madrid. Fomenta la creatividad y el desarrollo de habilidades artísticas."
+  },
+  "en": {
+   "titulo": "Youth Comic Workshop",
+   "resumen": "Comic workshop aimed at young people at the Victoria Prego Municipal Public Library in Carabanchel, Madrid. Encourages creativity and the development of artistic skills."
+  },
+  "temas": [
+   "cultura",
+   "libros",
+   "ninos"
+  ],
+  "a_cubierto": true
+ },
+ "e1dfb3c25c": {
+  "id": "7ebc86d63d",
+  "es": {
+   "titulo": "Taller de Cookie Art Challenge",
+   "resumen": "Taller creativo de decoración de galletas en Madrid para jóvenes de 14 a 30 años. Combina imaginación, participación y ocio saludable. De 17:30 a 21:30h. Acceso libre."
+  },
+  "en": {
+   "titulo": "Cookie Art Challenge Workshop",
+   "resumen": "Creative cookie decorating workshop in Madrid for young people aged 14 to 30. Combines imagination, participation, and healthy leisure. From 5:30 PM to 9:30 PM. Free access."
+  },
+  "temas": [
+   "gastronomia",
+   "actividades",
+   "ninos"
+  ],
+  "a_cubierto": true
+ },
+ "954e24fd21": {
+  "id": "695130158c",
+  "es": {
+   "titulo": "Taller de creación de nidos del mito",
+   "resumen": "Taller de creación de nidos en el Espacio Abierto Quinta de los Molinos, Madrid. Una actividad para conectar con la naturaleza y la creatividad."
+  },
+  "en": {
+   "titulo": "Mythical Nest Creation Workshop",
+   "resumen": "Nest creation workshop at Espacio Abierto Quinta de los Molinos, Madrid. An activity to connect with nature and creativity."
+  },
+  "temas": [
+   "naturaleza",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "87b01dc1c6": {
+  "id": "fe9abdd278",
+  "es": {
+   "titulo": "Taller de Creación de Personajes 3D",
+   "resumen": "Taller gratuito en Madrid para mayores de 12 años sobre diseño y creación de personajes 3D con impresora 3D. Ideal para juegos de rol o miniaturas. De 18:00 a 20:00h."
+  },
+  "en": {
+   "titulo": "3D Character Creation Workshop",
+   "resumen": "Free workshop in Madrid for ages 12+ on designing and creating 3D characters using a 3D printer. Ideal for role-playing games or miniatures. From 6:00 PM to 8:00 PM."
+  },
+  "temas": [
+   "pantalla",
+   "actividades",
+   "ninos"
+  ],
+  "a_cubierto": true
+ },
+ "f429348699": {
+  "id": "fa6e62d18f",
+  "es": {
+   "titulo": "Taller de creación literaria en la Biblioteca Francisco Umbral",
+   "resumen": "Taller de creación literaria en la Biblioteca Francisco Umbral (Madrid) para quienes disfrutan de la lectura y desean mejorar sus relatos. Se imparte quincenalmente los jueves a las 11h. Requiere inscripción."
+  },
+  "en": {
+   "titulo": "Literary Creation Workshop at Francisco Umbral Library",
+   "resumen": "Literary creation workshop at Francisco Umbral Library (Madrid) for those who enjoy reading and wish to improve their stories. Held bi-weekly on Thursdays at 11 AM. Registration required."
+  },
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "a353184c7f": {
+  "id": "fc31063e33",
+  "es": {
+   "titulo": "Taller de creación literaria en la Biblioteca Gabriel García Márquez",
+   "resumen": "Taller de creación literaria en la Biblioteca Gabriel García Márquez (Madrid) para mejorar la escritura de relatos. Se imparte quincenalmente los martes de 18 a 19:30h. Requiere inscripción previa."
+  },
+  "en": {
+   "titulo": "Literary Creation Workshop at Gabriel García Márquez Library",
+   "resumen": "Literary creation workshop at Gabriel García Márquez Library (Madrid) to improve story writing. Held bi-weekly on Tuesdays from 6 PM to 7:30 PM. Prior registration required."
+  },
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "3c6cf94a73": {
+  "id": "ea5901120a",
+  "es": {
+   "titulo": "Taller de creación literaria 'El farolillo rojo'",
+   "resumen": "Taller de creación literaria 'El farolillo rojo' en la Biblioteca Pública Municipal Iván de Vargas, Madrid. Una oportunidad para desarrollar habilidades de escritura creativa."
+  },
+  "en": {
+   "titulo": "Literary Creation Workshop 'El farolillo rojo'",
+   "resumen": "Literary creation workshop 'El farolillo rojo' at the Iván de Vargas Municipal Public Library, Madrid. An opportunity to develop creative writing skills."
+  },
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "6081a6ae5f": {
+  "id": "6eb3ec81a0",
+  "es": {
+   "titulo": "Taller de creación musical. Sonidos del parque",
+   "resumen": "Taller de creación musical en el Espacio Abierto Quinta de los Molinos, Madrid. Explora los sonidos del entorno para crear música."
+  },
+  "en": {
+   "titulo": "Musical Creation Workshop. Sounds of the Park",
+   "resumen": "Musical creation workshop at Espacio Abierto Quinta de los Molinos, Madrid. Explore the sounds of the environment to create music."
+  },
+  "temas": [
+   "musica",
+   "naturaleza",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "f5d8c17268": {
+  "id": "50c5d3b552",
+  "es": {
+   "titulo": "Taller de escritura creativa con Javier Arriero",
+   "resumen": "Taller de escritura creativa en la Biblioteca Miguel Delibes (Madrid) para mayores de 18 años. Explora los pilares de la narración y mejora tus textos. Del 13 al 29 de octubre, de 18:30 a 20:30h. Inscripción previa."
+  },
+  "en": {
+   "titulo": "Creative Writing Workshop with Javier Arriero",
+   "resumen": "Creative writing workshop at Miguel Delibes Library (Madrid) for ages 18+. Explores the pillars of narration and improves your texts. From October 13th to 29th, 6:30 PM to 8:30 PM. Prior registration needed."
+  },
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "5655cd3d6a": {
+  "id": "0df03418b7",
+  "es": {
+   "titulo": "Taller de escritura creativa para niños",
+   "resumen": "Taller de escritura creativa impartido por May González Marqués para niños de 10 a 12 años en la Biblioteca María Lejárraga (Madrid). Fomenta la imaginación y la expresión escrita."
+  },
+  "en": {
+   "titulo": "Creative Writing Workshop for Children",
+   "resumen": "Creative writing workshop taught by May González Marqués for children aged 10-12 at María Lejárraga Library (Madrid). Encourages imagination and written expression."
+  },
+  "temas": [
+   "libros",
+   "ninos",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "b3030ddedb": {
+  "id": "b17939ec69",
+  "es": {
+   "titulo": "Taller de Halloween: Guirnalda de fantasmas",
+   "resumen": "Taller de manualidades de Halloween para niños de 4 a 10 años en Madrid. Crea una guirnalda de fantasmas y da rienda suelta a la creatividad. Duración: 90 min."
+  },
+  "en": {
+   "titulo": "Halloween Workshop: Ghost Garland",
+   "resumen": "Halloween craft workshop for children aged 4 to 10 in Madrid. Create a ghost garland and unleash creativity. Duration: 90 min."
+  },
+  "temas": [
+   "ninos",
+   "fiestas",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "38534630fd": {
+  "id": "7ad884e4e7",
+  "es": {
+   "titulo": "Taller de historia de la música Pop-Rock",
+   "resumen": "Taller sobre la historia de la música Pop-Rock en la Biblioteca María Lejárraga (Madrid). Un recorrido por los géneros que marcaron épocas."
+  },
+  "en": {
+   "titulo": "History of Pop-Rock Music Workshop",
+   "resumen": "Workshop on the history of Pop-Rock music at María Lejárraga Library (Madrid). A journey through the genres that defined eras."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "be64b1f534": {
+  "id": "4d4d7c5ee1",
+  "es": {
+   "titulo": "Taller de Historia y Arte: Madrid, ciudad en transformación",
+   "resumen": "Taller histórico-artístico en Madrid que recorre la evolución de la ciudad desde la Edad Media hasta la actualidad. Seis sesiones los domingos de noviembre a las 11:30h. Requiere inscripción."
+  },
+  "en": {
+   "titulo": "History and Art Workshop: Madrid, City in Transformation",
+   "resumen": "Historical-artistic workshop in Madrid tracing the city's evolution from the Middle Ages to the present. Six sessions on Sundays in November at 11:30 AM. Registration required."
+  },
+  "temas": [
+   "cultura",
+   "museos",
+   "rutas"
+  ],
+  "a_cubierto": true
+ },
+ "99c7e1b90d": {
+  "id": "0b5e5039e0",
+  "es": {
+   "titulo": "Taller de huerto familiar",
+   "resumen": "Taller familiar en Madrid para aprender sobre huertos urbanos, concienciación ambiental y hábitos saludables. Dirigido a familias con menores de 6 a 12 años. Duración: 1.5 horas. Requiere inscripción."
+  },
+  "en": {
+   "titulo": "Family Garden Workshop",
+   "resumen": "Family workshop in Madrid to learn about urban gardens, environmental awareness, and healthy habits. Aimed at families with children aged 6-12. Duration: 1.5 hours. Registration required."
+  },
+  "temas": [
+   "naturaleza",
+   "ninos",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "5c1ed31f6c": {
+  "id": "2eb19ef881",
+  "es": {
+   "titulo": "Taller de iniciación a castañuelas (tarde)",
+   "resumen": "Taller de iniciación al toque de castañuelas en la Biblioteca Musical Víctor Espinós, Madrid. Aprende los fundamentos de este instrumento tradicional. Turno de tarde."
+  },
+  "en": {
+   "titulo": "Introduction to Castanets Workshop (Afternoon)",
+   "resumen": "Introduction to playing castanets workshop at Víctor Espinós Musical Library, Madrid. Learn the basics of this traditional instrument. Afternoon session."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "4c4f92568e": {
+  "id": "6f03be85df",
+  "es": {
+   "titulo": "Taller de iniciación a castañuelas (mañana)",
+   "resumen": "Taller de iniciación al toque de castañuelas en la Biblioteca Musical Víctor Espinós, Madrid. Aprende los fundamentos de este instrumento tradicional. Turno de mañana."
+  },
+  "en": {
+   "titulo": "Introduction to Castanets Workshop (Morning)",
+   "resumen": "Introduction to playing castanets workshop at Víctor Espinós Musical Library, Madrid. Learn the basics of this traditional instrument. Morning session."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "ee48276b94": {
+  "id": "66a9a711d1",
+  "es": {
+   "titulo": "Taller de jardinería: el mundo de los bulbos",
+   "resumen": "Taller de jardinería familiar en Madrid para público a partir de 6 años. Aprende a sembrar bulbos de invierno como jacintos y tulipanes. De 11 a 12h. Imprescindible reserva."
+  },
+  "en": {
+   "titulo": "Gardening Workshop: The World of Bulbs",
+   "resumen": "Family gardening workshop in Madrid for ages 6+. Learn to plant winter bulbs like hyacinths and tulips. From 11 AM to 12 PM. Reservation essential."
+  },
+  "temas": [
+   "naturaleza",
+   "ninos",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "6ee4b1d781": {
+  "id": "bdc36b4e4f",
+  "es": {
+   "titulo": "Taller de lectura: Schrödinger y Galileo",
+   "resumen": "Taller de lectura en Madrid sobre el libro 'Erwin Schrödinger y el salto espacios-tiempo de Galileo Galilei'. Explora la conexión entre ciencia, literatura y filosofía. Duración: 120 min. Entrada libre."
+  },
+  "en": {
+   "titulo": "Reading Workshop: Schrödinger and Galileo",
+   "resumen": "Reading workshop in Madrid on the book 'Erwin Schrödinger and the Space-Time Jump of Galileo Galilei'. Explores the connection between science, literature, and philosophy. Duration: 120 min. Free entry."
+  },
+  "temas": [
+   "libros",
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true
+ },
+ "707cea2bd5": {
+  "id": "d567a070d3",
+  "es": {
+   "titulo": "Taller de Locución Poética",
+   "resumen": "Taller de locución poética en la Biblioteca Miguel Delibes (Madrid). Una oportunidad para explorar la expresión vocal y la interpretación de la poesía."
+  },
+  "en": {
+   "titulo": "Poetic Voice Acting Workshop",
+   "resumen": "Poetic voice acting workshop at Miguel Delibes Library (Madrid). An opportunity to explore vocal expression and poetry interpretation."
+  },
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "3b28814c0d": {
+  "id": "f5fb1dff26",
+  "es": {
+   "titulo": "Taller de Memoria en la Biblioteca Miguel Delibes",
+   "resumen": "Taller de memoria en la Biblioteca Miguel Delibes (Madrid). Ejercicios y técnicas para mantener la agilidad mental y potenciar la capacidad de recuerdo."
+  },
+  "en": {
+   "titulo": "Memory Workshop at Miguel Delibes Library",
+   "resumen": "Memory workshop at Miguel Delibes Library (Madrid). Exercises and techniques to maintain mental agility and enhance recall."
+  },
+  "temas": [
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "ab3ab84cf2": {
+  "id": "fb1ae6ec94",
+  "es": {
+   "titulo": "Taller de poesía en la Biblioteca Francisco Ayala",
+   "resumen": "Taller de poesía en la Biblioteca Francisco Ayala (Madrid) para estudiar figuras poéticas y crear textos. Se imparte quincenalmente los miércoles de 11 a 12:30h. Requiere inscripción."
+  },
+  "en": {
+   "titulo": "Poetry Workshop at Francisco Ayala Library",
+   "resumen": "Poetry workshop at Francisco Ayala Library (Madrid) to study poetic devices and create texts. Held bi-weekly on Wednesdays from 11 AM to 12:30 PM. Registration required."
+  },
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true
  }
 }

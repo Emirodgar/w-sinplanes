@@ -58,5 +58,25 @@
   "confianza": 0.5,
   "fuente": "20minutos (Cultura)",
   "url": "https://www.20minutos.es/musica/rosalia-daddy-yankee-entre-los-artistas-que-actuaran-los-latin-grammy-2026_7051210_0.html"
+ },
+ {
+  "id": "f5282604df",
+  "titulo": "Casting para película en Murcia",
+  "inicio": "2026-11-06",
+  "municipio": null,
+  "provincia": "Región de Murcia",
+  "confianza": 0.5,
+  "fuente": "La Verdad (Culturas)",
+  "url": "https://www.laverdad.es/culturas/cine/abre-casting-pelicula-rodar-murcia-noviembre-perfil-20261027085503-nt.html"
+ },
+ {
+  "id": "693071db4f",
+  "titulo": "Piel de Lava presenta 'Petróleo' y 'Parlamento' en Barcelona y Girona",
+  "inicio": "2026-10-27",
+  "municipio": "Barcelona, Salt",
+  "provincia": "Barcelona, Girona",
+  "confianza": 0.5,
+  "fuente": "Ara (Cultura)",
+  "url": "https://www.ara.cat/cultura/teatre/piel-lava-aterra-barcelona-totes-entrades-venudes_1_5890761.html"
  }
 ]

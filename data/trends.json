@@ -32,6 +32,16 @@
    ]
   },
   {
+   "term": "manifestación",
+   "traffic": 20000,
+   "lastSeen": "2026-10-27",
+   "news": [
+    "Jóvenes radicales siembran el caos y se adueñan del centro de Bilbao con barricadas de fuego",
+    "26_0773 17 personas detenidas y una investigada por los disturbios de ayer en Bilbao",
+    "El Gobierno Vasco sitúa a \"grupos organizados vascos\" detrás de los altercados de Bilbao en los que participaron alrededor de 300 jóvenes"
+   ]
+  },
+  {
    "term": "el telediario de nuestras vidas",
    "traffic": 10000,
    "lastSeen": "2026-10-21",
@@ -302,6 +312,16 @@
    ]
   },
   {
+   "term": "estados unidos",
+   "traffic": 2000,
+   "lastSeen": "2026-10-27",
+   "news": [
+    "EE.UU. tiene planes para ataques de gran envergadura contra Irán si Trump así lo decide",
+    "Los iraníes afrontan una angustiosa espera ante la inminente amenaza de un ataque",
+    "La \"Furia Épica\" se olvidó de Ormuz: el estrecho, el arma más letal de Irán en una \"guerra relámpago\" que ya dura casi ocho meses"
+   ]
+  },
+  {
    "term": "marta riesco",
    "traffic": 1000,
    "lastSeen": "2026-10-20",
@@ -527,6 +547,26 @@
     "Una estudiante de la UPV desarrolla un sistema de rehabilitación sostenible de edificios afectados por la DANA",
     "Una estudiante de la UPV crea un sistema para estudiar los daños de la dana y facilitar la rehabilitación de edificios",
     "Crear un \"cortafuegos\" para proteger a los estudiantes de Hai Phong en el entorno digital."
+   ]
+  },
+  {
+   "term": "georgina rodríguez",
+   "traffic": 1000,
+   "lastSeen": "2026-10-27",
+   "news": [
+    "Georgina Rodríguez presume de su mayor lujo y no tiene nada que ver con sus joyas ni sus viajes en jet privado",
+    "Georgina Rodríguez protagonista de lo nuevo de Calzedonia",
+    "Cómo cambiar un look sin cambiar de ropa: el truco facilísimo de Georgina Rodríguez que todas podemos llevar a cabo"
+   ]
+  },
+  {
+   "term": "rosanna zanetti",
+   "traffic": 1000,
+   "lastSeen": "2026-10-27",
+   "news": [
+    "La hija de David Bisbal y Rosanna Zanetti cumple 6 años: así ha sido su fiesta y las fotos que muestran cómo ha crecido",
+    "La tierna felicitación de David Bisbal a su hija en un nuevo cumpleaños a miles de kilómetros de casa: \"No me puedo creer que esta ternurita llegara a nuestros brazos\"",
+    "El tierno mensaje de David Bisbal a Bianca, su hija con Rosanna Zanetti, que cumple seis años: \"No me lo puedo creer\""
    ]
   },
   {
@@ -816,6 +856,26 @@
     "Maxi López: \"Yo tuve de entrenador a Simeone. Si soy Julián, me voy al Barça\"",
     "\"¿Julián? Tuve de entrenador al Cholo, y yo me voy al Barcelona\"",
     "Maxi López se moja sobre Julián: \"Yo lo tuve de entrenador al Cholo. Y yo me voy al Barcelona...\""
+   ]
+  },
+  {
+   "term": "clasificacion final balon de oro",
+   "traffic": 500,
+   "lastSeen": "2026-10-27",
+   "news": [
+    "El pueblo elige: Mbappé, Balón de Oro",
+    "La distancia entre Kane y Mbappé por el Balón de Oro fue de menos de 41 puntos",
+    "Dos años de boicot y una paz negociada: el Real Madrid se reconcilia con el Balón de Oro pese a la derrota de Kylian Mbappé"
+   ]
+  },
+  {
+   "term": "ampuero",
+   "traffic": 500,
+   "lastSeen": "2026-10-27",
+   "news": [
+    "Un amplio dispositivo busca por tierra, agua y aire a una vecina de 51 años desaparecida en Ampuero",
+    "Buscan a una mujer de 51 años desaparecida en Ampuero (Cantabria)",
+    "Emergencias busca a una mujer desaparecida en Ampuero"
    ]
   },
   {
@@ -1447,33 +1507,13 @@
    ]
   },
   {
-   "term": "georgina rodríguez",
-   "traffic": 200,
-   "lastSeen": "2026-10-27",
-   "news": [
-    "Georgina Rodríguez presume de su mayor lujo y no tiene nada que ver con sus joyas ni sus viajes en jet privado",
-    "Georgina Rodríguez protagonista de lo nuevo de Calzedonia",
-    "Cómo cambiar un look sin cambiar de ropa: el truco facilísimo de Georgina Rodríguez que todas podemos llevar a cabo"
-   ]
-  },
-  {
-   "term": "clasificacion final balon de oro",
-   "traffic": 200,
-   "lastSeen": "2026-10-27",
-   "news": [
-    "La clasificación final del Balón de Oro: Mbappé superó a Lamine Yamal",
-    "El Real Madrid arropa a Mbappé tras perder el Balón de Oro: «Tú eres el más grande del mundo»",
-    "Dos años de boicot y una paz negociada: el Real Madrid se reconcilia con el Balón de Oro pese a la derrota de Kylian Mbappé"
-   ]
-  },
-  {
    "term": "alberto molina",
    "traffic": 200,
    "lastSeen": "2026-10-27",
    "news": [
     "Fallece Alberto Molina: una vida de amor y pasión por el CD Tenerife",
     "Fallece a los 83 años Alberto Molina, futbolista con más partidos en la historia del CD Tenerife",
-    "Fallece Alberto Molina, jugador con más partidos en la historia del CD Tenerife"
+    "Muere Alberto Molina, el jugador con más partidos de la historia del CD Tenerife"
    ]
   },
   {
@@ -1481,9 +1521,9 @@
    "traffic": 200,
    "lastSeen": "2026-10-27",
    "news": [
-    "Volvochefens jättesmäll – satsade miljoner på egna aktien",
+    "Håkan Samuelsson miljontankar i Volvo Cars",
     "Köpte aktier för miljoner – nu rasar Volvochefens investering",
-    "El CEO de Volvo advierte a los fabricantes que siguen apostando por los motores de gasolina y diésel: \"Algunas marcas no sobrevivirán\""
+    "Efter raset: Håkan Samuelsson handlar aktier för 3,2 miljoner"
    ]
   },
   {
@@ -1514,6 +1554,16 @@
     "Supera los 400.000 km con su Nissan Qashqai con motor diésel 1.5: \"Es uno de los coches más fiables y económicos que he tenido\"",
     "Iván, mecánico, revela el truco para que el vehículo pase la prueba de emisiones en la ITV: \"Hay que encender el aire acondicionado\"",
     "Cómo preparar la ITV en 15 minutos y evitar pagar dos veces la tasa por los defectos más comunes"
+   ]
+  },
+  {
+   "term": "assassin's creed black flag resynced",
+   "traffic": 200,
+   "lastSeen": "2026-10-27",
+   "news": [
+    "AC Black Flag Resynced Title Update 1.0.8 - Patch Notes",
+    "Assassin's Creed: Ubisoft will discuss the future of the series on October 29",
+    "AC4 Black Flag Resynced: New Game Plus explained"
    ]
   },
   {
@@ -1664,6 +1714,16 @@
     "No votes a Eliska en WhatsApp: la Policía Nacional de La Rioja alerta de la estafa que busca controlar tu cuenta",
     "Aviso de la Policía Nacional si una persona cercana te manda este mensaje: cuidado si te piden esto",
     "\"¿Podrías votar por Eliska?\": el inofensivo mensaje de WhatsApp diseñado para robar tu cuenta"
+   ]
+  },
+  {
+   "term": "valdebebas",
+   "traffic": 100,
+   "lastSeen": "2026-10-27",
+   "news": [
+    "El Ayuntamiento recalifica la ciudad del Real Madrid con un informe que calcula mal el beneficio: sube de 1,46 a 98,6 millones",
+    "El \"pelotazo\" en Valdebebas para el Real Madrid que dejará números rojos en el Ayuntamiento por un \"error\" de cálculo",
+    "La recalificación de Valdebebas corre peligro por un descuadre de 97 millones y podría acabar en los tribunales"
    ]
   }
  ]

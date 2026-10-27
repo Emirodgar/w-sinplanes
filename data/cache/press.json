@@ -7625,5 +7625,783 @@
   "src": "prensa-lavanguardia-cultura",
   "publicado": "2026-10-25",
   "es_plan": false
+ },
+ "b7f0ca7147": {
+  "url": "https://www.20minutos.es/musica/rapero-jay-z-protagonizara-intermedio-super-bowl-los-angeles_7053762_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-10-27",
+  "es_plan": true,
+  "titulo": "Jay-Z actuará en el intermedio de la Super Bowl 2027",
+  "resumen": "El rapero estadounidense Jay-Z ha sido anunciado como el artista principal del espectáculo de medio tiempo de la Super Bowl LXI, que se celebrará el 14 de febrero de 2027 en Los Ángeles. El evento promete ser un hito en su carrera musical.",
+  "en": {
+   "titulo": "Jay-Z to perform at the 2027 Super Bowl halftime show",
+   "resumen": "American rapper Jay-Z has been announced as the headliner for the Super Bowl LXI halftime show, taking place on February 14, 2027, in Los Angeles. The event promises to be a milestone in his musical career."
+  },
+  "inicio": "2027-02-14",
+  "fin": "2027-02-14",
+  "hora": null,
+  "lugar": "SoFi Stadium",
+  "municipio": "Inglewood",
+  "provincia": "California",
+  "ambito": "nacional",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "musica",
+   "pantalla"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "2472a7736e": {
+  "url": "https://www.20minutos.es/musica/daniela-garsal-convierte-las-conversaciones-entre-amigas-un-canto-amor-propio-ellas-me-han-ensenado-valorarme_7047266_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-10-27",
+  "es_plan": false
+ },
+ "5477a32da4": {
+  "url": "https://elpais.com/cultura/2026-10-27/el-rapero-macklemore-inicia-su-gira-palestina-libre-tras-el-choque-con-ed-sheeran-y-con-la-aparicion-de-mark-ruffalo.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-10-27",
+  "es_plan": false
+ },
+ "c103277b57": {
+  "url": "https://elpais.com/cultura/2026-10-27/una-ia-puede-detectar-si-otra-ha-escrito-una-novela-preguntas-y-respuestas-sobre-pangram.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-10-27",
+  "es_plan": false
+ },
+ "efd76ff8a1": {
+  "url": "https://elpais.com/cultura/cine/2026-10-27/la-violinista-la-pelicula-espanola-que-gano-en-annecy-es-un-canto-al-amor-y-a-la-musica-en-tiempos-de-guerra.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-10-27",
+  "es_plan": false
+ },
+ "381d5e320e": {
+  "url": "https://elpais.com/cultura/2026-10-27/un-bombardeo-ruso-destruye-en-kiev-discos-autografiados-de-scorpions-the-doors-led-zeppelin-o-chicago.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-10-27",
+  "es_plan": false
+ },
+ "1b21884625": {
+  "url": "https://www.lavanguardia.com/cultura/20261027/11668838/sonar-anuncia-propia-muerte.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-10-27",
+  "es_plan": false
+ },
+ "c68aa96a14": {
+  "url": "https://www.lavanguardia.com/cultura/20261027/11668782/plensa-recupera-libro-lujo-8-000-euros-ejemplar-macbeth-escenografio-liceu.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-10-27",
+  "es_plan": false
+ },
+ "6b6403eeae": {
+  "url": "https://www.lavanguardia.com/encatala/20261027/11668779/plensa-recupera-llibre-luxe-8-000-euros-l-exemplar-macbeth-escenografiar-liceu.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-10-27",
+  "es_plan": false
+ },
+ "02b3852e8a": {
+  "url": "https://www.lavanguardia.com/cultura/20261027/11668950/almadia-topetazo-ia.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-10-27",
+  "es_plan": false
+ },
+ "0ca13adc5f": {
+  "url": "https://www.ara.cat/cultura/musica/mushkaa-nom-cartell-canet-rock_25_5891624.html",
+  "fuente": "Ara (Cultura)",
+  "src": "prensa-ara-cultura",
+  "publicado": "2026-10-27",
+  "es_plan": true,
+  "titulo": "Mushka, primer nombre del cartel de Canet Rock 2027",
+  "resumen": "El Canet Rock ha anunciado a Mushka, referente del pop urbano en catalán, como el primer artista confirmado para su edición del 3 de julio de 2027. El festival ya ha vendido más de 10.000 entradas.",
+  "en": {
+   "titulo": "Mushka, first name on the Canet Rock 2027 lineup",
+   "resumen": "Canet Rock has announced Mushka, a leading figure in Catalan urban pop, as the first confirmed artist for its July 3, 2027 edition. The festival has already sold over 10,000 tickets."
+  },
+  "inicio": "2027-07-03",
+  "fin": "2027-07-03",
+  "hora": null,
+  "lugar": null,
+  "municipio": "Canet de Mar",
+  "provincia": "Barcelona",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "musica",
+   "fiestas"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "0e76f6a787": {
+  "url": "https://www.ara.cat/cultura/musica/the-tyets-presentara-nou-disc-10-d-abril-festival-strenes_25_5891599.html",
+  "fuente": "Ara (Cultura)",
+  "src": "prensa-ara-cultura",
+  "publicado": "2026-10-27",
+  "es_plan": true,
+  "titulo": "The Tyets presentará nuevo disco en el Festival Strenes",
+  "resumen": "The Tyets estrenarán su nuevo disco el 10 de abril en el Festival Strenes, en la sala La Mirona de Salt. El nuevo trabajo marca una nueva etapa artística para la banda.",
+  "en": {
+   "titulo": "The Tyets to present new album at Festival Strenes",
+   "resumen": "The Tyets will premiere their new album on April 10 at Festival Strenes, in La Mirona hall in Salt. The new work marks a new artistic stage for the band."
+  },
+  "inicio": "2027-04-10",
+  "fin": "2027-04-10",
+  "hora": null,
+  "lugar": "La Mirona",
+  "municipio": "Salt",
+  "provincia": "Girona",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "85f49cc8d1": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/27/amaral-encabeza-cartel-festival-organiza-sindicato-inquilinas-vivienda-2063148.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-10-27",
+  "es_plan": true,
+  "titulo": "Amaral y otros artistas en festival por el derecho a la vivienda",
+  "resumen": "Amaral encabezará un festival en el Palacio Vistalegre de Madrid el 15 de noviembre, junto a Rozalén, Rodrigo Cuevas y Zahara, entre otros, para reivindicar el derecho a la vivienda.",
+  "en": {
+   "titulo": "Amaral and other artists at festival for the right to housing",
+   "resumen": "Amaral will headline a festival at Palacio Vistalegre in Madrid on November 15, alongside Rozalén, Rodrigo Cuevas, and Zahara, among others, to advocate for the right to housing."
+  },
+  "inicio": "2026-11-15",
+  "fin": "2026-11-15",
+  "hora": null,
+  "lugar": "Palacio Vistalegre",
+  "municipio": "Madrid",
+  "provincia": "Madrid",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "23c668c495": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/27/leire-martinez-sale-defensa-amaia-montero-criticas-concierto-zaragoza-estamos-terriblemente-doloroso-2063062.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-10-27",
+  "es_plan": false
+ },
+ "27c7eb57ad": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/27/leticia-sabater-noche-halloween-pueblo-zaragoza-ateca-2062918.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-10-27",
+  "es_plan": true,
+  "titulo": "Leticia Sabater en Halloween en Ateca (Zaragoza)",
+  "resumen": "Leticia Sabater actuará la noche de Halloween, este sábado 31 de octubre, en el pabellón municipal de Ateca (Zaragoza). El evento gratuito incluirá concierto, DJs y más sorpresas.",
+  "en": {
+   "titulo": "Leticia Sabater on Halloween in Ateca (Zaragoza)",
+   "resumen": "Leticia Sabater will perform on Halloween night, this Saturday, October 31, at the municipal pavilion in Ateca (Zaragoza). The free event will include a concert, DJs, and more surprises."
+  },
+  "inicio": "2026-10-31",
+  "fin": "2026-10-31",
+  "hora": "23:00",
+  "lugar": "Pabellón municipal",
+  "municipio": "Ateca",
+  "provincia": "Zaragoza",
+  "ambito": "local",
+  "gratis": true,
+  "precio": null,
+  "temas": [
+   "musica",
+   "fiestas"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "41c4466b2a": {
+  "url": "https://www.elnortedecastilla.es/culturas/seminci/programa/programa-completo-seminci-2026-martes-octubre-20261027074041-nt.html",
+  "fuente": "El Norte de Castilla (Culturas)",
+  "src": "prensa-nortecastilla-culturas",
+  "publicado": "2026-10-27",
+  "es_plan": true,
+  "titulo": "Seminci 2026: Programa del martes 27 de octubre",
+  "resumen": "Consulta el programa completo de la quinta jornada de la Semana Internacional del Cine de Valladolid, que se celebra hoy.",
+  "en": {
+   "titulo": "Seminci 2026: Program for Tuesday, October 27",
+   "resumen": "Check out the full program for the fifth day of the Valladolid International Film Week, taking place today."
+  },
+  "inicio": "2026-10-27",
+  "fin": "2026-10-27",
+  "hora": null,
+  "lugar": null,
+  "municipio": "Valladolid",
+  "provincia": "Valladolid",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "e1e58b569a": {
+  "url": "https://www.diariovasco.com/culturas/musica/recitales-piano-solitario-prioridad-20261027000516-nt.html",
+  "fuente": "El Diario Vasco (Culturas)",
+  "src": "prensa-diariovasco-culturas",
+  "publicado": "2026-10-27",
+  "es_plan": true,
+  "titulo": "Recital de piano en Kursaal Eszena",
+  "resumen": "El pianista polaco inaugura la temporada de conciertos de música clásica de Kursaal Eszena con un recital dedicado a Brahms y Beethoven.",
+  "en": {
+   "titulo": "Piano Recital at Kursaal Eszena",
+   "resumen": "The Polish pianist opens the classical music concert season at Kursaal Eszena with a recital dedicated to Brahms and Beethoven."
+  },
+  "inicio": "2026-10-27",
+  "fin": "2026-10-27",
+  "hora": null,
+  "lugar": "Kursaal Eszena",
+  "municipio": null,
+  "provincia": "Gipuzkoa",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "776670df5d": {
+  "url": "https://www.lasprovincias.es/culturas/tv/thriller-romantico-can-yaman-estrena-espana-llegara-20261021004901-nt.html",
+  "fuente": "Las Provincias (Culturas)",
+  "src": "prensa-lasprovincias-culturas",
+  "publicado": "2026-10-27",
+  "es_plan": false
+ },
+ "52ae2e7ab6": {
+  "url": "https://www.lasprovincias.es/culturas/tv/senor-anillos-anillos-poder-estrena-epico-trailer-20261022004412-nt.html",
+  "fuente": "Las Provincias (Culturas)",
+  "src": "prensa-lasprovincias-culturas",
+  "publicado": "2026-10-27",
+  "es_plan": false
+ },
+ "f5282604df": {
+  "url": "https://www.laverdad.es/culturas/cine/abre-casting-pelicula-rodar-murcia-noviembre-perfil-20261027085503-nt.html",
+  "fuente": "La Verdad (Culturas)",
+  "src": "prensa-laverdad-culturas",
+  "publicado": "2026-10-27",
+  "es_plan": true,
+  "titulo": "Casting para película en Murcia",
+  "resumen": "Se abre un casting para una película que se rodará en Murcia a partir del 6 de noviembre. Se buscan perfiles específicos para la grabación.",
+  "en": {
+   "titulo": "Casting Call for Film in Murcia",
+   "resumen": "A casting call has opened for a film to be shot in Murcia starting November 6th. Specific profiles are being sought for the recording."
+  },
+  "inicio": "2026-11-06",
+  "fin": "2026-11-06",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": "Región de Murcia",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.5
+ },
+ "5e1f1ff36d": {
+  "url": "https://www.eldiariomontanes.es/culturas/coro-joven-santander-distinguido-burgos-voces-coreografias-20261027072246-nt.html",
+  "fuente": "El Diario Montañés (Culturas)",
+  "src": "prensa-diariomontanes-culturas",
+  "publicado": "2026-10-27",
+  "es_plan": false
+ },
+ "5c89173e46": {
+  "url": "https://www.eldiariomontanes.es/culturas/cine/filmoteca-cantabria-viajara-mayo-peliculas-municipios-20261027071136-nt.html",
+  "fuente": "El Diario Montañés (Culturas)",
+  "src": "prensa-diariomontanes-culturas",
+  "publicado": "2026-10-27",
+  "es_plan": false
+ },
+ "9a17f07f15": {
+  "url": "https://www.europapress.es/cultura/noticia-rey-preside-apertura-curso-reales-academias-primer-acto-operarse-cataratas-20261026194757.html",
+  "fuente": "Europa Press (Cultura)",
+  "src": "prensa-europapress-cultura",
+  "publicado": "2026-10-26",
+  "es_plan": false
+ },
+ "f63d61b219": {
+  "url": "https://www.europapress.es/cultura/noticia-litigio-pissarro-thyssen-robado-nazis-queda-visto-sentencia-eeuu-26-anos-despues-20261026193434.html",
+  "fuente": "Europa Press (Cultura)",
+  "src": "prensa-europapress-cultura",
+  "publicado": "2026-10-26",
+  "es_plan": false
+ },
+ "8ec78af85c": {
+  "url": "https://www.20minutos.es/cultura/una-foto-juan-carlos-i-dedicada-franco-varios-retratos-dictador-subasta-entre-los-objetos-meiras_7053722_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-10-26",
+  "es_plan": true,
+  "titulo": "Subasta de objetos del Pazo de Meirás en Madrid",
+  "resumen": "Se subastan 689 objetos retirados del Pazo de Meirás en Madrid, incluyendo retratos de Franco y una foto de Juan Carlos I, con precios desde 20 euros.",
+  "en": {
+   "titulo": "Auction of Objects from Pazo de Meirás in Madrid",
+   "resumen": "689 objects removed from Pazo de Meirás are being auctioned in Madrid, including portraits of Franco and a photo of Juan Carlos I, with starting prices from 20 euros."
+  },
+  "inicio": "2026-10-27",
+  "fin": "2026-10-27",
+  "hora": null,
+  "lugar": "Magna Art Auctions",
+  "municipio": "Madrid",
+  "provincia": "Madrid",
+  "ambito": "local",
+  "gratis": null,
+  "precio": "desde 20 euros",
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "e11fd265ff": {
+  "url": "https://www.20minutos.es/musica/fontaines-d-c-consiguen-su-mejor-posicion-las-listas-exitos-espana-con-dopamine-chamber_7053709_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-10-26",
+  "es_plan": false
+ },
+ "bc5104d8de": {
+  "url": "https://www.20minutos.es/artes/fundacion-ibercaja-exhibe-obras-artistas-urbanos-como-banksy-primera-obra-este-genero-zaragoza_7053571_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-10-26",
+  "es_plan": false
+ },
+ "d89173002a": {
+  "url": "https://www.20minutos.es/artes/isabel-fernandez-gonzalez-conquista-premio-calderon-barca-por-su-obra-campo-fuerza_7053510_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-10-26",
+  "es_plan": false
+ },
+ "ac47aba42b": {
+  "url": "https://www.20minutos.es/musica/grupo-vasco-exkixu-vuelve-musica-tres-decadas-despues-su-disolucion_7053470_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-10-26",
+  "es_plan": true,
+  "titulo": "Regreso del grupo vasco Exkixu con concierto en Bilbao",
+  "resumen": "El grupo vasco Exkixu regresa a la música 30 años después con nuevos proyectos y un concierto el 17 de abril de 2027 en el Bilbao Arena.",
+  "en": {
+   "titulo": "Basque Band Exkixu Returns with Concert in Bilbao",
+   "resumen": "The Basque band Exkixu returns to music 30 years after their dissolution with new projects and a concert on April 17, 2027, at the Bilbao Arena."
+  },
+  "inicio": "2027-04-17",
+  "fin": "2027-04-17",
+  "hora": null,
+  "lugar": "Bilbao Arena",
+  "municipio": "Bilbao",
+  "provincia": "Bizkaia",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "2d5fb3f812": {
+  "url": "https://elpais.com/cultura/2026-10-26/talavante-primer-contratado-para-san-isidro-2027-que-injustos-son-los-empresarios-de-las-ventas.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-10-26",
+  "es_plan": false
+ },
+ "dc757921c4": {
+  "url": "https://elpais.com/cultura/2026-10-26/isabel-fernandez-gonzalez-gana-el-premio-nacional-calderon-de-la-barca-de-teatro-por-campo-de-fuerzas.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-10-26",
+  "es_plan": false
+ },
+ "1ab3ce9fdc": {
+  "url": "https://elpais.com/suscripciones/elpaismas/experiencias/2026-10-26/gustavo-dudamel-y-la-sinfonica-nacional-juvenil-de-venezuela-en-madrid.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-10-26",
+  "es_plan": true,
+  "titulo": "Gustavo Dudamel dirige la Sinfónica Nacional Juvenil de Venezuela en Madrid",
+  "resumen": "El prestigioso director Gustavo Dudamel regresa a Madrid para dirigir la Sinfónica Nacional Juvenil de Venezuela en el Auditorio Nacional de Música. Interpretará la Sinfonía nº 7 de Shostakóvich.",
+  "en": {
+   "titulo": "Gustavo Dudamel Conducts Venezuela's Simón Bolívar Symphony Orchestra in Madrid",
+   "resumen": "Renowned conductor Gustavo Dudamel returns to Madrid to lead the Simón Bolívar Symphony Orchestra of Venezuela at the National Music Auditorium. They will perform Shostakovich's Symphony No. 7."
+  },
+  "inicio": "2026-11-05",
+  "fin": "2026-11-05",
+  "hora": null,
+  "lugar": "Auditorio Nacional de Música",
+  "municipio": "Madrid",
+  "provincia": "Madrid",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "69e52b1ca0": {
+  "url": "https://www.lavanguardia.com/cultura/20261026/11668763/fernando-eimbcke-macondo-park-shakira-deberia-haber-puesto-cine.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-10-26",
+  "es_plan": false
+ },
+ "b6254d3461": {
+  "url": "https://www.lavanguardia.com/cultura/20261026/11668743/aknaten-susanna-maelkki-lise-davidsen-xabier-anduaga-premios-amics-liceu.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-10-26",
+  "es_plan": false
+ },
+ "41d65995ed": {
+  "url": "https://www.lavanguardia.com/cultura/20261026/11668746/liceu-reubica-funciones-previstas-11-noviembre-dia-huelga-general.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-10-26",
+  "es_plan": true,
+  "titulo": "El Liceu de Barcelona traslada una función por huelga general",
+  "resumen": "El Gran Teatre del Liceu de Barcelona ha reprogramado la ópera 'I Capuleti e i Montecchi' del 11 al 12 de noviembre debido a la huelga general convocada en todo el país.",
+  "en": {
+   "titulo": "Barcelona's Liceu Opera House Reschedules Performance Due to General Strike",
+   "resumen": "The Gran Teatre del Liceu in Barcelona has rescheduled the opera 'I Capuleti e i Montecchi' from November 11th to November 12th due to a nationwide general strike."
+  },
+  "inicio": "2026-11-12",
+  "fin": "2026-11-12",
+  "hora": "19:30",
+  "lugar": "Gran Teatre del Liceu",
+  "municipio": "Barcelona",
+  "provincia": "Barcelona",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "1117f4dd61": {
+  "url": "https://www.lavanguardia.com/cultura/20261026/11668705/museos-vaticanos-desembarcan-barcelona-artistas-volvieron-templo-siglo-xx.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-10-26",
+  "es_plan": false
+ },
+ "678db317c1": {
+  "url": "https://www.lavanguardia.com/cultura/20261026/11668492/by-invitation-internacionaliza-apuesta-mujeres-artistas.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-10-26",
+  "es_plan": true,
+  "titulo": "Feria de arte By Invitation en Barcelona del 5 al 8 de noviembre",
+  "resumen": "La 7ª edición de la feria de arte moderno y contemporáneo By Invitation se celebrará en Barcelona del 5 al 8 de noviembre, con enfoque en la internacionalización y la presencia de mujeres artistas.",
+  "en": {
+   "titulo": "By Invitation Art Fair in Barcelona from November 5th to 8th",
+   "resumen": "The 7th edition of the modern and contemporary art fair By Invitation will take place in Barcelona from November 5th to 8th, focusing on internationalization and the presence of women artists."
+  },
+  "inicio": "2026-11-05",
+  "fin": "2026-11-08",
+  "hora": null,
+  "lugar": "Círculo Ecuestre",
+  "municipio": "Barcelona",
+  "provincia": "Barcelona",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "f7a204665e": {
+  "url": "https://www.lavanguardia.com/cultura/20261026/11668485/prado-inaugura-itinerario-muestra-relacion-arte-ingenieria-civil.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-10-26",
+  "es_plan": false
+ },
+ "4f8e666e4f": {
+  "url": "https://www.lavanguardia.com/cultura/20261026/11668245/mariana-enriquez-conversacion-con-la-oscuridad-fantasmas-libertad.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-10-26",
+  "es_plan": false
+ },
+ "f3bd5413cb": {
+  "url": "https://www.lavanguardia.com/cultura/20261026/11668278/els-mals-noms-premio-mejor-largometraje-ficcion-som-cinema.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-10-26",
+  "es_plan": false
+ },
+ "e6cd66cd90": {
+  "url": "https://www.ara.cat/cultura/art/jaume-plensa-tots-macbeth-vida_1_5891153.html",
+  "fuente": "Ara (Cultura)",
+  "src": "prensa-ara-cultura",
+  "publicado": "2026-10-26",
+  "es_plan": false
+ },
+ "693071db4f": {
+  "url": "https://www.ara.cat/cultura/teatre/piel-lava-aterra-barcelona-totes-entrades-venudes_1_5890761.html",
+  "fuente": "Ara (Cultura)",
+  "src": "prensa-ara-cultura",
+  "publicado": "2026-10-26",
+  "es_plan": true,
+  "titulo": "Piel de Lava presenta 'Petróleo' y 'Parlamento' en Barcelona y Girona",
+  "resumen": "La compañía argentina Piel de Lava presenta sus aclamados espectáculos 'Petróleo' en La Villarroel de Barcelona y 'Parlamento' en el Teatre de Salt (Girona), ambos con entradas agotadas.",
+  "en": {
+   "titulo": "Piel de Lava Presents 'Petróleo' and 'Parlamento' in Barcelona and Girona",
+   "resumen": "The Argentine company Piel de Lava is presenting their acclaimed shows 'Petróleo' at La Villarroel in Barcelona and 'Parlamento' at the Teatre de Salt (Girona), both with sold-out tickets."
+  },
+  "inicio": "2026-10-27",
+  "fin": "2026-10-28",
+  "hora": null,
+  "lugar": "La Villarroel, Teatre de Salt",
+  "municipio": "Barcelona, Salt",
+  "provincia": "Barcelona, Girona",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.5
+ },
+ "bed30a47fb": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/26/muere-walter-koenig-tripulante-chekov-universo-star-trek-2063074.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-10-26",
+  "es_plan": false
+ },
+ "fade16c7f3": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/26/toto-participante-masterchef-junior-ataque-redes-eliminacion-sigo-teniendo-fe-2062908.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-10-26",
+  "es_plan": false
+ },
+ "9a54f3017e": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/26/torero-roca-rey-expedientado-cohetes-ruidos-fiesta-cumpleanos-2063059.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-10-26",
+  "es_plan": false
+ },
+ "9605900a5e": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/26/paloma-san-basilio-dulcinea-teatro-principal-zaragoza-cervantes-feminista-2062936.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-10-26",
+  "es_plan": true,
+  "titulo": "Dulcinea: Paloma San Basilio en el Teatro Principal de Zaragoza",
+  "resumen": "Paloma San Basilio presenta 'Dulcinea', un espectáculo que combina interpretación y música sobre la figura femenina de Don Quijote. Podrá verse en el Teatro Principal de Zaragoza del 5 al 8 de noviembre.",
+  "en": {
+   "titulo": "Dulcinea: Paloma San Basilio at the Teatro Principal of Zaragoza",
+   "resumen": "Paloma San Basilio presents 'Dulcinea', a show combining acting and music about the female figure of Don Quixote. It can be seen at the Teatro Principal of Zaragoza from November 5th to 8th."
+  },
+  "inicio": "2026-11-05",
+  "fin": "2026-11-08",
+  "hora": null,
+  "lugar": "Teatro Principal",
+  "municipio": "Zaragoza",
+  "provincia": "Zaragoza",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "244e24d9ff": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/26/jordi-wild-desvela-entrevistas-cuatro-candidatos-gobierno-temas-delicados-jodidos-2062863.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-10-26",
+  "es_plan": false
+ },
+ "54f7902cd1": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/26/banksy-se-instala-durante-tres-meses-patio-infanta-zaragoza-abandera-un-lema-arte-que-no-pidio-permiso-2062960.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-10-26",
+  "es_plan": false
+ },
+ "7e006cb923": {
+  "url": "https://www.heraldo.es/ocio-y-cultura/fotos-exposicion-arte-que-no-pidio-permiso-patio-infanta-zaragoza-2062963-1.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-10-26",
+  "es_plan": false
+ },
+ "2bea57554d": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/26/henar-alvarez-regreso-cielo-con-ella-baja-audiencia-2062840.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-10-26",
+  "es_plan": false
+ },
+ "22c1745bbf": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/26/santiago-auseron-trae-las-canciones-su-disco-nerantzi-teatro-principal-zaragoza-2062928.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-10-26",
+  "es_plan": false
+ },
+ "a80b018ea8": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/26/amaia-montero-recibe-carino-companeros-oreja-gogh-criticas-zaragoza-mundo-aplauso-2062638.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-10-26",
+  "es_plan": false
+ },
+ "1cdcf3e14c": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/26/paco-gonzalez-despido-ser-emisora-jefes-2010-2062897.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-10-26",
+  "es_plan": false
+ },
+ "539ec04148": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/26/critica-pelicula-sentido-sensibilidad-un-eco-jane-austen-2062907.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-10-26",
+  "es_plan": false
+ },
+ "f994909fc7": {
+  "url": "https://www.elnortedecastilla.es/culturas/seminci/seminci-desvela-motivo-picadura-viral-deformo-cara-20261026195043-nt.html",
+  "fuente": "El Norte de Castilla (Culturas)",
+  "src": "prensa-nortecastilla-culturas",
+  "publicado": "2026-10-26",
+  "es_plan": false
+ },
+ "297cb7901a": {
+  "url": "https://www.diariosur.es/culturas/catartica-mezcla-unica-comedia-teatral-stand-up-20261026170256-nt.html",
+  "fuente": "Diario Sur (Culturas)",
+  "src": "prensa-diariosur-culturas",
+  "publicado": "2026-10-26",
+  "es_plan": true,
+  "titulo": "'Catártica': Comedia teatral, 'stand up' y autoficción en Benahavis y Mijas",
+  "resumen": "Sandra Marchena presenta 'Catártica', una obra que mezcla comedia teatral, 'stand up' y autoficción sobre sus experiencias artísticas. Se podrá ver en Benahavis el 27 y en Mijas el 28 de noviembre.",
+  "en": {
+   "titulo": "'Catártica': Theatrical Comedy, Stand-up, and Autofiction in Benahavis and Mijas",
+   "resumen": "Sandra Marchena presents 'Catártica', a play blending theatrical comedy, stand-up, and autofiction about her artistic experiences. It will be shown in Benahavis on the 27th and in Mijas on the 28th of November."
+  },
+  "inicio": "2026-11-27",
+  "fin": "2026-11-28",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": "Málaga",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "e48ee6320e": {
+  "url": "https://www.diariosur.es/culturas/lupi-rara-residencia-pata-teatro-lalone-cineclub-20261026184552-nt.html",
+  "fuente": "Diario Sur (Culturas)",
+  "src": "prensa-diariosur-culturas",
+  "publicado": "2026-10-26",
+  "es_plan": false
+ },
+ "1b7a702961": {
+  "url": "https://www.diariosur.es/culturas/reina-sonia-noruega-visitara-malaga-inaugurar-exposicion-20261026153619-nt.html",
+  "fuente": "Diario Sur (Culturas)",
+  "src": "prensa-diariosur-culturas",
+  "publicado": "2026-10-26",
+  "es_plan": false
+ },
+ "821c63c59a": {
+  "url": "https://www.ideal.es/culturas/almeria/terror-centro-almeria-20261026191215-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-10-26",
+  "es_plan": true,
+  "titulo": "Noche en Negro: Celebración de Halloween en Almería",
+  "resumen": "Almería celebrará el 31 de octubre la Noche en Negro, una edición con más de una treintena de actividades de Halloween para todos los públicos.",
+  "en": {
+   "titulo": "Noche en Negro: Halloween Celebration in Almería",
+   "resumen": "Almería will celebrate the Noche en Negro on October 31st, an event featuring over thirty Halloween activities for all ages."
+  },
+  "inicio": "2026-10-31",
+  "fin": "2026-10-31",
+  "hora": null,
+  "lugar": null,
+  "municipio": "Almería",
+  "provincia": "Almería",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "fiestas",
+   "actividades",
+   "ninos"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "e04a61d7bc": {
+  "url": "https://www.ideal.es/culturas/almeria/fical-2026-oficiales-producciones-nominadas-certamen-nacional-20261026134858-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-10-26",
+  "es_plan": false
  }
 }
