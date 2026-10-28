@@ -154,3 +154,83 @@ curiosidades:
         - "Para elaborar o guia, a Google analisou as avaliações e classificações de restaurantes publicadas no último ano em Atlanta, Chicago, Nova Iorque, São Francisco e Seattle (EUA), Londres, Melbourne, Montreal, Santiago (Chile) e Tóquio."
         - "Além dos restaurantes mais populares de cada cidade, o guia reúne as suas tendências gastronómicas. A nível global regressam os doces clássicos, domina o matcha e ganham força os sabores terrosos e as texturas estaladiças. Por exemplo, as menções a iogurte gelado nas avaliações de Nova Iorque dispararam 320 % e as de hojicha em Londres 114 %."
         - "Deve ler-se como um retrato do que interessa no Google Maps, não como um ranking definitivo de cada cidade."
+
+  - id: cheetah-cub-cam
+    titulo:
+      es: "Cheetah Cub Cam: cachorros de guepardo en directo"
+      en: "Cheetah Cub Cam: live cheetah cubs"
+      fr: "Cheetah Cub Cam : des bébés guépards en direct"
+      de: "Cheetah Cub Cam: Gepardenbabys live"
+      it: "Cheetah Cub Cam: cuccioli di ghepardo in diretta"
+      pt: "Cheetah Cub Cam: crias de chita em direto"
+    fuente: Smithsonian’s National Zoo
+    enlace: https://nationalzoo.si.edu/webcams/cheetah-cub-cam
+    descripcion:
+      es: "Una cámara en directo, las 24 horas, para ver crecer a cinco cachorros de guepardo y a su madre, Zura, en el Smithsonian Conservation Biology Institute (Virginia, EE. UU.)."
+      en: "A live camera, around the clock, to watch five cheetah cubs and their mother, Zura, grow up at the Smithsonian Conservation Biology Institute (Virginia, US)."
+      fr: "Une caméra en direct, 24 heures sur 24, pour voir grandir cinq bébés guépards et leur mère, Zura, au Smithsonian Conservation Biology Institute (Virginie, États-Unis)."
+      de: "Eine Live-Kamera rund um die Uhr, mit der man fünf Gepardenbabys und ihre Mutter Zura im Smithsonian Conservation Biology Institute (Virginia, USA) aufwachsen sehen kann."
+      it: "Una telecamera in diretta, attiva 24 ore su 24, per vedere crescere cinque cuccioli di ghepardo e la loro madre, Zura, allo Smithsonian Conservation Biology Institute (Virginia, USA)."
+      pt: "Uma câmara em direto, 24 horas por dia, para ver crescer cinco crias de chita e a mãe, Zura, no Smithsonian Conservation Biology Institute (Virgínia, EUA)."
+    detalle:
+      es:
+        - "El 5 de octubre de 2026 nacieron en el Smithsonian Conservation Biology Institute, en Front Royal (Virginia), cinco cachorros de guepardo. La Cheetah Cub Cam permite verlos desde cualquier lugar a través de internet."
+        - "Es la misma cámara que utiliza el personal que cuida de los cachorros y de su madre, Zura, para monitorizarlos de forma remota. A veces la guarida aparece vacía, porque Zura puede cambiar de sitio a las crías."
+        - "Según el Smithsonian, quedan menos de 7.000 guepardos en libertad en todo el mundo."
+      en:
+        - "On 5 October 2026, five cheetah cubs were born at the Smithsonian Conservation Biology Institute in Front Royal, Virginia. The Cheetah Cub Cam lets you watch them from anywhere over the internet."
+        - "It is the same camera the keepers use to monitor the cubs and their mother, Zura, remotely. Sometimes the den looks empty, because Zura may move her cubs elsewhere."
+        - "According to the Smithsonian, fewer than 7,000 cheetahs remain in the wild worldwide."
+      fr:
+        - "Le 5 octobre 2026, cinq bébés guépards sont nés au Smithsonian Conservation Biology Institute, à Front Royal (Virginie). La Cheetah Cub Cam permet de les observer de n’importe où via Internet."
+        - "C’est la même caméra que le personnel utilise pour surveiller à distance les petits et leur mère, Zura. Il arrive que la tanière paraisse vide, car Zura peut déplacer ses petits."
+        - "Selon le Smithsonian, il reste moins de 7 000 guépards en liberté dans le monde."
+      de:
+        - "Am 5. Oktober 2026 kamen am Smithsonian Conservation Biology Institute in Front Royal (Virginia) fünf Gepardenbabys zur Welt. Die Cheetah Cub Cam macht es möglich, sie von überall im Internet zu beobachten."
+        - "Es ist dieselbe Kamera, mit der das Pflegepersonal die Jungtiere und ihre Mutter Zura aus der Ferne überwacht. Manchmal wirkt die Höhle leer, weil Zura ihre Jungen umquartieren kann."
+        - "Laut Smithsonian leben weltweit weniger als 7.000 Geparden in freier Wildbahn."
+      it:
+        - "Il 5 ottobre 2026 sono nati cinque cuccioli di ghepardo allo Smithsonian Conservation Biology Institute di Front Royal (Virginia). La Cheetah Cub Cam permette di vederli da qualsiasi luogo via internet."
+        - "È la stessa telecamera che il personale usa per monitorare a distanza i cuccioli e la loro madre, Zura. A volte la tana appare vuota, perché Zura può spostare i piccoli."
+        - "Secondo lo Smithsonian, in tutto il mondo restano meno di 7.000 ghepardi in libertà."
+      pt:
+        - "A 5 de outubro de 2026 nasceram no Smithsonian Conservation Biology Institute, em Front Royal (Virgínia), cinco crias de chita. A Cheetah Cub Cam permite vê-las de qualquer lugar através da internet."
+        - "É a mesma câmara que a equipa usa para monitorizar à distância as crias e a mãe, Zura. Por vezes a toca aparece vazia, porque a Zura pode mudar as crias de sítio."
+        - "Segundo o Smithsonian, restam menos de 7.000 chitas em liberdade em todo o mundo."
+
+  - id: rewindmap
+    titulo:
+      es: "RewindMap: atlas histórico interactivo"
+      en: "RewindMap: interactive historical atlas"
+      fr: "RewindMap : atlas historique interactif"
+      de: "RewindMap: interaktiver Geschichtsatlas"
+      it: "RewindMap: atlante storico interattivo"
+      pt: "RewindMap: atlas histórico interativo"
+    fuente: RewindMap
+    enlace: https://rewindmap.com/
+    descripcion:
+      es: "Un atlas histórico interactivo para recorrer miles de años de historia con un mapa del mundo y una línea temporal, año a año."
+      en: "An interactive historical atlas to travel through thousands of years of history with a world map and a timeline, year by year."
+      fr: "Un atlas historique interactif pour parcourir des milliers d’années d’histoire avec une carte du monde et une frise chronologique, année après année."
+      de: "Ein interaktiver Geschichtsatlas, mit dem man dank Weltkarte und Zeitleiste Jahr für Jahr durch Jahrtausende der Geschichte reisen kann."
+      it: "Un atlante storico interattivo per percorrere migliaia di anni di storia con una mappa del mondo e una linea del tempo, anno per anno."
+      pt: "Um atlas histórico interativo para percorrer milhares de anos de história com um mapa do mundo e uma linha cronológica, ano a ano."
+    detalle:
+      es:
+        - "RewindMap muestra el mundo año tras año: arrastras la línea temporal y el mapa cambia para enseñarte cómo eran los territorios en cada momento. Incluye eventos e historias asociados y capas que se pueden ajustar."
+        - "Sirve igual para curiosear sin rumbo que para situar en el mapa un episodio que acabas de estudiar o leer."
+      en:
+        - "RewindMap shows the world year by year: drag the timeline and the map changes to show what the territories looked like at each moment. It includes related events and stories, and layers you can adjust."
+        - "It works just as well for aimless browsing as for placing on the map an episode you have just studied or read about."
+      fr:
+        - "RewindMap montre le monde année après année : on fait glisser la frise et la carte change pour montrer à quoi ressemblaient les territoires à chaque époque. Il propose des événements et des histoires associés, ainsi que des couches réglables."
+        - "Il convient aussi bien pour flâner sans but que pour situer sur la carte un épisode que l’on vient d’étudier ou de lire."
+      de:
+        - "RewindMap zeigt die Welt Jahr für Jahr: Zieht man die Zeitleiste, ändert sich die Karte und zeigt, wie die Gebiete zu jedem Zeitpunkt aussahen. Dazu gibt es passende Ereignisse und Geschichten sowie einstellbare Ebenen."
+        - "Es eignet sich zum ziellosen Stöbern genauso wie dazu, eine gerade gelernte oder gelesene Episode auf der Karte zu verorten."
+      it:
+        - "RewindMap mostra il mondo anno dopo anno: si trascina la linea del tempo e la mappa cambia per mostrare com’erano i territori in ogni momento. Include eventi e storie collegati e livelli regolabili."
+        - "Va bene sia per curiosare senza meta sia per collocare sulla mappa un episodio appena studiato o letto."
+      pt:
+        - "O RewindMap mostra o mundo ano após ano: arrasta-se a linha cronológica e o mapa muda para mostrar como eram os territórios em cada momento. Inclui eventos e histórias associados e camadas ajustáveis."
+        - "Serve tanto para explorar sem destino como para situar no mapa um episódio que acabou de estudar ou ler."
