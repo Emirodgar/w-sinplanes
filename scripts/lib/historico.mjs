@@ -9,7 +9,9 @@ const day = (v) => (v instanceof Date ? v.toISOString().slice(0, 10) : v ? Strin
 export function readHistorico() {
   const file = path.join(ROOT, 'config/historico.yml');
   if (!existsSync(file)) return {};
-  const doc = yamlLoad(readFileSync(file, 'utf8')) || {};
+  const text = readFileSync(file, 'utf8');
+  if (!/^\s*[^#\s]/m.test(text)) return {}; // solo comentarios: js-yaml 5 falla con un documento vacío
+  const doc = yamlLoad(text) || {};
   const out = {};
   for (const [id, list] of Object.entries(doc)) {
     const eds = (Array.isArray(list) ? list : [])

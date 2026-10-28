@@ -168,15 +168,15 @@ async function main() {
   const events = translated.filter((p) => p.source?.name !== 'sinplanes').sort((a, b) => (a.start || '9999').localeCompare(b.start || '9999'));
   const pending = updateCandidates(events, TODAY, readCitas(), readHistorico());
 
-  // Los planes pasados no se borran: las fuentes dejan de listarlos, pero su página (con el aviso de que ya pasó) sigue accesible.
+  // Ningún plan publicado se borra: si las fuentes dejan de listarlo (porque ya pasó o la agenda lo retira) su página sigue accesible, y al pasar la fecha se muestra el aviso de que ya pasó.
   // Se rescatan de la última publicación; así data/events.json acumula el archivo.
   if (existsSync(path.join(ROOT, 'data/events.json'))) {
     const have = new Set(events.map((p) => p.slug));
-    const archived = JSON.parse(readFileSync(path.join(ROOT, 'data/events.json'), 'utf8')).filter((p) => (p.end || p.start) < TODAY && !have.has(p.slug));
+    const archived = JSON.parse(readFileSync(path.join(ROOT, 'data/events.json'), 'utf8')).filter((p) => !have.has(p.slug));
     if (archived.length) {
       events.push(...archived);
       events.sort((a, b) => (a.start || '9999').localeCompare(b.start || '9999'));
-      log(`Archivo: se conservan ${archived.length} planes ya pasados.`);
+      log(`Archivo: se conservan ${archived.length} planes que las fuentes ya no listan.`);
     }
   }
   if (pending.length) log(`Histórico: ${pending.length} ediciones pasadas por redactar en config/historico.yml (ver data/historico-candidatos.json).`);
