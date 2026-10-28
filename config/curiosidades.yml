@@ -58,22 +58,16 @@ curiosidades:
     detalle:
       es:
         - "En su presentación, TED se pregunta: ¿por qué nos encantan nuestras historias favoritas? ¿Necesitan acaso un principio, un desarrollo y un final, y un personaje que evolucione al concluir?"
-        - "Maestros de la narración exploran nuevas respuestas a esas preguntas ancestrales sobre este arte."
       en:
         - "TED’s own introduction asks: why do we love our favourite stories? Do they really need a beginning, a middle and an end, and a character who changes by the time it is over?"
-        - "Master storytellers explore new answers to those age-old questions about the craft."
       fr:
         - "Dans sa présentation, TED se demande : pourquoi aimons-nous tant nos histoires préférées ? Ont-elles vraiment besoin d’un début, d’un milieu et d’une fin, et d’un personnage qui évolue à la fin ?"
-        - "Des maîtres du récit explorent de nouvelles réponses à ces questions ancestrales sur cet art."
       de:
         - "In der Einführung fragt TED: Warum lieben wir unsere Lieblingsgeschichten? Brauchen sie wirklich Anfang, Mitte und Ende und eine Figur, die sich bis zum Schluss verändert?"
-        - "Meister des Erzählens suchen neue Antworten auf diese uralten Fragen zu ihrer Kunst."
       it:
         - "Nella sua presentazione TED si chiede: perché amiamo tanto le nostre storie preferite? Hanno davvero bisogno di un inizio, uno svolgimento e una fine, e di un personaggio che cambia alla conclusione?"
-        - "Maestri della narrazione esplorano nuove risposte a queste domande antichissime su quest’arte."
       pt:
         - "Na sua apresentação, a TED pergunta: porque adoramos as nossas histórias favoritas? Precisam mesmo de princípio, meio e fim, e de uma personagem que evolua no final?"
-        - "Mestres da narração exploram novas respostas a estas perguntas ancestrais sobre a sua arte."
 
   - id: mejores-inventos-time-2026
     titulo:
@@ -132,7 +126,7 @@ curiosidades:
     detalle:
       es:
         - "Para elaborar la guía, Google analizó las reseñas y valoraciones de restaurantes publicadas durante el último año en Atlanta, Chicago, Nueva York, San Francisco y Seattle (EE. UU.), Londres, Melbourne, Montreal, Santiago de Chile y Tokio."
-        - "Además de los restaurantes más populares de cada ciudad, la guía recoge sus tendencias gastronómicas. A escala global destacan el regreso de los dulces clásicos, el dominio del matcha, los sabores terrosos y el gusto por las texturas crujientes. Por ejemplo, las menciones al yogur helado en las reseñas de Nueva York se disparan un 320 %, y las del hojicha en Londres, un 114 %."
+        - "Además de los restaurantes más populares de cada ciudad, la guía recoge sus tendencias gastronómicas. A escala global destacan el regreso de los dulces clásicos, el dominio del matcha, los sabores terrosos y el gusto por las texturas crujientes. Por ejemplo, las menciones al yogur helado en las reseñas de Nueva York se dispararon un 320 %, y las del hojicha en Londres, un 114 %."
         - "Hay que leerla como una foto de lo que interesa en Google Maps, no como un ranking definitivo de cada ciudad."
       en:
         - "To build the guide, Google analysed restaurant reviews and ratings posted over the past year in Atlanta, Chicago, New York, San Francisco and Seattle (US), London, Melbourne, Montréal, Santiago (Chile) and Tokyo."
@@ -140,7 +134,7 @@ curiosidades:
         - "Read it as a snapshot of what people care about on Google Maps, not as a definitive ranking of each city."
       fr:
         - "Pour réaliser ce guide, Google a analysé les avis et les notes de restaurants publiés au cours de l’année écoulée à Atlanta, Chicago, New York, San Francisco et Seattle (États-Unis), Londres, Melbourne, Montréal, Santiago (Chili) et Tokyo."
-        - "Outre les restaurants les plus populaires de chaque ville, le guide présente ses tendances culinaires. À l’échelle mondiale, on note le retour des douceurs classiques, la domination du matcha, les saveurs terreuses et le goût pour les textures croustillantes. Ainsi, les mentions du yaourt glacé dans les avis de New York bondissent de 320 %, et celles du hojicha à Londres de 114 %."
+        - "Outre les restaurants les plus populaires de chaque ville, le guide présente ses tendances culinaires. À l’échelle mondiale, on note le retour des douceurs classiques, la domination du matcha, les saveurs terreuses et le goût pour les textures croustillantes. Ainsi, les mentions du yaourt glacé dans les avis de New York ont bondi de 320 %, et celles du hojicha à Londres de 114 %."
         - "À lire comme un instantané de ce qui intéresse les utilisateurs de Google Maps, pas comme un classement définitif de chaque ville."
       de:
         - "Für den Führer hat Google die im vergangenen Jahr veröffentlichten Restaurantbewertungen in Atlanta, Chicago, New York, San Francisco und Seattle (USA), London, Melbourne, Montréal, Santiago (Chile) und Tokio ausgewertet."
@@ -775,15 +769,15 @@ curiosidades:
     fuente: NASA
     enlace: https://eyes.nasa.gov/apps/exo/
     descripcion:
-      es: "Una simulación 3D gratuita con los miles de exoplanetas confirmados hasta ahora, los planetas que orbitan otras estrellas, y las zonas donde podría existir agua líquida."
-      en: "A free 3D simulation of the thousands of confirmed exoplanets found so far, the planets that orbit other stars, and the zones where liquid water could exist."
-      fr: "Une simulation 3D gratuite des milliers d’exoplanètes confirmées à ce jour, les planètes qui orbitent d’autres étoiles, et des zones où de l’eau liquide pourrait exister."
-      de: "Eine kostenlose 3D-Simulation der Tausenden bislang bestätigten Exoplaneten, der Planeten anderer Sterne, und der Zonen, in denen flüssiges Wasser existieren könnte."
-      it: "Una simulazione 3D gratuita delle migliaia di esopianeti confermati finora, i pianeti che orbitano attorno ad altre stelle, e delle zone in cui potrebbe esistere acqua liquida."
-      pt: "Uma simulação 3D gratuita dos milhares de exoplanetas confirmados até agora, os planetas que orbitam outras estrelas, e das zonas onde poderia existir água líquida."
+      es: "Una simulación 3D gratuita de los miles de exoplanetas confirmados (planetas que orbitan otras estrellas) y de las zonas donde podría existir agua líquida."
+      en: "A free 3D simulation of the thousands of confirmed exoplanets (planets orbiting other stars) and of the zones where liquid water could exist."
+      fr: "Une simulation 3D gratuite des milliers d’exoplanètes confirmées (planètes en orbite autour d’autres étoiles) et des zones où de l’eau liquide pourrait exister."
+      de: "Eine kostenlose 3D-Simulation der Tausenden bestätigten Exoplaneten (Planeten, die andere Sterne umkreisen) und der Zonen, in denen flüssiges Wasser existieren könnte."
+      it: "Una simulazione 3D gratuita delle migliaia di esopianeti confermati (pianeti che orbitano attorno ad altre stelle) e delle zone in cui potrebbe esistere acqua liquida."
+      pt: "Uma simulação 3D gratuita dos milhares de exoplanetas confirmados (planetas que orbitam outras estrelas) e das zonas onde poderia existir água líquida."
     detalle:
       es:
-        - "Eyes on Exoplanets reproduce en 3D los sistemas de planetas conocidos fuera del nuestro, los exoplanetas: miles de planetas confirmados que orbitan otras estrellas."
+        - "Eyes on Exoplanets recrea en 3D los sistemas planetarios conocidos fuera del nuestro: miles de exoplanetas confirmados, es decir, planetas que orbitan otras estrellas."
         - "Entre otras cosas, muestra la «zona habitable» de cada estrella, la región donde la temperatura podría permitir la existencia de agua líquida en la superficie de un planeta."
         - "Es una forma intuitiva de hacerse una idea de lo variado que es el universo más allá del sistema solar. Funciona en el navegador y es gratuita."
       en:
@@ -806,3 +800,310 @@ curiosidades:
         - "O Eyes on Exoplanets reproduz em 3D os sistemas planetários conhecidos fora do nosso, os exoplanetas: milhares de planetas confirmados que orbitam outras estrelas."
         - "Entre outras coisas, mostra a «zona habitável» de cada estrela, a região onde a temperatura poderia permitir a existência de água líquida à superfície de um planeta."
         - "É uma forma intuitiva de ter uma ideia da variedade do universo para lá do sistema solar. Funciona no navegador e é gratuita."
+
+  - id: google-pinpoint
+    titulo:
+      es: "Google Pinpoint: investigar con IA tus propios documentos"
+      en: "Google Pinpoint: AI research across your own documents"
+      fr: "Google Pinpoint : rechercher avec l’IA dans vos propres documents"
+      de: "Google Pinpoint: KI-Recherche in den eigenen Dokumenten"
+      it: "Google Pinpoint: ricerca con l’IA nei tuoi documenti"
+      pt: "Google Pinpoint: investigar com IA os seus próprios documentos"
+    fuente: Google
+    enlace: https://journaliststudio.google.com/pinpoint/collections
+    descripcion:
+      es: "Una herramienta gratuita de Google que usa inteligencia artificial para analizar, transcribir y buscar en miles de tus propios documentos, de PDFs y fotos a audios."
+      en: "A free Google tool that uses artificial intelligence to analyse, transcribe and search thousands of your own documents, from PDFs and photos to audio."
+      fr: "Un outil gratuit de Google qui utilise l’intelligence artificielle pour analyser, transcrire et interroger des milliers de vos propres documents, des PDF et photos aux fichiers audio."
+      de: "Ein kostenloses Google-Werkzeug, das mit künstlicher Intelligenz Tausende eigener Dokumente analysiert, transkribiert und durchsuchbar macht, von PDFs und Fotos bis zu Audiodateien."
+      it: "Uno strumento gratuito di Google che usa l’intelligenza artificiale per analizzare, trascrivere e cercare in migliaia di tuoi documenti, da PDF e foto ad audio."
+      pt: "Uma ferramenta gratuita da Google que usa inteligência artificial para analisar, transcrever e pesquisar milhares dos seus próprios documentos, de PDF e fotografias a áudio."
+    detalle:
+      es:
+        - "Pinpoint nació como herramienta de investigación para periodistas y medios, y hoy puede usarla cualquiera de forma gratuita. Google la describe como un buscador de Google privado y «supervitaminado» para tus propios archivos."
+        - "Se trabaja con «colecciones», una especie de carpeta de proyecto en la que se suben a la vez hasta 200.000 documentos: PDFs, imágenes, audios, webs, documentos de Word y más. Pinpoint los procesa con OCR e IA, incluidos los textos manuscritos, y transcribe los audios en varios idiomas."
+        - "Además, extrae automáticamente los nombres de personas, organizaciones y lugares que aparecen y los reúne en un índice lateral. Puedes buscar un término y ver en qué páginas está, con sus sinónimos y variantes gramaticales, o hacer preguntas y obtener respuestas basadas en lo que has subido."
+        - "Sirve, por ejemplo, para transcribir horas de entrevistas y localizar una declaración exacta, cruzar cientos de artículos académicos o documentos históricos para ver qué autores u organizaciones se repiten, extraer conclusiones de decenas de informes financieros o normativas sin leerlos enteros, o digitalizar notas manuscritas y cartas antiguas para convertirlas en un archivo en el que se pueda buscar."
+      en:
+        - "Pinpoint began as a research tool for journalists and news organisations, and anyone can now use it for free. Google describes it as a private, “supercharged” Google search for your own files."
+        - "You work with “collections”, a kind of project folder where you can upload up to 200,000 documents at once: PDFs, images, audio, websites, Word documents and more. Pinpoint processes them with OCR and AI, handwriting included, and transcribes audio in several languages."
+        - "It also automatically extracts the names of people, organisations and places that appear and gathers them in a side index. You can search for a term and see which pages it appears on, including synonyms and grammatical variants, or ask questions and get answers based on what you uploaded."
+        - "It is useful, for example, for transcribing hours of interviews and finding an exact quote, cross-referencing hundreds of academic papers or historical documents to see which authors or organisations recur, drawing conclusions from dozens of financial reports or regulations without reading them in full, or digitising handwritten notes and old letters into a searchable archive."
+      fr:
+        - "Pinpoint est né comme outil de recherche pour les journalistes et les médias, et tout le monde peut désormais l’utiliser gratuitement. Google le décrit comme un moteur de recherche Google privé et « survitaminé » pour vos propres fichiers."
+        - "On travaille avec des « collections », sortes de dossiers de projet où l’on peut importer jusqu’à 200 000 documents à la fois : PDF, images, audio, sites web, documents Word, etc. Pinpoint les traite par OCR et IA, y compris les textes manuscrits, et transcrit les fichiers audio en plusieurs langues."
+        - "Il extrait aussi automatiquement les noms de personnes, d’organisations et de lieux qui apparaissent et les réunit dans un index latéral. On peut chercher un terme et voir sur quelles pages il figure, avec ses synonymes et variantes grammaticales, ou poser des questions et obtenir des réponses fondées sur les documents importés."
+        - "Il sert par exemple à transcrire des heures d’entretiens et retrouver une citation exacte, à croiser des centaines d’articles universitaires ou de documents historiques pour voir quels auteurs ou organisations reviennent, à tirer des conclusions de dizaines de rapports financiers ou de textes réglementaires sans les lire en entier, ou à numériser notes manuscrites et vieilles lettres pour en faire des archives consultables."
+      de:
+        - "Pinpoint entstand als Recherchewerkzeug für Journalistinnen, Journalisten und Medien, und heute kann es jeder kostenlos nutzen. Google beschreibt es als eine private, „aufgeladene“ Google-Suche für die eigenen Dateien."
+        - "Man arbeitet mit „Sammlungen“, einer Art Projektordner, in den sich bis zu 200.000 Dokumente auf einmal hochladen lassen: PDFs, Bilder, Audiodateien, Websites, Word-Dokumente und mehr. Pinpoint verarbeitet sie mit OCR und KI, auch Handschrift, und transkribiert Audio in mehreren Sprachen."
+        - "Außerdem zieht es automatisch die Namen von Personen, Organisationen und Orten heraus und stellt sie in einem Seitenindex zusammen. Man kann einen Begriff suchen und sehen, auf welchen Seiten er vorkommt, samt Synonymen und grammatischen Varianten, oder Fragen stellen und Antworten auf Basis der hochgeladenen Unterlagen erhalten."
+        - "Nützlich ist das etwa, um stundenlange Interviews zu transkribieren und ein genaues Zitat zu finden, Hunderte wissenschaftliche Artikel oder historische Dokumente abzugleichen und zu sehen, welche Autoren oder Organisationen wiederkehren, aus Dutzenden Finanzberichten oder Vorschriften Schlüsse zu ziehen, ohne sie ganz zu lesen, oder handschriftliche Notizen und alte Briefe in ein durchsuchbares Archiv zu verwandeln."
+      it:
+        - "Pinpoint è nato come strumento di ricerca per giornalisti e media e oggi chiunque può usarlo gratuitamente. Google lo descrive come un motore di ricerca Google privato e «potenziato» per i tuoi file."
+        - "Si lavora con le «collezioni», una sorta di cartella di progetto in cui si possono caricare fino a 200.000 documenti alla volta: PDF, immagini, audio, siti web, documenti Word e altro. Pinpoint li elabora con OCR e IA, compresi i testi manoscritti, e trascrive l’audio in più lingue."
+        - "Inoltre estrae automaticamente i nomi di persone, organizzazioni e luoghi che compaiono e li raccoglie in un indice laterale. Si può cercare un termine e vedere in quali pagine compare, con sinonimi e varianti grammaticali, oppure fare domande e ottenere risposte basate su ciò che si è caricato."
+        - "È utile, per esempio, per trascrivere ore di interviste e trovare una dichiarazione esatta, incrociare centinaia di articoli accademici o documenti storici per vedere quali autori o organizzazioni ricorrono, trarre conclusioni da decine di rapporti finanziari o normative senza leggerli per intero, o digitalizzare appunti manoscritti e vecchie lettere in un archivio consultabile."
+      pt:
+        - "O Pinpoint nasceu como ferramenta de investigação para jornalistas e meios de comunicação e hoje qualquer pessoa pode usá-lo gratuitamente. A Google descreve-o como um motor de pesquisa Google privado e «reforçado» para os seus próprios ficheiros."
+        - "Trabalha-se com «coleções», uma espécie de pasta de projeto onde se podem carregar até 200.000 documentos de uma só vez: PDF, imagens, áudio, sites, documentos Word e mais. O Pinpoint processa-os com OCR e IA, incluindo textos manuscritos, e transcreve o áudio em vários idiomas."
+        - "Além disso, extrai automaticamente os nomes de pessoas, organizações e locais que aparecem e reúne-os num índice lateral. Pode pesquisar-se um termo e ver em que páginas surge, com sinónimos e variantes gramaticais, ou fazer perguntas e obter respostas baseadas no que foi carregado."
+        - "Serve, por exemplo, para transcrever horas de entrevistas e encontrar uma declaração exata, cruzar centenas de artigos académicos ou documentos históricos para ver que autores ou organizações se repetem, tirar conclusões de dezenas de relatórios financeiros ou normativas sem os ler por inteiro, ou digitalizar notas manuscritas e cartas antigas num arquivo pesquisável."
+
+  - id: linkedin-games
+    titulo:
+      es: "LinkedIn Games: minijuegos diarios"
+      en: "LinkedIn Games: daily mini-games"
+      fr: "LinkedIn Games : des mini-jeux quotidiens"
+      de: "LinkedIn Games: tägliche Minispiele"
+      it: "LinkedIn Games: minigiochi quotidiani"
+      pt: "LinkedIn Games: minijogos diários"
+    fuente: LinkedIn
+    enlace: https://www.linkedin.com/games/
+    descripcion:
+      es: "Ocho minijuegos de palabras, lógica y trivial con los que LinkedIn propone pausas rápidas de concentración cada día, entre ellos Wend, Zip, Tango, Queens y Mini Sudoku."
+      en: "Eight word, logic and trivia mini-games with which LinkedIn offers quick daily breaks of focus, including Wend, Zip, Tango, Queens and Mini Sudoku."
+      fr: "Huit mini-jeux de mots, de logique et de culture générale par lesquels LinkedIn propose chaque jour de courtes pauses de concentration, dont Wend, Zip, Tango, Queens et Mini Sudoku."
+      de: "Acht Minispiele mit Wörtern, Logik und Quizfragen, mit denen LinkedIn täglich kurze Konzentrationspausen anbietet, darunter Wend, Zip, Tango, Queens und Mini Sudoku."
+      it: "Otto minigiochi di parole, logica e quiz con cui LinkedIn propone ogni giorno brevi pause di concentrazione, tra cui Wend, Zip, Tango, Queens e Mini Sudoku."
+      pt: "Oito minijogos de palavras, lógica e trivialidades com que o LinkedIn propõe pausas rápidas de concentração todos os dias, entre eles Wend, Zip, Tango, Queens e Mini Sudoku."
+    detalle:
+      es:
+        - "LinkedIn lanzó su propia oferta de minijuegos con la idea de ofrecer, cada día, momentos rápidos e interactivos de concentración durante la jornada de trabajo. Quien juega puede compartir sus resultados con otras personas."
+        - "La oferta actual se compone de ocho juegos: Wend (ábrete paso entre las palabras), Patches (a darle forma), Mini Sudoku (el clásico, en versión mini), Zip (ábrete camino), Tango (todo cuadra), Queens (corona cada región), Pinpoint (adivina la categoría) y Crossclimb (resuelve una escalera de trivial)."
+        - "Una forma ligera de despejar la cabeza en cinco minutos. Para entrar hace falta una cuenta de LinkedIn."
+      en:
+        - "LinkedIn launched its own range of mini-games with the aim of offering quick, interactive moments of focus every day during the working day. Players can share their results with other people."
+        - "The current line-up has eight games: Wend (make your way through the words), Patches (shape it up), Mini Sudoku (the classic, in mini size), Zip (find your way), Tango (make it all fit), Queens (crown every region), Pinpoint (guess the category) and Crossclimb (solve a trivia ladder)."
+        - "A light way to clear your head in five minutes. You need a LinkedIn account to play."
+      fr:
+        - "LinkedIn a lancé sa propre offre de mini-jeux dans le but de proposer chaque jour des moments de concentration rapides et interactifs pendant la journée de travail. Les joueurs peuvent partager leurs résultats avec d’autres personnes."
+        - "L’offre actuelle compte huit jeux : Wend (frayez-vous un chemin parmi les mots), Patches (donnez-lui forme), Mini Sudoku (le classique, en version mini), Zip (trouvez votre chemin), Tango (tout doit coller), Queens (couronnez chaque région), Pinpoint (devinez la catégorie) et Crossclimb (résolvez une échelle de culture générale)."
+        - "Une façon légère de se vider la tête en cinq minutes. Il faut un compte LinkedIn pour jouer."
+      de:
+        - "LinkedIn hat ein eigenes Angebot an Minispielen gestartet, um während des Arbeitstags jeden Tag kurze, interaktive Momente der Konzentration zu bieten. Wer spielt, kann seine Ergebnisse mit anderen teilen."
+        - "Das aktuelle Angebot umfasst acht Spiele: Wend (such dir deinen Weg durch die Wörter), Patches (bring es in Form), Mini Sudoku (der Klassiker im Mini-Format), Zip (finde deinen Weg), Tango (alles muss passen), Queens (krone jede Region), Pinpoint (errate die Kategorie) und Crossclimb (löse eine Quiz-Leiter)."
+        - "Eine leichte Art, in fünf Minuten den Kopf freizubekommen. Zum Spielen braucht man ein LinkedIn-Konto."
+      it:
+        - "LinkedIn ha lanciato una propria offerta di minigiochi con l’idea di proporre ogni giorno momenti di concentrazione rapidi e interattivi durante la giornata lavorativa. Chi gioca può condividere i propri risultati con altre persone."
+        - "L’offerta attuale comprende otto giochi: Wend (fatti strada tra le parole), Patches (dagli forma), Mini Sudoku (il classico, in versione mini), Zip (trova la tua strada), Tango (tutto deve quadrare), Queens (incorona ogni regione), Pinpoint (indovina la categoria) e Crossclimb (risolvi una scala di quiz)."
+        - "Un modo leggero per schiarirsi le idee in cinque minuti. Per giocare serve un account LinkedIn."
+      pt:
+        - "O LinkedIn lançou a sua própria oferta de minijogos com a ideia de proporcionar, todos os dias, momentos rápidos e interativos de concentração durante o horário de trabalho. Quem joga pode partilhar os resultados com outras pessoas."
+        - "A oferta atual é composta por oito jogos: Wend (abre caminho entre as palavras), Patches (dá-lhe forma), Mini Sudoku (o clássico, em versão mini), Zip (abre caminho), Tango (tudo tem de encaixar), Queens (coroa cada região), Pinpoint (adivinha a categoria) e Crossclimb (resolve uma escada de trivialidades)."
+        - "Uma forma leve de desanuviar a cabeça em cinco minutos. Para jogar é preciso uma conta do LinkedIn."
+
+  - id: united-parks-of-america
+    titulo:
+      es: "United Parks of America: los parques nacionales de EE. UU. en Google Arts & Culture"
+      en: "United Parks of America: US national parks on Google Arts & Culture"
+      fr: "United Parks of America : les parcs nationaux américains sur Google Arts & Culture"
+      de: "United Parks of America: die US-Nationalparks auf Google Arts & Culture"
+      it: "United Parks of America: i parchi nazionali USA su Google Arts & Culture"
+      pt: "United Parks of America: os parques nacionais dos EUA no Google Arts & Culture"
+    fuente: Google Arts & Culture
+    enlace: https://artsandculture.google.com/project/national-park-service
+    descripcion:
+      es: "Una exposición virtual gratuita de Google Arts & Culture y el Servicio de Parques Nacionales de EE. UU. para recorrer desde casa más de 60 parques nacionales, del Gran Cañón a Yellowstone."
+      en: "A free virtual exhibition by Google Arts & Culture and the US National Park Service to tour more than 60 national parks from home, from the Grand Canyon to Yellowstone."
+      fr: "Une exposition virtuelle gratuite de Google Arts & Culture et du Service des parcs nationaux américain pour parcourir depuis chez soi plus de 60 parcs nationaux, du Grand Canyon à Yellowstone."
+      de: "Eine kostenlose virtuelle Ausstellung von Google Arts & Culture und dem US-Nationalparkdienst, mit der man von zu Hause mehr als 60 Nationalparks erkunden kann, vom Grand Canyon bis Yellowstone."
+      it: "Una mostra virtuale gratuita di Google Arts & Culture e del Servizio dei parchi nazionali degli Stati Uniti per visitare da casa più di 60 parchi nazionali, dal Grand Canyon a Yellowstone."
+      pt: "Uma exposição virtual gratuita da Google Arts & Culture e do Serviço de Parques Nacionais dos EUA para percorrer de casa mais de 60 parques nacionais, do Grand Canyon a Yellowstone."
+    detalle:
+      es:
+        - "United Parks of America es un especial digital interactivo creado por Google Arts & Culture y el Servicio de Parques Nacionales de Estados Unidos. Es gratuito y permite explorar desde casa más de 60 parques nacionales del país."
+        - "Reúne más de 450 recorridos virtuales, 5.000 imágenes, 200 historias, 60 vídeos, 50 colecciones y objetos en 3D, además de una experiencia narrativa con inteligencia artificial dedicada al Independence National Historical Park de Filadelfia."
+        - "Es una guía multimedia sobre la historia, la cultura y la belleza de los parques, con paradas en lugares tan emblemáticos como el Gran Cañón, Yosemite o Yellowstone. Forma parte de Google Arts & Culture, el servicio digital que da acceso a museos, archivos y lugares patrimoniales de todo el mundo."
+      en:
+        - "United Parks of America is an interactive digital feature created by Google Arts & Culture and the US National Park Service. It is free and lets you explore more than 60 of the country’s national parks from home."
+        - "It brings together more than 450 virtual tours, 5,000 images, 200 stories, 60 videos, 50 collections and 3D objects, plus an AI-powered storytelling experience about Independence National Historical Park in Philadelphia."
+        - "It is a multimedia guide to the history, culture and beauty of the parks, with stops at landmarks such as the Grand Canyon, Yosemite and Yellowstone. It is part of Google Arts & Culture, the digital service that gives access to museums, archives and heritage sites around the world."
+      fr:
+        - "United Parks of America est un dossier numérique interactif créé par Google Arts & Culture et le Service des parcs nationaux américain. Il est gratuit et permet d’explorer depuis chez soi plus de 60 parcs nationaux du pays."
+        - "Il réunit plus de 450 visites virtuelles, 5 000 images, 200 histoires, 60 vidéos, 50 collections et des objets en 3D, ainsi qu’une expérience narrative avec intelligence artificielle consacrée à l’Independence National Historical Park de Philadelphie."
+        - "C’est un guide multimédia sur l’histoire, la culture et la beauté des parcs, avec des étapes dans des lieux aussi emblématiques que le Grand Canyon, Yosemite ou Yellowstone. Il fait partie de Google Arts & Culture, le service numérique qui donne accès à des musées, des archives et des sites patrimoniaux du monde entier."
+      de:
+        - "United Parks of America ist ein interaktives digitales Special von Google Arts & Culture und dem US-Nationalparkdienst. Es ist kostenlos und ermöglicht es, von zu Hause mehr als 60 Nationalparks des Landes zu erkunden."
+        - "Es vereint mehr als 450 virtuelle Rundgänge, 5.000 Bilder, 200 Geschichten, 60 Videos, 50 Sammlungen und 3D-Objekte sowie ein KI-gestütztes Erzählerlebnis zum Independence National Historical Park in Philadelphia."
+        - "Es ist ein multimedialer Führer durch Geschichte, Kultur und Schönheit der Parks mit Stationen an so berühmten Orten wie dem Grand Canyon, Yosemite oder Yellowstone. Es gehört zu Google Arts & Culture, dem digitalen Dienst mit Zugang zu Museen, Archiven und Kulturerbestätten aus aller Welt."
+      it:
+        - "United Parks of America è uno speciale digitale interattivo creato da Google Arts & Culture e dal Servizio dei parchi nazionali degli Stati Uniti. È gratuito e permette di esplorare da casa più di 60 parchi nazionali del paese."
+        - "Riunisce più di 450 visite virtuali, 5.000 immagini, 200 storie, 60 video, 50 collezioni e oggetti in 3D, oltre a un’esperienza narrativa con intelligenza artificiale dedicata all’Independence National Historical Park di Filadelfia."
+        - "È una guida multimediale alla storia, alla cultura e alla bellezza dei parchi, con tappe in luoghi emblematici come il Grand Canyon, Yosemite e Yellowstone. Fa parte di Google Arts & Culture, il servizio digitale che dà accesso a musei, archivi e siti patrimoniali di tutto il mondo."
+      pt:
+        - "United Parks of America é um especial digital interativo criado pela Google Arts & Culture e pelo Serviço de Parques Nacionais dos Estados Unidos. É gratuito e permite explorar de casa mais de 60 parques nacionais do país."
+        - "Reúne mais de 450 visitas virtuais, 5.000 imagens, 200 histórias, 60 vídeos, 50 coleções e objetos em 3D, além de uma experiência narrativa com inteligência artificial dedicada ao Independence National Historical Park, em Filadélfia."
+        - "É um guia multimédia sobre a história, a cultura e a beleza dos parques, com paragens em locais tão emblemáticos como o Grand Canyon, Yosemite ou Yellowstone. Faz parte da Google Arts & Culture, o serviço digital que dá acesso a museus, arquivos e sítios patrimoniais de todo o mundo."
+
+  - id: anthropeum
+    titulo:
+      es: "Anthropeum: juego diario de arte del Metropolitan Museum"
+      en: "Anthropeum: a daily art game with the Metropolitan Museum’s collection"
+      fr: "Anthropeum : un jeu quotidien sur les œuvres du Metropolitan Museum"
+      de: "Anthropeum: tägliches Kunstspiel mit der Sammlung des Metropolitan Museum"
+      it: "Anthropeum: gioco quotidiano con le opere del Metropolitan Museum"
+      pt: "Anthropeum: jogo diário de arte com a coleção do Metropolitan Museum"
+    fuente: Anthropeum
+    enlace: https://anthropeum.com/
+    descripcion:
+      es: "Un juego online diario en el que hay que adivinar cuándo y dónde se creó cada una de diez obras de arte de la colección del Metropolitan Museum de Nueva York."
+      en: "A daily online game in which you guess when and where each of ten works of art from New York’s Metropolitan Museum collection was made."
+      fr: "Un jeu en ligne quotidien où il faut deviner quand et où a été créée chacune de dix œuvres d’art de la collection du Metropolitan Museum de New York."
+      de: "Ein tägliches Online-Spiel, bei dem man erraten muss, wann und wo jedes von zehn Kunstwerken aus der Sammlung des New Yorker Metropolitan Museum entstanden ist."
+      it: "Un gioco online quotidiano in cui bisogna indovinare quando e dove è stata creata ciascuna di dieci opere d’arte della collezione del Metropolitan Museum di New York."
+      pt: "Um jogo online diário em que é preciso adivinhar quando e onde foi criada cada uma de dez obras de arte da coleção do Metropolitan Museum de Nova Iorque."
+    detalle:
+      es:
+        - "Anthropeum es un juego online que se renueva cada día. Muestra diez obras de arte de la colección del Metropolitan Museum de Nueva York y hay que situar cada una en el tiempo y en el mapa: en qué época y en qué lugar se hizo."
+        - "Lo creó Matthew Chu, estudiante de la University of Washington, a partir de la iniciativa Open Access del Met, que ofrece imágenes y datos de casi 500.000 obras de su colección."
+        - "Al terminar, el juego te dice en qué lugar del ranking has quedado respecto a los demás jugadores. Además, tiene un lado didáctico: tras cada respuesta muestra información sobre la obra y enlaza con su ficha en el Met."
+        - "Una manera entretenida de aprender un poco de historia del arte y de geografía en unos minutos al día."
+      en:
+        - "Anthropeum is an online game that refreshes every day. It shows ten works of art from the Metropolitan Museum’s collection in New York, and you have to place each one in time and on the map: when and where it was made."
+        - "It was created by Matthew Chu, a University of Washington student, using the Met’s Open Access initiative, which offers images and data for nearly 500,000 works in its collection."
+        - "When you finish, the game tells you where you rank among the other players. It also has an educational side: after each answer it shows information about the work and links to its page at the Met."
+        - "An entertaining way to learn a bit of art history and geography in a few minutes a day."
+      fr:
+        - "Anthropeum est un jeu en ligne renouvelé chaque jour. Il présente dix œuvres d’art de la collection du Metropolitan Museum de New York, et il faut situer chacune dans le temps et sur la carte : à quelle époque et en quel lieu elle a été réalisée."
+        - "Il a été créé par Matthew Chu, étudiant à la University of Washington, à partir de l’initiative Open Access du Met, qui propose images et données pour près de 500 000 œuvres de sa collection."
+        - "Une fois terminé, le jeu indique votre place dans le classement par rapport aux autres joueurs. Il a aussi un côté pédagogique : après chaque réponse, il affiche des informations sur l’œuvre et renvoie à sa fiche sur le site du Met."
+        - "Une façon ludique d’apprendre un peu d’histoire de l’art et de géographie en quelques minutes par jour."
+      de:
+        - "Anthropeum ist ein Online-Spiel, das sich jeden Tag erneuert. Es zeigt zehn Kunstwerke aus der Sammlung des Metropolitan Museum in New York, und man muss jedes zeitlich und auf der Karte einordnen: wann und wo es entstanden ist."
+        - "Erfunden hat es Matthew Chu, Student an der University of Washington, auf Grundlage der Open-Access-Initiative des Met, die Bilder und Daten zu fast 500.000 Werken der Sammlung bereitstellt."
+        - "Am Ende zeigt das Spiel, welchen Platz man im Ranking der anderen Spielerinnen und Spieler belegt. Es hat auch eine lehrreiche Seite: Nach jeder Antwort liefert es Informationen zum Werk und verlinkt auf dessen Seite beim Met."
+        - "Eine unterhaltsame Möglichkeit, in wenigen Minuten pro Tag etwas Kunstgeschichte und Geografie zu lernen."
+      it:
+        - "Anthropeum è un gioco online che si rinnova ogni giorno. Mostra dieci opere d’arte della collezione del Metropolitan Museum di New York e bisogna collocare ciascuna nel tempo e sulla mappa: in quale epoca e in quale luogo è stata realizzata."
+        - "L’ha creato Matthew Chu, studente della University of Washington, a partire dall’iniziativa Open Access del Met, che offre immagini e dati di quasi 500.000 opere della sua collezione."
+        - "Alla fine il gioco mostra in che posizione ci si è classificati rispetto agli altri giocatori. Ha anche un lato didattico: dopo ogni risposta mostra informazioni sull’opera e rimanda alla sua scheda sul sito del Met."
+        - "Un modo divertente per imparare un po’ di storia dell’arte e di geografia in pochi minuti al giorno."
+      pt:
+        - "O Anthropeum é um jogo online que se renova todos os dias. Mostra dez obras de arte da coleção do Metropolitan Museum de Nova Iorque e é preciso situar cada uma no tempo e no mapa: em que época e em que lugar foi feita."
+        - "Foi criado por Matthew Chu, estudante da University of Washington, a partir da iniciativa Open Access do Met, que disponibiliza imagens e dados de quase 500.000 obras da sua coleção."
+        - "No final, o jogo mostra em que posição do ranking ficou em relação aos outros jogadores. Tem também um lado didático: após cada resposta mostra informação sobre a obra e liga à sua ficha no Met."
+        - "Uma forma divertida de aprender um pouco de história da arte e de geografia em poucos minutos por dia."
+
+  - id: the-drum-mejores-anuncios-futbol
+    titulo:
+      es: "The Drum: los 50 mejores anuncios de fútbol de la historia"
+      en: "The Drum: the 50 best football ads ever"
+      fr: "The Drum : les 50 meilleures publicités de football de l’histoire"
+      de: "The Drum: die 50 besten Fußballwerbespots aller Zeiten"
+      it: "The Drum: i 50 migliori spot di calcio di sempre"
+      pt: "The Drum: os 50 melhores anúncios de futebol de sempre"
+    fuente: The Drum
+    enlace: https://www.thedrum.com/the-best-football-ads-ever
+    descripcion:
+      es: "La revista de publicidad The Drum reúne los 50 mejores anuncios de la historia relacionados con el fútbol, para verlos uno a uno."
+      en: "Advertising magazine The Drum brings together the 50 best football-related ads of all time, to watch one by one."
+      fr: "Le magazine publicitaire The Drum rassemble les 50 meilleures publicités de l’histoire liées au football, à regarder une à une."
+      de: "Das Werbemagazin The Drum versammelt die 50 besten Fußballwerbespots aller Zeiten, die man einzeln ansehen kann."
+      it: "La rivista di pubblicità The Drum riunisce i 50 migliori spot di tutti i tempi legati al calcio, da guardare uno per uno."
+      pt: "A revista de publicidade The Drum reúne os 50 melhores anúncios de sempre relacionados com o futebol, para ver um a um."
+    detalle:
+      es:
+        - "The Drum, publicación especializada en publicidad y marketing, ha seleccionado los 50 mejores anuncios de la historia con el fútbol como protagonista o como excusa. Se pueden ver todos desde su web."
+        - "Es un buen plan para los aficionados al fútbol y también para quien se interese por la creatividad publicitaria: un repaso a cómo las marcas han contado historias con el deporte más popular del mundo."
+      en:
+        - "The Drum, a publication specialising in advertising and marketing, has picked the 50 best ads ever with football as the star or the excuse. You can watch them all on its website."
+        - "It is a good plan for football fans and for anyone interested in advertising creativity: a look at how brands have told stories with the world’s most popular sport."
+      fr:
+        - "The Drum, publication spécialisée dans la publicité et le marketing, a sélectionné les 50 meilleures publicités de l’histoire dont le football est le héros ou le prétexte. On peut toutes les voir sur son site."
+        - "C’est un bon plan pour les amateurs de football comme pour ceux qui s’intéressent à la créativité publicitaire : un tour d’horizon de la façon dont les marques ont raconté des histoires avec le sport le plus populaire du monde."
+      de:
+        - "The Drum, ein auf Werbung und Marketing spezialisiertes Magazin, hat die 50 besten Werbespots aller Zeiten ausgewählt, in denen Fußball die Hauptrolle spielt oder der Anlass ist. Alle lassen sich auf der Website ansehen."
+        - "Ein guter Tipp für Fußballfans und für alle, die sich für Werbekreativität interessieren: ein Rückblick darauf, wie Marken mit dem beliebtesten Sport der Welt Geschichten erzählt haben."
+      it:
+        - "The Drum, rivista specializzata in pubblicità e marketing, ha selezionato i 50 migliori spot di sempre che hanno il calcio come protagonista o come pretesto. Si possono vedere tutti sul suo sito."
+        - "È un buon piano per gli appassionati di calcio e per chi si interessa alla creatività pubblicitaria: una rassegna di come i marchi hanno raccontato storie con lo sport più popolare del mondo."
+      pt:
+        - "A The Drum, publicação especializada em publicidade e marketing, selecionou os 50 melhores anúncios de sempre com o futebol como protagonista ou como pretexto. Podem ver-se todos no seu site."
+        - "É um bom plano para os adeptos de futebol e para quem se interessa pela criatividade publicitária: um olhar sobre como as marcas contaram histórias com o desporto mais popular do mundo."
+
+  - id: the-storygraph
+    titulo:
+      es: "The StoryGraph: tu diario de lecturas y recomendador de libros"
+      en: "The StoryGraph: your reading journal and book recommender"
+      fr: "The StoryGraph : votre journal de lecture et conseiller en livres"
+      de: "The StoryGraph: dein Lesetagebuch und Buchempfehler"
+      it: "The StoryGraph: il tuo diario di lettura e consigliere di libri"
+      pt: "The StoryGraph: o seu diário de leituras e recomendador de livros"
+    fuente: The StoryGraph
+    enlace: https://thestorygraph.com/
+    descripcion:
+      es: "Web y app para registrar tus lecturas y descubrir libros según tu estado de ánimo y tus temas favoritos, una alternativa independiente a Goodreads."
+      en: "A website and app to log your reading and discover books based on your mood and favourite topics, an independent alternative to Goodreads."
+      fr: "Un site et une appli pour noter vos lectures et découvrir des livres selon votre humeur et vos thèmes favoris, une alternative indépendante à Goodreads."
+      de: "Eine Website und App, um die eigenen Lektüren festzuhalten und Bücher nach Stimmung und Lieblingsthemen zu entdecken, eine unabhängige Alternative zu Goodreads."
+      it: "Un sito e un’app per registrare le tue letture e scoprire libri in base al tuo umore e ai tuoi temi preferiti, un’alternativa indipendente a Goodreads."
+      pt: "Um site e uma aplicação para registar as suas leituras e descobrir livros de acordo com o seu estado de espírito e os seus temas favoritos, uma alternativa independente ao Goodreads."
+    detalle:
+      es:
+        - "The StoryGraph es una web y una app para quienes disfrutan leyendo. Sirve para apuntar los libros que has leído, seguir tu progreso, fijarte objetivos y encontrar tu próxima lectura. Sus recomendaciones tienen en cuenta tu estado de ánimo y los temas que más te gustan."
+        - "Nació en 2019 y hoy es una comunidad global de más de cinco millones de lectores. Muchos la consideran una alternativa independiente a Goodreads, que pertenece a Amazon."
+        - "Ofrece estadísticas detalladas de tus hábitos de lectura, lecturas conjuntas, sorteos y retos comunitarios. Está disponible en la web y como app para iOS y Android, con un servicio básico gratuito y una opción de pago con más funciones."
+      en:
+        - "The StoryGraph is a website and app for people who enjoy reading. Use it to log the books you have read, track your progress, set goals and find your next read. Its recommendations take into account your mood and the topics you like most."
+        - "It started in 2019 and is now a global community of more than five million readers. Many consider it an independent alternative to Goodreads, which is owned by Amazon."
+        - "It offers detailed statistics on your reading habits, buddy reads, giveaways and community challenges. It is available on the web and as an iOS and Android app, with a free basic service and a paid option with more features."
+      fr:
+        - "The StoryGraph est un site et une appli pour celles et ceux qui aiment lire. Elle sert à noter les livres lus, suivre sa progression, se fixer des objectifs et trouver sa prochaine lecture. Ses recommandations tiennent compte de votre humeur et des thèmes que vous préférez."
+        - "Née en 2019, c’est aujourd’hui une communauté mondiale de plus de cinq millions de lecteurs. Beaucoup la considèrent comme une alternative indépendante à Goodreads, qui appartient à Amazon."
+        - "Elle propose des statistiques détaillées sur vos habitudes de lecture, des lectures communes, des concours et des défis communautaires. Elle est disponible sur le web et en appli iOS et Android, avec un service de base gratuit et une option payante plus complète."
+      de:
+        - "The StoryGraph ist eine Website und App für Menschen, die gern lesen. Man hält darin gelesene Bücher fest, verfolgt seinen Fortschritt, setzt sich Ziele und findet die nächste Lektüre. Die Empfehlungen berücksichtigen deine Stimmung und deine Lieblingsthemen."
+        - "Sie startete 2019 und ist heute eine globale Gemeinschaft von mehr als fünf Millionen Lesenden. Viele sehen sie als unabhängige Alternative zu Goodreads, das zu Amazon gehört."
+        - "Es gibt ausführliche Statistiken zu den eigenen Lesegewohnheiten, gemeinsame Lektüren, Verlosungen und Community-Challenges. Verfügbar ist sie im Web und als App für iOS und Android, mit kostenlosem Basisdienst und einer kostenpflichtigen Option mit mehr Funktionen."
+      it:
+        - "The StoryGraph è un sito e un’app per chi ama leggere. Serve per annotare i libri letti, seguire i propri progressi, fissare obiettivi e trovare la prossima lettura. I suoi consigli tengono conto del tuo umore e dei temi che preferisci."
+        - "Nata nel 2019, oggi è una comunità globale di più di cinque milioni di lettori. Molti la considerano un’alternativa indipendente a Goodreads, che appartiene ad Amazon."
+        - "Offre statistiche dettagliate sulle tue abitudini di lettura, letture condivise, giveaway e sfide della community. È disponibile sul web e come app per iOS e Android, con un servizio base gratuito e un’opzione a pagamento con più funzioni."
+      pt:
+        - "O The StoryGraph é um site e uma aplicação para quem gosta de ler. Serve para registar os livros lidos, acompanhar o progresso, definir objetivos e encontrar a próxima leitura. As recomendações têm em conta o seu estado de espírito e os temas de que mais gosta."
+        - "Nasceu em 2019 e é hoje uma comunidade global de mais de cinco milhões de leitores. Muitos consideram-no uma alternativa independente ao Goodreads, que pertence à Amazon."
+        - "Oferece estatísticas detalhadas sobre os seus hábitos de leitura, leituras conjuntas, sorteios e desafios da comunidade. Está disponível na web e como aplicação para iOS e Android, com um serviço básico gratuito e uma opção paga com mais funcionalidades."
+
+  - id: riverside-como-empezar-un-podcast
+    titulo:
+      es: "Riverside: guía para empezar un podcast en 10 pasos (edición 2026)"
+      en: "Riverside: a 10-step guide to starting a podcast (2026 edition)"
+      fr: "Riverside : guide en 10 étapes pour lancer un podcast (édition 2026)"
+      de: "Riverside: Leitfaden in 10 Schritten zum eigenen Podcast (Ausgabe 2026)"
+      it: "Riverside: guida in 10 passi per iniziare un podcast (edizione 2026)"
+      pt: "Riverside: guia em 10 passos para começar um podcast (edição 2026)"
+    fuente: Riverside
+    enlace: https://riverside.com/blog/how-to-start-a-podcast
+    descripcion:
+      es: "Una guía gratuita, en inglés, de la plataforma Riverside y del creador Stephen Robles que explica en diez pasos cómo lanzar un podcast, desde la idea hasta medir resultados."
+      en: "A free guide from the Riverside platform and creator Stephen Robles that explains in ten steps how to launch a podcast, from the idea to measuring results."
+      fr: "Un guide gratuit, en anglais, de la plateforme Riverside et du créateur Stephen Robles qui explique en dix étapes comment lancer un podcast, de l’idée à la mesure des résultats."
+      de: "Ein kostenloser, englischsprachiger Leitfaden der Plattform Riverside und des Podcasters Stephen Robles, der in zehn Schritten erklärt, wie man einen Podcast startet, von der Idee bis zur Erfolgsmessung."
+      it: "Una guida gratuita, in inglese, della piattaforma Riverside e del creator Stephen Robles che spiega in dieci passi come lanciare un podcast, dall’idea alla misurazione dei risultati."
+      pt: "Um guia gratuito, em inglês, da plataforma Riverside e do criador Stephen Robles que explica em dez passos como lançar um podcast, da ideia à medição dos resultados."
+    detalle:
+      es:
+        - "Riverside, una de las herramientas más populares para crear podcasts, ha publicado «How to Start a Podcast in 2026: The Complete 10-Step Guide». Su autor es el podcaster Stephen Robles, y está pensada para quien quiere lanzar su propio programa. Está disponible en inglés."
+        - "Los diez pasos: 1) definir el concepto del podcast; 2) establecer el formato y la estructura; 3) crear los elementos de marca; 4) preparar el equipo; 5) elegir el software de grabación y edición; 6) grabar; 7) editar la grabación; 8) publicar; 9) promocionarlo; y 10) medir y mejorar."
+        - "Un buen mapa para ordenar el proceso, tanto si empiezas de cero como si ya tienes una idea y no sabes por dónde seguir."
+      en:
+        - "Riverside, one of the most popular podcast-creation tools, has published “How to Start a Podcast in 2026: The Complete 10-Step Guide”. It is written by podcaster Stephen Robles and is aimed at anyone who wants to launch their own show."
+        - "The ten steps: 1) define your podcast concept; 2) set the format and structure; 3) create the branding elements; 4) get your equipment ready; 5) choose recording and editing software; 6) record; 7) edit the recording; 8) publish; 9) promote it; and 10) measure and improve."
+        - "A good map to organise the process, whether you are starting from scratch or already have an idea and are not sure where to go next."
+      fr:
+        - "Riverside, l’un des outils de création de podcasts les plus populaires, a publié « How to Start a Podcast in 2026: The Complete 10-Step Guide ». Son auteur est le podcasteur Stephen Robles, et elle s’adresse à celles et ceux qui veulent lancer leur propre émission. Elle est disponible en anglais."
+        - "Les dix étapes : 1) définir le concept du podcast ; 2) fixer le format et la structure ; 3) créer les éléments de marque ; 4) préparer le matériel ; 5) choisir le logiciel d’enregistrement et de montage ; 6) enregistrer ; 7) monter l’enregistrement ; 8) publier ; 9) le promouvoir ; et 10) mesurer et améliorer."
+        - "Une bonne feuille de route pour structurer le processus, que l’on parte de zéro ou que l’on ait déjà une idée sans savoir par où continuer."
+      de:
+        - "Riverside, eines der beliebtesten Werkzeuge zur Podcast-Erstellung, hat „How to Start a Podcast in 2026: The Complete 10-Step Guide“ veröffentlicht. Autor ist der Podcaster Stephen Robles, und der Leitfaden richtet sich an alle, die ihre eigene Sendung starten möchten. Er ist auf Englisch verfügbar."
+        - "Die zehn Schritte: 1) das Podcast-Konzept festlegen; 2) Format und Struktur bestimmen; 3) Branding-Elemente erstellen; 4) die Ausrüstung vorbereiten; 5) Aufnahme- und Schnittsoftware wählen; 6) aufnehmen; 7) die Aufnahme schneiden; 8) veröffentlichen; 9) bewerben; und 10) messen und verbessern."
+        - "Eine gute Landkarte, um den Prozess zu ordnen, ob man bei null anfängt oder schon eine Idee hat und nicht weiß, wie es weitergeht."
+      it:
+        - "Riverside, uno degli strumenti più popolari per creare podcast, ha pubblicato «How to Start a Podcast in 2026: The Complete 10-Step Guide». L’autore è il podcaster Stephen Robles e la guida è pensata per chi vuole lanciare il proprio programma. È disponibile in inglese."
+        - "I dieci passi: 1) definire il concept del podcast; 2) stabilire formato e struttura; 3) creare gli elementi di branding; 4) preparare l’attrezzatura; 5) scegliere il software di registrazione e montaggio; 6) registrare; 7) montare la registrazione; 8) pubblicare; 9) promuoverlo; e 10) misurare e migliorare."
+        - "Una buona mappa per organizzare il processo, sia che si parta da zero sia che si abbia già un’idea e non si sappia come proseguire."
+      pt:
+        - "A Riverside, uma das ferramentas mais populares para criar podcasts, publicou «How to Start a Podcast in 2026: The Complete 10-Step Guide». O autor é o podcaster Stephen Robles e o guia destina-se a quem quer lançar o seu próprio programa. Está disponível em inglês."
+        - "Os dez passos: 1) definir o conceito do podcast; 2) estabelecer o formato e a estrutura; 3) criar os elementos de marca; 4) preparar o equipamento; 5) escolher o software de gravação e edição; 6) gravar; 7) editar a gravação; 8) publicar; 9) promovê-lo; e 10) medir e melhorar."
+        - "Um bom mapa para organizar o processo, quer comece do zero quer já tenha uma ideia e não saiba como continuar."
