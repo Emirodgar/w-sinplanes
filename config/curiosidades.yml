@@ -84,7 +84,7 @@ curiosidades:
       it: "Le 300 migliori invenzioni del 2026, secondo TIME"
       pt: "Os 300 melhores inventos de 2026, segundo a TIME"
     fuente: TIME
-    enlace: https://time.com/collections/best-inventions-2026/
+    enlace: https://time.com/collection/best-inventions/2026/
     descripcion:
       es: "La selección anual de la revista TIME con 300 inventos «que están haciendo del mundo un lugar mejor, más inteligente y más divertido», filtrables por categorías."
       en: "TIME magazine’s annual selection of 300 inventions “that are making the world better, smarter and more fun”, which you can filter by category."
@@ -111,3 +111,46 @@ curiosidades:
       pt:
         - "É a edição de 2026. O iPhone Duo da Apple é um dos inventos incluídos, e a capa do número tem como protagonista John Ternus, o novo CEO da Apple, entrevistado sobre a nova era da empresa."
         - "A revista explica num segundo artigo como escolhe os inventos de cada ano."
+
+  - id: google-maps-fan-favorite-dining-list-2026
+    titulo:
+      es: "Google Maps estrena su guía gastronómica: Fan-Favorite Dining List 2026"
+      en: "Google Maps launches its first dining guide: the Fan-Favorite Dining List 2026"
+      fr: "Google Maps lance son premier guide gastronomique : la Fan-Favorite Dining List 2026"
+      de: "Google Maps startet seinen ersten Restaurantführer: die Fan-Favorite Dining List 2026"
+      it: "Google Maps lancia la sua prima guida gastronomica: la Fan-Favorite Dining List 2026"
+      pt: "O Google Maps lança o seu primeiro guia gastronómico: a Fan-Favorite Dining List 2026"
+    fuente: Google Maps
+    enlace: https://blog.google/products-and-platforms/products/maps/google-maps-fan-favorite-dining-list/
+    descripcion:
+      es: "La primera guía gastronómica de Google Maps reúne los restaurantes favoritos del público y las tendencias culinarias del último año en 10 ciudades del mundo, de Tokio a Santiago de Chile."
+      en: "Google Maps’ first dining guide brings together the crowd-favourite restaurants and the food trends of the past year in 10 cities around the world, from Tokyo to Santiago."
+      fr: "Le premier guide gastronomique de Google Maps réunit les restaurants préférés du public et les tendances culinaires de l’année écoulée dans 10 villes du monde, de Tokyo à Santiago du Chili."
+      de: "Der erste Restaurantführer von Google Maps vereint die Publikumslieblinge und die kulinarischen Trends des vergangenen Jahres in 10 Städten weltweit, von Tokio bis Santiago de Chile."
+      it: "La prima guida gastronomica di Google Maps raccoglie i ristoranti preferiti dal pubblico e le tendenze culinarie dell’ultimo anno in 10 città del mondo, da Tokyo a Santiago del Cile."
+      pt: "O primeiro guia gastronómico do Google Maps reúne os restaurantes favoritos do público e as tendências culinárias do último ano em 10 cidades do mundo, de Tóquio a Santiago do Chile."
+    detalle:
+      es:
+        - "Para elaborar la guía, Google analizó las reseñas y valoraciones de restaurantes publicadas durante el último año en Atlanta, Chicago, Nueva York, San Francisco y Seattle (EE. UU.), Londres, Melbourne, Montreal, Santiago de Chile y Tokio."
+        - "Además de los restaurantes más populares de cada ciudad, la guía recoge sus tendencias gastronómicas. A escala global destacan el regreso de los dulces clásicos, el dominio del matcha, los sabores terrosos y el gusto por las texturas crujientes. Por ejemplo, las menciones al yogur helado en las reseñas de Nueva York se disparan un 320 %, y las del hojicha en Londres, un 114 %."
+        - "Hay que leerla como una foto de lo que interesa en Google Maps, no como un ranking definitivo de cada ciudad."
+      en:
+        - "To build the guide, Google analysed restaurant reviews and ratings posted over the past year in Atlanta, Chicago, New York, San Francisco and Seattle (US), London, Melbourne, Montréal, Santiago (Chile) and Tokyo."
+        - "Besides each city’s most popular restaurants, the guide covers its food trends. Globally, classic sweets are back, matcha is everywhere, earthy flavours are in and crunchy textures are a hit. For example, mentions of frozen yogurt in New York reviews jumped 320%, and hojicha in London rose 114%."
+        - "Read it as a snapshot of what people care about on Google Maps, not as a definitive ranking of each city."
+      fr:
+        - "Pour réaliser ce guide, Google a analysé les avis et les notes de restaurants publiés au cours de l’année écoulée à Atlanta, Chicago, New York, San Francisco et Seattle (États-Unis), Londres, Melbourne, Montréal, Santiago (Chili) et Tokyo."
+        - "Outre les restaurants les plus populaires de chaque ville, le guide présente ses tendances culinaires. À l’échelle mondiale, on note le retour des douceurs classiques, la domination du matcha, les saveurs terreuses et le goût pour les textures croustillantes. Ainsi, les mentions du yaourt glacé dans les avis de New York bondissent de 320 %, et celles du hojicha à Londres de 114 %."
+        - "À lire comme un instantané de ce qui intéresse les utilisateurs de Google Maps, pas comme un classement définitif de chaque ville."
+      de:
+        - "Für den Führer hat Google die im vergangenen Jahr veröffentlichten Restaurantbewertungen in Atlanta, Chicago, New York, San Francisco und Seattle (USA), London, Melbourne, Montréal, Santiago (Chile) und Tokio ausgewertet."
+        - "Neben den beliebtesten Restaurants jeder Stadt enthält er auch ihre kulinarischen Trends. Weltweit kehren klassische Süßspeisen zurück, Matcha dominiert, erdige Aromen und knusprige Texturen sind gefragt. So stiegen die Erwähnungen von Frozen Yogurt in New Yorker Bewertungen um 320 %, die von Hojicha in London um 114 %."
+        - "Man sollte ihn als Momentaufnahme dessen lesen, was auf Google Maps interessiert, nicht als endgültiges Ranking jeder Stadt."
+      it:
+        - "Per realizzare la guida, Google ha analizzato le recensioni e le valutazioni dei ristoranti pubblicate nell’ultimo anno ad Atlanta, Chicago, New York, San Francisco e Seattle (USA), Londra, Melbourne, Montréal, Santiago (Cile) e Tokyo."
+        - "Oltre ai ristoranti più popolari di ogni città, la guida raccoglie le sue tendenze gastronomiche. A livello globale tornano i dolci classici, domina il matcha e piacciono i sapori terrosi e le consistenze croccanti. Per esempio, le menzioni dello yogurt gelato nelle recensioni di New York sono balzate del 320 %, quelle dell’hojicha a Londra del 114 %."
+        - "Va letta come un’istantanea di ciò che interessa su Google Maps, non come una classifica definitiva di ogni città."
+      pt:
+        - "Para elaborar o guia, a Google analisou as avaliações e classificações de restaurantes publicadas no último ano em Atlanta, Chicago, Nova Iorque, São Francisco e Seattle (EUA), Londres, Melbourne, Montreal, Santiago (Chile) e Tóquio."
+        - "Além dos restaurantes mais populares de cada cidade, o guia reúne as suas tendências gastronómicas. A nível global regressam os doces clássicos, domina o matcha e ganham força os sabores terrosos e as texturas estaladiças. Por exemplo, as menções a iogurte gelado nas avaliações de Nova Iorque dispararam 320 % e as de hojicha em Londres 114 %."
+        - "Deve ler-se como um retrato do que interessa no Google Maps, não como um ranking definitivo de cada cidade."
