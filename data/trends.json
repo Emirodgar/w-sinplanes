@@ -332,6 +332,16 @@
    ]
   },
   {
+   "term": "fátima báñez",
+   "traffic": 2000,
+   "lastSeen": "2026-10-28",
+   "news": [
+    "Fátima Báñez reclama reducir el absentismo y los costes laborales para mejorar la productividad",
+    "Las empresas del metal reclaman menos absentismo, más productividad y mano de obra especializada",
+    "La ex ministra del PP, Fátima Báñez, defiende convertir las incertidumbres internacionales en oportunidades"
+   ]
+  },
+  {
    "term": "marta riesco",
    "traffic": 1000,
    "lastSeen": "2026-10-20",
@@ -597,6 +607,26 @@
     "Live updates: Two high-speed trains collide in Spain forcing suspension of line",
     "At least 10 dead after two trains collide south of Madrid, regional official says",
     "Spanish authorities say 2 trains have been involved in accident"
+   ]
+  },
+  {
+   "term": "puerta del sol",
+   "traffic": 1000,
+   "lastSeen": "2026-10-28",
+   "news": [
+    "¿Qué hacer con los sintecho? Una acampada de Sol menguante se atrinchera para aguantar hasta el 11-N",
+    "Tiendas vacías y hartazgo vecinal: Carlos Quílez muestra qué queda de la acampada de Sol un mes después",
+    "Los acampados de Sol se blindan ante las miradas de los curiosos y dicen que se quedarán: \"La acampada sigue, no hay retirada\""
+   ]
+  },
+  {
+   "term": "reina sofia",
+   "traffic": 1000,
+   "lastSeen": "2026-10-28",
+   "news": [
+    "La reina Sofía y su viaje sorpresa a Armenia en una visita fuera de la agenda real",
+    "Doña Sofía, la embajadora incansable de la familia real: de Armenia a Estados Unidos o Reino Unido, la emérita como gran baluarte de la Corona dentro y fuera de España",
+    "Frutas tradicionales y ramos de flores impares: Doña Sofía recibe la hospitalidad de Armenia en su viaje privado al país"
    ]
   },
   {
@@ -936,6 +966,16 @@
     "Atasco kilométrico en la autopista 'Y' por la colisión entre seis coches",
     "Un accidente con seis vehículos implicados provoca retenciones kilométricas en la \"Y\" y colapsa la zona oeste de Gijón durante dos horas",
     "Caos en la «Y» asturiana: seis vehículos chocan en plena hora punta y provocan más de seis kilómetros de atasco hasta Gijón"
+   ]
+  },
+  {
+   "term": "ticketmaster",
+   "traffic": 500,
+   "lastSeen": "2026-10-28",
+   "news": [
+    "Amaral encabeza el cartel del festival que organiza el Sindicato de Inquilinas: \"La vivienda es un derecho\"",
+    "Ticketmaster está a un nivel de monopolio entre las tiqueteras que ya vende hasta los actos del Sindicato de Inquilinas",
+    "Macroconcierto sorpresa en Madrid en favor de la vivienda este noviembre"
    ]
   },
   {
@@ -1664,6 +1704,56 @@
     "Rusia lanza un misil estratégico desde un submarino nuclear en el Ártico y alcanza su objetivo",
     "Un submarino nuclear ruso prueba un misil estratégico con destino al Ártico",
     "Rusia prueba un misil nuclear Bulavá desde un submarino de su Flota del Pacífico y alcanza un objetivo en el Ártico"
+   ]
+  },
+  {
+   "term": "le monde",
+   "traffic": 200,
+   "lastSeen": "2026-10-28",
+   "news": [
+    "La lente infusion de la parole haineuse et raciste, de la droite dure jusqu’au sommet de l’Etat",
+    "“La tension est à son comble en France, et l’attentat de Trappes pourrait être un tournant”",
+    "DIRECT. Attentat raciste à Trappes: un hommage national sera organisé"
+   ]
+  },
+  {
+   "term": "el nacional",
+   "traffic": 200,
+   "lastSeen": "2026-10-28",
+   "news": [
+    "Irene Urdangarin da un nuevo paso en su relación con Fernando Echevarría: las fotos de su escapada a Barcelona con sus hermanos, Pablo y Miguel",
+    "Irene Urdangarin, su nuevo novio y los dos escenarios de su noviazgo: de la familia en Barcelona a la cotidianidad de pareja en Londres",
+    "Irene Urdangarin reaparece en Galicia tras presentar a su novio a su abuelo el rey Juan Carlos I"
+   ]
+  },
+  {
+   "term": "periodico",
+   "traffic": 200,
+   "lastSeen": "2026-10-28",
+   "news": [
+    "La portada de EL PERIÓDICO del 28 de octubre de 2026",
+    "China confirma que no emitirá LaLiga y ve insuficientes las disculpas del Real Madrid",
+    "China no acepta las disculpas del Madrid y confirma el boicot a la Liga"
+   ]
+  },
+  {
+   "term": "cuatro",
+   "traffic": 200,
+   "lastSeen": "2026-10-28",
+   "news": [
+    "La Policía Nacional detiene en Ourense a cuatro personas por la sustracción y venta de joyas valoradas en más de 24.000 euros",
+    "Arrestada una empleada de hogar y tres familiares suyos en Ourense, por la venta por 24.000 euros, de joyas que robaba en la casa en la que trabajaba",
+    "Policía Nacional de Ourense detiene a cuatro personas tras sustraer y vender joyas valoradas en más de 24.000 euros"
+   ]
+  },
+  {
+   "term": "lasexta",
+   "traffic": 200,
+   "lastSeen": "2026-10-28",
+   "news": [
+    "La nueva vida de Cristina Saavedra, la presentadora de laSexta que cambió los informativos por Costa de Marfil: \"Hay una vida emocionante más allá de nuestros ombligos\"",
+    "‘Cara al Show’, con Marc Giró, recibe mañana miércoles a Gabriel Rufián, Pablo López y Manuel Jabois en el Prime Time de laSexta",
+    "Estos son hoy los invitados de 'Cara al show con Marc Giró' en La Sexta (miércoles 28 de octubre de 2026)"
    ]
   },
   {

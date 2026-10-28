@@ -1,11 +1,11 @@
 {
-  "generated": "2026-10-28T10:36:15.190Z",
+  "generated": "2026-10-28T11:43:31.200Z",
   "today": "2026-10-28",
-  "events": 2584,
-  "review": 8,
+  "events": 4000,
+  "review": 10,
   "ai": {
-    "calls": 0,
-    "seconds": 55,
+    "calls": 13,
+    "seconds": 216,
     "tripped": false
   },
   "sources": [
@@ -72,7 +72,7 @@
     {
       "id": "prensa-heraldo-ocio",
       "status": "ok",
-      "count": 21,
+      "count": 20,
       "candidatos": true
     },
     {
@@ -108,7 +108,7 @@
     {
       "id": "prensa-elcorreo-culturas",
       "status": "ok",
-      "count": 5,
+      "count": 6,
       "candidatos": true
     },
     {
@@ -126,7 +126,7 @@
     {
       "id": "prensa-laverdad-culturas",
       "status": "ok",
-      "count": 10,
+      "count": 11,
       "candidatos": true
     },
     {

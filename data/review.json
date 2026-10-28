@@ -78,5 +78,25 @@
   "confianza": 0.5,
   "fuente": "Ara (Cultura)",
   "url": "https://www.ara.cat/cultura/teatre/piel-lava-aterra-barcelona-totes-entrades-venudes_1_5890761.html"
+ },
+ {
+  "id": "a3535852e5",
+  "titulo": "Enrique Bunbury continúa su gira 'Nuevas Mutaciones Tour'",
+  "inicio": "2026-10-29",
+  "municipio": null,
+  "provincia": null,
+  "confianza": 0.5,
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/28/enrique-bunbury-naci-viviamos-piso-pequeno-zaragoza-padres-hermanos-abuelos-2063541.html"
+ },
+ {
+  "id": "27e6dbfe18",
+  "titulo": "Ojete Calor en Sala Mamba (Murcia)",
+  "inicio": "2026-12-26",
+  "municipio": null,
+  "provincia": "Región de Murcia",
+  "confianza": 0.5,
+  "fuente": "La Verdad (Culturas)",
+  "url": "https://www.laverdad.es/culturas/musica/ojete-calor-regresa-sala-mamba-proximo-diciembre-20261028115315-nt.html"
  }
 ]

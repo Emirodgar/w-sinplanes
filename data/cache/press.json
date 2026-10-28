@@ -1,4 +1,11 @@
 {
+ "1323321022": {
+  "url": "https://elpais.com/cultura/2026-10-27/andreas-schager-se-ahoga-en-el-arroyo-de-schubert-durante-su-debut-en-el-ciclo-de-lied.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-10-27",
+  "es_plan": false
+ },
  "4195247063": {
   "url": "https://www.lavanguardia.com/cultura/20261023/11666424/gaitas-aplausos-leonor-asi-sido-manana-reconquista.html",
   "fuente": "La Vanguardia (Cultura)",
@@ -8402,6 +8409,779 @@
   "fuente": "Ideal (Culturas)",
   "src": "prensa-ideal-culturas",
   "publicado": "2026-10-26",
+  "es_plan": false
+ },
+ "dc74a9c561": {
+  "url": "https://www.20minutos.es/cultura/blogs/yaestaellistoquetodolosabe/sabes-que-es-que-hace-referencia-expresion-escopeta-chejov_7026267_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-10-28",
+  "es_plan": false
+ },
+ "51cdf089e6": {
+  "url": "https://elpais.com/cultura/cine/2026-10-28/karateka-la-impresionante-historia-de-sandra-sanchez-que-gano-el-oro-olimpico-a-los-39-anos-superando-todas-las-adversidades.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-10-28",
+  "es_plan": false
+ },
+ "f34dfe0130": {
+  "url": "https://www.lavanguardia.com/cultura/20261028/11669675/sonar-planea-trasladar-port-vell-playa-edicion-dia-d-2027.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-10-28",
+  "es_plan": true,
+  "titulo": "El Sónar planea trasladarse a Port Vell en 2027",
+  "resumen": "El festival Sónar planea celebrar su edición de día y el Sónar + D en Port Vell, Barcelona, del 17 al 19 de junio de 2027. El Sónar de Noche continuará en L'Hospitalet.",
+  "en": {
+   "titulo": "Sónar Plans to Move to Port Vell in 2027",
+   "resumen": "The Sónar festival plans to hold its daytime edition and Sónar + D in Port Vell, Barcelona, from June 17-19, 2027. Sónar de Noche will continue in L'Hospitalet."
+  },
+  "inicio": "2027-06-17",
+  "fin": "2027-06-19",
+  "hora": null,
+  "lugar": "Port Vell",
+  "municipio": "Barcelona",
+  "provincia": "Barcelona",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "2465b38c27": {
+  "url": "https://www.lavanguardia.com/cultura/20261028/11669207/oriol-pla-vivimos-sociedad-niveles-depresion-soledad-patologicos.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-10-28",
+  "es_plan": true,
+  "titulo": "Estreno de 'Esta soledad' con Oriol Pla",
+  "resumen": "El actor Oriol Pla estrena este viernes la película 'Esta soledad', un drama que explora la inestabilidad de una expareja en una sociedad marcada por la precariedad.",
+  "en": {
+   "titulo": "Premiere of 'Esta soledad' with Oriol Pla",
+   "resumen": "Actor Oriol Pla premieres the film 'Esta soledad' this Friday, a drama exploring a former couple's instability in a society marked by precariousness."
+  },
+  "inicio": "2026-10-30",
+  "fin": "2026-10-30",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "69cfedcdc9": {
+  "url": "https://www.ara.cat/gent/hollywood/l-actor-noah-wyle-l-home-mes-sexi-mon-segons-revista-people_1_5892653.html",
+  "fuente": "Ara (Cultura)",
+  "src": "prensa-ara-cultura",
+  "publicado": "2026-10-28",
+  "es_plan": false
+ },
+ "e67c5d7900": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/28/gabriel-rufian-revuelta-quiero-vaya-bien-psoe-trabajo-2063579.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-10-28",
+  "es_plan": false
+ },
+ "6cc49398ef": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/28/victor-manuel-79anos-harto-hoteles-iguales-gira-2063549.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-10-28",
+  "es_plan": true,
+  "titulo": "Últimos conciertos de la gira 'Solo a solas conmigo' de Víctor Manuel",
+  "resumen": "Víctor Manuel, a sus 79 años, ofrece los últimos conciertos de su gira 'Solo a solas conmigo' en 2026, recorriendo ciudades como Las Palmas, Málaga y Madrid.",
+  "en": {
+   "titulo": "Final Concerts of Víctor Manuel's 'Solo a solas conmigo' Tour",
+   "resumen": "Víctor Manuel, at 79, is performing the final concerts of his 'Solo a solas conmigo' tour in 2026, visiting cities like Las Palmas, Málaga, and Madrid."
+  },
+  "inicio": "2026-10-28",
+  "fin": "2026-10-28",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "63d99a8d3e": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/28/leticia-sabater-aclara-lio-cancelacion-fiesta-halloween-pueblo-zaragoza-2063545.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-10-28",
+  "es_plan": false
+ },
+ "a3535852e5": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/28/enrique-bunbury-naci-viviamos-piso-pequeno-zaragoza-padres-hermanos-abuelos-2063541.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-10-28",
+  "es_plan": true,
+  "titulo": "Enrique Bunbury continúa su gira 'Nuevas Mutaciones Tour'",
+  "resumen": "Enrique Bunbury prosigue su gira 'Nuevas Mutaciones Tour' con conciertos en Bogotá y Cali (Colombia) este jueves y sábado, antes de viajar a Argentina y otros países.",
+  "en": {
+   "titulo": "Enrique Bunbury Continues His 'Nuevas Mutaciones Tour'",
+   "resumen": "Enrique Bunbury continues his 'Nuevas Mutaciones Tour' with concerts in Bogotá and Cali (Colombia) this Thursday and Saturday, before traveling to Argentina and other countries."
+  },
+  "inicio": "2026-10-29",
+  "fin": "2026-10-29",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": null,
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.5
+ },
+ "9b5698f9eb": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/28/muere-recortador-corneado-plaza-toros-pueblo-semanas-hospital-2063542.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-10-28",
+  "es_plan": false
+ },
+ "06706249d6": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/28/maximo-huerta-55anos-cuidar-batallas-dia-ganando-pocas-alegrias-2063332.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-10-28",
+  "es_plan": false
+ },
+ "4f51378be3": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/28/monegros-desert-vende-25000-entradas-nombre-cartel-2027-2063221.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-10-28",
+  "es_plan": true,
+  "titulo": "Monegros Desert 2027: Más de 25.000 entradas vendidas",
+  "resumen": "El festival Monegros Desert ha vendido más de 25.000 entradas para su edición de 2027, que se celebrará el 31 de julio, a pesar de no haber anunciado aún el cartel.",
+  "en": {
+   "titulo": "Monegros Desert 2027: Over 25,000 Tickets Sold",
+   "resumen": "The Monegros Desert festival has sold over 25,000 tickets for its 2027 edition, scheduled for July 31st, despite not yet announcing the lineup."
+  },
+  "inicio": "2027-07-31",
+  "fin": "2027-07-31",
+  "hora": null,
+  "lugar": "Desierto de Monegros",
+  "municipio": "Fraga",
+  "provincia": "Huesca",
+  "ambito": "local",
+  "gratis": null,
+  "precio": "81 €",
+  "temas": [
+   "musica",
+   "fiestas",
+   "actividades"
+  ],
+  "a_cubierto": false,
+  "confianza": 0.85
+ },
+ "8b0b5b96ef": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/28/joan-manuel-serrat-situacion-actual-espana-fruto-anos-desgaste-sociedad-momento-expresar-pensamos-2062170.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-10-28",
+  "es_plan": false
+ },
+ "42a727bf27": {
+  "url": "https://www.elnortedecastilla.es/culturas/seminci/programa/programa-completo-seminci-2026-miercoles-octubre-20261028075109-nt.html",
+  "fuente": "El Norte de Castilla (Culturas)",
+  "src": "prensa-nortecastilla-culturas",
+  "publicado": "2026-10-28",
+  "es_plan": true,
+  "titulo": "Programa de la Seminci 2026: Miércoles 28 de octubre",
+  "resumen": "Consulta el programa completo de la sexta jornada de la Semana Internacional del Cine de Valladolid (Seminci) para el miércoles 28 de octubre de 2026.",
+  "en": {
+   "titulo": "Seminci 2026 Program: Wednesday, October 28",
+   "resumen": "Consult the full program for the sixth day of the Valladolid International Film Week (Seminci) on Wednesday, October 28, 2026."
+  },
+  "inicio": "2026-10-28",
+  "fin": "2026-10-28",
+  "hora": null,
+  "lugar": null,
+  "municipio": "Valladolid",
+  "provincia": "Valladolid",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "a7ff22c87a": {
+  "url": "https://www.elcorreo.com/culturas/mejores-planes-culturales-fin-semana-bizkaia-20261028113009-nt.html",
+  "fuente": "El Correo (Culturas)",
+  "src": "prensa-elcorreo-culturas",
+  "publicado": "2026-10-28",
+  "es_plan": true,
+  "titulo": "Planes culturales para el fin de semana en Bizkaia",
+  "resumen": "Descubre los mejores planes culturales recomendados por EL CORREO para este fin de semana en Bizkaia, incluyendo teatro, danza y artes plásticas.",
+  "en": {
+   "titulo": "Best Cultural Plans for the Weekend in Bizkaia",
+   "resumen": "Discover the best cultural plans recommended by EL CORREO for this weekend in Bizkaia, including theater, dance, and visual arts."
+  },
+  "inicio": "2026-10-30",
+  "fin": "2026-11-01",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": "Bizkaia",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "musica",
+   "museos"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "56a7e3f050": {
+  "url": "https://www.diariovasco.com/culturas/risa-volvera-tomar-gipuzkoa-segunda-edicion-umore-20261028000751-nt.html",
+  "fuente": "El Diario Vasco (Culturas)",
+  "src": "prensa-diariovasco-culturas",
+  "publicado": "2026-10-28",
+  "es_plan": true,
+  "titulo": "Festival Internacional de la Comedia UMORE en Gipuzkoa",
+  "resumen": "La segunda edición del Festival Internacional de la Comedia UMORE llega a Gipuzkoa el próximo 3 de marzo con más artistas, funciones y escenarios.",
+  "en": {
+   "titulo": "Umore International Comedy Festival in Gipuzkoa",
+   "resumen": "The second edition of the Umore International Comedy Festival arrives in Gipuzkoa on March 3rd with more artists, shows, and venues."
+  },
+  "inicio": "2027-03-03",
+  "fin": "2027-03-03",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": "Gipuzkoa",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "fiestas"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "621ab365fc": {
+  "url": "https://www.diariovasco.com/culturas/cine/actor-andrew-scott-firme-candidato-temporada-premios-20261028001826-nt.html",
+  "fuente": "El Diario Vasco (Culturas)",
+  "src": "prensa-diariovasco-culturas",
+  "publicado": "2026-10-28",
+  "es_plan": false
+ },
+ "635c5724c4": {
+  "url": "https://www.diariovasco.com/culturas/musica/olatz-salvador-anuncia-cinco-conciertos-cerrar-dos-20261028001811-nt.html",
+  "fuente": "El Diario Vasco (Culturas)",
+  "src": "prensa-diariovasco-culturas",
+  "publicado": "2026-10-28",
+  "es_plan": false
+ },
+ "21b18c6a86": {
+  "url": "https://www.diariovasco.com/culturas/propuestas-diversas-publico-quiere-reir-aprender-20261028000747-nt.html",
+  "fuente": "El Diario Vasco (Culturas)",
+  "src": "prensa-diariovasco-culturas",
+  "publicado": "2026-10-28",
+  "es_plan": false
+ },
+ "76754c8a87": {
+  "url": "https://www.lasprovincias.es/sociedad/orson-welles-enamoro-espana-20261028010643-nt.html",
+  "fuente": "Las Provincias (Culturas)",
+  "src": "prensa-lasprovincias-culturas",
+  "publicado": "2026-10-28",
+  "es_plan": false
+ },
+ "27e6dbfe18": {
+  "url": "https://www.laverdad.es/culturas/musica/ojete-calor-regresa-sala-mamba-proximo-diciembre-20261028115315-nt.html",
+  "fuente": "La Verdad (Culturas)",
+  "src": "prensa-laverdad-culturas",
+  "publicado": "2026-10-28",
+  "es_plan": true,
+  "titulo": "Ojete Calor en Sala Mamba (Murcia)",
+  "resumen": "Ojete Calor regresa a Sala Mamba el próximo 26 de diciembre para su espectáculo de fin de gira. Las entradas salen a la venta el 29 de octubre.",
+  "en": {
+   "titulo": "Ojete Calor at Sala Mamba (Murcia)",
+   "resumen": "Ojete Calor returns to Sala Mamba on December 26th for their end-of-tour show. Tickets go on sale October 29th."
+  },
+  "inicio": "2026-12-26",
+  "fin": "2026-12-26",
+  "hora": null,
+  "lugar": "Sala Mamba",
+  "municipio": null,
+  "provincia": "Región de Murcia",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.5
+ },
+ "0d67118c8a": {
+  "url": "https://www.eldiariomontanes.es/culturas/irene-ortiz-defiende-valor-discrepar-preservar-democracia-20261028074245-nt.html",
+  "fuente": "El Diario Montañés (Culturas)",
+  "src": "prensa-diariomontanes-culturas",
+  "publicado": "2026-10-28",
+  "es_plan": false
+ },
+ "fe1fdfda01": {
+  "url": "https://www.eldiariomontanes.es/culturas/jose-manuel-belmonte-esculturas-cierran-curso-expositivo-20261028074237-nt.html",
+  "fuente": "El Diario Montañés (Culturas)",
+  "src": "prensa-diariomontanes-culturas",
+  "publicado": "2026-10-28",
+  "es_plan": true,
+  "titulo": "Exposición de José Manuel Belmonte en Reocín",
+  "resumen": "El Espacio de Arte Contemporáneo de Reocín acoge una retrospectiva de las esculturas de José Manuel Belmonte, celebrando sus 40 años de trayectoria.",
+  "en": {
+   "titulo": "José Manuel Belmonte Exhibition in Reocín",
+   "resumen": "The Contemporary Art Space in Reocín hosts a retrospective of José Manuel Belmonte's sculptures, celebrating his 40-year career."
+  },
+  "inicio": "2026-11-06",
+  "fin": "2026-12-18",
+  "hora": null,
+  "lugar": "Espacio de Arte Contemporáneo",
+  "municipio": "Reocín",
+  "provincia": "Cantabria",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "84c87af837": {
+  "url": "https://www.eldiariomontanes.es/culturas/santander-reconoce-trayectoria-elena-cordoba-premio-plataforma-20261028071623-nt.html",
+  "fuente": "El Diario Montañés (Culturas)",
+  "src": "prensa-diariomontanes-culturas",
+  "publicado": "2026-10-28",
+  "es_plan": false
+ },
+ "3c9742c776": {
+  "url": "https://www.20minutos.es/cultura/fundacion-canal-presenta-una-muestra-legado-sebastiao-salgado-sobre-fuerza-fragilidad-agua_7054172_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-10-27",
+  "es_plan": true,
+  "titulo": "Exposición 'Aqua Mater' de Sebastião Salgado en Madrid",
+  "resumen": "La Fundación Canal presenta 'Aqua Mater', una exposición fotográfica de Sebastião Salgado sobre la belleza y fragilidad del agua, celebrando el 25 aniversario de la Fundación.",
+  "en": {
+   "titulo": "'Aqua Mater' Exhibition by Sebastião Salgado in Madrid",
+   "resumen": "Fundación Canal presents 'Aqua Mater', a photographic exhibition by Sebastião Salgado on the beauty and fragility of water, celebrating the Foundation's 25th anniversary."
+  },
+  "inicio": "2026-10-28",
+  "fin": "2026-10-28",
+  "hora": null,
+  "lugar": "Fundación Canal",
+  "municipio": "Madrid",
+  "provincia": "Madrid",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "agua",
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "c3d7283253": {
+  "url": "https://www.20minutos.es/musica/los-miserables-triunfa-los-premios-teatro-musical_7054124_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-10-27",
+  "es_plan": false
+ },
+ "ef9c683399": {
+  "url": "https://www.20minutos.es/libros/proxima-feria-libro-madrid-cambia-tematica-elige-las-librerias-como-eje-central-no-memoria_7053983_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-10-27",
+  "es_plan": false
+ },
+ "672a44375b": {
+  "url": "https://www.20minutos.es/musica/harry-styles-desata-las-teorias-su-nuevo-videoclip-coming-up-roses_7053999_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-10-27",
+  "es_plan": false
+ },
+ "27396700d7": {
+  "url": "https://www.20minutos.es/musica/ana-belen-carmen-linares-raphael-entre-los-10-academicos-honor-musica_7053942_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-10-27",
+  "es_plan": false
+ },
+ "d8e6feb2ac": {
+  "url": "https://elpais.com/espana/catalunya/2026-10-27/el-explorador-de-los-faraones-resucita-en-el-museo-egipcio-de-barcelona.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-10-27",
+  "es_plan": false
+ },
+ "25cd8567a9": {
+  "url": "https://elpais.com/cultura/cine/2026-10-27/iran-condena-a-cinco-anos-de-prision-al-cineasta-jafar-panahi-por-rebeldia-y-confisca-sus-bienes.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-10-27",
+  "es_plan": false
+ },
+ "421d71bd1b": {
+  "url": "https://elpais.com/espana/catalunya/2026-10-27/artur-ramon-celebra-100-anos-con-una-exposicion-que-reune-obras-de-mas-de-un-millon-de-euros.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-10-27",
+  "es_plan": false
+ },
+ "6b197a971d": {
+  "url": "https://elpais.com/cultura/2026-10-27/del-altar-de-una-iglesia-gallega-al-palacio-de-liria-el-viaje-de-un-cuadro-del-greco.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-10-27",
+  "es_plan": false
+ },
+ "063025290b": {
+  "url": "https://elpais.com/cultura/2026-10-27/los-miserables-arrasa-en-los-premios-del-teatro-musical-espanol.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-10-27",
+  "es_plan": false
+ },
+ "7ce9254d4f": {
+  "url": "https://elpais.com/cultura/2026-10-27/muere-a-los-88-anos-el-torero-andres-hernando-en-accidente-de-trafico.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-10-27",
+  "es_plan": false
+ },
+ "faceedf515": {
+  "url": "https://www.lavanguardia.com/cultura/20261027/11669793/plaza-catalunya-gaudi.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-10-27",
+  "es_plan": false
+ },
+ "db1983cc14": {
+  "url": "https://www.lavanguardia.com/cultura/20261027/11669598/iran-condena-cineasta-jafar-panahi-5-anos-prision-confiscacion-bienes.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-10-27",
+  "es_plan": false
+ },
+ "d1a96241a1": {
+  "url": "https://www.lavanguardia.com/cultura/20261027/11669576/korsunovas-violencia-masclista-flaix-de-tardor.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-10-27",
+  "es_plan": true,
+  "titulo": "Estreno de 'Šventoji (La Santa)' en el festival Flaix de Tardor BCN",
+  "resumen": "La obra 'Šventoji (La Santa)', escrita y dirigida por Oskaras Koršunovas y Eglé Jackaité, se estrena hoy y mañana en el teatro La Biblioteca de Barcelona.",
+  "en": {
+   "titulo": "Premiere of 'Šventoji (The Saint)' at the Flaix de Tardor BCN festival",
+   "resumen": "The play 'Šventoji (The Saint)', written and directed by Oskaras Koršunovas and Eglé Jackaité, premieres today and tomorrow at the Teatre La Biblioteca in Barcelona."
+  },
+  "inicio": "2026-10-28",
+  "fin": "2026-10-29",
+  "hora": null,
+  "lugar": "Teatro La Biblioteca",
+  "municipio": "Barcelona",
+  "provincia": "Barcelona",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "873febb051": {
+  "url": "https://www.lavanguardia.com/cultura/20261027/11669561/besugos-melendes-warhol-marihuana-artur-ramon-celebra-100-anos-obras-millon-euros.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-10-27",
+  "es_plan": false
+ },
+ "93b44bcd4f": {
+  "url": "https://www.lavanguardia.com/cultura/20261027/11669547/dani-martin-anuncia-nuevas-fechas-conciertos-aplazados-barcelona.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-10-27",
+  "es_plan": true,
+  "titulo": "Dani Martín anuncia nuevas fechas para conciertos en Barcelona",
+  "resumen": "Dani Martín reprograma sus conciertos aplazados en Barcelona para el 19 y 20 de marzo de 2027 en el Palau Sant Jordi. Las entradas actuales serán válidas.",
+  "en": {
+   "titulo": "Dani Martín announces new dates for Barcelona concerts",
+   "resumen": "Dani Martín is rescheduling his postponed concerts in Barcelona for March 19 and 20, 2027, at the Palau Sant Jordi. Current tickets will be valid."
+  },
+  "inicio": "2027-03-19",
+  "fin": "2027-03-20",
+  "hora": null,
+  "lugar": "Palau Sant Jordi",
+  "municipio": "Barcelona",
+  "provincia": "Barcelona",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "musica",
+   "actividades"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "3f029aac06": {
+  "url": "https://www.ara.cat/cultura/art/mor-artista-robert-llimos-alienigenes_1_5891721.html",
+  "fuente": "Ara (Cultura)",
+  "src": "prensa-ara-cultura",
+  "publicado": "2026-10-27",
+  "es_plan": false
+ },
+ "d29ebae0bb": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/27/santiago-auseron-deslumbra-zaragoza-con-un-viaje-corazon-musica-griega-2063531.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-10-27",
+  "es_plan": true,
+  "titulo": "Concierto de Santiago Auserón en Zaragoza",
+  "resumen": "Santiago Auserón ofreció un concierto en el Teatro Principal de Zaragoza explorando la música griega, acompañado por Theodoros Karellas, Vaggelis Tzeretas y Anni B Sweet.",
+  "en": {
+   "titulo": "Santiago Auserón concert in Zaragoza",
+   "resumen": "Santiago Auserón gave a concert at the Teatro Principal in Zaragoza exploring Greek music, accompanied by Theodoros Karellas, Vaggelis Tzeretas, and Anni B Sweet."
+  },
+  "inicio": "2026-10-27",
+  "fin": "2026-10-27",
+  "hora": null,
+  "lugar": "Teatro Principal",
+  "municipio": "Zaragoza",
+  "provincia": "Zaragoza",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "f302e327fc": {
+  "url": "https://www.heraldo.es/ocio-y-cultura/fotos-concierto-santiago-auseron-teatro-principal-zaragoza-2063518-1.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-10-27",
+  "es_plan": true,
+  "titulo": "Fotos del concierto de Santiago Auserón en Zaragoza",
+  "resumen": "El músico Santiago Auserón ofreció un concierto en el Teatro Principal de Zaragoza, compartiendo escenario con Theodoros Karellas, Vaggelis Tzeretas y Anni B Sweet.",
+  "en": {
+   "titulo": "Photos of Santiago Auserón's concert in Zaragoza",
+   "resumen": "Musician Santiago Auserón performed a concert at the Teatro Principal in Zaragoza, sharing the stage with Theodoros Karellas, Vaggelis Tzeretas, and Anni B Sweet."
+  },
+  "inicio": "2026-10-27",
+  "fin": "2026-10-27",
+  "hora": null,
+  "lugar": "Teatro Principal",
+  "municipio": "Zaragoza",
+  "provincia": "Zaragoza",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "a92b29cb32": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/27/dani-martin-reprograma-conciertos-barcelona-marzo-2027-2063409.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-10-27",
+  "es_plan": true,
+  "titulo": "Dani Martín reprograma conciertos en Barcelona para marzo de 2027",
+  "resumen": "Dani Martín ha reprogramado sus conciertos aplazados en el Palau Sant Jordi de Barcelona para el 19 y 20 de marzo de 2027. Las entradas adquiridas previamente serán válidas.",
+  "en": {
+   "titulo": "Dani Martín reschedules Barcelona concerts for March 2027",
+   "resumen": "Dani Martín has rescheduled his postponed concerts at the Palau Sant Jordi in Barcelona for March 19 and 20, 2027. Previously purchased tickets will be valid."
+  },
+  "inicio": "2027-03-19",
+  "fin": "2027-03-20",
+  "hora": null,
+  "lugar": "Palau Sant Jordi",
+  "municipio": "Barcelona",
+  "provincia": "Barcelona",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "musica",
+   "actividades"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "3dc7b8b1c0": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/27/que-quiere-decir-proverbio-aleman-hijos-pequenos-problemas-pequenos-hijos-grandes-problemas-grandes-2059758.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-10-27",
+  "es_plan": false
+ },
+ "aab3137df0": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/27/cancelado-concierto-leticia-sabater-noche-halloween-pueblo-zaragoza-ateca-2062918.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-10-27",
+  "es_plan": false
+ },
+ "bab9337541": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/27/discoteca-zaragoza-transformara-hotel-maldito-halloween-bajo-responsabilidad-2063336.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-10-27",
+  "es_plan": true,
+  "titulo": "Fiesta temática 'Hotel 666' en discoteca de Zaragoza por Halloween",
+  "resumen": "La discoteca Supernova Club en Zaragoza se transforma en el \"Hotel 666\" para una fiesta de Halloween el 31 de octubre, con personajes terroríficos y música.",
+  "en": {
+   "titulo": "'Hotel 666' themed party at Zaragoza nightclub for Halloween",
+   "resumen": "Supernova Club in Zaragoza transforms into 'Hotel 666' for a Halloween party on October 31st, featuring terrifying characters and music."
+  },
+  "inicio": "2026-10-31",
+  "fin": "2026-10-31",
+  "hora": "23:59",
+  "lugar": "Supernova Club",
+  "municipio": "Zaragoza",
+  "provincia": "Zaragoza",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "fiestas",
+   "cultura"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "a59503e613": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/27/alba-flores-cumplir-40-anos-soy-vegetariana-llaman-navidades-saber-que-cocinarme-2063343.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-10-27",
+  "es_plan": false
+ },
+ "07b4325b9f": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/27/arturo-perez-reverte-74-anos-sobre-trabajo-elegir-dejar-morir-otras-doloroso-pasado-vida-2063375.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-10-27",
+  "es_plan": false
+ },
+ "16d05c7687": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/27/sonar-anuncia-su-muerte-con-esquelas-desata-las-alarmas-entre-sus-seguidores-2063365.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-10-27",
+  "es_plan": false
+ },
+ "c72bbe9238": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/27/muere-torero-andres-hernando-accidente-trafico-2063288.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-10-27",
+  "es_plan": false
+ },
+ "6bf53fd57e": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/27/maximo-huerta-recuerda-infancia-creci-ambiente-marcado-violencia-padre-2039894.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-10-27",
+  "es_plan": false
+ },
+ "476f70cbfe": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/27/critica-pelicula-blue-heron-mirada-hermana-2063268.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-10-27",
+  "es_plan": false
+ },
+ "2f9da901b3": {
+  "url": "https://www.elnortedecastilla.es/culturas/seminci/luciernagas-weerasethakul-20261027163747-nt.html",
+  "fuente": "El Norte de Castilla (Culturas)",
+  "src": "prensa-nortecastilla-culturas",
+  "publicado": "2026-10-27",
+  "es_plan": false
+ },
+ "917f66fe23": {
+  "url": "https://www.elnortedecastilla.es/culturas/seminci/bola-negra-nolan-ganar-oscar-poder-sonido-20261027163047-nt.html",
+  "fuente": "El Norte de Castilla (Culturas)",
+  "src": "prensa-nortecastilla-culturas",
+  "publicado": "2026-10-27",
+  "es_plan": false
+ },
+ "e42d824979": {
+  "url": "https://www.elnortedecastilla.es/culturas/seminci/viaje-luminoso-corazon-cine-moretti-20261027162628-nt.html",
+  "fuente": "El Norte de Castilla (Culturas)",
+  "src": "prensa-nortecastilla-culturas",
+  "publicado": "2026-10-27",
+  "es_plan": false
+ },
+ "22e4a6d6cd": {
+  "url": "https://www.diariosur.es/culturas/lado-oscuro-edgar-allan-poe-llega-teatro-20261027202453-nt.html",
+  "fuente": "Diario Sur (Culturas)",
+  "src": "prensa-diariosur-culturas",
+  "publicado": "2026-10-27",
+  "es_plan": false
+ },
+ "0a86bffc77": {
+  "url": "https://www.ideal.es/culturas/jaen/cine-flamenco-cobran-protagonismo-agenda-otonal-universidad-20261027174815-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-10-27",
+  "es_plan": false
+ },
+ "2ceb12668b": {
+  "url": "https://www.ideal.es/culturas/jaen/museo-arqueologico-linares-exhibe-huella-agua-mayo-20261027171121-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-10-27",
   "es_plan": false
  }
 }

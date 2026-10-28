@@ -11541,5 +11541,1621 @@
    "cultura"
   ],
   "a_cubierto": true
+ },
+ "dd40f26217": {
+  "id": "c5ef1bdafd",
+  "es": {
+   "titulo": "A mi Manera: Teatro sobre sueños y vocaciones artísticas",
+   "resumen": "Dos desconocidos se conocen en un chat a principios de los 2000 y descubren su insatisfacción vital y vocaciones artísticas ocultas. Esta obra teatral explora la confianza, la amistad y la lucha por alcanzar los sueños."
+  },
+  "en": {
+   "titulo": "A mi Manera: Theater about dreams and artistic vocations",
+   "resumen": "Two strangers meet online in the early 2000s, discovering their dissatisfaction with life and hidden artistic aspirations. This play explores trust, friendship, and the struggle to achieve one's dreams."
+  },
+  "temas": [
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": true
+ },
+ "84c8905c9c": {
+  "id": "f74355fbe3",
+  "es": {
+   "titulo": "Encuentro con Rafael de León: Copla, flamenco y poesía",
+   "resumen": "Un emotivo homenaje a Rafael de León, figura clave de la copla española. Antonio Harana revive su vida y obra a través de música, poesía e interpretación, fusionando copla, flamenco y poesía."
+  },
+  "en": {
+   "titulo": "Encounter with Rafael de León: Copla, flamenco, and poetry",
+   "resumen": "An emotional tribute to Rafael de León, a key figure in Spanish copla. Antonio Harana revives his life and work through music, poetry, and performance, blending copla, flamenco, and poetry."
+  },
+  "temas": [
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "fd01860873": {
+  "id": "b3e58f090d",
+  "es": {
+   "titulo": "Arte en la calle: Exposición colectiva de pintura",
+   "resumen": "Disfruta de una exposición de pintura al aire libre con obras de varios artistas. El Bulevar de Peña Gorbea se transforma en un espacio para descubrir diferentes miradas, técnicas y estilos artísticos."
+  },
+  "en": {
+   "titulo": "Art in the Street: Collective painting exhibition",
+   "resumen": "Enjoy an open-air painting exhibition featuring works by various artists. The Peña Gorbea Boulevard transforms into a space to discover different artistic perspectives, techniques, and styles."
+  },
+  "temas": [
+   "cultura",
+   "parques"
+  ],
+  "a_cubierto": false
+ },
+ "f6b8467189": {
+  "id": "926de9ed9a",
+  "es": {
+   "titulo": "Arte en la calle: Muestra artística colectiva",
+   "resumen": "Una muestra artística del colectivo 'Arte en la Calle' se exhibe en la Avenida Moratalaz. Un espacio para disfrutar de diversas expresiones artísticas al aire libre."
+  },
+  "en": {
+   "titulo": "Art in the Street: Collective art exhibition",
+   "resumen": "An art exhibition by the 'Arte en la Calle' collective is displayed on Avenida Moratalaz. An open-air space to enjoy diverse artistic expressions."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": false
+ },
+ "6557685681": {
+  "id": "faec7cf228",
+  "es": {
+   "titulo": "Cine Infantil: Bambi, una vida en el bosque",
+   "resumen": "Proyección de la película infantil 'Bambi, una vida en el bosque'. Sigue las aventuras y el aprendizaje de un joven cervatillo en su entorno natural, adaptada del libro de Felix Salten."
+  },
+  "en": {
+   "titulo": "Children's Cinema: Bambi, a life in the woods",
+   "resumen": "Screening of the children's film 'Bambi, a life in the woods'. Follow the adventures and learning of a young fawn in its natural environment, adapted from Felix Salten's book."
+  },
+  "temas": [
+   "ninos",
+   "pantalla"
+  ],
+  "a_cubierto": true
+ },
+ "20930ec8f3": {
+  "id": "ac989ba355",
+  "es": {
+   "titulo": "Caperucita y su intrépida abuela: Teatro de marionetas",
+   "resumen": "Una versión mágica y divertida del cuento clásico con marionetas. Caperucita se enfrenta a un lobo astuto con la ayuda de un duende y una bruja, en una aventura sobre la amistad y la bondad."
+  },
+  "en": {
+   "titulo": "Little Red Riding Hood and her intrepid grandmother: Puppet theater",
+   "resumen": "A magical and fun puppet version of the classic tale. Little Red Riding Hood faces a cunning wolf with the help of a goblin and a witch, in an adventure about friendship and kindness."
+  },
+  "temas": [
+   "ninos",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "4a36e66b1c": {
+  "id": "840da8d618",
+  "es": {
+   "titulo": "Cine: Madrid Distrito en Corto",
+   "resumen": "Programa gratuito de exhibición de cortometrajes en espacios públicos. Se proyectarán diversas obras, algunas recomendadas para todos los públicos y otras con restricciones de edad."
+  },
+  "en": {
+   "titulo": "Cinema: Madrid Distrito en Corto",
+   "resumen": "Free program showcasing short films in public spaces. Various works will be screened, some recommended for all audiences and others with age restrictions."
+  },
+  "temas": [
+   "pantalla",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "487c7547df": {
+  "id": "b30aa2a342",
+  "es": {
+   "titulo": "Cine Infantil: Your Name",
+   "resumen": "Proyección de la película de animación 'Your Name'. Dos adolescentes intercambian cuerpos mientras duermen, desarrollando un vínculo profundo al enfrentar juntos esta insólita situación."
+  },
+  "en": {
+   "titulo": "Children's Cinema: Your Name",
+   "resumen": "Screening of the animated film 'Your Name'. Two teenagers swap bodies in their sleep, developing a deep bond as they face this unusual situation together."
+  },
+  "temas": [
+   "ninos",
+   "pantalla"
+  ],
+  "a_cubierto": true
+ },
+ "dbd0457364": {
+  "id": "9b6242ee9c",
+  "es": {
+   "titulo": "Club de plastilina con Sergio Sosa",
+   "resumen": "Taller creativo para experimentar con la plastilina, crear volúmenes y texturas. Al finalizar, se inaugurará una exposición colectiva con las obras realizadas por los participantes."
+  },
+  "en": {
+   "titulo": "Play-Doh Club with Sergio Sosa",
+   "resumen": "Creative workshop to experiment with Play-Doh, creating volumes and textures. A collective exhibition of the participants' works will be inaugurated at the end."
+  },
+  "temas": [
+   "ninos",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "f5f88104b8": {
+  "id": "a1fbe57915",
+  "es": {
+   "titulo": "Con zarzuela y recitando: Música, teatro y poesía",
+   "resumen": "Espectáculo que fusiona zarzuela, teatro y poesía con tres artistas en escena. Disfruta de números musicales célebres y poemas de autores reconocidos."
+  },
+  "en": {
+   "titulo": "With zarzuela and reciting: Music, theater, and poetry",
+   "resumen": "A show that fuses zarzuela, theater, and poetry with three artists on stage. Enjoy famous musical numbers and poems by renowned authors."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "90f4e144b9": {
+  "id": "d9e6b4626d",
+  "es": {
+   "titulo": "Concierto: Arias y romanzas al alba: el despertar de la lírica",
+   "resumen": "Gala lírica que reúne pasajes musicales célebres de ópera y romanzas españolas. Una propuesta emotiva y elegante para disfrutar de la voz humana y el renacer de la lírica."
+  },
+  "en": {
+   "titulo": "Concert: Arias and romances at dawn: the awakening of lyric",
+   "resumen": "A lyrical gala featuring famous musical passages from opera and Spanish romances. An emotional and elegant proposal to enjoy the human voice and the rebirth of lyric."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "92c6f938cf": {
+  "id": "29bd75e79e",
+  "es": {
+   "titulo": "Conferencia: El ilusionismo en el teatro",
+   "resumen": "Explora el uso del ilusionismo y la fantasía en el teatro desde la Edad Media hasta el Siglo de Oro. Descubre cómo estos recursos escénicos evolucionaron para sorprender al público."
+  },
+  "en": {
+   "titulo": "Lecture: Illusionism in theater",
+   "resumen": "Explore the use of illusionism and fantasy in theater from the Middle Ages to the Golden Age. Discover how these stage resources evolved to surprise audiences."
+  },
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": true
+ },
+ "da7ff6127b": {
+  "id": "d7e04de84e",
+  "es": {
+   "titulo": "Conferencia: Álvaro de Bazán y la batalla de Lepanto",
+   "resumen": "Conoce la decisiva participación de Álvaro de Bazán en la Batalla de Lepanto. Un recorrido por la estrategia naval del siglo XVI y el papel de este gran marino."
+  },
+  "en": {
+   "titulo": "Lecture: Álvaro de Bazán and the Battle of Lepanto",
+   "resumen": "Learn about Álvaro de Bazán's decisive participation in the Battle of Lepanto. A journey through 16th-century naval strategy and the role of this great admiral."
+  },
+  "temas": [
+   "cultura",
+   "historia"
+  ],
+  "a_cubierto": true
+ },
+ "b77f4c6bb1": {
+  "id": "45c95c93ce",
+  "es": {
+   "titulo": "Conferencia: ¿Qué hay en el fondo del mar?",
+   "resumen": "Explora la geología submarina, las zonas desconocidas del fondo oceánico. Descubre qué se esconde bajo el agua en la Tierra, una superficie menos conocida que la de Marte."
+  },
+  "en": {
+   "titulo": "Lecture: What lies at the bottom of the sea?",
+   "resumen": "Explore underwater geology and the unknown areas of the ocean floor. Discover what lies beneath the water on Earth, a surface less known than that of Mars."
+  },
+  "temas": [
+   "naturaleza",
+   "agua",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "3558043c6e": {
+  "id": "9db5b6912e",
+  "es": {
+   "titulo": "Conferencia: La muerte en el arte",
+   "resumen": "Un recorrido por la representación de la muerte en el arte a lo largo de los siglos y en diferentes culturas. Analiza cómo cada sociedad ha plasmado el fin de la vida."
+  },
+  "en": {
+   "titulo": "Lecture: Death in art",
+   "resumen": "A journey through the representation of death in art across centuries and cultures. It analyzes how each society has depicted the end of life."
+  },
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true
+ },
+ "dc2be2bc85": {
+  "id": "41ac9fda54",
+  "es": {
+   "titulo": "Conferencia: Tradiciones del culto a los difuntos",
+   "resumen": "Conoce el origen y las tradiciones del culto a los difuntos en España, desde ritos antiguos hasta las costumbres actuales de Todos los Santos y Fieles Difuntos."
+  },
+  "en": {
+   "titulo": "Lecture: Traditions of the cult of the deceased",
+   "resumen": "Learn about the origin and traditions of the cult of the deceased in Spain, from ancient rites to current customs for All Saints' Day and All Souls' Day."
+  },
+  "temas": [
+   "cultura",
+   "fiestas"
+  ],
+  "a_cubierto": true
+ },
+ "1f2d6eff43": {
+  "id": "3bef008ba0",
+  "es": {
+   "titulo": "Coral Sagrada Familia",
+   "resumen": "Actuación del coro Coral Sagrada Familia en la Parroquia Santa María de Martala."
+  },
+  "en": {
+   "titulo": "Coral Sagrada Familia",
+   "resumen": "Performance by the Coral Sagrada Familia choir at the Parroquia Santa María de Martala."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "eb89bd1a7e": {
+  "id": "7077dc2761",
+  "es": {
+   "titulo": "Cosas de chicos: Cortometraje",
+   "resumen": "Cortometraje sobre Marta, una niña que disfruta del verano y su amistad con los chicos del pueblo. Explora cómo el género puede afectar las dinámicas de amistad."
+  },
+  "en": {
+   "titulo": "Cosas de chicos: Short film",
+   "resumen": "Short film about Marta, a girl enjoying summer and her friendships with the village boys. It explores how gender can affect friendship dynamics."
+  },
+  "temas": [
+   "pantalla",
+   "ninos"
+  ],
+  "a_cubierto": true
+ },
+ "a29fc6bfd6": {
+  "id": "a933cdb22a",
+  "es": {
+   "titulo": "Danza tradicional vasca",
+   "resumen": "Disfruta de una actuación de danza tradicional vasca en la Biblioteca Pública Municipal Iván de Vargas."
+  },
+  "en": {
+   "titulo": "Traditional Basque dance",
+   "resumen": "Enjoy a performance of traditional Basque dance at the Iván de Vargas Municipal Public Library."
+  },
+  "temas": [
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "a3f3f7df83": {
+  "id": "96f6094dfd",
+  "es": {
+   "titulo": "David Moreno: Flamenco-pop",
+   "resumen": "David Moreno presenta su propuesta de flamenco-pop con un estilo personal. Una fusión de flamenco y pop que refleja su trayectoria musical desde joven."
+  },
+  "en": {
+   "titulo": "David Moreno: Flamenco-pop",
+   "resumen": "David Moreno presents his flamenco-pop proposal with a personal style. A fusion of flamenco and pop reflecting his musical career since youth."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": false
+ },
+ "9aca69dda4": {
+  "id": "83c19e660e",
+  "es": {
+   "titulo": "Del latido a la raíz: Tradición asturiana y cántabra",
+   "resumen": "Eva Amieva y Camila reinventan la música tradicional asturiana y cántabra con voz, percusión y violín. Un espectáculo que fusiona la raíz con sonidos contemporáneos."
+  },
+  "en": {
+   "titulo": "From heartbeat to root: Asturian and Cantabrian tradition",
+   "resumen": "Eva Amieva and Camila reinvent Asturian and Cantabrian traditional music with voice, percussion, and violin. A show that fuses roots with contemporary sounds."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "b3548e2d5e": {
+  "id": "9f913dcfd9",
+  "es": {
+   "titulo": "Descubriendo el Día de Muertos: Visita al Altar de Muertos",
+   "resumen": "Conoce el tradicional Altar de Muertos mexicano en la Fundación Casa de México. Descubre el significado de sus colores, objetos y símbolos para recordar a los difuntos."
+  },
+  "en": {
+   "titulo": "Discovering the Day of the Dead: Visit to the Altar of the Dead",
+   "resumen": "Explore the traditional Mexican Altar of the Dead at the Casa de México Foundation. Discover the meaning of its colors, objects, and symbols for remembering the departed."
+  },
+  "temas": [
+   "cultura",
+   "fiestas"
+  ],
+  "a_cubierto": true
+ },
+ "83ea98b2f8": {
+  "id": "3c56152c20",
+  "es": {
+   "titulo": "Don Juan Tenorio: Teatro clásico",
+   "resumen": "La Compañía Ópera Nova Producciones presenta 'Don Juan Tenorio' con vestuario y escenografía de época. Una obra cumbre del Romanticismo español sobre el amor y el destino."
+  },
+  "en": {
+   "titulo": "Don Juan Tenorio: Classic theater",
+   "resumen": "The Ópera Nova Producciones Company presents 'Don Juan Tenorio' with period costumes and scenery. A masterpiece of Spanish Romanticism about love and destiny."
+  },
+  "temas": [
+   "cultura",
+   "teatro"
+  ],
+  "a_cubierto": true
+ },
+ "442e85d654": {
+  "id": "754b496bbe",
+  "es": {
+   "titulo": "El amor que permanece: Drama familiar",
+   "resumen": "Película que narra la historia de una pareja separada y sus hijos a lo largo de cuatro estaciones. Explora la desintegración de una relación y la lucha contra el olvido."
+  },
+  "en": {
+   "titulo": "The love that remains: Family drama",
+   "resumen": "Film depicting a separated couple and their children through four seasons. It explores the disintegration of a relationship and the struggle against forgetting."
+  },
+  "temas": [
+   "pantalla",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "db2c8dd4d6": {
+  "id": "6b7969532e",
+  "es": {
+   "titulo": "El fracaso del éxito: Comedia teatral",
+   "resumen": "Comedia teatral para público adulto que cuestiona la vida adulta y nuestras contradicciones con humor ácido e irónico. Una reflexión sobre el éxito y sus consecuencias."
+  },
+  "en": {
+   "titulo": "The failure of success: Theatrical comedy",
+   "resumen": "Theatrical comedy for adult audiences that questions adult life and our contradictions with sharp, ironic humor. A reflection on success and its consequences."
+  },
+  "temas": [
+   "cultura",
+   "teatro"
+  ],
+  "a_cubierto": true
+ },
+ "cae27b8ce2": {
+  "id": "c14f5059b2",
+  "es": {
+   "titulo": "El porqué de los seres y las cosas",
+   "resumen": "Espectáculo de teatro infantil con narración de Nelson Calderón. Descubre de forma divertida por qué la tortuga es lenta o los pájaros vuelan. Recomendado a partir de 4 años y con intérprete de lengua de signos."
+  },
+  "en": {
+   "titulo": "The Why of Beings and Things",
+   "resumen": "Children's theater show narrated by Nelson Calderón. Discover in a fun way why turtles are slow or birds fly. Recommended for ages 4 and up, with a sign language interpreter."
+  },
+  "temas": [
+   "ninos",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "311df42aa6": {
+  "id": "a1734b3aac",
+  "es": {
+   "titulo": "El relevo",
+   "resumen": "Cortometraje de 13 minutos donde un joven desesperado por trabajo roba la identidad de un rider accidentado. Seleccionado en festivales como Málaga y Lanzarote. Recomendado a partir de 12 años."
+  },
+  "en": {
+   "titulo": "The Relay",
+   "resumen": "A 13-minute short film where a young man desperate for work steals the identity of an injured rider. Selected at festivals like Málaga and Lanzarote. Recommended for ages 12 and up."
+  },
+  "temas": [
+   "pantalla",
+   "deporte"
+  ],
+  "a_cubierto": true
+ },
+ "62e7ae5eee": {
+  "id": "cf81fd51c0",
+  "es": {
+   "titulo": "El viaje de Harold",
+   "resumen": "Proyección de la película 'The Unlikely Pilgrimage of Harold Fry'. Un hombre jubilado emprende un viaje a pie para llevar un mensaje a una amiga enferma. Duración 103 min. Recomendada a partir de 12 años."
+  },
+  "en": {
+   "titulo": "Harold's Journey",
+   "resumen": "Screening of the film 'The Unlikely Pilgrimage of Harold Fry'. A retired man embarks on a walking journey to deliver a message to a sick friend. Running time 103 min. Recommended for ages 12 and up."
+  },
+  "temas": [
+   "pantalla",
+   "rutas"
+  ],
+  "a_cubierto": true
+ },
+ "b7de50ab7d": {
+  "id": "b17c5c053f",
+  "es": {
+   "titulo": "Crononautas de la Tierra: Un viaje de 13.800 m.a.",
+   "resumen": "Taller familiar inmersivo de aventura y ciencia. Reconstruye la historia del universo y el planeta trabajando en equipo, realizando experimentos y excavaciones simuladas. Fomenta la curiosidad científica."
+  },
+  "en": {
+   "titulo": "Earth Chrononauts: A 13.8 Billion Year Journey",
+   "resumen": "Immersive family workshop of adventure and science. Reconstruct the history of the universe and planet by working as a team, conducting experiments and simulated excavations. Fosters scientific curiosity."
+  },
+  "temas": [
+   "ninos",
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "dfabcac9fe": {
+  "id": "107d5c5286",
+  "es": {
+   "titulo": "Exposición de pintura conjunta",
+   "resumen": "Muestra de obras de Clemencia Armenteros y Francisca García, dos artistas unidas por su pasión por la pintura. Explora sus distintas trayectorias y sensibilidades a través del color y la expresión."
+  },
+  "en": {
+   "titulo": "Joint Painting Exhibition",
+   "resumen": "Exhibition of works by Clemencia Armenteros and Francisca García, two artists united by their passion for painting. Explore their different paths and sensitivities through color and expression."
+  },
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true
+ },
+ "120071b373": {
+  "id": "18800a64ea",
+  "es": {
+   "titulo": "Exposición de Pintura: 'Latidos de Color'",
+   "resumen": "Exposición de pintura en acuarela, óleo y acrílica titulada 'Latidos de Color', a cargo de María Fernanda del Hoyo Alves y Clara Albite García. Horario amplio de lunes a sábado."
+  },
+  "en": {
+   "titulo": "Painting Exhibition: 'Heartbeats of Color'",
+   "resumen": "Exhibition of watercolor, oil, and acrylic paintings titled 'Heartbeats of Color', by María Fernanda del Hoyo Alves and Clara Albite García. Extended hours from Monday to Saturday."
+  },
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true
+ },
+ "366c673902": {
+  "id": "6bc059ed5f",
+  "es": {
+   "titulo": "Exposición del legado musical Higueras-Palatín",
+   "resumen": "Exposición dedicada al legado musical de Higueras-Palatín en la Biblioteca Musical Víctor Espinós. Un recorrido por su contribución a la música."
+  },
+  "en": {
+   "titulo": "Higueras-Palatín Musical Legacy Exhibition",
+   "resumen": "Exhibition dedicated to the musical legacy of Higueras-Palatín at the Víctor Espinós Music Library. A journey through their contribution to music."
+  },
+  "temas": [
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "2b83c3fb6d": {
+  "id": "b67de5b4bd",
+  "es": {
+   "titulo": "Extrospección introspectiva",
+   "resumen": "Exposición de escultura y pintura de Ignacio Asenjo Salcedo. Incluye inauguración y visitas guiadas específicas para las esculturas y las pinturas. Entrada libre."
+  },
+  "en": {
+   "titulo": "Introspective Extrospection",
+   "resumen": "Exhibition of sculpture and painting by Ignacio Asenjo Salcedo. Includes an opening and guided tours specifically for the sculptures and paintings. Free entry."
+  },
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true
+ },
+ "88b24c2ab6": {
+  "id": "ca7d918c8f",
+  "es": {
+   "titulo": "Festival + Latina: Ícaro - Allin Alive",
+   "resumen": "Concierto y experiencia visual dentro del Festival + Latina, con las actuaciones de Ícaro y Allin Alive. Reparto de entradas una hora antes del evento."
+  },
+  "en": {
+   "titulo": "+ Latina Festival: Ícaro - Allin Alive",
+   "resumen": "Concert and visual experience within the + Latina Festival, featuring performances by Ícaro and Allin Alive. Tickets distributed one hour before the event."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "eb19645eda": {
+  "id": "9d042e31b9",
+  "es": {
+   "titulo": "Héctor el Mago",
+   "resumen": "Espectáculo de magia, humor y participación familiar con Héctor el Mago. Disfruta de efectos sorprendentes y momentos de improvisación en el Jardín del Bulevar de Peña Gorbea."
+  },
+  "en": {
+   "titulo": "Héctor the Magician",
+   "resumen": "Magic, humor, and family participation show with Héctor the Magician. Enjoy surprising effects and moments of improvisation in the Peña Gorbea Boulevard Garden."
+  },
+  "temas": [
+   "ninos",
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": false
+ },
+ "6ba8d2bbb9": {
+  "id": "5e24f8789c",
+  "es": {
+   "titulo": "Historia de Halloween",
+   "resumen": "Actividad sobre la historia de Halloween en la Biblioteca Pública Municipal Eugenio Trías, ubicada en la Casa de Fieras de El Retiro."
+  },
+  "en": {
+   "titulo": "History of Halloween",
+   "resumen": "Activity about the history of Halloween at the Eugenio Trías Municipal Public Library, located in the El Retiro Animal House."
+  },
+  "temas": [
+   "cultura",
+   "libros",
+   "fiestas"
+  ],
+  "a_cubierto": true
+ },
+ "4ee77bbc68": {
+  "id": "c1b41d83a8",
+  "es": {
+   "titulo": "Homenaje a los poetas",
+   "resumen": "Velada teatral de la Compañía Omnia con Marta Mulero y Elena Merlo. Un recital que entrelaza palabra y música para celebrar la poesía y la riqueza de la lengua. Entrada gratuita."
+  },
+  "en": {
+   "titulo": "Homage to the Poets",
+   "resumen": "Theatrical evening by Compañía Omnia with Marta Mulero and Elena Merlo. A recital that intertwines words and music to celebrate poetry and the richness of the language. Free entry."
+  },
+  "temas": [
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "20638ea986": {
+  "id": "43fbd6c4cb",
+  "es": {
+   "titulo": "HUMOR: Tony Melero",
+   "resumen": "Tony Melero, hijo de Tony Antonio, ofrece un espectáculo de humor e imitaciones. También actor y músico, comparte su talento en el Auditorio Canal de Panamá."
+  },
+  "en": {
+   "titulo": "HUMOR: Tony Melero",
+   "resumen": "Tony Melero, son of Tony Antonio, presents a show of humor and impersonations. Also an actor and musician, he shares his talent at the Canal de Panamá Auditorium."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "47a7974485": {
+  "id": "c29fe05ad8",
+  "es": {
+   "titulo": "Igor Nedeljkovic Quartet",
+   "resumen": "Actuación del Igor Nedeljkovic Quartet dentro del Festival de Jazz de Ciudad Lineal. Una propuesta que fusiona jazz, flamenco, folclore y sonidos urbanos."
+  },
+  "en": {
+   "titulo": "Igor Nedeljkovic Quartet",
+   "resumen": "Performance by the Igor Nedeljkovic Quartet as part of the Ciudad Lineal Jazz Festival. A proposal that fuses jazz, flamenco, folklore, and urban sounds."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "0e21fd53e9": {
+  "id": "4a000d1e29",
+  "es": {
+   "titulo": "III Ciclo de Música Clásica: El Ave María",
+   "resumen": "Concierto del III Ciclo de Música Clásica dedicado al 'Ave María'. Participan Reyes Moraleda (soprano), Javier Checa (tenor) y Dania Rodríguez (pianista)."
+  },
+  "en": {
+   "titulo": "3rd Classical Music Cycle: Ave Maria",
+   "resumen": "Concert from the 3rd Classical Music Cycle dedicated to 'Ave Maria'. Featuring Reyes Moraleda (soprano), Javier Checa (tenor), and Dania Rodríguez (pianist)."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "0ff8497336": {
+  "id": "8617feb67f",
+  "es": {
+   "titulo": "Joel Jazzy Blues Band",
+   "resumen": "La Joel Jazzy Blues Band presenta su fusión de blues, rhythm & blues y jazz en el Festival de Jazz de Ciudad Lineal. Un recorrido por la historia del blues."
+  },
+  "en": {
+   "titulo": "Joel Jazzy Blues Band",
+   "resumen": "The Joel Jazzy Blues Band presents their fusion of blues, rhythm & blues, and jazz at the Ciudad Lineal Jazz Festival. A journey through the history of blues."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "245bda5af7": {
+  "id": "70735bffc9",
+  "es": {
+   "titulo": "La fuerza",
+   "resumen": "Cortometraje de 12 minutos donde un debate sobre 'La Guerra de las Galaxias' revela la personalidad de los alumnos y enseña una lección sobre el bien y el mal. Premiado en festivales."
+  },
+  "en": {
+   "titulo": "The Force",
+   "resumen": "A 12-minute short film where a debate about 'Star Wars' reveals students' personalities and teaches a lesson about good and evil. Award-winning at festivals."
+  },
+  "temas": [
+   "pantalla",
+   "ninos"
+  ],
+  "a_cubierto": true
+ },
+ "00a750d556": {
+  "id": "2ad4784370",
+  "es": {
+   "titulo": "Lav Art",
+   "resumen": "Exposición de arte contemporáneo en las calles del barrio de Lavapiés. Un recorrido por la cartografía del arte actual en la zona."
+  },
+  "en": {
+   "titulo": "Lav Art",
+   "resumen": "Contemporary art exhibition in the streets of the Lavapiés neighborhood. A tour of the current art map in the area."
+  },
+  "temas": [
+   "cultura",
+   "arte"
+  ],
+  "a_cubierto": false
+ },
+ "5b7c5e90a6": {
+  "id": "a83b7dfab0",
+  "es": {
+   "titulo": "Lucía Mora y sus bailarines",
+   "resumen": "Propuesta de pop español actual de Lucía Mora, con energía y emoción. Un directo que mezcla música, ritmo y puesta en escena con sus bailarines."
+  },
+  "en": {
+   "titulo": "Lucía Mora and her Dancers",
+   "resumen": "Lucía Mora presents a current Spanish pop act, full of energy and emotion. A live performance blending music, rhythm, and staging with her dancers."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": false
+ },
+ "5e1a54869c": {
+  "id": "e60eebbd37",
+  "es": {
+   "titulo": "Ludoteca: Títeres y marionetas",
+   "resumen": "Taller familiar para descubrir el mundo de las marionetas. Construye tu propio títere, manipúlalo y representa historias. Incluye juegos y cuentacuentos."
+  },
+  "en": {
+   "titulo": "Playroom: Puppets and Marionettes",
+   "resumen": "Family workshop to discover the world of puppets and marionettes. Build your own puppet, manipulate it, and perform stories. Includes games and storytelling."
+  },
+  "temas": [
+   "ninos",
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "8f562cf72f": {
+  "id": "82e125eeb0",
+  "es": {
+   "titulo": "Luís López & Rebeca Moreno",
+   "resumen": "Dúo acústico de rumbas, flamenco y versiones populares de Luis López y Rebeca Moreno. Un espectáculo cercano, auténtico y cargado de sentimiento. Para mayores de 18 años."
+  },
+  "en": {
+   "titulo": "Luís López & Rebeca Moreno",
+   "resumen": "Acoustic duo performing rumbas, flamenco, and popular covers by Luis López and Rebeca Moreno. An intimate, authentic, and heartfelt show. For ages 18 and up."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "063406a45e": {
+  "id": "6dbbb08c0f",
+  "es": {
+   "titulo": "Madrid distrito en corto",
+   "resumen": "Proyección de cortometrajes variados como 'Una cabeza en la pared', 'La fuerza', 'El relevo', 'Cosas de chicos' y 'Teo va al espacio'. Duración total 70 minutos."
+  },
+  "en": {
+   "titulo": "Madrid Short Films",
+   "resumen": "Screening of various short films including 'A Head Against the Wall', 'The Force', 'The Relay', 'Boys' Stuff', and 'Teo Goes to Space'. Total duration 70 minutes."
+  },
+  "temas": [
+   "pantalla",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "5470ceed98": {
+  "id": "c5e10d94da",
+  "es": {
+   "titulo": "Madrid en corto en San Blas - Canillejas",
+   "resumen": "Consulta el programa de proyecciones de cortometrajes en el Centro Cultural Buero Vallejo del distrito de San Blas - Canillejas."
+  },
+  "en": {
+   "titulo": "Madrid Short Films in San Blas - Canillejas",
+   "resumen": "Check the program for short film screenings at the Buero Vallejo Cultural Center in the San Blas - Canillejas district."
+  },
+  "temas": [
+   "pantalla",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "e6844d38b2": {
+  "id": "0aaa13079c",
+  "es": {
+   "titulo": "Magia y Desvaríos Varios",
+   "resumen": "Espectáculo de magia familiar con Joaco Showman. Humor, clown e improvisación se unen en un show imprevisible y participativo para todos los públicos."
+  },
+  "en": {
+   "titulo": "Magic and Various Deliriums",
+   "resumen": "Family magic show with Joaco Showman. Humor, clowning, and improvisation come together in an unpredictable and participatory show for all audiences."
+  },
+  "temas": [
+   "ninos",
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "726b625913": {
+  "id": "9a49e5dbcf",
+  "es": {
+   "titulo": "Maniobras públicas",
+   "resumen": "Proyecto de la Asociación 'La Cantera' en el Centro Cultural Puerta de Toledo. Una intervención que invita a escuchar, leer y observar correspondencias misteriosas."
+  },
+  "en": {
+   "titulo": "Public Maneuvers",
+   "resumen": "Project by the 'La Cantera' Association at the Puerta de Toledo Cultural Center. An intervention inviting participants to listen, read, and observe mysterious correspondences."
+  },
+  "temas": [
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "3dbb24e9fc": {
+  "id": "a9be398f85",
+  "es": {
+   "titulo": "Más autonomía, menos dependencia: Terapia Ocupacional en casa",
+   "resumen": "Descubre estrategias prácticas de Terapia Ocupacional para mejorar la autonomía y reducir la dependencia en tu día a día. Una charla informativa en la Biblioteca Pública Municipal Ángel González."
+  },
+  "en": {
+   "titulo": "More Autonomy, Less Dependence: Occupational Therapy at Home",
+   "resumen": "Discover practical Occupational Therapy strategies to enhance daily autonomy and reduce dependence. An informative talk at the Ángel González Municipal Public Library."
+  },
+  "temas": [
+   "actividades"
+  ],
+  "a_cubierto": null
+ },
+ "efeb61dd73": {
+  "id": "78fa760f50",
+  "es": {
+   "titulo": "Mesa-coloquio: La crítica en el teatro español actual",
+   "resumen": "Participa en un debate sobre el estado actual de la crítica teatral en España. Una mesa redonda en la Biblioteca Pública Municipal Iván de Vargas."
+  },
+  "en": {
+   "titulo": "Panel Discussion: Criticism in Current Spanish Theatre",
+   "resumen": "Join a debate on the current state of theatre criticism in Spain. A panel discussion at the Iván de Vargas Municipal Public Library."
+  },
+  "temas": [
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": null
+ },
+ "14ffe2694a": {
+  "id": "a6838ca893",
+  "es": {
+   "titulo": "Música cuentística: Libritis",
+   "resumen": "Un espectáculo infantil que fusiona música original, cuentos y humor suave con participación del público. Ideal para niños de 3 a 10 años en el Centro Cultural Mercado de Ibiza."
+  },
+  "en": {
+   "titulo": "Storytelling Music: Libritis",
+   "resumen": "A children's show blending original music, stories, and gentle humor with audience participation. Ideal for ages 3 to 10 at the Mercado de Ibiza Cultural Center."
+  },
+  "temas": [
+   "ninos",
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "233f173868": {
+  "id": "c497679e5d",
+  "es": {
+   "titulo": "Liuba María Hevia presenta su disco 'Almas comunes'",
+   "resumen": "La cantautora cubana española Liuba María Hevia presenta su nuevo álbum, un viaje musical entre Cuba y España que explora la memoria, el amor y la identidad. Concierto en el Auditorio Canal de Panamá."
+  },
+  "en": {
+   "titulo": "Liuba María Hevia Presents Her Album 'Almas comunes'",
+   "resumen": "Cuban-Spanish singer-songwriter Liuba María Hevia presents her new album, a musical journey between Cuba and Spain exploring memory, love, and identity. Concert at the Canal de Panamá Auditorium."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "b534ef44c3": {
+  "id": "8a163565f3",
+  "es": {
+   "titulo": "Obertura, con 3 notas: Espectáculo de clown contemporáneo",
+   "resumen": "Tres músicos transforman un ensayo en una sucesión de situaciones cómicas y absurdas. Un espectáculo de clown sin palabras que combina música y humor en el Centro Cultural Fernando Lázaro Carreter."
+  },
+  "en": {
+   "titulo": "Obertura, con 3 notas: Contemporary Clown Show",
+   "resumen": "Three musicians turn a rehearsal into a series of comical and absurd situations. A wordless clown show blending music and humor at the Fernando Lázaro Carreter Cultural Center."
+  },
+  "temas": [
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "79aa1dc7f0": {
+  "id": "3f2130c024",
+  "es": {
+   "titulo": "Obras cortas de Chéjov (Evento Cancelado)",
+   "resumen": "El grupo Juglar al Cinquillo adapta tres cuentos cortos de Antón Chéjov: 'El Oso', 'La Petición de mano' y 'El Aniversario'. Evento cancelado en el Centro Cultural Lope de Vega."
+  },
+  "en": {
+   "titulo": "Short Works by Chekhov (Event Cancelled)",
+   "resumen": "The Juglar al Cinquillo group adapts three short stories by Anton Chekhov: 'The Bear', 'The Proposal', and 'The Anniversary'. Event cancelled at the Lope de Vega Cultural Center."
+  },
+  "temas": [
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": null
+ },
+ "7f3236ea39": {
+  "id": "5a2c7cd780",
+  "es": {
+   "titulo": "Otoño Jazz Concert con Carabanchel Jazz Club",
+   "resumen": "Un quinteto de jazz interpreta temas reconocibles del género con voz, saxo, guitarra, bajo y batería. Disfruta de la música en el Centro Sociocultural García Lorca."
+  },
+  "en": {
+   "titulo": "Autumn Jazz Concert with Carabanchel Jazz Club",
+   "resumen": "A jazz quintet performs well-known genre pieces with vocals, saxophone, guitar, bass, and drums. Enjoy the music at the García Lorca Sociocultural Center."
+  },
+  "temas": [
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "698b493390": {
+  "id": "1a749e11d0",
+  "es": {
+   "titulo": "Pagliuca-Mena Quartet: Jazz multicultural",
+   "resumen": "El Pagliuca-Mena Quartet ofrece un recorrido por el jazz contemporáneo de identidad multicultural, fusionando ritmos latinoamericanos y mediterráneos. Concierto en el Centro Cultural San Juan Bautista."
+  },
+  "en": {
+   "titulo": "Pagliuca-Mena Quartet: Multicultural Jazz",
+   "resumen": "The Pagliuca-Mena Quartet presents a journey through contemporary jazz with a multicultural identity, blending Latin American and Mediterranean rhythms. Concert at the San Juan Bautista Cultural Center."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "39724ab2ac": {
+  "id": "df85c43612",
+  "es": {
+   "titulo": "Parque de la Vaguada",
+   "resumen": "Disfruta de un espacio verde en la ciudad. El Parque de la Vaguada ofrece un lugar para el esparcimiento y la naturaleza en Madrid."
+  },
+  "en": {
+   "titulo": "La Vaguada Park",
+   "resumen": "Enjoy a green space in the city. La Vaguada Park offers a place for recreation and nature in Madrid."
+  },
+  "temas": [
+   "naturaleza",
+   "parques"
+  ],
+  "a_cubierto": false
+ },
+ "e25e0183ff": {
+  "id": "c45dfde8fe",
+  "es": {
+   "titulo": "Película: El cameraman (1928)",
+   "resumen": "Ciclo de Clásicos de la Comedia Muda. Un torpe hombre intenta ser camarógrafo para acercarse a la mujer que ama en esta película de 1928. Proyección en el Centro Dotacional Integrado Arganzuela Ángel del Río."
+  },
+  "en": {
+   "titulo": "Film: The Cameraman (1928)",
+   "resumen": "Classics of Silent Comedy Cycle. A clumsy man tries to become a cameraman to get closer to the woman he loves in this 1928 film. Screening at the Arganzuela Ángel del Río Integrated Endowment Center."
+  },
+  "temas": [
+   "pantalla",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "f8f5dcaa31": {
+  "id": "fdede96fbe",
+  "es": {
+   "titulo": "Película: El forzudo (1926)",
+   "resumen": "Ciclo de Clásicos de la Comedia Muda. Un soldado belga viaja a América tras la guerra para conocer a la mujer que le escribe cartas. Película de 1926 en el Centro Dotacional Integrado Arganzuela Ángel del Río."
+  },
+  "en": {
+   "titulo": "Film: The Strong Man (1926)",
+   "resumen": "Classics of Silent Comedy Cycle. A mild-mannered Belgian soldier travels to America after the war to meet the woman who writes him letters. 1926 film at the Arganzuela Ángel del Río Integrated Endowment Center."
+  },
+  "temas": [
+   "pantalla",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "16cee5c3c4": {
+  "id": "49620987c2",
+  "es": {
+   "titulo": "Película: Las siete ocasiones (1925)",
+   "resumen": "Ciclo de Clásicos de la Comedia Muda. Un agente de bolsa debe casarse antes de su cumpleaños para heredar una fortuna. Comedia de Buster Keaton de 1925 en el Centro Dotacional Integrado Arganzuela Ángel del Río."
+  },
+  "en": {
+   "titulo": "Film: Seven Chances (1925)",
+   "resumen": "Classics of Silent Comedy Cycle. A stockbroker must get married before his birthday to inherit a fortune. Buster Keaton comedy from 1925 at the Arganzuela Ángel del Río Integrated Endowment Center."
+  },
+  "temas": [
+   "pantalla",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "f0cb78d8b0": {
+  "id": "398b7af97c",
+  "es": {
+   "titulo": "Película: Nada (1947)",
+   "resumen": "Ciclo 'La vida en un hilo'. Adaptación de la novela de Carmen Laforet sobre una joven que llega a Barcelona y se instala en un piso sombrío. Proyección en el Centro Cultural Casa del Reloj."
+  },
+  "en": {
+   "titulo": "Film: Nada (1947)",
+   "resumen": "Cycle 'Life on a Thread'. Adaptation of Carmen Laforet's novel about a young woman arriving in Barcelona and settling into a gloomy apartment. Screening at the Casa del Reloj Cultural Center."
+  },
+  "temas": [
+   "pantalla",
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "604145cc5d": {
+  "id": "2f2b6328ab",
+  "es": {
+   "titulo": "Pequeñas huellas, grandes historias: Cuentos de animales",
+   "resumen": "Un viaje mágico por bosques y selvas para descubrir las maravillosas historias de insectos y pequeños animalitos. Espectáculo para niños a partir de 4 años en el Centro Sociocultural Oporto."
+  },
+  "en": {
+   "titulo": "Small Footprints, Big Stories: Animal Tales",
+   "resumen": "A magical journey through forests and jungles to discover the wonderful stories of insects and small animals. Show for children aged 4 and up at the Oporto Sociocultural Center."
+  },
+  "temas": [
+   "ninos",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "186f96a72e": {
+  "id": "ec4648aa28",
+  "es": {
+   "titulo": "Pequeños científicos: Física y química en familia",
+   "resumen": "Actividad familiar gratuita en el Aula Ambiental La Cabaña del Retiro. Incluye recorridos y talleres creativos de física y química para niños a partir de 8 años. Requiere inscripción previa."
+  },
+  "en": {
+   "titulo": "Little Scientists: Family Physics and Chemistry",
+   "resumen": "Free family activity at La Cabaña del Retiro Environmental Classroom. Includes tours and creative physics and chemistry workshops for children aged 8 and up. Advance booking required."
+  },
+  "temas": [
+   "ninos",
+   "actividades",
+   "naturaleza"
+  ],
+  "a_cubierto": true
+ },
+ "01979f0983": {
+  "id": "bbcc219390",
+  "es": {
+   "titulo": "Perra vida; dulces sueños: Comedia de humor negro",
+   "resumen": "Una comedia de humor negro sobre dos antihéroes urbanos, sus trabajos, ilusiones y sueños delirantes. Recomendada a partir de 12 años en el Centro Cultural Buero Vallejo."
+  },
+  "en": {
+   "titulo": "Perra vida; dulces sueños: Black Comedy",
+   "resumen": "A black comedy about two urban anti-heroes, their jobs, illusions, and wild dreams. Recommended for ages 12 and up at the Buero Vallejo Cultural Center."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "fec21a1b70": {
+  "id": "1f624dfded",
+  "es": {
+   "titulo": "Piel Canela Trío: Boleros, tangos y bossa nova",
+   "resumen": "Un trío musical ofrece un repertorio de boleros, tangos y bossa nova con grandes éxitos, creando un espectáculo cálido e íntimo. Entrada gratuita previa reserva en el Centro Cultural Julio Cortázar."
+  },
+  "en": {
+   "titulo": "Piel Canela Trío: Boleros, Tangos, and Bossa Nova",
+   "resumen": "A musical trio presents a repertoire of boleros, tangos, and bossa nova featuring great hits, creating a warm and intimate show. Free entry with prior reservation at the Julio Cortázar Cultural Center."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "1de3a3d7bb": {
+  "id": "6bae042a05",
+  "es": {
+   "titulo": "Poesía flamenca: Homenaje a Lorca",
+   "resumen": "Un concierto poético inspirado en Federico García Lorca, donde voz y piano se unen en una propuesta escénica que combina literatura, música y sensibilidad flamenca. Para todos los públicos en el Centro Cultural Buenavista."
+  },
+  "en": {
+   "titulo": "Flamenco Poetry: Homage to Lorca",
+   "resumen": "A poetic concert inspired by Federico García Lorca, where voice and piano unite in a stage proposal blending literature, music, and flamenco sensibility. For all audiences at the Buenavista Cultural Center."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "13bca59c67": {
+  "id": "c75e04bbad",
+  "es": {
+   "titulo": "Poesía, tango y Flamenco en el Centro Cultural el Torito",
+   "resumen": "Una fusión única de flamenco, poesía y tango con poemas de Miguel Oscar Menassa, música de Manuel Valencia y actuaciones del Grupo Cero. Un viaje cultural para todos los públicos."
+  },
+  "en": {
+   "titulo": "Poetry, Tango, and Flamenco at El Torito Cultural Center",
+   "resumen": "A unique fusion of flamenco, poetry, and tango featuring poems by Miguel Oscar Menassa, music by Manuel Valencia, and performances by Grupo Cero. A cultural journey for all audiences."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "d4c6adaaf2": {
+  "id": "0b0e38daaa",
+  "es": {
+   "titulo": "Programa del jueves 12 de noviembre: Cortometrajes",
+   "resumen": "Proyección de varios cortometrajes: 'Faustino', 'Abril, hoy no es invierno', 'Una vocal' y 'Chicken Jazz'. Una selección diversa de historias en Madrid."
+  },
+  "en": {
+   "titulo": "Thursday, November 12 Program: Short Films",
+   "resumen": "Screening of several short films: 'Faustino', 'Abril, hoy no es invierno', 'Una vocal', and 'Chicken Jazz'. A diverse selection of stories in Madrid."
+  },
+  "temas": [
+   "pantalla",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "aef991c901": {
+  "id": "3d337f10f0",
+  "es": {
+   "titulo": "Programa del sábado 14 de noviembre: Cortometrajes",
+   "resumen": "Proyección de cortometrajes como '¡Por las tetas de Lucía!', 'Un buen salvaje', 'Epifanía', 'Pinchu es así' y 'El Revisor'. Historias diversas para el fin de semana."
+  },
+  "en": {
+   "titulo": "Saturday, November 14 Program: Short Films",
+   "resumen": "Screening of short films including '¡Por las tetas de Lucía!', 'Un buen salvaje', 'Epifanía', 'Pinchu es así', and 'El Revisor'. Diverse stories for the weekend."
+  },
+  "temas": [
+   "pantalla",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "f5a1d2f29a": {
+  "id": "8aaeea7e50",
+  "es": {
+   "titulo": "Programa del viernes 13 de noviembre: Cortometrajes",
+   "resumen": "Presentación de cortometrajes: 'Lo que no se ve', 'Cara de cona', 'Pordentro', 'Pobre Marciano' y 'M.A.T., Molt Alta Tensió'. Una selección de cine breve."
+  },
+  "en": {
+   "titulo": "Friday, November 13 Program: Short Films",
+   "resumen": "Presentation of short films: 'Lo que no se ve', 'Cara de cona', 'Pordentro', 'Pobre Marciano', and 'M.A.T., Molt Alta Tensió'. A selection of short cinema."
+  },
+  "temas": [
+   "pantalla",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "71a93c2b0e": {
+  "id": "86587a75e9",
+  "es": {
+   "titulo": "Programa infantil del domingo 15 de noviembre",
+   "resumen": "Sesión de cine para niños con cortometrajes como 'EUREKA!', 'Un paseo hacia el más allá', 'El bicho que me daba miedo', 'Carmen y la cuchara de palo' y 'Rompecorazones'."
+  },
+  "en": {
+   "titulo": "Children's Program Sunday, November 15",
+   "resumen": "Cinema session for children featuring short films like 'EUREKA!', 'A Walk to the Beyond', 'The Bug That Scared Me', 'Carmen and the Wooden Spoon', and 'Heartbreakers'."
+  },
+  "temas": [
+   "ninos",
+   "pantalla",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "c2f1be1a93": {
+  "id": "9528d58d08",
+  "es": {
+   "titulo": "Programación Temporada 2026 / 2027",
+   "resumen": "Consulta la programación de la temporada 2026/2027 en el Fernán Gómez Centro Cultural de la Villa. Una agenda cultural completa para el próximo año."
+  },
+  "en": {
+   "titulo": "Season Program 2026 / 2027",
+   "resumen": "Check the program for the 2026/2027 season at the Fernán Gómez Cultural Center of the Villa. A complete cultural agenda for the upcoming year."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "a1f0ce7b3a": {
+  "id": "50bcc62a1e",
+  "es": {
+   "titulo": "Programas trimestrales en la Casa del Lector",
+   "resumen": "Descubre la programación trimestral de actividades culturales y literarias en la Casa del Lector. Un espacio dedicado a la lectura y la cultura."
+  },
+  "en": {
+   "titulo": "Quarterly Programs at the Casa del Lector",
+   "resumen": "Discover the quarterly program of cultural and literary activities at the Casa del Lector. A space dedicated to reading and culture."
+  },
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "d12a3c65b3": {
+  "id": "1de8be1aed",
+  "es": {
+   "titulo": "Publicaciones en CentroCentro",
+   "resumen": "Exposición de publicaciones en el centro cultural CentroCentro. Un espacio para descubrir y explorar diversas obras publicadas."
+  },
+  "en": {
+   "titulo": "Publications at CentroCentro",
+   "resumen": "An exhibition of publications at the CentroCentro cultural center. A space to discover and explore various published works."
+  },
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": null
+ },
+ "589da8b1f2": {
+  "id": "a17e2113a7",
+  "es": {
+   "titulo": "Raíces encontradas: Flamenco y Tango",
+   "resumen": "La Almendrita y Fabián Carbone fusionan flamenco y tango con una voz y un bandoneón. Disfruta de arreglos originales que entrelazan estas dos ricas tradiciones musicales en una actuación emotiva."
+  },
+  "en": {
+   "titulo": "Found Roots: Flamenco and Tango",
+   "resumen": "La Almendrita and Fabián Carbone blend flamenco and tango with a voice and a bandoneon. Enjoy original arrangements that intertwine these two rich musical traditions in an emotional performance."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "11f4c071fe": {
+  "id": "2257e543b5",
+  "es": {
+   "titulo": "Raíces encontradas: Flamenco y Tango",
+   "resumen": "La Almendrita y Fabián Carbone unen flamenco y tango en un encuentro musical. La voz flamenca y el bandoneón reinterpretan tangos clásicos con arreglos originales, creando un diálogo entre géneros."
+  },
+  "en": {
+   "titulo": "Found Roots: Flamenco and Tango",
+   "resumen": "La Almendrita and Fabián Carbone unite flamenco and tango in a musical encounter. The flamenco voice and bandoneon reinterpret classic tangos with original arrangements, creating a dialogue between genres."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "e51af46ffb": {
+  "id": "8aa3755394",
+  "es": {
+   "titulo": "Cine y Bioética: Réquiem por un sueño",
+   "resumen": "Proyección de la película 'Réquiem por un sueño' como parte del Ciclo de Cine y Bioética, centrada en las adicciones y la salud mental. Incluye presentación y coloquio con expertos."
+  },
+  "en": {
+   "titulo": "Film and Bioethics: Requiem for a Dream",
+   "resumen": "Screening of the film 'Requiem for a Dream' as part of the Film and Bioethics Cycle, focusing on addiction and mental health. Includes a presentation and discussion with experts."
+  },
+  "temas": [
+   "pantalla",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "0b3a847d5f": {
+  "id": "e3f6214340",
+  "es": {
+   "titulo": "Sábados de cine de otoño",
+   "resumen": "Disfruta de proyecciones de cine los sábados por la tarde y sesiones infantiles los domingos por la mañana. También se ofrece un taller para aprender a ver cine."
+  },
+  "en": {
+   "titulo": "Autumn Cinema Saturdays",
+   "resumen": "Enjoy film screenings on Saturday afternoons and children's sessions on Sunday mornings. A workshop to learn how to watch films is also offered."
+  },
+  "temas": [
+   "pantalla",
+   "ninos"
+  ],
+  "a_cubierto": true
+ },
+ "0b37440d38": {
+  "id": "3ef40f2e86",
+  "es": {
+   "titulo": "Exposición 'Exponencial. De analógicos a digitales'",
+   "resumen": "Visita la exposición 'Exponencial. De analógicos a digitales' en Fundación Telefónica. Explora la evolución tecnológica y su impacto en la comunicación a través de objetos históricos e instalaciones interactivas."
+  },
+  "en": {
+   "titulo": "Exhibition 'Exponential. From Analog to Digital'",
+   "resumen": "Visit the 'Exponential. From Analog to Digital' exhibition at Fundación Telefónica. Explore technological evolution and its impact on communication through historical objects and interactive installations."
+  },
+  "temas": [
+   "cultura",
+   "museos",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "cff427033d": {
+  "id": "d3ce6286cb",
+  "es": {
+   "titulo": "Conferencia: Semana Santa de Cartagena",
+   "resumen": "Conferencia sobre la Semana Santa de Cartagena, abordando su ritual, símbolo y comunidad. Impartida por Santi García Lorca."
+  },
+  "en": {
+   "titulo": "Conference: Cartagena's Holy Week",
+   "resumen": "A conference on Cartagena's Holy Week, discussing its ritual, symbolism, and community. Presented by Santi García Lorca."
+  },
+  "temas": [
+   "cultura",
+   "fiestas"
+  ],
+  "a_cubierto": true
+ },
+ "685237d61b": {
+  "id": "5bc945dfb2",
+  "es": {
+   "titulo": "Senda guiada: Pavos reales del Retiro",
+   "resumen": "Descubre y observa pavos reales en el Parque del Retiro en esta ruta guiada. Aprende sobre su biología y comportamiento en un entorno urbano."
+  },
+  "en": {
+   "titulo": "Guided Walk: Peacocks of El Retiro",
+   "resumen": "Discover and observe peacocks in El Retiro Park on this guided walk. Learn about their biology and behavior in an urban environment."
+  },
+  "temas": [
+   "naturaleza",
+   "parques",
+   "rutas"
+  ],
+  "a_cubierto": null
+ },
+ "d50d937d65": {
+  "id": "4502ab22ab",
+  "es": {
+   "titulo": "Senda guiada: Aves del Retiro",
+   "resumen": "Iníciate en la ornitología con esta senda guiada por El Retiro. Observa e identifica las aves del parque mediante la escucha y la vista."
+  },
+  "en": {
+   "titulo": "Guided Walk: Birds of El Retiro",
+   "resumen": "Get started in ornithology with this guided walk through El Retiro. Observe and identify the park's birds through listening and sight."
+  },
+  "temas": [
+   "naturaleza",
+   "parques",
+   "rutas"
+  ],
+  "a_cubierto": null
+ },
+ "1dff7df63a": {
+  "id": "5db42dcf9e",
+  "es": {
+   "titulo": "Senda guiada: Las maravillas del Retiro",
+   "resumen": "Recorre los Jardines del Buen Retiro en esta ruta botánica e histórica. Descubre los árboles singulares del parque y su historia."
+  },
+  "en": {
+   "titulo": "Guided Walk: The Wonders of El Retiro",
+   "resumen": "Tour the Gardens of El Buen Retiro on this botanical and historical route. Discover the park's unique trees and their history."
+  },
+  "temas": [
+   "naturaleza",
+   "parques",
+   "rutas"
+  ],
+  "a_cubierto": null
+ },
+ "84df18fe3d": {
+  "id": "280318a175",
+  "es": {
+   "titulo": "Senda guiada: Los frutos del otoño",
+   "resumen": "Explora el Parque del Retiro en esta ruta botánica otoñal. Conoce las distintas especies de árboles y sus frutos."
+  },
+  "en": {
+   "titulo": "Guided Walk: Autumn Fruits",
+   "resumen": "Explore El Retiro Park on this autumn botanical route. Learn about the different tree species and their fruits."
+  },
+  "temas": [
+   "naturaleza",
+   "parques",
+   "rutas"
+  ],
+  "a_cubierto": null
+ },
+ "05da9c39c1": {
+  "id": "fc9495aca0",
+  "es": {
+   "titulo": "Show de improvisación: Criar es Improvisar",
+   "resumen": "Disfruta de un show de comedia de improvisación sobre la crianza. Las anécdotas del público inspirarán escenas únicas y divertidas."
+  },
+  "en": {
+   "titulo": "Improv Show: Parenting is Improvising",
+   "resumen": "Enjoy an improvisation comedy show about parenting. Audience anecdotes will inspire unique and fun scenes."
+  },
+  "temas": [
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "441f22f138": {
+  "id": "13c13d20a7",
+  "es": {
+   "titulo": "Son Etta & The James: Homenaje a Etta James",
+   "resumen": "Un concierto de jazz que rinde homenaje a la icónica Etta James. La banda interpreta clásicos del rhythm & blues, soul y góspel con energía y maestría."
+  },
+  "en": {
+   "titulo": "Son Etta & The James: Tribute to Etta James",
+   "resumen": "A jazz concert paying tribute to the iconic Etta James. The band performs rhythm & blues, soul, and gospel classics with energy and mastery."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "9fa64eaeba": {
+  "id": "6ab3dc9b3e",
+  "es": {
+   "titulo": "Taller de Cosmética natural",
+   "resumen": "Aprende a elaborar cosméticos naturales, ecológicos y saludables. Descubre productos beneficiosos y recetas caseras para el cuidado personal."
+  },
+  "en": {
+   "titulo": "Natural Cosmetics Workshop",
+   "resumen": "Learn to make natural, ecological, and healthy cosmetics. Discover beneficial products and homemade recipes for personal care."
+  },
+  "temas": [
+   "actividades",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "a1a37bde73": {
+  "id": "9dad04a2c4",
+  "es": {
+   "titulo": "Taller infantil de lengua macedonia",
+   "resumen": "Taller creativo infantil enfocado en la lengua macedonia. Una actividad lúdica para acercar a los niños a este idioma."
+  },
+  "en": {
+   "titulo": "Children's Macedonian Language Workshop",
+   "resumen": "A creative children's workshop focused on the Macedonian language. A fun activity to introduce children to this language."
+  },
+  "temas": [
+   "ninos",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "958c45344f": {
+  "id": "ce607e49a5",
+  "es": {
+   "titulo": "Taller de Alfabetización informacional con móviles",
+   "resumen": "Desarrolla destrezas en el uso de dispositivos móviles: configuración, apps, comunicación y seguridad. Aprende a manejar tu teléfono o tablet de forma eficaz."
+  },
+  "en": {
+   "titulo": "Information Literacy Workshop with Mobile Devices",
+   "resumen": "Develop skills in using mobile devices: configuration, apps, communication, and security. Learn to manage your phone or tablet effectively."
+  },
+  "temas": [
+   "actividades",
+   "pantalla"
+  ],
+  "a_cubierto": true
+ },
+ "15a493ab08": {
+  "id": "a54aaeac8c",
+  "es": {
+   "titulo": "Taller de alpargatas",
+   "resumen": "Taller de confección de alpargatas destalonadas en Villa de Vallecas. Aprende a crear tu propio calzado artesanal."
+  },
+  "en": {
+   "titulo": "Espadrille Workshop",
+   "resumen": "Workshop on making backless espadrilles in Villa de Vallecas. Learn to create your own handmade footwear."
+  },
+  "temas": [
+   "actividades",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "08558bdb8a": {
+  "id": "446259a376",
+  "es": {
+   "titulo": "Taller de Arqueología: 'El laboratorio del pasado'",
+   "resumen": "Conviértete en un detective del pasado en este taller de arqueología. Descubre el trabajo científico de limpieza, análisis y reconstrucción de hallazgos."
+  },
+  "en": {
+   "titulo": "Archaeology Workshop: 'The Past's Laboratory'",
+   "resumen": "Become a detective of the past in this archaeology workshop. Discover the scientific work of cleaning, analyzing, and reconstructing findings."
+  },
+  "temas": [
+   "cultura",
+   "museos",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "1fba0fab39": {
+  "id": "5b168024b1",
+  "es": {
+   "titulo": "Taller de cajas nido en El Retiro",
+   "resumen": "Taller práctico para construir cajas nido en el entorno del Parque del Retiro. Una actividad para fomentar la biodiversidad local."
+  },
+  "en": {
+   "titulo": "Birdhouse Workshop in El Retiro",
+   "resumen": "A practical workshop to build birdhouses in the El Retiro Park area. An activity to promote local biodiversity."
+  },
+  "temas": [
+   "naturaleza",
+   "parques",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "19daea6f6a": {
+  "id": "cd121625df",
+  "es": {
+   "titulo": "Taller de Cine: Comprendiendo el séptimo arte",
+   "resumen": "Iníciate en la comprensión del cine como arte y lenguaje social. Analiza escenas, narrativas y representaciones cinematográficas."
+  },
+  "en": {
+   "titulo": "Film Workshop: Understanding Cinema",
+   "resumen": "Get introduced to understanding film as an art form and social language. Analyze scenes, narratives, and cinematic representations."
+  },
+  "temas": [
+   "pantalla",
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "03b6359fa3": {
+  "id": "b9a18c5037",
+  "es": {
+   "titulo": "Taller de Cine: Comprendiendo el séptimo arte",
+   "resumen": "Iníciate en la comprensión del cine como arte y lenguaje social. Analiza escenas, narrativas y representaciones cinematográficas."
+  },
+  "en": {
+   "titulo": "Film Workshop: Understanding Cinema",
+   "resumen": "Get introduced to understanding film as an art form and social language. Analyze scenes, narratives, and cinematic representations."
+  },
+  "temas": [
+   "pantalla",
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "6d94559e71": {
+  "id": "b17939ec69",
+  "es": {
+   "titulo": "Taller de Halloween: Guirnalda de fantasmas",
+   "resumen": "Taller de manualidades de Halloween para niños. Crea una divertida guirnalda de fantasmas utilizando diversos materiales y técnicas."
+  },
+  "en": {
+   "titulo": "Halloween Workshop: Ghost Garland",
+   "resumen": "A Halloween craft workshop for children. Create a fun ghost garland using various materials and techniques."
+  },
+  "temas": [
+   "ninos",
+   "fiestas",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "a94868a815": {
+  "id": "34a9375aae",
+  "es": {
+   "titulo": "Taller de poesía en La Elipa",
+   "resumen": "Taller de poesía para amantes de la lectura. Estudia figuras retóricas y crea tus propios textos poéticos."
+  },
+  "en": {
+   "titulo": "Poetry Workshop at La Elipa",
+   "resumen": "A poetry workshop for reading enthusiasts. Study rhetorical figures and create your own poetic texts."
+  },
+  "temas": [
+   "libros",
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "3c8b3b2617": {
+  "id": "e24bb51e50",
+  "es": {
+   "titulo": "Taller infantil de poesía 'Un tren puede ocultar otro'",
+   "resumen": "Taller de poesía infantil para despertar la creatividad y el amor por las palabras en los más pequeños."
+  },
+  "en": {
+   "titulo": "Children's Poetry Workshop 'A Train Can Hide Another'",
+   "resumen": "A children's poetry workshop to spark creativity and a love for words in young ones."
+  },
+  "temas": [
+   "ninos",
+   "libros",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "5f4e7725bd": {
+  "id": "29b3c6acf6",
+  "es": {
+   "titulo": "Taller de psicología y crecimiento personal",
+   "resumen": "Taller de autoconocimiento y desarrollo personal. Mejora la regulación emocional, la comunicación y la planificación vital."
+  },
+  "en": {
+   "titulo": "Psychology and Personal Growth Workshop",
+   "resumen": "A workshop on self-knowledge and personal development. Improve emotional regulation, communication, and life planning."
+  },
+  "temas": [
+   "actividades",
+   "cultura"
+  ],
+  "a_cubierto": true
  }
 }
