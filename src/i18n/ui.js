@@ -25,12 +25,12 @@ export const monthName = (l, m) => (MONTH_LABELS[l]?.[m - 1]) ?? (l === 'en' ? c
 
 // Segmentos de URL traducidos. El español va en la raíz; el resto con prefijo de idioma.
 const SEG = {
-  es: { plan: 'plan', sports: 'deportes', topics: 'temas', places: 'lugares', calendar: 'calendario', museums: 'museos', routes: 'rutas', parks: 'parques', books: 'libros', series: 'series', movies: 'peliculas', podcasts: 'podcasts', races: 'carreras' },
-  en: { plan: 'plan', sports: 'sports', topics: 'topics', places: 'places', calendar: 'calendar', museums: 'museums', routes: 'routes', parks: 'parks', books: 'books', series: 'series', movies: 'movies', podcasts: 'podcasts', races: 'races' },
-  fr: { plan: 'plan', sports: 'sports', topics: 'themes', places: 'lieux', calendar: 'calendrier', museums: 'musees', routes: 'itineraires', parks: 'parcs', books: 'livres', series: 'series', movies: 'films', podcasts: 'podcasts', races: 'courses' },
-  de: { plan: 'plan', sports: 'sport', topics: 'themen', places: 'orte', calendar: 'kalender', museums: 'museen', routes: 'routen', parks: 'naturparks', books: 'buecher', series: 'serien', movies: 'filme', podcasts: 'podcasts', races: 'laeufe' },
-  it: { plan: 'piano', sports: 'sport', topics: 'temi', places: 'luoghi', calendar: 'calendario', museums: 'musei', routes: 'itinerari', parks: 'parchi', books: 'libri', series: 'serie', movies: 'film', podcasts: 'podcast', races: 'corse' },
-  pt: { plan: 'plano', sports: 'desportos', topics: 'temas', places: 'locais', calendar: 'calendario', museums: 'museus', routes: 'rotas', parks: 'parques', books: 'livros', series: 'series', movies: 'filmes', podcasts: 'podcasts', races: 'corridas' },
+  es: { plan: 'plan', sports: 'deportes', topics: 'temas', places: 'lugares', calendar: 'calendario', museums: 'museos', routes: 'rutas', parks: 'parques', books: 'libros', series: 'series', movies: 'peliculas', podcasts: 'podcasts', races: 'carreras', curiosities: 'curiosidades' },
+  en: { plan: 'plan', sports: 'sports', topics: 'topics', places: 'places', calendar: 'calendar', museums: 'museums', routes: 'routes', parks: 'parks', books: 'books', series: 'series', movies: 'movies', podcasts: 'podcasts', races: 'races', curiosities: 'curiosities' },
+  fr: { plan: 'plan', sports: 'sports', topics: 'themes', places: 'lieux', calendar: 'calendrier', museums: 'musees', routes: 'itineraires', parks: 'parcs', books: 'livres', series: 'series', movies: 'films', podcasts: 'podcasts', races: 'courses', curiosities: 'curiosites' },
+  de: { plan: 'plan', sports: 'sport', topics: 'themen', places: 'orte', calendar: 'kalender', museums: 'museen', routes: 'routen', parks: 'naturparks', books: 'buecher', series: 'serien', movies: 'filme', podcasts: 'podcasts', races: 'laeufe', curiosities: 'kuriositaeten' },
+  it: { plan: 'piano', sports: 'sport', topics: 'temi', places: 'luoghi', calendar: 'calendario', museums: 'musei', routes: 'itinerari', parks: 'parchi', books: 'libri', series: 'serie', movies: 'film', podcasts: 'podcast', races: 'corse', curiosities: 'curiosita' },
+  pt: { plan: 'plano', sports: 'desportos', topics: 'temas', places: 'locais', calendar: 'calendario', museums: 'museus', routes: 'rotas', parks: 'parques', books: 'livros', series: 'series', movies: 'filmes', podcasts: 'podcasts', races: 'corridas', curiosities: 'curiosidades' },
 };
 const pre = (l) => (l === DEFAULT_LANG ? '/' : `/${l}/`);
 const topicSlug = (l, tp) => (l === DEFAULT_LANG ? tp.id : tp.slugs[l]);
@@ -50,6 +50,8 @@ export const url = {
   books: (l) => `${pre(l)}${SEG[l].books}/`,
   podcasts: (l) => `${pre(l)}${SEG[l].podcasts}/`,
   races: (l) => `${pre(l)}${SEG[l].races}/`,
+  curiosities: (l) => `${pre(l)}${SEG[l].curiosities}/`,
+  curiosity: (l, id) => `${pre(l)}${SEG[l].curiosities}/${id}/`,
   sports: (l) => `${pre(l)}${SEG[l].sports}/`,
   series: (l) => `${pre(l)}${SEG[l].series}/`,
   movies: (l) => `${pre(l)}${SEG[l].movies}/`,
@@ -77,6 +79,8 @@ export function routeUrl(l, r) {
     case 'books': return url.books(l);
     case 'podcasts': return url.podcasts(l);
     case 'races': return url.races(l);
+    case 'curiosities': return url.curiosities(l);
+    case 'curiosity': return url.curiosity(l, r.id);
     case 'sports': return url.sports(l);
     case 'series': return url.series(l);
     case 'movies': return url.movies(l);
@@ -92,7 +96,8 @@ export const t = {
     tagline: 'Planes y eventos en toda España, cada día.',
     heroQ: '¿Sin planes?',
     heroToday: (d) => `${d}. Esto es lo que hay.`,
-    nav: { topics: 'Temas', places: 'Lugares', calendar: 'Calendario', museums: 'Museos', routes: 'Rutas', parks: 'Parques', books: 'Libros', series: 'Series', movies: 'Películas', podcasts: 'Podcasts' },
+    nav: { topics: 'Temas', places: 'Lugares', calendar: 'Calendario', museums: 'Museos', routes: 'Rutas', parks: 'Parques', books: 'Libros', series: 'Series', movies: 'Películas', podcasts: 'Podcasts', curiosities: 'Curiosidades' },
+    curiositiesTitle: 'Curiosidades', curiositiesIntro: 'Recursos que no caducan: cursos gratuitos, vídeos, aplicaciones y webs para curiosear cualquier día. Cada día destacamos uno en la portada.', curiositiesSearch: 'Buscar curiosidades', curiositiesSearchLabel: 'Buscar curiosidades', curiositiesEmpty: 'Aún no hay curiosidades. Vuelve pronto.', curiosityGo: 'Ir al recurso', curiosityFrom: 'Fuente', curiosityAll: 'Ver todas las curiosidades',
     podcastsTitle: 'Podcasts recomendados', podcastsIntro: 'Un podcast a la semana, elegido a mano. Aquí tienes el de esta semana y todos los que hemos ido recomendando. Busca por título o autor, o filtra por temática.', podcastsSearch: 'Buscar por título o autor', podcastsSearchLabel: 'Buscar podcasts', podcastsGenres: 'Temática', podcastsAllGenres: 'Todos', podcastsAll: 'Ver todos los podcasts', podcastWeekOf: 'Semana del', podcastListen: 'Escuchar en', podcastStart: 'Empieza por', podcastsEmpty: 'Aún no hay podcasts recomendados. Vuelve pronto.',
     races: { title: 'Carreras populares en España', intro: 'Las carreras más conocidas del calendario español, con su fecha aproximada: maratones, medias maratones, populares y trails. Las fechas cambian cada año, así que confírmalas en la web oficial antes de inscribirte.', search: 'Buscar por carrera, ciudad o distancia', searchLabel: 'Buscar carreras', typeLabel: 'Tipo de carrera', all: 'Todas', types: { maraton: 'Maratón', media: 'Media maratón', popular: 'Popular', trail: 'Trail' }, cols: { race: 'Carrera', place: 'Lugar', distance: 'Distancia', when: 'Fecha aproximada' }, varies: 'Varía según la ciudad', note: 'Fechas aproximadas, orientativas: cada edición fija su día exacto. Confírmalo siempre en la web oficial de la carrera.', when: { principios: (m) => `Principios de ${m}`, mediados: (m) => `Mediados de ${m}`, finales: (m) => `Finales de ${m}` } },
     booksTitle: 'Todos los libros recomendados', booksIntro: 'Los libros que hemos ido recomendando, uno al mes, ligados a premios, aniversarios y estrenos. Busca por título o autor, o filtra por género.', booksSearch: 'Buscar por título o autor', booksSearchLabel: 'Buscar libros', booksGenres: 'Género', booksAllGenres: 'Todos', booksAll: 'Ver todos los libros',
@@ -119,6 +124,7 @@ export const t = {
       trending: 'Lo que está sonando',
       book: 'Libro recomendado',
       podcast: 'Podcast de la semana',
+      curiosity: 'Curiosidad del día',
       cine: 'En cartelera',
       series: 'Series con muy buena nota',
       daily: 'Recomendaciones para hoy', dailySeries: 'Serie', dailyBook: 'Libro', dailyPodcast: 'Podcast', dailyMovie: 'Película', dailyMore: { series: 'Ver más series', book: 'Ver más libros', podcast: 'Escuchar más podcasts', movie: 'Ver más películas' }, matchToday: 'Hoy hay partido', matchTime: 'Hora peninsular', matchday: 'Jornada', matchStage: 'Fase', matchVenue: 'Estadio', matchMore: 'Ver ficha', matchStages: { PLAYOFFS: 'Play-off', LAST_16: 'Octavos de final', QUARTER_FINALS: 'Cuartos de final', SEMI_FINALS: 'Semifinales', FINAL: 'Final' }, matchPos: 'Puesto', matchPts: 'pts', matchSports: 'Más deportes',
@@ -183,7 +189,8 @@ export const t = {
     heroQ: 'No plans?',
     heroToday: (d) => `${d}. Here’s what’s on in Spain.`,
     heroSpain: 'Every outing and event is in Spain. Books, films, series and podcasts are international.',
-    nav: { topics: 'Topics', places: 'Places', calendar: 'Calendar', museums: 'Museums', routes: 'Routes', parks: 'Parks', books: 'Books', series: 'Series', movies: 'Movies', podcasts: 'Podcasts' },
+    nav: { topics: 'Topics', places: 'Places', calendar: 'Calendar', museums: 'Museums', routes: 'Routes', parks: 'Parks', books: 'Books', series: 'Series', movies: 'Movies', podcasts: 'Podcasts', curiosities: 'Curiosities' },
+    curiositiesTitle: 'Curiosities', curiositiesIntro: 'Things that never go out of date: free courses, videos, apps and websites to explore any day. Each day we feature one on the home page.', curiositiesSearch: 'Search curiosities', curiositiesSearchLabel: 'Search curiosities', curiositiesEmpty: 'No curiosities yet. Check back soon.', curiosityGo: 'Go to the resource', curiosityFrom: 'Source', curiosityAll: 'See all curiosities',
     podcastsTitle: 'Recommended podcasts', podcastsIntro: 'One podcast a week, hand-picked. Here is this week’s pick and every one we have recommended so far. Search by title or author, or filter by topic.', podcastsSearch: 'Search by title or author', podcastsSearchLabel: 'Search podcasts', podcastsGenres: 'Topic', podcastsAllGenres: 'All', podcastsAll: 'See all podcasts', podcastWeekOf: 'Week of', podcastListen: 'Listen on', podcastStart: 'Start with', podcastsEmpty: 'No recommended podcasts yet. Check back soon.',
     races: { title: 'Popular races in Spain', intro: 'The best-known races on the Spanish calendar with their approximate dates: marathons, half marathons, road races and trail runs. Dates change every year, so check the official website before you sign up.', search: 'Search by race, city or distance', searchLabel: 'Search races', typeLabel: 'Race type', all: 'All', types: { maraton: 'Marathon', media: 'Half marathon', popular: 'Road race', trail: 'Trail' }, cols: { race: 'Race', place: 'Place', distance: 'Distance', when: 'Approximate date' }, varies: 'Varies by city', note: 'Approximate dates, for guidance only: each edition sets its exact day. Always confirm on the official race website.', when: { principios: (m) => `Early ${m}`, mediados: (m) => `Mid-${m}`, finales: (m) => `Late ${m}` } },
     booksTitle: 'Every recommended book', booksIntro: 'The books we have recommended, one a month, tied to prizes, anniversaries and releases. Search by title or author, or filter by genre.', booksSearch: 'Search by title or author', booksSearchLabel: 'Search books', booksGenres: 'Genre', booksAllGenres: 'All', booksAll: 'See all books',
@@ -210,6 +217,7 @@ export const t = {
       trending: 'What’s trending',
       book: 'Book of the month',
       podcast: 'Podcast of the week',
+      curiosity: 'Curiosity of the day',
       cine: 'Now in cinemas',
       series: 'Top-rated series right now',
       daily: 'Picks for today', dailySeries: 'Series', dailyBook: 'Book', dailyPodcast: 'Podcast', dailyMovie: 'Movie', dailyMore: { series: 'More series', book: 'More books', podcast: 'Listen to more podcasts', movie: 'More movies' }, matchToday: 'Match today', matchTime: 'Mainland Spain time', matchday: 'Matchday', matchStage: 'Stage', matchVenue: 'Stadium', matchMore: 'See details', matchStages: { PLAYOFFS: 'Play-offs', LAST_16: 'Round of 16', QUARTER_FINALS: 'Quarter-finals', SEMI_FINALS: 'Semi-finals', FINAL: 'Final' }, matchPos: 'Position', matchPts: 'pts', matchSports: 'More sport',
@@ -274,7 +282,8 @@ export const t = {
     heroQ: 'Pas de plan ?',
     heroToday: (d) => `${d}. Voici ce qui se passe en Espagne.`,
     heroSpain: 'Toutes les sorties et tous les événements se trouvent en Espagne. Les livres, films, séries et podcasts sont internationaux.',
-    nav: { topics: 'Thèmes', places: 'Lieux', calendar: 'Calendrier', museums: 'Musées', routes: 'Itinéraires', parks: 'Parcs', books: 'Livres', series: 'Séries', movies: 'Films', podcasts: 'Podcasts' },
+    nav: { topics: 'Thèmes', places: 'Lieux', calendar: 'Calendrier', museums: 'Musées', routes: 'Itinéraires', parks: 'Parcs', books: 'Livres', series: 'Séries', movies: 'Films', podcasts: 'Podcasts', curiosities: 'Curiosités' },
+    curiositiesTitle: 'Curiosités', curiositiesIntro: 'Des ressources intemporelles : cours gratuits, vidéos, applications et sites à explorer n’importe quel jour. Chaque jour, nous en mettons une en avant sur la page d’accueil.', curiositiesSearch: 'Rechercher des curiosités', curiositiesSearchLabel: 'Rechercher des curiosités', curiositiesEmpty: 'Aucune curiosité pour l’instant. Revenez bientôt.', curiosityGo: 'Accéder à la ressource', curiosityFrom: 'Source', curiosityAll: 'Voir toutes les curiosités',
     podcastsTitle: 'Podcasts recommandés', podcastsIntro: 'Un podcast par semaine, choisi à la main. Voici celui de cette semaine et tous ceux que nous avons recommandés. Cherchez par titre ou auteur, ou filtrez par thème.', podcastsSearch: 'Rechercher par titre ou auteur', podcastsSearchLabel: 'Rechercher des podcasts', podcastsGenres: 'Thème', podcastsAllGenres: 'Tous', podcastsAll: 'Voir tous les podcasts', podcastWeekOf: 'Semaine du', podcastListen: 'Écouter sur', podcastStart: 'Commencez par', podcastsEmpty: 'Aucun podcast recommandé pour l’instant. Revenez bientôt.',
     races: { title: 'Courses populaires en Espagne', intro: 'Les courses les plus connues du calendrier espagnol, avec leur date approximative : marathons, semi-marathons, courses sur route et trails. Les dates changent chaque année : vérifiez-les sur le site officiel avant de vous inscrire.', search: 'Rechercher par course, ville ou distance', searchLabel: 'Rechercher des courses', typeLabel: 'Type de course', all: 'Toutes', types: { maraton: 'Marathon', media: 'Semi-marathon', popular: 'Course sur route', trail: 'Trail' }, cols: { race: 'Course', place: 'Lieu', distance: 'Distance', when: 'Date approximative' }, varies: 'Varie selon la ville', note: 'Dates approximatives, à titre indicatif : chaque édition fixe son jour exact. Vérifiez toujours sur le site officiel de la course.', when: { principios: (m) => `Début ${m}`, mediados: (m) => `Mi-${m}`, finales: (m) => `Fin ${m}` } },
     booksTitle: 'Tous les livres recommandés', booksIntro: 'Les livres que nous avons recommandés, un par mois, liés à des prix, des anniversaires et des sorties. Cherchez par titre ou auteur, ou filtrez par genre.', booksSearch: 'Rechercher par titre ou auteur', booksSearchLabel: 'Rechercher des livres', booksGenres: 'Genre', booksAllGenres: 'Tous', booksAll: 'Voir tous les livres',
@@ -301,6 +310,7 @@ export const t = {
       trending: 'Ce qui fait parler',
       book: 'Livre à lire',
       podcast: 'Podcast de la semaine',
+      curiosity: 'Curiosité du jour',
       cine: 'À l’affiche',
       series: 'Séries très bien notées',
       daily: 'À découvrir aujourd’hui', dailySeries: 'Série', dailyBook: 'Livre', dailyPodcast: 'Podcast', dailyMovie: 'Film', dailyMore: { series: 'Plus de séries', book: 'Plus de livres', podcast: 'Écouter plus de podcasts', movie: 'Plus de films' }, matchToday: 'Match aujourd’hui', matchTime: 'Heure d’Espagne', matchday: 'Journée', matchStage: 'Phase', matchVenue: 'Stade', matchMore: 'Voir la fiche', matchStages: { PLAYOFFS: 'Barrages', LAST_16: 'Huitièmes de finale', QUARTER_FINALS: 'Quarts de finale', SEMI_FINALS: 'Demi-finales', FINAL: 'Finale' }, matchPos: 'Classement', matchPts: 'pts', matchSports: 'Plus de sport',
@@ -365,7 +375,8 @@ export const t = {
     heroQ: 'Keine Pläne?',
     heroToday: (d) => `${d}. Das ist in Spanien los.`,
     heroSpain: 'Alle Ausflüge und Veranstaltungen finden in Spanien statt. Bücher, Filme, Serien und Podcasts sind international.',
-    nav: { topics: 'Themen', places: 'Orte', calendar: 'Kalender', museums: 'Museen', routes: 'Routen', parks: 'Naturparks', books: 'Bücher', series: 'Serien', movies: 'Filme', podcasts: 'Podcasts' },
+    nav: { topics: 'Themen', places: 'Orte', calendar: 'Kalender', museums: 'Museen', routes: 'Routen', parks: 'Naturparks', books: 'Bücher', series: 'Serien', movies: 'Filme', podcasts: 'Podcasts', curiosities: 'Kuriositäten' },
+    curiositiesTitle: 'Kuriositäten', curiositiesIntro: 'Zeitlose Empfehlungen: kostenlose Kurse, Videos, Apps und Websites zum Stöbern an jedem beliebigen Tag. Jeden Tag stellen wir eine auf der Startseite vor.', curiositiesSearch: 'Kuriositäten suchen', curiositiesSearchLabel: 'Kuriositäten suchen', curiositiesEmpty: 'Noch keine Kuriositäten. Schau bald wieder vorbei.', curiosityGo: 'Zur Quelle', curiosityFrom: 'Quelle', curiosityAll: 'Alle Kuriositäten ansehen',
     podcastsTitle: 'Empfohlene Podcasts', podcastsIntro: 'Ein handverlesener Podcast pro Woche. Hier ist der Tipp dieser Woche und alle bisherigen Empfehlungen. Suche nach Titel oder Autor oder filtere nach Thema.', podcastsSearch: 'Nach Titel oder Autor suchen', podcastsSearchLabel: 'Podcasts suchen', podcastsGenres: 'Thema', podcastsAllGenres: 'Alle', podcastsAll: 'Alle Podcasts ansehen', podcastWeekOf: 'Woche vom', podcastListen: 'Anhören auf', podcastStart: 'Fang an mit', podcastsEmpty: 'Noch keine empfohlenen Podcasts. Schau bald wieder vorbei.',
     races: { title: 'Beliebte Läufe in Spanien', intro: 'Die bekanntesten Läufe im spanischen Kalender mit ungefähren Terminen: Marathons, Halbmarathons, Volksläufe und Trailläufe. Die Termine ändern sich jedes Jahr – prüfe sie vor der Anmeldung auf der offiziellen Website.', search: 'Nach Lauf, Stadt oder Distanz suchen', searchLabel: 'Läufe suchen', typeLabel: 'Art des Laufs', all: 'Alle', types: { maraton: 'Marathon', media: 'Halbmarathon', popular: 'Volkslauf', trail: 'Trail' }, cols: { race: 'Lauf', place: 'Ort', distance: 'Distanz', when: 'Ungefährer Termin' }, varies: 'Je nach Stadt unterschiedlich', note: 'Ungefähre Termine, nur zur Orientierung: Jede Ausgabe legt ihren genauen Tag fest. Bitte immer auf der offiziellen Website prüfen.', when: { principios: (m) => `Anfang ${m}`, mediados: (m) => `Mitte ${m}`, finales: (m) => `Ende ${m}` } },
     booksTitle: 'Alle empfohlenen Bücher', booksIntro: 'Die Bücher, die wir empfohlen haben, eines pro Monat, passend zu Preisen, Jubiläen und Neuerscheinungen. Suche nach Titel oder Autor oder filtere nach Genre.', booksSearch: 'Nach Titel oder Autor suchen', booksSearchLabel: 'Bücher suchen', booksGenres: 'Genre', booksAllGenres: 'Alle', booksAll: 'Alle Bücher ansehen',
@@ -392,6 +403,7 @@ export const t = {
       trending: 'Was gerade gefragt ist',
       book: 'Buchempfehlung',
       podcast: 'Podcast der Woche',
+      curiosity: 'Kuriosität des Tages',
       cine: 'Jetzt im Kino',
       series: 'Top bewertete Serien aktuell',
       daily: 'Tipps für heute', dailySeries: 'Serie', dailyBook: 'Buch', dailyPodcast: 'Podcast', dailyMovie: 'Film', dailyMore: { series: 'Mehr Serien', book: 'Mehr Bücher', podcast: 'Mehr Podcasts hören', movie: 'Mehr Filme' }, matchToday: 'Heute Spiel', matchTime: 'Uhrzeit (Spanien)', matchday: 'Spieltag', matchStage: 'Phase', matchVenue: 'Stadion', matchMore: 'Zur Seite', matchStages: { PLAYOFFS: 'Play-offs', LAST_16: 'Achtelfinale', QUARTER_FINALS: 'Viertelfinale', SEMI_FINALS: 'Halbfinale', FINAL: 'Finale' }, matchPos: 'Platz', matchPts: 'Pkt.', matchSports: 'Mehr Sport',
@@ -456,7 +468,8 @@ export const t = {
     heroQ: 'Senza piani?',
     heroToday: (d) => `${d}. Ecco cosa c’è in Spagna.`,
     heroSpain: 'Tutte le uscite e gli eventi sono in Spagna. Libri, film, serie e podcast sono internazionali.',
-    nav: { topics: 'Temi', places: 'Luoghi', calendar: 'Calendario', museums: 'Musei', routes: 'Itinerari', parks: 'Parchi', books: 'Libri', series: 'Serie', movies: 'Film', podcasts: 'Podcast' },
+    nav: { topics: 'Temi', places: 'Luoghi', calendar: 'Calendario', museums: 'Musei', routes: 'Itinerari', parks: 'Parchi', books: 'Libri', series: 'Serie', movies: 'Film', podcasts: 'Podcast', curiosities: 'Curiosità' },
+    curiositiesTitle: 'Curiosità', curiositiesIntro: 'Risorse che non scadono mai: corsi gratuiti, video, app e siti da scoprire in qualsiasi giorno. Ogni giorno ne mettiamo una in evidenza nella home.', curiositiesSearch: 'Cerca curiosità', curiositiesSearchLabel: 'Cerca curiosità', curiositiesEmpty: 'Ancora nessuna curiosità. Torna presto.', curiosityGo: 'Vai alla risorsa', curiosityFrom: 'Fonte', curiosityAll: 'Vedi tutte le curiosità',
     podcastsTitle: 'Podcast consigliati', podcastsIntro: 'Un podcast a settimana, scelto a mano. Ecco quello di questa settimana e tutti quelli che abbiamo consigliato. Cerca per titolo o autore, oppure filtra per tema.', podcastsSearch: 'Cerca per titolo o autore', podcastsSearchLabel: 'Cerca podcast', podcastsGenres: 'Tema', podcastsAllGenres: 'Tutti', podcastsAll: 'Vedi tutti i podcast', podcastWeekOf: 'Settimana del', podcastListen: 'Ascolta su', podcastStart: 'Inizia da', podcastsEmpty: 'Ancora nessun podcast consigliato. Torna presto.',
     races: { title: 'Corse popolari in Spagna', intro: 'Le corse più conosciute del calendario spagnolo con la data approssimativa: maratone, mezze maratone, corse su strada e trail. Le date cambiano ogni anno: verificale sul sito ufficiale prima di iscriverti.', search: 'Cerca per corsa, città o distanza', searchLabel: 'Cerca corse', typeLabel: 'Tipo di corsa', all: 'Tutte', types: { maraton: 'Maratona', media: 'Mezza maratona', popular: 'Corsa su strada', trail: 'Trail' }, cols: { race: 'Corsa', place: 'Luogo', distance: 'Distanza', when: 'Data approssimativa' }, varies: 'Varia in base alla città', note: 'Date approssimative, a titolo indicativo: ogni edizione fissa il giorno esatto. Verifica sempre sul sito ufficiale della corsa.', when: { principios: (m) => `Inizio ${m}`, mediados: (m) => `Metà ${m}`, finales: (m) => `Fine ${m}` } },
     booksTitle: 'Tutti i libri consigliati', booksIntro: 'I libri che abbiamo consigliato, uno al mese, legati a premi, anniversari e uscite. Cerca per titolo o autore, oppure filtra per genere.', booksSearch: 'Cerca per titolo o autore', booksSearchLabel: 'Cerca libri', booksGenres: 'Genere', booksAllGenres: 'Tutti', booksAll: 'Vedi tutti i libri',
@@ -483,6 +496,7 @@ export const t = {
       trending: 'Di cosa si parla',
       book: 'Libro consigliato',
       podcast: 'Podcast della settimana',
+      curiosity: 'Curiosità del giorno',
       cine: 'Al cinema',
       series: 'Serie con ottimi voti',
       daily: 'Consigli per oggi', dailySeries: 'Serie', dailyBook: 'Libro', dailyPodcast: 'Podcast', dailyMovie: 'Film', dailyMore: { series: 'Altre serie', book: 'Altri libri', podcast: 'Ascolta altri podcast', movie: 'Altri film' }, matchToday: 'Oggi c’è una partita', matchTime: 'Ora della Spagna', matchday: 'Giornata', matchStage: 'Fase', matchVenue: 'Stadio', matchMore: 'Vedi scheda', matchStages: { PLAYOFFS: 'Spareggi', LAST_16: 'Ottavi di finale', QUARTER_FINALS: 'Quarti di finale', SEMI_FINALS: 'Semifinali', FINAL: 'Finale' }, matchPos: 'Posizione', matchPts: 'pt.', matchSports: 'Altri sport',
@@ -547,7 +561,8 @@ export const t = {
     heroQ: 'Sem planos?',
     heroToday: (d) => `${d}. Eis o que há em Espanha.`,
     heroSpain: 'Todas as saídas e eventos são em Espanha. Livros, filmes, séries e podcasts são internacionais.',
-    nav: { topics: 'Temas', places: 'Locais', calendar: 'Calendário', museums: 'Museus', routes: 'Rotas', parks: 'Parques', books: 'Livros', series: 'Séries', movies: 'Filmes', podcasts: 'Podcasts' },
+    nav: { topics: 'Temas', places: 'Locais', calendar: 'Calendário', museums: 'Museus', routes: 'Rotas', parks: 'Parques', books: 'Livros', series: 'Séries', movies: 'Filmes', podcasts: 'Podcasts', curiosities: 'Curiosidades' },
+    curiositiesTitle: 'Curiosidades', curiositiesIntro: 'Recursos que nunca passam de moda: cursos gratuitos, vídeos, aplicações e sites para explorar em qualquer dia. Todos os dias destacamos um na página inicial.', curiositiesSearch: 'Pesquisar curiosidades', curiositiesSearchLabel: 'Pesquisar curiosidades', curiositiesEmpty: 'Ainda não há curiosidades. Volte em breve.', curiosityGo: 'Ir para o recurso', curiosityFrom: 'Fonte', curiosityAll: 'Ver todas as curiosidades',
     podcastsTitle: 'Podcasts recomendados', podcastsIntro: 'Um podcast por semana, escolhido a dedo. Aqui está o desta semana e todos os que fomos recomendando. Pesquise por título ou autor, ou filtre por tema.', podcastsSearch: 'Pesquisar por título ou autor', podcastsSearchLabel: 'Pesquisar podcasts', podcastsGenres: 'Tema', podcastsAllGenres: 'Todos', podcastsAll: 'Ver todos os podcasts', podcastWeekOf: 'Semana de', podcastListen: 'Ouvir em', podcastStart: 'Comece por', podcastsEmpty: 'Ainda não há podcasts recomendados. Volte em breve.',
     races: { title: 'Corridas populares em Espanha', intro: 'As corridas mais conhecidas do calendário espanhol, com a data aproximada: maratonas, meias maratonas, corridas de rua e trails. As datas mudam todos os anos: confirme-as no site oficial antes de se inscrever.', search: 'Pesquisar por corrida, cidade ou distância', searchLabel: 'Pesquisar corridas', typeLabel: 'Tipo de corrida', all: 'Todas', types: { maraton: 'Maratona', media: 'Meia maratona', popular: 'Corrida de rua', trail: 'Trail' }, cols: { race: 'Corrida', place: 'Local', distance: 'Distância', when: 'Data aproximada' }, varies: 'Varia consoante a cidade', note: 'Datas aproximadas, a título indicativo: cada edição fixa o dia exato. Confirme sempre no site oficial da corrida.', when: { principios: (m) => `Início de ${m}`, mediados: (m) => `Meados de ${m}`, finales: (m) => `Finais de ${m}` } },
     booksTitle: 'Todos os livros recomendados', booksIntro: 'Os livros que fomos recomendando, um por mês, ligados a prémios, aniversários e estreias. Pesquise por título ou autor, ou filtre por género.', booksSearch: 'Pesquisar por título ou autor', booksSearchLabel: 'Pesquisar livros', booksGenres: 'Género', booksAllGenres: 'Todos', booksAll: 'Ver todos os livros',
@@ -574,6 +589,7 @@ export const t = {
       trending: 'O que está a dar que falar',
       book: 'Livro recomendado',
       podcast: 'Podcast da semana',
+      curiosity: 'Curiosidade do dia',
       cine: 'Em cartaz',
       series: 'Séries muito bem avaliadas',
       daily: 'Sugestões para hoje', dailySeries: 'Série', dailyBook: 'Livro', dailyPodcast: 'Podcast', dailyMovie: 'Filme', dailyMore: { series: 'Ver mais séries', book: 'Ver mais livros', podcast: 'Ouvir mais podcasts', movie: 'Ver mais filmes' }, matchToday: 'Hoje há jogo', matchTime: 'Hora de Espanha', matchday: 'Jornada', matchStage: 'Fase', matchVenue: 'Estádio', matchMore: 'Ver ficha', matchStages: { PLAYOFFS: 'Play-offs', LAST_16: 'Oitavos de final', QUARTER_FINALS: 'Quartos de final', SEMI_FINALS: 'Meias-finais', FINAL: 'Final' }, matchPos: 'Posição', matchPts: 'pts', matchSports: 'Mais desporto',

@@ -1,0 +1,36 @@
+---
+// Ficha de una curiosidad: título, fuente, descripción, detalle opcional y botón al recurso externo.
+import Base from '../layouts/Base.astro';
+import { t, url } from '../i18n/ui.js';
+import { pickText } from '../lib/data.js';
+
+const { lang, route, item: c } = Astro.props;
+const L = t[lang];
+const title = pickText(c.titulo, lang);
+const desc = pickText(c.descripcion, lang);
+const detail = c.detalle ? pickText(c.detalle, lang) : null;
+const paragraphs = Array.isArray(detail?.text) ? detail.text : [];
+const jsonld = {
+  '@context': 'https://schema.org', '@type': 'WebPage', name: title.text, description: desc.text, inLanguage: lang,
+  about: { '@type': 'Thing', name: title.text, url: c.enlace },
+  ...(c.fuente && { publisher: { '@type': 'Organization', name: c.fuente } }),
+};
+---
+<Base lang={lang} title={title.text} description={desc.text} route={route} jsonld={jsonld} noindex={title.lang !== lang}>
+  <article class="curiosity">
+    <header class="page-head">
+      {c.fuente && <p class="book-eyebrow">{L.curiosityFrom}: {c.fuente}</p>}
+      <h1 lang={title.lang !== lang ? title.lang : undefined}>{title.text}</h1>
+      <p lang={desc.lang !== lang ? desc.lang : undefined}>{desc.text}</p>
+    </header>
+    {paragraphs.length > 0 && (
+      <div class="curiosity-detail" lang={detail.lang !== lang ? detail.lang : undefined}>
+        {paragraphs.map((p) => <p>{p}</p>)}
+      </div>
+    )}
+    <p class="curiosity-actions">
+      <a class="button" href={c.enlace} target="_blank" rel="noopener noreferrer">{L.curiosityGo}</a>
+      <a class="more" href={url.curiosities(lang)}>{L.curiosityAll}</a>
+    </p>
+  </article>
+</Base>

@@ -1,0 +1,28 @@
+---
+// Curiosidad del día: la elige el build (scripts/lib/curiosidades.mjs), igual para todos los visitantes. Sin curiosidades, no sale.
+import curiosidades from '../../data/curiosidades.json';
+import { t, url } from '../i18n/ui.js';
+import { pickText } from '../lib/data.js';
+
+const { lang } = Astro.props;
+const L = t[lang];
+const c = curiosidades.todas.find((x) => x.id === curiosidades.hoy);
+const title = c && pickText(c.titulo, lang);
+const desc = c && pickText(c.descripcion, lang);
+---
+{c && (
+  <section class="widget daily daily--curiosity" aria-labelledby="w-curiosity" data-search-hide>
+    <span class="daily-tab" aria-hidden="true">
+      <svg viewBox="0 0 24 24" width="26" height="26" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M9 18h6M10 21h4M12 3a6 6 0 0 0-3.5 10.9c.6.5 1 1.2 1 2v.1h5v-.1c0-.8.4-1.5 1-2A6 6 0 0 0 12 3z" />
+      </svg>
+    </span>
+    <h2 id="w-curiosity">{L.w.curiosity}</h2>
+    <div class="daily-body">
+      {c.fuente && <p class="book-eyebrow">{c.fuente}</p>}
+      <p class="book-title"><a href={url.curiosity(lang, c.id)} lang={title.lang !== lang ? title.lang : undefined}>{title.text}</a></p>
+      <p class="book-synopsis daily-text" lang={desc.lang !== lang ? desc.lang : undefined}>{desc.text}</p>
+    </div>
+    <a class="more" href={url.curiosities(lang)}>{L.curiosityAll}</a>
+  </section>
+)}

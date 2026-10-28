@@ -5,6 +5,7 @@ import NearMe from './NearMe.astro';
 import SearchBox from './SearchBox.astro';
 import CineWidget from './CineWidget.astro';
 import DailyPick from './DailyPick.astro';
+import CuriosityWidget from './CuriosityWidget.astro';
 import MatchToday from './MatchToday.astro';
 import TodayIn from './TodayIn.astro';
 import { t, url, monthName, HREFLANG, INTL_LOCALE } from '../i18n/ui.js';
@@ -122,5 +123,7 @@ const jsonld = {
       <PlanList lang={lang} plans={next} />
       <a class="more" href={url.calendar(lang)}>{L.nav.calendar}</a>
     </section>
+
+    <CuriosityWidget lang={lang} />
   </div>
 </Base>

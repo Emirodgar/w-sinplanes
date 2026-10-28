@@ -1,0 +1,65 @@
+---
+import Base from '../layouts/Base.astro';
+import curiosidades from '../../data/curiosidades.json';
+import { t, url } from '../i18n/ui.js';
+import { pickText, norm } from '../lib/data.js';
+
+const { lang, route } = Astro.props;
+const L = t[lang];
+const list = curiosidades.todas.map((c) => ({ c, title: pickText(c.titulo, lang), desc: pickText(c.descripcion, lang) }));
+const site = Astro.site.origin;
+const jsonld = {
+  '@context': 'https://schema.org', '@type': 'ItemList', name: L.curiositiesTitle,
+  itemListElement: list.slice(0, 30).map(({ c, title }, i) => ({ '@type': 'ListItem', position: i + 1, name: title.text, url: `${site}${url.curiosity(lang, c.id)}` })),
+};
+---
+<Base lang={lang} title={L.curiositiesTitle} description={L.curiositiesIntro} route={route} jsonld={jsonld}>
+  <header class="page-head">
+    <h1>{L.curiositiesTitle}</h1>
+    <p>{L.curiositiesIntro}</p>
+  </header>
+
+  {list.length === 0 ? <p class="empty">{L.curiositiesEmpty}</p> : (
+    <>
+      <div class="books-tools" data-curiosities>
+        <div class="search" role="search">
+          <label class="visually-hidden" for="curiosities-q">{L.curiositiesSearchLabel}</label>
+          <input id="curiosities-q" type="search" autocomplete="off" enterkeyhint="search" placeholder={L.curiositiesSearch} />
+        </div>
+      </div>
+
+      <ul class="books-grid">
+        {list.map(({ c, title, desc }) => (
+          <li class="book-card curiosity-card" data-q={norm(`${title.text} ${c.fuente || ''} ${desc.text}`)}>
+            <div class="book-card-body">
+              {c.fuente && <p class="book-eyebrow">{c.fuente}</p>}
+              <h2 class="book-title"><a href={url.curiosity(lang, c.id)} lang={title.lang !== lang ? title.lang : undefined}>{title.text}</a></h2>
+              <p class="book-synopsis" lang={desc.lang !== lang ? desc.lang : undefined}>{desc.text}</p>
+            </div>
+          </li>
+        ))}
+      </ul>
+      <p class="empty" hidden data-curiosities-empty>{L.searchNone}</p>
+    </>
+  )}
+</Base>
+
+<script>
+  const root = document.querySelector('[data-curiosities]');
+  if (root) {
+    const input = root.querySelector('input');
+    const empty = document.querySelector('[data-curiosities-empty]');
+    const cards = [...document.querySelectorAll('.curiosity-card')];
+    const norm = (s) => String(s).normalize('NFD').replace(/\p{M}/gu, '').toLowerCase();
+    input.addEventListener('input', () => {
+      const words = norm(input.value).split(/\s+/).filter(Boolean);
+      let shown = 0;
+      for (const c of cards) {
+        const ok = words.every((w) => c.dataset.q.includes(w));
+        c.hidden = !ok;
+        if (ok) shown++;
+      }
+      empty.hidden = shown > 0;
+    });
+  }
+</script>

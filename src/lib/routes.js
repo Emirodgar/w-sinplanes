@@ -1,9 +1,11 @@
 // Enumera todas las páginas (el esqueleto sale solo de config; los eventos solo añaden páginas de plan) del sitio en todos los idiomas a partir de rutas neutras al idioma.
 import { LANGS, routeUrl } from '../i18n/ui.js';
+import curiosidades from '../../data/curiosidades.json';
 import { plans, topics, geo, byCcaa, byProvince, slugify, hasText } from './data.js';
 
 function specs() {
-  const out = [{ type: 'home' }, { type: 'topics' }, { type: 'places' }, { type: 'calendar' }, { type: 'museums' }, { type: 'routes' }, { type: 'parks' }, { type: 'books' }, { type: 'series' }, { type: 'movies' }, { type: 'podcasts' }, { type: 'races' }, { type: 'sports' }];
+  const out = [{ type: 'home' }, { type: 'topics' }, { type: 'places' }, { type: 'calendar' }, { type: 'museums' }, { type: 'routes' }, { type: 'parks' }, { type: 'books' }, { type: 'series' }, { type: 'movies' }, { type: 'podcasts' }, { type: 'races' }, { type: 'sports' }, { type: 'curiosities' }];
+  for (const c of curiosidades.todas) out.push({ type: 'curiosity', id: c.id, item: c });
   for (const p of plans) out.push({ type: 'plan', slug: p.slug, plan: p });
   for (const tp of topics) if (!tp.page) out.push({ type: 'topic', tp }); // museos, rutas y parques tienen página propia
   for (const c of geo) {

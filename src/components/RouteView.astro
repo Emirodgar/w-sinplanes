@@ -5,6 +5,8 @@ import ListView from './ListView.astro';
 import BooksView from './BooksView.astro';
 import PodcastsView from './PodcastsView.astro';
 import RacesView from './RacesView.astro';
+import CuriositiesView from './CuriositiesView.astro';
+import CuriosityView from './CuriosityView.astro';
 import SeriesView from './SeriesView.astro';
 import MoviesView from './MoviesView.astro';
 import { t, url, monthName } from '../i18n/ui.js';
@@ -66,7 +68,11 @@ const split = (list) => ({ seasonal: list.filter((p) => p.kind === 'estacional')
 
 {r.type === 'podcasts' && <PodcastsView lang={lang} route={r} />}
 
-{r.type === 'races' && <RacesView lang={lang} route={r} />}
+{r.type === 'curiosities' && <CuriositiesView lang={lang} route={r} />}
+
+{r.type === 'curiosity' && <CuriosityView lang={lang} route={r} item={r.item} />}
+
+{r.type === 'races' &&<RacesView lang={lang} route={r} />}
 
 {/* Página de deportes: solo planes con tema deporte. Sin enlace en el menú. */}
 {r.type === 'sports' && (

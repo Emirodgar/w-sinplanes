@@ -14,6 +14,7 @@ import { applyCachedTranslations } from './lib/translate.mjs';
 import { applyTrends, readHistory } from './lib/trends.mjs';
 import { buildBooks } from './lib/libros.mjs';
 import { buildPodcasts } from './lib/podcasts.mjs';
+import { buildCuriosidades } from './lib/curiosidades.mjs';
 
 const HORIZON_DAYS = 120;
 
@@ -52,6 +53,7 @@ writeFileSync(path.join(ROOT, 'data/peliculas.json'), JSON.stringify({
 }));
 writeFileSync(path.join(ROOT, 'data/libros.json'), JSON.stringify(buildBooks(today)));
 writeFileSync(path.join(ROOT, 'data/podcasts.json'), JSON.stringify(buildPodcasts(today)));
+writeFileSync(path.join(ROOT, 'data/curiosidades.json'), JSON.stringify(buildCuriosidades(today)));
 writeFileSync(path.join(ROOT, 'data/site.json'), JSON.stringify({
   today, generated: new Date().toISOString(), total: plans.length, skeleton: skeleton.length, events: events.length,
   dataUpdated: meta.generated || null,

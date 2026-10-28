@@ -1,0 +1,113 @@
+# Curiosidades: recursos atemporales (cursos gratuitos, vídeos, apps, directos…) sin fecha de caducidad
+# --------------------------------------------------------------------------------------------------
+# Cada entrada tiene su ficha en /curiosidades/<id>/ y entra en la rotación del widget de la portada:
+# una al día, en orden barajado y sin repetir hasta recorrer toda la lista (la misma para todos los visitantes).
+# Añade entradas siempre AL FINAL.
+#
+# Campos de cada entrada:
+#   id          identificador para la URL (minúsculas, sin espacios ni tildes)
+#   titulo      { es, en, fr, de, it, pt }
+#   fuente      (opcional) nombre del sitio o autor del recurso (Khan Academy, TED, TIME…)
+#   enlace      URL del recurso
+#   descripcion { es, en, fr, de, it, pt }  resumen corto: sale en el listado y en el widget
+#   detalle     (opcional) { es: [párrafos], en: [párrafos], … }  amplía la ficha
+#
+# Plantilla (copia y rellena):
+#   - id: ejemplo
+#     titulo: { es: "", en: "", fr: "", de: "", it: "", pt: "" }
+#     fuente: ""
+#     enlace: https://
+#     descripcion: { es: "", en: "", fr: "", de: "", it: "", pt: "" }
+
+curiosidades:
+  - id: pixar-in-a-box
+    titulo:
+      es: "Pixar in a Box: el arte de contar historias"
+      en: "Pixar in a Box: the art of storytelling"
+      fr: "Pixar in a Box : l’art de raconter des histoires"
+      de: "Pixar in a Box: die Kunst des Geschichtenerzählens"
+      it: "Pixar in a Box: l’arte di raccontare storie"
+      pt: "Pixar in a Box: a arte de contar histórias"
+    fuente: Khan Academy
+    enlace: https://www.khanacademy.org/partner-content/hass-storytelling
+    descripcion:
+      es: "Un curso gratuito y completo de la Khan Academy en el que los guionistas de Pixar explican cómo trabajan y crean sus historias."
+      en: "A complete free course on Khan Academy in which Pixar’s storytellers explain how they work and build their stories."
+      fr: "Un cours gratuit et complet sur la Khan Academy dans lequel les scénaristes de Pixar expliquent comment ils travaillent et construisent leurs histoires."
+      de: "Ein umfangreicher kostenloser Kurs der Khan Academy, in dem die Autorinnen und Autoren von Pixar erklären, wie sie arbeiten und ihre Geschichten entwickeln."
+      it: "Un corso gratuito e completo della Khan Academy in cui gli sceneggiatori della Pixar spiegano come lavorano e costruiscono le loro storie."
+      pt: "Um curso gratuito e completo da Khan Academy em que os argumentistas da Pixar explicam como trabalham e criam as suas histórias."
+
+  - id: ted-how-to-tell-a-story
+    titulo:
+      es: "TED: «How to tell a story»"
+      en: "TED: “How to tell a story”"
+      fr: "TED : « How to tell a story »"
+      de: "TED: „How to tell a story“"
+      it: "TED: «How to tell a story»"
+      pt: "TED: «How to tell a story»"
+    fuente: TED
+    enlace: https://www.ted.com/playlists/62/how_to_tell_a_story
+    descripcion:
+      es: "Una colección de charlas de TED centradas en el arte de contar historias, con maestros de la narración que dan nuevas respuestas a preguntas ancestrales."
+      en: "A collection of TED talks about the art of storytelling, with master storytellers exploring new answers to age-old questions."
+      fr: "Une collection de conférences TED consacrées à l’art de raconter des histoires, où des maîtres du récit apportent de nouvelles réponses à des questions ancestrales."
+      de: "Eine Sammlung von TED-Vorträgen über die Kunst des Geschichtenerzählens, in denen Meister ihres Fachs neue Antworten auf uralte Fragen geben."
+      it: "Una raccolta di interventi TED dedicati all’arte di raccontare storie, in cui maestri della narrazione offrono nuove risposte a domande antichissime."
+      pt: "Uma coleção de palestras TED dedicadas à arte de contar histórias, em que mestres da narração dão novas respostas a perguntas ancestrais."
+    detalle:
+      es:
+        - "En su presentación, TED se pregunta: ¿por qué nos encantan nuestras historias favoritas? ¿Necesitan acaso un principio, un desarrollo y un final, y un personaje que evolucione al concluir?"
+        - "Maestros de la narración exploran nuevas respuestas a esas preguntas ancestrales sobre este arte."
+      en:
+        - "TED’s own introduction asks: why do we love our favourite stories? Do they really need a beginning, a middle and an end, and a character who changes by the time it is over?"
+        - "Master storytellers explore new answers to those age-old questions about the craft."
+      fr:
+        - "Dans sa présentation, TED se demande : pourquoi aimons-nous tant nos histoires préférées ? Ont-elles vraiment besoin d’un début, d’un milieu et d’une fin, et d’un personnage qui évolue à la fin ?"
+        - "Des maîtres du récit explorent de nouvelles réponses à ces questions ancestrales sur cet art."
+      de:
+        - "In der Einführung fragt TED: Warum lieben wir unsere Lieblingsgeschichten? Brauchen sie wirklich Anfang, Mitte und Ende und eine Figur, die sich bis zum Schluss verändert?"
+        - "Meister des Erzählens suchen neue Antworten auf diese uralten Fragen zu ihrer Kunst."
+      it:
+        - "Nella sua presentazione TED si chiede: perché amiamo tanto le nostre storie preferite? Hanno davvero bisogno di un inizio, uno svolgimento e una fine, e di un personaggio che cambia alla conclusione?"
+        - "Maestri della narrazione esplorano nuove risposte a queste domande antichissime su quest’arte."
+      pt:
+        - "Na sua apresentação, a TED pergunta: porque adoramos as nossas histórias favoritas? Precisam mesmo de princípio, meio e fim, e de uma personagem que evolua no final?"
+        - "Mestres da narração exploram novas respostas a estas perguntas ancestrais sobre a sua arte."
+
+  - id: mejores-inventos-time-2026
+    titulo:
+      es: "Los 300 mejores inventos de 2026, según TIME"
+      en: "The 300 best inventions of 2026, according to TIME"
+      fr: "Les 300 meilleures inventions de 2026, selon TIME"
+      de: "Die 300 besten Erfindungen des Jahres 2026 laut TIME"
+      it: "Le 300 migliori invenzioni del 2026, secondo TIME"
+      pt: "Os 300 melhores inventos de 2026, segundo a TIME"
+    fuente: TIME
+    enlace: https://time.com/collections/best-inventions-2026/
+    descripcion:
+      es: "La selección anual de la revista TIME con 300 inventos «que están haciendo del mundo un lugar mejor, más inteligente y más divertido», filtrables por categorías."
+      en: "TIME magazine’s annual selection of 300 inventions “that are making the world better, smarter and more fun”, which you can filter by category."
+      fr: "La sélection annuelle du magazine TIME : 300 inventions « qui rendent le monde meilleur, plus intelligent et plus amusant », filtrables par catégorie."
+      de: "Die jährliche Auswahl des Magazins TIME mit 300 Erfindungen, „die die Welt besser, klüger und unterhaltsamer machen“, nach Kategorien filterbar."
+      it: "La selezione annuale della rivista TIME con 300 invenzioni «che rendono il mondo migliore, più intelligente e più divertente», filtrabili per categoria."
+      pt: "A seleção anual da revista TIME com 300 inventos «que estão a tornar o mundo melhor, mais inteligente e mais divertido», filtráveis por categoria."
+    detalle:
+      es:
+        - "Es la edición de 2026. Entre los inventos incluidos está el iPhone Duo de Apple, y la portada del número tiene como protagonista a John Ternus, el nuevo CEO de Apple, entrevistado para hablar de la nueva era de la compañía."
+        - "La propia revista explica en un segundo artículo cómo elige los inventos de cada año."
+      en:
+        - "This is the 2026 edition. Apple’s iPhone Duo is among the inventions included, and the cover of the issue features John Ternus, Apple’s new CEO, interviewed about the company’s new era."
+        - "The magazine explains in a second article how it chooses each year’s inventions."
+      fr:
+        - "C’est l’édition 2026. L’iPhone Duo d’Apple figure parmi les inventions retenues, et la couverture du numéro met en vedette John Ternus, le nouveau PDG d’Apple, interrogé sur la nouvelle ère de l’entreprise."
+        - "Le magazine explique dans un second article comment il choisit les inventions de chaque année."
+      de:
+        - "Es ist die Ausgabe 2026. Apples iPhone Duo gehört zu den ausgewählten Erfindungen, und auf dem Titelblatt ist John Ternus zu sehen, Apples neuer CEO, der über die neue Ära des Unternehmens spricht."
+        - "In einem zweiten Artikel erklärt das Magazin, wie es die Erfindungen jedes Jahres auswählt."
+      it:
+        - "È l’edizione 2026. Tra le invenzioni selezionate c’è l’iPhone Duo di Apple, e la copertina del numero ha come protagonista John Ternus, il nuovo CEO di Apple, intervistato sulla nuova era dell’azienda."
+        - "In un secondo articolo la rivista spiega come sceglie le invenzioni di ogni anno."
+      pt:
+        - "É a edição de 2026. O iPhone Duo da Apple é um dos inventos incluídos, e a capa do número tem como protagonista John Ternus, o novo CEO da Apple, entrevistado sobre a nova era da empresa."
+        - "A revista explica num segundo artigo como escolhe os inventos de cada ano."
