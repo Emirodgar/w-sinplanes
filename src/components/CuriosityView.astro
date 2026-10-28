@@ -23,6 +23,12 @@ const jsonld = {
       <h1 lang={title.lang !== lang ? title.lang : undefined}>{title.text}</h1>
       <p lang={desc.lang !== lang ? desc.lang : undefined}>{desc.text}</p>
     </header>
+    {c.imagen && (
+      <figure class="curiosity-figure">
+        <img src={c.imagen} alt={c.imagen_alt ? pickText(c.imagen_alt, lang).text : ''} decoding="async" />
+        {c.credito && <figcaption>{c.credito}</figcaption>}
+      </figure>
+    )}
     {paragraphs.length > 0 && (
       <div class="curiosity-detail" lang={detail.lang !== lang ? detail.lang : undefined}>
         {paragraphs.map((p) => <p>{p}</p>)}

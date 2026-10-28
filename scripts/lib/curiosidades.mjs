@@ -1,4 +1,4 @@
-import { readFileSync } from 'node:fs';
+import { existsSync, readFileSync } from 'node:fs';
 import path from 'node:path';
 import { load as yamlLoad } from 'js-yaml';
 import { ROOT } from './util.mjs';
@@ -16,6 +16,11 @@ export function buildCuriosidades(today, cfgPath = path.join(ROOT, 'config/curio
   for (const c of todas) {
     if (!c.id || ids.has(c.id)) throw new Error(`curiosidades.yml: id vacío o repetido (${c.id})`);
     ids.add(c.id);
+    // `imagen` (opcional) es un nombre de fichero de public/img/curiosidades/. Si no existe, la ficha sale sin imagen.
+    if (c.imagen) {
+      if (existsSync(path.join(ROOT, 'public/img/curiosidades', c.imagen))) c.imagen = `/img/curiosidades/${c.imagen}`;
+      else { console.warn(`[curiosidades] ${c.id}: no existe public/img/curiosidades/${c.imagen}, se publica sin imagen`); delete c.imagen; }
+    }
   }
   let hoy = null;
   if (todas.length) {

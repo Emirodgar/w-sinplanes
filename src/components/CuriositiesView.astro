@@ -30,7 +30,12 @@ const jsonld = {
 
       <ul class="books-grid">
         {list.map(({ c, title, desc }) => (
-          <li class="book-card curiosity-card" data-q={norm(`${title.text} ${c.fuente || ''} ${desc.text}`)}>
+          <li class={`book-card curiosity-card${c.imagen ? ' curiosity-card--img' : ''}`} data-q={norm(`${title.text} ${c.fuente || ''} ${desc.text}`)}>
+            {c.imagen && (
+              <a class="curiosity-thumb" href={url.curiosity(lang, c.id)} tabindex="-1" aria-hidden="true">
+                <img src={c.imagen} alt="" loading="lazy" decoding="async" />
+              </a>
+            )}
             <div class="book-card-body">
               {c.fuente && <p class="book-eyebrow">{c.fuente}</p>}
               <h2 class="book-title"><a href={url.curiosity(lang, c.id)} lang={title.lang !== lang ? title.lang : undefined}>{title.text}</a></h2>

@@ -1,5 +1,6 @@
 ---
 // Curiosidad del día: la elige el build (scripts/lib/curiosidades.mjs), igual para todos los visitantes. Sin curiosidades, no sale.
+// Si la curiosidad tiene `imagen`, se muestra a la izquierda; si no, solo el texto.
 import curiosidades from '../../data/curiosidades.json';
 import { t, url } from '../i18n/ui.js';
 import { pickText } from '../lib/data.js';
@@ -18,10 +19,17 @@ const desc = c && pickText(c.descripcion, lang);
       </svg>
     </span>
     <h2 id="w-curiosity">{L.w.curiosity}</h2>
-    <div class="daily-body">
-      {c.fuente && <p class="book-eyebrow">{c.fuente}</p>}
-      <p class="book-title"><a href={url.curiosity(lang, c.id)} lang={title.lang !== lang ? title.lang : undefined}>{title.text}</a></p>
-      <p class="book-synopsis daily-text" lang={desc.lang !== lang ? desc.lang : undefined}>{desc.text}</p>
+    <div class="daily-card">
+      {c.imagen && (
+        <a class="daily-cover curiosity-cover" href={url.curiosity(lang, c.id)} tabindex="-1" aria-hidden="true">
+          <img src={c.imagen} alt="" loading="lazy" decoding="async" />
+        </a>
+      )}
+      <div class="daily-body">
+        {c.fuente && <p class="book-eyebrow">{c.fuente}</p>}
+        <p class="book-title"><a href={url.curiosity(lang, c.id)} lang={title.lang !== lang ? title.lang : undefined}>{title.text}</a></p>
+        <p class="book-synopsis daily-text" lang={desc.lang !== lang ? desc.lang : undefined}>{desc.text}</p>
+      </div>
     </div>
     <a class="more" href={url.curiosities(lang)}>{L.curiosityAll}</a>
   </section>

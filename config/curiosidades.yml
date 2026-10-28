@@ -11,6 +11,10 @@
 #   enlace      URL del recurso
 #   descripcion { es, en, fr, de, it, pt }  resumen corto: sale en el listado y en el widget
 #   detalle     (opcional) { es: [párrafos], en: [párrafos], … }  amplía la ficha
+#   imagen      (opcional) nombre de un fichero de public/img/curiosidades/ (jpg, webp, png…, ~1200x900). Sale en el widget,
+#               el listado y la ficha. Usa solo imágenes propias o con licencia que lo permita (p. ej. dominio público de la NASA).
+#   imagen_alt  (opcional) { es, en, … }  texto alternativo de la imagen
+#   credito     (opcional) texto de crédito bajo la imagen en la ficha (p. ej. "Imagen: NASA/JPL")
 #
 # Plantilla (copia y rellena):
 #   - id: ejemplo

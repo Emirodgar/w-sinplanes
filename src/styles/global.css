@@ -390,3 +390,9 @@ p { margin: 0 0 1em; max-width: var(--measure); }
 .daily--curiosity .daily-body { min-width: 0; width: 100%; }
 .daily--curiosity .book-title a { color: inherit; text-decoration: none; }
 .daily--curiosity .book-title a:hover { text-decoration: underline; }
+.curiosity-cover img, .curiosity-thumb img { display: block; width: 100%; aspect-ratio: 4 / 3; object-fit: cover; border-radius: var(--r-md); background: var(--fill); }
+.curiosity-card--img { display: flex; }
+.curiosity-thumb { flex: none; width: clamp(6rem, 22vw, 9rem); text-decoration: none; }
+.curiosity-figure { margin: 0 0 1.5rem; max-width: 40rem; }
+.curiosity-figure img { display: block; width: 100%; height: auto; border-radius: var(--r-lg); background: var(--fill); }
+.curiosity-figure figcaption { margin-top: 0.5rem; font-size: 0.8125rem; color: var(--ink-soft); }
