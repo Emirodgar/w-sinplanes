@@ -77,12 +77,12 @@ curiosidades:
 
   - id: mejores-inventos-time-2026
     titulo:
-      es: "Los 300 mejores inventos de 2026, según TIME"
-      en: "The 300 best inventions of 2026, according to TIME"
-      fr: "Les 300 meilleures inventions de 2026, selon TIME"
-      de: "Die 300 besten Erfindungen des Jahres 2026 laut TIME"
-      it: "Le 300 migliori invenzioni del 2026, secondo TIME"
-      pt: "Os 300 melhores inventos de 2026, segundo a TIME"
+      es: "Mejores inventos de 2026 según TIME"
+      en: "TIME’s Best Inventions of 2026"
+      fr: "Meilleures inventions de 2026 selon TIME"
+      de: "Beste Erfindungen 2026 laut TIME"
+      it: "Migliori invenzioni del 2026 secondo TIME"
+      pt: "Melhores inventos de 2026 segundo a TIME"
     fuente: TIME
     enlace: https://time.com/collection/best-inventions/2026/
     descripcion:
@@ -114,12 +114,12 @@ curiosidades:
 
   - id: google-maps-fan-favorite-dining-list-2026
     titulo:
-      es: "Google Maps estrena su guía gastronómica: Fan-Favorite Dining List 2026"
-      en: "Google Maps launches its first dining guide: the Fan-Favorite Dining List 2026"
-      fr: "Google Maps lance son premier guide gastronomique : la Fan-Favorite Dining List 2026"
-      de: "Google Maps startet seinen ersten Restaurantführer: die Fan-Favorite Dining List 2026"
-      it: "Google Maps lancia la sua prima guida gastronomica: la Fan-Favorite Dining List 2026"
-      pt: "O Google Maps lança o seu primeiro guia gastronómico: a Fan-Favorite Dining List 2026"
+      es: "Guía gastronómica de Google Maps: Fan-Favorite Dining List 2026"
+      en: "Google Maps dining guide: Fan-Favorite Dining List 2026"
+      fr: "Guide gastronomique de Google Maps : Fan-Favorite Dining List 2026"
+      de: "Restaurantführer von Google Maps: Fan-Favorite Dining List 2026"
+      it: "Guida gastronomica di Google Maps: Fan-Favorite Dining List 2026"
+      pt: "Guia gastronómico do Google Maps: Fan-Favorite Dining List 2026"
     fuente: Google Maps
     enlace: https://blog.google/products-and-platforms/products/maps/google-maps-fan-favorite-dining-list/
     descripcion:
