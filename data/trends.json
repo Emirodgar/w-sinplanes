@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27",
+ "updated": "2026-10-28",
  "terms": [
   {
    "term": "enric masip",
@@ -69,6 +69,16 @@
     "Dos mandos a gritos y la frontera de Ceuta desbordada: el bochorno de la bronca en pleno asalto llega hoy a la Audiencia Nacional",
     "Última hora de la crisis migratoria de Cauta, en directo: El inspector jefe de la Policía Nacional y el teniente coronel de la Guardia Civil declaran hoy ante la Audiencia Nacional",
     "La investigación en la Audiencia Nacional por la entrada masiva en Ceuta toma impulso con declaraciones de policías y consejeros que gestionaron la crisis"
+   ]
+  },
+  {
+   "term": "telecinco",
+   "traffic": 10000,
+   "lastSeen": "2026-10-28",
+   "news": [
+    "Telecinco toma medidas con ‘Rueda la letra’",
+    "Telecinco retira 'Rueda la letra' de los fines de semana y ajusta sus tardes con un cambio para 'Fiesta'",
+    "Telecinco se rinde con 'Rueda la letra' y lo retira del fin de semana tras sus insostenibles cifras de audiencia"
    ]
   },
   {
@@ -570,6 +580,26 @@
    ]
   },
   {
+   "term": "los rochos",
+   "traffic": 1000,
+   "lastSeen": "2026-10-28",
+   "news": [
+    "Última hora de la actualidad política, en directo | El PP responde en redes a la denuncia de Begoña Gómez: “Podría ser peor. Podrían habernos mandado a Los rochos”",
+    "Elecciones 29N, en directo: Gabriel Rufián e Irene Montero visitan La Revuelta",
+    "Begoña Gómez presenta una denuncia por suplantación de imagen por el vídeo del PP hecho con inteligencia artificial"
+   ]
+  },
+  {
+   "term": "train crash spain",
+   "traffic": 1000,
+   "lastSeen": "2026-10-28",
+   "news": [
+    "Live updates: Two high-speed trains collide in Spain forcing suspension of line",
+    "At least 10 dead after two trains collide south of Madrid, regional official says",
+    "Spanish authorities say 2 trains have been involved in accident"
+   ]
+  },
+  {
    "term": "revolut down",
    "traffic": 500,
    "lastSeen": "2026-10-20",
@@ -876,6 +906,36 @@
     "Un amplio dispositivo busca por tierra, agua y aire a una vecina de 51 años desaparecida en Ampuero",
     "Buscan a una mujer de 51 años desaparecida en Ampuero (Cantabria)",
     "Emergencias busca a una mujer desaparecida en Ampuero"
+   ]
+  },
+  {
+   "term": "train",
+   "traffic": 500,
+   "lastSeen": "2026-10-28",
+   "news": [
+    "EN DIRECT, collision entre deux trains en Espagne : de nombreux morts à déplorer, selon les autorités régionales",
+    "Espagne : deux trains entrent en collision au sud de Madrid, plusieurs «blessés»",
+    "DIRECT. Collision entre deux trains près de Tolède : les autorités locales déplorent \"au moins 10 morts\""
+   ]
+  },
+  {
+   "term": "heraldo de aragon",
+   "traffic": 500,
+   "lastSeen": "2026-10-28",
+   "news": [
+    "La AESAF condena dos agresiones a árbitros en Aragón y Asturias y pide una “respuesta firme” contra la violenc",
+    "Juan Antonio Sagardoy denuncia el perjuicio a la imagen de Almudévar",
+    "Paco Ramo, presidente del colectivo arbitral: \"Nadie está en esta vida para ser insultado o agredido en su trabajo\""
+   ]
+  },
+  {
+   "term": "lne",
+   "traffic": 500,
+   "lastSeen": "2026-10-28",
+   "news": [
+    "Atasco kilométrico en la autopista 'Y' por la colisión entre seis coches",
+    "Un accidente con seis vehículos implicados provoca retenciones kilométricas en la \"Y\" y colapsa la zona oeste de Gijón durante dos horas",
+    "Caos en la «Y» asturiana: seis vehículos chocan en plena hora punta y provocan más de seis kilómetros de atasco hasta Gijón"
    ]
   },
   {
@@ -1564,6 +1624,46 @@
     "AC Black Flag Resynced Title Update 1.0.8 - Patch Notes",
     "Assassin's Creed: Ubisoft will discuss the future of the series on October 29",
     "AC4 Black Flag Resynced: New Game Plus explained"
+   ]
+  },
+  {
+   "term": "el periodico de catalunya",
+   "traffic": 200,
+   "lastSeen": "2026-10-28",
+   "news": [
+    "Los lectores de EL PERIÓDICO, sobre los disturbios en Barcelona: \"Convocar no es lo mismo que movilizar con sentido\"",
+    "\"Movilizarse no siempre es protestar\"",
+    "El derecho a protestar no es el derecho a ejercer la violencia"
+   ]
+  },
+  {
+   "term": "bbc",
+   "traffic": 200,
+   "lastSeen": "2026-10-28",
+   "news": [
+    "What we know about Ukraine-Russia truce in Oleshky, brokered by Melania Trump",
+    "Oleshky truce appears to hold as two European leaders have ‘frank’ call with Putin",
+    "Ukrainian refugees will be sent to Russia under Melania Trump’s ceasefire"
+   ]
+  },
+  {
+   "term": "11m",
+   "traffic": 200,
+   "lastSeen": "2026-10-28",
+   "news": [
+    "PGB nets RM187.43mil from land sale",
+    "Paragon Globe gets shareholders’ nod for RM398m Johor land sale to data centre firm DayOne",
+    "Paragon Globe shareholders approve RM398m Tanjung Kupang land sale"
+   ]
+  },
+  {
+   "term": "submarino nuclear",
+   "traffic": 200,
+   "lastSeen": "2026-10-28",
+   "news": [
+    "Rusia lanza un misil estratégico desde un submarino nuclear en el Ártico y alcanza su objetivo",
+    "Un submarino nuclear ruso prueba un misil estratégico con destino al Ártico",
+    "Rusia prueba un misil nuclear Bulavá desde un submarino de su Flota del Pacífico y alcanza un objetivo en el Ártico"
    ]
   },
   {
