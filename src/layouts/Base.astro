@@ -5,6 +5,7 @@ import { meta, fmtDay } from '../lib/data.js';
 import podcasts from '../../data/podcasts.json';
 import curiosidades from '../../data/curiosidades.json';
 import { isHalloween, HALLOWEEN } from '../lib/ocasiones.js';
+import { halloween } from '../i18n/halloween.js';
 
 // route: objeto neutro al idioma (ver routeUrl). avail: idiomas con contenido propio para esta página.
 const { lang = 'es', title, description, route = null, avail = LANGS, noindex = false, jsonld = null, image = null } = Astro.props;
@@ -46,6 +47,7 @@ const switcher = LANGS.map((l) => ({ l, href: route && avail.includes(l) ? route
         var d = new Date().toLocaleDateString('sv-SE', { timeZone: 'Europe/Madrid' }).slice(5);
         var on = d >= from && d <= to;
         document.documentElement.classList.toggle('halloween', on);
+        if (on && localStorage.getItem('sp-noche') === '1') document.documentElement.classList.add('noche');
         document.getElementById('favicon').setAttribute('href', on ? '/favicon-halloween.svg' : '/favicon.svg');
       } catch (e) {}
     })();
@@ -75,8 +77,23 @@ const switcher = LANGS.map((l) => ({ l, href: route && avail.includes(l) ? route
           <a href={href} hreflang={HREFLANG[l]} lang={HREFLANG[l]} aria-current={l === lang ? 'true' : undefined} title={LANG_NAME[l]}>{l.toUpperCase()}</a>
         ))}
       </nav>
+      <button class="theme-toggle" type="button" aria-pressed="false" aria-label={halloween[lang].night} title={halloween[lang].night}><span aria-hidden="true">🌙</span></button>
     </div>
   </header>
+  <script is:inline>
+    // Variante oscura del tema de Halloween: solo se ve con la clase .halloween y se recuerda en este navegador.
+    (function () {
+      var b = document.querySelector('.theme-toggle'), r = document.documentElement;
+      if (!b) return;
+      function paint() { var on = r.classList.contains('noche'); b.setAttribute('aria-pressed', on ? 'true' : 'false'); b.firstChild.textContent = on ? '☀️' : '🌙'; }
+      b.addEventListener('click', function () {
+        r.classList.toggle('noche');
+        try { localStorage.setItem('sp-noche', r.classList.contains('noche') ? '1' : '0'); } catch (e) {}
+        paint();
+      });
+      paint();
+    })();
+  </script>
   <main id="main" class="wrap">
     <slot />
   </main>
