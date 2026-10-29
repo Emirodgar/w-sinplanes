@@ -9183,5 +9183,994 @@
   "src": "prensa-ideal-culturas",
   "publicado": "2026-10-27",
   "es_plan": false
+ },
+ "d0de9f0bb2": {
+  "url": "https://elpais.com/cultura/2026-10-29/el-regreso-de-c-tangana-a-la-musica-con-el-grupo-de-rap-que-lo-cambio-todo-y-al-que-tildaron-de-pijo.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-10-29",
+  "es_plan": false
+ },
+ "08251705c1": {
+  "url": "https://elpais.com/cultura/2026-10-29/el-misterio-del-trozo-de-piedra-que-resulto-ser-una-diosa-romana.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-10-29",
+  "es_plan": false
+ },
+ "dc0a64ef90": {
+  "url": "https://elpais.com/cultura/2026-10-29/daniel-mordzinski-fotografo-me-ilusiona-creer-que-mis-fotografias-contribuyen-a-ensanchar-la-complicidad-lectora.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-10-29",
+  "es_plan": false
+ },
+ "704e1e2692": {
+  "url": "https://www.lavanguardia.com/cultura/20261029/11670938/homenaje-pau-casals-cant-dels-ocells-victimas-accidente-auditorio-nacional.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-10-29",
+  "es_plan": false
+ },
+ "e1021ed632": {
+  "url": "https://www.lavanguardia.com/cultura/20261029/11670571/na-hong-jin-queria-llevar-accion-limite.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-10-29",
+  "es_plan": true,
+  "titulo": "Estreno de 'Hope', la nueva película de Na Hong-jin",
+  "resumen": "El cineasta surcoreano Na Hong-jin estrena su nueva superproducción de ciencia ficción, 'Hope', este viernes en cines. La película ya ha pasado por Cannes y Sitges.",
+  "en": {
+   "titulo": "Premiere of 'Hope', Na Hong-jin's new film",
+   "resumen": "South Korean filmmaker Na Hong-jin premieres his new science fiction blockbuster, 'Hope', this Friday in cinemas. The film has already been shown at Cannes and Sitges."
+  },
+  "inicio": "2026-10-30",
+  "fin": "2026-10-30",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "pantalla",
+   "cultura"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.7
+ },
+ "67cc5a35f2": {
+  "url": "https://www.ara.cat/cultura/angels-gonyalons-posa-veu-dones-maltractades-victor-catala_1_5893766.html",
+  "fuente": "Ara (Cultura)",
+  "src": "prensa-ara-cultura",
+  "publicado": "2026-10-29",
+  "es_plan": false
+ },
+ "52d4fd79a9": {
+  "url": "https://www.ara.cat/gent/hollywood/doc-retorn-futur-l-actor-christopher-lloyd-confessa-seva-addiccio-cocaina_1_5893619.html",
+  "fuente": "Ara (Cultura)",
+  "src": "prensa-ara-cultura",
+  "publicado": "2026-10-29",
+  "es_plan": false
+ },
+ "60ab44fa47": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/29/leire-martinez-sale-defensa-amaia-montero-criticas-concierto-zaragoza-fiestas-pilar-terriblemente-doloroso-2063062.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-10-29",
+  "es_plan": false
+ },
+ "e1ab4f1e2a": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/29/eres-capaz-reconocer-todos-los-jugadores-casademont-2063372.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-10-29",
+  "es_plan": false
+ },
+ "91b45366e4": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/29/rafa-mora-43anos-propietario-9pisos-primero-compramos-80000euros-alquilado-900-2063164.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-10-29",
+  "es_plan": false
+ },
+ "33b9b8c420": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/29/maximo-huerta-55anos-pregunto-acuerde-limpiar-lapida-nombre-2063917.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-10-29",
+  "es_plan": false
+ },
+ "1c6e71e8d0": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/29/pancho-varona-giras-joaquin-sabina-jactaba-persona-escenario-admiraba-serrat-2063915.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-10-29",
+  "es_plan": true,
+  "titulo": "Pancho Varona anuncia disco en solitario y recuerda su etapa con Sabina",
+  "resumen": "Pancho Varona, mano derecha de Joaquín Sabina durante 40 años, lanzará un disco en solitario el 15 de noviembre. El músico recuerda su abrupto despido y su admiración por Serrat.",
+  "en": {
+   "titulo": "Pancho Varona announces solo album and recalls his time with Sabina",
+   "resumen": "Pancho Varona, Joaquín Sabina's musical right-hand man for 40 years, will release a solo album on November 15th. The musician recalls his abrupt dismissal and his admiration for Serrat."
+  },
+  "inicio": "2026-11-15",
+  "fin": "2026-11-15",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": "Madrid",
+  "ambito": "nacional",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.7
+ },
+ "7da3bded7a": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/29/eva-amaral-54anos-quiero-sacarme-carne-conducir-bici-2063914.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-10-29",
+  "es_plan": true,
+  "titulo": "Eva Amaral: Conciertos en Barcelona y Madrid y reto del carné de conducir",
+  "resumen": "Eva Amaral ofrecerá conciertos en Barcelona (18 de diciembre) y Madrid (28 de diciembre). La cantante también se propone sacarse el carné de conducir y vive en una aldea gallega.",
+  "en": {
+   "titulo": "Eva Amaral: Concerts in Barcelona and Madrid and driving license challenge",
+   "resumen": "Eva Amaral will perform concerts in Barcelona (December 18th) and Madrid (December 28th). The singer also aims to get her driving license and lives in a Galician village."
+  },
+  "inicio": "2026-12-18",
+  "fin": "2026-12-28",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": "Aragón",
+  "ambito": "nacional",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "52fe98e38a": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/29/eco-bunuel-mexico-inspira-un-nuevo-documental-jose-angel-guimera-2063808.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-10-29",
+  "es_plan": false
+ },
+ "1b4659de3c": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/29/borja-ecce-homo-se-vivio-como-una-vergueenza-yo-creo-que-es-motivo-orgullo-2063762.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-10-29",
+  "es_plan": true,
+  "titulo": "Presentación de la novela 'El manantial de la alegría' sobre el Ecce Homo",
+  "resumen": "El escritor Millanes Rivas presenta su novela 'El manantial de la alegría', que narra lo sucedido con el Ecce Homo de Borja, el 4 de noviembre en Zaragoza y el 5 en Borja.",
+  "en": {
+   "titulo": "Presentation of the novel 'El manantial de la alegría' about the Ecce Homo",
+   "resumen": "Writer Millanes Rivas presents his novel 'El manantial de la alegría', which recounts the events of the Ecce Homo of Borja, on November 4th in Zaragoza and on the 5th in Borja."
+  },
+  "inicio": "2026-11-04",
+  "fin": "2026-11-05",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": "Zaragoza",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "libros",
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "60da3cc143": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/29/aitana-rechaza-especular-vivienda-propiedades-unicamente-uso-personal-2063758.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-10-29",
+  "es_plan": false
+ },
+ "8a1a40f1d3": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/29/estos-son-los-6-conciertos-bombo-platillo-para-otono-zaragoza-una-invitacion-descubrir-traves-desprejuicio-2063674.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-10-29",
+  "es_plan": true,
+  "titulo": "Ciclo Bombo y Platillo: 6 conciertos de otoño en Zaragoza",
+  "resumen": "El ciclo Bombo y Platillo celebra su 15 aniversario en Zaragoza con seis conciertos que exploran músicas difíciles de encasillar. Las actuaciones se desarrollarán todos los jueves hasta el 3 de diciembre en La Rotonda del Centro Cívico Delicias.",
+  "en": {
+   "titulo": "Bombo y Platillo Cycle: 6 autumn concerts in Zaragoza",
+   "resumen": "The Bombo y Platillo cycle celebrates its 15th anniversary in Zaragoza with six concerts exploring hard-to-categorize music. The performances will take place every Thursday until December 3rd at La Rotonda of the Centro Cívico Delicias."
+  },
+  "inicio": "2026-10-29",
+  "fin": "2026-12-03",
+  "hora": null,
+  "lugar": "La Rotonda del Centro Cívico Delicias",
+  "municipio": "Zaragoza",
+  "provincia": "Zaragoza",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "16832de5ec": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/29/eduardo-perez-bona-ciclo-bombo-platillo-estar-una-hora-escuchando-musica-sin-distracciones-me-parece-revolucionario-2062941.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-10-29",
+  "es_plan": true,
+  "titulo": "Eduardo Pérez Bona celebra 15 años del ciclo Bombo y Platillo",
+  "resumen": "El gestor cultural Eduardo Pérez Bona celebra el 15 aniversario del ciclo de conciertos Bombo y Platillo, que arranca este jueves con Las Lloronas en el Centro Cívico Delicias a las 19:30.",
+  "en": {
+   "titulo": "Eduardo Pérez Bona celebrates 15 years of the Bombo y Platillo cycle",
+   "resumen": "Cultural manager Eduardo Pérez Bona celebrates the 15th anniversary of the Bombo y Platillo concert series, which kicks off this Thursday with Las Lloronas at the Centro Cívico Delicias at 7:30 PM."
+  },
+  "inicio": "2026-10-29",
+  "fin": "2026-10-29",
+  "hora": "19:30",
+  "lugar": "Centro Cívico Delicias",
+  "municipio": "Zaragoza",
+  "provincia": "Zaragoza",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "90b75cd227": {
+  "url": "https://www.elnortedecastilla.es/culturas/seminci/programa/programa-completo-seminci-2026-jueves-octubre-20261029093336-nt.html",
+  "fuente": "El Norte de Castilla (Culturas)",
+  "src": "prensa-nortecastilla-culturas",
+  "publicado": "2026-10-29",
+  "es_plan": true,
+  "titulo": "Programa completo de la Seminci 2026: jueves 29 de octubre",
+  "resumen": "Consulta el programa completo de la séptima jornada de la Semana Internacional del Cine de Valladolid, que se celebra hoy, jueves 29 de octubre.",
+  "en": {
+   "titulo": "Full program of Seminci 2026: Thursday, October 29",
+   "resumen": "Consult the complete program for the seventh day of the Valladolid International Film Festival, taking place today, Thursday, October 29."
+  },
+  "inicio": "2026-10-29",
+  "fin": "2026-10-29",
+  "hora": null,
+  "lugar": null,
+  "municipio": "Valladolid",
+  "provincia": "Valladolid",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "a7c67e2860": {
+  "url": "https://www.elnortedecastilla.es/culturas/musica/siempre-busco-estado-gracia-escenario-droga-siempre-20261025001038-ntrc.html",
+  "fuente": "El Norte de Castilla (Culturas)",
+  "src": "prensa-nortecastilla-culturas",
+  "publicado": "2026-10-29",
+  "es_plan": false
+ },
+ "df362f1774": {
+  "url": "https://www.elnortedecastilla.es/culturas/tv/megan-montaner-puedo-permitirme-decir-proyecto-conciliar-20261029001011-ntrc.html",
+  "fuente": "El Norte de Castilla (Culturas)",
+  "src": "prensa-nortecastilla-culturas",
+  "publicado": "2026-10-29",
+  "es_plan": true,
+  "titulo": "Estreno de 'Entre tierras' con Megan Montaner este jueves",
+  "resumen": "La actriz Megan Montaner regresa en la piel de María en la segunda temporada de la serie 'Entre tierras', que Antena 3 estrena este jueves 29 de octubre a las 23:00 horas.",
+  "en": {
+   "titulo": "Premiere of 'Entre tierras' with Megan Montaner this Thursday",
+   "resumen": "Actress Megan Montaner returns as María in the second season of the series 'Entre tierras', which Antena 3 premieres this Thursday, October 29th at 11:00 PM."
+  },
+  "inicio": "2026-10-29",
+  "fin": "2026-10-29",
+  "hora": "23:00",
+  "lugar": null,
+  "municipio": null,
+  "provincia": "Valladolid",
+  "ambito": "nacional",
+  "gratis": true,
+  "precio": null,
+  "temas": [
+   "pantalla",
+   "cultura"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "83c838aeaa": {
+  "url": "https://www.elcorreo.com/culturas/walkmans-camaras-analogicas-nuevos-carteles-azoka-20261028184912-nt.html",
+  "fuente": "El Correo (Culturas)",
+  "src": "prensa-elcorreo-culturas",
+  "publicado": "2026-10-29",
+  "es_plan": true,
+  "titulo": "Feria de Durango 2026: del 4 al 8 de diciembre",
+  "resumen": "La 61ª edición de la Feria de Durango se celebrará del 4 al 8 de diciembre bajo el lema «Kulturaren Jaialdia» (Festival de la Cultura), presentando nuevos carteles con referencias a Walkmans y cámaras analógicas.",
+  "en": {
+   "titulo": "Durango Fair 2026: from December 4th to 8th",
+   "resumen": "The 61st edition of the Durango Fair will be held from December 4th to 8th under the slogan «Kulturaren Jaialdia» (Festival of Culture), featuring new posters with references to Walkmans and analog cameras."
+  },
+  "inicio": "2026-12-04",
+  "fin": "2026-12-08",
+  "hora": null,
+  "lugar": "Durango",
+  "municipio": "Durango",
+  "provincia": "Bizkaia",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "fiestas"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "0f2df564c0": {
+  "url": "https://www.diariovasco.com/culturas/luis-piedrahita-mejor-premio-siempre-comedia-publico-20261029184710-nt.html",
+  "fuente": "El Diario Vasco (Culturas)",
+  "src": "prensa-diariovasco-culturas",
+  "publicado": "2026-10-29",
+  "es_plan": true,
+  "titulo": "Entradas a la venta para festival de comedia en Gipuzkoa (marzo)",
+  "resumen": "Salen a la venta las entradas para la segunda edición del festival de comedia que se celebrará del 3 al 7 de marzo, con más shows y escenarios.",
+  "en": {
+   "titulo": "Tickets on sale for comedy festival in Gipuzkoa (March)",
+   "resumen": "Tickets go on sale for the second edition of the comedy festival, which will be held from March 3rd to 7th, with more shows and stages."
+  },
+  "inicio": "2027-03-03",
+  "fin": "2027-03-07",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": "Gipuzkoa",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "fiestas"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "9923ff464a": {
+  "url": "https://www.lasprovincias.es/culturas/musica/llega-meses-potentes-roig-arena-conciertos-mes-20261027004331-nt.html",
+  "fuente": "Las Provincias (Culturas)",
+  "src": "prensa-lasprovincias-culturas",
+  "publicado": "2026-10-29",
+  "es_plan": true,
+  "titulo": "Conciertos en Roig Arena en noviembre",
+  "resumen": "El Roig Arena de Valencia acogerá una potente programación de conciertos durante el mes de noviembre, incluyendo la actuación de una gran voz de la música en español y otros artistas de renombre.",
+  "en": {
+   "titulo": "Concerts at Roig Arena in November",
+   "resumen": "The Roig Arena in Valencia will host a strong lineup of concerts during November, including a performance by a major voice in Spanish music and other renowned artists."
+  },
+  "inicio": "2026-11-01",
+  "fin": "2026-11-30",
+  "hora": null,
+  "lugar": "Roig Arena",
+  "municipio": "València",
+  "provincia": "València",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "35a17b961d": {
+  "url": "https://www.lasprovincias.es/culturas/tv/confirmado-crunchyroll-pone-fecha-estreno-tercera-temporada-20261028160512-nt.html",
+  "fuente": "Las Provincias (Culturas)",
+  "src": "prensa-lasprovincias-culturas",
+  "publicado": "2026-10-29",
+  "es_plan": false
+ },
+ "d701e83066": {
+  "url": "https://www.lasprovincias.es/culturas/musica/ocho-meses-infructuosos-busqueda-festivalodromo-alternativo-ciudad-20261027004039-nt.html",
+  "fuente": "Las Provincias (Culturas)",
+  "src": "prensa-lasprovincias-culturas",
+  "publicado": "2026-10-29",
+  "es_plan": false
+ },
+ "d3d9b3728f": {
+  "url": "https://www.lasprovincias.es/culturas/tv/tve-emite-jueves-hora-bruja-concha-velasco-20261028003656-nt.html",
+  "fuente": "Las Provincias (Culturas)",
+  "src": "prensa-lasprovincias-culturas",
+  "publicado": "2026-10-29",
+  "es_plan": true,
+  "titulo": "Emisión de 'La hora bruja' en TVE este jueves",
+  "resumen": "TVE emite este jueves 29 de octubre la película 'La hora bruja', protagonizada por Concha Velasco y Paco Rabal, como parte de la oferta de cine en abierto.",
+  "en": {
+   "titulo": "Broadcast of 'La hora bruja' on TVE this Thursday",
+   "resumen": "TVE broadcasts the film 'La hora bruja', starring Concha Velasco and Paco Rabal, this Thursday, October 29th, as part of its free-to-air cinema offering."
+  },
+  "inicio": "2026-10-29",
+  "fin": "2026-10-29",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": "València",
+  "ambito": "nacional",
+  "gratis": true,
+  "precio": null,
+  "temas": [
+   "pantalla",
+   "cultura"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "3cc3407166": {
+  "url": "https://www.eldiariomontanes.es/culturas/jose-cobo-mira-goya-ojos-20261029182503-nt.html",
+  "fuente": "El Diario Montañés (Culturas)",
+  "src": "prensa-diariomontanes-culturas",
+  "publicado": "2026-10-29",
+  "es_plan": false
+ },
+ "d84db813e5": {
+  "url": "https://www.larioja.com/culturas/logrono-bailando-azcona-20261028090446-nt.html",
+  "fuente": "La Rioja (Culturas)",
+  "src": "prensa-larioja-culturas",
+  "publicado": "2026-10-29",
+  "es_plan": false
+ },
+ "7d0e9f5f29": {
+  "url": "https://www.larioja.com/culturas/maleta-alex-rodado-calahorra-estrenara-cines-noviembre-20261028090724-nt.html",
+  "fuente": "La Rioja (Culturas)",
+  "src": "prensa-larioja-culturas",
+  "publicado": "2026-10-29",
+  "es_plan": true,
+  "titulo": "Estreno de 'La maleta de Álex' en cines el 27 de noviembre",
+  "resumen": "El documental 'La maleta de Álex', rodado en Calahorra y que recoge la vida del actor Álex Angulo, se estrenará en cines el próximo 27 de noviembre.",
+  "en": {
+   "titulo": "Premiere of 'La maleta de Álex' in cinemas on November 27th",
+   "resumen": "The documentary 'La maleta de Álex', filmed in Calahorra and chronicling the life of actor Álex Angulo, will premiere in cinemas on November 27th."
+  },
+  "inicio": "2026-11-27",
+  "fin": "2026-11-27",
+  "hora": null,
+  "lugar": null,
+  "municipio": "Calahorra",
+  "provincia": "La Rioja",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "29a5dc74c6": {
+  "url": "https://www.20minutos.es/libros/historiador-alberto-angela-su-novela-sobre-julio-cesar-lider-ventas-italia-fue-gran-politico-cinico-feroz-corrupto_7054642_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-10-28",
+  "es_plan": false
+ },
+ "2618b3712a": {
+  "url": "https://www.20minutos.es/libros/mariana-enriquez-maestra-terror-presenta-nuevo-libro-empatia-tiene-buena-prensa-pero-no-sirve-nada_7054570_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-10-28",
+  "es_plan": false
+ },
+ "6a4504e7f4": {
+  "url": "https://www.20minutos.es/musica/k-pop-demon-hunters-amplia-su-universo-musical-con-dos-coreografias-oficiales-golden-how-it-s-done_7054537_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-10-28",
+  "es_plan": false
+ },
+ "ca6fd897de": {
+  "url": "https://www.20minutos.es/musica/rosalia-ana-mena-lola-indigo-quevedo-favoritos-para-los40-music-awards-2026_7054459_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-10-28",
+  "es_plan": true,
+  "titulo": "Los40 Music Awards Santander 2026 en el Palau Sant Jordi de Barcelona",
+  "resumen": "Los40 ha anunciado los nominados a los Los40 Music Awards Santander 2026, que se celebrarán el 20 de noviembre en el Palau Sant Jordi de Barcelona. Rosalía lidera las nominaciones.",
+  "en": {
+   "titulo": "Los40 Music Awards Santander 2026 at Palau Sant Jordi in Barcelona",
+   "resumen": "Los40 has announced the nominees for the Los40 Music Awards Santander 2026, which will be held on November 20 at the Palau Sant Jordi in Barcelona. Rosalía leads the nominations."
+  },
+  "inicio": "2026-11-20",
+  "fin": "2026-11-20",
+  "hora": null,
+  "lugar": "Palau Sant Jordi",
+  "municipio": "Barcelona",
+  "provincia": "Barcelona",
+  "ambito": "local",
+  "gratis": false,
+  "precio": "entradas agotadas",
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "3616fe65a4": {
+  "url": "https://www.20minutos.es/cultura/paz-como-proposito-homenaje-pau-casals-london-philharmonic-orchestra-150-aniversario-su-nacimiento_7054403_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-10-28",
+  "es_plan": false
+ },
+ "01a7b57253": {
+  "url": "https://www.lavanguardia.com/cultura/20261028/11670760/reir-anar-feeeeent.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-10-28",
+  "es_plan": false
+ },
+ "05eb8d3ebe": {
+  "url": "https://www.lavanguardia.com/cultura/20261028/11670560/bach-pulsion-familiar-mano-mal-pelo-tres-hijos.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-10-28",
+  "es_plan": true,
+  "titulo": "Mal Pelo presenta 'Bach' en familia en Temporada Alta",
+  "resumen": "La compañía Mal Pelo presenta una nueva versión de su emblemático solo 'Bach', ahora con la participación de sus tres hijos, en el marco del festival Temporada Alta. La obra explora la transmisión en la danza.",
+  "en": {
+   "titulo": "Mal Pelo presents 'Bach' with family at Temporada Alta",
+   "resumen": "The company Mal Pelo presents a new version of its emblematic solo 'Bach', now with the participation of their three children, within the Temporada Alta festival. The work explores transmission in dance."
+  },
+  "inicio": "2026-10-29",
+  "fin": "2026-10-29",
+  "hora": null,
+  "lugar": "Canal de Salt",
+  "municipio": "Salt",
+  "provincia": "Girona",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "d35e45285f": {
+  "url": "https://www.lavanguardia.com/cultura/20261028/11670494/mayorga-cervantes-perros-romea.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-10-28",
+  "es_plan": false
+ },
+ "099aab9ba3": {
+  "url": "https://www.lavanguardia.com/cultura/20261028/11670405/santa-monica-explora-como-apps-extraen-datos-personales-alimentar-industria-militar.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-10-28",
+  "es_plan": false
+ },
+ "39ca0d5470": {
+  "url": "https://www.lavanguardia.com/cultura/20261028/11670214/integrante-equipo-escenico-i-capuleti-e-i-montecchi-sufre-accidente-liceu.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-10-28",
+  "es_plan": false
+ },
+ "00c99c3223": {
+  "url": "https://www.lavanguardia.com/cultura/20261028/11670114/llega-espana-nueva-entrega-acotar-sarah-j-maas.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-10-28",
+  "es_plan": true,
+  "titulo": "Llega a España 'Una corte de armonía rota' de Sarah J. Maas",
+  "resumen": "La saga 'Una corte de rosas y espinas' de Sarah J. Maas suma un nuevo libro, 'Una corte de armonía rota', publicado en España. La novela es el primer volumen del Ciclo de las Valquirias.",
+  "en": {
+   "titulo": "'A Court of Harmony Broken' by Sarah J. Maas arrives in Spain",
+   "resumen": "The 'A Court of Thorns and Roses' saga by Sarah J. Maas adds a new book, 'A Court of Harmony Broken', published in Spain. The novel is the first volume of the Valkyrie Cycle."
+  },
+  "inicio": "2026-10-28",
+  "fin": "2026-10-28",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": "Cataluña",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.5
+ },
+ "0a36f70452": {
+  "url": "https://www.ara.cat/cultura/dansa/mal-pelo-ballar-familia-hit-teva-carrera_1_5892789.html",
+  "fuente": "Ara (Cultura)",
+  "src": "prensa-ara-cultura",
+  "publicado": "2026-10-28",
+  "es_plan": true,
+  "titulo": "Mal Pelo presenta 'Bach en família' en el festival Temporada Alta",
+  "resumen": "La compañía Mal Pelo presenta 'Bach en família', una nueva versión de su obra 'Bach' con la participación de sus hijos, en el festival Temporada Alta de Salt. La pieza celebra la transmisión en la danza.",
+  "en": {
+   "titulo": "Mal Pelo presents 'Bach en família' at the Temporada Alta festival",
+   "resumen": "The company Mal Pelo presents 'Bach en família', a new version of their work 'Bach' with the participation of their children, at the Temporada Alta festival in Salt. The piece celebrates transmission in dance."
+  },
+  "inicio": "2026-10-29",
+  "fin": "2026-10-29",
+  "hora": null,
+  "lugar": "Canal de Salt",
+  "municipio": "Salt",
+  "provincia": "Girona",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "6786fed549": {
+  "url": "https://www.ara.cat/cultura/musica/4a-edicio-festival-boca-porta-musica-urbana-talent-jove-paral-lel-62_25_5893396.html",
+  "fuente": "Ara (Cultura)",
+  "src": "prensa-ara-cultura",
+  "publicado": "2026-10-28",
+  "es_plan": true,
+  "titulo": "Festival BOCA 2026 en Paral·lel 62, Barcelona",
+  "resumen": "La sala Paral·lel 62 acoge la 4ª edición del Festival BOCA el 31 de octubre, un evento para adolescentes con música urbana, electrónica e indie. Las entradas tienen un precio de 5 euros.",
+  "en": {
+   "titulo": "BOCA Festival 2026 at Paral·lel 62, Barcelona",
+   "resumen": "Paral·lel 62 hosts the 4th edition of the BOCA Festival on October 31, an event for teenagers featuring urban, electronic, and indie music. Tickets cost 5 euros."
+  },
+  "inicio": "2026-10-31",
+  "fin": "2026-10-31",
+  "hora": null,
+  "lugar": "Paral·lel 62",
+  "municipio": "Barcelona",
+  "provincia": "Barcelona",
+  "ambito": "local",
+  "gratis": false,
+  "precio": "5 euros",
+  "temas": [
+   "musica",
+   "fiestas",
+   "actividades"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "e61725930a": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/28/apple-macbook-pro-tactil-pantalla-proled-chip-m5-2063841.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-10-28",
+  "es_plan": false
+ },
+ "82fdd17449": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/28/super-mario-skeletor-una-ciudad-italiana-se-convierte-un-universo-fantasia-2063826.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-10-28",
+  "es_plan": false
+ },
+ "8ed516e5f9": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/28/jan-orozco-recuerda-madre-nueve-anos-despues-fallecimiento-siempre-presente-2063779.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-10-28",
+  "es_plan": false
+ },
+ "e80a8e8ba2": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/28/critica-concierto-santiago-auseron-teatro-principal-zaragoza-un-paseo-por-pireo-2063737.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-10-28",
+  "es_plan": false
+ },
+ "ea0b363e57": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/28/diputacion-zaragoza-expone-fuendetodos-obra-grafica-femenino-maria-cruz-sarvise-2063680.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-10-28",
+  "es_plan": true,
+  "titulo": "Exposición de María Cruz Sarvisé en Fuendetodos",
+  "resumen": "La Diputación de Zaragoza expone en Fuendetodos la obra gráfica de María Cruz Sarvisé, considerada la pintora oscense más importante del siglo XX. La muestra puede visitarse hasta el 31 de diciembre.",
+  "en": {
+   "titulo": "Exhibition of María Cruz Sarvisé in Fuendetodos",
+   "resumen": "The Diputación de Zaragoza is exhibiting the graphic work of María Cruz Sarvisé, considered the most important female painter from Huesca of the 20th century, in Fuendetodos. The exhibition can be visited until December 31st."
+  },
+  "inicio": "2026-10-28",
+  "fin": "2026-12-31",
+  "hora": null,
+  "lugar": "Sala Ignacio Zuloaga",
+  "municipio": "Fuendetodos",
+  "provincia": "Zaragoza",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "33e32d7cba": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/28/gala-aragon-tierra-jota-teruel-suspende-tragedia-ferroviaria-toledo-2063629.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-10-28",
+  "es_plan": false
+ },
+ "7df855762c": {
+  "url": "https://www.elnortedecastilla.es/culturas/seminci/dos-mil-kilometros-poner-musica-directo-proyeccion-20261028181018-nt.html",
+  "fuente": "El Norte de Castilla (Culturas)",
+  "src": "prensa-nortecastilla-culturas",
+  "publicado": "2026-10-28",
+  "es_plan": true,
+  "titulo": "Proyección de 'Los brujos inocentes' con música en vivo en Seminci",
+  "resumen": "El festival Seminci proyectará 'Los brujos inocentes' con música en directo del quinteto polaco Albert Karch, en conmemoración del centenario del director Adrzej Wajda.",
+  "en": {
+   "titulo": "Screening of 'The Innocent Sorcerers' with live music at Seminci",
+   "resumen": "The Seminci festival will screen 'The Innocent Sorcerers' with live music by the Polish quintet Albert Karch, commemorating the centenary of director Adrzej Wajda."
+  },
+  "inicio": "2026-10-29",
+  "fin": "2026-10-29",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "016c27a463": {
+  "url": "https://www.elnortedecastilla.es/culturas/seminci/documental-muestra-persona-detras-arguinano-busco-deje-20261028173046-nt.html",
+  "fuente": "El Norte de Castilla (Culturas)",
+  "src": "prensa-nortecastilla-culturas",
+  "publicado": "2026-10-28",
+  "es_plan": false
+ },
+ "62b6a5e872": {
+  "url": "https://www.elnortedecastilla.es/culturas/seminci/seminci-suspende-actividades-nocturnas-miercoles-accidente-ferroviario-20261028155402-nt.html",
+  "fuente": "El Norte de Castilla (Culturas)",
+  "src": "prensa-nortecastilla-culturas",
+  "publicado": "2026-10-28",
+  "es_plan": false
+ },
+ "8ddad9da77": {
+  "url": "https://www.diariosur.es/culturas/hora-creacion-contemporanea-festival-moments-programa-cien-20261028220305-nt.html",
+  "fuente": "Diario Sur (Culturas)",
+  "src": "prensa-diariosur-culturas",
+  "publicado": "2026-10-28",
+  "es_plan": true,
+  "titulo": "Festival Moments en Málaga",
+  "resumen": "El festival Moments programa cien actividades en Málaga del 29 de octubre al 15 de noviembre, con la participación de artistas como el gráfico de Rosalía y el fotógrafo Miguel Trillo.",
+  "en": {
+   "titulo": "Moments Festival in Málaga",
+   "resumen": "The Moments festival features one hundred activities in Málaga from October 29th to November 15th, with participants including Rosalía's graphic artist and photographer Miguel Trillo."
+  },
+  "inicio": "2026-10-29",
+  "fin": "2026-11-15",
+  "hora": null,
+  "lugar": null,
+  "municipio": "Málaga",
+  "provincia": "Málaga",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "musica",
+   "actividades"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "b4f817c0d3": {
+  "url": "https://www.diariosur.es/interior/nerjena-gana-premio-investigacion-sesmero-alhaurin-torre-20261028124831-nt.html",
+  "fuente": "Diario Sur (Culturas)",
+  "src": "prensa-diariosur-culturas",
+  "publicado": "2026-10-28",
+  "es_plan": false
+ },
+ "71d375b436": {
+  "url": "https://www.ideal.es/culturas/almeria/guajira-impulsa-ciclo-talleres-artisticos-inclusion-20261028125006-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-10-28",
+  "es_plan": true,
+  "titulo": "Ciclo de talleres artísticos para la inclusión en La Guajira",
+  "resumen": "La Guajira impulsa un ciclo de talleres artísticos para la inclusión, impartido por Rebeca Tur, que comenzará el 10 de noviembre y se extenderá hasta abril de 2027.",
+  "en": {
+   "titulo": "Artistic workshops cycle for inclusion in La Guajira",
+   "resumen": "La Guajira is launching a cycle of artistic workshops for inclusion, led by Rebeca Tur, starting on November 10th and running until April 2027."
+  },
+  "inicio": "2026-11-10",
+  "fin": "2027-04-30",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": null,
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.5
+ },
+ "286d477810": {
+  "url": "https://www.ideal.es/culturas/lucia-rey-reina-jazz-inaugura-festival-granada-20261028172711-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-10-28",
+  "es_plan": true,
+  "titulo": "Lucía Rey inaugura el Festival de Jazz de Granada",
+  "resumen": "La cantante Lucía Rey inaugura el Festival de Jazz de Granada. Los conciertos programados para el miércoles y jueves se suspenden en señal de luto por el accidente ferroviario.",
+  "en": {
+   "titulo": "Lucía Rey opens the Granada Jazz Festival",
+   "resumen": "Singer Lucía Rey opens the Granada Jazz Festival. Concerts scheduled for Wednesday and Thursday are suspended in mourning for the railway accident."
+  },
+  "inicio": "2026-10-28",
+  "fin": "2026-10-28",
+  "hora": null,
+  "lugar": null,
+  "municipio": "Granada",
+  "provincia": "Granada",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "7f3c8b06d9": {
+  "url": "https://www.ideal.es/culturas/jaen/mujeres-hogar-cruda-realidad-llegara-escenario-teatro-20261028170943-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-10-28",
+  "es_plan": true,
+  "titulo": "Estreno de 'Callejones sin Estrellas' en Jaén",
+  "resumen": "La obra 'Callejones sin Estrellas', que aborda la realidad de las mujeres sin hogar, se estrena el 30 de octubre a las 20:30 horas dentro del Festival de Otoño de Jaén.",
+  "en": {
+   "titulo": "Premiere of 'Callejones sin Estrellas' in Jaén",
+   "resumen": "The play 'Callejones sin Estrellas', addressing the reality of homeless women, premieres on October 30th at 8:30 PM as part of the Jaén Autumn Festival."
+  },
+  "inicio": "2026-10-30",
+  "fin": "2026-10-30",
+  "hora": "20:30",
+  "lugar": "Teatro Darymelia",
+  "municipio": "Jaén",
+  "provincia": "Jaén",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "20bbc64a1a": {
+  "url": "https://www.ideal.es/culturas/cleopatra-frida-kahlo-mujeres-hicieron-historia-toman-20261028131838-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-10-28",
+  "es_plan": true,
+  "titulo": "Espectáculo 'Mujeres de Historia' en Granada",
+  "resumen": "El espectáculo 'Mujeres de Historia', que recupera las vidas de grandes figuras femeninas a través de danza, música y teatro, llega a Granada el sábado 21 de noviembre.",
+  "en": {
+   "titulo": "'Mujeres de Historia' show in Granada",
+   "resumen": "The show 'Mujeres de Historia', which revisits the lives of great female figures through dance, music, and theater, arrives in Granada on Saturday, November 21st."
+  },
+  "inicio": "2026-11-21",
+  "fin": "2026-11-21",
+  "hora": null,
+  "lugar": "Teatro Isabel la Católica",
+  "municipio": "Granada",
+  "provincia": "Granada",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "musica",
+   "actividades"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "721a433255": {
+  "url": "https://www.ideal.es/culturas/almeria/jovenes-talentos-almerienses-big-bandarax-inauguraran-festival-20261028142654-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-10-28",
+  "es_plan": true,
+  "titulo": "Festival Almerijazz",
+  "resumen": "El Festival Almerijazz se celebra del 1 al 8 de noviembre con nueve propuestas, incluyendo talentos locales y figuras consolidadas. Inaugura la Big Bandarax.",
+  "en": {
+   "titulo": "Almerijazz Festival",
+   "resumen": "The Almerijazz Festival takes place from November 1st to 8th with nine events, featuring local talents and established artists. The Big Bandarax will open the festival."
+  },
+  "inicio": "2026-11-01",
+  "fin": "2026-11-08",
+  "hora": null,
+  "lugar": "Auditorio",
+  "municipio": "Almería",
+  "provincia": "Almería",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "26936f6196": {
+  "url": "https://www.ideal.es/culturas/almeria/cajamar-classijazz-impulsan-produccion-propia-lelisir-damore-20261028140741-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-10-28",
+  "es_plan": true,
+  "titulo": "Producción de 'L'elisir d'amore' en Almería",
+  "resumen": "Cajamar y Classijazz presentan una nueva producción de la ópera cómica 'L'elisir d'amore' los días 6 y 7 de diciembre, ambientada en la Almería de 1910.",
+  "en": {
+   "titulo": "Production of 'L'elisir d'amore' in Almería",
+   "resumen": "Cajamar and Classijazz present a new production of the comic opera 'L'elisir d'amore' on December 6th and 7th, set in Almería in 1910."
+  },
+  "inicio": "2026-12-06",
+  "fin": "2026-12-07",
+  "hora": null,
+  "lugar": null,
+  "municipio": "Almería",
+  "provincia": "Almería",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
  }
 }

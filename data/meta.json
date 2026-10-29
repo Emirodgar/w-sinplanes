@@ -1,11 +1,11 @@
 {
-  "generated": "2026-10-29T10:55:18.327Z",
+  "generated": "2026-10-29T11:50:11.532Z",
   "today": "2026-10-29",
-  "events": 4222,
-  "review": 8,
+  "events": 4246,
+  "review": 9,
   "ai": {
-    "calls": 0,
-    "seconds": 46,
+    "calls": 14,
+    "seconds": 215,
     "tripped": false
   },
   "sources": [

@@ -13157,5 +13157,1226 @@
    "cultura"
   ],
   "a_cubierto": true
+ },
+ "2fadbc73f3": {
+  "id": "47bf6c3936",
+  "es": {
+   "titulo": "Exposición de acuarelas de Daniel Mass Lorenzo",
+   "resumen": "Descubre la obra de Daniel Mass Lorenzo, arquitecto y artista que fusiona sus raíces argentinas y europeas en sus audaces acuarelas. Explora su interpretación de la arquitectura y la figura humana, marcada por la luz, la profundidad y el color."
+  },
+  "en": {
+   "titulo": "Watercolor Exhibition by Daniel Mass Lorenzo",
+   "resumen": "Discover the work of Daniel Mass Lorenzo, an architect and artist who blends his Argentine and European roots in his bold watercolors. Explore his interpretation of architecture and the human figure, characterized by light, depth, and color."
+  },
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": null
+ },
+ "bd3a5df6ec": {
+  "id": "4f222d5099",
+  "es": {
+   "titulo": "Amanda Verdú: Indómita, un show musical",
+   "resumen": "Amanda Verdú presenta 'Indómita', un espectáculo musical que aborda la problemática femenina actual y la deconstrucción de roles de género. A través de canciones con mensaje, invita a la reflexión, el diálogo y la empatía."
+  },
+  "en": {
+   "titulo": "Amanda Verdú: Indómita, a Musical Show",
+   "resumen": "Amanda Verdú presents 'Indómita', a musical show addressing current female issues and the deconstruction of gender roles. Through meaningful songs, it invites reflection, dialogue, and empathy."
+  },
+  "temas": [
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "8479a8df92": {
+  "id": "7b1772b024",
+  "es": {
+   "titulo": "Australia: Aventuras de una payasa",
+   "resumen": "Acompaña a Australia, una payasa aventurera, en su viaje por el mundo compartiendo historias. Un espectáculo lleno de juego, imaginación y humor para descubrir el valor de contar y escuchar relatos."
+  },
+  "en": {
+   "titulo": "Australia: Adventures of a Clown",
+   "resumen": "Join Australia, an adventurous clown, on her journey around the world sharing stories. A show full of play, imagination, and humor to discover the value of telling and listening to tales."
+  },
+  "temas": [
+   "cultura",
+   "ninos"
+  ],
+  "a_cubierto": true
+ },
+ "ef6f693619": {
+  "id": "98d448cdbd",
+  "es": {
+   "titulo": "Aventuras de piratas con Garrote producciones",
+   "resumen": "Dos piratas, Bocachancla y Ojiloco, se embarcan en una misión misteriosa llena de duelos, magia y humor. Una aventura interactiva para toda la familia donde competirán por ser el mejor pirata."
+  },
+  "en": {
+   "titulo": "Pirate Adventures with Garrote Producciones",
+   "resumen": "Two pirates, Bocachancla and Ojiloco, embark on a mysterious mission filled with duels, magic, and humor. An interactive adventure for the whole family where they will compete to be the best pirate."
+  },
+  "temas": [
+   "cultura",
+   "ninos"
+  ],
+  "a_cubierto": true
+ },
+ "f19a90dc67": {
+  "id": "ca6488fda5",
+  "es": {
+   "titulo": "Ruta guiada por el Barrio de los Jerónimos",
+   "resumen": "Descubre los rincones verdes del Barrio de los Jerónimos y su relación con el entorno urbano en este itinerario guiado. Se visitarán el Real Jardín Botánico y otras zonas ajardinadas emblemáticas."
+  },
+  "en": {
+   "titulo": "Guided Tour of the Jerónimos Neighborhood",
+   "resumen": "Discover the green corners of the Jerónimos neighborhood and their relationship with the urban environment on this guided tour. The Royal Botanical Garden and other emblematic garden areas will be visited."
+  },
+  "temas": [
+   "naturaleza",
+   "rutas",
+   "parques"
+  ],
+  "a_cubierto": null
+ },
+ "e52bcb46ff": {
+  "id": "6a43d83682",
+  "es": {
+   "titulo": "Blue Poison: Jazz con sabor a música americana",
+   "resumen": "El grupo madrileño Blue Poison rinde homenaje a los clásicos de la música americana con su fusión de blues, soul y rock & roll. Disfruta de su sonido personal y elegante en este concierto de jazz."
+  },
+  "en": {
+   "titulo": "Blue Poison: Jazz with an American Music Flavor",
+   "resumen": "The Madrid-based group Blue Poison pays tribute to American music classics with their fusion of blues, soul, and rock & roll. Enjoy their personal and elegant sound in this jazz concert."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "7e8ef3fc69": {
+  "id": "51522fea8b",
+  "es": {
+   "titulo": "Canta: El concurso de canto de Buster Moon",
+   "resumen": "Un koala llamado Buster Moon organiza un concurso de canto para salvar su teatro. Descubre las historias de los diversos participantes, desde una cerdita ama de casa hasta una elefante tímida."
+  },
+  "en": {
+   "titulo": "Sing: Buster Moon's Singing Competition",
+   "resumen": "A koala named Buster Moon organizes a singing competition to save his theater. Discover the stories of the diverse participants, from a housewife pig to a shy elephant."
+  },
+  "temas": [
+   "cultura",
+   "ninos",
+   "pantalla"
+  ],
+  "a_cubierto": true
+ },
+ "d04addd354": {
+  "id": "f9949a130f",
+  "es": {
+   "titulo": "Cante Flamenco: Recital de Beatriz Ballesteros y Abel Portillo",
+   "resumen": "Celebra el Día Internacional del Flamenco con un recital tradicional de cante flamenco. Beatriz Ballesteros y Abel Portillo recorrerán desde los palos más puros hasta los más festivos."
+  },
+  "en": {
+   "titulo": "Flamenco Singing: Recital by Beatriz Ballesteros and Abel Portillo",
+   "resumen": "Celebrate International Flamenco Day with a traditional flamenco singing recital. Beatriz Ballesteros and Abel Portillo will perform from the purest styles to the most festive ones."
+  },
+  "temas": [
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "23b9e25fb5": {
+  "id": "bd158aa7fd",
+  "es": {
+   "titulo": "Certamen de fotografía 'Clic11' aplazado",
+   "resumen": "La exposición y entrega de premios del certamen de fotografía Clic11 se aplaza a noviembre. Se informará de la nueva fecha próximamente. Disculpen las molestias."
+  },
+  "en": {
+   "titulo": "'Clic11' Photography Contest Postponed",
+   "resumen": "The exhibition and award ceremony for the 'Clic11' photography contest has been postponed to November. The new date will be announced soon. We apologize for any inconvenience."
+  },
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": null
+ },
+ "c81775a43b": {
+  "id": "58f87a7e68",
+  "es": {
+   "titulo": "Charla-taller: Ciencia y superhéroes",
+   "resumen": "Niños de 8 a 12 años explorarán los poderes de sus superhéroes favoritos desde una perspectiva científica. Incluye experimentos prácticos para acercar la física, química y biología de forma divertida."
+  },
+  "en": {
+   "titulo": "Talk-Workshop: Science and Superheroes",
+   "resumen": "Children aged 8-12 will explore their favorite superheroes' powers from a scientific perspective. Includes practical experiments to make physics, chemistry, and biology fun and accessible."
+  },
+  "temas": [
+   "ninos",
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "690bf5b00c": {
+  "id": "5b7a1b2472",
+  "es": {
+   "titulo": "Charla: Cambio climático y biodiversidad urbana",
+   "resumen": "El biólogo Raúl Martínez analizará los impactos del cambio climático en el medio ambiente urbano y la biodiversidad del distrito de Villaverde, y cómo afrontar sus repercusiones."
+  },
+  "en": {
+   "titulo": "Talk: Climate Change and Urban Biodiversity",
+   "resumen": "Biologist Raúl Martínez will analyze the impacts of climate change on the urban environment and biodiversity in the Villaverde district, and how to address its repercussions."
+  },
+  "temas": [
+   "naturaleza",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "87e62c7027": {
+  "id": "622e7f7180",
+  "es": {
+   "titulo": "Chup Chup: Competición de cocineros",
+   "resumen": "Dos cocineros compiten por el título de súper chef en un programa de televisión, utilizando magia, malabares y acrobacias. Un espectáculo culinario lleno de sorpresas para los más pequeños."
+  },
+  "en": {
+   "titulo": "Chup Chup: Chefs Competition",
+   "resumen": "Two chefs compete for the title of super chef on a TV show, using magic, juggling, and acrobatics. A culinary show full of surprises for the little ones."
+  },
+  "temas": [
+   "ninos",
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "6eda1901e1": {
+  "id": "f1a90e0233",
+  "es": {
+   "titulo": "Mesa redonda: Universo Juego de Tronos",
+   "resumen": "Explora el universo de Juego de Tronos y su saga literaria en esta mesa redonda. Analizaremos sus referencias, personajes, conflictos y temas como el poder, la lealtad y la traición."
+  },
+  "en": {
+   "titulo": "Round Table: Game of Thrones Universe",
+   "resumen": "Explore the universe of Game of Thrones and its literary saga in this round table. We will analyze its references, characters, conflicts, and themes such as power, loyalty, and betrayal."
+  },
+  "temas": [
+   "libros",
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": true
+ },
+ "f23a59b5ea": {
+  "id": "9b2841b1fa",
+  "es": {
+   "titulo": "Mesa redonda: Harry Potter, más allá de Hogwarts",
+   "resumen": "Descubre qué hace tan especial al mundo de Harry Potter. Exploraremos su universo mágico, personajes, criaturas y temas que lo han convertido en un fenómeno cultural."
+  },
+  "en": {
+   "titulo": "Round Table: Harry Potter, Beyond Hogwarts",
+   "resumen": "Discover what makes the world of Harry Potter so special. We will explore its magical universe, characters, creatures, and themes that have made it a cultural phenomenon."
+  },
+  "temas": [
+   "libros",
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": true
+ },
+ "fca5726812": {
+  "id": "5ec408e28f",
+  "es": {
+   "titulo": "Mesa redonda: Tolkien y la Tierra Media",
+   "resumen": "Recorre el fascinante universo de J. R. R. Tolkien. Hablaremos de la Tierra Media, sus pueblos, lenguas, criaturas e historias, descubriendo las claves de su obra cumbre de la literatura fantástica."
+  },
+  "en": {
+   "titulo": "Round Table: Tolkien and Middle-earth",
+   "resumen": "Journey through the fascinating universe created by J. R. R. Tolkien. We will discuss Middle-earth, its peoples, languages, creatures, and great stories, uncovering the keys to his masterpiece of fantasy literature."
+  },
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "d626b23b3c": {
+  "id": "b17fced157",
+  "es": {
+   "titulo": "Conferencia: Revolución y contrarrevolución",
+   "resumen": "Segunda conferencia del ciclo sobre la Revolución Francesa. Se abordarán las revueltas y resistencias frente a los procesos revolucionarios y la construcción de nuevos órdenes políticos y sociales."
+  },
+  "en": {
+   "titulo": "Conference: Revolution and Counter-revolution",
+   "resumen": "Second conference in the cycle on the French Revolution. It will address revolts and resistance against revolutionary processes and the construction of new political and social orders."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "7b2e973113": {
+  "id": "a100d8d4c1",
+  "es": {
+   "titulo": "Conferencia: Dante. Miedo, amor y destino",
+   "resumen": "Explora la vigencia de La Divina Comedia de Dante Alighieri, un referente de la literatura universal que aborda temas como el amor, el miedo, la culpa y la esperanza."
+  },
+  "en": {
+   "titulo": "Conference: Dante. Fear, Love, and Destiny",
+   "resumen": "Explore the enduring relevance of Dante Alighieri's The Divine Comedy, a benchmark of universal literature that addresses themes such as love, fear, guilt, and hope."
+  },
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "da5054049b": {
+  "id": "aa8edebbec",
+  "es": {
+   "titulo": "Cine-Concierto: Nosferatu con piano",
+   "resumen": "Disfruta de 'Nosferatu', el clásico del cine mudo de terror, acompañado en directo al piano por Jorge Gil Zulueta. Una experiencia que combina la atmósfera expresionista del filme con música original."
+  },
+  "en": {
+   "titulo": "Film-Concert: Nosferatu with Piano",
+   "resumen": "Enjoy 'Nosferatu', the silent horror film classic, accompanied live on piano by Jorge Gil Zulueta. An experience that combines the film's expressionist atmosphere with original music."
+  },
+  "temas": [
+   "cultura",
+   "musica",
+   "pantalla"
+  ],
+  "a_cubierto": true
+ },
+ "c883f1d8a7": {
+  "id": "9c3a89e909",
+  "es": {
+   "titulo": "Cineforum: La amenaza de Andrómeda",
+   "resumen": "Debate sobre 'La amenaza de Andrómeda' (1971), película que narra la investigación de un mortífero microbio extraterrestre. Dirigida por Robert Wise, explora la ciencia y el suspense."
+  },
+  "en": {
+   "titulo": "Cineforum: The Andromeda Strain",
+   "resumen": "Discussion of 'The Andromeda Strain' (1971), a film about the investigation of a deadly extraterrestrial microbe. Directed by Robert Wise, it explores science and suspense."
+  },
+  "temas": [
+   "cultura",
+   "pantalla",
+   "libros"
+  ],
+  "a_cubierto": true
+ },
+ "f236a0f404": {
+  "id": "eb1e5f3306",
+  "es": {
+   "titulo": "Club de lectura con Amador Analógico Analgésico",
+   "resumen": "Participa en el club de lectura de la Biblioteca Pública Municipal David Gistau para conversar con el autor Amador Analógico Analgésico sobre su obra 'Inmóvil'."
+  },
+  "en": {
+   "titulo": "Book Club with Amador Analógico Analgésico",
+   "resumen": "Join the book club at the David Gistau Municipal Public Library to discuss the book 'Inmóvil' with author Amador Analógico Analgésico."
+  },
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "aad6db68af": {
+  "id": "a359b99b5a",
+  "es": {
+   "titulo": "Conferencia: Nuestro Sistema Inmunitario",
+   "resumen": "Aprende sobre el funcionamiento de nuestro sistema inmunitario, su historia y sus componentes. Se abordarán fallos comunes como inmunodeficiencias y alergias, y la influencia de factores como la edad."
+  },
+  "en": {
+   "titulo": "Conference: Our Immune System",
+   "resumen": "Learn about the functioning of our immune system, its history, and its components. Common failures like immunodeficiencies and allergies, and the influence of factors like age, will be discussed."
+  },
+  "temas": [
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "15928ac3a7": {
+  "id": "52572f3845",
+  "es": {
+   "titulo": "Concierto Coral Orfeón de Moratalaz",
+   "resumen": "Disfruta de la actuación del Coral Orfeón de Moratalaz en la Parroquia Santa Ana y la Esperanza. Una cita musical para los amantes de la música coral."
+  },
+  "en": {
+   "titulo": "Coral Orfeón de Moratalaz Concert",
+   "resumen": "Enjoy the performance of the Coral Orfeón de Moratalaz at the Santa Ana y la Esperanza Parish. A musical event for lovers of choral music."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "d8aa406d53": {
+  "id": "206e91d319",
+  "es": {
+   "titulo": "Cuanto peor, mejor: Comedia sobre la comedia",
+   "resumen": "Una comedia que explora cómo la persona más sosa puede convertirse en la reina de la fiesta. Aprende trucos y estilos para transformar chistes sin gracia en momentos hilarantes."
+  },
+  "en": {
+   "titulo": "The Worse, The Better: Comedy About Comedy",
+   "resumen": "A comedy exploring how the most bland person can become the life of the party. Learn tricks and styles to transform unfunny jokes into hilarious moments."
+  },
+  "temas": [
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "f7bbff878b": {
+  "id": "97b1d55286",
+  "es": {
+   "titulo": "Cuentos mágicos con Mandarina",
+   "resumen": "La payasa Mandarina invita a un viaje lleno de magia, humor e interacción con cuentos para toda la familia. Descubre valores como la igualdad y el respeto a través de juegos de magia."
+  },
+  "en": {
+   "titulo": "Magical Stories with Mandarina",
+   "resumen": "Clown Mandarina invites the whole family on a journey full of magic, humor, and interaction with stories. Discover values like equality and respect through magic tricks."
+  },
+  "temas": [
+   "ninos",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "a1b7f9d184": {
+  "id": "653601bb3d",
+  "es": {
+   "titulo": "Día Internacional del Flamenco: Espectáculo",
+   "resumen": "Celebra el Día Internacional del Flamenco con un espectáculo que une cante, guitarra y baile. Un recorrido por los palos flamencos, lleno de tradición, pasión y sentimiento."
+  },
+  "en": {
+   "titulo": "International Flamenco Day: Performance",
+   "resumen": "Celebrate International Flamenco Day with a performance uniting singing, guitar, and dance. A journey through flamenco styles, full of tradition, passion, and soul."
+  },
+  "temas": [
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "aedf6c5300": {
+  "id": "0ad8118780",
+  "es": {
+   "titulo": "Feria de Alimentación Sostenible en la UAM",
+   "resumen": "Infórmate sobre la gestión de residuos y la importancia de separar la ropa en la VI Feria de Alimentación Sostenible de la Universidad Autónoma de Madrid. Participa y llévate un regalo si separas correctamente tus residuos."
+  },
+  "en": {
+   "titulo": "Sustainable Food Fair at UAM",
+   "resumen": "Learn about waste management and the importance of sorting clothes at the VI Sustainable Food Fair at the Autonomous University of Madrid. Participate and receive a gift for correct waste separation."
+  },
+  "temas": [
+   "gastronomia",
+   "actividades"
+  ],
+  "a_cubierto": null
+ },
+ "cd1bdfd955": {
+  "id": "d86a45207b",
+  "es": {
+   "titulo": "Feria de Alimentación Sostenible en la UC3M",
+   "resumen": "Descubre cómo gestionar tus residuos y la importancia de la correcta separación de ropa en la Feria de Alimentación Sostenible de la Universidad UC3M, campus Puerta de Toledo. Participa y obtén un obsequio por tu colaboración."
+  },
+  "en": {
+   "titulo": "Sustainable Food Fair at UC3M",
+   "resumen": "Discover how to manage your waste and the importance of proper clothing sorting at the Sustainable Food Fair at UC3M, Puerta de Toledo campus. Participate and receive a gift for your collaboration."
+  },
+  "temas": [
+   "gastronomia",
+   "actividades"
+  ],
+  "a_cubierto": null
+ },
+ "3480476bf2": {
+  "id": "d71620b483",
+  "es": {
+   "titulo": "Concierto de Mery Sanz Band",
+   "resumen": "Disfruta de la música de Mery Sanz, una joven artista madrileña con raíces mexicanas, que fusiona jazz, R&B, folk y soul. Presentará temas de su álbum debut, explorando la paz interior y la adolescencia."
+  },
+  "en": {
+   "titulo": "Mery Sanz Band Concert",
+   "resumen": "Enjoy the music of Mery Sanz, a young Madrid-based artist with Mexican roots, blending jazz, R&B, folk, and soul. She will present songs from her debut album, exploring inner peace and adolescence."
+  },
+  "temas": [
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "0165b2f6e5": {
+  "id": "d006f95243",
+  "es": {
+   "titulo": "Cine: 'Nosotras Contamos. La Furia'",
+   "resumen": "Proyección de 'La Furia', un drama sobre el abuso sexual y la búsqueda de justicia a través del teatro. La película explora las secuelas de una agresión y el camino de sanación de la protagonista."
+  },
+  "en": {
+   "titulo": "Film: 'Nosotras Contamos. La Furia'",
+   "resumen": "Screening of 'La Furia', a drama about sexual abuse and the pursuit of justice through theater. The film explores the aftermath of an assault and the protagonist's healing journey."
+  },
+  "temas": [
+   "pantalla",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "d5673eb09d": {
+  "id": "6a53e393bd",
+  "es": {
+   "titulo": "Concierto 'Mujeres en la música'",
+   "resumen": "Un concierto que visibiliza la contribución de las mujeres a la historia de la música. Pilar Garay y Santi de la Fuente ofrecen un repertorio que celebra la igualdad y la creatividad femenina."
+  },
+  "en": {
+   "titulo": "Concert 'Women in Music'",
+   "resumen": "A concert that highlights women's contributions to music history. Pilar Garay and Santi de la Fuente present a repertoire celebrating equality and female creativity."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "2408ecdc19": {
+  "id": "c289c01c7d",
+  "es": {
+   "titulo": "Agustín Vega presenta 'Boleros con swing'",
+   "resumen": "Disfruta de Agustín Vega, conocido por sus actuaciones en el Puente de Toledo, en un recital de boleros con un toque de swing. Una voz que ha ganado popularidad y ha participado en Got Talent."
+  },
+  "en": {
+   "titulo": "Agustín Vega presents 'Boleros con swing'",
+   "resumen": "Enjoy Agustín Vega, known for his performances at the Puente de Toledo, in a bolero recital with a swing touch. A voice that has gained popularity and participated in Got Talent."
+  },
+  "temas": [
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "dc38f21172": {
+  "id": "7e78fb8dc3",
+  "es": {
+   "titulo": "Obras cortas de Chéjov",
+   "resumen": "El grupo de teatro Juglar al Cinquillo presenta una adaptación de tres obras cortas de Antón Chéjov: 'El oso', 'La petición de mano' y 'El aniversario'. Explora la condición humana y la incomunicación."
+  },
+  "en": {
+   "titulo": "Short Plays by Chekhov",
+   "resumen": "The theater group Juglar al Cinquillo presents an adaptation of three short plays by Anton Chekhov: 'The Bear', 'The Proposal', and 'The Anniversary'. Explore the human condition and lack of communication."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "8be411462b": {
+  "id": "a8658ff033",
+  "es": {
+   "titulo": "Cine mudo: 'Vagabundo, vagabundo, vagabundo'",
+   "resumen": "Ciclo de Clásicos de la Comedia Muda. Harry Langdon protagoniza esta película de 1926 sobre un joven ingenuo en una carrera de resistencia para salvar la casa de su amada."
+  },
+  "en": {
+   "titulo": "Silent Film: 'Vagabond, Vagabond, Vagabond'",
+   "resumen": "Cycle of Silent Comedy Classics. Harry Langdon stars in this 1926 film about a naive young man in a cross-country endurance race to save the house of the woman he loves."
+  },
+  "temas": [
+   "pantalla",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "bc3790a948": {
+  "id": "7d175f9db4",
+  "es": {
+   "titulo": "Peter Pan Blues Band en 'Música a mares'",
+   "resumen": "Disfruta de una elegante selección de jazz, blues y soul en directo con la Peter Pan Blues Band. Un ciclo que promete intensidad musical y emoción en el Centro Sociocultural Alberto Sánchez."
+  },
+  "en": {
+   "titulo": "Peter Pan Blues Band at 'Música a mares'",
+   "resumen": "Enjoy an elegant selection of live jazz, blues, and soul with the Peter Pan Blues Band. A cycle promising musical intensity and emotion at the Alberto Sánchez Cultural Center."
+  },
+  "temas": [
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "0b10f93dd5": {
+  "id": "b8159dc362",
+  "es": {
+   "titulo": "Espectáculo infantil: 'Pipo, el pájaro que no sabía volar'",
+   "resumen": "Un espectáculo de música y títeres para los más pequeños. Acompaña a Pipo, un pajarito que no sabe volar, en su aventura para aprender con la ayuda de sus amigos."
+  },
+  "en": {
+   "titulo": "Children's Show: 'Pipo, the Bird Who Couldn't Fly'",
+   "resumen": "A music and puppet show for young children. Join Pipo, a little bird who can't fly, on his adventure to learn with the help of his friends."
+  },
+  "temas": [
+   "ninos",
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "22d0acffdc": {
+  "id": "ff5ccb7b3e",
+  "es": {
+   "titulo": "Presentación del libro: Las calles de Madrid",
+   "resumen": "Presentación del libro 'Las calles de Madrid' de Víctor de la Serna, un homenaje al autor que recorre la historia y anécdotas de la capital. Evento aplazado."
+  },
+  "en": {
+   "titulo": "Book Presentation: Las calles de Madrid",
+   "resumen": "Presentation of the book 'Las calles de Madrid' by Víctor de la Serna, a tribute to the author who explores the history and anecdotes of the capital. Event postponed."
+  },
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "42500321f1": {
+  "id": "90cdbc1e0e",
+  "es": {
+   "titulo": "Títeres: 'Ratós, el tejido del tiempo'",
+   "resumen": "Un espectáculo de clown y títeres de El Baúl de la Fantasía que narra la vida de Ratós, un ratón, a través de la poesía de la materia y la ternura. Ganador del Concurso de Creación Escénica Infantil 2024."
+  },
+  "en": {
+   "titulo": "Puppets: 'Ratós, the Fabric of Time'",
+   "resumen": "A clown and puppet show by El Baúl de la Fantasía narrating the life of Ratós, a mouse, through the poetry of matter and tenderness. Winner of the 2024 Children's Scenic Creation Contest."
+  },
+  "temas": [
+   "ninos",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "3b4fce2ba1": {
+  "id": "31f172191c",
+  "es": {
+   "titulo": "Recital literario: Carmen Martín Gaite",
+   "resumen": "Un recital que explora el universo literario de Carmen Martín Gaite, una de las voces más singulares de la literatura española del siglo XX. Descubre su mirada a través de textos y fragmentos de su obra."
+  },
+  "en": {
+   "titulo": "Literary Recital: Carmen Martín Gaite",
+   "resumen": "A recital exploring the literary universe of Carmen Martín Gaite, one of the most unique voices in 20th-century Spanish literature. Discover her perspective through texts and fragments of her work."
+  },
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "404d9502b2": {
+  "id": "eb40ef5368",
+  "es": {
+   "titulo": "Ruta teatralizada: Mujeres en la ciencia",
+   "resumen": "Descubre la historia de mujeres científicas en un recorrido teatralizado por el IES Ramiro de Maeztu, la ETS de Ingenieros Industriales y el Museo Nacional de Ciencias Naturales."
+  },
+  "en": {
+   "titulo": "Theatrical Route: Women in Science",
+   "resumen": "Discover the history of women scientists on a theatrical route through the IES Ramiro de Maeztu, the School of Industrial Engineering, and the National Museum of Natural Sciences."
+  },
+  "temas": [
+   "cultura",
+   "museos",
+   "rutas"
+  ],
+  "a_cubierto": null
+ },
+ "c11a7f4a79": {
+  "id": "0e74235baf",
+  "es": {
+   "titulo": "Semana de la Ciencia 2026 en el MNCN",
+   "resumen": "El Museo Nacional de Ciencias Naturales celebra la Semana de la Ciencia con talleres, visitas y actividades participativas para acercar la investigación al público de forma amena y sorprendente."
+  },
+  "en": {
+   "titulo": "Science Week 2026 at MNCN",
+   "resumen": "The National Museum of Natural Sciences celebrates Science Week with workshops, visits, and participatory activities to bring research closer to the public in an enjoyable and surprising way."
+  },
+  "temas": [
+   "naturaleza",
+   "museos",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "00fce04d2e": {
+  "id": "981c1aad61",
+  "es": {
+   "titulo": "Sesiones temáticas de huerto y sostenibilidad",
+   "resumen": "Profundiza en temas como la soberanía alimentaria, la biodiversidad y la arquitectura ecofeminista en estas sesiones independientes sobre huertos y sostenibilidad. Reflexiona y comparte experiencias."
+  },
+  "en": {
+   "titulo": "Themed Sessions on Gardens and Sustainability",
+   "resumen": "Delve into topics like food sovereignty, biodiversity, and ecofeminist architecture in these independent sessions on gardens and sustainability. Reflect and share experiences."
+  },
+  "temas": [
+   "naturaleza",
+   "gastronomia",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "efb11a73a1": {
+  "id": "b5a7a9b4ac",
+  "es": {
+   "titulo": "Silencio. Gitanita de la Nueva Era",
+   "resumen": "Un espectáculo flamenco y fusión con Silencio, una artista versátil que combina flamenco, folk, soul y ritmos latinos. Acompañada de guitarra flamenca y una banda sólida."
+  },
+  "en": {
+   "titulo": "Silencio. Gitanita de la Nueva Era",
+   "resumen": "A flamenco and fusion show with Silencio, a versatile artist combining flamenco, folk, soul, and Latin rhythms. Accompanied by flamenco guitar and a solid band."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "1cc0db54fe": {
+  "id": "75eef5e960",
+  "es": {
+   "titulo": "Six Souls: Góspel y Pop",
+   "resumen": "La energía del góspel se une a grandes éxitos del pop en 'Six Souls'. Un espectáculo vibrante de Gospel Flame que combina soul, jazz y teatro musical con voces profesionales."
+  },
+  "en": {
+   "titulo": "Six Souls: Gospel and Pop",
+   "resumen": "The energy of gospel meets great pop hits in 'Six Souls'. A vibrant show by Gospel Flame that combines soul, jazz, and musical theater with professional voices."
+  },
+  "temas": [
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "b97950396f": {
+  "id": "d4b0a9f4b1",
+  "es": {
+   "titulo": "Sophia Loren: Ícono del cine",
+   "resumen": "Charla sobre Sophia Loren, musa del neorrealismo italiano y ganadora del Óscar. Se repasará su carrera cinematográfica y su legado en el marco del Día Internacional de la Eliminación de la Violencia contra la Mujer."
+  },
+  "en": {
+   "titulo": "Sophia Loren: Cinema Icon",
+   "resumen": "Talk about Sophia Loren, muse of Italian neorealism and Oscar winner. Her film career and legacy will be reviewed in the context of the International Day for the Elimination of Violence against Women."
+  },
+  "temas": [
+   "pantalla",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "a4b7c541e3": {
+  "id": "83a7d03050",
+  "es": {
+   "titulo": "Swing y letras en San Fermín",
+   "resumen": "Actividad de swing y letras en la Biblioteca Pública Municipal San Fermín. Un encuentro para disfrutar de la música y la literatura."
+  },
+  "en": {
+   "titulo": "Swing and Lyrics in San Fermín",
+   "resumen": "Swing and lyrics activity at the San Fermín Municipal Public Library. A gathering to enjoy music and literature."
+  },
+  "temas": [
+   "musica",
+   "libros"
+  ],
+  "a_cubierto": true
+ },
+ "cb28d05f68": {
+  "id": "45827a5f9e",
+  "es": {
+   "titulo": "Taller de bordado japonés",
+   "resumen": "Aprende la técnica del bordado japonés en este taller práctico. Una oportunidad para explorar un arte textil tradicional y crear tus propias piezas."
+  },
+  "en": {
+   "titulo": "Japanese Embroidery Workshop",
+   "resumen": "Learn the technique of Japanese embroidery in this practical workshop. An opportunity to explore a traditional textile art and create your own pieces."
+  },
+  "temas": [
+   "actividades",
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "f89137c5f5": {
+  "id": "4dd8d12843",
+  "es": {
+   "titulo": "Taller de lectura: El plano astral",
+   "resumen": "Analiza 'El plano astral y otras novelas cortas' de Enrique Jardiel Poncela en este taller de lectura. Explora el humor, la sátira y la fantasía del autor con Mariano Rebolo Prieto."
+  },
+  "en": {
+   "titulo": "Reading Workshop: El plano astral",
+   "resumen": "Analyze 'El plano astral y otras novelas cortas' by Enrique Jardiel Poncela in this reading workshop. Explore the author's humor, satire, and fantasy with Mariano Rebolo Prieto."
+  },
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "f578cc11de": {
+  "id": "6a04c26f0d",
+  "es": {
+   "titulo": "Taller de ROPE FLOW",
+   "resumen": "Descubre el Rope Flow, una disciplina deportiva de bajo impacto que mejora la coordinación y la propiocepción. Actividad lúdica apta para todas las edades y niveles."
+  },
+  "en": {
+   "titulo": "ROPE FLOW Workshop",
+   "resumen": "Discover Rope Flow, a low-impact sports discipline that improves coordination and proprioception. A fun activity suitable for all ages and levels."
+  },
+  "temas": [
+   "deporte",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "1c17760854": {
+  "id": "c912d52f1c",
+  "es": {
+   "titulo": "Taller de Stop Motion",
+   "resumen": "Crea tu propia película de animación stop motion. Construye marionetas, captura fotos y da vida a tus personajes en este taller gratuito para niños de 8 a 10 años."
+  },
+  "en": {
+   "titulo": "Stop Motion Workshop",
+   "resumen": "Create your own stop motion animation film. Build puppets, capture photos, and bring your characters to life in this free workshop for children aged 8 to 10."
+  },
+  "temas": [
+   "ninos",
+   "pantalla",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "1dddd081a4": {
+  "id": "8ddb0be09d",
+  "es": {
+   "titulo": "Taller de suelo pélvico",
+   "resumen": "Curso teórico-práctico sobre prevención de la incontinencia urinaria y lesiones del suelo pélvico. Impartido por una fisioterapeuta, aborda temas de salud para mujeres."
+  },
+  "en": {
+   "titulo": "Pelvic Floor Workshop",
+   "resumen": "Theoretical-practical course on preventing urinary incontinence and pelvic floor injuries. Taught by a physiotherapist, it addresses health topics for women."
+  },
+  "temas": [
+   "actividades",
+   "deporte"
+  ],
+  "a_cubierto": true
+ },
+ "448495919b": {
+  "id": "d5bb629743",
+  "es": {
+   "titulo": "Taller de Técnica Vocal y Canto Coral",
+   "resumen": "Aprende técnica vocal y canto coral en la Biblioteca Musical Víctor Espinós. Una oportunidad para mejorar tu voz y disfrutar de la música en grupo."
+  },
+  "en": {
+   "titulo": "Vocal Technique and Choral Singing Workshop",
+   "resumen": "Learn vocal technique and choral singing at the Víctor Espinós Music Library. An opportunity to improve your voice and enjoy group music."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "9c1f125d4e": {
+  "id": "2dcd419388",
+  "es": {
+   "titulo": "Taller de Elaboración de Jabones Artesanales",
+   "resumen": "Taller familiar para crear jabones caseros con aceite usado. Aprende técnicas tradicionales para hacer un excelente jabón de forma sostenible. A partir de 12 años."
+  },
+  "en": {
+   "titulo": "Handmade Soap Making Workshop",
+   "resumen": "Family workshop to create homemade soaps using used oil. Learn traditional techniques for making excellent soap sustainably. For ages 12 and up."
+  },
+  "temas": [
+   "actividades",
+   "cultura",
+   "ninos"
+  ],
+  "a_cubierto": true
+ },
+ "68a2848c21": {
+  "id": "6f7e811f3c",
+  "es": {
+   "titulo": "Taller Familiar: El Cuento del Escondite: Talebot",
+   "resumen": "Viaje de descubrimiento con Tale-Bot para niños y familias. Aprende programación y pensamiento computacional de forma lúdica creando historias y resolviendo retos."
+  },
+  "en": {
+   "titulo": "Family Workshop: The Hide-and-Seek Tale: Talebot",
+   "resumen": "Journey of discovery with Tale-Bot for children and families. Learn programming and computational thinking playfully by creating stories and solving challenges."
+  },
+  "temas": [
+   "ninos",
+   "pantalla",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "617ed15186": {
+  "id": "b60fd35b5d",
+  "es": {
+   "titulo": "Taller Filosófico",
+   "resumen": "Participa en un taller filosófico en la Biblioteca Pública Municipal Iván de Vargas. Un espacio para la reflexión y el debate sobre ideas y conceptos."
+  },
+  "en": {
+   "titulo": "Philosophical Workshop",
+   "resumen": "Participate in a philosophical workshop at the Iván de Vargas Municipal Public Library. A space for reflection and debate on ideas and concepts."
+  },
+  "temas": [
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": true
+ },
+ "822144de2d": {
+  "id": "e361ebeb18",
+  "es": {
+   "titulo": "Taller Infantil de Manualidades de Halloween",
+   "resumen": "Taller infantil de manualidades temáticas de Halloween en la Biblioteca Miguel Delibes. ¡Crea decoraciones y disfraces terroríficamente divertidos!"
+  },
+  "en": {
+   "titulo": "Children's Halloween Crafts Workshop",
+   "resumen": "Children's workshop for Halloween-themed crafts at the Miguel Delibes Library. Create terrifyingly fun decorations and costumes!"
+  },
+  "temas": [
+   "ninos",
+   "cultura",
+   "fiestas"
+  ],
+  "a_cubierto": true
+ },
+ "7b94880e99": {
+  "id": "ef00e66cb5",
+  "es": {
+   "titulo": "Taller de Interpretación ante la Cámara",
+   "resumen": "Taller de interpretación ante la cámara para diferentes edades (infantil, juvenil, adultos) en el Teatro Municipal de Vallecas. Mejora tus habilidades de actuación."
+  },
+  "en": {
+   "titulo": "On-Camera Acting Workshop",
+   "resumen": "On-camera acting workshop for different age groups (children, youth, adults) at the Vallecas Municipal Theater. Improve your acting skills."
+  },
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": true
+ },
+ "8a7b5b8ea2": {
+  "id": "7e2f369f41",
+  "es": {
+   "titulo": "Taller Online 'Encyclopenglish'",
+   "resumen": "Refuerza tu inglés (nivel B2 o superior) con datos sobre ciencia y arte del mundo angloparlante. Taller online semanal impartido por Rafael López Berho."
+  },
+  "en": {
+   "titulo": "Online Workshop 'Encyclopenglish'",
+   "resumen": "Improve your English (B2 level or higher) with facts about science and art from the English-speaking world. Weekly online workshop led by Rafael López Berho."
+  },
+  "temas": [
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": null
+ },
+ "9feb0cfe55": {
+  "id": "085cb6cc49",
+  "es": {
+   "titulo": "Taller Online 'Reinforce English'",
+   "resumen": "Mejora tu inglés (nivel B1/B2 o superior) con actividades prácticas. Taller online semanal impartido por Rafael López Berho para expandir conocimientos."
+  },
+  "en": {
+   "titulo": "Online Workshop 'Reinforce English'",
+   "resumen": "Improve your English (B1/B2 level or higher) with practical activities. Weekly online workshop led by Rafael López Berho to expand knowledge."
+  },
+  "temas": [
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": null
+ },
+ "47c40c9618": {
+  "id": "a26b3b073c",
+  "es": {
+   "titulo": "Taller para Dejar de Fumar",
+   "resumen": "Apoyo y herramientas para dejar de fumar en la Biblioteca Pública Municipal Eugenio Trías. Un paso importante hacia una vida más saludable."
+  },
+  "en": {
+   "titulo": "Smoking Cessation Workshop",
+   "resumen": "Support and tools to quit smoking at the Eugenio Trías Municipal Public Library. An important step towards a healthier life."
+  },
+  "temas": [
+   "actividades",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "7b4f0d1580": {
+  "id": "4d64093d51",
+  "es": {
+   "titulo": "Taller para Mujeres: Apertura y Comunicación",
+   "resumen": "Taller gratuito para mujeres sobre cuerpo, voz e imaginación para potenciar la comunicación. Mejora tu expresión y confianza. Varias sesiones."
+  },
+  "en": {
+   "titulo": "Workshop for Women: Openness and Communication",
+   "resumen": "Free workshop for women on body, voice, and imagination to enhance communication. Improve your expression and confidence. Multiple sessions."
+  },
+  "temas": [
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "c7a4f9dc36": {
+  "id": "e3f55f6b4f",
+  "es": {
+   "titulo": "Taller Shadow Box: Crea Cuadros 3D",
+   "resumen": "Propuesta de manualidades en familia para crear originales cuadros en 3D. Da rienda suelta a la creatividad con diferentes materiales y formas."
+  },
+  "en": {
+   "titulo": "Shadow Box Workshop: Create 3D Pictures",
+   "resumen": "Family craft proposal to create original 3D pictures. Unleash creativity with different materials and shapes."
+  },
+  "temas": [
+   "ninos",
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "bccb97e216": {
+  "id": "de74184695",
+  "es": {
+   "titulo": "Taller 'La Escritura a Través de la Historia'",
+   "resumen": "Descubre el origen y evolución de la escritura, desde sus inicios hasta los alfabetos actuales. Explora soportes y experimenta con sistemas antiguos."
+  },
+  "en": {
+   "titulo": "Workshop 'Writing Through History'",
+   "resumen": "Discover the origin and evolution of writing, from its beginnings to current alphabets. Explore supports and experiment with ancient systems."
+  },
+  "temas": [
+   "cultura",
+   "museos",
+   "libros"
+  ],
+  "a_cubierto": true
+ },
+ "b8dec9042b": {
+  "id": "d07223d2bf",
+  "es": {
+   "titulo": "Taller 'Archivo de Pequeñas Maravillas'",
+   "resumen": "Participa en el taller 'Archivo de Pequeñas Maravillas' en la Biblioteca Pública Municipal Gabriel García Márquez. Un espacio para la creatividad y la memoria."
+  },
+  "en": {
+   "titulo": "Workshop 'Archive of Small Wonders'",
+   "resumen": "Participate in the 'Archive of Small Wonders' workshop at the Gabriel García Márquez Municipal Public Library. A space for creativity and memory."
+  },
+  "temas": [
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": true
+ },
+ "f0b82f5e35": {
+  "id": "084f505721",
+  "es": {
+   "titulo": "Taller 'Fanzineitor' en Biblioteca Francisco Ayala",
+   "resumen": "Aprende a crear tu propio fanzine en este taller de autoedición. Expresa tu creatividad a través del dibujo y la escritura. Dirigido a jóvenes de 15 a 30 años."
+  },
+  "en": {
+   "titulo": "Workshop 'Fanzineitor' at Francisco Ayala Library",
+   "resumen": "Learn to create your own fanzine in this self-publishing workshop. Express your creativity through drawing and writing. Aimed at young people aged 15-30."
+  },
+  "temas": [
+   "cultura",
+   "libros",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "c6ec9e276d": {
+  "id": "fa0ad367ac",
+  "es": {
+   "titulo": "Taller 'Fanzineitor' en Biblioteca José Saramago",
+   "resumen": "Crea tu propio fanzine en este taller de autoedición. Expresa tu mundo interior con dibujo y escritura. Dirigido a jóvenes de 15 a 30 años."
+  },
+  "en": {
+   "titulo": "Workshop 'Fanzineitor' at José Saramago Library",
+   "resumen": "Create your own fanzine in this self-publishing workshop. Express your inner world through drawing and writing. Aimed at young people aged 15-30."
+  },
+  "temas": [
+   "cultura",
+   "libros",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "3cb6717243": {
+  "id": "afac06244a",
+  "es": {
+   "titulo": "Taller 'Imaginar con Máquinas' (IA)",
+   "resumen": "Descubre la inteligencia artificial de forma práctica y accesible. Transforma tu curiosidad en conocimiento y creación. Taller intergeneracional."
+  },
+  "en": {
+   "titulo": "Workshop 'Imagining with Machines' (AI)",
+   "resumen": "Discover artificial intelligence in a practical and accessible way. Transform your curiosity into knowledge and creation. Intergenerational workshop."
+  },
+  "temas": [
+   "pantalla",
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "b0a60c57d7": {
+  "id": "c5f7a2bc87",
+  "es": {
+   "titulo": "Taller 'Imaginar con Máquinas' (IA)",
+   "resumen": "Explora la inteligencia artificial de forma práctica y accesible. Aprende sobre IA como herramienta creativa y fomenta el pensamiento crítico. Dirigido a todos los públicos."
+  },
+  "en": {
+   "titulo": "Workshop 'Imagining with Machines' (AI)",
+   "resumen": "Explore artificial intelligence in a practical and accessible way. Learn about AI as a creative tool and foster critical thinking. For all audiences."
+  },
+  "temas": [
+   "pantalla",
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "1a07bc2fd2": {
+  "id": "0db24949a6",
+  "es": {
+   "titulo": "Taller 'Pequeños Científicos'",
+   "resumen": "Dinámicas participativas y talleres creativos para familias con niños de 4 a 7 años en el Aula Ambiental La Cabaña del Retiro. ¡Explora la ciencia de forma divertida!"
+  },
+  "en": {
+   "titulo": "Workshop 'Little Scientists'",
+   "resumen": "Participatory dynamics and creative workshops for families with children aged 4-7 at La Cabaña del Retiro Environmental Classroom. Explore science in a fun way!"
+  },
+  "temas": [
+   "ninos",
+   "naturaleza",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "dd9354b94d": {
+  "id": "f3c5ca973b",
+  "es": {
+   "titulo": "Taller 'Tejiendo Redes'",
+   "resumen": "Participa en el taller 'Tejiendo Redes' en la Biblioteca Pública Municipal Gabriel García Márquez. Un espacio para la conexión y la creación colectiva."
+  },
+  "en": {
+   "titulo": "Workshop 'Weaving Networks'",
+   "resumen": "Participate in the 'Weaving Networks' workshop at the Gabriel García Márquez Municipal Public Library. A space for connection and collective creation."
+  },
+  "temas": [
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": true
+ },
+ "8dcacbe017": {
+  "id": "12f9251e96",
+  "es": {
+   "titulo": "Taller '¡Manos a la Calabaza!'",
+   "resumen": "Taller creativo '¡Manos a la Calabaza!' en el Mercado Municipal Guillermo de Osma. ¡Prepara tus decoraciones más terroríficas para Halloween!"
+  },
+  "en": {
+   "titulo": "Workshop 'Hands on the Pumpkin!'",
+   "resumen": "Creative workshop 'Hands on the Pumpkin!' at the Guillermo de Osma Municipal Market. Prepare your most terrifying Halloween decorations!"
+  },
+  "temas": [
+   "fiestas",
+   "ninos",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "cb294263de": {
+  "id": "5859da6d0f",
+  "es": {
+   "titulo": "Talleres de Ajedrez (hasta 17 años)",
+   "resumen": "Aprende y practica ajedrez en la Biblioteca Gabriel García Márquez. Taller de iniciación con demostraciones, minijuegos y partidas. Para menores de 17 años."
+  },
+  "en": {
+   "titulo": "Chess Workshops (up to 17 years old)",
+   "resumen": "Learn and practice chess at the Gabriel García Márquez Library. Introductory workshop with demonstrations, mini-games, and matches. For under 17s."
+  },
+  "temas": [
+   "ninos",
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "396ad81fba": {
+  "id": "279b0f3f2b",
+  "es": {
+   "titulo": "Talleres de Ajedrez (hasta 17 años)",
+   "resumen": "Iniciación al ajedrez en la Biblioteca Vallecas. Combina demostraciones, minijuegos y partidas para menores de 17 años. ¡Mejora tu estrategia!"
+  },
+  "en": {
+   "titulo": "Chess Workshops (up to 17 years old)",
+   "resumen": "Introduction to chess at the Vallecas Library. Combines demonstrations, mini-games, and matches for under 17s. Improve your strategy!"
+  },
+  "temas": [
+   "ninos",
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "e69509a441": {
+  "id": "7513b8bf5e",
+  "es": {
+   "titulo": "Talleres de Cómic para Niños y Niñas",
+   "resumen": "Introduce a los más pequeños al mundo del cómic. Aprende a crear personajes e historias, sin necesidad de saber dibujar. Imparte Oscar Gordon en Matadero Madrid."
+  },
+  "en": {
+   "titulo": "Comic Workshops for Children",
+   "resumen": "Introduce children to the world of comics. Learn to create characters and stories, no drawing skills required. Led by Oscar Gordon at Matadero Madrid."
+  },
+  "temas": [
+   "ninos",
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": true
+ },
+ "38b8c33eea": {
+  "id": "dd878fb6fc",
+  "es": {
+   "titulo": "Talleres Gente Menuda (3º Trimestre 2026)",
+   "resumen": "Talleres familiares en el Museo ABC para niños de 4 a 10 años. Crea obras de arte inspiradas en las exposiciones. ¡Gratuitos con reserva!"
+  },
+  "en": {
+   "titulo": "Gente Menuda Workshops (3rd Quarter 2026)",
+   "resumen": "Family workshops at the ABC Museum for children aged 4-10. Create art inspired by the exhibitions. Free with reservation!"
+  },
+  "temas": [
+   "ninos",
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true
+ },
+ "b623bc6bc3": {
+  "id": "77936cedfe",
+  "es": {
+   "titulo": "Talleres de Apoyo para Solicitar Vivienda",
+   "resumen": "Talleres grupales de apoyo para solicitar una vivienda de la Empresa Municipal de la Vivienda y Suelo de Madrid. Información y ayuda práctica."
+  },
+  "en": {
+   "titulo": "Support Workshops for Housing Applications",
+   "resumen": "Group support workshops for applying for housing from the Municipal Company of Housing and Land of Madrid. Information and practical assistance."
+  },
+  "temas": [
+   "actividades",
+   "cultura"
+  ],
+  "a_cubierto": true
  }
 }
