@@ -1573,3 +1573,252 @@ iglesia-san-pablo-zaragoza:
           r: "Calles con tapas y bares tradicionales, y el casco histórico de Zaragoza."
         - p: "¿Es gratis?"
           r: "La entrada suele ser libre, pero consulta los horarios. Consulta siempre la web oficial para horarios, entradas y condiciones de acceso, que cambian."
+museo-guggenheim:
+  relacionados: [museo-bellas-artes, plaza-nueva-bilbao, bilbao-bbk-live, universidad-deusto]
+  contenido:
+    es:
+      texto:
+        - "El Museo Guggenheim Bilbao es el edificio más famoso de la ciudad y uno de los museos de arte contemporáneo más visitados de Europa. Obra de Frank Gehry e inaugurado en 1997, sus formas curvas recubiertas de titanio, junto a la ría del Nervión, transformaron la imagen de Bilbao."
+        - "Antes de entrar, merece la pena rodear el edificio y ver las esculturas del exterior: Puppy, el gran perro cubierto de flores de Jeff Koons, Maman, la araña gigante de Louise Bourgeois, y los Tulips de Koons. Dentro, el museo alberga exposiciones temporales de arte moderno y contemporáneo y obras permanentes de gran formato, como La materia del tiempo de Richard Serra."
+        - "Reserva la entrada con antelación en temporada alta y prevé entre dos y tres horas de visita. El exterior se puede pasear gratis, junto a la ría, y el edificio luce especialmente al amanecer y al atardecer. Si tienes poco tiempo, prioriza la sala de Serra y alguna exposición temporal. Consulta siempre la web oficial para horarios, entradas y condiciones de acceso, que cambian."
+      faq:
+        - p: "¿Quién diseñó el Guggenheim Bilbao?"
+          r: "El arquitecto Frank Gehry. El museo se inauguró en 1997."
+        - p: "¿Qué ver?"
+          r: "El exterior, con Puppy, Maman y los Tulips, y por dentro La materia del tiempo de Richard Serra y las exposiciones temporales."
+        - p: "¿Cuánto tiempo se necesita?"
+          r: "Entre dos y tres horas para una visita completa."
+        - p: "¿Hay que reservar entrada?"
+          r: "Se recomienda reservar con antelación en temporada alta y fines de semana."
+        - p: "¿Se puede ver gratis el exterior?"
+          r: "Sí, el paseo exterior junto a la ría y las esculturas se pueden ver sin entrada."
+        - p: "¿Es buen plan con niños?"
+          r: "Sí, el exterior y las esculturas suelen gustar a los pequeños, y el museo ofrece actividades para familias."
+museo-bellas-artes:
+  relacionados: [museo-guggenheim, teatro-arriaga, plaza-nueva-bilbao]
+  contenido:
+    es:
+      texto:
+        - "El Museo de Bellas Artes de Bilbao es uno de los grandes museos de España y está junto al parque de Doña Casilda, a pocos pasos del Guggenheim. Su colección reúne siete siglos de arte, con especial atención al arte vasco, español y europeo."
+        - "Entre sus obras hay pinturas de El Greco, Zurbarán, Goya, Murillo y Velázquez, así como piezas de artistas del siglo XX, como Gauguin, Chillida o Oteiza. La colección se organiza por épocas y es muy manejable, con un recorrido más tranquilo que el de otros grandes museos."
+        - "Es un buen complemento del Guggenheim, y una visita de hora y media o dos. El parque de Doña Casilda, que lo rodea, es un lugar muy agradable para pasear. Consulta las exposiciones temporales y los horarios. Consulta siempre la web oficial para horarios, entradas y condiciones de acceso, que cambian."
+      faq:
+        - p: "¿Qué hay en el Museo de Bellas Artes de Bilbao?"
+          r: "Arte vasco, español y europeo de siete siglos, con obras de El Greco, Zurbarán, Goya, Gauguin y artistas vascos del siglo XX."
+        - p: "¿Cuánto tiempo se necesita?"
+          r: "Entre una hora y media y dos horas."
+        - p: "¿Dónde está?"
+          r: "Junto al parque de Doña Casilda, cerca del Guggenheim, en Bilbao."
+        - p: "¿Se puede combinar con el Guggenheim?"
+          r: "Sí, están a unos diez minutos a pie. Consulta si hay entradas conjuntas."
+        - p: "¿Cuándo es gratis?"
+          r: "El museo tiene condiciones especiales de entrada en algunos días. Consulta siempre la web oficial para horarios, entradas y condiciones de acceso, que cambian."
+teatro-arriaga:
+  relacionados: [plaza-nueva-bilbao, catedral-santiago-bilbao, museo-guggenheim]
+  contenido:
+    es:
+      texto:
+        - "El Teatro Arriaga es el gran teatro de Bilbao, un edificio neobarroco inaugurado en 1890 junto a la ría, en el Casco Viejo. Lleva el nombre del compositor bilbaíno Juan Crisóstomo Arriaga, apodado el Mozart español, y es uno de los símbolos culturales de la ciudad."
+        - "Su fachada recuerda a la Ópera de París y su interior, con una gran sala en forma de herradura y decoración dorada, ofrece una programación que va desde teatro y ópera hasta danza, zarzuela y música. Fue reconstruido tras un incendio en 1914 y ha conservado su carácter elegante."
+        - "Lo mejor es asistir a una función, aunque también se puede ver el edificio por fuera, junto al paseo de la ría, a un paso de la Plaza Nueva y el Casco Viejo. Consulta la programación y las posibilidades de visita guiada. Consulta siempre la web oficial para horarios, entradas y condiciones de acceso, que cambian."
+      faq:
+        - p: "¿Qué es el Teatro Arriaga?"
+          r: "El gran teatro de Bilbao, un edificio neobarroco inaugurado en 1890 en el Casco Viejo."
+        - p: "¿Por qué se llama Arriaga?"
+          r: "Por el compositor bilbaíno Juan Crisóstomo Arriaga, apodado el Mozart español."
+        - p: "¿Qué se puede ver?"
+          r: "Teatro, ópera, danza, música y zarzuela. Consulta la programación."
+        - p: "¿Se puede visitar?"
+          r: "Depende de la programación y de las visitas organizadas. Consulta la web oficial."
+        - p: "¿Qué hay cerca?"
+          r: "La Plaza Nueva, el Casco Viejo y el paseo de la ría."
+basilica-begona:
+  relacionados: [catedral-santiago-bilbao, plaza-nueva-bilbao, museo-guggenheim]
+  contenido:
+    es:
+      texto:
+        - "La Basílica de Begoña es el santuario de la Virgen de Begoña, patrona de Bizkaia, y una de las citas obligadas de Bilbao. Situada en lo alto de un monte sobre el casco antiguo, es un templo gótico de los siglos XVI y XVII con una gran devoción popular."
+        - "Se sube desde el Casco Viejo por una larga escalinata, que muchos bilbaínos recorren a pie en señal de devoción, o en el ascensor de Begoña, que facilita el acceso. Desde la explanada de la basílica hay unas vistas muy bonitas de la ciudad y de la ría."
+        - "Es un lugar de culto, así que respeta el silencio y la vestimenta. Merece la pena subir a pie por las escaleras si estás en forma, y bajar en ascensor, o al revés. Consulta los horarios de apertura de la basílica. Consulta siempre la web oficial para horarios, entradas y condiciones de acceso, que cambian."
+      faq:
+        - p: "¿Qué es la Basílica de Begoña?"
+          r: "El santuario de la Virgen de Begoña, patrona de Bizkaia, en un monte sobre el Casco Viejo de Bilbao."
+        - p: "¿Cómo se sube?"
+          r: "A pie, por una larga escalinata desde el Casco Viejo, o en el ascensor de Begoña."
+        - p: "¿Hay buenas vistas?"
+          r: "Sí, desde la explanada se ve la ciudad y la ría."
+        - p: "¿Cuánto tiempo se necesita?"
+          r: "Entre 30 minutos y una hora, según subas a pie o en ascensor."
+        - p: "¿Qué ropa llevar?"
+          r: "Calzado cómodo para la subida y ropa discreta para entrar."
+catedral-santiago-bilbao:
+  relacionados: [teatro-arriaga, plaza-nueva-bilbao, basilica-begona]
+  contenido:
+    es:
+      texto:
+        - "La Catedral de Santiago es el gran templo del Casco Viejo de Bilbao y un hito del Camino de Santiago del Norte. Es una iglesia gótica construida entre los siglos XIV y XV, con una fachada neogótica añadida en el siglo XIX, y es el símbolo religioso de la ciudad."
+        - "El interior destaca por sus bóvedas góticas, el claustro y los detalles de las capillas. Por su posición, muchos peregrinos del Camino del Norte la visitan al pasar por Bilbao, y sellan aquí sus credenciales. La plaza de Santiago que la rodea es un buen punto de partida para recorrer el Casco Viejo."
+        - "Es un lugar de culto, así que respeta el silencio y la vestimenta adecuada. Prevé unos 30 o 45 minutos de visita y consulta los horarios de apertura. Consulta siempre la web oficial para horarios, entradas y condiciones de acceso, que cambian."
+      faq:
+        - p: "¿Qué es la Catedral de Santiago de Bilbao?"
+          r: "Una iglesia gótica de los siglos XIV y XV en el Casco Viejo, con fachada neogótica del siglo XIX."
+        - p: "¿Está en el Camino de Santiago?"
+          r: "Sí, forma parte del Camino del Norte, y muchos peregrinos la visitan al pasar por Bilbao."
+        - p: "¿Qué ver?"
+          r: "Las bóvedas góticas, el claustro y la fachada neogótica."
+        - p: "¿Cuánto tiempo se necesita?"
+          r: "Unos 30-45 minutos."
+        - p: "¿Qué hay cerca?"
+          r: "La Plaza Nueva, el Teatro Arriaga y el Casco Viejo."
+ayuntamiento-bilbao:
+  relacionados: [teatro-arriaga, museo-guggenheim, plaza-nueva-bilbao]
+  contenido:
+    es:
+      texto:
+        - "El Ayuntamiento de Bilbao es un edificio ecléctico de finales del siglo XIX, a orillas de la ría del Nervión, en el centro de la ciudad. Es la sede del gobierno municipal y una de las construcciones más reconocibles del paseo de la ría."
+        - "Por dentro destacan sus salones ricamente decorados, entre ellos el Salón Árabe, con una decoración de inspiración neomudéjar, y el Salón de Plenos. El edificio tiene una colección de arte y objetos históricos que cuentan la historia de la ciudad."
+        - "Se puede visitar en determinados horarios y con visitas guiadas, normalmente gratuitas y con reserva previa. Consulta las condiciones antes de ir. Está junto al puente del Ayuntamiento y se combina con un paseo por la ría. Consulta siempre la web oficial para horarios, entradas y condiciones de acceso, que cambian."
+      faq:
+        - p: "¿Qué es el Ayuntamiento de Bilbao?"
+          r: "La sede del gobierno municipal, en un edificio ecléctico de finales del siglo XIX a orillas de la ría."
+        - p: "¿Se puede visitar?"
+          r: "Sí, con visitas guiadas en determinados horarios. Consulta la web oficial."
+        - p: "¿Qué ver?"
+          r: "El Salón Árabe, el Salón de Plenos y las colecciones del edificio."
+        - p: "¿Es gratis?"
+          r: "Las visitas suelen ser gratuitas, pero conviene confirmarlo y reservar. Consulta siempre la web oficial para horarios, entradas y condiciones de acceso, que cambian."
+        - p: "¿Dónde está?"
+          r: "Junto a la ría del Nervión, cerca del puente del Ayuntamiento."
+palacio-diputacion-bizkaia:
+  relacionados: [ayuntamiento-bilbao, museo-bellas-artes, museo-guggenheim]
+  contenido:
+    es:
+      texto:
+        - "El Palacio de la Diputación de Bizkaia es un edificio emblemático de la Gran Vía de Bilbao, construido a principios del siglo XX y sede del gobierno de la provincia. Es un buen ejemplo de la arquitectura de la época, con un interior de gran riqueza decorativa."
+        - "Destacan la escalinata monumental, los salones, las vidrieras y las pinturas que decoran las salas, que cuentan la historia y las tradiciones de Bizkaia. Es un espacio institucional con un fuerte simbolismo para la identidad vasca."
+        - "Algunas zonas pueden visitarse con visita guiada y reserva previa, normalmente en horarios concretos. Consulta las condiciones antes de ir. Está en pleno centro, cerca de la plaza Moyúa, por lo que se combina con un paseo por la zona. Consulta siempre la web oficial para horarios, entradas y condiciones de acceso, que cambian."
+      faq:
+        - p: "¿Qué es el Palacio de la Diputación?"
+          r: "La sede del gobierno de Bizkaia, un edificio de principios del siglo XX en la Gran Vía de Bilbao."
+        - p: "¿Se puede visitar?"
+          r: "Algunas zonas sí, con visita guiada y reserva previa. Consulta la web oficial."
+        - p: "¿Qué ver?"
+          r: "La escalinata, los salones, las vidrieras y las pinturas del interior."
+        - p: "¿Dónde está?"
+          r: "En la Gran Vía de Bilbao, cerca de la plaza Moyúa."
+        - p: "¿Es gratis?"
+          r: "Las visitas suelen ser gratuitas, pero conviene confirmarlo. Consulta siempre la web oficial para horarios, entradas y condiciones de acceso, que cambian."
+universidad-deusto:
+  relacionados: [museo-guggenheim, museo-bellas-artes, ayuntamiento-bilbao]
+  contenido:
+    es:
+      texto:
+        - "La Universidad de Deusto es una de las más antiguas de España, fundada por los jesuitas en 1886, y tiene su campus principal junto a la ría de Bilbao, cerca del Guggenheim. Su edificio histórico y su moderna biblioteca la convierten en un lugar interesante para visitar."
+        - "La Biblioteca de la Universidad de Deusto, diseñada por el arquitecto Rafael Moneo, es un ejemplo de arquitectura contemporánea integrada en el entorno, con un gran espacio de lectura. El campus también incluye el edificio histórico, con una fachada elegante, y zonas verdes abiertas al paseo."
+        - "Se puede pasear por el campus y ver los edificios por fuera, y consultar si hay visitas guiadas al interior. Combina la visita con el Guggenheim y el paseo de Abandoibarra, junto a la ría. Consulta siempre la web oficial para horarios, entradas y condiciones de acceso, que cambian."
+      faq:
+        - p: "¿Qué es la Universidad de Deusto?"
+          r: "Una universidad fundada por los jesuitas en 1886, con campus junto a la ría de Bilbao."
+        - p: "¿Qué ver?"
+          r: "La Biblioteca de Rafael Moneo, el edificio histórico y los jardines."
+        - p: "¿Se puede visitar?"
+          r: "Se puede pasear por el campus. Consulta si hay visitas guiadas al interior."
+        - p: "¿Dónde está?"
+          r: "En Abandoibarra, junto a la ría y cerca del Guggenheim."
+        - p: "¿Qué hay cerca?"
+          r: "El Guggenheim, el Museo de Bellas Artes y el paseo de la ría."
+plaza-nueva-bilbao:
+  relacionados: [teatro-arriaga, catedral-santiago-bilbao, basilica-begona, museo-guggenheim]
+  contenido:
+    es:
+      texto:
+        - "La Plaza Nueva es una plaza porticada neoclásica del Casco Viejo de Bilbao, construida en el siglo XIX, y uno de los lugares más animados de la ciudad. Es un espacio cerrado con soportales, ideal para tomar pintxos y vinos, y es el centro de la vida social del barrio."
+        - "Alrededor de la plaza se concentran bares y restaurantes con pintxos y cocina tradicional, y los domingos por la mañana se celebra un mercado de coleccionistas, con puestos de sellos, monedas y objetos antiguos. El Casco Viejo, con sus Siete Calles, está a un paso."
+        - "Lo mejor es ir a mediodía o al atardecer para pintxear, sin prisa, de bar en bar. Los domingos hay mucho ambiente, y es un buen sitio para pasar la mañana. Consulta siempre la web oficial para horarios, entradas y condiciones de acceso, que cambian."
+      faq:
+        - p: "¿Qué es la Plaza Nueva?"
+          r: "Una plaza porticada neoclásica del siglo XIX, en el Casco Viejo de Bilbao, con bares de pintxos."
+        - p: "¿Qué se puede hacer?"
+          r: "Tomar pintxos y vino, pasear por los soportales y, los domingos, ver el mercado de coleccionistas."
+        - p: "¿Cuándo es mejor ir?"
+          r: "A mediodía o al atardecer para pintxear, y los domingos por la mañana para el mercado."
+        - p: "¿Qué hay cerca?"
+          r: "Las Siete Calles, el Teatro Arriaga y la catedral."
+        - p: "¿Es buen plan con niños?"
+          r: "Sí, durante el día. Por la noche el ambiente es más de adultos."
+fundacion-museo-paz-gernika:
+  relacionados: [casa-juntas-gernika, reserva-biosfera-urdaibai, museo-guggenheim]
+  contenido:
+    es:
+      texto:
+        - "El Museo de la Paz de Gernika es un espacio dedicado a la memoria del bombardeo del 26 de abril de 1937, que destruyó gran parte de la ciudad durante la Guerra Civil, y a la reflexión sobre la paz. Está en el centro de Gernika-Lumo y es una de las visitas imprescindibles de Bizkaia."
+        - "El recorrido combina testimonios, audiovisuales y objetos para contar qué ocurrió ese día y qué significó para la historia, y propone una reflexión sobre la paz y la reconciliación. Es un museo emotivo, que se visita con calma y deja huella, y que mira siempre al futuro y a la cultura de paz."
+        - "Prevé una hora y media de visita y combínalo con la Casa de Juntas y el Árbol de Gernika, muy cerca. Consulta los horarios y si hay visitas guiadas. Consulta siempre la web oficial para horarios, entradas y condiciones de acceso, que cambian."
+      faq:
+        - p: "¿Qué es el Museo de la Paz de Gernika?"
+          r: "Un museo sobre el bombardeo de 1937 y la cultura de paz, en Gernika-Lumo (Bizkaia)."
+        - p: "¿Qué pasó en Gernika?"
+          r: "El 26 de abril de 1937, durante la Guerra Civil, la ciudad fue bombardeada y gran parte quedó destruida."
+        - p: "¿Cuánto tiempo se necesita?"
+          r: "Alrededor de una hora y media."
+        - p: "¿Qué hay cerca?"
+          r: "La Casa de Juntas y el Árbol de Gernika, símbolos de las libertades vascas."
+        - p: "¿Es apto para niños?"
+          r: "Tiene contenidos sensibles. Conviene valorar la edad y acompañarlos."
+casa-juntas-gernika:
+  relacionados: [fundacion-museo-paz-gernika, reserva-biosfera-urdaibai, palacio-diputacion-bizkaia]
+  contenido:
+    es:
+      texto:
+        - "La Casa de Juntas de Gernika es el símbolo de las libertades vascas y la sede histórica de las Juntas Generales de Bizkaia. A su lado crece el Árbol de Gernika, un roble que es el emblema de la tradición foral y bajo cuya sombra se reunían históricamente los representantes del Señorío."
+        - "El edificio, de estilo neoclásico, alberga el Salón de Plenos, con una gran vidriera que representa la historia del pueblo vasco, y una colección de retratos y documentos. Los jardines que rodean el conjunto tienen restos del árbol anterior y esculturas, y son un lugar de reflexión."
+        - "Es una visita corta, de una hora aproximadamente, que se combina con el Museo de la Paz, a pocos minutos a pie. Consulta los horarios y las condiciones de acceso. La visita al jardín suele ser libre. Consulta siempre la web oficial para horarios, entradas y condiciones de acceso, que cambian."
+      faq:
+        - p: "¿Qué es la Casa de Juntas de Gernika?"
+          r: "La sede histórica de las Juntas Generales de Bizkaia y símbolo de las libertades vascas."
+        - p: "¿Qué es el Árbol de Gernika?"
+          r: "Un roble emblemático, símbolo de la tradición foral, junto al edificio."
+        - p: "¿Qué ver?"
+          r: "El Salón de Plenos con su vidriera, el Árbol de Gernika y los jardines."
+        - p: "¿Cuánto tiempo se necesita?"
+          r: "Alrededor de una hora."
+        - p: "¿Es gratis?"
+          r: "Consulta las condiciones de acceso en la web oficial. Los jardines suelen ser de acceso libre."
+murallas-puertas-hondarribia:
+  relacionados: [fuerte-guadalupe, festival-san-sebastian, selva-irati]
+  contenido:
+    es:
+      texto:
+        - "Hondarribia es una de las villas más bonitas del País Vasco, y su casco histórico, rodeado de murallas, es una joya de calles empedradas, casas con balcones de madera y plazas con encanto. Las murallas y las puertas de acceso forman uno de los conjuntos defensivos mejor conservados de la zona."
+        - "Se puede recorrer el casco amurallado a pie, entrando por la Puerta de Santa María, con su escudo, hasta llegar a la calle Mayor y al castillo de Carlos V, hoy parador. Las murallas, construidas entre los siglos XV y XVII, se pueden pasear en parte y ofrecen vistas sobre el Bidasoa y Hendaya, en Francia."
+        - "Aprovecha para pintxear en la calle San Pedro, en el barrio de pescadores de la Marina, famosa por sus bares y marisco, o en el casco histórico. Se llega en coche desde San Sebastián en media hora aproximadamente. Consulta siempre la web oficial para horarios, entradas y condiciones de acceso, que cambian."
+      faq:
+        - p: "¿Qué ver en el casco de Hondarribia?"
+          r: "La Puerta de Santa María, la calle Mayor, el castillo de Carlos V y las murallas."
+        - p: "¿Se pueden recorrer las murallas?"
+          r: "Sí, en parte. Consulta los tramos accesibles."
+        - p: "¿Qué es la Marina?"
+          r: "El barrio de pescadores de Hondarribia, con la calle San Pedro, famosa por sus bares de pintxos."
+        - p: "¿Cómo llegar desde San Sebastián?"
+          r: "En coche en unos 30 minutos, o en autobús. Consulta las opciones de transporte."
+        - p: "¿Qué más ver cerca?"
+          r: "El Fuerte de Guadalupe, el monte Jaizkibel y las playas de la bahía de Txingudi."
+fuerte-guadalupe:
+  relacionados: [murallas-puertas-hondarribia, festival-san-sebastian]
+  contenido:
+    es:
+      texto:
+        - "El Fuerte de Guadalupe es una fortificación militar situada en lo alto del monte Jaizkibel, sobre Hondarribia, con vistas al Cantábrico, a la bahía de Txingudi y a la frontera con Francia. Es una de las construcciones defensivas más singulares de la zona y un mirador espectacular."
+        - "Su posición dominante sobre la frontera explica su función defensiva, y la visita permite recorrer sus estructuras. Desde la cima del monte se ven la desembocadura del Bidasoa, Hendaya y la costa vasca, y la zona es un excelente lugar de senderismo."
+        - "Lleva calzado de montaña, abrigo y agua, porque el tiempo puede cambiar rápido en Jaizkibel. Consulta los horarios de visita del fuerte y las rutas de senderismo, algunas de las cuales cruzan el monte hasta Pasaia. Consulta siempre la web oficial para horarios, entradas y condiciones de acceso, que cambian."
+      faq:
+        - p: "¿Qué es el Fuerte de Guadalupe?"
+          r: "Una fortificación militar en el monte Jaizkibel, sobre Hondarribia, con vistas a la costa y a la frontera con Francia."
+        - p: "¿Qué ver?"
+          r: "Las estructuras defensivas y las vistas de la bahía de Txingudi, el Bidasoa y Hendaya."
+        - p: "¿Cómo llegar?"
+          r: "En coche desde Hondarribia o a pie por rutas de senderismo. Consulta los accesos."
+        - p: "¿Qué ropa llevar?"
+          r: "Calzado de montaña, abrigo y agua. El tiempo en Jaizkibel cambia rápido."
+        - p: "¿Qué más hacer cerca?"
+          r: "Pasear por el casco histórico de Hondarribia y hacer rutas por Jaizkibel."
