@@ -8,6 +8,7 @@ import DailyPick from './DailyPick.astro';
 import CuriosityWidget from './CuriosityWidget.astro';
 import MatchToday from './MatchToday.astro';
 import TodayIn from './TodayIn.astro';
+import HalloweenWidget from './HalloweenWidget.astro';
 import { t, url, monthName, HREFLANG, INTL_LOCALE } from '../i18n/ui.js';
 import { TODAY, currentMonth, seasonalFor, upcoming, within, overlaps, weekendRange, span, isCourse, topicById, fmtDay, cap, ptitle, psummary, textLang, trending, boost, inLang } from '../lib/data.js';
 
@@ -78,6 +79,7 @@ const jsonld = {
   </section>
 
   <div class="widgets" data-search-hide>
+    <HalloweenWidget lang={lang} />
     <MatchToday lang={lang} />
 
     <section class="widget" aria-labelledby="w-weekend">

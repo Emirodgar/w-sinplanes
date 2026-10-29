@@ -1,0 +1,9 @@
+// Textos del tema de Halloween (widget de la portada).
+export const halloween = {
+  es: { title: 'Planes de miedo', intro: 'Pasajes del terror, talleres de calabazas, cuentacuentos y fiestas para una noche de Halloween.', one: 'Mañana es Halloween', many: 'Faltan {n} días para Halloween', today: 'Hoy es Halloween', after: 'Hoy es Todos los Santos', more: 'Halloween y Todos los Santos' },
+  en: { title: 'Spooky plans', intro: 'Haunted houses, pumpkin workshops, storytelling and parties for a Halloween night.', one: 'Halloween is tomorrow', many: '{n} days until Halloween', today: 'It’s Halloween today', after: 'Today is All Saints’ Day', more: 'Halloween and All Saints’ Day' },
+  fr: { title: 'Sorties qui font peur', intro: 'Passages de l’horreur, ateliers citrouilles, contes et fêtes pour une soirée d’Halloween.', one: 'Halloween, c’est demain', many: 'Plus que {n} jours avant Halloween', today: 'C’est Halloween aujourd’hui', after: 'Aujourd’hui, c’est la Toussaint', more: 'Halloween et la Toussaint' },
+  de: { title: 'Gruselige Tipps', intro: 'Gruselpfade, Kürbiswerkstätten, Geschichten und Partys für eine Halloween-Nacht.', one: 'Morgen ist Halloween', many: 'Noch {n} Tage bis Halloween', today: 'Heute ist Halloween', after: 'Heute ist Allerheiligen', more: 'Halloween und Allerheiligen' },
+  it: { title: 'Idee da brivido', intro: 'Passaggi del terrore, laboratori di zucche, racconti e feste per una notte di Halloween.', one: 'Halloween è domani', many: 'Mancano {n} giorni a Halloween', today: 'Oggi è Halloween', after: 'Oggi è Ognissanti', more: 'Halloween e Ognissanti' },
+  pt: { title: 'Ideias de arrepiar', intro: 'Passagens do terror, oficinas de abóboras, contos e festas para uma noite de Halloween.', one: 'Amanhã é Halloween', many: 'Faltam {n} dias para o Halloween', today: 'Hoje é Halloween', after: 'Hoje é Dia de Todos os Santos', more: 'Halloween e Todos os Santos' },
+};

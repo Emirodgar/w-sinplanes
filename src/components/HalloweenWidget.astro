@@ -1,0 +1,33 @@
+---
+import PlanList from './PlanList.astro';
+import { url } from '../i18n/ui.js';
+import { halloween } from '../i18n/halloween.js';
+import { isHalloween, halloweenDaysLeft, halloweenPlans, HALLOWEEN } from '../lib/ocasiones.js';
+
+const { lang } = Astro.props;
+const H = halloween[lang];
+const list = halloweenPlans(lang);
+const left = halloweenDaysLeft();
+const count = left > 1 ? H.many.replace('{n}', left) : left === 1 ? H.one : left === 0 ? H.today : H.after;
+---
+{isHalloween && list.length > 0 && (
+  <section class="widget widget--wide widget-halloween" aria-labelledby="w-halloween">
+    <p class="hw-count" data-day={HALLOWEEN.day} data-one={H.one} data-many={H.many} data-today={H.today} data-after={H.after}>{count}</p>
+    <h2 id="w-halloween">{H.title}</h2>
+    <p class="muted">{H.intro}</p>
+    <PlanList lang={lang} plans={list} />
+    <a class="more" href={url.plan(lang, 'halloween-difuntos')}>{H.more}</a>
+  </section>
+)}
+<script is:inline>
+  // Cuenta atrás con la fecha real en Madrid (el HTML puede ser de ayer si el despliegue diario se retrasa).
+  (function () {
+    var p = document.querySelector('.hw-count');
+    if (!p) return;
+    try {
+      var today = new Date().toLocaleDateString('sv-SE', { timeZone: 'Europe/Madrid' });
+      var n = Math.round((new Date(p.dataset.day + 'T12:00:00Z') - new Date(today + 'T12:00:00Z')) / 864e5);
+      p.textContent = n > 1 ? p.dataset.many.replace('{n}', n) : n === 1 ? p.dataset.one : n === 0 ? p.dataset.today : p.dataset.after;
+    } catch (e) {}
+  })();
+</script>
