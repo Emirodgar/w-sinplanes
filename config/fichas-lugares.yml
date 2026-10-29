@@ -1381,3 +1381,195 @@ domus-artium-2002:
           r: "Cambian durante el año. Consulta la programación en la web oficial."
         - p: "¿Qué más ver cerca?"
           r: "Las Catedrales y el paseo junto al Tormes."
+basilica-nuestra-senora-pilar:
+  relacionados: [la-seo-catedral-san-salvador, palacio-aljaferia, lonja-zaragoza, pilar]
+  contenido:
+    es:
+      texto:
+        - "La Basílica de Nuestra Señora del Pilar es el gran símbolo de Zaragoza y uno de los grandes santuarios marianos de España. Se levanta junto al Ebro y alberga la Virgen del Pilar, una pequeña imagen sobre una columna de jaspe que atrae a peregrinos de todo el mundo, sobre todo cada 12 de octubre."
+        - "El templo, de estilo barroco, destaca por sus once cúpulas cubiertas de azulejos de colores y por las pinturas de la cúpula del coro, obra de Goya y de Francisco Bayeu. En el interior se encuentra la Santa Capilla, donde se venera la Virgen, y en un lateral se conservan las bombas que cayeron en 1936 sin llegar a explotar. También se puede subir a una de las torres para ver la ciudad desde las alturas."
+        - "Es un lugar de culto, así que respeta el silencio y la vestimenta adecuada. La visita se puede combinar con la plaza del Pilar, la catedral de La Seo y la Lonja, todas muy cerca. Si vas en octubre, coincide con las Fiestas del Pilar y con la Ofrenda de Flores. Consulta siempre la web oficial para horarios, entradas y condiciones de acceso, que cambian."
+      faq:
+        - p: "¿Qué es la Virgen del Pilar?"
+          r: "Una pequeña imagen de la Virgen sobre una columna de jaspe, venerada en la Santa Capilla de la basílica y patrona de Zaragoza y de la Hispanidad."
+        - p: "¿Qué ver en la basílica?"
+          r: "Las cúpulas con pinturas de Goya y Bayeu, la Santa Capilla, las bombas de 1936 y el museo del Pilar."
+        - p: "¿Se puede subir a la torre?"
+          r: "Sí, hay un mirador en una de las torres. Consulta las condiciones de acceso."
+        - p: "¿Hay que pagar entrada?"
+          r: "La entrada a la basílica es libre, y hay entradas de pago para la torre y el museo. Consulta siempre la web oficial para horarios, entradas y condiciones de acceso, que cambian."
+        - p: "¿Cuándo es la Ofrenda de Flores?"
+          r: "El 12 de octubre, durante las Fiestas del Pilar."
+        - p: "¿Qué ropa llevar?"
+          r: "Ropa discreta, con hombros y rodillas cubiertos, por respeto al carácter religioso."
+palacio-aljaferia:
+  relacionados: [la-seo-catedral-san-salvador, basilica-nuestra-senora-pilar, iglesia-san-pablo-zaragoza, alcazaba-malaga]
+  contenido:
+    es:
+      texto:
+        - "El Palacio de la Aljafería es una joya del arte hispanomusulmán, construido en el siglo XI como residencia de los reyes de la taifa de Zaragoza. Es la mejor muestra de arquitectura islámica del norte de la península y un monumento único que conserva elementos de todas las épocas."
+        - "Lo más impresionante es el patio de Santa Isabel, con sus arcos entrelazados, y el oratorio, un pequeño espacio que fue mezquita, con un mihrab de gran riqueza decorativa. Tras la conquista cristiana se añadieron el palacio de los Reyes Católicos, con un techo artesonado dorado, y el Salón del Trono. La Torre del Trovador es famosa por inspirar la ópera de Verdi."
+        - "Hoy es sede de las Cortes de Aragón, por lo que algunas zonas tienen un horario limitado. Forma parte del conjunto Mudéjar de Aragón, declarado Patrimonio Mundial. Prevé una hora y media de visita. Consulta siempre la web oficial para horarios, entradas y condiciones de acceso, que cambian."
+      faq:
+        - p: "¿Qué es la Aljafería?"
+          r: "Un palacio hispanomusulmán del siglo XI que fue residencia de los reyes de la taifa de Zaragoza y hoy es sede de las Cortes de Aragón."
+        - p: "¿Qué ver?"
+          r: "El patio de Santa Isabel, el oratorio, el palacio de los Reyes Católicos y la Torre del Trovador."
+        - p: "¿Es Patrimonio Mundial?"
+          r: "Sí, forma parte del conjunto de arquitectura mudéjar de Aragón."
+        - p: "¿Cuánto tiempo se necesita?"
+          r: "Alrededor de una hora y media."
+        - p: "¿Es gratis?"
+          r: "Hay franjas de entrada gratuita. Consulta siempre la web oficial para horarios, entradas y condiciones de acceso, que cambian."
+la-seo-catedral-san-salvador:
+  relacionados: [basilica-nuestra-senora-pilar, palacio-aljaferia, museo-foro-caesaraugusta, lonja-zaragoza]
+  contenido:
+    es:
+      texto:
+        - "La Seo, la catedral del Salvador de Zaragoza, es un templo que mezcla estilos gótico, mudéjar, renacentista y barroco, resultado de siglos de reformas. Su fachada lateral de ladrillo y cerámica mudéjar es una de las más bellas de Aragón, y forma parte del conjunto Patrimonio Mundial del mudéjar aragonés."
+        - "El interior destaca por su retablo mayor, de alabastro, el coro, la capilla de San Bernardo y la Parroquieta, una capilla mudéjar. El Museo de Tapices, uno de los más importantes de Europa, reúne piezas flamencas y góticas de gran valor. Bajo la plaza se ven además restos del foro romano de Caesaraugusta."
+        - "Es un lugar de culto, así que respeta el silencio y la vestimenta. Prevé una hora y media de visita y combina con la basílica del Pilar, a pocos metros. Consulta siempre la web oficial para horarios, entradas y condiciones de acceso, que cambian."
+      faq:
+        - p: "¿Qué es La Seo?"
+          r: "La catedral del Salvador de Zaragoza, con estilos gótico, mudéjar, renacentista y barroco."
+        - p: "¿Qué ver?"
+          r: "El retablo mayor, la Parroquieta, el Museo de Tapices y la fachada mudéjar."
+        - p: "¿Qué es el Museo de Tapices?"
+          r: "Un museo con una excelente colección de tapices flamencos y góticos, dentro de la catedral."
+        - p: "¿Es Patrimonio Mundial?"
+          r: "Sí, forma parte del conjunto de arquitectura mudéjar de Aragón."
+        - p: "¿Cuánto tiempo se necesita?"
+          r: "Alrededor de una hora y media."
+lonja-zaragoza:
+  relacionados: [basilica-nuestra-senora-pilar, la-seo-catedral-san-salvador, museo-foro-caesaraugusta]
+  contenido:
+    es:
+      texto:
+        - "La Lonja de Zaragoza es un edificio renacentista del siglo XVI construido para las transacciones comerciales de la ciudad. Es uno de los mejores ejemplos del Renacimiento aragonés y se encuentra en la plaza del Pilar, junto al Ebro."
+        - "Destaca su gran sala, de tres naves separadas por columnas muy esbeltas y un techo de bóvedas decoradas. Hoy se utiliza como sala de exposiciones del Ayuntamiento, con muestras temporales de arte y fotografía, normalmente de acceso gratuito."
+        - "Es una parada corta y gratuita en la mayoría de los casos, de unos 20 o 30 minutos, ideal para combinar con la basílica y La Seo. Consulta la programación de exposiciones y los horarios. Consulta siempre la web oficial para horarios, entradas y condiciones de acceso, que cambian."
+      faq:
+        - p: "¿Qué es la Lonja?"
+          r: "Un edificio renacentista del siglo XVI, construido para el comercio, que hoy es sala de exposiciones."
+        - p: "¿Es gratis?"
+          r: "Las exposiciones suelen ser de acceso gratuito, pero conviene consultar la programación."
+        - p: "¿Cuánto tiempo se necesita?"
+          r: "Unos 20-30 minutos."
+        - p: "¿Dónde está?"
+          r: "En la plaza del Pilar, junto a la basílica y La Seo."
+        - p: "¿Qué ver?"
+          r: "La gran sala de columnas y bóvedas, además de la exposición temporal."
+museo-foro-caesaraugusta:
+  relacionados: [la-seo-catedral-san-salvador, lonja-zaragoza, basilica-nuestra-senora-pilar]
+  contenido:
+    es:
+      texto:
+        - "El Museo del Foro de Caesaraugusta permite pasear por los restos del foro de la antigua ciudad romana de Caesaraugusta, bajo la plaza de la Seo, en pleno centro de Zaragoza. Forma parte de la Ruta de Caesaraugusta, que reúne cuatro espacios romanos de la ciudad."
+        - "La visita recorre las ruinas de las tiendas, las calles y el sistema de cloacas del foro, con paneles, maquetas y audiovisuales que explican cómo se vivía en la ciudad hace casi dos mil años. Es una forma original de descubrir la Zaragoza romana bajo la actual."
+        - "Prevé unos 45 minutos de visita, que se combinan bien con la catedral de La Seo y el resto de la Ruta de Caesaraugusta, formada por el museo del Teatro, el del Puerto Fluvial y el de las Termas Públicas. Consulta siempre la web oficial para horarios, entradas y condiciones de acceso, que cambian."
+      faq:
+        - p: "¿Qué es el Museo del Foro de Caesaraugusta?"
+          r: "Un museo bajo la plaza de la Seo con los restos del foro de la antigua Caesaraugusta."
+        - p: "¿Qué es la Ruta de Caesaraugusta?"
+          r: "Un recorrido que reúne cuatro espacios romanos de Zaragoza: el Foro, el Teatro, el Puerto Fluvial y las Termas Públicas."
+        - p: "¿Cuánto tiempo se necesita?"
+          r: "Unos 45 minutos."
+        - p: "¿Dónde está?"
+          r: "Bajo la plaza de la Seo, en el centro de Zaragoza."
+        - p: "¿Es buen plan con niños?"
+          r: "Sí, los audiovisuales y las maquetas ayudan a entenderlo."
+instituto-aragones-arte-cultura-contemporaneos-pablo-serrano:
+  relacionados: [puente-tercer-milenio, parque-metropolitano-agua-luis-bunuel, museo-foro-caesaraugusta]
+  contenido:
+    es:
+      texto:
+        - "El Instituto Aragonés de Arte y Cultura Contemporáneos Pablo Serrano, conocido como IAACC, es un museo de arte contemporáneo de Zaragoza que lleva el nombre del escultor aragonés. Reúne obras de Pablo Serrano y de otros artistas del siglo XX y del XXI, con especial atención al arte aragonés y español."
+        - "La colección permanente se completa con exposiciones temporales, actividades educativas y talleres para todos los públicos. Es un espacio ideal para conocer cómo se ha desarrollado el arte contemporáneo en Aragón, con una programación activa."
+        - "Prevé una hora de visita y consulta la programación de exposiciones, porque suelen ser el principal atractivo. Consulta siempre la web oficial para horarios, entradas y condiciones de acceso, que cambian."
+      faq:
+        - p: "¿Qué es el IAACC Pablo Serrano?"
+          r: "Un museo de arte contemporáneo en Zaragoza, dedicado al escultor aragonés Pablo Serrano y al arte actual."
+        - p: "¿Qué hay en el museo?"
+          r: "Obras de Pablo Serrano y de otros artistas contemporáneos, además de exposiciones temporales."
+        - p: "¿Cuánto tiempo se necesita?"
+          r: "Alrededor de una hora."
+        - p: "¿Hay actividades para niños?"
+          r: "Suele haber talleres y actividades educativas. Consulta la programación."
+        - p: "¿Es gratis?"
+          r: "Consulta las condiciones de entrada en la web oficial."
+puente-tercer-milenio:
+  relacionados: [parque-metropolitano-agua-luis-bunuel, basilica-nuestra-senora-pilar, palacio-aljaferia]
+  contenido:
+    es:
+      texto:
+        - "El Puente del Tercer Milenio es un gran puente de arco sobre el Ebro, construido para la Exposición Internacional de 2008. Es uno de los más grandes de Europa en su tipo y destaca por su estructura de arco de acero y por su diseño moderno, que lo convierte en un icono de la Zaragoza contemporánea."
+        - "Es un puente de uso vial y peatonal, con un paso para personas que permite cruzar el río y ver el arco de cerca. Se encuentra junto al recinto de la Expo 2008 y al parque del Agua, y su silueta se ve bien desde las orillas del Ebro, sobre todo al atardecer, cuando se ilumina."
+        - "Es una parada corta, de unos 20 o 30 minutos, que se combina con el parque del Agua y la torre del Agua. Lleva calzado cómodo y evita las horas de más calor en verano. Consulta siempre la web oficial para horarios, entradas y condiciones de acceso, que cambian."
+      faq:
+        - p: "¿Qué es el Puente del Tercer Milenio?"
+          r: "Un gran puente de arco sobre el Ebro, construido para la Expo de 2008."
+        - p: "¿Se puede cruzar a pie?"
+          r: "Sí, tiene un paso peatonal. Consulta las condiciones de acceso."
+        - p: "¿Cuándo es mejor ir?"
+          r: "Al atardecer, cuando el puente se ilumina y hace menos calor."
+        - p: "¿Qué hay cerca?"
+          r: "El parque Metropolitano del Agua y el recinto de la Expo 2008."
+        - p: "¿Cuánto tiempo se necesita?"
+          r: "Unos 20-30 minutos."
+parque-metropolitano-agua-luis-bunuel:
+  relacionados: [puente-tercer-milenio, instituto-aragones-arte-cultura-contemporaneos-pablo-serrano, monasterio-piedra]
+  contenido:
+    es:
+      texto:
+        - "El Parque Metropolitano del Agua Luis Buñuel es un gran espacio verde junto al Ebro, creado para la Exposición Internacional de 2008, dedicada al agua y al desarrollo sostenible. Es uno de los parques más grandes de Zaragoza y un lugar perfecto para pasear, hacer deporte y disfrutar de la naturaleza."
+        - "Reúne jardines, lagunas, zonas de ocio y canales con deportes de aguas bravas, y cerca están algunas construcciones de la Expo, como la Torre del Agua y el Acuario Fluvial. Se puede recorrer a pie o en bicicleta, y tiene áreas de juegos, zonas de pícnic y espacios para actividades al aire libre."
+        - "Es un buen plan para un día de buen tiempo, sobre todo en primavera y otoño. Lleva agua y protección solar en verano, y consulta las actividades de aguas bravas y el acuario antes de ir. Consulta siempre la web oficial para horarios, entradas y condiciones de acceso, que cambian."
+      faq:
+        - p: "¿Qué es el Parque del Agua?"
+          r: "Un gran parque junto al Ebro, creado para la Expo de 2008, con jardines, lagunas y zonas de ocio."
+        - p: "¿Es gratis?"
+          r: "El acceso al parque es libre, aunque algunas actividades, como el acuario o las aguas bravas, son de pago."
+        - p: "¿Qué actividades hay?"
+          r: "Paseos, bici, zonas de juegos, pícnic y deportes de aguas bravas en los canales."
+        - p: "¿Qué hay cerca?"
+          r: "La Torre del Agua, el Acuario Fluvial y el Puente del Tercer Milenio."
+        - p: "¿Es buen plan con niños?"
+          r: "Sí, hay áreas de juegos y mucho espacio para correr."
+iglesia-santa-engracia:
+  relacionados: [iglesia-san-pablo-zaragoza, basilica-nuestra-senora-pilar, la-seo-catedral-san-salvador]
+  contenido:
+    es:
+      texto:
+        - "La Basílica de Santa Engracia es uno de los templos más antiguos y venerados de Zaragoza, dedicado a la santa mártir que es patrona de la ciudad. Se levanta sobre el lugar donde, según la tradición, se enterró a los mártires de Caesaraugusta."
+        - "Su portada renacentista del siglo XVI, obra de Gil Morlanes y Tudelilla, es una de las joyas del plateresco aragonés. En la cripta se conserva el sarcófago paleocristiano y, en el interior, el retablo y varias capillas que muestran la riqueza artística de la basílica."
+        - "Es un lugar de culto, así que respeta el silencio y la vestimenta adecuada. Prevé media hora o una hora de visita. Consulta los horarios de apertura, que cambian según el culto. Consulta siempre la web oficial para horarios, entradas y condiciones de acceso, que cambian."
+      faq:
+        - p: "¿Quién fue santa Engracia?"
+          r: "Una mártir de Caesaraugusta, patrona de Zaragoza, cuyo culto se remonta a época paleocristiana."
+        - p: "¿Qué ver en la basílica?"
+          r: "La portada plateresca, la cripta con el sarcófago paleocristiano y el interior con sus capillas."
+        - p: "¿Cuánto tiempo se necesita?"
+          r: "Entre media hora y una hora."
+        - p: "¿Es gratis?"
+          r: "La entrada a la iglesia es normalmente libre. Consulta siempre la web oficial para horarios, entradas y condiciones de acceso, que cambian."
+        - p: "¿Qué ropa llevar?"
+          r: "Ropa discreta, por respeto al carácter religioso del edificio."
+iglesia-san-pablo-zaragoza:
+  relacionados: [iglesia-santa-engracia, palacio-aljaferia, la-seo-catedral-san-salvador]
+  contenido:
+    es:
+      texto:
+        - "La Iglesia de San Pablo es una de las más singulares de Zaragoza y el corazón del barrio de San Pablo, también conocido como el Gancho, uno de los más tradicionales de la ciudad. Su torre mudéjar, de ladrillo decorado, es una de las más hermosas de Aragón."
+        - "El templo combina elementos gótico-mudéjares con un interior de grandes dimensiones, donde destaca el retablo mayor, una obra renacentista en alabastro de gran valor. El barrio que lo rodea ha ido renovándose y hoy mezcla comercios tradicionales, bares de tapas y espacios culturales."
+        - "Es una parada corta, que se combina bien con un paseo por el barrio y una comida de tapas por las calles cercanas. Consulta los horarios de apertura, porque la iglesia cierra durante el culto. Consulta siempre la web oficial para horarios, entradas y condiciones de acceso, que cambian."
+      faq:
+        - p: "¿Qué es la iglesia de San Pablo?"
+          r: "Una iglesia gótico-mudéjar del barrio de San Pablo, con una torre de ladrillo decorado y un retablo mayor renacentista."
+        - p: "¿Qué ver?"
+          r: "La torre mudéjar, el retablo mayor y el ambiente del barrio."
+        - p: "¿Cuánto tiempo se necesita?"
+          r: "Unos 30-45 minutos."
+        - p: "¿Qué hay cerca?"
+          r: "Calles con tapas y bares tradicionales, y el casco histórico de Zaragoza."
+        - p: "¿Es gratis?"
+          r: "La entrada suele ser libre, pero consulta los horarios. Consulta siempre la web oficial para horarios, entradas y condiciones de acceso, que cambian."
