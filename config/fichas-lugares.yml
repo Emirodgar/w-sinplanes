@@ -1822,3 +1822,216 @@ fuerte-guadalupe:
           r: "Calzado de montaña, abrigo y agua. El tiempo en Jaizkibel cambia rápido."
         - p: "¿Qué más hacer cerca?"
           r: "Pasear por el casco histórico de Hondarribia y hacer rutas por Jaizkibel."
+catedral-santiago-compostela:
+  relacionados: [museo-catedral-santiago-compostela, hostal-reyes-catolicos, palacio-raxoi, fiesta-santiago-apostol]
+  contenido:
+    es:
+      texto:
+        - "La Catedral de Santiago de Compostela es la meta del Camino de Santiago y uno de los grandes templos de la cristiandad. Guarda, según la tradición, los restos del apóstol Santiago y es el centro de una ciudad Patrimonio de la Humanidad, a la que llegan peregrinos de todo el mundo."
+        - "El edificio es sobre todo románico, con añadidos góticos, renacentistas y barrocos, como la gran fachada del Obradoiro. Lo más valioso es el Pórtico de la Gloria, una obra maestra del maestro Mateo del siglo XII, y la cripta con el sepulcro del apóstol. Tradicionalmente los peregrinos abrazan la imagen de Santiago y visitan la tumba. El botafumeiro, el gran incensario, se utiliza en determinadas celebraciones."
+        - "La Misa del Peregrino se celebra a mediodía y suele llenarse, así que llega con tiempo. La plaza del Obradoiro, delante de la fachada, es el lugar donde terminan muchos peregrinos su viaje. Consulta el horario de visitas, de las cubiertas y de las celebraciones en las que se usa el botafumeiro. Consulta siempre la web oficial para horarios, entradas y condiciones de acceso, que cambian."
+      faq:
+        - p: "¿Qué es la Catedral de Santiago?"
+          r: "El gran templo de Santiago de Compostela, meta del Camino de Santiago, donde según la tradición descansa el apóstol."
+        - p: "¿Qué es el Pórtico de la Gloria?"
+          r: "Una obra maestra de la escultura románica del maestro Mateo, del siglo XII, situada a la entrada de la catedral."
+        - p: "¿Qué es el botafumeiro?"
+          r: "Un gran incensario que se balancea por el crucero en determinadas celebraciones. Consulta las fechas en la web oficial."
+        - p: "¿Cuándo es la Misa del Peregrino?"
+          r: "Se celebra a mediodía, normalmente. Llega con antelación porque se llena. Consulta siempre la web oficial para horarios, entradas y condiciones de acceso, que cambian."
+        - p: "¿Se puede subir a las cubiertas?"
+          r: "Sí, hay visitas a las cubiertas con reserva. Consulta las condiciones."
+        - p: "¿Es Patrimonio Mundial?"
+          r: "Sí, la ciudad vieja de Santiago de Compostela y el Camino de Santiago están declarados Patrimonio Mundial."
+museo-catedral-santiago-compostela:
+  relacionados: [catedral-santiago-compostela, monasterio-san-martin-pinario, hostal-reyes-catolicos]
+  contenido:
+    es:
+      texto:
+        - "El Museo de la Catedral de Santiago de Compostela recorre la historia del templo y de la peregrinación a través de sus colecciones y de espacios que no se ven en la visita a la catedral. Se visita por la cripta, el claustro, la sala capitular y otras estancias."
+        - "El recorrido incluye elementos de la antigua catedral románica, la cripta bajo el Pórtico de la Gloria, la biblioteca, el tesoro con piezas de orfebrería, y una colección de tapices flamencos. También permite ver la catedral desde lugares singulares y entender mejor su historia y su arquitectura."
+        - "Prevé entre una y dos horas de visita, y combínalo con la catedral y las visitas a las cubiertas. Consulta si hay entradas conjuntas y los horarios. Consulta siempre la web oficial para horarios, entradas y condiciones de acceso, que cambian."
+      faq:
+        - p: "¿Qué se ve en el museo?"
+          r: "La cripta, el claustro, la biblioteca, el tesoro y los tapices, entre otros espacios y colecciones."
+        - p: "¿Cuánto tiempo se necesita?"
+          r: "Entre una y dos horas."
+        - p: "¿Se puede combinar con la catedral?"
+          r: "Sí, existen entradas combinadas para el museo y otras visitas. Consulta las opciones."
+        - p: "¿Hay que reservar?"
+          r: "Se recomienda reservar en temporada alta."
+        - p: "¿Dónde está?"
+          r: "En la propia catedral, con acceso por la plaza del Obradoiro."
+hostal-reyes-catolicos:
+  relacionados: [catedral-santiago-compostela, palacio-raxoi, monasterio-san-martin-pinario]
+  contenido:
+    es:
+      texto:
+        - "El Hostal de los Reyes Católicos es un gran edificio plateresco situado en la plaza del Obradoiro, junto a la catedral. Fundado en 1499 por los Reyes Católicos como hospital para los peregrinos, hoy es un parador y se le considera uno de los hoteles más antiguos del mundo."
+        - "Destacan su espectacular portada plateresca, con relieves y esculturas, y sus cuatro claustros renacentistas con fuentes y arcadas. En el interior hay una capilla, salones y una galería con exposición. Aunque sea un hotel, partes del edificio se pueden visitar."
+        - "Consulta las condiciones de visita, ya que algunas zonas están reservadas a huéspedes. Una opción es comer o tomar algo en su restaurante o cafetería, y ver los claustros. Consulta siempre la web oficial para horarios, entradas y condiciones de acceso, que cambian."
+      faq:
+        - p: "¿Qué es el Hostal de los Reyes Católicos?"
+          r: "Un edificio plateresco de 1499, creado como hospital de peregrinos y hoy parador, junto a la catedral de Santiago."
+        - p: "¿Se puede visitar?"
+          r: "Algunas zonas, como los claustros, sí. Consulta las condiciones."
+        - p: "¿Qué ver?"
+          r: "La portada plateresca, los claustros y la capilla."
+        - p: "¿Es el hotel más antiguo del mundo?"
+          r: "Se le considera uno de los más antiguos, por funcionar como alojamiento de peregrinos desde el siglo XV."
+        - p: "¿Dónde está?"
+          r: "En la plaza del Obradoiro, junto a la catedral."
+palacio-raxoi:
+  relacionados: [catedral-santiago-compostela, hostal-reyes-catolicos, monasterio-san-martin-pinario]
+  contenido:
+    es:
+      texto:
+        - "El Palacio de Raxoi es un edificio neoclásico del siglo XVIII que cierra la plaza del Obradoiro por el lado opuesto a la catedral. Fue construido entre 1766 y 1772 como colegio y seminario, y hoy es sede del Ayuntamiento de Santiago de Compostela."
+        - "Su fachada, de gran sobriedad, contrasta con el barroco de la catedral y completa con ella, con el Hostal de los Reyes Católicos y con el Colegio de San Jerónimo, uno de los conjuntos urbanos más famosos de España. Destaca el pórtico de entrada y el relieve de la Batalla de Clavijo."
+        - "Se puede visitar con visitas guiadas en determinados horarios, normalmente gratuitas. Consulta las condiciones antes de ir. La plaza del Obradoiro es el lugar donde muchos peregrinos terminan el Camino. Consulta siempre la web oficial para horarios, entradas y condiciones de acceso, que cambian."
+      faq:
+        - p: "¿Qué es el Palacio de Raxoi?"
+          r: "Un edificio neoclásico del siglo XVIII en la plaza del Obradoiro, hoy sede del Ayuntamiento de Santiago."
+        - p: "¿Se puede visitar?"
+          r: "Sí, con visitas guiadas en determinados horarios. Consulta las condiciones."
+        - p: "¿Qué ver?"
+          r: "La fachada neoclásica, el pórtico y el relieve de la Batalla de Clavijo."
+        - p: "¿Dónde está?"
+          r: "En la plaza del Obradoiro, enfrente de la catedral."
+        - p: "¿Quién lo construyó?"
+          r: "Se construyó entre 1766 y 1772, por impulso del arzobispo Rajoy."
+monasterio-san-martin-pinario:
+  relacionados: [catedral-santiago-compostela, museo-catedral-santiago-compostela, hostal-reyes-catolicos]
+  contenido:
+    es:
+      texto:
+        - "El Monasterio de San Martín Pinario es un enorme conjunto benedictino situado detrás de la catedral de Santiago, uno de los más grandes de España. Su imponente fachada barroca y su gran iglesia dominan la plaza de la Inmaculada y son una de las imágenes más características de la ciudad."
+        - "La iglesia, de una gran riqueza decorativa, conserva un retablo mayor barroco y un coro impresionante. El monasterio tiene además claustros, una sacristía y un museo con piezas de arte sacro. Una parte del edificio funciona hoy como hospedería, y otras están dedicadas a actividades culturales."
+        - "Es una visita tranquila, de una hora aproximadamente, que se combina bien con la catedral y el casco histórico. Consulta los horarios de apertura, porque algunas zonas se cierran por actividades. Consulta siempre la web oficial para horarios, entradas y condiciones de acceso, que cambian."
+      faq:
+        - p: "¿Qué es San Martín Pinario?"
+          r: "Un gran monasterio benedictino junto a la catedral de Santiago, con una iglesia barroca y claustros."
+        - p: "¿Qué ver?"
+          r: "La iglesia con su retablo, los claustros, la sacristía y el museo."
+        - p: "¿Cuánto tiempo se necesita?"
+          r: "Alrededor de una hora."
+        - p: "¿Se puede dormir en él?"
+          r: "Una parte funciona como hospedería. Consulta las condiciones en su web."
+        - p: "¿Dónde está?"
+          r: "Detrás de la catedral, en la plaza de la Inmaculada, en el casco histórico de Santiago."
+cidade-cultura-santiago:
+  relacionados: [catedral-santiago-compostela, centro-gallego-arte-contemporaneo-cgac, museo-pueblo-gallego]
+  contenido:
+    es:
+      texto:
+        - "La Cidade da Cultura de Galicia es un gran complejo cultural situado en el monte Gaiás, a las afueras de Santiago de Compostela. Diseñada por el arquitecto Peter Eisenman, es un conjunto de edificios que se funden con el paisaje y que acoge exposiciones, un archivo, una biblioteca y un auditorio."
+        - "Sus edificios, de formas geométricas y fachadas de piedra, se adaptan a la ladera. Se puede pasear por la plaza central, ver el conjunto y disfrutar de las vistas de Santiago y del entorno. En el interior hay exposiciones y espacios dedicados a la cultura y al patrimonio gallego."
+        - "Se llega en coche o en el autobús urbano desde el centro de Santiago. Consulta la programación y los horarios de los edificios y de las exposiciones. El entorno ofrece caminos para pasear con vistas panorámicas. Consulta siempre la web oficial para horarios, entradas y condiciones de acceso, que cambian."
+      faq:
+        - p: "¿Qué es la Cidade da Cultura?"
+          r: "Un complejo cultural en el monte Gaiás, en Santiago de Compostela, diseñado por Peter Eisenman."
+        - p: "¿Qué hay dentro?"
+          r: "Exposiciones, un archivo, una biblioteca y espacios culturales. Consulta la programación."
+        - p: "¿Cómo llegar?"
+          r: "En coche o en autobús urbano desde el centro de Santiago."
+        - p: "¿Hay buenas vistas?"
+          r: "Sí, desde el monte Gaiás hay vistas panorámicas de Santiago y del entorno."
+        - p: "¿Es gratis?"
+          r: "Se puede pasear por el exterior gratis. El acceso a las exposiciones depende de cada caso. Consulta siempre la web oficial para horarios, entradas y condiciones de acceso, que cambian."
+centro-gallego-arte-contemporaneo-cgac:
+  relacionados: [museo-pueblo-gallego, cidade-cultura-santiago, catedral-santiago-compostela]
+  contenido:
+    es:
+      texto:
+        - "El CGAC, Centro Gallego de Arte Contemporáneo, es el gran museo de arte contemporáneo de Galicia. Está en un edificio diseñado por el arquitecto portugués Álvaro Siza e inaugurado en 1993, un volumen de granito de líneas puras que dialoga con el casco histórico de Santiago."
+        - "El museo organiza exposiciones temporales de arte contemporáneo de artistas gallegos, españoles e internacionales, además de actividades y talleres. La arquitectura de Siza es parte de la visita: sus espacios, luz natural y rampas hacen de la visita una experiencia muy particular."
+        - "Está junto al Convento de Santo Domingo de Bonaval y al Museo del Pueblo Gallego, por lo que se combinan bien. Prevé una hora de visita y consulta la programación de exposiciones. Consulta siempre la web oficial para horarios, entradas y condiciones de acceso, que cambian."
+      faq:
+        - p: "¿Qué es el CGAC?"
+          r: "El Centro Gallego de Arte Contemporáneo, en un edificio de Álvaro Siza inaugurado en 1993."
+        - p: "¿Qué se puede ver?"
+          r: "Exposiciones temporales de arte contemporáneo. Consulta la programación."
+        - p: "¿Cuánto tiempo se necesita?"
+          r: "Alrededor de una hora."
+        - p: "¿Qué hay cerca?"
+          r: "El Museo del Pueblo Gallego y el parque de Bonaval."
+        - p: "¿Es gratis?"
+          r: "El museo suele ofrecer condiciones especiales de entrada. Consulta siempre la web oficial para horarios, entradas y condiciones de acceso, que cambian."
+museo-pueblo-gallego:
+  relacionados: [centro-gallego-arte-contemporaneo-cgac, catedral-santiago-compostela, cidade-cultura-santiago]
+  contenido:
+    es:
+      texto:
+        - "El Museo del Pueblo Gallego está instalado en el antiguo convento de Santo Domingo de Bonaval, en Santiago de Compostela, y es el gran museo etnográfico de Galicia. Muestra cómo era la vida tradicional gallega, con colecciones de trajes, aperos, cerámica, orfebrería y arte popular."
+        - "Una de sus joyas es la escalera triple helicoidal, una obra barroca única, con tres escaleras de caracol independientes que se entrelazan sin tocarse. El museo incluye también la iglesia del convento, que alberga el Panteón de Gallegos Ilustres, con las tumbas de Rosalía de Castro y otros personajes."
+        - "Prevé una hora y media de visita, y combínalo con el CGAC y el parque de Bonaval, junto a él. Consulta los horarios y si hay entrada gratuita en algunos días. Consulta siempre la web oficial para horarios, entradas y condiciones de acceso, que cambian."
+      faq:
+        - p: "¿Qué es el Museo del Pueblo Gallego?"
+          r: "Un museo etnográfico en el antiguo convento de Santo Domingo de Bonaval, en Santiago de Compostela."
+        - p: "¿Qué es la escalera triple?"
+          r: "Una escalera barroca con tres escaleras de caracol independientes, una de las joyas del convento."
+        - p: "¿Qué es el Panteón de Gallegos Ilustres?"
+          r: "El panteón de la iglesia del convento, con las tumbas de Rosalía de Castro y de otras figuras de Galicia."
+        - p: "¿Cuánto tiempo se necesita?"
+          r: "Alrededor de una hora y media."
+        - p: "¿Qué hay cerca?"
+          r: "El CGAC y el parque de Bonaval."
+muralla-lugo:
+  relacionados: [catedral-santiago-compostela, puente-mayor-ourense, pazo-oca]
+  contenido:
+    es:
+      texto:
+        - "La Muralla Romana de Lugo es el único recinto amurallado romano del mundo que se conserva completo, y es Patrimonio de la Humanidad desde el año 2000. Se construyó a finales del siglo III y rodea el casco histórico de Lugo con un perímetro de unos dos kilómetros."
+        - "Lo más especial es que se puede pasear por la parte alta de la muralla, que tiene diez puertas, entre ellas la de Santiago y la de Miñá. Desde arriba se ven los tejados de la ciudad vieja y la catedral. El paseo completo es de unos dos kilómetros y se hace en menos de una hora."
+        - "Es un plan sencillo y gratuito, ideal para hacer con calma a primera hora o al atardecer. Aprovecha para tapear en el casco histórico, con productos como el pulpo y el cocido. En junio se celebra Arde Lucus, una gran fiesta que recrea la Lucus Augusti romana. Consulta siempre la web oficial para horarios, entradas y condiciones de acceso, que cambian."
+      faq:
+        - p: "¿Qué es la Muralla Romana de Lugo?"
+          r: "El único recinto amurallado romano del mundo conservado en su totalidad, del siglo III y Patrimonio Mundial."
+        - p: "¿Se puede pasear por la muralla?"
+          r: "Sí, por el adarve, es un paseo de unos dos kilómetros y de acceso libre."
+        - p: "¿Cuánto tiempo se necesita?"
+          r: "Menos de una hora para el paseo completo, más si te paras a ver las puertas."
+        - p: "¿Cuántas puertas tiene?"
+          r: "Diez, entre las originales y las abiertas con el tiempo."
+        - p: "¿Qué es Arde Lucus?"
+          r: "Una fiesta de recreación histórica romana que se celebra en Lugo en junio. Consulta las fechas cada año."
+        - p: "¿Es gratis?"
+          r: "Sí, el acceso a la muralla es libre."
+puente-mayor-ourense:
+  relacionados: [muralla-lugo, catedral-santiago-compostela, pazo-oca]
+  contenido:
+    es:
+      texto:
+        - "El Puente Mayor de Ourense, también conocido como Puente Romano o Puente Vello, es el gran símbolo de la ciudad. Es un puente sobre el río Miño de origen romano, reconstruido en la Edad Media y en siglos posteriores,."
+        - "Tiene una gran arcada central muy alta, de más de 40 metros, y una calzada en cuesta muy marcada. Hoy es peatonal y se puede cruzar a pie para ver la ciudad y el río, y a un lado quedan las orillas con paseos fluviales y termas."
+        - "Ourense es famosa por sus aguas termales, y junto al puente hay termas al aire libre, como las de Outariz y Burgas, algunas de acceso gratuito. Lleva bañador y toalla si te apetece un baño termal. Consulta siempre la web oficial para horarios, entradas y condiciones de acceso, que cambian."
+      faq:
+        - p: "¿Qué es el Puente Mayor de Ourense?"
+          r: "El gran puente medieval sobre el Miño, de origen romano, símbolo de la ciudad."
+        - p: "¿Se puede cruzar a pie?"
+          r: "Sí, es peatonal."
+        - p: "¿Qué más ver cerca?"
+          r: "As Burgas, las fuentes termales del centro, y las termas del Miño."
+        - p: "¿Hay termas gratis?"
+          r: "Sí, en Ourense hay zonas termales de acceso libre, aunque algunas son de pago. Consulta las condiciones."
+        - p: "¿Cuánto tiempo se necesita?"
+          r: "Alrededor de media hora para cruzar el puente y ver el entorno."
+pazo-oca:
+  relacionados: [muralla-lugo, catedral-santiago-compostela, fiesta-marisco]
+  contenido:
+    es:
+      texto:
+        - "El Pazo de Oca es uno de los pazos más famosos de Galicia y se conoce como el Versalles gallego por sus jardines. Está en el municipio de A Estrada, en Pontevedra, y es un ejemplo del esplendor de las casas señoriales gallegas, con una casa principal, una capilla y unos jardines de ensueño."
+        - "Sus jardines, de estilo barroco, tienen estanques, fuentes, caminos entre árboles centenarios y un famoso estanque con una barca de piedra, rodeado de camelias, hortensias y plantas de sombra. Es un lugar de gran tranquilidad, especialmente bonito en primavera y otoño."
+        - "Es una excursión de media jornada, que se puede combinar con otros pazos de la zona y con una comida de cocina gallega. Consulta los horarios, que varían según la época, y si necesitas reservar la visita. Consulta siempre la web oficial para horarios, entradas y condiciones de acceso, que cambian."
+      faq:
+        - p: "¿Qué es el Pazo de Oca?"
+          r: "Una casa señorial gallega en A Estrada (Pontevedra), famosa por sus jardines barrocos."
+        - p: "¿Por qué se llama el Versalles gallego?"
+          r: "Por la belleza y la grandiosidad de sus jardines, con estanques y fuentes."
+        - p: "¿Qué ver?"
+          r: "Los jardines, el estanque con la barca de piedra, la capilla y la casa."
+        - p: "¿Cuándo es mejor ir?"
+          r: "En primavera y otoño, cuando el jardín está más florido o con más color."
+        - p: "¿Es gratis?"
+          r: "La visita a los jardines suele ser de pago. Consulta siempre la web oficial para horarios, entradas y condiciones de acceso, que cambian."
