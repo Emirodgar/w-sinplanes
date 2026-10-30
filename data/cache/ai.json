@@ -14378,5 +14378,1634 @@
    "cultura"
   ],
   "a_cubierto": true
+ },
+ "47fde0a386": {
+  "id": "f2b17c96c8",
+  "es": {
+   "titulo": "Malabares y Juegos de Mesa en Familia",
+   "resumen": "Disfruta de una tarde de actividades circenses y juegos de mesa para toda la familia. A partir de 8 años para malabares y 12 para juegos de mesa. Entrada libre hasta completar aforo."
+  },
+  "en": {
+   "titulo": "Family Juggling and Board Games",
+   "resumen": "Enjoy an afternoon of circus activities and board games for the whole family. Juggling is for ages 8+ and board games for 12+. Free entry until capacity is reached."
+  },
+  "temas": [
+   "actividades",
+   "ninos"
+  ],
+  "a_cubierto": true
+ },
+ "d642ae1951": {
+  "id": "6e53e8bd4e",
+  "es": {
+   "titulo": "Actividades Mensuales para Mayores",
+   "resumen": "Descubre las actividades mensuales organizadas para los centros de mayores del distrito de Fuencarral - El Pardo."
+  },
+  "en": {
+   "titulo": "Monthly Activities for Seniors",
+   "resumen": "Discover the monthly activities organized for the senior centers in the Fuencarral - El Pardo district."
+  },
+  "temas": [
+   "actividades"
+  ],
+  "a_cubierto": null
+ },
+ "aed2eb8041": {
+  "id": "81034a4870",
+  "es": {
+   "titulo": "Alberto Cortés: El corazón de Ester",
+   "resumen": "Una propuesta en el Centro de Cultura Contemporánea CondeDuque."
+  },
+  "en": {
+   "titulo": "Alberto Cortés: The Heart of Ester",
+   "resumen": "A presentation at the CondeDuque Center for Contemporary Culture."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "104ec1a8c9": {
+  "id": "1d91623c40",
+  "es": {
+   "titulo": "Chas, y de repente tú",
+   "resumen": "Una comedia sobre relaciones, azar y decisiones personales que surge de un encuentro inesperado entre dos viajeros. Apta para todos los públicos."
+  },
+  "en": {
+   "titulo": "Chas, and Suddenly You",
+   "resumen": "A comedy about relationships, chance, and personal decisions arising from an unexpected encounter between two travelers. Suitable for all audiences."
+  },
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": true
+ },
+ "a152d15cf9": {
+  "id": "407534babf",
+  "es": {
+   "titulo": "Magia Familiar: Ciclo Respirando Arte",
+   "resumen": "Un espectáculo de magia e ilusionismo participativo para toda la familia, con sorpresas y mucha diversión. Recomendado a partir de 5 años."
+  },
+  "en": {
+   "titulo": "Family Magic: Breathing Art Cycle",
+   "resumen": "An interactive magic and illusion show for the whole family, full of surprises and fun. Recommended for ages 5 and up."
+  },
+  "temas": [
+   "ninos",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "a1f15352c3": {
+  "id": "a472233ce5",
+  "es": {
+   "titulo": "Ciclo 'Comprender el Antiguo Egipto': ¿Qué sabemos?",
+   "resumen": "Explora tus conocimientos sobre el Antiguo Egipto en esta charla en la Biblioteca Pública Municipal Eugenio Trías."
+  },
+  "en": {
+   "titulo": "Cycle 'Understanding Ancient Egypt': What Do We Know?",
+   "resumen": "Explore your knowledge of Ancient Egypt in this talk at the Eugenio Trías Municipal Public Library."
+  },
+  "temas": [
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": true
+ },
+ "9b0a9ae0af": {
+  "id": "8f17bcf92d",
+  "es": {
+   "titulo": "Cine: 'Érase una vez en Hollywood' (1974)",
+   "resumen": "Proyección de la película 'That's Entertainment!' (1974) dentro del ciclo Antología del cine musical americano, seguida de un coloquio."
+  },
+  "en": {
+   "titulo": "Film: 'That's Entertainment!' (1974)",
+   "resumen": "Screening of the film 'That's Entertainment!' (1974) as part of the American Musical Film Anthology cycle, followed by a discussion."
+  },
+  "temas": [
+   "pantalla",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "680ba2466d": {
+  "id": "4bff17696c",
+  "es": {
+   "titulo": "Cine: 'Hollywood, Hollywood' (1976)",
+   "resumen": "Segunda parte de la antología del cine musical americano, con Fred Astaire y Gene Kelly como narradores. Incluye un coloquio posterior."
+  },
+  "en": {
+   "titulo": "Film: 'That's Entertainment, Part II' (1976)",
+   "resumen": "The second part of the American musical film anthology, narrated by Fred Astaire and Gene Kelly. Includes a post-screening discussion."
+  },
+  "temas": [
+   "pantalla",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "a0756320f6": {
+  "id": "fb2c05ea31",
+  "es": {
+   "titulo": "Circo Price en Navidad",
+   "resumen": "Disfruta de la magia del circo en el Teatro Circo Price durante la temporada navideña."
+  },
+  "en": {
+   "titulo": "Circo Price at Christmas",
+   "resumen": "Enjoy the magic of the circus at the Circo Price Theater during the Christmas season."
+  },
+  "temas": [
+   "cultura",
+   "navidad"
+  ],
+  "a_cubierto": true
+ },
+ "b18fec4254": {
+  "id": "ebbbd5c219",
+  "es": {
+   "titulo": "Cata de Vinos Generosos del Sur",
+   "resumen": "Taller formativo para iniciarse en los vinos generosos de Jerez y Manzanilla, con maridaje de tapas. Para mayores de 18 años."
+  },
+  "en": {
+   "titulo": "Tasting of Southern Fortified Wines",
+   "resumen": "A training workshop to introduce fortified wines from Jerez and Manzanilla, with tapa pairings. For ages 18 and over."
+  },
+  "temas": [
+   "gastronomia",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "84a364686b": {
+  "id": "8495b500f8",
+  "es": {
+   "titulo": "Comedias Breves de Chéjov",
+   "resumen": "Tres piezas cortas de Antón Chéjov ('Petición de mano', 'El aniversario', 'El oso') que exploran las debilidades humanas con humor. Apta para todos los públicos."
+  },
+  "en": {
+   "titulo": "Short Comedies by Chekhov",
+   "resumen": "Three short plays by Anton Chekhov ('The Proposal', 'The Anniversary', 'The Bear') humorously explore human weaknesses. Suitable for all audiences."
+  },
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": true
+ },
+ "d9759bb201": {
+  "id": "d0cbcca3e4",
+  "es": {
+   "titulo": "Concierto de la Banda de Música de la Policía Municipal",
+   "resumen": "La Banda de Música de la Policía Municipal de Madrid ofrece un concierto con marchas, música española y éxitos internacionales. Apto para todos los públicos."
+  },
+  "en": {
+   "titulo": "Concert by the Municipal Police Band",
+   "resumen": "The Madrid Municipal Police Band performs a concert featuring marches, Spanish music, and international hits. Suitable for all audiences."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "555d05347b": {
+  "id": "28bacfb133",
+  "es": {
+   "titulo": "Conferencia: Mundos Habitables e Inhóspitos de la Vía Láctea",
+   "resumen": "Explora el fascinante mundo de los exoplanetas y los desafíos de la búsqueda de vida extraterrestre en esta conferencia impartida por María Rosa Zapatero Osorio."
+  },
+  "en": {
+   "titulo": "Lecture: Habitable and Inhospitable Worlds of the Milky Way",
+   "resumen": "Explore the fascinating world of exoplanets and the challenges of searching for extraterrestrial life in this lecture by María Rosa Zapatero Osorio."
+  },
+  "temas": [
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "6e9297c019": {
+  "id": "0a659670cd",
+  "es": {
+   "titulo": "Conferencia: Ciencia, Arte e Historia entre España y México",
+   "resumen": "Descubre la historia del científico Andrés Manuel del Río y el descubrimiento del vanadio, enlazando ciencia, arte e historia entre España y México."
+  },
+  "en": {
+   "titulo": "Lecture: Science, Art, and History between Spain and Mexico",
+   "resumen": "Discover the story of scientist Andrés Manuel del Río and the discovery of vanadium, linking science, art, and history between Spain and Mexico."
+  },
+  "temas": [
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "75c38b9ffc": {
+  "id": "e0d72def3f",
+  "es": {
+   "titulo": "De quienes aprendimos: Teatro y Música",
+   "resumen": "Un emotivo viaje teatral y musical sobre la enseñanza, la huella de los maestros y el vínculo entre enseñar y aprender. Recomendado a partir de 12 años."
+  },
+  "en": {
+   "titulo": "From Whom We Learned: Theater and Music",
+   "resumen": "An emotional theatrical and musical journey about teaching, the legacy of teachers, and the bond between teaching and learning. Recommended for ages 12 and up."
+  },
+  "temas": [
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "673c591d0b": {
+  "id": "37bf3c5221",
+  "es": {
+   "titulo": "Documental: 'Casa y Cuartel - ETA contra la Benemérita'",
+   "resumen": "Proyección de un documental sobre la lucha de la Guardia Civil contra ETA, producido por la Fundación Miguel Ángel Blanco. Para mayores de 18 años."
+  },
+  "en": {
+   "titulo": "Documentary: 'Casa y Cuartel - ETA vs. the Civil Guard'",
+   "resumen": "Screening of a documentary about the Civil Guard's fight against ETA, produced by the Miguel Ángel Blanco Foundation. For ages 18 and up."
+  },
+  "temas": [
+   "pantalla",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "af568261f7": {
+  "id": "6bde837b6f",
+  "es": {
+   "titulo": "Don Carlos de Austria: Imagen de un Príncipe",
+   "resumen": "Una charla en la Biblioteca Pública Municipal Iván de Vargas sobre cómo se construía la imagen de un príncipe en la Edad Moderna."
+  },
+  "en": {
+   "titulo": "Don Carlos of Austria: Image of a Prince",
+   "resumen": "A talk at the Iván de Vargas Municipal Public Library on how a prince's image was constructed in the Modern Age."
+  },
+  "temas": [
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": true
+ },
+ "f6519bb459": {
+  "id": "ae6c34f5b5",
+  "es": {
+   "titulo": "Duets: Jazz con Natalia Baeza y Jesús Parra",
+   "resumen": "Natalia Baeza y Jesús Parra ofrecen un repertorio de jazz que incluye clásicos, blues, bossa nova y boleros con un toque jazzístico. Entrada gratuita."
+  },
+  "en": {
+   "titulo": "Duets: Jazz with Natalia Baeza and Jesús Parra",
+   "resumen": "Natalia Baeza and Jesús Parra present a jazz repertoire including classics, blues, bossa nova, and boleros with a jazzy twist. Free entry."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "2429cd645e": {
+  "id": "09bb48b205",
+  "es": {
+   "titulo": "Dúo Amapola: Canción Española",
+   "resumen": "Marina Ferrer y Carmen Vela rinden homenaje a la canción española con clásicos de copla, zarzuela, boleros y chotis. Apto para todos los públicos."
+  },
+  "en": {
+   "titulo": "Dúo Amapola: Spanish Song",
+   "resumen": "Marina Ferrer and Carmen Vela pay tribute to Spanish song with classics from copla, zarzuela, boleros, and chotis. Suitable for all audiences."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "24544a5287": {
+  "id": "28eea526a8",
+  "es": {
+   "titulo": "El arte de llegar al lector: Charla con Lorenzo Silva",
+   "resumen": "El escritor Lorenzo Silva conversa con Maica Rivera sobre el poder de la lectura, el oficio de escribir y cómo conectar con el lector. Para mayores de 16 años."
+  },
+  "en": {
+   "titulo": "The Art of Reaching the Reader: Talk with Lorenzo Silva",
+   "resumen": "Author Lorenzo Silva talks with Maica Rivera about the power of reading, the craft of writing, and how to connect with readers. For ages 16 and up."
+  },
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "e8768d6818": {
+  "id": "b351d6f00b",
+  "es": {
+   "titulo": "El mejor regalo: Música, Clown y Títeres",
+   "resumen": "Una celebración de la vida a través de la música, el clown y los títeres, pensada para que disfruten tanto niños como adultos. Para todos los públicos."
+  },
+  "en": {
+   "titulo": "The Best Gift: Music, Clown, and Puppets",
+   "resumen": "A celebration of life through music, clowning, and puppets, designed for both children and adults to enjoy. For all audiences."
+  },
+  "temas": [
+   "ninos",
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "dfa94dcba7": {
+  "id": "74c75dde14",
+  "es": {
+   "titulo": "El país donde crecían los árboles",
+   "resumen": "Un cuentacuentos interactivo para niños (4-11 años) sobre los derechos de la infancia, donde el público ayuda a revivir un bosque mágico."
+  },
+  "en": {
+   "titulo": "The Land Where Trees Grew",
+   "resumen": "An interactive storytelling session for children (ages 4-11) about children's rights, where the audience helps revive a magical forest."
+  },
+  "temas": [
+   "ninos",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "0daaf2e6fc": {
+  "id": "1aa3febcea",
+  "es": {
+   "titulo": "El pequeño país: Teatro de Historias y Canciones",
+   "resumen": "Un espectáculo teatral lleno de historias, canciones, humor y emoción sobre los habitantes jardineros de un diminuto y mágico país. Recomendado a partir de 4 años."
+  },
+  "en": {
+   "titulo": "The Little Country: Theater of Stories and Songs",
+   "resumen": "A theatrical show full of stories, songs, humor, and emotion about the gardener inhabitants of a tiny, magical country. Recommended for ages 4 and up."
+  },
+  "temas": [
+   "ninos",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "8006326af2": {
+  "id": "808350d7a3",
+  "es": {
+   "titulo": "El perro del hortelano: Comedia del Siglo de Oro",
+   "resumen": "Una divertida comedia de Lope de Vega sobre amoríos y enredos en el palacio de una condesa. Edad recomendada: a partir de 12 años."
+  },
+  "en": {
+   "titulo": "The Dog in the Manger: Golden Age Comedy",
+   "resumen": "A witty comedy by Lope de Vega about love affairs and entanglements in a countess's palace. Recommended for ages 12 and up."
+  },
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": true
+ },
+ "0b08301c9a": {
+  "id": "1c312bbfc3",
+  "es": {
+   "titulo": "El último vikingo: Cine Internacional",
+   "resumen": "Proyección de la película danesa-sueca 'El último vikingo' (2025), un viaje inesperado entre dos hermanos. No recomendada para menores de 16 años."
+  },
+  "en": {
+   "titulo": "The Last Viking: International Film",
+   "resumen": "Screening of the Danish-Swedish film 'The Last Viking' (2025), an unexpected journey between two brothers. Not recommended for under 16s."
+  },
+  "temas": [
+   "pantalla",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "7e4a54d04d": {
+  "id": "f061e38dff",
+  "es": {
+   "titulo": "El Yeyé: Despedida de un Cantaor de Flamenco",
+   "resumen": "Antonio López Olmo, conocido como 'El Yeyé', se despide de los escenarios tras 60 años de carrera. Este evento celebra su legado en la VI edición del Festival de Raíz Flamenca de San Blas, destacando su maestría en los aires gaditanos y su faceta como autor."
+  },
+  "en": {
+   "titulo": "El Yeyé: Farewell of a Flamenco Singer",
+   "resumen": "Antonio López Olmo, known as 'El Yeyé', bids farewell to the stage after 60 years in the spotlight. This event celebrates his legacy at the 6th edition of the San Blas Root Flamenco Festival, highlighting his mastery of Gaditanian styles and his songwriting."
+  },
+  "temas": [
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "4d7381c0e8": {
+  "id": "5a726c8066",
+  "es": {
+   "titulo": "Espectáculo de Pompas: Pomp Art Halloween",
+   "resumen": "La Bruja Mandarina presenta un espectáculo de circo familiar lleno de burbujas, magia y acrobacias. Disfruta de pompas de todos los tamaños, incluyendo la experiencia de estar dentro de una. Ideal para todas las edades."
+  },
+  "en": {
+   "titulo": "Bubble Show: Pomp Art Halloween",
+   "resumen": "The Witch Mandarina presents a family circus show full of bubbles, magic, and acrobatics. Enjoy bubbles of all sizes, including the experience of being inside one. Ideal for all ages."
+  },
+  "temas": [
+   "ninos",
+   "cultura",
+   "fiestas"
+  ],
+  "a_cubierto": true
+ },
+ "e461d7b81c": {
+  "id": "f19f253edc",
+  "es": {
+   "titulo": "Eternamente Flamenco: Homenaje al Día Internacional",
+   "resumen": "Celebra el Día Internacional del Flamenco con un espectáculo que fusiona baile, cante y guitarra. Una puesta en escena que honra la fuerza, emoción y riqueza de este arte universal, transmitido de generación en generación."
+  },
+  "en": {
+   "titulo": "Eternally Flamenco: International Day Tribute",
+   "resumen": "Celebrate International Flamenco Day with a show that blends dance, singing, and guitar. A performance that honors the strength, emotion, and richness of this universal art form, passed down through generations."
+  },
+  "temas": [
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "d3db17d4a4": {
+  "id": "0671e0c9de",
+  "es": {
+   "titulo": "Excursión con Pernocta a Urueña, Villa Medieval del Libro",
+   "resumen": "Viaja a Urueña, la Villa Medieval del Libro, en una excursión con pernocta. Descubre su historia, librerías y cultura literaria, disfrutando de actividades organizadas. Incluye transporte, alojamiento, cena y desayuno."
+  },
+  "en": {
+   "titulo": "Overnight Excursion to Urueña, Medieval Book Town",
+   "resumen": "Travel to Urueña, the Medieval Book Town, on an excursion with an overnight stay. Discover its history, bookstores, and literary culture, enjoying organized activities. Includes transport, accommodation, dinner, and breakfast."
+  },
+  "temas": [
+   "cultura",
+   "libros",
+   "rutas"
+  ],
+  "a_cubierto": null
+ },
+ "7cce6b8511": {
+  "id": "2725fda6cc",
+  "es": {
+   "titulo": "Exposición de Pintura: 'Entre Paisajes y Momentos'",
+   "resumen": "La exposición 'Entre Paisajes y Momentos' de Abel Garrido presenta obras figurativas que capturan la atmósfera y emoción de escenas cotidianas. Una mirada íntima y sensible a la belleza de lo ordinario."
+  },
+  "en": {
+   "titulo": "Painting Exhibition: 'Between Landscapes and Moments'",
+   "resumen": "The exhibition 'Between Landscapes and Moments' by Abel Garrido features figurative works capturing the atmosphere and emotion of everyday scenes. An intimate and sensitive look at the beauty of the ordinary."
+  },
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true
+ },
+ "2b2e70c6c1": {
+  "id": "e0f0c8fefd",
+  "es": {
+   "titulo": "Exposición III y IV Certamen de Ilustración de Prensa Museo ABC",
+   "resumen": "Descubre las obras ganadoras y finalistas de los certámenes de Ilustración de Prensa del Museo ABC. La exposición celebra y difunde el talento en ilustración de portada, caricatura, ilustración editorial y viñeta de humor."
+  },
+  "en": {
+   "titulo": "Exhibition: 3rd and 4th Press Illustration Contest Museo ABC",
+   "resumen": "Discover the winning and finalist works from the Museo ABC's Press Illustration contests. The exhibition celebrates and promotes talent in cover illustration, caricature, editorial illustration, and humor cartoons."
+  },
+  "temas": [
+   "cultura",
+   "pantalla",
+   "museos"
+  ],
+  "a_cubierto": true
+ },
+ "69300f3051": {
+  "id": "adb1c09dfd",
+  "es": {
+   "titulo": "Exposición: Los Cielos y la Poesía",
+   "resumen": "Una exposición que explora la conexión entre los cielos y la poesía a través de fotografías y versos de autores francófonos. Un diálogo entre la imagen celestial y la palabra escrita en francés y castellano."
+  },
+  "en": {
+   "titulo": "Exhibition: The Skies and Poetry",
+   "resumen": "An exhibition exploring the connection between the skies and poetry through photographs and verses by Francophone authors. A dialogue between celestial imagery and written word in French and Spanish."
+  },
+  "temas": [
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": true
+ },
+ "a4b7109c78": {
+  "id": "53a4b4be53",
+  "es": {
+   "titulo": "Festival Reciclásicos 2026: La Dama Boba",
+   "resumen": "La obra 'La Dama Boba' llega al Convento de las Trinitarias. Una comedia sobre el amor, las diferencias entre hermanas y los enredos familiares que transforman el destino de los personajes. Recomendada a partir de 14 años."
+  },
+  "en": {
+   "titulo": "Reciclásicos Festival 2026: La Dama Boba",
+   "resumen": "The play 'La Dama Boba' comes to the Convento de las Trinitarias. A comedy about love, sisterly differences, and family entanglements that transform the characters' destinies. Recommended for ages 14 and up."
+  },
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": true
+ },
+ "0e59148f77": {
+  "id": "ceb91aa536",
+  "es": {
+   "titulo": "Fuente del Berro: Itinerario Interpretativo",
+   "resumen": "Descubre la Quinta de la Fuente del Berro a través de un itinerario interpretativo. Un recorrido para conocer los encantos de este histórico lugar."
+  },
+  "en": {
+   "titulo": "Fuente del Berro: Interpretive Itinerary",
+   "resumen": "Discover the Quinta de la Fuente del Berro through an interpretive itinerary. A tour to explore the charms of this historic site."
+  },
+  "temas": [
+   "naturaleza",
+   "rutas",
+   "parques"
+  ],
+  "a_cubierto": null
+ },
+ "931e7e8aa9": {
+  "id": "323949f71d",
+  "es": {
+   "titulo": "Gira la Comedia: Show de Humor Non Stop",
+   "resumen": "Disfruta de 60 minutos de comedia ininterrumpida con dos cómicos invitados sorpresa. Un espectáculo diseñado para provocar carcajadas abordando temas cotidianos con mucho humor."
+  },
+  "en": {
+   "titulo": "Gira la Comedia: Non-Stop Comedy Show",
+   "resumen": "Enjoy 60 minutes of non-stop comedy with two surprise guest comedians. A show designed to provoke laughter by addressing everyday topics with plenty of humor."
+  },
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": true
+ },
+ "b8dd680e5e": {
+  "id": "475240a26e",
+  "es": {
+   "titulo": "Históricas Perdidas: Comedia Escénica",
+   "resumen": "Una comedia escénica en formato mosaico con cuatro sketches y tres monólogos. 'Históricas Perdidas' aborda con ironía y humor situaciones de la vida cotidiana y la sociedad contemporánea."
+  },
+  "en": {
+   "titulo": "Históricas Perdidas: Scenic Comedy",
+   "resumen": "'Históricas Perdidas' is a mosaic-format scenic comedy featuring four sketches and three monologues. It humorously and ironically tackles situations from daily life and contemporary society."
+  },
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": true
+ },
+ "e7925db4e9": {
+  "id": "c51eec3730",
+  "es": {
+   "titulo": "Inauguración Exposición: 'Desvihadas'",
+   "resumen": "José Javier Hernández Escudero inaugura 'Desvihadas', una exposición que subvierte códigos artísticos explorando lo glam, kitsch y drag. Una propuesta contracultural que celebra lo imperfecto y se aleja de las normas."
+  },
+  "en": {
+   "titulo": "Exhibition Opening: 'Desvihadas'",
+   "resumen": "José Javier Hernández Escudero opens 'Desvihadas', an exhibition that subverts artistic codes by exploring glam, kitsch, and drag. A counter-cultural proposal celebrating imperfection and deviating from norms."
+  },
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": true
+ },
+ "28e3085da1": {
+  "id": "143a0a6186",
+  "es": {
+   "titulo": "Isabel de Borbón 'La Chata': Conferencia Histórica",
+   "resumen": "La historiadora Patricia Alonso presenta la vida de Isabel de Borbón 'La Chata', la infanta más carismática de España. Descubre su lealtad a la Corona y su conexión popular en esta conferencia para todos los públicos."
+  },
+  "en": {
+   "titulo": "Isabel de Borbón 'La Chata': Historical Conference",
+   "resumen": "Historian Patricia Alonso presents the life of Isabel de Borbón 'La Chata', Spain's most charismatic infanta. Discover her loyalty to the Crown and her popular connection in this all-ages conference."
+  },
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true
+ },
+ "77491cf6af": {
+  "id": "e97942e074",
+  "es": {
+   "titulo": "Jardín El Capricho: Itinerario Interpretativo",
+   "resumen": "Realiza un itinerario guiado por el Jardín El Capricho con un educador ambiental. Identifica los caprichos de la Duquesa y las especies vegetales de este espacio verde. Actividad para adultos con inscripción previa."
+  },
+  "en": {
+   "titulo": "El Capricho Garden: Interpretive Itinerary",
+   "resumen": "Take a guided tour of El Capricho Garden with an environmental educator. Identify the Duchess's follies and the plant species in this green space. Adult activity requiring prior registration."
+  },
+  "temas": [
+   "naturaleza",
+   "rutas",
+   "parques"
+  ],
+  "a_cubierto": null
+ },
+ "0b25e74e9e": {
+  "id": "9ee77f9651",
+  "es": {
+   "titulo": "Jesús Benzal: Donde no hay nada (Danza Contemporánea)",
+   "resumen": "Jesús Benzal estrena 'Donde no hay nada', una exploración coreográfica sobre la percepción del vacío como posibilidad de construcción artística. Una reflexión sobre el cambio constante a través de la danza contemporánea."
+  },
+  "en": {
+   "titulo": "Jesús Benzal: Where There Is Nothing (Contemporary Dance)",
+   "resumen": "Jesús Benzal premieres 'Donde no hay nada', a choreographic exploration of the perception of emptiness as a possibility for artistic construction. A reflection on constant change through contemporary dance."
+  },
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": true
+ },
+ "61b99bc657": {
+  "id": "ad3281828a",
+  "es": {
+   "titulo": "Jornada 25N: Contra la Violencia de Género",
+   "resumen": "Participa en una jornada intergeneracional de sensibilización contra la violencia de género. Disfruta de zumba, un taller y una actuación de baile en la Plaza del Pueblo."
+  },
+  "en": {
+   "titulo": "25N Conference: Against Gender Violence",
+   "resumen": "Participate in an intergenerational awareness event against gender violence. Enjoy zumba, a workshop, and a dance performance in Plaza del Pueblo."
+  },
+  "temas": [
+   "cultura",
+   "deporte",
+   "fiestas"
+  ],
+  "a_cubierto": true
+ },
+ "6174fa4a53": {
+  "id": "c6a42b1696",
+  "es": {
+   "titulo": "Juan Sin Miedo en Vicálvaro",
+   "resumen": "Asiste a la representación de 'Juan Sin Miedo' en el Centro Cultural Valdebernardo. Una obra para disfrutar en familia."
+  },
+  "en": {
+   "titulo": "Juan Sin Miedo in Vicálvaro",
+   "resumen": "Attend the performance of 'Juan Sin Miedo' at the Valdebernardo Cultural Center. A play for the whole family to enjoy."
+  },
+  "temas": [
+   "ninos",
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": true
+ },
+ "df25c31f91": {
+  "id": "b0de66629f",
+  "es": {
+   "titulo": "Juanma Elegante: Concierto en Museo Lázaro Galdiano",
+   "resumen": "Juanma Elegante, ex-guitarrista de Los Elegantes, presenta su primer disco en solitario. Disfruta de sus nuevas canciones, versiones y temas de su antigua banda en este concierto íntimo."
+  },
+  "en": {
+   "titulo": "Juanma Elegante: Concert at Lázaro Galdiano Museum",
+   "resumen": "Juanma Elegante, former guitarist of Los Elegantes, presents his debut solo album. Enjoy his new songs, covers, and tracks from his former band in this intimate concert."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "a8037cff3c": {
+  "id": "be500e7406",
+  "es": {
+   "titulo": "La Forma Humana: Creación Dramática Contemporánea",
+   "resumen": "Explora la creación dramática contemporánea en la Nave 10 de Matadero con 'La Forma Humana'. Una propuesta escénica que reflexiona sobre la condición humana."
+  },
+  "en": {
+   "titulo": "The Human Form: Contemporary Dramatic Creation",
+   "resumen": "Explore contemporary dramatic creation at Matadero's Nave 10 with 'La Forma Humana'. A stage production reflecting on the human condition."
+  },
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": true
+ },
+ "a33ae87b69": {
+  "id": "718b2afdcc",
+  "es": {
+   "titulo": "La Gran Family Show: Espectáculo Interactivo",
+   "resumen": "Únete a 'La Gran Family Show' para un espectáculo de improvisación, clown, música y más. Un show divertido donde grandes y pequeños crean juntos historias y personajes para salvar la imaginación."
+  },
+  "en": {
+   "titulo": "La Gran Family Show: Interactive Performance",
+   "resumen": "Join 'La Gran Family Show' for a performance of improvisation, clowning, music, and more. A fun show where adults and children create stories and characters together to save imagination."
+  },
+  "temas": [
+   "ninos",
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": true
+ },
+ "b7dd7c1bb1": {
+  "id": "59d1bd6b92",
+  "es": {
+   "titulo": "La Hora del Cuento: 'Lola Aprende Yoga'",
+   "resumen": "En la Biblioteca Francisco Umbral, los niños de 4 a 6 años disfrutarán del cuento 'Lola aprende yoga'. Una historia sobre una conejita nerviosa que podría encontrar la calma con el yoga."
+  },
+  "en": {
+   "titulo": "Story Time: 'Lola Learns Yoga'",
+   "resumen": "At the Francisco Umbral Library, children aged 4-6 will enjoy the story 'Lola Learns Yoga'. A tale about a restless bunny who might find calm through yoga."
+  },
+  "temas": [
+   "ninos",
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "7045cf2565": {
+  "id": "602e682cc2",
+  "es": {
+   "titulo": "La Llamaban Tula: Homenaje a Gertrudis Gómez de Avellaneda",
+   "resumen": "La obra 'La Llamaban Tula' rinde homenaje a Gertrudis Gómez de Avellaneda, pionera feminista y antiesclavista. Una ficción teatral con canciones en directo que rescata su memoria."
+  },
+  "en": {
+   "titulo": "They Called Her Tula: Tribute to Gertrudis Gómez de Avellaneda",
+   "resumen": "The play 'La Llamaban Tula' pays tribute to Gertrudis Gómez de Avellaneda, a pioneering feminist and abolitionist. A fictional play with live songs that rescues her memory."
+  },
+  "temas": [
+   "cultura",
+   "musica",
+   "pantalla"
+  ],
+  "a_cubierto": true
+ },
+ "29ac08e612": {
+  "id": "fead21c497",
+  "es": {
+   "titulo": "La Música de las Palabras: Poemas de Juan Ramón Jiménez",
+   "resumen": "Disfruta de un concierto recital con poemas de Juan Ramón Jiménez, Premio Nobel de Literatura. El Grupo Retablo y Mayte Domínguez dan vida a sus versos acompañados de piano."
+  },
+  "en": {
+   "titulo": "The Music of Words: Poems by Juan Ramón Jiménez",
+   "resumen": "Enjoy a concert recital featuring poems by Juan Ramón Jiménez, Nobel Prize in Literature. Grupo Retablo and Mayte Domínguez bring his verses to life with piano accompaniment."
+  },
+  "temas": [
+   "cultura",
+   "musica",
+   "libros"
+  ],
+  "a_cubierto": true
+ },
+ "c7bfbbfe12": {
+  "id": "5a33ab3d97",
+  "es": {
+   "titulo": "La Violencia contra la Mujer en el Arte: ¿Belleza o Sumisión?",
+   "resumen": "Una reflexión sobre cómo el arte ha perpetuado la desigualdad de género. Un recorrido crítico por la historia del arte para cuestionar la mirada y los estereotipos."
+  },
+  "en": {
+   "titulo": "Violence Against Women in Art: Beauty or Submission?",
+   "resumen": "A reflection on how art has perpetuated gender inequality throughout history. A critical journey through art history to question perspectives and stereotypes."
+  },
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true
+ },
+ "b255267d86": {
+  "id": "d83043c2c4",
+  "es": {
+   "titulo": "Loca por la Música (1937): Proyección Cinematográfica",
+   "resumen": "Proyección de la película 'Loca por la Música' (1937). Una joven cantante ayuda a una orquesta de músicos retirados a reencontrar el éxito, con la aparición del legendario Leopold Stowkowski."
+  },
+  "en": {
+   "titulo": "Going My Way (1937): Film Screening",
+   "resumen": "Screening of the film 'Going My Way' (1937). A young singer helps a band of retired musicians find success again, with the appearance of the legendary Leopold Stowkowski."
+  },
+  "temas": [
+   "cultura",
+   "musica",
+   "pantalla"
+  ],
+  "a_cubierto": true
+ },
+ "7ae7a2fabf": {
+  "id": "5534214d7c",
+  "es": {
+   "titulo": "Lorca, popular y flamenco",
+   "resumen": "Espectáculo de danza española y flamenco inspirado en Federico García Lorca. Combina baile, folklore y música en directo con arreglos de jazz flamenco y poemas del artista."
+  },
+  "en": {
+   "titulo": "Lorca, Popular and Flamenco",
+   "resumen": "A Spanish dance and flamenco show inspired by Federico García Lorca. It combines dance, folklore, and live music with flamenco jazz arrangements and poems by the artist."
+  },
+  "temas": [
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": null
+ },
+ "48184ea91c": {
+  "id": "4b23dfa5b4",
+  "es": {
+   "titulo": "Ludovico emotional experience",
+   "resumen": "Un íntimo y emotivo espectáculo de piano, voz y cuerdas inspirado en la música de Ludovico Einaudi. Un viaje a través de las emociones para todos los públicos."
+  },
+  "en": {
+   "titulo": "Ludovico emotional experience",
+   "resumen": "An intimate and emotional show featuring piano, vocals, and strings, inspired by Ludovico Einaudi's music. A journey through emotions for all audiences."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "095189bce9": {
+  "id": "ef0f69bace",
+  "es": {
+   "titulo": "Luiz Felipe Reis «DESERTO»",
+   "resumen": "Presentación de Luiz Felipe Reis en el Centro de Cultura Contemporánea CondeDuque."
+  },
+  "en": {
+   "titulo": "Luiz Felipe Reis «DESERTO»",
+   "resumen": "Luiz Felipe Reis presents at the Conde Duque Contemporary Culture Center."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "5c476e9ac7": {
+  "id": "77d90634b2",
+  "es": {
+   "titulo": "L-abe. laboratorio de arte, bienestar y educación (2026-2027)",
+   "resumen": "El Centro de Cultura Contemporánea CondeDuque acoge el laboratorio de arte, bienestar y educación L-abe para el periodo 2026-2027."
+  },
+  "en": {
+   "titulo": "L-abe. Art, Wellbeing, and Education Lab (2026-2027)",
+   "resumen": "The Conde Duque Contemporary Culture Center hosts the L-abe art, wellbeing, and education lab for the 2026-2027 period."
+  },
+  "temas": [
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": null
+ },
+ "8d2ea16eb2": {
+  "id": "9e8c7e5c18",
+  "es": {
+   "titulo": "Macabro",
+   "resumen": "Una propuesta de terror teatral que explora la angustia de un esquizofrénico atormentado por espíritus oscuros y un enigmático psiquiatra en un antiguo teatro."
+  },
+  "en": {
+   "titulo": "Macabre",
+   "resumen": "A theatrical horror proposal exploring the anguish of a schizophrenic tormented by dark spirits and an enigmatic psychiatrist in an old theater."
+  },
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": null
+ },
+ "bcc98388ac": {
+  "id": "7c6ad15589",
+  "es": {
+   "titulo": "Madrid Distrito en Corto en Puente de Vallecas",
+   "resumen": "Proyección de cortometrajes como 'Una cabeza en la pared', 'La fuerza', 'El relevo' y 'Cosas de chicos' en el Centro Sociocultural Alberto Sánchez."
+  },
+  "en": {
+   "titulo": "Madrid Distrito en Corto in Puente de Vallecas",
+   "resumen": "Screening of short films including 'Una cabeza en la pared', 'La fuerza', 'El relevo', and 'Cosas de chicos' at the Alberto Sánchez Sociocultural Center."
+  },
+  "temas": [
+   "pantalla",
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "2b6cfb6466": {
+  "id": "4b40d6ca26",
+  "es": {
+   "titulo": "Madrid Distrito en Corto en Tetuán",
+   "resumen": "Presentación de cortometrajes como 'Una Cabeza En La Pared', 'La Fuerza' y 'El Relevo', explorando temas como la adaptación social y la moralidad."
+  },
+  "en": {
+   "titulo": "Madrid Distrito en Corto in Tetuán",
+   "resumen": "Screening of short films like 'Una Cabeza En La Pared', 'La Fuerza', and 'El Relevo', exploring themes of social adaptation and morality."
+  },
+  "temas": [
+   "pantalla",
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "e714c7b916": {
+  "id": "eaee0867f6",
+  "es": {
+   "titulo": "Madrid Distrito en Corto en Tetuán",
+   "resumen": "Proyección de cortometrajes como 'Una Cabeza En La Pared', 'La Fuerza' y 'El Relevo', abordando la adaptación a nuevos mundos y dilemas morales."
+  },
+  "en": {
+   "titulo": "Madrid Distrito en Corto in Tetuán",
+   "resumen": "Screening of short films like 'Una Cabeza En La Pared', 'La Fuerza', and 'El Relevo', addressing adaptation to new worlds and moral dilemmas."
+  },
+  "temas": [
+   "pantalla",
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "e8b198dc4c": {
+  "id": "7837dca8f1",
+  "es": {
+   "titulo": "Madrid en corto en Salamanca",
+   "resumen": "Programa gratuito de exhibición de cortometrajes en espacios municipales de Salamanca, organizado por el Ayuntamiento de Madrid y la Asociación de la Industria del Cortometraje."
+  },
+  "en": {
+   "titulo": "Madrid en corto in Salamanca",
+   "resumen": "Free short film exhibition program in municipal spaces in Salamanca, organized by the Madrid City Council and the Short Film Industry Association."
+  },
+  "temas": [
+   "pantalla",
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "7d30b7b1be": {
+  "id": "63198af1da",
+  "es": {
+   "titulo": "Magia Infantil y familiar: Magia&Ciencia",
+   "resumen": "Un mago y un científico comparten escenario en un espectáculo que combina ilusionismo y explicaciones científicas para despertar la imaginación y el gusto por la ciencia en los niños."
+  },
+  "en": {
+   "titulo": "Children's and Family Magic: Magic & Science",
+   "resumen": "A magician and a scientist share the stage in a show that combines illusionism and scientific explanations to spark imagination and interest in science for children."
+  },
+  "temas": [
+   "ninos",
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": null
+ },
+ "db1914a0f6": {
+  "id": "17eb1604b2",
+  "es": {
+   "titulo": "Mago Pablo Molina",
+   "resumen": "Espectáculo de magia de cerca y cartomagia para mayores de 14 años, con un ilusionista especializado en crear experiencias sorprendentes, divertidas e interactivas."
+  },
+  "en": {
+   "titulo": "Magician Pablo Molina",
+   "resumen": "Close-up magic and cardistry show for ages 14 and up, featuring an illusionist specializing in creating surprising, fun, and interactive experiences."
+  },
+  "temas": [
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": null
+ },
+ "058cdb6065": {
+  "id": "dd61908b1c",
+  "es": {
+   "titulo": "Maja y bastarda - Usera",
+   "resumen": "Evento en el Centro de Ocio y Asesoramiento Juvenil Pipo Velasco en Usera."
+  },
+  "en": {
+   "titulo": "Maja y bastarda - Usera",
+   "resumen": "Event at the Pipo Velasco Youth Leisure and Counseling Center in Usera."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "6ebc89d838": {
+  "id": "84e3c01fe4",
+  "es": {
+   "titulo": "Manuel Borraz Group",
+   "resumen": "El Manuel Borraz Group presenta una propuesta de jazz contemporáneo y vanguardista en el Festival de Jazz de Ciudad Lineal, fusionando tradición e improvisación."
+  },
+  "en": {
+   "titulo": "Manuel Borraz Group",
+   "resumen": "The Manuel Borraz Group presents a contemporary and avant-garde jazz proposal at the Ciudad Lineal Jazz Festival, blending tradition and improvisation."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "9e839f7df4": {
+  "id": "1e1bbb1135",
+  "es": {
+   "titulo": "María 'La Flamenca'",
+   "resumen": "Un espectáculo infantil navideño donde dos amigas, María y Sara, con orígenes distintos, buscan cumplir sueños con la ayuda de los niños y el baile flamenco."
+  },
+  "en": {
+   "titulo": "María 'La Flamenca'",
+   "resumen": "A Christmas children's show where two friends, María and Sara, from different backgrounds, aim to fulfill dreams with the help of children and flamenco dance."
+  },
+  "temas": [
+   "ninos",
+   "cultura",
+   "navidad"
+  ],
+  "a_cubierto": null
+ },
+ "e61a3c69e4": {
+  "id": "a61b193304",
+  "es": {
+   "titulo": "Más vivos que nunca",
+   "resumen": "Proyección de la película 'Más vivos que nunca' en el Centro Cultural Casa de Vacas, con entrada libre hasta completar aforo."
+  },
+  "en": {
+   "titulo": "More Alive Than Ever",
+   "resumen": "Screening of the film 'Más vivos que nunca' at the Casa de Vacas Cultural Center, with free admission until capacity is reached."
+  },
+  "temas": [
+   "pantalla",
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "894b92a208": {
+  "id": "211fe03178",
+  "es": {
+   "titulo": "Mi primer festival de cine - Sesión de cortometrajes familiar: Talento km 0",
+   "resumen": "Sesión de cortometrajes familiares 'Talento km 0' para mayores de 5 años, con presencia de cineastas invitadas. Incluye títulos como 'Mono' y 'Out Cold'."
+  },
+  "en": {
+   "titulo": "My First Film Festival - Family Short Film Session: Local Talent",
+   "resumen": "Family short film session 'Talento km 0' for ages 5 and up, featuring guest filmmakers. Includes titles like 'Mono' and 'Out Cold'."
+  },
+  "temas": [
+   "ninos",
+   "pantalla",
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "8a52b951e9": {
+  "id": "354f20c9d7",
+  "es": {
+   "titulo": "Monsieur Verdoux. (1947)",
+   "resumen": "Proyección de la película de Charles Chaplin 'Monsieur Verdoux', sobre un hombre que se casa con viudas ricas para asesinarlas y quedarse con su fortuna."
+  },
+  "en": {
+   "titulo": "Monsieur Verdoux. (1947)",
+   "resumen": "Screening of Charles Chaplin's film 'Monsieur Verdoux', about a man who marries wealthy widows to murder them and take their fortune."
+  },
+  "temas": [
+   "pantalla",
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "0d96b206f8": {
+  "id": "4a1a157a4b",
+  "es": {
+   "titulo": "Muestra de libros ilustrados chinos del Instituto Confucio",
+   "resumen": "Exposición de libros ilustrados chinos organizada por el Instituto Confucio en la Biblioteca Pública Municipal Francisco Ayala."
+  },
+  "en": {
+   "titulo": "Exhibition of Chinese Illustrated Books from the Confucius Institute",
+   "resumen": "Exhibition of Chinese illustrated books organized by the Confucius Institute at the Francisco Ayala Municipal Public Library."
+  },
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "a642846702": {
+  "id": "2343a8b521",
+  "es": {
+   "titulo": "Música. Festival flamenco. 'Persecución' Homenaje al Lebrijano.",
+   "resumen": "Homenaje al Lebrijano en el 50 aniversario de 'Persecución', con cante de José Valencia, guitarra de Pedro Peña y Juan Requena, y baile de Nazare Reyes."
+  },
+  "en": {
+   "titulo": "Music. Flamenco Festival. 'Persecución' Homage to El Lebrijano.",
+   "resumen": "Homage to El Lebrijano on the 50th anniversary of 'Persecución', featuring singing by José Valencia, guitar by Pedro Peña and Juan Requena, and dance by Nazare Reyes."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "fe790b07b4": {
+  "id": "95e9a84001",
+  "es": {
+   "titulo": "Música: 'Tributo a la música mejicana'.",
+   "resumen": "Un concierto que celebra la cultura y tradición de la música mexicana con un repertorio de canciones inolvidables y una cuidada puesta en escena."
+  },
+  "en": {
+   "titulo": "Music: 'Tribute to Mexican Music'.",
+   "resumen": "A concert celebrating the culture and tradition of Mexican music with a repertoire of unforgettable songs and a carefully crafted staging."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "370695c6b3": {
+  "id": "f184f64043",
+  "es": {
+   "titulo": "Orquesta de guitarras de Madrid",
+   "resumen": "Concierto de la Orquesta de Guitarras de Madrid, una actuación para todos los públicos que celebra la música interpretada con este instrumento."
+  },
+  "en": {
+   "titulo": "Madrid Guitar Orchestra",
+   "resumen": "Concert by the Madrid Guitar Orchestra, a performance for all audiences celebrating music played on this instrument."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "9fa5a70af6": {
+  "id": "12373f129e",
+  "es": {
+   "titulo": "Pasaje del terror. CANCELADO",
+   "resumen": "El pasaje del terror previsto en la Explanada del Ensanche ha sido CANCELADO. Se informará de una nueva fecha."
+  },
+  "en": {
+   "titulo": "Haunted House. CANCELLED",
+   "resumen": "The haunted house event planned for the Explanada del Ensanche has been CANCELLED. A new date will be announced."
+  },
+  "temas": [
+   "fiestas",
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "d6e83e80f8": {
+  "id": "16a0e5a76c",
+  "es": {
+   "titulo": "Quinta de Los Molinos",
+   "resumen": "Visita al Parque Quinta de los Molinos."
+  },
+  "en": {
+   "titulo": "Quinta de Los Molinos",
+   "resumen": "Visit to the Quinta de los Molinos Park."
+  },
+  "temas": [
+   "naturaleza",
+   "parques"
+  ],
+  "a_cubierto": false
+ },
+ "f62c603511": {
+  "id": "35aecadae3",
+  "es": {
+   "titulo": "Ruin Rapaz",
+   "resumen": "Concierto de Ruin Rapaz que fusiona folclore castellano con sonidos modernos. El evento se reprogramará en otra fecha debido a los días de luto oficial."
+  },
+  "en": {
+   "titulo": "Ruin Rapaz",
+   "resumen": "Ruin Rapaz concert that fuses Castilian folklore with modern sounds. The event will be rescheduled due to official mourning days."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "359d0346a5": {
+  "id": "954a027508",
+  "es": {
+   "titulo": "Semana de la ciencia",
+   "resumen": "Actividades relacionadas con la ciencia en el Centro Sociocultural José de Espronceda."
+  },
+  "en": {
+   "titulo": "Science Week",
+   "resumen": "Science-related activities at the José de Espronceda Sociocultural Center."
+  },
+  "temas": [
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": null
+ },
+ "fd377a0540": {
+  "id": "bc5f95c63c",
+  "es": {
+   "titulo": "Senda guiada: Especies exóticas en el Parque del Retiro",
+   "resumen": "Descubre las especies exóticas y las invasoras del Parque del Retiro en esta ruta guiada para adultos. Aprende sobre su flora y fauna en varias sesiones de noviembre. Requiere inscripción previa y es gratuita."
+  },
+  "en": {
+   "titulo": "Guided walk: Exotic species in Retiro Park",
+   "resumen": "Discover the exotic and invasive species of Retiro Park on this guided walk for adults. Learn about its flora and fauna in various November sessions. Prior registration is required and it's free."
+  },
+  "temas": [
+   "naturaleza",
+   "rutas",
+   "parques"
+  ],
+  "a_cubierto": false
+ },
+ "f850cc2673": {
+  "id": "933b06226f",
+  "es": {
+   "titulo": "Silvia Teijeira: piano popular argentino",
+   "resumen": "Disfruta de una actuación de piano con Silvia Teijeira en la Biblioteca Musical Víctor Espinós. Un concierto que explora la riqueza del repertorio argentino."
+  },
+  "en": {
+   "titulo": "Silvia Teijeira: Argentine popular piano",
+   "resumen": "Enjoy a piano performance by Silvia Teijeira at the Víctor Espinós Music Library. A concert exploring the richness of Argentine repertoire."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "731900e141": {
+  "id": "80b1847960",
+  "es": {
+   "titulo": "Taller de cooperación internacional 'The last border'",
+   "resumen": "Participa en un taller sobre cooperación internacional en la Biblioteca Pública Municipal Mario Vargas Llosa. Una oportunidad para reflexionar sobre temas globales."
+  },
+  "en": {
+   "titulo": "International cooperation workshop 'The last border'",
+   "resumen": "Take part in a workshop on international cooperation at the Mario Vargas Llosa Municipal Public Library. An opportunity to reflect on global issues."
+  },
+  "temas": [
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "932c43cb65": {
+  "id": "922411485c",
+  "es": {
+   "titulo": "Taller infantil de Calabazas de Halloween",
+   "resumen": "Celebra Halloween con un taller infantil de calabazas en la Biblioteca Pública Municipal Benito Pérez Galdós. ¡Crea tu propia calabaza decorada!"
+  },
+  "en": {
+   "titulo": "Children's Halloween Pumpkin Workshop",
+   "resumen": "Celebrate Halloween with a children's pumpkin workshop at the Benito Pérez Galdós Municipal Public Library. Create your own decorated pumpkin!"
+  },
+  "temas": [
+   "ninos",
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "cd380c34b0": {
+  "id": "16e72c29a0",
+  "es": {
+   "titulo": "Taller infantil 'Capturando Madrid'",
+   "resumen": "Un taller infantil en el Museo de Arte Contemporáneo de Madrid para explorar la ciudad a través del arte. Fomenta la creatividad y la observación de los más pequeños."
+  },
+  "en": {
+   "titulo": "Children's workshop 'Capturing Madrid'",
+   "resumen": "A children's workshop at the Museum of Contemporary Art of Madrid to explore the city through art. It fosters creativity and observation in young children."
+  },
+  "temas": [
+   "ninos",
+   "cultura",
+   "museos",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "abab4fc148": {
+  "id": "8355ab1001",
+  "es": {
+   "titulo": "Taller preparación de castings",
+   "resumen": "Mejora tus habilidades para castings en este taller para jóvenes y adultos en el Teatro Municipal de Vallecas. Aprende técnicas y obtén información para tus audiciones."
+  },
+  "en": {
+   "titulo": "Audition preparation workshop",
+   "resumen": "Improve your audition skills in this workshop for youth and adults at the Vallecas Municipal Theater. Learn techniques and get information for your auditions."
+  },
+  "temas": [
+   "cultura",
+   "actividades",
+   "pantalla"
+  ],
+  "a_cubierto": true
+ },
+ "f35fdc4113": {
+  "id": "f1e1332f3f",
+  "es": {
+   "titulo": "Talleres grupales para solicitar vivienda de la Agencia de Vivienda Social",
+   "resumen": "Asiste a talleres grupales en el Centro de Servicios Sociales San Diego para recibir apoyo en la solicitud de una vivienda de la Agencia de Vivienda Social de la Comunidad de Madrid."
+  },
+  "en": {
+   "titulo": "Group workshops for applying for housing from the Social Housing Agency",
+   "resumen": "Attend group workshops at the San Diego Social Services Center for support in applying for housing from the Community of Madrid's Social Housing Agency."
+  },
+  "temas": [
+   "actividades",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "8ed90290da": {
+  "id": "2034abcf97",
+  "es": {
+   "titulo": "Talleres Junior de cómic avanzado",
+   "resumen": "Profundiza en el mundo del cómic con estos talleres junior avanzados en Matadero Madrid. Tres sesiones complementarias para desarrollar tus habilidades."
+  },
+  "en": {
+   "titulo": "Advanced Junior Comic Workshops",
+   "resumen": "Delve into the world of comics with these advanced junior workshops at Matadero Madrid. Three complementary sessions to develop your skills."
+  },
+  "temas": [
+   "cultura",
+   "libros",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "4b42034ca9": {
+  "id": "2a0298b628",
+  "es": {
+   "titulo": "Talleres para colegios: educación infantil y primaria",
+   "resumen": "Matadero Madrid ofrece talleres educativos para colegios de infantil y primaria para el curso 2026/27. Una oportunidad para el aprendizaje creativo en el centro."
+  },
+  "en": {
+   "titulo": "Workshops for schools: early childhood and primary education",
+   "resumen": "Matadero Madrid offers educational workshops for early childhood and primary schools for the 2026/27 academic year. An opportunity for creative learning at the center."
+  },
+  "temas": [
+   "ninos",
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "71850339de": {
+  "id": "d32b5fa03d",
+  "es": {
+   "titulo": "Talleres 'Sábados Locos'",
+   "resumen": "Disfruta de los 'Sábados Locos' en el Centro Cultural Galileo, talleres que combinan juego, arte y diversión para toda la familia. Fomenta la creatividad y el trabajo en equipo."
+  },
+  "en": {
+   "titulo": "'Crazy Saturdays' Workshops",
+   "resumen": "Enjoy 'Crazy Saturdays' at the Galileo Cultural Center, workshops that combine games, art, and fun for the whole family. They foster creativity and teamwork."
+  },
+  "temas": [
+   "ninos",
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "d0c35bb42f": {
+  "id": "986533b4d0",
+  "es": {
+   "titulo": "Talleres: 'Aprender a ver el cine'",
+   "resumen": "Explora la historia, técnica y lenguaje del cine en estos talleres del Centro Cultural Buero Vallejo. Incluyen presentaciones, proyecciones y debates."
+  },
+  "en": {
+   "titulo": "Workshops: 'Learning to watch cinema'",
+   "resumen": "Explore the history, technique, and language of cinema in these workshops at the Buero Vallejo Cultural Center. They include presentations, screenings, and debates."
+  },
+  "temas": [
+   "cultura",
+   "pantalla",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "f57d97bef4": {
+  "id": "4f2856d495",
+  "es": {
+   "titulo": "Taller: Clown y expresión gestual",
+   "resumen": "Desarrolla tu clown y expresión gestual en el Teatro Municipal de Vallecas. Talleres para infantil y juvenil con inscripción previa."
+  },
+  "en": {
+   "titulo": "Workshop: Clown and gestural expression",
+   "resumen": "Develop your clowning and gestural expression skills at the Vallecas Municipal Theater. Workshops for children and youth with prior registration."
+  },
+  "temas": [
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "84d6e84cb0": {
+  "id": "76698558da",
+  "es": {
+   "titulo": "Tangles",
+   "resumen": "Una película de animación que narra la historia de una familia enfrentándose al Alzheimer. Basada en la novela gráfica de Sarah Leavitt, explora el equilibrio ante la adversidad."
+  },
+  "en": {
+   "titulo": "Tangles",
+   "resumen": "An animated film telling the story of a family facing Alzheimer's. Based on Sarah Leavitt's graphic novel, it explores finding balance in the face of adversity."
+  },
+  "temas": [
+   "cultura",
+   "pantalla",
+   "libros"
+  ],
+  "a_cubierto": true
+ },
+ "8cfaf3c08e": {
+  "id": "38421e5919",
+  "es": {
+   "titulo": "Tango Vivo",
+   "resumen": "Experimenta el tango reinventado con Mariel Martínez y Juan Esteban Cuacci en la Fundación Fran Daurel. Un concierto de improvisación y diálogo musical."
+  },
+  "en": {
+   "titulo": "Tango Vivo",
+   "resumen": "Experience tango reinvented with Mariel Martínez and Juan Esteban Cuacci at the Fran Daurel Foundation. A concert of improvisation and musical dialogue."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "aaf7e291fc": {
+  "id": "6c30520439",
+  "es": {
+   "titulo": "Tapirulan",
+   "resumen": "Disfruta de la danza con el Gruppo e-motion en el Centro Cultural Casa de Vacas. Una pieza para público adulto como parte de la X Edición del CFest."
+  },
+  "en": {
+   "titulo": "Tapirulan",
+   "resumen": "Enjoy dance with Gruppo e-motion at the Casa de Vacas Cultural Center. A piece for adult audiences as part of the 10th CFest Edition."
+  },
+  "temas": [
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "c7945356bb": {
+  "id": "b13481fb49",
+  "es": {
+   "titulo": "Té y poesía (Tertulia)",
+   "resumen": "Participa en una tertulia de té y poesía en la Biblioteca Pública Municipal Iván de Vargas. Comparte y disfruta de la literatura en un ambiente relajado."
+  },
+  "en": {
+   "titulo": "Tea and poetry (Gathering)",
+   "resumen": "Join a tea and poetry gathering at the Iván de Vargas Municipal Public Library. Share and enjoy literature in a relaxed atmosphere."
+  },
+  "temas": [
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": true
+ },
+ "db78dd01b1": {
+  "id": "d524d92986",
+  "es": {
+   "titulo": "Tea for two....jazz swim, blues",
+   "resumen": "Déjate envolver por el jazz, swing y blues de 'Tea for Two' en el Centro Cultural Buenavista. Un concierto elegante con Mario Siles y Carmen Vela."
+  },
+  "en": {
+   "titulo": "Tea for two....jazz swim, blues",
+   "resumen": "Be captivated by the jazz, swing, and blues of 'Tea for Two' at the Buenavista Cultural Center. An elegant concert featuring Mario Siles and Carmen Vela."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "843d4549af": {
+  "id": "5719d4f880",
+  "es": {
+   "titulo": "Teatralización histórica | Semana de la ciencia",
+   "resumen": "Vive una teatralización histórica en el Castillo de la Alameda durante la Semana de la Ciencia. Una forma lúdica de aprender sobre historia y ciencia."
+  },
+  "en": {
+   "titulo": "Historical theatricalization | Science Week",
+   "resumen": "Experience a historical theatricalization at Alameda Castle during Science Week. A fun way to learn about history and science."
+  },
+  "temas": [
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": false
+ },
+ "2aae1b8bd1": {
+  "id": "67739de9c1",
+  "es": {
+   "titulo": "Teatro de grandeza. Arte, arquitectura y ciudad en el Madrid Barroco",
+   "resumen": "Explora el arte, la arquitectura y la ciudad en el Madrid Barroco en esta exposición en el Fernán Gómez Centro Cultural de la Villa."
+  },
+  "en": {
+   "titulo": "Theater of grandeur. Art, architecture, and city in Baroque Madrid",
+   "resumen": "Explore art, architecture, and the city in Baroque Madrid in this exhibition at the Fernán Gómez Cultural Center of the Villa."
+  },
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true
+ },
+ "91f88d34fd": {
+  "id": "432458c2a6",
+  "es": {
+   "titulo": "Teatro familiar: Trovadora",
+   "resumen": "Asiste a 'Trovadora', una comedia familiar con música y sombras en el Centro Cultural Nicolás Salmerón. Una historia sobre conciliar trabajo y familia."
+  },
+  "en": {
+   "titulo": "Family theater: Trovadora",
+   "resumen": "Attend 'Trovadora', a family comedy with music and shadows at the Nicolás Salmerón Cultural Center. A story about balancing work and family."
+  },
+  "temas": [
+   "ninos",
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "ef87f009d7": {
+  "id": "49a55e51e0",
+  "es": {
+   "titulo": "Teatro infantil-clown: 'Juego de elfos'",
+   "resumen": "Diviértete con 'Juego de elfos', un teatro infantil de clown en el Centro Sociocultural Tetuán. Ayuda a dos elfos a resolver un problema con un ratoncillo travieso."
+  },
+  "en": {
+   "titulo": "Children's theater-clown: 'Elf game'",
+   "resumen": "Have fun with 'Elf game', a children's clown theater show at the Tetuán Sociocultural Center. Help two elves solve a problem with a mischievous little mouse."
+  },
+  "temas": [
+   "ninos",
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "d3f25019da": {
+  "id": "b6e6636cb9",
+  "es": {
+   "titulo": "Teatro infantil: El misterio del objeto imposible",
+   "resumen": "Participa en 'El misterio del objeto imposible', un teatro infantil interactivo en el Centro Cultural Casa del Reloj. El público ayuda a crear la historia."
+  },
+  "en": {
+   "titulo": "Children's theater: The mystery of the impossible object",
+   "resumen": "Participate in 'The mystery of the impossible object', an interactive children's theater show at the Casa del Reloj Cultural Center. The audience helps create the story."
+  },
+  "temas": [
+   "ninos",
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "8cd7337866": {
+  "id": "eb99a7d6eb",
+  "es": {
+   "titulo": "Teatro infantil: 'El Libro Mágico de Matilda'",
+   "resumen": "Fomenta la lectura con 'El Libro Mágico de Matilda' en el Edificio Sociocultural Marta Escudero Díaz-Tejeiro. Un espectáculo lleno de sorpresas para niños y familias."
+  },
+  "en": {
+   "titulo": "Children's theater: 'Matilda's Magic Book'",
+   "resumen": "Encourage reading with 'Matilda's Magic Book' at the Marta Escudero Díaz-Tejeiro Sociocultural Building. A show full of surprises for children and families."
+  },
+  "temas": [
+   "ninos",
+   "cultura",
+   "libros",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "b04bbd9e21": {
+  "id": "df58122e24",
+  "es": {
+   "titulo": "Teatro Infantil: 'Juego de Elfos'",
+   "resumen": "Asiste a 'Juego de Elfos', un divertido teatro infantil de la Compañía Fantasía en el Centro Sociocultural Marconi. ¡Ayuda a los elfos a resolver un problema!"
+  },
+  "en": {
+   "titulo": "Children's Theater: 'Elf Game'",
+   "resumen": "Attend 'Elf Game', a fun children's theater show by Compañía Fantasía at the Marconi Sociocultural Center. Help the elves solve a problem!"
+  },
+  "temas": [
+   "ninos",
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "43bcca7f00": {
+  "id": "b8a6ffcecf",
+  "es": {
+   "titulo": "Teatro Infantil: 'La Maga Bu y el Fantasma Sin Nombre'",
+   "resumen": "Descubre 'La Maga Bu y el Fantasma Sin Nombre' en el Centro Sociocultural Ágata. Una obra infantil sobre compartir y la amistad, con entrada libre."
+  },
+  "en": {
+   "titulo": "Children's Theater: 'Maga Bu and the Nameless Ghost'",
+   "resumen": "Discover 'Maga Bu and the Nameless Ghost' at the Ágata Sociocultural Center. A children's play about sharing and friendship, with free admission."
+  },
+  "temas": [
+   "ninos",
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": true
  }
 }
