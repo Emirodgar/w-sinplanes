@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29",
+ "updated": "2026-10-30",
  "terms": [
   {
    "term": "enric masip",
@@ -89,6 +89,16 @@
     "La familia de Antonio Vázquez emite un comunicado: \"Continuamos sin tener noticias de su paradero o estado\"",
     "Más de 24 horas sin noticias de Antonio Vázquez tras el accidente de tren: \"Me dijeron que estaba en el hospital de Toledo, pero ahí no está\"",
     "Antonio Vázquez, hermano del torero Curro Vázquez y apoderado de Pablo Aguado, entre los desaparecidos del accidente de tren de Toledo"
+   ]
+  },
+  {
+   "term": "explosión",
+   "traffic": 10000,
+   "lastSeen": "2026-10-30",
+   "news": [
+    "Al menos tres heridos en una explosión en la fábrica de municiones de El Fargue (Granada)",
+    "Los Tedax de la Policía inspeccionan la situación en la fábrica de municiones de Granada tras la explosión",
+    "Así es la Fábrica de Municiones de Granada donde ha habido una fuerte explosión: quién la gestiona y casi 700 años fabricando pólvora y munición"
    ]
   },
   {
@@ -189,6 +199,16 @@
     "Vacherot - Jódar, en directo: última hora del Torneo de Basilea, hoy en vivo",
     "Jódar - Vacherot: horario, canal de televisión y dónde ver online el partido de Basilea",
     "Jódar - Vacherot, en directo | ATP 500 de Basilea 2026: octavos de final hoy en vivo"
+   ]
+  },
+  {
+   "term": "javier bardem",
+   "traffic": 5000,
+   "lastSeen": "2026-10-30",
+   "news": [
+    "La petición de Javier Bardem tras el accidente ferroviario de Urda",
+    "Javier Bardem ayuda a las víctimas desde el hospital y pide 5 cosas básicas tras la catástrofe",
+    "El llamamiento de Javier Bardem tras la tragedia ferroviaria de Toledo: \"Dona sangre, por favor\""
    ]
   },
   {
@@ -1139,6 +1159,42 @@
    ]
   },
   {
+   "term": "playstation plus",
+   "traffic": 500,
+   "lastSeen": "2026-10-30",
+   "news": [
+    "Anunciados los juegos de PS Plus Essential de noviembre que podrás reclamar a partir de la semana que viene",
+    "¿Qué juegos llegan a PlayStation Plus en noviembre de 2026? Estos son los tres elegidos",
+    "Los juegos de PS Plus Essential de noviembre de 2026 traen consigo una joya para los fans de los zombis"
+   ]
+  },
+  {
+   "term": "jude bellingham",
+   "traffic": 500,
+   "lastSeen": "2026-10-30",
+   "news": [
+    "Jude Bellingham completely embarrassed Barcelona's midfield on his own",
+    "Thierry Henry Hails Bellingham's Performance in El Clasico",
+    "Former Barcelona star hails Jude Bellingham’s ‘absolutely incredible’ Clásico display"
+   ]
+  },
+  {
+   "term": "inflación",
+   "traffic": 500,
+   "lastSeen": "2026-10-30",
+   "news": [
+    "La inflación se mantiene en el 4,9% por el empuje de los combustibles",
+    "La inflación no se mueve del 4,9% en octubre pese a la caída del precio de los carburantes",
+    "IPC de octubre en España: la inflación se mantiene en el 4,9% mientras el crecimiento se frena al 0,6%"
+   ]
+  },
+  {
+   "term": "temblor hoy en colombia hace unos minutos",
+   "traffic": 500,
+   "lastSeen": "2026-10-30",
+   "news": []
+  },
+  {
    "term": "grieta",
    "traffic": 200,
    "lastSeen": "2026-10-20",
@@ -1404,16 +1460,6 @@
     "La portavoz del PSOE en Madrid vive en un piso público de la Universidad Rey Juan Carlos que solo pueden usar sus empleados y ella no lo es",
     "PSOE y Más Madrid borran la vivienda de su libreto contra Ayuso: \"Les importa una Mínguez\"",
     "La \"hipocresía de la izquierda\": Ayuso censura a Mar Espinar, que vive \"a precio de amigo\" en un piso público en Alcorcón"
-   ]
-  },
-  {
-   "term": "playstation plus",
-   "traffic": 200,
-   "lastSeen": "2026-10-22",
-   "news": [
-    "Ya disponibles para descargar los 9 juegos de PlayStation Plus Extra y Premium, que incluyen Mafia: The Old Country",
-    "Mafia The Old Country, Horizon Forbidden West y Dino Crisis 2 lideran los nuevos juegos de PS Plus Extra y Premium en octubre de 2026",
-    "Los 9 juegos nuevos de PS Plus de octubre, a votación: Mafia: The Old Country, favorito"
    ]
   },
   {
@@ -1934,6 +1980,46 @@
     "Christine Lagarde dejará la presidencia del BCE el 7 de febrero y abre la carrera por su sucesión",
     "Christine Lagarde dimite como presidenta del BCE: dejará el cargo el 7 de febrero",
     "Lagarde abandonará la presidencia del BCE el próximo 7 de febrero"
+   ]
+  },
+  {
+   "term": "temblor hoy",
+   "traffic": 200,
+   "lastSeen": "2026-10-30",
+   "news": [
+    "Sentido en Granada un terremoto de 2,1 de magnitud con epicentro en Armilla",
+    "Terremotos en Granada hoy, viernes 30 de octubre: nuevos seísmos en La Zubia, Santa Fe y el área metropolitana",
+    "La población siente este jueves nuevos temblores de tierra en el área metropolitana de Granada"
+   ]
+  },
+  {
+   "term": "alejandro galán",
+   "traffic": 200,
+   "lastSeen": "2026-10-30",
+   "news": [
+    "Javi Leal sustituye a Ale Galán en la convocatoria de España para el Mundial de pádel",
+    "Tapia y Coello, a un paso de reinar por cuarto año consecutivo: así están las cuentas del número 1",
+    "La lesión de Galán complica a España el Mundial de la próxima semana"
+   ]
+  },
+  {
+   "term": "dakar 2027",
+   "traffic": 200,
+   "lastSeen": "2026-10-30",
+   "news": [
+    "Deux continents, deux pays, douze étapes et plus de 7 800 km : un menu copieux attend les concurrents du Dakar 2027",
+    "Dakar 2027 : le nouveau parcours Portugal-Espagne-Maroc dévoilé",
+    "Dakar 2027 - Le rallye-raid Dakar se déroulera en janvier au Portugal et au Maroc"
+   ]
+  },
+  {
+   "term": "gonzalo pérez jácome",
+   "traffic": 200,
+   "lastSeen": "2026-10-30",
+   "news": [
+    "Jácome propone ahora otro bono para abaratar la piscina termal de As Burgas",
+    "\"Sete euros paréceme excesivo\"",
+    "PSOE y BNG reclaman rebajar las tarifas y fijar una fecha de reapertura para la piscina termal de As Burgas tras el anuncio de Jácome"
    ]
   },
   {

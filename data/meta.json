@@ -1,23 +1,23 @@
 {
-  "generated": "2026-10-29T11:50:11.532Z",
-  "today": "2026-10-29",
-  "events": 4246,
-  "review": 9,
+  "generated": "2026-10-30T10:52:53.205Z",
+  "today": "2026-10-30",
+  "events": 4443,
+  "review": 7,
   "ai": {
-    "calls": 14,
-    "seconds": 215,
+    "calls": 0,
+    "seconds": 43,
     "tripped": false
   },
   "sources": [
     {
       "id": "madrid-agenda",
       "status": "ok",
-      "count": 1332
+      "count": 1360
     },
     {
       "id": "jcyl-agenda",
       "status": "ok",
-      "count": 574
+      "count": 577
     },
     {
       "id": "euskadi-kulturklik",
@@ -42,25 +42,25 @@
     {
       "id": "prensa-europapress-cultura",
       "status": "ok",
-      "count": 1,
+      "count": 0,
       "candidatos": true
     },
     {
       "id": "prensa-20minutos-cultura",
       "status": "ok",
-      "count": 12,
+      "count": 17,
       "candidatos": true
     },
     {
       "id": "prensa-elpais-cultura",
       "status": "ok",
-      "count": 13,
+      "count": 14,
       "candidatos": true
     },
     {
       "id": "prensa-lavanguardia-cultura",
       "status": "ok",
-      "count": 29,
+      "count": 28,
       "candidatos": true
     },
     {
@@ -72,13 +72,13 @@
     {
       "id": "prensa-heraldo-ocio",
       "status": "ok",
-      "count": 22,
+      "count": 19,
       "candidatos": true
     },
     {
       "id": "prensa-nortecastilla-culturas",
       "status": "ok",
-      "count": 14,
+      "count": 15,
       "candidatos": true
     },
     {
@@ -90,13 +90,13 @@
     {
       "id": "prensa-diariosur-culturas",
       "status": "ok",
-      "count": 9,
+      "count": 8,
       "candidatos": true
     },
     {
       "id": "prensa-ideal-culturas",
       "status": "ok",
-      "count": 21,
+      "count": 18,
       "candidatos": true
     },
     {
@@ -108,43 +108,43 @@
     {
       "id": "prensa-elcorreo-culturas",
       "status": "ok",
-      "count": 9,
+      "count": 13,
       "candidatos": true
     },
     {
       "id": "prensa-diariovasco-culturas",
       "status": "ok",
-      "count": 15,
+      "count": 20,
       "candidatos": true
     },
     {
       "id": "prensa-lasprovincias-culturas",
       "status": "ok",
-      "count": 21,
+      "count": 22,
       "candidatos": true
     },
     {
       "id": "prensa-laverdad-culturas",
       "status": "ok",
-      "count": 15,
+      "count": 21,
       "candidatos": true
     },
     {
       "id": "prensa-diariomontanes-culturas",
       "status": "ok",
-      "count": 11,
+      "count": 14,
       "candidatos": true
     },
     {
       "id": "prensa-elcomercio-culturas",
       "status": "ok",
-      "count": 2,
+      "count": 3,
       "candidatos": true
     },
     {
       "id": "prensa-larioja-culturas",
       "status": "ok",
-      "count": 8,
+      "count": 9,
       "candidatos": true
     },
     {
