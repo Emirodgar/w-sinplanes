@@ -2035,3 +2035,197 @@ pazo-oca:
           r: "En primavera y otoño, cuando el jardín está más florido o con más color."
         - p: "¿Es gratis?"
           r: "La visita a los jardines suele ser de pago. Consulta siempre la web oficial para horarios, entradas y condiciones de acceso, que cambian."
+plaza-mayor-caceres:
+  relacionados: [torre-bujaco, museo-caceres, iglesia-concatedral-santa-maria-caceres, semana-santa-caceres]
+  contenido:
+    es:
+      texto:
+        - "La Plaza Mayor de Cáceres es el punto de entrada a la ciudad monumental, Patrimonio de la Humanidad desde 1986. Es una gran plaza irregular, a los pies de la muralla, rodeada de soportales, terrazas y edificios históricos, y es el centro de la vida social de la ciudad."
+        - "En uno de sus lados se abre el Arco de la Estrella, la puerta principal de la ciudad vieja, construida en el siglo XVIII, y junto a ella se alza la Torre de Bujaco. Desde la plaza se accede a la parte antigua, un laberinto de calles empedradas, palacios, torres y casas señoriales de piedra."
+        - "Es un buen lugar para empezar el recorrido y para tomar algo en las terrazas, sobre todo al atardecer, cuando la luz sobre las murallas es especialmente bonita. Aprovecha para probar productos de la tierra, como el jamón, el queso de la Torta del Casar o las migas. Consulta siempre la web oficial para horarios, entradas y condiciones de acceso, que cambian."
+      faq:
+        - p: "¿Qué es la Plaza Mayor de Cáceres?"
+          r: "La gran plaza que da acceso a la ciudad monumental, junto al Arco de la Estrella y la muralla."
+        - p: "¿Qué ver cerca?"
+          r: "El Arco de la Estrella, la Torre de Bujaco y las calles de la ciudad monumental."
+        - p: "¿Cuándo es mejor ir?"
+          r: "Al atardecer, cuando la luz sobre las murallas es más bonita y hace menos calor en verano."
+        - p: "¿Qué se puede comer?"
+          r: "Jamón, queso de la Torta del Casar, migas y platos de la cocina extremeña en las terrazas y bares de la zona."
+        - p: "¿Es Patrimonio Mundial?"
+          r: "Sí, la ciudad monumental de Cáceres está declarada Patrimonio de la Humanidad desde 1986."
+torre-bujaco:
+  relacionados: [plaza-mayor-caceres, museo-caceres, iglesia-concatedral-santa-maria-caceres]
+  contenido:
+    es:
+      texto:
+        - "La Torre de Bujaco es una torre de origen almohade, del siglo XII, junto al Arco de la Estrella, en la muralla de Cáceres. Es el símbolo de la ciudad y una de las pocas torres almohades que se conservan en la Península, con una silueta inconfundible sobre la Plaza Mayor."
+        - "Se puede subir a lo alto para ver la plaza, la ciudad monumental y los tejados desde arriba. Junto a la torre está la ermita de la Paz, dedicada a la Virgen de la Paz. El conjunto de la muralla se puede recorrer en parte, con paseos a lo largo de sus lienzos."
+        - "Es una visita corta, de unos 20 o 30 minutos. Se combina con la Plaza Mayor y con el paseo por la ciudad vieja. Consulta si hay visita guiada y los horarios de apertura de la torre. Consulta siempre la web oficial para horarios, entradas y condiciones de acceso, que cambian."
+      faq:
+        - p: "¿Qué es la Torre de Bujaco?"
+          r: "Una torre almohade del siglo XII junto al Arco de la Estrella, símbolo de la muralla de Cáceres."
+        - p: "¿Se puede subir?"
+          r: "Sí, a la parte alta, con vistas de la plaza y la ciudad monumental. Consulta los horarios."
+        - p: "¿Cuánto tiempo se necesita?"
+          r: "Unos 20-30 minutos."
+        - p: "¿Qué hay junto a la torre?"
+          r: "El Arco de la Estrella y la ermita de la Paz."
+        - p: "¿Es gratis?"
+          r: "Consulta las condiciones de acceso en la web oficial."
+museo-caceres:
+  relacionados: [plaza-mayor-caceres, palacio-golfines-abajo, iglesia-concatedral-santa-maria-caceres]
+  contenido:
+    es:
+      texto:
+        - "El Museo de Cáceres está instalado en la Casa de las Veletas, un palacio del siglo XVI construido sobre un antiguo aljibe almohade, y en una casa contigua. Es el museo arqueológico y etnográfico de la ciudad y de la provincia, con colecciones que van de la Prehistoria a la época medieval."
+        - "La pieza más impresionante es el aljibe almohade, una cisterna del siglo XII con arcos de herradura que se visita dentro del propio museo. También hay piezas prehistóricas, romanas y visigodas, estelas, objetos de la vida cotidiana y una sección dedicada a la etnografía extremeña."
+        - "Prevé una hora o una hora y media de visita. Es una buena forma de entender la historia de la ciudad antes de recorrer la ciudad monumental. Consulta los horarios y las condiciones de entrada. Consulta siempre la web oficial para horarios, entradas y condiciones de acceso, que cambian."
+      faq:
+        - p: "¿Qué es el Museo de Cáceres?"
+          r: "El museo arqueológico y etnográfico de la ciudad, en la Casa de las Veletas, un palacio del siglo XVI."
+        - p: "¿Qué es el aljibe?"
+          r: "Una cisterna almohade del siglo XII con arcos de herradura, que se visita dentro del museo."
+        - p: "¿Qué hay en las colecciones?"
+          r: "Piezas prehistóricas, romanas y medievales, y una sección de etnografía extremeña."
+        - p: "¿Cuánto tiempo se necesita?"
+          r: "Entre una hora y una hora y media."
+        - p: "¿Es gratis?"
+          r: "El museo suele tener condiciones especiales de entrada. Consulta siempre la web oficial para horarios, entradas y condiciones de acceso, que cambian."
+palacio-ovando:
+  relacionados: [palacio-golfines-abajo, palacio-mayoralgo, plaza-mayor-caceres]
+  contenido:
+    es:
+      texto:
+        - "El Palacio de Ovando es una de las grandes casas señoriales de la ciudad monumental de Cáceres, una casa-fuerte de los siglos XV y XVI con una fachada sobria y un gran escudo nobiliario. Es un ejemplo de cómo las familias nobles de la ciudad levantaron sus palacios dentro de la muralla."
+        - "Como en muchos palacios de la ciudad vieja, la visita se hace sobre todo desde el exterior: la fachada de piedra, el escudo y la torre muestran el poder de los linajes que gobernaron Cáceres. El entorno, con calles empedradas y plazas silenciosas, es un buen escenario para pasear."
+        - "Es una parada breve dentro del recorrido por la ciudad monumental. Consulta si el interior se abre al público o en visitas organizadas, porque cambia. Combínalo con el resto de palacios y con el paseo por la ciudad vieja. Consulta siempre la web oficial para horarios, entradas y condiciones de acceso, que cambian."
+      faq:
+        - p: "¿Qué es el Palacio de Ovando?"
+          r: "Una casa-fuerte señorial de los siglos XV y XVI en la ciudad monumental de Cáceres."
+        - p: "¿Se puede visitar por dentro?"
+          r: "Depende. Consulta si hay visitas organizadas o apertura al público."
+        - p: "¿Qué ver?"
+          r: "La fachada de piedra, el escudo nobiliario y el entorno de la ciudad vieja."
+        - p: "¿Cuánto tiempo se necesita?"
+          r: "Unos 10-15 minutos para verlo por fuera."
+        - p: "¿Qué hay cerca?"
+          r: "Otros palacios de la ciudad vieja, como el de los Golfines de Abajo y el de Mayoralgo."
+palacio-golfines-abajo:
+  relacionados: [palacio-ovando, palacio-mayoralgo, museo-caceres]
+  contenido:
+    es:
+      texto:
+        - "El Palacio de los Golfines de Abajo es una de las grandes casas-fuertes de la ciudad monumental de Cáceres. Construido en el siglo XV por la familia Golfín, es famoso porque en él se alojaron los Reyes Católicos durante sus estancias en la ciudad."
+        - "Su fachada, de piedra, con ventanas con parteluz y un gran escudo, es una de las más fotografiadas de Cáceres. Desde la plaza de los Golfines, rodeada de otros palacios, se aprecia la fuerza de la arquitectura señorial de la ciudad vieja."
+        - "Algunas zonas se visitan en visitas guiadas, y otras solo se ven desde fuera. Consulta si hay visitas y los horarios. Es una parada obligada del recorrido por la ciudad monumental. Consulta siempre la web oficial para horarios, entradas y condiciones de acceso, que cambian."
+      faq:
+        - p: "¿Quiénes se alojaron en el palacio?"
+          r: "Los Reyes Católicos, durante sus estancias en Cáceres."
+        - p: "¿Qué es el Palacio de los Golfines de Abajo?"
+          r: "Una casa-fuerte señorial del siglo XV en la ciudad monumental de Cáceres."
+        - p: "¿Se puede visitar?"
+          r: "Algunas zonas, con visita guiada. Consulta los horarios y condiciones."
+        - p: "¿Dónde está?"
+          r: "En la plaza de los Golfines, en la parte antigua de Cáceres."
+        - p: "¿Cuánto tiempo se necesita?"
+          r: "Unos 15-30 minutos, según si entras o lo ves por fuera."
+palacio-mayoralgo:
+  relacionados: [palacio-ovando, palacio-golfines-abajo, palacio-episcopal-caceres]
+  contenido:
+    es:
+      texto:
+        - "El Palacio de Mayoralgo es otra de las casas señoriales de la ciudad monumental de Cáceres, un edificio de origen medieval con una fachada de piedra y elementos góticos y renacentistas. Representa el poder de las familias nobles que levantaron sus casas-fuertes dentro de las murallas."
+        - "La visita se centra en la fachada y el entorno, con calles empedradas y plazas que conservan el ambiente medieval. Cáceres es una de las ciudades con más palacios medievales y renacentistas de Europa, y recorrerlos a pie es una de las mejores formas de conocerla."
+        - "Es una parada breve dentro del recorrido por la ciudad monumental. Consulta si el interior abre al público o en visitas organizadas. Consulta siempre la web oficial para horarios, entradas y condiciones de acceso, que cambian."
+      faq:
+        - p: "¿Qué es el Palacio de Mayoralgo?"
+          r: "Una casa señorial de origen medieval en la ciudad monumental de Cáceres."
+        - p: "¿Se puede visitar por dentro?"
+          r: "Depende de las visitas organizadas. Consulta la web oficial."
+        - p: "¿Qué ver?"
+          r: "La fachada, los elementos góticos y renacentistas y el entorno de la ciudad vieja."
+        - p: "¿Cuánto tiempo se necesita?"
+          r: "Unos 10-15 minutos para verlo por fuera."
+        - p: "¿Qué hay cerca?"
+          r: "Otros palacios de la ciudad vieja, la concatedral de Santa María y la plaza de Santa María."
+palacio-episcopal-caceres:
+  relacionados: [iglesia-concatedral-santa-maria-caceres, palacio-mayoralgo, plaza-mayor-caceres]
+  contenido:
+    es:
+      texto:
+        - "El Palacio Episcopal de Cáceres es un edificio histórico situado junto a la concatedral de Santa María, en la plaza del mismo nombre, en el corazón de la ciudad monumental. Es la sede tradicional del obispo, y muestra la importancia religiosa que tuvo la ciudad."
+        - "Su fachada de piedra, con elementos renacentistas, se integra en el conjunto de la plaza de Santa María, rodeada por la concatedral, otros palacios y casas señoriales. Es una de las plazas más bonitas de la ciudad vieja, con unas vistas muy fotogénicas."
+        - "La visita es sobre todo exterior, con la plaza y la concatedral como protagonistas. Consulta si hay visitas guiadas al interior o a algunos espacios del palacio. Consulta siempre la web oficial para horarios, entradas y condiciones de acceso, que cambian."
+      faq:
+        - p: "¿Qué es el Palacio Episcopal?"
+          r: "La sede tradicional del obispo, junto a la concatedral de Santa María, en la ciudad monumental de Cáceres."
+        - p: "¿Se puede visitar?"
+          r: "Depende de las visitas organizadas. Consulta la web oficial."
+        - p: "¿Qué ver cerca?"
+          r: "La concatedral de Santa María, con su torre, y los palacios de la plaza."
+        - p: "¿Cuánto tiempo se necesita?"
+          r: "Unos 10-15 minutos para verlo por fuera."
+        - p: "¿Dónde está?"
+          r: "En la plaza de Santa María, en la ciudad monumental de Cáceres."
+iglesia-concatedral-santa-maria-caceres:
+  relacionados: [palacio-episcopal-caceres, plaza-mayor-caceres, semana-santa-caceres]
+  contenido:
+    es:
+      texto:
+        - "La Concatedral de Santa María es el principal templo de la ciudad monumental de Cáceres, una iglesia gótica de los siglos XV y XVI situada en la plaza de Santa María. Fue la iglesia más importante de la ciudad y hoy comparte la categoría de catedral con la de Coria."
+        - "Por dentro destaca su retablo mayor de madera, de gran tamaño y riqueza, y las capillas laterales con tumbas de linajes nobles. Es una de las iglesias donde más se vive la Semana Santa de Cáceres. Se puede subir a la torre, que ofrece unas vistas espléndidas de la ciudad monumental."
+        - "Prevé una hora de visita y consulta si la subida a la torre está abierta y sus horarios. Respeta el carácter religioso del edificio y la vestimenta adecuada. Consulta siempre la web oficial para horarios, entradas y condiciones de acceso, que cambian."
+      faq:
+        - p: "¿Qué es la Concatedral de Santa María?"
+          r: "El principal templo de la ciudad monumental de Cáceres, una iglesia gótica de los siglos XV y XVI."
+        - p: "¿Por qué se llama concatedral?"
+          r: "Porque comparte la categoría de catedral con la de Coria, en la diócesis de Coria-Cáceres."
+        - p: "¿Se puede subir a la torre?"
+          r: "Sí, con vistas de la ciudad. Consulta los horarios y las condiciones."
+        - p: "¿Qué ver por dentro?"
+          r: "El retablo mayor de madera y las capillas laterales."
+        - p: "¿Qué ropa llevar?"
+          r: "Ropa discreta, por respeto al carácter religioso del edificio."
+santuario-nuestra-senora-guadalupe:
+  relacionados: [museo-caceres, plaza-mayor-caceres, cueva-valporquero]
+  contenido:
+    es:
+      texto:
+        - "El Real Monasterio de Santa María de Guadalupe, en la sierra de las Villuercas (Cáceres), es uno de los grandes santuarios de España y Patrimonio de la Humanidad desde 1993. Guarda la imagen de la Virgen de Guadalupe, patrona de Extremadura y una de las advocaciones marianas más importantes del mundo hispano."
+        - "El conjunto es una mezcla de estilos gótico, mudéjar, renacentista y barroco, con un gran claustro mudéjar, un museo de bordados y manuscritos y una sacristía con una colección de pinturas de Zurbarán. La plaza y el pueblo, de calles empedradas y casas de madera y piedra, mantienen un ambiente medieval."
+        - "La visita al monasterio es guiada y tiene horarios determinados, así que conviene consultar y reservar. Aprovecha para comer en la hospedería o en los restaurantes del pueblo, con productos de la zona, y para recorrer la sierra de las Villuercas. Consulta siempre la web oficial para horarios, entradas y condiciones de acceso, que cambian."
+      faq:
+        - p: "¿Qué es el Monasterio de Guadalupe?"
+          r: "Un gran santuario en la sierra de las Villuercas (Cáceres), Patrimonio Mundial desde 1993, con la imagen de la Virgen de Guadalupe."
+        - p: "¿Quién es la Virgen de Guadalupe?"
+          r: "La patrona de Extremadura, muy venerada en España y en América."
+        - p: "¿Qué ver?"
+          r: "El claustro mudéjar, el museo de bordados, la sacristía con las pinturas de Zurbarán y la iglesia."
+        - p: "¿Se visita con guía?"
+          r: "Sí, la visita es guiada y en horarios determinados. Consulta y reserva."
+        - p: "¿Qué más ver cerca?"
+          r: "El pueblo de Guadalupe y la sierra de las Villuercas."
+        - p: "¿Es Patrimonio Mundial?"
+          r: "Sí, desde 1993."
+cueva-valporquero:
+  relacionados: [santuario-nuestra-senora-guadalupe, gruta-las-maravillas, parque-nacional-picos-europa]
+  contenido:
+    es:
+      texto:
+        - "La Cueva de Valporquero es una de las cuevas más espectaculares de España y uno de los grandes atractivos de la provincia de León. Se encuentra en Vegacervera, en la montaña leonesa, y se recorre con visita guiada por galerías con estalactitas, estalagmitas y salas de gran belleza."
+        - "El recorrido pasa por varias salas, con formaciones que recuerdan a figuras, y con una iluminación cuidada que realza las formas. La temperatura interior es baja y constante durante todo el año, por lo que conviene llevar abrigo. En algunos tramos hay escaleras y suelos húmedos."
+        - "El aforo es limitado y la visita se hace en grupos, así que reserva con antelación. Lleva calzado cómodo y abrigo, y consulta las fechas de apertura, porque no siempre está abierta todo el año. Es un buen plan en cualquier época, aunque en verano resulta un refugio del calor. Consulta siempre la web oficial para horarios, entradas y condiciones de acceso, que cambian."
+      faq:
+        - p: "¿Dónde está la Cueva de Valporquero?"
+          r: "En Vegacervera, en la montaña de León."
+        - p: "¿Cómo se visita?"
+          r: "Con visita guiada por grupos. Consulta los horarios y reserva."
+        - p: "¿Hace frío dentro?"
+          r: "Sí, la temperatura interior es baja y constante todo el año, por lo que conviene llevar abrigo."
+        - p: "¿Hay que reservar?"
+          r: "Sí, conviene reservar con antelación, porque el aforo es limitado."
+        - p: "¿Es buen plan con niños?"
+          r: "Sí, aunque hay escaleras y suelos húmedos. Consulta las condiciones de acceso."
+        - p: "¿Cuándo está abierta?"
+          r: "No siempre abre todo el año. Consulta las fechas en la web oficial."
