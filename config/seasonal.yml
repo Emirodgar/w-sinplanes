@@ -1546,6 +1546,32 @@ citas:
             r: "Un documento donde se sellan las visitas. Con al menos 14 sellos y entregado en Monumenta Salmanticae antes del 29 de diciembre, se participa en el sorteo de una visita al sanctasanctórum de la Biblioteca Antigua de la Universidad."
           - p: "¿Es buen plan con niños?"
             r: "Sí, hay juegos de pistas y actividades participativas pensadas para familias. Consulta en la web oficial cuáles se adaptan a cada edad."
+  - id: marcha-contra-cancer-salamanca
+    regla: { tipo: fija, inicio: "11-22" }
+    aprox: true
+    temas: [actividades]
+    lugar: { provincia: "Salamanca", municipio: "Salamanca" }
+    fuente: "https://www.tribunasalamanca.com/noticias/464371/mas-de-150-voluntarios-pondran-rostro-a-la-solidaridad-en-la-marcha-contra-el-cancer-de-salamanca"
+    es: { titulo: "Marcha contra el Cáncer de Salamanca", resumen: "Marcha solidaria de la AECC por Salamanca con llegada a la Plaza Mayor. La edición de 2026 es el domingo 22 de noviembre; inscripción de 8 euros." }
+    en: { titulo: "Salamanca March Against Cancer", resumen: "A charity walk by the AECC through Salamanca, finishing at the Plaza Mayor. The 2026 edition is on Sunday 22 November; registration costs 8 euros." }
+    relacionados: [plaza-mayor-salamanca, salamanca-un-dia, llaves-de-la-ciudad-salamanca]
+    contenido:
+      es:
+        texto:
+          - "La Marcha contra el Cáncer de Salamanca es una jornada solidaria que organiza la Asociación Española Contra el Cáncer (AECC) para reunir a salmantinos de todas las edades en apoyo a las personas que conviven con la enfermedad y a sus familias. La edición de 2026 se celebra el domingo 22 de noviembre."
+          - "El recorrido es el mismo que el de la edición anterior y termina en la Plaza Mayor. La organización lo ha previsto accesible para que pueda participar el mayor número de personas. Habrá puntos de animación con DJ y actuaciones musicales a lo largo del camino, y el acto final contará con interpretación en lengua de signos."
+          - "Más de 150 voluntarios de distintas edades colaboran en la organización. La inscripción cuesta ocho euros, la misma cifra que el año pasado, y se abre del 9 al 21 de noviembre, de forma presencial y por internet. Los puntos y horarios de inscripción, así como la hora de salida, se anuncian en los canales oficiales de la AECC, así que conviene consultarlos antes de ir."
+        faq:
+          - p: "¿Cuándo es la Marcha contra el Cáncer de Salamanca?"
+            r: "El domingo 22 de noviembre de 2026. La fecha cambia de un año a otro, así que consulta la web de la AECC si buscas otra edición."
+          - p: "¿Cuánto cuesta y cómo me apunto?"
+            r: "La inscripción cuesta ocho euros y se puede hacer del 9 al 21 de noviembre, de forma presencial y por internet. Los puntos y horarios los publica la AECC en sus canales oficiales."
+          - p: "¿Dónde termina la marcha?"
+            r: "En la Plaza Mayor de Salamanca. El recorrido es el mismo que el de la edición anterior."
+          - p: "¿Es accesible?"
+            r: "Sí, la organización ha previsto un recorrido accesible y el acto final tendrá interpretación en lengua de signos."
+          - p: "¿Es buen plan con niños?"
+            r: "Sí, es una jornada pensada para familias y grupos de amigos, con música y animación a lo largo del recorrido."
   - id: semana-santa-caceres
     regla: { tipo: pascua, desde: -7, hasta: 0 }
     temas: [fiestas, cultura]
