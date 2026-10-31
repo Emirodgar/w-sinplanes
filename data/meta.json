@@ -1,11 +1,11 @@
 {
-  "generated": "2026-10-31T10:25:03.819Z",
+  "generated": "2026-10-31T11:17:51.526Z",
   "today": "2026-10-31",
-  "events": 4763,
-  "review": 8,
+  "events": 4792,
+  "review": 10,
   "ai": {
-    "calls": 0,
-    "seconds": 52,
+    "calls": 13,
+    "seconds": 192,
     "tripped": false
   },
   "sources": [
@@ -54,7 +54,7 @@
     {
       "id": "prensa-elpais-cultura",
       "status": "ok",
-      "count": 16,
+      "count": 18,
       "candidatos": true
     },
     {
@@ -96,7 +96,7 @@
     {
       "id": "prensa-ideal-culturas",
       "status": "ok",
-      "count": 17,
+      "count": 19,
       "candidatos": true
     },
     {

@@ -78,5 +78,25 @@
   "confianza": 0.5,
   "fuente": "El Correo (Culturas)",
   "url": "https://www.elcorreo.com/culturas/musica/sala-bbk-acoge-sabado-concierto-beneficio-investigacion-20261030113452-nt.html"
+ },
+ {
+  "id": "4956832dab",
+  "titulo": "Enrique Bunbury en Cali (Colombia) con Nuevas Mutaciones Tour",
+  "inicio": "2026-10-31",
+  "municipio": "Cali",
+  "provincia": null,
+  "confianza": 0.5,
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/31/enrique-bunbury-nino-viviamos-pequeno-piso-zaragoza-abuelos-padres-hermanos-2063541.html"
+ },
+ {
+  "id": "b3e8ce3393",
+  "titulo": "Festival RBLS de Teatre Jove celebra su 10ª edición",
+  "inicio": "2026-11-06",
+  "municipio": null,
+  "provincia": null,
+  "confianza": 0.5,
+  "fuente": "Ara (Cultura)",
+  "url": "https://www.ara.cat/cultura/10a-edicio-festival-rbls-teatre-jove-aborda-salut-mental-memoria-historica_25_5895009.html"
  }
 ]

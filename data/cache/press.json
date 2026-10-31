@@ -11328,5 +11328,1077 @@
   "src": "prensa-20minutos-cultura",
   "publicado": "2026-10-29",
   "es_plan": false
+ },
+ "bccfb5e49a": {
+  "url": "https://elpais.com/cultura/2026-10-31/michel-houellebecq-escritor-es-agotador-que-te-llamen-escritor-facha-pero-uno-termina-por-resignarse.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-10-31",
+  "es_plan": true,
+  "titulo": "Michel Houellebecq en el Ja! Festival de Bilbao",
+  "resumen": "El controvertido escritor francés Michel Houellebecq visita el Ja! Festival de Literatura y Arte con Humor de Bilbao. El autor de 'Sumisión' hablará sobre literatura, creación y política en el evento.",
+  "en": {
+   "titulo": "Michel Houellebecq at the Ja! Festival in Bilbao",
+   "resumen": "The controversial French writer Michel Houellebecq visits the Ja! Festival of Literature and Humor in Bilbao. The author of 'Submission' will discuss literature, creation, and politics at the event."
+  },
+  "inicio": "2026-10-31",
+  "fin": "2026-10-31",
+  "hora": null,
+  "lugar": null,
+  "municipio": "Bilbao",
+  "provincia": "Vizcaya",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "b6bb02d322": {
+  "url": "https://elpais.com/cultura/2026-10-31/marisa-manchado-el-ultimo-viaje.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-10-31",
+  "es_plan": false
+ },
+ "95f24cfbfc": {
+  "url": "https://elpais.com/cultura/cine/2026-10-31/dao-apuesta-arriesgada-y-experimental-sobre-la-familia-y-africa-gana-en-la-seminci.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-10-31",
+  "es_plan": false
+ },
+ "9e4a628f94": {
+  "url": "https://elpais.com/cultura/2026-10-31/buscando-sirenas-en-napoles.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-10-31",
+  "es_plan": false
+ },
+ "d2c2292ebb": {
+  "url": "https://elpais.com/cultura/2026-10-31/lisette-oropesa-da-una-leccion-de-bel-canto-con-bellini-en-el-liceu.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-10-31",
+  "es_plan": true,
+  "titulo": "Lisette Oropesa triunfa en 'I Capuleti e i Montecchi' en el Liceu",
+  "resumen": "La soprano Lisette Oropesa protagoniza 'I Capuleti e i Montecchi' de Bellini en el Gran Teatre del Liceu de Barcelona. La producción, dirigida por Allex Aguilera, estará en cartel hasta el 12 de noviembre.",
+  "en": {
+   "titulo": "Lisette Oropesa triumphs in 'I Capuleti e i Montecchi' at the Liceu",
+   "resumen": "Soprano Lisette Oropesa stars in Bellini's 'I Capuleti e i Montecchi' at the Gran Teatre del Liceu in Barcelona. The production, directed by Allex Aguilera, will be showing until November 12th."
+  },
+  "inicio": "2026-10-30",
+  "fin": "2026-11-12",
+  "hora": null,
+  "lugar": "Gran Teatre del Liceu",
+  "municipio": "Barcelona",
+  "provincia": "Barcelona",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "c7112283ec": {
+  "url": "https://elpais.com/cultura/2026-10-31/santiago-munoz-machado-director-de-la-rae-el-ingles-no-esta-destrozando-el-espanol.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-10-31",
+  "es_plan": false
+ },
+ "a981f36dbf": {
+  "url": "https://www.lavanguardia.com/cultura/culturas/20261031/11670116/flamenco-cine-historia-romance-vista-isaki-lacuesta.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-10-31",
+  "es_plan": false
+ },
+ "7c803b1a73": {
+  "url": "https://www.lavanguardia.com/cultura/culturas/20261031/11670089/formentor-bienvenidos-biblioteca-universal-gran-literatura.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-10-31",
+  "es_plan": false
+ },
+ "280312b048": {
+  "url": "https://www.lavanguardia.com/cultura/20261031/11670117/branford-marsalis-samara-joy-kyle-eastwood-puro-jazz-brl.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-10-31",
+  "es_plan": true,
+  "titulo": "Festival de Jazz de Barcelona: Branford Marsalis, Samara Joy y más",
+  "resumen": "El Festival de Jazz de Barcelona celebra su 60º aniversario con un programa que se extiende durante noviembre y diciembre, incluyendo a figuras como Branford Marsalis y Samara Joy.",
+  "en": {
+   "titulo": "Barcelona Jazz Festival: Branford Marsalis, Samara Joy, and more",
+   "resumen": "The Barcelona Jazz Festival celebrates its 60th anniversary with a program running through November and December, featuring artists like Branford Marsalis and Samara Joy."
+  },
+  "inicio": "2026-11-01",
+  "fin": "2026-12-31",
+  "hora": null,
+  "lugar": "Palau de la Música Catalana",
+  "municipio": "Barcelona",
+  "provincia": "Barcelona",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "feb75d2243": {
+  "url": "https://www.lavanguardia.com/cultura/20261031/11672493/odio-pasion-tragedia-liceu-opera-bellini.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-10-31",
+  "es_plan": true,
+  "titulo": "Estreno de 'I Capuleti e i Montecchi' en el Liceu",
+  "resumen": "El Gran Teatre del Liceu de Barcelona estrena la ópera 'I Capuleti e i Montecchi' de Bellini. La obra, que trata sobre odios, pasiones y tragedias, se presenta como un reflejo de la actualidad.",
+  "en": {
+   "titulo": "Premiere of 'I Capuleti e i Montecchi' at the Liceu",
+   "resumen": "The Gran Teatre del Liceu in Barcelona premieres Bellini's opera 'I Capuleti e i Montecchi'. The work, dealing with hatred, passion, and tragedy, is presented as a reflection of current events."
+  },
+  "inicio": "2026-10-30",
+  "fin": "2026-11-12",
+  "hora": null,
+  "lugar": "Gran Teatre del Liceu",
+  "municipio": "Barcelona",
+  "provincia": "Barcelona",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "001893309b": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/31/torero-roca-rey-30anos-mucho-miedo-motivado-2064585.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-10-31",
+  "es_plan": true,
+  "titulo": "Andrés Roca Rey en la Plaza de Acho de Lima",
+  "resumen": "El torero Andrés Roca Rey regresa a los ruedos en Perú este fin de semana, participando en dos corridas en la Plaza de Acho de Lima los días 31 de octubre y 1 de noviembre.",
+  "en": {
+   "titulo": "Andrés Roca Rey at the Plaza de Acho in Lima",
+   "resumen": "The bullfighter Andrés Roca Rey returns to the bullrings in Peru this weekend, participating in two bullfights at the Plaza de Acho in Lima on October 31st and November 1st."
+  },
+  "inicio": "2026-10-31",
+  "fin": "2026-11-01",
+  "hora": null,
+  "lugar": "Plaza de Acho",
+  "municipio": "Lima",
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "deporte"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "11dba22871": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/31/jose-sacristan-89anos-detestables-actitudes-miserables-santiago-abascal-accidente-ferroviario-2064584.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-10-31",
+  "es_plan": true,
+  "titulo": "José Sacristán en 'El hijo de la cómica' en Zaragoza",
+  "resumen": "El actor José Sacristán continúa de gira con la obra 'El hijo de la cómica'. Este fin de semana actúa en Logroño y del 16 al 20 de diciembre estará en el Teatro Principal de Zaragoza.",
+  "en": {
+   "titulo": "José Sacristán in 'El hijo de la cómica' in Zaragoza",
+   "resumen": "Actor José Sacristán continues his tour with the play 'El hijo de la cómica'. This weekend he performs in Logroño and from December 16th to 20th he will be at the Teatro Principal in Zaragoza."
+  },
+  "inicio": "2026-12-16",
+  "fin": "2026-12-20",
+  "hora": null,
+  "lugar": "Teatro Principal",
+  "municipio": "Zaragoza",
+  "provincia": "Zaragoza",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "4956832dab": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/31/enrique-bunbury-nino-viviamos-pequeno-piso-zaragoza-abuelos-padres-hermanos-2063541.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-10-31",
+  "es_plan": true,
+  "titulo": "Enrique Bunbury en Cali (Colombia) con Nuevas Mutaciones Tour",
+  "resumen": "Enrique Bunbury continúa su gira 'Nuevas Mutaciones Tour' y actúa este sábado 31 de octubre en Cali, Colombia. La gira pasará también por Argentina, Perú, Chile, Estados Unidos y España.",
+  "en": {
+   "titulo": "Enrique Bunbury in Cali (Colombia) with Nuevas Mutaciones Tour",
+   "resumen": "Enrique Bunbury continues his 'Nuevas Mutaciones Tour' and performs this Saturday, October 31st, in Cali, Colombia. The tour will also visit Argentina, Peru, Chile, the United States, and Spain."
+  },
+  "inicio": "2026-10-31",
+  "fin": "2026-10-31",
+  "hora": null,
+  "lugar": null,
+  "municipio": "Cali",
+  "provincia": null,
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.5
+ },
+ "fd5014cc34": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/31/lectura-tenorio-cine-terror-marcan-oferta-ocio-para-halloween-2064516.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-10-31",
+  "es_plan": true,
+  "titulo": "Oferta de ocio por Halloween en Zaragoza",
+  "resumen": "Zaragoza ofrece diversas actividades para Halloween, incluyendo la lectura del Tenorio en el cementerio de Torrero y maratones de cine de terror. La programación se extiende a los días posteriores.",
+  "en": {
+   "titulo": "Leisure offerings for Halloween in Zaragoza",
+   "resumen": "Zaragoza offers various activities for Halloween, including a reading of 'El Tenorio' in the Torrero cemetery and horror film marathons. The program extends to the following days."
+  },
+  "inicio": "2026-10-31",
+  "fin": "2026-10-31",
+  "hora": null,
+  "lugar": "Cementerio de Torrero",
+  "municipio": "Zaragoza",
+  "provincia": "Zaragoza",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "fiestas",
+   "pantalla"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "d2a8166646": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/31/risto-mejide-51anos-desayuno-tostadas-pan-tumaca-lonchas-jamon-iberico-zumo-naranja-cafe-leche-soja-2064373.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-10-31",
+  "es_plan": false
+ },
+ "5a74c36e86": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/31/busto-goya-tiene-dueno-fundacion-zuloaga-invierte-euros-escultura-pintor-2063836.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-10-31",
+  "es_plan": false
+ },
+ "1f384cd9d1": {
+  "url": "https://www.elnortedecastilla.es/culturas/seminci/programa/programa-completo-seminci-2026-sabado-octubre-20261031083753-nt.html",
+  "fuente": "El Norte de Castilla (Culturas)",
+  "src": "prensa-nortecastilla-culturas",
+  "publicado": "2026-10-31",
+  "es_plan": true,
+  "titulo": "Programa completo de la Seminci 2026: sábado 31 de octubre",
+  "resumen": "Consulta el programa completo de la jornada de clausura de la Semana Internacional del Cine de Valladolid.",
+  "en": {
+   "titulo": "Full program of Seminci 2026: Saturday, October 31",
+   "resumen": "Check the complete program for the closing day of the Valladolid International Film Festival."
+  },
+  "inicio": "2026-10-31",
+  "fin": "2026-10-31",
+  "hora": null,
+  "lugar": "Seminci",
+  "municipio": "Valladolid",
+  "provincia": "Valladolid",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "16a3d1bc5f": {
+  "url": "https://www.elnortedecastilla.es/culturas/libros/scorsese-tarantino-cuatro-libros-leer-sobre-cine-20261031083531-nt.html",
+  "fuente": "El Norte de Castilla (Culturas)",
+  "src": "prensa-nortecastilla-culturas",
+  "publicado": "2026-10-31",
+  "es_plan": false
+ },
+ "b2d348c8ff": {
+  "url": "https://www.ideal.es/culturas/francisco-carreno-recorre-camino-maravillas-escondida-20261031115056-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-10-31",
+  "es_plan": true,
+  "titulo": "Francisco Carreño recorre 'El camino de las maravillas' en La Escondida",
+  "resumen": "Hasta el 5 de diciembre, la sala La Escondida acoge una selección de 20 obras del pintor paisajista granadino Francisco Carreño, mostrando el paso del tiempo en la naturaleza.",
+  "en": {
+   "titulo": "Francisco Carreño travels 'The Path of Wonders' at La Escondida",
+   "resumen": "Until December 5, the La Escondida venue hosts a selection of 20 works by the Granada landscape painter Francisco Carreño, showing the passage of time in nature."
+  },
+  "inicio": "2026-10-31",
+  "fin": "2026-12-05",
+  "hora": null,
+  "lugar": "La Escondida",
+  "municipio": null,
+  "provincia": "Granada",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "naturaleza",
+   "museos"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "c4bebffdee": {
+  "url": "https://www.ideal.es/culturas/sesion-doble-festival-jazz-domingo-20261031115011-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-10-31",
+  "es_plan": true,
+  "titulo": "Sesión doble del Festival de Jazz para el domingo",
+  "resumen": "El Festival de Jazz ofrecerá una sesión doble este domingo.",
+  "en": {
+   "titulo": "Double session of the Jazz Festival for Sunday",
+   "resumen": "The Jazz Festival will offer a double session this Sunday."
+  },
+  "inicio": "2026-11-01",
+  "fin": "2026-11-01",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": "Granada",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.7
+ },
+ "124221ef8c": {
+  "url": "https://www.ideal.es/culturas/paulina-carmen-voz-granadina-conquisto-miguel-rios-20261031000355-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-10-31",
+  "es_plan": true,
+  "titulo": "Paulina del Carmen actuará el 8 de noviembre en el Isabel la Católica",
+  "resumen": "La cantautora granadina Paulina del Carmen actuará el 8 de noviembre en el Isabel la Católica, repasando su trayectoria y presentando su primer disco.",
+  "en": {
+   "titulo": "Paulina del Carmen will perform on November 8 at Isabel la Católica",
+   "resumen": "Granada-born singer-songwriter Paulina del Carmen will perform on November 8 at Isabel la Católica, reviewing her career and presenting her first album."
+  },
+  "inicio": "2026-11-08",
+  "fin": "2026-11-08",
+  "hora": null,
+  "lugar": "Isabel la Católica",
+  "municipio": null,
+  "provincia": "Granada",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "684cf64d21": {
+  "url": "https://www.elcorreo.com/culturas/musica/quedense-nombre-ariane-cagno-20261031014905-nt.html",
+  "fuente": "El Correo (Culturas)",
+  "src": "prensa-elcorreo-culturas",
+  "publicado": "2026-10-31",
+  "es_plan": false
+ },
+ "d31aaa49b2": {
+  "url": "https://www.elcorreo.com/culturas/libros/michel-houellebecq-ia-vuelva-hostil-lejano-hoy-20261030001112-nt.html",
+  "fuente": "El Correo (Culturas)",
+  "src": "prensa-elcorreo-culturas",
+  "publicado": "2026-10-31",
+  "es_plan": false
+ },
+ "dff702af9c": {
+  "url": "https://www.diariovasco.com/culturas/cine/semana-cine-fantastico-terror-donostia-inauguro-triste-20261031085003-nt.html",
+  "fuente": "El Diario Vasco (Culturas)",
+  "src": "prensa-diariovasco-culturas",
+  "publicado": "2026-10-31",
+  "es_plan": true,
+  "titulo": "Semana de Cine Fantástico y de Terror de Donostia: actividades el domingo y viernes 6",
+  "resumen": "La Semana de Cine Fantástico y de Terror de Donostia, inaugurada con elegancia, retomará sus actividades callejeras el domingo y el viernes 6 de noviembre tras suspenderlas por un accidente.",
+  "en": {
+   "titulo": "Donostia Fantastic and Horror Film Week: activities on Sunday and Friday 6",
+   "resumen": "The Donostia Fantastic and Horror Film Week, inaugurated with elegance, will resume its street activities on Sunday and Friday, November 6, after suspending them due to an accident."
+  },
+  "inicio": "2026-11-01",
+  "fin": "2026-11-06",
+  "hora": null,
+  "lugar": null,
+  "municipio": "Donostia-San Sebastián",
+  "provincia": "Gipuzkoa",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "2ffd39bea0": {
+  "url": "https://www.diariovasco.com/culturas/series/desagertuta-desaparecido-serie-netflix-san-sebastian-segunda-temporada-serie-20261031191955-nt.html",
+  "fuente": "El Diario Vasco (Culturas)",
+  "src": "prensa-diariovasco-culturas",
+  "publicado": "2026-10-31",
+  "es_plan": false
+ },
+ "4322871251": {
+  "url": "https://www.lasprovincias.es/culturas/musica/legado-fumiga-cuidad-musica-lengua-20261030000414-nt.html",
+  "fuente": "Las Provincias (Culturas)",
+  "src": "prensa-lasprovincias-culturas",
+  "publicado": "2026-10-31",
+  "es_plan": false
+ },
+ "2b938eceef": {
+  "url": "https://www.lasprovincias.es/culturas/tv/rtve-suspende-revuelta-proximo-lunes-noviembre-especial-20261030004018-nt.html",
+  "fuente": "Las Provincias (Culturas)",
+  "src": "prensa-lasprovincias-culturas",
+  "publicado": "2026-10-31",
+  "es_plan": false
+ },
+ "2f3ef414bc": {
+  "url": "https://www.lasprovincias.es/culturas/tv/tve-emite-sabado-boda-mejor-amigo-comedia-20261030000707-nt.html",
+  "fuente": "Las Provincias (Culturas)",
+  "src": "prensa-lasprovincias-culturas",
+  "publicado": "2026-10-31",
+  "es_plan": true,
+  "titulo": "TVE emite este sábado 'La boda de mi mejor amigo'",
+  "resumen": "La televisión pública emite este sábado la comedia romántica 'La boda de mi mejor amigo', protagonizada por Julia Roberts y Dermot Mulroney, para disfrutar durante el fin de semana.",
+  "en": {
+   "titulo": "TVE broadcasts 'My Best Friend's Wedding' this Saturday",
+   "resumen": "Public television broadcasts the romantic comedy 'My Best Friend's Wedding', starring Julia Roberts and Dermot Mulroney, for weekend enjoyment."
+  },
+  "inicio": "2026-10-31",
+  "fin": "2026-10-31",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "pantalla",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "9ea44f6c4d": {
+  "url": "https://www.eldiariomontanes.es/culturas/filmoteca-reedita-alianza-opera-oviedo-abrira-macbeth-20261031082800-nt.html",
+  "fuente": "El Diario Montañés (Culturas)",
+  "src": "prensa-diariomontanes-culturas",
+  "publicado": "2026-10-31",
+  "es_plan": true,
+  "titulo": "La Filmoteca de Oviedo homenajea a Gonzalo Suárez y acoge 'Cine Polska' en noviembre",
+  "resumen": "La Filmoteca de Oviedo reedita su alianza con la Ópera de Oviedo y en noviembre homenajea a Gonzalo Suárez y acoge el ciclo 'Cine Polska'.",
+  "en": {
+   "titulo": "The Oviedo Filmoteca pays tribute to Gonzalo Suárez and hosts 'Cine Polska' in November",
+   "resumen": "The Oviedo Filmoteca renews its alliance with the Oviedo Opera and in November pays tribute to Gonzalo Suárez and hosts the 'Cine Polska' cycle."
+  },
+  "inicio": "2026-11-01",
+  "fin": "2026-11-30",
+  "hora": null,
+  "lugar": "Filmoteca de Oviedo",
+  "municipio": "Oviedo",
+  "provincia": "Asturias",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "e79450ee2b": {
+  "url": "https://www.eldiariomontanes.es/culturas/ver-mover-santander-activara-ciudad-noviembre-traves-20261031075537-nt.html",
+  "fuente": "El Diario Montañés (Culturas)",
+  "src": "prensa-diariomontanes-culturas",
+  "publicado": "2026-10-31",
+  "es_plan": true,
+  "titulo": "'Hacer, ver, mover Santander' activa la ciudad en noviembre con la danza",
+  "resumen": "La segunda edición del festival 'Hacer, ver, mover Santander' se desarrollará del 3 al 7 de noviembre, reuniendo a 40 profesionales de la danza en siete espacios de la ciudad.",
+  "en": {
+   "titulo": "'Hacer, ver, mover Santander' activates the city in November with dance",
+   "resumen": "The second edition of the 'Hacer, ver, mover Santander' festival will take place from November 3 to 7, bringing together 40 dance professionals in seven city venues."
+  },
+  "inicio": "2026-11-03",
+  "fin": "2026-11-07",
+  "hora": null,
+  "lugar": null,
+  "municipio": "Santander",
+  "provincia": "Cantabria",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "9b6cf75801": {
+  "url": "https://www.larioja.com/culturas/libros/luis-angel-adan-leon-cine-quinqui-far-west-20261031094710-nt.html",
+  "fuente": "La Rioja (Culturas)",
+  "src": "prensa-larioja-culturas",
+  "publicado": "2026-10-31",
+  "es_plan": false
+ },
+ "df991cd55e": {
+  "url": "https://www.larioja.com/culturas/funcion-don-juan-tenorio-teatro-pobre-circulo-logrones-20261031220411-nt.html",
+  "fuente": "La Rioja (Culturas)",
+  "src": "prensa-larioja-culturas",
+  "publicado": "2026-10-31",
+  "es_plan": true,
+  "titulo": "Don Juan en La Bene",
+  "resumen": "Representación teatral de 'Don Juan' de Zorrilla en la sede de Cultura, adaptando la tradición de Todos los Santos.",
+  "en": {
+   "titulo": "Don Juan at La Bene",
+   "resumen": "Theatrical performance of Zorrilla's 'Don Juan' at the Culture headquarters, adapting the tradition of All Saints' Day."
+  },
+  "inicio": "2026-11-01",
+  "fin": "2026-11-01",
+  "hora": null,
+  "lugar": "Sede de Cultura",
+  "municipio": null,
+  "provincia": "La Rioja",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "92cbc0662b": {
+  "url": "https://www.20minutos.es/musica/metrika-publica-su-disco-orden-con-terror-provocacion-como-claves_7055632_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-10-30",
+  "es_plan": true,
+  "titulo": "Metrika publica su disco 'La orden'",
+  "resumen": "Lanzamiento del nuevo álbum de Metrika, 'La orden', con influencias urbanas y un sonido oscuro. Incluye colaboraciones y un cortometraje.",
+  "en": {
+   "titulo": "Metrika releases their album 'La orden'",
+   "resumen": "Release of Metrika's new album, 'La orden', with urban influences and a dark sound. Includes collaborations and a short film."
+  },
+  "inicio": "2026-10-30",
+  "fin": "2026-10-30",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "392dcf0767": {
+  "url": "https://www.20minutos.es/libros/los-que-mandan-lengua-hispana-escogen-sus-palabras-favoritas-tolerancia-morra-asere-pelucar-chivito-que-significan_7055530_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-10-30",
+  "es_plan": false
+ },
+ "90cd5e853b": {
+  "url": "https://www.20minutos.es/cultura/las-nuevas-palabras-diccionario-lengua-influencer-hantavirus-gordofobia-ela-deja-vu-podcast-mantra_7055403_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-10-30",
+  "es_plan": false
+ },
+ "a0e821cc5c": {
+  "url": "https://www.20minutos.es/musica/leticia-sabater-se-pone-recatada-protagoniza-videoclip-pelicula-me-entiendes-te-explico_7055455_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-10-30",
+  "es_plan": true,
+  "titulo": "Leticia Sabater en videoclip de película",
+  "resumen": "Estreno del videoclip de la película '¿Me entiendes o te lo explico?', protagonizado por Leticia Sabater, antes de su llegada a cines.",
+  "en": {
+   "titulo": "Leticia Sabater in movie music video",
+   "resumen": "Release of the music video for the film 'Do you understand me or should I explain?', starring Leticia Sabater, before its cinema release."
+  },
+  "inicio": "2026-11-13",
+  "fin": "2026-11-13",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "musica",
+   "pantalla"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "afe9b78c49": {
+  "url": "https://elpais.com/suscripciones/elpaismas/2026-10-30/asiste-a-la-presentacion-del-libro-esta-tierra-hermosa-y-maldita.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-10-30",
+  "es_plan": false
+ },
+ "024c391a5e": {
+  "url": "https://elpais.com/suscripciones/elpaismas/2026-10-30/ibermusica-trae-a-la-filarmonica-checa-al-auditorio-nacional.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-10-30",
+  "es_plan": true,
+  "titulo": "Ibermúsica trae a la Filarmónica Checa a Madrid",
+  "resumen": "Concierto de la Filarmónica Checa dirigida por Semyon Bychkov en el Auditorio Nacional de Música de Madrid, con obras de Smetana, Strauss y Rachmaninoff.",
+  "en": {
+   "titulo": "Ibermúsica brings the Czech Philharmonic to Madrid",
+   "resumen": "Concert by the Czech Philharmonic conducted by Semyon Bychkov at the National Music Auditorium in Madrid, featuring works by Smetana, Strauss, and Rachmaninoff."
+  },
+  "inicio": "2026-11-12",
+  "fin": "2026-11-12",
+  "hora": null,
+  "lugar": "Auditorio Nacional de Música",
+  "municipio": "Madrid",
+  "provincia": "Madrid",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "d31bcc2f1a": {
+  "url": "https://elpais.com/suscripciones/elpaismas/experiencias/2026-10-30/celebra-la-18-edicion-de-festival-ene.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-10-30",
+  "es_plan": true,
+  "titulo": "Festival Eñe celebra su 18ª edición",
+  "resumen": "El Festival Internacional de Literatura y Creación Eñe se celebra en Madrid y Málaga, reivindicando la poesía y la Generación del 27.",
+  "en": {
+   "titulo": "Festival Eñe celebrates its 18th edition",
+   "resumen": "The Eñe International Festival of Literature and Creation takes place in Madrid and Malaga, celebrating poetry and the Generation of '27."
+  },
+  "inicio": "2026-11-04",
+  "fin": "2026-11-30",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "libros",
+   "musica"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "410634d81d": {
+  "url": "https://www.lavanguardia.com/cultura/musica/20261030/11672492/omega-charnegos-palau.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-10-30",
+  "es_plan": true,
+  "titulo": "‘Omega’ en el Palau de la Música",
+  "resumen": "Kiki Morente y Lagartija Nick presentan 'Omega' en el Palau de la Música de Barcelona para celebrar el 30 aniversario del disco.",
+  "en": {
+   "titulo": "‘Omega’ at the Palau de la Música",
+   "resumen": "Kiki Morente and Lagartija Nick present 'Omega' at the Palau de la Música in Barcelona to celebrate the album's 30th anniversary."
+  },
+  "inicio": "2026-11-23",
+  "fin": "2026-11-23",
+  "hora": null,
+  "lugar": "Palau de la Música",
+  "municipio": "Barcelona",
+  "provincia": "Barcelona",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "231bcff956": {
+  "url": "https://www.lavanguardia.com/servicios/obituarios/20261030/11672347/muere-manuel-capdevila-i-font-motor-vida-musical-catalana.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-10-30",
+  "es_plan": false
+ },
+ "ace4cad2e7": {
+  "url": "https://www.lavanguardia.com/cultura/20261030/11672011/grandes-giras-musica-barcelona-2027-rodrigo-oasis.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-10-30",
+  "es_plan": true,
+  "titulo": "Grandes giras musicales en Barcelona 2027",
+  "resumen": "Anuncio de grandes giras internacionales como U2, Oasis y Karol G en Barcelona para el año 2027, sumando 59 fechas.",
+  "en": {
+   "titulo": "Major music tours in Barcelona 2027",
+   "resumen": "Announcement of major international tours such as U2, Oasis, and Karol G in Barcelona for the year 2027, totaling 59 dates."
+  },
+  "inicio": "2027-01-01",
+  "fin": "2027-12-31",
+  "hora": null,
+  "lugar": "Montjuïc",
+  "municipio": "Barcelona",
+  "provincia": "Barcelona",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.7
+ },
+ "914be0d829": {
+  "url": "https://www.lavanguardia.com/cultura/20261030/11672073/plazo-solicitar-bono-cultural-joven-2026-finaliza-este-sabado.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-10-30",
+  "es_plan": false
+ },
+ "200ddda701": {
+  "url": "https://www.lavanguardia.com/cultura/musica/20261030/11672087/viaje-inmersivo-hara-david-bowie-vuelva-actuar-berlin.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-10-30",
+  "es_plan": true,
+  "titulo": "David Bowie regresa virtualmente a Berlín",
+  "resumen": "Estreno en Berlín de 'Stage', un espectáculo audiovisual inmersivo con grabaciones inéditas de David Bowie de 1978, antes de una gira.",
+  "en": {
+   "titulo": "David Bowie virtually returns to Berlin",
+   "resumen": "Premiere in Berlin of 'Stage', an immersive audiovisual show with unreleased recordings of David Bowie from 1978, before a tour."
+  },
+  "inicio": "2027-02-14",
+  "fin": "2027-02-14",
+  "hora": null,
+  "lugar": "Uber Arena",
+  "municipio": "Berlín",
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "3b27725afc": {
+  "url": "https://www.lavanguardia.com/cultura/20261030/11671952/nuevo-diccionario-academia-incluye-brontosaurio-influencer-burrata-trencadis.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-10-30",
+  "es_plan": false
+ },
+ "35afb64560": {
+  "url": "https://www.ara.cat/cultura/teatre/paraula-jubilat-no-vull-sentir-llegir_128_5891782.html",
+  "fuente": "Ara (Cultura)",
+  "src": "prensa-ara-cultura",
+  "publicado": "2026-10-30",
+  "es_plan": true,
+  "titulo": "Carles Sans se despide de los escenarios con 'Me'n vaig!'",
+  "resumen": "El cómico y exmiembro de El Tricicle, Carles Sans, se despide de los escenarios con su monólogo 'Me'n vaig!', dirigido por José Corbacho. La obra se estrena el 4 de noviembre en el Teatre Poliorama y estará en cartel hasta el 10 de enero.",
+  "en": {
+   "titulo": "Carles Sans says goodbye to the stage with 'Me'n vaig!'",
+   "resumen": "Comedian and former member of El Tricicle, Carles Sans, is bidding farewell to the stage with his monologue 'Me'n vaig!', directed by José Corbacho. The show premieres on November 4th at Teatre Poliorama and will run until January 10th."
+  },
+  "inicio": "2026-11-04",
+  "fin": "2027-01-10",
+  "hora": null,
+  "lugar": "Teatre Poliorama",
+  "municipio": "Barcelona",
+  "provincia": "Barcelona",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "b3e8ce3393": {
+  "url": "https://www.ara.cat/cultura/10a-edicio-festival-rbls-teatre-jove-aborda-salut-mental-memoria-historica_25_5895009.html",
+  "fuente": "Ara (Cultura)",
+  "src": "prensa-ara-cultura",
+  "publicado": "2026-10-30",
+  "es_plan": true,
+  "titulo": "Festival RBLS de Teatre Jove celebra su 10ª edición",
+  "resumen": "El Festival RBLS de Teatre Jove llega a su décima edición del 6 al 20 de noviembre, abordando temas como la salud mental y la memoria histórica. El festival recorrerá 11 municipios con propuestas de autoficción, monólogos, danza y música en directo.",
+  "en": {
+   "titulo": "RBLS Young Theatre Festival celebrates its 10th edition",
+   "resumen": "The RBLS Young Theatre Festival reaches its tenth edition from November 6th to 20th, addressing themes such as mental health and historical memory. The festival will tour 11 municipalities with proposals including autofiction, monologues, dance, and live music."
+  },
+  "inicio": "2026-11-06",
+  "fin": "2026-11-20",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": null,
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.5
+ },
+ "10399d58c0": {
+  "url": "https://www.ara.cat/media/matthew-perry-capitol-faltava_129_5895323.html",
+  "fuente": "Ara (Cultura)",
+  "src": "prensa-ara-cultura",
+  "publicado": "2026-10-30",
+  "es_plan": false
+ },
+ "02b554ca06": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/30/playstation-pulse-auriculares-ps5-precio-fecha-lanzamiento-2064536.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-10-30",
+  "es_plan": true,
+  "titulo": "Nuevos auriculares PlayStation Pulse llegan a España",
+  "resumen": "Sony lanza los nuevos auriculares inalámbricos PlayStation Pulse para PS5 el 19 de noviembre en España, con sonido de baja latencia y Bluetooth. Ya están disponibles para reserva a 99,99 euros.",
+  "en": {
+   "titulo": "New PlayStation Pulse headphones arrive in Spain",
+   "resumen": "Sony is launching the new wireless PlayStation Pulse headphones for PS5 on November 19th in Spain, featuring low-latency sound and Bluetooth. They are now available for pre-order at 99.99 euros."
+  },
+  "inicio": "2026-11-19",
+  "fin": "2026-11-19",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": false,
+  "precio": "99,99 euros",
+  "temas": [
+   "pantalla",
+   "actividades"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "9c9a2c727d": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/30/cierra-sus-puertas-moliner-7-sala-zaragoza-vista-situacion-tuvimos-que-buscar-un-plan-b-2064518.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-10-30",
+  "es_plan": true,
+  "titulo": "Moliner 7 Sala en Zaragoza cierra sus puertas",
+  "resumen": "Moliner 7 Sala en Zaragoza cierra definitivamente sus puertas el 30 de octubre, pero su terraza en el Parque Palomar continúa con conciertos y eventos. Hay actuaciones programadas para el 30 y 31 de octubre.",
+  "en": {
+   "titulo": "Moliner 7 Sala in Zaragoza closes its doors",
+   "resumen": "Moliner 7 Sala in Zaragoza is definitively closing its doors on October 30th, but its terrace in Parque Palomar continues with concerts and events. Performances are scheduled for October 30th and 31st."
+  },
+  "inicio": "2026-10-30",
+  "fin": "2026-10-31",
+  "hora": null,
+  "lugar": "Moliner 7 Terraza",
+  "municipio": "Zaragoza",
+  "provincia": "Zaragoza",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "musica",
+   "fiestas"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "c070c76cba": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/30/influencer-gordofobia-antiedad-basuraleza-nuevas-palabras-diccionario-rae-2064377.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-10-30",
+  "es_plan": false
+ },
+ "8f96defd1f": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/30/endei-norte-reune-20-editoriales-toda-espana-clausura-su-septima-edicion-con-pedro-simon-marta-robles-2064376.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-10-30",
+  "es_plan": false
+ },
+ "8e0f233337": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/30/maximo-huerta-55anos-cuidar-batallas-dia-duro-cuando-pierdo-paciencia-tengo-arranques-contesto-mal-2063332.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-10-30",
+  "es_plan": false
+ },
+ "aa02abb6b8": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/30/arturo-perez-reverte-escritor-cuando-estoy-sevilla-desayuno-siempre-churros-hora-aperitivo-colgando-sombrero-2064349.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-10-30",
+  "es_plan": false
+ },
+ "d3cfcf5fdd": {
+  "url": "https://www.elnortedecastilla.es/culturas/seminci/cine-obligacion-concienciar-sociedad-20261030174926-nt.html",
+  "fuente": "El Norte de Castilla (Culturas)",
+  "src": "prensa-nortecastilla-culturas",
+  "publicado": "2026-10-30",
+  "es_plan": false
+ },
+ "5f8e6353cd": {
+  "url": "https://www.elnortedecastilla.es/culturas/diccionario-rae-celebra-tres-siglos-historia-vigesima-20261030131157-ntrc.html",
+  "fuente": "El Norte de Castilla (Culturas)",
+  "src": "prensa-nortecastilla-culturas",
+  "publicado": "2026-10-30",
+  "es_plan": false
+ },
+ "05d5b612dc": {
+  "url": "https://www.diariosur.es/culturas/libros/pedro-maestre-herrero-gana-premio-manuel-alcantara-20261030184830-nt.html",
+  "fuente": "Diario Sur (Culturas)",
+  "src": "prensa-diariosur-culturas",
+  "publicado": "2026-10-30",
+  "es_plan": false
+ },
+ "b47fdbe362": {
+  "url": "https://www.diariosur.es/culturas/musica/migue-antilopez-trae-malaga-mezcla-unica-musica-20261030125759-nt.html",
+  "fuente": "Diario Sur (Culturas)",
+  "src": "prensa-diariosur-culturas",
+  "publicado": "2026-10-30",
+  "es_plan": true,
+  "titulo": "Migue de Antílopez en Málaga con música y humor",
+  "resumen": "El artista Migue de Antílopez actuará en Málaga el próximo sábado 7 de noviembre en Sala La Trinchera, presentando su mezcla de música, humor y agitación.",
+  "en": {
+   "titulo": "Migue de Antílopez in Malaga with music and humor",
+   "resumen": "Artist Migue de Antílopez will perform in Malaga next Saturday, November 7th, at Sala La Trinchera, presenting his mix of music, humor, and agitation."
+  },
+  "inicio": "2026-11-07",
+  "fin": "2026-11-07",
+  "hora": null,
+  "lugar": "Sala La Trinchera",
+  "municipio": "Málaga",
+  "provincia": "Málaga",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "fde8c08b9f": {
+  "url": "https://www.ideal.es/culturas/pintas-guinness-pub-lerse-ulises-james-joyce-20261028171101-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-10-30",
+  "es_plan": true,
+  "titulo": "Club de lectura 'Ulises' en Granada",
+  "resumen": "La V edición del club de lectura en Granada se centrará en 'Ulises' de James Joyce durante el curso 2026-2027, culminando con la celebración del Bloomsday el 16 de junio.",
+  "en": {
+   "titulo": "'Ulysses' reading club in Granada",
+   "resumen": "The 5th edition of the reading club in Granada will focus on James Joyce's 'Ulysses' throughout the 2026-2027 academic year, culminating in the Bloomsday celebration on June 16th."
+  },
+  "inicio": "2026-10-30",
+  "fin": "2027-06-16",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": "Granada",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "612ca6f931": {
+  "url": "https://www.ideal.es/culturas/jaen/iglesia-santa-catalina-estrena-nueva-vida-cultural-20261030130037-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-10-30",
+  "es_plan": true,
+  "titulo": "Don Juan Tenorio en la Iglesia de Santa Catalina",
+  "resumen": "La Iglesia de Santa Catalina en Granada estrena su nueva vida cultural con la representación de 'Don Juan Tenorio' los días 31 de octubre y 1 de noviembre. El aforo máximo es de 100 personas.",
+  "en": {
+   "titulo": "'Don Juan Tenorio' at Santa Catalina Church",
+   "resumen": "Santa Catalina Church in Granada inaugurates its new cultural life with a performance of 'Don Juan Tenorio' on October 31st and November 1st. The maximum capacity is 100 people."
+  },
+  "inicio": "2026-10-31",
+  "fin": "2026-11-01",
+  "hora": null,
+  "lugar": "Iglesia de Santa Catalina",
+  "municipio": null,
+  "provincia": "Granada",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "fiestas"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
  }
 }
