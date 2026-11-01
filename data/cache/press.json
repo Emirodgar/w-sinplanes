@@ -125,39 +125,11 @@
   "publicado": "2026-10-18",
   "es_plan": false
  },
- "4644887826": {
-  "url": "https://www.20minutos.es/musica/con-fiebre-dolor-estomago-aitana-inicia-con-problemas-su-gira-latinoamericana_7049925_0.html",
-  "fuente": "20minutos (Cultura)",
-  "src": "prensa-20minutos-cultura",
-  "publicado": "2026-10-17",
-  "es_plan": false
- },
- "58470039d9": {
-  "url": "https://www.20minutos.es/libros/quien-es-sergio-hernandez-joven-escritor-que-comparte-gloria-planeta-con-isabel-allende-comic-antonio-machado_7049778_0.html",
-  "fuente": "20minutos (Cultura)",
-  "src": "prensa-20minutos-cultura",
-  "publicado": "2026-10-17",
-  "es_plan": false
- },
- "444d7dd894": {
-  "url": "https://www.20minutos.es/cultura/blogs/motel-margot/zeta-manuel-vilas-origen-mito-tercera-parte_7028642_0.html",
-  "fuente": "20minutos (Cultura)",
-  "src": "prensa-20minutos-cultura",
-  "publicado": "2026-10-17",
-  "es_plan": false
- },
  "ddaac16056": {
   "url": "https://elpais.com/cultura/2026-10-20/virginie-despentes-escritora-que-pasa-con-la-sexualidad-heterosexual-para-que-sea-tan-mortifera-rabiosa-y-siniestra.html",
   "fuente": "El País (Cultura)",
   "src": "prensa-elpais-cultura",
   "publicado": "2026-10-20",
-  "es_plan": false
- },
- "e69314d07d": {
-  "url": "https://elpais.com/cultura/2026-10-17/whalefall-se-me-puede-comer-una-ballena-de-entrada-no-pero-vea-la-pelicula.html",
-  "fuente": "El País (Cultura)",
-  "src": "prensa-elpais-cultura",
-  "publicado": "2026-10-17",
   "es_plan": false
  },
  "b3bb4ab7c0": {
@@ -518,90 +490,6 @@
   "publicado": "2026-10-18",
   "es_plan": false
  },
- "a7e76c62f3": {
-  "url": "https://www.lavanguardia.com/cultura/20261017/11661545/sorrentino-premia-javier-bardem-roma.html",
-  "fuente": "La Vanguardia (Cultura)",
-  "src": "prensa-lavanguardia-cultura",
-  "publicado": "2026-10-17",
-  "es_plan": false
- },
- "8c6a78f5c5": {
-  "url": "https://www.lavanguardia.com/vida/20261017/11661536/messi-patti-smith-disparan-demanda-actos-premios-princesa-asturias.html",
-  "fuente": "La Vanguardia (Cultura)",
-  "src": "prensa-lavanguardia-cultura",
-  "publicado": "2026-10-17",
-  "es_plan": false
- },
- "c37a03098d": {
-  "url": "https://www.lavanguardia.com/cultura/musica/20261017/11661527/marina-herlop-formidable-travesia.html",
-  "fuente": "La Vanguardia (Cultura)",
-  "src": "prensa-lavanguardia-cultura",
-  "publicado": "2026-10-17",
-  "es_plan": false
- },
- "d24fd524bb": {
-  "url": "https://www.lavanguardia.com/cultura/20261017/11661500/fontaines-d-c-volantazo-brillante-radical-otros-discos-semana.html",
-  "fuente": "La Vanguardia (Cultura)",
-  "src": "prensa-lavanguardia-cultura",
-  "publicado": "2026-10-17",
-  "es_plan": false
- },
- "9d83274246": {
-  "url": "https://www.lavanguardia.com/cultura/20261017/11661472/tim-burton-rodara-pelicula-guion-premio-nobel-literatura-kazuo-ishiguro.html",
-  "fuente": "La Vanguardia (Cultura)",
-  "src": "prensa-lavanguardia-cultura",
-  "publicado": "2026-10-17",
-  "es_plan": false
- },
- "6adcc488eb": {
-  "url": "https://www.lavanguardia.com/cultura/20261017/11661311/satira-laboral-terror-sanguine-conquista-festival-sitges.html",
-  "fuente": "La Vanguardia (Cultura)",
-  "src": "prensa-lavanguardia-cultura",
-  "publicado": "2026-10-17",
-  "es_plan": false
- },
- "eb0da9cb04": {
-  "url": "https://www.lavanguardia.com/gente/20261017/11661325/aitana-inicia-bogota-gira-latinoamericana-fiebre-dolor-estomago.html",
-  "fuente": "La Vanguardia (Cultura)",
-  "src": "prensa-lavanguardia-cultura",
-  "publicado": "2026-10-17",
-  "es_plan": false
- },
- "7f8717d979": {
-  "url": "https://www.lavanguardia.com/cultura/20261017/11661046/otros-monstruos-miradas.html",
-  "fuente": "La Vanguardia (Cultura)",
-  "src": "prensa-lavanguardia-cultura",
-  "publicado": "2026-10-17",
-  "es_plan": false
- },
- "78f55086ac": {
-  "url": "https://www.lavanguardia.com/cultura/culturas/20261017/11660476/poetas-tierra-nadie.html",
-  "fuente": "La Vanguardia (Cultura)",
-  "src": "prensa-lavanguardia-cultura",
-  "publicado": "2026-10-17",
-  "es_plan": false
- },
- "c09e58bd85": {
-  "url": "https://www.lavanguardia.com/cultura/culturas/20261017/11659074/coltrane-rollins-locura-dos-tenores.html",
-  "fuente": "La Vanguardia (Cultura)",
-  "src": "prensa-lavanguardia-cultura",
-  "publicado": "2026-10-17",
-  "es_plan": false
- },
- "b8c3f9df21": {
-  "url": "https://www.lavanguardia.com/cultura/culturas/20261017/11659073/despertar-espiritual-trane.html",
-  "fuente": "La Vanguardia (Cultura)",
-  "src": "prensa-lavanguardia-cultura",
-  "publicado": "2026-10-17",
-  "es_plan": false
- },
- "e180096157": {
-  "url": "https://www.lavanguardia.com/cultura/culturas/20261017/11653388/pabst-einsenstein-director-diana.html",
-  "fuente": "La Vanguardia (Cultura)",
-  "src": "prensa-lavanguardia-cultura",
-  "publicado": "2026-10-17",
-  "es_plan": false
- },
  "4f72607d3c": {
   "url": "https://www.ara.cat/cultura/teatre/diran-militant-tens-mala-hostia-no-facis-cas-carme-portaceli_128_5880769.html",
   "fuente": "Ara (Cultura)",
@@ -641,13 +529,6 @@
   "fuente": "Ara (Cultura)",
   "src": "prensa-ara-cultura",
   "publicado": "2026-10-19",
-  "es_plan": false
- },
- "f771ab5556": {
-  "url": "https://www.ara.cat/economia/immobiliari/no-incompatible-treballar-atraure-public-local-turistes_128_5871182.html",
-  "fuente": "Ara (Cultura)",
-  "src": "prensa-ara-cultura",
-  "publicado": "2026-10-17",
   "es_plan": false
  },
  "460a1469cd": {
@@ -723,13 +604,6 @@
   "fuente": "Ara (Cultura)",
   "src": "prensa-ara-cultura",
   "publicado": "2026-10-18",
-  "es_plan": false
- },
- "bf44717e63": {
-  "url": "https://www.ara.cat/cultura/cinema/sanguine-sitges-festival-palmares-public-critica_1_5881921.html",
-  "fuente": "Ara (Cultura)",
-  "src": "prensa-ara-cultura",
-  "publicado": "2026-10-17",
   "es_plan": false
  },
  "b3bf263c83": {
@@ -940,27 +814,6 @@
   "publicado": "2026-10-18",
   "es_plan": false
  },
- "3f69f1610c": {
-  "url": "https://www.elnortedecastilla.es/culturas/libros/cristina-indira-gana-mundial-micro-abierto-poesia-20261017212046-nt.html",
-  "fuente": "El Norte de Castilla (Culturas)",
-  "src": "prensa-nortecastilla-culturas",
-  "publicado": "2026-10-17",
-  "es_plan": false
- },
- "39145e5c52": {
-  "url": "https://www.elnortedecastilla.es/culturas/tv/david-moreno-casa-retos-lugar-seguro-publico-20261017000716-ntrc.html",
-  "fuente": "El Norte de Castilla (Culturas)",
-  "src": "prensa-nortecastilla-culturas",
-  "publicado": "2026-10-17",
-  "es_plan": false
- },
- "94cee66c4f": {
-  "url": "https://www.elnortedecastilla.es/culturas/tv/merche-vuelve-rtve-benidorm-fest-ano-bodas-20261016000651-ntrc.html",
-  "fuente": "El Norte de Castilla (Culturas)",
-  "src": "prensa-nortecastilla-culturas",
-  "publicado": "2026-10-17",
-  "es_plan": false
- },
  "8265e7796f": {
   "url": "https://www.diariosur.es/culturas/toros-malaga-gran-noche-tauromaquia-templo-cultura-malaga-20261019230107-di.html",
   "fuente": "Diario Sur (Culturas)",
@@ -987,13 +840,6 @@
   "fuente": "Diario Sur (Culturas)",
   "src": "prensa-diariosur-culturas",
   "publicado": "2026-10-18",
-  "es_plan": false
- },
- "62950a0a92": {
-  "url": "https://www.diariosur.es/culturas/cine/asghar-farhadi-festival-benalmadena-oscar-cine-20261016225240-nt.html",
-  "fuente": "Diario Sur (Culturas)",
-  "src": "prensa-diariosur-culturas",
-  "publicado": "2026-10-17",
   "es_plan": false
  },
  "ac3e3341ea": {
@@ -1273,13 +1119,6 @@
   "publicado": "2026-10-18",
   "es_plan": false
  },
- "5a459c22b9": {
-  "url": "https://www.diariovasco.com/culturas/musica/unica-noche-tierra-melancolicos-elegantes-20261017002138-nt.html",
-  "fuente": "El Diario Vasco (Culturas)",
-  "src": "prensa-diariovasco-culturas",
-  "publicado": "2026-10-17",
-  "es_plan": false
- },
  "4ae4ab5bed": {
   "url": "https://www.lasprovincias.es/culturas/tv/programacion-television-martes-peliculas-tdt--20261019120723-nt.html",
   "fuente": "Las Provincias (Culturas)",
@@ -1334,27 +1173,6 @@
   "fuente": "Las Provincias (Culturas)",
   "src": "prensa-lasprovincias-culturas",
   "publicado": "2026-10-18",
-  "es_plan": false
- },
- "79ff59fb8c": {
-  "url": "https://www.lasprovincias.es/culturas/monica-naranjo-cancela-concierto-sabado-marina-valencia-20261017171753-nt.html",
-  "fuente": "Las Provincias (Culturas)",
-  "src": "prensa-lasprovincias-culturas",
-  "publicado": "2026-10-17",
-  "es_plan": false
- },
- "18ad4b6376": {
-  "url": "https://www.lasprovincias.es/culturas/palau-musica-bate-record-abre-temporada-mil-20261017104149-nt.html",
-  "fuente": "Las Provincias (Culturas)",
-  "src": "prensa-lasprovincias-culturas",
-  "publicado": "2026-10-17",
-  "es_plan": false
- },
- "22e4e6ceb9": {
-  "url": "https://www.lasprovincias.es/culturas/provincias-festival-20261016001340-nt.html",
-  "fuente": "Las Provincias (Culturas)",
-  "src": "prensa-lasprovincias-culturas",
-  "publicado": "2026-10-17",
   "es_plan": false
  },
  "c963a1a125": {
@@ -1438,34 +1256,6 @@
   "fuente": "La Verdad (Culturas)",
   "src": "prensa-laverdad-culturas",
   "publicado": "2026-10-18",
-  "es_plan": false
- },
- "d3b20ebdf1": {
-  "url": "https://www.laverdad.es/culturas/musica/viva-suecia-mantiene-planes-pese-prevision-lluvia-20261017121217-nt.html",
-  "fuente": "La Verdad (Culturas)",
-  "src": "prensa-laverdad-culturas",
-  "publicado": "2026-10-17",
-  "es_plan": false
- },
- "d4e77b6190": {
-  "url": "https://www.laverdad.es/culturas/ilustradora-mulena-ilu-ros-trae-tierra-romancero-20261017112851-nt.html",
-  "fuente": "La Verdad (Culturas)",
-  "src": "prensa-laverdad-culturas",
-  "publicado": "2026-10-17",
-  "es_plan": false
- },
- "5a92d9fc7d": {
-  "url": "https://www.laverdad.es/culturas/fallece-reconocido-activista-murciano-joaquin-diaz-20261017114432-nt.html",
-  "fuente": "La Verdad (Culturas)",
-  "src": "prensa-laverdad-culturas",
-  "publicado": "2026-10-17",
-  "es_plan": false
- },
- "adb20e9b8d": {
-  "url": "https://www.laverdad.es/culturas/fernando-bonete-carlota-perezreverte-marta-ros-pablo-20261017110458-nt.html",
-  "fuente": "La Verdad (Culturas)",
-  "src": "prensa-laverdad-culturas",
-  "publicado": "2026-10-17",
   "es_plan": false
  },
  "ccc30c762d": {
@@ -1629,48 +1419,6 @@
   "fuente": "La Rioja (Culturas)",
   "src": "prensa-larioja-culturas",
   "publicado": "2026-10-19",
-  "es_plan": false
- },
- "db6ea5722f": {
-  "url": "https://www.larioja.com/culturas/rodaje-san-roman-cameros-20261017181347-nt.html",
-  "fuente": "La Rioja (Culturas)",
-  "src": "prensa-larioja-culturas",
-  "publicado": "2026-10-17",
-  "es_plan": false
- },
- "2ab7b83c62": {
-  "url": "https://www.larioja.com/culturas/musica/entrevista-maren-cantante-musica-20261016180856-nt.html",
-  "fuente": "La Rioja (Culturas)",
-  "src": "prensa-larioja-culturas",
-  "publicado": "2026-10-17",
-  "es_plan": false
- },
- "c61014b60e": {
-  "url": "https://www.larioja.com/culturas/teatro-che-moche-abre-aires-domingo-musica-20261017115838-nt.html",
-  "fuente": "La Rioja (Culturas)",
-  "src": "prensa-larioja-culturas",
-  "publicado": "2026-10-17",
-  "es_plan": false
- },
- "dd46621eb6": {
-  "url": "https://www.larioja.com/culturas/poetry-slam-logrono-estrenara-kordelia-sexta-temporada-20261017115836-nt.html",
-  "fuente": "La Rioja (Culturas)",
-  "src": "prensa-larioja-culturas",
-  "publicado": "2026-10-17",
-  "es_plan": false
- },
- "4ae5173d92": {
-  "url": "https://www.larioja.com/culturas/teatro-pobre-tecu-actuan-auditorio-muestra-aficionados-20261017115814-nt.html",
-  "fuente": "La Rioja (Culturas)",
-  "src": "prensa-larioja-culturas",
-  "publicado": "2026-10-17",
-  "es_plan": false
- },
- "e68e6802c1": {
-  "url": "https://www.larioja.com/culturas/amor-llega-ovni-20261017115712-nt.html",
-  "fuente": "La Rioja (Culturas)",
-  "src": "prensa-larioja-culturas",
-  "publicado": "2026-10-17",
   "es_plan": false
  },
  "514d333fab": {
