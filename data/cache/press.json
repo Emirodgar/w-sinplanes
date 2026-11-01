@@ -12148,5 +12148,852 @@
   ],
   "a_cubierto": true,
   "confianza": 0.9
+ },
+ "8382776fb3": {
+  "url": "https://www.20minutos.es/musica/morat-recuerda-madrid-que-hoy-ya-es-manana_7054826_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-11-01",
+  "es_plan": true,
+  "titulo": "Morat cierra su gira 'Ya es Mañana Tour' en Madrid",
+  "resumen": "La banda colombiana Morat concluyó su exitosa gira 'Ya es Mañana Tour' con cuatro conciertos en Madrid, atrayendo a más de 60.000 personas al Movistar Arena. El concierto repasó sus éxitos y recuerdos de su trayectoria.",
+  "en": {
+   "titulo": "Morat concludes 'Ya es Mañana Tour' in Madrid",
+   "resumen": "Colombian band Morat concluded their successful 'Ya es Mañana Tour' with four concerts in Madrid, attracting over 60,000 people to the Movistar Arena. The concert revisited their hits and memories from their career."
+  },
+  "inicio": "2026-11-01",
+  "fin": "2026-11-01",
+  "hora": null,
+  "lugar": "Movistar Arena",
+  "municipio": "Madrid",
+  "provincia": "Madrid",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "619fd57fef": {
+  "url": "https://elpais.com/cultura/2026-11-01/mago-de-oz-muy-grandes-muy-conflictivos-demandas-disputas-por-el-poder-y-una-pelicula-que-reabre-las-heridas-del-grupo-heavy.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-11-01",
+  "es_plan": false
+ },
+ "04e9e0ea29": {
+  "url": "https://elpais.com/cultura/2026-11-01/detras-de-la-guerrilla-de-everyone-hates-elon-y-sus-tres-lecciones-para-acabar-con-los-superricos.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-11-01",
+  "es_plan": false
+ },
+ "4b22e55381": {
+  "url": "https://elpais.com/cultura/2026-11-01/lucia-caraballo-fomentar-el-odio-no-es-libertad-de-expresion.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-11-01",
+  "es_plan": false
+ },
+ "cb9b689b4e": {
+  "url": "https://elpais.com/podcasts/hoy-en-el-pais/2026-11-01/sin-casa-no-hay-cultura.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-11-01",
+  "es_plan": false
+ },
+ "a608d07085": {
+  "url": "https://www.lavanguardia.com/neo/20261101/11673337/videojuegos-esperados-noviembre-2026-calendario-lanzamientos-ps5-xbox-nintendo-switch-2-pc.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-01",
+  "es_plan": true,
+  "titulo": "Lanzamiento de 'Grand Theft Auto VI' y 'Zelda: Ocarina of Time' en noviembre",
+  "resumen": "Noviembre será un mes destacado para los videojuegos con el esperado lanzamiento de 'Grand Theft Auto VI' el 19 de noviembre, trece años después de su predecesor.",
+  "en": {
+   "titulo": "'Grand Theft Auto VI' and 'Zelda: Ocarina of Time' releases in November",
+   "resumen": "November will be a significant month for video games with the highly anticipated release of 'Grand Theft Auto VI' on November 19th, thirteen years after its predecessor."
+  },
+  "inicio": "2026-11-19",
+  "fin": "2026-11-19",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "pantalla",
+   "actividades"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "4ddada0564": {
+  "url": "https://www.lavanguardia.com/cultura/20261101/11672707/escrito-inteligencia-artificial-nuevo-delirio-editorial-detectores-pangram-almadia.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-01",
+  "es_plan": false
+ },
+ "ebc4311ba9": {
+  "url": "https://www.lavanguardia.com/cultura/culturas/20261101/11670216/manresa-todas-partes.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-01",
+  "es_plan": true,
+  "titulo": "Proyección de 'Flying Free: Historia de un himno' en Festival In-Edit",
+  "resumen": "El Festival In-Edit de Barcelona proyectará 'Flying Free: Historia de un himno', documental sobre el tema discotequero insignia de la discoteca Pont Aeri de Manresa. Habrá sesión de precalentamiento con Dj Dani BPM.",
+  "en": {
+   "titulo": "'Flying Free: History of an Anthem' screening at In-Edit Festival",
+   "resumen": "The In-Edit Festival in Barcelona will screen 'Flying Free: History of an Anthem,' a documentary about the iconic dance track from the Pont Aeri club in Manresa. A warm-up session with Dj Dani BPM will precede it."
+  },
+  "inicio": "2026-11-07",
+  "fin": "2026-11-07",
+  "hora": null,
+  "lugar": null,
+  "municipio": "Barcelona",
+  "provincia": "Barcelona",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "e20d3cac2b": {
+  "url": "https://www.lavanguardia.com/cultura/culturas/20261101/11670181/by-invitation-teje-mapa-artistico.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-01",
+  "es_plan": true,
+  "titulo": "Salón de arte By Invitation en Barcelona (5-8 noviembre)",
+  "resumen": "La séptima edición del salón de arte By Invitation se celebra en Barcelona del 5 al 8 de noviembre en el Círculo Ecuestre, reuniendo a 23 galerías y 90 artistas.",
+  "en": {
+   "titulo": "By Invitation Art Fair in Barcelona (November 5-8)",
+   "resumen": "The seventh edition of the By Invitation art fair takes place in Barcelona from November 5th to 8th at the Círculo Ecuestre, featuring 23 galleries and 90 artists."
+  },
+  "inicio": "2026-11-05",
+  "fin": "2026-11-08",
+  "hora": null,
+  "lugar": "Círculo Ecuestre",
+  "municipio": "Barcelona",
+  "provincia": "Barcelona",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "museos",
+   "actividades"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "132d81e888": {
+  "url": "https://www.lavanguardia.com/cultura/20261101/11673179/barcelona-mundo.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-01",
+  "es_plan": false
+ },
+ "3baad63233": {
+  "url": "https://www.lavanguardia.com/cultura/20261101/11672709/marianne-faithfull-jagger-rolling-stones-inedit-broken-english.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-01",
+  "es_plan": false
+ },
+ "54d38b48e3": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/01/festival-cine-fuentes-celebra-su-30a-edicion-con-entrega-los-premios-panorama-2064843.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-01",
+  "es_plan": true,
+  "titulo": "Festival de Cine de Fuentes celebra su 30ª edición",
+  "resumen": "El Festival de Cine de Fuentes de Ebro celebra su 30ª edición con la entrega de los Premios Panorama, reconociendo la película 'Caminando con el diablo'. El certamen acerca el cine español y aragonés al público.",
+  "en": {
+   "titulo": "Fuentes Film Festival celebrates its 30th edition",
+   "resumen": "The Fuentes de Ebro Film Festival celebrates its 30th edition with the Panorama Awards, recognizing the film 'Caminando con el diablo.' The event brings Spanish and Aragonese cinema to the public."
+  },
+  "inicio": "2026-11-01",
+  "fin": "2026-11-01",
+  "hora": null,
+  "lugar": "Cine de Fuentes",
+  "municipio": "Fuentes de Ebro",
+  "provincia": "Zaragoza",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "pantalla",
+   "actividades"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "81173ca61d": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/01/critica-cine-hope-mucho-mas-que-monstruos-2064839.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-01",
+  "es_plan": false
+ },
+ "6b08996701": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/01/miguel-bose-70anos-orgulloso-espanol-cansaremos-pais-2064804.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-01",
+  "es_plan": false
+ },
+ "0dee981659": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/01/horario-donde-ver-hoy-gratis-corrida-final-liga-nacional-novilladas-television-2064801.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-01",
+  "es_plan": true,
+  "titulo": "Final Liga Nacional de Novilladas en Sanlúcar de Barrameda",
+  "resumen": "La plaza de toros de Sanlúcar de Barrameda acoge la final de la Liga Nacional de Novilladas 2026 el 1 de noviembre a las 17:00, con toros de Fuente Ymbro y retransmisión televisiva.",
+  "en": {
+   "titulo": "National Novillada League Final in Sanlúcar de Barrameda",
+   "resumen": "The Sanlúcar de Barrameda bullring hosts the final of the National Novillada League 2026 on November 1st at 5:00 PM, featuring bulls from Fuente Ymbro and televised broadcast."
+  },
+  "inicio": "2026-11-01",
+  "fin": "2026-11-01",
+  "hora": "17:00",
+  "lugar": "Plaza de toros de Sanlúcar de Barrameda",
+  "municipio": "Sanlúcar de Barrameda",
+  "provincia": "Cádiz",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "deporte",
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "d618c06073": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/01/victor-manuel-79anos-acaba-harto-hoteles-iguales-pesa-final-gira-2063549.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-01",
+  "es_plan": false
+ },
+ "f5f40119a1": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/01/maximo-huerta-55anos-cuando-no-este-persona-acuerde-limpiar-lapida-nombre-2063917.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-01",
+  "es_plan": false
+ },
+ "55b1679972": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/01/pancho-varona-giras-joaquin-sabina-presumia-persona-escenario-admiracion-serrat-2063915.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-01",
+  "es_plan": false
+ },
+ "17777ef92a": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/01/kaseo-tenia-colega-dijo-vivia-marques-conteste-disco-facil-revientalo-2064272.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-01",
+  "es_plan": true,
+  "titulo": "Kase.O: Gira de conciertos por España y América en enero",
+  "resumen": "Kase.O iniciará en enero una ambiciosa gira de conciertos por España y América, presentando su nuevo disco 'Camisa de fuerza'. La gira comenzará el 16 de enero en La Coruña.",
+  "en": {
+   "titulo": "Kase.O: Concert tour through Spain and America in January",
+   "resumen": "Kase.O will begin an ambitious concert tour through Spain and America in January, presenting his new album 'Camisa de fuerza'. The tour starts on January 16th in La Coruña."
+  },
+  "inicio": "2027-01-16",
+  "fin": "2027-01-16",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "2d95cac8c8": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/01/pedro-miana-las-matematicas-como-los-eclipses-son-cultura-2064770.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-01",
+  "es_plan": false
+ },
+ "b7349b3e87": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/01/entrevista-marc-biarnes-vivimos-tiempos-los-que-se-premia-ser-idiota-2064756.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-01",
+  "es_plan": true,
+  "titulo": "Presentación del libro 'Qué hago, ¿me mato?' de Marc Biarnés",
+  "resumen": "Marc Biarnés presenta su nuevo libro 'Qué hago, ¿me mato?', donde disecciona con humor crítico el universo de la \"tontuna\". La publicación es el 5 de noviembre.",
+  "en": {
+   "titulo": "Book presentation 'Qué hago, ¿me mato?' by Marc Biarnés",
+   "resumen": "Marc Biarnés presents his new book 'Qué hago, ¿me mato?', where he dissects the universe of \"foolishness\" with critical humor. The publication is on November 5th."
+  },
+  "inicio": "2026-11-05",
+  "fin": "2026-11-05",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "fbcea4dad3": {
+  "url": "https://www.heraldo.es/ocio-y-cultura/video-carlos-sobera-sobre-su-relacion-con-zaragoza-primera-vez-fuera-casa-una-guitarra-2064462-2.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-01",
+  "es_plan": false
+ },
+ "caface1a13": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/01/carlos-sobera-zaragoza-primera-ciudad-conoci-salir-casa-camino-jaca-me-puse-pesado-guitarra-2064418.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-01",
+  "es_plan": false
+ },
+ "407b4b917b": {
+  "url": "https://www.ideal.es/culturas/comic-marvel-secretos-alhambra-orla-imprescindible-bellas-20261101232323-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-11-01",
+  "es_plan": false
+ },
+ "36e609f85b": {
+  "url": "https://www.elcorreo.com/culturas/musica/sonrientes-super-figuras-cuban-jazz-syndicate-felices-20261101075826-nt.html",
+  "fuente": "El Correo (Culturas)",
+  "src": "prensa-elcorreo-culturas",
+  "publicado": "2026-11-01",
+  "es_plan": false
+ },
+ "9f99f36857": {
+  "url": "https://www.elcorreo.com/culturas/musica/barry-suma-segunda-noche-bilbao-20261031004416-nt.html",
+  "fuente": "El Correo (Culturas)",
+  "src": "prensa-elcorreo-culturas",
+  "publicado": "2026-11-01",
+  "es_plan": true,
+  "titulo": "Barry B: Segunda noche de concierto en Bilbao",
+  "resumen": "El músico Barry B añade una segunda fecha de concierto en Bilbao el 28 de enero en Santana 27, tras agotar las entradas para el día 29.",
+  "en": {
+   "titulo": "Barry B: Second concert night in Bilbao",
+   "resumen": "Musician Barry B adds a second concert date in Bilbao on January 28th at Santana 27, after selling out tickets for the 29th."
+  },
+  "inicio": "2027-01-28",
+  "fin": "2027-01-29",
+  "hora": null,
+  "lugar": "Santana 27",
+  "municipio": "Bilbao",
+  "provincia": "Vizcaya",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "00a814cc91": {
+  "url": "https://www.diariovasco.com/culturas/cine/medianoche-cannes-hogar-familia-adams-20261101081158-nt.html",
+  "fuente": "El Diario Vasco (Culturas)",
+  "src": "prensa-diariovasco-culturas",
+  "publicado": "2026-11-01",
+  "es_plan": false
+ },
+ "740db3cfb4": {
+  "url": "https://www.diariovasco.com/culturas/musica/ultimo-regalo-dolly-parton-reencuentro-20261101000850-nt.html",
+  "fuente": "El Diario Vasco (Culturas)",
+  "src": "prensa-diariovasco-culturas",
+  "publicado": "2026-11-01",
+  "es_plan": true,
+  "titulo": "Nuevo disco de U2 con colaboración de Dolly Parton",
+  "resumen": "U2 lanzará su primer disco inédito en casi una década el día 13 de noviembre, que incluirá un dueto con Dolly Parton.",
+  "en": {
+   "titulo": "New U2 album with Dolly Parton collaboration",
+   "resumen": "U2 will release their first new album in almost a decade on November 13th, which will include a duet with Dolly Parton."
+  },
+  "inicio": "2026-11-13",
+  "fin": "2026-11-13",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": "Gipuzkoa",
+  "ambito": "nacional",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "musica",
+   "pantalla"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.7
+ },
+ "107d1e1016": {
+  "url": "https://www.lasprovincias.es/sociedad/a-la-carrera/maraton-nueva-york-2026-podra-verse-domingo-20261030033739-nt.html",
+  "fuente": "Las Provincias (Culturas)",
+  "src": "prensa-lasprovincias-culturas",
+  "publicado": "2026-11-01",
+  "es_plan": false
+ },
+ "aeac2f3cb5": {
+  "url": "https://www.lasprovincias.es/culturas/musica/malu-emociona-valencia-dedica-concierto-victimas-accidente-20261031003416-nt.html",
+  "fuente": "Las Provincias (Culturas)",
+  "src": "prensa-lasprovincias-culturas",
+  "publicado": "2026-11-01",
+  "es_plan": false
+ },
+ "df5f95344a": {
+  "url": "https://www.lasprovincias.es/culturas/tv/docuserie-grabaciones-ineditas-prepara-mediaset-sobre-asesinato-20261029002712-nt.html",
+  "fuente": "Las Provincias (Culturas)",
+  "src": "prensa-lasprovincias-culturas",
+  "publicado": "2026-11-01",
+  "es_plan": false
+ },
+ "47390ec856": {
+  "url": "https://www.lasprovincias.es/culturas/tv/esperada-serie-epoca-creador-downton-abbey-regresa-20261030002656-nt.html",
+  "fuente": "Las Provincias (Culturas)",
+  "src": "prensa-lasprovincias-culturas",
+  "publicado": "2026-11-01",
+  "es_plan": true,
+  "titulo": "Regreso de serie de época en HBO Max",
+  "resumen": "La esperada serie de época, creada por el mismo responsable de 'Downton Abbey', sobre la sociedad neoyorquina del siglo XIX, regresa a HBO Max el lunes 2 de noviembre.",
+  "en": {
+   "titulo": "Period Drama Series Returns to HBO Max",
+   "resumen": "The highly anticipated period drama series, created by the mastermind behind 'Downton Abbey', focusing on 19th-century New York society, returns to HBO Max on Monday, November 2nd."
+  },
+  "inicio": "2026-11-02",
+  "fin": "2026-11-02",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "7efd7203ad": {
+  "url": "https://www.laverdad.es/culturas/libros/clara-obligado-importa-pensemos-lucha-derechos-humanos-20261101234351-nt.html",
+  "fuente": "La Verdad (Culturas)",
+  "src": "prensa-laverdad-culturas",
+  "publicado": "2026-11-01",
+  "es_plan": true,
+  "titulo": "Charla sobre el libro 'Exilio' en Murcia",
+  "resumen": "Clara Obligado conversará con Lola López Mondéjar sobre su libro 'Exilio' el 5 de noviembre en el Centro Cultural Las Claras de la Fundación Cajamurcia, en Murcia.",
+  "en": {
+   "titulo": "Talk about the book 'Exilio' in Murcia",
+   "resumen": "Clara Obligado will discuss her book 'Exilio' with Lola López Mondéjar on November 5th at the Centro Cultural Las Claras of Fundación Cajamurcia, in Murcia."
+  },
+  "inicio": "2026-11-05",
+  "fin": "2026-11-05",
+  "hora": null,
+  "lugar": "Centro Cultural Las Claras",
+  "municipio": "Murcia",
+  "provincia": "Murcia",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "47fc3c7ff1": {
+  "url": "https://www.laverdad.es/culturas/anselm-kiefer-ceniza-plomo-estrellas-conectar-vida-20261101234451-nt.html",
+  "fuente": "La Verdad (Culturas)",
+  "src": "prensa-laverdad-culturas",
+  "publicado": "2026-11-01",
+  "es_plan": false
+ },
+ "f63634defe": {
+  "url": "https://www.eldiariomontanes.es/culturas/cine/travesura-carrera-20261101102023-nt.html",
+  "fuente": "El Diario Montañés (Culturas)",
+  "src": "prensa-diariomontanes-culturas",
+  "publicado": "2026-11-01",
+  "es_plan": false
+ },
+ "be473d6460": {
+  "url": "https://www.eldiariomontanes.es/culturas/hilo-producciones-atra-bilis-suma-dos-galardones-20261101080405-nt.html",
+  "fuente": "El Diario Montañés (Culturas)",
+  "src": "prensa-diariomontanes-culturas",
+  "publicado": "2026-11-01",
+  "es_plan": false
+ },
+ "3c2361e29a": {
+  "url": "https://www.elcomercio.es/festival-cine-gijon/ficx-director-entrevista-edicion-musculo-programacion-peliculas-20261031180901-nt.html",
+  "fuente": "El Comercio (Culturas)",
+  "src": "prensa-elcomercio-culturas",
+  "publicado": "2026-11-01",
+  "es_plan": true,
+  "titulo": "Festival Internacional de Cine de Gijón (FICX)",
+  "resumen": "El Festival Internacional de Cine de Gijón (FICX) arranca el 13 de noviembre con una programación diversa que incluye estrenos y cine mundial, con un fuerte peso del audiovisual español.",
+  "en": {
+   "titulo": "Gijón International Film Festival (FICX)",
+   "resumen": "The Gijón International Film Festival (FICX) begins on November 13th with a diverse program featuring premieres and world cinema, with a significant presence of Spanish audiovisual productions."
+  },
+  "inicio": "2026-11-13",
+  "fin": "2026-11-13",
+  "hora": null,
+  "lugar": null,
+  "municipio": "Gijón",
+  "provincia": "Asturias",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "7851234e64": {
+  "url": "https://www.elcomercio.es/culturas/libros/cien-anos-luciano-castanon-hombre-poliedrico-cultura-20261031115438-nt.html",
+  "fuente": "El Comercio (Culturas)",
+  "src": "prensa-elcomercio-culturas",
+  "publicado": "2026-11-01",
+  "es_plan": true,
+  "titulo": "Homenaje a Luciano Castañón en Gijón",
+  "resumen": "Se organiza un homenaje a Luciano Castañón el lunes 9 de noviembre en el Antiguo Instituto de Gijón para celebrar el centenario de su nacimiento y la edición de su novela 'Los días como pájaros'.",
+  "en": {
+   "titulo": "Tribute to Luciano Castañón in Gijón",
+   "resumen": "A tribute to Luciano Castañón will be held on Monday, November 9th, at the Antiguo Instituto in Gijón to celebrate the centenary of his birth and the publication of his novel 'Los días como pájaros'."
+  },
+  "inicio": "2026-11-09",
+  "fin": "2026-11-09",
+  "hora": null,
+  "lugar": "Antiguo Instituto",
+  "municipio": "Gijón",
+  "provincia": "Asturias",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "994b0118dc": {
+  "url": "https://www.europapress.es/cultura/libros-00132/noticia-goncalo-tavares-recibe-domingo-premio-formentor-letras-regresa-origenes-mallorca-20261031134104.html",
+  "fuente": "Europa Press (Cultura)",
+  "src": "prensa-europapress-cultura",
+  "publicado": "2026-10-31",
+  "es_plan": true,
+  "titulo": "Premio Formentor de las Letras en Mallorca",
+  "resumen": "El escritor Gonçalo M. Tavares recibe el Premio Formentor de las Letras 2026 este domingo 1 de noviembre en el Cabo de Formentor, Mallorca, en un acto que regresa a los orígenes del galardón.",
+  "en": {
+   "titulo": "Formentor Prize for Literature in Mallorca",
+   "resumen": "Writer Gonçalo M. Tavares receives the 2026 Formentor Prize for Literature this Sunday, November 1st, at Cape Formentor, Mallorca, in an event returning to the award's origins."
+  },
+  "inicio": "2026-11-01",
+  "fin": "2026-11-01",
+  "hora": null,
+  "lugar": "Cabo de Formentor",
+  "municipio": null,
+  "provincia": "Baleares",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "ec24dc7476": {
+  "url": "https://www.20minutos.es/musica/ian-gillan-mitico-lider-deep-purple-hospitalizado-emergencia-anos-conciertos-cancelados_7055890_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-10-31",
+  "es_plan": false
+ },
+ "4c86704e0f": {
+  "url": "https://www.lavanguardia.com/cultura/musica/20261031/11672418/ritmo-raices-jorge-drexler-seducen-primer-sant-jordi.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-10-31",
+  "es_plan": false
+ },
+ "c95cf02007": {
+  "url": "https://www.ara.cat/cultura/teatre/bones-interpretacions-flaix-tardor-mica-decebedor_1_5895982.html",
+  "fuente": "Ara (Cultura)",
+  "src": "prensa-ara-cultura",
+  "publicado": "2026-10-31",
+  "es_plan": false
+ },
+ "cc4ede03f5": {
+  "url": "https://diumenge.ara.cat/diumenge/ara-hi-moltes-mes-restriccions-prohibicions_130_5871121.html",
+  "fuente": "Ara (Cultura)",
+  "src": "prensa-ara-cultura",
+  "publicado": "2026-10-31",
+  "es_plan": false
+ },
+ "edc39e46d3": {
+  "url": "https://www.ara.cat/cultura/cinema/seminci-guardona-pel-licules-salen-lobas-cinemania_25_5896040.html",
+  "fuente": "Ara (Cultura)",
+  "src": "prensa-ara-cultura",
+  "publicado": "2026-10-31",
+  "es_plan": false
+ },
+ "2ae998dc1d": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/31/angela-aured-reina-jota-aragonesa-generos-mas-exigentes-2064531.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-10-31",
+  "es_plan": false
+ },
+ "6bbcb371d7": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/31/critica-comedia-olla-teatro-principal-zaragoza-usar-plauto-vano-2064633.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-10-31",
+  "es_plan": false
+ },
+ "e4a5f8e40c": {
+  "url": "https://www.elnortedecastilla.es/culturas/seminci/seminci-articula-clausura-sobria-solidaridad-luto-oficial-20261031224412-nt.html",
+  "fuente": "El Norte de Castilla (Culturas)",
+  "src": "prensa-nortecastilla-culturas",
+  "publicado": "2026-10-31",
+  "es_plan": false
+ },
+ "a309d4dcc5": {
+  "url": "https://www.elnortedecastilla.es/culturas/seminci/hora-ver-manana-peliculas-premiadas-seminci-20261031180822-nt.html",
+  "fuente": "El Norte de Castilla (Culturas)",
+  "src": "prensa-nortecastilla-culturas",
+  "publicado": "2026-10-31",
+  "es_plan": true,
+  "titulo": "Dónde y a qué hora ver este domingo las películas premiadas en la Seminci",
+  "resumen": "La Semana Internacional del Cine de Valladolid (Seminci) ofrece pases especiales este domingo para que los espectadores puedan ver las películas galardonadas en esta edición.",
+  "en": {
+   "titulo": "Where and at what time to watch the award-winning films at Seminci this Sunday",
+   "resumen": "The Valladolid International Film Festival (Seminci) offers special screenings this Sunday for viewers to watch the award-winning films from this edition."
+  },
+  "inicio": "2026-11-02",
+  "fin": "2026-11-02",
+  "hora": null,
+  "lugar": null,
+  "municipio": "Valladolid",
+  "provincia": "Valladolid",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "7eff81cf86": {
+  "url": "https://www.elnortedecastilla.es/culturas/seminci/alain-gomis-conquista-espiga-oro-dao-20261031121528-nt.html",
+  "fuente": "El Norte de Castilla (Culturas)",
+  "src": "prensa-nortecastilla-culturas",
+  "publicado": "2026-10-31",
+  "es_plan": false
+ },
+ "c2a9380759": {
+  "url": "https://www.diariosur.es/culturas/javier-camara-enero-cumplo-anos-creo-momento-20261031221553-nt.html",
+  "fuente": "Diario Sur (Culturas)",
+  "src": "prensa-diariosur-culturas",
+  "publicado": "2026-10-31",
+  "es_plan": false
+ },
+ "9664ad845c": {
+  "url": "https://www.ideal.es/culturas/ardientes-opera-nunca-existio-creada-granada-20261101232414-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-10-31",
+  "es_plan": false
+ },
+ "42ff4ed5e7": {
+  "url": "https://www.ideal.es/culturas/carrera-darro-galerias-sotano-facultad-tomo-calle-20261101232250-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-10-31",
+  "es_plan": false
+ },
+ "a14cbef27a": {
+  "url": "https://www.elcorreo.com/culturas/libros/german-coppini-trajo-malos-tiempos-lirica-dijimos-20261027121216-nt.html",
+  "fuente": "El Correo (Culturas)",
+  "src": "prensa-elcorreo-culturas",
+  "publicado": "2026-10-31",
+  "es_plan": true,
+  "titulo": "Miguel Costas actúa este fin de semana en el Crazy Horse",
+  "resumen": "Miguel Costas, leyenda del punk español y miembro de Siniestro Total, actúa con su banda este sábado y domingo en el Crazy Horse, presentando su autobiografía.",
+  "en": {
+   "titulo": "Miguel Costas performs this weekend at Crazy Horse",
+   "resumen": "Miguel Costas, Spanish punk legend and member of Siniestro Total, performs with his band this Saturday and Sunday at Crazy Horse, presenting his autobiography."
+  },
+  "inicio": "2026-11-01",
+  "fin": "2026-11-01",
+  "hora": null,
+  "lugar": "Crazy Horse",
+  "municipio": null,
+  "provincia": "Vizcaya",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "aa52a3fb1a": {
+  "url": "https://www.diariovasco.com/culturas/pequenas-voces-grandes-conquistan-tolosa-20261031181044-nt.html",
+  "fuente": "El Diario Vasco (Culturas)",
+  "src": "prensa-diariovasco-culturas",
+  "publicado": "2026-10-31",
+  "es_plan": true,
+  "titulo": "Concurso infantil de coros en Tolosa",
+  "resumen": "Cuatro coros infantiles participan este sábado en el concurso del Certamen Coral de Tolosa. El certamen concluye el domingo con la entrega de premios.",
+  "en": {
+   "titulo": "Children's choir competition in Tolosa",
+   "resumen": "Four children's choirs participate this Saturday in the Tolosa Coral Contest. The contest concludes on Sunday with the awards ceremony."
+  },
+  "inicio": "2026-11-01",
+  "fin": "2026-11-01",
+  "hora": null,
+  "lugar": null,
+  "municipio": "Tolosa",
+  "provincia": "Gipuzkoa",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "musica",
+   "ninos"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "ca50346645": {
+  "url": "https://www.diariovasco.com/culturas/cine/seminci-corona-cine-larga-duracion-20261031180801-nt.html",
+  "fuente": "El Diario Vasco (Culturas)",
+  "src": "prensa-diariovasco-culturas",
+  "publicado": "2026-10-31",
+  "es_plan": false
+ },
+ "b481589267": {
+  "url": "https://www.lasprovincias.es/culturas/musica/halloween-toma-palau-musica-bandas-sonoras-aterradoras-20261031184951-nt.html",
+  "fuente": "Las Provincias (Culturas)",
+  "src": "prensa-lasprovincias-culturas",
+  "publicado": "2026-10-31",
+  "es_plan": false
+ },
+ "f7a9433c1f": {
+  "url": "https://www.elcomercio.es/culturas/aula-cultura/lopez-otin-presenta-nuevo-libro-teatro-jovellanos-comercio-20261101204526-nt.html",
+  "fuente": "El Comercio (Culturas)",
+  "src": "prensa-elcomercio-culturas",
+  "publicado": "2026-10-31",
+  "es_plan": false
+ },
+ "afeacf1440": {
+  "url": "https://www.elcomercio.es/culturas/arte/obra-atra-bilis-sotanob-lleva-dos-premios-20261031132939-nt.html",
+  "fuente": "El Comercio (Culturas)",
+  "src": "prensa-elcomercio-culturas",
+  "publicado": "2026-10-31",
+  "es_plan": false
+ },
+ "09e27bee56": {
+  "url": "https://www.larioja.com/culturas/palabras-imagenes-dos-formas-contar-20261031190355-nt.html",
+  "fuente": "La Rioja (Culturas)",
+  "src": "prensa-larioja-culturas",
+  "publicado": "2026-10-31",
+  "es_plan": true,
+  "titulo": "Festival 'Cuéntalo' en La Rioja con cineastas y escritores",
+  "resumen": "El festival 'Cuéntalo' se celebra entre el 6 y 14 de noviembre en La Rioja, contando con la participación de la cineasta Estíbaliz Urresola y los escritores Martín Garzo y Laura Ferrero.",
+  "en": {
+   "titulo": "'Cuéntalo' festival in La Rioja with filmmakers and writers",
+   "resumen": "The 'Cuéntalo' festival takes place between November 6th and 14th in La Rioja, featuring the participation of filmmaker Estíbaliz Urresola and writers Martín Garzo and Laura Ferrero."
+  },
+  "inicio": "2026-11-06",
+  "fin": "2026-11-14",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": "La Rioja",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "libros",
+   "pantalla"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "d3c1e2c3c3": {
+  "url": "https://www.elcorreo.com/culturas/musica/bime-despide-musica-directo-paseo-uribitarte-20261030184434-nt.html",
+  "fuente": "El Correo (Culturas)",
+  "src": "prensa-elcorreo-culturas",
+  "publicado": "2026-10-30",
+  "es_plan": true,
+  "titulo": "El BIME se despide con música en directo en el paseo de Uribitarte",
+  "resumen": "El festival BIME concluye este viernes con conciertos gratuitos en el paseo de Uribitarte (Bilbao), incluyendo actuaciones de Alcalá Norte, Jimena Amarillo y Sedientos de Cumbia.",
+  "en": {
+   "titulo": "BIME says goodbye with live music on Uribitarte promenade",
+   "resumen": "The BIME festival concludes this Friday with free concerts on the Uribitarte promenade (Bilbao), including performances by Alcalá Norte, Jimena Amarillo, and Sedientos de Cumbia."
+  },
+  "inicio": "2026-10-30",
+  "fin": "2026-10-30",
+  "hora": null,
+  "lugar": "Paseo de Uribitarte",
+  "municipio": "Bilbao",
+  "provincia": "Vizcaya",
+  "ambito": "local",
+  "gratis": true,
+  "precio": "Gratis",
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
  }
 }

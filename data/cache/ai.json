@@ -17636,5 +17636,1616 @@
    "cultura"
   ],
   "a_cubierto": true
+ },
+ "560e8cc35a": {
+  "id": "36ec9e29ac",
+  "es": {
+   "titulo": "Bellotada familiar",
+   "resumen": "Actividad familiar en el Centro de Información y Educación Ambiental de Casa de Campo. Un plan para disfrutar de la naturaleza en familia."
+  },
+  "en": {
+   "titulo": "Family Acorn Gathering",
+   "resumen": "Family activity at the Casa de Campo Environmental Information and Education Center. A plan to enjoy nature with the family."
+  },
+  "temas": [
+   "naturaleza",
+   "ninos"
+  ],
+  "a_cubierto": null
+ },
+ "5d92f0a113": {
+  "id": "1ad3170132",
+  "es": {
+   "titulo": "Cine: 'Esto sí es bailar'",
+   "resumen": "Ciclo de cine musical americano con la proyección de 'Esto sí es bailar', presentado por Gene Kelly. Incluye coloquio posterior con un crítico de cine. Apta para todos los públicos."
+  },
+  "en": {
+   "titulo": "Cinema: 'This is Dancing'",
+   "resumen": "American musical film cycle featuring 'This is Dancing', hosted by Gene Kelly. Includes a post-screening discussion with a film critic. Suitable for all audiences."
+  },
+  "temas": [
+   "pantalla",
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "2fbfb7ae7d": {
+  "id": "2d71bf0a97",
+  "es": {
+   "titulo": "Concierto de piano",
+   "resumen": "Concierto de piano a cargo de Rodrigo Pérez Ortíz en el Centro Cultural Casa de Vacas. Entrada libre hasta completar aforo, se repartirán dos horas antes."
+  },
+  "en": {
+   "titulo": "Piano Concert",
+   "resumen": "Piano concert by Rodrigo Pérez Ortíz at the Casa de Vacas Cultural Center. Free admission until full, tickets distributed one hour prior."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "a66722403f": {
+  "id": "c946a56638",
+  "es": {
+   "titulo": "Concierto de Santa Cecilia",
+   "resumen": "Actuación de cuatro grupos locales en el Centro Cultural Valdebernardo para homenajear a Santa Cecilia, patrona de la música. Participan El Madroño y Aires de Madrid."
+  },
+  "en": {
+   "titulo": "Saint Cecilia Concert",
+   "resumen": "Performance by four local groups at the Valdebernardo Cultural Center to honor Saint Cecilia, the patron saint of music. Featuring El Madroño and Aires de Madrid."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "05625b2b28": {
+  "id": "e5d99237f5",
+  "es": {
+   "titulo": "Conferencia bailada: La escuela bolera",
+   "resumen": "Beatriz Balseiro ofrece una conferencia bailada sobre la escuela bolera en el Museo de Historia de Madrid. Explora la historia y evolución de este estilo de baile español."
+  },
+  "en": {
+   "titulo": "Dancing Lecture: La Escuela Bolera",
+   "resumen": "Beatriz Balseiro presents a dancing lecture on 'La Escuela Bolera' at the Museum of the History of Madrid. It explores the history and evolution of this Spanish dance style."
+  },
+  "temas": [
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "d33eb4aecb": {
+  "id": "75a1d1df9b",
+  "es": {
+   "titulo": "Cuadro flamenco Raúl de Madrid",
+   "resumen": "Actuación de flamenco en el Centro Cultural El Pozo del tío Raimundo con Raúl de Madrid (cante), Raúl Corredor (guitarra) y Aurora Pérez (baile)."
+  },
+  "en": {
+   "titulo": "Flamenco Ensemble Raúl de Madrid",
+   "resumen": "Flamenco performance at the El Pozo del tío Raimundo Cultural Center featuring Raúl de Madrid (singing), Raúl Corredor (guitar), and Aurora Pérez (dancing)."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "7275ba0753": {
+  "id": "8f2d03312e",
+  "es": {
+   "titulo": "Cuentacuentos teatralizado: 'Alas de mariposa'",
+   "resumen": "Alejandra Venturini narra cuentos teatralizados para niños de 4 a 8 años en el Centro Sociocultural Alfonso XII. Historias de niñas valientes que superan obstáculos."
+  },
+  "en": {
+   "titulo": "Theatrical Storytelling: 'Butterfly Wings'",
+   "resumen": "Alejandra Venturini presents theatrical storytelling for children aged 4-8 at the Alfonso XII Sociocultural Center. Stories about brave girls overcoming obstacles."
+  },
+  "temas": [
+   "ninos",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "5b4e098905": {
+  "id": "e43f165f68",
+  "es": {
+   "titulo": "Día Internacional de la Música con La Rebanda",
+   "resumen": "Encuentro infantil para celebrar el Día Internacional de la Música con el grupo La Rebanda. Dirigido a niños de 8 a 14 años en la plaza de la asociación."
+  },
+  "en": {
+   "titulo": "International Music Day with La Rebanda",
+   "resumen": "Children's event to celebrate International Music Day with the group La Rebanda. Aimed at children aged 8 to 14 in the association's plaza."
+  },
+  "temas": [
+   "musica",
+   "ninos",
+   "fiestas"
+  ],
+  "a_cubierto": null
+ },
+ "600299b0a5": {
+  "id": "1358000e1e",
+  "es": {
+   "titulo": "Ecos de mi alma",
+   "resumen": "Concierto de piano de José Rafael Capellán en el Centro Cultural Buenavista. Interpreta composiciones propias y obras maestras de Beethoven, Chopin y Schubert."
+  },
+  "en": {
+   "titulo": "Echoes of My Soul",
+   "resumen": "Piano concert by José Rafael Capellán at the Buenavista Cultural Center. He performs his own compositions alongside masterpieces by Beethoven, Chopin, and Schubert."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "230f43d203": {
+  "id": "48d6500a70",
+  "es": {
+   "titulo": "El sueño de Lucía",
+   "resumen": "Obra de teatro de títeres para mayores de 6 años en el Centro Sociocultural Miguel de Cervantes. Reflexiona sobre el uso responsable de la tecnología y las redes sociales."
+  },
+  "en": {
+   "titulo": "Lucía's Dream",
+   "resumen": "Puppet theater play for ages 6 and up at the Miguel de Cervantes Sociocultural Center. It reflects on the responsible use of technology and social media."
+  },
+  "temas": [
+   "ninos",
+   "pantalla",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "1c73e5e881": {
+  "id": "179bf55b97",
+  "es": {
+   "titulo": "Exhibición 'Roma: artesanía'",
+   "resumen": "Exposición en el Museo de San Isidro sobre la artesanía doméstica romana. Se recrean antefijas, lucernas, monedas y objetos rituales de la época."
+  },
+  "en": {
+   "titulo": "Exhibition 'Rome: Craftsmanship'",
+   "resumen": "Exhibition at the Museum of San Isidro showcasing Roman domestic craftsmanship. It features recreations of antefixes, oil lamps, coins, and ritual objects from the era."
+  },
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true
+ },
+ "9df13d1019": {
+  "id": "fd265211cc",
+  "es": {
+   "titulo": "INFANTIL. 'El libro de Gloria'",
+   "resumen": "Espectáculo infantil de Amira Producciones en el Auditorio Canal de Panamá, inspirado en Gloria Fuertes. Incluye poemas, cuentos y un taller de pintura."
+  },
+  "en": {
+   "titulo": "CHILDREN'S. 'Gloria's Book'",
+   "resumen": "Children's show by Amira Producciones at the Canal de Panamá Auditorium, inspired by Gloria Fuertes. Features poems, stories, and a painting workshop."
+  },
+  "temas": [
+   "ninos",
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": true
+ },
+ "2f5834aa09": {
+  "id": "9ee77f9651",
+  "es": {
+   "titulo": "Jesús Benzal",
+   "resumen": "Actividad de danza en el Centro Danza Matadero - CDM. Un evento centrado en la danza."
+  },
+  "en": {
+   "titulo": "Jesús Benzal",
+   "resumen": "Dance activity at the Matadero Dance Center - CDM. An event focused on dance."
+  },
+  "temas": [
+   "cultura",
+   "deporte"
+  ],
+  "a_cubierto": true
+ },
+ "2b43dbfb31": {
+  "id": "14b8cc48bf",
+  "es": {
+   "titulo": "Juan Carlos ‘El Niño’. Cuerpo y alma flamenca",
+   "resumen": "Taller de flamenco para todos los públicos a partir de 8 años en el Centro de Educación Ambiental y Cultural Maris Stella. Aprende las técnicas básicas y una bulería."
+  },
+  "en": {
+   "titulo": "Juan Carlos ‘El Niño’. Flamenco Body and Soul",
+   "resumen": "Flamenco workshop for all audiences aged 8 and up at the Maris Stella Environmental and Cultural Education Center. Learn basic techniques and a bulería."
+  },
+  "temas": [
+   "musica",
+   "cultura",
+   "deporte"
+  ],
+  "a_cubierto": true
+ },
+ "d7814ecfed": {
+  "id": "2db86ce87f",
+  "es": {
+   "titulo": "La Maga Bu",
+   "resumen": "Teatro infantil para niños de 4 a 10 años en el Centro Cultural Casa de Vacas. La historia de Bu y sus travesuras, con participación del público."
+  },
+  "en": {
+   "titulo": "Bu the Sorceress",
+   "resumen": "Children's theater for ages 4-10 at the Casa de Vacas Cultural Center. The story of Bu and her mischief, with audience participation."
+  },
+  "temas": [
+   "ninos",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "f6db8bb47d": {
+  "id": "4fccbd9761",
+  "es": {
+   "titulo": "La terrorífica historia de Aba",
+   "resumen": "Teatro infantil recomendado a partir de 3 años en el Centro Cultural José Luis López Vázquez. La pirata Aba cuenta sus aventuras terroríficas."
+  },
+  "en": {
+   "titulo": "The Terrifying Story of Aba",
+   "resumen": "Children's theater recommended for ages 3 and up at the José Luis López Vázquez Cultural Center. The pirate Aba tells her terrifying adventures."
+  },
+  "temas": [
+   "ninos",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "f248e30eb2": {
+  "id": "376af45da2",
+  "es": {
+   "titulo": "La Yiya y Loreto de Diego. Encuentro de Cantaoras",
+   "resumen": "Encuentro de cantaoras flamencas en Madrid con La Yiya y Loreto de Diego. Un recital que explora la esencia del flamenco y su evolución."
+  },
+  "en": {
+   "titulo": "La Yiya and Loreto de Diego. Singers' Meeting",
+   "resumen": "Flamenco singers' meeting in Madrid with La Yiya and Loreto de Diego. A recital exploring the essence of flamenco and its evolution."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "cd734f8234": {
+  "id": "207f1b6803",
+  "es": {
+   "titulo": "Las cosas sencillas",
+   "resumen": "Proyección de la película francesa 'Las cosas sencillas' (2023) en el Centro Cultural Juan Genovés. Un encuentro entre un empresario y un ermitaño."
+  },
+  "en": {
+   "titulo": "The Simple Things",
+   "resumen": "Screening of the French film 'The Simple Things' (2023) at the Juan Genovés Cultural Center. An encounter between a businessman and a hermit."
+  },
+  "temas": [
+   "pantalla",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "9fae9f1b2a": {
+  "id": "ad5567dc85",
+  "es": {
+   "titulo": "Los colores de la música",
+   "resumen": "Espectáculo musical infantil y familiar en el Centro Cultural Juan Genovés, basado en 'El monstruo de los colores'. Trabaja las emociones a través de la música."
+  },
+  "en": {
+   "titulo": "The Colors of Music",
+   "resumen": "Children's and family musical show at the Juan Genovés Cultural Center, based on 'The Monster of Colors'. It explores emotions through music."
+  },
+  "temas": [
+   "ninos",
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "2d14cf4887": {
+  "id": "43b740b4a9",
+  "es": {
+   "titulo": "Los Croods: Una nueva era",
+   "resumen": "Proyección de la película de animación 'Los Croods: Una nueva era' en el Centro Cultural Benjamín Palencia. Una aventura familiar sobre dos familias prehistóricas."
+  },
+  "en": {
+   "titulo": "The Croods: A New Age",
+   "resumen": "Screening of the animated film 'The Croods: A New Age' at the Benjamín Palencia Cultural Center. A family adventure about two prehistoric families."
+  },
+  "temas": [
+   "ninos",
+   "pantalla",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "25e553de18": {
+  "id": "1134baa656",
+  "es": {
+   "titulo": "Manuel de Falla el genio discreto",
+   "resumen": "Recital en el Centro Sociocultural Maestro Alonso que celebra la obra de Manuel de Falla, mostrando su versatilidad en diferentes géneros musicales."
+  },
+  "en": {
+   "titulo": "Manuel de Falla, the Discreet Genius",
+   "resumen": "Recital at the Maestro Alonso Sociocultural Center celebrating the work of Manuel de Falla, showcasing his versatility across different musical genres."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "6ddd7b9a05": {
+  "id": "5a8ae7d183",
+  "es": {
+   "titulo": "Mural para la infancia",
+   "resumen": "Jornada de celebración de la infancia en el Jardín del Bulevar de Peña Gorbea. Incluye juego, pintura y la creación de un mural colectivo."
+  },
+  "en": {
+   "titulo": "Mural for Childhood",
+   "resumen": "A day to celebrate childhood in the Peña Gorbea Boulevard Garden. It includes play, painting, and the creation of a collective mural."
+  },
+  "temas": [
+   "ninos",
+   "cultura",
+   "parques"
+  ],
+  "a_cubierto": null
+ },
+ "7f79de48db": {
+  "id": "6adb428960",
+  "es": {
+   "titulo": "Música con juguetes y otros artilugios",
+   "resumen": "Evento musical en la Casa del Lector que utiliza juguetes y otros objetos para crear música. Un plan original y lúdico."
+  },
+  "en": {
+   "titulo": "Music with Toys and Other Gadgets",
+   "resumen": "Musical event at the Casa del Lector that uses toys and other objects to create music. An original and playful plan."
+  },
+  "temas": [
+   "musica",
+   "ninos",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "cab2a741cc": {
+  "id": "fc7642755c",
+  "es": {
+   "titulo": "Nuestros Peores Amigos",
+   "resumen": "Comedia ácida para mayores de 16 años en el Centro Cultural Zazuar. Explora las tensiones y contradicciones ocultas en las relaciones de amistad."
+  },
+  "en": {
+   "titulo": "Our Worst Friends",
+   "resumen": "An acidic comedy for ages 16 and up at the Zazuar Cultural Center. It explores the hidden tensions and contradictions in friendships."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "2a43738202": {
+  "id": "8eccdf35ba",
+  "es": {
+   "titulo": "Olvidé la sombra de la encina",
+   "resumen": "Teatro de títeres y objetos en el Centro Cultural Fuente de San Pedro - Valderrivas. Reflexiona sobre la memoria rural y la conexión con el campo."
+  },
+  "en": {
+   "titulo": "I Forgot the Oak's Shadow",
+   "resumen": "Puppet and object theater at the Fuente de San Pedro - Valderrivas Cultural Center. It reflects on rural memory and connection with the countryside."
+  },
+  "temas": [
+   "cultura",
+   "ninos"
+  ],
+  "a_cubierto": true
+ },
+ "9671763ec6": {
+  "id": "1c0b6cc9aa",
+  "es": {
+   "titulo": "Pantomi: Un show de cómic y magia",
+   "resumen": "Un personaje sacado de un cómic de arte pop cobra vida en un espectáculo de pantomima, magia y circo. Una experiencia divertida para todos los públicos que evoca la magia de personajes como la Pantera Rosa."
+  },
+  "en": {
+   "titulo": "Pantomi: A Comic and Magic Show",
+   "resumen": "A character from a pop art comic comes to life in a show of mime, magic, and circus. A fun experience for all ages, evoking the magic of characters like the Pink Panther."
+  },
+  "temas": [
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": null
+ },
+ "837735f849": {
+  "id": "8608c22070",
+  "es": {
+   "titulo": "Paseando por Chamberí: Historia de oficios",
+   "resumen": "Recorrido por el histórico barrio de Chamberí, centrado en sus comercios y oficios tradicionales. Descubre cómo las tiendas y negocios reflejan la evolución del distrito y la vida en Madrid a lo largo del tiempo."
+  },
+  "en": {
+   "titulo": "Strolling Through Chamberí: A History of Trades",
+   "resumen": "A tour through the historic Chamberí neighborhood, focusing on its traditional shops and trades. Discover how the stores and businesses reflect the district's evolution and life in Madrid over time."
+  },
+  "temas": [
+   "cultura",
+   "rutas"
+  ],
+  "a_cubierto": null
+ },
+ "1a51a556e1": {
+  "id": "8cdfd791dc",
+  "es": {
+   "titulo": "Paula Comitre: Danza en Matadero",
+   "resumen": "Evento de danza contemporánea con Paula Comitre en el Centro Danza Matadero (CDM). Una oportunidad para disfrutar de la expresión artística a través del movimiento."
+  },
+  "en": {
+   "titulo": "Paula Comitre: Dance at Matadero",
+   "resumen": "Contemporary dance event featuring Paula Comitre at the Matadero Dance Center (CDM). An opportunity to enjoy artistic expression through movement."
+  },
+  "temas": [
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": null
+ },
+ "0e7908db16": {
+  "id": "e598f3510d",
+  "es": {
+   "titulo": "Presentación del Foto-Libro 'Siete'",
+   "resumen": "Proyección y presentación del foto-libro 'Siete' de Víctor Álvarez. Una obra íntima y artística que explora el proceso de duelo a través de la fotografía, la memoria y textos."
+  },
+  "en": {
+   "titulo": "Presentation of the Photo Book 'Siete'",
+   "resumen": "Screening and presentation of the photo book 'Siete' by Víctor Álvarez. An intimate and artistic work exploring the grieving process through photography, memory, and text."
+  },
+  "temas": [
+   "cultura",
+   "libros",
+   "pantalla"
+  ],
+  "a_cubierto": true
+ },
+ "3dfce83cd0": {
+  "id": "97b05efe9d",
+  "es": {
+   "titulo": "Quien dijo que no puedo: Teatro infantil",
+   "resumen": "Obra de teatro infantil de la compañía Ditirirambo, parte del ciclo Vallefantásticas. Una historia sobre superar miedos y perseguir sueños, ideal para el Día Internacional de la Eliminación de la Violencia contra la Mujer."
+  },
+  "en": {
+   "titulo": "Who Said I Can't: Children's Theater",
+   "resumen": "Children's play by Ditirirambo company, part of the Vallefantásticas cycle. A story about overcoming fears and pursuing dreams, ideal for the International Day for the Elimination of Violence against Women."
+  },
+  "temas": [
+   "cultura",
+   "ninos"
+  ],
+  "a_cubierto": true
+ },
+ "d7c753de06": {
+  "id": "48e2f27b0d",
+  "es": {
+   "titulo": "Romería: Ciclo Nosotras Contamos",
+   "resumen": "Proyección de 'Romería' de Carla Simón, dentro del ciclo 'Nosotras contamos'. La película narra la búsqueda de identidad y la reconstrucción del pasado familiar a través de la memoria y el amor."
+  },
+  "en": {
+   "titulo": "Romería: Nosotras Contamos Cycle",
+   "resumen": "Screening of Carla Simón's 'Romería', part of the 'Nosotras contamos' cycle. The film narrates the search for identity and the reconstruction of family history through memory and love."
+  },
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": true
+ },
+ "0165ac9ec0": {
+  "id": "1f816491bb",
+  "es": {
+   "titulo": "Senda por el Parque de la Emperatriz María de Austria",
+   "resumen": "Ruta guiada por el Parque de la Emperatriz María de Austria, en Carabanchel. Descubre su flora, fauna y las instalaciones deportivas mientras disfrutas de un paseo por la naturaleza."
+  },
+  "en": {
+   "titulo": "Walk through the Park of Empress Maria of Austria",
+   "resumen": "Guided walk through the Park of Empress Maria of Austria in Carabanchel. Discover its flora, fauna, and sports facilities while enjoying a nature stroll."
+  },
+  "temas": [
+   "naturaleza",
+   "rutas",
+   "parques",
+   "actividades"
+  ],
+  "a_cubierto": null
+ },
+ "bc06a948ec": {
+  "id": "79d38285b3",
+  "es": {
+   "titulo": "Taller 'Iniciación a la astronomía'",
+   "resumen": "Taller familiar para iniciarse en la astronomía, con recorridos por el parque y actividades creativas. Ideal para niños a partir de 8 años, fomenta el aprendizaje y la curiosidad por el universo."
+  },
+  "en": {
+   "titulo": "Workshop 'Introduction to Astronomy'",
+   "resumen": "Family workshop to introduce astronomy, including park tours and creative activities. Ideal for children aged 8 and up, it fosters learning and curiosity about the universe."
+  },
+  "temas": [
+   "naturaleza",
+   "ninos",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "5797fdec2b": {
+  "id": "5b18527533",
+  "es": {
+   "titulo": "Teatralización 'El Madrid de Felipe II'",
+   "resumen": "Representación teatral en el Museo de San Isidro sobre 'El Madrid de Felipe II'. Una inmersión histórica para conocer los orígenes de la ciudad y su evolución."
+  },
+  "en": {
+   "titulo": "Theatricalization 'The Madrid of Philip II'",
+   "resumen": "Theatrical performance at the Museum of San Isidro about 'The Madrid of Philip II'. A historical immersion to learn about the city's origins and evolution."
+  },
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true
+ },
+ "c73d8d12aa": {
+  "id": "504d746887",
+  "es": {
+   "titulo": "Teatro divulgativo: Tenorio, Zorrilla y su tiempo",
+   "resumen": "La compañía Medea Teatro presenta un acercamiento a D. José Zorrilla y su obra 'El Tenorio'. Un espectáculo con vestuario de época que combina escenas representativas y explicaciones históricas."
+  },
+  "en": {
+   "titulo": "Educational Theater: Tenorio, Zorrilla, and His Time",
+   "resumen": "The Medea Teatro company presents an approach to D. José Zorrilla and his work 'El Tenorio'. A performance with period costumes combining representative scenes and historical explanations."
+  },
+  "temas": [
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": true
+ },
+ "035bd8544f": {
+  "id": "824259aec4",
+  "es": {
+   "titulo": "Teatro infantil: El misterio del objeto imposible",
+   "resumen": "Espectáculo interactivo de clown y títeres para toda la familia. Verdina y Lenny viven una aventura mágica para resolver un misterio, combinando humor, improvisación y arte."
+  },
+  "en": {
+   "titulo": "Children's Theater: The Mystery of the Impossible Object",
+   "resumen": "Interactive clown and puppet show for the whole family. Verdina and Lenny embark on a magical adventure to solve a mystery, combining humor, improvisation, and art."
+  },
+  "temas": [
+   "cultura",
+   "ninos"
+  ],
+  "a_cubierto": true
+ },
+ "82a06305fc": {
+  "id": "426eaa99ed",
+  "es": {
+   "titulo": "Teatro Infantil: 'Teo y Noa al Rescate'",
+   "resumen": "Aventura teatral infantil donde Teo y Noa necesitan la ayuda del público para una misión secreta. Un espectáculo interactivo y divertido para toda la familia."
+  },
+  "en": {
+   "titulo": "Children's Theater: 'Teo and Noa to the Rescue'",
+   "resumen": "Children's theatrical adventure where Teo and Noa need the audience's help for a secret mission. An interactive and fun show for the whole family."
+  },
+  "temas": [
+   "cultura",
+   "ninos"
+  ],
+  "a_cubierto": true
+ },
+ "3bf1290a67": {
+  "id": "89501729f3",
+  "es": {
+   "titulo": "Teatro infantil: 'Fabulamundi'",
+   "resumen": "La cuentacuentos Fábula Mundi comparte historias de sus viajes en un espectáculo lleno de magia, títeres y canciones. Una experiencia emotiva y divertida para niños a partir de 4 años."
+  },
+  "en": {
+   "titulo": "Children's Theater: 'Fabulamundi'",
+   "resumen": "Storyteller Fábula Mundi shares tales from her travels in a show full of magic, puppets, and songs. An emotional and fun experience for children aged 4 and up."
+  },
+  "temas": [
+   "cultura",
+   "ninos"
+  ],
+  "a_cubierto": true
+ },
+ "0a192d305b": {
+  "id": "7bdd70a57c",
+  "es": {
+   "titulo": "Teatro infantil: 'Mieditis'",
+   "resumen": "Un espectáculo musical infantil que transforma el miedo en humor con brujas torpes y fantasmas divertidos. Ideal para niños a partir de 4 años, convierte los sustos en carcajadas."
+  },
+  "en": {
+   "titulo": "Children's Theater: 'Mieditis'",
+   "resumen": "A children's musical show that turns fear into humor with clumsy witches and funny ghosts. Ideal for children aged 4 and up, it transforms scares into laughter."
+  },
+  "temas": [
+   "cultura",
+   "ninos"
+  ],
+  "a_cubierto": true
+ },
+ "e17d83e1c1": {
+  "id": "b2f64bbef5",
+  "es": {
+   "titulo": "Teatro inmersivo a ciegas: 'Ibiza'",
+   "resumen": "Experiencia de teatro inmersivo a ciegas que te transporta a Ibiza a través de sonidos, música, olores y texturas. Deja que tu imaginación sea la protagonista en este viaje sensorial."
+  },
+  "en": {
+   "titulo": "Immersive Blind Theater: 'Ibiza'",
+   "resumen": "Immersive blind theater experience that transports you to Ibiza through sounds, music, smells, and textures. Let your imagination be the protagonist in this sensory journey."
+  },
+  "temas": [
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "e94c4e30b9": {
+  "id": "bb34d87291",
+  "es": {
+   "titulo": "Teatro-cuento: Vamos al recreo",
+   "resumen": "Un teatro-cuento sobre la amistad y la superación de barreras en el patio del colegio. Sara revoluciona el recreo, mostrando que la unión hace la fuerza. Para niños a partir de 5 años."
+  },
+  "en": {
+   "titulo": "Theater-Story: Let's Go to Recess",
+   "resumen": "A theater-story about friendship and overcoming barriers in the schoolyard. Sara revolutionizes recess, showing that unity is strength. For children aged 5 and up."
+  },
+  "temas": [
+   "cultura",
+   "ninos"
+  ],
+  "a_cubierto": true
+ },
+ "1964f86a03": {
+  "id": "ac076c177f",
+  "es": {
+   "titulo": "Teatro: Cuando el dinero manda… Malo.",
+   "resumen": "Dos amigas reflexionan sobre el valor de la amistad frente a los problemas familiares y las herencias. Una obra que resalta que la amistad no tiene precio y el dinero puede causar disgustos."
+  },
+  "en": {
+   "titulo": "Theater: When Money Rules... Badly.",
+   "resumen": "Two friends reflect on the value of friendship in the face of family problems and inheritances. A play that highlights that friendship is priceless and money can cause trouble."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "37a79dc1f9": {
+  "id": "001f883e58",
+  "es": {
+   "titulo": "TEATRO. Cía. Factoría Teatro, 'Novelas ejemplares'",
+   "resumen": "Factoría Teatro presenta 'Novelas ejemplares', explorando temas de mujeres y viajes. Dos historias de amor, honor y autodescubrimiento que moldean a sus protagonistas."
+  },
+  "en": {
+   "titulo": "THEATER. Factoría Teatro Company, 'Exemplary Novels'",
+   "resumen": "Factoría Teatro presents 'Exemplary Novels', exploring themes of women and travel. Two stories of love, honor, and self-discovery that shape their protagonists."
+  },
+  "temas": [
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": true
+ },
+ "f50224c17a": {
+  "id": "6a44d62de3",
+  "es": {
+   "titulo": "Teatro: Emilia, esa señora",
+   "resumen": "Un encuentro teatral entre un experto, Emilia Pardo Bazán y Benito Pérez Galdós. Una conferencia que se convierte en un repaso subjetivo de la obra y vida de la escritora."
+  },
+  "en": {
+   "titulo": "Theater: Emilia, That Lady",
+   "resumen": "A theatrical encounter between an expert, Emilia Pardo Bazán, and Benito Pérez Galdós. A lecture that turns into a subjective review of the writer's work and life."
+  },
+  "temas": [
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": true
+ },
+ "28976e697e": {
+  "id": "23c19c5ed2",
+  "es": {
+   "titulo": "Teatro: La barca sin pescador",
+   "resumen": "Una obra de teatro sobre decisiones cruciales y pactos que cambian el destino. Un hombre acepta un trato que podría alterar su vida, explorando las consecuencias de nuestras elecciones."
+  },
+  "en": {
+   "titulo": "Theater: The Boat Without a Fisherman",
+   "resumen": "A play about crucial decisions and pacts that change destiny. A man accepts a deal that could alter his life, exploring the consequences of our choices."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "23a231042e": {
+  "id": "6758154537",
+  "es": {
+   "titulo": "Teatro: 'En la punta de la lengua'",
+   "resumen": "Dos mujeres en los años 50 comparten historias, refranes y romances mientras cosen. Un espectáculo que rescata la memoria colectiva a través de la tradición oral."
+  },
+  "en": {
+   "titulo": "Theater: 'On the Tip of the Tongue'",
+   "resumen": "Two women in the 1950s share stories, proverbs, and romances while sewing. A performance that revives collective memory through oral tradition."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "e65493811e": {
+  "id": "c7cb223e80",
+  "es": {
+   "titulo": "Teatro: 'Un siglo (y cuarto) después'",
+   "resumen": "Revisión cómica de 'Tres hermanas' de Chéjov, imaginando sus vidas posteriores. La obra destaca los cambios en la vida de las mujeres y la importancia de la educación."
+  },
+  "en": {
+   "titulo": "Theater: 'A Century (and a Quarter) Later'",
+   "resumen": "A comedic revision of Chekhov's 'Three Sisters', imagining their later lives. The play highlights the changes in women's lives and the importance of education."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "104aa58a85": {
+  "id": "b17fc58a18",
+  "es": {
+   "titulo": "Teatro: 'Usted tiene ojos de mujer fatal'",
+   "resumen": "Comedia de humor absurdo sobre Segio Hernán, un seductor profesional, y su criado Oshidori. Una divertida trama que desentraña las conquistas amorosas en Madrid."
+  },
+  "en": {
+   "titulo": "Theater: 'You Have Eyes of a Fatal Woman'",
+   "resumen": "Absurdist comedy about Segio Hernán, a professional seducer, and his servant Oshidori. A fun plot unraveling romantic conquests in Madrid."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "27500aeec3": {
+  "id": "3bf41cfb4d",
+  "es": {
+   "titulo": "Teatro: `Caos´",
+   "resumen": "Dos obras de microteatro unidas por la comedia y el caos que altera la vida de las protagonistas. Una experiencia teatral divertida y diferente para todos los públicos."
+  },
+  "en": {
+   "titulo": "Theater: `Chaos´",
+   "resumen": "Two micro-theater plays united by comedy and chaos that disrupts the protagonists' lives. A fun and different theatrical experience for all audiences."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "d1635c4f76": {
+  "id": "ca94c289d7",
+  "es": {
+   "titulo": "Teatro: `El Cornudo Imaginario´",
+   "resumen": "Comedia de enredo de Molière sobre celos y presunta infidelidad. Una obra llena de situaciones cómicas y personajes exagerados que te harán reír."
+  },
+  "en": {
+   "titulo": "Theater: `The Imaginary Cuckold´",
+   "resumen": "Molière's comedy of intrigue about jealousy and alleged infidelity. A play full of comical situations and exaggerated characters that will make you laugh."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "55796537f8": {
+  "id": "f426e72bca",
+  "es": {
+   "titulo": "Teatro: 'Padre Carlos, El Rey Pescador'",
+   "resumen": "Un sacerdote revive momentos clave de su vida, desde su infancia hasta su muerte, mientras reflexiona sobre sus convicciones y el amor. Una obra que explora la fe, la misión social y la búsqueda de comprensión."
+  },
+  "en": {
+   "titulo": "Theater: 'Father Carlos, The Fisherman King'",
+   "resumen": "A priest relives key moments of his life, from childhood to death, reflecting on his convictions and love. A play exploring faith, social mission, and the search for understanding."
+  },
+  "temas": [
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": null
+ },
+ "0168c7594c": {
+  "id": "79711764ff",
+  "es": {
+   "titulo": "Teatro: 'Toc Toc En Femenino'",
+   "resumen": "Seis mujeres con trastornos obsesivo-compulsivos se encuentran en una sala de espera, forzadas a interactuar mientras esperan a su psiquiatra. La situación deriva en situaciones cómicas y una terapia improvisada."
+  },
+  "en": {
+   "titulo": "Theater: 'Toc Toc In Feminine'",
+   "resumen": "Six women with obsessive-compulsive disorders meet in a waiting room, forced to interact while waiting for their psychiatrist. The situation leads to comical situations and an improvised therapy."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "dcd337d8e3": {
+  "id": "f6700edd5e",
+  "es": {
+   "titulo": "Teatro: 'Una familia feliz'",
+   "resumen": "La obra presenta a la familia Gómez Ruiz Pérez, un retrato de la familia perfecta con un padre médico, una madre ideal, una hija estudiante, una suegra encantadora y un niño soñador."
+  },
+  "en": {
+   "titulo": "Theater: 'A Happy Family'",
+   "resumen": "The play presents the Gómez Ruiz Pérez family, a portrait of the perfect family with a doctor father, an ideal mother, a student daughter, a charming mother-in-law, and a dreamy child."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "ac9f60f7ea": {
+  "id": "7af02fc654",
+  "es": {
+   "titulo": "Exposición: 'Techos de Madrid'",
+   "resumen": "Una exposición que presenta 72 maquetas de cúpulas y chapiteles de edificios emblemáticos de Madrid, creadas con diversos materiales como cartón, cartulina y cerámica."
+  },
+  "en": {
+   "titulo": "Exhibition: 'Roofs of Madrid'",
+   "resumen": "An exhibition showcasing 72 models of domes and spires from emblematic Madrid buildings, created with materials like cardboard, cardstock, and ceramics."
+  },
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": null
+ },
+ "88295be864": {
+  "id": "e9ac7edb52",
+  "es": {
+   "titulo": "Concierto: 'Tenor songs / tenor y piano'",
+   "resumen": "Un concierto lírico que recorre arias de ópera y romanzas de zarzuela, así como obras actuales de cine y de grandes artistas del momento, interpretadas por tenor y piano."
+  },
+  "en": {
+   "titulo": "Concert: 'Tenor songs / tenor and piano'",
+   "resumen": "A lyrical concert featuring opera arias and zarzuela romances, as well as contemporary film scores and popular artist songs, performed by tenor and piano."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "8571b0968d": {
+  "id": "6adbe3439e",
+  "es": {
+   "titulo": "Teatro: 'Tenorio'",
+   "resumen": "Una representación de 'Tenorio' ambientada en Sevilla en el siglo XVI, que narra una historia de pasión, honor y redención entre Don Juan Tenorio y Doña Inés."
+  },
+  "en": {
+   "titulo": "Theater: 'Tenorio'",
+   "resumen": "A performance of 'Tenorio' set in 16th-century Seville, telling a story of passion, honor, and redemption between Don Juan Tenorio and Doña Inés."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "896ae24e6b": {
+  "id": "0568cbf468",
+  "es": {
+   "titulo": "Teatro infantil: 'Tentación divina'",
+   "resumen": "Un ángel llamado Mercurio desciende a la Tierra por primera vez y descubre un mundo lleno de tentaciones. La obra infantil explora si podrá cumplir su misión divina sin sucumbir."
+  },
+  "en": {
+   "titulo": "Children's Theater: 'Divine Temptation'",
+   "resumen": "An angel named Mercury descends to Earth for the first time and discovers a world full of temptations. The children's play explores whether he can complete his divine mission without succumbing."
+  },
+  "temas": [
+   "cultura",
+   "ninos"
+  ],
+  "a_cubierto": null
+ },
+ "6c1c4513d7": {
+  "id": "f41434a43c",
+  "es": {
+   "titulo": "Cine: 'Teo va al espacio'",
+   "resumen": "Cortometraje de animación sobre Teo, una niña que sueña con llegar a la luna. La película, recomendada para todos los públicos, explora la idea de que hay muchas maneras de alcanzar las estrellas."
+  },
+  "en": {
+   "titulo": "Cinema: 'Teo Goes to Space'",
+   "resumen": "An animated short film about Teo, a girl who dreams of reaching the moon. The film, recommended for all audiences, explores the idea that there are many ways to reach the stars."
+  },
+  "temas": [
+   "pantalla",
+   "ninos"
+  ],
+  "a_cubierto": null
+ },
+ "bad4a695c0": {
+  "id": "69b979d987",
+  "es": {
+   "titulo": "Ciclo de conferencias: 'Lunes con la historia en Arganzuela'",
+   "resumen": "Un ciclo de conferencias centrado en la historia, que se celebra los lunes en la Nave de Terneras del Centro Cultural Casa del Reloj."
+  },
+  "en": {
+   "titulo": "Lecture Series: 'Mondays with History in Arganzuela'",
+   "resumen": "A lecture series focused on history, held on Mondays at the Nave de Terneras of the Casa del Reloj Cultural Center."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "9a69defc59": {
+  "id": "7b93f40674",
+  "es": {
+   "titulo": "Exposición: 'Teresa Moro'",
+   "resumen": "Una exposición dedicada a la obra de Teresa Moro en el CentroCentro."
+  },
+  "en": {
+   "titulo": "Exhibition: 'Teresa Moro'",
+   "resumen": "An exhibition dedicated to the work of Teresa Moro at CentroCentro."
+  },
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": null
+ },
+ "b230476754": {
+  "id": "99452690c5",
+  "es": {
+   "titulo": "Teatro infantil: 'Terroríficos'",
+   "resumen": "Una bruja intenta crear una poción para dar miedo en Halloween, pero todo le sale mal y acaba dando risa. Con la ayuda de un mago, intentará arreglar la situación."
+  },
+  "en": {
+   "titulo": "Children's Theater: 'Terrifying'",
+   "resumen": "A witch tries to create a potion to scare on Halloween, but everything goes wrong, and she ends up being funny. With the help of a magician, she tries to fix the situation."
+  },
+  "temas": [
+   "cultura",
+   "ninos"
+  ],
+  "a_cubierto": null
+ },
+ "47413d782d": {
+  "id": "d912bf8683",
+  "es": {
+   "titulo": "Tertulia: 'Tertulia de poemas y relatos'",
+   "resumen": "Un encuentro para compartir y discutir poemas y relatos en la Biblioteca Pública Municipal Pablo Neruda."
+  },
+  "en": {
+   "titulo": "Discussion Group: 'Poetry and Storytelling Gathering'",
+   "resumen": "A meeting to share and discuss poems and stories at the Pablo Neruda Municipal Public Library."
+  },
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "59909c3f8c": {
+  "id": "5f540444b9",
+  "es": {
+   "titulo": "Taller de conversación: 'Tertulia en inglés (infantil)'",
+   "resumen": "Taller de conversación en inglés para niños de 8 a 12 años, dirigido por un moderador que corregirá para mejorar la destreza oral."
+  },
+  "en": {
+   "titulo": "Conversation Workshop: 'English Gathering (Children)'",
+   "resumen": "An English conversation workshop for children aged 8-12, led by a moderator who will provide corrections to improve oral skills."
+  },
+  "temas": [
+   "libros",
+   "ninos"
+  ],
+  "a_cubierto": null
+ },
+ "dca1f94bcc": {
+  "id": "c9b9b55e34",
+  "es": {
+   "titulo": "Taller de conversación: 'Tertulia en inglés (infantil)'",
+   "resumen": "Taller de conversación en inglés para niños de 8 a 12 años, dirigido por un moderador que corregirá para mejorar la destreza oral."
+  },
+  "en": {
+   "titulo": "Conversation Workshop: 'English Gathering (Children)'",
+   "resumen": "An English conversation workshop for children aged 8-12, led by a moderator who will provide corrections to improve oral skills."
+  },
+  "temas": [
+   "libros",
+   "ninos"
+  ],
+  "a_cubierto": null
+ },
+ "f39058a7ab": {
+  "id": "6b4ba62554",
+  "es": {
+   "titulo": "Taller de conversación: 'Tertulia en inglés (infantil)'",
+   "resumen": "Taller de conversación en inglés para niños de 8 a 12 años, dirigido por un moderador que corregirá para mejorar la destreza oral."
+  },
+  "en": {
+   "titulo": "Conversation Workshop: 'English Gathering (Children)'",
+   "resumen": "An English conversation workshop for children aged 8-12, led by a moderator who will provide corrections to improve oral skills."
+  },
+  "temas": [
+   "libros",
+   "ninos"
+  ],
+  "a_cubierto": null
+ },
+ "e05ec29824": {
+  "id": "68f932ba42",
+  "es": {
+   "titulo": "Taller: 'Tertulias de filosofía'",
+   "resumen": "Un taller mensual que introduce a la historia de la filosofía a través de preguntas, textos y debates, fomentando la capacidad de argumentar y cuestionar."
+  },
+  "en": {
+   "titulo": "Workshop: 'Philosophy Discussions'",
+   "resumen": "A monthly workshop introducing the history of philosophy through questions, texts, and debates, fostering the ability to argue and question."
+  },
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "a50f2f88e3": {
+  "id": "948f06e544",
+  "es": {
+   "titulo": "Tertulia: 'Tertulias en latín'",
+   "resumen": "Un encuentro para discutir y practicar el latín en la Biblioteca Pública Municipal Iván de Vargas."
+  },
+  "en": {
+   "titulo": "Discussion Group: 'Latin Gatherings'",
+   "resumen": "A meeting to discuss and practice Latin at the Iván de Vargas Municipal Public Library."
+  },
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "9bb0e700e7": {
+  "id": "ccd9c13328",
+  "es": {
+   "titulo": "Tertulia: 'Tertulias Filosóficas en Gloria Fuertes'",
+   "resumen": "Un espacio para la discusión filosófica en la Biblioteca Pública Municipal Gloria Fuertes."
+  },
+  "en": {
+   "titulo": "Discussion Group: 'Philosophical Gatherings at Gloria Fuertes'",
+   "resumen": "A space for philosophical discussion at the Gloria Fuertes Municipal Public Library."
+  },
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "76780f74a4": {
+  "id": "a65434b0d4",
+  "es": {
+   "titulo": "Tertulia: 'Tertulias Poéticas y Literarias. ASEAPO'",
+   "resumen": "Un encuentro poético y literario organizado por la Asociación Española de Amigos de la Poesía en la Biblioteca Pública Municipal Mario Vargas Llosa."
+  },
+  "en": {
+   "titulo": "Discussion Group: 'Poetic and Literary Gatherings. ASEAPO'",
+   "resumen": "A poetic and literary meeting organized by the Spanish Association of Poetry Friends at the Mario Vargas Llosa Municipal Public Library."
+  },
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "906acf9fc5": {
+  "id": "4749e7bc66",
+  "es": {
+   "titulo": "Tertulia: 'Tertulias Poéticas y Literarias. Asociación Española de Amigos de la Poesía'",
+   "resumen": "Un encuentro poético y literario organizado por la Asociación Española de Amigos de la Poesía en la Biblioteca Pública Municipal Iván de Vargas."
+  },
+  "en": {
+   "titulo": "Discussion Group: 'Poetic and Literary Gatherings. Spanish Association of Poetry Friends'",
+   "resumen": "A poetic and literary meeting organized by the Spanish Association of Poetry Friends at the Iván de Vargas Municipal Public Library."
+  },
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "fa6ccc67d4": {
+  "id": "1c58f30d32",
+  "es": {
+   "titulo": "Podcast especial: 'Tetuán Distrito Podcast: Especial 'Cómo se hace''",
+   "resumen": "Un especial sobre la creación de programas de éxito, con Juan Gómez-Jurado y Arturo González-Campos, que abordará guion, cultura popular y comunicación."
+  },
+  "en": {
+   "titulo": "Special Podcast: 'Tetuán District Podcast: Special 'How It's Made''",
+   "resumen": "A special on creating successful shows, with Juan Gómez-Jurado and Arturo González-Campos, covering scriptwriting, popular culture, and communication."
+  },
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": null
+ },
+ "d2f1de8b1f": {
+  "id": "1d88bfb692",
+  "es": {
+   "titulo": "Cine: 'The Bewilderment of Chile'",
+   "resumen": "Un hombre de Lugo se encuentra solo en la estación de tren de La Plata. Presentación a cargo de Lucía Seles en la Cineteca Madrid."
+  },
+  "en": {
+   "titulo": "Cinema: 'The Bewilderment of Chile'",
+   "resumen": "A man from Lugo finds himself alone at the train station in La Plata. Presented by Lucía Seles at Cineteca Madrid."
+  },
+  "temas": [
+   "pantalla",
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "fa64d6e47f": {
+  "id": "3749cf70d0",
+  "es": {
+   "titulo": "Cine: 'The Girls From Above'",
+   "resumen": "Héloïse encuentra un nuevo hogar con tres jóvenes, pero las heridas del pasado amenazan su frágil equilibrio. Primer largometraje de Bérangère McNeese."
+  },
+  "en": {
+   "titulo": "Cinema: 'The Girls From Above'",
+   "resumen": "Héloïse finds a new home with three young women, but past wounds threaten their fragile balance. Bérangère McNeese's first feature film."
+  },
+  "temas": [
+   "pantalla",
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "af6fc7bcb6": {
+  "id": "9366a7b4c1",
+  "es": {
+   "titulo": "Cine: 'The Last Resort'",
+   "resumen": "Unas vacaciones familiares dan un giro inesperado tras un accidente. La película explora los límites de la bondad y hasta dónde estamos dispuestos a ayudar a otros."
+  },
+  "en": {
+   "titulo": "Cinema: 'The Last Resort'",
+   "resumen": "A family vacation takes an unexpected turn after an accident. The film explores the limits of kindness and how far we are willing to help others."
+  },
+  "temas": [
+   "pantalla",
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "35c286e400": {
+  "id": "fd348bf8d4",
+  "es": {
+   "titulo": "Cine: 'The Pupil'",
+   "resumen": "Un niño de 12 años se enfrenta a la difícil tarea de distinguir el afecto del abuso por parte de su entrenador de fútbol. Coloquio posterior con la directora Karin Junger."
+  },
+  "en": {
+   "titulo": "Cinema: 'The Pupil'",
+   "resumen": "A 12-year-old boy faces the challenging task of distinguishing affection from abuse by his football coach. Post-screening discussion with director Karin Junger."
+  },
+  "temas": [
+   "pantalla",
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "6900e7f7d8": {
+  "id": "c3a3b0a84d",
+  "es": {
+   "titulo": "Dúo Sangüesa & Sangüesa: Concierto de Jazz",
+   "resumen": "Disfruta de un concierto íntimo y elegante con saxo, piano y voz. El dúo Sangüesa & Sangüesa interpreta estándares de jazz y arreglos propios. Apto para todos los públicos."
+  },
+  "en": {
+   "titulo": "Dúo Sangüesa & Sangüesa: Jazz Concert",
+   "resumen": "Enjoy an intimate and elegant concert featuring saxophone, piano, and vocals. The Sangüesa & Sangüesa duo performs jazz standards and their own arrangements. Suitable for all audiences."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "e2f14516ca": {
+  "id": "31b33a9320",
+  "es": {
+   "titulo": "Presentación de 'The Urgency of Death'",
+   "resumen": "Un evento en la Cineteca Madrid para presentar la obra 'The Urgency of Death'. La presentación estará a cargo de Lucía Seles. Una oportunidad para conocer más sobre esta obra."
+  },
+  "en": {
+   "titulo": "Presentation of 'The Urgency of Death'",
+   "resumen": "An event at Cineteca Madrid to present the work 'The Urgency of Death'. The presentation will be led by Lucía Seles. An opportunity to learn more about this work."
+  },
+  "temas": [
+   "pantalla",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "28571a1379": {
+  "id": "8591f1c331",
+  "es": {
+   "titulo": "Proyección de 'Timestamp' en Cineteca Madrid",
+   "resumen": "La Cineteca Madrid proyecta 'Timestamp', un documental que muestra cómo la guerra afecta la vida diaria de estudiantes y profesores en Ucrania. Explora la normalidad en tiempos de conflicto."
+  },
+  "en": {
+   "titulo": "Screening of 'Timestamp' at Cineteca Madrid",
+   "resumen": "Cineteca Madrid screens 'Timestamp', a documentary showing how war affects the daily lives of students and teachers in Ukraine. It explores normalcy in times of conflict."
+  },
+  "temas": [
+   "pantalla",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "9996ae9504": {
+  "id": "d519f1faed",
+  "es": {
+   "titulo": "Comedia Teatral 'Toc-Toc' en el Centro Cultural Casa de Vacas",
+   "resumen": "La compañía Wuachin y Medicina presenta la divertida comedia 'Toc-Toc'. Una obra para adultos que promete hacer reír a carcajadas. Reparto de entradas una hora antes."
+  },
+  "en": {
+   "titulo": "Theater Comedy 'Toc-Toc' at Casa de Vacas Cultural Center",
+   "resumen": "The Wuachin y Medicina company presents the fun comedy 'Toc-Toc'. An adult play that promises to make you laugh out loud. Tickets distributed one hour prior."
+  },
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": true
+ },
+ "22af578295": {
+  "id": "b1e3539be9",
+  "es": {
+   "titulo": "Comedia 'Todo incluido, excepto el barco' en Puente de Vallecas",
+   "resumen": "Dos desconocidos naufragan en una isla y deben convivir forzosamente. 'Todo incluido, excepto el barco' es una comedia ágil sobre las relaciones humanas, el ego y la convivencia."
+  },
+  "en": {
+   "titulo": "Comedy 'All Inclusive, Except the Boat' in Puente de Vallecas",
+   "resumen": "Two strangers are shipwrecked on an island and are forced to live together. 'All Inclusive, Except the Boat' is a fast-paced comedy about human relationships, ego, and cohabitation."
+  },
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": true
+ },
+ "501daddf45": {
+  "id": "85e340f7c0",
+  "es": {
+   "titulo": "Torneo de Ajedrez en el Barrio de la Ciencia (Chamartín)",
+   "resumen": "Participa en un Torneo de Ajedrez familiar y divulgativo en Chamartín. Sistema Suizo a 5 rondas, ritmo rápido y premios por categoría. Inscripción gratuita."
+  },
+  "en": {
+   "titulo": "Chess Tournament in the Science Neighborhood (Chamartín)",
+   "resumen": "Participate in a family-friendly and educational Chess Tournament in Chamartín. Swiss system with 5 rounds, fast-paced games, and category prizes. Free registration."
+  },
+  "temas": [
+   "deporte",
+   "actividades",
+   "ninos"
+  ],
+  "a_cubierto": true
+ },
+ "4974e74d6a": {
+  "id": "3b1f644b35",
+  "es": {
+   "titulo": "Torneo de Ajedrez al aire libre en Madrid",
+   "resumen": "Torneo de ajedrez al aire libre con sistema Suizo a 6 rondas. Se celebrará frente a la Escuela de Música y Danza, con trofeos para los ganadores en diversas categorías."
+  },
+  "en": {
+   "titulo": "Outdoor Chess Tournament in Madrid",
+   "resumen": "An outdoor chess tournament with a 6-round Swiss system will be held in front of the Music and Dance School, offering trophies for winners in various categories."
+  },
+  "temas": [
+   "deporte",
+   "actividades",
+   "ninos"
+  ],
+  "a_cubierto": false
+ },
+ "8f60295159": {
+  "id": "869d873611",
+  "es": {
+   "titulo": "Torneo de Pádel Distrito Retiro",
+   "resumen": "Participa en el Torneo de Pádel del Distrito Retiro, con categorías femenina, masculina y mixta. Las partidas se jugarán en varias instalaciones deportivas de la zona."
+  },
+  "en": {
+   "titulo": "Retiro District Padel Tournament",
+   "resumen": "Compete in the Retiro District Padel Tournament, featuring women's, men's, and mixed categories. Matches will be played at various sports facilities in the area."
+  },
+  "temas": [
+   "deporte",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "0d41787a08": {
+  "id": "2fd086ac68",
+  "es": {
+   "titulo": "Charla: Trashumancia, Patrimonio Cultural Inmaterial",
+   "resumen": "Conoce la trashumancia, declarada Patrimonio Cultural Inmaterial de la Humanidad. Una charla informativa en el Centro de Información y Educación Ambiental de la Casa de Campo."
+  },
+  "en": {
+   "titulo": "Talk: Transhumance, Intangible Cultural Heritage",
+   "resumen": "Learn about transhumance, declared Intangible Cultural Heritage of Humanity. An informative talk at the Environmental and Educational Information Center of Casa de Campo."
+  },
+  "temas": [
+   "cultura",
+   "naturaleza",
+   "rutas"
+  ],
+  "a_cubierto": true
+ },
+ "e29f06d5c7": {
+  "id": "c828cd4ecc",
+  "es": {
+   "titulo": "Proyección de 'Tres amigas' en el Centro Sociocultural Alberto Sánchez",
+   "resumen": "La filmoteca presenta 'Tres amigas', un drama francés sobre las relaciones y la honestidad entre tres mujeres. No recomendada para menores de 12 años."
+  },
+  "en": {
+   "titulo": "Screening of 'Three Friends' at Alberto Sánchez Cultural Center",
+   "resumen": "The film library presents 'Three Friends', a French drama about relationships and honesty among three women. Not recommended for children under 12."
+  },
+  "temas": [
+   "pantalla",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "66d08fb1d7": {
+  "id": "dac9e23b53",
+  "es": {
+   "titulo": "Concierto 'Tromboneando' en el Festival de Jazz de Ciudad Lineal",
+   "resumen": "Disfruta de 'Tromboneando', un concierto homenaje al trombón con cinco trombonistas internacionales y una banda de acompañamiento. Una propuesta llena de fuerza sonora."
+  },
+  "en": {
+   "titulo": "Concert 'Tromboneando' at Ciudad Lineal Jazz Festival",
+   "resumen": "Enjoy 'Tromboneando', a concert paying tribute to the trombone with five international trombonists and a backing band. A performance full of sonic power."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "6e3e8fa45c": {
+  "id": "d86ddcc835",
+  "es": {
+   "titulo": "Teatro Infantil 'Trovadora' en el Centro Cultural Antonio Machado",
+   "resumen": "'Trovadora' es una comedia teatral para toda la familia que mezcla teatro, música y sombras. Cuenta la historia de una mujer que equilibra su vocación y su vida familiar."
+  },
+  "en": {
+   "titulo": "Children's Theater 'Trovadora' at Antonio Machado Cultural Center",
+   "resumen": "'Trovadora' is a family-friendly theatrical comedy blending theater, music, and shadows. It tells the story of a woman balancing her professional calling and family life."
+  },
+  "temas": [
+   "cultura",
+   "ninos",
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "1deb140967": {
+  "id": "7e9684d899",
+  "es": {
+   "titulo": "Espectáculo Infantil 'Un arcoíris de cuentos' en Orcasur",
+   "resumen": "La compañía Tatira Teatro presenta 'Un arcoíris de cuentos', una propuesta entrañable para niños a partir de 4 años. Revive historias que transportan a mundos mágicos."
+  },
+  "en": {
+   "titulo": "Children's Show 'A Rainbow of Stories' in Orcasur",
+   "resumen": "Tatira Teatro presents 'A Rainbow of Stories', a heartwarming show for children aged 4 and up. Relive stories that transport you to magical worlds."
+  },
+  "temas": [
+   "ninos",
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": true
+ },
+ "f33c087312": {
+  "id": "fc3e2c4b99",
+  "es": {
+   "titulo": "Cuentacuentos 'Un bosque de cuentos' en Chamartín",
+   "resumen": "Explora el mundo de los bosques y la naturaleza con 'Un bosque de cuentos'. Cuentos, canciones y libros ilustrados para aprender a cuidar el medio ambiente. A partir de 4 años."
+  },
+  "en": {
+   "titulo": "Storytelling 'A Forest of Tales' in Chamartín",
+   "resumen": "Explore the world of forests and nature with 'A Forest of Tales'. Stories, songs, and illustrated books to learn about environmental care. For ages 4 and up."
+  },
+  "temas": [
+   "ninos",
+   "cultura",
+   "naturaleza",
+   "libros"
+  ],
+  "a_cubierto": true
+ },
+ "a711080f15": {
+  "id": "106bafe381",
+  "es": {
+   "titulo": "Comedia 'Un diablo en el andén' en Moncloa-Aravaca",
+   "resumen": "La compañía Azares Teatro presenta 'Un diablo en el andén', una comedia mordaz sobre la soledad y la realidad. Diálogos absurdos que revelan la verdadera naturaleza de los personajes."
+  },
+  "en": {
+   "titulo": "Comedy 'A Devil on the Platform' in Moncloa-Aravaca",
+   "resumen": "Azares Teatro presents 'A Devil on the Platform', a biting comedy about loneliness and reality. Absurd dialogues reveal the true nature of the characters."
+  },
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": true
+ },
+ "6458509837": {
+  "id": "b76f424d69",
+  "es": {
+   "titulo": "Teatro 'Un hombre en el metro' en Vicálvaro",
+   "resumen": "'Un hombre en el metro' recorre la vida a través de una anécdota en el Metro de Madrid. Una obra de teatro físico, emoción y rock and roll que explora la ciudad y el tiempo."
+  },
+  "en": {
+   "titulo": "Theater 'A Man on the Metro' in Vicálvaro",
+   "resumen": "'A Man on the Metro' journeys through life via an anecdote on the Madrid Metro. A performance of physical theater, emotion, and rock and roll exploring the city and time."
+  },
+  "temas": [
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "2a4f2370ff": {
+  "id": "ae3c9a0c22",
+  "es": {
+   "titulo": "Exposición 'Un sueño de todos' en Usera",
+   "resumen": "Visita la exposición 'Maris Stella, un sueño de todos' para conocer la historia de Usera, la evolución del edificio Maris Stella y la biodiversidad de Pradolongo."
+  },
+  "en": {
+   "titulo": "Exhibition 'A Dream of All' in Usera",
+   "resumen": "Visit the 'Maris Stella, a Dream of All' exhibition to learn about Usera's history, the evolution of the Maris Stella building, and the biodiversity of Pradolongo."
+  },
+  "temas": [
+   "cultura",
+   "naturaleza",
+   "museos"
+  ],
+  "a_cubierto": true
+ },
+ "ce6014ec9c": {
+  "id": "0400df8e10",
+  "es": {
+   "titulo": "Concierto 'Un universo de sonidos' en Moncloa-Aravaca",
+   "resumen": "Aldebarán presenta 'Un universo de sonidos', un concierto que fusiona ritmos de Brasil, España, Argentina, Colombia y Cuba. Música y letras que unen culturas."
+  },
+  "en": {
+   "titulo": "Concert 'A Universe of Sounds' in Moncloa-Aravaca",
+   "resumen": "Aldebarán presents 'A Universe of Sounds', a concert fusing rhythms from Brazil, Spain, Argentina, Colombia, and Cuba. Music and lyrics that unite cultures."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "02f7d23861": {
+  "id": "392eca57d3",
+  "es": {
+   "titulo": "Proyección de 'Una batalla tras otra' en San Blas - Canillejas",
+   "resumen": "Se proyecta 'Una batalla tras otra', un film inspirado en la novela de Thomas Pynchon, ganador de múltiples premios Óscar, Bafta y Globos de Oro. Recomendada a partir de 16 años."
+  },
+  "en": {
+   "titulo": "Screening of 'One More Time' in San Blas - Canillejas",
+   "resumen": "'One More Time', a film inspired by Thomas Pynchon's novel and winner of multiple Oscars, Baftas, and Golden Globes, is being screened. Recommended for ages 16+."
+  },
+  "temas": [
+   "pantalla",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "f28562f61d": {
+  "id": "2d212690a2",
+  "es": {
+   "titulo": "Cortometraje 'Una cabeza en la pared' en San Blas - Canillejas",
+   "resumen": "Proyección del cortometraje 'Una cabeza en la pared', nominado al Goya. Narra la historia de un torero retirado que lucha por adaptarse a un mundo sin tauromaquia."
+  },
+  "en": {
+   "titulo": "Short Film 'A Head on the Wall' in San Blas - Canillejas",
+   "resumen": "Screening of the short film 'A Head on the Wall', nominated for a Goya Award. It tells the story of a retired bullfighter struggling to adapt to a world without bullfighting."
+  },
+  "temas": [
+   "pantalla",
+   "cultura",
+   "deporte"
+  ],
+  "a_cubierto": true
+ },
+ "23a87c4739": {
+  "id": "49abf5f70b",
+  "es": {
+   "titulo": "Actividad en la Biblioteca Pública Municipal San Fermín",
+   "resumen": "Visita la Biblioteca Pública Municipal San Fermín para participar en sus actividades. Un espacio dedicado a la lectura y la cultura en el distrito de Usera."
+  },
+  "en": {
+   "titulo": "Activity at San Fermín Municipal Public Library",
+   "resumen": "Visit the San Fermín Municipal Public Library to participate in its activities. A space dedicated to reading and culture in the Usera district."
+  },
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "363ea4eafa": {
+  "id": "45a66f548e",
+  "es": {
+   "titulo": "Obra de Teatro 'Una odisea' en Vicálvaro",
+   "resumen": "El grupo Teatro CMM El Almendro presenta 'Una odisea'. Una propuesta teatral en el Centro Cultural el Madroño que invita a la reflexión y al disfrute."
+  },
+  "en": {
+   "titulo": "Theater Play 'An Odyssey' in Vicálvaro",
+   "resumen": "The theater group CMM El Almendro presents 'An Odyssey'. A theatrical production at the El Madroño Cultural Center that invites reflection and enjoyment."
+  },
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": true
+ },
+ "76726d0f37": {
+  "id": "207eebdcf2",
+  "es": {
+   "titulo": "Proyección de 'Una película de Minecraft' en Hortaleza",
+   "resumen": "El Centro Cultural Carril del Conde en Hortaleza acoge la proyección de 'Una película de Minecraft'. Un evento para los aficionados a este popular videojuego."
+  },
+  "en": {
+   "titulo": "Screening of 'A Minecraft Movie' in Hortaleza",
+   "resumen": "The Carril del Conde Cultural Center in Hortaleza hosts the screening of 'A Minecraft Movie'. An event for fans of this popular video game."
+  },
+  "temas": [
+   "pantalla",
+   "ninos",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "0db53b5654": {
+  "id": "6f03ea94dd",
+  "es": {
+   "titulo": "Proyección de 'Uno, dos, tres.' (1961) en Tetuán",
+   "resumen": "El Centro Sociocultural José de Espronceda proyecta 'Uno, dos, tres.', comedia de Billy Wilder ambientada en la Guerra Fría. Una historia de amor y espionaje en Berlín."
+  },
+  "en": {
+   "titulo": "Screening of 'One, Two, Three.' (1961) in Tetuán",
+   "resumen": "The José de Espronceda Cultural Center screens 'One, Two, Three.', a comedy by Billy Wilder set during the Cold War. A story of love and espionage in Berlin."
+  },
+  "temas": [
+   "pantalla",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "65df7a116f": {
+  "id": "a9423db6ce",
+  "es": {
+   "titulo": "Exposición 'Utopías pasadas. Ciudades presentes' en Quinta de los Molinos",
+   "resumen": "Visita la exposición 'Utopías pasadas. Ciudades presentes' en el Espacio Abierto Quinta de los Molinos. Una reflexión sobre la urbanidad y sus posibilidades."
+  },
+  "en": {
+   "titulo": "Exhibition 'Past Utopias. Present Cities' in Quinta de los Molinos",
+   "resumen": "Visit the exhibition 'Past Utopias. Present Cities' at the Quinta de los Molinos Open Space. A reflection on urbanity and its possibilities."
+  },
+  "temas": [
+   "cultura",
+   "parques"
+  ],
+  "a_cubierto": true
  }
 }

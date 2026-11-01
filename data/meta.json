@@ -1,11 +1,11 @@
 {
-  "generated": "2026-11-01T11:16:42.404Z",
+  "generated": "2026-11-01T12:05:50.349Z",
   "today": "2026-11-01",
-  "events": 5034,
+  "events": 5054,
   "review": 8,
   "ai": {
-    "calls": 0,
-    "seconds": 39,
+    "calls": 13,
+    "seconds": 203,
     "tripped": false
   },
   "sources": [
@@ -60,7 +60,7 @@
     {
       "id": "prensa-lavanguardia-cultura",
       "status": "ok",
-      "count": 27,
+      "count": 28,
       "candidatos": true
     },
     {
