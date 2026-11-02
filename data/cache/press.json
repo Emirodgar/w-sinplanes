@@ -12666,5 +12666,966 @@
   ],
   "a_cubierto": null,
   "confianza": 0.85
+ },
+ "6147d2b7ea": {
+  "url": "https://www.europapress.es/cultura/libros-00132/noticia-goncalo-tavares-recibe-premio-formentor-2026-cuesta-respirar-noticias-vienen-monoxido-carbono-20261102082305.html",
+  "fuente": "Europa Press (Cultura)",
+  "src": "prensa-europapress-cultura",
+  "publicado": "2026-11-02",
+  "es_plan": true,
+  "titulo": "Premio Formentor de las Letras 2026 para Gonçalo M. Tavares",
+  "resumen": "El escritor portugués Gonçalo M. Tavares recibe el Premio Formentor de las Letras 2026. El galardón se otorga en una ceremonia donde el autor reflexiona sobre la creación literaria y el mundo actual.",
+  "en": {
+   "titulo": "Formentor Literature Prize 2026 awarded to Gonçalo M. Tavares",
+   "resumen": "Portuguese writer Gonçalo M. Tavares receives the Formentor Literature Prize 2026. The award is presented at a ceremony where the author reflects on literary creation and the current world."
+  },
+  "inicio": "2026-11-02",
+  "fin": "2026-11-02",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "5a6e7e57a9": {
+  "url": "https://www.20minutos.es/cultura/blogs/yaestaellistoquetodolosabe/haz-historia-haciendo-caca-mi-nuevo-libro-publicado-por-harpercollins-iberica_7042956_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-11-02",
+  "es_plan": true,
+  "titulo": "Presentación del libro \"Haz historia haciendo caca\" de Alfred López",
+  "resumen": "Alfred López presenta su nuevo libro \"Haz historia haciendo caca\", una obra con 100 curiosidades históricas. El libro, publicado por HarperCollins Ibérica, sale a la venta el 11 de noviembre.",
+  "en": {
+   "titulo": "Launch of the book \"Haz historia haciendo caca\" by Alfred López",
+   "resumen": "Alfred López presents his new book \"Haz historia haciendo caca\", a work with 100 historical curiosities. The book, published by HarperCollins Ibérica, goes on sale on November 11th."
+  },
+  "inicio": "2026-11-11",
+  "fin": "2026-11-11",
+  "hora": null,
+  "lugar": "librerías",
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "362dc78501": {
+  "url": "https://www.20minutos.es/musica/entrevista-asha-benidorm-fest-cancion-rendez-vous_7046421_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-11-02",
+  "es_plan": false
+ },
+ "d4382fd005": {
+  "url": "https://elpais.com/cultura/2026-11-02/nick-rhodes-de-duran-duran-me-dan-ganas-de-vomitar-cuando-preguntan-por-las-cifras-en-redes-sociales.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-11-02",
+  "es_plan": true,
+  "titulo": "Concierto de Duran Duran en Madrid",
+  "resumen": "La banda británica Duran Duran ofrece un concierto en Madrid el próximo viernes 6 de noviembre en el Movistar Arena, presentando su música en un evento transgeneracional.",
+  "en": {
+   "titulo": "Duran Duran concert in Madrid",
+   "resumen": "British band Duran Duran will perform a concert in Madrid next Friday, November 6th, at the Movistar Arena, showcasing their music in a transgenerational event."
+  },
+  "inicio": "2026-11-06",
+  "fin": "2026-11-06",
+  "hora": null,
+  "lugar": "Movistar Arena",
+  "municipio": "Madrid",
+  "provincia": "Madrid",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "119bfd9f7d": {
+  "url": "https://elpais.com/cultura/2026-11-02/morat-celebra-su-decimo-aniversario-con-un-concierto-intimo-en-madrid.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-11-02",
+  "es_plan": false
+ },
+ "97e576ff0a": {
+  "url": "https://elpais.com/cultura/2026-11-02/kent-nagano-devuelve-a-falla-su-atlantida-y-vox-luminis-susurra-a-mozart-por-las-victimas-de-urda.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-11-02",
+  "es_plan": true,
+  "titulo": "Conciertos en el Auditorio Nacional de Madrid",
+  "resumen": "El Auditorio Nacional de Madrid acoge varios conciertos, incluyendo la orquestación de 'La catedral sumergida' de Debussy y la 'Misa Nelson' de Haydn, con Kent Nagano dirigiendo.",
+  "en": {
+   "titulo": "Concerts at the National Auditorium of Madrid",
+   "resumen": "The National Auditorium of Madrid hosts several concerts, including the orchestration of Debussy's 'La catedral sumergida' and Haydn's 'Nelson Mass', conducted by Kent Nagano."
+  },
+  "inicio": "2026-11-01",
+  "fin": "2026-11-06",
+  "hora": null,
+  "lugar": "Auditorio Nacional",
+  "municipio": "Madrid",
+  "provincia": "Madrid",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "aa414a5e42": {
+  "url": "https://elpais.com/cultura/2026-11-02/omar-ayuso-actor-yo-concibo-el-sexo-como-un-juego-en-el-que-puede-caber-el-amor.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-11-02",
+  "es_plan": false
+ },
+ "1c9426b63f": {
+  "url": "https://www.lavanguardia.com/local/girona/20261102/11674167/actriz-angels-gonyalons-pondra-voz-poesia-religiosa-joan-maragall.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-02",
+  "es_plan": true,
+  "titulo": "Àngels Gonyalons recita poesía religiosa de Joan Maragall en Girona y Vic",
+  "resumen": "La actriz Àngels Gonyalons interpretará la poesía religiosa de Joan Maragall en dos espectáculos: este martes en la Catedral de Girona y el 12 de noviembre en Vic.",
+  "en": {
+   "titulo": "Àngels Gonyalons recites Joan Maragall's religious poetry in Girona and Vic",
+   "resumen": "Actress Àngels Gonyalons will perform Joan Maragall's religious poetry in two shows: this Tuesday at Girona Cathedral and on November 12th in Vic."
+  },
+  "inicio": "2026-11-03",
+  "fin": "2026-11-12",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": null,
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.5
+ },
+ "bfc69b910a": {
+  "url": "https://www.lavanguardia.com/cultura/20261102/11673920/maria-velasco-hurga-infancias-infelices.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-02",
+  "es_plan": false
+ },
+ "1d7055c257": {
+  "url": "https://www.lavanguardia.com/cultura/musica/20261102/11673744/muere-juan-atkins-padres-tecno-64-anos.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-02",
+  "es_plan": false
+ },
+ "3ad9333267": {
+  "url": "https://www.lavanguardia.com/comer/al-dia/20261102/11673517/ciclo-cine-barcelona-come-peliculas.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-02",
+  "es_plan": false
+ },
+ "63cf27b638": {
+  "url": "https://www.ara.cat/cultura/musica/mar-pujol-endema-concert-em-llevar-ressaca-d-adolescent-sentint-culpable_128_5896758.html",
+  "fuente": "Ara (Cultura)",
+  "src": "prensa-ara-cultura",
+  "publicado": "2026-11-02",
+  "es_plan": false
+ },
+ "a6adc6a097": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/02/leire-martinez-contesta-criticas-amaia-montero-concierto-zaragoza-fiestas-pilar-terriblemente-doloroso-2063062.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-02",
+  "es_plan": false
+ },
+ "ac09caf469": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/02/pelicula-rocky-vuelve-los-cines-donde-verla-zaragoza-2065052.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-02",
+  "es_plan": true,
+  "titulo": "La película \"Rocky\" vuelve a los cines de Zaragoza",
+  "resumen": "La película \"Rocky\" se reestrena en Zaragoza para celebrar su 50 aniversario. La cinta, que consagró a Sylvester Stallone, se proyecta este lunes a las 20:00.",
+  "en": {
+   "titulo": "The movie \"Rocky\" returns to cinemas in Zaragoza",
+   "resumen": "The film \"Rocky\" is re-released in Zaragoza to celebrate its 50th anniversary. The movie, which launched Sylvester Stallone's career, is showing this Monday at 8:00 PM."
+  },
+  "inicio": "2026-11-02",
+  "fin": "2026-11-02",
+  "hora": "20:00",
+  "lugar": null,
+  "municipio": "Zaragoza",
+  "provincia": "Zaragoza",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "pantalla",
+   "cultura"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "91c9cce1b4": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/02/arturo-perez-reverte-escritor-cuando-estoy-sevilla-desayuno-siempre-churros-san-pablo-aperitivo-piletas-2064349.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-02",
+  "es_plan": false
+ },
+ "a07d52f69b": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/02/critica-concierto-gustavo-dudamel-con-sinfonica-nacional-juvenil-venezuela-tercera-va-2065038.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-02",
+  "es_plan": false
+ },
+ "7009eae24e": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/02/ernest-hemingway-famosa-reflexion-espana-pueblo-espanol-rasgo-comun-orgullo-otro-sentido-2035874.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-02",
+  "es_plan": false
+ },
+ "770ac8b011": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/02/torero-roca-rey-30anos-mucho-miedo-ilusionado-responsabilizado-2064585.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-02",
+  "es_plan": false
+ },
+ "0909c0fd69": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/02/jose-sacristan-89anos-detestables-actitudes-miserables-santiago-abascal-terrible-accidente-ferroviario-espanoles-votan-2064584.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-02",
+  "es_plan": true,
+  "titulo": "José Sacristán de gira con 'El hijo de la cómica' en Zaragoza",
+  "resumen": "El actor José Sacristán continúa de gira con su obra 'El hijo de la cómica', basada en las memorias de Fernando Fernán Gómez. La obra se presentará en el Teatro Principal de Zaragoza.",
+  "en": {
+   "titulo": "José Sacristán on tour with 'El hijo de la cómica' in Zaragoza",
+   "resumen": "Actor José Sacristán continues his tour with the play 'El hijo de la cómica', based on Fernando Fernán Gómez's memoirs. The play will be presented at the Teatro Principal in Zaragoza."
+  },
+  "inicio": "2026-12-16",
+  "fin": "2026-12-20",
+  "hora": null,
+  "lugar": "Teatro Principal",
+  "municipio": "Zaragoza",
+  "provincia": "Zaragoza",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "b9880b512c": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/02/gira-retorno-heroes-silencio-2007-bunbury-beneficio-economicamente-resto-herida-hizo-sangrante-2056391.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-02",
+  "es_plan": false
+ },
+ "0654435b51": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/02/goncalo-m-tavares-fascismo-nunca-duerme-2064950.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-02",
+  "es_plan": false
+ },
+ "49b0169c57": {
+  "url": "https://www.elnortedecastilla.es/culturas/seminci/seminci-bastion-cine-autor-significa-crear-libertad-20261102082941-nt.html",
+  "fuente": "El Norte de Castilla (Culturas)",
+  "src": "prensa-nortecastilla-culturas",
+  "publicado": "2026-11-02",
+  "es_plan": false
+ },
+ "01ff9e6aa8": {
+  "url": "https://www.elnortedecastilla.es/culturas/siete-siglos-tejiendo-arte-20261012002701-ntrc.html",
+  "fuente": "El Norte de Castilla (Culturas)",
+  "src": "prensa-nortecastilla-culturas",
+  "publicado": "2026-11-02",
+  "es_plan": false
+ },
+ "e7e50fd99b": {
+  "url": "https://www.diariosur.es/culturas/entradas-u2-sevilla-debes-saber-preventa-20261102082518-nt.html",
+  "fuente": "Diario Sur (Culturas)",
+  "src": "prensa-diariosur-culturas",
+  "publicado": "2026-11-02",
+  "es_plan": true,
+  "titulo": "Concierto de U2 en Sevilla el 22 de mayo",
+  "resumen": "La banda U2 ofrecerá un concierto en el Estadio de la Cartuja de Sevilla el próximo 22 de mayo para presentar su nuevo disco 'Carnaval de Luz'. Se informa sobre la preventa de entradas.",
+  "en": {
+   "titulo": "U2 concert in Seville on May 22nd",
+   "resumen": "The band U2 will perform a concert at the Estadio de la Cartuja in Seville on May 22nd to present their new album 'Carnaval de Luz'. Information about ticket presale is provided."
+  },
+  "inicio": "2027-05-22",
+  "fin": "2027-05-22",
+  "hora": null,
+  "lugar": "Estadio de la Cartuja",
+  "municipio": "Sevilla",
+  "provincia": "Sevilla",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "5f86808777": {
+  "url": "https://www.ideal.es/culturas/nave-granadina-construyen-suenos-20261102233801-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-11-02",
+  "es_plan": false
+ },
+ "bb3b21ecaa": {
+  "url": "https://www.elcorreo.com/culturas/musica/pasion-vega-recopila-almodovar-susto-incluido-arriaga-20261102014838-nt.html",
+  "fuente": "El Correo (Culturas)",
+  "src": "prensa-elcorreo-culturas",
+  "publicado": "2026-11-02",
+  "es_plan": false
+ },
+ "634db266e4": {
+  "url": "https://www.elcorreo.com/culturas/musica/estalla-crisis-precedentes-mago-pocos-dias-estreno-20261102140320-nt.html",
+  "fuente": "El Correo (Culturas)",
+  "src": "prensa-elcorreo-culturas",
+  "publicado": "2026-11-02",
+  "es_plan": false
+ },
+ "afe48b7c6a": {
+  "url": "https://www.elcorreo.com/culturas/musica/queens-the-stone-age-tocaran-miercoles-junio-20261102110135-nt.html",
+  "fuente": "El Correo (Culturas)",
+  "src": "prensa-elcorreo-culturas",
+  "publicado": "2026-11-02",
+  "es_plan": true,
+  "titulo": "Queens of the Stone Age en Miribilla con ZEP",
+  "resumen": "Queens of the Stone Age ofrecerán un concierto en Miribilla el miércoles 16 de junio, con ZEP como invitado. Presentarán su último disco 'Perfecth'.",
+  "en": {
+   "titulo": "Queens of the Stone Age in Miribilla with ZEP",
+   "resumen": "Queens of the Stone Age will perform a concert in Miribilla on Wednesday, June 16th, with ZEP as a guest. They will present their latest album 'Perfecth'."
+  },
+  "inicio": "2027-06-16",
+  "fin": "2027-06-16",
+  "hora": null,
+  "lugar": "Miribilla",
+  "municipio": "Bilbao",
+  "provincia": "Vizcaya",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "2d61cf4b3c": {
+  "url": "https://www.elcorreo.com/culturas/musica/scorpions-celebraran-seis-decadas-musica-mayo-bec-20261102123445-nt.html",
+  "fuente": "El Correo (Culturas)",
+  "src": "prensa-elcorreo-culturas",
+  "publicado": "2026-11-02",
+  "es_plan": true,
+  "titulo": "Scorpions celebran 60 años en el BEC el 5 de mayo",
+  "resumen": "La banda Scorpions celebrará sus seis décadas de música con un concierto en el BEC (Barakaldo) el 5 de mayo de 2027, como parte de su gira 'Love, Peace & Rock 'N' Roll Tour 2027'.",
+  "en": {
+   "titulo": "Scorpions celebrate 60 years at BEC on May 5th",
+   "resumen": "The band Scorpions will celebrate their six decades of music with a concert at the BEC (Barakaldo) on May 5th, 2027, as part of their 'Love, Peace & Rock 'N' Roll Tour 2027'."
+  },
+  "inicio": "2027-05-05",
+  "fin": "2027-05-05",
+  "hora": null,
+  "lugar": "BEC",
+  "municipio": "Barakaldo",
+  "provincia": "Vizcaya",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "d8df9339b2": {
+  "url": "https://www.diariovasco.com/tolosa-goierri/tolosa/the-epiphoni-consort-ganador-edicion-certamen-coral-20261101085938-nt.html",
+  "fuente": "El Diario Vasco (Culturas)",
+  "src": "prensa-diariovasco-culturas",
+  "publicado": "2026-11-02",
+  "es_plan": false
+ },
+ "9411e772a1": {
+  "url": "https://www.diariovasco.com/bidasoa/hondarribia/festival-hondarribitarra-amua-trae-the-molotovs-combo-20261031220628-nt.html",
+  "fuente": "El Diario Vasco (Culturas)",
+  "src": "prensa-diariovasco-culturas",
+  "publicado": "2026-11-02",
+  "es_plan": true,
+  "titulo": "Festival Amua de Hondarribia: Cortos y Música",
+  "resumen": "El festival Amua de Hondarribia celebra su cita anual con los cortometrajes y la música. Durante cuatro días, Itsas Etxea acogerá proyecciones y actuaciones.",
+  "en": {
+   "titulo": "Amua Festival in Hondarribia: Short Films and Music",
+   "resumen": "The Amua festival in Hondarribia celebrates its annual event with short films and music. For four days, Itsas Etxea will host screenings and performances."
+  },
+  "inicio": "2026-11-12",
+  "fin": "2026-11-15",
+  "hora": null,
+  "lugar": "Itsas Etxea",
+  "municipio": "Hondarribia",
+  "provincia": "Gipuzkoa",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "196e296879": {
+  "url": "https://www.diariovasco.com/culturas/miguel-zugaza-espejua-20261102073148-nt.html",
+  "fuente": "El Diario Vasco (Culturas)",
+  "src": "prensa-diariovasco-culturas",
+  "publicado": "2026-11-02",
+  "es_plan": false
+ },
+ "1ef6b148ff": {
+  "url": "https://www.lasprovincias.es/culturas/queens-the-stone-age-actuara-junio-roig-20261102093853-nt.html",
+  "fuente": "Las Provincias (Culturas)",
+  "src": "prensa-lasprovincias-culturas",
+  "publicado": "2026-11-02",
+  "es_plan": true,
+  "titulo": "Queens of the Stone Age en Valencia",
+  "resumen": "Queens of the Stone Age ofrecerá un concierto en el Roig Arena de Valencia el 21 de junio para presentar su nuevo disco. Las entradas salen a la venta el 6 de noviembre.",
+  "en": {
+   "titulo": "Queens of the Stone Age in Valencia",
+   "resumen": "Queens of the Stone Age will perform a concert at the Roig Arena in Valencia on June 21st to present their new album. Tickets go on sale on November 6th."
+  },
+  "inicio": "2027-06-21",
+  "fin": "2027-06-21",
+  "hora": null,
+  "lugar": "Roig Arena",
+  "municipio": "Valencia",
+  "provincia": "Valencia",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "musica"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "99af83cc2d": {
+  "url": "https://www.lasprovincias.es/culturas/tv/septima-programacion-nuevo-canal-tdt-llega-noviembre-20261101002902-nt.html",
+  "fuente": "Las Provincias (Culturas)",
+  "src": "prensa-lasprovincias-culturas",
+  "publicado": "2026-11-02",
+  "es_plan": true,
+  "titulo": "Estreno del canal de TV La Séptima",
+  "resumen": "El nuevo canal generalista de televisión, La Séptima, inicia sus emisiones el 5 de noviembre y estará disponible en abierto para toda España.",
+  "en": {
+   "titulo": "Launch of the TV channel La Séptima",
+   "resumen": "The new generalist television channel, La Séptima, begins its broadcasts on November 5th and will be available free-to-air throughout Spain."
+  },
+  "inicio": "2026-11-05",
+  "fin": "2026-11-05",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": true,
+  "precio": null,
+  "temas": [
+   "pantalla"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "0cf239b442": {
+  "url": "https://www.laverdad.es/culturas/ies-cascales-murcia-acoge-lunes-presentacion-acropolis-20261102113629-nt.html",
+  "fuente": "La Verdad (Culturas)",
+  "src": "prensa-laverdad-culturas",
+  "publicado": "2026-11-02",
+  "es_plan": true,
+  "titulo": "Presentación del libro 'Acrópolis' en Murcia",
+  "resumen": "El IES Cascales de Murcia acoge la presentación del libro 'Acrópolis' de Antonio Penadés, un recorrido por el origen de la civilización.",
+  "en": {
+   "titulo": "Presentation of the book 'Acrópolis' in Murcia",
+   "resumen": "The IES Cascales in Murcia hosts the presentation of the book 'Acrópolis' by Antonio Penadés, a journey through the origin of civilization."
+  },
+  "inicio": "2026-11-02",
+  "fin": "2026-11-02",
+  "hora": null,
+  "lugar": "IES Cascales",
+  "municipio": "Murcia",
+  "provincia": "Murcia",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "b4eb98d53b": {
+  "url": "https://www.laverdad.es/culturas/elvira-navarro-gana-xxiii-premio-setenil-mejor-20261102111139-nt.html",
+  "fuente": "La Verdad (Culturas)",
+  "src": "prensa-laverdad-culturas",
+  "publicado": "2026-11-02",
+  "es_plan": true,
+  "titulo": "Entrega del XXIII Premio Setenil a Elvira Navarro",
+  "resumen": "Elvira Navarro recibirá el XXIII Premio Setenil al mejor libro de relatos por 'La sangre está cayendo al patio' el 17 de diciembre.",
+  "en": {
+   "titulo": "Award ceremony for the XXIII Setenil Prize to Elvira Navarro",
+   "resumen": "Elvira Navarro will receive the XXIII Setenil Prize for the best short story collection for 'La sangre está cayendo al patio' on December 17th."
+  },
+  "inicio": "2026-12-17",
+  "fin": "2026-12-17",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "328c7ddada": {
+  "url": "https://www.elcomercio.es/culturas/arte/recordando-king-richard-gijon-higienico-papel-escuela-comercio-20261030105104-nt.html",
+  "fuente": "El Comercio (Culturas)",
+  "src": "prensa-elcomercio-culturas",
+  "publicado": "2026-11-02",
+  "es_plan": true,
+  "titulo": "Lectura dramatizada de 'King Richard' en Gijón",
+  "resumen": "La compañía Higiénico Papel conmemora el 30 aniversario de su creación y las dos décadas del estreno de 'King Richard' con una lectura dramatizada en la Escuela de Comercio de Gijón.",
+  "en": {
+   "titulo": "Staged reading of 'King Richard' in Gijón",
+   "resumen": "The company Higiénico Papel commemorates the 30th anniversary of its founding and the two decades since the premiere of 'King Richard' with a staged reading at the Escuela de Comercio in Gijón."
+  },
+  "inicio": "2026-11-02",
+  "fin": "2026-11-02",
+  "hora": null,
+  "lugar": "Escuela de Comercio",
+  "municipio": "Gijón",
+  "provincia": "Asturias",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "514087c647": {
+  "url": "https://www.elcomercio.es/culturas/arte/feito-setenta-fuerte-madrid-20261101095613-nt.html",
+  "fuente": "El Comercio (Culturas)",
+  "src": "prensa-elcomercio-culturas",
+  "publicado": "2026-11-02",
+  "es_plan": true,
+  "titulo": "Exposición de El Feito en Madrid",
+  "resumen": "La galería Ansorena de Madrid presenta hasta el 4 de diciembre una selección de obras del creador El Feito, fallecido en 2021.",
+  "en": {
+   "titulo": "Exhibition of El Feito in Madrid",
+   "resumen": "The Ansorena gallery in Madrid presents a selection of works by the artist El Feito, who passed away in 2021, until December 4th."
+  },
+  "inicio": "2026-11-02",
+  "fin": "2026-12-04",
+  "hora": null,
+  "lugar": "Galería Ansorena",
+  "municipio": "Madrid",
+  "provincia": "Madrid",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "5b351d4a12": {
+  "url": "https://www.larioja.com/culturas/proyecto-conjunto-observacion-espanol-portugues-20261102142931-nt.html",
+  "fuente": "La Rioja (Culturas)",
+  "src": "prensa-larioja-culturas",
+  "publicado": "2026-11-02",
+  "es_plan": true,
+  "titulo": "II Conferencia Internacional de Observatorios de las Lenguas",
+  "resumen": "Se celebrará los días 5 y 6 de noviembre la II Conferencia Internacional de Observatorios de las Lenguas, las Culturas y la Comunicación, donde se analizará la creación de un proyecto conjunto de observación del español y portugués.",
+  "en": {
+   "titulo": "II International Conference of Language Observatories",
+   "resumen": "The II International Conference of Observatories of Languages, Cultures, and Communication will be held on November 5th and 6th, analyzing the creation of a joint project for observing Spanish and Portuguese."
+  },
+  "inicio": "2026-11-05",
+  "fin": "2026-11-06",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": "La Rioja",
+  "ambito": "nacional",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "779472b56c": {
+  "url": "https://www.larioja.com/culturas/logrono-noviembre-encuentro-cultura-rioja-20261102131534-nt.html",
+  "fuente": "La Rioja (Culturas)",
+  "src": "prensa-larioja-culturas",
+  "publicado": "2026-11-02",
+  "es_plan": true,
+  "titulo": "III Encuentro de la Cultura de La Rioja en Logroño",
+  "resumen": "Logroño acogerá los días 20 y 21 de noviembre el III Encuentro de la Cultura de La Rioja, un foro para compartir experiencias y retos del sector cultural.",
+  "en": {
+   "titulo": "III Meeting of La Rioja Culture in Logroño",
+   "resumen": "Logroño will host the III Meeting of La Rioja Culture on November 20th and 21st, a forum to share experiences and challenges in the cultural sector."
+  },
+  "inicio": "2026-11-20",
+  "fin": "2026-11-21",
+  "hora": null,
+  "lugar": null,
+  "municipio": "Logroño",
+  "provincia": "La Rioja",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "4756d46216": {
+  "url": "https://www.larioja.com/culturas/festival-memeo-anuncia-nueve-espectaculos-logrono-corbacho-20261102115421-nt.html",
+  "fuente": "La Rioja (Culturas)",
+  "src": "prensa-larioja-culturas",
+  "publicado": "2026-11-02",
+  "es_plan": true,
+  "titulo": "Festival Memeo de Comedia en Logroño",
+  "resumen": "El Festival Memeo anuncia nueve espectáculos de comedia en Logroño, con Corbacho y Alex O'Dogherty. Las entradas ya están a la venta para su séptima edición.",
+  "en": {
+   "titulo": "Memeo Comedy Festival in Logroño",
+   "resumen": "The Memeo Festival announces nine comedy shows in Logroño, featuring Corbacho and Alex O'Dogherty. Tickets are now on sale for its seventh edition."
+  },
+  "inicio": "2026-12-01",
+  "fin": "2027-04-30",
+  "hora": null,
+  "lugar": null,
+  "municipio": "Logroño",
+  "provincia": "La Rioja",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "fiestas"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "5765f78d5e": {
+  "url": "https://www.larioja.com/culturas/riojazz-ritmo-20261102074923-nt.html",
+  "fuente": "La Rioja (Culturas)",
+  "src": "prensa-larioja-culturas",
+  "publicado": "2026-11-02",
+  "es_plan": true,
+  "titulo": "Festival Riojazz en Logroño",
+  "resumen": "El festival Riojazz comienza en Logroño con el espectáculo 'Esto no es una misa Gospel' y ofrecerá ocho jornadas de jazz en diferentes escenarios de la ciudad.",
+  "en": {
+   "titulo": "Riojazz Festival in Logroño",
+   "resumen": "The Riojazz festival begins in Logroño with the show 'Esto no es una misa Gospel' and will offer eight days of jazz in different venues across the city."
+  },
+  "inicio": "2026-11-02",
+  "fin": "2026-11-02",
+  "hora": null,
+  "lugar": null,
+  "municipio": "Logroño",
+  "provincia": "La Rioja",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "f20aaaaaed": {
+  "url": "https://www.europapress.es/cultura/libros-00132/noticia-goncalo-tavares-premio-formentor-2026-alerta-ia-puede-crear-tetraplejicos-intelectuales-20261101181812.html",
+  "fuente": "Europa Press (Cultura)",
+  "src": "prensa-europapress-cultura",
+  "publicado": "2026-11-01",
+  "es_plan": false
+ },
+ "833d67f7e8": {
+  "url": "https://www.20minutos.es/libros/goncalo-m-tavares-premio-formentor-2026-ia-puede-crear-tetraplejicos-intelectuales_7056081_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-11-01",
+  "es_plan": false
+ },
+ "1db9d5a32d": {
+  "url": "https://elpais.com/cultura/2026-11-01/muere-a-los-81-anos-el-artista-miquel-navarro.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-11-01",
+  "es_plan": false
+ },
+ "bf74616d35": {
+  "url": "https://www.lavanguardia.com/cultura/20261101/11673515/goncalo-m-tavares-ia-convertirnos-tetraplejicos-intelectuales.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-01",
+  "es_plan": false
+ },
+ "aea4489524": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/01/madonna-recomienda-bola-negra-javis-seguidores-instagram-2064988.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-01",
+  "es_plan": false
+ },
+ "81da5f506c": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/01/goncalo-tavares-premio-formentor-2026-pobreza-lenguaje-fascismos-2064962.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-01",
+  "es_plan": false
+ },
+ "c727ec52f1": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/01/muere-miquel-navarro-creador-que-imagino-ciudades-esculpio-iconos-urbanos-2064892.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-01",
+  "es_plan": false
+ },
+ "563ceda811": {
+  "url": "https://www.diariovasco.com/culturas/musica/autografos-obras-arte-michael-jackson-llegan-exposicion-20261101202311-nt.html",
+  "fuente": "El Diario Vasco (Culturas)",
+  "src": "prensa-diariovasco-culturas",
+  "publicado": "2026-11-01",
+  "es_plan": true,
+  "titulo": "Exposición 'Michael Jackson Legacy' en Madrid",
+  "resumen": "Madrid acoge la exposición 'Michael Jackson Legacy', que presenta autógrafos y obras de arte del rey del pop. La muestra estará abierta del 20 de noviembre al 16 de diciembre.",
+  "en": {
+   "titulo": "'Michael Jackson Legacy' Exhibition in Madrid",
+   "resumen": "Madrid hosts the 'Michael Jackson Legacy' exhibition, featuring autographs and artworks by the King of Pop. The exhibition will be open from November 20th to December 16th."
+  },
+  "inicio": "2026-11-20",
+  "fin": "2026-12-16",
+  "hora": null,
+  "lugar": "FLUGE Audiovisuales",
+  "municipio": "Arganda del Rey",
+  "provincia": "Madrid",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "musica",
+   "museos"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "30e18389c1": {
+  "url": "https://www.diariovasco.com/culturas/musica/guerra-interna-mago-salpica-estreno-pelicula-20261101202306-nt.html",
+  "fuente": "El Diario Vasco (Culturas)",
+  "src": "prensa-diariovasco-culturas",
+  "publicado": "2026-11-01",
+  "es_plan": false
+ },
+ "7e5dc0b5ec": {
+  "url": "https://www.lasprovincias.es/culturas/tv/tve-emite-lunes-sueno-eterno-humphrey-bogart-20261101235930-nt.html",
+  "fuente": "Las Provincias (Culturas)",
+  "src": "prensa-lasprovincias-culturas",
+  "publicado": "2026-11-01",
+  "es_plan": true,
+  "titulo": "TVE emite 'El sueño eterno' este lunes",
+  "resumen": "La 2 de TVE emite este lunes la icónica película 'El sueño eterno', protagonizada por Humphrey Bogart y Lauren Bacall, a las 22:30 horas.",
+  "en": {
+   "titulo": "TVE airs 'The Big Sleep' this Monday",
+   "resumen": "TVE's La 2 channel will air the iconic film 'The Big Sleep', starring Humphrey Bogart and Lauren Bacall, this Monday at 10:30 PM."
+  },
+  "inicio": "2026-11-02",
+  "fin": "2026-11-02",
+  "hora": "22:30",
+  "lugar": null,
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": true,
+  "precio": null,
+  "temas": [
+   "pantalla",
+   "cultura"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "6fd4b64bbb": {
+  "url": "https://www.lasprovincias.es/culturas/miquel-navarro-modernidad-discreta-20261101161728-nt.html",
+  "fuente": "Las Provincias (Culturas)",
+  "src": "prensa-lasprovincias-culturas",
+  "publicado": "2026-11-01",
+  "es_plan": false
+ },
+ "0c669070ba": {
+  "url": "https://www.elcorreo.com/culturas/arte/memoria-nutre-retrospectiva-alejandra-icaza-sala-rekalde-20261030200215-nt.html",
+  "fuente": "El Correo (Culturas)",
+  "src": "prensa-elcorreo-culturas",
+  "publicado": "2026-10-30",
+  "es_plan": true,
+  "titulo": "Exposición 'Circus' de Alejandra Icaza en Sala Rekalde",
+  "resumen": "La Sala Rekalde de Bilbao presenta 'Circus', una exposición de Alejandra Icaza que recorre cuarenta años de su obra, desde la pintura flamenca a la tradición oriental.",
+  "en": {
+   "titulo": "Alejandra Icaza's 'Circus' Exhibition at Sala Rekalde",
+   "resumen": "Sala Rekalde in Bilbao presents 'Circus', an exhibition by Alejandra Icaza spanning forty years of her work, from Flemish painting to Eastern traditions."
+  },
+  "inicio": "2026-10-30",
+  "fin": "2026-10-30",
+  "hora": null,
+  "lugar": "Sala Rekalde",
+  "municipio": "Bilbao",
+  "provincia": "Vizcaya",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "832e83361d": {
+  "url": "https://www.elcorreo.com/culturas/territorios/dorada-reconciliacion-20261031195849-nt.html",
+  "fuente": "El Correo (Culturas)",
+  "src": "prensa-elcorreo-culturas",
+  "publicado": "2026-10-30",
+  "es_plan": false
+ },
+ "05fdacde92": {
+  "url": "https://www.elcorreo.com/culturas/musica/musica-derrama-20261030194509-nt.html",
+  "fuente": "El Correo (Culturas)",
+  "src": "prensa-elcorreo-culturas",
+  "publicado": "2026-10-30",
+  "es_plan": true,
+  "titulo": "Concierto del cuarteto SIGMA Project en el Guggenheim",
+  "resumen": "El cuarteto de saxofones SIGMA Project ofrecerá un concierto este sábado en el Museo Guggenheim de Bilbao, interpretando obras de varios compositores.",
+  "en": {
+   "titulo": "SIGMA Project Quartet concert at the Guggenheim",
+   "resumen": "The saxophone quartet SIGMA Project will perform a concert this Saturday at the Guggenheim Museum Bilbao, playing works by various composers."
+  },
+  "inicio": "2026-11-07",
+  "fin": "2026-11-07",
+  "hora": null,
+  "lugar": "Museo Guggenheim",
+  "municipio": "Bilbao",
+  "provincia": "Vizcaya",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "8cbfadffe2": {
+  "url": "https://www.diariovasco.com/culturas/musica/luminosa-fiesta-amigos-orfeon-donostiarra-20261030213247-nt.html",
+  "fuente": "El Diario Vasco (Culturas)",
+  "src": "prensa-diariovasco-culturas",
+  "publicado": "2026-10-30",
+  "es_plan": false
+ },
+ "37ebf84d4e": {
+  "url": "https://www.diariovasco.com/culturas/chopera-desvinculan-gestion-taurina-illunbe-donostia-20261030161505-nt.html",
+  "fuente": "El Diario Vasco (Culturas)",
+  "src": "prensa-diariovasco-culturas",
+  "publicado": "2026-10-30",
+  "es_plan": false
+ },
+ "95f323859b": {
+  "url": "https://www.diariovasco.com/culturas/contraste-tonal-visual-exponentes-asiaticos-20261030184703-nt.html",
+  "fuente": "El Diario Vasco (Culturas)",
+  "src": "prensa-diariovasco-culturas",
+  "publicado": "2026-10-30",
+  "es_plan": false
+ },
+ "90e069818f": {
+  "url": "https://www.diariovasco.com/culturas/kutxa-fundazioa-noviembre-20261030070000-nt.html",
+  "fuente": "El Diario Vasco (Culturas)",
+  "src": "prensa-diariovasco-culturas",
+  "publicado": "2026-10-30",
+  "es_plan": true,
+  "titulo": "Agenda Kutxa Fundazioa Noviembre: Exposiciones y Conciertos",
+  "resumen": "La Kutxa Fundazioa presenta su agenda para noviembre, que incluye exposiciones y conciertos en Gipuzkoa. Los detalles específicos de los eventos se anunciarán próximamente.",
+  "en": {
+   "titulo": "Kutxa Fundazioa November Agenda: Exhibitions and Concerts",
+   "resumen": "Kutxa Fundazioa presents its agenda for November, featuring exhibitions and concerts in Gipuzkoa. Specific event details will be announced soon."
+  },
+  "inicio": "2026-11-01",
+  "fin": "2026-11-30",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": "Gipuzkoa",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "musica",
+   "museos"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.7
  }
 }

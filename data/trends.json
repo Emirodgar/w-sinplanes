@@ -42,6 +42,16 @@
    ]
   },
   {
+   "term": "comunidades autónomas festivo hoy",
+   "traffic": 20000,
+   "lastSeen": "2026-11-02",
+   "news": [
+    "Dónde es festivo hoy, lunes 2 de noviembre: comunidades autónomas que hacen puente por el Día de Todos los Santos",
+    "¿Hoy es festivo? Las nueve comunidades que hacen puente este lunes 2 de noviembre",
+    "¿Por qué hoy no es fiesta en toda España?"
+   ]
+  },
+  {
    "term": "el telediario de nuestras vidas",
    "traffic": 10000,
    "lastSeen": "2026-10-21",
@@ -128,6 +138,16 @@
     "La Palma sufre un apagón general que deja a la isla sin suministro eléctrico durante casi cuatro horas",
     "Garriga (Vox) pide una auditoría de todos los kilómetros de red ferroviaria",
     "Restablecido el suministro eléctrico en La Palma tras un apagón de cuatro horas"
+   ]
+  },
+  {
+   "term": "rafael jódar",
+   "traffic": 10000,
+   "lastSeen": "2026-11-02",
+   "news": [
+    "Resumen y resultado del Tabilo - Jódar del Masters 1.000 de París",
+    "A qué hora es el Jódar - Tabilo: horario y dónde ver hoy en TV la primera ronda del torneo de París",
+    "Jódar - Tabilo, en directo | Masters 1000 de París Bercy de tenis"
    ]
   },
   {
@@ -221,16 +241,6 @@
    ]
   },
   {
-   "term": "rafael jódar",
-   "traffic": 5000,
-   "lastSeen": "2026-10-29",
-   "news": [
-    "Vacherot - Jódar, en directo: última hora del Torneo de Basilea, hoy en vivo",
-    "Jódar - Vacherot: horario, canal de televisión y dónde ver online el partido de Basilea",
-    "Jódar - Vacherot, en directo | ATP 500 de Basilea 2026: octavos de final hoy en vivo"
-   ]
-  },
-  {
    "term": "javier bardem",
    "traffic": 5000,
    "lastSeen": "2026-10-30",
@@ -248,6 +258,16 @@
     "Real Madrid - Burgos, en directo: ACB (Liga Endesa) 2026/27 hoy en vivo",
     "Real Madrid - Burgos, en directo hoy | Liga Endesa de baloncesto",
     "A qué hora es el Real Madrid - Recoletas Salud San Pablo Burgos: horario, dónde ver hoy en TV y canal del partido de la Liga Endesa"
+   ]
+  },
+  {
+   "term": "tenerife - fc andorra",
+   "traffic": 5000,
+   "lastSeen": "2026-11-02",
+   "news": [
+    "Tenerife - Andorra, en directo: LaLiga Hypermotion, hoy en vivo",
+    "Localidades ya adquiridas del #TenerifeAndorra",
+    "CD Tenerife vs FC Andorra: horario, minuto a minuto y claves del partido"
    ]
   },
   {
@@ -505,9 +525,38 @@
    "traffic": 2000,
    "lastSeen": "2026-11-02",
    "news": [
-    "Qué supermercados abren hoy 2 de noviembre: Estos son los horarios de Mercadona, Carrefour, Día y Alcampo",
-    "Mercadona cierra más de 800 supermercados este lunes 2 de noviembre por Todos los Santos",
+    "Horarios especiales de Mercadona para el domingo 1 de noviembre, Todos los Santos, y el lunes 2",
+    "¿Qué supermercados y centros comerciales abren en Córdoba el lunes 2 de noviembre?",
     "¿Qué tiendas y centros comerciales abren en Málaga este lunes festivo, 2 de noviembre?"
+   ]
+  },
+  {
+   "term": "presentador",
+   "traffic": 2000,
+   "lastSeen": "2026-11-02",
+   "news": [
+    "Carlota Corredera se rompe al hablar de Raúl Triguero: \"Por encima de todo, creo que lo importante es decir cómo era él como persona. Era muy buena persona, muy buen compañero, siempre estaba sonriendo\"",
+    "La noche más difícil de Telecinco: el desgarro de Santi Acosta y Beatriz Archidona por la muerte de Raúl Triguero, \"un amigo, una buena persona\"",
+    "«De Viernes» se despide del periodista Raúl Triguero, muerto en Urda: «Eras el mejor y te ganabas a todo el mundo»"
+   ]
+  },
+  {
+   "term": "matías prats",
+   "traffic": 2000,
+   "lastSeen": "2026-11-02",
+   "news": [
+    "Matías Prats, sobre su patrimonio: «Mi padre vivía para trabajar y yo, para vivir; he invertido en una empresa fotovoltaica junto a unos amigos»",
+    "Matías Prats, sobre su padre y su patrimonio: \"Mi padre vivía para trabajar y yo, para vivir; he invertido en una empresa fotovoltaica junto a unos amigos\""
+   ]
+  },
+  {
+   "term": "clara montes",
+   "traffic": 2000,
+   "lastSeen": "2026-11-02",
+   "news": [
+    "Buenas noticias para Clara Montes, ingresada tras el accidente de tren en Toledo",
+    "La cantante Clara Montes sale de la UCI tras el accidente de tren en Urda: \"Está fuera de peligro\"",
+    "Clara Montes, herida en el accidente de Urda: «Hoy, más que nunca, doy gracias por poder estar aquí»"
    ]
   },
   {
@@ -876,16 +925,6 @@
     "Una máquina de anotar frente al rey de las segundas oportunidades",
     "En directo: Obradoiro - Breogán; primer derbi gallego de la temporada en la Liga Endesa",
     "El Fontes do Sar recupera el derbi gallego en la Liga Endesa"
-   ]
-  },
-  {
-   "term": "presentador",
-   "traffic": 1000,
-   "lastSeen": "2026-11-02",
-   "news": [
-    "Carlota Corredera se rompe al hablar de Raúl Triguero: \"Por encima de todo, creo que lo importante es decir cómo era él como persona. Era muy buena persona, muy buen compañero, siempre estaba sonriendo\"",
-    "La noche más difícil de Telecinco: el desgarro de Santi Acosta y Beatriz Archidona por la muerte de Raúl Triguero, \"un amigo, una buena persona\"",
-    "«De Viernes» se despide del periodista Raúl Triguero, muerto en Urda: «Eras el mejor y te ganabas a todo el mundo»"
    ]
   },
   {
@@ -1421,15 +1460,6 @@
    ]
   },
   {
-   "term": "matías prats",
-   "traffic": 500,
-   "lastSeen": "2026-11-02",
-   "news": [
-    "Matías Prats, sobre su patrimonio: «Mi padre vivía para trabajar y yo, para vivir; he invertido en una empresa fotovoltaica junto a unos amigos»",
-    "Matías Prats, sobre su padre y su patrimonio: \"Mi padre vivía para trabajar y yo, para vivir; he invertido en una empresa fotovoltaica junto a unos amigos\""
-   ]
-  },
-  {
    "term": "lorenzo musetti",
    "traffic": 500,
    "lastSeen": "2026-11-02",
@@ -1447,6 +1477,14 @@
     "Cédric Pioline, directeur du Rolex Paris Masters : « La surface est plus rapide cette année, et assez nettement »",
     "Masters 1000 de Paris : Fils, Cobolli, Jodar, Djokovic… La course au Masters de Turin va se décanter",
     "Tennis : combien va gagner le vainqueur du Rolex Paris Masters ?"
+   ]
+  },
+  {
+   "term": "norovirus",
+   "traffic": 500,
+   "lastSeen": "2026-11-02",
+   "news": [
+    "Nueve intoxicados por norovirus en Tarragona tras consumir navajas poco cocinadas"
    ]
   },
   {
@@ -2402,7 +2440,7 @@
    "news": [
     "̳̳‍‍++[ＬＩＶＥＳｔｒｅａｍ]𝐓𝐕!!] Ignacio Buse VS Zizou Bergs 𝐋𝐈𝐕𝐄 Ｓｔｒｅａｍ",
     "Tennis, ATP – Rolex Paris Masters 2026: Buse downs Bergs",
-    "Ignacio Buse vs Zizou Bergs Prediction & Picks - ATP French Open"
+    "Ignacio Buse beats Zizou Bergs at ATP Paris"
    ]
   },
   {
@@ -2413,6 +2451,16 @@
     "Lola Moreno, controladora aérea (USCA): \"La filtración de los audios del accidente ferroviario es inadmisible e ilegal\"",
     "La Unión Sindical de Controladores Aéreos celebrará su Congreso Nacional la semana que viene en Palma",
     "¿Hay controladores suficientes? USCA lo debate en su 38º Congreso en Palma"
+   ]
+  },
+  {
+   "term": "zelda",
+   "traffic": 200,
+   "lastSeen": "2026-11-02",
+   "news": [
+    "'The Legend of Zelda: Ocarina of Time': un remake en el que Nintendo se lo juega todo",
+    "Desvelado el tamaño de Zelda Ocarina of Time Remake para Nintendo Switch 2 junto a otro de los grandes lanzamientos de esta semana",
+    "Eiji Aonuma desvela su preocupación ante el lanzamiento de Ocarina of Time Remake: “No puedo dejar de pensar e"
    ]
   },
   {

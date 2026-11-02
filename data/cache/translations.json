@@ -1,4 +1,22 @@
 {
+ "1413186377": {
+  "fr": {
+   "titulo": "'La Fille de la Jungle' (FESTUC TEATRE)",
+   "resumen": "Au milieu de la jungle, une créature se retrouve orpheline et sans défense face à ses dangers. C'est ainsi que commence l'histoire de notre protagoniste : Liana, la fille de la jungle, une enfant qui grandira entourée d'animaux sauvages qui, à leur manière, la…"
+  },
+  "de": {
+   "titulo": "'Das Mädchen aus dem Dschungel' (FESTUC TEATRE)",
+   "resumen": "Mitten im Dschungel wird ein Geschöpf zur Waise und schutzlos gegenüber seinen Gefahren. So beginnt die Geschichte unserer Protagonistin: Liana, das Mädchen aus dem Dschungel, ein Kind, das umgeben von wilden Tieren aufwachsen wird, die sie auf ihre Weise…"
+  },
+  "it": {
+   "titulo": "'La bambina della giungla' (FESTUC TEATRE)",
+   "resumen": "Nel mezzo della giungla, una creatura rimane orfana e indifesa di fronte ai suoi pericoli. Così inizia la storia della nostra protagonista: Liana, la bambina della giungla, una bambina che crescerà circondata da animali selvatici che, a modo loro, la…"
+  },
+  "pt": {
+   "titulo": "'A menina da selva' (FESTUC TEATRE)",
+   "resumen": "No meio da selva, uma criatura fica órfã e desprotegida perante os seus perigos. Assim começa a história da nossa protagonista: Liana, a menina da selva, uma menina que crescerá rodeada de animais selvagens que, à sua maneira, a…"
+  }
+ },
  "2194509700": {
   "fr": {
    "titulo": "Festival TIF de Grenade : 'Unos zapatos para crecer'",
@@ -51,6 +69,24 @@
   "pt": {
    "titulo": "Programa: Mostra de cinema irlandês 2026",
    "resumen": "A Irlanda é uma terra de paisagens inesquecíveis, música, literatura e grandes histórias. É também um cinema capaz de emocionar, fazer rir, chorar, convidar à reflexão e aproximar-nos da riqueza da sua história, da sua sociedade e…"
+  }
+ },
+ "4194014902": {
+  "fr": {
+   "titulo": "Exposition 'Michael Jackson Legacy' à Madrid",
+   "resumen": "Madrid accueille l'exposition 'Michael Jackson Legacy', qui présente des autographes et des œuvres d'art du roi de la pop. L'exposition sera ouverte du 20 novembre au 16 décembre."
+  },
+  "de": {
+   "titulo": "Ausstellung 'Michael Jackson Legacy' in Madrid",
+   "resumen": "Madrid beherbergt die Ausstellung 'Michael Jackson Legacy', die Autogramme und Kunstwerke des King of Pop präsentiert. Die Ausstellung ist vom 20. November bis 16. Dezember geöffnet."
+  },
+  "it": {
+   "titulo": "Mostra 'Michael Jackson Legacy' a Madrid",
+   "resumen": "Madrid ospita la mostra 'Michael Jackson Legacy', che presenta autografi e opere d'arte del re del pop. La mostra sarà aperta dal 20 novembre al 16 dicembre."
+  },
+  "pt": {
+   "titulo": "Exposição 'Michael Jackson Legacy' em Madrid",
+   "resumen": "Madrid acolhe a exposição 'Michael Jackson Legacy', que apresenta autógrafos e obras de arte do rei da pop. A mostra estará aberta de 20 de novembro a 16 de dezembro."
   }
  },
  "4210183001": {
@@ -23829,6 +23865,1392 @@
   "pt": {
    "titulo": "Torneio de Padel do Distrito Retiro",
    "resumen": "Participe no Torneio de Padel do Distrito Retiro, com categorias feminina, masculina e mista. Os jogos serão disputados em várias instalações desportivas da zona."
+  }
+ },
+ "24e96e5262": {
+  "fr": {
+   "titulo": "Exposition 'Circus' d'Alejandra Icaza à la Sala Rekalde",
+   "resumen": "La Sala Rekalde de Bilbao présente 'Circus', une exposition d'Alejandra Icaza qui retrace quarante ans de son œuvre, de la peinture flamande à la tradition orientale."
+  },
+  "de": {
+   "titulo": "Ausstellung 'Circus' von Alejandra Icaza in der Sala Rekalde",
+   "resumen": "Die Sala Rekalde in Bilbao präsentiert 'Circus', eine Ausstellung von Alejandra Icaza, die vierzig Jahre ihres Schaffens von der flämischen Malerei bis zur orientalischen Tradition beleuchtet."
+  },
+  "it": {
+   "titulo": "Mostra 'Circus' di Alejandra Icaza alla Sala Rekalde",
+   "resumen": "La Sala Rekalde di Bilbao presenta 'Circus', una mostra di Alejandra Icaza che ripercorre quarant'anni della sua opera, dalla pittura fiamminga alla tradizione orientale."
+  },
+  "pt": {
+   "titulo": "Exposição 'Circus' de Alejandra Icaza na Sala Rekalde",
+   "resumen": "A Sala Rekalde de Bilbao apresenta 'Circus', uma exposição de Alejandra Icaza que percorre quarenta anos da sua obra, da pintura flamenga à tradição oriental."
+  }
+ },
+ "63acf474f4": {
+  "fr": {
+   "titulo": "Concerts à l'Auditorium National de Madrid",
+   "resumen": "L'Auditorium National de Madrid accueille plusieurs concerts, dont l'orchestration de 'La cathédrale engloutie' de Debussy et la 'Messe Nelson' de Haydn, sous la direction de Kent Nagano."
+  },
+  "de": {
+   "titulo": "Konzerte im Auditorio Nacional de Madrid",
+   "resumen": "Das Auditorio Nacional de Madrid beherbergt mehrere Konzerte, darunter die Orchestrierung von Debussys 'La cathédrale engloutie' und Haydns 'Nelson-Messe' unter der Leitung von Kent Nagano."
+  },
+  "it": {
+   "titulo": "Concerti all'Auditorium Nazionale di Madrid",
+   "resumen": "L'Auditorium Nazionale di Madrid ospita diversi concerti, tra cui l'orchestrazione de 'La cathédrale engloutie' di Debussy e la 'Missa Nelson' di Haydn, diretti da Kent Nagano."
+  },
+  "pt": {
+   "titulo": "Concertos no Auditório Nacional de Madrid",
+   "resumen": "O Auditório Nacional de Madrid acolhe vários concertos, incluindo a orquestração de 'La cathédrale engloutie' de Debussy e a 'Missa Nelson' de Haydn, com Kent Nagano a dirigir."
+  }
+ },
+ "eda3157496": {
+  "fr": {
+   "titulo": "Agenda Kutxa Fundazioa Novembre : Expositions et Concerts",
+   "resumen": "La Kutxa Fundazioa présente son agenda pour novembre, incluant des expositions et des concerts au Pays Basque. Les détails spécifiques des événements seront annoncés prochainement."
+  },
+  "de": {
+   "titulo": "Kutxa Fundazioa Agenda November: Ausstellungen und Konzerte",
+   "resumen": "Die Kutxa Fundazioa präsentiert ihre Agenda für November mit Ausstellungen und Konzerten in Gipuzkoa. Spezifische Veranstaltungsdetails werden bald bekannt gegeben."
+  },
+  "it": {
+   "titulo": "Agenda Kutxa Fundazioa Novembre: Mostre e Concerti",
+   "resumen": "La Kutxa Fundazioa presenta la sua agenda per novembre, che include mostre e concerti nei Paesi Baschi. I dettagli specifici degli eventi saranno annunciati a breve."
+  },
+  "pt": {
+   "titulo": "Agenda Kutxa Fundazioa Novembro: Exposições e Concertos",
+   "resumen": "A Kutxa Fundazioa apresenta a sua agenda para novembro, que inclui exposições e concertos em Gipuzkoa. Detalhes específicos dos eventos serão anunciados em breve."
+  }
+ },
+ "814f257788": {
+  "fr": {
+   "titulo": "Prix Formentor de Littérature 2026 pour Gonçalo M. Tavares",
+   "resumen": "L'écrivain portugais Gonçalo M. Tavares reçoit le Prix Formentor de Littérature 2026. Le prix est décerné lors d'une cérémonie où l'auteur réfléchit sur la création littéraire et le monde actuel."
+  },
+  "de": {
+   "titulo": "Formentor-Literaturpreis 2026 für Gonçalo M. Tavares",
+   "resumen": "Der portugiesische Schriftsteller Gonçalo M. Tavares erhält den Formentor-Literaturpreis 2026. Die Auszeichnung wird bei einer Zeremonie verliehen, bei der der Autor über literarisches Schaffen und die heutige Welt reflektiert."
+  },
+  "it": {
+   "titulo": "Premio Formentor de las Letras 2026 a Gonçalo M. Tavares",
+   "resumen": "Lo scrittore portoghese Gonçalo M. Tavares riceve il Premio Formentor de las Letras 2026. Il premio viene assegnato in una cerimonia in cui l'autore riflette sulla creazione letteraria e sul mondo attuale."
+  },
+  "pt": {
+   "titulo": "Prémio Formentor de Letras 2026 para Gonçalo M. Tavares",
+   "resumen": "O escritor português Gonçalo M. Tavares recebe o Prémio Formentor de Letras 2026. O galardão é atribuído numa cerimónia onde o autor reflete sobre a criação literária e o mundo atual."
+  }
+ },
+ "4a235a3ba1": {
+  "fr": {
+   "titulo": "Le film \"Rocky\" de retour dans les cinémas de Saragosse",
+   "resumen": "Le film \"Rocky\" est rediffusé à Saragosse pour célébrer son 50e anniversaire. Le film, qui a lancé la carrière de Sylvester Stallone, est projeté ce lundi à 20h00."
+  },
+  "de": {
+   "titulo": "Der Film \"Rocky\" kehrt in die Kinos von Saragossa zurück",
+   "resumen": "Der Film \"Rocky\" wird in Saragossa anlässlich seines 50-jährigen Jubiläums wiederaufgeführt. Der Film, der Sylvester Stallone berühmt machte, wird diesen Montag um 20:00 Uhr gezeigt."
+  },
+  "it": {
+   "titulo": "Il film \"Rocky\" torna nei cinema di Saragozza",
+   "resumen": "Il film \"Rocky\" viene riproposto a Saragozza per celebrare il suo 50° anniversario. Il film, che ha lanciato la carriera di Sylvester Stallone, viene proiettato questo lunedì alle 20:00."
+  },
+  "pt": {
+   "titulo": "O filme \"Rocky\" regressa aos cinemas de Saragoça",
+   "resumen": "O filme \"Rocky\" reestreia-se em Saragoça para celebrar o seu 50º aniversário. O filme, que consagrou Sylvester Stallone, é exibido esta segunda-feira às 20:00."
+  }
+ },
+ "64e00f5996": {
+  "fr": {
+   "titulo": "Présentation du livre 'Acrópolis' à Murcie",
+   "resumen": "L'IES Cascales de Murcie accueille la présentation du livre 'Acrópolis' d'Antonio Penadés, un voyage aux origines de la civilisation."
+  },
+  "de": {
+   "titulo": "Vorstellung des Buches 'Acrópolis' in Murcia",
+   "resumen": "Das IES Cascales in Murcia veranstaltet die Vorstellung des Buches 'Acrópolis' von Antonio Penadés, eine Reise durch den Ursprung der Zivilisation."
+  },
+  "it": {
+   "titulo": "Presentazione del libro 'Acrópolis' a Murcia",
+   "resumen": "L'IES Cascales di Murcia ospita la presentazione del libro 'Acrópolis' di Antonio Penadés, un viaggio alle origini della civiltà."
+  },
+  "pt": {
+   "titulo": "Apresentação do livro 'Acrópolis' em Múrcia",
+   "resumen": "O IES Cascales de Múrcia acolhe a apresentação do livro 'Acrópolis' de Antonio Penadés, um percurso pela origem da civilização."
+  }
+ },
+ "a1f684c101": {
+  "fr": {
+   "titulo": "Lecture dramatisée de 'King Richard' à Gijón",
+   "resumen": "La compagnie Higiénico Papel commémore le 30e anniversaire de sa création et les vingt ans de la première de 'King Richard' avec une lecture dramatisée à l'École de Commerce de Gijón."
+  },
+  "de": {
+   "titulo": "Dramatisierte Lesung von 'King Richard' in Gijón",
+   "resumen": "Die Theatergruppe Higiénico Papel feiert ihr 30-jähriges Bestehen und das 20-jährige Jubiläum der Premiere von 'King Richard' mit einer dramatisierten Lesung an der Escuela de Comercio in Gijón."
+  },
+  "it": {
+   "titulo": "Lettura drammatizzata di 'King Richard' a Gijón",
+   "resumen": "La compagnia Higiénico Papel commemora il 30° anniversario della sua fondazione e i vent'anni dalla prima di 'King Richard' con una lettura drammatizzata presso la Escuela de Comercio di Gijón."
+  },
+  "pt": {
+   "titulo": "Leitura encenada de 'King Richard' em Gijón",
+   "resumen": "A companhia Higiénico Papel comemora o 30º aniversário da sua criação e as duas décadas da estreia de 'King Richard' com uma leitura encenada na Escuela de Comercio de Gijón."
+  }
+ },
+ "2e3f840944": {
+  "fr": {
+   "titulo": "Exposition d'El Feito à Madrid",
+   "resumen": "La galerie Ansorena de Madrid présente jusqu'au 4 décembre une sélection d'œuvres de l'artiste El Feito, décédé en 2021."
+  },
+  "de": {
+   "titulo": "Ausstellung von El Feito in Madrid",
+   "resumen": "Die Galerie Ansorena in Madrid präsentiert bis zum 4. Dezember eine Auswahl von Werken des Künstlers El Feito, der 2021 verstarb."
+  },
+  "it": {
+   "titulo": "Mostra di El Feito a Madrid",
+   "resumen": "La galleria Ansorena di Madrid presenta fino al 4 dicembre una selezione di opere dell'artista El Feito, scomparso nel 2021."
+  },
+  "pt": {
+   "titulo": "Exposição de El Feito em Madrid",
+   "resumen": "A galeria Ansorena de Madrid apresenta até 4 de dezembro uma seleção de obras do criador El Feito, falecido em 2021."
+  }
+ },
+ "9937686c26": {
+  "fr": {
+   "titulo": "Festival Riojazz à Logroño",
+   "resumen": "Le festival Riojazz débute à Logroño avec le spectacle 'Esto no es una misa Gospel' et proposera huit journées de jazz dans différents lieux de la ville."
+  },
+  "de": {
+   "titulo": "Riojazz Festival in Logroño",
+   "resumen": "Das Riojazz Festival beginnt in Logroño mit der Show 'Esto no es una misa Gospel' und bietet acht Tage Jazz an verschiedenen Orten der Stadt."
+  },
+  "it": {
+   "titulo": "Festival Riojazz a Logroño",
+   "resumen": "Il festival Riojazz inizia a Logroño con lo spettacolo 'Esto no es una misa Gospel' e offrirà otto giorni di jazz in diverse sedi della città."
+  },
+  "pt": {
+   "titulo": "Festival Riojazz em Logroño",
+   "resumen": "O festival Riojazz começa em Logroño com o espetáculo 'Esto no es una misa Gospel' e oferecerá oito dias de jazz em diferentes palcos da cidade."
+  }
+ },
+ "6c1b0e5807": {
+  "fr": {
+   "titulo": "TVE diffuse 'Le Grand Sommeil' ce lundi",
+   "resumen": "La chaîne La 2 de TVE diffuse ce lundi le film culte 'Le Grand Sommeil', avec Humphrey Bogart et Lauren Bacall, à 22h30."
+  },
+  "de": {
+   "titulo": "TVE strahlt diesen Montag 'The Big Sleep' aus",
+   "resumen": "TVE's La 2 zeigt diesen Montag den Kultfilm 'The Big Sleep' mit Humphrey Bogart und Lauren Bacall um 22:30 Uhr."
+  },
+  "it": {
+   "titulo": "TVE trasmette 'Il grande sonno' questo lunedì",
+   "resumen": "La 2 di TVE trasmette questo lunedì l'iconico film 'Il grande sonno', con Humphrey Bogart e Lauren Bacall, alle 22:30."
+  },
+  "pt": {
+   "titulo": "TVE emite 'The Big Sleep' esta segunda-feira",
+   "resumen": "A La 2 da TVE emite esta segunda-feira o icónico filme 'The Big Sleep', protagonizado por Humphrey Bogart e Lauren Bacall, às 22:30."
+  }
+ },
+ "cce76044a5": {
+  "fr": {
+   "titulo": "Lancement de la chaîne TV La Séptima",
+   "resumen": "La nouvelle chaîne de télévision généraliste, La Séptima, commence ses émissions le 5 novembre et sera disponible en clair dans toute l'Espagne."
+  },
+  "de": {
+   "titulo": "Start des TV-Senders La Séptima",
+   "resumen": "Der neue allgemeine Fernsehsender La Séptima nimmt am 5. November seinen Sendebetrieb auf und wird in ganz Spanien frei empfangbar sein."
+  },
+  "it": {
+   "titulo": "Lancio del canale TV La Séptima",
+   "resumen": "Il nuovo canale televisivo generalista, La Séptima, inizia le sue trasmissioni il 5 novembre e sarà disponibile in chiaro in tutta la Spagna."
+  },
+  "pt": {
+   "titulo": "Lançamento do canal de TV La Séptima",
+   "resumen": "O novo canal generalista de televisão, La Séptima, inicia as suas emissões a 5 de novembro e estará disponível em sinal aberto para toda a Espanha."
+  }
+ },
+ "2485c1c9cb": {
+  "fr": {
+   "titulo": "II Conférence Internationale des Observatoires des Langues",
+   "resumen": "La II Conférence Internationale des Observatoires des Langues, des Cultures et de la Communication se tiendra les 5 et 6 novembre, analysant la création d'un projet conjoint d'observation de l'espagnol et du portugais."
+  },
+  "de": {
+   "titulo": "II Internationale Konferenz der Sprachobservatorien",
+   "resumen": "Die II. Internationale Konferenz der Observatorien für Sprachen, Kulturen und Kommunikation findet am 5. und 6. November statt und analysiert die Schaffung eines gemeinsamen Beobachtungsprojekts für Spanisch und Portugiesisch."
+  },
+  "it": {
+   "titulo": "II Conferenza Internazionale degli Osservatori delle Lingue",
+   "resumen": "La II Conferenza Internazionale degli Osservatori delle Lingue, delle Culture e della Comunicazione si terrà il 5 e 6 novembre, analizzando la creazione di un progetto congiunto di osservazione dello spagnolo e del portoghese."
+  },
+  "pt": {
+   "titulo": "II Conferência Internacional de Observatórios das Línguas",
+   "resumen": "Realizar-se-á nos dias 5 e 6 de novembro a II Conferência Internacional de Observatórios das Línguas, Culturas e Comunicação, onde se analisará a criação de um projeto conjunto de observação do espanhol e português."
+  }
+ },
+ "883ff5271f": {
+  "fr": {
+   "titulo": "Concert de Duran Duran à Madrid",
+   "resumen": "Le groupe britannique Duran Duran donne un concert à Madrid vendredi prochain, le 6 novembre, à la Movistar Arena, présentant sa musique lors d'un événement transgénérationnel."
+  },
+  "de": {
+   "titulo": "Duran Duran Konzert in Madrid",
+   "resumen": "Die britische Band Duran Duran gibt am kommenden Freitag, dem 6. November, ein Konzert in Madrid in der Movistar Arena und präsentiert ihre Musik bei einem generationenübergreifenden Event."
+  },
+  "it": {
+   "titulo": "Concerto dei Duran Duran a Madrid",
+   "resumen": "La band britannica Duran Duran terrà un concerto a Madrid venerdì prossimo, 6 novembre, presso la Movistar Arena, presentando la sua musica in un evento transgenerazionale."
+  },
+  "pt": {
+   "titulo": "Concerto dos Duran Duran em Madrid",
+   "resumen": "A banda britânica Duran Duran oferece um concerto em Madrid na próxima sexta-feira, 6 de novembro, na Movistar Arena, apresentando a sua música num evento transgeracional."
+  }
+ },
+ "c91cc94b82": {
+  "fr": {
+   "titulo": "Concert du quatuor SIGMA Project au Guggenheim",
+   "resumen": "Le quatuor de saxophones SIGMA Project donnera un concert ce samedi au Musée Guggenheim de Bilbao, interprétant des œuvres de plusieurs compositeurs."
+  },
+  "de": {
+   "titulo": "Konzert des SIGMA Project Quartetts im Guggenheim",
+   "resumen": "Das Saxophonquartett SIGMA Project gibt diesen Samstag ein Konzert im Guggenheim Museum Bilbao und spielt Werke verschiedener Komponisten."
+  },
+  "it": {
+   "titulo": "Concerto del quartetto SIGMA Project al Guggenheim",
+   "resumen": "Il quartetto di sassofoni SIGMA Project terrà un concerto questo sabato al Museo Guggenheim di Bilbao, interpretando opere di vari compositori."
+  },
+  "pt": {
+   "titulo": "Concerto do quarteto SIGMA Project no Guggenheim",
+   "resumen": "O quarteto de saxofones SIGMA Project oferecerá um concerto este sábado no Museu Guggenheim de Bilbao, interpretando obras de vários compositores."
+  }
+ },
+ "3e6939b4c8": {
+  "fr": {
+   "titulo": "Présentation du livre \"Haz historia haciendo caca\" d'Alfred López",
+   "resumen": "Alfred López présente son nouveau livre \"Haz historia haciendo caca\", une œuvre contenant 100 curiosités historiques. Le livre, publié par HarperCollins Ibérica, sortira le 11 novembre."
+  },
+  "de": {
+   "titulo": "Vorstellung des Buches \"Haz historia haciendo caca\" von Alfred López",
+   "resumen": "Alfred López stellt sein neues Buch \"Haz historia haciendo caca\" vor, ein Werk mit 100 historischen Kuriositäten. Das Buch, veröffentlicht von HarperCollins Ibérica, erscheint am 11. November."
+  },
+  "it": {
+   "titulo": "Presentazione del libro \"Haz historia haciendo caca\" di Alfred López",
+   "resumen": "Alfred López presenta il suo nuovo libro \"Haz historia haciendo caca\", un'opera con 100 curiosità storiche. Il libro, pubblicato da HarperCollins Ibérica, sarà in vendita l'11 novembre."
+  },
+  "pt": {
+   "titulo": "Apresentação do livro \"Haz historia haciendo caca\" de Alfred López",
+   "resumen": "Alfred López apresenta o seu novo livro \"Haz historia haciendo caca\", uma obra com 100 curiosidades históricas. O livro, publicado pela HarperCollins Ibérica, chega às livrarias a 11 de novembro."
+  }
+ },
+ "8ae75499e5": {
+  "fr": {
+   "titulo": "Festival Amua de Hondarribia : Courts-métrages et Musique",
+   "resumen": "Le festival Amua de Hondarribia célèbre son rendez-vous annuel avec les courts-métrages et la musique. Pendant quatre jours, Itsas Etxea accueillera des projections et des performances."
+  },
+  "de": {
+   "titulo": "Amua Festival in Hondarribia: Kurzfilme und Musik",
+   "resumen": "Das Amua Festival in Hondarribia feiert seinen jährlichen Treffpunkt für Kurzfilme und Musik. Vier Tage lang finden im Itsas Etxea Vorführungen und Auftritte statt."
+  },
+  "it": {
+   "titulo": "Festival Amua di Hondarribia: Cortometraggi e Musica",
+   "resumen": "Il festival Amua di Hondarribia celebra il suo appuntamento annuale con i cortometraggi e la musica. Per quattro giorni, l'Itsas Etxea ospiterà proiezioni e performance."
+  },
+  "pt": {
+   "titulo": "Festival Amua de Hondarribia: Curtas e Música",
+   "resumen": "O festival Amua de Hondarribia celebra a sua cita anual com as curtas-metragens e a música. Durante quatro dias, o Itsas Etxea acolherá exibições e atuações."
+  }
+ },
+ "e1f3c44118": {
+  "fr": {
+   "titulo": "III Rencontre de la Culture de La Rioja à Logroño",
+   "resumen": "Logroño accueillera les 20 et 21 novembre la III Rencontre de la Culture de La Rioja, un forum pour partager les expériences et les défis du secteur culturel."
+  },
+  "de": {
+   "titulo": "III Treffen der Kultur von La Rioja in Logroño",
+   "resumen": "Logroño wird am 20. und 21. November das III. Treffen der Kultur von La Rioja ausrichten, ein Forum zum Austausch von Erfahrungen und Herausforderungen des Kultursektors."
+  },
+  "it": {
+   "titulo": "III Incontro della Cultura de La Rioja a Logroño",
+   "resumen": "Logroño ospiterà il 20 e 21 novembre il III Incontro della Cultura de La Rioja, un forum per condividere esperienze e sfide del settore culturale."
+  },
+  "pt": {
+   "titulo": "III Encontro da Cultura de La Rioja em Logroño",
+   "resumen": "Logroño acolherá nos dias 20 e 21 de novembro o III Encontro da Cultura de La Rioja, um fórum para partilhar experiências e desafios do setor cultural."
+  }
+ },
+ "c7b79dffd1": {
+  "fr": {
+   "titulo": "Festival d'Humour Memeo à Logroño",
+   "resumen": "Le Festival Memeo annonce neuf spectacles d'humour à Logroño, avec Corbacho et Alex O'Dogherty. Les billets sont déjà en vente pour sa septième édition."
+  },
+  "de": {
+   "titulo": "Memeo Comedy Festival in Logroño",
+   "resumen": "Das Memeo Festival kündigt neun Comedy-Shows in Logroño an, mit Corbacho und Alex O'Dogherty. Tickets für die siebte Ausgabe sind bereits im Verkauf."
+  },
+  "it": {
+   "titulo": "Festival di Comicità Memeo a Logroño",
+   "resumen": "Il Festival Memeo annuncia nove spettacoli di comicità a Logroño, con Corbacho e Alex O'Dogherty. I biglietti sono già in vendita per la sua settima edizione."
+  },
+  "pt": {
+   "titulo": "Festival de Comédia Memeo em Logroño",
+   "resumen": "O Festival Memeo anuncia nove espetáculos de comédia em Logroño, com Corbacho e Alex O'Dogherty. Os bilhetes já estão à venda para a sua sétima edição."
+  }
+ },
+ "3404149fea": {
+  "fr": {
+   "titulo": "José Sacristán en tournée avec 'El hijo de la cómica' à Saragosse",
+   "resumen": "L'acteur José Sacristán continue sa tournée avec sa pièce 'El hijo de la cómica', basée sur les mémoires de Fernando Fernán Gómez. La pièce sera présentée au Théâtre Principal de Saragosse."
+  },
+  "de": {
+   "titulo": "José Sacristán auf Tour mit 'El hijo de la cómica' in Saragossa",
+   "resumen": "Der Schauspieler José Sacristán setzt seine Tournee mit seinem Stück 'El hijo de la cómica' fort, das auf den Memoiren von Fernando Fernán Gómez basiert. Das Stück wird im Teatro Principal in Saragossa aufgeführt."
+  },
+  "it": {
+   "titulo": "José Sacristán in tournée con 'El hijo de la cómica' a Saragozza",
+   "resumen": "L'attore José Sacristán continua il suo tour con lo spettacolo 'El hijo de la cómica', basato sulle memorie di Fernando Fernán Gómez. Lo spettacolo sarà presentato al Teatro Principal di Saragozza."
+  },
+  "pt": {
+   "titulo": "José Sacristán em digressão com 'El hijo de la cómica' em Saragoça",
+   "resumen": "O ator José Sacristán continua em digressão com a sua peça 'El hijo de la cómica', baseada nas memórias de Fernando Fernán Gómez. A peça será apresentada no Teatro Principal de Saragoça."
+  }
+ },
+ "b6acf655b8": {
+  "fr": {
+   "titulo": "Remise du XXIII Prix Setenil à Elvira Navarro",
+   "resumen": "Elvira Navarro recevra le XXIII Prix Setenil du meilleur recueil de nouvelles pour 'La sangre está cayendo al patio' le 17 décembre."
+  },
+  "de": {
+   "titulo": "Verleihung des XXIII. Setenil-Preises an Elvira Navarro",
+   "resumen": "Elvira Navarro erhält am 17. Dezember den XXIII. Setenil-Preis für die beste Kurzgeschichtensammlung für 'La sangre está cayendo al patio'."
+  },
+  "it": {
+   "titulo": "Consegna del XXIII Premio Setenil a Elvira Navarro",
+   "resumen": "Elvira Navarro riceverà il XXIII Premio Setenil per la migliore raccolta di racconti per 'La sangre está cayendo al patio' il 17 dicembre."
+  },
+  "pt": {
+   "titulo": "Entrega do XXIII Prémio Setenil a Elvira Navarro",
+   "resumen": "Elvira Navarro receberá o XXIII Prémio Setenil de melhor livro de contos por 'La sangre está cayendo al patio' a 17 de dezembro."
+  }
+ },
+ "46dfc12859": {
+  "fr": {
+   "titulo": "Visites guidées du CentroCentro",
+   "resumen": "Découvrez les expositions et l'espace culturel de CentroCentro grâce à des visites guidées. Une occasion de découvrir l'offre culturelle du Palais de Cibeles."
+  },
+  "de": {
+   "titulo": "Geführte Touren durch CentroCentro",
+   "resumen": "Entdecken Sie die Ausstellungen und den Kulturraum von CentroCentro bei geführten Touren. Eine Gelegenheit, das Kulturangebot des Palacio de Cibeles kennenzulernen."
+  },
+  "it": {
+   "titulo": "Visite guidate al CentroCentro",
+   "resumen": "Scoprite le mostre e lo spazio culturale del CentroCentro attraverso visite guidate. Un'opportunità per conoscere l'offerta culturale del Palacio de Cibeles."
+  },
+  "pt": {
+   "titulo": "Visitas guiadas ao CentroCentro",
+   "resumen": "Descubra as exposições e o espaço cultural do CentroCentro através de visitas guiadas. Uma oportunidade para conhecer a oferta cultural do Palácio de Cibeles."
+  }
+ },
+ "c3e899fe85": {
+  "fr": {
+   "titulo": "Visites guidées des expositions",
+   "resumen": "Découvrez les expositions à CentroCentro lors de visites guidées. Une expérience culturelle pour tous les publics."
+  },
+  "de": {
+   "titulo": "Geführte Touren durch die Ausstellungen",
+   "resumen": "Entdecken Sie die Ausstellungen im CentroCentro bei geführten Touren. Ein kulturelles Erlebnis für alle."
+  },
+  "it": {
+   "titulo": "Visite guidate alle mostre",
+   "resumen": "Scoprite le mostre al CentroCentro attraverso visite guidate. Un'esperienza culturale per tutti."
+  },
+  "pt": {
+   "titulo": "Visitas guiadas às exposições",
+   "resumen": "Descubra as exposições no CentroCentro através de visitas guiadas. Uma experiência cultural para todos."
+  }
+ },
+ "eb426b5c66": {
+  "fr": {
+   "titulo": "Visites dialoguées à Matadero Madrid",
+   "resumen": "Participez à des visites dialoguées à Matadero Madrid, un centre de création contemporaine. Explorez les expositions et les projets artistiques."
+  },
+  "de": {
+   "titulo": "Dialogische Führungen Matadero Madrid",
+   "resumen": "Nehmen Sie an dialogischen Führungen im Matadero Madrid teil, einem Zentrum für zeitgenössische Kreation. Erkunden Sie Ausstellungen und Kunstprojekte."
+  },
+  "it": {
+   "titulo": "Visite dialogate Matadero Madrid",
+   "resumen": "Partecipa alle visite dialogate al Matadero Madrid, un centro di creazione contemporanea. Esplora le mostre e i progetti artistici."
+  },
+  "pt": {
+   "titulo": "Visitas dialogadas Matadero Madrid",
+   "resumen": "Participe em visitas dialogadas no Matadero Madrid, um centro de criação contemporânea. Explore exposições e projetos artísticos."
+  }
+ },
+ "3a8c9d5f5d": {
+  "fr": {
+   "titulo": "Visite guidée de la bibliothèque et de la Basilique Pontificale Saint-Michel",
+   "resumen": "Découvrez la Bibliothèque Publique Municipale Iván de Vargas et la Basilique Pontificale Saint-Michel lors d'une visite guidée. Plongez dans l'histoire et la culture."
+  },
+  "de": {
+   "titulo": "Geführte Tour durch die Bibliothek und die Päpstliche Basilika San Miguel",
+   "resumen": "Entdecken Sie die städtische öffentliche Bibliothek Iván de Vargas und die Päpstliche Basilika San Miguel bei einer geführten Tour. Tauchen Sie ein in Geschichte und Kultur."
+  },
+  "it": {
+   "titulo": "Visita guidata alla biblioteca e alla Basilica Pontificia di San Michele",
+   "resumen": "Scoprite la Biblioteca Pubblica Comunale Iván de Vargas e la Basilica Pontificia di San Michele in una visita guidata. Immergetevi nella storia e nella cultura."
+  },
+  "pt": {
+   "titulo": "Visita guiada à biblioteca e à Basílica Pontifícia de São Miguel",
+   "resumen": "Descubra a Biblioteca Pública Municipal Iván de Vargas e a Basílica Pontifícia de São Miguel numa visita guiada. Mergulhe na história e na cultura."
+  }
+ },
+ "acd9caca14": {
+  "fr": {
+   "titulo": "Vie du Palais de Cibeles",
+   "resumen": "Découvrez l'histoire et la vie de l'emblématique Palais de Cibeles. Un parcours à travers l'un des bâtiments les plus représentatifs de la ville."
+  },
+  "de": {
+   "titulo": "Leben im Palacio de Cibeles",
+   "resumen": "Entdecken Sie die Geschichte und das Leben des symbolträchtigen Palacio de Cibeles. Ein Rundgang durch eines der repräsentativsten Gebäude der Stadt."
+  },
+  "it": {
+   "titulo": "Vita del Palacio de Cibeles",
+   "resumen": "Scoprite la storia e la vita dell'emblematico Palacio de Cibeles. Un percorso attraverso uno degli edifici più rappresentativi della città."
+  },
+  "pt": {
+   "titulo": "Vida do Palácio de Cibeles",
+   "resumen": "Descubra a história e a vida do emblemático Palácio de Cibeles. Um percurso por um dos edifícios mais representativos da cidade."
+  }
+ },
+ "29703b0a48": {
+  "fr": {
+   "titulo": "Visite guidée du CEAC Maris Stella et du Parc Pradolongo",
+   "resumen": "Découvrez les installations du Centre d'Éducation Environnementale et Culturelle Maris Stella et sa programmation gratuite. Idéal pour les habitants de Usera et les amoureux des espaces verts urbains."
+  },
+  "de": {
+   "titulo": "Geführte Tour durch CEAC Maris Stella und Pradolongo Park",
+   "resumen": "Entdecken Sie die Einrichtungen des CEAC Maris Stella und sein kostenloses Programm. Ideal für Anwohner von Usera und Liebhaber städtischer Grünflächen."
+  },
+  "it": {
+   "titulo": "Visita guidata al CEAC Maris Stella e al Parco Pradolongo",
+   "resumen": "Scoprite le strutture del Centro di Educazione Ambientale e Culturale Maris Stella e la sua programmazione gratuita. Ideale per i residenti di Usera e gli amanti degli spazi verdi urbani."
+  },
+  "pt": {
+   "titulo": "Visita guiada ao CEAC Maris Stella e Parque Pradolongo",
+   "resumen": "Descubra as instalações do Centro de Educação Ambiental e Cultural Maris Stella e a sua programação gratuita. Ideal para residentes de Usera e amantes de espaços verdes urbanos."
+  }
+ },
+ "484dfd1d3b": {
+  "fr": {
+   "titulo": "Rencontre musicale 'Yuxtaposición'",
+   "resumen": "Participez à une rencontre musicale intitulée 'Yuxtaposición' à la Bibliothèque Publique Municipale Iván de Vargas. Un rendez-vous pour partager et débattre de musique."
+  },
+  "de": {
+   "titulo": "Musikalisches Treffen 'Yuxtaposición'",
+   "resumen": "Nehmen Sie an einem musikalischen Treffen mit dem Titel 'Yuxtaposición' in der städtischen öffentlichen Bibliothek Iván de Vargas teil. Ein Treffpunkt zum Teilen und Diskutieren über Musik."
+  },
+  "it": {
+   "titulo": "Incontro musicale 'Yuxtaposición'",
+   "resumen": "Partecipa a un incontro musicale intitolato 'Yuxtaposición' presso la Biblioteca Pubblica Comunale Iván de Vargas. Un appuntamento per condividere e dibattere sulla musica."
+  },
+  "pt": {
+   "titulo": "Tertúlia musical 'Yuxtaposição'",
+   "resumen": "Participe numa tertúlia musical intitulada 'Yuxtaposição' na Biblioteca Pública Municipal Iván de Vargas. Um encontro para partilhar e debater sobre música."
+  }
+ },
+ "3f2db888e2": {
+  "fr": {
+   "titulo": "Club de lecture 'En compañía de las letras'",
+   "resumen": "Club de lecture à la Bibliothèque Publique Municipale María Lejárraga (Hortaleza) pour prévenir la solitude non désirée. Des nouvelles seront lues et des opinions partagées."
+  },
+  "de": {
+   "titulo": "Leseklub 'En compañía de las letras'",
+   "resumen": "Leseklub in der städtischen öffentlichen Bibliothek María Lejárraga (Hortaleza) zur Prävention unerwünschter Einsamkeit. Es werden Kurzgeschichten gelesen und Meinungen ausgetauscht."
+  },
+  "it": {
+   "titulo": "Club di lettura 'En compañía de las letras'",
+   "resumen": "Club di lettura presso la Biblioteca Pubblica Comunale María Lejárraga (Hortaleza) per prevenire la solitudine indesiderata. Verranno letti racconti brevi e condivise opinioni."
+  },
+  "pt": {
+   "titulo": "Clube de Leitura 'En compañía de las letras'",
+   "resumen": "Clube de leitura na Biblioteca Pública Municipal María Lejárraga (Hortaleza) para prevenir a solidão indesejada. Serão lidos contos e partilhadas opiniões."
+  }
+ },
+ "3a387fc30d": {
+  "fr": {
+   "titulo": "Voisins nocturnes (Exposition temporaire)",
+   "resumen": "Explorez l'exposition temporaire 'Vecinos nocturnos'. Une exposition qui vous invite à découvrir différentes perspectives et réalités."
+  },
+  "de": {
+   "titulo": "Nachtschwärmer (Sonderausstellung)",
+   "resumen": "Entdecken Sie die Sonderausstellung 'Vecinos nocturnos'. Eine Ausstellung, die Sie einlädt, verschiedene Perspektiven und Realitäten zu entdecken."
+  },
+  "it": {
+   "titulo": "Vicini notturni (Mostra temporanea)",
+   "resumen": "Esplora la mostra temporanea 'Vecinos nocturnos'. Una mostra che ti invita a scoprire diverse prospettive e realtà."
+  },
+  "pt": {
+   "titulo": "Vizinhos Noturnos (Exposição Temporária)",
+   "resumen": "Explore a exposição temporária 'Vecinos nocturnos'. Uma mostra que o convida a descobrir diferentes perspetivas e realidades."
+  }
+ },
+ "11ff255369": {
+  "fr": {
+   "titulo": "Verborrea",
+   "resumen": "Découvrez 'Verborrea', une proposition de Création Dramatique Contemporaine dans la Nave 10 de Matadero. Un espace pour le théâtre innovant."
+  },
+  "de": {
+   "titulo": "Verborrea",
+   "resumen": "Erleben Sie 'Verborrea', einen Vorschlag für zeitgenössische dramatische Kreation in der Nave 10 des Matadero. Ein Raum für innovatives Theater."
+  },
+  "it": {
+   "titulo": "Verborrea",
+   "resumen": "Sperimenta 'Verborrea', una proposta di Creazione Drammatica Contemporanea nella Nave 10 del Matadero. Uno spazio per il teatro innovativo."
+  },
+  "pt": {
+   "titulo": "Verborrea",
+   "resumen": "Experimente 'Verborrea', uma proposta de Criação Dramática Contemporânea na Nave 10 do Matadero. Um espaço para o teatro inovador."
+  }
+ },
+ "11560682ad": {
+  "fr": {
+   "titulo": "XII Cycle de Cinéma et Bioéthique",
+   "resumen": "Cycle de cinéma abordant la santé mentale et l'expérience humaine à travers des films comme 'Her' et 'La isla interior'. Comprend des projections et des discussions."
+  },
+  "de": {
+   "titulo": "XII. Zyklus Film und Bioethik",
+   "resumen": "Filmzyklus, der sich mit psychischer Gesundheit und menschlicher Erfahrung durch Filme wie 'Her' und 'La isla interior' befasst. Beinhaltet Vorführungen und Diskussionen."
+  },
+  "it": {
+   "titulo": "XII Ciclo di Cinema e Bioetica",
+   "resumen": "Ciclo di cinema che affronta la salute mentale e l'esperienza umana attraverso film come 'Her' e 'La isla interior'. Include proiezioni e dibattiti."
+  },
+  "pt": {
+   "titulo": "XII Ciclo de Cinema e Bioética",
+   "resumen": "Ciclo de cinema que aborda a saúde mental e a experiência humana através de filmes como 'Her' e 'La isla interior'. Inclui exibições e debates."
+  }
+ },
+ "8e02e25789": {
+  "fr": {
+   "titulo": "\"Kanthoria eta autotunea\"",
+   "resumen": "À l'occasion du dixième anniversaire de l'EHMBE, l'exposition retrace les étapes les plus importantes qui ont marqué le développement de la scène musicale basque du XVIIe siècle à nos jours, en accordant une attention particulière aux contextes..."
+  },
+  "de": {
+   "titulo": "\"Kanthoria eta autotunea\"",
+   "resumen": "Anlässlich des zehnjährigen Bestehens der EHMBE zeichnet die Ausstellung die wichtigsten Meilensteine nach, die die Entwicklung der baskischen Musikszene vom 17. Jahrhundert bis heute geprägt haben, wobei besonderes Augenmerk auf die Kontexte gelegt wird..."
+  },
+  "it": {
+   "titulo": "\"Kanthoria eta autotunea\"",
+   "resumen": "In occasione del decimo anniversario dell'EHMBE, la mostra ripercorre le tappe più importanti che hanno segnato lo sviluppo della scena musicale basca dal XVII secolo ad oggi, prestando particolare attenzione ai contesti..."
+  },
+  "pt": {
+   "titulo": "\"Kanthoria eta autotunea\"",
+   "resumen": "Por ocasião do décimo aniversário da EHMBE, a exposição revê os marcos mais importantes que marcaram o desenvolvimento da cena musical basca desde o século XVII até aos dias de hoje, prestando especial atenção aos contextos..."
+  }
+ },
+ "a488012503": {
+  "fr": {
+   "titulo": "\"La Naval. Cantera de titanes\"",
+   "resumen": "La Naval. Cantera de titanes est une exposition qui fait revivre l'une des périodes les plus importantes de l'histoire industrielle de Bizkaia à travers les navires, les avancées technologiques, les métiers et les personnes qui ont façonné le chantier naval de..."
+  },
+  "de": {
+   "titulo": "\"La Naval. Cantera de titanes\"",
+   "resumen": "La Naval. Cantera de titanes ist eine Ausstellung, die eine der wichtigsten Phasen der Industriegeschichte von Bizkaia anhand von Schiffen, technologischen Fortschritten, Berufen und den Menschen, die die Werft prägten, wieder aufleben lässt..."
+  },
+  "it": {
+   "titulo": "\"La Naval. Cantera de titanes\"",
+   "resumen": "La Naval. Cantera de titanes è una mostra che recupera una delle fasi più rilevanti della storia industriale di Bizkaia attraverso le navi, i progressi tecnologici, i mestieri e le persone che hanno dato forma al cantiere navale di..."
+  },
+  "pt": {
+   "titulo": "\"La Naval. Cantera de titanes\"",
+   "resumen": "A Naval. Cantera de titanes é uma exposição que recupera uma das etapas mais relevantes da história industrial da Biscaia através dos navios, dos avanços tecnológicos, dos ofícios e das pessoas que moldaram o estaleiro de..."
+  }
+ },
+ "3fc50a984f": {
+  "fr": {
+   "titulo": "\"Bidaideak\"",
+   "resumen": "LaCENTRAL Art Gallery annonce : LaCENTRAL Art Gallery a le plaisir de vous inviter à l'exposition BIDAIDEAK avec RICARDO UGARTE et JULIA OTXOA, dont l'inauguration aura lieu le jeudi 8 octobre, à 18h30. L'exposition présente..."
+  },
+  "de": {
+   "titulo": "\"Bidaideak\"",
+   "resumen": "LaCENTRAL Art Gallery teilt mit: Die LaCENTRAL Art Gallery freut sich, Sie zur Ausstellung BIDAIDEAK mit RICARDO UGARTE und JULIA OTXOA einzuladen, deren Eröffnung am Donnerstag, den 8. Oktober, um 18:30 Uhr stattfindet. Die Ausstellung präsentiert..."
+  },
+  "it": {
+   "titulo": "\"Bidaideak\"",
+   "resumen": "LaCENTRAL Art Gallery comunica: LaCENTRAL Art Gallery ha il piacere di invitarvi alla mostra BIDAIDEAK con RICARDO UGARTE e JULIA OTXOA, la cui inaugurazione avrà luogo giovedì 8 ottobre, alle ore 18:30. La mostra presenta..."
+  },
+  "pt": {
+   "titulo": "\"Bidaideak\"",
+   "resumen": "A LaCENTRAL Art Gallery informa: A LaCENTRAL Art Gallery tem o prazer de o convidar para a exposição BIDAIDEAK com RICARDO UGARTE e JULIA OTXOA, cuja inauguração terá lugar na quinta-feira, 8 de outubro, às 18h30. A exposição apresenta..."
+  }
+ },
+ "3301f79944": {
+  "fr": {
+   "titulo": "Avec Lorcura Teatro : Lectures dramatisées de fragments de livres",
+   "resumen": "Séances bimensuelles de lectures dramatisées de fragments de livres, avec différents formats thématiques tout au long de l'année. Destiné aux plus de 18 ans."
+  },
+  "de": {
+   "titulo": "Mit Lorcura Teatro: Dramatisierte Lesungen von Buchfragmenten",
+   "resumen": "Zweiwöchentliche Lesungen von Buchfragmenten mit verschiedenen thematischen Formaten im Laufe des Jahres. Für Personen ab 18 Jahren."
+  },
+  "it": {
+   "titulo": "Con Lorcura Teatro: Letture di frammenti di libri drammatizzate",
+   "resumen": "Sessioni bimestrali di letture drammatizzate di frammenti di libri, con diversi formati tematici durante l'anno. Rivolto a maggiorenni."
+  },
+  "pt": {
+   "titulo": "Com Lorcura Teatro: Leituras dramatizadas de fragmentos de livros",
+   "resumen": "Sessões bimestrais de leituras dramatizadas de fragmentos de livros, com diferentes formatos temáticos ao longo do ano. Dirigido a maiores de 18 anos."
+  }
+ },
+ "85549cd2f0": {
+  "fr": {
+   "titulo": "Visite Atelier Familial : Anges de Goya",
+   "resumen": "Découvrez les histoires et les secrets des anges dans les fresques de Goya à l'Ermitage de San Antonio de la Florida. Une visite familiale avec jeux et défis, suivie d'un atelier de linogravure pour créer votre propre ange."
+  },
+  "de": {
+   "titulo": "Familienwerkstatt-Besuch: Goya's Engel",
+   "resumen": "Entdecken Sie die Geschichten und Geheimnisse der Engel in Goyas Fresken in der Eremitage von San Antonio de la Florida. Ein Familienbesuch mit Spielen und Herausforderungen, gefolgt von einem Linolschnitt-Workshop, um Ihren eigenen Engel zu gestalten."
+  },
+  "it": {
+   "titulo": "Visita Laboratorio Familiare: Angeli di Goya",
+   "resumen": "Scoprite le storie e i segreti degli angeli negli affreschi di Goya nell'Eremo di San Antonio de la Florida. Una visita in famiglia con giochi e sfide, seguita da un laboratorio di linoleografia per creare il vostro angelo."
+  },
+  "pt": {
+   "titulo": "Visita Oficina Familiar: Anjos de Goya",
+   "resumen": "Descubra as histórias e segredos dos anjos nos frescos de Goya na Ermida de San Antonio de la Florida. Uma visita familiar com jogos e desafios, seguida de uma oficina de xilogravura para criar o seu próprio anjo."
+  }
+ },
+ "80a2cdb19b": {
+  "fr": {
+   "titulo": "\"LIFE-IP NAdapta-CC\"",
+   "resumen": "Le projet LIFE-IP NAdapta-CC, dirigé par le Département du Développement Rural et de l'Environnement du Gouvernement de Navarre, a élaboré une exposition informative destinée au public, de caractère itinérant, qui présente..."
+  },
+  "de": {
+   "titulo": "\"LIFE-IP NAdapta-CC\"",
+   "resumen": "Das Projekt LIFE-IP NAdapta-CC unter der Leitung der Abteilung für ländliche Entwicklung und Umwelt der Regierung von Navarra hat eine informative, wandernde Ausstellung für die Öffentlichkeit entwickelt, die Folgendes zeigt..."
+  },
+  "it": {
+   "titulo": "\"LIFE-IP NAdapta-CC\"",
+   "resumen": "Il progetto LIFE-IP NAdapta-CC, guidato dal Dipartimento di Sviluppo Rurale e Ambiente del Governo di Navarra, ha elaborato una mostra divulgativa rivolta alla cittadinanza di carattere itinerante e in cui vengono mostrati..."
+  },
+  "pt": {
+   "titulo": "\"LIFE-IP NAdapta-CC\"",
+   "resumen": "O projeto LIFE-IP NAdapta-CC, liderado pelo Departamento de Desenvolvimento Rural e Meio Ambiente do Governo de Navarra, elaborou uma exposição informativa dirigida à cidadania de caráter itinerante e onde se mostram..."
+  }
+ },
+ "9e60aa9e6b": {
+  "fr": {
+   "titulo": "Yerma au Teatro Español",
+   "resumen": "Assistez à la représentation de 'Yerma' au Teatro Español. Une pièce qui explore des thèmes profonds et universels."
+  },
+  "de": {
+   "titulo": "Yerma im Teatro Español",
+   "resumen": "Besuchen Sie die Aufführung von 'Yerma' im Teatro Español. Ein Stück, das tiefgründige und universelle Themen erforscht."
+  },
+  "it": {
+   "titulo": "Yerma al Teatro Español",
+   "resumen": "Assisti alla rappresentazione di 'Yerma' al Teatro Español. Un'opera che esplora temi profondi e universali."
+  },
+  "pt": {
+   "titulo": "Yerma no Teatro Español",
+   "resumen": "Assista à representação de 'Yerma' no Teatro Español. Uma peça que explora temas profundos e universais."
+  }
+ },
+ "71e36d969c": {
+  "fr": {
+   "titulo": "Aquarelles et Acryliques",
+   "resumen": "Exposition ou activité artistique d'Alberto Camino à la Bibliothèque publique municipale Benito Pérez Galdós."
+  },
+  "de": {
+   "titulo": "Aquarelle und Acrylfarben",
+   "resumen": "Kunstausstellung oder -aktivität von Alberto Camino in der städtischen öffentlichen Bibliothek Benito Pérez Galdós."
+  },
+  "it": {
+   "titulo": "Acquerelli e Acrilici",
+   "resumen": "Mostra o attività artistica di Alberto Camino presso la Biblioteca Pubblica Comunale Benito Pérez Galdós."
+  },
+  "pt": {
+   "titulo": "Aquarelas e Acrílicos",
+   "resumen": "Exposição ou atividade artística de Alberto Camino na Biblioteca Pública Municipal Benito Pérez Galdós."
+  }
+ },
+ "97f58d4fad": {
+  "fr": {
+   "titulo": "\"Inurri Itsuak\" (Amurrio)",
+   "resumen": "Biscaye, 1935. Une violente tempête fait échouer un navire anglais transportant des tonnes de charbon. Pendant la nuit, les habitants d'Algorta se pressent sur la côte pour récupérer l'or noir. Sabas Jauregui y voit un coup de chance ;…"
+  },
+  "de": {
+   "titulo": "\"Inurri Itsuak\" (Amurrio)",
+   "resumen": "Biskaya, 1935. Ein heftiger Sturm lässt ein britisches Schiff mit Tonnen von Kohle an Bord stranden. In der Nacht drängen sich die Einwohner von Algorta an der Küste, um das schwarze Gold zu bergen. Sabas Jauregui sieht darin einen Glücksfall;…"
+  },
+  "it": {
+   "titulo": "\"Inurri Itsuak\" (Amurrio)",
+   "resumen": "Biscaglia, 1935. Una violenta tempesta fa arenare una nave inglese con tonnellate di carbone a bordo. Durante la notte, gli abitanti di Algorta si accalcano sulla costa per recuperare l'oro nero. Sabas Jauregui lo vede come un colpo di fortuna;…"
+  },
+  "pt": {
+   "titulo": "\"Inurri Itsuak\" (Amurrio)",
+   "resumen": "Biscaia, 1935. Uma forte tempestade faz encalhar um navio inglês com toneladas de carvão a bordo. Durante a noite, os vizinhos de Algorta reúnem-se na costa para resgatar o ouro negro. Sabas Jauregui vê isso como uma sorte;…"
+  }
+ },
+ "b4655a20a2": {
+  "fr": {
+   "titulo": "Malabars et Jeux de Société en Famille",
+   "resumen": "Profitez d'un après-midi d'activités circenses et de jeux de société pour toute la famille. À partir de 8 ans pour les malabars et 12 ans pour les jeux de société. Entrée libre dans la limite des places disponibles."
+  },
+  "de": {
+   "titulo": "Jonglage und Brettspiele für die Familie",
+   "resumen": "Genießen Sie einen Nachmittag mit Zirkusaktivitäten und Brettspielen für die ganze Familie. Jonglage ab 8 Jahren und Brettspiele ab 12 Jahren. Freier Eintritt, solange der Vorrat reicht."
+  },
+  "it": {
+   "titulo": "Giocoleria e Giochi da Tavolo in Famiglia",
+   "resumen": "Goditi un pomeriggio di attività circensi e giochi da tavolo per tutta la famiglia. Dai 8 anni per la giocoleria e dai 12 anni per i giochi da tavolo. Ingresso libero fino ad esaurimento posti."
+  },
+  "pt": {
+   "titulo": "Malabarismo e Jogos de Tabuleiro em Família",
+   "resumen": "Desfrute de uma tarde de atividades circenses e jogos de tabuleiro para toda a família. A partir dos 8 anos para malabarismo e 12 anos para jogos de tabuleiro. Entrada livre até ao esgotamento das vagas."
+  }
+ },
+ "39f11bccce": {
+  "fr": {
+   "titulo": "Art dans la rue : Exposition collective de peinture",
+   "resumen": "Profitez d'une exposition de peinture en plein air avec des œuvres de plusieurs artistes. Le Boulevard de Peña Gorbea se transforme en un espace pour découvrir différents regards, techniques et styles artistiques."
+  },
+  "de": {
+   "titulo": "Kunst auf der Straße: Kollektive Gemäldeausstellung",
+   "resumen": "Genießen Sie eine Open-Air-Gemäldeausstellung mit Werken verschiedener Künstler. Der Peña Gorbea Boulevard verwandelt sich in einen Raum, um verschiedene künstlerische Perspektiven, Techniken und Stile zu entdecken."
+  },
+  "it": {
+   "titulo": "Arte in strada: Mostra collettiva di pittura",
+   "resumen": "Goditi una mostra di pittura all'aperto con opere di vari artisti. Il Viale di Peña Gorbea si trasforma in uno spazio per scoprire diversi sguardi, tecniche e stili artistici."
+  },
+  "pt": {
+   "titulo": "Arte na rua: Exposição coletiva de pintura",
+   "resumen": "Desfrute de uma exposição de pintura ao ar livre com obras de vários artistas. O Bulevar de Peña Gorbea transforma-se num espaço para descobrir diferentes perspetivas, técnicas e estilos artísticos."
+  }
+ },
+ "886fe37474": {
+  "fr": {
+   "titulo": "Don Juan Tenorio : Théâtre classique",
+   "resumen": "La Compagnie Ópera Nova Producciones présente 'Don Juan Tenorio' avec costumes et décors d'époque. Une œuvre majeure du romantisme espagnol sur l'amour et le destin."
+  },
+  "de": {
+   "titulo": "Don Juan Tenorio: Klassisches Theater",
+   "resumen": "Die Kompanie Ópera Nova Producciones präsentiert 'Don Juan Tenorio' mit Kostümen und Bühnenbild aus der Zeit. Ein Meisterwerk der spanischen Romantik über Liebe und Schicksal."
+  },
+  "it": {
+   "titulo": "Don Juan Tenorio: Teatro classico",
+   "resumen": "La Compagnia Ópera Nova Producciones presenta 'Don Juan Tenorio' con costumi e scenografie d'epoca. Un'opera fondamentale del Romanticismo spagnolo sull'amore e sul destino."
+  },
+  "pt": {
+   "titulo": "Don Juan Tenorio: Teatro clássico",
+   "resumen": "A Companhia Ópera Nova Producciones apresenta 'Don Juan Tenorio' com figurinos e cenários de época. Uma obra cimeira do Romantismo espanhol sobre o amor e o destino."
+  }
+ },
+ "856fc5b7d1": {
+  "fr": {
+   "titulo": "Espace de rencontre 'Bid26. Biennale Ibéro-Américaine de Design'",
+   "resumen": "Explorez l'espace de rencontre de la Biennale Ibéro-Américaine de Design (Bid26). Un lieu de réflexion et d'échange à Matadero Madrid."
+  },
+  "de": {
+   "titulo": "Treffpunkt 'Bid26. Iberoamerikanische Design-Biennale'",
+   "resumen": "Entdecken Sie den Treffpunkt der Iberoamerikanischen Design-Biennale (Bid26). Ein Ort der Reflexion und des Austauschs im Matadero Madrid."
+  },
+  "it": {
+   "titulo": "Spazio di incontro 'Bid26. Biennale Iberoamericana del Design'",
+   "resumen": "Esplora lo spazio di incontro della Biennale Iberoamericana del Design (Bid26). Un luogo di riflessione e scambio a Matadero Madrid."
+  },
+  "pt": {
+   "titulo": "Espaço de encontro 'Bid26. Bienal Ibero-Americana de Design'",
+   "resumen": "Explore o espaço de encontro da Bienal Ibero-Americana de Design (Bid26). Um local de reflexão e intercâmbio no Matadero Madrid."
+  }
+ },
+ "48f1f2f886": {
+  "fr": {
+   "titulo": "Exposition 'Confluences' de Photographie Collective",
+   "resumen": "La salle d'exposition José Luis Sampedro du Centre Culturel Galileo accueille l'exposition collective de photographie 'Confluences'."
+  },
+  "de": {
+   "titulo": "Ausstellung 'Confluencias' Kollektive Fotografie",
+   "resumen": "Der Ausstellungsraum José Luis Sampedro im Kulturzentrum Galileo beherbergt die kollektive Fotoausstellung 'Confluencias'."
+  },
+  "it": {
+   "titulo": "Mostra 'Confluencias' di Fotografia Collettiva",
+   "resumen": "La sala espositiva José Luis Sampedro del Centro Culturale Galileo ospita la mostra collettiva di fotografia 'Confluencias'."
+  },
+  "pt": {
+   "titulo": "Exposição 'Confluências' de Fotografia Coletiva",
+   "resumen": "A Sala de Exposições José Luis Sampedro do Centro Cultural Galileo acolhe a exposição coletiva de fotografia 'Confluências'."
+  }
+ },
+ "3bcf9b623b": {
+  "fr": {
+   "titulo": "Exposition picturale collective 'Voyage existentiel'",
+   "resumen": "La salle d'exposition Clotilde García del Castillo du Centre Culturel Galileo présente 'Viaje existencial', une exposition picturale collective."
+  },
+  "de": {
+   "titulo": "Kollektive Malereiausstellung 'Viaje existencial'",
+   "resumen": "Der Ausstellungsraum Clotilde García del Castillo im Kulturzentrum Galileo präsentiert 'Viaje existencial', eine kollektive Malereiausstellung."
+  },
+  "it": {
+   "titulo": "Mostra pittorica collettiva 'Viaje existencial'",
+   "resumen": "La sala espositiva Clotilde García del Castillo del Centro Culturale Galileo presenta 'Viaje existencial', una mostra pittorica collettiva."
+  },
+  "pt": {
+   "titulo": "Exposição pictórica coletiva 'Viaje existencial'",
+   "resumen": "A Sala de Exposições Clotilde García del Castillo do Centro Cultural Galileo apresenta 'Viaje existencial', uma exposição pictórica coletiva."
+  }
+ },
+ "1525a00659": {
+  "fr": {
+   "titulo": "Messe et procession pour les défunts à l'Ermitage de San Isidro",
+   "resumen": "Messe et procession traditionnelles en l'honneur des fidèles défunts à l'Ermitage de San Isidro de Madrid, se terminant par un office et de la musique. Une messe et une procession seront célébrées."
+  },
+  "de": {
+   "titulo": "Messe und Prozession für die Verstorbenen in der Einsiedelei San Isidro",
+   "resumen": "Traditionelle Messe und Prozession zu Ehren der verstorbenen Gläubigen in der Einsiedelei San Isidro in Madrid, die mit einem Seelenamt und Musik endet. Eine Messe und eine Prozession werden abgehalten."
+  },
+  "it": {
+   "titulo": "Messa e processione per i defunti nell'Eremo di San Isidro",
+   "resumen": "Tradizionale messa e processione in onore dei fedeli defunti nell'Eremo di San Isidro di Madrid, che culmina con un responso e musica. Verranno officiate una messa e una processione."
+  },
+  "pt": {
+   "titulo": "Missa e procissão pelos falecidos na Ermida de San Isidro",
+   "resumen": "Missa e procissão tradicionais em honra dos fiéis falecidos na Ermida de San Isidro, em Madrid, culminando com um responso e música. Será celebrada uma missa e uma procissão."
+  }
+ },
+ "635ec02eb6": {
+  "fr": {
+   "titulo": "Exposition de livres illustrés chinois de l'Institut Confucius",
+   "resumen": "Exposition de livres illustrés chinois organisée par l'Institut Confucius à la Bibliothèque publique municipale Francisco Ayala."
+  },
+  "de": {
+   "titulo": "Ausstellung chinesischer illustrierter Bücher vom Konfuzius-Institut",
+   "resumen": "Ausstellung chinesischer illustrierter Bücher, organisiert vom Konfuzius-Institut in der städtischen öffentlichen Bibliothek Francisco Ayala."
+  },
+  "it": {
+   "titulo": "Mostra di libri illustrati cinesi dell'Istituto Confucio",
+   "resumen": "Mostra di libri illustrati cinesi organizzata dall'Istituto Confucio presso la Biblioteca Pubblica Comunale Francisco Ayala."
+  },
+  "pt": {
+   "titulo": "Exposição de livros ilustrados chineses do Instituto Confúcio",
+   "resumen": "Exposição de livros ilustrados chineses organizada pelo Instituto Confúcio na Biblioteca Pública Municipal Francisco Ayala."
+  }
+ },
+ "a3c23c9a4a": {
+  "fr": {
+   "titulo": "Théâtre familial : Trovadora",
+   "resumen": "Assistez à 'Trovadora', une comédie familiale avec musique et ombres au Centre Culturel Nicolás Salmerón. Une histoire sur la conciliation du travail et de la famille."
+  },
+  "de": {
+   "titulo": "Familientheater: Trovadora",
+   "resumen": "Besuchen Sie 'Trovadora', eine Familienkomödie mit Musik und Schatten im Kulturzentrum Nicolás Salmerón. Eine Geschichte über die Vereinbarkeit von Beruf und Familie."
+  },
+  "it": {
+   "titulo": "Teatro per famiglie: Trovadora",
+   "resumen": "Assisti a 'Trovadora', una commedia per famiglie con musica e ombre al Centro Culturale Nicolás Salmerón. Una storia sulla conciliazione tra lavoro e famiglia."
+  },
+  "pt": {
+   "titulo": "Teatro familiar: Trovadora",
+   "resumen": "Assista a 'Trovadora', uma comédia familiar com música e sombras no Centro Cultural Nicolás Salmerón. Uma história sobre conciliar trabalho e família."
+  }
+ },
+ "42fa463262": {
+  "fr": {
+   "titulo": "Visite scientifique interactive : Une promenade à travers les étoiles",
+   "resumen": "Voyagez à travers le cosmos lors de cette visite scientifique interactive. Découvrez la formation du Système Solaire et le ciel étoilé dans un planétarium."
+  },
+  "de": {
+   "titulo": "Interaktive wissenschaftliche Besichtigung: Ein Spaziergang durch die Sterne",
+   "resumen": "Reisen Sie in diesem interaktiven wissenschaftlichen Besuch durch den Kosmos. Entdecken Sie die Entstehung des Sonnensystems und den Sternenhimmel in einem Planetarium."
+  },
+  "it": {
+   "titulo": "Visita scientifica interattiva: Una passeggiata tra le stelle",
+   "resumen": "Viaggia attraverso il cosmo in questa visita scientifica interattiva. Scopri la formazione del Sistema Solare e il cielo stellato in un planetario."
+  },
+  "pt": {
+   "titulo": "Visita científica interativa: Um passeio pelas estrelas",
+   "resumen": "Viaje pelo cosmos nesta visita científica interativa. Descubra a formação do Sistema Solar e o céu estrelado num planetário."
+  }
+ },
+ "a24065f26c": {
+  "fr": {
+   "titulo": "'Blanche-Neige' (LA CHANA TEATRO)",
+   "resumen": "'Il y a très, très longtemps, il y a un tas d'années, dans une région lointaine, il y eut une chute de neige immense. Et jusqu'ici, rien ne se passe, mais maintenant voici le problème' Ainsi commence l'histoire de Blanche-Neige, cette petite merveille de Jaime Santos et de…"
+  },
+  "de": {
+   "titulo": "'Schneewittchen' (LA CHANA TEATRO)",
+   "resumen": "'Vor langer, langer Zeit, genau vor einer Ewigkeit, in einer fernen Region, gab es einen riesigen Schneefall. Und bis hierhin passiert nichts, aber jetzt kommt das Problem' So beginnt die Geschichte von Schneewittchen, diesem kleinen großen Wunder von Jaime Santos und…"
+  },
+  "it": {
+   "titulo": "'Biancaneve' (LA CHANA TEATRO)",
+   "resumen": "'Tanti, tanti anni fa, esattamente un mucchio, in una regione remota, cadde un'immensa nevicata. E fin qui non succede niente, ma ora viene il guaio' Così inizia la storia di Biancaneve, questa piccola grande meraviglia di Jaime Santos e di…"
+  },
+  "pt": {
+   "titulo": "'Branca de Neve' (LA CHANA TEATRO)",
+   "resumen": "'Há muitos, muitos anos, exatamente um monte, numa região remota, caiu uma imensa nevada. E até aqui não acontece nada, mas agora vem a confusão' Assim começa a história de Branca de Neve, esta pequena grande maravilha de Jaime Santos e de…"
+  }
+ },
+ "7b1ace3bdf": {
+  "fr": {
+   "titulo": "Théâtre : 'DON JUAN TENORIO'",
+   "resumen": "Musée de Valladolid. La compagnie de théâtre ARCON DE OLID représentera l'œuvre du vallisoletain José Zorrilla 'Don Juan Tenorio' publiée en 1844, dans la cour du palais Fabio Nelli, siège du musée. La représentation…"
+  },
+  "de": {
+   "titulo": "Theater: 'DON JUAN TENORIO'",
+   "resumen": "Museum von Valladolid. Die Theaterkompanie ARCON DE OLID wird das 1844 veröffentlichte Werk des aus Valladolid stammenden José Zorrilla 'Don Juan Tenorio' im Innenhof des Palacio Fabio Nelli, dem Sitz des Museums, aufführen. Die Aufführung…"
+  },
+  "it": {
+   "titulo": "Teatro: 'DON JUAN TENORIO'",
+   "resumen": "Museo di Valladolid. La compagnia teatrale ARCON DE OLID metterà in scena l'opera del vallisoletano José Zorrilla 'Don Juan Tenorio' pubblicata nel 1844, nel cortile del palazzo Fabio Nelli, sede del museo. La rappresentazione…"
+  },
+  "pt": {
+   "titulo": "Teatro: 'DON JUAN TENORIO'",
+   "resumen": "Museu de Valladolid. A companhia de teatro ARCON DE OLID realizará a representação da obra do vallisoletano José Zorrilla 'Don Juan Tenorio', publicada em 1844, no pátio do palácio Fabio Nelli, sede do museu. A representação…"
+  }
+ },
+ "5be6e3f721": {
+  "fr": {
+   "titulo": "'Cortège d'Halloween : Bonbons ou un sort' (LITO PRODUCCIONES)",
+   "resumen": "Le cortège ZombiRitmo et sa Bande de l'Au-delà du cimetière arrivent quatre personnages très spéciaux qui ne font pas peur... ils donnent envie de danser ! ZombiRitmos, la zombie la plus branchée, mène la danse en tant que maîtresse de cérémonie, enseignant…"
+  },
+  "de": {
+   "titulo": "'Halloween-Umzug: Süßes oder Saures' (LITO PRODUCCIONES)",
+   "resumen": "Der Umzug ZombiRitmo und seine Gang aus dem Jenseits des Friedhofs kommen vier ganz besondere Charaktere, die keine Angst machen... sie machen Lust zu tanzen! ZombiRitmos, die angesagteste Zombie-Frau, führt als Zeremonienmeisterin an und lehrt…"
+  },
+  "it": {
+   "titulo": "'Sfilata di Halloween: Dolcetto o scherzetto' (LITO PRODUCCIONES)",
+   "resumen": "La sfilata ZombiRitmo e la sua Banda dell'Aldilà del cimitero arrivano quattro personaggi molto speciali che non fanno paura... fanno venire voglia di ballare! ZombiRitmos, la zombie più scatenata, guida come maestra di cerimonie, insegnando…"
+  },
+  "pt": {
+   "titulo": "'Desfile de Halloween: Doces ou Travessuras' (LITO PRODUCCIONES)",
+   "resumen": "O desfile ZombiRitmo e a sua Banda do Além-Túmulo chegam quatro personagens muito especiais que não assustam... dão vontade de dançar! ZombiRitmos, a zombie mais animada, lidera como mestre de cerimónias, ensinando…"
+  }
+ },
+ "e4f532d845": {
+  "fr": {
+   "titulo": "\"JULIO IGLESIAS Experience par JULIO IGLESIAS Jr.\"",
+   "resumen": "JULIO IGLESIAS Jr. donne vie aux grands classiques de son père dans un spectacle plein d'énergie, d'élégance et d'émotion. JULIO IGLESIAS Experience est bien plus qu'un concert : c'est la seule occasion de vivre, ressentir et écouter les grands…"
+  },
+  "de": {
+   "titulo": "\"JULIO IGLESIAS Experience von JULIO IGLESIAS Jr.\"",
+   "resumen": "JULIO IGLESIAS Jr. leiht den großen Klassikern seines Vaters in einer Show voller Energie, Eleganz und Emotion seine Stimme. JULIO IGLESIAS Experience ist viel mehr als ein Konzert: Es ist die einzige Gelegenheit, die großen…"
+  },
+  "it": {
+   "titulo": "\"JULIO IGLESIAS Experience di JULIO IGLESIAS Jr.\"",
+   "resumen": "JULIO IGLESIAS Jr. dà voce ai grandi classici di suo padre in uno spettacolo pieno di energia, eleganza ed emozione. JULIO IGLESIAS Experience è molto più di un concerto: è l'unica occasione per vivere, sentire e ascoltare i grandi…"
+  },
+  "pt": {
+   "titulo": "\"JULIO IGLESIAS Experience por JULIO IGLESIAS Jr.\"",
+   "resumen": "JULIO IGLESIAS Jr. dá voz aos grandes clássicos do seu pai num espetáculo cheio de energia, elegância e emoção. JULIO IGLESIAS Experience é muito mais do que um concerto: é a única oportunidade de viver, sentir e ouvir os grandes…"
+  }
+ },
+ "7cdb49957b": {
+  "fr": {
+   "titulo": "Dr. Mario Alonso Puig : \"Fais l' (im)possible\"",
+   "resumen": "Nouvelle conférence du Dr Mario Alonso Puig : Fais l' (im)possible Le Dr Mario Alonso Puig, médecin et fellow en chirurgie de l'Université de Harvard, est l'auteur de 12 livres et un conférencier international reconnu. Il a donné…"
+  },
+  "de": {
+   "titulo": "Dr. Mario Alonso Puig: \"Mach das (Un)mögliche\"",
+   "resumen": "Neuer Vortrag von Dr. Mario Alonso Puig: Mach das (Un)mögliche Dr. Mario Alonso Puig, Arzt und Fellow in Chirurgie an der Harvard University, ist Autor von 12 Büchern und ein anerkannter internationaler Redner. Er hat…"
+  },
+  "it": {
+   "titulo": "Dr. Mario Alonso Puig: \"Fai l'(im)possibile\"",
+   "resumen": "Nuovo intervento del Dr. Mario Alonso Puig: Fai l'(im)possibile Il Dr. Mario Alonso Puig, medico e fellow in chirurgia presso l'Università di Harvard, è autore di 12 libri e un rinomato relatore internazionale. Ha tenuto…"
+  },
+  "pt": {
+   "titulo": "Dr. Mario Alonso Puig: \"Faz o (im)possível\"",
+   "resumen": "Nova conferência do Dr. Mario Alonso Puig: Faz o (im)possível O Dr. Mario Alonso Puig, médico e fellow em cirurgia pela Universidade de Harvard, é autor de 12 livros e um reconhecido conferencista internacional. Tem ministrado…"
+  }
+ },
+ "b27e9bf911": {
+  "fr": {
+   "titulo": "Musikagileak 2026 / Kuraia 2026-2027 : ENSEMBLE KURAIA",
+   "resumen": "Dans le cadre du circuit Musikagileak 2026-2027. Concert final du Cours de Composition avec Elena Mendoza En collaboration avec le cycle Kuraia 2026/27 XABIER CALZADA, flûte SERGIO BARRANCO, clarinette GARAZI NAVAS, accordéon SANTIAGO PIZANA,…"
+  },
+  "de": {
+   "titulo": "Musikagileak 2026 / Kuraia 2026-2027: ENSEMBLE KURAIA",
+   "resumen": "Im Rahmen des Zyklus Musikagileak 2026-2027. Abschlusskonzert des Kompositionskurses mit Elena Mendoza In Zusammenarbeit mit dem Zyklus Kuraia 2026/27 XABIER CALZADA, Flöte SERGIO BARRANCO, Klarinette GARAZI NAVAS, Akkordeon SANTIAGO PIZANA,…"
+  },
+  "it": {
+   "titulo": "Musikagileak 2026 / Kuraia 2026-2027: ENSEMBLE KURAIA",
+   "resumen": "Nell'ambito del circuito Musikagileak 2026-2027. Concerto finale del Corso di Composizione con Elena Mendoza In collaborazione con il ciclo Kuraia 2026/27 XABIER CALZADA, flauto SERGIO BARRANCO, clarinetto GARAZI NAVAS, fisarmonica SANTIAGO PIZANA,…"
+  },
+  "pt": {
+   "titulo": "Musikagileak 2026 / Kuraia 2026-2027: ENSEMBLE KURAIA",
+   "resumen": "No âmbito do circuito Musikagileak 2026-2027. Concerto final do Curso de Composição com Elena Mendoza Em colaboração com o ciclo Kuraia 2026/27 XABIER CALZADA, flauta SERGIO BARRANCO, clarinete GARAZI NAVAS, acordeão SANTIAGO PIZANA,…"
+  }
+ },
+ "1a7d612453": {
+  "fr": {
+   "titulo": "KLUBAK 2026-2027 - Club de lecture de la Bibliothèque KMK : \"Chroniques de l'Amérique profonde\"",
+   "resumen": "La Bibliothèque Koldo Mitxelena ouvre la période d'inscription pour une nouvelle édition de KLUBAK, son programme de clubs de lecture en basque et en castillan. Un espace conçu pour profiter de la littérature à travers la conversation, le…"
+  },
+  "de": {
+   "titulo": "KLUBAK 2026-2027 - Leseklub der KMK-Bibliothek: \"Chroniken des tiefen Amerikas\"",
+   "resumen": "Die Koldo Mitxelena Bibliothek öffnet die Anmeldefrist für eine neue Ausgabe von KLUBAK, ihrem Programm für Leseclubs auf Baskisch und Kastilisch. Ein Raum, der dazu gedacht ist, Literatur durch Gespräche zu genießen, das…"
+  },
+  "it": {
+   "titulo": "KLUBAK 2026-2027 - Club del libro della Biblioteca KMK: \"Cronache dell'America profonda\"",
+   "resumen": "La Biblioteca Koldo Mitxelena apre il periodo di iscrizione per una nuova edizione di KLUBAK, il suo programma di club del libro in basco e castigliano. Uno spazio pensato per godersi la letteratura attraverso la conversazione, il…"
+  },
+  "pt": {
+   "titulo": "KLUBAK 2026-2027 - Clube de leitura da Biblioteca KMK: \"Crónicas da América profunda\"",
+   "resumen": "A Biblioteca Koldo Mitxelena abre o período de inscrição para uma nova edição do KLUBAK, o seu programa de clubes de leitura em basco e castelhano. Um espaço pensado para desfrutar da literatura através da conversa, do…"
+  }
+ },
+ "c0bc7a1713": {
+  "fr": {
+   "titulo": "Ipuin Txokoa 2026-2027 : Miriam Mendoza",
+   "resumen": "Le retour d'Ipuin Txokoa à la Bibliothèque pour enfants de Tolosa ! Heures du conte avec Miriam Mendoza, pour les enfants à partir de 3 ans ; il est recommandé que les mères et les pères y assistent également. Les séances auront lieu les lundis à 18h00, dans la…"
+  },
+  "de": {
+   "titulo": "Ipuin Txokoa 2026-2027: Miriam Mendoza",
+   "resumen": "Ipuin Txokoa kehrt in die Kinderbibliothek von Tolosa zurück! Geschichtenerzählen mit Miriam Mendoza, für Kinder ab 3 Jahren; es wird empfohlen, dass auch Mütter und Väter teilnehmen. Die Sitzungen finden montags um 18:00 Uhr in der… statt"
+  },
+  "it": {
+   "titulo": "Ipuin Txokoa 2026-2027: Miriam Mendoza",
+   "resumen": "Torna l'Ipuin Txokoa alla Biblioteca per bambini di Tolosa! Racconti con Miriam Mendoza, rivolti a bambini dai 3 anni in su; si consiglia la partecipazione anche di madri e padri. Le sessioni si terranno il lunedì alle 18:00, nella…"
+  },
+  "pt": {
+   "titulo": "Ipuin Txokoa 2026-2027: Miriam Mendoza",
+   "resumen": "O Ipuin Txokoa regressa à Biblioteca Infantil de Tolosa! Hora do conto com Miriam Mendoza, dirigida a crianças a partir dos 3 anos; recomenda-se que mães e pais também participem. As sessões serão às segundas-feiras às 18:00, na…"
+  }
+ },
+ "105103b821": {
+  "fr": {
+   "titulo": "Klasikoak 2026 : \"Ander et Yul\"",
+   "resumen": "Dans le cadre du programme du cycle Klasikoak 2026, de la Cinémathèque Basque. Présenté par Joxean Fernández. Ander rentre chez ses parents après avoir passé quelques années en prison pour trafic de drogue. Quand il rentre chez lui…"
+  },
+  "de": {
+   "titulo": "Klasikoak 2026: \"Ander und Yul\"",
+   "resumen": "Im Rahmen des Programms des Zyklus Klasikoak 2026 des Baskischen Filmarchivs. Präsentiert von Joxean Fernández. Ander kehrt nach einigen Jahren Haft wegen Drogenhandels zu seinen Eltern zurück. Als er nach Hause kommt…"
+  },
+  "it": {
+   "titulo": "Klasikoak 2026: \"Ander e Yul\"",
+   "resumen": "Nell'ambito del programma del ciclo Klasikoak 2026, della Filmoteca Basca. Presentato da Joxean Fernández. Ander torna dai suoi genitori dopo aver trascorso alcuni anni in carcere per traffico di droga. Quando torna a casa…"
+  },
+  "pt": {
+   "titulo": "Klasikoak 2026: \"Ander e Yul\"",
+   "resumen": "No âmbito do programa do ciclo Klasikoak 2026, da Filmoteca Basca. Apresentado por Joxean Fernández. Ander regressa a casa dos pais depois de ter passado alguns anos na prisão por tráfico de droga. Quando chega a casa…"
+  }
+ },
+ "2b2a77bbcd": {
+  "fr": {
+   "titulo": "Lecture féministe (Lazkao)",
+   "resumen": "Le 5 octobre, la mairie a accueilli une nouvelle session de Irakurketa Feminista, une initiative qui trouvera à nouveau sa place dans le calendrier au cours des prochains mois."
+  },
+  "de": {
+   "titulo": "Feministische Lesung (Lazkao)",
+   "resumen": "Am 5. Oktober fand im Rathaus eine neue Sitzung von Irakurketa Feminista statt, eine Initiative, die in den kommenden Monaten wieder ihren Platz im Kalender finden wird."
+  },
+  "it": {
+   "titulo": "Lettura femminista (Lazkao)",
+   "resumen": "Il 5 ottobre, il Comune ha ospitato una nuova sessione di Irakurketa Feminista, un'iniziativa che troverà nuovamente spazio nel calendario nei prossimi mesi."
+  },
+  "pt": {
+   "titulo": "Leitura feminista (Lazkao)",
+   "resumen": "A 5 de outubro, a Câmara Municipal acolheu uma nova sessão de Irakurketa Feminista, uma iniciativa que voltará a encontrar espaço no calendário nos próximos meses."
+  }
+ },
+ "125fc4216b": {
+  "fr": {
+   "titulo": "Visite guidée : théâtre Félix Petite et loges",
+   "resumen": "Entrez dans le Théâtre Félix Petite comme jamais auparavant et explorez ses recoins les plus secrets ! Vous découvrirez ses loges et ses entrepôts, en plus de vous plonger dans le fonctionnement du théâtre et l'organisation de sa programmation. Une expérience unique…"
+  },
+  "de": {
+   "titulo": "Führung: Félix Petite Theater und Garderoben",
+   "resumen": "Betreten Sie das Félix Petite Theater wie nie zuvor und erkunden Sie seine geheimsten Winkel! Sie werden seine Garderoben und Lagerhäuser kennenlernen und sich mit der Funktionsweise des Theaters und der Organisation seines Programms befassen. Ein einzigartiges Erlebnis…"
+  },
+  "it": {
+   "titulo": "Visita guidata: teatro Félix Petite e camerini",
+   "resumen": "Entra nel Teatro Félix Petite come mai prima d'ora ed esplora i suoi angoli più segreti! Conoscerai i suoi camerini e magazzini, oltre ad approfondire il funzionamento del teatro e l'organizzazione della sua programmazione. Un'esperienza unica…"
+  },
+  "pt": {
+   "titulo": "Visita guiada: teatro Félix Petite e camarins",
+   "resumen": "Entre no Teatro Félix Petite como nunca antes e explore os seus cantos mais secretos! Conhecerá os seus camarins e armazéns, além de se aprofundar no funcionamento do teatro e na organização da sua programação. Uma experiência única…"
+  }
+ },
+ "6ecb05114d": {
+  "fr": {
+   "titulo": "Cercles littéraires : \"Hamabost egun Urgainen\" (Jose Antonio Loidi)",
+   "resumen": "Cercle littéraire en basque, animé par Ane Mayoz, sur le livre Hamabost egun Urgainen de Jose Antonio Loidi. Le livre est disponible dans les bibliothèques de Donostia Kultura."
+  },
+  "de": {
+   "titulo": "Literarische Zirkel: \"Hamabost egun Urgainen\" (Jose Antonio Loidi)",
+   "resumen": "Literarischer Zirkel auf Baskisch, geleitet von Ane Mayoz, über das Buch Hamabost egun Urgainen von Jose Antonio Loidi. Das Buch ist in den Bibliotheken von Donostia Kultura erhältlich."
+  },
+  "it": {
+   "titulo": "Circoli letterari: \"Hamabost egun Urgainen\" (Jose Antonio Loidi)",
+   "resumen": "Circolo letterario in basco, diretto da Ane Mayoz, sul libro Hamabost egun Urgainen di Jose Antonio Loidi. Il libro è disponibile nelle biblioteche di Donostia Kultura."
+  },
+  "pt": {
+   "titulo": "Círculos literários: \"Hamabost egun Urgainen\" (Jose Antonio Loidi)",
+   "resumen": "Círculo literário em basco, dirigido por Ane Mayoz, sobre o livro Hamabost egun Urgainen de Jose Antonio Loidi. O livro está disponível nas bibliotecas de Donostia Kultura."
+  }
+ },
+ "e38689051d": {
+  "fr": {
+   "titulo": "\"Jeu et exploration collage 'Change les proportions' \"",
+   "resumen": "L'organisation informe : Activité jeunesse/adulte. Dans cet atelier de collage, nous apprendrons à regarder différemment. Que chercher ? Quelle image convient ? Comment faire pour que cela ait un sens ? Nous y parviendrons en collectant trois images et une…"
+  },
+  "de": {
+   "titulo": "\"Collage-Spiel und Erkundung 'Verändere die Proportionen' \"",
+   "resumen": "Die Organisation informiert: Jugend-/Erwachsenenaktivität. In diesem Collage-Workshop lernen wir, anders zu schauen. Was suche ich? Welches Bild passt? Wie bringe ich das zum Sinn? Wir werden dies erreichen, indem wir drei Bilder und eine… sammeln"
+  },
+  "it": {
+   "titulo": "\"Gioco ed esplorazione collage 'Cambia le proporzioni' \"",
+   "resumen": "L'organizzazione informa: Attività per giovani/adulti. In questo laboratorio di collage impareremo a guardare in modo diverso. Cosa cerco? Quale immagine va bene? Come faccio a dare un senso a questo? Ci riusciremo raccogliendo tre immagini e una…"
+  },
+  "pt": {
+   "titulo": "\"Jogo e exploração de colagem 'Muda as proporções' \"",
+   "resumen": "A organização informa: Atividade juvenil/adulta. Neste workshop de colagem aprenderemos a olhar de forma diferente. O que procuro? Que imagem serve? Como faço para que isto faça sentido? Conseguiremos recolhendo três imagens e uma…"
+  }
+ },
+ "2e02b0496b": {
+  "fr": {
+   "titulo": "Semaine du Cinéma Fantastique et d'Horreur de Saint-Sébastien 2026 : Marathon de courts métrages internationaux",
+   "resumen": "Dans le cadre de la Semaine du Cinéma Fantastique et d'Horreur de Saint-Sébastien 2026. Marathon de courts métrages internationaux : Breathwork (2026). Erik Westerström. Suède. 13 min Corps étranger (2025). Cécile Delberghe & Mathieu Mortelmans. Belgique.…"
+  },
+  "de": {
+   "titulo": "Festival des fantastischen und Horrorfilms San Sebastián 2026: Internationaler Kurzfilm-Marathon",
+   "resumen": "Im Rahmen des Festivals des fantastischen und Horrorfilms San Sebastián 2026. Internationaler Kurzfilm-Marathon: Breathwork (2026). Erik Westerström. Schweden. 13 Min. Fremdkörper (2025). Cécile Delberghe & Mathieu Mortelmans. Belgien.…"
+  },
+  "it": {
+   "titulo": "Settimana del Cinema Fantastico e dell'Orrore di San Sebastián 2026: Maratona di cortometraggi internazionali",
+   "resumen": "Nell'ambito della Settimana del Cinema Fantastico e dell'Orrore di San Sebastián 2026. Maratona di cortometraggi internazionali: Breathwork (2026). Erik Westerström. Svezia. 13 min Corps étranger (2025). Cécile Delberghe & Mathieu Mortelmans. Belgio.…"
+  },
+  "pt": {
+   "titulo": "Semana de Cinema Fantástico e de Terror de San Sebastián 2026: Maratona de curtas-metragens internacionais",
+   "resumen": "No âmbito da Semana de Cinema Fantástico e de Terror de San Sebastián 2026. Maratona de curtas-metragens internacionais: Breathwork (2026). Erik Westerström. Suécia. 13 min Corps étranger (2025). Cécile Delberghe & Mathieu Mortelmans. Bélgica.…"
+  }
+ },
+ "94ee45be02": {
+  "fr": {
+   "titulo": "Semaine du Cinéma Fantastique et d'Horreur de Saint-Sébastien 2026 : \"Bloody Tennis\"",
+   "resumen": "Dans le cadre de la Semaine du Cinéma Fantastique et d'Horreur de Saint-Sébastien 2026. Le film Bloody Tennis (Allemagne), réalisé par Nikias Chryssos, sera projeté lors de la Semaine du Cinéma Fantastique et d'Horreur. Nous aimons le tennis. Des finales aux…"
+  },
+  "de": {
+   "titulo": "Festival des fantastischen und Horrorfilms San Sebastián 2026: \"Bloody Tennis\"",
+   "resumen": "Im Rahmen des Festivals des fantastischen und Horrorfilms San Sebastián 2026. Auf dem Festival des fantastischen und Horrorfilms wird der Film Bloody Tennis (Deutschland) unter der Regie von Nikias Chryssos gezeigt. Wir lieben Tennis. Von den Finals bis zu…"
+  },
+  "it": {
+   "titulo": "Settimana del Cinema Fantastico e dell'Orrore di San Sebastián 2026: \"Bloody Tennis\"",
+   "resumen": "Nell'ambito della Settimana del Cinema Fantastico e dell'Orrore di San Sebastián 2026. Alla Settimana del Cinema Fantastico e dell'Orrore verrà proiettato il film Bloody Tennis (Germania), diretto da Nikias Chryssos. Ci piace il tennis. Dalle finali alle…"
+  },
+  "pt": {
+   "titulo": "Semana de Cinema Fantástico e de Terror de San Sebastián 2026: \"Bloody Tennis\"",
+   "resumen": "No âmbito da Semana de Cinema Fantástico e de Terror de San Sebastián 2026. Na Semana de Cinema Fantástico e de Terror será exibido o filme Bloody Tennis (Alemanha), realizado por Nikias Chryssos. Gostamos de ténis. De finais a…"
+  }
+ },
+ "04fa5a2f3a": {
+  "fr": {
+   "titulo": "Semaine du Cinéma Fantastique et d'Horreur de Saint-Sébastien 2026 : \"El diablo sabe tu nombre\"",
+   "resumen": "Dans le cadre de la Semaine du Cinéma Fantastique et d'Horreur de Saint-Sébastien 2026. Le film El diablo sabe tu nombre (Mexique), réalisé par Andrés Beltrán, sera projeté lors de la Semaine du Cinéma Fantastique et d'Horreur. Ton nom et plus encore, bien sûr.…"
+  },
+  "de": {
+   "titulo": "Festival des fantastischen und Horrorfilms San Sebastián 2026: \"El diablo sabe tu nombre\"",
+   "resumen": "Im Rahmen des Festivals des fantastischen und Horrorfilms San Sebastián 2026. Auf dem Festival des fantastischen und Horrorfilms wird der Film El diablo sabe tu nombre (Mexiko) unter der Regie von Andrés Beltrán gezeigt. Dein Name und mehr, natürlich.…"
+  },
+  "it": {
+   "titulo": "Settimana del Cinema Fantastico e dell'Orrore di San Sebastián 2026: \"El diablo sabe tu nombre\"",
+   "resumen": "Nell'ambito della Settimana del Cinema Fantastico e dell'Orrore di San Sebastián 2026. Alla Settimana del Cinema Fantastico e dell'Orrore verrà proiettato il film El diablo sabe tu nombre (Messico), diretto da Andrés Beltrán. Il tuo nome e altro ancora, ovviamente.…"
+  },
+  "pt": {
+   "titulo": "Semana de Cinema Fantástico e de Terror de San Sebastián 2026: \"El diablo sabe tu nombre\"",
+   "resumen": "No âmbito da Semana de Cinema Fantástico e de Terror de San Sebastián 2026. Na Semana de Cinema Fantástico e de Terror será exibido o filme El diablo sabe tu nombre (México), realizado por Andrés Beltrán. O teu nome e mais coisas, claro.…"
+  }
+ },
+ "c61af2f5f9": {
+  "fr": {
+   "titulo": "Présentation du livre : \"Abeberry etxea, euskal historia bat. La famille Abeberry, une histoire basque\"",
+   "resumen": "Présentation du livre \"Abeberry etxea, euskal historia bat\" ( La famille Abeberry, une histoire basque ) (Atlantica) d'Alan Abeberry."
+  },
+  "de": {
+   "titulo": "Buchvorstellung: \"Abeberry etxea, euskal historia bat. La famille Abeberry, une histoire basque\"",
+   "resumen": "Vorstellung des Buches \"Abeberry etxea, euskal historia bat\" ( La famille Abeberry, une histoire basque ) (Atlantica) von Alan Abeberry."
+  },
+  "it": {
+   "titulo": "Presentazione del libro: \"Abeberry etxea, euskal historia bat. La famille Abeberry, une histoire basque\"",
+   "resumen": "Presentazione del libro \"Abeberry etxea, euskal historia bat\" ( La famille Abeberry, une histoire basque ) (Atlantica) di Alan Abeberry."
+  },
+  "pt": {
+   "titulo": "Apresentação do livro: \"Abeberry etxea, euskal historia bat. La famille Abeberry, une histoire basque\"",
+   "resumen": "Apresentação do livro \"Abeberry etxea, euskal historia bat\" ( La famille Abeberry, une histoire basque ) (Atlantica) de Alan Abeberry."
+  }
+ },
+ "00202e6bd0": {
+  "fr": {
+   "titulo": "\"La Plaza de los Fueros : ART et espace. Un dialogue sur l'art\"",
+   "resumen": "La Casa de Cultura Ignacio Aldecoa accueillera une conférence consacrée aux aspects artistiques de la place, « La Plaza de los Fueros : ART et espace. Un dialogue sur l'art », avec la participation de Mikel Chillida, Miren Vadillo et…"
+  },
+  "de": {
+   "titulo": "\"Plaza de los Fueros: KUNST und Raum. Ein Dialog über Kunst\"",
+   "resumen": "Das Kulturhaus Ignacio Aldecoa wird Schauplatz einer Konferenz über die künstlerischen Aspekte des Platzes sein, „Plaza de los Fueros: KUNST und Raum. Ein Dialog über Kunst“, mit der Teilnahme von Mikel Chillida, Miren Vadillo und…"
+  },
+  "it": {
+   "titulo": "\"La Plaza de los Fueros: ARTE e spazio. Un dialogo sull'arte\"",
+   "resumen": "La Casa de Cultura Ignacio Aldecoa ospiterà una conferenza dedicata agli aspetti artistici della piazza, «La Plaza de los Fueros: ARTE e spazio. Un dialogo sull'arte», con la partecipazione di Mikel Chillida, Miren Vadillo e…"
+  },
+  "pt": {
+   "titulo": "\"La Plaza de los Fueros: ARTE e espaço. Um diálogo sobre arte\"",
+   "resumen": "A Casa de Cultura Ignacio Aldecoa será palco de uma conferência dedicada aos aspetos artísticos da praça, «La Plaza de los Fueros: ARTE e espaço. Um diálogo sobre arte», com a participação de Mikel Chillida, Miren Vadillo e…"
+  }
+ },
+ "c61e953907": {
+  "fr": {
+   "titulo": "Zinemateka Azkuna Zentroa \"Cinéastes de la Transition\" : \"Cría cuervos\"",
+   "resumen": "Dans le cadre de la programmation de la Zinemateka de Azkuna Zentroa \" Cinéastes de la transition. Récits d'un pays en transformation \" (1976-1984). Ana se souvient de tout ce qui s'est passé depuis la mort de son père, vingt ans auparavant. Sa fille de neuf ans…"
+  },
+  "de": {
+   "titulo": "Zinemateka Azkuna Zentroa \"Filmemacher der Transition\": \"Cría cuervos\"",
+   "resumen": "Im Rahmen des Programms der Zinemateka von Azkuna Zentroa „Filmemacher der Transition. Berichte eines Landes im Wandel“ (1976–1984). Ana erinnert sich an alles, was seit dem Tod ihres Vaters zwanzig Jahre zuvor geschah. Ihre neunjährige Tochter…"
+  },
+  "it": {
+   "titulo": "Zinemateka Azkuna Zentroa \"Registi della Transizione\": \"Cría cuervos\"",
+   "resumen": "Nell'ambito della programmazione della Zinemateka di Azkuna Zentroa \"Registi della transizione. Racconti di un paese in trasformazione\" (1976–1984). Ana ricorda tutto ciò che è accaduto dalla morte del padre, vent'anni prima. Sua figlia di nove anni…"
+  },
+  "pt": {
+   "titulo": "Zinemateka Azkuna Zentroa \"Cineastas da Transição\": \"Cría cuervos\"",
+   "resumen": "No âmbito da programação da Zinemateka de Azkuna Zentroa \"Cineastas da transição. Relatos de um país em transformação\" (1976–1984). Ana recorda tudo o que aconteceu desde a morte do seu pai, vinte anos antes. A sua filha de nove anos…"
+  }
+ },
+ "4d27895d7e": {
+  "fr": {
+   "titulo": "Festival du Court-Métrage d'Eibar \"Asier Errasti\" 2026 (Eibar)",
+   "resumen": "Programme du Festival du Court-Métrage d'Eibar \"Asier Errasti\" 2026 (pdf)"
+  },
+  "de": {
+   "titulo": "Kurzfilm-Festival Eibar \"Asier Errasti\" 2026 (Eibar)",
+   "resumen": "Programm des Kurzfilm-Festivals Eibar \"Asier Errasti\" 2026 (pdf)"
+  },
+  "it": {
+   "titulo": "Festival del Cortometraggio di Eibar \"Asier Errasti\" 2026 (Eibar)",
+   "resumen": "Programma del Festival del Cortometraggio di Eibar \"Asier Errasti\" 2026 (pdf)"
+  },
+  "pt": {
+   "titulo": "Festival de Curtas-Metragens de Eibar \"Asier Errasti\" 2026 (Eibar)",
+   "resumen": "Programa do Festival de Curtas-Metragens de Eibar \"Asier Errasti\" 2026 (pdf)"
+  }
+ },
+ "3155c047bb": {
+  "fr": {
+   "titulo": "R.C. Deportivo vs C.A. Osasuna",
+   "resumen": "LIGA EASPORT - JOURNÉE 11"
+  },
+  "de": {
+   "titulo": "R.C. Deportivo vs C.A. Osasuna",
+   "resumen": "LIGA EASPORT - SPIELTAG 11"
+  },
+  "it": {
+   "titulo": "R.C. Deportivo vs C.A. Osasuna",
+   "resumen": "LIGA EASPORT - GIORNATA 11"
+  },
+  "pt": {
+   "titulo": "R.C. Deportivo vs C.A. Osasuna",
+   "resumen": "LIGA EASPORT - JORNADA 11"
+  }
+ },
+ "ac9d2843a0": {
+  "fr": {
+   "titulo": "Amílcar Cabral, cœur panafricain et révolutionnaire",
+   "resumen": "Documentaire réalisé par le cinéaste et écrivain argentin Carlos Pronzato"
+  },
+  "de": {
+   "titulo": "Amílcar Cabral, panafrikanisches und revolutionäres Herz",
+   "resumen": "Dokumentarfilm des argentinischen Filmemachers und Schriftstellers Carlos Pronzato"
+  },
+  "it": {
+   "titulo": "Amílcar Cabral, cuore panafricano e rivoluzionario",
+   "resumen": "Documentario diretto dal regista e scrittore argentino Carlos Pronzato"
+  },
+  "pt": {
+   "titulo": "Amílcar Cabral, coração panafricano e revolucionário",
+   "resumen": "Documentário dirigido pelo cineasta e escritor argentino Carlos Pronzato"
+  }
+ },
+ "910ab2bfc6": {
+  "fr": {
+   "titulo": "ADEGA 50 Ans à prendre soin de la terre",
+   "resumen": "50 ans à prendre soin de la Terre. Exposition avec laquelle ADEGA retrace cinq décennies d'écologie galicienne et les luttes environnementales auxquelles elle a participé au fil du temps."
+  },
+  "de": {
+   "titulo": "ADEGA 50 Jahre kümmert sich um die Erde",
+   "resumen": "50 Jahre kümmert sich um die Erde. Ausstellung, mit der ADEGA fünf Jahrzehnte galicischer Ökologie und der Umweltkämpfe, an denen sie im Laufe der Zeit teilgenommen hat, Revue passieren lässt."
+  },
+  "it": {
+   "titulo": "ADEGA 50 Anni prendendosi cura della terra",
+   "resumen": "50 anni prendendosi cura della Terra. Mostra con cui ADEGA ripercorre cinque decenni di ecologia galiziana e delle lotte ambientali a cui ha partecipato nel tempo."
+  },
+  "pt": {
+   "titulo": "ADEGA 50 Anos a cuidar da terra",
+   "resumen": "50 anos a cuidar da Terra. Exposição com a qual a ADEGA percorre cinco décadas de ecologismo galego e das lutas ambientais em que participou ao longo do tempo."
+  }
+ },
+ "7bcd365c14": {
+  "fr": {
+   "titulo": "Le Tramway de Peñagrande à El Pilar",
+   "resumen": "Explorez l'histoire du tramway de Peñagrande et son impact sur le quartier d'El Pilar. Une conférence sur le transport et la mémoire à Madrid."
+  },
+  "de": {
+   "titulo": "Die Straßenbahn Peñagrande in El Pilar",
+   "resumen": "Erkunden Sie die Geschichte der Straßenbahn Peñagrande und ihre Auswirkungen auf das Viertel El Pilar. Ein Vortrag über Verkehr und Erinnerung in Madrid."
+  },
+  "it": {
+   "titulo": "Il Tram di Peñagrande a El Pilar",
+   "resumen": "Esplora la storia del tram di Peñagrande e il suo impatto sul quartiere El Pilar. Una conferenza sul trasporto e la memoria a Madrid."
+  },
+  "pt": {
+   "titulo": "O Elétrico de Peñagrande em El Pilar",
+   "resumen": "Explore a história do elétrico de Peñagrande e o seu impacto no Bairro de El Pilar. Uma palestra sobre transporte e memória em Madrid."
+  }
+ },
+ "250df4dc50": {
+  "fr": {
+   "titulo": "Sonidos Danzantes II : Flamenco à Contretemps",
+   "resumen": "Événement de flamenco intitulé 'Sonidos danzantes II (flamenco a contratiempo)' à la Cineteca de Madrid. Une proposition rythmique et expressive."
+  },
+  "de": {
+   "titulo": "Tanzende Klänge II: Flamenco gegen den Takt",
+   "resumen": "Flamenco-Veranstaltung mit dem Titel 'Sonidos danzantes II (flamenco a contratiempo)' in der Cineteca de Madrid. Eine rhythmische und ausdrucksstarke Darbietung."
+  },
+  "it": {
+   "titulo": "Sonidos Danzantes II: Flamenco a Controtempo",
+   "resumen": "Evento di flamenco intitolato 'Sonidos danzantes II (flamenco a contratiempo)' presso la Cineteca di Madrid. Una proposta ritmica ed espressiva."
+  },
+  "pt": {
+   "titulo": "Sonidos Danzantes II: Flamenco a Contratempo",
+   "resumen": "Evento de flamenco intitulado 'Sonidos danzantes II (flamenco a contratiempo)' na Cineteca de Madrid. Uma proposta rítmica e expressiva."
+  }
+ },
+ "e3c7558757": {
+  "fr": {
+   "titulo": "Conférence informative sur l'odontologie",
+   "resumen": "Conseils pratiques sur la santé bucco-dentaire, abordant comment le vieillissement affecte la bouche, la relation entre la santé bucco-dentaire et le bien-être général, et les soins préventifs. Pour tous les publics."
+  },
+  "de": {
+   "titulo": "Informationsvortrag zur Zahnmedizin",
+   "resumen": "Praktische Ratschläge zur Mundgesundheit, die sich damit befassen, wie das Altern den Mund beeinflusst, die Beziehung zwischen Mundgesundheit und allgemeinem Wohlbefinden sowie präventive Maßnahmen. Für alle Zielgruppen."
+  },
+  "it": {
+   "titulo": "Conferenza informativa sull'odontoiatria",
+   "resumen": "Consigli pratici sulla salute orale, discutendo come l'invecchiamento influisce sulla bocca, il legame tra salute orale e benessere generale e le cure preventive. Per tutti i pubblici."
+  },
+  "pt": {
+   "titulo": "Palestra informativa sobre odontologia",
+   "resumen": "Conselhos práticos sobre saúde oral, abordando como o envelhecimento afeta a boca, a relação entre saúde oral e bem-estar geral, e cuidados preventivos. Para todos os públicos."
+  }
+ },
+ "6b833e7fe6": {
+  "fr": {
+   "titulo": "Cycle 'Comprendre l'Égypte ancienne' : Que savons-nous ?",
+   "resumen": "Explorez vos connaissances sur l'Égypte ancienne lors de cette conférence à la Bibliothèque Publique Municipale Eugenio Trías."
+  },
+  "de": {
+   "titulo": "Zyklus 'Altes Ägypten verstehen': Was wissen wir?",
+   "resumen": "Erkunden Sie Ihr Wissen über das Alte Ägypten in diesem Vortrag in der Städtischen Öffentlichen Bibliothek Eugenio Trías."
+  },
+  "it": {
+   "titulo": "Ciclo 'Comprendere l'Antico Egitto': Cosa sappiamo?",
+   "resumen": "Esplora le tue conoscenze sull'Antico Egitto in questa conferenza presso la Biblioteca Pubblica Comunale Eugenio Trías."
+  },
+  "pt": {
+   "titulo": "Ciclo 'Compreender o Antigo Egito': O que sabemos?",
+   "resumen": "Explore os seus conhecimentos sobre o Antigo Egito nesta palestra na Biblioteca Pública Municipal Eugenio Trías."
   }
  }
 }
