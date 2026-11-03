@@ -228,3 +228,8 @@ reserva:
     titulo: "Aprendizaje infinito"
     generos: [cultura]
     episodio: { titulo: "Cómo leer más rápido (sin sacrificar comprensión)", enlace: "https://open.spotify.com/episode/3mkbH2sXVZlStuHr5NUk0p" }
+
+  - id: historias-de-la-economia-pelotazo-inmobiliario
+    titulo: "Historias de la economía"
+    generos: [historia, negocios]
+    episodio: { titulo: "El mayor pelotazo inmobiliario en la historia de España", enlace: "https://open.spotify.com/episode/0ltpKtoVA0YfxWvniRKfmv" }
