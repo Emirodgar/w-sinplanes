@@ -65,7 +65,7 @@ const parkType = (title) => (/^Parque Nacional/i.test(title) ? 'nacional' : /^Pa
 /** Lugares fijos de config/lugares.yml, de todos los grupos y con su enlace a la fuente (lo usan el esqueleto y check-skeleton). */
 export function readLugares() {
   const doc = yamlLoad(readFileSync(path.join(ROOT, 'config/lugares.yml'), 'utf8')) || {};
-  return Object.keys(doc.bases || {}).flatMap((g) => (doc[g] || []).map((l) => ({ ...l, grupo: g, fuente: doc.bases[g] + l.id + '/' })));
+  return Object.keys(doc.bases || {}).flatMap((g) => (doc[g] || []).map((l) => ({ ...l, grupo: g, fuente: l.fuente || doc.bases[g] + l.id + '/' })));
 }
 
 /** Fichas ampliadas de los lugares fijos (texto, imagen y preguntas frecuentes), por id, en config/fichas-lugares.yml. Opcional. */

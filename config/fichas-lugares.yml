@@ -2229,3 +2229,22 @@ cueva-valporquero:
           r: "Sí, aunque hay escaleras y suelos húmedos. Consulta las condiciones de acceso."
         - p: "¿Cuándo está abierta?"
           r: "No siempre abre todo el año. Consulta las fechas en la web oficial."
+filmoteca-castilla-leon-salamanca:
+  relacionados: [universidad-salamanca, plaza-mayor-salamanca, salamanca-un-dia, llaves-de-la-ciudad-salamanca]
+  contenido:
+    es:
+      texto:
+        - "La Filmoteca de Castilla y León es el archivo y la sala de cine patrimonial de la comunidad, con una de sus sedes de proyección en Salamanca. No es un multicine: programa cine que casi nunca llega a la cartelera comercial, desde clásicos y cine de autor hasta documentales, cortos y películas recuperadas."
+        - "Su programación cambia cada mes y se reparte por varios espacios de la ciudad, como el Teatro Juan del Enzina, en el ciclo que organiza con el Servicio de Actividades Culturales de la Universidad de Salamanca, o el Teatro Liceo, donde se celebran sesiones especiales de películas restauradas. También lleva el cortometraje a otras localidades de la región con un programa itinerante."
+        - "Lo más útil es mirar el programa del mes antes de planear la visita: los ciclos suelen ser de pocas sesiones y a una hora fija. Combina la sesión de tarde con un paseo por el centro y una cena cerca de la Plaza Mayor."
+      faq:
+        - p: "¿Qué es la Filmoteca de Castilla y León?"
+          r: "El archivo cinematográfico de la comunidad, que además programa ciclos de cine, sesiones de películas restauradas y actividades de difusión en varias ciudades, entre ellas Salamanca."
+        - p: "¿Qué tipo de cine proyecta?"
+          r: "Clásicos, cine de autor, documentales, cortometrajes y copias restauradas. Es una programación distinta de la comercial."
+        - p: "¿Dónde se ven las sesiones en Salamanca?"
+          r: "En varios espacios de la ciudad, como el Teatro Juan del Enzina y el Teatro Liceo, según el ciclo. Consulta el lugar exacto de cada sesión en el programa del mes."
+        - p: "¿Cuánto cuesta y hay que reservar?"
+          r: "Precios, horarios y condiciones de acceso cambian según la sesión y el ciclo. Consúltalos siempre en la programación oficial."
+        - p: "¿Es buen plan con niños?"
+          r: "Depende de la película: la programación es sobre todo para público adulto. Revisa la calificación de cada sesión antes de ir."

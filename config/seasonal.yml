@@ -2129,3 +2129,33 @@ citas:
             r: "Sí. Consulta los cortes y los horarios en la web oficial y en el ayuntamiento."
           - p: "¿Qué tiempo hace en diciembre en Málaga?"
             r: "Suele ser suave, aunque puede haber lluvia o viento. Lleva ropa por capas."
+  - id: semana-legumbres-salamanca
+    regla: { tipo: fija, inicio: "11-03", fin: "11-08" }
+    aprox: true
+    temas: [gastronomia, fiestas]
+    lugar: { provincia: "Salamanca", municipio: "Salamanca" }
+    fuente: "https://www.tribunasalamanca.com/noticias/464046/seis-dias-para-saborear-las-legumbres-en-salamanca-talleres-rutas-y-cocina-en-directo"
+    es: { titulo: "Semana de las Legumbres de Salamanca", resumen: "Seis días de noviembre con demostraciones de cocina en los mercados, talleres, dos rutas de restaurantes y un concurso de recetas para aficionados." }
+    en: { titulo: "Salamanca Legume Week", resumen: "Six days in November with cooking demonstrations in the markets, workshops, two restaurant routes and a recipe contest for amateur cooks." }
+    relacionados: [semana-santa-salamanca, salamanca-un-dia, llaves-de-la-ciudad-salamanca]
+    contenido:
+      es:
+        texto:
+          - "La Semana de las Legumbres de Salamanca es una cita de comienzos de noviembre para descubrir nuevas formas de cocinar lentejas, garbanzos y otras legumbres y para probarlas en los restaurantes de la ciudad. La décima edición, en 2026, fue del 3 al 8 de noviembre, con muchas actividades gratuitas."
+          - "El programa mezcla demostraciones de cocina en directo en los mercados municipales, talleres de cocina por la tarde, un paseo gastronómico inaugural y actividades familiares, entre ellas un taller sobre las legumbres locales poco conocidas. Uno de los días suele cerrar con una legumbrada popular con lentejas guisadas al estilo tradicional."
+          - "Dos rutas gastronómicas corren en paralelo durante toda la semana: una por los establecimientos hosteleros de la ciudad que incorporan las legumbres a sus propuestas y otra por los restaurantes del Barrio del Oeste. Es una buena forma de probar platos distintos sin organizar nada especial."
+          - "La semana incluye además un concurso de recetas para personas que no son profesionales de la cocina, en el que se valoran la originalidad, la presentación y el uso de ingredientes locales. Las bases, los plazos y la forma de participar los publica cada año el Ayuntamiento: consúltalos en el programa oficial."
+          - "Las fechas, los horarios, los mercados y los restaurantes participantes cambian de una edición a otra, así que las de esta ficha son orientativas. Mira el programa oficial del año antes de organizar la visita."
+        faq:
+          - p: "¿Cuándo es la Semana de las Legumbres de Salamanca?"
+            r: "A comienzos de noviembre. La edición de 2026, la décima, fue del 3 al 8 de noviembre. Las fechas de otros años son orientativas hasta que se publique el programa."
+          - p: "¿Es gratis?"
+            r: "Buena parte de las actividades son gratuitas, como las demostraciones en los mercados, pero la comida en los restaurantes de la ruta se paga en cada local. Consulta el programa oficial para saber qué actividades requieren inscripción."
+          - p: "¿Qué rutas gastronómicas hay?"
+            r: "Dos: una por establecimientos de toda la ciudad y otra por el Barrio del Oeste, durante los seis días de la semana."
+          - p: "¿Dónde son las demostraciones de cocina?"
+            r: "En los mercados municipales de Salamanca. Cada edición indica qué mercado acoge cada día."
+          - p: "¿Puede participar cualquiera en el concurso de recetas?"
+            r: "Está dirigido a personas que no son profesionales de la cocina. Las bases y el plazo se publican cada año en el programa oficial del Ayuntamiento."
+          - p: "¿Es buen plan con niños?"
+            r: "Sí, hay actividades familiares, como talleres para pequeños. Mira el programa para saber cuáles."
