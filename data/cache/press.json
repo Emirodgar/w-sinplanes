@@ -42,13 +42,6 @@
   "publicado": "2026-10-23",
   "es_plan": false
  },
- "f3e5bf0776": {
-  "url": "https://www.europapress.es/cultura/libros-00132/noticia-arco-premio-nacional-historia-ley-nietosnunca-podran-demostrar-salieron-espana-hambre-20261019191005.html",
-  "fuente": "Europa Press (Cultura)",
-  "src": "prensa-europapress-cultura",
-  "publicado": "2026-10-19",
-  "es_plan": false
- },
  "4436135be2": {
   "url": "https://www.20minutos.es/cultura/controvertido-ricky-gervais-actuara-27-febrero-badalona-unica-fecha-espana-con-su-nuevo-espectaculo-legend_7050581_0.html",
   "fuente": "20minutos (Cultura)",
@@ -75,27 +68,6 @@
   ],
   "a_cubierto": true,
   "confianza": 0.93
- },
- "2c51392745": {
-  "url": "https://www.20minutos.es/musica/quien-es-tyler-the-creator-artista-estadounidense-patrocinara-camiseta-fc-barcelona-clasico_7049815_0.html",
-  "fuente": "20minutos (Cultura)",
-  "src": "prensa-20minutos-cultura",
-  "publicado": "2026-10-19",
-  "es_plan": false
- },
- "621a944a58": {
-  "url": "https://www.20minutos.es/cultura/blogs/motel-margot/nueva-novela-andrea-abreu-pajaritos-prenados_7046257_0.html",
-  "fuente": "20minutos (Cultura)",
-  "src": "prensa-20minutos-cultura",
-  "publicado": "2026-10-19",
-  "es_plan": false
- },
- "9947e9af8c": {
-  "url": "https://www.20minutos.es/cultura/tres-irresponsables-okupando-un-chale-manuela-malasana_7047969_0.html",
-  "fuente": "20minutos (Cultura)",
-  "src": "prensa-20minutos-cultura",
-  "publicado": "2026-10-19",
-  "es_plan": false
  },
  "ddaac16056": {
   "url": "https://elpais.com/cultura/2026-10-20/virginie-despentes-escritora-que-pasa-con-la-sexualidad-heterosexual-para-que-sea-tan-mortifera-rabiosa-y-siniestra.html",
@@ -131,39 +103,11 @@
   "a_cubierto": true,
   "confianza": 0.8
  },
- "ac29c32b65": {
-  "url": "https://elpais.com/cultura/2026-10-19/aun-quedan-cosas-por-descubrir-de-dali-en-el-thyssen-pero-no-se-olvide-de-pedir-cita-con-el-psiquiatra-a-la-salida.html",
-  "fuente": "El País (Cultura)",
-  "src": "prensa-elpais-cultura",
-  "publicado": "2026-10-19",
-  "es_plan": false
- },
  "60bd973962": {
   "url": "https://elpais.com/espana/catalunya/2026-10-20/el-macba-dedicara-una-exposicion-al-plan-de-narcis-serra-y-pasqual-maragall-que-transformo-el-raval.html",
   "fuente": "El País (Cultura)",
   "src": "prensa-elpais-cultura",
   "publicado": "2026-10-20",
-  "es_plan": false
- },
- "0096906993": {
-  "url": "https://elpais.com/cultura/cine/2026-10-19/la-mujer-que-oso-llevar-a-bolano-al-cine-alicia-scherson-adapta-el-tercer-reich-en-guerra-de-verano.html",
-  "fuente": "El País (Cultura)",
-  "src": "prensa-elpais-cultura",
-  "publicado": "2026-10-19",
-  "es_plan": false
- },
- "f1f6121f2c": {
-  "url": "https://elpais.com/cultura/2026-10-19/woody-allen-enaltece-el-museo-del-prado-en-nueva-york-no-hay-nada-asi.html",
-  "fuente": "El País (Cultura)",
-  "src": "prensa-elpais-cultura",
-  "publicado": "2026-10-19",
-  "es_plan": false
- },
- "82a641cf2f": {
-  "url": "https://elpais.com/cultura/2026-10-19/la-opera-mas-grandiosa-en-el-teatro-mas-diminuto.html",
-  "fuente": "El País (Cultura)",
-  "src": "prensa-elpais-cultura",
-  "publicado": "2026-10-19",
   "es_plan": false
  },
  "4d5911ce69": {
@@ -247,13 +191,6 @@
   "a_cubierto": true,
   "confianza": 0.82
  },
- "fbfce75c57": {
-  "url": "https://elpais.com/cultura/branded/faro-santander/2026-10-19/lo-que-pasa-cuando-se-empuja-a-los-creadores.html",
-  "fuente": "El País (Cultura)",
-  "src": "prensa-elpais-cultura",
-  "publicado": "2026-10-19",
-  "es_plan": false
- },
  "96e27b34ef": {
   "url": "https://www.lavanguardia.com/cultura/20261020/11663076/estopa-sumerios-trabajadores-mcdonald-s-son-mas-importantes.html",
   "fuente": "La Vanguardia (Cultura)",
@@ -295,62 +232,6 @@
   "a_cubierto": true,
   "confianza": 0.62
  },
- "e78bf156e6": {
-  "url": "https://www.lavanguardia.com/cultura/20261019/11662961/museo-thyssen-muestra-obsesion-dali-freud-como-este-transformo-toda-obra.html",
-  "fuente": "La Vanguardia (Cultura)",
-  "src": "prensa-lavanguardia-cultura",
-  "publicado": "2026-10-19",
-  "es_plan": false
- },
- "b4ec40b681": {
-  "url": "https://www.lavanguardia.com/cultura/20261019/11659116/mujeres-mundo-rural-urbanitas-confrontan-vivencias-tros-dona.html",
-  "fuente": "La Vanguardia (Cultura)",
-  "src": "prensa-lavanguardia-cultura",
-  "publicado": "2026-10-19",
-  "es_plan": false
- },
- "fa5c8c30f1": {
-  "url": "https://www.lavanguardia.com/cultura/20261019/11662861/mossos-reciben-60-denuncias-presunta-venta-entradas-falsas-oques-grasses.html",
-  "fuente": "La Vanguardia (Cultura)",
-  "src": "prensa-lavanguardia-cultura",
-  "publicado": "2026-10-19",
-  "es_plan": false
- },
- "4a3df98416": {
-  "url": "https://www.lavanguardia.com/cultura/20261019/11662597/vuelve-fiesta-cine-entradas-3-50-euros-jueves-ver-ultimas-peliculas.html",
-  "fuente": "La Vanguardia (Cultura)",
-  "src": "prensa-lavanguardia-cultura",
-  "publicado": "2026-10-19",
-  "es_plan": false
- },
- "2478871cad": {
-  "url": "https://www.lavanguardia.com/cultura/20261019/11662427/perejaume-recurre-mar-celebrar-150-centre-excursionista-catalunya.html",
-  "fuente": "La Vanguardia (Cultura)",
-  "src": "prensa-lavanguardia-cultura",
-  "publicado": "2026-10-19",
-  "es_plan": false
- },
- "f759c54edb": {
-  "url": "https://www.lavanguardia.com/cultura/20261019/11662118/diane-jobson-abogada-rasta-pobres-jamaica-amiga-intima-bob-marley.html",
-  "fuente": "La Vanguardia (Cultura)",
-  "src": "prensa-lavanguardia-cultura",
-  "publicado": "2026-10-19",
-  "es_plan": false
- },
- "5949b05c93": {
-  "url": "https://www.lavanguardia.com/cultura/20261019/11660876/comedia-catalana-lucha-conquistar-espacio-industria-cultural-festival-hilaria.html",
-  "fuente": "La Vanguardia (Cultura)",
-  "src": "prensa-lavanguardia-cultura",
-  "publicado": "2026-10-19",
-  "es_plan": false
- },
- "c3b0e249ff": {
-  "url": "https://www.lavanguardia.com/cultura/20261019/11660026/cine-corona-himalaya.html",
-  "fuente": "La Vanguardia (Cultura)",
-  "src": "prensa-lavanguardia-cultura",
-  "publicado": "2026-10-19",
-  "es_plan": false
- },
  "b6a7534a40": {
   "url": "https://www.lavanguardia.com/cultura/20261018/11661512/dolores-redondo-novela-noches-entrevista.html",
   "fuente": "La Vanguardia (Cultura)",
@@ -378,13 +259,6 @@
   "a_cubierto": null,
   "confianza": 0.88
  },
- "4f72607d3c": {
-  "url": "https://www.ara.cat/cultura/teatre/diran-militant-tens-mala-hostia-no-facis-cas-carme-portaceli_128_5880769.html",
-  "fuente": "Ara (Cultura)",
-  "src": "prensa-ara-cultura",
-  "publicado": "2026-10-19",
-  "es_plan": false
- },
  "27544069fe": {
   "url": "https://www.ara.cat/cultura/arquitectura/48h-open-house-barcelona-2026-10-edificis-t-agradara-visitar_1_5880841.html",
   "fuente": "Ara (Cultura)",
@@ -411,13 +285,6 @@
   ],
   "a_cubierto": null,
   "confianza": 0.92
- },
- "0d53758fb3": {
-  "url": "https://llegim.ara.cat/entrevistes/alessandro-baricco-no-oblidar-totes-coses-bones-nomes-perque-existeixin-feixistes_128_5879756.html",
-  "fuente": "Ara (Cultura)",
-  "src": "prensa-ara-cultura",
-  "publicado": "2026-10-19",
-  "es_plan": false
  },
  "13265cab57": {
   "url": "https://www.ara.cat/cultura/fotografia/l-artista-oscar-munoz-encapcala-jornades-fotografia-l-iefc_25_5883486.html",
@@ -472,13 +339,6 @@
   ],
   "a_cubierto": false,
   "confianza": 0.86
- },
- "0798685dbf": {
-  "url": "https://www.ara.cat/media/3cat-aborda-dilemes-reproduccio-assistida-serie-in-vitro_1_5880804.html",
-  "fuente": "Ara (Cultura)",
-  "src": "prensa-ara-cultura",
-  "publicado": "2026-10-19",
-  "es_plan": false
  },
  "b3bf263c83": {
   "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/20/victor-manuel-tras-cumplir-79anos-sabina-queria-dejarlo-desde-hace-tiempo-se-serrat-echa-menos-escenario-pero-estoy-plena-forma-2040835.html",
@@ -548,116 +408,11 @@
   "a_cubierto": true,
   "confianza": 0.66
  },
- "e4d5af7b42": {
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/19/desfile-victorias-secret-angeles-kylie-jenner-sujetador-2060979.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-10-19",
-  "es_plan": false
- },
- "1bdb4ec1a1": {
-  "url": "https://www.heraldo.es/ocio-y-cultura/lenceria-plumas-modelos-kylie-jenner-desfile-victorias-secret-angeles-2061045-1.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-10-19",
-  "es_plan": false
- },
- "dd134a6e61": {
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/19/netflix-anuncia-retransmitira-velada-ano-proximos-tres-anos-ibai-llanos-2060912.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-10-19",
-  "es_plan": false
- },
- "6ea10b8116": {
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/19/kaia-gerber-homenaje-hermano-presley-cindy-crawford-2060839.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-10-19",
-  "es_plan": false
- },
- "5ef51486c2": {
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/19/accidente-camion-caballos-diego-ventura-regreso-feria-pilar-zaragoza-2060786.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-10-19",
-  "es_plan": false
- },
- "7f779eb054": {
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/19/curiosas-imagenes-elenco-bola-negra-junto-estrellas-hollywood-academy-museum-gala-2060785.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-10-19",
-  "es_plan": false
- },
- "fe0341f743": {
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/19/abuela-los-problemas-crecen-betty-mcguire-muere-los-100-anos-2060790.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-10-19",
-  "es_plan": false
- },
- "4099fa033f": {
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/19/vuelve-fiesta-cine-zaragoza-entradas-largo-cuatro-dias-salas-participan-2054367.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-10-19",
-  "es_plan": false
- },
- "932d21007d": {
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/19/svetlana-alexsievich-libro-que-trabajo-ahora-heroe-es-alguien-corriente-2060674.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-10-19",
-  "es_plan": false
- },
- "f4050d3df7": {
-  "url": "https://www.elnortedecastilla.es/culturas/musica/siete-conciertos-acercaran-musica-contemporanea-segovia-20261019114606-nt.html",
-  "fuente": "El Norte de Castilla (Culturas)",
-  "src": "prensa-nortecastilla-culturas",
-  "publicado": "2026-10-19",
-  "es_plan": false
- },
- "1f6bd152e0": {
-  "url": "https://www.elnortedecastilla.es/culturas/musica/union-dos-genios-20261019105806-nt.html",
-  "fuente": "El Norte de Castilla (Culturas)",
-  "src": "prensa-nortecastilla-culturas",
-  "publicado": "2026-10-19",
-  "es_plan": false
- },
- "9d5e7614ed": {
-  "url": "https://www.elnortedecastilla.es/culturas/libros/emigracion-espanola-europa-sesenta-era-ilegal-20261019065458-nt.html",
-  "fuente": "El Norte de Castilla (Culturas)",
-  "src": "prensa-nortecastilla-culturas",
-  "publicado": "2026-10-19",
-  "es_plan": false
- },
  "8265e7796f": {
   "url": "https://www.diariosur.es/culturas/toros-malaga-gran-noche-tauromaquia-templo-cultura-malaga-20261019230107-di.html",
   "fuente": "Diario Sur (Culturas)",
   "src": "prensa-diariosur-culturas",
   "publicado": "2026-10-20",
-  "es_plan": false
- },
- "39ab4294d1": {
-  "url": "https://www.diariosur.es/culturas/cine/razones-amar-cine-terror-malaga-20261019153722-nt.html",
-  "fuente": "Diario Sur (Culturas)",
-  "src": "prensa-diariosur-culturas",
-  "publicado": "2026-10-19",
-  "es_plan": false
- },
- "7d9ea1b0f8": {
-  "url": "https://www.diariosur.es/culturas/marvel-vuelve-malaga-vengadores-doomsday-convierte-teatro-20261019125331-nt.html",
-  "fuente": "Diario Sur (Culturas)",
-  "src": "prensa-diariosur-culturas",
-  "publicado": "2026-10-19",
-  "es_plan": false
- },
- "ac3e3341ea": {
-  "url": "https://www.ideal.es/culturas/almeria/guajira-acoge-primer-proyecto-fotografico-almeriense-irene-20261019182125-nt.html",
-  "fuente": "Ideal (Culturas)",
-  "src": "prensa-ideal-culturas",
-  "publicado": "2026-10-19",
   "es_plan": false
  },
  "08259e3a14": {
@@ -686,27 +441,6 @@
   ],
   "a_cubierto": true,
   "confianza": 0.94
- },
- "8298368a65": {
-  "url": "https://www.ideal.es/culturas/almeria/almeria-convertira-escaparate-internacional-flamenco-contemporaneo-flamencoene-20261019180519-nt.html",
-  "fuente": "Ideal (Culturas)",
-  "src": "prensa-ideal-culturas",
-  "publicado": "2026-10-19",
-  "es_plan": false
- },
- "29d8554162": {
-  "url": "https://www.ideal.es/culturas/almeria/asociacion-filarmonica-almeria-presenta-temporada-llena-artistas-20261019175237-nt.html",
-  "fuente": "Ideal (Culturas)",
-  "src": "prensa-ideal-culturas",
-  "publicado": "2026-10-19",
-  "es_plan": false
- },
- "aab33693b1": {
-  "url": "https://www.ideal.es/culturas/cante-parron-lorca-091-tres-citas-granada-20261019174608-nt.html",
-  "fuente": "Ideal (Culturas)",
-  "src": "prensa-ideal-culturas",
-  "publicado": "2026-10-19",
-  "es_plan": false
  },
  "15c61cc0e2": {
   "url": "https://www.ideal.es/culturas/hocus-pocus-celebra-bodas-plata-increible-20261019142838-nt.html",
@@ -743,27 +477,6 @@
   "publicado": "2026-10-20",
   "es_plan": false
  },
- "1e4bea4838": {
-  "url": "https://www.elcorreo.com/culturas/cine/the-last-estrena-nueva-protagonista-giro-180-20261019173957-nt.html",
-  "fuente": "El Correo (Culturas)",
-  "src": "prensa-elcorreo-culturas",
-  "publicado": "2026-10-19",
-  "es_plan": false
- },
- "6c0711b69a": {
-  "url": "https://www.elcorreo.com/culturas/musica/reflexiones-melendi-segundo-concierto-bec-miedo-multiplicado-20261019015923-nt.html",
-  "fuente": "El Correo (Culturas)",
-  "src": "prensa-elcorreo-culturas",
-  "publicado": "2026-10-19",
-  "es_plan": false
- },
- "59c1ffb3f0": {
-  "url": "https://www.elcorreo.com/culturas/musica/cancelada-gira-europea-karol-cantante-colombiana-responde-20261019083816-nt.html",
-  "fuente": "El Correo (Culturas)",
-  "src": "prensa-elcorreo-culturas",
-  "publicado": "2026-10-19",
-  "es_plan": false
- },
  "1f8be9a4a3": {
   "url": "https://www.diariovasco.com/culturas/musica/anastacia-voz-negra-conquisto-europa-contracorriente-20261020001011-nt.html",
   "fuente": "El Diario Vasco (Culturas)",
@@ -776,13 +489,6 @@
   "fuente": "El Diario Vasco (Culturas)",
   "src": "prensa-diariovasco-culturas",
   "publicado": "2026-10-20",
-  "es_plan": false
- },
- "714afb9128": {
-  "url": "https://www.diariovasco.com/culturas/musica/peiremans-concierto-grupo-tributo-real-sociedad-20261019180345-nt.html",
-  "fuente": "El Diario Vasco (Culturas)",
-  "src": "prensa-diariovasco-culturas",
-  "publicado": "2026-10-19",
   "es_plan": false
  },
  "c15be92fb5": {
@@ -839,13 +545,6 @@
   "a_cubierto": true,
   "confianza": 0.66
  },
- "7e47c47fa7": {
-  "url": "https://www.diariovasco.com/culturas/musica/5050-cumpleanos-siglo-donostia-20261019000813-nt.html",
-  "fuente": "El Diario Vasco (Culturas)",
-  "src": "prensa-diariovasco-culturas",
-  "publicado": "2026-10-19",
-  "es_plan": false
- },
  "4ae4ab5bed": {
   "url": "https://www.lasprovincias.es/culturas/tv/programacion-television-martes-peliculas-tdt--20261019120723-nt.html",
   "fuente": "Las Provincias (Culturas)",
@@ -858,27 +557,6 @@
   "fuente": "Las Provincias (Culturas)",
   "src": "prensa-lasprovincias-culturas",
   "publicado": "2026-10-20",
-  "es_plan": false
- },
- "e770d44388": {
-  "url": "https://www.lasprovincias.es/culturas/musica/bad-gyal-primera-artista-zevra-2027-20261019170242-nt.html",
-  "fuente": "Las Provincias (Culturas)",
-  "src": "prensa-lasprovincias-culturas",
-  "publicado": "2026-10-19",
-  "es_plan": false
- },
- "e4f42c75c5": {
-  "url": "https://www.lasprovincias.es/culturas/cine/cine-valenciano-mostra-20261019142058-nt.html",
-  "fuente": "Las Provincias (Culturas)",
-  "src": "prensa-lasprovincias-culturas",
-  "publicado": "2026-10-19",
-  "es_plan": false
- },
- "6b150dfb13": {
-  "url": "https://www.lasprovincias.es/culturas/musica/alex-conde-casa-siempre-escuchado-camaron-paco-20261015005928-nt.html",
-  "fuente": "Las Provincias (Culturas)",
-  "src": "prensa-lasprovincias-culturas",
-  "publicado": "2026-10-19",
   "es_plan": false
  },
  "c963a1a125": {
@@ -935,13 +613,6 @@
   ],
   "a_cubierto": null,
   "confianza": 0.9
- },
- "a28a445585": {
-  "url": "https://www.laverdad.es/culturas/musica/conseguido-oreja-van-gogh-alcance-pocas-bandas-20261019170513-nt.html",
-  "fuente": "La Verdad (Culturas)",
-  "src": "prensa-laverdad-culturas",
-  "publicado": "2026-10-19",
-  "es_plan": false
  },
  "ccc30c762d": {
   "url": "https://www.eldiariomontanes.es/culturas/procesos-trabajo-chelo-matesanz-asoman-palacete-20261018104956-nt.html",
@@ -1024,13 +695,6 @@
   "a_cubierto": null,
   "confianza": 0.6
  },
- "d03052ac9a": {
-  "url": "https://www.elcomercio.es/culturas/cine/imagenes-garcia-marina-dan-identidad-festival-cine-20261019200218-nt.html",
-  "fuente": "El Comercio (Culturas)",
-  "src": "prensa-elcomercio-culturas",
-  "publicado": "2026-10-19",
-  "es_plan": false
- },
  "a3a8cff4d8": {
   "url": "https://www.elcomercio.es/culturas/arte/tempestad-avelino-sala-instala-laboral-centro-arte-20261017215302-nt.html",
   "fuente": "El Comercio (Culturas)",
@@ -1085,13 +749,6 @@
   "a_cubierto": true,
   "confianza": 0.9
  },
- "86ea74fd02": {
-  "url": "https://www.larioja.com/culturas/hotel-actual-abrira-habitaciones-artistas-20261020211813-nt.html",
-  "fuente": "La Rioja (Culturas)",
-  "src": "prensa-larioja-culturas",
-  "publicado": "2026-10-19",
-  "es_plan": false
- },
  "514d333fab": {
   "url": "https://www.elprogreso.es/articulo/espana/carrera-29n-directo/202610200842552007522.html",
   "fuente": "El Progreso (Lugo)",
@@ -1118,20 +775,6 @@
   "fuente": "El Progreso (Lugo)",
   "src": "prensa-elprogreso",
   "publicado": "2026-10-20",
-  "es_plan": false
- },
- "ab7a011956": {
-  "url": "https://www.elprogreso.es/articulo/agenda/agenda-%F0%9F%93%86-martes-lugo/202610192105352007465.html",
-  "fuente": "El Progreso (Lugo)",
-  "src": "prensa-elprogreso",
-  "publicado": "2026-10-19",
-  "es_plan": false
- },
- "17c1cfd79b": {
-  "url": "https://www.elprogreso.es/articulo/ribeira-sacra/fotos-naturalidad-cancer-mama-hospital-comarcal-monforte/202610192033142007464.html",
-  "fuente": "El Progreso (Lugo)",
-  "src": "prensa-elprogreso",
-  "publicado": "2026-10-19",
   "es_plan": false
  },
  "16ed03c155": {
