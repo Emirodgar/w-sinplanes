@@ -287,7 +287,7 @@
    "news": [
     "Davidovich se borra de París por la espalda y sólo piensa en la Copa Davis",
     "Davidovich se baja a última hora de París por problemas en su espalda",
-    "Davidovich, baja de última hora en París: adiós definitivo a las ATP Finals y peligra la Copa Davis"
+    "Davidovich causa baja en París con nuevas molestias en la espalda"
    ]
   },
   {
@@ -295,9 +295,19 @@
    "traffic": 5000,
    "lastSeen": "2026-11-03",
    "news": [
-    "Un temblor de magnitud 5,6 sacude Colombia de madrugada",
-    "Temblor hoy en Colombia con epicentro en Tolima se sintió en Medellín y el Valle de Aburrá | El Colombiano",
+    "Colombia registra un temblor de magnitud 5,6 en el centro del país",
+    "Un herido y daños materiales en iglesia de Quindío: primer balance tras temblor de 5,6 | El Colombiano",
     "Fuerte temblor hoy en Colombia: sismo de magnitud 5.6 sacude al país en la madrugada de este 3 de noviembre"
+   ]
+  },
+  {
+   "term": "gavi",
+   "traffic": 5000,
+   "lastSeen": "2026-11-03",
+   "news": [
+    "El Barça cierra la puerta a Gavi",
+    "El calvario de Gavi en el Barça: Flick no confía en él ni para dar descanso a los centrocampistas titulares",
+    "Los casos pendientes"
    ]
   },
   {
@@ -590,16 +600,6 @@
    ]
   },
   {
-   "term": "gavi",
-   "traffic": 2000,
-   "lastSeen": "2026-11-03",
-   "news": [
-    "El Barça cierra la puerta a Gavi",
-    "El calvario de Gavi en el Barça: Flick no confía en él ni para dar descanso a los centrocampistas titulares",
-    "Los casos pendientes"
-   ]
-  },
-  {
    "term": "honda africa twin",
    "traffic": 2000,
    "lastSeen": "2026-11-03",
@@ -607,6 +607,16 @@
     "Honda presenta la CRF1150L Africa Twin Enduro Sports 2027",
     "Más todoterreno que nunca, irrompible como siempre, con 119 CV, la Africa Twin se renueva de los pies a la cabeza con un arsenal tecnológico",
     "Honda evoluciona la saga Africa Twin con mayor asistencia a la conducción y nueva versión off-road"
+   ]
+  },
+  {
+   "term": "terremoto sismo temblor hoy epicentro",
+   "traffic": 2000,
+   "lastSeen": "2026-11-03",
+   "news": [
+    "Dos fuertes terremotos hacen temblar la provincia de Almería en Huércal-Overa",
+    "Evento sísmico, posible sismo, reportado hace unos 10 minutos cerca de Huercal-Overa, Andalucía, España",
+    "Dos terremotos de magnitud 2,1 y 2,2 sacuden el entorno de Huércal-Overa en menos de dos horas"
    ]
   },
   {
@@ -996,13 +1006,13 @@
    ]
   },
   {
-   "term": "terremoto sismo temblor hoy epicentro",
+   "term": "guillermo furiase",
    "traffic": 1000,
    "lastSeen": "2026-11-03",
    "news": [
-    "Significativo sismo de magnitud 5.1 sacude la zona de Asahi (Asahi Shi, Prefectura de Chiba)",
-    "Terremoto en Japón hoy cerca de Tokio: magnitud, epicentro y si hay alerta de tsunami",
-    "🚨 #AlMomento | Terremoto de magnitud 7 sacude islas al sur de Tokio; descartan alerta de tsunami https://mile.io/4ieD6SG"
+    "Guillermo Furiase, hijo de Lolita: “Siempre dicen que soy el desconocido de los Flores y me gusta serlo porque soy muy íntimo con mi vida y de enchufes nada\"",
+    "Guillermo Furiase: \"La gente se piensa que por nacer en la familia Flores no hacemos la cola, pero es al revés\"",
+    "Guillermo Furiase, actor: “Entreno todos los días, también por una cuestión de salud mental, de despejarme. Soy el único de los Flores que hace deporte”"
    ]
   },
   {
@@ -1562,9 +1572,19 @@
    "traffic": 500,
    "lastSeen": "2026-11-03",
    "news": [
-    "Almudena Ariza, sobre trabajar en Israel: \"El lobby sionista busca derrumbarte y desacreditarte\"",
     "Almudena Ariza, periodista: “El ‘lobby’ sionista pedía mi cabeza por hacer periodismo”",
-    "Almudena Ariza: el oficio de contar el mundo | Sigue en directo 'El Meollo'"
+    "Almudena Ariza: el oficio de contar el mundo | Sigue en directo 'El Meollo'",
+    "Almudena Ariza, sobre trabajar en Israel: \"El lobby sionista busca derrumbarte y desacreditarte\""
+   ]
+  },
+  {
+   "term": "el bierzo",
+   "traffic": 500,
+   "lastSeen": "2026-11-03",
+   "news": [
+    "Algo se mueve en El Bierzo «y hay que estudiarlo»",
+    "Un nuevo terremoto de magnitud 2,0 se deja sentir en el sureste del Bierzo",
+    "El IGN detecta un nuevo terremoto con epicentro cerca de Borrenes"
    ]
   },
   {
@@ -2544,23 +2564,13 @@
    ]
   },
   {
-   "term": "el bierzo",
-   "traffic": 200,
-   "lastSeen": "2026-11-03",
-   "news": [
-    "Algo se mueve en El Bierzo «y hay que estudiarlo»",
-    "Un nuevo terremoto de magnitud 2,0 se deja sentir en el sureste del Bierzo",
-    "Nuevo terremoto de magnitud 2 registrado en la comarca de El Bierzo (León), con epicentro al sureste de Borrenes"
-   ]
-  },
-  {
    "term": "energía",
    "traffic": 200,
    "lastSeen": "2026-11-03",
    "news": [
     "Red Eléctrica niega una inestabilidad crónica en el suministro de energía",
-    "Lee da la bienvenida a Erdogan para una reunión que busca fortalecer las relaciones económicas",
-    "Corea del Sur y Turquía refuerzan la cooperación nuclear y en minerales críticos"
+    "La globalización se resquebraja por varias costuras: de la energía y la IA al comercio y el capital",
+    "GasIndustrial reclama al próximo Gobierno medidas urgentes y el estatuto del consumidor gasintensivo"
    ]
   },
   {

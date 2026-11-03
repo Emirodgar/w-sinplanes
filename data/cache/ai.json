@@ -1,4 +1,36 @@
 {
+ "1088413571": {
+  "id": "353c405092",
+  "es": {
+   "titulo": "Cuentacuentos en inglés 'Stone soup' con Mamen Storyteller",
+   "resumen": "Sesión de cuentacuentos en inglés para niños a partir de 4 años en la Biblioteca María Lejárraga de Madrid. Una actividad lúdica para familiarizarse con el idioma."
+  },
+  "en": {
+   "titulo": "English Storytelling 'Stone Soup' with Mamen Storyteller",
+   "resumen": "English storytelling session for children aged 4+ at the María Lejárraga Municipal Public Library in Madrid. A fun activity to get familiar with the language."
+  },
+  "temas": [
+   "ninos",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "1603191440": {
+  "id": "e69fb6077b",
+  "es": {
+   "titulo": "Cuentacuentos '¡Vamos a la granja!' con Alicia Serralle",
+   "resumen": "Disfruta de una sesión de cuentacuentos para niños de 2 a 4 años en la Biblioteca María Zambrano de Madrid. Una actividad para despertar la imaginación y el amor por los libros."
+  },
+  "en": {
+   "titulo": "Storytelling 'Let's Go to the Farm!' with Alicia Serralle",
+   "resumen": "Enjoy a storytelling session for children aged 2 to 4 at the María Zambrano Municipal Public Library in Madrid. An activity to awaken imagination and love for books."
+  },
+  "temas": [
+   "ninos",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
  "1723011224": {
   "id": "6f5e5a8232",
   "es": {
@@ -20813,6 +20845,1516 @@
   },
   "temas": [
    "libros",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "ecc9483e56": {
+  "id": "d4a004efb1",
+  "es": {
+   "titulo": "Concierto: 'Ciencia en cada Nota'",
+   "resumen": "La Escuela de Música 'Antón García Abril' presenta un concierto con profesores y alumnos que recorrerá las bandas sonoras más icónicas del cine de ciencia ficción. Una experiencia donde la música transformará los misterios del universo en emoción."
+  },
+  "en": {
+   "titulo": "Concert: 'Science in Every Note'",
+   "resumen": "The 'Antón García Abril' Music School presents a concert featuring teachers and students, exploring iconic science fiction film soundtracks. An experience where music transforms the universe's mysteries into emotion."
+  },
+  "temas": [
+   "musica",
+   "pantalla"
+  ],
+  "a_cubierto": true
+ },
+ "c4c7634712": {
+  "id": "eaccf5dab5",
+  "es": {
+   "titulo": "Presentación del libro 'El Quijote' con Jesús G. Maestro",
+   "resumen": "Se presenta una edición de lujo de 'El ingenioso hidalgo don Quijote de la Mancha', recuperando la rigurosa edición de Francisco Rodríguez Marín. Incluye un prólogo inédito de Jesús G. Maestro, experto en Cervantes."
+  },
+  "en": {
+   "titulo": "Book Presentation: 'Don Quixote' with Jesús G. Maestro",
+   "resumen": "A luxury edition of 'The Ingenious Gentleman Don Quixote of La Mancha' is presented, featuring the rigorous edition by Francisco Rodríguez Marín. It includes a new prologue by Cervantes expert Jesús G. Maestro."
+  },
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "b543f95ed1": {
+  "id": "58070d15dc",
+  "es": {
+   "titulo": "Conferencia: 'Cosas de mujeres' en la Antigua Roma",
+   "resumen": "Paco Álvarez ofrecerá una charla sobre la vida de las mujeres en la Antigua Roma, explorando sus derechos, desafíos y su papel social, desmitificando tópicos y mostrando sus similitudes con las inquietudes actuales."
+  },
+  "en": {
+   "titulo": "Lecture: 'Women's Affairs' in Ancient Rome",
+   "resumen": "Paco Álvarez will discuss the lives of women in Ancient Rome, exploring their rights, challenges, and social roles, debunking myths and highlighting their similarities to modern concerns."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "6b9e9f232f": {
+  "id": "4dfa4b7b3a",
+  "es": {
+   "titulo": "Concierto 'El peluquero y su guitarra'",
+   "resumen": "Eladio Bies ofrecerá un concierto de música en la Asociación de Amigos de los Jardines del Buen Retiro. Se repartirán entradas una hora antes del evento hasta completar aforo."
+  },
+  "en": {
+   "titulo": "Concert 'The Hairdresser and His Guitar'",
+   "resumen": "Eladio Bies will perform a music concert at the Association of Friends of the Gardens of Buen Retiro. Tickets will be distributed one hour prior to the event until full capacity."
+  },
+  "temas": [
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "838d73da0a": {
+  "id": "a85cba4629",
+  "es": {
+   "titulo": "Escenario Joven: Jóvenes talentos musicales",
+   "resumen": "El Centro Superior Katarina Gurska presenta un proyecto musical con sus alumnos más destacados, ofreciendo una variada muestra de estilos e instrumentaciones en música de cámara y solista."
+  },
+  "en": {
+   "titulo": "Young Stage: Young Musical Talents",
+   "resumen": "The Katarina Gurska Higher Center presents a musical project featuring its most outstanding students, showcasing a diverse range of styles and instrumentations in chamber and solo music."
+  },
+  "temas": [
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "72821194a2": {
+  "id": "53306eff96",
+  "es": {
+   "titulo": "Madrid Distrito en Corto: 'Madrid Residencia de Talento'",
+   "resumen": "Se proyectarán 5 cortometrajes del programa 'Madrid Residencia de Talento', incluyendo 'Una Cabeza en la Pared', que narra la adaptación de un torero tras la abolición de las corridas."
+  },
+  "en": {
+   "titulo": "Madrid District in Short: 'Madrid Talent Residency'",
+   "resumen": "Five short films from the 'Madrid Talent Residency' program will be screened, including 'A Head Against the Wall,' about a bullfighter's adaptation after bullfighting is abolished."
+  },
+  "temas": [
+   "pantalla",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "12f346fca7": {
+  "id": "5fa400939d",
+  "es": {
+   "titulo": "Concierto de la Banda de Música de la Policía Municipal",
+   "resumen": "La Banda de Música de la Policía Municipal de Madrid ofrecerá un concierto con marchas, música española y éxitos internacionales, incluyendo piezas de John Williams y The Beatles."
+  },
+  "en": {
+   "titulo": "Concert by the Madrid Municipal Police Band",
+   "resumen": "The Madrid Municipal Police Band will perform a concert featuring marches, Spanish music, and international hits, including pieces by John Williams and The Beatles."
+  },
+  "temas": [
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "5f30cd4f07": {
+  "id": "b508df0bdd",
+  "es": {
+   "titulo": "Sin mirar a un lado, sin taparse los oídos, sin guardar silencio",
+   "resumen": "Evento cultural en el Centro de Cultura Contemporánea CondeDuque. Más detalles sobre el contenido específico no se proporcionan en la descripción."
+  },
+  "en": {
+   "titulo": "Without Looking Aside, Without Covering Ears, Without Keeping Silent",
+   "resumen": "A cultural event at the CondeDuque Contemporary Culture Center. Specific content details are not provided in the description."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "f2594f013a": {
+  "id": "f7e8c9c0c6",
+  "es": {
+   "titulo": "Visita al Museo del Romanticismo con taller creativo",
+   "resumen": "Se realizará una visita guiada al Museo del Romanticismo centrada en mujeres del siglo XIX, seguida de un taller creativo para explorar la época y sus testimonios."
+  },
+  "en": {
+   "titulo": "Visit to the Museum of Romanticism with Creative Workshop",
+   "resumen": "A guided tour of the Museum of Romanticism focusing on 19th-century women will be held, followed by a creative workshop to explore the era and its testimonies."
+  },
+  "temas": [
+   "museos",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "be6c72d21e": {
+  "id": "eca9ddfab7",
+  "es": {
+   "titulo": "Exposición y taller sobre biodiversidad y geología",
+   "resumen": "Visita comentada a la exposición 'Biodiversidad Doméstica. Compañeros de Piso' y taller interactivo sobre rocas, fósiles y minerales, conectando la geología con la vida diaria."
+  },
+  "en": {
+   "titulo": "Exhibition and Workshop on Biodiversity and Geology",
+   "resumen": "A guided tour of the 'Domestic Biodiversity. Flatmates' exhibition and an interactive workshop on rocks, fossils, and minerals, connecting geology with daily life."
+  },
+  "temas": [
+   "naturaleza",
+   "museos",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "403f94ed54": {
+  "id": "5a4282e01b",
+  "es": {
+   "titulo": "'La increíble historia de un agujero negro' de Iria Marcos",
+   "resumen": "Presentación del libro 'La increíble historia de un agujero negro' de Iria Marcos en la Biblioteca Pública Municipal Iván de Vargas."
+  },
+  "en": {
+   "titulo": "'The Incredible Story of a Black Hole' by Iria Marcos",
+   "resumen": "Presentation of the book 'The Incredible Story of a Black Hole' by Iria Marcos at the Iván de Vargas Municipal Public Library."
+  },
+  "temas": [
+   "libros",
+   "pantalla"
+  ],
+  "a_cubierto": true
+ },
+ "039492e58f": {
+  "id": "8fccd10f1c",
+  "es": {
+   "titulo": "Taller 'La mirada de Goya: de la pintura al grabado'",
+   "resumen": "Visita a la Ermita de San Antonio de la Florida para ver los frescos de Goya y conocer su obra como grabador. Finaliza con un taller de linograbado inspirado en sus 'ángelas'."
+  },
+  "en": {
+   "titulo": "Workshop 'Goya's Gaze: From Painting to Engraving'",
+   "resumen": "Visit to the Hermitage of San Antonio de la Florida to see Goya's frescoes and learn about his work as an engraver. Concludes with a linocut workshop inspired by his 'ángelas'."
+  },
+  "temas": [
+   "cultura",
+   "museos",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "863b1a14d2": {
+  "id": "c2baddc5be",
+  "es": {
+   "titulo": "'La Muerte como pretexto' de Susana Collado Vázquez",
+   "resumen": "Presentación del libro 'La Muerte como pretexto' de Susana Collado Vázquez en la Biblioteca Pública Municipal Iván de Vargas."
+  },
+  "en": {
+   "titulo": "'Death as a Pretext' by Susana Collado Vázquez",
+   "resumen": "Presentation of the book 'Death as a Pretext' by Susana Collado Vázquez at the Iván de Vargas Municipal Public Library."
+  },
+  "temas": [
+   "libros"
+  ],
+  "a_cubierto": true
+ },
+ "567885517c": {
+  "id": "e24effeada",
+  "es": {
+   "titulo": "Club de Lectura 'Lecturas Compartidas'",
+   "resumen": "Reunión del club de lectura 'Lecturas Compartidas' en la Biblioteca Pública Municipal María Zambrano. Se discutirán obras literarias seleccionadas."
+  },
+  "en": {
+   "titulo": "Reading Club 'Shared Readings'",
+   "resumen": "Meeting of the 'Shared Readings' book club at the María Zambrano Municipal Public Library. Selected literary works will be discussed."
+  },
+  "temas": [
+   "libros"
+  ],
+  "a_cubierto": true
+ },
+ "1a24914606": {
+  "id": "486ea9bc4c",
+  "es": {
+   "titulo": "Conferencia: 'Los problemas de la geografía antigua'",
+   "resumen": "Irene Pajón Leyra impartirá una conferencia sobre las preguntas clave de la geografía antigua, como la esfericidad de la Tierra y la relación entre clima y carácter, en el Museo de San Isidro."
+  },
+  "en": {
+   "titulo": "Lecture: 'The Problems of Ancient Geography'",
+   "resumen": "Irene Pajón Leyra will give a lecture on key questions in ancient geography, such as the Earth's sphericity and the relationship between climate and character, at the Museum of San Isidro."
+  },
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true
+ },
+ "d4c2bda16f": {
+  "id": "89abcb5a30",
+  "es": {
+   "titulo": "'Miradas sobre la biblioteca José Hierro' por Urban Sketchers",
+   "resumen": "Exposición de dibujos de Urban Sketchers titulada 'Miradas sobre la biblioteca José Hierro', mostrando la perspectiva artística de estos creadores sobre la biblioteca."
+  },
+  "en": {
+   "titulo": "'Glimpses of the José Hierro Library' by Urban Sketchers",
+   "resumen": "An exhibition of drawings by Urban Sketchers titled 'Glimpses of the José Hierro Library,' showcasing the artists' perspective on the library."
+  },
+  "temas": [
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": true
+ },
+ "a8845aa68a": {
+  "id": "5ccb7a2d05",
+  "es": {
+   "titulo": "Conferencia: 'Novedades del bronce de la Mancha'",
+   "resumen": "Conferencia en el Museo de San Isidro sobre las motillas y túmulos del bronce de la Mancha durante la crisis climática del Evento 4.2 ka BP."
+  },
+  "en": {
+   "titulo": "Lecture: 'New Findings on the Bronze Age of La Mancha'",
+   "resumen": "A lecture at the Museum of San Isidro on the Bronze Age settlements ('motillas' and 'túmulos') of La Mancha during the climate crisis of 4.2 ka BP."
+  },
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true
+ },
+ "9e84f3e8f3": {
+  "id": "3e077ed57e",
+  "es": {
+   "titulo": "'Otoño de cuentos' para bebés con Alicia Cuenteando",
+   "resumen": "Sesión de cuentacuentos para bebés de 0 a 24 meses, diseñada para estimular sus sentidos y fomentar el vínculo afectivo a través de historias adaptadas."
+  },
+  "en": {
+   "titulo": "'Autumn Tales' for Babies with Alicia Cuenteando",
+   "resumen": "A storytelling session for babies aged 0-24 months, designed to stimulate their senses and foster emotional bonds through adapted stories."
+  },
+  "temas": [
+   "ninos",
+   "libros"
+  ],
+  "a_cubierto": true
+ },
+ "0add757713": {
+  "id": "dc83742e26",
+  "es": {
+   "titulo": "Cuentacuentos 'Patas y plumas' con Margalida Albertí",
+   "resumen": "Sesión de cuentacuentos para niños a partir de 2 años con Margalida Albertí, llena de historias mágicas y personajes divertidos para despertar la imaginación."
+  },
+  "en": {
+   "titulo": "Storytelling 'Paws and Feathers' with Margalida Albertí",
+   "resumen": "A storytelling session for children aged 2 and up with Margalida Albertí, featuring magical stories and fun characters to spark imagination."
+  },
+  "temas": [
+   "ninos",
+   "libros"
+  ],
+  "a_cubierto": true
+ },
+ "2daac97601": {
+  "id": "572a64595c",
+  "es": {
+   "titulo": "Conferencia: 'Penélope, la urdidora: tejidos en Homero y Micenas'",
+   "resumen": "Conferencia en el Museo de San Isidro sobre el papel de Penélope y la importancia de los tejidos en la épica homérica y el mundo Micénico."
+  },
+  "en": {
+   "titulo": "Lecture: 'Penelope, the Weaver: Textiles in Homer and Mycenae'",
+   "resumen": "A lecture at the Museum of San Isidro on the role of Penelope and the significance of textiles in Homeric epics and the Mycenaean world."
+  },
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true
+ },
+ "54daaf5ace": {
+  "id": "18cf05fa97",
+  "es": {
+   "titulo": "'Personas normales' de Mar Pastor",
+   "resumen": "Presentación del libro 'Personas normales' de Mar Pastor en la Biblioteca Pública Municipal Mario Vargas Llosa."
+  },
+  "en": {
+   "titulo": "'Normal People' by Mar Pastor",
+   "resumen": "Presentation of the book 'Normal People' by Mar Pastor at the Mario Vargas Llosa Municipal Public Library."
+  },
+  "temas": [
+   "libros"
+  ],
+  "a_cubierto": true
+ },
+ "a7ac391ba2": {
+  "id": "27c269bfa9",
+  "es": {
+   "titulo": "Visita-taller 'Pintar la luz de Madrid'",
+   "resumen": "Actividad para adultos que combina una visita al Museo de Historia de Madrid y un taller de pintura para explorar la luz, los colores y las atmósferas del cielo madrileño."
+  },
+  "en": {
+   "titulo": "Workshop-Visit 'Painting the Light of Madrid'",
+   "resumen": "An adult activity combining a visit to the Museum of History of Madrid with a painting workshop to explore the light, colors, and atmospheres of the Madrid sky."
+  },
+  "temas": [
+   "cultura",
+   "museos",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "6250516931": {
+  "id": "13d788ab10",
+  "es": {
+   "titulo": "Visita-taller 'Pintar la luz de Madrid'",
+   "resumen": "Actividad para adultos que combina una visita al Museo de Historia de Madrid y un taller de pintura para explorar la luz, los colores y las atmósferas del cielo madrileño."
+  },
+  "en": {
+   "titulo": "Workshop-Visit 'Painting the Light of Madrid'",
+   "resumen": "An adult activity combining a visit to the Museum of History of Madrid with a painting workshop to explore the light, colors, and atmospheres of the Madrid sky."
+  },
+  "temas": [
+   "cultura",
+   "museos",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "87acc44632": {
+  "id": "46c8985c59",
+  "es": {
+   "titulo": "Visita-taller 'Pintar la luz de Madrid'",
+   "resumen": "Actividad para adultos que combina una visita al Museo de Historia de Madrid y un taller de pintura para explorar la luz, los colores y las atmósferas del cielo madrileño."
+  },
+  "en": {
+   "titulo": "Workshop-Visit 'Painting the Light of Madrid'",
+   "resumen": "An adult activity combining a visit to the Museum of History of Madrid with a painting workshop to explore the light, colors, and atmospheres of the Madrid sky."
+  },
+  "temas": [
+   "cultura",
+   "museos",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "c82470df14": {
+  "id": "b34d6ea182",
+  "es": {
+   "titulo": "Cineforum 'Grease' y debate sobre la película",
+   "resumen": "Proyección de la película 'Grease' seguida de un coloquio con psicólogas sobre el film y debate con los asistentes, como iniciativa para prevenir la soledad no deseada."
+  },
+  "en": {
+   "titulo": "Film Forum 'Grease' and Discussion",
+   "resumen": "Screening of the movie 'Grease' followed by a discussion with psychologists about the film and a debate with attendees, as an initiative to prevent unwanted loneliness."
+  },
+  "temas": [
+   "pantalla",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "e0088dca59": {
+  "id": "400a80c40f",
+  "es": {
+   "titulo": "Quedada de cine en la Biblioteca Francisco Ayala",
+   "resumen": "Asiste a una sesión de cine en la Biblioteca Pública Municipal Francisco Ayala de Madrid. Un encuentro para disfrutar de la gran pantalla."
+  },
+  "en": {
+   "titulo": "Cinema Meetup at Francisco Ayala Library",
+   "resumen": "Attend a cinema session at the Francisco Ayala Municipal Public Library in Madrid. A gathering to enjoy the big screen."
+  },
+  "temas": [
+   "pantalla",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "f76fa9d10b": {
+  "id": "26be30be6a",
+  "es": {
+   "titulo": "Quedada de cine en la Biblioteca María Lejárraga",
+   "resumen": "Disfruta de una sesión de cine en la Biblioteca Pública Municipal María Lejárraga de Madrid. Un evento para los amantes del séptimo arte."
+  },
+  "en": {
+   "titulo": "Cinema Meetup at María Lejárraga Library",
+   "resumen": "Enjoy a cinema session at the María Lejárraga Municipal Public Library in Madrid. An event for lovers of the seventh art."
+  },
+  "temas": [
+   "pantalla",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "f540ba2dcd": {
+  "id": "a0005c4013",
+  "es": {
+   "titulo": "Exposición 'Regreso hacia lo cotidiano' de Elena Naranjo",
+   "resumen": "Descubre la obra de Elena Naranjo en la Biblioteca Pública Municipal José Saramago de Madrid. Una exposición que explora lo cotidiano."
+  },
+  "en": {
+   "titulo": "Exhibition 'Return to the Everyday' by Elena Naranjo",
+   "resumen": "Discover the work of Elena Naranjo at the José Saramago Municipal Public Library in Madrid. An exhibition exploring the everyday."
+  },
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true
+ },
+ "465b7f0535": {
+  "id": "42e6c542c3",
+  "es": {
+   "titulo": "Exposición 'Rosalía, universo creador' de Daniel Gómez Sánchez",
+   "resumen": "Explora el universo creativo de Rosalía a través de la exposición de Daniel Gómez Sánchez en la Biblioteca Pública Municipal Iván de Vargas de Madrid."
+  },
+  "en": {
+   "titulo": "Exhibition 'Rosalía, Creative Universe' by Daniel Gómez Sánchez",
+   "resumen": "Explore Rosalía's creative universe through Daniel Gómez Sánchez's exhibition at the Iván de Vargas Municipal Public Library in Madrid."
+  },
+  "temas": [
+   "cultura",
+   "musica",
+   "museos"
+  ],
+  "a_cubierto": true
+ },
+ "63d34751f9": {
+  "id": "6995a943c6",
+  "es": {
+   "titulo": "Cuentacuentos en inglés 'Stone soup' con Mamen Storyteller",
+   "resumen": "Disfruta de cuentos en inglés para niños a partir de 4 años en la Biblioteca Dámaso Alonso de Madrid. Una experiencia divertida para despertar la imaginación."
+  },
+  "en": {
+   "titulo": "English Storytelling 'Stone Soup' with Mamen Storyteller",
+   "resumen": "Enjoy stories in English for children aged 4+ at the Dámaso Alonso Municipal Public Library in Madrid. A fun experience to spark imagination."
+  },
+  "temas": [
+   "ninos",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "97547ed36b": {
+  "id": "24e670daf4",
+  "es": {
+   "titulo": "Tardes de juegos en la Biblioteca Miguel Delibes",
+   "resumen": "Participa en 'Tardes de juegos' en la Biblioteca Pública Municipal Miguel Delibes de Madrid. Una actividad lúdica para disfrutar en familia."
+  },
+  "en": {
+   "titulo": "Game Afternoons at Miguel Delibes Library",
+   "resumen": "Join 'Game Afternoons' at the Miguel Delibes Municipal Public Library in Madrid. A fun activity to enjoy with the family."
+  },
+  "temas": [
+   "ninos",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "366a204ee3": {
+  "id": "0cea2b1a9d",
+  "es": {
+   "titulo": "Tertulias de filosofía en la Biblioteca Manuel Vázquez Montalbán",
+   "resumen": "Iniciación accesible a la historia de la filosofía mediante tertulias argumentadas en la Biblioteca Manuel Vázquez Montalbán de Madrid. Aprende a preguntar y debatir."
+  },
+  "en": {
+   "titulo": "Philosophy Discussions at Manuel Vázquez Montalbán Library",
+   "resumen": "Accessible introduction to the history of philosophy through reasoned discussions at the Manuel Vázquez Montalbán Municipal Public Library in Madrid. Learn to question and debate."
+  },
+  "temas": [
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": true
+ },
+ "9a0300dba2": {
+  "id": "1c9bedc52f",
+  "es": {
+   "titulo": "Cuentacuentos en inglés 'The Witch and her broom' con Mar Amado",
+   "resumen": "Sesión de cuentacuentos en inglés para niños a partir de 5 años en la Biblioteca Gerardo Diego de Madrid. Una aventura para despertar la imaginación."
+  },
+  "en": {
+   "titulo": "English Storytelling 'The Witch and Her Broom' with Mar Amado",
+   "resumen": "English storytelling session for children aged 5+ at the Gerardo Diego Municipal Public Library in Madrid. An adventure to spark imagination."
+  },
+  "temas": [
+   "ninos",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "afa7846f70": {
+  "id": "5669b8fda3",
+  "es": {
+   "titulo": "Cuentacuentos en inglés 'The Witch and her broom' con Mar Amado",
+   "resumen": "Asiste a una sesión de cuentacuentos en inglés para niños a partir de 5 años en la Biblioteca San Fermín de Madrid. Una experiencia divertida y educativa."
+  },
+  "en": {
+   "titulo": "English Storytelling 'The Witch and Her Broom' with Mar Amado",
+   "resumen": "Attend an English storytelling session for children aged 5+ at the San Fermín Municipal Public Library in Madrid. A fun and educational experience."
+  },
+  "temas": [
+   "ninos",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "db5a6e5319": {
+  "id": "b5022f207a",
+  "es": {
+   "titulo": "Cuentacuentos en inglés 'The Witch and her broom' con Mar Amado",
+   "resumen": "Disfruta de cuentos en inglés para niños a partir de 5 años en la Biblioteca Francisco Umbral de Madrid. Una actividad para despertar la curiosidad y la imaginación."
+  },
+  "en": {
+   "titulo": "English Storytelling 'The Witch and Her Broom' with Mar Amado",
+   "resumen": "Enjoy stories in English for children aged 5+ at the Francisco Umbral Municipal Public Library in Madrid. An activity to spark curiosity and imagination."
+  },
+  "temas": [
+   "ninos",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "80c65cd314": {
+  "id": "bfc0d8ae94",
+  "es": {
+   "titulo": "Exposición 'Transiciones: una historia de El Barrio de El Pilar' de Manuel Ros Pérez",
+   "resumen": "Descubre la historia del Barrio de El Pilar a través de la exposición de Manuel Ros Pérez en la Biblioteca José Saramago de Madrid."
+  },
+  "en": {
+   "titulo": "Exhibition 'Transitions: A History of El Barrio de El Pilar' by Manuel Ros Pérez",
+   "resumen": "Discover the history of El Barrio de El Pilar through Manuel Ros Pérez's exhibition at the José Saramago Municipal Public Library in Madrid."
+  },
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true
+ },
+ "6a0b20e2da": {
+  "id": "386cc5430d",
+  "es": {
+   "titulo": "Cuentos para crecer con Carlota Bermúdez",
+   "resumen": "Sesión de cuentos para niños de 5 a 8 años en la Biblioteca Mario Vargas Llosa de Madrid. Historias para enseñarles empatía, amistad y a superar miedos."
+  },
+  "en": {
+   "titulo": "Stories to Grow With by Carlota Bermúdez",
+   "resumen": "Storytelling session for children aged 5 to 8 at the Mario Vargas Llosa Municipal Public Library in Madrid. Stories to teach them empathy, friendship, and overcoming fears."
+  },
+  "temas": [
+   "ninos",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "789ffee1a0": {
+  "id": "3e21bfaa4e",
+  "es": {
+   "titulo": "Exposición 'Ninja López' de Fernando Martínez Valero",
+   "resumen": "Visita la exposición 'Ninja López' de Fernando Martínez Valero en la Biblioteca Pública Municipal Iván de Vargas de Madrid."
+  },
+  "en": {
+   "titulo": "Exhibition 'Ninja López' by Fernando Martínez Valero",
+   "resumen": "Visit the 'Ninja López' exhibition by Fernando Martínez Valero at the Iván de Vargas Municipal Public Library in Madrid."
+  },
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true
+ },
+ "39493c5b21": {
+  "id": "02e1d6967e",
+  "es": {
+   "titulo": "Bebecuentos '¡Cucú, cuento!' con Aurora Maroto",
+   "resumen": "Sesión de bebecuentos para bebés de 0 a 24 meses en la Biblioteca Francisco Ibáñez de Madrid. Estimula los sentidos y fortalece el vínculo con la lectura."
+  },
+  "en": {
+   "titulo": "Baby Storytelling 'Peek-a-boo, Story!' with Aurora Maroto",
+   "resumen": "Baby storytelling session for infants aged 0 to 24 months at the Francisco Ibáñez Municipal Public Library in Madrid. Stimulates senses and strengthens the bond with reading."
+  },
+  "temas": [
+   "ninos",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "888feadabd": {
+  "id": "ffa0676184",
+  "es": {
+   "titulo": "Conferencia '¿Cuándo dejó la vivienda de ser un hogar?'",
+   "resumen": "Charla sobre la crisis de la vivienda desde las ciencias sociales en la Biblioteca Eugenio Trías de Madrid. Una reflexión sobre el concepto de hogar."
+  },
+  "en": {
+   "titulo": "Conference 'When Did Housing Stop Being a Home?'",
+   "resumen": "Talk on the housing crisis from the perspective of social sciences at the Eugenio Trías Municipal Public Library in Madrid. A reflection on the concept of home."
+  },
+  "temas": [
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": true
+ },
+ "33b7a0281a": {
+  "id": "2dd8d3c87c",
+  "es": {
+   "titulo": "Exposición ¡Hola, Frida!",
+   "resumen": "Visita la exposición '¡Hola, Frida!' en el Centro Cultural Carril del Conde de Madrid. Una muestra dedicada a la icónica artista."
+  },
+  "en": {
+   "titulo": "Exhibition Hello, Frida!",
+   "resumen": "Visit the 'Hello, Frida!' exhibition at the Carril del Conde Cultural Center in Madrid. A display dedicated to the iconic artist."
+  },
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true
+ },
+ "810fa0bf5e": {
+  "id": "b575f9266b",
+  "es": {
+   "titulo": "Exposición ¡Madrid, historia menuda!",
+   "resumen": "Descubre la historia de Madrid a través de la exposición '¡Madrid, historia menuda!' en la Biblioteca Pública Municipal San Fermín."
+  },
+  "en": {
+   "titulo": "Exhibition Madrid, Tiny History!",
+   "resumen": "Discover the history of Madrid through the 'Madrid, Tiny History!' exhibition at the San Fermín Municipal Public Library."
+  },
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true
+ },
+ "a8787b8992": {
+  "id": "caac380887",
+  "es": {
+   "titulo": "Taller musical '¡Que suene el cole!'",
+   "resumen": "Actividad musical participativa para niños de 8 a 14 años en el Colegio Público Gloria Fuertes de Madrid. Explora ritmos y sonidos de forma creativa."
+  },
+  "en": {
+   "titulo": "Musical Workshop 'Let the School Sound!'",
+   "resumen": "Participatory musical activity for children aged 8 to 14 at the Gloria Fuertes Public School in Madrid. Explore rhythms and sounds creatively."
+  },
+  "temas": [
+   "ninos",
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "48c504df83": {
+  "id": "4c4f29d9ce",
+  "es": {
+   "titulo": "Actividad ¡Tu opinión importa!",
+   "resumen": "Participa en '¡Tu opinión importa!' en el Fernán Gómez Centro Cultural de la Villa de Madrid. Un espacio para expresar tu punto de vista."
+  },
+  "en": {
+   "titulo": "Activity Your Opinion Matters!",
+   "resumen": "Take part in 'Your Opinion Matters!' at the Fernán Gómez Cultural Center of the Villa in Madrid. A space to express your point of view."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "39ae8a6154": {
+  "id": "e7ff9a8db7",
+  "es": {
+   "titulo": "Ciencia y música para la sonda Voyager 1: «A un día luz»",
+   "resumen": "Explora la ciencia y la música inspiradas por la sonda Voyager 1 en el Centro de Cultura Contemporánea CondeDuque de Madrid. Un viaje sonoro y conceptual."
+  },
+  "en": {
+   "titulo": "Science and Music for the Voyager 1 Probe: 'One Light Day'",
+   "resumen": "Explore the science and music inspired by the Voyager 1 probe at the CondeDuque Contemporary Culture Center in Madrid. A sonic and conceptual journey."
+  },
+  "temas": [
+   "musica",
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": true
+ },
+ "7cacb3d538": {
+  "id": "bef860c535",
+  "es": {
+   "titulo": "Exposición «Escucha jonda»",
+   "resumen": "Sumérgete en la exposición «Escucha jonda» en el Centro de Cultura Contemporánea CondeDuque de Madrid. Una experiencia sensorial y cultural."
+  },
+  "en": {
+   "titulo": "Exhibition 'Listen Jonda'",
+   "resumen": "Immerse yourself in the 'Listen Jonda' exhibition at the CondeDuque Contemporary Culture Center in Madrid. A sensory and cultural experience."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "0ee7d2d93c": {
+  "id": "efba0d771d",
+  "es": {
+   "titulo": "Exposición «Sonda voyager 1»",
+   "resumen": "Descubre la sonda Voyager 1 a través de la exposición «Sonda voyager 1» en el Centro de Cultura Contemporánea CondeDuque de Madrid. Ciencia y exploración espacial."
+  },
+  "en": {
+   "titulo": "Exhibition 'Voyager 1 Probe'",
+   "resumen": "Discover the Voyager 1 probe through the 'Voyager 1 Probe' exhibition at the CondeDuque Contemporary Culture Center in Madrid. Science and space exploration."
+  },
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": true
+ },
+ "a8a58ef3d5": {
+  "id": "ff7dc1e7db",
+  "es": {
+   "titulo": "Debate '¿Y si el futuro no da miedo?'",
+   "resumen": "Participa en el debate '¿Y si el futuro no da miedo?' en Matadero Madrid. Un espacio para reflexionar sobre el porvenir."
+  },
+  "en": {
+   "titulo": "Debate 'What If the Future Isn't Scary?'",
+   "resumen": "Participate in the debate 'What If the Future Isn't Scary?' at Matadero Madrid. A space to reflect on what lies ahead."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "19e9b060c4": {
+  "id": "77e67dbbcc",
+  "es": {
+   "titulo": "El Aventulibro del profesor Ludus",
+   "resumen": "Descubre las disparatadas aventuras del Profesor Ludus a través de su libro, que incluye recetas, canciones y datos curiosos. Acompaña a Don Everio y Batiscafo en la búsqueda de resolver el misterio de su último viaje sin escribir."
+  },
+  "en": {
+   "titulo": "Professor Ludus's Adventure Book",
+   "resumen": "Discover Professor Ludus's hilarious adventures through his book, featuring recipes, songs, and fun facts. Join Don Everio and Batiscafo as they try to solve the mystery of his unfinished last journey."
+  },
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "8264f80f39": {
+  "id": "80e68f7887",
+  "es": {
+   "titulo": "Conversaciones en inglés en Burgos",
+   "resumen": "Mejora tu fluidez en inglés en estas sesiones de conversación gratuitas y presenciales. Coordinadas por un nativo, están dirigidas a adultos con nivel medio/alto y carné de biblioteca. Se requiere inscripción previa."
+  },
+  "en": {
+   "titulo": "English Conversation in Burgos",
+   "resumen": "Improve your English fluency in these free, in-person conversation sessions. Coordinated by a native speaker, they are for adults with intermediate/advanced levels and a library card. Pre-registration is required."
+  },
+  "temas": [
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "6071d6e1d9": {
+  "id": "3c0f2634c3",
+  "es": {
+   "titulo": "Exposición: Gritos desde la pared - Carteles por Derechos Humanos",
+   "resumen": "Explora \"Gritos desde la pared\", una exposición de carteles de Amnistía Internacional de todo el mundo sobre derechos humanos. Denuncia violaciones y sensibiliza sobre la Declaración Universal."
+  },
+  "en": {
+   "titulo": "Exhibition: Screams from the Wall - Posters for Human Rights",
+   "resumen": "Explore \"Screams from the Wall,\" an exhibition of Amnesty International posters from around the world on human rights. It denounces violations and raises awareness about the Universal Declaration."
+  },
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true
+ },
+ "275a2d33e4": {
+  "id": "d9bc4f0d3f",
+  "es": {
+   "titulo": "Living Las Vegas (Ciclo Panorámicas urbanas)",
+   "resumen": "Proyección de \"Living Las Vegas\", un drama romántico de 1995 sobre un guionista alcohólico y una prostituta en Las Vegas. Entrada libre hasta completar aforo."
+  },
+  "en": {
+   "titulo": "Living Las Vegas (Urban Panoramas Cycle)",
+   "resumen": "Screening of \"Living Las Vegas,\" a 1995 romantic drama about an alcoholic screenwriter and a prostitute in Las Vegas. Free entry until capacity is reached."
+  },
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": true
+ },
+ "2feb1037df": {
+  "id": "86c8acc289",
+  "es": {
+   "titulo": "Madame Hofmann (Cine en francés V.O.S.)",
+   "resumen": "Proyección del documental \"Madame Hofmann\" en versión original subtitulada. Sigue la vida de Sylvie Hofmann, una enfermera jefe con 40 años de dedicación. Entrada libre."
+  },
+  "en": {
+   "titulo": "Madame Hofmann (French Film V.O.S.)",
+   "resumen": "Screening of the documentary \"Madame Hofmann\" in its original version with subtitles. It follows the life of Sylvie Hofmann, a head nurse with 40 years of dedication. Free entry."
+  },
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": true
+ },
+ "850ee90fbb": {
+  "id": "1df08a9123",
+  "es": {
+   "titulo": "Mis 50 ateneas",
+   "resumen": "Presentación del libro \"Mis 50 ateneas\", una autobiografía coral que homenajea a 50 mujeres inspiradoras y explora el crecimiento personal a través de sus vínculos."
+  },
+  "en": {
+   "titulo": "My 50 Athenas",
+   "resumen": "Presentation of the book \"My 50 Athenas,\" a choral autobiography honoring 50 inspiring women and exploring personal growth through their connections."
+  },
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "a731de8390": {
+  "id": "0ca8610391",
+  "es": {
+   "titulo": "Conversaciones en francés en Burgos",
+   "resumen": "Practica tu francés en estas sesiones de conversación gratuitas para adultos. Se debatirán temas de cultura, viajes y actualidad en un ambiente de apoyo mutuo. Requiere inscripción."
+  },
+  "en": {
+   "titulo": "French Conversations in Burgos",
+   "resumen": "Practice your French in these free conversation sessions for adults. Topics like culture, travel, and current events will be discussed in a supportive environment. Registration required."
+  },
+  "temas": [
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "e622c3535b": {
+  "id": "42621fb4b0",
+  "es": {
+   "titulo": "Conversaciones en francés en Burgos",
+   "resumen": "Practica tu francés en estas sesiones de conversación gratuitas para adultos. Se debatirán temas de cultura, viajes y actualidad en un ambiente de apoyo mutuo. Requiere inscripción."
+  },
+  "en": {
+   "titulo": "French Conversations in Burgos",
+   "resumen": "Practice your French in these free conversation sessions for adults. Topics like culture, travel, and current events will be discussed in a supportive environment. Registration required."
+  },
+  "temas": [
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "c0d27eb503": {
+  "id": "31c1cf11a6",
+  "es": {
+   "titulo": "'Un mundo de cuentos' en Covaleda",
+   "resumen": "Alicia Cuenteando narrará cuentos y leyendas para público familiar, combinando técnicas, música y fantasía para un viaje por la riqueza cultural y natural. Requiere inscripción."
+  },
+  "en": {
+   "titulo": "'A World of Tales' in Covaleda",
+   "resumen": "Alicia Cuenteando will narrate tales and legends for families, using various techniques, music, and fantasy for a journey through cultural and natural richness. Registration required."
+  },
+  "temas": [
+   "ninos",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "668ab7f8ba": {
+  "id": "ff1f9cb254",
+  "es": {
+   "titulo": "Exposición: 'Maternidad'",
+   "resumen": "Descubre \"Maternidad\", una exposición de acuarela, óleo y grafito de Rocío González que explora visualmente la concepción, embarazo, parto y lactancia. Entrada libre."
+  },
+  "en": {
+   "titulo": "Exhibition: 'Maternity'",
+   "resumen": "Discover \"Maternity,\" an exhibition of watercolor, oil, and graphite by Rocío González, visually exploring conception, pregnancy, childbirth, and breastfeeding. Free entry."
+  },
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true
+ },
+ "aced90a54a": {
+  "id": "412ae21d61",
+  "es": {
+   "titulo": "Activa tu mente en inglés (A2-B2)",
+   "resumen": "Taller para adultos (A2-B2) que facilita la práctica del inglés a través de actividades lúdicas y socialización. Varias sesiones disponibles en septiembre y octubre. Requiere inscripción."
+  },
+  "en": {
+   "titulo": "Activate Your Mind in English (A2-B2)",
+   "resumen": "Workshop for adults (A2-B2) that facilitates English practice through fun activities and socialization. Several sessions available in September and October. Registration required."
+  },
+  "temas": [
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "8c98d90878": {
+  "id": "37a60bce8c",
+  "es": {
+   "titulo": "Presentación libro 'Inteligencia Artificial explicada por ella misma'",
+   "resumen": "Presentación divulgativa del libro sobre IA de Paco Fuentes, combinando explicación, ejemplos y demostraciones para comprender y usar la IA con criterio. Entrada libre."
+  },
+  "en": {
+   "titulo": "Book Presentation: 'Artificial Intelligence Explained by Itself'",
+   "resumen": "Informative presentation of Paco Fuentes' book on AI, combining explanations, examples, and live demonstrations to understand and use AI critically. Free entry."
+  },
+  "temas": [
+   "libros",
+   "pantalla",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "9a1c0c29c3": {
+  "id": "2811853727",
+  "es": {
+   "titulo": "Taller 'Ciencia terrorífica'",
+   "resumen": "Taller de ciencia para niños (7-12 años) donde descubrirán explicaciones científicas a fenómenos sorprendentes mediante experimentos de química, física y biología. Requiere inscripción."
+  },
+  "en": {
+   "titulo": "Workshop 'Terrifying Science'",
+   "resumen": "Science workshop for children (7-12 years old) where they will discover scientific explanations for surprising phenomena through chemistry, physics, and biology experiments. Registration required."
+  },
+  "temas": [
+   "ninos",
+   "actividades",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "05511e6b32": {
+  "id": "64abf5a188",
+  "es": {
+   "titulo": "Taller 'Las palabras también cantan'",
+   "resumen": "Taller de 4 sesiones para niños (3-5 años) que integra música y literatura infantil para favorecer habilidades lectoras y prevenir dificultades de aprendizaje. Requiere inscripción."
+  },
+  "en": {
+   "titulo": "Workshop 'Words Also Sing'",
+   "resumen": "A 4-session workshop for children (3-5 years old) integrating music and children's literature to foster reading skills and prevent learning difficulties. Registration required."
+  },
+  "temas": [
+   "ninos",
+   "musica",
+   "libros"
+  ],
+  "a_cubierto": true
+ },
+ "a02b48cf45": {
+  "id": "a2fbb0ff11",
+  "es": {
+   "titulo": "Jugando con los cuentos: Corre, Carmen, Carmencita...",
+   "resumen": "Actividad interactiva para niños a partir de 4 años donde ayudarán a Carmen a preparar las tareas del campo antes del invierno. Requiere inscripción."
+  },
+  "en": {
+   "titulo": "Playing with Tales: Run, Carmen, Carmencita...",
+   "resumen": "Interactive activity for children aged 4 and up where they will help Carmen prepare for winter farm chores. Registration required."
+  },
+  "temas": [
+   "ninos",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "b6c14ca87b": {
+  "id": "121a689914",
+  "es": {
+   "titulo": "Entrenador digital +60 años (Nov/Dic)",
+   "resumen": "Taller gratuito para mayores de 60 años para mejorar competencias digitales, abordando salud, seguridad y desconexión. Consta de 5 sesiones. Inscripción a partir del 30 de octubre."
+  },
+  "en": {
+   "titulo": "Digital Coach +60 years (Nov/Dec)",
+   "resumen": "Free workshop for seniors over 60 to improve digital skills, covering health, safety, and digital detox. Consists of 5 sessions. Registration from October 30th."
+  },
+  "temas": [
+   "actividades",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "e62d545b77": {
+  "id": "28237a13f1",
+  "es": {
+   "titulo": "Presentación libro 'Fuego amigo' de Luisa Posada Kubissa",
+   "resumen": "Presentación del libro \"Fuego amigo\", que dialoga con pensadoras feministas actuales como Judith Butler y Donna Haraway, invitando al debate sobre sus propuestas. Entrada libre."
+  },
+  "en": {
+   "titulo": "Book Presentation: 'Friendly Fire' by Luisa Posada Kubissa",
+   "resumen": "Presentation of the book \"Friendly Fire,\" which engages in dialogue with contemporary feminist thinkers like Judith Butler and Donna Haraway, inviting debate on their proposals. Free entry."
+  },
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "0efc4d3abc": {
+  "id": "c95a73a64e",
+  "es": {
+   "titulo": "Presentación libro 'Invención del mundo' de José David Sacristán",
+   "resumen": "Presentación de \"Invención del mundo\", novela que narra la supervivencia y reconstrucción de la civilización tras un colapso, explorando la creación de una nueva sociedad."
+  },
+  "en": {
+   "titulo": "Book Presentation: 'Invention of the World' by José David Sacristán",
+   "resumen": "Presentation of \"Invention of the World,\" a novel narrating survival and civilization rebuilding after a collapse, exploring the creation of a new society."
+  },
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "d74e56f178": {
+  "id": "63ca0ca852",
+  "es": {
+   "titulo": "Charla: Rompiendo cadenas - Dependencia emocional",
+   "resumen": "Conferencia sobre cómo superar la dependencia emocional y construir relaciones sanas, abordando señales de alerta, apego inseguro y herramientas para el amor propio. Entrada libre."
+  },
+  "en": {
+   "titulo": "Talk: Breaking Chains - Emotional Dependency",
+   "resumen": "Conference on overcoming emotional dependency and building healthy relationships, addressing warning signs, insecure attachment, and tools for self-love. Free entry."
+  },
+  "temas": [
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "9def6779d2": {
+  "id": "132ca04bd6",
+  "es": {
+   "titulo": "FaranduLeo Mini: Comediante",
+   "resumen": "Espectáculo familiar de circo y comedia con malabares, números musicales y equilibrios, utilizando objetos cotidianos para crear situaciones divertidas y entrañables. Entrada libre."
+  },
+  "en": {
+   "titulo": "FaranduLeo Mini: Comedian",
+   "resumen": "Family circus and comedy show featuring juggling, musical numbers, and balancing acts, using everyday objects to create fun and heartwarming situations. Free entry."
+  },
+  "temas": [
+   "ninos",
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "39fb01c5dd": {
+  "id": "cef3c0cc50",
+  "es": {
+   "titulo": "La silla",
+   "resumen": "Obra de teatro que explora el egoísmo, la supervivencia y la ambición a través del juego de la silla, mostrando cómo las emociones y la convivencia se transforman ante la adversidad. Entrada libre."
+  },
+  "en": {
+   "titulo": "The Chair",
+   "resumen": "A play exploring selfishness, survival, and ambition through a \"musical chairs\" scenario, showing how emotions and coexistence transform under adversity. Free entry."
+  },
+  "temas": [
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "249d926615": {
+  "id": "61109b3b8a",
+  "es": {
+   "titulo": "Rockanroleando: Música y teatro para todos los públicos",
+   "resumen": "Disfruta de una propuesta fresca y original que combina teatro y música en directo. Un espectáculo dinámico y divertido, perfecto para toda la familia, con participación del público. Edad recomendada: a partir de 5 años."
+  },
+  "en": {
+   "titulo": "Rockanroleando: Music and Theatre for All Audiences",
+   "resumen": "Enjoy a fresh and original show combining theatre and live music. A dynamic and fun performance, perfect for the whole family, with audience participation. Recommended for ages 5 and up."
+  },
+  "temas": [
+   "cultura",
+   "ninos"
+  ],
+  "a_cubierto": true
+ },
+ "1e02c500d8": {
+  "id": "456492c932",
+  "es": {
+   "titulo": "Audición de vinilos de jazz en la Biblioteca de Palencia",
+   "resumen": "Sumérgete en el mundo del jazz con una selección de vinilos clásicos. Una actividad paralela al Festival Internacional Jazz Palencia, para disfrutar de la música en directo desde los fondos de la biblioteca."
+  },
+  "en": {
+   "titulo": "Jazz Vinyl Listening Session at Palencia Library",
+   "resumen": "Immerse yourself in the world of jazz with a selection of classic vinyl records. An activity running alongside the Palencia International Jazz Festival, enjoying live music from the library's collection."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "c2e7bb59ec": {
+  "id": "6d2895ada6",
+  "es": {
+   "titulo": "Cuentacuentos y manualidades en la Biblioteca de Palencia",
+   "resumen": "Los más pequeños (4-8 años) disfrutarán de 'La hora del cuento' con historias y manualidades relacionadas. ¡Plazas limitadas, inscríbete en la Sala Infantil!"
+  },
+  "en": {
+   "titulo": "Storytelling and Crafts at Palencia Library",
+   "resumen": "Children aged 4-8 will enjoy 'Story Time' with related crafts and tales. Limited spots available, register at the Children's Section!"
+  },
+  "temas": [
+   "ninos",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "b1927879ec": {
+  "id": "76ffcad419",
+  "es": {
+   "titulo": "Espectáculo de magia y clown 'Hocus Pocus' en Palencia",
+   "resumen": "Jesús Puebla presenta 'Hocus Pocus', un divertido espectáculo de clown gestual y magia cómica que combina ternura, humor y fantasía para toda la familia. ¡No te lo pierdas!"
+  },
+  "en": {
+   "titulo": "Magic and Clown Show 'Hocus Pocus' in Palencia",
+   "resumen": "Jesús Puebla presents 'Hocus Pocus', a fun show of gestural clowning and comic magic blending tenderness, humor, and fantasy for the whole family. Don't miss it!"
+  },
+  "temas": [
+   "cultura",
+   "ninos"
+  ],
+  "a_cubierto": true
+ },
+ "c4cb446b85": {
+  "id": "c7b29515e5",
+  "es": {
+   "titulo": "Conferencias del Ateneo de Salamanca en la Casa de las Conchas",
+   "resumen": "Descubre un ciclo de conferencias sobre diversos temas, desde la tauromaquia hasta la mitología celta y la inteligencia artificial, presentadas por expertos en la Casa de las Conchas."
+  },
+  "en": {
+   "titulo": "Ateneo de Salamanca Conferences at Casa de las Conchas",
+   "resumen": "Explore a series of conferences on diverse topics, from bullfighting to Celtic mythology and artificial intelligence, presented by experts at the Casa de las Conchas."
+  },
+  "temas": [
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": true
+ },
+ "5a8cf1c936": {
+  "id": "a84e3e6794",
+  "es": {
+   "titulo": "Debates públicos 'Dejarse hablar' en Salamanca",
+   "resumen": "Participa en debates públicos sobre temas de actualidad como el viaje de la papeleta electoral y el acceso a la vivienda. ¡Exprésate y comparte tus ideas!"
+  },
+  "en": {
+   "titulo": "Public Debates 'Dejarse hablar' in Salamanca",
+   "resumen": "Engage in public debates on current issues such as the journey of the ballot paper and housing access. Express yourself and share your ideas!"
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "db9787603b": {
+  "id": "2a14f73bd3",
+  "es": {
+   "titulo": "Ofrenda mestiza: Día de Muertos en Salamanca",
+   "resumen": "Celebra el Día de Muertos con la 'Ofrenda mestiza', que incluye la inauguración de un altar, conferencias sobre la Escuela de Salamanca y espectáculos de música y danza tradicional mexicana."
+  },
+  "en": {
+   "titulo": "Mestizo Offering: Day of the Dead in Salamanca",
+   "resumen": "Celebrate the Day of the Dead with the 'Mestizo Offering', featuring the inauguration of an altar, lectures on the School of Salamanca, and traditional Mexican music and dance performances."
+  },
+  "temas": [
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "28a53acb88": {
+  "id": "25e84620cf",
+  "es": {
+   "titulo": "Taller de flamenco y percusión para niños en Salamanca",
+   "resumen": "Iniciación a la percusión flamenca con palmas para niños de 7 a 14 años. ¡Aprende ritmos y disfruta de un concierto con Paco Cifuentes!"
+  },
+  "en": {
+   "titulo": "Flamenco and Percussion Workshop for Children in Salamanca",
+   "resumen": "Introduction to flamenco percussion with handclaps for children aged 7 to 14. Learn rhythms and enjoy a concert with Paco Cifuentes!"
+  },
+  "temas": [
+   "ninos",
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "8632d07b55": {
+  "id": "eadb89b866",
+  "es": {
+   "titulo": "Club Virtual de Cómic: septiembre 2026-enero 2027",
+   "resumen": "Únete al Club Virtual de Cómic organizado por la Universidad de Murcia y la Biblioteca Pública de Salamanca. Comenta cómics online y comparte tu pasión por el noveno arte."
+  },
+  "en": {
+   "titulo": "Virtual Comic Club: September 2026-January 2027",
+   "resumen": "Join the Virtual Comic Club organized by the University of Murcia and the Public Library of Salamanca. Discuss comics online and share your passion for the ninth art."
+  },
+  "temas": [
+   "libros",
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": true
+ },
+ "da36af0e09": {
+  "id": "dc9355b171",
+  "es": {
+   "titulo": "Bebés de cuento: Lectura en inglés en Segovia",
+   "resumen": "Experiencia para familias que introduce la lectura y el ritmo del inglés a los más pequeños. Orientación para adultos sobre pronunciación y libros recomendados."
+  },
+  "en": {
+   "titulo": "Baby Tales: English Reading in Segovia",
+   "resumen": "An experience for families introducing reading and the rhythm of English to young children. Guidance for adults on pronunciation and recommended books."
+  },
+  "temas": [
+   "ninos",
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "aa096cbabe": {
+  "id": "62c708642a",
+  "es": {
+   "titulo": "Bebés de cuento: ¡Qué bien cuando me cuentan! en Segovia",
+   "resumen": "Una experiencia sensorial para bebés que busca estimularlos y reforzar la comunicación con el adulto acompañante a través del libro. A cargo de la educadora infantil Carmen Talavera."
+  },
+  "en": {
+   "titulo": "Baby Tales: 'It's Great When They Tell Me!' in Segovia",
+   "resumen": "A sensory experience for babies aimed at stimulating them and reinforcing quality communication with their accompanying adult through books. Led by early childhood educator Carmen Talavera."
+  },
+  "temas": [
+   "ninos",
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "d87cbea724": {
+  "id": "fdb35a2e7d",
+  "es": {
+   "titulo": "Stories and Crafts en Segovia",
+   "resumen": "Actividad para familias que combina lectura en inglés, conexión de cuentos con la realidad y orientación para adultos sobre pronunciación y libros. Impartido por Jennie Gant."
+  },
+  "en": {
+   "titulo": "Stories and Crafts in Segovia",
+   "resumen": "An activity for families combining English reading, connecting stories with reality, and guidance for adults on pronunciation and books. Led by Jennie Gant."
+  },
+  "temas": [
+   "ninos",
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "3bd7f49c4f": {
+  "id": "ff6e0236d3",
+  "es": {
+   "titulo": "Biblioescena: Veo veo ¿qué no ves? - Pez Luna Teatro en Segovia",
+   "resumen": "Pez Luna Teatro presenta un espectáculo que mezcla humor, canto, poesía y narración oral, explorando cuentos, romances y poemas. Una experiencia teatral para todos los públicos."
+  },
+  "en": {
+   "titulo": "Biblioescena: I Spy, What Don't You See? - Pez Luna Teatro in Segovia",
+   "resumen": "Pez Luna Teatro presents a show blending humor, singing, poetry, and oral narration, exploring tales, ballads, and poems. A theatrical experience for all audiences."
+  },
+  "temas": [
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "642a3a107d": {
+  "id": "2ab40d6f31",
+  "es": {
+   "titulo": "Presentación del libro 'Trenzando caminos' de Paco Sanz Valentín en Segovia",
+   "resumen": "Descubre 'Trenzando caminos', una novela que entrelaza las vidas de un español enfrentado al terrorismo y una joven búlgara en la Europa de finales de los ochenta. Una historia de caminos inciertos."
+  },
+  "en": {
+   "titulo": "Book Presentation: 'Trenzando caminos' by Paco Sanz Valentín in Segovia",
+   "resumen": "Discover 'Trenzando caminos', a novel weaving together the lives of a Spaniard facing terrorism and a young Bulgarian woman in late 1980s Europe. A story of uncertain paths."
+  },
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "556048d4b0": {
+  "id": "87367f3abf",
+  "es": {
+   "titulo": "Cuentacuentos 'Movilón Crusoe' en Soria",
+   "resumen": "Un cuentacuentos para niños de 7 a 12 años sobre los peligros del uso excesivo del móvil y la importancia del reciclaje electrónico. ¡Una aventura divertida y participativa!"
+  },
+  "en": {
+   "titulo": "Storytelling 'Movilón Crusoe' in Soria",
+   "resumen": "A storytelling session for children aged 7 to 12 about the dangers of excessive mobile phone use and the importance of electronic recycling. A fun and participatory adventure!"
+  },
+  "temas": [
+   "ninos",
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": true
+ },
+ "e7db9e57c8": {
+  "id": "ae3a4f1516",
+  "es": {
+   "titulo": "Espectáculo de danza 'Stage_On the road' en Soria",
+   "resumen": "Larumbe Danza presenta 'Stage_On the road', un proyecto innovador que fusiona danza en vivo, videocreación y entornos virtuales para una experiencia inmersiva y emocionante para adultos."
+  },
+  "en": {
+   "titulo": "Dance Performance 'Stage_On the road' in Soria",
+   "resumen": "Larumbe Danza presents 'Stage_On the road', an innovative project merging live dance, video creation, and virtual environments for an immersive and emotional experience for adults."
+  },
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": true
+ },
+ "d99fcd96d0": {
+  "id": "2ce12056e9",
+  "es": {
+   "titulo": "Espectáculo de magia '3 grados' en Soria",
+   "resumen": "Óscar Escalante presenta '3 grados', un espectáculo de magia inspirado en la teoría de los 6 grados de separación. Un viaje alucinante que demuestra cómo todo está conectado."
+  },
+  "en": {
+   "titulo": "Magic Show '3 degrees' in Soria",
+   "resumen": "Óscar Escalante presents '3 degrees', a magic show inspired by the theory of 6 degrees of separation. An amazing journey demonstrating how everything is connected."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "f81429d7e1": {
+  "id": "353d7e7afc",
+  "es": {
+   "titulo": "Club de lectura de los Jueves en Soria",
+   "resumen": "Únete al club de lectura de narrativa que se reúne quincenalmente para comentar libros. La biblioteca propone las lecturas y facilita los ejemplares."
+  },
+  "en": {
+   "titulo": "Thursday Book Club in Soria",
+   "resumen": "Join the narrative book club that meets bi-weekly to discuss books. The library proposes the readings and provides copies."
+  },
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "20f2ec940c": {
+  "id": "7a4f806253",
+  "es": {
+   "titulo": "Club de lectura de los Lunes en Soria",
+   "resumen": "Participa en el club de lectura de narrativa que se reúne quincenalmente para comentar libros. La biblioteca propone las lecturas y facilita los ejemplares."
+  },
+  "en": {
+   "titulo": "Monday Book Club in Soria",
+   "resumen": "Participate in the narrative book club that meets bi-weekly to discuss books. The library proposes the readings and provides copies."
+  },
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "c88ef7b77c": {
+  "id": "63eb4b94d4",
+  "es": {
+   "titulo": "Club de lectura de los Martes en Soria",
+   "resumen": "Únete al club de lectura de narrativa que se reúne quincenalmente para comentar libros. La biblioteca propone las lecturas y facilita los ejemplares."
+  },
+  "en": {
+   "titulo": "Tuesday Book Club in Soria",
+   "resumen": "Join the narrative book club that meets bi-weekly to discuss books. The library proposes the readings and provides copies."
+  },
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "63434f72ca": {
+  "id": "2a94a4e9db",
+  "es": {
+   "titulo": "Club de lectura 'Noche de invierno' en Soria",
+   "resumen": "Nuevo club de lectura de narrativa que se reúne los viernes quincenalmente para comentar libros. La biblioteca propone las lecturas y facilita los ejemplares."
+  },
+  "en": {
+   "titulo": "Book Club 'Winter Night' in Soria",
+   "resumen": "A new narrative book club that meets bi-weekly on Fridays to discuss books. The library proposes the readings and provides copies."
+  },
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "8dd35d01e7": {
+  "id": "553ead90c1",
+  "es": {
+   "titulo": "Club de lectura 'Rayo de luna' en Soria",
+   "resumen": "Participa en el club de lectura de narrativa que se reúne los jueves quincenalmente para comentar libros. La biblioteca propone las lecturas y facilita los ejemplares."
+  },
+  "en": {
+   "titulo": "Book Club 'Moonbeam' in Soria",
+   "resumen": "Participate in the narrative book club that meets bi-weekly on Thursdays to discuss books. The library proposes the readings and provides copies."
+  },
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "dbc6efd8b6": {
+  "id": "ad61f96621",
+  "es": {
+   "titulo": "Club de lectura de los Viernes en Soria",
+   "resumen": "Únete al club de lectura de narrativa que se reúne quincenalmente los viernes por la mañana para comentar libros. La biblioteca propone las lecturas y facilita los ejemplares."
+  },
+  "en": {
+   "titulo": "Friday Book Club in Soria",
+   "resumen": "Join the narrative book club that meets bi-weekly on Friday mornings to discuss books. The library proposes the readings and provides copies."
+  },
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "56c445b7a3": {
+  "id": "cfb71ea1df",
+  "es": {
+   "titulo": "Club de lectura fácil ASAMIS en Soria",
+   "resumen": "Club de lectura en Lectura Fácil para personas con dificultades de comprensión. Se reúne los jueves para leer juntos y realizar actividades complementarias en colaboración con ASAMIS."
+  },
+  "en": {
+   "titulo": "Easy Reading Book Club ASAMIS in Soria",
+   "resumen": "Easy Reading book club for individuals with comprehension difficulties. Meets Thursdays for shared reading and complementary activities in collaboration with ASAMIS."
+  },
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "5287efc4fe": {
+  "id": "582e2834d7",
+  "es": {
+   "titulo": "Miércoles de cuento en Zamora",
+   "resumen": "Cuentacuentos para niños de 5 a 9 años, organizado por trimestres con grupos cerrados. ¡Inscripciones a partir del 23 de septiembre en la sección infantil y juvenil!"
+  },
+  "en": {
+   "titulo": "Wednesday Story Time in Zamora",
+   "resumen": "Storytelling for children aged 5 to 9, organized in closed groups by term. Registration opens September 23rd in the children's and youth section!"
+  },
+  "temas": [
+   "ninos",
    "cultura"
   ],
   "a_cubierto": true
