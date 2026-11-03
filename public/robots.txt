@@ -1,6 +1,11 @@
 User-agent: *
 Allow: /
 
+# Sin parámetros de URL: el sitio no los usa (restos de un foro antiguo: area=, board=, sa=, sort=, pretty...).
+# Se mantiene ?q= del buscador interno.
+Disallow: /*?
+Allow: /*?q=
+
 Sitemap: https://sinplanes.com/sitemap-index.xml
 Sitemap: https://sinplanes.com/sitemap-es.xml
 Sitemap: https://sinplanes.com/sitemap-en.xml
