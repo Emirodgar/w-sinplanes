@@ -276,8 +276,8 @@
    "lastSeen": "2026-11-04",
    "news": [
     "La cadena de despropósitos que terminó en la muerte de Jesús de Miguel: \"Sabíamos que más temprano que tarde pasaría algo así\"",
-    "Carta de defensa a Owono: “Jamás haría daño a nadie”",
-    "Aplazado el partido Granada - Tenerife por la muerte de Jesús de Miguel"
+    "Algo que podemos aprender de la muerte de Jesús de Miguel",
+    "Los mensajes del mundo del fútbol que piden no criminalizar a Owono"
    ]
   },
   {
@@ -600,6 +600,26 @@
    ]
   },
   {
+   "term": "alexander zverev",
+   "traffic": 2000,
+   "lastSeen": "2026-11-04",
+   "news": [
+    "Nadal, Sinner & Sampras share messages for Zverev, newest ATP No. 1 Club member",
+    "Zverev, one of the \"worst\" number 1s in tennis history?",
+    "Alexander Zverev becomes deserved world number one but sense of discomfort remains"
+   ]
+  },
+  {
+   "term": "julia otero",
+   "traffic": 2000,
+   "lastSeen": "2026-11-04",
+   "news": [
+    "El testimonio de Ousman Umar, recomendado por Julia Otero: Viaje al país de los blancos",
+    "El cine club de Arnedo asiste este jueves al viaje de Ousman Umar",
+    "“Porque Julia Otero, aunque pocos lo sepan, tiene una vida privada muy dichosa a la que ella protege con uñas y dientes”"
+   ]
+  },
+  {
    "term": "municipio",
    "traffic": 1000,
    "lastSeen": "2026-10-21",
@@ -890,9 +910,11 @@
   {
    "term": "daniel mérida",
    "traffic": 1000,
-   "lastSeen": "2026-11-02",
+   "lastSeen": "2026-11-04",
    "news": [
-    "Comienza la venta online de entradas para el partido UD Las Palmas vs CD Eldense"
+    "Dani Mérida se despide de París y de la temporada 2026",
+    "ATP Masters 1000 de París - Paul vs. Mérida Aguilar: fecha, hora y dónde ver",
+    "Mérida dice adiós a una temporada de ensueño con una severa derrota"
    ]
   },
   {
@@ -913,6 +935,16 @@
     "Guillermo Furiase, hijo de Lolita: “Siempre dicen que soy el desconocido de los Flores y me gusta serlo porque soy muy íntimo con mi vida y de enchufes nada\"",
     "Guillermo Furiase: \"La gente se piensa que por nacer en la familia Flores no hacemos la cola, pero es al revés\"",
     "Guillermo Furiase, actor: “Entreno todos los días, también por una cuestión de salud mental, de despejarme. Soy el único de los Flores que hace deporte”"
+   ]
+  },
+  {
+   "term": "rafa nadal",
+   "traffic": 1000,
+   "lastSeen": "2026-11-04",
+   "news": [
+    "¡Rafa Nadal entrará en la Junta Directiva del Real Madrid!",
+    "Rafa Nadal, el mejor ‘fichaje’ del Real Madrid",
+    "Rafa Nadal entrará en la junta directiva de Florentino Pérez"
    ]
   },
   {
@@ -2255,16 +2287,6 @@
    ]
   },
   {
-   "term": "rafa nadal",
-   "traffic": 200,
-   "lastSeen": "2026-11-04",
-   "news": [
-    "El Madrid hace directivo a Nadal",
-    "¡Rafa Nadal entrará en la Junta Directiva del Real Madrid!",
-    "El Real Madrid \"ficha\" a Rafa Nadal como nuevo miembro de la Junta Directiva"
-   ]
-  },
-  {
    "term": "metacritic",
    "traffic": 200,
    "lastSeen": "2026-11-04",
@@ -2272,6 +2294,46 @@
     "Review: The Legend of Zelda: Ocarina of Time remake is superb, streamlined and safe",
     "The Legend of Zelda: Ocarina of Time review – a dream come true",
     "Ask the Developer Vol. 24, The Legend of Zelda: Ocarina of Time – Chapter 1"
+   ]
+  },
+  {
+   "term": "misa",
+   "traffic": 200,
+   "lastSeen": "2026-11-04",
+   "news": [
+    "Los reyes Felipe y Letizia asistirán al funeral por las víctimas del accidente de tren en la Catedral de Toledo",
+    "El funeral por las víctimas del coche de Urda será el 12 de noviembre en la Catedral de Toledo",
+    "Ya hay fecha para la misa funeral por las víctimas del accidente de tren: en Toledo y con la presencia de los reyes Felipe y Letizia"
+   ]
+  },
+  {
+   "term": "alcorcón",
+   "traffic": 200,
+   "lastSeen": "2026-11-04",
+   "news": [
+    "Persecución con dos policías heridos en el intento de asalto a un centro comercial de Alcorcón",
+    "Dos coches de alta gama embisten un patrulla de la Policía en Alcorcón y se dan a la fuga",
+    "Dos coches de alta gama embisten a un vehículo de la Policía en una peligrosa persecución en Alcorcón"
+   ]
+  },
+  {
+   "term": "vitor roque",
+   "traffic": 200,
+   "lastSeen": "2026-11-04",
+   "news": [
+    "El Everton puede dejar una millonada al Barça por Vitor Roque",
+    "Se prepara el regreso de Vitor Roque y el Barcelona se frota las manos",
+    "Vitor Roque podría dejar 10 M€ en las arcas del FC Barcelona"
+   ]
+  },
+  {
+   "term": "emma walmsley",
+   "traffic": 200,
+   "lastSeen": "2026-11-04",
+   "news": [
+    "Emma Walmsley named the new chief executive of of HP",
+    "HP Taps Former GSK Executive Emma Walmsley as Next CEO",
+    "HP Inc. Appoints Emma Walmsley as Chief Executive Officer"
    ]
   },
   {

@@ -14025,5 +14025,976 @@
   ],
   "a_cubierto": null,
   "confianza": 0.5
+ },
+ "5e66484769": {
+  "url": "https://www.20minutos.es/musica/justin-timberlake-janet-jackson-se-reconcilian-22-anos-despues-su-polemica-actuacion-super-bowl_7057112_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-11-04",
+  "es_plan": false
+ },
+ "defae7822b": {
+  "url": "https://www.20minutos.es/libros/muere-los-95-anos-janosch-celebre-autor-literatura-infantil-residente-tenerife_7057053_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-11-04",
+  "es_plan": false
+ },
+ "26a6accaa9": {
+  "url": "https://www.20minutos.es/cultura/chirichota-regresa-madrid-con-dos-unicas-funciones-vuelven-los-clasicos-beethoven-mozart-se-enfrentan-regueton_7057049_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-11-04",
+  "es_plan": true,
+  "titulo": "La Chirichota regresa a Madrid con '¡Vuelven los clásicos!'",
+  "resumen": "La compañía canaria La Chirichota presenta en Madrid su espectáculo '¡Vuelven los clásicos!', que mezcla música, ironía y crítica social. Se podrá ver en el Teatro Capitol Gran Vía los días 28 y 29 de noviembre.",
+  "en": {
+   "titulo": "La Chirichota returns to Madrid with 'The Classics Return!'",
+   "resumen": "The Canary Islands company La Chirichota presents its show '¡Vuelven los clásicos!' in Madrid, blending music, irony, and social criticism. It will be performed at the Teatro Capitol Gran Vía on November 28th and 29th."
+  },
+  "inicio": "2026-11-28",
+  "fin": "2026-11-29",
+  "hora": null,
+  "lugar": "Teatro Capitol Gran Vía",
+  "municipio": "Madrid",
+  "provincia": "Madrid",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "f02a3652ba": {
+  "url": "https://www.20minutos.es/musica/c-tangana-regresa-rap-con-milko-freestyle-despues-tres-anos-alejado-musica-resucito-como-cristo_7056950_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-11-04",
+  "es_plan": false
+ },
+ "5b8e76e887": {
+  "url": "https://www.20minutos.es/musica/txus-di-fellatio-lider-maego-oz-acusa-traicion-dos-miembros-grupo-pero-no-los-despide-es-injusto-maltratar-banda_7056899_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-11-04",
+  "es_plan": false
+ },
+ "f304252b02": {
+  "url": "https://elpais.com/cultura/2026-11-04/c-tangana-publica-milko-freestyle-una-cancion-biografica-que-eleva-la-expectacion-sobre-su-vuelta-a-la-musica.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-11-04",
+  "es_plan": false
+ },
+ "1d2cb6a57b": {
+  "url": "https://elpais.com/cultura/2026-11-04/de-que-esta-hecho-un-accidente-como-una-catastrofe-de-1977-vuelve-a-hablar-del-presente.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-11-04",
+  "es_plan": false
+ },
+ "72d6052639": {
+  "url": "https://www.lavanguardia.com/cultura/20261104/11675872/misterioso-asesinato-arqueologo-james-leslie-starkey-entrelazo-intereses-economicos-investigacion-lucha-armada-88-anos.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-04",
+  "es_plan": false
+ },
+ "561ae82ceb": {
+  "url": "https://www.lavanguardia.com/cultura/20261104/11675804/limpias-cuentos-eliminas-brujas-miedo-nino-queda-alergico-vida.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-04",
+  "es_plan": false
+ },
+ "f9fff38d3e": {
+  "url": "https://www.lavanguardia.com/cultura/20261104/11675281/fantasma-trump-varado-venecia.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-04",
+  "es_plan": false
+ },
+ "c88be9512d": {
+  "url": "https://www.lavanguardia.com/cultura/20261104/11673951/ruega-pelicula-revela-secreto-mejor-guardado-espana-reciente.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-04",
+  "es_plan": false
+ },
+ "4747621487": {
+  "url": "https://www.ara.cat/cultura/teatre/espectacle-connecta-protestes-xile-realitat-europea_1_5899717.html",
+  "fuente": "Ara (Cultura)",
+  "src": "prensa-ara-cultura",
+  "publicado": "2026-11-04",
+  "es_plan": true,
+  "titulo": "Un espectáculo conecta les protestes de Xile amb la realitat europea",
+  "resumen": "La companyia Bonobo estrena l'espectacle 'Estampida humana' al festival Temporada Alta, que connecta les protestes de Xile amb les emergents manifestacions a Europa. La peça viatjarà després a Itàlia.",
+  "en": {
+   "titulo": "A show connects Chilean protests with European reality",
+   "resumen": "The company Bonobo premieres the show 'Estampida humana' at the Temporada Alta festival, connecting Chilean protests with emerging demonstrations in Europe. The piece will later travel to Italy."
+  },
+  "inicio": "2026-11-04",
+  "fin": "2026-11-04",
+  "hora": null,
+  "lugar": "Canal de Salt",
+  "municipio": "Salt",
+  "provincia": "Girona",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "c3e0cc82cb": {
+  "url": "https://www.ara.cat/estils/viatge-immersiu-caminar-dinosaures-mida-real_1_5898727.html",
+  "fuente": "Ara (Cultura)",
+  "src": "prensa-ara-cultura",
+  "publicado": "2026-11-04",
+  "es_plan": true,
+  "titulo": "Un viatge immersiu per caminar entre dinosaures de mida real",
+  "resumen": "L’Ideal Centre d’Arts Digitals inaugura 'Dinosaurium', una experiència immersiva que combina art, ciència i tecnologia per recrear l'ecosistema dels dinosaures amb models a mida real.",
+  "en": {
+   "titulo": "An immersive journey to walk among life-sized dinosaurs",
+   "resumen": "L’Ideal Centre d’Arts Digitals inaugurates 'Dinosaurium', an immersive experience combining art, science, and technology to recreate the dinosaur ecosystem with life-sized models."
+  },
+  "inicio": "2026-11-06",
+  "fin": "2026-11-06",
+  "hora": null,
+  "lugar": "Ideal Centre d’Arts Digitals",
+  "municipio": "Barcelona",
+  "provincia": "Barcelona",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "museos",
+   "cultura",
+   "ninos"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "2d7754be26": {
+  "url": "https://diumenge.ara.cat/diumenge/meva-terapeuta-no-hauria-transitat-l-exit-d-47_128_5898655.html",
+  "fuente": "Ara (Cultura)",
+  "src": "prensa-ara-cultura",
+  "publicado": "2026-11-04",
+  "es_plan": false
+ },
+ "4e6ffa6c9e": {
+  "url": "https://www.ara.cat/cultura/art/casa-batllo-estrenara-nou-mapping-joanie-lemercier-juliette-bibasse-maria-arnal_25_5899494.html",
+  "fuente": "Ara (Cultura)",
+  "src": "prensa-ara-cultura",
+  "publicado": "2026-11-04",
+  "es_plan": true,
+  "titulo": "La Casa Batlló estrenarà un nou màping amb Joanie Lemercier i Maria Arnal",
+  "resumen": "La Casa Batlló acogerá la sexta edición de su espectáculo de mapping los días 30 y 31 de enero de 2027, con creaciones de Joanie Lemercier y Juliette Bibasse y banda sonora de Maria Arnal.",
+  "en": {
+   "titulo": "Casa Batlló will premiere a new mapping with Joanie Lemercier and Maria Arnal",
+   "resumen": "Casa Batlló will host the sixth edition of its mapping show on January 30th and 31st, 2027, featuring creations by Joanie Lemercier and Juliette Bibasse, with a soundtrack by Maria Arnal."
+  },
+  "inicio": "2027-01-30",
+  "fin": "2027-01-31",
+  "hora": null,
+  "lugar": "Casa Batlló",
+  "municipio": "Barcelona",
+  "provincia": "Barcelona",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "actividades",
+   "museos"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "476e7f4263": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/04/amaia-montero-preocupa-fans-estoy-sufriendo-mucho-2065578.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-04",
+  "es_plan": false
+ },
+ "6dfb06cd3e": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/04/maruja-torres-premio-feroz-honor-2027-concedido-informadores-cinematograficos-2065600.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-04",
+  "es_plan": true,
+  "titulo": "Maruja Torres, Premio Feroz de Honor 2027 en Pontevedra",
+  "resumen": "La periodista y escritora Maruja Torres recibirá el Premio Feroz de Honor 2027 en la gala de la Asociación de Informadores Cinematográficos de España en Pontevedra.",
+  "en": {
+   "titulo": "Maruja Torres, Feroz de Honor Award 2027 in Pontevedra",
+   "resumen": "Journalist and writer Maruja Torres will receive the Feroz de Honor Award 2027 at the gala of the Association of Cinematographic Informants of Spain in Pontevedra."
+  },
+  "inicio": "2027-01-23",
+  "fin": "2027-01-23",
+  "hora": null,
+  "lugar": null,
+  "municipio": "Pontevedra",
+  "provincia": "Pontevedra",
+  "ambito": "nacional",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "4b0bc6ee4f": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/04/c-tangana-regresa-rap-milko-freestyle-paternidad-duelo-legado-2065577.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-04",
+  "es_plan": false
+ },
+ "17df22dba2": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/04/blanca-portillo-depresion-sentia-feliz-serie-tuviera-exito-lado-acababa-privacidad-2065572.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-04",
+  "es_plan": false
+ },
+ "6f8319048c": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/04/muere-nicole-taylor-cantante-taylor-red-cancer-mama-35anos-2065563.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-04",
+  "es_plan": false
+ },
+ "24b6dcc2f8": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/04/vicky-martin-berrocal-disenadora-papa-hay-dias-contarte-que-esta-pasando-ahora-me-quedo-mirando-como-me-mirabas-2065542.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-04",
+  "es_plan": false
+ },
+ "24f3ac0722": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/04/rafa-mora-43anos-propietario-9pisos-gano-6000euros-mes-alquileres-podria-estar-sin-trabajar-2063164.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-04",
+  "es_plan": false
+ },
+ "bb1940506c": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/04/joan-manuel-serrat-casa-82anos-casa-sombria-vivienda-barrio-sol-entraba-mucha-dificultad-2063175.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-04",
+  "es_plan": false
+ },
+ "8fc295e30b": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/04/gira-regreso-heroes-silencio-2007-bunbury-beneficio-economicamente-resto-herida-hizo-grande-2056391.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-04",
+  "es_plan": false
+ },
+ "fb29d89e4a": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/04/megan-montaner-anuncia-rodaje-quinta-temporada-serie-exito-caza-2065515.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-04",
+  "es_plan": false
+ },
+ "9d0a3c2bf4": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/04/eva-amaral-54anos-mucha-gente-valora-gorda-importa-menos-pintarme-2065308.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-04",
+  "es_plan": true,
+  "titulo": "Conciertos de Eva Amaral en Barcelona y Madrid (Diciembre 2026)",
+  "resumen": "Eva Amaral cerrará el año 2026 con dos conciertos multitudinarios en Barcelona (18 de diciembre) y Madrid (28 de diciembre), celebrando un momento de plenitud artística y personal.",
+  "en": {
+   "titulo": "Eva Amaral concerts in Barcelona and Madrid (December 2026)",
+   "resumen": "Eva Amaral will close the year 2026 with two massive concerts in Barcelona (December 18th) and Madrid (December 28th), celebrating a moment of artistic and personal fulfillment."
+  },
+  "inicio": "2026-12-18",
+  "fin": "2026-12-28",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "98895c6c75": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/04/torero-andres-roca-rey-30anos-estoy-mucho-miedo-motivado-2064585.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-04",
+  "es_plan": false
+ },
+ "25f45a9aa1": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/04/jose-sacristan-89anos-parecen-detestables-actitudes-miserables-santiago-abascal-terrible-accidente-ferroviario-2064584.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-04",
+  "es_plan": true,
+  "titulo": "José Sacristán de gira con 'El hijo de la cómica'",
+  "resumen": "El actor José Sacristán continúa de gira por España representando la obra 'El hijo de la cómica', basada en las memorias de Fernando Fernán Gómez. Estará en Zaragoza del 16 al 20 de diciembre.",
+  "en": {
+   "titulo": "José Sacristán on tour with 'El hijo de la cómica'",
+   "resumen": "Actor José Sacristán continues his tour across Spain performing the play 'El hijo de la cómica', based on Fernando Fernán Gómez's memoirs. He will be in Zaragoza from December 16th to 20th."
+  },
+  "inicio": "2026-12-16",
+  "fin": "2026-12-20",
+  "hora": null,
+  "lugar": "Teatro Principal",
+  "municipio": "Zaragoza",
+  "provincia": "Zaragoza",
+  "ambito": "nacional",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "bdc952c78e": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/04/dolores-redondo-contacto-directo-con-los-lectores-es-como-recoger-lena-para-invierno-2065462.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-04",
+  "es_plan": false
+ },
+ "8feaa4c502": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/04/carlos-sobera-no-hay-aragones-pase-first-dates-cualquier-sitio-mundo-no-deje-huella-2065397.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-04",
+  "es_plan": false
+ },
+ "d858893304": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/04/matias-prats-sobre-patrimonio-mi-padre-vivia-para-trabajar-yo-prefiero-vivir-negocio-fotovoltaico-2065345.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-04",
+  "es_plan": false
+ },
+ "2a1f41f3eb": {
+  "url": "https://www.elnortedecastilla.es/culturas/libros/rut-pedreno-tomas-hijo-participaran-raya-ilustrada-20261104131051-nt.html",
+  "fuente": "El Norte de Castilla (Culturas)",
+  "src": "prensa-nortecastilla-culturas",
+  "publicado": "2026-11-04",
+  "es_plan": true,
+  "titulo": "Jornada gráfica luso-española 'La Raya Ilustrada' en Ciudad Rodrigo",
+  "resumen": "Rut Pedreño y Tomás Hijo participarán en 'La Raya Ilustrada', una jornada gráfica luso-española que se celebrará el 10 de noviembre en Ciudad Rodrigo y abordará la descentralización del mundo de la edición.",
+  "en": {
+   "titulo": "Luso-Spanish graphic event 'La Raya Ilustrada' in Ciudad Rodrigo",
+   "resumen": "Rut Pedreño and Tomás Hijo will participate in 'La Raya Ilustrada', a Luso-Spanish graphic event to be held on November 10 in Ciudad Rodrigo, addressing the decentralization of the publishing world."
+  },
+  "inicio": "2026-11-10",
+  "fin": "2026-11-10",
+  "hora": null,
+  "lugar": null,
+  "municipio": "Ciudad Rodrigo",
+  "provincia": "Salamanca",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "bb1bab850e": {
+  "url": "https://www.elnortedecastilla.es/culturas/teatro/enganchar-jovenes-clasicos-tema-encuentros-veo-calderon-20261104125547-nt.html",
+  "fuente": "El Norte de Castilla (Culturas)",
+  "src": "prensa-nortecastilla-culturas",
+  "publicado": "2026-11-04",
+  "es_plan": false
+ },
+ "dcd82cb656": {
+  "url": "https://www.diariosur.es/culturas/libros/antonio-soler-usar-ia-escribir-novela-timo-20261103054518-nt.html",
+  "fuente": "Diario Sur (Culturas)",
+  "src": "prensa-diariosur-culturas",
+  "publicado": "2026-11-04",
+  "es_plan": false
+ },
+ "4f6fa86111": {
+  "url": "https://www.ideal.es/culturas/jaen/flamenco-patrimonio-dinamizan-agenda-noviembre-cultural-jaen-20261104135945-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-11-04",
+  "es_plan": false
+ },
+ "78c44cef93": {
+  "url": "https://www.elcorreo.com/culturas/teatro/venimos-evangelizar-bilbao-20261104124433-nt.html",
+  "fuente": "El Correo (Culturas)",
+  "src": "prensa-elcorreo-culturas",
+  "publicado": "2026-11-04",
+  "es_plan": false
+ },
+ "d0281edcd0": {
+  "url": "https://www.elcorreo.com/culturas/musica/sweet-rage-oir-ver-bailar-jugar-20261104020757-nt.html",
+  "fuente": "El Correo (Culturas)",
+  "src": "prensa-elcorreo-culturas",
+  "publicado": "2026-11-04",
+  "es_plan": true,
+  "titulo": "Sweet Rage estrena 'Ko-loreak' en Bilbao junto a Sôber",
+  "resumen": "El grupo Sweet Rage estrena su nuevo trabajo 'Ko-loreak' este sábado en Bilbao, actuando como teloneros de Sôber. El álbum combina metal-pop y videojuegos.",
+  "en": {
+   "titulo": "Sweet Rage premieres 'Ko-loreak' in Bilbao with Sôber",
+   "resumen": "The band Sweet Rage premieres their new work 'Ko-loreak' this Saturday in Bilbao, opening for Sôber. The album combines metal-pop and video games."
+  },
+  "inicio": "2026-11-07",
+  "fin": "2026-11-07",
+  "hora": null,
+  "lugar": null,
+  "municipio": "Bilbao",
+  "provincia": "Vizcaya",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "ce9c9f7752": {
+  "url": "https://www.diariovasco.com/bidasoa/irun/natxo-felipe-oskorri-concierto-diciembre-irun-20261104121227-nt.html",
+  "fuente": "El Diario Vasco (Culturas)",
+  "src": "prensa-diariovasco-culturas",
+  "publicado": "2026-11-04",
+  "es_plan": true,
+  "titulo": "Natxo de Felipe actúa en Irun el 20 de diciembre con 'Abandonatuak'",
+  "resumen": "El ex cantante de Oskorri, Natxo de Felipe, actuará el 20 de diciembre en el Centro Cultural Amaia de Irun junto al Kuarteto Philiperena, interpretando temas descartados por Oskorri.",
+  "en": {
+   "titulo": "Natxo de Felipe performs in Irun on December 20 with 'Abandonatuak'",
+   "resumen": "Former Oskorri singer Natxo de Felipe will perform on December 20 at the Amaia Cultural Center in Irun with the Kuarteto Philiperena, interpreting songs discarded by Oskorri."
+  },
+  "inicio": "2026-12-20",
+  "fin": "2026-12-20",
+  "hora": null,
+  "lugar": "Centro Cultural Amaia",
+  "municipio": "Irun",
+  "provincia": "Gipuzkoa",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "ae7e9dcb1f": {
+  "url": "https://www.lasprovincias.es/culturas/tv/nuevo-true-crime-sobre-diez-estafas-mediaticas-20261014010024-nt.html",
+  "fuente": "Las Provincias (Culturas)",
+  "src": "prensa-lasprovincias-culturas",
+  "publicado": "2026-11-04",
+  "es_plan": false
+ },
+ "da3a3fb550": {
+  "url": "https://www.lasprovincias.es/culturas/tv/resintonizar-television-samsung-sony-septima-20261102115727-nt.html",
+  "fuente": "Las Provincias (Culturas)",
+  "src": "prensa-lasprovincias-culturas",
+  "publicado": "2026-11-04",
+  "es_plan": true,
+  "titulo": "Resintonizar TV el 5 de noviembre por La Séptima y 4K",
+  "resumen": "El 5 de noviembre, la TDT se reorganiza con la llegada de La Séptima y emisiones en 4K. Se recomienda hacer una búsqueda automática de canales a partir de las 08:00.",
+  "en": {
+   "titulo": "Retune TV on November 5 for La Séptima and 4K",
+   "resumen": "On November 5, DTT will be reorganized with the arrival of La Séptima and 4K broadcasts. An automatic channel search is recommended from 08:00 onwards."
+  },
+  "inicio": "2026-11-05",
+  "fin": "2026-11-05",
+  "hora": "08:00",
+  "lugar": null,
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": true,
+  "precio": null,
+  "temas": [
+   "pantalla",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "cd0be9a563": {
+  "url": "https://www.lasprovincias.es/culturas/roig-arena-entradas-concierto-ano-nuevo-20261103151451-nt.html",
+  "fuente": "Las Provincias (Culturas)",
+  "src": "prensa-lasprovincias-culturas",
+  "publicado": "2026-11-04",
+  "es_plan": true,
+  "titulo": "Concierto de Año Nuevo en el Roig Arena de Valencia",
+  "resumen": "El Concierto de Año Nuevo, con Ainhoa Arteta y la Orquesta Sinfónica Internacional de Valencia, se celebrará el 1 de enero en el Roig Arena. Las entradas están casi agotadas.",
+  "en": {
+   "titulo": "New Year's Concert at Valencia's Roig Arena",
+   "resumen": "The New Year's Concert, featuring Ainhoa Arteta and the Valencia International Symphony Orchestra, will take place on January 1st at the Roig Arena. Tickets are almost sold out."
+  },
+  "inicio": "2027-01-01",
+  "fin": "2027-01-01",
+  "hora": null,
+  "lugar": "Roig Arena",
+  "municipio": "Valencia",
+  "provincia": "Valencia",
+  "ambito": "local",
+  "gratis": false,
+  "precio": "Desde 105 euros",
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "e19df08f56": {
+  "url": "https://www.lasprovincias.es/culturas/tv/abascal-visitara-revuelta-escasos-dias-inicio-campana-20261103135002-nt.html",
+  "fuente": "Las Provincias (Culturas)",
+  "src": "prensa-lasprovincias-culturas",
+  "publicado": "2026-11-04",
+  "es_plan": false
+ },
+ "ed7b2e2379": {
+  "url": "https://www.lasprovincias.es/culturas/tv/television-emite-hoy-obra-maestra-cine-accion-20261103003528-nt.html",
+  "fuente": "Las Provincias (Culturas)",
+  "src": "prensa-lasprovincias-culturas",
+  "publicado": "2026-11-04",
+  "es_plan": true,
+  "titulo": "Cine de acción: Obra maestra de James Cameron hoy en Canal Hollywood",
+  "resumen": "Canal Hollywood emite hoy una obra maestra del cine de acción dirigida por James Cameron y protagonizada por Arnold Schwarzenegger, galardonada con cinco premios Oscar.",
+  "en": {
+   "titulo": "Action cinema: James Cameron masterpiece today on Canal Hollywood",
+   "resumen": "Canal Hollywood is broadcasting a masterpiece of action cinema today, directed by James Cameron and starring Arnold Schwarzenegger, winner of five Oscars."
+  },
+  "inicio": "2026-11-04",
+  "fin": "2026-11-04",
+  "hora": "18:28",
+  "lugar": "Canal Hollywood",
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "pantalla",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "1394689a1e": {
+  "url": "https://www.laverdad.es/culturas/edicion-festival-distopia-recordara-raul-garcia-premio-20261104124412-nt.html",
+  "fuente": "La Verdad (Culturas)",
+  "src": "prensa-laverdad-culturas",
+  "publicado": "2026-11-04",
+  "es_plan": false
+ },
+ "2d6626c9fe": {
+  "url": "https://www.laverdad.es/culturas/accion-batas-blancas-alfonso-albacete-rueda-hospital-20261103181732-nt.html",
+  "fuente": "La Verdad (Culturas)",
+  "src": "prensa-laverdad-culturas",
+  "publicado": "2026-11-04",
+  "es_plan": true,
+  "titulo": "Alfonso Albacete rueda película en Murcia",
+  "resumen": "El cineasta Alfonso Albacete rueda esta semana en Murcia el filme 'Si te contara', con Cayetana Guillén Cuervo y Lolita, en localizaciones como el hospital Los Arcos y el Teatro Romea.",
+  "en": {
+   "titulo": "Alfonso Albacete shoots film in Murcia",
+   "resumen": "Filmmaker Alfonso Albacete is shooting the film 'Si te contara' this week in Murcia, featuring Cayetana Guillén Cuervo and Lolita, in locations such as Los Arcos hospital and the Romea Theatre."
+  },
+  "inicio": "2026-11-04",
+  "fin": "2026-11-10",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": "Región de Murcia",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.5
+ },
+ "004f8cd540": {
+  "url": "https://www.elcomercio.es/culturas/arte/sociedad-asturiana-filosofia-celebra-medio-siglo-vida-exposicion-oviedo-20261104104744-nt.html",
+  "fuente": "El Comercio (Culturas)",
+  "src": "prensa-elcomercio-culturas",
+  "publicado": "2026-11-04",
+  "es_plan": false
+ },
+ "501f321eb8": {
+  "url": "https://www.elcomercio.es/area-metropolitana-asturias/cuencas/elvira-lindo-mieres-autora-manolito-gafotas-encuentro-20261104112209-nt.html",
+  "fuente": "El Comercio (Culturas)",
+  "src": "prensa-elcomercio-culturas",
+  "publicado": "2026-11-04",
+  "es_plan": true,
+  "titulo": "Elvira Lindo en Mieres: 'Así suenan los libros con...'",
+  "resumen": "La autora de 'Manolito Gafotas', Elvira Lindo, participará en el ciclo 'Así suenan los libros con...' en Mieres el 12 de noviembre. Conversará con Miguel Barrero en el auditorio Teodoro Cuesta, con música en directo.",
+  "en": {
+   "titulo": "Elvira Lindo in Mieres: 'This is how books sound with...'",
+   "resumen": "The author of 'Manolito Gafotas', Elvira Lindo, will participate in the 'This is how books sound with...' series in Mieres on November 12th. She will converse with Miguel Barrero at the Teodoro Cuesta auditorium, with live music."
+  },
+  "inicio": "2026-11-12",
+  "fin": "2026-11-12",
+  "hora": null,
+  "lugar": "Auditorio Teodoro Cuesta",
+  "municipio": "Mieres",
+  "provincia": "Asturias",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "libros",
+   "musica"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "48328e581d": {
+  "url": "https://www.elcomercio.es/culturas/libros/carlos-lopez-otin-libro-gijon-jovellanos-vida-mejor-ejemplo-conozco-20261103215032-nt.html",
+  "fuente": "El Comercio (Culturas)",
+  "src": "prensa-elcomercio-culturas",
+  "publicado": "2026-11-04",
+  "es_plan": false
+ },
+ "ea873bc529": {
+  "url": "https://www.larioja.com/culturas/empieza-sonar-actual-2027-20261104133309-nt.html",
+  "fuente": "La Rioja (Culturas)",
+  "src": "prensa-larioja-culturas",
+  "publicado": "2026-11-04",
+  "es_plan": true,
+  "titulo": "Festival Actual 2027: Primeros artistas anunciados",
+  "resumen": "El festival Actual 2027 en Logroño desvela sus primeros artistas confirmados para principios de enero, anticipando el inicio de su próxima edición.",
+  "en": {
+   "titulo": "Actual 2027 Festival: First artists announced",
+   "resumen": "The Actual 2027 festival in Logroño reveals its first confirmed artists for early January, previewing the start of its next edition."
+  },
+  "inicio": "2027-01-01",
+  "fin": "2027-01-01",
+  "hora": null,
+  "lugar": null,
+  "municipio": "Logroño",
+  "provincia": "La Rioja",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica",
+   "fiestas"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.7
+ },
+ "680b08acd7": {
+  "url": "https://www.larioja.com/culturas/conciertos-actual-2027-20261104112952-nt.html",
+  "fuente": "La Rioja (Culturas)",
+  "src": "prensa-larioja-culturas",
+  "publicado": "2026-11-04",
+  "es_plan": true,
+  "titulo": "Festival Actual 2027: Kiko Veneno, Xoel López, Iván Ferreiro y más",
+  "resumen": "El festival Actual 2027, en su 37ª edición del 2 al 6 de enero en Logroño, confirma a Kiko Veneno, Xoel López, Iván Ferreiro y Los Delinqüentes. Los conciertos se celebrarán en el Palacio de Deportes y Riojafórum.",
+  "en": {
+   "titulo": "Actual 2027 Festival: Kiko Veneno, Xoel López, Iván Ferreiro, and more",
+   "resumen": "The Actual 2027 festival, in its 37th edition from January 2nd to 6th in Logroño, confirms Kiko Veneno, Xoel López, Iván Ferreiro, and Los Delinqüentes. Concerts will take place at the Palacio de Deportes and Riojafórum."
+  },
+  "inicio": "2027-01-02",
+  "fin": "2027-01-06",
+  "hora": null,
+  "lugar": "Palacio de Deportes, Riojafórum",
+  "municipio": "Logroño",
+  "provincia": "La Rioja",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica",
+   "fiestas"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "5c8118823a": {
+  "url": "https://www.larioja.com/culturas/musica/jero-ramiro-presenta-sabado-fundicion-cuna-mal-20261104115659-nt.html",
+  "fuente": "La Rioja (Culturas)",
+  "src": "prensa-larioja-culturas",
+  "publicado": "2026-11-04",
+  "es_plan": true,
+  "titulo": "Jero Ramiro y Guadaña en concierto en la Fundición de Logroño",
+  "resumen": "Jero Ramiro presenta su trabajo 'La cuna del mal' este sábado en la Sala La Fundición de Logroño, con Guadaña como banda invitada. También actuarán The Black Wizards y Despistaos.",
+  "en": {
+   "titulo": "Jero Ramiro and Guadaña in concert at La Fundición, Logroño",
+   "resumen": "Jero Ramiro presents his work 'La cuna del mal' this Saturday at Sala La Fundición in Logroño, with Guadaña as the guest band. The Black Wizards and Despistaos will also perform."
+  },
+  "inicio": "2026-11-07",
+  "fin": "2026-11-07",
+  "hora": null,
+  "lugar": "Sala La Fundición",
+  "municipio": "Logroño",
+  "provincia": "La Rioja",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "87b8e43677": {
+  "url": "https://www.larioja.com/culturas/elarrebato-acerca-sala-gonzalo-berceo-cine-moriarti-20261104081043-nt.html",
+  "fuente": "La Rioja (Culturas)",
+  "src": "prensa-larioja-culturas",
+  "publicado": "2026-11-04",
+  "es_plan": true,
+  "titulo": "Proyección de cortometrajes de los Moriarti en Logroño",
+  "resumen": "Elarrebato acerca el cine de los Moriarti a Logroño con la proyección de ocho de sus cortometrajes en la Sala Gonzalo de Berceo este jueves a partir de las 19:30 horas.",
+  "en": {
+   "titulo": "Screening of Moriarti's short films in Logroño",
+   "resumen": "Elarrebato brings Moriarti's cinema to Logroño with a screening of eight of their short films at Sala Gonzalo de Berceo this Thursday, starting at 7:30 PM."
+  },
+  "inicio": "2026-11-05",
+  "fin": "2026-11-05",
+  "hora": "19:30",
+  "lugar": "Sala Gonzalo de Berceo",
+  "municipio": "Logroño",
+  "provincia": "La Rioja",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "a0b715cd7a": {
+  "url": "https://www.larioja.com/culturas/luis-arrojo-estrena-logrono-cortometraje-bascula-20261104081040-nt.html",
+  "fuente": "La Rioja (Culturas)",
+  "src": "prensa-larioja-culturas",
+  "publicado": "2026-11-04",
+  "es_plan": true,
+  "titulo": "Estreno del cortometraje 'La báscula' de Luis Arrojo en Logroño",
+  "resumen": "El cineasta riojano Luis Arrojo estrena su cortometraje 'La báscula' en Logroño. Se proyectará hoy y el viernes en La Gota de Leche, tras su paso por Octubre Corto.",
+  "en": {
+   "titulo": "Premiere of Luis Arrojo's short film 'La báscula' in Logroño",
+   "resumen": "Riojan filmmaker Luis Arrojo premieres his short film 'La báscula' in Logroño. It will be screened today and Friday at La Gota de Leche, after its run at Octubre Corto."
+  },
+  "inicio": "2026-11-04",
+  "fin": "2026-11-04",
+  "hora": null,
+  "lugar": "La Gota de Leche",
+  "municipio": "Logroño",
+  "provincia": "La Rioja",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "7e69ab6d21": {
+  "url": "https://www.europapress.es/cultura/noticia-cirque-du-soleil-desembarca-madrid-kurios-gabinete-curiosidades-oda-steampunk-imaginacion-20261103200402.html",
+  "fuente": "Europa Press (Cultura)",
+  "src": "prensa-europapress-cultura",
+  "publicado": "2026-11-03",
+  "es_plan": true,
+  "titulo": "Estreno de 'KURIOS-Gabinete de Curiosidades' del Cirque du Soleil en Madrid",
+  "resumen": "El Cirque du Soleil estrena en Madrid su espectáculo 'KURIOS-Gabinete de Curiosidades', una oda 'steampunk' a la imaginación. La obra sumerge al espectador en un universo retrofuturista.",
+  "en": {
+   "titulo": "Premiere of Cirque du Soleil's 'KURIOS-Cabinet of Curiosities' in Madrid",
+   "resumen": "Cirque du Soleil premieres its show 'KURIOS-Cabinet of Curiosities' in Madrid, a 'steampunk' ode to imagination. The production immerses the spectator in a retro-futuristic universe."
+  },
+  "inicio": "2026-11-04",
+  "fin": "2026-11-04",
+  "hora": null,
+  "lugar": null,
+  "municipio": "Madrid",
+  "provincia": "Madrid",
+  "ambito": "nacional",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "4d63149827": {
+  "url": "https://www.20minutos.es/libros/pedro-almodovar-debuta-novela-este-libro-es-una-declaracion-amor-palabra-las-historias-no-deben-terminar-nunca_7056657_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-11-03",
+  "es_plan": true,
+  "titulo": "Presentación de la novela 'El hombre que solo escribía en los aviones' de Pedro Almodóvar",
+  "resumen": "Pedro Almodóvar presenta su debut novelístico, 'El hombre que solo escribía en los aviones', en La Casa del Lector de Madrid. Conversará con la editora Sabina Urraca sobre literatura y fanfiction.",
+  "en": {
+   "titulo": "Presentation of Pedro Almodóvar's novel 'The Man Who Only Wrote on Airplanes'",
+   "resumen": "Pedro Almodóvar presents his novel debut, 'The Man Who Only Wrote on Airplanes', at La Casa del Lector in Madrid. He will discuss literature and fanfiction with editor Sabina Urraca."
+  },
+  "inicio": "2026-11-03",
+  "fin": "2026-11-03",
+  "hora": null,
+  "lugar": "La Casa del Lector (Matadero)",
+  "municipio": "Madrid",
+  "provincia": "Madrid",
+  "ambito": "nacional",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "42026e9756": {
+  "url": "https://www.20minutos.es/musica/sonar-2027-recupera-su-adn-fundacional-con-carl-cox-bonobo-tokischa-peggy-gou-entre-sus-primeras-confirmaciones_7056755_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-11-03",
+  "es_plan": true,
+  "titulo": "Festival Sónar 2027 en Barcelona: Primeras confirmaciones",
+  "resumen": "El Festival Sónar de Barcelona 2027, del 17 al 19 de junio, anuncia sus primeras 30 confirmaciones, incluyendo a Carl Cox, Bonobo, Tokischa y Peggy Gou. Recupera su 'ADN fundacional' urbano y festivo.",
+  "en": {
+   "titulo": "Sónar Festival 2027 in Barcelona: First confirmations",
+   "resumen": "The Sónar Festival 2027 in Barcelona, from June 17th to 19th, announces its first 30 confirmations, including Carl Cox, Bonobo, Tokischa, and Peggy Gou. It recovers its urban and festive 'foundational DNA'."
+  },
+  "inicio": "2027-06-17",
+  "fin": "2027-06-19",
+  "hora": null,
+  "lugar": "Fira de Barcelona Gran Via",
+  "municipio": "Barcelona",
+  "provincia": "Barcelona",
+  "ambito": "nacional",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica",
+   "fiestas",
+   "cultura"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "d44f6b26da": {
+  "url": "https://www.20minutos.es/musica/daddy-yankee-estrena-una-miniserie-inspirada-postal-su-ultimo-album_7056708_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-11-03",
+  "es_plan": true,
+  "titulo": "Estreno miniserie 'La Postal: Written in the Dance' de Daddy Yankee",
+  "resumen": "Daddy Yankee estrena este martes una miniserie inspirada en su álbum 'La Postal', ambientada en San Juan. El formato da vida al universo del álbum a través de una historia de amor y danza.",
+  "en": {
+   "titulo": "Premiere of Daddy Yankee's miniseries 'La Postal: Written in the Dance'",
+   "resumen": "Daddy Yankee premieres a miniseries inspired by his album 'La Postal' this Tuesday, set in San Juan. The format brings the album's universe to life through a story of love and dance."
+  },
+  "inicio": "2026-11-03",
+  "fin": "2026-11-03",
+  "hora": null,
+  "lugar": null,
+  "municipio": "San Juan",
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica",
+   "pantalla",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "d5a0393a6e": {
+  "url": "https://www.20minutos.es/cultura/felipe-vi-presidente-portugal-abren-una-exposicion-sobre-luis-camoes-biblioteca-nacional-madrid_7056602_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-11-03",
+  "es_plan": true,
+  "titulo": "Exposición sobre Luis de Camões en la Biblioteca Nacional de Madrid",
+  "resumen": "Felipe VI y el presidente de Portugal inauguran en Madrid una exposición sobre Luis de Camões para conmemorar los 500 años de su nacimiento. La muestra recorre la historia de España y Portugal a través de la literatura.",
+  "en": {
+   "titulo": "Exhibition on Luis de Camões at the National Library of Madrid",
+   "resumen": "Felipe VI and the President of Portugal inaugurate an exhibition on Luis de Camões in Madrid to commemorate the 500th anniversary of his birth. The exhibition traces the history of Spain and Portugal through literature."
+  },
+  "inicio": "2026-11-03",
+  "fin": "2026-11-03",
+  "hora": null,
+  "lugar": "Biblioteca Nacional de España",
+  "municipio": "Madrid",
+  "provincia": "Madrid",
+  "ambito": "nacional",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "2ddde33779": {
+  "url": "https://www.20minutos.es/artes/yerma-crisantemo-negro-que-brilla-teatro-espanol-sostenido-por-un-coro-ancestral_7056115_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-11-03",
+  "es_plan": true,
+  "titulo": "'Yerma' de Lorca en el Teatro Español hasta el 27 de diciembre",
+  "resumen": "La tragedia 'Yerma' de Federico García Lorca se representa en el Teatro Español de Madrid hasta el 27 de diciembre, dirigida por Eduardo Vasco y con Lara Grube como protagonista.",
+  "en": {
+   "titulo": "'Yerma' by Lorca at Teatro Español until December 27th",
+   "resumen": "Federico García Lorca's tragedy 'Yerma' is being performed at the Teatro Español in Madrid until December 27th, directed by Eduardo Vasco and starring Lara Grube."
+  },
+  "inicio": "2026-11-03",
+  "fin": "2026-12-27",
+  "hora": null,
+  "lugar": "Teatro Español",
+  "municipio": "Madrid",
+  "provincia": "Madrid",
+  "ambito": "nacional",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "3de966a6f1": {
+  "url": "https://elpais.com/cultura/2026-11-03/la-justicia-italiana-reabre-el-caso-del-asesinato-de-pasolini-51-anos-despues-de-su-muerte.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-11-03",
+  "es_plan": false
  }
 }
