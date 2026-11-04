@@ -1223,6 +1223,7 @@ universidad-salamanca:
       texto:
         - "La Universidad de Salamanca es la más antigua de España que sigue en funcionamiento. Nació en 1218 y fue durante siglos uno de los grandes centros del saber europeo, con figuras como Fray Luis de León o Miguel de Unamuno ligadas a sus aulas."
         - "El conjunto histórico gira en torno al Patio de Escuelas. La fachada plateresca de las Escuelas Mayores es una de las imágenes más reconocibles de la ciudad, y en ella se esconde una pequeña rana sobre una calavera que los visitantes buscan por tradición. Dentro se recorren las aulas históricas y la Biblioteca Antigua, con fondos de gran valor."
+        - "Novedad de noviembre de 2026: la Universidad renueva su visita turística. A partir del lunes 9 de noviembre, la entrada al edificio histórico incluye también el Patio de Escuelas Menores, donde se ve «El Cielo de Salamanca», la pintura de Fernando Gallego, y la nueva sala «Visibilizarte. Las huellas del pasado», con piezas de más de cinco siglos recuperadas de distintas dependencias (obras de Luis de Morales o del Maestro de Terradillos, y 22 piezas restauradas para la ocasión). Está prevista además una Sala de Retratos Reales, aún pendiente de inaugurar. Hasta entonces, el acceso a El Cielo sigue siendo gratuito esa semana; después a las Escuelas Menores solo se entra con entrada, y el nuevo sistema permite controlar el aforo."
         - "Otoño es buen momento para visitarla: la Biblioteca Antigua forma parte de «Las llaves de la ciudad», el programa de visitas guiadas que Salamanca celebra cada año (en 2026, del 24 de octubre al 20 de diciembre). Quien completa el pasaporte del programa puede optar a un sorteo para ver el sanctasanctórum de la biblioteca. Consulta siempre la web oficial para horarios, entradas y condiciones de acceso, que cambian."
       faq:
         - p: "¿Qué es lo más conocido de la Universidad de Salamanca?"
@@ -1233,6 +1234,10 @@ universidad-salamanca:
           r: "Sí. Además de la visita habitual, forma parte de «Las llaves de la ciudad», con visitas guiadas en otoño. Consulta la web oficial para plazas y condiciones."
         - p: "¿Qué es Las llaves de la ciudad?"
           r: "Un programa anual de visitas guiadas a espacios patrimoniales de Salamanca. La prensa local lo presenta como gratuito, pero hay que reservar en la web de Turismo de Salamanca."
+        - p: "¿Dónde está El Cielo de Salamanca y se puede ver?"
+          r: "Está en el Patio de Escuelas Menores, de la Universidad. Es una pintura de Fernando Gallego. Desde el 9 de noviembre de 2026 se visita con la entrada al edificio histórico, que ya incluye las Escuelas Menores; consulta la web oficial de la Universidad para condiciones."
+        - p: "¿Qué es «Visibilizarte»?"
+          r: "Una nueva sala de exposiciones en las Escuelas Menores que reúne patrimonio artístico y científico de la Universidad, en tres apartados: la relación con la ciudad, el arte religioso y las colecciones científicas y técnicas."
         - p: "¿Cuánto tiempo se necesita?"
           r: "Una hora o dos para el exterior y las zonas visitables. Más si añades la Biblioteca Antigua y el entorno de las catedrales."
         - p: "¿Qué más ver cerca?"
@@ -2248,3 +2253,25 @@ filmoteca-castilla-leon-salamanca:
           r: "Precios, horarios y condiciones de acceso cambian según la sesión y el ciclo. Consúltalos siempre en la programación oficial."
         - p: "¿Es buen plan con niños?"
           r: "Depende de la película: la programación es sobre todo para público adulto. Revisa la calificación de cada sesión antes de ir."
+
+conjunto-arqueologico-merida:
+  relacionados: [via-plata, museo-caceres, plaza-mayor-caceres]
+  contenido:
+    es:
+      texto:
+        - "Mérida es una ciudad que es, casi entera, un yacimiento arqueológico. Augusto fundó la colonia de Augusta Emerita en el año 25 a.C. para dar un retiro a sus legionarios a orillas del Guadiana, y una década después pasó a ser la capital de la provincia de Lusitania. Ese pasado explica por qué conserva uno de los conjuntos romanos más completos de Hispania."
+        - "El corazón del recorrido son el Teatro y el Anfiteatro, a los que se llega subiendo por la calle Sagasta. El teatro tenía capacidad para unos 5.500 espectadores, el anfiteatro para más del doble y el circo, ya junto al río Albarregas, para hasta 30.000. No eran solo lugares de entretenimiento: según el arqueólogo Félix Palma, director del Consorcio de la Ciudad Monumental, también eran el sitio donde el poder imperial desplegaba su propaganda."
+        - "Entre el teatro y el puente romano sobre el Guadiana se pasea por el templo de Diana, con sus altas columnas corintias, que en realidad estaba dedicado al culto imperial y no a la diosa. Muy cerca están la alcazaba y el Museo Nacional de Arte Romano. Todo se recorre a pie con facilidad, así que Mérida funciona bien como escapada de uno o dos días. Si te interesa el ambiente romano, cada año se celebra Emerita Lvdica, un festival recreacionista con túnicas, carreras de cuadrigas y gladiadores. Consulta siempre la web oficial para horarios, entradas y condiciones de acceso, que cambian."
+      faq:
+        - p: "¿Qué hay que ver en Mérida?"
+          r: "El Teatro y el Anfiteatro romanos, el circo, el templo de Diana, el puente romano, la alcazaba y el Museo Nacional de Arte Romano."
+        - p: "¿Se puede recorrer a pie?"
+          r: "Sí, el conjunto monumental está concentrado y se hace caminando. Del templo de Diana se sube por la calle Sagasta hasta el Teatro y el Anfiteatro."
+        - p: "¿Por qué se llama templo de Diana si no era de Diana?"
+          r: "Estaba dedicado al culto imperial. El nombre viene de un historiador local del siglo XVII, que lo comparó con el templo de Artemisa en Éfeso."
+        - p: "¿Qué es Emerita Lvdica?"
+          r: "Un festival recreacionista anual en el que la ciudad se viste de época romana. Las fechas y el programa se consultan en su web oficial."
+        - p: "¿Cuánto tiempo se necesita?"
+          r: "Un día completo da para lo esencial; con dos días puedes ir con más calma, entrar en el museo y alargar el paseo junto al río."
+        - p: "¿Qué más ver cerca?"
+          r: "La Vía de la Plata une Mérida con Cáceres y Salamanca, y Cáceres está a una hora aproximada en coche."
