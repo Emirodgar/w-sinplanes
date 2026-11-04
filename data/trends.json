@@ -1,6 +1,16 @@
 {
- "updated": "2026-11-03",
+ "updated": "2026-11-04",
  "terms": [
+  {
+   "term": "carlos cuerpo",
+   "traffic": 200000,
+   "lastSeen": "2026-11-04",
+   "news": [
+    "Última hora de la actualidad política y el accidente de trenes de Urda, en directo | Feijóo pide a Sánchez que se aplique a sí mismo la “dignidad política” de la dimisión de Puente",
+    "La dimisión de Puente llega demasiado tarde",
+    "Elecciones generales del 29-N, última hora en directo | Los Reyes acudirán al funeral por las víctimas de Urda en la Catedral de Toledo el 12 de noviembre"
+   ]
+  },
   {
    "term": "enric masip",
    "traffic": 100000,
@@ -19,26 +29,6 @@
     "Rubio ajusticia, Morata ya moja",
     "Real Valladolid CF 4-3 CD Leganés | Resumen",
     "Porque sí, y punto"
-   ]
-  },
-  {
-   "term": "mónica garcía",
-   "traffic": 20000,
-   "lastSeen": "2026-10-20",
-   "news": [
-    "Mónica García renuncia a la lista del Frente Amplio: “Siempre he antepuesto el bien común al personal”",
-    "Elecciones generales 29N, última hora en directo: Mónica García renuncia al Frente Amplio",
-    "Mónica García despeja su futura vida laboral (ni Frente Amplio ni el hospital 12 de Octubre)"
-   ]
-  },
-  {
-   "term": "estafa",
-   "traffic": 20000,
-   "lastSeen": "2026-10-20",
-   "news": [
-    "Detenido un hombre en Ciutadella (Menorca) por estafar 100.000 euros a varios inversores en criptomonedas en Alemania",
-    "Detenido en Ciutadella un hombre reclamado por Alemania por una estafa con criptomonedas de 100.000 euros",
-    "Atrapan en el puerto de Ciutadella a un prófugo acusado de estafar 100.000 euros con criptomonedas a invers..."
    ]
   },
   {
@@ -161,43 +151,13 @@
    ]
   },
   {
-   "term": "cristian toro",
-   "traffic": 5000,
-   "lastSeen": "2026-10-20",
+   "term": "sucesos",
+   "traffic": 10000,
+   "lastSeen": "2026-11-04",
    "news": [
-    "Montse Lluis, el nexo de Vox con el PP que acompañará a Abascal en el Congreso",
-    "Del podio a buscar votos: Cristian Toro, Ángela Pumariega y Víctor Gutiérrez entran en campaña",
-    "Cristian Toro será el número cinco de VOX por Madrid al Congreso"
-   ]
-  },
-  {
-   "term": "rebeca torró",
-   "traffic": 5000,
-   "lastSeen": "2026-10-20",
-   "news": [
-    "La nueva portavoz del PSOE intentó comprar a un alcalde valenciano en 2019 para apartarlo como rival electoral",
-    "Rebeca, comodín de Sánchez, o la alcaldesa que no fue",
-    "Quién es Rebeca Torró, secretaria de Organización y nueva portavoz del PSOE"
-   ]
-  },
-  {
-   "term": "alemania",
-   "traffic": 5000,
-   "lastSeen": "2026-10-20",
-   "news": [
-    "Ryanair confirma una nueva ruta internacional en el aeropuerto de Castellón para el verano de 2027",
-    "Ryanair conecta Sevilla con el corazón de Baviera: la nueva ruta directa que arranca en marzo",
-    "Sevilla tendrá vuelos directos con la ciudad alemana de Memmingen a partir de marzo de 2027"
-   ]
-  },
-  {
-   "term": "telediario",
-   "traffic": 5000,
-   "lastSeen": "2026-10-20",
-   "news": [
-    "Setenta años contando lo trascendente: la memoria de un país y del mundo en 'El Telediario de nuestras vidas'",
-    "Todas las veces que la reina Letizia apoyó a sus ex compañeros de Televisión Española: menciones, apariciones y recuerdos de su etapa de periodista",
-    "La escena final de Beatriz Pérez-Aranda en el especial 70 años de TVE va a recorrer toda España: la frase que suelta es historia"
+    "Detenido por matar de una cuchillada a un joven en el barrio de Miralbueno de Zaragoza",
+    "Muere un varón tras ser agredido con un arma blanca en el barrio de Miralbueno",
+    "Detenido por matar a cuchilladas a un joven en Zaragoza"
    ]
   },
   {
@@ -311,23 +271,33 @@
    ]
   },
   {
-   "term": "santiago pedraz",
-   "traffic": 2000,
-   "lastSeen": "2026-10-20",
+   "term": "lautaro spatz",
+   "traffic": 5000,
+   "lastSeen": "2026-11-04",
    "news": [
-    "El juez da un ultimátum de 48 horas al PSOE para que le entregue todos los pagos a abogados en el 'caso de las cloacas'",
-    "Pedraz urge al PSOE a que remita sus contratos con abogados tras expirar el plazo sin mandarlo",
-    "El juez apremia al PSOE para que informe en dos días de los abogados a los que contrató entre 2021 y 2025"
+    "La cadena de despropósitos que terminó en la muerte de Jesús de Miguel: \"Sabíamos que más temprano que tarde pasaría algo así\"",
+    "Carta de defensa a Owono: “Jamás haría daño a nadie”",
+    "Aplazado el partido Granada - Tenerife por la muerte de Jesús de Miguel"
    ]
   },
   {
-   "term": "miniserie",
-   "traffic": 2000,
-   "lastSeen": "2026-10-20",
+   "term": "como saber si me toca mesa electoral 2026",
+   "traffic": 5000,
+   "lastSeen": "2026-11-04",
    "news": [
-    "Un atraco perfecto y millones desaparecidos: la historia del mayor robo bancario en Murcia que ahora será serie",
-    "La Región acoge el rodaje de la miniserie 'Casper', protagonizada por Roberto Álamo y Rodolfo Sancho",
-    "La serie policíaca que logra que el actor de 'Las hijas de la criada' Alain Hernández vuelva a TVE después de 'La caza'"
+    "Los miembros de las Mesas Electorales del 29N recibirán una notificación en los próximos días",
+    "¿Te ha tocado mesa electoral en Pamplona el 29-N? Ya puedes comprobarlo",
+    "Publicados los resultados del sorteo de miembros de mesa electoral para las elecciones generales del 29 de noviembre"
+   ]
+  },
+  {
+   "term": "genoveva casanova",
+   "traffic": 5000,
+   "lastSeen": "2026-11-04",
+   "news": [
+    "Genoveva Casanova reaparece en Madrid con una impactante imagen, un año después de mudarse fuera de España",
+    "El paseo de Genoveva Casanova con un apuesto acompañante por Madrid tres años después de sus fotos con Federico de Dinamarca",
+    "Genoveva Casanova vuelve al universo mediático: paseo por Madrid con un misterioso acompañante"
    ]
   },
   {
@@ -620,83 +590,13 @@
    ]
   },
   {
-   "term": "marta riesco",
-   "traffic": 1000,
-   "lastSeen": "2026-10-20",
+   "term": "milko freestyle",
+   "traffic": 2000,
+   "lastSeen": "2026-11-04",
    "news": [
-    "El verdadero motivo por el que Alba Carrillo dio la 'espantá' en Ten TV",
-    "Marta Riesco lee en directo el comunicado de 'El sótano club' tras la repentina salida de Alba Carrillo: \"Dejó a los equipos sin margen para gestionar lo sucedido\"",
-    "Alba Carrillo toma acciones legales ante los delitos que dice que se están cometiendo: \"No tenéis ni idea de todo lo que ha pasado\""
-   ]
-  },
-  {
-   "term": "pak vs eng",
-   "traffic": 1000,
-   "lastSeen": "2026-10-20",
-   "news": [
-    "Pakistan vs England LIVE: ODI tri-series, Rawalpindi - cricket score, radio commentary & updates",
-    "Familiar foes get serious in ODI World Cup build-up",
-    "McCullum wary of Pakistan’s home advantage as England prepare for tri-series test"
-   ]
-  },
-  {
-   "term": "valladolid",
-   "traffic": 1000,
-   "lastSeen": "2026-10-20",
-   "news": [
-    "La actualidad y las noticias más destacadas de Valladolid hoy, 20 de octubre, en directo",
-    "Cambios en el ranking de Tripadvisor: así queda el top 5 de mejores restaurantes de Valladolid según los clientes",
-    "Carlos Cortés se queda a una carambola del triunfo en Valladolid"
-   ]
-  },
-  {
-   "term": "impuesto",
-   "traffic": 1000,
-   "lastSeen": "2026-10-20",
-   "news": [
-    "Prohens elimina los impuestos por la compra de la primera vivienda a los menores de 36 años",
-    "Los principales anuncios de Prohens en el Debate de Política General: rebajas fiscales, ayudas a la vivienda, trenes nocturnos y menos pantallas en las aulas",
-    "Prohens anuncia un ambicioso paquete de vivienda: elimina impuestos y destina dinero de la ecotasa"
-   ]
-  },
-  {
-   "term": "alcalde de parauta",
-   "traffic": 1000,
-   "lastSeen": "2026-10-20",
-   "news": [
-    "La alcaldesa de Parauta solicita la baja del PSOE tras ganar todos los concejales en las últimas municipales",
-    "La alcaldesa más votada del PSOE de Málaga se da de baja del partido",
-    "La alcaldesa de Parauta, la más votada en las municipales, pide la baja del PSOE"
-   ]
-  },
-  {
-   "term": "aeropuerto de palma de mallorca",
-   "traffic": 1000,
-   "lastSeen": "2026-10-20",
-   "news": [
-    "La dana se ceba con Eivissa y Formentera con amenazas de desbordamiento de torrentes",
-    "Ibiza avanza a la normalidad tras batir su récord histórico de lluvias en un mes de octubre",
-    "Una nueva alerta a móviles avisa de fuertes lluvias y desbordamiento de torrentes en Ibiza por la dana Adam"
-   ]
-  },
-  {
-   "term": "carlos felipe de suecia",
-   "traffic": 1000,
-   "lastSeen": "2026-10-20",
-   "news": [
-    "Con tiara de diamantes, pero con vestido de H&M: Victoria de Suecia confirma que es una de las royals que menos gasta en ropa",
-    "Vestido de H&M, el conjunto de topacios más espectacular y un collar “desaparecido” durante la cena: Victoria de Suecia, la reina Silvia y la princesa Magdalena, de banquete de gala en Estocolmo",
-    "El extraño movimiento de Carlos Felipe y Sofía de Suecia en su regreso durante la visita de Estado de Singapur: fuera de la foto oficial"
-   ]
-  },
-  {
-   "term": "spain",
-   "traffic": 1000,
-   "lastSeen": "2026-10-20",
-   "news": [
-    "Spain already places 47% of its tourism outside the high season and surpasses Italy and Greece.",
-    "Google cloud failure hits millions as UK courts and banks knocked offline",
-    "Google Cloud says outage affecting banks and court video links caused by 'power event'"
+    "C. Tangana publica ‘Milko Freestyle’, una canción biográfica que eleva la expectación sobre su vuelta a la música",
+    "C. Tangana anticipa nuevo disco en su primera canción en tres años: \"Resucito, como Cristo\"",
+    "C. Tangana vuelvo junto a Agorazein en 'Milko Freestyle'"
    ]
   },
   {
@@ -1013,116 +913,6 @@
     "Guillermo Furiase, hijo de Lolita: “Siempre dicen que soy el desconocido de los Flores y me gusta serlo porque soy muy íntimo con mi vida y de enchufes nada\"",
     "Guillermo Furiase: \"La gente se piensa que por nacer en la familia Flores no hacemos la cola, pero es al revés\"",
     "Guillermo Furiase, actor: “Entreno todos los días, también por una cuestión de salud mental, de despejarme. Soy el único de los Flores que hace deporte”"
-   ]
-  },
-  {
-   "term": "revolut down",
-   "traffic": 500,
-   "lastSeen": "2026-10-20",
-   "news": [
-    "Some Revolut users seeing service disruption",
-    "Revolut and Lloyds down as users say payments are being declined",
-    "Revolut outage leaves customers unable to use app or cards"
-   ]
-  },
-  {
-   "term": "indra sistemas",
-   "traffic": 500,
-   "lastSeen": "2026-10-20",
-   "news": [
-    "Indra mantiene el 25 de noviembre para presentar su plan estratégico pese a la proximidad de las elecciones",
-    "Indra mantiene la presentación de su plan estratégico el 25 de noviembre pese a la cercanía de las elecciones",
-    "Indra conserva su cita estratégica cuatro días antes de las elecciones"
-   ]
-  },
-  {
-   "term": "tubos reunidos",
-   "traffic": 500,
-   "lastSeen": "2026-10-20",
-   "news": [
-    "Tubos Reunidos inicia la liquidación de su matriz y los accionistas pierden 21,7 millones",
-    "Tubos Reunidos pide su liquidación y deja atrapada a la SEPI con 140 millones de deuda",
-    "Tubos Reunidos solicita la apertura de la fase de liquidación de su matriz ante la falta de ofertas"
-   ]
-  },
-  {
-   "term": "futbolista",
-   "traffic": 500,
-   "lastSeen": "2026-10-20",
-   "news": [
-    "Vídeo: Larcamón destaca a un futbolista del Sporting en su charla: «El fútbol premia tu esfuerzo»",
-    "Nico, satisfecho con su equipo",
-    "El curioso nuevo bautismo en el vestuario del Sporting de Gijón: \"Me pone muy contento 'el Flaco'\""
-   ]
-  },
-  {
-   "term": "el niño",
-   "traffic": 500,
-   "lastSeen": "2026-10-20",
-   "news": [
-    "El Niño podría cambiar el clima por décadas de forma irreversible",
-    "Los satélites de la NASA siguen el avance de El Niño: la señal clave en el océano que anticipa un impacto extremo en el clima",
-    "Súper Niño: qué se sabe sobre los efectos que tendrá el fenómeno en la Argentina y cuándo impactará con más fuerza"
-   ]
-  },
-  {
-   "term": "gasto",
-   "traffic": 500,
-   "lastSeen": "2026-10-20",
-   "news": [
-    "El viaje del Papa a España tuvo un impacto económico de 139,48 millones de euros y cierra sus cuentas sin déficit",
-    "El viaje del Papa a España costó 31,09 millones de euros y tuvo un impacto económico de 139,48 millones",
-    "Los obispos cifran en 5,8 millones las aportaciones directas del Estado para la visita del papa a España"
-   ]
-  },
-  {
-   "term": "tribunal de justicia",
-   "traffic": 500,
-   "lastSeen": "2026-10-20",
-   "news": [
-    "Pino anuncia que retomará los controles poblacionales del lobo antes de fin de año",
-    "COAG reclama al TSJA que imponga a los ecologistas una fianza de dos millones si suspende cautelarmente el plan de control del lobo",
-    "El Principáu va siguir col programa de control del llobu que la so execución asítiase anguaño nel 19,4%"
-   ]
-  },
-  {
-   "term": "jon echevarria",
-   "traffic": 500,
-   "lastSeen": "2026-10-20",
-   "news": [
-    "Jon Echeverría debuta en Donostia: «PNV, PSOE y Bildu han privado a miles de jóvenes de tener vivienda y formar familia»",
-    "El PP elige a un joven muy activo en redes en busca de un escaño por Gipuzkoa 15 años después",
-    "Jon Echeverria, el as en la manga de Tellado para que el PP vasco recupere su escaño en Gipuzkoa"
-   ]
-  },
-  {
-   "term": "rayo vallecano de madrid",
-   "traffic": 500,
-   "lastSeen": "2026-10-20",
-   "news": [
-    "Antiviolencia castiga con dureza lo ocurrido en el Rayo-Athletic y el GP de España de F1",
-    "Multa de 5.000€ para el aficionado que lanzó un asiento al campo en el Rayo-Athletic que acabó suspendido",
-    "Sanción económica y prohibida la entrada a los recintos para doce seguidores del Rayo por los incidentes del partido contra el Athletic"
-   ]
-  },
-  {
-   "term": "japón",
-   "traffic": 500,
-   "lastSeen": "2026-10-20",
-   "news": [
-    "Lanzamiento de la sonda MMX con el rover europeo IDEFIX para traer muestras de Fobos",
-    "Japón se atreve con la primera misión para traer muestras de Fobos, la desconocida luna de Marte",
-    "Japón lanza una misión histórica para conquistar la misteriosa luna de Marte y traer muestras a la Tierra"
-   ]
-  },
-  {
-   "term": "carlos gonzález",
-   "traffic": 500,
-   "lastSeen": "2026-10-20",
-   "news": [
-    "Carlos González, 29 años, el primer actor galardonado de La Bola negra: «Siento que si no pudiera dedicarme a esto, me moriría»",
-    "El New York Times hace su reseña de 'La bola negra' y destaca la actuación de Carlos González: \"Posee un magnetismo que hace que las circunstancias de la historia se sientan reales y vivas\"",
-    "De Cintruénigo a los Oscar: la imparable eclosión de Carlos González en 'La bola negra'"
    ]
   },
   {
@@ -1588,132 +1378,23 @@
    ]
   },
   {
-   "term": "grieta",
-   "traffic": 200,
-   "lastSeen": "2026-10-20",
+   "term": "caravanas osito",
+   "traffic": 500,
+   "lastSeen": "2026-11-04",
    "news": [
-    "Vecinos de Nueva Cartagena tienen que pagar hasta 150.000 euros para reparar las grietas de sus casas",
-    "EEUU encuentra una grieta de 300 km de largo bajo la ciudad en la que España ganó el Mundial y descubre que fue la causante de un terremoto en 2024",
-    "La placa tectónica que afecta a Nueva York y genera temblores en la ciudad y la costa este de EE.UU."
+    "Más de 60 familias afectadas por la posible estafa de Caravanas Osito: \"Hemos pagado 75.000 euros y no tenemos vehículo\"",
+    "El cierre de una empresa de compra-venta y alquiler de caravanas deja \"colgados\" a muchos clientes",
+    "Beatriz compró una autocaravana hace un año, ya ha pagado 15.000 euros y sigue sin ella: \"Lo estamos pasando muy mal, ni dormimos\""
    ]
   },
   {
-   "term": "fundacion princesa de asturias",
-   "traffic": 200,
-   "lastSeen": "2026-10-20",
+   "term": "pasea madrid 2026",
+   "traffic": 500,
+   "lastSeen": "2026-11-04",
    "news": [
-    "Patti Smith, una vida a su manera a los 79 años: de la hija que dio en adopción al amor de su vida (y una imagen sin concesiones)",
-    "El mensaje de Patti Smith en su charla con los estudiantes de Asturias: \"Alejaos del móvil, seguid vuestra intuición\"",
-    "Cambio de ubicación del concierto de Patti Smith del día 21 de octubre"
-   ]
-  },
-  {
-   "term": "chevron",
-   "traffic": 200,
-   "lastSeen": "2026-10-20",
-   "news": [
-    "Better Oil Stock: Chevron (CVX) vs. ExxonMobil (XOM)",
-    "Is Chevron Stock Worth More Than Its Competitors?",
-    "Chevron vs. Occidental Petroleum: Which Energy Stock Is a Better Buy in 2026?"
-   ]
-  },
-  {
-   "term": "cristina bucșa",
-   "traffic": 200,
-   "lastSeen": "2026-10-20",
-   "news": [
-    "Bucsa, eliminada en primera ronda del torneo de Ningbo",
-    "WTA 500 Ningbo – Bucsa vs. Kudermetova: fecha, hora y dónde ver",
-    "Cristina Bucsa 0 - 2 Polina Kudermetova: resumen y estadísticas del partido de Ningbo Open (WTA)"
-   ]
-  },
-  {
-   "term": "melani olivares",
-   "traffic": 200,
-   "lastSeen": "2026-10-20",
-   "news": [
-    "Melanie Olivares: “Yo sabía desde el primer día que Carmen Machi se quería ir de ‘Aída’. Ella no quería empezarla. La presionaban para que se quedara”",
-    "Melani Olivares: “En ‘Aida’ trataron por todos los medios de que no se me notara el embarazo, pero cogí 30 kilos. Los guionistas se inventaron que había engordado porque tenía gases”"
-   ]
-  },
-  {
-   "term": "airbus a330 mrtt",
-   "traffic": 200,
-   "lastSeen": "2026-10-20",
-   "news": [
-    "Airbus entrega el tercer A330 MRTT para reabastecimiento al Ejército del Aire y del Espacio, convertido en la planta de Getafe",
-    "Los nuevos Airbus A330 MRTT para España serán de la versión Plus",
-    "Defensa prepara el relevo de los aviones vip de transporte de autoridades con el MRTT+"
-   ]
-  },
-  {
-   "term": "iñaki angulo",
-   "traffic": 200,
-   "lastSeen": "2026-10-20",
-   "news": [
-    "Bellerín denuncia por delitos de odio al youtuber que le dirigió insultos homófobos tras el Betis - Real Madrid",
-    "El futbolista Héctor Bellerín se querella contra el youtuber vasco que le dedicó insultos homófobos tras ganar al Real Madrid",
-    "El futbolista Héctor Bellerín denuncia por delitos de odio al youtuber que le insultó por \"pintarse las uñas\" en un directo"
-   ]
-  },
-  {
-   "term": "calefacción",
-   "traffic": 200,
-   "lastSeen": "2026-10-20",
-   "news": [
-    "Joan Pascual, fontanero, desvela cómo preparar tus radiadores para el frío: \"Consejos útiles para preparar tu calefacción antes de la llegada del invierno. Asegúrate de seguir estos pasos para garantizar un óptimo funcionamiento\"",
-    "Expertos en climatización coinciden: la regla de los 19°C está desfasada, las nuevas recomendaciones de los...",
-    "Calefacción en otoño: nueve errores que pueden disparar el consumo y encarecer la factura"
-   ]
-  },
-  {
-   "term": "olivier martinez",
-   "traffic": 200,
-   "lastSeen": "2026-10-20",
-   "news": [
-    "Maceo, el hijo de Halle Berry y Olivier Martinez, declara durante 4 horas ante el juez y su hermana Nahla podría ser la siguiente",
-    "Aseguran que Halle Berry sufre graves \"cambios de humor\" en cuestión de segundos: \"Su ira se descontrola\"",
-    "La actriz ganadora del Oscar Halle Berry, contra su exmarido: \"No soy una agresora, jamás le haría daño a nuestro hijo\""
-   ]
-  },
-  {
-   "term": "daredevil",
-   "traffic": 200,
-   "lastSeen": "2026-10-20",
-   "news": [
-    "‘Daredevil: Born Again’ Star Deborah Ann Woll Felt Like Season 3 Might Be the End",
-    "Does A Daredevil Movie Make Box Office Sense For Marvel After Born Again's Cancellation?",
-    "Charlie Cox says his son was \"devastated\" by Daredevil: Born Again season 3 cancellation: \"The color drained from his face\""
-   ]
-  },
-  {
-   "term": "unwetter",
-   "traffic": 200,
-   "lastSeen": "2026-10-20",
-   "news": [
-    "Unwetter in Spanien: Mindestens vier Tote durch schwere Unwetter in Spanien",
-    "Mehr als 600 Liter Regen: Unwetter sorgt für Überflutungen in Valencia",
-    "Mindestens zwei Tote durch Überschwemmungen im Osten Spaniens"
-   ]
-  },
-  {
-   "term": "fenerbahçe",
-   "traffic": 200,
-   "lastSeen": "2026-10-20",
-   "news": [
-    "Fenerbahçe - Slavia Prag Maç Tahmini: İyi formda olan iki takımın karşılaşması.",
-    "ŞAMPİYONLAR LİGİ HAFTANIN MAÇLARI: Şampiyonlar Ligi'nde bu hafta hangi maçlar var? Devler Ligi 3. hafta maçları ne zaman, saat kaçta oynanacak?",
-    "BUGÜNKÜ MAÇLAR LİSTESİ: 20 Ekim 2026 Salı bugün kimin maçı var? UEFA Şampiyonlar Ligi bugünkü maçlar hangi kanalda, saat kaçta?"
-   ]
-  },
-  {
-   "term": "contemporary amperex technology",
-   "traffic": 200,
-   "lastSeen": "2026-10-20",
-   "news": [
-    "China's CATL third-quarter profit growth slowest in nearly two years as competition intensifies",
-    "CATL's Hong Kong Shares Cut to Neutral by JPMorgan; Stock Plunges Over 8% Ahead of Earnings",
-    "Battery giant CATL posts surprise profit slowdown as EV storm clouds gather"
+    "Pasea Madrid 2026: 15 rutas gratuitas para descubrir el patrimonio de Madrid en noviembre y diciembre",
+    "Nueva temporada de Pasea Madrid con rutas gratuitas por el patrimonio barroco y una quinta histórica: cómo inscribirse",
+    "Vuelven las visitas guiadas gratuitas de Pasea Madrid: fecha y cómo conseguir las entradas"
    ]
   },
   {
@@ -2571,6 +2252,26 @@
     "Red Eléctrica niega una inestabilidad crónica en el suministro de energía",
     "La globalización se resquebraja por varias costuras: de la energía y la IA al comercio y el capital",
     "GasIndustrial reclama al próximo Gobierno medidas urgentes y el estatuto del consumidor gasintensivo"
+   ]
+  },
+  {
+   "term": "rafa nadal",
+   "traffic": 200,
+   "lastSeen": "2026-11-04",
+   "news": [
+    "El Madrid hace directivo a Nadal",
+    "¡Rafa Nadal entrará en la Junta Directiva del Real Madrid!",
+    "El Real Madrid \"ficha\" a Rafa Nadal como nuevo miembro de la Junta Directiva"
+   ]
+  },
+  {
+   "term": "metacritic",
+   "traffic": 200,
+   "lastSeen": "2026-11-04",
+   "news": [
+    "Review: The Legend of Zelda: Ocarina of Time remake is superb, streamlined and safe",
+    "The Legend of Zelda: Ocarina of Time review – a dream come true",
+    "Ask the Developer Vol. 24, The Legend of Zelda: Ocarina of Time – Chapter 1"
    ]
   },
   {
