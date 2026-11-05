@@ -861,13 +861,6 @@
   "a_cubierto": true,
   "confianza": 0.9
  },
- "470c6a45b1": {
-  "url": "https://www.20minutos.es/cultura/blogs/yaestaellistoquetodolosabe/quince-anos-ya-esta-listo-que-todo-sabe-red-blogs-20minutos-es_7026203_0.html",
-  "fuente": "20minutos (Cultura)",
-  "src": "prensa-20minutos-cultura",
-  "publicado": "2026-10-21",
-  "es_plan": false
- },
  "00bee87740": {
   "url": "https://www.20minutos.es/artes/pedrera-acoge-primera-exposicion-anselm-kiefer-barcelona-un-espectacular-universo-historia-naturaleza-cosmos_7051192_0.html",
   "fuente": "20minutos (Cultura)",
@@ -896,13 +889,6 @@
   "a_cubierto": true,
   "confianza": 0.9
  },
- "132a9901bc": {
-  "url": "https://www.20minutos.es/musica/james-blunt-soy-un-poco-traidor-me-pongo-delante-10-000-personas-les-digo-que-son-beautiful_7050702_0.html",
-  "fuente": "20minutos (Cultura)",
-  "src": "prensa-20minutos-cultura",
-  "publicado": "2026-10-21",
-  "es_plan": false
- },
  "f63046c581": {
   "url": "https://elpais.com/espana/catalunya/2026-10-21/the-strokes-en-su-unico-concierto-en-espana-perdura-la-revolucion-del-calambre-con-un-sant-jordi-en-pie.html",
   "fuente": "El País (Cultura)",
@@ -930,13 +916,6 @@
   ],
   "a_cubierto": true,
   "confianza": 0.9
- },
- "d2a1aca1a4": {
-  "url": "https://elpais.com/cultura/2026-10-21/jon-savage-critico-musical-ser-un-hombre-heterosexual-me-parecia-aburrido-de-ahi-mi-interes-por-el-punk.html",
-  "fuente": "El País (Cultura)",
-  "src": "prensa-elpais-cultura",
-  "publicado": "2026-10-21",
-  "es_plan": false
  },
  "919b69e77f": {
   "url": "https://elpais.com/cultura/2026-10-21/parlamentarias-de-ultraderecha-legislando-desde-una-nave-espacial-la-politica-del-futuro-en-clave-de-comedia.html",
@@ -1020,13 +999,6 @@
   "a_cubierto": true,
   "confianza": 0.9
  },
- "7791296c54": {
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/21/sale-subasta-busto-francisco-goya-escultor-julio-antonio-2061401.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-10-21",
-  "es_plan": false
- },
  "4b9ceb6227": {
   "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/21/doblete-solidario-kase-asturias-para-promover-musica-los-espacios-rurales-2061411.html",
   "fuente": "Heraldo de Aragón (Ocio y cultura)",
@@ -1084,13 +1056,6 @@
   "a_cubierto": true,
   "confianza": 0.85
  },
- "05c106e0db": {
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/21/maria-uriz-soprano-las-ensenanzas-que-elvira-hidalgo-traslado-maria-callas-me-las-paso-mi-2061275.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-10-21",
-  "es_plan": false
- },
  "95b3edb183": {
   "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/21/the-heroes-experience-pedro-andreu-salen-gira-por-espana-pasaran-zaragoza-2061259.html",
   "fuente": "Heraldo de Aragón (Ocio y cultura)",
@@ -1118,13 +1083,6 @@
   ],
   "a_cubierto": true,
   "confianza": 0.85
- },
- "74a2fae03d": {
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/21/puerto-venecia-zaragoza-celebra-halloween-supervivencia-zombi-cine-terror-actividades-infantiles-horarios-precios-descuentos-2061186.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-10-21",
-  "es_plan": false
  },
  "af8c480d34": {
   "url": "https://www.elnortedecastilla.es/culturas/seminci/programa/programacion-completa-seminci-2025-20261020160155-nt.html",
@@ -1154,20 +1112,6 @@
   "a_cubierto": null,
   "confianza": 0.9
  },
- "178b488ee0": {
-  "url": "https://www.elnortedecastilla.es/culturas/arte/gondomar-embajadores-catolicos-tierra-anglicana-puente-valladolid-20261020204153-nt.html",
-  "fuente": "El Norte de Castilla (Culturas)",
-  "src": "prensa-nortecastilla-culturas",
-  "publicado": "2026-10-21",
-  "es_plan": false
- },
- "6f35977821": {
-  "url": "https://www.ideal.es/culturas/almeria/fin-plazo-taller-pablo-lopez-sombra-tiempo-20261021121049-nt.html",
-  "fuente": "Ideal (Culturas)",
-  "src": "prensa-ideal-culturas",
-  "publicado": "2026-10-21",
-  "es_plan": false
- },
  "a03198b1c6": {
   "url": "https://www.ideal.es/culturas/almeria/ballet-almeria-directo-royal-opera-house-20261021115638-nt.html",
   "fuente": "Ideal (Culturas)",
@@ -1195,34 +1139,6 @@
   ],
   "a_cubierto": true,
   "confianza": 0.9
- },
- "a34e29eb27": {
-  "url": "https://www.ideal.es/culturas/2027-ano-planetario-20261021113201-nt.html",
-  "fuente": "Ideal (Culturas)",
-  "src": "prensa-ideal-culturas",
-  "publicado": "2026-10-21",
-  "es_plan": false
- },
- "e9ee95e54a": {
-  "url": "https://www.elcorreo.com/culturas/musica/notevagustar-prenden-comunion-uruguaya-kafe-antzokia-lleno-20261021115742-nt.html",
-  "fuente": "El Correo (Culturas)",
-  "src": "prensa-elcorreo-culturas",
-  "publicado": "2026-10-21",
-  "es_plan": false
- },
- "77a304e0dc": {
-  "url": "https://www.elcorreo.com/culturas/libros/escritora-laura-freixas-denuncia-haber-vetada-libreria-20261021114235-nt.html",
-  "fuente": "El Correo (Culturas)",
-  "src": "prensa-elcorreo-culturas",
-  "publicado": "2026-10-21",
-  "es_plan": false
- },
- "a36707c54e": {
-  "url": "https://www.diariovasco.com/culturas/musica/falsificacion-entradas-estafa-vez-extendida-sofisticada-20261021000713-nt.html",
-  "fuente": "El Diario Vasco (Culturas)",
-  "src": "prensa-diariovasco-culturas",
-  "publicado": "2026-10-21",
-  "es_plan": false
  },
  "273ed92375": {
   "url": "https://www.lasprovincias.es/culturas/tv/thriller-psicologico-basado-reales-llega-movistar-plus-20261015000808-nt.html",
@@ -2753,13 +2669,6 @@
   "a_cubierto": null,
   "confianza": 0.9
  },
- "aced85f260": {
-  "url": "https://www.20minutos.es/musica/fallece-musico-artista-polifacetico-igor-arzuaga-los-48-anos_7051623_0.html",
-  "fuente": "20minutos (Cultura)",
-  "src": "prensa-20minutos-cultura",
-  "publicado": "2026-10-21",
-  "es_plan": false
- },
  "8244594d7d": {
   "url": "https://www.20minutos.es/musica/musical-querido-evan-hansen-llega-madrid-con-una-historia-sobre-identidad-necesidad-encajar_7051592_0.html",
   "fuente": "20minutos (Cultura)",
@@ -2816,13 +2725,6 @@
   "a_cubierto": null,
   "confianza": 0.85
  },
- "2ff9adc782": {
-  "url": "https://elpais.com/cultura/2026-10-21/urtasun-califica-de-censura-intolerable-el-veto-ideologico-de-vox-al-cine-en-castilla-y-leon.html",
-  "fuente": "El País (Cultura)",
-  "src": "prensa-elpais-cultura",
-  "publicado": "2026-10-21",
-  "es_plan": false
- },
  "1aa51d8e23": {
   "url": "https://elpais.com/cultura/2026-10-21/llega-a-espana-querido-evan-hansen-el-musical-improbable-convertido-en-fenomeno-social-que-engancha-a-jovenes-y-profanos-del-genero.html",
   "fuente": "El País (Cultura)",
@@ -2850,13 +2752,6 @@
   ],
   "a_cubierto": true,
   "confianza": 0.9
- },
- "8c66676393": {
-  "url": "https://elpais.com/espana/catalunya/2026-10-21/exposicion-de-tiburones-en-cosmocaixa-necesitara-un-barco-mas-grande.html",
-  "fuente": "El País (Cultura)",
-  "src": "prensa-elpais-cultura",
-  "publicado": "2026-10-21",
-  "es_plan": false
  },
  "32346ea704": {
   "url": "https://www.lavanguardia.com/cultura/20261021/11664805/exposicion-reivindica-compromiso-social-legado-antibelicista-pau-casals.html",
@@ -2886,13 +2781,6 @@
   ],
   "a_cubierto": true,
   "confianza": 0.9
- },
- "c9d15890ac": {
-  "url": "https://www.lavanguardia.com/cultura/20261021/11664725/julian-barnes-premio-princesa-asturias-letras-galardon-brexit.html",
-  "fuente": "La Vanguardia (Cultura)",
-  "src": "prensa-lavanguardia-cultura",
-  "publicado": "2026-10-21",
-  "es_plan": false
  },
  "3e0ac8e2db": {
   "url": "https://www.lavanguardia.com/local/barcelones-nord/20261021/11663894/passage-insolit-vuelve-santa-coloma-16-espectaculos-tres-estrenos.html",
@@ -2951,13 +2839,6 @@
   "a_cubierto": true,
   "confianza": 0.9
  },
- "19d3f86fd0": {
-  "url": "https://www.ara.cat/cultura/art/lluis-nacenta-museu-disseny-no-aiguabarreig-criteri_128_5885678.html",
-  "fuente": "Ara (Cultura)",
-  "src": "prensa-ara-cultura",
-  "publicado": "2026-10-21",
-  "es_plan": false
- },
  "ace36ca2bc": {
   "url": "https://www.ara.cat/cultura/teatre/veles-s-inflaran-llegat-dagoll-dagom-torna-als-escenaris_1_5885729.html",
   "fuente": "Ara (Cultura)",
@@ -3013,13 +2894,6 @@
   ],
   "a_cubierto": null,
   "confianza": 0.85
- },
- "f037e3e45a": {
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/21/diego-ventura-tras-accidente-camion-sus-caballos-viniendo-zaragoza-quiero-agradecer-todos-los-mensajes-animo-2061651.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-10-21",
-  "es_plan": false
  },
  "65d241719a": {
   "url": "https://www.20minutos.es/musica/lisa-blackpink-lanza-su-primer-ep-solitario-press-play-junto-videoclip-sencillo-tarantino_7052529_0.html",

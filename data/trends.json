@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04",
+ "updated": "2026-11-05",
  "terms": [
   {
    "term": "carlos cuerpo",
@@ -49,16 +49,6 @@
     "Dónde es festivo hoy, lunes 2 de noviembre: comunidades autónomas que hacen puente por el Día de Todos los Santos",
     "¿Hoy es festivo? Las nueve comunidades que hacen puente este lunes 2 de noviembre",
     "¿Por qué hoy no es fiesta en toda España?"
-   ]
-  },
-  {
-   "term": "el telediario de nuestras vidas",
-   "traffic": 10000,
-   "lastSeen": "2026-10-21",
-   "news": [
-    "TVE cae en la trampa de la nostalgia con 'El Telediario de nuestras vidas': \"Compró y vendió el relato franquista\"",
-    "Todas las veces que la reina Letizia apoyó a sus ex compañeros de Televisión Española: menciones, apariciones y recuerdos de su etapa de periodista",
-    "Beatriz Pérez-Aranda pone el broche de oro al 'Telediario' especial por los 70 años de TVE con su icónica frase “como un pepino”"
    ]
   },
   {
@@ -158,26 +148,6 @@
     "Detenido por matar de una cuchillada a un joven en el barrio de Miralbueno de Zaragoza",
     "Muere un varón tras ser agredido con un arma blanca en el barrio de Miralbueno",
     "Detenido por matar a cuchilladas a un joven en Zaragoza"
-   ]
-  },
-  {
-   "term": "masa de aire",
-   "traffic": 5000,
-   "lastSeen": "2026-10-21",
-   "news": [
-    "El chorro polar se intensificará a partir del miércoles y podría traer más lluvias y frío a España",
-    "Qué es una masa de aire polar y por qué hace tanto frío esta semana en España",
-    "¿Ha llegado el frío para quedarse? Un vaivén térmico"
-   ]
-  },
-  {
-   "term": "milei",
-   "traffic": 5000,
-   "lastSeen": "2026-10-21",
-   "news": [
-    "Última hora de la actualidad política, en directo | Milei visita España en plena precampaña de las elecciones generales",
-    "Sánchez y el PSOE dan la \"bienvenida\" a Milei con una lona en Ferraz reivindicando su orgullo por ser \"zurdos\"",
-    "Milei en España con Ayuso y sin Abascal por primera vez en siete visitas"
    ]
   },
   {
@@ -298,6 +268,16 @@
     "Genoveva Casanova reaparece en Madrid con una impactante imagen, un año después de mudarse fuera de España",
     "El paseo de Genoveva Casanova con un apuesto acompañante por Madrid tres años después de sus fotos con Federico de Dinamarca",
     "Genoveva Casanova vuelve al universo mediático: paseo por Madrid con un misterioso acompañante"
+   ]
+  },
+  {
+   "term": "zverev",
+   "traffic": 5000,
+   "lastSeen": "2026-11-05",
+   "news": [
+    "Musetti shocks Zverev in Paris; Halys saves 4 MPs to shake up Live Race",
+    "Musetti explains the key to his victory over Zverev",
+    "Licensable picture: Rolex Paris Masters 2026, Day 3"
    ]
   },
   {
@@ -620,43 +600,23 @@
    ]
   },
   {
-   "term": "municipio",
-   "traffic": 1000,
-   "lastSeen": "2026-10-21",
+   "term": "cristiano ronaldo",
+   "traffic": 2000,
+   "lastSeen": "2026-11-05",
    "news": [
-    "Matadepera lamenta que ser el número uno del ranking de pueblos más ricos de Cataluña tenga un efecto llamada para los ladrones",
-    "MAPA | Estos son los municipios más ricos de Catalunya",
-    "Matadepera y Sant Cugat del Vallès, los municipios más ricos de Catalunya: ¿cuáles tienen las rentas más bajas?"
+    "Cristiano Ronaldo retires: Portugal forward says he is quitting international football",
+    "Cristiano Ronaldo retires from international soccer after a record-breaking career with Portugal",
+    "Breaking Cristiano Ronaldo to retire from international football this month"
    ]
   },
   {
-   "term": "impago",
-   "traffic": 1000,
-   "lastSeen": "2026-10-21",
+   "term": "cristian corvillo",
+   "traffic": 2000,
+   "lastSeen": "2026-11-05",
    "news": [
-    "La obligación de que el propietario asuma el seguro de impago presiona al alza los nuevos alquileres",
-    "La Ley de Vivienda pierde respaldo entre los españoles",
-    "El 70% de los propietarios prioriza la seguridad: ¿quién paga cada seguro tras la reforma del alquiler?"
-   ]
-  },
-  {
-   "term": "rafael nadal",
-   "traffic": 1000,
-   "lastSeen": "2026-10-21",
-   "news": [
-    "Rafa Nadal (40 años) sobre la crisis de vivienda en España: «Antes se ahorraba dinero para comprar un coche...",
-    "Rafa Nadal, sobre sus propiedades: \"Me gusta el sector hotelero. Mis principales inversiones están ahí\"",
-    "Rafa Nadal: “Antes la gente intentaba ahorrar para comprar una casa o un coche. Ahora se invierte en viajar y conocer lugares diferentes”"
-   ]
-  },
-  {
-   "term": "dignidad",
-   "traffic": 1000,
-   "lastSeen": "2026-10-21",
-   "news": [
-    "La frase del día hoy, miércoles 21 de octubre: \"La dignidad no tiene precio. Cuando alguien comienza a dar pequeñas concesiones, al final, la vida pierde su sentido\", José Saramago",
-    "Comece: El bien común debe guiar la innovación tecnológica",
-    "Se presenta en Aranda la propuesta de León XIV para preservar la dignidad humana en tiempos de inteligencia artificial"
+    "Cristian Corvillo, la caída del conductor de Sánchez en su gira de reconquista del PSOE que ya anunció: \"Lo voy a aprovechar\"",
+    "La UCO despliega un nuevo operativo tras entregar un informe sobre amaños en el ‘caso Koldo’",
+    "La UCO registra Adif Alta Velocidad y detiene al exchófer de Pedro Sánchez en Córdoba en una pieza secreta"
    ]
   },
   {
@@ -948,23 +908,13 @@
    ]
   },
   {
-   "term": "tifo",
-   "traffic": 500,
-   "lastSeen": "2026-10-21",
+   "term": "castello lukeba",
+   "traffic": 1000,
+   "lastSeen": "2026-11-05",
    "news": [
-    "Sources: Barcelona report PSG to UEFA for 'aggressive' tifo",
-    "\"Unacceptable overstepping\": Barcelona complain about Paris Saint-Germain after the four-goal thrashing",
-    "Barcelona to file complaint about 'aggressive and offensive' PSG tifo"
-   ]
-  },
-  {
-   "term": "jet stream",
-   "traffic": 500,
-   "lastSeen": "2026-10-21",
-   "news": [
-    "Spain braces for 100km/h gusts and 10-metre waves as the polar jet stream arrives Wednesday",
-    "UK Weather: Storm Austen Will Be Stronger Than Forecast Along Coasts",
-    "Storm Austen: Strong 70mph winds could hit south Wales on Friday"
+    "Bundesliga defender emerges as Barcelona’s leading target as €65m release clause offers an opportunity",
+    "Lukeba da el primer paso para fichar por el Barça",
+    "Castello Lukeba, un fichaje que se acerca"
    ]
   },
   {
@@ -1430,102 +1380,23 @@
    ]
   },
   {
-   "term": "php",
-   "traffic": 200,
-   "lastSeen": "2026-10-21",
+   "term": "tommy paul",
+   "traffic": 500,
+   "lastSeen": "2026-11-05",
    "news": [
-    "PHP2Shell: Two Unpatched Critical PHP RCE Flaws (CVSS 9.2) Trigger Emergency Security Alert",
-    "PHP warns it plans to release 2 emergency patches imminently",
-    "PHP vulnerability puts WordPress, websites at risk after leak"
+    "November 6, 2026: Robin Montgomery vs Maaya Rajeshwaran Revathi: Set 2 Winner Tennis Prediction Market",
+    "November 4, 2026: Alex Molcan vs Taylor Fritz: Set 2 Winner Tennis Prediction Market",
+    "November 4, 2026: Weronika Falkowska vs Maaya Rajeshwaran Revathi: Set 1 Winner Prediction Market"
    ]
   },
   {
-   "term": "lluis puig",
-   "traffic": 200,
-   "lastSeen": "2026-10-21",
+   "term": "bob dylan papa leon",
+   "traffic": 500,
+   "lastSeen": "2026-11-05",
    "news": [
-    "Lluís Puig cruza la frontera y regresa a Catalunya nueve años después del referéndum del 1-O",
-    "El exconseller catalán Lluis Puig ha vuelto a España tras nueve años fugado en Bélgica",
-    "El exconsejero Lluís Puig regresa a Cataluña después de nueve años"
-   ]
-  },
-  {
-   "term": "mercadillo",
-   "traffic": 200,
-   "lastSeen": "2026-10-21",
-   "news": [
-    "La Policía levanta el mercadillo ilegal de San Francisco ante las quejas vecinales",
-    "Cuatro detenidos en una macrorredada contra la venta ilegal y el trapicheo en San Francisco",
-    "Redada policial en San Francisco contra la venta ilegal en las calles"
-   ]
-  },
-  {
-   "term": "naftalina",
-   "traffic": 200,
-   "lastSeen": "2026-10-21",
-   "news": [
-    "En los años 80 estaban en todos los armarios de España para proteger la ropa: hoy están prohibidas en vario...",
-    "PM apreende mais de 100 quilos de droga camuflada com naftalina em São João do Araguaia"
-   ]
-  },
-  {
-   "term": "josé coronado",
-   "traffic": 200,
-   "lastSeen": "2026-10-21",
-   "news": [
-    "José Coronado, actor: \"Recibí en mi camerino a muchos gais que venían entre lágrimas a darme las gracias por 'Algo en común'. No volví a ser el mismo\"",
-    "Jose Coronado (69), actor: \"Cuando empecé era solo un galán, luego me pasaron al lado oscuro y era el tipo duro del cine español\"",
-    "La confesión de José Coronado sobre su infancia en los años 80: «Mi padre me aconsejó y trabajó para que yo..."
-   ]
-  },
-  {
-   "term": "james bond",
-   "traffic": 200,
-   "lastSeen": "2026-10-21",
-   "news": [
-    "James Bond Auction: Daniel Craig’s ‘Skyfall’ Suit, Ana de Armas’ ‘No Time to Die’ Dress Hitting Block",
-    "Daniel Craigs James Bond suit, posters, first edition of Ian Fleming novel up for online auction",
-    "Daniel Craig's James Bond Suit Is Being Outsold at Auction by One of the Most Impressive Bond Girls"
-   ]
-  },
-  {
-   "term": "oleshki",
-   "traffic": 200,
-   "lastSeen": "2026-10-21",
-   "news": [
-    "Ukraine: A rare glimpse from above into a Russian-occupied city that people attempt to flee on bikes",
-    "Vice President of the European Parliament announces hunger strike in support of Oleshky in Ukraine",
-    "More than 4 metric tons of aid for Oleshky—Ukrainian soldiers delivered food and medicine"
-   ]
-  },
-  {
-   "term": "colom",
-   "traffic": 200,
-   "lastSeen": "2026-10-21",
-   "news": [
-    "Opinion | Could Mississippi Elect Its First Black Senator Since Reconstruction?",
-    "Why Democrats are daring to dream in Mississippi, starting with a candidate crossing the state in a taco truck",
-    "Democrats jump into Mississippi Senate race"
-   ]
-  },
-  {
-   "term": "puertollano",
-   "traffic": 200,
-   "lastSeen": "2026-10-21",
-   "news": [
-    "La segunda fase del Hospital de Puertollano ya está entregada y avanza el montaje del mobiliario",
-    "Los primeros profesionales sanitarios comienzan a dar vida al nuevo hospital de Puertollano",
-    "Ilusión y emoción entre los profesionales de Puertollano en sus primeras visitas al nuevo hospital tras recibir la segunda fase de las obras"
-   ]
-  },
-  {
-   "term": "maó",
-   "traffic": 200,
-   "lastSeen": "2026-10-21",
-   "news": [
-    "Las cinco propuestas de 'Recuperem el port de Maó' para proteger la rada",
-    "Una exposición fotográfica muestra los retos y las amenazas que afronta el puerto de Maó",
-    "Detenido por robar cinco coches de empresas de alquiler en Maó (Menorca)"
+    "El papa León XIV recibe a Bob Dylan en el Vaticano",
+    "Trump pierde el Capitolio, el papa conoce a Bob Dylan y más imágenes del día",
+    "El Papa recibe a Bob Dylan en el Vaticano y le regala un rosario"
    ]
   },
   {
@@ -2337,13 +2208,43 @@
    ]
   },
   {
-   "term": "consulado",
-   "traffic": 100,
-   "lastSeen": "2026-10-21",
+   "term": "fedea",
+   "traffic": 200,
+   "lastSeen": "2026-11-05",
    "news": [
-    "El consulado en México nacionalizó a cientos fuera de plazo alterando las fechas de solicitud",
-    "El Gobierno concedió la nacionalidad española a una exsenadora mexicana del PRI y a su familia solo por tener un bisabuelo español",
-    "Carlos Herrera: \"El consulado en México ha vuelto a conceder la nacionalidad española por la ley de nietos a un mexicano de avanzada edad que ni su padre ni su abuelo nacieron en España\""
+    "Fedea avisa de que el \"cheque en blanco\" de las pensiones acelera el deterioro de las infraestructuras",
+    "Fedea plantea una reforma dura para las pensiones, con recorte de cuantías y cuentas nocionales",
+    "Alerta en las pensiones de la generación \"babyboomer\": a mitad de siglo el déficit del sistema será de hasta 102.000 millones \"y no se ha tenido en cuenta cómo cubrirlo\""
+   ]
+  },
+  {
+   "term": "taurian fontenette",
+   "traffic": 200,
+   "lastSeen": "2026-11-05",
+   "news": [
+    "Houston streetball legend known as 'Air Up There' dead at 43",
+    "Taurian Fontenette Cause of Death: How did iconic basketballer die aged 43?",
+    "Taurian Fontenette, AKA ‘Air Up There,’ Cause of Death: What We Know About the AND1 Dunk Legend’s Passing"
+   ]
+  },
+  {
+   "term": "cr7",
+   "traffic": 200,
+   "lastSeen": "2026-11-05",
+   "news": [
+    "Cristiano Ronaldo se retira de la selección de Portugal",
+    "Obrigado por todo, capitán",
+    "El emotivo vídeo de despedida de Ronaldo donde también habla de su familia: \"Gracias por entender las ausencias\""
+   ]
+  },
+  {
+   "term": "media maraton valencia 2027",
+   "traffic": 200,
+   "lastSeen": "2026-11-05",
+   "news": [
+    "¿Corriste el último Medio Maratón Valencia? Hoy puedes asegurarte un dorsal para volver en 2027",
+    "Wizz Air se convierte en el patrocinador principal del Medio Maratón Valencia",
+    "El estreno de los vuelos con Madrid completa la primera fase del despliegue de Wizz Air en Lavacolla"
    ]
   },
   {
