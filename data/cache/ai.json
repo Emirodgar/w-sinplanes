@@ -23975,5 +23975,1588 @@
    "deporte"
   ],
   "a_cubierto": null
+ },
+ "ececcfbc08": {
+  "id": "fae44c169f",
+  "es": {
+   "titulo": "Andrea Jiménez. Contra Antígona",
+   "resumen": "Andrea Jiménez presenta su espectáculo 'Contra Antígona' en el Centro de Cultura Contemporánea CondeDuque. Una propuesta escénica que explora temas clásicos desde una perspectiva contemporánea."
+  },
+  "en": {
+   "titulo": "Andrea Jiménez. Against Antigone",
+   "resumen": "Andrea Jiménez presents her show 'Contra Antígona' at the CondeDuque Contemporary Culture Center. A scenic proposal that explores classic themes from a contemporary perspective."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "c720fb95c7": {
+  "id": "3ea0a08442",
+  "es": {
+   "titulo": "Aplausos a Teresa",
+   "resumen": "Obra de teatro para mayores de 14 años sobre la danza, la memoria y el apoyo mutuo. Teresa comparte sus recuerdos y su pasión por el baile con July en una emotiva función."
+  },
+  "en": {
+   "titulo": "Applause for Teresa",
+   "resumen": "A play for ages 14 and up about dance, memory, and mutual support. Teresa shares her memories and passion for dance with July in an emotional performance."
+  },
+  "temas": [
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "dece5138b3": {
+  "id": "e969eba0ee",
+  "es": {
+   "titulo": "Banda de Música de Moratalaz",
+   "resumen": "La Banda de Música de Moratalaz, dirigida por Carlos Aguado, ofrece un concierto de música española, incluyendo zarzuelas y pasodobles, junto a piezas de compositores internacionales."
+  },
+  "en": {
+   "titulo": "Moratalaz Music Band",
+   "resumen": "The Moratalaz Music Band, conducted by Carlos Aguado, presents a concert of Spanish music, featuring zarzuelas and pasodobles, alongside pieces by internationally renowned composers."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "2707f254cc": {
+  "id": "7a77d7d84b",
+  "es": {
+   "titulo": "Ciclo: Resonancias, la música que transforma",
+   "resumen": "La Biblioteca Musical Víctor Espinós acoge el ciclo 'Resonancias', dedicado a explorar la música y su poder transformador. Un espacio para descubrir nuevas sonoridades y reflexiones."
+  },
+  "en": {
+   "titulo": "Cycle: Resonances, Music that Transforms",
+   "resumen": "The Víctor Espinós Musical Library hosts the 'Resonances' cycle, dedicated to exploring music and its transformative power. A space to discover new sounds and reflections."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "e2fa157e2e": {
+  "id": "3be8bc8e5f",
+  "es": {
+   "titulo": "Cine infantil: 'Shrek 2' en la Biblioteca María Lejárraga",
+   "resumen": "Proyección de la película infantil 'Shrek 2' en la Biblioteca Pública Municipal María Lejárraga. Una divertida aventura para toda la familia con entrada libre hasta completar aforo."
+  },
+  "en": {
+   "titulo": "Children's Cinema: 'Shrek 2' at María Lejárraga Library",
+   "resumen": "Screening of the children's film 'Shrek 2' at the María Lejárraga Municipal Public Library. A fun adventure for the whole family with free admission until full."
+  },
+  "temas": [
+   "ninos",
+   "pantalla"
+  ],
+  "a_cubierto": true
+ },
+ "3fb7412dd4": {
+  "id": "2d5309ae9c",
+  "es": {
+   "titulo": "Club de lectura en la Biblioteca Vicálvaro",
+   "resumen": "La Biblioteca Pública Municipal Vicálvaro organiza un club de lectura para fomentar el hábito lector y el intercambio de opiniones sobre obras seleccionadas. Sesiones quincenales dirigidas por un dinamizador."
+  },
+  "en": {
+   "titulo": "Book Club at Vicálvaro Library",
+   "resumen": "The Vicálvaro Municipal Public Library organizes a book club to encourage reading habits and the exchange of opinions on selected works. Bi-weekly sessions led by a facilitator."
+  },
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "aaaaa332f1": {
+  "id": "219801146f",
+  "es": {
+   "titulo": "Club de lectura 'Cofradía del libro'",
+   "resumen": "La Biblioteca Pública Municipal Iván de Vargas acoge el club de lectura 'Cofradía del libro', un espacio para compartir la pasión por la lectura y debatir sobre obras literarias."
+  },
+  "en": {
+   "titulo": "Book Club 'Cofradía del libro'",
+   "resumen": "The Iván de Vargas Municipal Public Library hosts the 'Cofradía del libro' book club, a space to share the passion for reading and discuss literary works."
+  },
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "a2d1501775": {
+  "id": "7a5fd78895",
+  "es": {
+   "titulo": "Competición de cubos de Rubik",
+   "resumen": "El Centro Cultural Sanchinarro acoge el Madrid Norte Open 2026, una competición de cubos de Rubik organizada por la Asociación Madrileña de Speedcubing. Requiere inscripción previa."
+  },
+  "en": {
+   "titulo": "Rubik's Cube Competition",
+   "resumen": "The Sanchinarro Cultural Center hosts the Madrid North Open 2026, a Rubik's Cube competition organized by the Madrileña de Speedcubing Association. Pre-registration required."
+  },
+  "temas": [
+   "actividades",
+   "deporte"
+  ],
+  "a_cubierto": true
+ },
+ "0a651fbfd8": {
+  "id": "4186069b10",
+  "es": {
+   "titulo": "Concierto sinfónico: Grandes éxitos de José María Druet",
+   "resumen": "La Orquesta Concertante de Madrid, dirigida por José María Druet, interpreta un concierto Pop Sinfónico con temas de cine, musicales y éxitos Pop/Rock. Entradas a 10 euros."
+  },
+  "en": {
+   "titulo": "Symphonic Concert: Great Hits of José María Druet",
+   "resumen": "The Orquesta Concertante de Madrid, conducted by José María Druet, performs a Symphonic Pop concert featuring themes from movies, musicals, and Pop/Rock hits. Tickets are 10 euros."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "22d2e6b863": {
+  "id": "82e7af9c93",
+  "es": {
+   "titulo": "Conferencia: De la convergencia global al enfrentamiento multipolar",
+   "resumen": "Análisis de la evolución de la desigualdad global y las implicaciones políticas del auge de Asia, especialmente China. Entrada gratuita previa inscripción online."
+  },
+  "en": {
+   "titulo": "Conference: From Global Convergence to Multipolar Confrontation",
+   "resumen": "Analysis of the evolution of global inequality and the political implications of Asia's rise, particularly China. Free entry with prior online registration."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "4b481b5ff8": {
+  "id": "c4255294dd",
+  "es": {
+   "titulo": "Conferencia: El Romancero impreso en el siglo XVI",
+   "resumen": "Exploración de la literatura popular impresa y los pliegos sueltos góticos en el siglo XVI, su impacto en el mercado editorial y la difusión cultural. Entrada gratuita previa inscripción."
+  },
+  "en": {
+   "titulo": "Conference: The Printed Romancero in the 16th Century",
+   "resumen": "Exploration of popular printed literature and Gothic single sheets in the 16th century, their impact on the publishing market, and cultural dissemination. Free entry with prior registration."
+  },
+  "temas": [
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": true
+ },
+ "35e5fa17e3": {
+  "id": "0b344952bc",
+  "es": {
+   "titulo": "Conferencia: Enfermedades Neurodegenerativas y Demencias",
+   "resumen": "Conferencia sobre las características, diagnóstico y terapias de enfermedades neurodegenerativas como el Alzheimer y Parkinson. Entrada gratuita previa inscripción."
+  },
+  "en": {
+   "titulo": "Conference: Neurodegenerative Diseases and Dementias",
+   "resumen": "Lecture on the characteristics, diagnosis, and therapies for neurodegenerative diseases such as Alzheimer's and Parkinson's. Free entry with prior registration."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "c8dc02f032": {
+  "id": "d16b388ea3",
+  "es": {
+   "titulo": "Conferencia: La oposición al régimen: de la lucha a la nostalgia",
+   "resumen": "Análisis de las fuerzas políticas y sociales opuestas al régimen de la Restauración, los intentos de integración y las posibilidades de democratización. Entrada gratuita previa inscripción."
+  },
+  "en": {
+   "titulo": "Conference: Opposition to the Regime: From Struggle to Nostalgia",
+   "resumen": "Analysis of the political and social forces opposing the Restoration regime, integration attempts, and possibilities for democratization. Free entry with prior registration."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "f813e45128": {
+  "id": "267ede004e",
+  "es": {
+   "titulo": "Conferencia: La política de las migraciones no deseadas",
+   "resumen": "Debate sobre los dilemas de solidaridad en la gobernanza europea respecto a las migraciones no deseadas. Entrada gratuita previa inscripción."
+  },
+  "en": {
+   "titulo": "Conference: The Politics of Unwanted Migrations",
+   "resumen": "Discussion on the dilemmas of solidarity in European governance regarding unwanted migrations. Free entry with prior registration."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "76fbcb7dd7": {
+  "id": "3d952954fd",
+  "es": {
+   "titulo": "Conferencia: Luces y sombras de la química española en el siglo XX",
+   "resumen": "Recorrido por el desarrollo de la química española en el siglo XX, desde la Edad de Plata hasta la creación del CSIC. Entrada gratuita previa inscripción."
+  },
+  "en": {
+   "titulo": "Conference: Lights and Shadows of Spanish Chemistry in the 20th Century",
+   "resumen": "A look at the development of Spanish chemistry in the 20th century, from the Silver Age to the creation of the CSIC. Free entry with prior registration."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "f31b19da82": {
+  "id": "f185dcb128",
+  "es": {
+   "titulo": "Coro: 'Agrupación Coral El Capricho' - Homenaje",
+   "resumen": "La Agrupación Coral El Capricho ofrece un concierto en homenaje por el Día Internacional de la Eliminación de la Violencia contra la Mujer. Entrada libre."
+  },
+  "en": {
+   "titulo": "Choir: 'Agrupación Coral El Capricho' - Homage",
+   "resumen": "The 'Agrupación Coral El Capricho' choir performs a concert in homage to the International Day for the Elimination of Violence against Women. Free admission."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "d92a626395": {
+  "id": "d2d6fc14e4",
+  "es": {
+   "titulo": "Domingo 22 de noviembre: Generación Pop en familia",
+   "resumen": "Concierto infantil 'El burro, el gato y la muñeca de trapo' con canciones de corro a ritmo de rock, dentro de la programación 'Generación Pop en familia'."
+  },
+  "en": {
+   "titulo": "Sunday, November 22: Generation Pop for Families",
+   "resumen": "Children's concert 'El burro, el gato y la muñeca de trapo' featuring playground songs with a rock beat, as part of the 'Generation Pop for Families' program."
+  },
+  "temas": [
+   "ninos",
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "fe61f91652": {
+  "id": "4c7387ff94",
+  "es": {
+   "titulo": "Editatona contra la desinformación con Carolina Pecharromán",
+   "resumen": "Taller de edición en Matadero Medialab con Carolina Pecharromán para combatir la desinformación. Una jornada para mejorar el contenido en línea."
+  },
+  "en": {
+   "titulo": "Edit-a-thon Against Disinformation with Carolina Pecharromán",
+   "resumen": "Editing workshop at Matadero Medialab with Carolina Pecharromán to combat disinformation. A session to improve online content."
+  },
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": true
+ },
+ "d6540fb202": {
+  "id": "3ce4f0fe60",
+  "es": {
+   "titulo": "Exposición: El otoño en AEDA",
+   "resumen": "Exposición del 7º Certamen de acuarelas de la Asociación Española de Acuarelistas (AEDA). La entrega de premios será el jueves 12 de noviembre."
+  },
+  "en": {
+   "titulo": "Exhibition: Autumn at AEDA",
+   "resumen": "Exhibition of the 7th watercolor contest by the Spanish Watercolorists Association (AEDA). The award ceremony will be held on Thursday, November 12."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "77f3fb6fbe": {
+  "id": "0f4a46840c",
+  "es": {
+   "titulo": "Exposición de Pintura: '#Villaverdetequieroasi'",
+   "resumen": "Exposición de retratos de vecinos del barrio de Villaverde, obra de Raquel González Bazaga, en el Centro Sociocultural Santa Petronila."
+  },
+  "en": {
+   "titulo": "Painting Exhibition: '#Villaverdetequieroasi'",
+   "resumen": "Exhibition of portraits of neighborhood residents from Villaverde, by Raquel González Bazaga, at the Santa Petronila Cultural and Social Center."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "e8f35af379": {
+  "id": "3a0d7e72f3",
+  "es": {
+   "titulo": "Four Seasons",
+   "resumen": "Espectáculo en inglés que narra las cuatro estaciones a través de historias y música de Vivaldi, con cuentos participativos para todas las edades. Se celebra en el Centro Cultural Federico Chueca."
+  },
+  "en": {
+   "titulo": "Four Seasons",
+   "resumen": "A show in English that narrates the four seasons through stories and Vivaldi's music, with participatory storytelling for all ages. Held at the Federico Chueca Cultural Center."
+  },
+  "temas": [
+   "cultura",
+   "musica",
+   "ninos"
+  ],
+  "a_cubierto": true
+ },
+ "08c8399241": {
+  "id": "4b950c8265",
+  "es": {
+   "titulo": "Gala clausura XXI certamen de teatro abierto de Hortaleza",
+   "resumen": "Gala de clausura del Certamen de Teatro Abierto de Hortaleza, con entrega de premios y la representación de la obra ganadora. Apta para mayores de 14 años."
+  },
+  "en": {
+   "titulo": "Closing Gala of the 21st Hortaleza Open Theater Contest",
+   "resumen": "Closing gala of the Hortaleza Open Theater Contest, featuring award presentations and the performance of the winning play. Suitable for ages 14 and up."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "57609dd8f2": {
+  "id": "d751965b99",
+  "es": {
+   "titulo": "Hilarantes ilusiones",
+   "resumen": "Espectáculo de magia familiar 'Hilarantes ilusiones' a cargo del Mago Andrés Cañadas. Un show para sorprenderse y dudar de lo que se ve, recomendado para mayores de 3 años."
+  },
+  "en": {
+   "titulo": "Hilarious Illusions",
+   "resumen": "Family magic show 'Hilarantes ilusiones' by Magician Andrés Cañadas. A show to be amazed and question what you see, recommended for ages 3 and up."
+  },
+  "temas": [
+   "ninos",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "664cad2812": {
+  "id": "3ad8434efa",
+  "es": {
+   "titulo": "Historia de las castañuelas y otras fantasías",
+   "resumen": "La Biblioteca Musical Víctor Espinós presenta 'Historia de las castañuelas y otras fantasías', un recorrido por la historia de este instrumento y otras curiosidades musicales."
+  },
+  "en": {
+   "titulo": "History of Castanets and Other Fantasies",
+   "resumen": "The Víctor Espinós Musical Library presents 'History of Castanets and Other Fantasies,' an exploration of the history of this instrument and other musical curiosities."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "e31a4bd2ea": {
+  "id": "87383ab1e9",
+  "es": {
+   "titulo": "II Certamen de fotografía de Carabanchel 'Clic 11'",
+   "resumen": "Exposición y entrega de premios del II Certamen de Fotografía de Carabanchel 'Clic 11' en el Centro Cultural San Francisco La Prensa."
+  },
+  "en": {
+   "titulo": "2nd Carabanchel Photography Contest 'Clic 11'",
+   "resumen": "Exhibition and award ceremony for the 2nd Carabanchel Photography Contest 'Clic 11' at the San Francisco La Prensa Cultural Center."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "a015e8a86a": {
+  "id": "20d84ecebc",
+  "es": {
+   "titulo": "Jornada de skate",
+   "resumen": "Evento deportivo centrado en el skate en el Centro Deportivo Municipal Barajas. Una oportunidad para disfrutar de esta disciplina urbana."
+  },
+  "en": {
+   "titulo": "Skateboarding Day",
+   "resumen": "A sports event focused on skateboarding at the Municipal Sports Center Barajas. An opportunity to enjoy this urban discipline."
+  },
+  "temas": [
+   "deporte"
+  ],
+  "a_cubierto": true
+ },
+ "4414e20173": {
+  "id": "288f33a2a8",
+  "es": {
+   "titulo": "Jornada sobre Enfermedades Raras en España",
+   "resumen": "Encuentro en la Fundación Ramón Areces para debatir la situación actual de las enfermedades raras en España. La asistencia es gratuita previa inscripción online."
+  },
+  "en": {
+   "titulo": "Conference on Rare Diseases in Spain",
+   "resumen": "A meeting at the Ramón Areces Foundation to discuss the current situation of rare diseases in Spain. Attendance is free with prior online registration."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "271336e4b1": {
+  "id": "43d9268b1c",
+  "es": {
+   "titulo": "Homenaje a Juan Ramón Jiménez: Poesía y Música",
+   "resumen": "El Centro Cultural Nicolás Salmerón acoge un recital poético musicalizado y dramatizado en homenaje a Juan Ramón Jiménez. Entrada libre hasta completar aforo."
+  },
+  "en": {
+   "titulo": "Tribute to Juan Ramón Jiménez: Poetry and Music",
+   "resumen": "The Nicolás Salmerón Cultural Center hosts a musicalized and dramatized poetry recital in tribute to Juan Ramón Jiménez. Free entry until capacity is reached."
+  },
+  "temas": [
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "05dfe96308": {
+  "id": "be51e921ef",
+  "es": {
+   "titulo": "Kiki Morente en el Museo Lázaro Galdiano",
+   "resumen": "El Museo Lázaro Galdiano presenta a Kiki Morente en un concierto que fusiona tradición y modernidad flamenca. Entrada libre con invitación, también disponible por streaming."
+  },
+  "en": {
+   "titulo": "Kiki Morente at the Lázaro Galdiano Museum",
+   "resumen": "The Lázaro Galdiano Museum presents Kiki Morente in a concert blending flamenco tradition and modernity. Free entry with invitation, also available via streaming."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "6ff64f59cc": {
+  "id": "c5856258c1",
+  "es": {
+   "titulo": "La Disco de Ramón: Discoteca Infantil",
+   "resumen": "Una discoteca para los más pequeños en el Centro Cultural Carril del Conde, donde Ramón animará a niños y adultos a participar con música y coreografías."
+  },
+  "en": {
+   "titulo": "Ramón's Disco: Children's Disco",
+   "resumen": "A disco for the little ones at the Carril del Conde Cultural Center, where Ramón will encourage children and adults to participate with music and choreography."
+  },
+  "temas": [
+   "ninos",
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "0430060e91": {
+  "id": "1a5de9b0a4",
+  "es": {
+   "titulo": "La Fiesta de Los Disfraces",
+   "resumen": "Espectáculo infantil en el Centro Cultural Carril del Conde donde los niños podrán lucir sus disfraces, bailar y participar en juegos coordinados por el clown Trapos."
+  },
+  "en": {
+   "titulo": "The Costume Party",
+   "resumen": "A children's show at the Carril del Conde Cultural Center where kids can show off their costumes, dance, and participate in games coordinated by the clown Trapos."
+  },
+  "temas": [
+   "ninos",
+   "fiestas"
+  ],
+  "a_cubierto": true
+ },
+ "b48018b076": {
+  "id": "fdebf4b11b",
+  "es": {
+   "titulo": "La libertad pretendo: Poesía y Música Clásica",
+   "resumen": "Espectáculo en el Centro Cultural Puerta de Toledo que combina textos clásicos y música de época en directo, interpretado por tres actrices y una música."
+  },
+  "en": {
+   "titulo": "La libertad pretendo: Poetry and Classical Music",
+   "resumen": "A performance at the Puerta de Toledo Cultural Center combining classic texts and live period music, performed by three actresses and a musician."
+  },
+  "temas": [
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "dba4f82278": {
+  "id": "f787644db0",
+  "es": {
+   "titulo": "La tarta del presidente: Ciclo de Cine",
+   "resumen": "Proyección de la película iraquí 'La tarta del presidente' en el Centro Sociocultural Alberto Sánchez. Un drama sobre la supervivencia en el Irak de Sadam Husein."
+  },
+  "en": {
+   "titulo": "The President's Cake: Film Cycle",
+   "resumen": "Screening of the Iraqi film 'The President's Cake' at the Alberto Sánchez Sociocultural Center. A drama about survival in Saddam Hussein's Iraq."
+  },
+  "temas": [
+   "pantalla",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "b692682bfe": {
+  "id": "8d730ed042",
+  "es": {
+   "titulo": "Ludoteca: Experimentos Científicos para Niños",
+   "resumen": "Taller de ciencia para niños de 4 a 11 años en el Centro Dotacional Integrado Arganzuela. Descubrirán los aportes de científicos como Curie y Newton a través de experimentos."
+  },
+  "en": {
+   "titulo": "Playroom: Science Experiments for Children",
+   "resumen": "A science workshop for children aged 4 to 11 at the Arganzuela Integrated Educational Center. They will discover the contributions of scientists like Curie and Newton through experiments."
+  },
+  "temas": [
+   "ninos",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "2ee7bd2317": {
+  "id": "e60eebbd37",
+  "es": {
+   "titulo": "Ludoteca: Títeres y Marionetas para Niños",
+   "resumen": "Taller infantil en el Centro Dotacional Integrado Arganzuela donde los niños crearán sus propios títeres y aprenderán sobre el teatro de marionetas."
+  },
+  "en": {
+   "titulo": "Playroom: Puppets and Marionettes for Children",
+   "resumen": "A children's workshop at the Arganzuela Integrated Educational Center where kids will create their own puppets and learn about puppet theater."
+  },
+  "temas": [
+   "ninos",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "88d0bc2e08": {
+  "id": "c44cba28c1",
+  "es": {
+   "titulo": "María Bulería: Flamenco para Niños",
+   "resumen": "Espectáculo de flamenco interactivo para todos los públicos en el Centro Cultural Carril del Conde, conmemorando el Día Mundial del Flamenco."
+  },
+  "en": {
+   "titulo": "María Bulería: Flamenco for Children",
+   "resumen": "An interactive flamenco show for all audiences at the Carril del Conde Cultural Center, commemorating World Flamenco Day."
+  },
+  "temas": [
+   "ninos",
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "a0c12818f5": {
+  "id": "cf2dabfe63",
+  "es": {
+   "titulo": "Master Class de Acuarela en Sanchinarro",
+   "resumen": "La Asociación Española de Acuarelistas ofrece una clase magistral de acuarela impartida por Feli Bernardo en el Centro Cultural Sanchinarro. Entrada libre."
+  },
+  "en": {
+   "titulo": "Watercolor Master Class in Sanchinarro",
+   "resumen": "The Spanish Watercolor Association offers a master class in watercolor taught by Feli Bernardo at the Sanchinarro Cultural Center. Free entry."
+  },
+  "temas": [
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "03b1533da5": {
+  "id": "db46a12a01",
+  "es": {
+   "titulo": "Masterclass K-Pop Dance en Villaverde",
+   "resumen": "Clase magistral de baile K-Pop impartida por Nuria Heras en el Edificio Sociocultural Marta Escudero Díaz-Tejeiro. Recomendado para mayores de 12 años."
+  },
+  "en": {
+   "titulo": "K-Pop Dance Masterclass in Villaverde",
+   "resumen": "A K-Pop dance masterclass taught by Nuria Heras at the Marta Escudero Díaz-Tejeiro Sociocultural Building. Recommended for ages 12 and up."
+  },
+  "temas": [
+   "musica",
+   "deporte"
+  ],
+  "a_cubierto": true
+ },
+ "9a46912dec": {
+  "id": "11415d3ad4",
+  "es": {
+   "titulo": "Mesa Redonda: Premios Nobel de Economía 2026",
+   "resumen": "La Fundación Ramón Areces organiza una mesa redonda sobre el poder de las expectativas y las contribuciones de los Premios Nobel de Economía 2026."
+  },
+  "en": {
+   "titulo": "Round Table: Nobel Prize in Economics 2026",
+   "resumen": "The Ramón Areces Foundation organizes a round table discussion on the power of expectations and the contributions of the 2026 Nobel Prize winners in Economics."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "ae8397a5eb": {
+  "id": "e3d50ae70e",
+  "es": {
+   "titulo": "Papanatas: Comedia Coral",
+   "resumen": "El Centro Cultural Puerta de Toledo presenta 'Papanatas', una comedia que reflexiona sobre las apariencias y las contradicciones de la vida cotidiana."
+  },
+  "en": {
+   "titulo": "Papanatas: Coral Comedy",
+   "resumen": "The Puerta de Toledo Cultural Center presents 'Papanatas', a comedy that reflects on appearances and the contradictions of daily life."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "0423e230e6": {
+  "id": "d67390d6de",
+  "es": {
+   "titulo": "Presentación del libro 'Entrelíneas' de Rosa Montero Saugar",
+   "resumen": "Presentación del primer libro de relatos de Rosa Montero Saugar en el Centro Cultural Sanchinarro. Entrada libre."
+  },
+  "en": {
+   "titulo": "Book Presentation: 'Entrelíneas' by Rosa Montero Saugar",
+   "resumen": "Presentation of Rosa Montero Saugar's first short story collection at the Sanchinarro Cultural Center. Free entry."
+  },
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "1e6e34f734": {
+  "id": "3f42ef9794",
+  "es": {
+   "titulo": "Presentación: 'La hija de los Malpica'",
+   "resumen": "Presentación del libro de Blanca Samaniego sobre el retrato de 'La hija de los Malpica', que incluye un relato, un ensayo y un estudio genealógico."
+  },
+  "en": {
+   "titulo": "Presentation: 'La hija de los Malpica'",
+   "resumen": "Presentation of Blanca Samaniego's book about the portrait of 'La hija de los Malpica', which includes a story, an essay, and a genealogical study."
+  },
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "c252768141": {
+  "id": "2ad1747061",
+  "es": {
+   "titulo": "Proyecciones MICE+: Sesión Familiar de Terror",
+   "resumen": "Sesión familiar de cortometrajes de terror, desapariciones y zombies en el Espacio Abierto Quinta de los Molinos."
+  },
+  "en": {
+   "titulo": "MICE+ Screenings: Family Horror Session",
+   "resumen": "A family session of horror, disappearance, and zombie short films at the Quinta de los Molinos Open Space."
+  },
+  "temas": [
+   "pantalla",
+   "ninos"
+  ],
+  "a_cubierto": true
+ },
+ "aabddec903": {
+  "id": "76888d853c",
+  "es": {
+   "titulo": "Recital de Poesía: Homenaje a Poetas Españoles",
+   "resumen": "Un recital de poesía y música en el Centro Sociocultural Francisco Fatou, que rinde homenaje a grandes poetas de la lengua española."
+  },
+  "en": {
+   "titulo": "Poetry Recital: Homage to Spanish Poets",
+   "resumen": "A poetry and music recital at the Francisco Fatou Sociocultural Center, paying homage to great poets of the Spanish language."
+  },
+  "temas": [
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "433031d555": {
+  "id": "bd0043a20f",
+  "es": {
+   "titulo": "Románticos y Rebeldes: Los Prerrafaelitas",
+   "resumen": "Exposición o evento sobre el movimiento artístico prerrafaelita, explorando su romanticismo y rebeldía."
+  },
+  "en": {
+   "titulo": "Romantics and Rebels: The Pre-Raphaelites",
+   "resumen": "An exhibition or event about the Pre-Raphaelite art movement, exploring their romanticism and rebellion."
+  },
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": null
+ },
+ "836f789056": {
+  "id": "7640f85288",
+  "es": {
+   "titulo": "IA, Cultura Pop y Música",
+   "resumen": "Jornada dedicada a la inteligencia artificial en la cultura pop y la música, con proyecciones, mesa redonda, pódcast en directo y conciertos."
+  },
+  "en": {
+   "titulo": "AI, Pop Culture, and Music",
+   "resumen": "An event dedicated to artificial intelligence in pop culture and music, featuring film screenings, a round table, live podcast recording, and concerts."
+  },
+  "temas": [
+   "musica",
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": true
+ },
+ "13cbe4139e": {
+  "id": "9299a1f48f",
+  "es": {
+   "titulo": "Salida Medioambiental: Ruta del Jarama",
+   "resumen": "Ruta de senderismo de dificultad media/baja por la vega del Jarama, apta para toda la familia. Se conocerán paisajes fluviales y agrícolas."
+  },
+  "en": {
+   "titulo": "Environmental Outing: Jarama River Route",
+   "resumen": "A medium/low difficulty hiking route through the Jarama river plain, suitable for the whole family. It will explore riverine and agricultural landscapes."
+  },
+  "temas": [
+   "naturaleza",
+   "rutas",
+   "parques"
+  ],
+  "a_cubierto": false
+ },
+ "13d0ffadd4": {
+  "id": "d6fda32328",
+  "es": {
+   "titulo": "Taller de Collage para Adultos",
+   "resumen": "Taller de collage para adultos impartido por Luisa Moreno en la Biblioteca Pública Municipal José Saramago."
+  },
+  "en": {
+   "titulo": "Collage Workshop for Adults",
+   "resumen": "A collage workshop for adults led by Luisa Moreno at the José Saramago Municipal Public Library."
+  },
+  "temas": [
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "3b6fdb1439": {
+  "id": "ccd83f383d",
+  "es": {
+   "titulo": "Taller de Cómic en Biblioteca Miguel Delibes",
+   "resumen": "Taller de cómic para niños de 8 a 12 años en la Biblioteca Miguel Delibes, enfocado en definir estilos y desarrollar historias."
+  },
+  "en": {
+   "titulo": "Comic Workshop at Miguel Delibes Library",
+   "resumen": "A comic workshop for children aged 8 to 12 at the Miguel Delibes Library, focusing on defining styles and developing stories."
+  },
+  "temas": [
+   "ninos",
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "617f44c4d7": {
+  "id": "733255434b",
+  "es": {
+   "titulo": "Taller de Cómic en Biblioteca Pío Baroja",
+   "resumen": "Taller de cómic para jóvenes de 12 a 17 años en la Biblioteca Pío Baroja, centrado en el desarrollo de estilo y autonomía narrativa."
+  },
+  "en": {
+   "titulo": "Comic Workshop at Pío Baroja Library",
+   "resumen": "A comic workshop for young people aged 12 to 17 at the Pío Baroja Library, focusing on style development and narrative autonomy."
+  },
+  "temas": [
+   "ninos",
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "eeba8a406f": {
+  "id": "3aefa4da33",
+  "es": {
+   "titulo": "Taller de Robótica: RoboRetos mBot 2.0",
+   "resumen": "Iniciación a la programación de robots con el kit mBOT. Aprende robótica educativa y pensamiento computacional superando retos divertidos. Ideal para escolares de 5º y 6º de Primaria."
+  },
+  "en": {
+   "titulo": "Robotics Workshop: RoboRetos mBot 2.0",
+   "resumen": "Introduction to robot programming with the mBOT kit. Learn educational robotics and computational thinking by overcoming fun challenges. Ideal for 5th and 6th grade students."
+  },
+  "temas": [
+   "actividades",
+   "ninos"
+  ],
+  "a_cubierto": null
+ },
+ "d92219adcd": {
+  "id": "dd878fb6fc",
+  "es": {
+   "titulo": "Talleres Gente Menuda: 3º Trimestre 2026",
+   "resumen": "Talleres creativos para familias con niños de 4 a 10 años en el Museo ABC. Aprende sobre arte y artistas mientras creas tu propia obra para llevar a casa."
+  },
+  "en": {
+   "titulo": "Gente Menuda Workshops: 3rd Trimester 2026",
+   "resumen": "Creative workshops for families with children aged 4 to 10 at the Museo ABC. Learn about art and artists while creating your own artwork to take home."
+  },
+  "temas": [
+   "ninos",
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": null
+ },
+ "99b6e9e319": {
+  "id": "986533b4d0",
+  "es": {
+   "titulo": "Talleres: Aprender a ver el cine",
+   "resumen": "Explora la historia, técnica y lenguaje del cine a través de presentaciones, proyecciones y debates. Se abordan temas como la filosofía y el cine, y las mujeres cineastas."
+  },
+  "en": {
+   "titulo": "Workshops: Learning to Watch Cinema",
+   "resumen": "Explore the history, technique, and language of cinema through presentations, screenings, and debates. Topics include philosophy and cinema, and women filmmakers."
+  },
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": null
+ },
+ "e5ad5a305b": {
+  "id": "69593d2b01",
+  "es": {
+   "titulo": "Teatro: Avaricia + Lujuria + Muerte",
+   "resumen": "Un retablo de tres obras de Valle-Inclán ambientado en la Galicia rural. Explora temas universales como la codicia, el deseo y el destino a través de personajes grotescos."
+  },
+  "en": {
+   "titulo": "Theater: Greed + Lust + Death",
+   "resumen": "A triptych of three plays by Valle-Inclán set in rural Galicia. Explores universal themes like greed, desire, and destiny through grotesque characters."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "caa2ebd709": {
+  "id": "f092581637",
+  "es": {
+   "titulo": "Teatro: Toc Toc",
+   "resumen": "Seis pacientes con Trastorno Obsesivo-Compulsivo (TOC) coinciden en una sala de espera. La obra presenta situaciones cómicas derivadas de sus manías mientras esperan a la doctora."
+  },
+  "en": {
+   "titulo": "Theater: Toc Toc",
+   "resumen": "Six patients with Obsessive-Compulsive Disorder (OCD) meet in a waiting room. The play presents comical situations arising from their quirks while waiting for the doctor."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "120f764846": {
+  "id": "e95298ce82",
+  "es": {
+   "titulo": "Tertulia: El cine en silencio",
+   "resumen": "Tertulia dedicada al cine mudo de los años veinte. Se compartirán recuerdos, curiosidades y opiniones sobre los orígenes del séptimo arte a través de sus películas y figuras."
+  },
+  "en": {
+   "titulo": "Discussion: Silent Cinema",
+   "resumen": "A discussion dedicated to the silent films of the 1920s. Memories, curiosities, and opinions about the origins of cinema will be shared through its films and stars."
+  },
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": null
+ },
+ "8a1931ff6b": {
+  "id": "872ff0c881",
+  "es": {
+   "titulo": "Tras las huellas del folclore: Bartók y Kodály",
+   "resumen": "Exploración del folclore a través de la obra de Bartók y Kodály en la Biblioteca Musical Víctor Espinós."
+  },
+  "en": {
+   "titulo": "In the Footsteps of Folklore: Bartók and Kodály",
+   "resumen": "An exploration of folklore through the works of Bartók and Kodály at the Víctor Espinós Music Library."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "ba92a665ee": {
+  "id": "c7fcb6e204",
+  "es": {
+   "titulo": "Tributo Ella Fitzgerald y Frank Sinatra",
+   "resumen": "Un recorrido elegante por los grandes clásicos del swing y el jazz, rindiendo homenaje a Ella Fitzgerald y Frank Sinatra con arreglos llenos de estilo y emoción."
+  },
+  "en": {
+   "titulo": "Tribute to Ella Fitzgerald and Frank Sinatra",
+   "resumen": "An elegant journey through the great classics of swing and jazz, paying tribute to Ella Fitzgerald and Frank Sinatra with arrangements full of style and emotion."
+  },
+  "temas": [
+   "musica"
+  ],
+  "a_cubierto": null
+ },
+ "2636bf3717": {
+  "id": "7a78c77758",
+  "es": {
+   "titulo": "Un lírico amor",
+   "resumen": "Viaje musical por ópera y zarzuela explorando historias de amor, desde la pasión hasta el sacrificio. Arias, romanzas y dúos celebran la lírica como lenguaje universal."
+  },
+  "en": {
+   "titulo": "A Lyrical Love",
+   "resumen": "A musical journey through opera and zarzuela exploring love stories, from passion to sacrifice. Arias, romances, and duets celebrate lyricism as a universal language."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "41b838cc17": {
+  "id": "2053cb7e24",
+  "es": {
+   "titulo": "Viernes 20 de noviembre: Música, literatura y cultura pop",
+   "resumen": "Jornada de cine con proyección de cortometrajes, presentación literaria y conciertos de Elena Cará y TBC. Una tarde dedicada a la cultura pop."
+  },
+  "en": {
+   "titulo": "Friday, November 20: Music, Literature, and Pop Culture",
+   "resumen": "A day of cinema with short film screenings, a literary presentation, and concerts by Elena Cará and TBC. An afternoon dedicated to pop culture."
+  },
+  "temas": [
+   "musica",
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": null
+ },
+ "d6a17f230f": {
+  "id": "e120c57501",
+  "es": {
+   "titulo": "Violín Aparte",
+   "resumen": "Concierto de violín dinámico y participativo de Rocío Medina, con interpretaciones de obras y canciones populares. Incluye la actuación de la artista invitada Imperio Reina."
+  },
+  "en": {
+   "titulo": "Violin Apart",
+   "resumen": "A dynamic and participatory violin concert by Rocío Medina, featuring interpretations of popular works and songs. Includes a performance by guest artist Imperio Reina."
+  },
+  "temas": [
+   "musica"
+  ],
+  "a_cubierto": null
+ },
+ "96b22c68e3": {
+  "id": "008bfb3b46",
+  "es": {
+   "titulo": "Visita Guiada a la Residencia de Estudiantes",
+   "resumen": "Visita guiada gratuita que incluye charla histórica, documental, recreación de habitación y recorrido por jardines y edificios de la Residencia de Estudiantes."
+  },
+  "en": {
+   "titulo": "Guided Tour of the Residencia de Estudiantes",
+   "resumen": "A free guided tour including a historical talk, documentary screening, recreation of a historical room, and a walk through the gardens and buildings of the Residencia de Estudiantes."
+  },
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": null
+ },
+ "dec947f06f": {
+  "id": "c3d85f6437",
+  "es": {
+   "titulo": "XXI Certamen de teatro: A éste invito yo",
+   "resumen": "Comedia sobre las historias inventadas de los clientes de una cafetería. Explora la vida de una generación marcada por la inestabilidad con humor y mirada crítica."
+  },
+  "en": {
+   "titulo": "21st Theater Festival: I Invite This One",
+   "resumen": "A comedy about the imagined lives of café customers. Explores the lives of a generation marked by instability with humor and a critical perspective."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "673a3cae52": {
+  "id": "3618f19842",
+  "es": {
+   "titulo": "XXII Certamen Nacional de pintura",
+   "resumen": "Exposición de pintura en la planta sótano del Centro Cultural Gloria Fuertes. Abierto al público de lunes a viernes en horario de mañana y tarde."
+  },
+  "en": {
+   "titulo": "22nd National Painting Competition",
+   "resumen": "Painting exhibition in the basement of the Gloria Fuertes Cultural Center. Open to the public from Monday to Friday, with morning and afternoon hours."
+  },
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": null
+ },
+ "18a44b5798": {
+  "id": "e6d28affa2",
+  "es": {
+   "titulo": "Yastay",
+   "resumen": "Película de arte y robótica de Paula Gaetano Adi. Narra una expedición para liberar a un robot, explorando la intersección entre tecnología, naturaleza y cultura andina."
+  },
+  "en": {
+   "titulo": "Yastay",
+   "resumen": "An art and robotics film by Paula Gaetano Adi. It tells the story of an expedition to free a robot, exploring the intersection of technology, nature, and Andean culture."
+  },
+  "temas": [
+   "cultura",
+   "pantalla",
+   "naturaleza"
+  ],
+  "a_cubierto": null
+ },
+ "a955ca4bf9": {
+  "id": "a159d98b32",
+  "es": {
+   "titulo": "'A dormir' con Israel Hergón",
+   "resumen": "Sesión de bebecuentos para bebés de 0 a 24 meses, diseñada para estimular sentidos y fortalecer el vínculo afectivo. Impartida por Israel Hergón."
+  },
+  "en": {
+   "titulo": "'Going to Sleep' with Israel Hergón",
+   "resumen": "Baby storytelling session for infants aged 0 to 24 months, designed to stimulate senses and strengthen the emotional bond. Led by Israel Hergón."
+  },
+  "temas": [
+   "ninos",
+   "libros"
+  ],
+  "a_cubierto": null
+ },
+ "698f7ee78e": {
+  "id": "9bdaf2dcff",
+  "es": {
+   "titulo": "'Agüita Agüita' con Silvina Rodríguez",
+   "resumen": "Sesión de bebecuentos para bebés de 0 a 24 meses, enfocada en estimular los sentidos y el vínculo afectivo. Dirigida por Silvina Rodríguez."
+  },
+  "en": {
+   "titulo": "'Little Water' with Silvina Rodríguez",
+   "resumen": "Baby storytelling session for infants aged 0 to 24 months, focused on stimulating senses and the emotional bond. Led by Silvina Rodríguez."
+  },
+  "temas": [
+   "ninos",
+   "libros"
+  ],
+  "a_cubierto": null
+ },
+ "2f225c6efe": {
+  "id": "ce44c30e33",
+  "es": {
+   "titulo": "'Agüita Agüita' con Silvina Rodríguez",
+   "resumen": "Sesión de bebecuentos para bebés de 0 a 24 meses, diseñada para estimular los sentidos y el vínculo afectivo. Impartida por Silvina Rodríguez."
+  },
+  "en": {
+   "titulo": "'Little Water' with Silvina Rodríguez",
+   "resumen": "Baby storytelling session for infants aged 0 to 24 months, designed to stimulate senses and the emotional bond. Led by Silvina Rodríguez."
+  },
+  "temas": [
+   "ninos",
+   "libros"
+  ],
+  "a_cubierto": null
+ },
+ "c85ca9b56d": {
+  "id": "90e428ae2b",
+  "es": {
+   "titulo": "'Así como te lo cuento' con Yoana Siri",
+   "resumen": "Sesión de bebecuentos para bebés de 0 a 24 meses, enfocada en estimular los sentidos y fortalecer el vínculo afectivo. A cargo de Yoana Siri."
+  },
+  "en": {
+   "titulo": "'Just as I tell it' with Yoana Siri",
+   "resumen": "Baby storytelling session for infants aged 0 to 24 months, focused on stimulating senses and strengthening the emotional bond. Led by Yoana Siri."
+  },
+  "temas": [
+   "ninos",
+   "libros"
+  ],
+  "a_cubierto": null
+ },
+ "b6de8e8217": {
+  "id": "481b22acf8",
+  "es": {
+   "titulo": "'Con mis manitas' con Aurora Maroto",
+   "resumen": "Sesión de bebecuentos para bebés de 0 a 24 meses, orientada a estimular los sentidos y el vínculo afectivo. Impartida por Aurora Maroto."
+  },
+  "en": {
+   "titulo": "'With My Little Hands' with Aurora Maroto",
+   "resumen": "Baby storytelling session for infants aged 0 to 24 months, aimed at stimulating senses and the emotional bond. Led by Aurora Maroto."
+  },
+  "temas": [
+   "ninos",
+   "libros"
+  ],
+  "a_cubierto": null
+ },
+ "6c778b8469": {
+  "id": "b88e1f432f",
+  "es": {
+   "titulo": "'Con mis manitas' con Aurora Maroto",
+   "resumen": "Sesión de bebecuentos para bebés de 0 a 24 meses, enfocada en estimular los sentidos y fortalecer el vínculo afectivo. A cargo de Aurora Maroto."
+  },
+  "en": {
+   "titulo": "'With My Little Hands' with Aurora Maroto",
+   "resumen": "Baby storytelling session for infants aged 0 to 24 months, focused on stimulating senses and strengthening the emotional bond. Led by Aurora Maroto."
+  },
+  "temas": [
+   "ninos",
+   "libros"
+  ],
+  "a_cubierto": null
+ },
+ "ba5896b782": {
+  "id": "fb5212553a",
+  "es": {
+   "titulo": "'Contar y cantar todo es empezar' con Roberto Mezquita",
+   "resumen": "Sesión de cuentacuentos para niños a partir de 4 años, llena de emoción y aventuras para despertar la imaginación y el amor por los libros."
+  },
+  "en": {
+   "titulo": "'Telling and Singing is Just the Beginning' with Roberto Mezquita",
+   "resumen": "Storytelling session for children aged 4 and up, full of emotion and adventure to spark imagination and a love for books."
+  },
+  "temas": [
+   "ninos",
+   "libros"
+  ],
+  "a_cubierto": null
+ },
+ "a5a68e427a": {
+  "id": "b6b585d30e",
+  "es": {
+   "titulo": "'Cuando la ciencia aprendió a hablar: el nacimiento del vocabulario científico en Grecia'",
+   "resumen": "Conferencia sobre la creación del vocabulario científico griego y su influencia en las lenguas modernas. Se aborda cómo Grecia desarrolló este léxico desde cero."
+  },
+  "en": {
+   "titulo": "'When Science Learned to Speak: The Birth of Scientific Vocabulary in Greece'",
+   "resumen": "Lecture on the creation of Greek scientific vocabulary and its influence on modern languages. It discusses how Greece developed this lexicon from scratch."
+  },
+  "temas": [
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": null
+ },
+ "8a1f2735ad": {
+  "id": "59338698d1",
+  "es": {
+   "titulo": "'Cuentos a todas horas' con Roberto Mezquita",
+   "resumen": "Sesión de cuentacuentos para niños a partir de 3 años, llena de historias mágicas y personajes divertidos para despertar la imaginación y el amor por los libros."
+  },
+  "en": {
+   "titulo": "'Stories at All Hours' with Roberto Mezquita",
+   "resumen": "Storytelling session for children aged 3 and up, filled with magical stories and fun characters to spark imagination and a love for books."
+  },
+  "temas": [
+   "ninos",
+   "libros"
+  ],
+  "a_cubierto": null
+ },
+ "4eee3aa3a8": {
+  "id": "6a84cbd466",
+  "es": {
+   "titulo": "'Cuentos como hojas' con Alicia Cuenteando",
+   "resumen": "Sesión de bebecuentos para bebés de 0 a 24 meses, enfocada en estimular los sentidos y fortalecer el vínculo afectivo. A cargo de Alicia Cuenteando."
+  },
+  "en": {
+   "titulo": "'Stories Like Leaves' with Alicia Cuenteando",
+   "resumen": "Baby storytelling session for infants aged 0 to 24 months, focused on stimulating senses and strengthening the emotional bond. Led by Alicia Cuenteando."
+  },
+  "temas": [
+   "ninos",
+   "libros"
+  ],
+  "a_cubierto": null
+ },
+ "553a9331a1": {
+  "id": "5e1879737c",
+  "es": {
+   "titulo": "Cuentos de animales resabiaos con Pingüi",
+   "resumen": "Sesión de cuentacuentos para niños a partir de 3 años en la Biblioteca Pública Municipal La Chata. Disfruta de historias mágicas y personajes divertidos para despertar la imaginación."
+  },
+  "en": {
+   "titulo": "Animal Tales with Pingüi",
+   "resumen": "Storytelling session for children aged 3 and up at the La Chata Municipal Public Library. Enjoy magical stories and fun characters to spark imagination."
+  },
+  "temas": [
+   "libros",
+   "ninos"
+  ],
+  "a_cubierto": true
+ },
+ "91fadec17b": {
+  "id": "8085c86d60",
+  "es": {
+   "titulo": "Cuentos y canciones para bebés con Nelson Calderón",
+   "resumen": "Sesión de bebecuentos en la Biblioteca Pública Municipal Miguel Delibes para bebés de 0 a 24 meses. Estimula los sentidos y fomenta el vínculo afectivo a través de historias y canciones."
+  },
+  "en": {
+   "titulo": "Baby Tales and Songs with Nelson Calderón",
+   "resumen": "Baby storytelling session at the Miguel Delibes Municipal Public Library for infants aged 0-24 months. Stimulate senses and foster bonding through stories and songs."
+  },
+  "temas": [
+   "libros",
+   "ninos"
+  ],
+  "a_cubierto": true
+ },
+ "c032d44088": {
+  "id": "98748be77b",
+  "es": {
+   "titulo": "Bebecuentos 'De colores' con Andrea Ortúzar",
+   "resumen": "Disfruta de cuentos adaptados para bebés de 0 a 24 meses en la Biblioteca Pública Municipal José Saramago. Una actividad para estimular sentidos y fortalecer el vínculo con tu bebé."
+  },
+  "en": {
+   "titulo": "Baby Tales 'De Colores' with Andrea Ortúzar",
+   "resumen": "Enjoy stories adapted for babies aged 0-24 months at the José Saramago Municipal Public Library. An activity to stimulate senses and strengthen the bond with your baby."
+  },
+  "temas": [
+   "libros",
+   "ninos"
+  ],
+  "a_cubierto": true
+ },
+ "ffa652233d": {
+  "id": "81a0388d5b",
+  "es": {
+   "titulo": "'Donde habitas, creces' de Mayte Litton",
+   "resumen": "Actividad en la Biblioteca Pública Municipal Iván de Vargas. Más detalles sobre el evento no disponibles en el texto proporcionado."
+  },
+  "en": {
+   "titulo": "'Donde habitas, creces' by Mayte Litton",
+   "resumen": "Event at the Iván de Vargas Municipal Public Library. Further details about the event are not available in the provided text."
+  },
+  "temas": [
+   "libros"
+  ],
+  "a_cubierto": true
+ },
+ "94a4b7c3de": {
+  "id": "1fad957a12",
+  "es": {
+   "titulo": "Conferencia: 'El Elamita: la lengua pre-indoeuropea del Irán Antiguo'",
+   "resumen": "Conferencia en el Museo de San Isidro sobre la lengua elamita, una lengua pre-indoeuropea del antiguo Irán. Explora la historia y lingüística de esta civilización."
+  },
+  "en": {
+   "titulo": "Lecture: 'Elamite: The Pre-Indo-European Language of Ancient Iran'",
+   "resumen": "Lecture at the Museum of San Isidro about the Elamite language, a pre-Indo-European tongue from ancient Iran. Explore the history and linguistics of this civilization."
+  },
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true
+ },
+ "ffb7719f9c": {
+  "id": "8b9a83901a",
+  "es": {
+   "titulo": "'El misterio de las dos hermanas', de Almudena Ayensa",
+   "resumen": "Actividad en la Biblioteca Pública Municipal Pablo Neruda. Más detalles sobre el evento no disponibles en el texto proporcionado."
+  },
+  "en": {
+   "titulo": "'The Mystery of the Two Sisters' by Almudena Ayensa",
+   "resumen": "Event at the Pablo Neruda Municipal Public Library. Further details about the event are not available in the provided text."
+  },
+  "temas": [
+   "libros"
+  ],
+  "a_cubierto": true
+ },
+ "278b3e99da": {
+  "id": "e9ecbf168a",
+  "es": {
+   "titulo": "Bebecuentos 'Escucha el viento' con Silvina Rodríguez",
+   "resumen": "Sesión de cuentos para bebés de 0 a 24 meses en la Biblioteca Pública Municipal Eugenio Trías. Fomenta el vínculo afectivo y la iniciación a la lectura de forma lúdica."
+  },
+  "en": {
+   "titulo": "Baby Tales 'Listen to the Wind' with Silvina Rodríguez",
+   "resumen": "Storytelling session for babies aged 0-24 months at the Eugenio Trías Municipal Public Library. Foster bonding and introduce reading in a playful way."
+  },
+  "temas": [
+   "libros",
+   "ninos"
+  ],
+  "a_cubierto": true
+ },
+ "da75fd7e03": {
+  "id": "a96c108508",
+  "es": {
+   "titulo": "Cuentacuentos 'La casa de los cuentos' con Roberto Mezquita",
+   "resumen": "Sesión de cuentacuentos para niños a partir de 4 años en la Biblioteca Pública Municipal Mario Vargas Llosa. Una actividad para despertar la imaginación con historias y personajes divertidos."
+  },
+  "en": {
+   "titulo": "Storytelling 'The House of Stories' with Roberto Mezquita",
+   "resumen": "Storytelling session for children aged 4 and up at the Mario Vargas Llosa Municipal Public Library. An activity to spark imagination with fun stories and characters."
+  },
+  "temas": [
+   "libros",
+   "ninos"
+  ],
+  "a_cubierto": true
+ },
+ "c136a845be": {
+  "id": "029166ba24",
+  "es": {
+   "titulo": "La Hora del Cuento: Aventuras de Daniela Pirata",
+   "resumen": "Sesión de cuentacuentos para niños a partir de 3 años en la Biblioteca Pública Municipal Manuel Vázquez Montalbán. Acompaña a Daniela Pirata en sus aventuras y resuelve misterios."
+  },
+  "en": {
+   "titulo": "Story Time: Daniela Pirata's Adventures",
+   "resumen": "Storytelling session for children aged 3 and up at the Manuel Vázquez Montalbán Municipal Public Library. Join Daniela Pirata on her adventures and solve mysteries."
+  },
+  "temas": [
+   "libros",
+   "ninos"
+  ],
+  "a_cubierto": true
+ },
+ "479d8bc4fc": {
+  "id": "f06a885c68",
+  "es": {
+   "titulo": "'Leyendas de Ávila' según Sonsoles Sánchez-Reyes",
+   "resumen": "Actividad en la Biblioteca Pública Municipal Iván de Vargas. Más detalles sobre el evento no disponibles en el texto proporcionado."
+  },
+  "en": {
+   "titulo": "'Legends of Ávila' according to Sonsoles Sánchez-Reyes",
+   "resumen": "Event at the Iván de Vargas Municipal Public Library. Further details about the event are not available in the provided text."
+  },
+  "temas": [
+   "libros"
+  ],
+  "a_cubierto": true
+ },
+ "9308358c36": {
+  "id": "d59a8e3536",
+  "es": {
+   "titulo": "'Los Pedos de Alfredo' por Mª Victoria Gómez Gutiérrez",
+   "resumen": "Actividad en la Biblioteca Pública Municipal Gloria Fuertes. Más detalles sobre el evento no disponibles en el texto proporcionado."
+  },
+  "en": {
+   "titulo": "'Alfredo's Farts' by Mª Victoria Gómez Gutiérrez",
+   "resumen": "Event at the Gloria Fuertes Municipal Public Library. Further details about the event are not available in the provided text."
+  },
+  "temas": [
+   "libros"
+  ],
+  "a_cubierto": true
+ },
+ "15225c89ef": {
+  "id": "52576f4897",
+  "es": {
+   "titulo": "Conferencia: 'Medio ambiente y cambio climático global'",
+   "resumen": "Charla en la Biblioteca Pública Municipal Ana María Matute sobre medio ambiente y cambio climático global. Una oportunidad para aprender sobre un tema crucial."
+  },
+  "en": {
+   "titulo": "Lecture: 'Environment and Global Climate Change'",
+   "resumen": "Talk at the Ana María Matute Municipal Public Library about the environment and global climate change. An opportunity to learn about a crucial topic."
+  },
+  "temas": [
+   "naturaleza"
+  ],
+  "a_cubierto": true
+ },
+ "689740fdb1": {
+  "id": "ec98233ba8",
+  "es": {
+   "titulo": "Cuentacuentos de otoño con Alicia Cuenteando",
+   "resumen": "Sesión de cuentacuentos para niños a partir de 4 años en la Biblioteca Pública Municipal Canillejas. Disfruta de historias mágicas y personajes divertidos."
+  },
+  "en": {
+   "titulo": "Autumn Storytelling with Alicia Cuenteando",
+   "resumen": "Storytelling session for children aged 4 and up at the Canillejas Municipal Public Library. Enjoy magical stories and fun characters."
+  },
+  "temas": [
+   "libros",
+   "ninos"
+  ],
+  "a_cubierto": true
+ },
+ "f16f80b638": {
+  "id": "dc9fc6391a",
+  "es": {
+   "titulo": "Bebecuentos de otoño con Alicia Cuenteando",
+   "resumen": "Sesión de cuentos para bebés de 0 a 24 meses en la Biblioteca Pública Municipal Ana María Matute. Estimula los sentidos y fortalece el vínculo afectivo con tu bebé."
+  },
+  "en": {
+   "titulo": "Autumn Baby Tales with Alicia Cuenteando",
+   "resumen": "Storytelling session for babies aged 0-24 months at the Ana María Matute Municipal Public Library. Stimulate senses and strengthen the bond with your baby."
+  },
+  "temas": [
+   "libros",
+   "ninos"
+  ],
+  "a_cubierto": true
+ },
+ "28aa794ecb": {
+  "id": "456803ac55",
+  "es": {
+   "titulo": "Cuentacuentos 'Palabra, palabritas, palabrón' con Andrea Ortúzar",
+   "resumen": "Sesión de cuentacuentos para niños a partir de 4 años en la Biblioteca Pública Municipal Gloria Fuertes. Una actividad para despertar la imaginación con historias y personajes divertidos."
+  },
+  "en": {
+   "titulo": "Storytelling 'Word, Little Words, Big Word' with Andrea Ortúzar",
+   "resumen": "Storytelling session for children aged 4 and up at the Gloria Fuertes Municipal Public Library. An activity to spark imagination with fun stories and characters."
+  },
+  "temas": [
+   "libros",
+   "ninos"
+  ],
+  "a_cubierto": true
+ },
+ "931b4a1754": {
+  "id": "a11889b94c",
+  "es": {
+   "titulo": "Cuentacuentos 'Palabra, palabritas, palabrón' con Andrea Ortúzar",
+   "resumen": "Sesión de cuentacuentos para niños a partir de 4 años en la Biblioteca Pública Municipal Pío Baroja. Una actividad para despertar la imaginación con historias y personajes divertidos."
+  },
+  "en": {
+   "titulo": "Storytelling 'Word, Little Words, Big Word' with Andrea Ortúzar",
+   "resumen": "Storytelling session for children aged 4 and up at the Pío Baroja Municipal Public Library. An activity to spark imagination with fun stories and characters."
+  },
+  "temas": [
+   "libros",
+   "ninos"
+  ],
+  "a_cubierto": true
+ },
+ "7e81b0fdd6": {
+  "id": "ce78a20f25",
+  "es": {
+   "titulo": "Bebecuentos 'Peek-a-boo' con Mar Amado",
+   "resumen": "Sesión de cuentos para bebés de 0 a 24 meses en la Biblioteca Pública Municipal Francisco Ayala. Estimula los sentidos y fortalece el vínculo afectivo con tu bebé."
+  },
+  "en": {
+   "titulo": "Baby Tales 'Peek-a-boo' with Mar Amado",
+   "resumen": "Storytelling session for babies aged 0-24 months at the Francisco Ayala Municipal Public Library. Stimulate senses and strengthen the bond with your baby."
+  },
+  "temas": [
+   "libros",
+   "ninos"
+  ],
+  "a_cubierto": true
+ },
+ "43adfb2355": {
+  "id": "cbf268a99c",
+  "es": {
+   "titulo": "Visita-taller: 'Pintar la luz de Madrid'",
+   "resumen": "Taller creativo de pintura para adultos en el Museo de Historia de Madrid. Descubre el cielo madrileño, la luz y los colores a través de la observación y la creación artística."
+  },
+  "en": {
+   "titulo": "Visit-Workshop: 'Painting the Light of Madrid'",
+   "resumen": "Creative painting workshop for adults at the Museum of History of Madrid. Discover the Madrid sky, light, and colors through observation and artistic creation."
+  },
+  "temas": [
+   "cultura",
+   "museos",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "2cfca46e71": {
+  "id": "3fc30576ee",
+  "es": {
+   "titulo": "'Preguntas y algunas respuestas' de Alfredo Jaimes Caicedo",
+   "resumen": "Presentación del poemario de Alfredo Jaimes Caicedo en la Biblioteca Pública Municipal Ana María Matute. Reflexiones poéticas sobre la experiencia humana, el tiempo y la muerte."
+  },
+  "en": {
+   "titulo": "'Questions and Some Answers' by Alfredo Jaimes Caicedo",
+   "resumen": "Presentation of Alfredo Jaimes Caicedo's poetry collection at the Ana María Matute Municipal Public Library. Poetic reflections on human experience, time, and death."
+  },
+  "temas": [
+   "libros"
+  ],
+  "a_cubierto": true
+ },
+ "6bfd07fbfb": {
+  "id": "ec9e2a0f22",
+  "es": {
+   "titulo": "Cuentacuentos en inglés: 'Stone soup' con Mamen Storyteller",
+   "resumen": "Sesión de cuentacuentos en inglés para niños a partir de 4 años en la Biblioteca Pública Municipal José Hierro. Una experiencia lúdica y entretenida para familiarizarse con el idioma."
+  },
+  "en": {
+   "titulo": "English Storytelling: 'Stone Soup' with Mamen Storyteller",
+   "resumen": "English storytelling session for children aged 4 and up at the José Hierro Municipal Public Library. A fun and entertaining experience to get familiar with the language."
+  },
+  "temas": [
+   "libros",
+   "ninos"
+  ],
+  "a_cubierto": true
+ },
+ "7939039429": {
+  "id": "7035c2976b",
+  "es": {
+   "titulo": "'Susurros del olvido: antología de criaturas fantásticas'",
+   "resumen": "Actividad en la Biblioteca Pública Municipal Iván de Vargas. Más detalles sobre el evento no disponibles en el texto proporcionado."
+  },
+  "en": {
+   "titulo": "'Whispers of Oblivion: Anthology of Fantastic Creatures'",
+   "resumen": "Event at the Iván de Vargas Municipal Public Library. Further details about the event are not available in the provided text."
+  },
+  "temas": [
+   "libros"
+  ],
+  "a_cubierto": true
+ },
+ "3f391c487a": {
+  "id": "eec98a5b99",
+  "es": {
+   "titulo": "Presentación: 'Trilogía de lo invisible' de Javier Narbona",
+   "resumen": "Actividad en la Biblioteca Pública Municipal Iván de Vargas. Más detalles sobre el evento no disponibles en el texto proporcionado."
+  },
+  "en": {
+   "titulo": "Presentation: 'Trilogy of the Invisible' by Javier Narbona",
+   "resumen": "Event at the Iván de Vargas Municipal Public Library. Further details about the event are not available in the provided text."
+  },
+  "temas": [
+   "libros"
+  ],
+  "a_cubierto": true
+ },
+ "5299a1dbd3": {
+  "id": "0e30aad4f3",
+  "es": {
+   "titulo": "Debate: «Sobrevivir a Roberto Bolaño»",
+   "resumen": "Encuentro en el Centro de Cultura Contemporánea CondeDuque para debatir sobre la obra y el legado del escritor Roberto Bolaño. Una oportunidad para profundizar en su literatura."
+  },
+  "en": {
+   "titulo": "Debate: 'Surviving Roberto Bolaño'",
+   "resumen": "Encounter at the CondeDuque Contemporary Culture Center to discuss the work and legacy of writer Roberto Bolaño. An opportunity to delve deeper into his literature."
+  },
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "86a3ef1ff1": {
+  "id": "ef7f24ec64",
+  "es": {
+   "titulo": "Espectáculo de danza: ¿Soy tuya?",
+   "resumen": "Espectáculo de danza en el Centro Cultural Lope de Vega que refleja la lucha de una mujer por su autonomía. Una reflexión sobre la duda, la culpa y la superación."
+  },
+  "en": {
+   "titulo": "Dance Performance: Am I Yours?",
+   "resumen": "Dance performance at the Lope de Vega Cultural Center reflecting a woman's struggle for autonomy. A reflection on doubt, guilt, and overcoming adversity."
+  },
+  "temas": [
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "c142c21df3": {
+  "id": "dfe5dc7257",
+  "es": {
+   "titulo": "Ciclo de cine: 'La mujer fantasma' (1947)",
+   "resumen": "Proyección de la película de misterio 'La mujer fantasma' (1947) en el Centro Sociocultural José de Espronceda. Una historia de suspense y fantasmas para mayores de 12 años."
+  },
+  "en": {
+   "titulo": "Film Series: 'The Ghost Woman' (1947)",
+   "resumen": "Screening of the mystery film 'The Ghost Woman' (1947) at the José de Espronceda Sociocultural Center. A suspenseful ghost story for ages 12 and up."
+  },
+  "temas": [
+   "pantalla",
+   "cultura"
+  ],
+  "a_cubierto": true
  }
 }

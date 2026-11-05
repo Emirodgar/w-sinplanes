@@ -108,5 +108,15 @@
   "confianza": 0.5,
   "fuente": "La Verdad (Culturas)",
   "url": "https://www.laverdad.es/culturas/accion-batas-blancas-alfonso-albacete-rueda-hospital-20261103181732-nt.html"
+ },
+ {
+  "id": "ee1c4f4d4b",
+  "titulo": "Exposición fotográfica de José Ramón Cuervo-Arango en Roma",
+  "inicio": "2026-11-12",
+  "municipio": "Roma",
+  "provincia": null,
+  "confianza": 0.5,
+  "fuente": "El Comercio (Culturas)",
+  "url": "https://www.elcomercio.es/culturas/arte/jose-ramon-cuervoarango-llega-instituto-cervantes-roma-20261104081016-nt.html"
  }
 ]

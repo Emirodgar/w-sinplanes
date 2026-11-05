@@ -14870,5 +14870,1072 @@
   "src": "prensa-elpais-cultura",
   "publicado": "2026-11-03",
   "es_plan": false
+ },
+ "3e9b8121c3": {
+  "url": "https://www.europapress.es/cultura/cine-00128/noticia-regreso-godzilla-miserables-sacamantecas-manana-cines-20261105115846.html",
+  "fuente": "Europa Press (Cultura)",
+  "src": "prensa-europapress-cultura",
+  "publicado": "2026-11-05",
+  "es_plan": true,
+  "titulo": "Estrenos de cine: Godzilla, Los Miserables y Sacamantecas",
+  "resumen": "Los cines estrenan este viernes 6 de noviembre nuevas películas. Entre ellas, el regreso de Godzilla, una adaptación de 'Los Miserables' y 'Sacamantecas', un film de crónica negra española.",
+  "en": {
+   "titulo": "Cinema premieres: Godzilla, Les Misérables and Sacamantecas",
+   "resumen": "Cinemas are premiering new films this Friday, November 6th. Among them are the return of Godzilla, an adaptation of 'Les Misérables', and 'Sacamantecas', a Spanish crime noir film."
+  },
+  "inicio": "2026-11-06",
+  "fin": "2026-11-06",
+  "hora": null,
+  "lugar": "cines",
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "6477f03007": {
+  "url": "https://www.20minutos.es/musica/u2-actuara-barcelona-sevilla-2027_7057662_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-11-05",
+  "es_plan": true,
+  "titulo": "U2 anuncia conciertos en Barcelona y Sevilla en mayo de 2027",
+  "resumen": "La banda irlandesa U2 actuará en Barcelona los días 13 y 15 de mayo de 2027 en el Estadi Olímpic Lluís Companys, y en Sevilla el 22 de mayo en el Estadio La Cartuja.",
+  "en": {
+   "titulo": "U2 announces concerts in Barcelona and Seville in May 2027",
+   "resumen": "The Irish band U2 will perform in Barcelona on May 13th and 15th, 2027, at the Estadi Olímpic Lluís Companys, and in Seville on May 22nd at the Estadio La Cartuja."
+  },
+  "inicio": "2027-05-13",
+  "fin": "2027-05-22",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "5156793b93": {
+  "url": "https://www.20minutos.es/musica/entrevista-roser-espectaculo-hola-raffaella_7046537_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-11-05",
+  "es_plan": false
+ },
+ "88093a0b1c": {
+  "url": "https://elpais.com/cultura/2026-11-05/bob-wilson-fernando-pessoa-y-maria-de-medeiros-trio-de-ases-para-un-acontecimiento-teatral.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-11-05",
+  "es_plan": true,
+  "titulo": "Festival de Otoño de Madrid: Pessoa. Desde que soy yo",
+  "resumen": "El Festival de Otoño de Madrid se inaugura con el espectáculo teatral 'Pessoa. Desde que soy yo', basado en textos del poeta y dirigido por Bob Wilson.",
+  "en": {
+   "titulo": "Madrid Autumn Festival: Pessoa. Since I've Been Me",
+   "resumen": "The Madrid Autumn Festival opens with the theatrical performance 'Pessoa. Since I've Been Me', based on texts by the poet and directed by Bob Wilson."
+  },
+  "inicio": "2026-11-07",
+  "fin": "2026-11-07",
+  "hora": null,
+  "lugar": null,
+  "municipio": "Madrid",
+  "provincia": "Madrid",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "652ca3b3a7": {
+  "url": "https://elpais.com/cultura/2026-11-05/dos-de-cada-tres-jovenes-nacidos-en-2008-solicitan-el-bono-cultural-joven-2026.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-11-05",
+  "es_plan": false
+ },
+ "1d6f085b20": {
+  "url": "https://elpais.com/cultura/2026-11-05/la-asociacion-emprendo-danza-denuncia-en-un-informe-injerencias-politicas-en-las-artes-escenicas.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-11-05",
+  "es_plan": false
+ },
+ "cb60f810bf": {
+  "url": "https://elpais.com/cultura/2026-11-05/eiji-aonuma-nunca-imagine-que-despues-de-terminar-ocarina-of-time-seguiria-haciendo-juegos-de-zelda.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-11-05",
+  "es_plan": false
+ },
+ "726687b3f5": {
+  "url": "https://elpais.com/cultura/2026-11-05/el-cuarteto-pavel-haas-lleva-a-schubert-al-borde-del-abismo-en-la-fundacion-juan-march.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-11-05",
+  "es_plan": true,
+  "titulo": "Cuarteto Pavel Haas en la Fundación Juan March",
+  "resumen": "El Cuarteto Pavel Haas interpreta obras de Schubert y Beethoven en la Fundación Juan March de Madrid el 4 de noviembre.",
+  "en": {
+   "titulo": "Pavel Haas Quartet at the Juan March Foundation",
+   "resumen": "The Pavel Haas Quartet performs works by Schubert and Beethoven at the Juan March Foundation in Madrid on November 4th."
+  },
+  "inicio": "2026-11-04",
+  "fin": "2026-11-04",
+  "hora": null,
+  "lugar": "Fundación Juan March",
+  "municipio": "Madrid",
+  "provincia": "Madrid",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "4eaa770cc4": {
+  "url": "https://elpais.com/cultura/2026-11-05/carmen-posadas-si-te-llaman-fascista-entras-en-shock-pero-es-un-insulto-absurdo.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-11-05",
+  "es_plan": false
+ },
+ "bf71ea2074": {
+  "url": "https://www.lavanguardia.com/cultura/musica/20261105/11676888/conciertos-u2-barcelona-seran-dias-13-15-mayo-cuando-empieza-venta-entradas.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-05",
+  "es_plan": true,
+  "titulo": "Conciertos de U2 en Barcelona y Sevilla en mayo de 2027",
+  "resumen": "U2 ofrecerá dos conciertos en Barcelona los días 13 y 15 de mayo de 2027 en el Estadi Olímpic Lluís Companys, y uno en Sevilla el 22 de mayo en La Cartuja.",
+  "en": {
+   "titulo": "U2 concerts in Barcelona and Seville in May 2027",
+   "resumen": "U2 will offer two concerts in Barcelona on May 13th and 15th, 2027, at the Estadi Olímpic Lluís Companys, and one in Seville on May 22nd at La Cartuja."
+  },
+  "inicio": "2027-05-13",
+  "fin": "2027-05-22",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "db672c69fe": {
+  "url": "https://www.lavanguardia.com/cultura/20261105/11676776/margarita-garcia-robayo-gana-premio-herralde-querida-sharik.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-05",
+  "es_plan": false
+ },
+ "09f5f09387": {
+  "url": "https://www.lavanguardia.com/cultura/20261105/11676683/els-amics-les-arts-secretos-sau-estrenaran-nuevos-discos-festival-strenes-girona.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-05",
+  "es_plan": true,
+  "titulo": "Festival Strenes de Girona: estrenos musicales",
+  "resumen": "El Festival Strenes de Girona, del 2 de abril al 2 de mayo, presentará nuevos discos de Els Amics de les Arts, Los Secretos, Sau y otros artistas.",
+  "en": {
+   "titulo": "Girona Strenes Festival: musical premieres",
+   "resumen": "The Girona Strenes Festival, from April 2nd to May 2nd, will feature new albums from Els Amics de les Arts, Los Secretos, Sau, and other artists."
+  },
+  "inicio": "2027-04-02",
+  "fin": "2027-05-02",
+  "hora": null,
+  "lugar": null,
+  "municipio": "Girona",
+  "provincia": "Girona",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "97f598a35d": {
+  "url": "https://www.lavanguardia.com/cultura/20261105/11675180/anna-caballe-alguien-tuviera-sida-80-asi-lepra.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-05",
+  "es_plan": false
+ },
+ "f96ffcec41": {
+  "url": "https://llegim.ara.cat/actualitat/gairebe-150-traductors-desembarquen-barcelona-mostrar-potencia-literatura-catalana_1_5900927.html",
+  "fuente": "Ara (Cultura)",
+  "src": "prensa-ara-cultura",
+  "publicado": "2026-11-05",
+  "es_plan": true,
+  "titulo": "Fòrum Internacional de Traductors en Barcelona",
+  "resumen": "Barcelona acoge del 23 al 25 de noviembre el Fòrum Internacional de Traductors, un evento que reunirá a 150 traductores de 30 lenguas.",
+  "en": {
+   "titulo": "International Translators Forum in Barcelona",
+   "resumen": "Barcelona hosts the International Translators Forum from November 23rd to 25th, an event that will bring together 150 translators from 30 languages."
+  },
+  "inicio": "2026-11-23",
+  "fin": "2026-11-25",
+  "hora": null,
+  "lugar": null,
+  "municipio": "Barcelona",
+  "provincia": "Barcelona",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "72b7db9e69": {
+  "url": "https://llegim.ara.cat/actualitat/premi-herralde-literatura-aguda-irreverent-margarita-garcia-robayo_1_5900873.html",
+  "fuente": "Ara (Cultura)",
+  "src": "prensa-ara-cultura",
+  "publicado": "2026-11-05",
+  "es_plan": false
+ },
+ "6cb5d49613": {
+  "url": "https://www.ara.cat/media/series/beteve-reforca-l-aposta-ficcio-serie-episodic_1_5899794.html",
+  "fuente": "Ara (Cultura)",
+  "src": "prensa-ara-cultura",
+  "publicado": "2026-11-05",
+  "es_plan": true,
+  "titulo": "Betevé estrena la serie de ficción 'Episòdic'",
+  "resumen": "Betevé, la televisión pública de Barcelona, lanza este domingo 'Episòdic', una serie antológica que adaptará obras literarias y teatrales catalanas. El proyecto, creado y dirigido por 38 estudiantes de cine, busca impulsar a las nuevas generaciones audiovisuales.",
+  "en": {
+   "titulo": "Betevé premieres the fiction series 'Episòdic'",
+   "resumen": "Betevé, Barcelona's public television, launches 'Episòdic' this Sunday, an anthology series that will adapt Catalan literary and theatrical works. The project, created and directed by 38 film students, aims to boost new audiovisual generations."
+  },
+  "inicio": "2026-11-09",
+  "fin": "2026-11-09",
+  "hora": null,
+  "lugar": null,
+  "municipio": "Barcelona",
+  "provincia": "Barcelona",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "c827acbf3d": {
+  "url": "https://www.ara.cat/gent/famosos/quim-gutierrez-torna-rodar-catala-vint-anys-despres-disfrutant_1_5900872.html",
+  "fuente": "Ara (Cultura)",
+  "src": "prensa-ara-cultura",
+  "publicado": "2026-11-05",
+  "es_plan": false
+ },
+ "d6d807d0bd": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/05/u2-anade-barcelona-sus-agenda-conciertos-espana-2065981.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-05",
+  "es_plan": true,
+  "titulo": "U2 anuncia conciertos en Barcelona y Sevilla en mayo de 2027",
+  "resumen": "La banda irlandesa U2 actuará en España en mayo de 2027, con dos conciertos en el Estadi Olímpic Lluís Companys de Barcelona los días 13 y 15, y uno en el Estadio La Cartuja de Sevilla el 22. Las entradas salen a la venta el 13 de noviembre.",
+  "en": {
+   "titulo": "U2 announces concerts in Barcelona and Seville in May 2027",
+   "resumen": "Irish band U2 will perform in Spain in May 2027, with two concerts at Barcelona's Estadi Olímpic Lluís Companys on the 13th and 15th, and one at Seville's Estadio La Cartuja on the 22nd. Tickets go on sale November 13th."
+  },
+  "inicio": "2027-05-13",
+  "fin": "2027-05-15",
+  "hora": null,
+  "lugar": "Estadi Olímpic Lluís Companys",
+  "municipio": "Barcelona",
+  "provincia": "Barcelona",
+  "ambito": "nacional",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "musica"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "39f98391e5": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/05/u2-conciertos-espana-2027-barcelona-sevilla-fechas-entradas-2065974.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-05",
+  "es_plan": true,
+  "titulo": "U2 anuncia tres conciertos en España en mayo de 2027",
+  "resumen": "U2 ofrecerá tres conciertos en España en mayo de 2027: dos en Barcelona (13 y 15 de mayo) en el Estadio Olímpico Lluis Companys y uno en Sevilla (22 de mayo) en La Cartuja. La preventa comienza el 9 de noviembre y la venta general el 13.",
+  "en": {
+   "titulo": "U2 announces three concerts in Spain in May 2027",
+   "resumen": "U2 will offer three concerts in Spain in May 2027: two in Barcelona (May 13th and 15th) at the Olympic Stadium Lluis Companys and one in Seville (May 22nd) at La Cartuja. Pre-sale starts November 9th, general sale on the 13th."
+  },
+  "inicio": "2027-05-13",
+  "fin": "2027-05-15",
+  "hora": null,
+  "lugar": "Estadio Olímpico Lluis Companys",
+  "municipio": "Barcelona",
+  "provincia": "Barcelona",
+  "ambito": "nacional",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "musica"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "70fa3fd663": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/05/miguel-angel-revilla-83anos-levanto-7manana-desayuno-leche-cantabria-entera-medio-sobao-2063946.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-05",
+  "es_plan": false
+ },
+ "5d26b9aaa7": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/05/more-than-disc-edita-vinilo-calor-alaska-un-clasico-banda-telephunken-2065884.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-05",
+  "es_plan": true,
+  "titulo": "Presentación de 'Calor en Alaska' de Telephunken en Zaragoza",
+  "resumen": "El sello More Than Disc presenta este jueves 5 de noviembre en la Galería Kafell de Zaragoza 'Calor en Alaska' de Telephunken. El evento, con entrada libre, celebra el 25 aniversario del tema.",
+  "en": {
+   "titulo": "Presentation of Telephunken's 'Calor en Alaska' in Zaragoza",
+   "resumen": "The More Than Disc label presents Telephunken's 'Calor en Alaska' this Thursday, November 5th, at Galería Kafell in Zaragoza. The event, with free entry, celebrates the song's 25th anniversary."
+  },
+  "inicio": "2026-11-05",
+  "fin": "2026-11-05",
+  "hora": "20:00",
+  "lugar": "Galería Kafell",
+  "municipio": "Zaragoza",
+  "provincia": "Zaragoza",
+  "ambito": "local",
+  "gratis": true,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "d7dabe13ed": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/05/xbox-game-pass-15-juegos-noviembre-2026-fechas-2065866.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-05",
+  "es_plan": false
+ },
+ "f39a9538cc": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/05/zelda-ocarina-of-time-nintendo-switch-2-nueva-version-2065858.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-05",
+  "es_plan": true,
+  "titulo": "Nintendo lanza 'Zelda: Ocarina of Time' para Switch 2",
+  "resumen": "Nintendo relanza 'The Legend of Zelda: Ocarina of Time' para Switch 2 el 5 de noviembre, con gráficos actualizados, nuevas mecánicas y música reorquestada. La versión busca atraer tanto a fans veteranos como a nuevos jugadores.",
+  "en": {
+   "titulo": "Nintendo re-releases 'Zelda: Ocarina of Time' for Switch 2",
+   "resumen": "Nintendo is re-releasing 'The Legend of Zelda: Ocarina of Time' for Switch 2 on November 5th, featuring updated graphics, new mechanics, and re-orchestrated music. The version aims to attract both veteran fans and new players."
+  },
+  "inicio": "2026-11-05",
+  "fin": "2026-11-05",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "pantalla",
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "9c71c8239d": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/05/alejandro-talavante-debut-38anos-toreamos-sentirnos-vivos-2065843.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-05",
+  "es_plan": true,
+  "titulo": "Alejandro Talavante debuta en México el 13 de noviembre",
+  "resumen": "El torero Alejandro Talavante debutará en México el 13 de noviembre en la plaza Oriente de San Miguel de Allende, Guanajuato. Al día siguiente, actuará en la plaza de toros de Tlaxcala.",
+  "en": {
+   "titulo": "Alejandro Talavante debuts in Mexico on November 13th",
+   "resumen": "Bullfighter Alejandro Talavante will debut in Mexico on November 13th at the Plaza Oriente in San Miguel de Allende, Guanajuato. The following day, he will perform at the Tlaxcala bullring."
+  },
+  "inicio": "2026-11-13",
+  "fin": "2026-11-13",
+  "hora": null,
+  "lugar": "Plaza Oriente",
+  "municipio": "San Miguel de Allende",
+  "provincia": "Guanajuato",
+  "ambito": "nacional",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "deporte"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "1c8361ac60": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/05/joaquin-sabina-77anos-vivi-mundo-noche-discotecas-vida-domestica-romantica-2065631.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-05",
+  "es_plan": false
+ },
+ "bfe17da7f3": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/05/jose-sacristan-llegado-89anos-salud-potable-vida-parece-tomadura-pelo-2065835.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-05",
+  "es_plan": true,
+  "titulo": "José Sacristán de gira con 'El hijo de la cómica'",
+  "resumen": "José Sacristán continúa de gira por España con la obra 'El hijo de la cómica', basada en las memorias de Fernando Fernán Gómez. Estará en el Teatro Principal de Zaragoza del 16 al 20 de diciembre.",
+  "en": {
+   "titulo": "José Sacristán on tour with 'El hijo de la cómica'",
+   "resumen": "José Sacristán continues his tour across Spain with the play 'El hijo de la cómica', based on Fernando Fernán Gómez's memoirs. He will be at the Teatro Principal in Zaragoza from December 16th to 20th."
+  },
+  "inicio": "2026-12-16",
+  "fin": "2026-12-20",
+  "hora": null,
+  "lugar": "Teatro Principal",
+  "municipio": "Zaragoza",
+  "provincia": "Zaragoza",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "d03f0ea333": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/05/victor-manuel-79anos-entiendo-descontento-espana-motivos-hartos-cosas-dictadura-2065836.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-05",
+  "es_plan": false
+ },
+ "566cbb7a6d": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/05/miguel-bose-70anos-orgulloso-espanol-vamos-cansar-encima-espana-2064804.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-05",
+  "es_plan": false
+ },
+ "35112c66be": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/05/maximo-huerta-55anos-no-se-habra-persona-limpiar-lapida-nombre-2063917.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-05",
+  "es_plan": false
+ },
+ "e851ad845a": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/05/kaseo-tenia-colega-dijo-vivia-marques-conteste-facil-disco-gira-revientalo-2064272.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-05",
+  "es_plan": true,
+  "titulo": "Kase.O inicia gira en enero de 2027 con nuevo disco",
+  "resumen": "Kase.O comenzará una gira por España y América el 16 de enero de 2027 desde La Coruña, presentando su nuevo disco 'Camisa de fuerza'. El rapero también ha reflexionado sobre su profesión en una entrevista.",
+  "en": {
+   "titulo": "Kase.O starts tour in January 2027 with new album",
+   "resumen": "Kase.O will begin a tour across Spain and America on January 16, 2027, starting from A Coruña, presenting his new album 'Camisa de fuerza'. The rapper also reflected on his profession in an interview."
+  },
+  "inicio": "2027-01-16",
+  "fin": "2027-01-16",
+  "hora": null,
+  "lugar": null,
+  "municipio": "La Coruña",
+  "provincia": "A Coruña",
+  "ambito": "nacional",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "e96d65333f": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/05/rosa-melendez-modista-bunbury-desde-principio-entendi-bien-que-queria-2065819.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-05",
+  "es_plan": false
+ },
+ "2bb4034023": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/05/maria-bonilla-joven-zaragoza-viral-cancion-algo-interes-2065703.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-05",
+  "es_plan": false
+ },
+ "1549103dff": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/05/mario-vaquerizo-muy-controlador-exceso-control-hace-veces-enfade-personas-olvido-horas-hablarme-2065691.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-05",
+  "es_plan": false
+ },
+ "6b71e50aed": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/05/jose-luis-esteban-quijote-es-una-novela-infinita-si-te-dejas-interpelar-los-clasicos-estan-siempre-vivos-2065628.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-05",
+  "es_plan": true,
+  "titulo": "Estreno de 'Sobras completas del Quijote' en el Teatro del Mercado de Zaragoza",
+  "resumen": "El actor y dramaturgo José Luis Esteban estrena el espectáculo 'Sobras completas del Quijote' en el Teatro del Mercado de Zaragoza. La obra promete complicidad, humor y música en directo.",
+  "en": {
+   "titulo": "Premiere of 'Sobras completas del Quijote' at the Teatro del Mercado in Zaragoza",
+   "resumen": "Actor and playwright José Luis Esteban premieres the show 'Sobras completas del Quijote' at the Teatro del Mercado in Zaragoza. The play promises camaraderie, humor, and live music."
+  },
+  "inicio": "2026-11-05",
+  "fin": "2026-11-05",
+  "hora": "20:00",
+  "lugar": "Teatro del Mercado",
+  "municipio": "Zaragoza",
+  "provincia": "Zaragoza",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "d53ee5debf": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/05/gran-wyoming-propietario-19-viviendas-subidas-impuestos-patrimonio-me-perjudican-estar-acuerdo-ellas-2065127.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-05",
+  "es_plan": false
+ },
+ "7c002eb174": {
+  "url": "https://www.elnortedecastilla.es/culturas/arte/ribalta-aperitivo-escuela-valenciana-museo-escultura-20261105142539-nt.html",
+  "fuente": "El Norte de Castilla (Culturas)",
+  "src": "prensa-nortecastilla-culturas",
+  "publicado": "2026-11-05",
+  "es_plan": false
+ },
+ "f67fc39dbe": {
+  "url": "https://www.elnortedecastilla.es/culturas/musica/gira-pasara-barcelona-sevilla-20261105132757-ntrc.html",
+  "fuente": "El Norte de Castilla (Culturas)",
+  "src": "prensa-nortecastilla-culturas",
+  "publicado": "2026-11-05",
+  "es_plan": true,
+  "titulo": "La gira de U2 pasará por Barcelona y Sevilla en mayo de 2027",
+  "resumen": "La banda U2 ofrecerá tres conciertos en España como parte de su gira, actuando en Barcelona el 13 y 15 de mayo, y en Sevilla el 22 de mayo, para presentar su nuevo disco.",
+  "en": {
+   "titulo": "U2's tour will visit Barcelona and Seville in May 2027",
+   "resumen": "The band U2 will offer three concerts in Spain as part of their tour, performing in Barcelona on May 13th and 15th, and in Seville on May 22nd, to present their new album."
+  },
+  "inicio": "2027-05-13",
+  "fin": "2027-05-22",
+  "hora": null,
+  "lugar": "Estadio Olímpico Lluís Companys, Estadio de La Cartuja",
+  "municipio": "Barcelona, Sevilla",
+  "provincia": "Barcelona, Sevilla",
+  "ambito": "nacional",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "e60023d502": {
+  "url": "https://www.ideal.es/culturas/almeria/sara-lilu-cuarteto-kike-perdomo-brindan-almerijazz-20261105132857-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-11-05",
+  "es_plan": true,
+  "titulo": "Sara Lilu y Kike Perdomo en Almerijazz: noche de ritmo y voces magistrales",
+  "resumen": "Sara Lilu y el cuarteto de Kike Perdomo actuarán en el Teatro Apolo dentro del festival Almerijazz, ofreciendo una noche de 'scat' vocal y virtuosismo contemporáneo.",
+  "en": {
+   "titulo": "Sara Lilu and Kike Perdomo at Almerijazz: a night of rhythm and masterful voices",
+   "resumen": "Sara Lilu and Kike Perdomo's quartet will perform at the Teatro Apolo as part of the Almerijazz festival, offering a night of vocal 'scat' and contemporary virtuosity."
+  },
+  "inicio": "2026-11-05",
+  "fin": "2026-11-05",
+  "hora": null,
+  "lugar": "Teatro Apolo",
+  "municipio": "Almería",
+  "provincia": "Almería",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "a15fb5eb47": {
+  "url": "https://www.ideal.es/culturas/091-juventude-apuntan-sexta-edicion-dee-fest-20261105112613-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-11-05",
+  "es_plan": false
+ },
+ "ed31f80b10": {
+  "url": "https://www.lasprovincias.es/culturas/museo-nacional-escultura-ribalta-20261105130845-nt.html",
+  "fuente": "Las Provincias (Culturas)",
+  "src": "prensa-lasprovincias-culturas",
+  "publicado": "2026-11-05",
+  "es_plan": false
+ },
+ "f8b0ce5542": {
+  "url": "https://www.lasprovincias.es/culturas/musica/u2-fechas-conciertos-espana-20261105124903-nt.html",
+  "fuente": "Las Provincias (Culturas)",
+  "src": "prensa-lasprovincias-culturas",
+  "publicado": "2026-11-05",
+  "es_plan": true,
+  "titulo": "U2 anuncia tres únicos conciertos en España en 2027: Barcelona y Sevilla",
+  "resumen": "La banda irlandesa U2 realizará tres conciertos en España en 2027, visitando Barcelona y Sevilla. No habrá paradas en Valencia ni Madrid.",
+  "en": {
+   "titulo": "U2 announces three exclusive concerts in Spain in 2027: Barcelona and Seville",
+   "resumen": "The Irish band U2 will perform three concerts in Spain in 2027, visiting Barcelona and Seville. There will be no stops in Valencia or Madrid."
+  },
+  "inicio": "2027-05-13",
+  "fin": "2027-05-22",
+  "hora": null,
+  "lugar": "Estadio Olímpico Lluís Companys, Estadio de La Cartuja",
+  "municipio": "Barcelona, Sevilla",
+  "provincia": "Barcelona, Sevilla",
+  "ambito": "nacional",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "e3539b8a99": {
+  "url": "https://www.lasprovincias.es/culturas/tv/estreno-septima-javier-ruiz-muestra-plato-varios-20261105122727-nt.html",
+  "fuente": "Las Provincias (Culturas)",
+  "src": "prensa-lasprovincias-culturas",
+  "publicado": "2026-11-05",
+  "es_plan": true,
+  "titulo": "Estreno de 'La Séptima': Javier Ruiz muestra el plató y el equipo del nuevo canal",
+  "resumen": "El director Javier Ruiz presenta el plató y el equipo de 110 periodistas del nuevo canal de televisión 'La Séptima', que arranca sus emisiones.",
+  "en": {
+   "titulo": "Premiere of 'La Séptima': Javier Ruiz shows the studio and the team of the new channel",
+   "resumen": "Director Javier Ruiz presents the studio and the team of 110 journalists for the new television channel 'La Séptima', which is launching its broadcasts."
+  },
+  "inicio": "2026-11-05",
+  "fin": "2026-11-05",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": true,
+  "precio": null,
+  "temas": [
+   "pantalla",
+   "cultura"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "173528ff73": {
+  "url": "https://www.lasprovincias.es/culturas/tv/septima-primeras-imagenes-nuevo-canal-estrena-television-20261105102321-nt.html",
+  "fuente": "Las Provincias (Culturas)",
+  "src": "prensa-lasprovincias-culturas",
+  "publicado": "2026-11-05",
+  "es_plan": true,
+  "titulo": "'La Séptima' estrena hoy 5 de noviembre con primeras imágenes del nuevo canal",
+  "resumen": "El nuevo canal de televisión 'La Séptima' comienza sus emisiones hoy, 5 de noviembre, a las 12:00 horas, mostrando sus primeras imágenes y presentándose como un canal generalista.",
+  "en": {
+   "titulo": "'La Séptima' premieres today, November 5th, with first images of the new channel",
+   "resumen": "The new television channel 'La Séptima' begins its broadcasts today, November 5th, at 12:00 PM, showing its first images and presenting itself as a generalist channel."
+  },
+  "inicio": "2026-11-05",
+  "fin": "2026-11-05",
+  "hora": "12:00",
+  "lugar": null,
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": true,
+  "precio": null,
+  "temas": [
+   "pantalla",
+   "cultura"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "cb715ac11d": {
+  "url": "https://www.lasprovincias.es/culturas/operacion-valenciana-hispanicsorolla-ronda-millones-euros-20261104015027-nt.html",
+  "fuente": "Las Provincias (Culturas)",
+  "src": "prensa-lasprovincias-culturas",
+  "publicado": "2026-11-05",
+  "es_plan": false
+ },
+ "57f9765d55": {
+  "url": "https://www.lasprovincias.es/culturas/tv/presentadores-programas-confirmados-septima-nuevo-canal-television-20261104184816-nt.html",
+  "fuente": "Las Provincias (Culturas)",
+  "src": "prensa-lasprovincias-culturas",
+  "publicado": "2026-11-05",
+  "es_plan": true,
+  "titulo": "Presentadores y programas confirmados de 'La Séptima', el nuevo canal de televisión",
+  "resumen": "Se detallan los presentadores y programas confirmados para 'La Séptima', el nuevo canal generalista que estrena hoy 5 de noviembre, enfocado en noticias y actualidad.",
+  "en": {
+   "titulo": "Confirmed presenters and programs for 'La Séptima', the new television channel",
+   "resumen": "The confirmed presenters and programs for 'La Séptima', the new generalist channel launching today, November 5th, focused on news and current affairs, are detailed."
+  },
+  "inicio": "2026-11-05",
+  "fin": "2026-11-05",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": true,
+  "precio": null,
+  "temas": [
+   "pantalla",
+   "cultura"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "bf260fa0c2": {
+  "url": "https://www.lasprovincias.es/culturas/tv/veronica-sanz-presentadora-pulso-septima-20261104001930-nt.html",
+  "fuente": "Las Provincias (Culturas)",
+  "src": "prensa-lasprovincias-culturas",
+  "publicado": "2026-11-05",
+  "es_plan": true,
+  "titulo": "Estreno de La Séptima con Verónica Sanz",
+  "resumen": "La periodista Verónica Sanz presenta 'El pulso' en la nueva cadena de la TDT, La Séptima, que inicia sus emisiones este jueves.",
+  "en": {
+   "titulo": "La Séptima Premieres with Verónica Sanz",
+   "resumen": "Journalist Verónica Sanz presents 'El pulso' on the new DTT channel, La Séptima, which begins broadcasting this Thursday."
+  },
+  "inicio": "2026-11-05",
+  "fin": "2026-11-05",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": "Comunidad Valenciana",
+  "ambito": "nacional",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "pantalla"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "0b2f1b5407": {
+  "url": "https://www.lasprovincias.es/culturas/tv/rocio-delgado-presentadora-sobre-mesa-septima-20261104002004-nt.html",
+  "fuente": "Las Provincias (Culturas)",
+  "src": "prensa-lasprovincias-culturas",
+  "publicado": "2026-11-05",
+  "es_plan": true,
+  "titulo": "Estreno de La Séptima con Rocío Delgado",
+  "resumen": "Rocío Delgado presenta 'Sobre la Mesa' en La Séptima, la nueva cadena de la TDT que arranca sus emisiones el jueves 5 de noviembre.",
+  "en": {
+   "titulo": "La Séptima Premieres with Rocío Delgado",
+   "resumen": "Rocío Delgado presents 'Sobre la Mesa' on La Séptima, the new DTT channel launching this Thursday, November 5th."
+  },
+  "inicio": "2026-11-05",
+  "fin": "2026-11-05",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": "Comunidad Valenciana",
+  "ambito": "nacional",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "pantalla"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "e4965c86bd": {
+  "url": "https://www.lasprovincias.es/culturas/tv/carles-porta-estrena-nuevo-true-crime-movistar-20261021001810-nt.html",
+  "fuente": "Las Provincias (Culturas)",
+  "src": "prensa-lasprovincias-culturas",
+  "publicado": "2026-11-05",
+  "es_plan": true,
+  "titulo": "Estreno de 'Sicario' de Carles Porta en Movistar Plus",
+  "resumen": "El nuevo documental de 'true crime' de Carles Porta, titulado 'Sicario', se estrena en Movistar Plus el próximo 12 de noviembre.",
+  "en": {
+   "titulo": "Carles Porta's 'Sicario' Premieres on Movistar Plus",
+   "resumen": "Carles Porta's new true crime documentary, 'Sicario', will premiere on Movistar Plus on November 12th."
+  },
+  "inicio": "2026-11-12",
+  "fin": "2026-11-12",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "pantalla",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "f150a218f9": {
+  "url": "https://www.lasprovincias.es/culturas/tv/tve-emite-peliculas-famosas-imanol-arias-canal-20261104001743-nt.html",
+  "fuente": "Las Provincias (Culturas)",
+  "src": "prensa-lasprovincias-culturas",
+  "publicado": "2026-11-05",
+  "es_plan": true,
+  "titulo": "Películas en TDT: 'El Lute' y 'Cortina rasgada'",
+  "resumen": "Este jueves 5 de noviembre, la TDT ofrece 'El Lute, camina o revienta' de Imanol Arias y 'Cortina rasgada' de Alfred Hitchcock.",
+  "en": {
+   "titulo": "TDT Films: 'El Lute' and 'Torn Curtain'",
+   "resumen": "This Thursday, November 5th, TDT will broadcast Imanol Arias' 'El Lute, camina o revienta' and Alfred Hitchcock's 'Torn Curtain'."
+  },
+  "inicio": "2026-11-05",
+  "fin": "2026-11-05",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "pantalla",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "bd5fe47a25": {
+  "url": "https://www.laverdad.es/culturas/cine/asesinatos-rurales-sacamantecas-20261105092629-nt.html",
+  "fuente": "La Verdad (Culturas)",
+  "src": "prensa-laverdad-culturas",
+  "publicado": "2026-11-05",
+  "es_plan": false
+ },
+ "9ef61aa898": {
+  "url": "https://www.eldiariomontanes.es/culturas/ivan-gastanaga-lleva-historia-libro-sobre-heridas-20261105183254-nt.html",
+  "fuente": "El Diario Montañés (Culturas)",
+  "src": "prensa-diariomontanes-culturas",
+  "publicado": "2026-11-05",
+  "es_plan": true,
+  "titulo": "Presentación del libro 'La genealogía del abandono' en Santander",
+  "resumen": "Iván Gastañaga presenta su libro 'La genealogía del abandono' este viernes en la librería Gil de Santander.",
+  "en": {
+   "titulo": "Book Presentation: 'La genealogía del abandono' in Santander",
+   "resumen": "Iván Gastañaga will present his book 'La genealogía del abandono' this Friday at Librería Gil in Santander."
+  },
+  "inicio": "2026-11-06",
+  "fin": "2026-11-06",
+  "hora": null,
+  "lugar": "librería Gil",
+  "municipio": "Santander",
+  "provincia": "Cantabria",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "d9893fd727": {
+  "url": "https://www.elcomercio.es/aviles/melendi-vuelve-jugar-casa-anuncia-concierto-aviles-entradas-20261105125952-nt.html",
+  "fuente": "El Comercio (Culturas)",
+  "src": "prensa-elcomercio-culturas",
+  "publicado": "2026-11-05",
+  "es_plan": true,
+  "titulo": "Concierto de Melendi en Avilés",
+  "resumen": "Melendi anuncia un concierto en Avilés el 8 de mayo en el pabellón de La Magdalena para presentar su último disco.",
+  "en": {
+   "titulo": "Melendi Concert in Avilés",
+   "resumen": "Melendi has announced a concert in Avilés on May 8th at the La Magdalena pavilion to present his latest album."
+  },
+  "inicio": "2027-05-08",
+  "fin": "2027-05-08",
+  "hora": null,
+  "lugar": "pabellón de La Magdalena",
+  "municipio": "Avilés",
+  "provincia": "Asturias",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "ee1c4f4d4b": {
+  "url": "https://www.elcomercio.es/culturas/arte/jose-ramon-cuervoarango-llega-instituto-cervantes-roma-20261104081016-nt.html",
+  "fuente": "El Comercio (Culturas)",
+  "src": "prensa-elcomercio-culturas",
+  "publicado": "2026-11-05",
+  "es_plan": true,
+  "titulo": "Exposición fotográfica de José Ramón Cuervo-Arango en Roma",
+  "resumen": "El fotógrafo José Ramón Cuervo-Arango inaugura la exposición 'Bonum, Verum et Pulchrum' el 12 de noviembre en el Instituto Cervantes de Roma.",
+  "en": {
+   "titulo": "Photography Exhibition by José Ramón Cuervo-Arango in Rome",
+   "resumen": "Photographer José Ramón Cuervo-Arango will inaugurate the exhibition 'Bonum, Verum et Pulchrum' on November 12th at the Instituto Cervantes in Rome."
+  },
+  "inicio": "2026-11-12",
+  "fin": "2026-11-12",
+  "hora": null,
+  "lugar": "Instituto Cervantes",
+  "municipio": "Roma",
+  "provincia": null,
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.5
+ },
+ "a6300f583e": {
+  "url": "https://www.20minutos.es/libros/isabel-allende-sergio-hernandez-bautizan-sus-planetas-separados-por-un-oceano-hemos-escrito-mismo-amor-dictadura_7057166_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-11-04",
+  "es_plan": true,
+  "titulo": "Presentación de los Premios Planeta 2026",
+  "resumen": "Isabel Allende y Sergio Hernández presentan sus novelas ganadoras del Premio Planeta 2026, 'La hora antes del alba' y 'La añoranza', en Madrid.",
+  "en": {
+   "titulo": "Planeta Awards 2026 Presentation",
+   "resumen": "Isabel Allende and Sergio Hernández present their winning novels for the 2026 Planeta Award, 'La hora antes del alba' and 'La añoranza', in Madrid."
+  },
+  "inicio": "2026-11-04",
+  "fin": "2026-11-04",
+  "hora": null,
+  "lugar": "sede de la RAE",
+  "municipio": "Madrid",
+  "provincia": "Madrid",
+  "ambito": "nacional",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "e72cdc4b44": {
+  "url": "https://www.20minutos.es/libros/isabel-allende-yo-no-creo-los-fantasmas-pero-no-hay-dia-que-no-hable-con-mi-hija-paula-que-murio-hace-33-anos_7056269_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-11-04",
+  "es_plan": false
+ },
+ "28660a7a17": {
+  "url": "https://www.20minutos.es/musica/rosalia-desata-los-rumores-sobre-una-posible-pelicula-documental-su-gira-lux-tour_7057157_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-11-04",
+  "es_plan": false
+ },
+ "69fe983ce8": {
+  "url": "https://elpais.com/cultura/cine/2026-11-04/muere-a-los-93-anos-el-cineasta-tinto-brass-director-de-caligula-y-uno-de-los-realizadores-de-cine-erotico-y-transgresor-mas-famosos.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-11-04",
+  "es_plan": false
+ },
+ "c73f122450": {
+  "url": "https://elpais.com/cultura/2026-11-04/el-congresista-bobby-pulido-en-10-canciones-asi-suena-el-cantante-de-musica-tejana-que-arraso-en-el-distrito-15-de-texas.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-11-04",
+  "es_plan": false
+ },
+ "bf8fab4e61": {
+  "url": "https://elpais.com/cultura/2026-11-04/amistad-y-masculinidad-fragil-los-ingredientes-teatrales-de-la-obra-que-nacio-de-la-indignacion-que-suscito-otra.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-11-04",
+  "es_plan": false
+ },
+ "4bc970592b": {
+  "url": "https://www.lavanguardia.com/cultura/20261104/11676283/futuros-distopicos-presentes-pesados-festival-42-genis-roca-ruiz-garzon.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-04",
+  "es_plan": true,
+  "titulo": "Festival 42 de Géneros Fantásticos en Barcelona",
+  "resumen": "El Festival 42 de Géneros Fantásticos de Barcelona inaugura con una conversación sobre inteligencia artificial y futuros distópicos.",
+  "en": {
+   "titulo": "Festival 42 of Fantastic Genres in Barcelona",
+   "resumen": "The Festival 42 of Fantastic Genres in Barcelona opens with a conversation about artificial intelligence and dystopian futures."
+  },
+  "inicio": "2026-11-04",
+  "fin": "2026-11-04",
+  "hora": null,
+  "lugar": "Fabra i Coats",
+  "municipio": "Barcelona",
+  "provincia": "Barcelona",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "libros",
+   "actividades"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
  }
 }
