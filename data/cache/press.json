@@ -1842,41 +1842,6 @@
   "a_cubierto": true,
   "confianza": 0.85
  },
- "05e9e5772f": {
-  "url": "https://www.20minutos.es/artes/un-baritono-expulsado-opera-calgary-tras-mostrar-una-bandera-palestina-ningun-arrepentimiento_7051844_0.html",
-  "fuente": "20minutos (Cultura)",
-  "src": "prensa-20minutos-cultura",
-  "publicado": "2026-10-22",
-  "es_plan": false
- },
- "ff8410b52a": {
-  "url": "https://www.20minutos.es/cultura/solo-goya-arte-ver-rey-mendigo-un-recorrido-40-cuadros-por-las-luces-las-sombras-sociedad-museo-goya_7051546_0.html",
-  "fuente": "20minutos (Cultura)",
-  "src": "prensa-20minutos-cultura",
-  "publicado": "2026-10-22",
-  "es_plan": false
- },
- "64fc1724c0": {
-  "url": "https://www.20minutos.es/libros/dolores-redondo-boom-editorial-otono-mi-no-me-interesa-que-mis-novelas-sean-las-mas-vendidas-sino-las-mas-amadas_7051520_0.html",
-  "fuente": "20minutos (Cultura)",
-  "src": "prensa-20minutos-cultura",
-  "publicado": "2026-10-22",
-  "es_plan": false
- },
- "d44824db5a": {
-  "url": "https://elpais.com/cultura/2026-10-22/lori-meyers-supervivientes-de-un-indie-que-ya-desaparecio-somos-currelas-de-los-festivales.html",
-  "fuente": "El País (Cultura)",
-  "src": "prensa-elpais-cultura",
-  "publicado": "2026-10-22",
-  "es_plan": false
- },
- "22c1c00b51": {
-  "url": "https://elpais.com/cultura/2026-10-22/art-basel-paris-el-mercado-del-arte-se-prueba-a-si-mismo-en-una-ciudad-en-llamas.html",
-  "fuente": "El País (Cultura)",
-  "src": "prensa-elpais-cultura",
-  "publicado": "2026-10-22",
-  "es_plan": false
- },
  "dc6fce1020": {
   "url": "https://elpais.com/cultura/2026-10-22/paco-rabal-la-memoria-de-una-leyenda-a-traves-de-su-propia-voz.html",
   "fuente": "El País (Cultura)",
@@ -1933,20 +1898,6 @@
   "a_cubierto": null,
   "confianza": 0.85
  },
- "f11ba5dfa4": {
-  "url": "https://www.lavanguardia.com/cultura/20261022/11665325/festival-feroe-cancela-segunda-edicion-poca-venta-entradas.html",
-  "fuente": "La Vanguardia (Cultura)",
-  "src": "prensa-lavanguardia-cultura",
-  "publicado": "2026-10-22",
-  "es_plan": false
- },
- "b97c182d57": {
-  "url": "https://www.lavanguardia.com/cultura/20261022/11665286/opera-cagliari-echa-papel-tosca-baritono-gabriel-sanchez-ortega-mostrar-bandera-palestina.html",
-  "fuente": "La Vanguardia (Cultura)",
-  "src": "prensa-lavanguardia-cultura",
-  "publicado": "2026-10-22",
-  "es_plan": false
- },
  "aee3c01d21": {
   "url": "https://www.lavanguardia.com/cultura/20261022/11664947/tolcachir-morganti-forest.html",
   "fuente": "La Vanguardia (Cultura)",
@@ -1974,27 +1925,6 @@
   ],
   "a_cubierto": true,
   "confianza": 0.85
- },
- "bb2f32ee4d": {
-  "url": "https://www.lavanguardia.com/cultura/20261022/11664816/indie-renueva-diez-bandas-abanderan-nueva-ola.html",
-  "fuente": "La Vanguardia (Cultura)",
-  "src": "prensa-lavanguardia-cultura",
-  "publicado": "2026-10-22",
-  "es_plan": false
- },
- "192293626d": {
-  "url": "https://www.lavanguardia.com/cultura/20261022/11665078/arte-paris-insurrecto.html",
-  "fuente": "La Vanguardia (Cultura)",
-  "src": "prensa-lavanguardia-cultura",
-  "publicado": "2026-10-22",
-  "es_plan": false
- },
- "47be5f727f": {
-  "url": "https://www.lavanguardia.com/cultura/20261022/11665070/marinetti-i-puig-i-cadafalch.html",
-  "fuente": "La Vanguardia (Cultura)",
-  "src": "prensa-lavanguardia-cultura",
-  "publicado": "2026-10-22",
-  "es_plan": false
  },
  "f992e2034e": {
   "url": "https://llegim.ara.cat/actualitat/us-imagineu-mural-miquel-barcelo-anunciant-ametller-origen_1_5886330.html",
@@ -2024,20 +1954,6 @@
   ],
   "a_cubierto": null,
   "confianza": 0.85
- },
- "e7e83c7894": {
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/22/ernest-hemingway-famosa-reflexion-espana-pueblo-espanol-tiene-rasgo-comun-orgullo-tiene-otro-sentido-comun-2035874.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-10-22",
-  "es_plan": false
- },
- "804dff0f46": {
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/22/javier-benito-sala-conciertos-zaragoza-lata-bombillas-vio-crecer-love-of-lesbian-2061110.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-10-22",
-  "es_plan": false
  },
  "24b725d35d": {
   "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/22/superthings-una-pelicula-con-ritmazo-sobre-unos-munecos-espanoles-exito-mundial-2061745.html",
@@ -2096,13 +2012,6 @@
   "a_cubierto": true,
   "confianza": 0.9
  },
- "30a69cc9c5": {
-  "url": "https://www.elnortedecastilla.es/culturas/musica/musica-voz-anos-213-triunfos-diferentes-20261022000657-ntrc.html",
-  "fuente": "El Norte de Castilla (Culturas)",
-  "src": "prensa-nortecastilla-culturas",
-  "publicado": "2026-10-22",
-  "es_plan": false
- },
  "fefa1b357f": {
   "url": "https://www.elnortedecastilla.es/culturas/tv/rtve-estrena-guerra-programa-busca-ayudar-entender-20261022000551-ntrc.html",
   "fuente": "El Norte de Castilla (Culturas)",
@@ -2131,20 +2040,6 @@
   ],
   "a_cubierto": true,
   "confianza": 0.9
- },
- "9ebdcf176a": {
-  "url": "https://www.diariosur.es/culturas/carmen-thyssen-subasta-cuadro-hopper-estrella-exposicion-20261021054506-nt.html",
-  "fuente": "Diario Sur (Culturas)",
-  "src": "prensa-diariosur-culturas",
-  "publicado": "2026-10-22",
-  "es_plan": false
- },
- "51976661f6": {
-  "url": "https://www.ideal.es/culturas/junta-andalucia-entra-consorcio-granada-2031-eleva-20261022113634-nt.html",
-  "fuente": "Ideal (Culturas)",
-  "src": "prensa-ideal-culturas",
-  "publicado": "2026-10-22",
-  "es_plan": false
  },
  "5c5cd58195": {
   "url": "https://www.ideal.es/culturas/almeria/ruta-ciencia-encara-recta-final-llega-berja-20261022112935-nt.html",
@@ -2202,13 +2097,6 @@
   "a_cubierto": false,
   "confianza": 0.9
  },
- "222a177db4": {
-  "url": "https://www.ideal.es/culturas/fallecio-octubre-1936-20261022154928-nt.html",
-  "fuente": "Ideal (Culturas)",
-  "src": "prensa-ideal-culturas",
-  "publicado": "2026-10-22",
-  "es_plan": false
- },
  "b144c99bd3": {
   "url": "https://www.elcorreo.com/culturas/musica/alex-sardui-resucita-exkixu-concierto-bilbao-arena-20261022114904-nt.html",
   "fuente": "El Correo (Culturas)",
@@ -2236,13 +2124,6 @@
   ],
   "a_cubierto": true,
   "confianza": 0.85
- },
- "23b13defc8": {
-  "url": "https://www.elcorreo.com/culturas/arte/escoltas-zugaza-20261004004729-nt.html",
-  "fuente": "El Correo (Culturas)",
-  "src": "prensa-elcorreo-culturas",
-  "publicado": "2026-10-22",
-  "es_plan": false
  },
  "c3bfb7d677": {
   "url": "https://www.elcorreo.com/culturas/tv/parrilla-septima-sarah-santaolalla-tardes-alba-carrillo-20261022095823-nt.html",
@@ -2355,20 +2236,6 @@
   "a_cubierto": true,
   "confianza": 0.9
  },
- "70e36d916b": {
-  "url": "https://www.diariovasco.com/culturas/libros/eli-tolaretxipi-vida-pasado-siento-vez-libre-20261021191635-nt.html",
-  "fuente": "El Diario Vasco (Culturas)",
-  "src": "prensa-diariovasco-culturas",
-  "publicado": "2026-10-22",
-  "es_plan": false
- },
- "9e1c5ddcfa": {
-  "url": "https://www.lasprovincias.es/culturas/teatro/principal-apunta-arma-politica-20261021004855-nt.html",
-  "fuente": "Las Provincias (Culturas)",
-  "src": "prensa-lasprovincias-culturas",
-  "publicado": "2026-10-22",
-  "es_plan": false
- },
  "1b0116a499": {
   "url": "https://www.lasprovincias.es/culturas/tv/punt-retransmitira-directo-encierros-taurinos-fira-donda-20261019005229-nt.html",
   "fuente": "Las Provincias (Culturas)",
@@ -2424,20 +2291,6 @@
   "a_cubierto": null,
   "confianza": 0.7
  },
- "575c0356e3": {
-  "url": "https://www.laverdad.es/culturas/artista-ceheginero-nicolas-maya-finalista-premio-bmw-20261022111608-nt.html",
-  "fuente": "La Verdad (Culturas)",
-  "src": "prensa-laverdad-culturas",
-  "publicado": "2026-10-22",
-  "es_plan": false
- },
- "6d2985831e": {
-  "url": "https://www.laverdad.es/culturas/feria-libro-murcia-bate-record-asistencia-20261021001448-nt.html",
-  "fuente": "La Verdad (Culturas)",
-  "src": "prensa-laverdad-culturas",
-  "publicado": "2026-10-22",
-  "es_plan": false
- },
  "6b4435779c": {
   "url": "https://www.eldiariomontanes.es/culturas/lucia-mir-invita-galeria-mecha-detenerse-paisajes-20261022073359-nt.html",
   "fuente": "El Diario Montañés (Culturas)",
@@ -2465,13 +2318,6 @@
   ],
   "a_cubierto": true,
   "confianza": 0.85
- },
- "b5ab37e85e": {
-  "url": "https://www.eldiariomontanes.es/culturas/cafe-artes-lleva-escena-limites-dos-propuestas-20261022073350-nt.html",
-  "fuente": "El Diario Montañés (Culturas)",
-  "src": "prensa-diariomontanes-culturas",
-  "publicado": "2026-10-22",
-  "es_plan": false
  },
  "c871087bdf": {
   "url": "https://www.eldiariomontanes.es/culturas/artistas-cantabros-dia-muertos-estrenan-especiales-faro-20261022072429-nt.html",
