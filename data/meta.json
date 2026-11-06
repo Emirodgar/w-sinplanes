@@ -1,11 +1,11 @@
 {
-  "generated": "2026-11-06T12:07:26.367Z",
+  "generated": "2026-11-06T13:19:58.280Z",
   "today": "2026-11-06",
-  "events": 5827,
+  "events": 5845,
   "review": 12,
   "ai": {
-    "calls": 0,
-    "seconds": 44,
+    "calls": 21,
+    "seconds": 310,
     "tripped": false
   },
   "sources": [
@@ -61,7 +61,7 @@
     {
       "id": "prensa-lavanguardia-cultura",
       "status": "ok",
-      "count": 43,
+      "count": 44,
       "candidatos": true
     },
     {
@@ -79,7 +79,7 @@
     {
       "id": "prensa-nortecastilla-culturas",
       "status": "ok",
-      "count": 12,
+      "count": 13,
       "candidatos": true
     },
     {

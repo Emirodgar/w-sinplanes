@@ -15783,5 +15783,717 @@
   ],
   "a_cubierto": null,
   "confianza": 0.85
+ },
+ "ce532c0132": {
+  "url": "https://www.europapress.es/cultura/musica-00129/noticia-pitbull-desata-fiesta-madrid-14-anos-ausencia-20261106000518.html",
+  "fuente": "Europa Press (Cultura)",
+  "src": "prensa-europapress-cultura",
+  "publicado": "2026-11-06",
+  "es_plan": true,
+  "titulo": "Pitbull en concierto en Madrid",
+  "resumen": "El cantante Pitbull actuará en el Movistar Arena de Madrid como parte de su gira 'I'm Back'. El concierto celebra su regreso a España tras 14 años de ausencia.",
+  "en": {
+   "titulo": "Pitbull concert in Madrid",
+   "resumen": "Singer Pitbull will perform at the Movistar Arena in Madrid as part of his 'I'm Back' tour. The concert celebrates his return to Spain after a 14-year absence."
+  },
+  "inicio": "2026-11-06",
+  "fin": "2026-11-06",
+  "hora": null,
+  "lugar": "Movistar Arena",
+  "municipio": "Madrid",
+  "provincia": "Madrid",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "musica"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "131a316bfe": {
+  "url": "https://www.20minutos.es/musica/pitbull-desata-fiesta-madrid-tras-14-anos-ausencia-musica-fiesta-muchas-calvas_7058080_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-11-06",
+  "es_plan": true,
+  "titulo": "Pitbull en concierto en Madrid",
+  "resumen": "Pitbull ofrece un concierto en el Movistar Arena de Madrid repasando 20 años de trayectoria. El evento, parte de su gira 'I'm Back', contó con la actuación previa de Lil Jon.",
+  "en": {
+   "titulo": "Pitbull concert in Madrid",
+   "resumen": "Pitbull performs a concert at the Movistar Arena in Madrid, reviewing 20 years of his career. The event, part of his 'I'm Back' tour, featured a prior performance by Lil Jon."
+  },
+  "inicio": "2026-11-06",
+  "fin": "2026-11-06",
+  "hora": "21:18",
+  "lugar": "Movistar Arena",
+  "municipio": "Madrid",
+  "provincia": "Madrid",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "musica"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "e427fe9a42": {
+  "url": "https://www.20minutos.es/musica/walls-se-abre-canal-ha-vuelto-llover-su-nuevo-single-antesala-su-gira-salas_7057089_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-11-06",
+  "es_plan": true,
+  "titulo": "Walls inicia gira de salas en España",
+  "resumen": "El artista Walls comienza su gira de salas por España el 7 de noviembre, presentando su nuevo single 'Ha vuelto a llover'. La gira recorrerá varias ciudades del país.",
+  "en": {
+   "titulo": "Walls begins Spanish venue tour",
+   "resumen": "Artist Walls begins his Spanish venue tour on November 7th, presenting his new single 'Ha vuelto a llover'. The tour will cover several cities across the country."
+  },
+  "inicio": "2026-11-07",
+  "fin": "2026-11-07",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "ab1783ec83": {
+  "url": "https://www.20minutos.es/libros/andrea-abreu-vuelve-novela-tras-exito-panza-burro-mi-generacion-tiene-sensacion-fin-mundo-no-futuro_7047735_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-11-06",
+  "es_plan": false
+ },
+ "0a3473933b": {
+  "url": "https://elpais.com/us/entretenimiento/2026-11-05/la-revista-the-new-yorker-arremete-contra-la-bola-negra-no-es-un-monumento-es-un-fracaso.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-11-06",
+  "es_plan": false
+ },
+ "cd1bb8864b": {
+  "url": "https://elpais.com/cultura/cine/2026-11-06/la-bola-negra-se-convierte-en-la-pelicula-mas-vista-del-ano-en-espana-a-lomos-del-publico-joven.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-11-06",
+  "es_plan": false
+ },
+ "270792624c": {
+  "url": "https://elpais.com/cultura/cine/2026-11-06/sacamantecas-creible-ambientacion-en-el-retrato-de-un-monstruo.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-11-06",
+  "es_plan": true,
+  "titulo": "Estreno de 'Sacamantecas'",
+  "resumen": "La película 'Sacamantecas', dirigida por David Pérez Sañudo, se estrena el 6 de noviembre. El film, un drama de 109 minutos, explora la figura del legendario personaje.",
+  "en": {
+   "titulo": "'Sacamantecas' premiere",
+   "resumen": "The film 'Sacamantecas', directed by David Pérez Sañudo, premieres on November 6th. The 109-minute drama explores the figure of the legendary character."
+  },
+  "inicio": "2026-11-06",
+  "fin": "2026-11-06",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "b24d360425": {
+  "url": "https://elpais.com/cultura/2026-11-06/the-xx-pixies-the-war-on-drugs-y-amelie-lens-lideran-el-primer-adelanto-del-bilbao-bbk-live.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-11-06",
+  "es_plan": true,
+  "titulo": "Bilbao BBK Live 2027: Primeros nombres anunciados",
+  "resumen": "El festival Bilbao BBK Live anuncia los primeros artistas para su edición de 2027, que se celebrará del 8 al 10 de julio. Destacan The XX, Pixies, The War on Drugs y Amelie Lens.",
+  "en": {
+   "titulo": "Bilbao BBK Live 2027: First names announced",
+   "resumen": "The Bilbao BBK Live festival announces the first artists for its 2027 edition, taking place from July 8th to 10th. Highlights include The XX, Pixies, The War on Drugs, and Amelie Lens."
+  },
+  "inicio": "2027-07-08",
+  "fin": "2027-07-10",
+  "hora": null,
+  "lugar": "Kobetamendi",
+  "municipio": "Bilbao",
+  "provincia": "Vizcaya",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "musica",
+   "fiestas"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "a74f33cf5d": {
+  "url": "https://elpais.com/cultura/cine/2026-11-06/ruega-por-nosotras-imperiosa-y-mal-medida-denuncia-contra-los-reformatorios-femeninos-franquistas.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-11-06",
+  "es_plan": true,
+  "titulo": "Estreno de 'Ruega por nosotras'",
+  "resumen": "La película 'Ruega por nosotras', dirigida por Daniel Monzón, se estrena el 6 de noviembre. El drama de 136 minutos denuncia las condiciones de los reformatorios femeninos franquistas.",
+  "en": {
+   "titulo": "'Ruega por nosotras' premiere",
+   "resumen": "The film 'Ruega por nosotras', directed by Daniel Monzón, premieres on November 6th. The 136-minute drama denounces the conditions in Franco-era women's reformatories."
+  },
+  "inicio": "2026-11-06",
+  "fin": "2026-11-06",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "5b46033dd4": {
+  "url": "https://elpais.com/cultura/cine/2026-11-06/los-miserables-al-servicio-del-espectaculo-en-una-francia-rota.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-11-06",
+  "es_plan": true,
+  "titulo": "Estreno de 'Los miserables'",
+  "resumen": "La película 'Los miserables', dirigida por Fred Cavayé, se estrena el 6 de noviembre. El drama francés de 178 minutos aborda temas de marginación y tensiones sociales.",
+  "en": {
+   "titulo": "'Les Misérables' premiere",
+   "resumen": "The film 'Les Misérables', directed by Fred Cavayé, premieres on November 6th. The 178-minute French drama addresses themes of marginalization and social tensions."
+  },
+  "inicio": "2026-11-06",
+  "fin": "2026-11-06",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "d75618b3fa": {
+  "url": "https://elpais.com/cultura/cine/2026-11-06/godzilla-minus-zero-nostalgia-kaiju-embalsamada.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-11-06",
+  "es_plan": true,
+  "titulo": "Estreno de 'Godzilla Minus Zero'",
+  "resumen": "La película 'Godzilla Minus Zero', dirigida por Takashi Yamazaki, se estrena el 6 de noviembre. Este film de ciencia ficción japonés de 135 minutos explora el universo kaiju.",
+  "en": {
+   "titulo": "'Godzilla Minus Zero' premiere",
+   "resumen": "The film 'Godzilla Minus Zero', directed by Takashi Yamazaki, premieres on November 6th. This 135-minute Japanese science fiction film explores the kaiju universe."
+  },
+  "inicio": "2026-11-06",
+  "fin": "2026-11-06",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "pantalla",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "9c5f2ca547": {
+  "url": "https://www.lavanguardia.com/cultura/20261106/11677992/nit-les-lletres-catalanes-incorpora-dos-nuevos-premios-aumenta-dotaciones-cuatro-galardones.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-06",
+  "es_plan": true,
+  "titulo": "Nit de les Lletres Catalanes 2027",
+  "resumen": "La Nit de les Lletres Catalanes se celebrará el 20 de febrero de 2027 en el MNAC, incorporando dos nuevos premios y aumentando las dotaciones de otros galardones literarios.",
+  "en": {
+   "titulo": "Catalan Letters Night 2027",
+   "resumen": "The Catalan Letters Night will be held on February 20, 2027, at the MNAC, incorporating two new awards and increasing the endowments of other literary prizes."
+  },
+  "inicio": "2027-02-20",
+  "fin": "2027-02-20",
+  "hora": null,
+  "lugar": "Museu Nacional d’Art de Catalunya (MNAC)",
+  "municipio": "Barcelona",
+  "provincia": "Barcelona",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "fe2233c061": {
+  "url": "https://www.lavanguardia.com/cultura/20261106/11677732/tintin-mary-poppins-grupo-planeta-editorial-juventud.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-06",
+  "es_plan": false
+ },
+ "9c7cb87391": {
+  "url": "https://www.lavanguardia.com/cultura/musica/20261106/11677652/pitbull-pone-bailar-barcelona-madrid-fiestas-llenas-calvas-gafas-sol-corbatas.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-06",
+  "es_plan": true,
+  "titulo": "Pitbull en concierto en Barcelona y Madrid",
+  "resumen": "Pitbull actúa en Barcelona (Sant Jordi) y Madrid (Movistar Arena) como parte de su gira 'I'm Back', celebrando su regreso a España tras 13 años de ausencia.",
+  "en": {
+   "titulo": "Pitbull concert in Barcelona and Madrid",
+   "resumen": "Pitbull performs in Barcelona (Sant Jordi) and Madrid (Movistar Arena) as part of his 'I'm Back' tour, celebrating his return to Spain after a 13-year absence."
+  },
+  "inicio": "2026-11-06",
+  "fin": "2026-11-06",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "musica"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "d12ea67d33": {
+  "url": "https://www.lavanguardia.com/cultura/cine/20261106/11677620/bola-negra-convence-revista-the-new-yorker-monumento-fracaso.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-06",
+  "es_plan": false
+ },
+ "51211afd4e": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/06/revelada-intrahistoria-flying-free-himno-legendario-musica-makina-2066284.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-06",
+  "es_plan": true,
+  "titulo": "Documental sobre la canción 'Flying Free'",
+  "resumen": "Se estrena en el Festival In-Edit el documental 'Flying Free: Historia de un himno', que narra la creación de la icónica canción 'makinera' que cumple 25 años. El film explora los orígenes del tema y su impacto cultural.",
+  "en": {
+   "titulo": "Documentary about the song 'Flying Free'",
+   "resumen": "The documentary 'Flying Free: Historia de un himno' premieres at the In-Edit Festival, telling the story of the iconic 'makinera' song that is now 25 years old. The film explores the origins of the track and its cultural impact."
+  },
+  "inicio": "2026-11-07",
+  "fin": "2026-11-07",
+  "hora": null,
+  "lugar": "Festival In-Edit",
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "2901d2f58c": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/06/christian-galvez-protestas-profesores-telemadrid-yo-no-iba-presentador-ser-profesor-2065669.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-06",
+  "es_plan": false
+ },
+ "2cc5c96320": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/06/enrique-bunbury-obligado-detener-concierto-8000personas-hasta-aqui-2065189.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-06",
+  "es_plan": false
+ },
+ "00a0a6272e": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/06/pedro-sanchez-gran-wyoming-despues-tanto-tiempo-quedate-hasta-mi-proxima-investidura-2066265.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-06",
+  "es_plan": false
+ },
+ "1ba479d4c2": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/06/aragones-mario-kimera-kimera-leyendas-recortadores-toros-documental-2066244.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-06",
+  "es_plan": false
+ },
+ "ea71c62cb3": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/06/gira-retorno-heroes-silencio-2007-bunbury-beneficio-economicamente-resto-herida-sangrante-2056391.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-06",
+  "es_plan": false
+ },
+ "c2c4a60816": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/06/septima-estrena-cuota-millones-vieron-momento-septima-2066254.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-06",
+  "es_plan": false
+ },
+ "7cea8f5748": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/06/certamen-bandas-musica-pascual-marquina-calatayud-arranca-este-sabado-su-decima-edicion-2066258.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-06",
+  "es_plan": true,
+  "titulo": "Certamen de bandas de música Pascual Marquina en Calatayud",
+  "resumen": "Comienza la décima edición del certamen de bandas de música Pascual Marquina en Calatayud. La Agrupación Musical Alto Jalón actúa este sábado 7 de noviembre, seguida por la Agrupación Musical Pascual Marquina el día 14.",
+  "en": {
+   "titulo": "Pascual Marquina music band contest in Calatayud",
+   "resumen": "The tenth edition of the Pascual Marquina music band contest begins in Calatayud. The Alto Jalón Musical Group performs this Saturday, November 7, followed by the Pascual Marquina Musical Group on the 14th."
+  },
+  "inicio": "2026-11-07",
+  "fin": "2026-11-14",
+  "hora": "19:00",
+  "lugar": "San Pedro de los Francos",
+  "municipio": "Calatayud",
+  "provincia": "Zaragoza",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "e7e2b35874": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/06/joan-manuel-serrat-82anos-casa-sombria-vivienda-barrio-sol-entraba-mucha-dificultad-2063175.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-06",
+  "es_plan": false
+ },
+ "6fa802f315": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/06/critica-musical-dulcinea-paloma-basilio-teatro-principal-zaragoza-2066243.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-06",
+  "es_plan": false
+ },
+ "9516de9590": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/06/jose-sacristan-89anos-detestables-actitudes-miserables-santiago-abascal-terrible-accidente-ferroviario-espanoles-votan-2064584.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-06",
+  "es_plan": true,
+  "titulo": "José Sacristán en Zaragoza con 'El hijo de la cómica'",
+  "resumen": "José Sacristán continúa de gira con la obra de teatro 'El hijo de la cómica', basada en las memorias de Fernando Fernán Gómez. Podrá verse en el Teatro Principal de Zaragoza del 16 al 20 de diciembre.",
+  "en": {
+   "titulo": "José Sacristán in Zaragoza with 'El hijo de la cómica'",
+   "resumen": "José Sacristán continues his tour with the play 'El hijo de la cómica', based on the memoirs of Fernando Fernán Gómez. It will be shown at the Teatro Principal in Zaragoza from December 16 to 20."
+  },
+  "inicio": "2026-12-16",
+  "fin": "2026-12-20",
+  "hora": null,
+  "lugar": "Teatro Principal",
+  "municipio": "Zaragoza",
+  "provincia": "Zaragoza",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "3cd7e787a5": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/06/arturo-perez-reverte-75anos-futuro-apagando-luz-veo-jovenes-estafado-2066009.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-06",
+  "es_plan": false
+ },
+ "25d8d70da7": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/06/kaseo-hacer-critica-izquierda-fascista-decir-hoy-2066027.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-06",
+  "es_plan": true,
+  "titulo": "Gira de Kase.O con 'Camisa de fuerza'",
+  "resumen": "Kase.O iniciará en enero una gira de presentación de su nuevo disco 'Camisa de fuerza', con conciertos en España y América. El rapero zaragozano defiende su libertad de pensamiento en sus letras.",
+  "en": {
+   "titulo": "Kase.O's tour with 'Camisa de fuerza'",
+   "resumen": "Kase.O will begin a tour in January to present his new album 'Camisa de fuerza', with concerts in Spain and America. The rapper from Zaragoza defends his freedom of thought in his lyrics."
+  },
+  "inicio": "2027-01-16",
+  "fin": "2027-01-16",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "e82b559f1d": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/06/victor-manuel-79anos-acaba-harto-hoteles-todos-iguales-parecidos-final-gira-2063549.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-06",
+  "es_plan": false
+ },
+ "620841d43f": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/06/aitana-concierto-auditorio-nacional-mexico-cuarto-azul-2066235.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-06",
+  "es_plan": false
+ },
+ "ad881e9d64": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/06/carlos-sobera-zaragoza-primera-ciudad-conoci-10anos-sali-casa-pesado-guitarra-2064418.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-06",
+  "es_plan": false
+ },
+ "8e8be5e094": {
+  "url": "https://www.heraldo.es/ocio-y-cultura/video-entrevista-jose-mota-humorista-director-arriba-tutto-2066222-2.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-06",
+  "es_plan": false
+ },
+ "787b8222f0": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/06/nati-canada-si-dios-me-da-vida-fuerzas-seguire-pintando-2066143.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-06",
+  "es_plan": true,
+  "titulo": "Exposición de Nati Cañada: 800 retratos de mártires en Madrid",
+  "resumen": "La artista Nati Cañada presenta una impactante exposición de 800 retratos de mártires de la Guerra Civil en la Iglesia de las Calatravas de Madrid.",
+  "en": {
+   "titulo": "Nati Cañada Exhibition: 800 portraits of martyrs in Madrid",
+   "resumen": "Artist Nati Cañada presents a striking exhibition of 800 portraits of Civil War martyrs at the Iglesia de las Calatravas in Madrid."
+  },
+  "inicio": "2026-11-06",
+  "fin": "2026-11-06",
+  "hora": "19:00",
+  "lugar": "Iglesia de las Calatravas",
+  "municipio": "Madrid",
+  "provincia": "Madrid",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "5460784fbf": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/06/plan-gratuito-domingo-zaragoza-mercadillo-artesania-food-truck-actividades-infantiles-2066099.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-06",
+  "es_plan": true,
+  "titulo": "Mercadillo gratuito en Zaragoza con artesanía y actividades infantiles",
+  "resumen": "La Plaza de Las Armas de Zaragoza acoge un mercadillo gratuito con más de 20 puestos de artesanía, food truck y actividades para toda la familia.",
+  "en": {
+   "titulo": "Free market in Zaragoza with crafts and children's activities",
+   "resumen": "Plaza de Las Armas in Zaragoza hosts a free market with over 20 craft stalls, a food truck, and activities for the whole family."
+  },
+  "inicio": "2026-11-08",
+  "fin": "2026-11-08",
+  "hora": "10:30",
+  "lugar": "Plaza de Las Armas",
+  "municipio": "Zaragoza",
+  "provincia": "Zaragoza",
+  "ambito": "local",
+  "gratis": true,
+  "precio": null,
+  "temas": [
+   "fiestas",
+   "gastronomia",
+   "ninos"
+  ],
+  "a_cubierto": false,
+  "confianza": 0.85
+ },
+ "4ba0eb050c": {
+  "url": "https://www.elnortedecastilla.es/culturas/teatro/fernando-cayo-estrena-crematorio-retrato-corrupcion-urbanistica-20261106135350-nt.html",
+  "fuente": "El Norte de Castilla (Culturas)",
+  "src": "prensa-nortecastilla-culturas",
+  "publicado": "2026-11-06",
+  "es_plan": false
+ },
+ "adf35f8273": {
+  "url": "https://www.elnortedecastilla.es/culturas/tv/septima-anota-cuota-media-estreno-20261106105125-ntrc.html",
+  "fuente": "El Norte de Castilla (Culturas)",
+  "src": "prensa-nortecastilla-culturas",
+  "publicado": "2026-11-06",
+  "es_plan": false
+ },
+ "f88cb654db": {
+  "url": "https://www.elnortedecastilla.es/culturas/teatro/proyecto-432-recupera-memoria-antifranquista-valladolid-20261106102257-nt.html",
+  "fuente": "El Norte de Castilla (Culturas)",
+  "src": "prensa-nortecastilla-culturas",
+  "publicado": "2026-11-06",
+  "es_plan": false
+ },
+ "d4c42b3711": {
+  "url": "https://www.elnortedecastilla.es/culturas/cine/contemplar-mundo-ojos-piedad-isla-20261106102226-nt.html",
+  "fuente": "El Norte de Castilla (Culturas)",
+  "src": "prensa-nortecastilla-culturas",
+  "publicado": "2026-11-06",
+  "es_plan": true,
+  "titulo": "Estreno documental 'Isla Indómita' en Palencia",
+  "resumen": "Los Manhattan estrenan el documental 'Isla Indómita', centrado en la figura de la fotógrafa palentina Piedad Isla.",
+  "en": {
+   "titulo": "Documentary premiere 'Isla Indómita' in Palencia",
+   "resumen": "Los Manhattan premiere the documentary 'Isla Indómita', focusing on the work of Palencia-based photographer Piedad Isla."
+  },
+  "inicio": "2026-11-06",
+  "fin": "2026-11-06",
+  "hora": null,
+  "lugar": null,
+  "municipio": "Palencia",
+  "provincia": "Palencia",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "8d89cd95cf": {
+  "url": "https://www.diariosur.es/culturas/cac-malaga-salva-ultimo-escollo-remodelacion-20261105054627-nt.html",
+  "fuente": "Diario Sur (Culturas)",
+  "src": "prensa-diariosur-culturas",
+  "publicado": "2026-11-06",
+  "es_plan": false
+ },
+ "ae93c47d68": {
+  "url": "https://www.diariosur.es/culturas/hijos-ruina-voz-generacion-rap-musica-20261104054544-nt.html",
+  "fuente": "Diario Sur (Culturas)",
+  "src": "prensa-diariosur-culturas",
+  "publicado": "2026-11-06",
+  "es_plan": true,
+  "titulo": "Concierto de Hijos de la Ruina en Málaga",
+  "resumen": "El grupo Hijos de la Ruina ofrecerá un concierto este sábado en el Palacio de Deportes de Málaga, destacando la importancia del rap para visibilizar aspectos de la vida.",
+  "en": {
+   "titulo": "Hijos de la Ruina concert in Málaga",
+   "resumen": "The group Hijos de la Ruina will perform a concert this Saturday at the Palacio de Deportes in Málaga, emphasizing rap's role in highlighting life's aspects."
+  },
+  "inicio": "2026-11-07",
+  "fin": "2026-11-07",
+  "hora": null,
+  "lugar": "Palacio de Deportes",
+  "municipio": "Málaga",
+  "provincia": "Málaga",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "0aa6dbd969": {
+  "url": "https://www.ideal.es/culturas/andalucia-reconoce-tejido-creativo-segunda-edicion-premios-20261105213853-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-11-06",
+  "es_plan": false
+ },
+ "048feed847": {
+  "url": "https://www.ideal.es/culturas/muneca-triste-20261105000206-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-11-06",
+  "es_plan": false
+ },
+ "49572fafa8": {
+  "url": "https://www.diariovasco.com/culturas/cine/ghost-the-cell-semana-cine-terror-20261106121523-nt.html",
+  "fuente": "El Diario Vasco (Culturas)",
+  "src": "prensa-diariovasco-culturas",
+  "publicado": "2026-11-06",
+  "es_plan": false
+ },
+ "1d894e525a": {
+  "url": "https://www.diariovasco.com/culturas/enganados-fotografia-realidad-mirada-alejandro-cartagena-exposicion-tabakalera-20261105174237-nt.html",
+  "fuente": "El Diario Vasco (Culturas)",
+  "src": "prensa-diariovasco-culturas",
+  "publicado": "2026-11-06",
+  "es_plan": false
+ },
+ "dd041ff00c": {
+  "url": "https://www.diariovasco.com/alto-deba/bergara/txuma-murugarren-presenta-concierto-disco-hemen-behar-20261105150056-nt.html",
+  "fuente": "El Diario Vasco (Culturas)",
+  "src": "prensa-diariovasco-culturas",
+  "publicado": "2026-11-06",
+  "es_plan": true,
+  "titulo": "Concierto de Txuma Murugarren en Gipuzkoa",
+  "resumen": "Txuma Murugarren presenta su disco 'Hemen behar luke' en un concierto en Seminarixoa, con entrada de 8 euros.",
+  "en": {
+   "titulo": "Txuma Murugarren concert in Gipuzkoa",
+   "resumen": "Txuma Murugarren presents his album 'Hemen behar luke' in a concert at Seminarixoa, with an 8 euro entrance fee."
+  },
+  "inicio": "2026-11-06",
+  "fin": "2026-11-06",
+  "hora": "20:00",
+  "lugar": "Seminarixoa",
+  "municipio": "Azkoitia",
+  "provincia": "Gipuzkoa",
+  "ambito": "local",
+  "gratis": false,
+  "precio": "8 euros",
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
  }
 }

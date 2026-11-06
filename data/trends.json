@@ -131,6 +131,16 @@
    ]
   },
   {
+   "term": "lzb",
+   "traffic": 10000,
+   "lastSeen": "2026-11-06",
+   "news": [
+    "La sincera reacción de Militao a la foto de Bellingham que revoluciona las redes: “Está loco, no puede subir e",
+    "Y ahora sonsoles - Hablamos con una víctima del tren de Urda",
+    "Accidente de trenes en Toledo, en directo | Investigación de la Fiscalía Europa por fraude, ayudas a los familiares de las víctimas y última hora"
+   ]
+  },
+  {
    "term": "ibex 35",
    "traffic": 5000,
    "lastSeen": "2026-10-26",
@@ -256,18 +266,8 @@
    "lastSeen": "2026-11-06",
    "news": [
     "Luis de la Fuente dará la lista para enfrentarse a Chequia e Inglaterra este viernes en el Metropolitano",
-    "Mucho Betis y Jacobo ‘Ramos’",
-    "La lista de De la Fuente: los éxitos del Como de Cesc irrumpen en la selección española"
-   ]
-  },
-  {
-   "term": "lzb",
-   "traffic": 5000,
-   "lastSeen": "2026-11-06",
-   "news": [
-    "La sincera reacción de Militao a la foto de Bellingham que revoluciona las redes: “Está loco, no puede subir e",
-    "Una mujer rescata a una cría de koala que estaba siendo estrangulada por una pitón en Australia",
-    "Y ahora sonsoles - Hablamos con una víctima del tren de Urda"
+    "Marc Roca, tras su primera llamada con la selección: \"Ojalá sea la primera de muchas\"",
+    "Luis de la Fuente, sobre no parar la jornada de liga por la muerte de Jesús de Miguel: \"El homenaje y los recuerdos, en un campo de fútbol\""
    ]
   },
   {
@@ -575,8 +575,8 @@
    "lastSeen": "2026-11-06",
    "news": [
     "La Fiscalía Europea investiga un presunto fraude en las obras de la alta velocidad tras el accidente de Urda",
-    "La Fiscalía Europea pone en marcha una operación con la UCO por la tragedia de Urda",
-    "La Fiscalía Europea investiga un presunto fraude en los fondos para la renovación de los sistemas de seguridad de la línea Madrid-Sevilla"
+    "La Fiscalía Europea pone en marcha una operación con la UCO por la tragedia de Urda y reclama documentación a Adif",
+    "La Fiscalía Europea lanza una operación contra ADIF por fraude en contratos del sistema ERTMS tras la tragedia de Urda"
    ]
   },
   {
@@ -883,8 +883,8 @@
    "lastSeen": "2026-11-06",
    "news": [
     "Varios detenidos en una operación contra el grupo ultraderechista Núcleo Nacional",
-    "La Policia registra la sede de Núcleo Nacional y practica varias detenciones",
-    "La Policía lanza una operación contra el grupo neonazi Núcleo Nacional con una docena de detenidos y registros en varias provincias"
+    "La Policía detiene a 12 miembros de Núcleo Nacional por asociación ilícita, tenencia de armas y delito de odio",
+    "La Policia registra la sede de Núcleo Nacional y practica 12 detenciones"
    ]
   },
   {
@@ -895,6 +895,16 @@
     "Buenas noticias para Marc Casadó",
     "Hidalgo: “Casadó puede venir convocado; está con ganas y la cabeza empuja”",
     "Marc Casadó acelera su recuperación con el Deportivo: Cada vez más cerca de reaparecer"
+   ]
+  },
+  {
+   "term": "amenaza de bomba",
+   "traffic": 1000,
+   "lastSeen": "2026-11-06",
+   "news": [
+    "Cómo una oleada de falsas amenazas altera el transporte aéreo en Europa",
+    "Nueva oleada de amenazas de bomba en Europa con al menos 15 vuelos afectados",
+    "Albares, sobre las amenazas falsas a aviones europeos: \"Estamos ante un intento de agresión híbrida y guerra psicológica\""
    ]
   },
   {
@@ -1385,7 +1395,7 @@
    "lastSeen": "2026-11-06",
    "news": [
     "Topuria: “La derrota con Gaethje lo ha cambiado todo”",
-    "Primera entrevista de Ilia Topuria tras su derrota en la Casa Blanca, este viernes en ABC: «Jamás me voy a rendir»",
+    "Primera entrevista de Ilia Topuria tras su derrota en la Casa Blanca hoy a las 19.00 horas en ABC: «Jamás me voy a rendir»",
     "Dana White: \"Ilia Topuria volverá a principios de 2027\""
    ]
   },
@@ -1395,8 +1405,18 @@
    "lastSeen": "2026-11-06",
    "news": [
     "La última sentencia del Prestige blinda a la industria frente a acciones judiciales por futuras mareas negras",
-    "Reconocen el derecho a la aseguradora del Prestige a ser indemnizada",
-    "El Supremo británico da la puntilla a España con el Prestige: reconoce el derecho de la aseguradora a indemnización"
+    "Comienza la batalla por el Supremo de EE.UU.",
+    "La ola demócrata desata inquietud entre los republicanos por Samuel Alito y el futuro de la Corte Suprema"
+   ]
+  },
+  {
+   "term": "zapatero",
+   "traffic": 500,
+   "lastSeen": "2026-11-06",
+   "news": [
+    "El juez rechaza investigar a José Luis Rodríguez Zapatero por malversación por las joyas que le regaló el rey saudí",
+    "Calama rechaza imputar a Zapatero un delito de malversación por las joyas halladas en su despacho",
+    "El juez rechaza la tesis de la Fiscalía de que las joyas de Zapatero fueran un regalo malversado"
    ]
   },
   {
@@ -2187,13 +2207,13 @@
    ]
   },
   {
-   "term": "zapatero",
+   "term": "semáforo",
    "traffic": 200,
    "lastSeen": "2026-11-06",
    "news": [
-    "Elecciones 2026 y actualidad política, en directo hoy | Vídeo",
-    "El juez del caso Plus Ultra rechaza investigar a Zapatero por malversación, como solicitó Anticorrupción, por quedarse con las joyas",
-    "El juez Calama rechaza imputar a Zapatero malversación en el caso de las joyas como pretendía Anticorrupción"
+    "Las cámaras que multan por saltarse el semáforo en rojo cazan en Málaga a 22.000 conductores en un año",
+    "Semáforo",
+    "Autobuses, festivos comerciales y semáforos,en el Teléfono del Lector de hoy"
    ]
   },
   {
