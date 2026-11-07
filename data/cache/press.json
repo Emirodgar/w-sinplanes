@@ -35,13 +35,6 @@
   "a_cubierto": null,
   "confianza": 0.85
  },
- "4195247063": {
-  "url": "https://www.lavanguardia.com/cultura/20261023/11666424/gaitas-aplausos-leonor-asi-sido-manana-reconquista.html",
-  "fuente": "La Vanguardia (Cultura)",
-  "src": "prensa-lavanguardia-cultura",
-  "publicado": "2026-10-23",
-  "es_plan": false
- },
  "4436135be2": {
   "url": "https://www.20minutos.es/cultura/controvertido-ricky-gervais-actuara-27-febrero-badalona-unica-fecha-espana-con-su-nuevo-espectaculo-legend_7050581_0.html",
   "fuente": "20minutos (Cultura)",
@@ -2769,20 +2762,6 @@
   "a_cubierto": null,
   "confianza": 0.9
  },
- "14869f4970": {
-  "url": "https://elpais.com/cultura/cine/2026-10-23/dos-decadas-en-las-que-el-cine-vio-como-cambiaba-todo-salvo-la-ley.html",
-  "fuente": "El País (Cultura)",
-  "src": "prensa-elpais-cultura",
-  "publicado": "2026-10-23",
-  "es_plan": false
- },
- "daf132f5ef": {
-  "url": "https://elpais.com/cultura/2026-10-23/cultura-se-lanza-a-impugnar-el-cambio-en-las-ayudas-al-cine-de-castilla-y-leon-para-no-apoyar-obras-que-impliquen-adoctrinamiento-ideologico.html",
-  "fuente": "El País (Cultura)",
-  "src": "prensa-elpais-cultura",
-  "publicado": "2026-10-23",
-  "es_plan": false
- },
  "c80d70743a": {
   "url": "https://elpais.com/cultura/2026-10-23/premios-princesa-de-asturias-2026-galardonados-muy-queridos-y-nuevos-retos-para-la-princesa-leonor.html",
   "fuente": "El País (Cultura)",
@@ -2868,13 +2847,6 @@
   ],
   "a_cubierto": null,
   "confianza": 0.9
- },
- "381db74aac": {
-  "url": "https://elpais.com/us/entretenimiento/2026-10-23/una-visita-a-laika-el-estudio-de-animacion-donde-cada-detalle-se-hace-a-mano-pajaros-de-3000-plumas-y-mas-de-100-escenarios.html",
-  "fuente": "El País (Cultura)",
-  "src": "prensa-elpais-cultura",
-  "publicado": "2026-10-23",
-  "es_plan": false
  },
  "a56db415c0": {
   "url": "https://elpais.com/cultura/cine/2026-10-23/un-amor-posible-el-discreto-encanto-de-la-clase-trabajadora-segun-lee-chang-dong.html",
@@ -3018,20 +2990,6 @@
   "a_cubierto": null,
   "confianza": 0.85
  },
- "4d4ec506ec": {
-  "url": "https://elpais.com/cultura/2026-10-23/javier-moreno-premiado-imitador-del-canto-de-los-pajaros-me-costara-superar-el-jilguero.html",
-  "fuente": "El País (Cultura)",
-  "src": "prensa-elpais-cultura",
-  "publicado": "2026-10-23",
-  "es_plan": false
- },
- "4047da07d9": {
-  "url": "https://www.lavanguardia.com/cultura/20261023/11666273/muere-transgresor-escritor-japones-ryu-murakami.html",
-  "fuente": "La Vanguardia (Cultura)",
-  "src": "prensa-lavanguardia-cultura",
-  "publicado": "2026-10-23",
-  "es_plan": false
- },
  "8d9b66ffbc": {
   "url": "https://www.lavanguardia.com/cultura/20261023/11665850/modernisme-alemania-barcelona-gaudi-picasso-exposicion-primera-vez-catalan-arte.html",
   "fuente": "La Vanguardia (Cultura)",
@@ -3088,13 +3046,6 @@
   ],
   "a_cubierto": true,
   "confianza": 0.5
- },
- "edad38b3ea": {
-  "url": "https://www.lavanguardia.com/cultura/20261023/11665816/nathan-ambrosioni-todos-derecho-desaparecer-que-ocurre-quienes-quedan.html",
-  "fuente": "La Vanguardia (Cultura)",
-  "src": "prensa-lavanguardia-cultura",
-  "publicado": "2026-10-23",
-  "es_plan": false
  },
  "7544690791": {
   "url": "https://www.lavanguardia.com/qf/20261023/11665682/dani-martin-natural-palau-sant-jordi.html",
@@ -3353,20 +3304,6 @@
   "a_cubierto": true,
   "confianza": 0.9
  },
- "d5dc0193e6": {
-  "url": "https://llegim.ara.cat/critiques-literaries/barcelona-mare-avia-maria-canelles-si-fos-una-sibila_1_5881146.html",
-  "fuente": "Ara (Cultura)",
-  "src": "prensa-ara-cultura",
-  "publicado": "2026-10-23",
-  "es_plan": false
- },
- "4ef19fd994": {
-  "url": "https://www.ara.cat/cultura/cinema/wildwood-millor-animacio-stop-motion-historia_1_5887179.html",
-  "fuente": "Ara (Cultura)",
-  "src": "prensa-ara-cultura",
-  "publicado": "2026-10-23",
-  "es_plan": false
- },
  "e0e186f989": {
   "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/23/camilo-anuncia-regreso-espana-nueva-gira-fechas-entradas-ciudades-2027-2062107.html",
   "fuente": "Heraldo de Aragón (Ocio y cultura)",
@@ -3585,13 +3522,6 @@
   "a_cubierto": true,
   "confianza": 0.85
  },
- "db4dbbbefe": {
-  "url": "https://www.elcorreo.com/culturas/musica/ura-bere-bidean-agita-cancionero-vasco-primera-20261022215631-nt.html",
-  "fuente": "El Correo (Culturas)",
-  "src": "prensa-elcorreo-culturas",
-  "publicado": "2026-10-23",
-  "es_plan": false
- },
  "16b969fea8": {
   "url": "https://www.elcorreo.com/culturas/musica/macanita-morente-decia-nina-anos-vas-cantar-20261022002735-nt.html",
   "fuente": "El Correo (Culturas)",
@@ -3620,13 +3550,6 @@
   "a_cubierto": true,
   "confianza": 0.9
  },
- "ab23b3fd2d": {
-  "url": "https://www.diariovasco.com/culturas/san-telmo-exposicion-mauricio-anton-prehistoria-20261023120521-nt.html",
-  "fuente": "El Diario Vasco (Culturas)",
-  "src": "prensa-diariovasco-culturas",
-  "publicado": "2026-10-23",
-  "es_plan": false
- },
  "9805b85f2b": {
   "url": "https://www.diariovasco.com/bidasoa/irun/habitacion-roja-paloma-pondran-bailar-sabado-sala-20261022202158-nt.html",
   "fuente": "El Diario Vasco (Culturas)",
@@ -3654,13 +3577,6 @@
   ],
   "a_cubierto": true,
   "confianza": 0.9
- },
- "42550b5a67": {
-  "url": "https://www.diariovasco.com/culturas/viaje-arte-resistencia-xabier-morras-nueva-exposicion-20261022182247-nt.html",
-  "fuente": "El Diario Vasco (Culturas)",
-  "src": "prensa-diariovasco-culturas",
-  "publicado": "2026-10-23",
-  "es_plan": false
  },
  "e94e1441bf": {
   "url": "https://www.diariovasco.com/culturas/musica/exkixu-vuelve-alex-sardui-concierto-20261022125445-nt.html",
@@ -3718,20 +3634,6 @@
   "a_cubierto": true,
   "confianza": 0.9
  },
- "7d1d19adea": {
-  "url": "https://www.lasprovincias.es/culturas/musica/javier-botella-convierte-ateneo-refugio-amor-20261023104040-nt.html",
-  "fuente": "Las Provincias (Culturas)",
-  "src": "prensa-lasprovincias-culturas",
-  "publicado": "2026-10-23",
-  "es_plan": false
- },
- "59b3b06b67": {
-  "url": "https://www.lasprovincias.es/culturas/chema-cardena-vetos-cultura-ejercicio-descarado-abyecto-20261022005311-nt.html",
-  "fuente": "Las Provincias (Culturas)",
-  "src": "prensa-lasprovincias-culturas",
-  "publicado": "2026-10-23",
-  "es_plan": false
- },
  "09714f7f6b": {
   "url": "https://www.lasprovincias.es/culturas/tv/cadena-tdt-bemad-emite-abierto-viernes-pulp-20261022005630-nt.html",
   "fuente": "Las Provincias (Culturas)",
@@ -3759,20 +3661,6 @@
   ],
   "a_cubierto": null,
   "confianza": 0.9
- },
- "adc5daacf6": {
-  "url": "https://www.lasprovincias.es/culturas/origenes-paco-roca-viajan-marruecos-20261022163532-nt.html",
-  "fuente": "Las Provincias (Culturas)",
-  "src": "prensa-lasprovincias-culturas",
-  "publicado": "2026-10-23",
-  "es_plan": false
- },
- "a37f26cdaa": {
-  "url": "https://www.lasprovincias.es/culturas/tv/tulsa-king-temporada-sylvester-stallone-vuelve-skyshowtime-20261020171243-nt.html",
-  "fuente": "Las Provincias (Culturas)",
-  "src": "prensa-lasprovincias-culturas",
-  "publicado": "2026-10-23",
-  "es_plan": false
  },
  "64673bea8a": {
   "url": "https://www.laverdad.es/culturas/musica/poster-boy-intentamos-poner-palabras-sencillas-posibles-20261022000215-nt.html",
@@ -3859,27 +3747,6 @@
   "a_cubierto": null,
   "confianza": 0.9
  },
- "8b74b84088": {
-  "url": "https://www.eldiariomontanes.es/culturas/sotileza/musica-intima-20261023073219-nt.html",
-  "fuente": "El Diario Montañés (Culturas)",
-  "src": "prensa-diariomontanes-culturas",
-  "publicado": "2026-10-23",
-  "es_plan": false
- },
- "3121b62015": {
-  "url": "https://www.eldiariomontanes.es/culturas/sotileza/maton-caballero-20261023073210-nt.html",
-  "fuente": "El Diario Montañés (Culturas)",
-  "src": "prensa-diariomontanes-culturas",
-  "publicado": "2026-10-23",
-  "es_plan": false
- },
- "2682f7731d": {
-  "url": "https://www.eldiariomontanes.es/culturas/museo-altamira-refleja-arquitectura-cierre-aniversario-20261023072756-nt.html",
-  "fuente": "El Diario Montañés (Culturas)",
-  "src": "prensa-diariomontanes-culturas",
-  "publicado": "2026-10-23",
-  "es_plan": false
- },
  "747f3c2527": {
   "url": "https://www.eldiariomontanes.es/culturas/pablo-alana-frontera-verdad-justicia-linea-fina-20261023072622-nt.html",
   "fuente": "El Diario Montañés (Culturas)",
@@ -3908,27 +3775,6 @@
   ],
   "a_cubierto": null,
   "confianza": 0.9
- },
- "8d84f2c864": {
-  "url": "https://www.larioja.com/culturas/disenos-cine-pablo-buratti-anticipan-cuentalo-ayuntamiento-20261023093551-nt.html",
-  "fuente": "La Rioja (Culturas)",
-  "src": "prensa-larioja-culturas",
-  "publicado": "2026-10-23",
-  "es_plan": false
- },
- "72f02e25b2": {
-  "url": "https://www.larioja.com/culturas/grupo-enigma-rioja-filarmonia-abren-festival-xii-20261023093539-nt.html",
-  "fuente": "La Rioja (Culturas)",
-  "src": "prensa-larioja-culturas",
-  "publicado": "2026-10-23",
-  "es_plan": false
- },
- "bfc5e16c89": {
-  "url": "https://www.larioja.com/culturas/muestra-aficionados-completa-tres-ultimas-funciones-auditorio-20261023093524-nt.html",
-  "fuente": "La Rioja (Culturas)",
-  "src": "prensa-larioja-culturas",
-  "publicado": "2026-10-23",
-  "es_plan": false
  },
  "3d403669ba": {
   "url": "https://www.larioja.com/culturas/musica/abonos-ciegos-festival-moradillos-prejano-20261022160052-nt.html",
@@ -4511,20 +4357,6 @@
   "a_cubierto": null,
   "confianza": 0.85
  },
- "dcb2d8be89": {
-  "url": "https://www.20minutos.es/cultura/christina-koch-princesa-asturias-concordia-no-esperen-proxima-mision-luna-para-saber-que-sus-semejantes-son-su-tripulacion_7052794_0.html",
-  "fuente": "20minutos (Cultura)",
-  "src": "prensa-20minutos-cultura",
-  "publicado": "2026-10-23",
-  "es_plan": false
- },
- "dca291a9a5": {
-  "url": "https://www.20minutos.es/musica/ana-mena-realza-su-posicion-como-una-las-artistas-espanolas-con-mayor-proyeccion-internacional_7052694_0.html",
-  "fuente": "20minutos (Cultura)",
-  "src": "prensa-20minutos-cultura",
-  "publicado": "2026-10-23",
-  "es_plan": false
- },
  "fecf583400": {
   "url": "https://elpais.com/cultura/cine/2026-10-23/la-seminci-se-defiende-en-su-gala-inaugural-como-espacio-de-libertad-creativa-ante-los-ataques-de-vox.html",
   "fuente": "El País (Cultura)",
@@ -4552,34 +4384,6 @@
   ],
   "a_cubierto": true,
   "confianza": 0.85
- },
- "26b06caaf6": {
-  "url": "https://elpais.com/cultura/2026-10-23/unos-premios-princesa-de-asturias-por-la-union-de-la-humanidad-la-democracia-y-el-tiquitaca-europeo.html",
-  "fuente": "El País (Cultura)",
-  "src": "prensa-elpais-cultura",
-  "publicado": "2026-10-23",
-  "es_plan": false
- },
- "5e7dcf1a27": {
-  "url": "https://elpais.com/cultura/2026-10-23/una-herramienta-de-deteccion-atribuye-a-la-ia-el-99-de-la-novela-premiada-donde-el-agua-trabaja-de-david-silva-rojas.html",
-  "fuente": "El País (Cultura)",
-  "src": "prensa-elpais-cultura",
-  "publicado": "2026-10-23",
-  "es_plan": false
- },
- "6c69615fee": {
-  "url": "https://elpais.com/cultura/2026-10-23/dona-leonor-preside-por-primera-vez-en-solitario-la-audiencia-con-los-ganadores-de-los-princesa-de-asturias.html",
-  "fuente": "El País (Cultura)",
-  "src": "prensa-elpais-cultura",
-  "publicado": "2026-10-23",
-  "es_plan": false
- },
- "49be14a7ea": {
-  "url": "https://elpais.com/cultura/2026-10-23/muere-a-los-74-anos-el-escritor-ryu-murakami-autor-de-azul-casi-transparente-y-sopa-de-miso.html",
-  "fuente": "El País (Cultura)",
-  "src": "prensa-elpais-cultura",
-  "publicado": "2026-10-23",
-  "es_plan": false
  },
  "20bb26c376": {
   "url": "https://elpais.com/suscripciones/elpaismas/2026-10-23/asiste-a-la-tercera-edicion-del-world-in-progress-barcelona.html",
@@ -4637,13 +4441,6 @@
   "a_cubierto": true,
   "confianza": 0.9
  },
- "931fe90829": {
-  "url": "https://www.lavanguardia.com/cultura/20261023/11666793/premios-princesa-asturias-2026-julio-barnes-cervantes-flaubert.html",
-  "fuente": "La Vanguardia (Cultura)",
-  "src": "prensa-lavanguardia-cultura",
-  "publicado": "2026-10-23",
-  "es_plan": false
- },
  "eb4f6b47d4": {
   "url": "https://www.lavanguardia.com/cultura/20261023/11666746/6-o-festival-42-insiste-ia-mecanismos-miedo-nuestra-sociedad.html",
   "fuente": "La Vanguardia (Cultura)",
@@ -4700,20 +4497,6 @@
   "a_cubierto": true,
   "confianza": 0.9
  },
- "fd2349c2c8": {
-  "url": "https://www.lavanguardia.com/cultura/20261023/11666741/rey-advierte-elecciones-29-n-democracia-agota-urnas.html",
-  "fuente": "La Vanguardia (Cultura)",
-  "src": "prensa-lavanguardia-cultura",
-  "publicado": "2026-10-23",
-  "es_plan": false
- },
- "d081966571": {
-  "url": "https://www.lavanguardia.com/cultura/20261023/11666704/dani-martin-aplaza-conciertos-barcelona-situacion-familiar-extrema-gravedad.html",
-  "fuente": "La Vanguardia (Cultura)",
-  "src": "prensa-lavanguardia-cultura",
-  "publicado": "2026-10-23",
-  "es_plan": false
- },
  "22030cf1e2": {
   "url": "https://www.lavanguardia.com/cultura/20261023/11666653/esparbe-teatre-macmillan-sixto-paz-borras.html",
   "fuente": "La Vanguardia (Cultura)",
@@ -4740,13 +4523,6 @@
   ],
   "a_cubierto": true,
   "confianza": 0.85
- },
- "6a050b6bb2": {
-  "url": "https://www.lavanguardia.com/cultura/20261023/11666595/arte-significado-inauguracion-ciclo-ibercamera.html",
-  "fuente": "La Vanguardia (Cultura)",
-  "src": "prensa-lavanguardia-cultura",
-  "publicado": "2026-10-23",
-  "es_plan": false
  },
  "abe350c0db": {
   "url": "https://www.lavanguardia.com/cultura/20261023/11666558/teatro-documental-politico-cultura-i-conflicte-regresa-madrid-mires.html",
@@ -4886,27 +4662,6 @@
   "a_cubierto": null,
   "confianza": 0.85
  },
- "0137ed9089": {
-  "url": "https://www.heraldo.es/ocio-y-cultura/fotos-entrega-los-premios-princesa-asturias-2026-teatro-campoamor-oviedo-2062333-1.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-10-23",
-  "es_plan": false
- },
- "ce59cf592c": {
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/23/dani-martin-aplaza-sus-conciertos-por-una-situacion-familiar-extrema-gravedad-2062323.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-10-23",
-  "es_plan": false
- },
- "112d411265": {
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/23/critica-musica-ferocidad-los-crocodiles-2062316.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-10-23",
-  "es_plan": false
- },
  "03afea2c2f": {
   "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/23/fuegos-artificiales-zaragoza-horario-donde-ferias-valdespartera-2062154.html",
   "fuente": "Heraldo de Aragón (Ocio y cultura)",
@@ -4934,13 +4689,6 @@
   ],
   "a_cubierto": null,
   "confianza": 0.85
- },
- "a4c2c69aa1": {
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/23/saludo-leo-messi-leonor-entrega-insignias-premios-princesa-asturias-2026-2062260.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-10-23",
-  "es_plan": false
  },
  "c8db34d754": {
   "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/25/laura-contreras-actriz-infancia-mis-padres-me-ensenaron-creer-mi-2062511.html",
@@ -5672,13 +5420,6 @@
   "fuente": "La Rioja (Culturas)",
   "src": "prensa-larioja-culturas",
   "publicado": "2026-10-24",
-  "es_plan": false
- },
- "4a16865ba4": {
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/23/anticorrupcion-apunta-presunta-malversacion-zapatero-por-no-entregar-las-joyas-su-despacho-patrimonio-2062258.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-10-23",
   "es_plan": false
  },
  "c6c31dcf0f": {
