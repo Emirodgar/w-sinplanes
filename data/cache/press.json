@@ -16236,5 +16236,905 @@
   ],
   "a_cubierto": null,
   "confianza": 0.85
+ },
+ "c1203546c2": {
+  "url": "https://www.europapress.es/madrid/noticia-nave-73-estrena-perra-roja-obra-soledad-heridas-guerra-europa-entreguerras-20261107093151.html",
+  "fuente": "Europa Press (Cultura)",
+  "src": "prensa-europapress-cultura",
+  "publicado": "2026-11-07",
+  "es_plan": false
+ },
+ "463c99c9a7": {
+  "url": "https://www.20minutos.es/cultura/blogs/motel-margot/extranos-misterios-luna-los-falsarios-adolfo-garcia-ortega_7033396_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-11-07",
+  "es_plan": false
+ },
+ "7d290d663f": {
+  "url": "https://www.lavanguardia.com/cultura/20261107/11678386/mira-festival-claroscuro.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-07",
+  "es_plan": false
+ },
+ "a5d4312e99": {
+  "url": "https://www.lavanguardia.com/cultura/20261107/11678343/deja-fuera-cine-espanol.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-07",
+  "es_plan": false
+ },
+ "bc03b3f6cf": {
+  "url": "https://www.lavanguardia.com/cultura/20261107/11678206/dificil-paisano-revuelta-abascal.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-07",
+  "es_plan": false
+ },
+ "2782325d78": {
+  "url": "https://www.lavanguardia.com/cultura/20261107/11678189/noche-barcelonesa-esta-viva.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-07",
+  "es_plan": false
+ },
+ "c5220ba421": {
+  "url": "https://www.lavanguardia.com/cultura/20261107/11678173/jorge-volpi-algoritmos-brindan-paz-apariencia.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-07",
+  "es_plan": false
+ },
+ "20077baf3d": {
+  "url": "https://www.lavanguardia.com/cultura/culturas/20261107/11674178/bulliciosa-alejandria-mentira.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-07",
+  "es_plan": false
+ },
+ "d7144ad661": {
+  "url": "https://www.lavanguardia.com/cultura/culturas/20261107/11674177/literatura-traspasa-muro.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-07",
+  "es_plan": false
+ },
+ "8327948916": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/07/critica-pelicula-ruega-nosotras-cine-chicas-descarriadas-2066577.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-07",
+  "es_plan": false
+ },
+ "b5560d19db": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/07/victor-manuel-79anos-hecho-santiago-abascal-accidente-ferroviario-urda-gente-mala-toxica-2066567.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-07",
+  "es_plan": true,
+  "titulo": "Concierto de Víctor Manuel en Madrid",
+  "resumen": "Víctor Manuel continúa su gira 'Solo a solas conmigo' y ofrecerá un concierto en el Movistar Arena de Madrid el próximo 29 de noviembre. El cantautor presenta su último disco.",
+  "en": {
+   "titulo": "Víctor Manuel Concert in Madrid",
+   "resumen": "Víctor Manuel continues his 'Solo a solas conmigo' tour and will perform a concert at the Movistar Arena in Madrid on November 29th. The singer-songwriter is presenting his latest album."
+  },
+  "inicio": "2026-11-29",
+  "fin": "2026-11-29",
+  "hora": null,
+  "lugar": "Movistar Arena",
+  "municipio": "Madrid",
+  "provincia": "Madrid",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "c72ae5b30f": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/07/lola-herrera-91anos-admirado-alma-felipe-gonzalez-entiendo-2066570.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-07",
+  "es_plan": false
+ },
+ "210599c3a7": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/07/bryan-adams-trae-zaragoza-su-aura-estrella-una-coleccion-grandes-exitos-2066382.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-07",
+  "es_plan": true,
+  "titulo": "Bryan Adams en concierto en Zaragoza",
+  "resumen": "Bryan Adams actúa este sábado 7 de noviembre en el Pabellón Príncipe Felipe de Zaragoza como parte de su gira 'Roll with the punches'. El cantante presentará su nuevo disco.",
+  "en": {
+   "titulo": "Bryan Adams in Concert in Zaragoza",
+   "resumen": "Bryan Adams performs this Saturday, November 7th, at the Pabellón Príncipe Felipe in Zaragoza as part of his 'Roll with the punches' tour. The singer will present his new album."
+  },
+  "inicio": "2026-11-07",
+  "fin": "2026-11-07",
+  "hora": "21:00",
+  "lugar": "Pabellón Príncipe Felipe",
+  "municipio": "Zaragoza",
+  "provincia": "Zaragoza",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "a6e26502fa": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/07/amaia-montero-reaparece-oreja-gogh-concierto-regresan-humillantes-criticas-ridiculo-vestuario-risa-2066563.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-07",
+  "es_plan": true,
+  "titulo": "La Oreja de Van Gogh en concierto en Barcelona",
+  "resumen": "La Oreja de Van Gogh ofrece uno de sus cuatro conciertos programados en noviembre en el Palau Sant Jordi de Barcelona. La banda donostiarra celebra su reunión con un espectáculo que mezcla nostalgia y alegría.",
+  "en": {
+   "titulo": "La Oreja de Van Gogh in Concert in Barcelona",
+   "resumen": "La Oreja de Van Gogh performs one of its four scheduled concerts in November at the Palau Sant Jordi in Barcelona. The band celebrates their reunion with a show mixing nostalgia and joy."
+  },
+  "inicio": "2026-11-06",
+  "fin": "2026-11-06",
+  "hora": null,
+  "lugar": "Palau Sant Jordi",
+  "municipio": "Barcelona",
+  "provincia": "Barcelona",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "5ba6840eb4": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/07/gran-wyoming-propietario-19-viviendas-suban-impuestos-patrimonio-perjudica-acuerdo-2065127.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-07",
+  "es_plan": false
+ },
+ "d7f67082f7": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/07/alba-carrillo-confirma-llegado-demanda-feliciano-lopez-tranquilo-afortunados-2066065.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-07",
+  "es_plan": false
+ },
+ "f823d51f38": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/07/arturo-perez-reverte-tengo74anos-cuanto-queda-vida-asistir-final-occidente-espectaculo-interesantisimo-2043306.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-07",
+  "es_plan": false
+ },
+ "a9c53abb17": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/07/dia-joaquin-sabina-escucho-primera-vez-heroes-silencio-dios-entienda-2063962.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-07",
+  "es_plan": false
+ },
+ "86f0c4d18f": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/07/ramon-garcia-jubila-gran-wyoming-anos-cumplo-mes-estoy-edad-quitarme-2066282.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-07",
+  "es_plan": false
+ },
+ "91a8cfc7bc": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/07/julio-jose-iglesias-encanta-gente-diga-quiera-primero-vengan-show-opine-2066110.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-07",
+  "es_plan": false
+ },
+ "be6a3e1a98": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/07/the-sky-is-landfill-casi-nadie-por-aqui-pudo-ver-actuar-jeff-buckley-su-dia-2066557.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-07",
+  "es_plan": true,
+  "titulo": "The Sky is a Landfill rinde tributo a Jeff Buckley en Zaragoza",
+  "resumen": "La banda zaragozana The Sky is a Landfill actúa este sábado 7 de noviembre en La Rotonda Delicias para rendir tributo al trabajo de Jeff Buckley. El concierto comienza a las 19:00 y la entrada cuesta 10 euros.",
+  "en": {
+   "titulo": "The Sky is a Landfill pays tribute to Jeff Buckley in Zaragoza",
+   "resumen": "The Zaragoza-based band The Sky is a Landfill performs this Saturday, November 7th, at La Rotonda Delicias to pay tribute to Jeff Buckley's work. The concert starts at 7:00 PM and tickets cost 10 euros."
+  },
+  "inicio": "2026-11-07",
+  "fin": "2026-11-07",
+  "hora": "19:00",
+  "lugar": "La Rotonda Delicias",
+  "municipio": "Zaragoza",
+  "provincia": "Zaragoza",
+  "ambito": "local",
+  "gratis": false,
+  "precio": "10 euros",
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "7ecd946597": {
+  "url": "https://www.elnortedecastilla.es/salamanca/dura-multa-subirse-marquesina-autobus-salamanca-romperla-20261107123033-nt.html",
+  "fuente": "El Norte de Castilla (Salamanca)",
+  "src": "prensa-nortecastilla-salamanca",
+  "publicado": "2026-11-07",
+  "es_plan": false
+ },
+ "2cb4be1d25": {
+  "url": "https://www.elnortedecastilla.es/salamanca/buscan-dos-menores-edad-desaparecidas-salamanca-20261106223709-nt.html",
+  "fuente": "El Norte de Castilla (Salamanca)",
+  "src": "prensa-nortecastilla-salamanca",
+  "publicado": "2026-11-07",
+  "es_plan": false
+ },
+ "bc16248765": {
+  "url": "https://www.ideal.es/culturas/almeria/leoleo-convierten-teatro-apolo-espacio-complicidad-emocion-20261107120634-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-11-07",
+  "es_plan": false
+ },
+ "4b9975c88e": {
+  "url": "https://www.ideal.es/culturas/garcia-paredes-arquitecto-cambio-granada-exposicion-unica-20261106000559-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-11-07",
+  "es_plan": false
+ },
+ "121a74a32a": {
+  "url": "https://www.elcorreo.com/culturas/musica/medina-azahara-pincha-adios-bilbao-20261107073651-nt.html",
+  "fuente": "El Correo (Culturas)",
+  "src": "prensa-elcorreo-culturas",
+  "publicado": "2026-11-07",
+  "es_plan": false
+ },
+ "4affd4f97d": {
+  "url": "https://www.elcorreo.com/culturas/musica/raphael-campana-cultura-sirva-alimentar-odio-20261106005623-nt.html",
+  "fuente": "El Correo (Culturas)",
+  "src": "prensa-elcorreo-culturas",
+  "publicado": "2026-11-07",
+  "es_plan": true,
+  "titulo": "Raphael actúa en Vitoria este sábado 7 de noviembre",
+  "resumen": "Raphael actuará este sábado 7 de noviembre en el Buesa Arena de Vitoria. El artista asegura que no abandona el escenario durante las dos horas de actuación.",
+  "en": {
+   "titulo": "Raphael performs in Vitoria this Saturday, November 7th",
+   "resumen": "Raphael will perform this Saturday, November 7th, at the Buesa Arena in Vitoria. The artist states he does not leave the stage during the two-hour performance."
+  },
+  "inicio": "2026-11-07",
+  "fin": "2026-11-07",
+  "hora": null,
+  "lugar": "Buesa Arena",
+  "municipio": "Vitoria-Gasteiz",
+  "provincia": "Álava",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "fbf6cb34c6": {
+  "url": "https://www.elcorreo.com/culturas/arte/miguel-zugaza-necesitamos-periodistas-ayuden-discriminar-cumulo-20261106005124-nt.html",
+  "fuente": "El Correo (Culturas)",
+  "src": "prensa-elcorreo-culturas",
+  "publicado": "2026-11-07",
+  "es_plan": false
+ },
+ "6892a52b9f": {
+  "url": "https://www.elcorreo.com/culturas/territorios/agua-vida-peligro-extincion-20261107120848-nt.html",
+  "fuente": "El Correo (Culturas)",
+  "src": "prensa-elcorreo-culturas",
+  "publicado": "2026-11-07",
+  "es_plan": false
+ },
+ "85ccba1667": {
+  "url": "https://www.diariovasco.com/culturas/tv/revuelta-entrevistara-santiaga-abascal-publico-habitual-puedo-20261107120439-nt.html",
+  "fuente": "El Diario Vasco (Culturas)",
+  "src": "prensa-diariovasco-culturas",
+  "publicado": "2026-11-07",
+  "es_plan": false
+ },
+ "8b7d66f7fc": {
+  "url": "https://www.diariovasco.com/culturas/musica/amaia-montero-sufre-pequena-caida-concierto-oreja-20261107105910-nt.html",
+  "fuente": "El Diario Vasco (Culturas)",
+  "src": "prensa-diariovasco-culturas",
+  "publicado": "2026-11-07",
+  "es_plan": false
+ },
+ "26d098e215": {
+  "url": "https://www.diariovasco.com/culturas/manos-salvaron-cuadro-caro-mundo-20261107000147-nt.html",
+  "fuente": "El Diario Vasco (Culturas)",
+  "src": "prensa-diariovasco-culturas",
+  "publicado": "2026-11-07",
+  "es_plan": true,
+  "titulo": "Las manos que salvaron el cuadro más caro del mundo",
+  "resumen": "La restauradora Dianne Modestini hablará este sábado en Donostia sobre la restauración de una obra de Leonardo da Vinci.",
+  "en": {
+   "titulo": "The hands that saved the world's most expensive painting",
+   "resumen": "Restorer Dianne Modestini will speak this Saturday in Donostia about the restoration of a Leonardo da Vinci work."
+  },
+  "inicio": "2026-11-07",
+  "fin": "2026-11-07",
+  "hora": null,
+  "lugar": null,
+  "municipio": "Donostia",
+  "provincia": "Gipuzkoa",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "fb9f31c64b": {
+  "url": "https://www.diariovasco.com/bidasoa/irun/juicy-bae-pondra-sabado-publico-cba-perrear-20261106210540-nt.html",
+  "fuente": "El Diario Vasco (Culturas)",
+  "src": "prensa-diariovasco-culturas",
+  "publicado": "2026-11-07",
+  "es_plan": true,
+  "titulo": "Juicy Bae actuará este sábado en el CBA de Irun",
+  "resumen": "La rapera Juicy Bae actuará este sábado en la sala Irun Zuzenean del CBA, acompañada por Dj Aimar, a partir de las 21:00.",
+  "en": {
+   "titulo": "Juicy Bae will perform this Saturday at the CBA in Irun",
+   "resumen": "Rapper Juicy Bae will perform this Saturday at the Irun Zuzenean hall of the CBA, accompanied by Dj Aimar, starting at 9:00 PM."
+  },
+  "inicio": "2026-11-07",
+  "fin": "2026-11-07",
+  "hora": "21:00",
+  "lugar": "sala Irun Zuzenean",
+  "municipio": "Irun",
+  "provincia": "Gipuzkoa",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "d74ded0f8e": {
+  "url": "https://www.diariovasco.com/costa-urola/zarautz/slow-times-blues-band-sabado-toca-surtidor-20261106170238-nt.html",
+  "fuente": "El Diario Vasco (Culturas)",
+  "src": "prensa-diariovasco-culturas",
+  "publicado": "2026-11-07",
+  "es_plan": true,
+  "titulo": "Slow Times Blues Band toca este sábado en el Surtidor",
+  "resumen": "La Slow Times Blues Band actuará este sábado a las 20:30 en el Surtidor, antes de su participación en la final del concurso de Blues de Barcelona.",
+  "en": {
+   "titulo": "Slow Times Blues Band plays this Saturday at El Surtidor",
+   "resumen": "Slow Times Blues Band will perform this Saturday at 8:30 PM at El Surtidor, before participating in the Barcelona Blues competition finals."
+  },
+  "inicio": "2026-11-07",
+  "fin": "2026-11-07",
+  "hora": "20:30",
+  "lugar": "El Surtidor",
+  "municipio": null,
+  "provincia": "Gipuzkoa",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "454800ce29": {
+  "url": "https://www.lasprovincias.es/culturas/tv/septima-estrena-cine-sabado-emitiendo-ganadora-premio-20261106003131-nt.html",
+  "fuente": "Las Provincias (Culturas)",
+  "src": "prensa-lasprovincias-culturas",
+  "publicado": "2026-11-07",
+  "es_plan": true,
+  "titulo": "La Séptima estrena cine este sábado con la ganadora del Goya 2024",
+  "resumen": "Este sábado, el canal La Séptima estrena su ciclo de cine emitiendo la película ganadora del Premio Goya a mejor película en 2024.",
+  "en": {
+   "titulo": "La Séptima premieres cinema this Saturday with the 2024 Goya winner",
+   "resumen": "This Saturday, La Séptima channel premieres its film series by broadcasting the winner of the 2024 Goya Award for best film."
+  },
+  "inicio": "2026-11-07",
+  "fin": "2026-11-07",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": "Comunitat Valenciana",
+  "ambito": "nacional",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "pantalla",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "aabbc9632d": {
+  "url": "https://www.lasprovincias.es/culturas/musica/inigo-quintero-arrasa-valencia-ciudad-siempre-responde-20261106002401-nt.html",
+  "fuente": "Las Provincias (Culturas)",
+  "src": "prensa-lasprovincias-culturas",
+  "publicado": "2026-11-07",
+  "es_plan": false
+ },
+ "6d24db9c68": {
+  "url": "https://www.lasprovincias.es/culturas/musica/vendera-entradas-fans-taquilla-20261105132124-nt.html",
+  "fuente": "Las Provincias (Culturas)",
+  "src": "prensa-lasprovincias-culturas",
+  "publicado": "2026-11-07",
+  "es_plan": true,
+  "titulo": "U2: Venta anticipada de entradas para conciertos en España",
+  "resumen": "U2 ofrecerá venta anticipada de entradas a fans seleccionados a partir del 9 de noviembre, antes de la venta general el día 13.",
+  "en": {
+   "titulo": "U2: Early ticket sales for concerts in Spain",
+   "resumen": "U2 will offer early ticket sales to selected fans starting November 9th, before the general sale on the 13th."
+  },
+  "inicio": "2026-11-09",
+  "fin": "2026-11-13",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": "Comunitat Valenciana",
+  "ambito": "nacional",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "3798002bfe": {
+  "url": "https://www.laverdad.es/culturas/musica/bryan-adams-detiene-tiempo-murcia-grandes-exitos-20261107100318-nt.html",
+  "fuente": "La Verdad (Culturas)",
+  "src": "prensa-laverdad-culturas",
+  "publicado": "2026-11-07",
+  "es_plan": false
+ },
+ "d23642da71": {
+  "url": "https://www.eldiariomontanes.es/culturas/muestra-collages-poeta-carlos-alcorta-reune-afinidades-20261107074933-nt.html",
+  "fuente": "El Diario Montañés (Culturas)",
+  "src": "prensa-diariomontanes-culturas",
+  "publicado": "2026-11-07",
+  "es_plan": true,
+  "titulo": "Exposición de collages de Carlos Alcorta en la Fundación Bruno Alonso",
+  "resumen": "La Fundación Bruno Alonso expondrá desde el próximo martes una muestra de collages del poeta y editor Carlos Alcorta.",
+  "en": {
+   "titulo": "Exhibition of collages by Carlos Alcorta at the Bruno Alonso Foundation",
+   "resumen": "The Bruno Alonso Foundation will exhibit a collection of collages by poet and editor Carlos Alcorta starting next Tuesday."
+  },
+  "inicio": "2026-11-11",
+  "fin": "2026-11-11",
+  "hora": null,
+  "lugar": "Fundación Bruno Alonso",
+  "municipio": null,
+  "provincia": "Cantabria",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "libros",
+   "museos"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "f9acb46f2e": {
+  "url": "https://www.eldiariomontanes.es/culturas/camino-escena-norte-despide-unquera-teatro-ningures-20261107074903-nt.html",
+  "fuente": "El Diario Montañés (Culturas)",
+  "src": "prensa-diariomontanes-culturas",
+  "publicado": "2026-11-07",
+  "es_plan": true,
+  "titulo": "Camino Escena Norte se despide en Unquera con Teatro de Ningures",
+  "resumen": "El Auditorio Bajo Deva de Unquera acoge hoy el cierre de la octava edición de Camino Escena Norte con la obra 'Las guardianas o el nudo del tejedor'.",
+  "en": {
+   "titulo": "Camino Escena Norte says goodbye in Unquera with Teatro de Ningures",
+   "resumen": "The Bajo Deva Auditorium in Unquera hosts today the closing of the eighth edition of Camino Escena Norte with the play 'Las guardianas o el nudo del tejedor'."
+  },
+  "inicio": "2026-11-07",
+  "fin": "2026-11-07",
+  "hora": null,
+  "lugar": "Auditorio Bajo Deva",
+  "municipio": "Unquera",
+  "provincia": "Cantabria",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "59b4ee4f1a": {
+  "url": "https://www.eldiariomontanes.es/culturas/abrego-lleva-lorca-antigona-gira-barcelona-valencia-20261107074415-nt.html",
+  "fuente": "El Diario Montañés (Culturas)",
+  "src": "prensa-diariomontanes-culturas",
+  "publicado": "2026-11-07",
+  "es_plan": true,
+  "titulo": "Ábrego lleva Lorca y Antígona a Barcelona, Valencia y Madrid",
+  "resumen": "La compañía cántabra Ábrego actúa este fin de semana en la Teatrería de Madrid, cerrando su ciclo 'Mujeres que cuentan'.",
+  "en": {
+   "titulo": "Ábrego takes Lorca and Antigone to Barcelona, Valencia, and Madrid",
+   "resumen": "The Cantabrian company Ábrego performs this weekend at La Teatrería in Madrid, closing its 'Women Who Tell' cycle."
+  },
+  "inicio": "2026-11-07",
+  "fin": "2026-11-07",
+  "hora": null,
+  "lugar": "La Teatrería",
+  "municipio": "Madrid",
+  "provincia": "Madrid",
+  "ambito": "nacional",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "5936835ab5": {
+  "url": "https://www.larioja.com/culturas/recital-generacion-concierto-crescendo-cierran-escenario-vivo-20261107103856-nt.html",
+  "fuente": "La Rioja (Culturas)",
+  "src": "prensa-larioja-culturas",
+  "publicado": "2026-11-07",
+  "es_plan": false
+ },
+ "b15617b5f0": {
+  "url": "https://www.larioja.com/culturas/redonda-expone-mejores-miradas-siglo-xxi-sobre-20261107103714-nt.html",
+  "fuente": "La Rioja (Culturas)",
+  "src": "prensa-larioja-culturas",
+  "publicado": "2026-11-07",
+  "es_plan": false
+ },
+ "6f3934052e": {
+  "url": "https://www.larioja.com/culturas/preguntas-respuesta-martina-perez-20261107103502-nt.html",
+  "fuente": "La Rioja (Culturas)",
+  "src": "prensa-larioja-culturas",
+  "publicado": "2026-11-07",
+  "es_plan": false
+ },
+ "b5965c443c": {
+  "url": "https://www.larioja.com/culturas/compania-nacho-duato-breton-espectaculo-20261107191841-nt.html",
+  "fuente": "La Rioja (Culturas)",
+  "src": "prensa-larioja-culturas",
+  "publicado": "2026-11-07",
+  "es_plan": true,
+  "titulo": "La Compañía Nacho Duato presenta 'Gnawa' este domingo en El Bretón",
+  "resumen": "La Compañía Nacho Duato presenta su espectáculo de danza contemporánea 'Gnawa' este domingo en El Bretón, dentro del Festival de Teatro.",
+  "en": {
+   "titulo": "Nacho Duato Company presents 'Gnawa' this Sunday at El Bretón",
+   "resumen": "The Nacho Duato Company presents its contemporary dance show 'Gnawa' this Sunday at El Bretón, as part of the Theater Festival."
+  },
+  "inicio": "2026-11-08",
+  "fin": "2026-11-08",
+  "hora": null,
+  "lugar": "El Bretón",
+  "municipio": null,
+  "provincia": "La Rioja",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "d7fdef9e0e": {
+  "url": "https://www.20minutos.es/musica/u2-adelanta-un-fragmento-cancion-the-mirror-maker-dedicada-rosalia-for-all-the-dreams-damned-in-girl-rosalia-ole_7058378_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-11-06",
+  "es_plan": true,
+  "titulo": "U2 actuará en Barcelona y Sevilla en mayo de 2027",
+  "resumen": "La banda irlandesa U2 ofrecerá conciertos en el Estadio Olímpico Lluis Companys de Barcelona los días 13 y 15 de mayo, y en La Cartuja de Sevilla el 22 de mayo de 2027. Las entradas saldrán a la venta en noviembre.",
+  "en": {
+   "titulo": "U2 to perform in Barcelona and Seville in May 2027",
+   "resumen": "Irish band U2 will perform concerts at the Estadi Olímpic Lluís Companys in Barcelona on May 13th and 15th, and at La Cartuja in Seville on May 22nd, 2027. Tickets go on sale in November."
+  },
+  "inicio": "2027-05-13",
+  "fin": "2027-05-22",
+  "hora": null,
+  "lugar": "Estadio Olímpico Lluis Companys, La Cartuja",
+  "municipio": "Barcelona, Sevilla",
+  "provincia": "Barcelona, Sevilla",
+  "ambito": "nacional",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "musica"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "f1e479eda8": {
+  "url": "https://www.20minutos.es/musica/wisin-llega-espana-con-su-universidad-perreo-dos-conciertos-para-impartir-una-leccion-magistral-perreologia_7058276_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-11-06",
+  "es_plan": true,
+  "titulo": "Wisin llega a España con su 'Universidad del Perreo' en mayo de 2027",
+  "resumen": "El reguetonero puertorriqueño Wisin visitará Madrid y Barcelona en mayo de 2027 para presentar su gira 'Universidad del Perreo', donde repasará sus éxitos y presentará nuevas canciones.",
+  "en": {
+   "titulo": "Wisin arrives in Spain with his 'Universidad del Perreo' in May 2027",
+   "resumen": "Puerto Rican reggaeton artist Wisin will visit Madrid and Barcelona in May 2027 to present his 'Universidad del Perreo' tour, featuring his hits and new songs."
+  },
+  "inicio": "2027-05-01",
+  "fin": "2027-05-31",
+  "hora": null,
+  "lugar": null,
+  "municipio": "Madrid, Barcelona",
+  "provincia": "Madrid, Barcelona",
+  "ambito": "nacional",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "musica"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "60887f7a02": {
+  "url": "https://www.20minutos.es/musica/diez-referentes-musica-espanola-entre-ellos-raphael-ana-belen-recogen-los-premios-academicos-honor_7058236_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-11-06",
+  "es_plan": true,
+  "titulo": "Raphael, Ana Belén y otros reciben premios de la Academia de la Música",
+  "resumen": "Raphael, Ana Belén, María del Mar Bonet y Carmen Linares, entre otros, han sido distinguidos como Académicos de Honor en una ceremonia celebrada este viernes por su trayectoria.",
+  "en": {
+   "titulo": "Raphael, Ana Belén, and others receive Music Academy awards",
+   "resumen": "Raphael, Ana Belén, María del Mar Bonet, and Carmen Linares, among others, were honored as Honorary Academicians at a ceremony this Friday for their careers."
+  },
+  "inicio": "2026-11-06",
+  "fin": "2026-11-06",
+  "hora": null,
+  "lugar": "Teatro Fuencarral",
+  "municipio": "Madrid",
+  "provincia": "Madrid",
+  "ambito": "nacional",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "ddf01d22f2": {
+  "url": "https://elpais.com/espana/catalunya/2026-11-06/el-mismisimo-h-p-lovecraft-se-aparece-en-el-festival-42-de-generos-fantasticos-de-barcelona.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-11-06",
+  "es_plan": true,
+  "titulo": "Festival 42 de géneros fantásticos en Barcelona",
+  "resumen": "El Festival 42 de géneros fantásticos de Barcelona celebra una performance de H. P. Lovecraft en la Fabra i Coats, donde se abordará su obra.",
+  "en": {
+   "titulo": "Festival 42 of fantastic genres in Barcelona",
+   "resumen": "The Festival 42 of fantastic genres in Barcelona features an H. P. Lovecraft performance at Fabra i Coats, discussing his work."
+  },
+  "inicio": "2026-11-06",
+  "fin": "2026-11-06",
+  "hora": null,
+  "lugar": "Fabra i Coats",
+  "municipio": "Barcelona",
+  "provincia": "Barcelona",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "97bd23352c": {
+  "url": "https://elpais.com/cultura/cine/2026-11-06/muere-a-los-52-anos-el-director-chileno-sebastian-lelio-ganador-del-oscar-por-una-mujer-fantastica.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-11-06",
+  "es_plan": false
+ },
+ "902fa03ef7": {
+  "url": "https://elpais.com/cultura/2026-11-06/la-editorial-almadia-mantiene-su-confianza-en-la-novela-de-david-silva-rojas-y-no-retira-el-premio.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-11-06",
+  "es_plan": false
+ },
+ "cad088e90c": {
+  "url": "https://elpais.com/cultura/2026-11-06/rodrigo-sorogoyen-carlos-bardem-alana-s-portero-y-sara-barquinero-entre-las-mas-de-800-personalidades-de-la-cultura-que-respaldan-en-un-manifiesto-la-huelga-general.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-11-06",
+  "es_plan": false
+ },
+ "4f204d9da5": {
+  "url": "https://www.lavanguardia.com/cultura/20261106/11678554/noche-barcelonesa-vive.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-06",
+  "es_plan": false
+ },
+ "1f7dc8ea74": {
+  "url": "https://www.lavanguardia.com/cultura/20261106/11678337/laura-gallego-joan-lluis-lluis-fernando-navarro-ramon-victoria-alvarez-premios-festival-42.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-06",
+  "es_plan": true,
+  "titulo": "Premios del Festival 42 de Géneros Fantásticos de Barcelona",
+  "resumen": "El Festival 42 de Géneros Fantásticos de Barcelona ha entregado sus premios, reconociendo a Laura Gallego con el honorífico y a otros autores y traducciones.",
+  "en": {
+   "titulo": "Awards of the Festival 42 of Fantastic Genres of Barcelona",
+   "resumen": "The Festival 42 of Fantastic Genres of Barcelona has presented its awards, recognizing Laura Gallego with the honorary award and other authors and translations."
+  },
+  "inicio": "2026-11-06",
+  "fin": "2026-11-06",
+  "hora": null,
+  "lugar": null,
+  "municipio": "Barcelona",
+  "provincia": "Barcelona",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "860cfc35cd": {
+  "url": "https://www.lavanguardia.com/encatala/20261106/11678338/laura-gallego-joan-lluis-lluis-fernando-navarro-ramon-i-victoria-alvarez-premis-festival-42.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-06",
+  "es_plan": true,
+  "titulo": "Premis del Festival 42 de Gèneres Fantàstics de Barcelona",
+  "resumen": "El Festival 42 de Gèneres Fantàstics de Barcelona ha lliurat els seus premis, reconeixent Laura Gallego amb el guardó honorífic i altres autors i traduccions.",
+  "en": {
+   "titulo": "Awards of the Festival 42 of Fantastic Genres of Barcelona",
+   "resumen": "The Festival 42 of Fantastic Genres of Barcelona has presented its awards, recognizing Laura Gallego with the honorary award and other authors and translations."
+  },
+  "inicio": "2026-11-06",
+  "fin": "2026-11-06",
+  "hora": null,
+  "lugar": null,
+  "municipio": "Barcelona",
+  "provincia": "Barcelona",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "f5c306e931": {
+  "url": "https://www.lavanguardia.com/cultura/20261106/11678293/muere-cineasta-chileno-sebastian-lelio-ganador-oscar-52-anos.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-06",
+  "es_plan": false
+ },
+ "fc3b3a657e": {
+  "url": "https://www.lavanguardia.com/local/baix-llobregat/20261106/11677765/nueva-forma-descubrir-mayor-colonia-textil-catalunya.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-06",
+  "es_plan": true,
+  "titulo": "Nueva experiencia inmersiva en la colonia textil Sedó de Esparreguera",
+  "resumen": "El museo de la colonia textil Sedó en Esparreguera, la más grande de Catalunya, incorpora realidad inmersiva como parte del proyecto 'Els ulls de la història'.",
+  "en": {
+   "titulo": "New immersive experience at the Sedó textile colony in Esparreguera",
+   "resumen": "The museum of the Sedó textile colony in Esparreguera, the largest in Catalonia, incorporates immersive reality as part of the 'Els ulls de la història' project."
+  },
+  "inicio": "2026-11-06",
+  "fin": "2026-11-06",
+  "hora": null,
+  "lugar": "Museo de la colonia textil Sedó",
+  "municipio": "Esparreguera",
+  "provincia": "Barcelona",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "fa166dd832": {
+  "url": "https://www.lavanguardia.com/cultura/musica/20261106/11678132/angel-of-sant-esteve-u2-adelanta-fragmento-the-mirror-maker-cancion-dedicada-rosalia.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-06",
+  "es_plan": false
+ },
+ "3b514374c5": {
+  "url": "https://www.lavanguardia.com/qf/planes/20261106/11677142/kyle-eastwood-frente-espejo-festival-jazz-barcelona.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-06",
+  "es_plan": true,
+  "titulo": "Kyle Eastwood en el Festival de Jazz de Barcelona",
+  "resumen": "El músico Kyle Eastwood actuará este martes en el Paral·lel 62 dentro del Festival de Jazz de Barcelona, presentando su último proyecto.",
+  "en": {
+   "titulo": "Kyle Eastwood at the Barcelona Jazz Festival",
+   "resumen": "Musician Kyle Eastwood will perform this Tuesday at Paral·lel 62 as part of the Barcelona Jazz Festival, presenting his latest project."
+  },
+  "inicio": "2026-11-10",
+  "fin": "2026-11-10",
+  "hora": null,
+  "lugar": "Paral·lel 62",
+  "municipio": "Barcelona",
+  "provincia": "Barcelona",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "musica"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "45c0bcbedf": {
+  "url": "https://www.lavanguardia.com/cultura/20261106/11677073/h-p-lovecraft-apogeo-horror-cosmico.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-06",
+  "es_plan": true,
+  "titulo": "H. P. Lovecraft en el Festival 42 de Barcelona",
+  "resumen": "El Festival 42 de Barcelona dedica una jornada a H. P. Lovecraft, explorando la figura del escritor y su obra de horror cósmico a través de varios actos.",
+  "en": {
+   "titulo": "H. P. Lovecraft at Festival 42 in Barcelona",
+   "resumen": "Festival 42 in Barcelona dedicates a day to H. P. Lovecraft, exploring the writer's figure and his cosmic horror work through various events."
+  },
+  "inicio": "2026-11-06",
+  "fin": "2026-11-06",
+  "hora": null,
+  "lugar": null,
+  "municipio": "Barcelona",
+  "provincia": "Barcelona",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
  }
 }

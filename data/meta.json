@@ -1,11 +1,11 @@
 {
-  "generated": "2026-11-07T11:04:44.406Z",
+  "generated": "2026-11-07T12:00:16.379Z",
   "today": "2026-11-07",
-  "events": 6108,
+  "events": 6129,
   "review": 10,
   "ai": {
-    "calls": 0,
-    "seconds": 36,
+    "calls": 16,
+    "seconds": 228,
     "tripped": false
   },
   "sources": [
@@ -85,7 +85,7 @@
     {
       "id": "prensa-nortecastilla-salamanca",
       "status": "ok",
-      "count": 1,
+      "count": 2,
       "candidatos": true
     },
     {
@@ -97,7 +97,7 @@
     {
       "id": "prensa-ideal-culturas",
       "status": "ok",
-      "count": 23,
+      "count": 24,
       "candidatos": true
     },
     {
@@ -115,7 +115,7 @@
     {
       "id": "prensa-diariovasco-culturas",
       "status": "ok",
-      "count": 14,
+      "count": 15,
       "candidatos": true
     },
     {
