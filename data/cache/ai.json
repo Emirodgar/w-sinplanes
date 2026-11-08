@@ -28754,5 +28754,1587 @@
    "cultura"
   ],
   "a_cubierto": true
+ },
+ "a9ff86023f": {
+  "id": "01038f41ea",
+  "es": {
+   "titulo": "Clásicos del Jazz con La Orkestina Big Band",
+   "resumen": "La Orkestina Big Band celebra su décimo aniversario con un concierto gratuito de jazz y blues. Disfruta de temas clásicos y sorpresas musicales en un evento que une generaciones."
+  },
+  "en": {
+   "titulo": "Jazz Classics with La Orkestina Big Band",
+   "resumen": "La Orkestina Big Band celebrates its tenth anniversary with a free jazz and blues concert. Enjoy classic tunes and musical surprises in an event that unites generations."
+  },
+  "temas": [
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "529dc75822": {
+  "id": "d0efc0d35c",
+  "es": {
+   "titulo": "Concierto de piano CPM Joaquín Turina",
+   "resumen": "Alumnado de piano del Conservatorio Profesional de Música Joaquín Turina ofrece un concierto. La entrada es gratuita hasta completar aforo, con reparto previo en el centro cultural."
+  },
+  "en": {
+   "titulo": "CPM Joaquín Turina Piano Student Concert",
+   "resumen": "Piano students from the Joaquín Turina Professional Conservatory of Music present a concert. Admission is free until capacity is reached, with tickets distributed beforehand at the cultural center."
+  },
+  "temas": [
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "e58f17c29e": {
+  "id": "91d7aac034",
+  "es": {
+   "titulo": "Concierto Orquesta Red de Escuelas Municipales de Música",
+   "resumen": "La Orquesta de la Red de Escuelas Municipales de Música de Madrid, dirigida por Blanca Castillo Sanz, ofrece un concierto gratuito en el claustro del centro."
+  },
+  "en": {
+   "titulo": "Concert by the Orchestra of the Madrid Municipal Music Schools Network",
+   "resumen": "The Orchestra of the Madrid Municipal Music Schools Network, conducted by Blanca Castillo Sanz, presents a free concert in the center's cloister."
+  },
+  "temas": [
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "fe6c216222": {
+  "id": "86b13f0c30",
+  "es": {
+   "titulo": "Concierto femenino 'Lirica Fémina'",
+   "resumen": "En conmemoración del Día Internacional de la Eliminación de la Violencia contra la Mujer, Lirica Fémina presenta un concierto de ópera centrado en las cualidades femeninas."
+  },
+  "en": {
+   "titulo": "Female Concert 'Lirica Fémina'",
+   "resumen": "Commemorating the International Day for the Elimination of Violence against Women, Lirica Fémina presents an opera concert focusing on feminine qualities."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "5673b997d6": {
+  "id": "2a1b4f6d00",
+  "es": {
+   "titulo": "Conferencia: Natalie Wood y Robert Wagner",
+   "resumen": "Eva M.ª Mera Jiménez imparte una conferencia sobre las estrellas del cine clásico Natalie Wood y Robert Wagner. La entrada es gratuita hasta completar aforo."
+  },
+  "en": {
+   "titulo": "Lecture: Natalie Wood and Robert Wagner",
+   "resumen": "Eva M.ª Mera Jiménez gives a lecture on classic cinema stars Natalie Wood and Robert Wagner. Admission is free until capacity is reached."
+  },
+  "temas": [
+   "pantalla",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "936bad507c": {
+  "id": "39385b874e",
+  "es": {
+   "titulo": "Corre corre tortuga: Espectáculo infantil",
+   "resumen": "Un espectáculo infantil de títeres y música basado en la fábula de la liebre y la tortuga. Enseña sobre hábitos saludables, el medio ambiente y la importancia de ir despacio."
+  },
+  "en": {
+   "titulo": "Run Run Turtle: Children's Show",
+   "resumen": "A children's puppet and music show based on the fable of the hare and the tortoise. It teaches about healthy habits, the environment, and the importance of going slow."
+  },
+  "temas": [
+   "ninos",
+   "cultura",
+   "deporte"
+  ],
+  "a_cubierto": true
+ },
+ "fd2004b07b": {
+  "id": "17040842c1",
+  "es": {
+   "titulo": "Cuentacentos por la infancia",
+   "resumen": "Una sesión de cuentos y canciones que celebra la infancia y sus derechos, invitando a la imaginación, el humor y la emoción en el Jardín del Bulevar de Peña Gorbea."
+  },
+  "en": {
+   "titulo": "Storytelling for Childhood",
+   "resumen": "A session of stories and songs celebrating childhood and children's rights, inviting imagination, humor, and emotion in the Peña Gorbea Boulevard Garden."
+  },
+  "temas": [
+   "ninos",
+   "cultura"
+  ],
+  "a_cubierto": false
+ },
+ "cb25a79949": {
+  "id": "15a0dbbba8",
+  "es": {
+   "titulo": "El Ruiseñor y el Emperador de la China",
+   "resumen": "Okarino Trapisonda presenta 'El Ruiseñor y el Emperador de la China', un cuento de Andersen con marionetas y música, recomendado a partir de 4 años y con intérprete de lengua de signos."
+  },
+  "en": {
+   "titulo": "The Nightingale and the Emperor of China",
+   "resumen": "Okarino Trapisonda presents 'The Nightingale and the Emperor of China', a tale by Andersen with puppets and music, recommended for ages 4+ and with a sign language interpreter."
+  },
+  "temas": [
+   "ninos",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "cac5c4b80c": {
+  "id": "84a638a1a2",
+  "es": {
+   "titulo": "El Show de Dodó: Aventura sonora",
+   "resumen": "Marina Sorin y Luca Frasca invitan a una experiencia musical activa y creativa con 'El Show de Dodó'. Disfruta de paisajes sonoros y canciones originales con diversos instrumentos."
+  },
+  "en": {
+   "titulo": "Dodó's Show: Sound Adventure",
+   "resumen": "Marina Sorin and Luca Frasca invite you to an active and creative musical experience with 'Dodó's Show'. Enjoy soundscapes and original songs with various instruments."
+  },
+  "temas": [
+   "musica",
+   "ninos"
+  ],
+  "a_cubierto": true
+ },
+ "a0cd8f9434": {
+  "id": "0f265bb22d",
+  "es": {
+   "titulo": "Enfermos de amor: Comedia teatral",
+   "resumen": "Una divertida comedia teatral para público adulto donde un virus obliga a hablar en verso y besar impulsivamente, creando enredos y situaciones inesperadas."
+  },
+  "en": {
+   "titulo": "Sick with Love: Theatrical Comedy",
+   "resumen": "A fun theatrical comedy for adult audiences where a virus forces people to speak in verse and kiss impulsively, creating entanglements and unexpected situations."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "b148852b8b": {
+  "id": "0806860d34",
+  "es": {
+   "titulo": "Exhibición: El Neolítico y la Edad de los Metales",
+   "resumen": "Descubre las técnicas de modelado de cerámica, fabricación de herramientas y otros oficios del Neolítico y la Edad de los Metales en el Museo de San Isidro."
+  },
+  "en": {
+   "titulo": "Exhibition: The Neolithic and the Metal Ages",
+   "resumen": "Discover pottery modeling techniques, tool making, and other crafts from the Neolithic and Metal Ages at the Museum of San Isidro."
+  },
+  "temas": [
+   "museos",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "ccf10575b4": {
+  "id": "b384d67043",
+  "es": {
+   "titulo": "Flow, un mundo que salvar",
+   "resumen": "Evento en el Centro Cultural Alfonso Ussía - Valdebebas."
+  },
+  "en": {
+   "titulo": "Flow, a World to Save",
+   "resumen": "Event at the Alfonso Ussía Cultural Center - Valdebebas."
+  },
+  "temas": [],
+  "a_cubierto": true
+ },
+ "8262d80b29": {
+  "id": "e4fcaf482c",
+  "es": {
+   "titulo": "La magia de la Navidad: Cuentacuentos",
+   "resumen": "Un cuentacuentos familiar lleno de ilusión y espíritu navideño para despertar la imaginación y recordar la importancia de compartir en estas fechas."
+  },
+  "en": {
+   "titulo": "The Magic of Christmas: Storytelling",
+   "resumen": "A family storytelling session full of wonder and Christmas spirit to spark imagination and remember the importance of sharing during the holidays."
+  },
+  "temas": [
+   "ninos",
+   "cultura",
+   "navidad"
+  ],
+  "a_cubierto": true
+ },
+ "41d6287b36": {
+  "id": "75365cf438",
+  "es": {
+   "titulo": "Ludotecas gratuitas para niños en Latina",
+   "resumen": "El Distrito de Latina ofrece ludotecas gratuitas para niños de 5 a 12 años los viernes por la tarde y sábados por la mañana. Consulta horarios y aforo en el centro."
+  },
+  "en": {
+   "titulo": "Free Play Centers for Children in Latina",
+   "resumen": "The Latina District offers free play centers for children aged 5 to 12 on Friday afternoons and Saturday mornings. Check the center for schedules and capacity."
+  },
+  "temas": [
+   "ninos",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "0a852562d1": {
+  "id": "49fa0824e2",
+  "es": {
+   "titulo": "Magic: Espectáculo de magia y clown",
+   "resumen": "Un espectáculo de magia, teatro y clown para niños donde la Payasa Purpurina necesita la ayuda del público para que el Circo Magic continúe. Risas y participación garantizadas."
+  },
+  "en": {
+   "titulo": "Magic: Magic and Clown Show",
+   "resumen": "A magic, theater, and clown show for children where Clown Purpurina needs the audience's help for Circo Magic to continue. Laughter and participation guaranteed."
+  },
+  "temas": [
+   "ninos",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "a17021a805": {
+  "id": "2d60be3053",
+  "es": {
+   "titulo": "Miedo, desapariciones y zombies: Sesión familiar",
+   "resumen": "Una sesión familiar en el Espacio Abierto Quinta de los Molinos con temática de miedo, desapariciones y zombies."
+  },
+  "en": {
+   "titulo": "Fear, Disappearances, and Zombies: Family Session",
+   "resumen": "A family session at Quinta de los Molinos Open Space with a theme of fear, disappearances, and zombies."
+  },
+  "temas": [
+   "ninos",
+   "pantalla"
+  ],
+  "a_cubierto": true
+ },
+ "818e770a5e": {
+  "id": "260a2f6537",
+  "es": {
+   "titulo": "Mucha Muchacha - Latina",
+   "resumen": "Evento en el distrito de Latina."
+  },
+  "en": {
+   "titulo": "Mucha Muchacha - Latina",
+   "resumen": "Event in the Latina district."
+  },
+  "temas": [],
+  "a_cubierto": null
+ },
+ "fd964d1dc1": {
+  "id": "3cf85ceed5",
+  "es": {
+   "titulo": "Patinando sobre letras",
+   "resumen": "Evento en Madrid."
+  },
+  "en": {
+   "titulo": "Skating on Letters",
+   "resumen": "Event in Madrid."
+  },
+  "temas": [],
+  "a_cubierto": null
+ },
+ "ecd9acb884": {
+  "id": "21179c6dbe",
+  "es": {
+   "titulo": "Senda Usos tradicionales de las plantas de Pradolongo",
+   "resumen": "Recorrido por el parque de Pradolongo para conocer los usos tradicionales de sus plantas, guiado por educadores ambientales. Imprescindible reserva previa."
+  },
+  "en": {
+   "titulo": "Trail of Traditional Uses of Pradolongo Plants",
+   "resumen": "A walk through Pradolongo Park to learn about the traditional uses of its plants, guided by environmental educators. Prior reservation is essential."
+  },
+  "temas": [
+   "naturaleza",
+   "rutas",
+   "actividades"
+  ],
+  "a_cubierto": false
+ },
+ "624e780474": {
+  "id": "c5704138fa",
+  "es": {
+   "titulo": "Senderismo urbano: Dehesa al Parque de la Ventilla",
+   "resumen": "Ruta de senderismo urbano que parte de la Dehesa de la Villa y llega hasta el Parque de la Ventilla. Punto de encuentro en el Centro de Información y Educación Ambiental."
+  },
+  "en": {
+   "titulo": "Urban Hiking: From Dehesa to La Ventilla Park",
+   "resumen": "An urban hiking route starting from the Dehesa de la Villa and ending at La Ventilla Park. Meeting point at the Environmental Information and Education Center."
+  },
+  "temas": [
+   "naturaleza",
+   "rutas",
+   "deporte"
+  ],
+  "a_cubierto": false
+ },
+ "df41bac8e9": {
+  "id": "28aa955320",
+  "es": {
+   "titulo": "Silencio: Flamenco contra la violencia",
+   "resumen": "Un grito escénico que usa el flamenco para canalizar el dolor y la denuncia social de la violencia de género. Arte y activismo se unen para transformar el desamparo en fuerza."
+  },
+  "en": {
+   "titulo": "Silence: Flamenco Against Violence",
+   "resumen": "A stage cry using flamenco to channel the pain and social denunciation of gender-based violence. Art and activism unite to transform helplessness into strength."
+  },
+  "temas": [
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "91f905cf85": {
+  "id": "5a3eb4c885",
+  "es": {
+   "titulo": "Sin más trío: Jazz latino",
+   "resumen": "Sin más trío presenta un cóctel de composiciones propias que fusionan folclore latinoamericano, improvisaciones de jazz y música de cámara en el Centro Sociocultural El Greco."
+  },
+  "en": {
+   "titulo": "Sin más trío: Latin Jazz",
+   "resumen": "Sin más trío presents a cocktail of original compositions fusing Latin American folklore, jazz improvisations, and chamber music at the El Greco Cultural Center."
+  },
+  "temas": [
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "572758c8ce": {
+  "id": "3438ec6c8d",
+  "es": {
+   "titulo": "Taller Cuentacuentos: La Huerta de Elisa",
+   "resumen": "Taller infantil sobre huertos, cuidado de plantas y consumo de frutas y verduras. Los niños crearán un semillero para llevar a casa. Imprescindible reserva previa."
+  },
+  "en": {
+   "titulo": "Storytelling Workshop: Elisa's Garden",
+   "resumen": "Children's workshop about vegetable gardens, plant care, and fruit and vegetable consumption. Children will create a seedling to take home. Prior reservation is essential."
+  },
+  "temas": [
+   "ninos",
+   "actividades",
+   "naturaleza"
+  ],
+  "a_cubierto": true
+ },
+ "5e4debc720": {
+  "id": "777b10a094",
+  "es": {
+   "titulo": "Taller de corte y confección de Microrrelatos",
+   "resumen": "Taller de escritura creativa enfocado en la creación de microrrelatos en la Biblioteca Pública Municipal Mario Vargas Llosa."
+  },
+  "en": {
+   "titulo": "Micro-story Cutting and Sewing Workshop",
+   "resumen": "Creative writing workshop focused on creating micro-stories at the Mario Vargas Llosa Municipal Public Library."
+  },
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "88b5756c94": {
+  "id": "c1b8b256ba",
+  "es": {
+   "titulo": "Taller de creación de títeres reciclados",
+   "resumen": "Taller infantil para crear títeres con materiales reciclados. Se ofrecen dos turnos de mañana en la plaza de las tizas, para niños de 8 a 14 años."
+  },
+  "en": {
+   "titulo": "Recycled Puppet Making Workshop",
+   "resumen": "Children's workshop to create puppets using recycled materials. Two morning sessions are offered in the Plaza de las Tizas, for children aged 8 to 14."
+  },
+  "temas": [
+   "ninos",
+   "actividades",
+   "cultura"
+  ],
+  "a_cubierto": false
+ },
+ "01db372cfa": {
+  "id": "cb201c91f6",
+  "es": {
+   "titulo": "Taller de decoración de galletas navideñas",
+   "resumen": "Aprende a decorar tus propias galletas de Navidad en este taller familiar. Desata tu creatividad con diferentes técnicas y motivos festivos. ¡Llévate a casa tus deliciosas creaciones!"
+  },
+  "en": {
+   "titulo": "Christmas Cookie Decorating Workshop",
+   "resumen": "Learn to decorate your own Christmas cookies in this family workshop. Unleash your creativity with different techniques and festive designs. Take home your delicious creations!"
+  },
+  "temas": [
+   "ninos",
+   "navidad",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "cbf8769c9b": {
+  "id": "9b7f907cb2",
+  "es": {
+   "titulo": "Experimentos con agua: Semana de la Ciencia",
+   "resumen": "Descubre la importancia del agua para la vida a través de experimentos prácticos. Un taller familiar para conocer sus cualidades y propiedades."
+  },
+  "en": {
+   "titulo": "Water Experiments: Science Week",
+   "resumen": "Discover the importance of water for life through practical experiments. A family workshop to learn about its qualities and properties."
+  },
+  "temas": [
+   "agua",
+   "ninos",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "45e9b115f7": {
+  "id": "ec737cd690",
+  "es": {
+   "titulo": "Taller para detectar bulos y desinformación",
+   "resumen": "Aprende a identificar noticias falsas y a navegar por la información de manera crítica. Un taller esencial para la era digital."
+  },
+  "en": {
+   "titulo": "Workshop to Detect Hoaxes and Misinformation",
+   "resumen": "Learn to identify fake news and navigate information critically. An essential workshop for the digital age."
+  },
+  "temas": [
+   "cultura",
+   "libros",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "f5a456ceab": {
+  "id": "a0a370224c",
+  "es": {
+   "titulo": "Taller yincana de cine",
+   "resumen": "Participa en una divertida yincana temática de cine. ¡Pon a prueba tus conocimientos y habilidades en un juego lleno de sorpresas!"
+  },
+  "en": {
+   "titulo": "Cinema Scavenger Hunt Workshop",
+   "resumen": "Take part in a fun, cinema-themed scavenger hunt. Test your knowledge and skills in a game full of surprises!"
+  },
+  "temas": [
+   "pantalla",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "5e0c38032a": {
+  "id": "91c7368345",
+  "es": {
+   "titulo": "Taller 'Arquitectos Romanos: Construyendo la Historia'",
+   "resumen": "Diseña proyectos arquitectónicos romanos y construye modelos de arcos y acueductos. Una actividad para descubrir la ingeniería del Imperio Romano."
+  },
+  "en": {
+   "titulo": "Workshop 'Roman Architects: Building History'",
+   "resumen": "Design Roman architectural projects and build models of arches and aqueducts. An activity to discover the engineering of the Roman Empire."
+  },
+  "temas": [
+   "cultura",
+   "ninos",
+   "museos"
+  ],
+  "a_cubierto": true
+ },
+ "b5ec22dfe6": {
+  "id": "0a6a09f347",
+  "es": {
+   "titulo": "Talleres 'Sábados Locos' de otoño",
+   "resumen": "Fomenta la creatividad y el trabajo en equipo con estos talleres familiares. Mezcla de juego, arte y diversión para aprender haciendo."
+  },
+  "en": {
+   "titulo": "'Crazy Saturdays' Autumn Workshops",
+   "resumen": "Foster creativity and teamwork with these family workshops. A mix of games, art, and fun for learning by doing."
+  },
+  "temas": [
+   "ninos",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "7a70844a57": {
+  "id": "0cfceb2688",
+  "es": {
+   "titulo": "Teatro cuento familiar: '¿Y tú qué quieres ser de mayor?'",
+   "resumen": "Una obra de teatro infantil que desafía estereotipos sobre profesiones. Descubre que los sueños no tienen género ni límites."
+  },
+  "en": {
+   "titulo": "Family Story Theater: 'What Do You Want to Be When You Grow Up?'",
+   "resumen": "A children's play that challenges stereotypes about professions. Discover that dreams have no gender or limits."
+  },
+  "temas": [
+   "ninos",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "b61ab342e5": {
+  "id": "97f432cfe8",
+  "es": {
+   "titulo": "Teatro inmersivo a ciegas: 'Ibiza'",
+   "resumen": "Vive una experiencia teatral única viajando con los ojos cerrados. Sonidos, música y olores te transportarán a Ibiza."
+  },
+  "en": {
+   "titulo": "Immersive Blind Theater: 'Ibiza'",
+   "resumen": "Experience a unique theatrical journey with your eyes closed. Sounds, music, and scents will transport you to Ibiza."
+  },
+  "temas": [
+   "cultura",
+   "musica",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "9595290071": {
+  "id": "ba99cd3afe",
+  "es": {
+   "titulo": "Teatro: 'La Esclusa' (Día contra la Violencia de Género)",
+   "resumen": "Una obra que narra la última noche en prisión de una mujer, repasando su vida con poesía e ironía. Reflexión sobre la libertad y el futuro."
+  },
+  "en": {
+   "titulo": "Theater: 'The Lock' (Day Against Gender Violence)",
+   "resumen": "A play recounting a woman's last night in prison, reflecting on her life with poetry and irony. A reflection on freedom and the future."
+  },
+  "temas": [
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "d180609864": {
+  "id": "a1c3df9136",
+  "es": {
+   "titulo": "Tertulia Literaria Hispanoamericana 'Rafael Montesinos'",
+   "resumen": "Participa en un encuentro literario para debatir y compartir sobre literatura hispanoamericana. Un espacio para amantes de los libros."
+  },
+  "en": {
+   "titulo": "Hispano-American Literary Gathering 'Rafael Montesinos'",
+   "resumen": "Join a literary meeting to discuss and share about Hispano-American literature. A space for book lovers."
+  },
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "e77408ba60": {
+  "id": "1c58f30d32",
+  "es": {
+   "titulo": "Podcast especial 'Cómo se hace' con Juan Gómez-Jurado",
+   "resumen": "Descubre los secretos de creación de programas de éxito con Juan Gómez-Jurado y Arturo González-Campos. Una sesión didáctica sobre guion y comunicación."
+  },
+  "en": {
+   "titulo": "Special Podcast 'How It's Made' with Juan Gómez-Jurado",
+   "resumen": "Discover the secrets behind successful show creation with Juan Gómez-Jurado and Arturo González-Campos. An educational session on screenwriting and communication."
+  },
+  "temas": [
+   "pantalla",
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "d747aa14ce": {
+  "id": "6c1dbf2a90",
+  "es": {
+   "titulo": "The Sentimental Gentlemen: Swing Clásico",
+   "resumen": "Disfruta de la música swing de los años 30 y 40 con The Sentimental Gentlemen. Una formación que revive el espíritu de la época dorada del jazz."
+  },
+  "en": {
+   "titulo": "The Sentimental Gentlemen: Classic Swing",
+   "resumen": "Enjoy the swing music of the 1930s and 40s with The Sentimental Gentlemen. A band that revives the spirit of the golden age of jazz."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "6cd82df8c4": {
+  "id": "c3a1ef6086",
+  "es": {
+   "titulo": "Torneo de Navidad de Ajedrez Escolar",
+   "resumen": "Jornada de ajedrez para escolares no federados. Compite, aprende y diviértete en un torneo amistoso con premios para todos."
+  },
+  "en": {
+   "titulo": "School Chess Christmas Tournament",
+   "resumen": "A chess event for non-federated school children. Compete, learn, and have fun in a friendly tournament with prizes for everyone."
+  },
+  "temas": [
+   "ninos",
+   "deporte",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "c93d5c249c": {
+  "id": "4208100c84",
+  "es": {
+   "titulo": "Cuentos 'Trátame bien' sobre buen trato",
+   "resumen": "Sesión de cuentos para niños que fomenta el respeto, la empatía y la igualdad. Aprende a expresar emociones y resolver conflictos pacíficamente."
+  },
+  "en": {
+   "titulo": "Stories 'Treat Me Well' on Good Treatment",
+   "resumen": "A storytelling session for children that promotes respect, empathy, and equality. Learn to express emotions and resolve conflicts peacefully."
+  },
+  "temas": [
+   "ninos",
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "79b92b0485": {
+  "id": "4a47935ec1",
+  "es": {
+   "titulo": "Concierto 'Tromboneando' de Demetrio Muñiz",
+   "resumen": "Disfruta del proyecto personal de Demetrio Muñiz, un homenaje al trombón cubano con una formación de lujo. Música y talento internacional."
+  },
+  "en": {
+   "titulo": "'Tromboneando' Concert by Demetrio Muñiz",
+   "resumen": "Enjoy Demetrio Muñiz's personal project, a tribute to the Cuban trombone with a luxury ensemble. International music and talent."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "488946c565": {
+  "id": "2c7c8d3969",
+  "es": {
+   "titulo": "Teatro: 'Un Dios salvaje'",
+   "resumen": "Dos matrimonios se reúnen para resolver un conflicto entre sus hijos, pero el encuentro se complica inesperadamente. Una obra sobre las relaciones humanas."
+  },
+  "en": {
+   "titulo": "Theater: 'God of Carnage'",
+   "resumen": "Two couples meet to resolve a conflict between their children, but the encounter unexpectedly escalates. A play about human relationships."
+  },
+  "temas": [
+   "cultura",
+   "pantalla",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "7173fca1df": {
+  "id": "30752fef2d",
+  "es": {
+   "titulo": "Teatro: 'Un enemigo del pueblo'",
+   "resumen": "Dos médicos descubren agua contaminada y la verdad científica es silenciada. Una obra sobre las consecuencias de decir la verdad."
+  },
+  "en": {
+   "titulo": "Theater: 'An Enemy of the People'",
+   "resumen": "Two doctors discover contaminated water, and the scientific truth is silenced. A play about the consequences of speaking the truth."
+  },
+  "temas": [
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "dce14acfef": {
+  "id": "c9b526c062",
+  "es": {
+   "titulo": "Teatro: 'Un juego muy peligroso'",
+   "resumen": "Un grupo de amigos se reúne y sus identidades se fragmentan. Una obra que revela las falsas apariencias y las grietas en las relaciones."
+  },
+  "en": {
+   "titulo": "Theater: 'A Very Dangerous Game'",
+   "resumen": "A group of friends gathers, and their identities begin to fragment. A play that reveals false appearances and cracks in relationships."
+  },
+  "temas": [
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "ba9f04b9d2": {
+  "id": "617a217e86",
+  "es": {
+   "titulo": "Teatro: 'Un siglo (y cuarto) después'",
+   "resumen": "Reflexión sobre la evolución de los derechos de las mujeres y los avances hacia la igualdad. Una mirada contemporánea a los personajes de Chéjov."
+  },
+  "en": {
+   "titulo": "Theater: 'A Century (and a Quarter) Later'",
+   "resumen": "A reflection on the evolution of women's rights and progress towards equality. A contemporary look at Chekhov's characters."
+  },
+  "temas": [
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "6acc3533ff": {
+  "id": "1e5e42088f",
+  "es": {
+   "titulo": "Espectáculo infantil: 'Una de heroínas, magos y piratas'",
+   "resumen": "Personajes de cuentos escapan y necesitan la ayuda del público para volver. Una aventura de teatro, música y magia para toda la familia."
+  },
+  "en": {
+   "titulo": "Children's Show: 'Of Heroines, Magicians, and Pirates'",
+   "resumen": "Storybook characters escape and need the audience's help to return. An adventure of theater, music, and magic for the whole family."
+  },
+  "temas": [
+   "ninos",
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "6e739a929a": {
+  "id": "630e8e573f",
+  "es": {
+   "titulo": "Exposición 'Una mirada sesgada' de Juan Carlos Hernán Vicente",
+   "resumen": "Colección de paisajes y bodegones en pastel y bolígrafo. Un viaje visual por lugares cotidianos transformados en luz y memoria."
+  },
+  "en": {
+   "titulo": "Exhibition 'A Biased Look' by Juan Carlos Hernán Vicente",
+   "resumen": "A collection of pastel and pen landscapes and still lifes. A visual journey through everyday places transformed into light and memory."
+  },
+  "temas": [
+   "cultura",
+   "parques"
+  ],
+  "a_cubierto": true
+ },
+ "45ccd2b74a": {
+  "id": "d5e9aad702",
+  "es": {
+   "titulo": "Teatro infantil: 'Una misión cuentística'",
+   "resumen": "Dos 'cazacuentos' de otro planeta necesitan la magia de los cuentos para reparar su nave. Una aventura para niños de 3 a 10 años."
+  },
+  "en": {
+   "titulo": "Children's Theater: 'A Story Mission'",
+   "resumen": "Two 'story hunters' from another planet need the magic of stories to repair their ship. An adventure for children aged 3 to 10."
+  },
+  "temas": [
+   "ninos",
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "affc9467bc": {
+  "id": "e1eb0bd7bd",
+  "es": {
+   "titulo": "Vengo a medida para tu bien - Salamanca",
+   "resumen": "Actividad cultural en el Centro Cultural Emilia Pardo Bazán. Más detalles sobre el evento no disponibles en el extracto."
+  },
+  "en": {
+   "titulo": "I Come Tailored for Your Own Good - Salamanca",
+   "resumen": "Cultural activity at the Emilia Pardo Bazán Cultural Center. More details about the event are not available in the excerpt."
+  },
+  "temas": [
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "200c9a5c6b": {
+  "id": "9c35a22944",
+  "es": {
+   "titulo": "Viaje musical al Reino del Revés",
+   "resumen": "Acompaña a Kasam y Kasum en un viaje musical lleno de canciones y teatro de sombras. Una aventura para niños de 3 a 9 años."
+  },
+  "en": {
+   "titulo": "Musical Journey to the Upside-Down Kingdom",
+   "resumen": "Join Kasam and Kasum on a musical journey full of songs and shadow theater. An adventure for children aged 3 to 9."
+  },
+  "temas": [
+   "ninos",
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "70a930ed5d": {
+  "id": "f836cd3029",
+  "es": {
+   "titulo": "Viaje cultural a Segóbriga y Tarancón (Cuenca)",
+   "resumen": "Excursión de un día a Segóbriga y Tarancón. Incluye transporte en autobús y visitas guiadas. Plazas limitadas."
+  },
+  "en": {
+   "titulo": "Cultural Trip to Segóbriga and Tarancón (Cuenca)",
+   "resumen": "A day trip to Segóbriga and Tarancón. Includes bus transportation and guided tours. Limited spots available."
+  },
+  "temas": [
+   "cultura",
+   "rutas",
+   "parques"
+  ],
+  "a_cubierto": null
+ },
+ "41d2040d3e": {
+  "id": "7c73defea9",
+  "es": {
+   "titulo": "Viaje cultural a Zamora",
+   "resumen": "Descubre Zamora y Toro en una excursión de un día. Incluye transporte, guía y comida. Visita el casco histórico de Zamora y la Colegiata de Toro. Plazas limitadas para mayores de 12 años."
+  },
+  "en": {
+   "titulo": "Cultural trip to Zamora",
+   "resumen": "Discover Zamora and Toro on a day trip. Includes transport, guide, and meal. Visit Zamora's historic center and Toro's Colegiata. Limited spots for ages 12+."
+  },
+  "temas": [
+   "cultura",
+   "rutas"
+  ],
+  "a_cubierto": null
+ },
+ "d3b44caf3d": {
+  "id": "b23db4bf84",
+  "es": {
+   "titulo": "Viaje hacia la paz",
+   "resumen": "Un espectáculo familiar que promueve valores de convivencia y bienestar emocional. Sonrisas Mágicas y el hada Primavera buscan herramientas para la paz y el respeto."
+  },
+  "en": {
+   "titulo": "Journey towards peace",
+   "resumen": "A family show promoting values of coexistence and emotional well-being. Magical Smiles and Spring Fairy seek tools for peace and respect."
+  },
+  "temas": [
+   "cultura",
+   "ninos"
+  ],
+  "a_cubierto": true
+ },
+ "cd6c2db2f2": {
+  "id": "df52d5f12d",
+  "es": {
+   "titulo": "Viaje hacia la paz",
+   "resumen": "Teatro infantil donde Sonrisas y el Hada Primavera buscan la paz en el mundo. Una aventura mágica con personajes divertidos, recomendada a partir de 4 años. Con intérprete de lengua de signos."
+  },
+  "en": {
+   "titulo": "Journey towards peace",
+   "resumen": "Children's theater where Smiles and the Fairy Spring seek world peace. A magical adventure with fun characters, recommended for ages 4+. Includes sign language interpreter."
+  },
+  "temas": [
+   "cultura",
+   "ninos"
+  ],
+  "a_cubierto": true
+ },
+ "c92ad132a3": {
+  "id": "37d1667f21",
+  "es": {
+   "titulo": "Visita familiar al Vivero de Estufas y Nendo Dango",
+   "resumen": "Actividad familiar para aprender sobre el Vivero de Estufas y técnicas de cultivo Nendo Dango. Ideal para niños de 6 a 12 años. Duración aproximada de 2 horas. Requiere inscripción previa."
+  },
+  "en": {
+   "titulo": "Family visit to the Greenhouse and Nendo Dango",
+   "resumen": "Family activity to learn about the Greenhouse and Nendo Dango cultivation techniques. Ideal for children aged 6-12. Approximately 2 hours long. Prior registration required."
+  },
+  "temas": [
+   "naturaleza",
+   "ninos",
+   "parques"
+  ],
+  "a_cubierto": null
+ },
+ "076b7295d5": {
+  "id": "68e36187ff",
+  "es": {
+   "titulo": "Vuelve la música ligera",
+   "resumen": "Ángel de Andrés rinde homenaje a la música ligera de los años 60 y 70 con sus composiciones. Entrada libre hasta completar aforo."
+  },
+  "en": {
+   "titulo": "Light music returns",
+   "resumen": "Ángel de Andrés pays tribute to the light music of the 60s and 70s with his compositions. Free entry until capacity is reached."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "c2f177083c": {
+  "id": "5ddc29e9ae",
+  "es": {
+   "titulo": "Yerma",
+   "resumen": "Performance, música y danza inspirada en Lorca. 'Yerma' explora el espíritu, la piel y el alma a través de palabras, música y danza. Público adulto."
+  },
+  "en": {
+   "titulo": "Yerma",
+   "resumen": "Performance, music, and dance inspired by Lorca. 'Yerma' explores spirit, skin, and soul through words, music, and dance. Adult audience."
+  },
+  "temas": [
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "26c1c845d4": {
+  "id": "74b5a9e0bc",
+  "es": {
+   "titulo": "Yo quiero ser malabarista",
+   "resumen": "Una obra de teatro infantil sobre la igualdad de género en el circo. Una chica lucha por ser malabarista, demostrando que el trabajo no tiene género. Recomendada de 3 a 12 años."
+  },
+  "en": {
+   "titulo": "I want to be a juggler",
+   "resumen": "A children's play about gender equality in the circus. A girl fights to be a juggler, proving that jobs are not gender-specific. Recommended for ages 3-12."
+  },
+  "temas": [
+   "ninos",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "cfdbced309": {
+  "id": "54b6e9cbb4",
+  "es": {
+   "titulo": "'Akeraq' (Teatro)",
+   "resumen": "Obra teatral que aborda la violencia de género a través de la historia de una familia. Una puesta en escena directa y emocional para mayores de 18 años."
+  },
+  "en": {
+   "titulo": "'Akeraq' (Theater)",
+   "resumen": "A play addressing gender-based violence through a family's history. A direct and emotional staging for audiences aged 18+."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "4f59990930": {
+  "id": "340105fe15",
+  "es": {
+   "titulo": "'A la guerra yo no voy'",
+   "resumen": "Evento literario con Camila Monasterio y Emma Gascó en la Biblioteca Pública Municipal San Fermín."
+  },
+  "en": {
+   "titulo": "'I am not going to war'",
+   "resumen": "Literary event with Camila Monasterio and Emma Gascó at the San Fermín Municipal Public Library."
+  },
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "b340dd2952": {
+  "id": "dabde59a46",
+  "es": {
+   "titulo": "'Cartografiando la identidad migrante'",
+   "resumen": "Ciclo 'Reflexapiens' en la Biblioteca Pública Municipal Eugenio Trías, centrado en la identidad migrante."
+  },
+  "en": {
+   "titulo": "'Mapping migrant identity'",
+   "resumen": "'Reflexapiens' cycle at the Eugenio Trías Municipal Public Library, focusing on migrant identity."
+  },
+  "temas": [
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": true
+ },
+ "48d995592e": {
+  "id": "56229795d2",
+  "es": {
+   "titulo": "'Con Lorcura Teatro' - Biblioteca David Gistau",
+   "resumen": "Ciclo de teatro y poesía con 'Con Lorcura Teatro' en la Biblioteca David Gistau. Incluye fragmentos de libros, lecturas dramatizadas y poesía. A partir de 18 años."
+  },
+  "en": {
+   "titulo": "'Con Lorcura Teatro' - David Gistau Library",
+   "resumen": "Theater and poetry cycle with 'Con Lorcura Teatro' at the David Gistau Library. Features book excerpts, dramatized readings, and poetry. For ages 18+."
+  },
+  "temas": [
+   "cultura",
+   "libros",
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "a4a04c9314": {
+  "id": "5cff830ab8",
+  "es": {
+   "titulo": "'Con Lorcura Teatro' - Biblioteca Manuel Vázquez Montalbán",
+   "resumen": "Ciclo de lecturas dramatizadas y fragmentos de libros con 'Con Lorcura Teatro' en la Biblioteca Manuel Vázquez Montalbán. Sesiones bimensuales para mayores de 18 años."
+  },
+  "en": {
+   "titulo": "'Con Lorcura Teatro' - Manuel Vázquez Montalbán Library",
+   "resumen": "Cycle of dramatized readings and book excerpts with 'Con Lorcura Teatro' at the Manuel Vázquez Montalbán Library. Bi-monthly sessions for ages 18+."
+  },
+  "temas": [
+   "cultura",
+   "libros",
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "53a8620a9b": {
+  "id": "91536185c1",
+  "es": {
+   "titulo": "'Con Lorcura Teatro' - Biblioteca María Zambrano",
+   "resumen": "Ciclo de lecturas dramatizadas por 'Con Lorcura Teatro' en la Biblioteca María Zambrano. Expresividad corporal y vocal para dar vida a los personajes. Sesiones bimestrales."
+  },
+  "en": {
+   "titulo": "'Con Lorcura Teatro' - María Zambrano Library",
+   "resumen": "Cycle of dramatized readings by 'Con Lorcura Teatro' at the María Zambrano Library. Uses body and vocal expression to bring characters to life. Bi-monthly sessions."
+  },
+  "temas": [
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": true
+ },
+ "699b847e23": {
+  "id": "6be7cec1c3",
+  "es": {
+   "titulo": "'Cuentos bajo el ala' con Margalida Albertí",
+   "resumen": "Sesión de bebecuentos para bebés de 0 a 24 meses, para estimular sentidos y el vínculo afectivo. Dos sesiones de 30 minutos. Aforo limitado."
+  },
+  "en": {
+   "titulo": "'Stories under the wing' with Margalida Albertí",
+   "resumen": "Baby story session for infants aged 0-24 months, to stimulate senses and bonding. Two 30-minute sessions. Limited capacity."
+  },
+  "temas": [
+   "ninos",
+   "libros"
+  ],
+  "a_cubierto": true
+ },
+ "1b94ef6468": {
+  "id": "ddb70d32c7",
+  "es": {
+   "titulo": "'Protagonista de tu vida'",
+   "resumen": "Evento literario con Sara Fernández Soler en la Biblioteca Pública Municipal Victoria Prego."
+  },
+  "en": {
+   "titulo": "'Protagonist of your life'",
+   "resumen": "Literary event with Sara Fernández Soler at the Victoria Prego Municipal Public Library."
+  },
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "d41498b452": {
+  "id": "26aafc2b43",
+  "es": {
+   "titulo": "'Stone soup' con Mamen Storyteller",
+   "resumen": "Sesión de cuentacuentos en inglés para niños a partir de 4 años. Aventuras y personajes divertidos para familiarizarse con el idioma de forma lúdica."
+  },
+  "en": {
+   "titulo": "'Stone soup' with Mamen Storyteller",
+   "resumen": "English storytelling session for children aged 4+. Fun adventures and characters to playfully learn the language."
+  },
+  "temas": [
+   "ninos",
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "dc18521936": {
+  "id": "4c8c258563",
+  "es": {
+   "titulo": "''Los Pedos de Alfredo''",
+   "resumen": "Cuentacuentos interactivo para niños a partir de 5 años sobre un niño y sus pedos, que reflejan sus emociones. Entrada libre hasta completar aforo."
+  },
+  "en": {
+   "titulo": "'Alfredo's Farts'",
+   "resumen": "Interactive storytelling for children aged 5+ about a boy whose farts reflect his emotions. Free entry until capacity is reached."
+  },
+  "temas": [
+   "ninos",
+   "libros"
+  ],
+  "a_cubierto": true
+ },
+ "7ee15d6ffb": {
+  "id": "ccf7856256",
+  "es": {
+   "titulo": "¿Está usted mal de la cabeza?",
+   "resumen": "Comedia inteligente basada en la obra de Laurent Baffie, que reflexiona sobre la mente humana. Representada por el Grupo Teatral Kávea."
+  },
+  "en": {
+   "titulo": "Are you out of your mind?",
+   "resumen": "Intelligent comedy based on Laurent Baffie's play, reflecting on the human mind. Performed by the Kávea Theater Group."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "7462ca97a6": {
+  "id": "bf77af4b84",
+  "es": {
+   "titulo": "¿Está usted mal de la cabeza?",
+   "resumen": "Obra de teatro divertida y actual sobre salud mental y TOC, con humor y empatía. Presentada por la Asociación Kávea Teatro."
+  },
+  "en": {
+   "titulo": "Are you out of your mind?",
+   "resumen": "A fun and contemporary play about mental health and OCD, blending humor and empathy. Presented by the Kávea Theater Association."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "9193991324": {
+  "id": "9380e411db",
+  "es": {
+   "titulo": "Presentación libro 'Drichen: el código de mi vida'",
+   "resumen": "Presentación de la novela de autoficción de Adrián Fernández Rodríguez. Una historia sobre la infancia, los sueños y la música, ambientada en Zamora."
+  },
+  "en": {
+   "titulo": "Book presentation 'Drichen: the code of my life'",
+   "resumen": "Presentation of Adrián Fernández Rodríguez's autofiction novel. A story about childhood, dreams, and music, set in Zamora."
+  },
+  "temas": [
+   "libros",
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "7f7f7ef0ad": {
+  "id": "1be037df0c",
+  "es": {
+   "titulo": "Open Studio Salamanca",
+   "resumen": "Jornada de puertas abiertas para visitar estudios de artistas y espacios culturales en Salamanca. Incluye presentaciones de libros, charlas y conciertos."
+  },
+  "en": {
+   "titulo": "Open Studio Salamanca",
+   "resumen": "Open house event to visit artists' studios and cultural spaces in Salamanca. Includes book presentations, talks, and concerts."
+  },
+  "temas": [
+   "cultura",
+   "musica",
+   "libros"
+  ],
+  "a_cubierto": true
+ },
+ "cfb847407b": {
+  "id": "466c3d4c18",
+  "es": {
+   "titulo": "'Arraigo' (Danza)",
+   "resumen": "Espectáculo de danza que recorre la península ibérica a través de folclore y danza estilizada. Conecta generaciones y celebra las raíces culturales."
+  },
+  "en": {
+   "titulo": "'Arraigo' (Dance)",
+   "resumen": "Dance performance exploring the Iberian Peninsula through folklore and stylized dance. Connects generations and celebrates cultural roots."
+  },
+  "temas": [
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "ed7257c4d9": {
+  "id": "3d71534ec8",
+  "es": {
+   "titulo": "'Capitán Corchea - Sax & Jazz'",
+   "resumen": "Concierto didáctico de jazz para niños con José Luis Gutiérrez, explorando el mundo del saxofón y sus instrumentos relacionados. Duración 60 min."
+  },
+  "en": {
+   "titulo": "'Captain Corchea - Sax & Jazz'",
+   "resumen": "Educational jazz concert for children with José Luis Gutiérrez, exploring the world of the saxophone and related instruments. Duration 60 min."
+  },
+  "temas": [
+   "musica",
+   "ninos",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "38e120257e": {
+  "id": "325670d168",
+  "es": {
+   "titulo": "'El viaje de Nuru' (Teatro)",
+   "resumen": "Teatro infantil sobre Nuru, una hormiga diferente que emprende un viaje de descubrimiento y amistad. Una aventura tierna y valiente. Duración 45 min."
+  },
+  "en": {
+   "titulo": "'Nuru's Journey' (Theater)",
+   "resumen": "Children's theater about Nuru, a different ant who embarks on a journey of discovery and friendship. A tender and brave adventure. Duration 45 min."
+  },
+  "temas": [
+   "ninos",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "fa5c99fd90": {
+  "id": "848cf292a6",
+  "es": {
+   "titulo": "'Gag movie' (Producciones Yllana): Sátira teatral sobre el cine",
+   "resumen": "La compañía Yllana presenta 'Gag movie', una hilarante sátira sobre el disparatado rodaje de una película. Descubre los enredos de una diva insoportable, un director obsesivo y un productor mafioso en esta comedia teatral."
+  },
+  "en": {
+   "titulo": "'Gag movie' (Producciones Yllana): A Theatrical Satire on Cinema",
+   "resumen": "Yllana presents 'Gag movie', a hilarious satire about the chaotic filming of a movie. Discover the entanglements of an unbearable diva, an obsessive director, and a mafia producer in this theatrical comedy."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "5dc096186c": {
+  "id": "eaa1274b17",
+  "es": {
+   "titulo": "'Grandes voces de Jhony Calleja': Homenaje a la música melódica",
+   "resumen": "Jhony Calleja rinde homenaje a las grandes voces de la música romántica y melódica en un concierto que recorre éxitos de Nino Bravo, Camilo Sesto y Rocío Jurado. Una celebración de la música eterna y las voces que emocionan."
+  },
+  "en": {
+   "titulo": "'Grandes voces de Jhony Calleja': A Tribute to Melodic Music",
+   "resumen": "Jhony Calleja pays tribute to the great voices of romantic and melodic music in a concert that revisits hits by Nino Bravo, Camilo Sesto, and Rocío Jurado. A celebration of timeless music and moving voices."
+  },
+  "temas": [
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "04fd16f078": {
+  "id": "c3d0d9554a",
+  "es": {
+   "titulo": "'Houdini, historia de una muerte': Teatro y magia sobre el ilusionista",
+   "resumen": "Un espectáculo multidisciplinar que recrea los trucos de Houdini y narra su vida. Teatro, magia, escapismo y danza se unen para contar la fascinante historia del legendario ilusionista en su despedida."
+  },
+  "en": {
+   "titulo": "'Houdini, historia de una muerte': Theater and Magic about the Illusionist",
+   "resumen": "A multidisciplinary show recreating Houdini's tricks and narrating his life. Theater, magic, escapism, and dance combine to tell the fascinating story of the legendary illusionist in his farewell."
+  },
+  "temas": [
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "0aa717ad76": {
+  "id": "a146c46c66",
+  "es": {
+   "titulo": "'Impro impar show (2+1)': Teatro de improvisación cómica",
+   "resumen": "Disfruta de 'Impro impar show', una propuesta de teatro de improvisación donde todo es inventado al momento. Una experiencia cómica y divertida que se adapta a cualquier temática."
+  },
+  "en": {
+   "titulo": "'Impro impar show (2+1)': Comedic Improv Theater",
+   "resumen": "Enjoy 'Impro impar show', an improv theater performance where everything is invented on the spot. A funny and entertaining experience that adapts to any theme."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "67a3ac8bdd": {
+  "id": "392e6e6675",
+  "es": {
+   "titulo": "'Jugando con fuego': Ciencia y espectáculo sobre la combustión",
+   "resumen": "Circonciencia presenta 'Jugando con Fuego', un espectáculo que explica de forma entretenida y científica el fenómeno de la combustión. Ciencia, diversión y demostraciones controladas con fuego."
+  },
+  "en": {
+   "titulo": "'Jugando con fuego': Science and Show about Combustion",
+   "resumen": "Circonciencia presents 'Jugando con Fuego', a show that entertainingly and scientifically explains the phenomenon of combustion. Science, fun, and controlled fire demonstrations."
+  },
+  "temas": [
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "2f6b0ac2a7": {
+  "id": "0e992d5aa3",
+  "es": {
+   "titulo": "'La España vacilada': Comedia teatral sobre la España rural",
+   "resumen": "Una comedia teatral que aborda las reivindicaciones de la España rural. Los habitantes del campo se manifiestan en la ciudad ante la indiferencia de los políticos en este divertido montaje."
+  },
+  "en": {
+   "titulo": "'La España vacilada': Comedic Theater about Rural Spain",
+   "resumen": "A comedic play addressing the demands of rural Spain. Countryside dwellers protest in the city against political indifference in this amusing performance."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "a87cfd7bcc": {
+  "id": "f73cdec88d",
+  "es": {
+   "titulo": "'La niñera fantástica': Musical homenaje a Mary Poppins",
+   "resumen": "Un homenaje musical a Mary Poppins con 'La niñera fantástica'. Una niñera mágica, un deshollinador y dos niños viven aventuras llenas de humor, magia y canciones originales."
+  },
+  "en": {
+   "titulo": "'La niñera fantástica': Musical Tribute to Mary Poppins",
+   "resumen": "'La niñera fantástica' is a musical tribute to Mary Poppins. A magical nanny, a chimney sweep, and two children experience adventures full of humor, magic, and original songs."
+  },
+  "temas": [
+   "cultura",
+   "ninos"
+  ],
+  "a_cubierto": true
+ },
+ "340f546da9": {
+  "id": "12446c8b7b",
+  "es": {
+   "titulo": "'Lazos de sangre': Danza-teatro sobre la vida familiar",
+   "resumen": "La Compañía Carmen Amaya presenta 'Lazos de Sangre', una obra de danza-teatro que explora la vida íntima de una familia a principios del siglo XX. Fusión de estilos con flamenco y danza contemporánea."
+  },
+  "en": {
+   "titulo": "'Lazos de sangre': Dance-Theater about Family Life",
+   "resumen": "The Carmen Amaya Company presents 'Lazos de Sangre', a dance-theater piece exploring the intimate life of a family in the early 20th century. A fusion of styles with flamenco and contemporary dance."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "6bdc2ac8a3": {
+  "id": "eb1cd35a6e",
+  "es": {
+   "titulo": "'Los cuentos de David Acera' en la Biblioteca Pública",
+   "resumen": "David Acera ofrece sesiones de narración oral en la Biblioteca Pública de El Burgo de Osma. Cuentos que exploran temáticas poco habituales y dan la vuelta a los roles tradicionales."
+  },
+  "en": {
+   "titulo": "'Los cuentos de David Acera' at the Public Library",
+   "resumen": "David Acera presents oral storytelling sessions at the Public Library of El Burgo de Osma. Stories exploring unusual themes and subverting traditional roles."
+  },
+  "temas": [
+   "libros",
+   "ninos"
+  ],
+  "a_cubierto": true
+ },
+ "786627124d": {
+  "id": "cfa58c9d17",
+  "es": {
+   "titulo": "'Los monólogos de Dani Fontecha': Comedia stand-up",
+   "resumen": "El cómico y guionista Dani Fontecha, conocido por su participación en 'El hormiguero', presenta su espectáculo de monólogos. Una hora de humor y anécdotas."
+  },
+  "en": {
+   "titulo": "'Los monólogos de Dani Fontecha': Stand-up Comedy",
+   "resumen": "Comedian and screenwriter Dani Fontecha, known for his appearance on 'El hormiguero', presents his stand-up comedy show. An hour of humor and anecdotes."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "2d0953a664": {
+  "id": "a7494008ab",
+  "es": {
+   "titulo": "'Malabaqué?': Espectáculo de circo y malabares para todos los públicos",
+   "resumen": "Un artista de circo presenta 'Malabaqué?', un show que combina malabares, clown y narración con mucho humor. Un espectáculo interactivo y divertido para toda la familia."
+  },
+  "en": {
+   "titulo": "'Malabaqué?': Circus and Juggling Show for All Audiences",
+   "resumen": "A circus artist presents 'Malabaqué?', a show combining juggling, clowning, and storytelling with plenty of humor. An interactive and fun performance for the whole family."
+  },
+  "temas": [
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "a1b5c15985": {
+  "id": "11b5f076fe",
+  "es": {
+   "titulo": "'Melodías de siempre': Concierto de violín con bandas sonoras",
+   "resumen": "El Dúo de Cámara Iberclásico ofrece un concierto de violín con arreglos de famosas bandas sonoras de cine. Un viaje musical que evoca recuerdos y emociones a través de melodías icónicas."
+  },
+  "en": {
+   "titulo": "'Melodías de siempre': Violin Concert with Film Scores",
+   "resumen": "The Iberclásico Chamber Duo presents a violin concert featuring arrangements of famous film scores. A musical journey evoking memories and emotions through iconic melodies."
+  },
+  "temas": [
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "9f045951e9": {
+  "id": "114f89a320",
+  "es": {
+   "titulo": "'Navidades Gospel y Gospel Fest': Concierto de música Gospel",
+   "resumen": "Disfruta de un concierto Gospel con lo mejor del repertorio tradicional y moderno, dirigido por Raquel Soto. Una fusión de espiritualidad, soul y villancicos para celebrar la Navidad."
+  },
+  "en": {
+   "titulo": "'Navidades Gospel y Gospel Fest': Gospel Music Concert",
+   "resumen": "Enjoy a Gospel concert featuring the best of traditional and modern repertoire, led by Raquel Soto. A fusion of spirituality, soul, and carols to celebrate Christmas."
+  },
+  "temas": [
+   "musica",
+   "navidad"
+  ],
+  "a_cubierto": true
+ },
+ "d1d4b172a3": {
+  "id": "8dd373bb68",
+  "es": {
+   "titulo": "'Ni más ni menos': Teatro sobre la desigualdad de género",
+   "resumen": "'Ni más ni menos' es una propuesta teatral que expone de forma cómica y absurda las desigualdades y roles de género en la sociedad. Una reflexión sobre lo ridículo de la discriminación."
+  },
+  "en": {
+   "titulo": "'Ni más ni menos': Theater on Gender Inequality",
+   "resumen": "'Ni más ni menos' is a theatrical proposal that comically and absurdly exposes gender inequalities and roles in society. A reflection on the ridiculousness of discrimination."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "f899aca36a": {
+  "id": "2943276103",
+  "es": {
+   "titulo": "'Orgullo rural': Teatro y música sobre la vida en el campo",
+   "resumen": "Elia Tralará y Uxía López presentan 'Orgullo rural', un espectáculo de teatro y música en directo que celebra la identidad y las experiencias de la vida en el pueblo."
+  },
+  "en": {
+   "titulo": "'Orgullo rural': Theater and Music about Rural Life",
+   "resumen": "Elia Tralará and Uxía López present 'Orgullo rural', a live theater and music show celebrating the identity and experiences of life in the countryside."
+  },
+  "temas": [
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "8bf602f25a": {
+  "id": "5b39d3a6c6",
+  "es": {
+   "titulo": "'Perdidas por el teatro': Aventura teatral infantil",
+   "resumen": "Dos niñas se pierden en el sótano de un teatro y viven una aventura descubriendo el mundo de Shakespeare, Quevedo y el cabaret. Un juego teatral para reflexionar sobre la pasión por las artes escénicas."
+  },
+  "en": {
+   "titulo": "'Perdidas por el teatro': Children's Theatrical Adventure",
+   "resumen": "Two girls get lost in a theater's basement and embark on an adventure discovering the worlds of Shakespeare, Quevedo, and cabaret. A theatrical game to reflect on the passion for performing arts."
+  },
+  "temas": [
+   "cultura",
+   "ninos"
+  ],
+  "a_cubierto": true
+ },
+ "5a6b173c23": {
+  "id": "84e94097c4",
+  "es": {
+   "titulo": "Presentación de libros 'Nuevas voces' de jóvenes escritores",
+   "resumen": "El Instituto Castellano y Leonés de la Lengua presenta dos obras ganadoras del Certamen Valpuesta para Jóvenes Escritores: 'Los nombres que no se dicen' y 'Las oscuras golondrinas nunca volvieron'."
+  },
+  "en": {
+   "titulo": "Book Presentation 'Nuevas voces' by Young Writers",
+   "resumen": "The Castilla y León Institute of Language presents two winning works from the Valpuesta Contest for Young Writers: 'Los nombres que no se dicen' and 'Las oscuras golondrinas nunca volvieron'."
+  },
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "982a29fda5": {
+  "id": "eb5a0d7326",
+  "es": {
+   "titulo": "'Primera persona femenino plural': Teatro sobre la experiencia femenina",
+   "resumen": "'Primera persona femenino plural' es una propuesta teatral que celebra la experiencia colectiva de las mujeres. Un espacio para crear, amar y vivir en plenitud."
+  },
+  "en": {
+   "titulo": "'Primera persona femenino plural': Theater on the Female Experience",
+   "resumen": "'Primera persona femenino plural' is a theatrical proposal celebrating the collective experience of women. A space to create, love, and live in fullness."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "c93c2f1ee0": {
+  "id": "50b8b8f042",
+  "es": {
+   "titulo": "'¿Qué pacha mama?': Teatro infantil sobre ecología y igualdad",
+   "resumen": "'¿Qué pacha mama?' es una obra de teatro infantil que aborda la ecología y la igualdad de género de forma divertida. Personajes históricos y situaciones cómicas para concienciar a los más pequeños."
+  },
+  "en": {
+   "titulo": "'¿Qué pacha mama?': Children's Theater on Ecology and Equality",
+   "resumen": "'¿Qué pacha mama?' is a children's play that addresses ecology and gender equality in a fun way. Historical characters and comical situations to raise awareness among children."
+  },
+  "temas": [
+   "cultura",
+   "ninos"
+  ],
+  "a_cubierto": true
+ },
+ "319e56a43f": {
+  "id": "4cbc6651ae",
+  "es": {
+   "titulo": "'Raíces': Viaje musical y teatral por la España de 1931",
+   "resumen": "STRAD presenta 'Raíces', un espectáculo musical y teatral que combina humor, emoción y poesía sonora. Un viaje a través de cartas y grabaciones de una bióloga que recorrió España en 1931."
+  },
+  "en": {
+   "titulo": "'Raíces': Musical and Theatrical Journey Through 1931 Spain",
+   "resumen": "STRAD presents 'Raíces', a musical and theatrical show combining humor, emotion, and sonic poetry. A journey through letters and recordings of a biologist who traveled Spain in 1931."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "387c8052b4": {
+  "id": "ab28bf138d",
+  "es": {
+   "titulo": "'Rosas negras': Teatro y danza contra la violencia de género",
+   "resumen": "Un espectáculo de teatro, danza y performance que aborda la violencia de género a través de testimonios reales y textos creados por Nuria Martín. Una obra conmovedora y necesaria."
+  },
+  "en": {
+   "titulo": "'Rosas negras': Theater and Dance Against Gender Violence",
+   "resumen": "A theater, dance, and performance show addressing gender violence through real testimonies and texts created by Nuria Martín. A moving and necessary work."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "d492dcb12b": {
+  "id": "561b602bb7",
+  "es": {
+   "titulo": "'Strip-tease': Comedia surrealista sobre la libertad y el autoritarismo",
+   "resumen": "Morfeo Teatro presenta 'Strip-tease', una comedia surrealista del autor polaco Slawomir Mrozek. Dos hombres son obligados a desnudarse en una habitación claustrofóbica, reflexionando sobre la libertad."
+  },
+  "en": {
+   "titulo": "'Strip-tease': Surrealist Comedy about Freedom and Authoritarianism",
+   "resumen": "Morfeo Teatro presents 'Strip-tease', a surrealist comedy by Polish author Slawomir Mrozek. Two men are forced to undress in a claustrophobic room, reflecting on freedom."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "582f4d1f2c": {
+  "id": "4986941866",
+  "es": {
+   "titulo": "'Un, dos, tres... abracadabra': Magia interactiva para niños",
+   "resumen": "El Mago Oski presenta un espectáculo de magia interactivo donde los niños se convierten en aprendices para ayudarle a recuperar su toque mágico. Diversión, humor y participación garantizada."
+  },
+  "en": {
+   "titulo": "'Un, dos, tres... abracadabra': Interactive Magic for Children",
+   "resumen": "Mago Oski presents an interactive magic show where children become apprentices to help him regain his magical touch. Fun, humor, and guaranteed participation."
+  },
+  "temas": [
+   "cultura",
+   "ninos"
+  ],
+  "a_cubierto": true
+ },
+ "c09a5127e9": {
+  "id": "14be1bd9de",
+  "es": {
+   "titulo": "'Un sibarita con varita': Magia cómica para toda la familia",
+   "resumen": "Héctor Sansegundo presenta 'Un sibarita con varita', un espectáculo de magia disparatado y cómico para toda la familia. Risas, grandes aparatos y magia participativa garantizada."
+  },
+  "en": {
+   "titulo": "'Un sibarita con varita': Comedic Magic for the Whole Family",
+   "resumen": "Héctor Sansegundo presents 'Un sibarita con varita', a zany and comedic magic show for the whole family. Laughter, grand illusions, and participatory magic guaranteed."
+  },
+  "temas": [
+   "cultura",
+   "ninos"
+  ],
+  "a_cubierto": true
+ },
+ "6679aa8640": {
+  "id": "bb675c6b6f",
+  "es": {
+   "titulo": "'Veo veo ¿Qué no ves?': Teatro sobre la historia oculta de las mujeres",
+   "resumen": "'Veo veo ¿Qué no ves?' utiliza el humor y la poesía para visibilizar la participación femenina en la historia, a menudo omitida en los libros. Un proyecto que da voz a mujeres olvidadas."
+  },
+  "en": {
+   "titulo": "'Veo veo ¿Qué no ves?': Theater on the Hidden History of Women",
+   "resumen": "'Veo veo ¿Qué no ves?' uses humor and poetry to highlight women's participation in history, often omitted from books. A project that gives voice to forgotten women."
+  },
+  "temas": [
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": true
  }
 }

@@ -1,11 +1,11 @@
 {
-  "generated": "2026-11-08T11:17:51.182Z",
+  "generated": "2026-11-08T12:16:11.985Z",
   "today": "2026-11-08",
-  "events": 6325,
-  "review": 10,
+  "events": 6352,
+  "review": 11,
   "ai": {
-    "calls": 0,
-    "seconds": 32,
+    "calls": 13,
+    "seconds": 216,
     "tripped": false
   },
   "sources": [
@@ -67,7 +67,7 @@
     {
       "id": "prensa-ara-cultura",
       "status": "ok",
-      "count": 12,
+      "count": 11,
       "candidatos": true
     },
     {
@@ -79,7 +79,7 @@
     {
       "id": "prensa-nortecastilla-culturas",
       "status": "ok",
-      "count": 9,
+      "count": 10,
       "candidatos": true
     },
     {
@@ -97,7 +97,7 @@
     {
       "id": "prensa-ideal-culturas",
       "status": "ok",
-      "count": 23,
+      "count": 24,
       "candidatos": true
     },
     {

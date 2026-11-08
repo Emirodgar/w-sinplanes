@@ -151,6 +151,16 @@
    ]
   },
   {
+   "term": "militar",
+   "traffic": 10000,
+   "lastSeen": "2026-11-08",
+   "news": [
+    "Muere un soldado del Ejército de Tierra durante una instrucción militar en Zaragoza",
+    "Qué es la Brigada 'Guzmán el Bueno' X: dónde está, qué funciones tiene y qué unidades la forman",
+    "Muere un soldado durante unos ejercicios en el campo de maniobras de San Gregorio (Zaragoza)"
+   ]
+  },
+  {
    "term": "ibex 35",
    "traffic": 5000,
    "lastSeen": "2026-10-26",
@@ -301,13 +311,13 @@
    ]
   },
   {
-   "term": "militar",
+   "term": "barça - breogán",
    "traffic": 5000,
    "lastSeen": "2026-11-08",
    "news": [
-    "Muere un soldado durante unos ejercicios en el campo de maniobras de San Gregorio (Zaragoza)",
-    "Muere un militar durante unas maniobras de instrucción en Zaragoza",
-    "Muere un soldado de la Brigada Guzmán el Bueno X de Córdoba durante un ejercicio táctico en el Centro Nacional de Adiestramiento San Gregorio de Zaragoza"
+    "Barcelona - Breogán, en directo: ACB (Liga Endesa) 2026/27 hoy en vivo",
+    "Barça – Río Breogán: ¡En estado de gracia!",
+    "Barça - Breogán en directo: última hora y resultado en vivo del partido de la Liga Endesa hoy"
    ]
   },
   {
@@ -562,21 +572,21 @@
   {
    "term": "restaurante",
    "traffic": 2000,
-   "lastSeen": "2026-11-07",
+   "lastSeen": "2026-11-08",
    "news": [
-    "Cuánto cuesta comer en los 10 mejores restaurantes del mundo: menús desde 225 euros hasta 2.000",
-    "«¿Que cuesta reservar? Los primeros años hice muchos ceros y nadie se acordaba de Etxebarri»",
-    "Las mejores mesas españolas del mundo"
+    "Condenan a una comunidad de vecinos a pagar casi 49.000 euros a un restaurante que tuvo que cerrar por unas obras",
+    "Condenada una comunidad de propietarios a indemnizar con 49.011 euros a un restaurante por cerrar debido a unas obras",
+    "Condenan a una comunidad de vecinos a pagar 49.000 euros a un restaurante que tuvo que cerrar 47 días por obras en el edificio"
    ]
   },
   {
-   "term": "barça - breogán",
+   "term": "burgos - valencia",
    "traffic": 2000,
    "lastSeen": "2026-11-08",
    "news": [
-    "Barça - Breogán, en directo | Liga Endesa de baloncesto",
-    "Barcelona - Breogán, en directo: ACB (Liga Endesa) 2026/27 hoy en vivo",
-    "Mucho que ganar y poco que perder"
+    "EN DIRECTO | Corbalán regresa al Coliseum con el Valencia",
+    "Vuelve a casa la Liga Endesa con un partido de alto nivel",
+    "El Valencia Basket quiere conquistar Burgos antes de regresar al Roig Arena"
    ]
   },
   {
@@ -720,11 +730,11 @@
   {
    "term": "jubilación en españa",
    "traffic": 1000,
-   "lastSeen": "2026-10-29",
+   "lastSeen": "2026-11-08",
    "news": [
-    "Gonzalo Bernardos lanza una advertencia sobre la jubilación en España: «Debemos estar preparados para lo qu...",
-    "Gonzalo Bernardos, economista: \"Tengo miedo porque soy de la generación del baby boom, y me da la impresión de que nos va a caer de todo\"",
-    "Gonzalo Bernardos, economista: \"En España el jubilado promedio tiene más de 20 años de pensión pero solo ha pagado como máximo por 12\""
+    "La Seguridad Social confirma: es muy difícil que un trabajador llegue a los 67 años en plenas capacidades",
+    "La jubilación cambia en 2027: esta es la edad a la que podrás retirarte y empezar a cobrar pensión",
+    "Se acabó la jubilación a los 66 años en España y es oficial: se confirma que desde el 1 de enero de 2027 ca..."
    ]
   },
   {
@@ -918,6 +928,26 @@
    ]
   },
   {
+   "term": "napoli - lazio",
+   "traffic": 1000,
+   "lastSeen": "2026-11-08",
+   "news": [
+    "LIVE Napoli-Lazio 0-0: nei primi 3', grandi occasioni per Isaksen e Frattesi. Poi spreca Hojlund",
+    "Napoli-Lazio: le formazioni ufficiali. Fuori Anguissa, ci sono Vergara e Nuno Tavares",
+    "Serie A, si chiude oggi l’11esima giornata: ora in corso Napoli-Lazio 0-0. LIVE"
+   ]
+  },
+  {
+   "term": "heerenveen - feyenoord",
+   "traffic": 1000,
+   "lastSeen": "2026-11-08",
+   "news": [
+    "VI Live: Feyenoord leidt comfortabel in Heerenveen na opvallend penalty-moment",
+    "LIVE 12:15 | sc Heerenveen - Feyenoord",
+    "Giovanni van Bronckhorst laat Tsuyoshi Watanabe terugkeren in de basis bij Feyenoord op bezoek bij Heerenveen"
+   ]
+  },
+  {
    "term": "clasico hoy",
    "traffic": 500,
    "lastSeen": "2026-10-25",
@@ -1040,11 +1070,11 @@
   {
    "term": "audiencias tv",
    "traffic": 500,
-   "lastSeen": "2026-10-29",
+   "lastSeen": "2026-11-08",
    "news": [
-    "‘Horizonte’ hace historia frente a los especiales de Antena 3 y La 1",
-    "Iker Jiménez bate un récord histórico con la cobertura de la tragedia de Urda",
-    "'La hora de La 1', 'Mañaneros' y Antena 3 Noticias encabezan un día al alza para las ofertas informativas por el accidente en Urda"
+    "'La Ruleta' (9.4%) lidera la noche, 'Malas lenguas' (8.8%) resiste y Luján Argüelles (5.7%) destaca en las audiencias de La Séptima",
+    "La Séptima marca otro récord en su primer sábado y supera a La 2 con un 3%",
+    "Audiencias TV ayer | Luján Argüelles arrasa en La Séptima y gana a Telecinco con su 'Fin de semana' y el tándem Alba Carrillo y Marta Márquez se queda a una décima de laSexta"
    ]
   },
   {
@@ -1381,36 +1411,6 @@
    ]
   },
   {
-   "term": "napoli - lazio",
-   "traffic": 500,
-   "lastSeen": "2026-11-08",
-   "news": [
-    "Napoli-Lazio: le formazioni ufficiali. Fuori Anguissa, ci sono Vergara e Nuno Tavares",
-    "Gattuso: \"Di Allegri non mi fido: è uno sgamato, nei momenti difficili non muore di stress\"",
-    "Trecento tifosi sotto l'albergo del Napoli, contestati gli azzurri prima della partita con la Lazio"
-   ]
-  },
-  {
-   "term": "burgos - valencia",
-   "traffic": 500,
-   "lastSeen": "2026-11-08",
-   "news": [
-    "Vuelve a casa la Liga Endesa con un partido de alto nivel",
-    "El Valencia Basket quiere conquistar Burgos antes de regresar al Roig Arena",
-    "Fisac: \"Debemos algo a la grada\""
-   ]
-  },
-  {
-   "term": "heerenveen - feyenoord",
-   "traffic": 500,
-   "lastSeen": "2026-11-08",
-   "news": [
-    "LIVE 12:15 | sc Heerenveen - Feyenoord",
-    "Giovanni van Bronckhorst laat Tsuyoshi Watanabe terugkeren in de basis bij Feyenoord op bezoek bij Heerenveen",
-    "Smans vol vertrouwen bij SC Heerenveen: \"Tik oude niveau weer aan\""
-   ]
-  },
-  {
    "term": "sami khedira",
    "traffic": 500,
    "lastSeen": "2026-11-08",
@@ -1418,6 +1418,26 @@
     "El enganchón de Khedira con tres aficionados del Valencia: el ambiente estaba muy tenso",
     "Victor Wembanyama desafía a un árbitro a jugar al fútbol, pero el árbitro lo sorprende con su habilidad",
     "Victor Wembanyama pone al árbitro en un aprieto con un desafío futbolístico, pero este revela unas habilidades ocultas"
+   ]
+  },
+  {
+   "term": "elon musk",
+   "traffic": 500,
+   "lastSeen": "2026-11-08",
+   "news": [
+    "Watch: Is it the end of the road for Tesla's Cybertruck?",
+    "Tesla to pull the plug on Cybertruck after years of poor sales",
+    "No more Cybertrucks; Musk moves on from the angular metallic flop"
+   ]
+  },
+  {
+   "term": "cb canarias - joventut",
+   "traffic": 500,
+   "lastSeen": "2026-11-08",
+   "news": [
+    "El encuentro entre La Laguna Tenerife y ASISA Joventut se jugará a puerta cerrada",
+    "El riesgo de la suspensión de un partido: espada de Damocles para el CB Canarias ante un calendario recargado",
+    "El Tenerife-Joventut, a puerta cerrada por la borrasca Bruna"
    ]
   },
   {
@@ -2115,16 +2135,6 @@
     "“Los números de la NFL en Madrid no distan mucho de los del Clásico”",
     "Sanz: “La NFL no podía faltar en una de las grandes capitales deportivas del mundo”",
     "Madrid reúne a los líderes del deporte profesional estadounidense"
-   ]
-  },
-  {
-   "term": "elon musk",
-   "traffic": 200,
-   "lastSeen": "2026-11-08",
-   "news": [
-    "How Elon Musk Frittered Away Nearly $500 Million on the Midterm Elections",
-    "Elon Musk Staked His Empire on Texas. Now State Democrats Want to Rein Him In.",
-    "Elon Musk's Tesla and SpaceX lose over $420 billion in combined market cap after midterms"
    ]
   },
   {

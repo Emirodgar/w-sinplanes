@@ -16898,5 +16898,1032 @@
   ],
   "a_cubierto": null,
   "confianza": 0.9
+ },
+ "bf19884683": {
+  "url": "https://www.20minutos.es/libros/prodigiosa-ciudad-los-prodigios-mendoza-cumple-40-anos-he-preferido-no-corregir-errores-libro-tiene-vida-propia_7058288_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-11-08",
+  "es_plan": false
+ },
+ "b3fdf2aba2": {
+  "url": "https://elpais.com/cultura/2026-11-08/george-saunders-escritor-contar-historias-es-una-necesidad-primordial.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-11-08",
+  "es_plan": false
+ },
+ "e756db4f01": {
+  "url": "https://elpais.com/cultura/2026-11-08/el-nino-del-exilio-republicano-que-catalogo-todo-el-cine-mexicano.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-11-08",
+  "es_plan": false
+ },
+ "527dd959a6": {
+  "url": "https://www.lavanguardia.com/encatala/20261108/11678838/naomi-ishiguro-independencia-pes-nobel-festival-42-literatura.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-08",
+  "es_plan": false
+ },
+ "2a3d52ff28": {
+  "url": "https://www.lavanguardia.com/cultura/20261108/11678837/naomi-ishiguro-como-conseguir-independencia-peso-nobel.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-08",
+  "es_plan": false
+ },
+ "bf96576d91": {
+  "url": "https://www.lavanguardia.com/cultura/20261108/11678827/katixa-agirre-espias-mas-comunes-han-sido-criadas.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-08",
+  "es_plan": false
+ },
+ "4bb93aa8b8": {
+  "url": "https://www.lavanguardia.com/cultura/20261108/11678688/kiko-veneno-plan-buen-rollo-otros-discos-semana.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-08",
+  "es_plan": false
+ },
+ "b6d0deab34": {
+  "url": "https://www.lavanguardia.com/cultura/20261108/11678114/conciertos-moviles-busca-emocion-unica.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-08",
+  "es_plan": false
+ },
+ "de8ea91d1f": {
+  "url": "https://www.lavanguardia.com/cultura/20261108/11677274/carminho-voces-tienden-puentes-apostar-entendimiento-mutuo.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-08",
+  "es_plan": true,
+  "titulo": "Carminho actúa en el Liceu de Barcelona",
+  "resumen": "La fadista Carminho presenta su trabajo más experimental, 'Eu vou morrer de amor ou resistir', en el teatro del Liceu de Barcelona.",
+  "en": {
+   "titulo": "Carminho performs at Barcelona's Liceu",
+   "resumen": "Fado singer Carminho presents her most experimental work, 'Eu vou morrer de amor ou resistir', at Barcelona's Liceu theater."
+  },
+  "inicio": "2026-11-10",
+  "fin": "2026-11-10",
+  "hora": null,
+  "lugar": "Liceu",
+  "municipio": "Barcelona",
+  "provincia": "Barcelona",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "38f74aa0f2": {
+  "url": "https://www.lavanguardia.com/cultura/culturas/20261108/11674154/treinta-anos-clasico-juvenil.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-08",
+  "es_plan": false
+ },
+ "c7f2b3bd08": {
+  "url": "https://www.lavanguardia.com/cultura/20261108/11679040/literatura-barcelonesa-brilla.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-08",
+  "es_plan": false
+ },
+ "c6180a9da4": {
+  "url": "https://www.lavanguardia.com/cultura/20261108/11678617/minuto-de-silencio-de-miguel-barca-pau-casals-cant-dels-ocells-savall.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-08",
+  "es_plan": false
+ },
+ "a0edb68207": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/08/enrique-bunbury-obligado-detener-concierto-mas-8000personas-2065189.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-08",
+  "es_plan": true,
+  "titulo": "Enrique Bunbury continúa su gira 'Nuevas Mutaciones Tour'",
+  "resumen": "Enrique Bunbury continúa su exitosa gira 'Nuevas Mutaciones Tour' por Latinoamérica, con próximas paradas en Santiago de Chile.",
+  "en": {
+   "titulo": "Enrique Bunbury continues his 'Nuevas Mutaciones Tour'",
+   "resumen": "Enrique Bunbury continues his successful 'Nuevas Mutaciones Tour' through Latin America, with upcoming stops in Santiago de Chile."
+  },
+  "inicio": "2026-11-09",
+  "fin": "2026-11-09",
+  "hora": null,
+  "lugar": "Multiespacio Costa 21",
+  "municipio": "Lima",
+  "provincia": "Lima",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.5
+ },
+ "4f5666f25f": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/08/andres-roca-rey-30anos-vivo-solo-casa-campo-disfruto-mucho-concentrado-metido-mi-2066723.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-08",
+  "es_plan": false
+ },
+ "6e402c751a": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/08/david-ucles-santiago-abascal-valentia-salir-revuelta-proteccion-publico-comprado-agallas-2066721.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-08",
+  "es_plan": false
+ },
+ "646c9bb1bc": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/08/monica-naranjo-52anos-siempre-tenido-buen-saque-desayuno-fruta-temporada-tostada-avena-queso-aceite-2066000.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-08",
+  "es_plan": true,
+  "titulo": "Mónica Naranjo celebra 30 años de carrera con gira de despedida",
+  "resumen": "La cantante Mónica Naranjo conmemora sus 30 años de carrera musical con una gira de despedida. Las citas de cierre están previstas para el 7 de diciembre en Madrid y el 30 de enero en Ciudad de México.",
+  "en": {
+   "titulo": "Mónica Naranjo celebrates 30 years of career with farewell tour",
+   "resumen": "Singer Mónica Naranjo commemorates her 30 years of musical career with a farewell tour. The closing dates are scheduled for December 7 in Madrid and January 30 in Mexico City."
+  },
+  "inicio": "2026-12-07",
+  "fin": "2027-01-30",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "43a7a34d27": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/08/jose-sacristan-89anos-parecen-detestables-actitudes-miserables-senor-santiago-abascal-terrible-accidente-ferroviario-2064584.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-08",
+  "es_plan": true,
+  "titulo": "José Sacristán de gira con 'El hijo de la cómica'",
+  "resumen": "El actor José Sacristán continúa de gira por España representando la obra 'El hijo de la cómica'. Estará en el Teatro Principal de Alicante y del 16 al 20 de diciembre en el Teatro Principal de Zaragoza.",
+  "en": {
+   "titulo": "José Sacristán on tour with 'El hijo de la cómica'",
+   "resumen": "Actor José Sacristán continues his tour across Spain performing the play 'El hijo de la cómica'. He will be at the Teatro Principal in Alicante and from December 16 to 20 at the Teatro Principal in Zaragoza."
+  },
+  "inicio": "2026-12-16",
+  "fin": "2026-12-20",
+  "hora": null,
+  "lugar": "Teatro Principal",
+  "municipio": "Zaragoza",
+  "provincia": "Zaragoza",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "47fdfba47b": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/08/conmovedor-homenaje-bryan-adams-paco-lucia-concierto-zaragoza-amigo-2066712.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-08",
+  "es_plan": true,
+  "titulo": "Bryan Adams rinde homenaje a Paco de Lucía en su concierto en Zaragoza",
+  "resumen": "Bryan Adams rindió homenaje al guitarrista Paco de Lucía durante su concierto en Zaragoza el pasado sábado 7 de noviembre, recordando su colaboración en la canción 'Have you ever really loved a woman?'.",
+  "en": {
+   "titulo": "Bryan Adams pays tribute to Paco de Lucía at his concert in Zaragoza",
+   "resumen": "Bryan Adams paid tribute to guitarist Paco de Lucía during his concert in Zaragoza last Saturday, November 7, recalling their collaboration on the song 'Have you ever really loved a woman?'."
+  },
+  "inicio": "2026-11-07",
+  "fin": "2026-11-07",
+  "hora": null,
+  "lugar": "Pabellón Príncipe Felipe",
+  "municipio": "Zaragoza",
+  "provincia": "Zaragoza",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "557f5af8bd": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/08/enrique-bunbury-come-mitico-restaurante-menu-cuesta-520euros-2066720.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-08",
+  "es_plan": false
+ },
+ "ed40b3afc9": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/08/musica-alcala-norte-no-vamos-sobrados-somos-realistas-2066659.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-08",
+  "es_plan": false
+ },
+ "59c16f500a": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/08/nerea-rodriguez-nunca-habia-patinado-pero-cuando-me-propusieron-este-musical-dije-alla-voy-2065641.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-08",
+  "es_plan": true,
+  "titulo": "Nerea Rodríguez protagoniza 'La nueva Cenicienta sobre hielo' en Zaragoza",
+  "resumen": "La cantante y actriz Nerea Rodríguez protagoniza el espectáculo 'La nueva Cenicienta sobre hielo', que se podrá ver en Puerto Venecia (Zaragoza) del 21 de noviembre al 10 de enero.",
+  "en": {
+   "titulo": "Nerea Rodríguez stars in 'The New Cinderella on Ice' in Zaragoza",
+   "resumen": "Singer and actress Nerea Rodríguez stars in the show 'The New Cinderella on Ice', which can be seen at Puerto Venecia (Zaragoza) from November 21 to January 10."
+  },
+  "inicio": "2026-11-21",
+  "fin": "2027-01-10",
+  "hora": null,
+  "lugar": "Puerto Venecia",
+  "municipio": "Zaragoza",
+  "provincia": "Zaragoza",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "ninos",
+   "cultura"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "db65bbf341": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/08/charlie-sheen-61anos-sobre-como-ha-cambiado-vida-centrate-que-hay-2065632.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-08",
+  "es_plan": false
+ },
+ "457501e319": {
+  "url": "https://www.elnortedecastilla.es/culturas/cine/estreno-documental-sobre-piedad-isla-reune-600-20261108130829-nt.html",
+  "fuente": "El Norte de Castilla (Culturas)",
+  "src": "prensa-nortecastilla-culturas",
+  "publicado": "2026-11-08",
+  "es_plan": false
+ },
+ "e3bf0c5f3c": {
+  "url": "https://www.ideal.es/culturas/dos-buena-sesiones-internacionales-despedido-festival-jazz-20261108123748-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-11-08",
+  "es_plan": false
+ },
+ "e91cb76515": {
+  "url": "https://www.ideal.es/culturas/almeria/nueve-formaciones-musicales-conmemoran-tres-decadas-musica-20261108113557-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-11-08",
+  "es_plan": false
+ },
+ "046b6899ab": {
+  "url": "https://www.elcorreo.com/culturas/musica/miribilla-enloquece-ritmo-palmas-galvan-real-20261108083117-nt.html",
+  "fuente": "El Correo (Culturas)",
+  "src": "prensa-elcorreo-culturas",
+  "publicado": "2026-11-08",
+  "es_plan": true,
+  "titulo": "Galvan Real celebra una década en los escenarios en Bilbao",
+  "resumen": "El artista valenciano Galvan Real celebró este sábado en Bilbao una década sobre los escenarios con un concierto de dos horas y media en el que repasó sus éxitos.",
+  "en": {
+   "titulo": "Galvan Real celebrates a decade on stage in Bilbao",
+   "resumen": "Valencian artist Galvan Real celebrated a decade on stage this Saturday in Bilbao with a two-and-a-half-hour concert featuring his hits."
+  },
+  "inicio": "2026-11-07",
+  "fin": "2026-11-07",
+  "hora": null,
+  "lugar": "Miribilla",
+  "municipio": "Bilbao",
+  "provincia": "Vizcaya",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "cdf43970d2": {
+  "url": "https://www.diariovasco.com/bidasoa/hondarribia/amua-paga-dinero-llegar-20261107191533-nt.html",
+  "fuente": "El Diario Vasco (Culturas)",
+  "src": "prensa-diariovasco-culturas",
+  "publicado": "2026-11-08",
+  "es_plan": true,
+  "titulo": "Festival de cortometrajes y música 'Amua' en Gipuzkoa",
+  "resumen": "El festival de cortometrajes y música 'Amua' celebra una nueva edición de jueves a domingo en el auditorio de Gipuzkoa, con el objetivo de llegar a todos los públicos.",
+  "en": {
+   "titulo": "'Amua' short film and music festival in Gipuzkoa",
+   "resumen": "The 'Amua' short film and music festival celebrates a new edition from Thursday to Sunday at the auditorium in Gipuzkoa, aiming to reach all audiences."
+  },
+  "inicio": "2026-11-12",
+  "fin": "2026-11-15",
+  "hora": null,
+  "lugar": "Auditorio",
+  "municipio": null,
+  "provincia": "Gipuzkoa",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "f6a1348724": {
+  "url": "https://www.diariovasco.com/culturas/musica/maria-berasarte-landarbaso-concierto-navidad-dv-20261108185128-nt.html",
+  "fuente": "El Diario Vasco (Culturas)",
+  "src": "prensa-diariovasco-culturas",
+  "publicado": "2026-11-08",
+  "es_plan": true,
+  "titulo": "Concierto de Navidad de María Berasarte y Landarbaso en Gipuzkoa",
+  "resumen": "María Berasarte y Landarbaso actuarán en un concierto de Navidad en Gipuzkoa el 17 de diciembre, junto a la Euskadiko Orkestra, a beneficio del Teléfono de la Esperanza.",
+  "en": {
+   "titulo": "Christmas concert by María Berasarte and Landarbaso in Gipuzkoa",
+   "resumen": "María Berasarte and Landarbaso will perform in a Christmas concert in Gipuzkoa on December 17, along with the Euskadiko Orkestra, benefiting the Teléfono de la Esperanza."
+  },
+  "inicio": "2026-12-17",
+  "fin": "2026-12-17",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": "Gipuzkoa",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "musica",
+   "navidad",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "e39497a888": {
+  "url": "https://www.lasprovincias.es/culturas/tv/programacion-septima-sabado-domingo-20261106101522-nt.html",
+  "fuente": "Las Provincias (Culturas)",
+  "src": "prensa-lasprovincias-culturas",
+  "publicado": "2026-11-08",
+  "es_plan": false
+ },
+ "89772027ab": {
+  "url": "https://www.lasprovincias.es/culturas/generacion-toma-arts-fenomeno-jovenes-llena-opera-20261103153021-nt.html",
+  "fuente": "Las Provincias (Culturas)",
+  "src": "prensa-lasprovincias-culturas",
+  "publicado": "2026-11-08",
+  "es_plan": false
+ },
+ "e17bcac7ae": {
+  "url": "https://www.lasprovincias.es/culturas/tv/punt-emite-domingo-mayores-obras-maestras-alfred-20261107010314-nt.html",
+  "fuente": "Las Provincias (Culturas)",
+  "src": "prensa-lasprovincias-culturas",
+  "publicado": "2026-11-08",
+  "es_plan": true,
+  "titulo": "À Punt emite este domingo una obra maestra de Hitchcock",
+  "resumen": "La cadena autonómica À Punt emitirá este domingo una película de Alfred Hitchcock, considerada una obra maestra del género thriller. La emisión forma parte de una selección de las mejores cintas disponibles para ver.",
+  "en": {
+   "titulo": "À Punt broadcasts a Hitchcock masterpiece this Sunday",
+   "resumen": "The regional channel À Punt will broadcast an Alfred Hitchcock film this Sunday, considered a masterpiece of the thriller genre. The broadcast is part of a selection of the best films available to watch."
+  },
+  "inicio": "2026-11-08",
+  "fin": "2026-11-08",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "806a98e738": {
+  "url": "https://www.lasprovincias.es/culturas/tv/crimen-cam-netflix-20261107153925-nt.html",
+  "fuente": "Las Provincias (Culturas)",
+  "src": "prensa-lasprovincias-culturas",
+  "publicado": "2026-11-08",
+  "es_plan": true,
+  "titulo": "El crimen de la CAM llega a Netflix",
+  "resumen": "Netflix estrena el 4 de diciembre un documental que reconstruye el asesinato de María del Carmen Martínez, viuda del expresidente de la CAM, y las incógnitas que rodean el caso.",
+  "en": {
+   "titulo": "The CAM crime arrives on Netflix",
+   "resumen": "Netflix premieres a documentary on December 4th that reconstructs the murder of María del Carmen Martínez, widow of the former president of CAM, and the unanswered questions surrounding the case."
+  },
+  "inicio": "2026-12-04",
+  "fin": "2026-12-04",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "7382bf08ff": {
+  "url": "https://www.laverdad.es/culturas/jaume-plensa-clausurara-murcia-primer-congreso-internacional-20261108105623-nt.html",
+  "fuente": "La Verdad (Culturas)",
+  "src": "prensa-laverdad-culturas",
+  "publicado": "2026-11-08",
+  "es_plan": true,
+  "titulo": "Jaume Plensa clausura congreso internacional sobre su obra en Murcia",
+  "resumen": "El artista Jaume Plensa clausurará en Murcia el primer congreso internacional dedicado a su obra, que se celebrará del 13 al 15 de enero de 2027 en La Cárcel Vieja y la Universidad.",
+  "en": {
+   "titulo": "Jaume Plensa to close international congress on his work in Murcia",
+   "resumen": "Artist Jaume Plensa will close the first international congress dedicated to his work in Murcia, which will take place from January 13th to 15th, 2027, at La Cárcel Vieja and the University."
+  },
+  "inicio": "2027-01-13",
+  "fin": "2027-01-15",
+  "hora": null,
+  "lugar": null,
+  "municipio": "Murcia",
+  "provincia": "Murcia",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "5e93fb1ba8": {
+  "url": "https://www.laverdad.es/culturas/diferentes-formas-poesia-sobre-escenario-20261107081254-nt.html",
+  "fuente": "La Verdad (Culturas)",
+  "src": "prensa-laverdad-culturas",
+  "publicado": "2026-11-08",
+  "es_plan": true,
+  "titulo": "IX Premios Azahar: Comedia, circo y teatro infantil entre los nominados",
+  "resumen": "Los IX Premios Azahar, que se entregan el próximo martes, reconocen diversas disciplinas escénicas como comedia, circo contemporáneo, teatro de objetos y infantil.",
+  "en": {
+   "titulo": "IX Azahar Awards: Comedy, circus, and children's theater among nominees",
+   "resumen": "The IX Azahar Awards, to be presented next Tuesday, recognize various stage disciplines including comedy, contemporary circus, object theater, and children's theater."
+  },
+  "inicio": "2026-11-10",
+  "fin": "2026-11-10",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": "Murcia",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "d5bcc7fd39": {
+  "url": "https://www.eldiariomontanes.es/culturas/escritor-alejandro-gandara-cerrara-encuentros-2026-torre-20261108080935-nt.html",
+  "fuente": "El Diario Montañés (Culturas)",
+  "src": "prensa-diariomontanes-culturas",
+  "publicado": "2026-11-08",
+  "es_plan": true,
+  "titulo": "Alejandro Gándara cierra los encuentros 2026 de la Torre de Don Borja",
+  "resumen": "El escritor Alejandro Gándara clausurará los encuentros 2026 de la Torre de Don Borja el día 21 en Santillana, conversando sobre su trayectoria y su obra 'Los textos robados a la felicidad'.",
+  "en": {
+   "titulo": "Alejandro Gándara closes the 2026 encounters at Torre de Don Borja",
+   "resumen": "Writer Alejandro Gándara will close the 2026 encounters at Torre de Don Borja on the 21st in Santillana, discussing his career and his work 'Los textos robados a la felicidad'."
+  },
+  "inicio": "2026-11-21",
+  "fin": "2026-11-21",
+  "hora": null,
+  "lugar": "Torre de Don Borja",
+  "municipio": "Santillana del Mar",
+  "provincia": "Cantabria",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "8faf902025": {
+  "url": "https://www.eldiariomontanes.es/culturas/jose-maria-pou-enfrenta-escena-lado-polemico-20261108080924-nt.html",
+  "fuente": "El Diario Montañés (Culturas)",
+  "src": "prensa-diariomontanes-culturas",
+  "publicado": "2026-11-08",
+  "es_plan": true,
+  "titulo": "José María Pou protagoniza 'Gigante' y concierto de la Sinfónica SWR Stuttgart",
+  "resumen": "José María Pou presenta la obra 'Gigante' los días 13 y 14 en el Palacio de Festivales. El mismo recinto acogerá el jueves un concierto de la Sinfónica SWR Stuttgart.",
+  "en": {
+   "titulo": "José María Pou stars in 'Gigante' and concert by SWR Stuttgart Symphony",
+   "resumen": "José María Pou presents the play 'Gigante' on the 13th and 14th at the Palacio de Festivales. The same venue will host a concert by the SWR Stuttgart Symphony on Thursday."
+  },
+  "inicio": "2026-11-13",
+  "fin": "2026-11-14",
+  "hora": null,
+  "lugar": "Palacio de Festivales",
+  "municipio": null,
+  "provincia": "Cantabria",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "01b7206738": {
+  "url": "https://www.larioja.com/culturas/auditorio-logrono-noviembre-concierto-solidario-proyecto-hombre-20261108110339-nt.html",
+  "fuente": "La Rioja (Culturas)",
+  "src": "prensa-larioja-culturas",
+  "publicado": "2026-11-08",
+  "es_plan": true,
+  "titulo": "Concierto solidario en Logroño a beneficio de Proyecto Hombre",
+  "resumen": "El Auditorio de Logroño acoge el 28 de noviembre un concierto solidario a beneficio de Proyecto Hombre. La recaudación íntegra se destinará a apoyar las iniciativas de la entidad.",
+  "en": {
+   "titulo": "Charity concert in Logroño for Proyecto Hombre",
+   "resumen": "The Logroño Auditorium hosts a charity concert on November 28th for Proyecto Hombre. All proceeds will go to support the organization's initiatives."
+  },
+  "inicio": "2026-11-28",
+  "fin": "2026-11-28",
+  "hora": null,
+  "lugar": "Auditorio de Logroño",
+  "municipio": "Logroño",
+  "provincia": "La Rioja",
+  "ambito": "local",
+  "gratis": false,
+  "precio": "10 euros",
+  "temas": [
+   "musica",
+   "actividades"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "c310cf4981": {
+  "url": "https://www.larioja.com/culturas/museo-wurth-abre-convocatoria-participar-feria-diseno-open-mercado-20261108105237-nt.html",
+  "fuente": "La Rioja (Culturas)",
+  "src": "prensa-larioja-culturas",
+  "publicado": "2026-11-08",
+  "es_plan": true,
+  "titulo": "Museo Würth abre convocatoria para feria de diseño Open Mercado",
+  "resumen": "El Museo Würth ha abierto la convocatoria para participar en la feria de diseño Open Mercado. Las inscripciones estarán abiertas hasta el 20 de noviembre.",
+  "en": {
+   "titulo": "Museo Würth opens call for Open Mercado design fair",
+   "resumen": "The Museo Würth has opened the call for participation in the Open Mercado design fair. Registrations will be open until November 20th."
+  },
+  "inicio": "2026-11-20",
+  "fin": "2026-11-20",
+  "hora": null,
+  "lugar": "Museo Würth",
+  "municipio": null,
+  "provincia": "La Rioja",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "fb59b5b96f": {
+  "url": "https://www.lavanguardia.com/cultura/20261107/11678810/litigio-sijena-encara-fase-decisiva.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-07",
+  "es_plan": false
+ },
+ "470cc5495c": {
+  "url": "https://www.ara.cat/cultura/arquitectura/autoretrat-inedit-mural-ocult-telo-reciclat-secrets-gaudi-han-sortit-llum_130_5896715.html",
+  "fuente": "Ara (Cultura)",
+  "src": "prensa-ara-cultura",
+  "publicado": "2026-11-07",
+  "es_plan": false
+ },
+ "0cd33bc84c": {
+  "url": "https://www.ara.cat/cultura/broken-english-guanya-24a-edicio-festival-in-edit_25_5903335.html",
+  "fuente": "Ara (Cultura)",
+  "src": "prensa-ara-cultura",
+  "publicado": "2026-11-07",
+  "es_plan": false
+ },
+ "b74f25fb92": {
+  "url": "https://www.ara.cat/opinio/experiment-extraordinari_129_5903337.html",
+  "fuente": "Ara (Cultura)",
+  "src": "prensa-ara-cultura",
+  "publicado": "2026-11-07",
+  "es_plan": false
+ },
+ "e69dd6af95": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/07/bryan-adams-explica-concierto-zaragoza-estrella-2066598.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-07",
+  "es_plan": true,
+  "titulo": "Bryan Adams ofrece concierto en Zaragoza",
+  "resumen": "Bryan Adams congregó a 8.500 personas en el pabellón Príncipe Felipe de Zaragoza en un concierto donde repasó sus grandes éxitos.",
+  "en": {
+   "titulo": "Bryan Adams performs a concert in Zaragoza",
+   "resumen": "Bryan Adams gathered 8,500 people at the Príncipe Felipe pavilion in Zaragoza for a concert where he played his greatest hits."
+  },
+  "inicio": "2026-11-07",
+  "fin": "2026-11-07",
+  "hora": null,
+  "lugar": "Pabellón Príncipe Felipe",
+  "municipio": "Zaragoza",
+  "provincia": "Zaragoza",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "5168ae3fb8": {
+  "url": "https://www.heraldo.es/ocio-y-cultura/bryan-adams-enamora-zaragoza-himnos-queridos-2066708-2.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-07",
+  "es_plan": true,
+  "titulo": "Bryan Adams enamora en Zaragoza con uno de sus himnos",
+  "resumen": "Bryan Adams ofreció un concierto en Zaragoza, deleitando a los asistentes con sus canciones más queridas.",
+  "en": {
+   "titulo": "Bryan Adams delights in Zaragoza with one of his anthems",
+   "resumen": "Bryan Adams gave a concert in Zaragoza, delighting attendees with his most beloved songs."
+  },
+  "inicio": "2026-11-07",
+  "fin": "2026-11-07",
+  "hora": null,
+  "lugar": null,
+  "municipio": "Zaragoza",
+  "provincia": "Zaragoza",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "eaa6e4b1f4": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/07/senuelo-martha-g-ayerbe-gran-triunfadora-30-festival-cine-fuentes-ebro-2066652.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-07",
+  "es_plan": true,
+  "titulo": "30 Festival de Cine de Fuentes de Ebro: Premios y celebración",
+  "resumen": "El 30 Festival de Cine de Fuentes de Ebro clausuró su 30 aniversario reconociendo el talento audiovisual y las trayectorias de Nacho García Velilla y María Luisa San José. 'Señuelo' y 'Qué cojones es un hombre' fueron premiadas.",
+  "en": {
+   "titulo": "30 Fuentes de Ebro Film Festival: Awards and celebration",
+   "resumen": "The 30th Fuentes de Ebro Film Festival concluded its 30th anniversary by recognizing audiovisual talent and the careers of Nacho García Velilla and María Luisa San José. 'Señuelo' and 'Qué cojones es un hombre' received awards."
+  },
+  "inicio": "2026-11-07",
+  "fin": "2026-11-07",
+  "hora": null,
+  "lugar": null,
+  "municipio": "Fuentes de Ebro",
+  "provincia": "Zaragoza",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "1d3e972271": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/07/lopez-simon-recibe-premio-valores-tauromaquia-casa-andalucia-2066639.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-07",
+  "es_plan": false
+ },
+ "c66487d105": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/07/elefantes-sorprende-fans-vino-musica-directo-zaragoza-2066593.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-07",
+  "es_plan": true,
+  "titulo": "Elefantes: concierto y presentación de disco en Zaragoza",
+  "resumen": "El grupo Elefantes presenta su nuevo disco \"Para todos\" con un concierto acústico en el espacio Gourmet Experience de El Corte Inglés de Zaragoza. El evento incluye un brindis con los seguidores.",
+  "en": {
+   "titulo": "Elefantes: concert and album presentation in Zaragoza",
+   "resumen": "The band Elefantes presents their new album \"Para todos\" with an acoustic concert at the Gourmet Experience space of El Corte Inglés in Zaragoza. The event includes a toast with fans."
+  },
+  "inicio": "2026-11-07",
+  "fin": "2026-11-07",
+  "hora": null,
+  "lugar": "Gourmet Experience de El Corte Inglés",
+  "municipio": "Zaragoza",
+  "provincia": "Zaragoza",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "28c782f43e": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/07/maria-luisa-san-jose-nacho-garcia-velilla-comparten-sus-recuerdos-cine-marco-30-festival-fuentes-2066595.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-07",
+  "es_plan": true,
+  "titulo": "Festival de Cine de Fuentes: Homenaje a María Luisa San José y Nacho García Velilla",
+  "resumen": "El Festival de Cine de Fuentes celebra su 30ª edición con un homenaje a la actriz María Luisa San José y al director Nacho García Velilla. Incluye un encuentro con los medios y la gala de clausura.",
+  "en": {
+   "titulo": "Fuentes Film Festival: Tribute to María Luisa San José and Nacho García Velilla",
+   "resumen": "The Fuentes Film Festival celebrates its 30th edition with a tribute to actress María Luisa San José and director Nacho García Velilla. It includes a press meeting and the closing ceremony."
+  },
+  "inicio": "2026-11-07",
+  "fin": "2026-11-07",
+  "hora": null,
+  "lugar": "Hotel Catalonia / Fuentes de Ebro",
+  "municipio": "Zaragoza / Fuentes de Ebro",
+  "provincia": "Zaragoza",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "2db559a85c": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/07/joan-manuel-serrat-ocurriendo-espana-resultado-muchos-anos-desgaste-ilusion-gente-2062170.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-07",
+  "es_plan": false
+ },
+ "175caa995c": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/07/walls-me-hace-muy-feliz-que-zaragoza-sea-primera-fecha-gira-espana-es-un-inicio-bastante-potente-2066580.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-07",
+  "es_plan": true,
+  "titulo": "Walls: Inicio de gira \"El Día en el que me olvides\" en Zaragoza",
+  "resumen": "El artista Walls arranca su gira española \"El Día en el que me olvides\" con dos conciertos en la Sala Oasis de Zaragoza. Ambas fechas han agotado todas las entradas.",
+  "en": {
+   "titulo": "Walls: \"El Día en el que me olvides\" tour start in Zaragoza",
+   "resumen": "Artist Walls kicks off his Spanish tour \"El Día en el que me olvides\" with two concerts at Sala Oasis in Zaragoza. Both dates have sold out."
+  },
+  "inicio": "2026-11-07",
+  "fin": "2026-11-08",
+  "hora": null,
+  "lugar": "Sala Oasis",
+  "municipio": "Zaragoza",
+  "provincia": "Zaragoza",
+  "ambito": "local",
+  "gratis": false,
+  "precio": "Agotado",
+  "temas": [
+   "musica"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "00e42b1b1a": {
+  "url": "https://www.diariosur.es/culturas/vuelve-rebelion-fabrica-ocho-artistas-malaga-20261106214005-nt.html",
+  "fuente": "Diario Sur (Culturas)",
+  "src": "prensa-diariosur-culturas",
+  "publicado": "2026-11-07",
+  "es_plan": true,
+  "titulo": "Exposición efímera 'Rebelión en la Fábrica' en Málaga",
+  "resumen": "Segunda edición de la muestra 'pop up' \"Rebelión en la Fábrica\" el 12 de noviembre en Cervezas Victoria (Málaga). Ocho artistas presentarán piezas de gran formato en una acción en vivo.",
+  "en": {
+   "titulo": "Ephemeral exhibition 'Rebelión en la Fábrica' in Málaga",
+   "resumen": "Second edition of the 'pop up' exhibition \"Rebelión en la Fábrica\" on November 12th at Cervezas Victoria (Málaga). Eight artists will present large-format pieces in a live action."
+  },
+  "inicio": "2026-11-12",
+  "fin": "2026-11-12",
+  "hora": null,
+  "lugar": "Cervezas Victoria",
+  "municipio": "Málaga",
+  "provincia": "Málaga",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "actividades",
+   "museos"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "4fd83ce8d3": {
+  "url": "https://www.ideal.es/culturas/consulta-otorrino-escenario-doble-vida-enrique-puerta-20261107170959-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-11-07",
+  "es_plan": true,
+  "titulo": "Conciertos de Enrique Puerta en Granada",
+  "resumen": "El médico y músico Enrique Puerta presenta su primer álbum y realiza una gira de conciertos en Granada. Las fechas incluyen 19 de noviembre en Taberna JJ, 18 de marzo en Lemon Rock y 13 de mayo en Planta Baja.",
+  "en": {
+   "titulo": "Enrique Puerta concerts in Granada",
+   "resumen": "Doctor and musician Enrique Puerta presents his first album and is touring concerts in Granada. Dates include November 19th at Taberna JJ, March 18th at Lemon Rock, and May 13th at Planta Baja."
+  },
+  "inicio": "2026-11-19",
+  "fin": "2027-05-13",
+  "hora": null,
+  "lugar": "Taberna JJ / Lemon Rock / Planta Baja",
+  "municipio": "Granada",
+  "provincia": "Granada",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "fa0f4269ac": {
+  "url": "https://www.ideal.es/culturas/fran-ocete-cristalino-primera-cita-ciclo-musica-20261107153341-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-11-07",
+  "es_plan": true,
+  "titulo": "Fran Ocete en el ciclo 'La música contada' en Granada",
+  "resumen": "El músico y actor Fran Ocete participa en el ciclo 'La música contada' con una charla junto a Héctor Márquez en la Fundación Unicaja de Granada.",
+  "en": {
+   "titulo": "Fran Ocete in the 'La música contada' cycle in Granada",
+   "resumen": "Musician and actor Fran Ocete participates in the 'La música contada' cycle with a talk alongside Héctor Márquez at the Fundación Unicaja in Granada."
+  },
+  "inicio": "2026-11-07",
+  "fin": "2026-11-07",
+  "hora": null,
+  "lugar": "Fundación Unicaja",
+  "municipio": "Granada",
+  "provincia": "Granada",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "aace76764d": {
+  "url": "https://www.ideal.es/culturas/jaen/asombroso-inicio-otonal-musica-segura-atarjea-20261107135237-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-11-07",
+  "es_plan": true,
+  "titulo": "Festival 'Música en Segura' en Jaén",
+  "resumen": "El festival 'Música en Segura' inicia su edición otoñal en Jaén con un teatro musical que fusiona folclore y patrimonio sobre el agua. Se considera el mayor festival de la España rural.",
+  "en": {
+   "titulo": "'Música en Segura' Festival in Jaén",
+   "resumen": "The 'Música en Segura' festival begins its autumn edition in Jaén with a musical theater piece that combines folklore and heritage related to water. It is considered the largest festival in rural Spain."
+  },
+  "inicio": "2026-11-07",
+  "fin": "2026-11-07",
+  "hora": null,
+  "lugar": null,
+  "municipio": "Segura de la Sierra",
+  "provincia": "Jaén",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura",
+   "agua",
+   "fiestas"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "65b06169a2": {
+  "url": "https://www.ideal.es/culturas/jaen/gabino-diego-recoge-xiv-premio-tierra-ibera-20261107134214-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-11-07",
+  "es_plan": false
+ },
+ "45dc9f5d9a": {
+  "url": "https://www.elcorreo.com/culturas/musica/andoni-aizpuru-aflora-mes-mes-club-20261107145918-nt.html",
+  "fuente": "El Correo (Culturas)",
+  "src": "prensa-elcorreo-culturas",
+  "publicado": "2026-11-07",
+  "es_plan": false
+ },
+ "2cf922c90f": {
+  "url": "https://www.diariovasco.com/buruntzaldea/astigarraga/recuperacion-lagar-erbetegietxeberri-20261107080310-nt.html",
+  "fuente": "El Diario Vasco (Culturas)",
+  "src": "prensa-diariovasco-culturas",
+  "publicado": "2026-11-07",
+  "es_plan": false
+ },
+ "4e2e581c5e": {
+  "url": "https://www.lasprovincias.es/culturas/musica/shinova-estrena-caballo-troya-valencia-adelanto-sorpresa-20261107234124-nt.html",
+  "fuente": "Las Provincias (Culturas)",
+  "src": "prensa-lasprovincias-culturas",
+  "publicado": "2026-11-07",
+  "es_plan": true,
+  "titulo": "Shinova estrena 'Caballo de Troya' en Valencia",
+  "resumen": "La banda vizcaína Shinova estrena su nuevo tema 'Caballo de Troya' en Valencia en un concierto que se convierte en una fiesta para el público.",
+  "en": {
+   "titulo": "Shinova premieres 'Caballo de Troya' in Valencia",
+   "resumen": "The band from Vizcaya, Shinova, premieres their new track 'Caballo de Troya' in Valencia during a concert that turns into a party for the audience."
+  },
+  "inicio": "2026-11-07",
+  "fin": "2026-11-07",
+  "hora": null,
+  "lugar": null,
+  "municipio": "Valencia",
+  "provincia": "Valencia",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "523fe808fb": {
+  "url": "https://www.lasprovincias.es/culturas/tv/vuelve-avecina-prime-video-anuncia-fecha-estreno-20261104205544-nt.html",
+  "fuente": "Las Provincias (Culturas)",
+  "src": "prensa-lasprovincias-culturas",
+  "publicado": "2026-11-07",
+  "es_plan": true,
+  "titulo": "Estreno de nuevos capítulos de 'La que se avecina' en Prime Video",
+  "resumen": "Prime Video anuncia la fecha de estreno de la temporada 17 de la popular comedia \"La que se avecina\", creada por los hermanos Caballero.",
+  "en": {
+   "titulo": "Premiere of new episodes of 'La que se avecina' on Prime Video",
+   "resumen": "Prime Video announces the release date for season 17 of the popular comedy \"La que se avecina\", created by the Caballero brothers."
+  },
+  "inicio": "2026-11-07",
+  "fin": "2026-11-07",
+  "hora": null,
+  "lugar": "Prime Video",
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": false,
+  "precio": "Suscripción",
+  "temas": [
+   "pantalla",
+   "cultura"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "ba18a158ca": {
+  "url": "https://www.laverdad.es/culturas/segunda-edicion-murcia-impacta-festival-reune-hub-20261107161741-nt.html",
+  "fuente": "La Verdad (Culturas)",
+  "src": "prensa-laverdad-culturas",
+  "publicado": "2026-11-07",
+  "es_plan": false
  }
 }
