@@ -3833,76 +3833,6 @@
   "a_cubierto": null,
   "confianza": 0.9
  },
- "64103e09fb": {
-  "url": "https://www.20minutos.es/cultura/las-curiosidades-los-princesa-asturias-madre-letizia-fuga-messi-peluche-ghibli-las-trenzas-patti_7052846_0.html",
-  "fuente": "20minutos (Cultura)",
-  "src": "prensa-20minutos-cultura",
-  "publicado": "2026-10-24",
-  "es_plan": false
- },
- "a14fb00636": {
-  "url": "https://www.20minutos.es/cultura/blogs/motel-margot/manuscrito-recuperado-sobre-final-franquismo-chaman-recupera-jesus-torbado_7036011_0.html",
-  "fuente": "20minutos (Cultura)",
-  "src": "prensa-20minutos-cultura",
-  "publicado": "2026-10-24",
-  "es_plan": false
- },
- "9aef4beb3a": {
-  "url": "https://elpais.com/cultura/2026-10-24/rompedora-sexualizada-legendaria-lara-croft-y-tomb-raider-cumplen-30-anos-de-aventuras.html",
-  "fuente": "El País (Cultura)",
-  "src": "prensa-elpais-cultura",
-  "publicado": "2026-10-24",
-  "es_plan": false
- },
- "c7a34d1c7e": {
-  "url": "https://elpais.com/cultura/2026-10-24/la-plaza-de-las-ventas-supera-el-millon-de-espectadores-por-segundo-ano-consecutivo.html",
-  "fuente": "El País (Cultura)",
-  "src": "prensa-elpais-cultura",
-  "publicado": "2026-10-24",
-  "es_plan": false
- },
- "dea699fc61": {
-  "url": "https://www.lavanguardia.com/cultura/20261024/11667083/almadia-revision-detallada-novela-david-silva-rojas-ia.html",
-  "fuente": "La Vanguardia (Cultura)",
-  "src": "prensa-lavanguardia-cultura",
-  "publicado": "2026-10-24",
-  "es_plan": false
- },
- "71251ae676": {
-  "url": "https://www.lavanguardia.com/cultura/20261024/11666766/dibujos-perdidos-joven-gaudi-tarragona-congreso-pedrera.html",
-  "fuente": "La Vanguardia (Cultura)",
-  "src": "prensa-lavanguardia-cultura",
-  "publicado": "2026-10-24",
-  "es_plan": false
- },
- "f79f972a7d": {
-  "url": "https://www.lavanguardia.com/neo/20261024/11666811/videojuegos-30-aniversario-tomb-raider-lara-croft.html",
-  "fuente": "La Vanguardia (Cultura)",
-  "src": "prensa-lavanguardia-cultura",
-  "publicado": "2026-10-24",
-  "es_plan": false
- },
- "6528f5da9b": {
-  "url": "https://www.lavanguardia.com/cultura/culturas/20261024/11663865/odiseo-hoy.html",
-  "fuente": "La Vanguardia (Cultura)",
-  "src": "prensa-lavanguardia-cultura",
-  "publicado": "2026-10-24",
-  "es_plan": false
- },
- "cb73572b1e": {
-  "url": "https://www.lavanguardia.com/cultura/culturas/20261024/11663757/papa-cultura-spike-lee-julia-navarro.html",
-  "fuente": "La Vanguardia (Cultura)",
-  "src": "prensa-lavanguardia-cultura",
-  "publicado": "2026-10-24",
-  "es_plan": false
- },
- "47dc96fcc4": {
-  "url": "https://www.lavanguardia.com/cultura/culturas/20261024/11663754/hemingway-siglo-poliamor.html",
-  "fuente": "La Vanguardia (Cultura)",
-  "src": "prensa-lavanguardia-cultura",
-  "publicado": "2026-10-24",
-  "es_plan": false
- },
  "ac919c5cf6": {
   "url": "https://www.lavanguardia.com/cultura/20261024/11666814/liceu-sube-escena-i-capuleti-e-i-montecchi-version-politica.html",
   "fuente": "La Vanguardia (Cultura)",
@@ -3987,34 +3917,6 @@
   "a_cubierto": true,
   "confianza": 0.9
  },
- "f792d137d8": {
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/24/un-libro-acordeon-que-se-despliega-hasta-2-30-metros-acerca-poesia-los-mas-pequenos-2062286.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-10-24",
-  "es_plan": false
- },
- "3dccb45482": {
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/24/felipe-gonzalez-84-anos-sobre-infancia-no-era-muy-buen-estudiante-2060726.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-10-24",
-  "es_plan": false
- },
- "93ccd8afef": {
-  "url": "https://www.elnortedecastilla.es/culturas/libros/amor-segun-kallifatides-migracion-duelo-bergareche-extrano-20261024084949-nt.html",
-  "fuente": "El Norte de Castilla (Culturas)",
-  "src": "prensa-nortecastilla-culturas",
-  "publicado": "2026-10-24",
-  "es_plan": false
- },
- "a84846f6cb": {
-  "url": "https://www.elnortedecastilla.es/culturas/seminci/tarde-felipe-colo-alfombra-seminci-20261023221937-nt.html",
-  "fuente": "El Norte de Castilla (Culturas)",
-  "src": "prensa-nortecastilla-culturas",
-  "publicado": "2026-10-24",
-  "es_plan": false
- },
  "49dc8fb075": {
   "url": "https://www.elcorreo.com/culturas/teatro/hemingway-bajo-obuses-pabellon-20261023201837-nt.html",
   "fuente": "El Correo (Culturas)",
@@ -4041,34 +3943,6 @@
   ],
   "a_cubierto": true,
   "confianza": 0.85
- },
- "121ee2968d": {
-  "url": "https://www.elcorreo.com/culturas/territorios/rafael-azcona-hombre-debe-cine-espanol-20261024000718-nt.html",
-  "fuente": "El Correo (Culturas)",
-  "src": "prensa-elcorreo-culturas",
-  "publicado": "2026-10-24",
-  "es_plan": false
- },
- "cc24fd63bd": {
-  "url": "https://www.elcorreo.com/culturas/historias-politicas-20261023234747-nt.html",
-  "fuente": "El Correo (Culturas)",
-  "src": "prensa-elcorreo-culturas",
-  "publicado": "2026-10-24",
-  "es_plan": false
- },
- "6dfa687960": {
-  "url": "https://www.lasprovincias.es/culturas/tv/votar-espana-eurovision-junior-2026-20261020021405-nt.html",
-  "fuente": "Las Provincias (Culturas)",
-  "src": "prensa-lasprovincias-culturas",
-  "publicado": "2026-10-24",
-  "es_plan": false
- },
- "559a8f1c04": {
-  "url": "https://www.lasprovincias.es/culturas/tv/lucas-paulano-representante-espana-eurovision-junior-2026-20261020021349-nt.html",
-  "fuente": "Las Provincias (Culturas)",
-  "src": "prensa-lasprovincias-culturas",
-  "publicado": "2026-10-24",
-  "es_plan": false
  },
  "e98c77dcca": {
   "url": "https://www.lasprovincias.es/culturas/musica/morat-conquista-roig-arena-concierto-lleno-exitos-20261023001014-nt.html",
@@ -4265,13 +4139,6 @@
   ],
   "a_cubierto": null,
   "confianza": 0.85
- },
- "e320e5d673": {
-  "url": "https://www.larioja.com/culturas/almodovar-recuerda-azcona-centenario-gran-guionista-cine-20261024094652-nt.html",
-  "fuente": "La Rioja (Culturas)",
-  "src": "prensa-larioja-culturas",
-  "publicado": "2026-10-24",
-  "es_plan": false
  },
  "804e68a676": {
   "url": "https://www.larioja.com/culturas/logrono-gospel-concierto-circulo-logrones-20261024165306-nt.html",
@@ -4923,13 +4790,6 @@
   "publicado": "2026-10-25",
   "es_plan": false
  },
- "9665bb56c9": {
-  "url": "https://www.europapress.es/cultura/musica-00129/noticia-armenia-gana-eurovision-junior-202-puntos-gracias-voto-publico-espana-queda-segunda-184-puntos-20261024234754.html",
-  "fuente": "Europa Press (Cultura)",
-  "src": "prensa-europapress-cultura",
-  "publicado": "2026-10-24",
-  "es_plan": false
- },
  "5a5390d7f8": {
   "url": "https://www.europapress.es/cultura/musica-00129/noticia-musica-esperanza-unen-madrid-mujeres-luchan-contra-cancer-mama-nadie-solo-20261024232138.html",
   "fuente": "Europa Press (Cultura)",
@@ -4957,13 +4817,6 @@
   ],
   "a_cubierto": true,
   "confianza": 0.85
- },
- "8fee82b042": {
-  "url": "https://elpais.com/cultura/2026-10-24/el-caso-de-la-novela-galardonada-y-presuntamente-escrita-por-ia-abre-el-debate-sobre-los-filtros-ante-obras-ineditas.html",
-  "fuente": "El País (Cultura)",
-  "src": "prensa-elpais-cultura",
-  "publicado": "2026-10-24",
-  "es_plan": false
  },
  "33c9fc6e1c": {
   "url": "https://elpais.com/cultura/2026-10-24/del-titubeo-a-la-firmeza-la-compania-nacional-de-danza-repasa-la-historia-mas-clasica-del-movimiento.html",
@@ -5190,20 +5043,6 @@
   "a_cubierto": null,
   "confianza": 0.85
  },
- "e3b58aa68e": {
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/24/dani-martin-golpeado-por-muerte-su-padre-estar-con-sus-ultimos-momentos-con-las-manos-cogidas-fue-mas-sanador-2062503.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-10-24",
-  "es_plan": false
- },
- "66af1af9e4": {
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/24/critica-teatro-ultima-oportunidad-retorno-comedias-para-un-reality-2062501.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-10-24",
-  "es_plan": false
- },
  "e708a2afb7": {
   "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/24/concurso-musical-pop-rock-busca-zaragoza-sus-semifinalistas-2062457.html",
   "fuente": "Heraldo de Aragón (Ocio y cultura)",
@@ -5233,34 +5072,6 @@
   "a_cubierto": null,
   "confianza": 0.85
  },
- "7314027387": {
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/24/espanol-supera-2026-los-640-millones-hablantes-potenciales-crece-las-aulas-china-gana-peso-mundo-economico-2062473.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-10-24",
-  "es_plan": false
- },
- "4dd2bbfd9c": {
-  "url": "https://www.elnortedecastilla.es/culturas/seminci/cine-alimento-20261024211145-nt.html",
-  "fuente": "El Norte de Castilla (Culturas)",
-  "src": "prensa-nortecastilla-culturas",
-  "publicado": "2026-10-24",
-  "es_plan": false
- },
- "5a666ad443": {
-  "url": "https://www.elnortedecastilla.es/culturas/seminci/seryo-proceso-creativo-ayuda-pasar-proceso-curativo-20261024201914-nt.html",
-  "fuente": "El Norte de Castilla (Culturas)",
-  "src": "prensa-nortecastilla-culturas",
-  "publicado": "2026-10-24",
-  "es_plan": false
- },
- "1a7d625c3c": {
-  "url": "https://www.elnortedecastilla.es/culturas/seminci/may-eltoukhy-experiencia-femenina-recibido-poca-atencion-20261024134903-nt.html",
-  "fuente": "El Norte de Castilla (Culturas)",
-  "src": "prensa-nortecastilla-culturas",
-  "publicado": "2026-10-24",
-  "es_plan": false
- },
  "40ea0dcff8": {
   "url": "https://www.ideal.es/culturas/jaen/vilches-dedica-emotivo-homenaje-postumo-vida-obra-20261024171217-nt.html",
   "fuente": "Ideal (Culturas)",
@@ -5288,41 +5099,6 @@
   ],
   "a_cubierto": null,
   "confianza": 0.85
- },
- "655afd0ada": {
-  "url": "https://www.hoy.es/culturas/trazos/maton-caballero-20261024120517-nt.html",
-  "fuente": "Hoy (Culturas)",
-  "src": "prensa-hoy-culturas",
-  "publicado": "2026-10-24",
-  "es_plan": false
- },
- "a08a646615": {
-  "url": "https://www.hoy.es/culturas/trazos/mirada-artista-contagia-ver-mundo-vez-nueva-20261024120344-nt.html",
-  "fuente": "Hoy (Culturas)",
-  "src": "prensa-hoy-culturas",
-  "publicado": "2026-10-24",
-  "es_plan": false
- },
- "45ee7513c4": {
-  "url": "https://www.hoy.es/culturas/trazos/vidas-plenas-20261024120519-nt.html",
-  "fuente": "Hoy (Culturas)",
-  "src": "prensa-hoy-culturas",
-  "publicado": "2026-10-24",
-  "es_plan": false
- },
- "cd505eb706": {
-  "url": "https://www.elcorreo.com/culturas/libros/tesoros-papel-tinta-20261023193456-nt.html",
-  "fuente": "El Correo (Culturas)",
-  "src": "prensa-elcorreo-culturas",
-  "publicado": "2026-10-24",
-  "es_plan": false
- },
- "1b1a12e4ec": {
-  "url": "https://www.diariovasco.com/culturas/vida-profunda-san-francisco-asis-unio-arte-20261024195720-nt.html",
-  "fuente": "El Diario Vasco (Culturas)",
-  "src": "prensa-diariovasco-culturas",
-  "publicado": "2026-10-24",
-  "es_plan": false
  },
  "ef20765bc9": {
   "url": "https://www.lasprovincias.es/culturas/tv/eurovision-junior-2026-posicion-cantara-espana-20261020132805-nt.html",
@@ -5407,20 +5183,6 @@
   ],
   "a_cubierto": null,
   "confianza": 0.5
- },
- "210f4f982f": {
-  "url": "https://www.eldiariomontanes.es/culturas/trayectos-cine-vida-20261024130841-nt.html",
-  "fuente": "El Diario Montañés (Culturas)",
-  "src": "prensa-diariomontanes-culturas",
-  "publicado": "2026-10-24",
-  "es_plan": false
- },
- "8994eb01ff": {
-  "url": "https://www.larioja.com/culturas/colision-sacude-octubre-corto-20261024204542-nt.html",
-  "fuente": "La Rioja (Culturas)",
-  "src": "prensa-larioja-culturas",
-  "publicado": "2026-10-24",
-  "es_plan": false
  },
  "c6c31dcf0f": {
   "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/23/ultima-oportunidad-ferias-valdespartera-zaragoza-atracciones-descuento-2062173.html",
