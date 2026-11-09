@@ -17785,5 +17785,908 @@
   "src": "prensa-laverdad-culturas",
   "publicado": "2026-11-07",
   "es_plan": false
+ },
+ "7f77d3a518": {
+  "url": "https://www.20minutos.es/musica/historico-gazir-record-guinness-200-batallas-freestyle-12-horas-frente-250-rivales_7058825_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-11-09",
+  "es_plan": false
+ },
+ "3a30c0eca3": {
+  "url": "https://www.20minutos.es/cultura/alvaro-tato-autor-musical-alma-aire-alejandro-sanz-late-un-poeta-popular-creador-una-mitologia-emocional-banda-sonora-nuestras-vidas_7056569_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-11-09",
+  "es_plan": false
+ },
+ "398f62c198": {
+  "url": "https://elpais.com/cultura/2026-11-09/figaro-monta-su-revolucion-en-el-eliseo-al-grito-de-las-protestas-callejeras.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-11-09",
+  "es_plan": false
+ },
+ "996ae14f70": {
+  "url": "https://elpais.com/espana/catalunya/2026-11-09/la-musica-catalana-se-moviliza-por-la-vivienda-con-la-cancion-estimada-valentina.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-11-09",
+  "es_plan": true,
+  "titulo": "Presentación canción 'Estimada Valentina' por el derecho a la vivienda",
+  "resumen": "Más de 30 artistas catalanes lanzan el himno 'Estimada Valentina' para apoyar la huelga por la vivienda. El acto de presentación será el 9 de noviembre en la sala La Paloma de Barcelona.",
+  "en": {
+   "titulo": "Presentation of song 'Estimada Valentina' for housing rights",
+   "resumen": "Over 30 Catalan artists release the anthem 'Estimada Valentina' to support the housing strike. The presentation event will take place on November 9th at Sala La Paloma in Barcelona."
+  },
+  "inicio": "2026-11-09",
+  "fin": "2026-11-09",
+  "hora": "19:00",
+  "lugar": "Sala La Paloma",
+  "municipio": "Barcelona",
+  "provincia": "Barcelona",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "a88fd5ffb8": {
+  "url": "https://www.lavanguardia.com/cultura/20261109/11679839/treintena-artistas-unen-poner-musica-huelga-vivienda.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-09",
+  "es_plan": true,
+  "titulo": "Presentación de la canción 'Estimada Valentina' por la vivienda",
+  "resumen": "La canción 'Estimada Valentina', creada por una treintena de músicos para apoyar la huelga por la vivienda, se presenta en el claustro de la Universidad de Barcelona.",
+  "en": {
+   "titulo": "Presentation of the song 'Estimada Valentina' for housing",
+   "resumen": "The song 'Estimada Valentina', created by about thirty musicians to support the housing strike, is presented in the cloister of the University of Barcelona."
+  },
+  "inicio": "2026-11-09",
+  "fin": "2026-11-09",
+  "hora": null,
+  "lugar": "Universidad de Barcelona",
+  "municipio": "Barcelona",
+  "provincia": "Barcelona",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "340caf48e9": {
+  "url": "https://www.lavanguardia.com/cultura/20261109/11679663/valencianas-patricia-gomez-maria-jesus-gonzalez-obtienen-premio-fundacion-macba.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-09",
+  "es_plan": false
+ },
+ "6b936e8401": {
+  "url": "https://www.lavanguardia.com/cultura/20261109/11679313/john-malkovich-que-pais-ciudadanos-creen-realmente-dice-gobierno.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-09",
+  "es_plan": false
+ },
+ "c6409b166a": {
+  "url": "https://www.lavanguardia.com/cultura/20261109/11679296/dos-espias-cia-isla-pascua.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-09",
+  "es_plan": false
+ },
+ "f2a0135074": {
+  "url": "https://www.lavanguardia.com/cultura/20261109/11676718/imprescindibles-festival-hilaria-humor-comedia-barcelona-monologos-musica-cultura-gavalda-masferrer-brl.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-09",
+  "es_plan": true,
+  "titulo": "Festival Hilària 2026 en Barcelona",
+  "resumen": "El Festival Hilària se celebra en Barcelona del 11 al 15 de noviembre, ofreciendo comedia, música y formatos híbridos con artistas como Lluís Gavaldà y Quim Masferrer.",
+  "en": {
+   "titulo": "Hilària Festival 2026 in Barcelona",
+   "resumen": "The Hilària Festival takes place in Barcelona from November 11th to 15th, featuring comedy, music, and hybrid formats with artists like Lluís Gavaldà and Quim Masferrer."
+  },
+  "inicio": "2026-11-11",
+  "fin": "2026-11-15",
+  "hora": null,
+  "lugar": null,
+  "municipio": "Barcelona",
+  "provincia": "Barcelona",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura",
+   "fiestas"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "93155f376e": {
+  "url": "https://www.ara.cat/cultura/musica/escena-musical-catalana-dret-habitatge-sindicat-llogateres_1_5904923.html",
+  "fuente": "Ara (Cultura)",
+  "src": "prensa-ara-cultura",
+  "publicado": "2026-11-09",
+  "es_plan": false
+ },
+ "3a4d76e746": {
+  "url": "https://www.ara.cat/cultura/jordi-costa-nou-cap-servei-d-audiovisuals-cccb_25_5905149.html",
+  "fuente": "Ara (Cultura)",
+  "src": "prensa-ara-cultura",
+  "publicado": "2026-11-09",
+  "es_plan": false
+ },
+ "f660ff7c13": {
+  "url": "https://www.ara.cat/cultura/art/fira-by-invitation-tanca-setena-edicio-prop-15-000-visitants-50-mes-l-any-passat_25_5904870.html",
+  "fuente": "Ara (Cultura)",
+  "src": "prensa-ara-cultura",
+  "publicado": "2026-11-09",
+  "es_plan": false
+ },
+ "1653690f8e": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/09/lamov-lleva-teatro-principal-delicadeza-una-creacion-que-traslada-danza-legado-generacion-27-2067005.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-09",
+  "es_plan": true,
+  "titulo": "Danza 'La delicadeza' de LaMov en Zaragoza",
+  "resumen": "La compañía LaMov presenta 'La delicadeza', una creación de danza contemporánea inspirada en la Generación del 27, en el Teatro Principal de Zaragoza del 12 al 15 de noviembre.",
+  "en": {
+   "titulo": "Dance 'La delicadeza' by LaMov in Zaragoza",
+   "resumen": "The LaMov company presents 'La delicadeza', a contemporary dance creation inspired by the Generation of '27, at the Teatro Principal in Zaragoza from November 12th to 15th."
+  },
+  "inicio": "2026-11-12",
+  "fin": "2026-11-15",
+  "hora": null,
+  "lugar": "Teatro Principal",
+  "municipio": "Zaragoza",
+  "provincia": "Zaragoza",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "25d0718175": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/09/arturo-perez-reverte-despide-perro-ultimo-dia-contigo-mundo-lugar-noble-2066989.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-09",
+  "es_plan": false
+ },
+ "dff6dc1043": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/09/mon-laferte-obligada-parar-concierto-2500espectadores-2066874.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-09",
+  "es_plan": false
+ },
+ "ae4c6ed8c1": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/09/magia-paisaje-nocturno-pineta-inspira-ganador-premio-fotografia-lucien-briet-2066918.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-09",
+  "es_plan": false
+ },
+ "c2259ed635": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/09/papel-espana-eeuu-250-anos-2066887.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-09",
+  "es_plan": true,
+  "titulo": "Estreno documental 'El embajador que cambió la historia' en Washington",
+  "resumen": "Se estrena en Washington el documental 'El embajador que cambió la historia', de la cineasta aragonesa Mirella R. Abrisqueta. La película explora la contribución de España a la independencia de Estados Unidos, centrándose en el papel del conde de Aranda.",
+  "en": {
+   "titulo": "Documentary 'The Ambassador Who Changed History' premieres in Washington",
+   "resumen": "The documentary 'The Ambassador Who Changed History', by Aragonese filmmaker Mirella R. Abrisqueta, premieres in Washington. The film explores Spain's contribution to the independence of the United States, focusing on the role of the Count of Aranda."
+  },
+  "inicio": "2026-11-10",
+  "fin": "2026-11-10",
+  "hora": null,
+  "lugar": "Spanish Cultural Center de la Embajada de España",
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "a2223793c4": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/09/julio-jose-iglesias-encanta-gente-diga-quiera-primero-vengan-show-antes-opinar-2066110.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-09",
+  "es_plan": false
+ },
+ "05a905f694": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/09/alba-carrillo-confirma-llegado-demanda-feliciano-lopez-estar-tranquilo-afortunados-2066065.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-09",
+  "es_plan": false
+ },
+ "4eb011e5d4": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/09/crimen-pazos-serie-fallos-sistema-asesinato-machista-2066888.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-09",
+  "es_plan": true,
+  "titulo": "Estreno miniserie 'El crimen de Pazos' en Netflix",
+  "resumen": "Netflix estrena el 13 de noviembre la miniserie 'El crimen de Pazos', que analiza los fallos del sistema en un asesinato machista ocurrido en Orense en 2015. La ficción, basada en un caso real, reflexiona sobre la protección de las víctimas.",
+  "en": {
+   "titulo": "Miniseries 'El crimen de Pazos' premieres on Netflix",
+   "resumen": "Netflix premieres the miniseries 'El crimen de Pazos' on November 13th, analyzing systemic failures in a femicide case that occurred in Orense in 2015. The fiction, based on a true story, reflects on victim protection."
+  },
+  "inicio": "2026-11-13",
+  "fin": "2026-11-13",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "690ebfafcc": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/09/pancho-varona-maradona-gran-rex-muerto-miedo-joaquin-sabina-invitaba-genio-asustado-2066737.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-09",
+  "es_plan": true,
+  "titulo": "Pancho Varona presenta su disco 'Sospechas' en Zaragoza",
+  "resumen": "Pancho Varona presentará su nuevo disco en solitario, 'Sospechas', el próximo 15 de enero en el Auditorio de Zaragoza. El guitarrista y productor retoma su carrera tras su separación musical de Joaquín Sabina.",
+  "en": {
+   "titulo": "Pancho Varona presents his album 'Sospechas' in Zaragoza",
+   "resumen": "Pancho Varona will present his new solo album, 'Sospechas', on January 15th at the Zaragoza Auditorium. The guitarist and producer resumes his career after his musical separation from Joaquín Sabina."
+  },
+  "inicio": "2027-01-15",
+  "fin": "2027-01-15",
+  "hora": null,
+  "lugar": "Auditorio de Zaragoza Princesa Leonor",
+  "municipio": "Zaragoza",
+  "provincia": "Zaragoza",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "a7c4bc9364": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/09/jose-sacristan-89anos-no-cabe-cabeza-sonando-telefonos-moviles-teatro-2066746.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-09",
+  "es_plan": true,
+  "titulo": "José Sacristán de gira con 'El hijo de la cómica' en Zaragoza",
+  "resumen": "José Sacristán continúa de gira por España con la obra 'El hijo de la cómica', basada en las memorias de Fernando Fernán Gómez. El espectáculo llegará al Teatro Principal de Zaragoza del 16 al 20 de diciembre.",
+  "en": {
+   "titulo": "José Sacristán on tour with 'El hijo de la cómica' in Zaragoza",
+   "resumen": "José Sacristán continues his tour across Spain with the play 'El hijo de la cómica', based on the memoirs of Fernando Fernán Gómez. The show will be at the Teatro Principal in Zaragoza from December 16th to 20th."
+  },
+  "inicio": "2026-12-16",
+  "fin": "2026-12-20",
+  "hora": null,
+  "lugar": "Teatro Principal",
+  "municipio": "Zaragoza",
+  "provincia": "Zaragoza",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "e8c2f27e21": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/09/enrique-bunbury-naci-viviamos-piso-pequeno-padres-abuelos-hermanos-zaragoza-2063541.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-09",
+  "es_plan": false
+ },
+ "043bed22a2": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/09/lola-herrera-91anos-felipe-gonzalez-admirado-alma-ultimos-anos-entiendo-2066570.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-09",
+  "es_plan": false
+ },
+ "84873e8740": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/09/victor-manuel-79anos-hecho-santiago-abascal-despues-accidente-trenes-urda-gente-toxica-mala-nada-2066567.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-09",
+  "es_plan": false
+ },
+ "9c4ba5993a": {
+  "url": "https://www.elnortedecastilla.es/culturas/teatro/festival-danza-lola-eiffel-reune-valladolid-tres-20261109134018-nt.html",
+  "fuente": "El Norte de Castilla (Culturas)",
+  "src": "prensa-nortecastilla-culturas",
+  "publicado": "2026-11-09",
+  "es_plan": false
+ },
+ "14a7ea3068": {
+  "url": "https://www.elnortedecastilla.es/culturas/musica/mahler-jugendorchester-viernes-valladolid-20261109123132-nt.html",
+  "fuente": "El Norte de Castilla (Culturas)",
+  "src": "prensa-nortecastilla-culturas",
+  "publicado": "2026-11-09",
+  "es_plan": true,
+  "titulo": "Mahler Jugendorchester actúa en Valladolid",
+  "resumen": "La Mahler Jugendorchester actuará este viernes en Valladolid, con Julia Hagen como chelista solista y Cristian Macelaru dirigiendo el programa en el auditorio Miguel Delibes.",
+  "en": {
+   "titulo": "Mahler Jugendorchester performs in Valladolid",
+   "resumen": "The Mahler Jugendorchester will perform this Friday in Valladolid, with Julia Hagen as the solo cellist and Cristian Macelaru conducting the program at the Miguel Delibes auditorium."
+  },
+  "inicio": "2026-11-14",
+  "fin": "2026-11-14",
+  "hora": null,
+  "lugar": "auditorio Miguel Delibes",
+  "municipio": "Valladolid",
+  "provincia": "Valladolid",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "898c7414cb": {
+  "url": "https://www.elnortedecastilla.es/culturas/teatro/performance-casa-cervantes-20261109121530-nt.html",
+  "fuente": "El Norte de Castilla (Culturas)",
+  "src": "prensa-nortecastilla-culturas",
+  "publicado": "2026-11-09",
+  "es_plan": false
+ },
+ "00c96f92f7": {
+  "url": "https://www.diariosur.es/culturas/cac-malaga-cambia-color-nueva-etapa-museo-20261107054504-nt.html",
+  "fuente": "Diario Sur (Culturas)",
+  "src": "prensa-diariosur-culturas",
+  "publicado": "2026-11-09",
+  "es_plan": false
+ },
+ "4363762f98": {
+  "url": "https://www.ideal.es/culturas/almeria/almerijazz-congrega-3000-espectadores-proyecta-edicion-especial-20261109141204-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-11-09",
+  "es_plan": false
+ },
+ "25ce147907": {
+  "url": "https://www.ideal.es/culturas/almeria/clasijazz-liberation-music-orchestra-pone-broche-oro-20261109140938-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-11-09",
+  "es_plan": true,
+  "titulo": "Clasijazz Liberation Music Orchestra en Almerijazz",
+  "resumen": "La Clasijazz Liberation Music Orchestra cierra la 34ª edición del certamen Almerijazz con un concierto tributo a Carla Bley y Charlie Haden. El evento se celebra en el Auditorio Municipal Maestro Padilla.",
+  "en": {
+   "titulo": "Clasijazz Liberation Music Orchestra at Almerijazz",
+   "resumen": "The Clasijazz Liberation Music Orchestra concludes the 34th edition of the Almerijazz festival with a tribute concert to Carla Bley and Charlie Haden. The event takes place at the Auditorio Municipal Maestro Padilla."
+  },
+  "inicio": "2026-11-09",
+  "fin": "2026-11-09",
+  "hora": null,
+  "lugar": "Auditorio Municipal Maestro Padilla",
+  "municipio": "Almería",
+  "provincia": "Almería",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "2c992e09ed": {
+  "url": "https://www.ideal.es/culturas/festival-granada-noir-apuesta-diversidad-cultural-programacion-20261109134735-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-11-09",
+  "es_plan": true,
+  "titulo": "Festival Granada Noir",
+  "resumen": "El festival Granada Noir comienza hoy con una programación diversa que incluye cine y un encuentro gastronómico-literario. Se entregarán premios a cineastas y a una funcionaria de prisiones.",
+  "en": {
+   "titulo": "Granada Noir Festival",
+   "resumen": "The Granada Noir festival begins today with a diverse program including cinema and a gastro-literary meeting. Awards will be presented to filmmakers and a prison official."
+  },
+  "inicio": "2026-11-09",
+  "fin": "2026-11-09",
+  "hora": null,
+  "lugar": null,
+  "municipio": "Granada",
+  "provincia": "Granada",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "libros",
+   "pantalla"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "9ebad921c2": {
+  "url": "https://www.ideal.es/culturas/jaen/festival-musica-segura-despide-edicion-otonal-fusion-20261109132200-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-11-09",
+  "es_plan": false
+ },
+ "9ddf8aa029": {
+  "url": "https://www.ideal.es/culturas/almeria/tom-berenger-emma-suarez-paula-echevarria-enrique-20261109124605-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-11-09",
+  "es_plan": true,
+  "titulo": "Festival Internacional de Cine de Almería",
+  "resumen": "El Festival Internacional de Cine de Almería presenta su programación y anuncia sus homenajeados, entre los que se encuentran Tom Berenger y Emma Suárez. El festival arranca el viernes.",
+  "en": {
+   "titulo": "Almería International Film Festival",
+   "resumen": "The Almería International Film Festival presents its program and announces its honorees, including Tom Berenger and Emma Suárez. The festival kicks off on Friday."
+  },
+  "inicio": "2026-11-13",
+  "fin": "2026-11-13",
+  "hora": null,
+  "lugar": null,
+  "municipio": "Almería",
+  "provincia": "Almería",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "pantalla",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "c95c8a56c8": {
+  "url": "https://www.ideal.es/culturas/festival-granada/festival-conmemorara-centenario-generacion-nueva-programacion-refuerza-20261109122845-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-11-09",
+  "es_plan": false
+ },
+ "278192be8a": {
+  "url": "https://www.ideal.es/culturas/musica/elliot-murphy-granada-20261109090937-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-11-09",
+  "es_plan": true,
+  "titulo": "Conciertos en Granada con Elliot Murphy",
+  "resumen": "El cantautor americano Elliot Murphy encabeza la agenda de conciertos de esta semana en Granada, ofreciendo una actuación destacada.",
+  "en": {
+   "titulo": "Concerts in Granada featuring Elliot Murphy",
+   "resumen": "American singer-songwriter Elliot Murphy headlines the concert schedule in Granada this week, offering a notable performance."
+  },
+  "inicio": "2026-11-09",
+  "fin": "2026-11-09",
+  "hora": null,
+  "lugar": null,
+  "municipio": "Granada",
+  "provincia": "Granada",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "97f04d8d5b": {
+  "url": "https://www.elcorreo.com/culturas/musica/nino-dentici-rescate-musical-patrimonial-20261108001423-nt.html",
+  "fuente": "El Correo (Culturas)",
+  "src": "prensa-elcorreo-culturas",
+  "publicado": "2026-11-09",
+  "es_plan": false
+ },
+ "d89bc05cef": {
+  "url": "https://www.diariovasco.com/culturas/musica/dabadaba-festival-20261108174950-nt.html",
+  "fuente": "El Diario Vasco (Culturas)",
+  "src": "prensa-diariovasco-culturas",
+  "publicado": "2026-11-09",
+  "es_plan": true,
+  "titulo": "Festival de nuevos grupos en Dabadaba",
+  "resumen": "La sala Dabadaba de San Sebastián organizó un festival para promocionar a grupos emergentes, ofreciendo una tarde para descubrir talento musical antes de su popularización.",
+  "en": {
+   "titulo": "New Bands Festival at Dabadaba",
+   "resumen": "The Dabadaba venue in San Sebastián organized a festival to promote emerging bands, offering an afternoon to discover musical talent before it becomes widely known."
+  },
+  "inicio": "2026-11-09",
+  "fin": "2026-11-09",
+  "hora": null,
+  "lugar": "Dabadaba",
+  "municipio": "San Sebastián",
+  "provincia": "Gipuzkoa",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "cfb404a0b9": {
+  "url": "https://www.diariovasco.com/culturas/libros/sarrionandia-juan-gabriel-vasquez-literaktum-20261109194006-nt.html",
+  "fuente": "El Diario Vasco (Culturas)",
+  "src": "prensa-diariovasco-culturas",
+  "publicado": "2026-11-09",
+  "es_plan": true,
+  "titulo": "Festival Literaktum en San Sebastián",
+  "resumen": "El festival Literaktum de San Sebastián comienza hoy con la participación de Sarrionandia y Juan Gabriel Vásquez. Mañana continuará con una charla de Lucía Solla Sobral.",
+  "en": {
+   "titulo": "Literaktum Festival in San Sebastián",
+   "resumen": "The Literaktum festival in San Sebastián begins today with the participation of Sarrionandia and Juan Gabriel Vásquez. Tomorrow it will continue with a talk by Lucía Solla Sobral."
+  },
+  "inicio": "2026-11-09",
+  "fin": "2026-11-09",
+  "hora": null,
+  "lugar": null,
+  "municipio": "San Sebastián",
+  "provincia": "Gipuzkoa",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "149c5d8e5d": {
+  "url": "https://www.lasprovincias.es/culturas/tv/programacion-septima-hoy-lunes-entrevista-pedro-sanchez-20261108003725-nt.html",
+  "fuente": "Las Provincias (Culturas)",
+  "src": "prensa-lasprovincias-culturas",
+  "publicado": "2026-11-09",
+  "es_plan": true,
+  "titulo": "Programación de La Séptima: Entrevista a Pedro Sánchez",
+  "resumen": "La cadena La Séptima estrena hoy su programación con una entrevista a Pedro Sánchez, contraprogramando a otros formatos televisivos.",
+  "en": {
+   "titulo": "La Séptima Program Schedule: Interview with Pedro Sánchez",
+   "resumen": "The La Séptima channel premieres its programming today with an interview with Pedro Sánchez, counter-programming other television formats."
+  },
+  "inicio": "2026-11-09",
+  "fin": "2026-11-09",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": "Comunitat Valenciana",
+  "ambito": "nacional",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "pantalla"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "759e1adbd5": {
+  "url": "https://www.lasprovincias.es/culturas/musica/funzo-anos-entiendo-estar-dos-horas-mirando-20260922004332-nt.html",
+  "fuente": "Las Provincias (Culturas)",
+  "src": "prensa-lasprovincias-culturas",
+  "publicado": "2026-11-09",
+  "es_plan": false
+ },
+ "da6c9bc67e": {
+  "url": "https://www.lasprovincias.es/culturas/tv/emite-lunes-halcon-maltes-cinta-consolido-humphrey-20261108003502-nt.html",
+  "fuente": "Las Provincias (Culturas)",
+  "src": "prensa-lasprovincias-culturas",
+  "publicado": "2026-11-09",
+  "es_plan": true,
+  "titulo": "La 2 emite 'El halcón maltés'",
+  "resumen": "La 2 emitirá hoy 'El halcón maltés', la película dirigida por John Huston que consolidó a Humphrey Bogart como estrella del cine negro.",
+  "en": {
+   "titulo": "La 2 broadcasts 'The Maltese Falcon'",
+   "resumen": "La 2 will broadcast 'The Maltese Falcon' today, the film directed by John Huston that established Humphrey Bogart as a film noir star."
+  },
+  "inicio": "2026-11-09",
+  "fin": "2026-11-09",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": "Comunitat Valenciana",
+  "ambito": "nacional",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "pantalla",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "7f5f6fc725": {
+  "url": "https://www.laverdad.es/culturas/fundacion-pedro-cano-celebra-xvi-aniversario-llegada-20261109142738-nt.html",
+  "fuente": "La Verdad (Culturas)",
+  "src": "prensa-laverdad-culturas",
+  "publicado": "2026-11-09",
+  "es_plan": true,
+  "titulo": "Fundación Pedro Cano: XVI aniversario",
+  "resumen": "La Fundación Pedro Cano celebra su XVI aniversario con la serie 'Siete' y diversas actividades. La programación comienza este martes con la inauguración de una muestra y se extenderá hasta el domingo.",
+  "en": {
+   "titulo": "Pedro Cano Foundation: 16th Anniversary",
+   "resumen": "The Pedro Cano Foundation celebrates its 16th anniversary with the 'Siete' series and various activities. The program begins this Tuesday with the opening of an exhibition and will run until Sunday."
+  },
+  "inicio": "2026-11-10",
+  "fin": "2026-11-15",
+  "hora": null,
+  "lugar": null,
+  "municipio": "Blanca",
+  "provincia": "Murcia",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "3f2b768254": {
+  "url": "https://www.laverdad.es/culturas/musica/alice-cooper-actuara-murcia-2027-20261109090746-nt.html",
+  "fuente": "La Verdad (Culturas)",
+  "src": "prensa-laverdad-culturas",
+  "publicado": "2026-11-09",
+  "es_plan": false
+ },
+ "23618a7a4e": {
+  "url": "https://www.eldiariomontanes.es/culturas/torrelavega-reivindica-figura-huella-escultor-teodoro-calderon-20261109072529-nt.html",
+  "fuente": "El Diario Montañés (Culturas)",
+  "src": "prensa-diariomontanes-culturas",
+  "publicado": "2026-11-09",
+  "es_plan": true,
+  "titulo": "Exposición Teodoro Calderón en Torrelavega",
+  "resumen": "Torrelavega rinde homenaje al escultor Teodoro Calderón con una exposición en la Sala Mauro Muriedas que exhibirá piezas seleccionadas de su fondo familiar a partir del día 20.",
+  "en": {
+   "titulo": "Teodoro Calderón Exhibition in Torrelavega",
+   "resumen": "Torrelavega pays tribute to sculptor Teodoro Calderón with an exhibition at the Sala Mauro Muriedas, showcasing selected pieces from his family's collection starting on the 20th."
+  },
+  "inicio": "2026-11-20",
+  "fin": "2026-11-20",
+  "hora": null,
+  "lugar": "Sala Mauro Muriedas",
+  "municipio": "Torrelavega",
+  "provincia": "Cantabria",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "6cd1dc053c": {
+  "url": "https://www.elcomercio.es/culturas/opera-carmen-llega-londres-cines-oviedo-gijon-20261109123606-nt.html",
+  "fuente": "El Comercio (Culturas)",
+  "src": "prensa-elcomercio-culturas",
+  "publicado": "2026-11-09",
+  "es_plan": true,
+  "titulo": "La ópera 'Carmen' se retransmite en directo desde Londres a cines de Oviedo, Gijón y Paredes",
+  "resumen": "La ópera 'Carmen' de Bizet se podrá ver en directo desde el Royal Opera House de Londres en cines de Oviedo, Gijón y Paredes este martes. La retransmisión ofrecerá una perspectiva contemporánea de la obra.",
+  "en": {
+   "titulo": "The opera 'Carmen' is broadcast live from London to cinemas in Oviedo, Gijón, and Paredes",
+   "resumen": "Bizet's opera 'Carmen' will be broadcast live from London's Royal Opera House to cinemas in Oviedo, Gijón, and Paredes this Tuesday. The transmission will offer a contemporary perspective on the work."
+  },
+  "inicio": "2026-11-11",
+  "fin": "2026-11-11",
+  "hora": null,
+  "lugar": "cines",
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "4c5b63670b": {
+  "url": "https://www.lavanguardia.com/cultura/20261108/11679307/festival-42-cierra-sexta-edicion-barcelona-mas-8-100-asistentes.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-08",
+  "es_plan": false
+ },
+ "52e4e054e4": {
+  "url": "https://www.lavanguardia.com/cultura/20261108/11679299/by-invitation-cierra-septima-edicion-record-15-000-visitantes-50-mas-ano-anterior.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-08",
+  "es_plan": false
+ },
+ "e80dcd1835": {
+  "url": "https://www.ara.cat/estils/mirar-ho-viure-ho-fascinen-tant-experiencies-immersives_130_5900804.html",
+  "fuente": "Ara (Cultura)",
+  "src": "prensa-ara-cultura",
+  "publicado": "2026-11-08",
+  "es_plan": false
+ },
+ "524bdd8fa6": {
+  "url": "https://www.heraldo.es/ocio-y-cultura/eva-laborda-crea-vestidos-fiesta-inspirados-indumentaria-tradicional-aragon-fotos-2066817-1.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-08",
+  "es_plan": false
+ },
+ "675409d056": {
+  "url": "https://www.ideal.es/culturas/almeria/viaje-tiempo-sobre-ruedas-salvaje-oeste-20261108191310-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-11-08",
+  "es_plan": false
+ },
+ "a2a93c3618": {
+  "url": "https://www.ideal.es/culturas/almeria/publico-disfruta-farra-espectaculo-musica-teatro-clasico-20261108190541-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-11-08",
+  "es_plan": false
+ },
+ "90789538c8": {
+  "url": "https://www.ideal.es/culturas/jaen/5000-asistentes-mangafest-reflejan-consolidacion-evento-jaen-20261108173221-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-11-08",
+  "es_plan": false
+ },
+ "4c339c6709": {
+  "url": "https://www.ideal.es/culturas/jaen/gamberra-marine-auclair-gana-xiv-festival-cortos-20261108162730-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-11-08",
+  "es_plan": false
+ },
+ "3f30b225d4": {
+  "url": "https://www.lasprovincias.es/culturas/tv/programa-septima-cuela-vistos-sabado-20261108131458-nt.html",
+  "fuente": "Las Provincias (Culturas)",
+  "src": "prensa-lasprovincias-culturas",
+  "publicado": "2026-11-08",
+  "es_plan": false
+ },
+ "9b6cd88db2": {
+  "url": "https://www.laverdad.es/culturas/ejemplo-tolerancia-falta-20261108220941-nt.html",
+  "fuente": "La Verdad (Culturas)",
+  "src": "prensa-laverdad-culturas",
+  "publicado": "2026-11-08",
+  "es_plan": true,
+  "titulo": "Estreno de 'El señor Ibrahim y las flores del Corán' en el Teatro Romea",
+  "resumen": "Nacho Vilar Producciones estrena este jueves en el Teatro Romea la obra 'El señor Ibrahim y las flores del Corán', descrita como una tierna historia y un ejemplo de tolerancia.",
+  "en": {
+   "titulo": "Premiere of 'Mr. Ibrahim and the Flowers of the Quran' at the Romea Theater",
+   "resumen": "Nacho Vilar Producciones premieres the play 'Mr. Ibrahim and the Flowers of the Quran' this Thursday at the Romea Theater, described as a tender story and an example of tolerance."
+  },
+  "inicio": "2026-11-13",
+  "fin": "2026-11-13",
+  "hora": null,
+  "lugar": "Teatro Romea",
+  "municipio": null,
+  "provincia": "Murcia",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "bac9a11334": {
+  "url": "https://www.larioja.com/culturas/auto-fe-brujas-zugarramurdi-logrono-rioja-20261108225838-nt.html",
+  "fuente": "La Rioja (Culturas)",
+  "src": "prensa-larioja-culturas",
+  "publicado": "2026-11-07",
+  "es_plan": false
+ },
+ "ce096c1e31": {
+  "url": "https://www.lavanguardia.com/encatala/20261106/11677056/lovecraft-esplendor-horror-cosmic-festival-42.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-06",
+  "es_plan": true,
+  "titulo": "Jornada dedicada a H.P. Lovecraft en el Festival 42 de Barcelona",
+  "resumen": "El Festival 42 de Barcelona dedica una jornada este viernes a divulgar la figura de H.P. Lovecraft y el horror cósmico. La actividad busca acercar a nuevos lectores al influyente escritor.",
+  "en": {
+   "titulo": "Day dedicated to H.P. Lovecraft at Festival 42 in Barcelona",
+   "resumen": "Festival 42 in Barcelona dedicates a day this Friday to promoting the figure of H.P. Lovecraft and cosmic horror. The activity aims to introduce new readers to the influential writer."
+  },
+  "inicio": "2026-11-13",
+  "fin": "2026-11-13",
+  "hora": null,
+  "lugar": null,
+  "municipio": "Barcelona",
+  "provincia": "Barcelona",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "ad7b08ba8b": {
+  "url": "https://www.lavanguardia.com/qf/20261106/11676905/hilaria-llena-barcelona-comedia.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-06",
+  "es_plan": true,
+  "titulo": "Festival Hilària de comedia en Barcelona del 12 de noviembre al 1 de diciembre",
+  "resumen": "El Festival Hilària llenará Barcelona de humor del 12 de noviembre al 1 de diciembre con cinco días de comedia en cuatro escenarios. Incluirá stand-up, sátira, música y formatos experimentales.",
+  "en": {
+   "titulo": "Hilària Comedy Festival in Barcelona from November 12 to December 1",
+   "resumen": "The Hilària Festival will fill Barcelona with humor from November 12 to December 1 with five days of comedy across four venues. It will feature stand-up, satire, music, and experimental formats."
+  },
+  "inicio": "2026-11-12",
+  "fin": "2026-12-01",
+  "hora": null,
+  "lugar": null,
+  "municipio": "Barcelona",
+  "provincia": "Barcelona",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "61d994a4a7": {
+  "url": "https://www.lavanguardia.com/cultura/teatro/20261106/11676839/me-n-vaig-nuevo-espectaculo-solitario-carles-sans-poliorama.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-06",
+  "es_plan": false
  }
 }

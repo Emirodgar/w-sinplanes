@@ -30336,5 +30336,1513 @@
    "libros"
   ],
   "a_cubierto": true
+ },
+ "adb80dd4a4": {
+  "id": "a6afd8e840",
+  "es": {
+   "titulo": "Audrey Hepburn: Ícono de Hollywood y Embajadora de UNICEF",
+   "resumen": "Ciclo especial en homenaje a Audrey Hepburn, actriz icónica y Embajadora de Buena Voluntad de UNICEF. Se explorará su legado en el cine, la moda y su labor humanitaria infantil. Impartido por Eva María Mera Jiménez."
+  },
+  "en": {
+   "titulo": "Audrey Hepburn: Hollywood Icon and UNICEF Ambassador",
+   "resumen": "Special cycle honoring Audrey Hepburn, iconic actress and UNICEF Goodwill Ambassador. Her legacy in cinema, fashion, and her humanitarian work for children will be explored. Presented by Eva María Mera Jiménez."
+  },
+  "temas": [
+   "cultura",
+   "ninos"
+  ],
+  "a_cubierto": null
+ },
+ "3ad158c329": {
+  "id": "38c4501560",
+  "es": {
+   "titulo": "Talleres sobre salud financiera en Espacio de Igualdad Berta Cáceres",
+   "resumen": "Se impartirá un ciclo de talleres centrado en la salud financiera. La actividad tendrá lugar en el Espacio de Igualdad Berta Cáceres."
+  },
+  "en": {
+   "titulo": "Financial Health Workshops at Berta Cáceres Equality Space",
+   "resumen": "A series of workshops focused on financial health will be held. The activity will take place at the Berta Cáceres Equality Space."
+  },
+  "temas": [],
+  "a_cubierto": null
+ },
+ "7ef5d83593": {
+  "id": "d5c37ec611",
+  "es": {
+   "titulo": "Ciclo 'Respirando arte': Grabados y Litografía UNESCO",
+   "resumen": "El Centro Cultural San Francisco La Prensa acoge el ciclo 'Respirando arte', dedicado a la exposición de grabados y litografías de la UNESCO."
+  },
+  "en": {
+   "titulo": "'Breathing Art' Cycle: UNESCO Prints and Lithography",
+   "resumen": "The San Francisco La Prensa Cultural Center hosts the 'Breathing Art' cycle, dedicated to an exhibition of UNESCO prints and lithographs."
+  },
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": null
+ },
+ "bde5f5072f": {
+  "id": "369233fdcd",
+  "es": {
+   "titulo": "Conferencia: Amor y poder en la corte napoleónica de Madrid",
+   "resumen": "Conferencia sobre la apasionada historia de amor entre José I Bonaparte y la marquesa de Montehermoso en la corte napoleónica de Madrid, explorando sus consecuencias políticas."
+  },
+  "en": {
+   "titulo": "Conference: Love and Power in Madrid's Napoleonic Court",
+   "resumen": "A conference discussing the passionate love affair between Joseph Bonaparte and the Marchioness of Montehermoso in Madrid's Napoleonic court, exploring its political consequences."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "96e078ef92": {
+  "id": "8a77a9d3e9",
+  "es": {
+   "titulo": "Diálogo: Influencia norteamericana en la arquitectura española de entreguerras",
+   "resumen": "Se celebrará un diálogo sobre la influencia de la arquitectura norteamericana en España durante el período de entreguerras. La asistencia es gratuita previa inscripción online."
+  },
+  "en": {
+   "titulo": "Dialogue: American Influence on Spanish Interwar Architecture",
+   "resumen": "A dialogue will be held on the influence of North American architecture in Spain during the interwar period. Attendance is free with prior online registration."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "c9f54b8ece": {
+  "id": "5abf24f4a8",
+  "es": {
+   "titulo": "J.F. Sebastian en concierto en la Biblioteca Pública Municipal Eugenio Trías",
+   "resumen": "Concierto de J.F. Sebastian en la Biblioteca Pública Municipal Eugenio Trías, ubicada en la Casa de Fieras de El Retiro."
+  },
+  "en": {
+   "titulo": "J.F. Sebastian in Concert at Eugenio Trías Municipal Public Library",
+   "resumen": "J.F. Sebastian will perform in concert at the Eugenio Trías Municipal Public Library, located in the Casa de Fieras of El Retiro."
+  },
+  "temas": [
+   "musica"
+  ],
+  "a_cubierto": null
+ },
+ "4e03999783": {
+  "id": "1eac44955e",
+  "es": {
+   "titulo": "Concierto 'Variedades artísticas' en el Centro Cultural Casa de Vacas",
+   "resumen": "Un concierto que ofrece un recorrido por canciones modernas, baladas y boleros. La entrada es gratuita hasta completar aforo, con reparto de invitaciones una hora antes."
+  },
+  "en": {
+   "titulo": "'Artistic Varieties' Concert at Casa de Vacas Cultural Center",
+   "resumen": "A concert offering a journey through modern songs, ballads, and boleros. Admission is free until capacity is reached, with tickets distributed one hour prior."
+  },
+  "temas": [
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "aa5739f21d": {
+  "id": "c119548d96",
+  "es": {
+   "titulo": "Conversaciones en inglés en Burgos (Oct 2026 - May 2027)",
+   "resumen": "Sesiones semanales gratuitas de conversación en inglés para adultos con nivel medio/alto, coordinadas por nativos. Se busca mejorar la fluidez y perder el miedo a hablar."
+  },
+  "en": {
+   "titulo": "English Conversation Sessions in Burgos (Oct 2026 - May 2027)",
+   "resumen": "Weekly free English conversation sessions for intermediate/advanced adults, coordinated by native speakers. Aimed at improving fluency and overcoming speaking anxiety."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "987d8560fa": {
+  "id": "ea1ff859dd",
+  "es": {
+   "titulo": "Tertulias literarias con Beatriz Quintana en la Biblioteca Pública de Palencia",
+   "resumen": "Tres tertulias literarias con la escritora Beatriz Quintana abordarán a Jorge Manrique, el origen del castellano y a Victoriano Cremer. Entrada libre hasta completar aforo."
+  },
+  "en": {
+   "titulo": "Literary Discussions with Beatriz Quintana at Palencia Public Library",
+   "resumen": "Three literary discussions with writer Beatriz Quintana will cover Jorge Manrique, the origin of the Spanish language, and Victoriano Cremer. Free entry until capacity."
+  },
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "390604a0c7": {
+  "id": "fafb662174",
+  "es": {
+   "titulo": "Jornadas Ecología Social Salud",
+   "resumen": "Jornadas centradas en la salud desde la perspectiva de la ecología social. Se abordan temas como la ética del cuidado ecofeminista, la relación entre agua y salud, y la calidad del aire en entornos escolares."
+  },
+  "en": {
+   "titulo": "Social Ecology Health Conference",
+   "resumen": "Conferences focusing on health from a social ecology perspective. Topics include ecofeminist ethics of care, the inseparable link between water and health, and air quality in school environments."
+  },
+  "temas": [
+   "naturaleza",
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "e2b21804aa": {
+  "id": "fd67a66876",
+  "es": {
+   "titulo": "Exposición 'Salamanca Desamortizada' en el Museo de Salamanca",
+   "resumen": "El Museo de Salamanca presenta la exposición 'Salamanca Desamortizada', que documenta las incautaciones de bienes eclesiásticos y comunales en el siglo XIX."
+  },
+  "en": {
+   "titulo": "'Salamanca Desamortizada' Exhibition at the Museum of Salamanca",
+   "resumen": "The Museum of Salamanca presents the 'Salamanca Desamortizada' exhibition, documenting the confiscation of ecclesiastical and communal properties in the 19th century."
+  },
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": null
+ },
+ "a79698acc5": {
+  "id": "687f5b9f06",
+  "es": {
+   "titulo": "Exposición 'La mirada de mi abuelo' prorrogada en Palencia",
+   "resumen": "La exposición fotográfica 'La mirada de mi abuelo: crónica en blanco y negro de lo cotidiano' se ha prorrogado hasta el 30 de noviembre en el Archivo Histórico Provincial de Palencia."
+  },
+  "en": {
+   "titulo": "'My Grandfather's Gaze' Exhibition Extended in Palencia",
+   "resumen": "The photographic exhibition 'My Grandfather's Gaze: Black and White Chronicle of the Everyday' has been extended until November 30th at the Provincial Historical Archive of Palencia."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "9ff93cef0c": {
+  "id": "0bb6b85c53",
+  "es": {
+   "titulo": "Conferencias y exposición 'Segovia, ciudad de poder' en Segovia",
+   "resumen": "El Archivo Histórico Provincial de Segovia acoge conferencias y una exposición sobre la historia de Segovia como ciudad de poder, desde la época romana hasta los Borbones."
+  },
+  "en": {
+   "titulo": "Conferences and Exhibition 'Segovia, City of Power' in Segovia",
+   "resumen": "The Provincial Historical Archive of Segovia hosts conferences and an exhibition on Segovia's history as a city of power, from Roman times to the Bourbons."
+  },
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": null
+ },
+ "a975a71eaa": {
+  "id": "26ce71139a",
+  "es": {
+   "titulo": "Festival del Castaño en Béjar: Naturaleza, patrimonio y gastronomía",
+   "resumen": "La Ruta de la Plata-Sierras de Béjar celebra el Festival del Castaño, un evento que combina naturaleza, patrimonio cultural y gastronomía local."
+  },
+  "en": {
+   "titulo": "Chestnut Festival in Béjar: Nature, Heritage, and Gastronomy",
+   "resumen": "The Ruta de la Plata-Sierras de Béjar celebrates the Chestnut Festival, an event combining nature, cultural heritage, and local gastronomy."
+  },
+  "temas": [
+   "naturaleza",
+   "gastronomia",
+   "fiestas"
+  ],
+  "a_cubierto": null
+ },
+ "98f887a18b": {
+  "id": "737bb9c5c5",
+  "es": {
+   "titulo": "Exposición 'San Juan de la Cruz: Esperanza de Alto Vuelo' en Alba de Tormes",
+   "resumen": "El Convento de San Juan de la Cruz en Alba de Tormes (Salamanca) alberga una exposición dedicada a la figura de San Juan de la Cruz."
+  },
+  "en": {
+   "titulo": "'Saint John of the Cross: High-Flying Hope' Exhibition in Alba de Tormes",
+   "resumen": "The Convent of Saint John of the Cross in Alba de Tormes (Salamanca) hosts an exhibition dedicated to the figure of Saint John of the Cross."
+  },
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": null
+ },
+ "68610656ad": {
+  "id": "246fbed7e8",
+  "es": {
+   "titulo": "Espectáculo de danza 'La silla' en la Biblioteca Pública de Segovia",
+   "resumen": "La compañía Fresas con nata presenta 'La silla', un espectáculo de danza urbana que explora el egoísmo, la supervivencia y la adaptación ante la adversidad."
+  },
+  "en": {
+   "titulo": "Dance Performance 'The Chair' at Segovia Public Library",
+   "resumen": "The company Fresas con nata presents 'The Chair', an urban dance performance exploring selfishness, survival, and adaptation in the face of adversity."
+  },
+  "temas": [
+   "cultura",
+   "deporte"
+  ],
+  "a_cubierto": null
+ },
+ "5982f54078": {
+  "id": "2ef8dd47aa",
+  "es": {
+   "titulo": "Taller de cometas 'Jugar es un derecho' en Burgos",
+   "resumen": "Actividad para niños (6-12 años) en Burgos para construir cometas, recordar que jugar es un derecho y denunciar la prohibición de volar cometas en Gaza. Requiere inscripción."
+  },
+  "en": {
+   "titulo": "Kite Workshop 'Playing is a Right' in Burgos",
+   "resumen": "An activity for children (6-12 years old) in Burgos to build kites, remember that playing is a right, and denounce the ban on flying kites in Gaza. Requires registration."
+  },
+  "temas": [
+   "ninos",
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "57eee1101b": {
+  "id": "256899d922",
+  "es": {
+   "titulo": "Narración oral 'Los cuentos de David Acera' en San Esteban de Gormaz",
+   "resumen": "David Acera ofrecerá sesiones de narración oral para público familiar en la Biblioteca Pública Municipal de San Esteban de Gormaz. Requiere inscripción previa."
+  },
+  "en": {
+   "titulo": "Storytelling 'David Acera's Tales' in San Esteban de Gormaz",
+   "resumen": "David Acera will offer storytelling sessions for families at the Municipal Public Library of San Esteban de Gormaz. Prior registration is required."
+  },
+  "temas": [
+   "ninos",
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": true
+ },
+ "baed456878": {
+  "id": "6311487007",
+  "es": {
+   "titulo": "Espectáculo infantil 'María Escondite y las cajas mágicas' en Burgos",
+   "resumen": "Espectáculo infantil recomendado a partir de 3 años sobre una niña que se comunica con el mundo a través de cajas de colores. Requiere recogida de invitación."
+  },
+  "en": {
+   "titulo": "Children's Show 'María Escondite and the Magic Boxes' in Burgos",
+   "resumen": "A children's show recommended for ages 3 and up about a girl who communicates with the world through colored boxes. Ticket collection is required."
+  },
+  "temas": [
+   "ninos",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "01e0c5ea41": {
+  "id": "0801b8f9c4",
+  "es": {
+   "titulo": "Espectáculo de magia 'Magia potagia pata de cabra' en Ávila",
+   "resumen": "Alicia Maravillas presenta 'Magia potagia pata de cabra', un espectáculo de magia para público infantil y familiar en la Biblioteca Pública de Ávila. Requiere inscripción."
+  },
+  "en": {
+   "titulo": "Magic Show 'Magia potagia pata de cabra' in Ávila",
+   "resumen": "Alicia Maravillas presents 'Magia potagia pata de cabra', a magic show for children and families at the Public Library of Ávila. Registration is required."
+  },
+  "temas": [
+   "ninos",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "184211c4a3": {
+  "id": "3ab381b5f5",
+  "es": {
+   "titulo": "Taller de arte 'La belleza en lo cotidiano' con María Encarnación Cabezón en Burgos",
+   "resumen": "Taller de arte para adultos en Burgos con la pintora María Encarnación Cabezón Alonso, enfocado en conectar con el pasado y crear a partir de la belleza cotidiana. Requiere inscripción."
+  },
+  "en": {
+   "titulo": "Art Workshop 'Beauty in the Everyday' with María Encarnación Cabezón in Burgos",
+   "resumen": "An art workshop for adults in Burgos with painter María Encarnación Cabezón Alonso, focusing on connecting with the past and creating from everyday beauty. Registration required."
+  },
+  "temas": [
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "06eb22f805": {
+  "id": "69d72bfc51",
+  "es": {
+   "titulo": "Taller de inglés 'Fun 4 All' para niños en Burgos",
+   "resumen": "Taller de inglés para niños de 9 a 11 años en Burgos, donde aprenderán el idioma a través de juegos y actividades divertidas. Requiere inscripción."
+  },
+  "en": {
+   "titulo": "'Fun 4 All' English Workshop for Children in Burgos",
+   "resumen": "An English workshop for children aged 9 to 11 in Burgos, where they will learn the language through fun games and activities. Registration is required."
+  },
+  "temas": [
+   "ninos",
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "e98064382a": {
+  "id": "3d5b83a814",
+  "es": {
+   "titulo": "Cuentacuentos 'El árbol de la escuela' en Valladolid",
+   "resumen": "Cuentacuentos para niños a partir de 4 años en Valladolid sobre la naturaleza en los patios escolares y el poder de los pequeños gestos. Requiere inscripción."
+  },
+  "en": {
+   "titulo": "Storytelling 'The School Tree' in Valladolid",
+   "resumen": "Storytelling for children aged 4 and up in Valladolid about nature in schoolyards and the power of small gestures. Registration required."
+  },
+  "temas": [
+   "ninos",
+   "naturaleza",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "fab31457ff": {
+  "id": "9a01f1baa9",
+  "es": {
+   "titulo": "Taller de robótica 'Dash & Dot descubren Europa' en Valladolid",
+   "resumen": "Taller de robótica para niños de 6 a 8 años en Valladolid, donde aprenderán sobre Europa utilizando los robots Dash & Dot. Requiere inscripción."
+  },
+  "en": {
+   "titulo": "Robotics Workshop 'Dash & Dot Discover Europe' in Valladolid",
+   "resumen": "A robotics workshop for children aged 6 to 8 in Valladolid, where they will learn about Europe using Dash & Dot robots. Registration is required."
+  },
+  "temas": [
+   "ninos",
+   "pantalla",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "590ccfe88a": {
+  "id": "b208078f1d",
+  "es": {
+   "titulo": "Jugando con cuentos: Hortensia conoce a los ratones que recogen fruta",
+   "resumen": "Un cuento infantil sobre ratoncitos que recolectan fruta en otoño. La ratoncita Hortensia se distrae en el camino. La historia promueve el respeto a la naturaleza, la ayuda mutua y el trabajo en equipo. Recomendado para mayores de 4 años."
+  },
+  "en": {
+   "titulo": "Playing with Stories: Hortensia Meets the Fruit-Gathering Mice",
+   "resumen": "A children's story about little mice gathering fruit in autumn. Little mouse Hortensia gets distracted along the way. The tale promotes respect for nature, mutual aid, and teamwork. Recommended for ages 4 and up."
+  },
+  "temas": [
+   "ninos",
+   "libros",
+   "naturaleza"
+  ],
+  "a_cubierto": null
+ },
+ "cdc49258fd": {
+  "id": "2a710fe2b3",
+  "es": {
+   "titulo": "Taller creativo en familia: Duende de otoño",
+   "resumen": "Taller para familias donde se despierta la creatividad con materiales naturales. Se crea una hoja de otoño y su habitante, un duendecillo, cosiendo y bordando. Dirigido a niños de 7 a 12 años acompañados de un adulto."
+  },
+  "en": {
+   "titulo": "Family Creative Workshop: Autumn Sprite",
+   "resumen": "A workshop for families to spark creativity using natural materials. Participants will create an autumn leaf and its inhabitant, a little sprite, through sewing and embroidery. Aimed at children aged 7-12 with an adult."
+  },
+  "temas": [
+   "ninos",
+   "actividades",
+   "naturaleza"
+  ],
+  "a_cubierto": null
+ },
+ "4d5fda9b57": {
+  "id": "23ce6c9fc4",
+  "es": {
+   "titulo": "Cuentos para bebés: 'Había una vez...'",
+   "resumen": "Espacio respetuoso en la biblioteca para familias con bebés (6-23 meses) para disfrutar de la comunicación a través de cuentos. Se busca fortalecer lazos, asombrar y alimentar la curiosidad, aprendiendo desde dentro."
+  },
+  "en": {
+   "titulo": "Stories for Babies: 'Once Upon a Time...'",
+   "resumen": "A respectful space in the library for families with babies (6-23 months) to enjoy communication through stories. It aims to strengthen bonds, inspire wonder, and nurture curiosity, fostering learning from within."
+  },
+  "temas": [
+   "ninos",
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "bb708656bf": {
+  "id": "49f1265d0d",
+  "es": {
+   "titulo": "Talleres musicales para bebés: Martín el trovador y Miles y los blues",
+   "resumen": "Talleres de música para niños de 0 a 5 años y sus adultos, fomentando la sensibilización artística. Incluye 'Martín el trovador' (música medieval) y 'Miles y los blues' (música jazz)."
+  },
+  "en": {
+   "titulo": "Music Workshops for Babies: Martin the Troubadour and Miles and the Blues",
+   "resumen": "Music workshops for children aged 0-5 and their adults, aiming to foster artistic sensitivity. Features 'Martin the Troubadour' (medieval music) and 'Miles and the Blues' (jazz music)."
+  },
+  "temas": [
+   "ninos",
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "364bd34300": {
+  "id": "c9c64dcd9d",
+  "es": {
+   "titulo": "Tardes musicales: La obra de nadie",
+   "resumen": "Charla sobre la creación musical colectiva en los siglos XX y XXI, cuestionando la figura del autor. Se exploran diferentes maneras de crear de forma colaborativa, desde Brecht y Weill hasta la inteligencia artificial."
+  },
+  "en": {
+   "titulo": "Musical Afternoons: Nobody's Work",
+   "resumen": "A talk exploring collective musical creation in the 20th and 21st centuries, questioning the role of the author. It examines various collaborative creation methods, from Brecht and Weill to artificial intelligence."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "d231746e38": {
+  "id": "d7e549ed6f",
+  "es": {
+   "titulo": "BiblioEscena: 'Bernarda' con Lola Eiffel Company",
+   "resumen": "Espectáculo de danza y palabra que homenajea a la libertad, la memoria y la paz. Combina la vida familiar de la artista con la historia de su bisabuela durante la Guerra Civil y la posguerra."
+  },
+  "en": {
+   "titulo": "BiblioEscena: 'Bernarda' with Lola Eiffel Company",
+   "resumen": "A dance and spoken word performance that pays homage to freedom, memory, and peace. It blends the artist's family life with her great-grandmother's story during the Spanish Civil War and its aftermath."
+  },
+  "temas": [
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": null
+ },
+ "c2be0826e2": {
+  "id": "b858d5569e",
+  "es": {
+   "titulo": "Encuentro literario: 'Canciones de amor (Levemente) desafinadas'",
+   "resumen": "Presentación del libro de Ignacio Fernández Herrero, que contiene ocho relatos y un ensayo sobre canciones que forman parte de nuestra historia personal. El autor, sindicalista y profesor, reflexiona sobre el amor y la ficción."
+  },
+  "en": {
+   "titulo": "Literary Meeting: 'Love Songs (Slightly) Out of Tune'",
+   "resumen": "Presentation of Ignacio Fernández Herrero's book, featuring eight short stories and an essay on songs that become part of our personal history. The author, a union leader and teacher, reflects on love and fiction."
+  },
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "ce54703fc4": {
+  "id": "4dff3fdeac",
+  "es": {
+   "titulo": "Exposición 'El jazz está en los libros'",
+   "resumen": "Exposición que reúne libros y vinilos de jazz de los fondos antiguos y nuevas adquisiciones de la biblioteca. Forma parte de las actividades del Festival Internacional Jazz Palencia."
+  },
+  "en": {
+   "titulo": "Exhibition 'Jazz is in the Books'",
+   "resumen": "An exhibition showcasing jazz books and vinyl records from the library's old and new collections. It is part of the activities for the International Jazz Palencia Festival."
+  },
+  "temas": [
+   "musica",
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "9f0dfd8a31": {
+  "id": "eaeefa79af",
+  "es": {
+   "titulo": "Teatro 'La voz de los malditos'",
+   "resumen": "Espectáculo teatral que combina poesía, música e imagen para sumergir al espectador en el alma de un artista. Explora sus anhelos, pesares y la creación artística con una perspectiva lúdica y pedagógica."
+  },
+  "en": {
+   "titulo": "Theater: 'The Voice of the Damned'",
+   "resumen": "A theatrical performance blending poetry, music, and visuals to immerse the audience in an artist's soul. It explores their desires, sorrows, and artistic creation with a playful and educational perspective."
+  },
+  "temas": [
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": null
+ },
+ "04d5c31d54": {
+  "id": "bbd03527a2",
+  "es": {
+   "titulo": "XII Maratón de Cuentos: 'El arte de cumplir'",
+   "resumen": "Celebración del 40 aniversario de la biblioteca con un maratón de cuentos que cumple 12 años. Se conmemoran los libros, las personas y los sueños que han pasado por la biblioteca a lo largo de estas cuatro décadas."
+  },
+  "en": {
+   "titulo": "12th Story Marathon: 'The Art of Fulfilling'",
+   "resumen": "A celebration of the library's 40th anniversary with a story marathon that is 12 years old. It commemorates the books, people, and dreams that have been part of the library over four decades."
+  },
+  "temas": [
+   "libros",
+   "cultura",
+   "ninos"
+  ],
+  "a_cubierto": null
+ },
+ "6d16ff8352": {
+  "id": "438fe87fcc",
+  "es": {
+   "titulo": "Paco Cifuentes: Recital poético-musical",
+   "resumen": "Recital acústico del artista multidisciplinar Paco Cifuentes, que combina música y poesía. El cantautor, con más de mil conciertos, presenta sus canciones y poemas en un formato íntimo."
+  },
+  "en": {
+   "titulo": "Paco Cifuentes: Poetic-Musical Recital",
+   "resumen": "An acoustic recital by the multidisciplinary artist Paco Cifuentes, blending music and poetry. The singer-songwriter, with over a thousand concerts, presents his songs and poems in an intimate format."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "6eb024fb46": {
+  "id": "95ba220cea",
+  "es": {
+   "titulo": "Teatro para todos los públicos: Biblioescena",
+   "resumen": "Programa de artes escénicas en bibliotecas públicas con ocho espectáculos para público familiar. Incluye lecturas dramatizadas, monólogos, danza y teatro para diferentes edades."
+  },
+  "en": {
+   "titulo": "Theater for All Audiences: Biblioescena",
+   "resumen": "Performing arts program in public libraries featuring eight shows for families. Includes dramatized readings, monologues, dance, and theater for various age groups."
+  },
+  "temas": [
+   "cultura",
+   "ninos"
+  ],
+  "a_cubierto": null
+ },
+ "fcfc056360": {
+  "id": "fe0c0cf138",
+  "es": {
+   "titulo": "Presentación del libro: 'El librero de Macondo'",
+   "resumen": "Presentación de la novela ganadora del XXIX Premio de Novela Ciudad de Badajoz. Narra la amistad entre Ramon Vinyes y Gabriel García Márquez, explorando literatura, memoria y exilio."
+  },
+  "en": {
+   "titulo": "Book Presentation: 'The Bookseller of Macondo'",
+   "resumen": "Presentation of the novel that won the XXIX City of Badajoz Novel Award. It narrates the friendship between Ramon Vinyes and Gabriel García Márquez, exploring literature, memory, and exile."
+  },
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "242e2b60e0": {
+  "id": "a92b380955",
+  "es": {
+   "titulo": "Taller familiar: 'Érase una vez... La ciudad'",
+   "resumen": "Taller para familias donde la ciudad es el escenario para trabajar la creatividad. Se exploran los espacios públicos y se escriben microrrelatos, para luego construir una ciudad imaginaria con personajes y situaciones."
+  },
+  "en": {
+   "titulo": "Family Workshop: 'Once Upon a Time... The City'",
+   "resumen": "A workshop for families where the city serves as a stage for creative work. It explores public spaces and involves writing micro-stories, followed by building an imaginary city with characters and situations."
+  },
+  "temas": [
+   "ninos",
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": null
+ },
+ "c743f5de76": {
+  "id": "c999b8a2a1",
+  "es": {
+   "titulo": "Escritura creativa: Vivir y contar",
+   "resumen": "Taller de escritura creativa para ejercitar la mirada y construir personajes, escenarios y tramas. Se trabaja la narración desde múltiples ángulos, inspirándose en la vida, recuerdos, viajes e imaginación."
+  },
+  "en": {
+   "titulo": "Creative Writing: Living and Telling",
+   "resumen": "A creative writing workshop to hone observational skills and build characters, settings, and plots. It explores narration from various angles, drawing inspiration from life, memories, travels, and imagination."
+  },
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "8c6f690747": {
+  "id": "b8aea78bd4",
+  "es": {
+   "titulo": "Club de lectura Campos de Castilla",
+   "resumen": "Club de narrativa que se reúne quincenalmente para comentar libros. La biblioteca propone las lecturas y facilita ejemplares. Máximo 18 personas por club."
+  },
+  "en": {
+   "titulo": "Campos de Castilla Reading Club",
+   "resumen": "A narrative reading club that meets bi-weekly to discuss books. The library proposes the readings and provides copies. Maximum of 18 members per club."
+  },
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "f2195ad7b0": {
+  "id": "d09b278add",
+  "es": {
+   "titulo": "Concierto: Luis Santana y Víctor Carbajo (Homenaje a Manuel de Falla)",
+   "resumen": "Concierto de barítono y piano que celebra el 150 aniversario del nacimiento de Manuel de Falla. El programa incluye obras de Falla, Góngora, Bécquer y Lejárraga, entre otros."
+  },
+  "en": {
+   "titulo": "Concert: Luis Santana and Víctor Carbajo (Tribute to Manuel de Falla)",
+   "resumen": "A baritone and piano concert celebrating the 150th anniversary of Manuel de Falla's birth. The program features works by Falla, Góngora, Bécquer, and Lejárraga, among others."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "9da721bc91": {
+  "id": "c1353d6072",
+  "es": {
+   "titulo": "XI Jornadas Claudio Rodríguez: Poesía y agua",
+   "resumen": "Jornadas dedicadas a la obra de Claudio Rodríguez, centrándose en la temática del agua como elemento clave en su poesía. Se explorará su cosmovisión y su influencia en la poética contemporánea."
+  },
+  "en": {
+   "titulo": "11th Claudio Rodríguez Conference: Poetry and Water",
+   "resumen": "Conferences dedicated to the work of Claudio Rodríguez, focusing on water as a key element in his poetry. It will explore his worldview and its influence on contemporary poetics."
+  },
+  "temas": [
+   "libros",
+   "cultura",
+   "agua"
+  ],
+  "a_cubierto": null
+ },
+ "b425c20199": {
+  "id": "179cf736ee",
+  "es": {
+   "titulo": "Presentación: 'Canciones de amor (levemente) desafinadas'",
+   "resumen": "Presentación del libro de Ignacio Fernández Herrero, que reflexiona sobre cómo las canciones de amor influyen en nuestra educación sentimental y nuestras relaciones. Incluye relatos y un ensayo."
+  },
+  "en": {
+   "titulo": "Presentation: 'Love Songs (Slightly) Out of Tune'",
+   "resumen": "Presentation of Ignacio Fernández Herrero's book, which reflects on how love songs influence our emotional education and relationships. It includes short stories and an essay."
+  },
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "bea17e1e66": {
+  "id": "c1786975c3",
+  "es": {
+   "titulo": "Bebés de cuento: Taller de animación prelectora 'Aúúú, ¡qué manos tan pequeñas!'",
+   "resumen": "Taller mensual de animación a la prelectura para bebés, utilizando cuentos, canciones y retahílas para mostrar libros de la biblioteca. Fomenta la participación activa de bebés y adultos."
+  },
+  "en": {
+   "titulo": "Story Babies: Pre-reading Animation Workshop 'Ooooh, Such Tiny Hands!'",
+   "resumen": "A monthly pre-reading animation workshop for babies, using stories, songs, and rhymes to showcase library books. It encourages active participation from both babies and adults."
+  },
+  "temas": [
+   "ninos",
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "3b7d7df9dc": {
+  "id": "83a26faf80",
+  "es": {
+   "titulo": "Narración oral: 'Faros' de Félix Albo",
+   "resumen": "Espectáculo de narración oral que cuenta la historia de cinco menores institucionalizados. Con humor y ternura, reflexiona sobre la sociedad y las instituciones, trazando paralelismos con la actualidad."
+  },
+  "en": {
+   "titulo": "Oral Storytelling: 'Lighthouses' by Félix Albo",
+   "resumen": "An oral storytelling performance recounting the story of five institutionalized minors. With humor and tenderness, it reflects on society and institutions, drawing parallels to the present day."
+  },
+  "temas": [
+   "cultura",
+   "ninos"
+  ],
+  "a_cubierto": null
+ },
+ "69b2ed9559": {
+  "id": "e0f0fbfa05",
+  "es": {
+   "titulo": "Teatro familiar: 'Bichitos' (SPASMO TEATRO)",
+   "resumen": "Espectáculo de humor gestual para toda la familia que, en formato documental teatral, enseña a respetar y valorar a los invertebrados. Promueve el cuidado del medio ambiente y sorprende por su colorido y ritmo."
+  },
+  "en": {
+   "titulo": "Family Theater: 'Little Critters' (SPASMO TEATRO)",
+   "resumen": "A physical comedy show for the whole family that, in a theatrical documentary format, teaches respect and appreciation for invertebrates. It promotes environmental care and surprises with its color and rhythm."
+  },
+  "temas": [
+   "ninos",
+   "cultura",
+   "naturaleza"
+  ],
+  "a_cubierto": true
+ },
+ "d97587a5a4": {
+  "id": "687abd3955",
+  "es": {
+   "titulo": "Bobo (PERIFERIA)",
+   "resumen": "Una obra de teatro cómica sobre las peripecias de un pingüino que aborda la difícil situación de los celos infantiles ante la llegada de un nuevo hermano. El pequeño BoBo aprenderá a compartir el cariño de sus padres y descubrirá el valor de la amistad."
+  },
+  "en": {
+   "titulo": "Bobo (PERIFERIA)",
+   "resumen": "A comedic play about the adventures of a penguin, addressing the difficult situation of childhood jealousy with the arrival of a new sibling. Little BoBo will learn to share his parents' affection and discover the value of friendship."
+  },
+  "temas": [
+   "cultura",
+   "ninos"
+  ],
+  "a_cubierto": null
+ },
+ "89ea628a7b": {
+  "id": "cf366cca1d",
+  "es": {
+   "titulo": "Bruce Barth & Piero Odorici quartet - Tributo a John Coltrane",
+   "resumen": "Un cuarteto de jazz de alto nivel rinde homenaje a John Coltrane en el centenario de su nacimiento. El encuentro entre Bruce Barth y Piero Odorici ofrece una relectura profunda y vibrante del legado del saxofonista, desde baladas espirituales hasta exploraciones modales."
+  },
+  "en": {
+   "titulo": "Bruce Barth & Piero Odorici quartet - Tribute to John Coltrane",
+   "resumen": "A high-level jazz quartet pays tribute to John Coltrane on his birth centenary. The collaboration between Bruce Barth and Piero Odorici offers a deep and vibrant reinterpretation of the saxophonist's legacy, from spiritual ballads to modal explorations."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "ab3838edde": {
+  "id": "b80492a459",
+  "es": {
+   "titulo": "Cid el de clown (nuevo)",
+   "resumen": "Un espectáculo de clown para todos los públicos que acerca la figura histórica del Cid Campeador a través del humor. Tres personajes interactúan con el público para revivir episodios reales y míticos del héroe castellano."
+  },
+  "en": {
+   "titulo": "Cid the Clown (new)",
+   "resumen": "A clown show for all audiences that brings the historical figure of El Cid Campeador to life through humor. Three characters interact with the audience to relive real and mythical episodes of the Castilian hero."
+  },
+  "temas": [
+   "cultura",
+   "ninos"
+  ],
+  "a_cubierto": null
+ },
+ "2677a70270": {
+  "id": "1d78e527aa",
+  "es": {
+   "titulo": "Coser y cantar",
+   "resumen": "Un espectáculo musical y teatral para bebés a partir de 6 meses, cargado de hilos, lanas y canciones. La obra explora la conexión entre las palabras, los vestidos y los cuentos, invitando a tejer sueños y bordar melodías."
+  },
+  "en": {
+   "titulo": "Sewing and Singing",
+   "resumen": "A musical and theatrical show for babies aged 6 months and up, filled with threads, wool, and songs. The play explores the connection between words, clothes, and stories, inviting the audience to weave dreams and embroider melodies."
+  },
+  "temas": [
+   "ninos",
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "83cdb01b34": {
+  "id": "fe0455f001",
+  "es": {
+   "titulo": "Desplante (CUADRO FLAMENCO DE LITA BLANCO)",
+   "resumen": "Un espectáculo de flamenco en directo que utiliza la palabra 'desplante' para expresar carácter y firmeza. A través de diferentes palos flamencos, se busca un intercambio de emociones entre el cante, la música y el baile."
+  },
+  "en": {
+   "titulo": "Desplante (LITA BLANCO FLAMENCO GROUP)",
+   "resumen": "A live flamenco performance using the word 'desplante' to express character and firmness. Through different flamenco styles, it seeks an exchange of emotions between singing, music, and dance."
+  },
+  "temas": [
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": null
+ },
+ "cd434e9dad": {
+  "id": "d65caa16ad",
+  "es": {
+   "titulo": "Diálogo de la Lengua con Javier Moro en Salamanca",
+   "resumen": "El escritor y periodista Javier Moro participa en un encuentro literario en Salamanca. Conversará sobre su obra, que abarca ensayos y novelas, y su experiencia como guionista y productor de cine."
+  },
+  "en": {
+   "titulo": "Dialogue of the Language with Javier Moro in Salamanca",
+   "resumen": "Writer and journalist Javier Moro participates in a literary encounter in Salamanca. He will discuss his work, which includes essays and novels, and his experience as a screenwriter and film producer."
+  },
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "89a19a0ae7": {
+  "id": "666bdb04a0",
+  "es": {
+   "titulo": "Dulcinea (TXALO)",
+   "resumen": "Una obra de teatro cómica que cuestiona el ideal de Dulcinea en un mundo moderno. La protagonista se debate si aún tiene sentido defender los sueños imposibles o si, por el contrario, es más necesaria que nunca."
+  },
+  "en": {
+   "titulo": "Dulcinea (TXALO)",
+   "resumen": "A comedic play that questions the ideal of Dulcinea in a modern world. The protagonist debates whether it still makes sense to defend impossible dreams or if, on the contrary, she is more necessary than ever."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "efcc04b3d4": {
+  "id": "28680930cd",
+  "es": {
+   "titulo": "El humor de Martín Luna. Monólogos y bovariedades",
+   "resumen": "Un espectáculo de comedia y humor con monólogos, historias y participación del público. Martín Luna lleva más de 25 años triunfando con un show que convierte al espectador en protagonista."
+  },
+  "en": {
+   "titulo": "The Humor of Martín Luna. Monologues and silliness",
+   "resumen": "A comedy and humor show featuring monologues, stories, and audience participation. Martín Luna has been successfully performing this show for over 25 years, turning the audience into the protagonist."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "9dd78f582f": {
+  "id": "3125ec9fdb",
+  "es": {
+   "titulo": "El mago de Oz (LA CANICA TEATRO DE TITERES)",
+   "resumen": "Una versión teatral de títeres de 'El Mago de Oz' que narra las aventuras de Dorothy en busca de su hogar. La obra resalta valores como la amistad, la solidaridad y la imaginación, utilizando objetos cotidianos para dar vida a los personajes."
+  },
+  "en": {
+   "titulo": "The Wizard of Oz (LA CANICA PUPPET THEATRE)",
+   "resumen": "A puppet theater version of 'The Wizard of Oz' recounting Dorothy's adventures in search of home. The play highlights values such as friendship, solidarity, and imagination, using everyday objects to bring characters to life."
+  },
+  "temas": [
+   "ninos",
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "ff30881ddd": {
+  "id": "4a90b018af",
+  "es": {
+   "titulo": "El niño erizo (LA MACHINA TEATRO)",
+   "resumen": "La historia de Juan, un niño mitad erizo, que se siente diferente y es marginado. Tras huir de casa, su encuentro con un rey perdido en el bosque desencadena una aventura que rompe un hechizo y enseña sobre la aceptación."
+  },
+  "en": {
+   "titulo": "The Hedgehog Boy (LA MACHINA THEATRE)",
+   "resumen": "The story of Juan, a boy half-hedgehog, who feels different and is marginalized. After fleeing home, his encounter with a king lost in the forest triggers an adventure that breaks a spell and teaches about acceptance."
+  },
+  "temas": [
+   "ninos",
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "191a1bd2ce": {
+  "id": "4d2f0ee6cf",
+  "es": {
+   "titulo": "El Principito (FABULARIA TEATRO)",
+   "resumen": "Una nueva versión teatral de 'El Principito' que utiliza títeres para dar vida a los icónicos personajes. La obra, adaptada contemporáneamente, conecta a los espectadores de todas las edades con la magia de la historia universal."
+  },
+  "en": {
+   "titulo": "The Little Prince (FABULARIA THEATRE)",
+   "resumen": "A new theatrical version of 'The Little Prince' using puppets to bring the iconic characters to life. The play, adapted in a contemporary style, connects audiences of all ages with the magic of this universal story."
+  },
+  "temas": [
+   "ninos",
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "90b9ab8b9a": {
+  "id": "fe224b5f62",
+  "es": {
+   "titulo": "El silencio de Juana (ARROZ CON COSTRA PRODUCCIONES)",
+   "resumen": "Una experiencia sensorial inspirada en Juana I de Castilla, que resucita en el siglo XXI para contar su historia de poder, ambición y silencio impuesto. La obra reflexiona sobre las violencias patriarcales y estructurales que aún sufren las mujeres."
+  },
+  "en": {
+   "titulo": "Juana's Silence (ARROZ CON COSTRA PRODUCCIONES)",
+   "resumen": "A sensory experience inspired by Juana I of Castile, who is resurrected in the 21st century to tell her story of power, ambition, and imposed silence. The play reflects on the patriarchal and structural violence that women still suffer."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "e175d85050": {
+  "id": "1934e8ac84",
+  "es": {
+   "titulo": "En3Jazz - Tributo al rock",
+   "resumen": "Un dúo de piano y voz ofrece un concierto de música rock, recorriendo clásicos desde los años 60 hasta la actualidad. El grupo en3Jazz se dedica a acercar la música al público a través de conciertos y eventos personalizados."
+  },
+  "en": {
+   "titulo": "En3Jazz - Rock Tribute",
+   "resumen": "A piano and voice duo presents a rock music concert, covering classics from the 60s to the present day. The group en3Jazz is dedicated to bringing music to the public through concerts and personalized events."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "942a6295eb": {
+  "id": "c0351225e1",
+  "es": {
+   "titulo": "Escupir al cielo (TEATRO DEL AZAR)",
+   "resumen": "Una pareja en una gasolinera se ve envuelta en un acto de violencia inexplicable. Atrapados, intentan ocultar la verdad a clientes inesperados mientras desvelan secretos de su pasado y lealtad."
+  },
+  "en": {
+   "titulo": "Spitting at the Sky (TEATRO DEL AZAR)",
+   "resumen": "A couple at a gas station becomes involved in an inexplicable act of violence. Trapped, they try to hide the truth from unexpected customers while revealing secrets of their past and loyalty."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "8074e80859": {
+  "id": "bc0828b137",
+  "es": {
+   "titulo": "Fábulas del swing (MALAVARA)",
+   "resumen": "Un espectáculo musical y didáctico que explora el origen del swing a través de historias, anécdotas y humor. Combina música en vivo, proyecciones y la esencia de Malavara para una experiencia inmersiva y participativa."
+  },
+  "en": {
+   "titulo": "Fables of Swing (MALAVARA)",
+   "resumen": "A musical and educational show that explores the origins of swing through stories, anecdotes, and humor. It combines live music, projections, and the essence of Malavara for an immersive and participatory experience."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "ff3a935f25": {
+  "id": "0d6c1f66cf",
+  "es": {
+   "titulo": "Fábulas del swing (MALAVARA)",
+   "resumen": "Un espectáculo musical y didáctico que explora el origen del swing a través de historias, anécdotas y humor. Combina música en vivo, proyecciones y la esencia de Malavara para una experiencia inmersiva y participativa."
+  },
+  "en": {
+   "titulo": "Fables of Swing (MALAVARA)",
+   "resumen": "A musical and educational show that explores the origins of swing through stories, anecdotes, and humor. It combines live music, projections, and the essence of Malavara for an immersive and participatory experience."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "c40686d0b1": {
+  "id": "047e57803e",
+  "es": {
+   "titulo": "Isla Maravilla (ARMADANZAS)",
+   "resumen": "Un espectáculo infantil que invita a un viaje imaginario a 'Isla Maravilla', donde los niños jugarán, bailarán y vivirán aventuras. La obra busca recuperar el sentido lúdico del juego y la música, haciendo al público partícipe."
+  },
+  "en": {
+   "titulo": "Wonder Island (ARMADANZAS)",
+   "resumen": "A children's show inviting an imaginary journey to 'Wonder Island,' where children will play, dance, and have adventures. The work aims to recover the playful sense of games and music, making the audience participants."
+  },
+  "temas": [
+   "ninos",
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": null
+ },
+ "ec2ca8cfcb": {
+  "id": "22ba3c4ef7",
+  "es": {
+   "titulo": "La desconquista (RON LALÁ)",
+   "resumen": "Una comedia musical y burlesca que parodia el Descubrimiento de América. Cinco náufragos intentan imponer las costumbres españolas a los nativos, en una fiesta teatral llena de verso clásico, música y humor."
+  },
+  "en": {
+   "titulo": "The Deconquest (RON LALÁ)",
+   "resumen": "A musical and burlesque comedy parodying the Discovery of America. Five castaways attempt to impose Spanish customs on the natives in a theatrical celebration full of classic verse, music, and humor."
+  },
+  "temas": [
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": null
+ },
+ "b948e1f56a": {
+  "id": "2417616e46",
+  "es": {
+   "titulo": "La Escuela de Salamanca en su V Centenario, por José Antonio López Nevot",
+   "resumen": "Conferencia sobre la Escuela de Salamanca en su V Centenario, impartida por José Antonio López Nevot. El catedrático abordará la historia de las instituciones, el derecho y el pensamiento jurídico de esta corriente intelectual."
+  },
+  "en": {
+   "titulo": "The School of Salamanca on its V Centenary, by José Antonio López Nevot",
+   "resumen": "A lecture on the School of Salamanca on its V Centenary, given by José Antonio López Nevot. The professor will discuss the history of institutions, law, and legal thought of this intellectual movement."
+  },
+  "temas": [
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": null
+ },
+ "267dd1d4ba": {
+  "id": "9d0a3e15e2",
+  "es": {
+   "titulo": "La maja robada o El museo de los cuadros vacíos (VALQUIRIA TEATRO)",
+   "resumen": "Dos mujeres usan una falsa identidad para robar obras de arte del Museo del Prado y venderlas en el mercado negro. Inspirada en un caso real, la obra teatral mezcla intriga, pasión y drama, celebrando la audacia en tiempos difíciles."
+  },
+  "en": {
+   "titulo": "The Stolen Maja or The Museum of Empty Paintings (VALQUIRIA THEATRE)",
+   "resumen": "Two women use false identities to steal artworks from the Prado Museum and sell them on the black market. Inspired by a true story, the play blends intrigue, passion, and drama, celebrating audacity in difficult times."
+  },
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": null
+ },
+ "3ab6cda86f": {
+  "id": "9ab150296f",
+  "es": {
+   "titulo": "La pícara Justina (FABULARIA TEATRO)",
+   "resumen": "Adaptación teatral de la primera novela picaresca protagonizada por una mujer. La obra presenta a Justina, una pícaro doblemente astuta por ser mujer en un mundo de hombres, utilizando juegos de palabras y humor para sobrevivir."
+  },
+  "en": {
+   "titulo": "The Roguish Justina (FABULARIA THEATRE)",
+   "resumen": "A theatrical adaptation of the first picaresque novel featuring a female protagonist. The play presents Justina, a rogue doubly cunning as a woman in a man's world, using wordplay and humor to survive."
+  },
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "255e0f2b79": {
+  "id": "a447be6157",
+  "es": {
+   "titulo": "La princesa y el dragón (TÍTERES SOL Y TIERRA)",
+   "resumen": "Una revisión de cuentos clásicos con una princesa que se auto-rescata y un dragón solitario. La obra enseña la importancia de la confianza, la resolución de conflictos y la coeducación, desafiando roles arquetípicos."
+  },
+  "en": {
+   "titulo": "The Princess and the Dragon (TÍTERES SOL Y TIERRA)",
+   "resumen": "A reinterpretation of classic fairy tales featuring a self-rescuing princess and a lonely dragon. The play teaches the importance of trust, conflict resolution, and co-education, challenging archetypal roles."
+  },
+  "temas": [
+   "ninos",
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "a978efe4c7": {
+  "id": "d2804859d7",
+  "es": {
+   "titulo": "Las artistas trashumantes y olé (LÍBERA TEATRO)",
+   "resumen": "Un proyecto teatral y de debate con perspectiva de género sobre el bullying. Dos artistas legendarias ayudan a una joven actriz a recuperar la confianza, visibilizando el legado de las mujeres artistas a lo largo de la historia."
+  },
+  "en": {
+   "titulo": "The Wandering Artists and Olé (LÍBERA THEATRE)",
+   "resumen": "A theater and debate project with a gender perspective on bullying. Two legendary artists help a young actress regain confidence, highlighting the legacy of women artists throughout history."
+  },
+  "temas": [
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": null
+ },
+ "f3399c769e": {
+  "id": "a03c38f244",
+  "es": {
+   "titulo": "Las coplas con pan(k) saben mejor (EL TRIO CARACOL)",
+   "resumen": "Un trío musical que reinterpreta las coplas clásicas con piano, violín y una voz potente. El espectáculo busca emocionar y conectar con la memoria colectiva a través de melodías familiares envueltas en belleza musical."
+  },
+  "en": {
+   "titulo": "Coplas Taste Better with Bread(k) (EL TRIO CARACOL)",
+   "resumen": "A musical trio reinterprets classic coplas with piano, violin, and a powerful voice. The show aims to evoke emotion and connect with collective memory through familiar melodies wrapped in musical beauty."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "b5ae6a0fd0": {
+  "id": "3e51316338",
+  "es": {
+   "titulo": "Las cuatro estaciones sensoriales, violín (ALICIA BEATO)",
+   "resumen": "Un viaje musical para bebés a través de 'Las Cuatro Estaciones' de Vivaldi, interpretado al violín. Cada estación se acompaña de estímulos sensoriales como pañuelos de colores, hojas secas, nieve y pompas de jabón."
+  },
+  "en": {
+   "titulo": "The Four Sensory Seasons, Violin (ALICIA BEATO)",
+   "resumen": "A musical journey for babies through Vivaldi's 'The Four Seasons,' performed on the violin. Each season is accompanied by sensory stimuli such as colorful scarves, dry leaves, snow, and soap bubbles."
+  },
+  "temas": [
+   "ninos",
+   "musica"
+  ],
+  "a_cubierto": null
+ },
+ "315b48fda8": {
+  "id": "4b61ffe960",
+  "es": {
+   "titulo": "'Lazos de sangre' (BALLET ESPAÑOL CARMEN AMAYA)",
+   "resumen": "La Compañía Carmen Amaya presenta 'Lazos de Sangre', una obra de danza-teatro que explora la vida íntima de una familia a principios del siglo XX. Mezcla flamenco y danza fusión con una estética inspirada en la época."
+  },
+  "en": {
+   "titulo": "'Lazos de sangre' (SPANISH BALLET CARMEN AMAYA)",
+   "resumen": "The Carmen Amaya Company presents 'Lazos de Sangre', a dance-theater piece exploring the intimate life of a family in the early 20th century. It blends flamenco and fusion dance with an aesthetic inspired by the era."
+  },
+  "temas": [
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": null
+ },
+ "71b5b333d5": {
+  "id": "d7fad4a5a0",
+  "es": {
+   "titulo": "'Los habitantes de la casa deshabitada' (PONTE A LA COLA PRODUCCIONES)",
+   "resumen": "Dos viajeros sufren una avería y buscan refugio en una casa antigua, poblada por extrañas criaturas y una trama de estafadores y secuestros. Una comedia llena de intriga y enigmas por resolver."
+  },
+  "en": {
+   "titulo": "'The Inhabitants of the Uninhabited House' (PONTE A LA COLA PRODUCCIONES)",
+   "resumen": "Two travelers, stranded by a car breakdown, seek refuge in an old mansion filled with strange creatures and a plot involving scammers and kidnappings. A comedy full of intrigue and puzzles."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "4f3dd02e99": {
+  "id": "0a30e74196",
+  "es": {
+   "titulo": "'Los monólogos de Dani Fontecha' (DANI FONTECHA)",
+   "resumen": "El cómico y guionista Dani Fontecha, conocido por su participación en 'El hormiguero', presenta su espectáculo de monólogos. Una sesión de humor de 60 minutos."
+  },
+  "en": {
+   "titulo": "'Dani Fontecha's Monologues' (DANI FONTECHA)",
+   "resumen": "Comedian and screenwriter Dani Fontecha, known for his appearance on 'El hormiguero', presents his stand-up comedy show. A 60-minute performance filled with humor."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "7675b74ba5": {
+  "id": "0ffa82571b",
+  "es": {
+   "titulo": "'Misery' (SAGA PRODUCCIONES)",
+   "resumen": "Un escritor de éxito despierta tras un accidente en casa de su fan número uno, Annie Wilkes. Lo que parece un rescate se convierte en una pesadilla de suspense y terror psicológico."
+  },
+  "en": {
+   "titulo": "'Misery' (SAGA PRODUCCIONES)",
+   "resumen": "A successful writer wakes up after an accident at the home of his number one fan, Annie Wilkes. What seems like a rescue turns into a nightmare of suspense and psychological horror."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "e53eacfd47": {
+  "id": "3febac0dda",
+  "es": {
+   "titulo": "'Orejas de mariposa' (LA ESPIRAL MAGICA)",
+   "resumen": "Musical familiar basado en el libro de Luisa Aguilar, dirigido a niños de 4 a 11 años. Cuenta la historia de Mara, que aprende a aceptar sus diferencias y a verlas como algo único."
+  },
+  "en": {
+   "titulo": "'Butterfly Ears' (LA ESPIRAL MAGICA)",
+   "resumen": "A family musical based on Luisa Aguilar's book, aimed at children aged 4-11. It tells the story of Mara, who learns to accept her differences and see them as unique."
+  },
+  "temas": [
+   "ninos",
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "b39a628bda": {
+  "id": "a2ae8019dd",
+  "es": {
+   "titulo": "Podcast ¿Seguimos o no? con Federico Sanz y Aitana Alba en Burgos",
+   "resumen": "Grabación en directo del último episodio del podcast cultural '¿Seguimos o no?', centrado en el papel de bibliotecas y archivos como guardianes de la memoria escrita y transmisores de conocimiento."
+  },
+  "en": {
+   "titulo": "Podcast 'Seguimos o no?' with Federico Sanz and Aitana Alba in Burgos",
+   "resumen": "Live recording of the final episode of the cultural podcast 'Seguimos o no?', focusing on the role of libraries and archives as guardians of written memory and transmitters of knowledge."
+  },
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "90a536e854": {
+  "id": "128ee81ce6",
+  "es": {
+   "titulo": "'Polvo y viento. Sobre las mujeres escritoras' (BRAMA TEATRO)",
+   "resumen": "Un homenaje a mujeres escritoras como Emily Dickinson y Gabriela Mistral a través de la música y la poesía. Un espectáculo que da voz a textos olvidados y composiciones propias."
+  },
+  "en": {
+   "titulo": "'Dust and Wind. On Women Writers' (BRAMA TEATRO)",
+   "resumen": "A tribute to women writers like Emily Dickinson and Gabriela Mistral through music and poetry. A performance that gives voice to forgotten texts and original compositions."
+  },
+  "temas": [
+   "musica",
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": true
+ },
+ "a721e79c96": {
+  "id": "5a3e28e718",
+  "es": {
+   "titulo": "'Premio nacional magia 2025 - 3 elementos, una experiencia inmersiva' (CÍA MAGO HODEI MAGOA)",
+   "resumen": "Una experiencia mágica inmersiva donde el público se convierte en protagonista de un viaje multisensorial. El Mago Hodei revelará los 3 Elementos que marcan nuestro camino."
+  },
+  "en": {
+   "titulo": "'National Magic Award 2025 - 3 Elements, an Immersive Experience' (CÍA MAGO HODEI MAGOA)",
+   "resumen": "An immersive magic experience where the audience becomes the protagonist of a multisensory journey. Magician Hodei will reveal the 3 Elements that shape our path."
+  },
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": null
+ },
+ "0e39e9a01a": {
+  "id": "8f28d3e23c",
+  "es": {
+   "titulo": "'¿Qué banda sonora esta sonando?' (CANORME PRODUCCIONES - ALFONSO CORRAL)",
+   "resumen": "Un cuarteto de cuerda interpreta bandas sonoras de películas, invitando al público a adivinar e interactuar. Una divertida fusión de música clásica y cine con anécdotas sorprendentes."
+  },
+  "en": {
+   "titulo": "'What Soundtrack is Playing?' (CANORME PRODUCCIONES - ALFONSO CORRAL)",
+   "resumen": "A string quartet performs movie soundtracks, inviting the audience to guess and interact. A fun fusion of classical music and cinema with surprising anecdotes."
+  },
+  "temas": [
+   "musica",
+   "pantalla",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "93c2ebdb3b": {
+  "id": "c360502a89",
+  "es": {
+   "titulo": "'Rey Lear' (CIA DO CHAPITO)",
+   "resumen": "Una versión minimalista de 'El Rey Lear' con tres intérpretes que encarnan a todos los personajes. Un meta-teatro que explora el poder y la codicia a través de la transformación escénica."
+  },
+  "en": {
+   "titulo": "'King Lear' (CIA DO CHAPITO)",
+   "resumen": "A minimalist version of 'King Lear' with three performers embodying all characters. A meta-theater piece exploring power and greed through scenic transformation."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "59d7ece3d1": {
+  "id": "89b79bc002",
+  "es": {
+   "titulo": "'Secretorium' (TEATRO ATÓPICO)",
+   "resumen": "La compañía Teatro Atópico presenta 'Secretorium', un espectáculo de alta comedia que busca la diversión y el entretenimiento del público. Cierra una trilogía de humor."
+  },
+  "en": {
+   "titulo": "'Secretorium' (TEATRO ATÓPICO)",
+   "resumen": "The company Teatro Atópico presents 'Secretorium', a high-comedy show aiming for audience fun and entertainment. It concludes a humor trilogy."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "86a1586272": {
+  "id": "e2a3b71f8a",
+  "es": {
+   "titulo": "'Soledades y compañias' (EL OTRO LUGAR)",
+   "resumen": "Una pieza escénico-sonora que dialoga entre mujeres, recordando la radio y conectando con las voces actuales. Un viaje a la intimidad femenina a través de testimonios y archivos radiofónicos."
+  },
+  "en": {
+   "titulo": "'Solitudes and Companionships' (EL OTRO LUGAR)",
+   "resumen": "A scenic-sound piece that dialogues among women, recalling radio and connecting with current voices. A journey into feminine intimacy through testimonies and radio archives."
+  },
+  "temas": [
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "7ed3044543": {
+  "id": "e36a9bf133",
+  "es": {
+   "titulo": "'Todos a bordo' (ORQUESTA DE LAS ESQUINAS)",
+   "resumen": "Un crucero musical disparatado con la Orquesta de las Esquinas. Un viaje por el mundo a través de éxitos sinfónicos, fusionando música clásica, ritmos y humor para toda la familia."
+  },
+  "en": {
+   "titulo": "'All Aboard' (ORQUESTA DE LAS ESQUINAS)",
+   "resumen": "A wacky musical cruise with the Orquesta de las Esquinas. A journey around the world through symphonic hits, blending classical music, rhythms, and humor for the whole family."
+  },
+  "temas": [
+   "musica",
+   "ninos",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "83a01071ad": {
+  "id": "fc0f93e426",
+  "es": {
+   "titulo": "'Tributo' (LA TETA CALVA)",
+   "resumen": "La banda de rock 'Los Osamenta' se prepara para un festival importante, repasando su repertorio y legado en su décimo aniversario. Una historia sobre la música, la crítica y el olvido."
+  },
+  "en": {
+   "titulo": "'Tribute' (LA TETA CALVA)",
+   "resumen": "The rock band 'Los Osamenta' prepares for a major festival, reviewing their repertoire and legacy on their tenth anniversary. A story about music, criticism, and oblivion."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "a6e9dfca28": {
+  "id": "a6eba38e51",
+  "es": {
+   "titulo": "'Vibra electrónica - Nack' (DEMINGO)",
+   "resumen": "Una fiesta de música electrónica donde los beats, las luces y la energía desbordante harán sentir la música. Una noche de baile y conexión con el DJ."
+  },
+  "en": {
+   "titulo": "'Electronic Vibe - Nack' (DEMINGO)",
+   "resumen": "An electronic music party where beats, lights, and overflowing energy make you feel the music. A night of dancing and connection with the DJ."
+  },
+  "temas": [
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "126148bfe9": {
+  "id": "fef8905916",
+  "es": {
+   "titulo": "'Voz de mujeres' (DALE TU VUELO)",
+   "resumen": "Espectáculo de música con canciones originales inspiradas en el viaje de Argentina a España. Una propuesta conmovedora y divertida que combina voz, guitarra y poesía."
+  },
+  "en": {
+   "titulo": "'Voice of Women' (DALE TU VUELO)",
+   "resumen": "A music show with original songs inspired by the journey from Argentina to Spain. A moving and fun performance combining vocals, guitar, and poetry."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "772257e878": {
+  "id": "6d996d7516",
+  "es": {
+   "titulo": "Museo de la Siderurgia y la Minería de Castilla y León (Sabero)",
+   "resumen": "Exposiciones temporales: 'Minerales en nuestras vidas', 'Mineras: Femenino plural' y la pieza invitada 'Olleros. Tierra de nobles mineros'."
+  },
+  "en": {
+   "titulo": "Museum of Iron and Mining of Castilla y León (Sabero)",
+   "resumen": "Temporary exhibitions: 'Minerals in our lives', 'Miners: Feminine plural', and the guest piece 'Olleros. Land of noble miners'."
+  },
+  "temas": [
+   "museos",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "a4737a7c82": {
+  "id": "9aa39bb769",
+  "es": {
+   "titulo": "MUSAC (León). Exposiciones Temporales",
+   "resumen": "Exposiciones temporales: 'SPAZIO LIBERO' de Michelangelo Pistoletto, que explora la noción del espejo en su obra, y '¿No hay nada como el hogar?' sobre la vivienda y la convivencia."
+  },
+  "en": {
+   "titulo": "MUSAC (León). Temporary Exhibitions",
+   "resumen": "Temporary exhibitions: 'SPAZIO LIBERO' by Michelangelo Pistoletto, exploring the notion of the mirror in his work, and 'Is there no place like home?' about housing and cohabitation."
+  },
+  "temas": [
+   "museos",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "e9a7daf967": {
+  "id": "c0b99c2c99",
+  "es": {
+   "titulo": "Palacio Quintanar (Segovia). Exposiciones Temporales",
+   "resumen": "Exposiciones temporales: 'Morphosis' de Pepe Gimeno, sobre significado y realidad a través de la tipografía, y 'Vacío y plenitud. Decir en el espacio' sobre el dibujo y el vacío."
+  },
+  "en": {
+   "titulo": "Palacio Quintanar (Segovia). Temporary Exhibitions",
+   "resumen": "Temporary exhibitions: 'Morphosis' by Pepe Gimeno, on meaning and reality through typography, and 'Emptiness and Fullness. Speaking in Space' on drawing and void."
+  },
+  "temas": [
+   "museos",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "abd7334040": {
+  "id": "5ea1c91070",
+  "es": {
+   "titulo": "Concierto de Santa Cecilia en el Museo de Ávila",
+   "resumen": "Concierto de música barroca a cargo del arpista Manuel Vilas en el Museo de Ávila, en conmemoración del Día Internacional del Músico y la festividad de Santa Cecilia."
+  },
+  "en": {
+   "titulo": "Saint Cecilia Concert at the Museum of Ávila",
+   "resumen": "A baroque music concert by harpist Manuel Vilas at the Museum of Ávila, commemorating International Music Day and the feast of Saint Cecilia."
+  },
+  "temas": [
+   "musica",
+   "museos",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "cf39fb491c": {
+  "id": "db23969d3d",
+  "es": {
+   "titulo": "Exposición 'Leoneses y política de Estado' prorrogada en León",
+   "resumen": "La exposición 'Leoneses y política de Estado', que destaca figuras políticas leonesas relevantes en la historia de España, ha sido prorrogada hasta el 1 de junio de 2027 en el Archivo Histórico Provincial de León."
+  },
+  "en": {
+   "titulo": "Exhibition 'Leonese People and State Policy' Extended in León",
+   "resumen": "The exhibition 'Leonese People and State Policy', highlighting key Leonese political figures in Spanish history, has been extended until June 1, 2027, at the Provincial Historical Archive of León."
+  },
+  "temas": [
+   "museos",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "6041885ee3": {
+  "id": "fbb9ab5e5e",
+  "es": {
+   "titulo": "XIII Jazz Palencia Festival",
+   "resumen": "El festival de jazz de Palencia celebra su decimotercera edición con conciertos de música jazz. Se requiere inscripción previa para asistir."
+  },
+  "en": {
+   "titulo": "XIII Jazz Palencia Festival",
+   "resumen": "The Palencia jazz festival celebrates its thirteenth edition with jazz music concerts. Advance registration is required to attend."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "785e3a72be": {
+  "id": "3cfc32f50a",
+  "es": {
+   "titulo": "'Un mundo de cuentos' en Duruelo de la Sierra",
+   "resumen": "Alicia Cuenteando narra cuentos y leyendas para público familiar, utilizando música, canciones y fantasía para un viaje cultural y natural. Plazas limitadas, inscripción previa necesaria."
+  },
+  "en": {
+   "titulo": "'A World of Tales' in Duruelo de la Sierra",
+   "resumen": "Alicia Cuenteando narrates tales and legends for families, using music, songs, and fantasy for a cultural and natural journey. Limited spots, prior registration required."
+  },
+  "temas": [
+   "ninos",
+   "cultura"
+  ],
+  "a_cubierto": true
  }
 }
