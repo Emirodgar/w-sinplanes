@@ -49,7 +49,7 @@ const faqLd = faq.length ? {
 } : null;
 const jsonld = [baseJsonld, faqLd].filter(Boolean);
 ---
-<Base lang={lang} title={title} description={summary || [title, fmtWhen(lang, p), fmtPlace(p, L.allSpain)].filter(Boolean).join(' · ')} route={{ type: 'plan', slug: p.slug }} avail={availLangs(p, LANGS)} noindex={past || !!tl} jsonld={jsonld.length ? jsonld : null} image={extra && p.image ? p.image : null}>
+<Base lang={lang} title={title} description={summary || [title, fmtWhen(lang, p), fmtPlace(p, L.allSpain)].filter(Boolean).join(' · ')} route={{ type: 'plan', slug: p.slug }} avail={availLangs(p, LANGS)} noindex={(past && !p.recurring) || !!tl} jsonld={jsonld.length ? jsonld : null} image={extra && p.image ? p.image : null}>
   <article class="plan">
     <h1 lang={tl}>{title}</h1>
     {summary && <p class="lead" lang={tl}>{summary}</p>}

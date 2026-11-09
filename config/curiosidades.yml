@@ -1111,3 +1111,100 @@ curiosidades:
         - "A Riverside, uma das ferramentas mais populares para criar podcasts, publicou «How to Start a Podcast in 2026: The Complete 10-Step Guide». O autor é o podcaster Stephen Robles e o guia destina-se a quem quer lançar o seu próprio programa. Está disponível em inglês."
         - "Os dez passos: 1) definir o conceito do podcast; 2) estabelecer o formato e a estrutura; 3) criar os elementos de marca; 4) preparar o equipamento; 5) escolher o software de gravação e edição; 6) gravar; 7) editar a gravação; 8) publicar; 9) promovê-lo; e 10) medir e melhorar."
         - "Um bom mapa para organizar o processo, quer comece do zero quer já tenha uma ideia e não saiba como continuar."
+
+  - id: the-art-of-looking-courtauld
+    titulo:
+      es: "The Art of Looking: aprender a mirar el arte con el Courtauld"
+      en: "The Art of Looking: learning to look at art with the Courtauld"
+      fr: "The Art of Looking : apprendre à regarder l’art avec le Courtauld"
+      de: "The Art of Looking: Kunst sehen lernen mit dem Courtauld"
+      it: "The Art of Looking: imparare a guardare l’arte con il Courtauld"
+      pt: "The Art of Looking: aprender a olhar para a arte com o Courtauld"
+    fuente: Google Arts & Culture
+    enlace: https://artsandculture.google.com/project/courtauld
+    descripcion:
+      es: "Un proyecto interactivo de Google Arts & Culture y el Courtauld Institute of Art de Londres, con 12 historias para mirar las obras de arte con más atención y descubrir sus detalles."
+      en: "An interactive project by Google Arts & Culture and the Courtauld Institute of Art in London, with 12 stories to look at artworks more closely and discover their details."
+      fr: "Un projet interactif de Google Arts & Culture et du Courtauld Institute of Art de Londres, avec 12 histoires pour regarder les œuvres de plus près et en découvrir les détails."
+      de: "Ein interaktives Projekt von Google Arts & Culture und dem Courtauld Institute of Art in London mit 12 Geschichten, die helfen, Kunstwerke genauer anzusehen und ihre Details zu entdecken."
+      it: "Un progetto interattivo di Google Arts & Culture e del Courtauld Institute of Art di Londra, con 12 storie per guardare le opere d’arte con più attenzione e scoprirne i dettagli."
+      pt: "Um projeto interativo da Google Arts & Culture e do Courtauld Institute of Art de Londres, com 12 histórias para olhar as obras de arte com mais atenção e descobrir os seus detalhes."
+    detalle:
+      es:
+        - "The Art of Looking es un proyecto digital de Google Arts & Culture y el Courtauld Institute of Art de Londres que propone mirar el arte de otra manera. Reúne 12 historias multimedia que parten de preguntas como «¿qué significa el arte?» o «¿para quién es el arte?»."
+        - "A través de obras de distintas épocas y continentes, enseña a fijarse en los detalles, el contexto y las interpretaciones. Entre las piezas que analiza hay trabajos de Van Gogh, Manet y Pieter Bruegel el Viejo."
+        - "No se limita a leer: puedes ampliar los cuadros para ver cada detalle, resolver enigmas visuales, reconstruir pinturas como si fueran puzles y explorar las técnicas de artistas como Cézanne, Seurat o Van Gogh."
+        - "Un buen plan para quien disfruta del arte y quiere aprender a sacarle más partido a un cuadro."
+      en:
+        - "The Art of Looking is a digital project by Google Arts & Culture and the Courtauld Institute of Art in London that invites you to look at art in a different way. It brings together 12 multimedia stories that start from questions such as “What does art mean?” and “Who is art for?”."
+        - "Through works from different periods and continents, it teaches you to notice details, context and interpretations. Among the pieces it explores are works by Van Gogh, Manet and Pieter Bruegel the Elder."
+        - "It is not just reading: you can zoom into paintings to see every detail, solve visual riddles, rebuild paintings like jigsaw puzzles and explore the techniques of artists such as Cézanne, Seurat and Van Gogh."
+        - "A good plan for anyone who enjoys art and wants to get more out of a painting."
+      fr:
+        - "The Art of Looking est un projet numérique de Google Arts & Culture et du Courtauld Institute of Art de Londres qui propose de regarder l’art autrement. Il réunit 12 histoires multimédias qui partent de questions comme « Que signifie l’art ? » ou « Pour qui est l’art ? »."
+        - "À travers des œuvres de différentes époques et de différents continents, il apprend à s’attarder sur les détails, le contexte et les interprétations. Parmi les pièces explorées figurent des œuvres de Van Gogh, Manet et Pieter Bruegel l’Ancien."
+        - "On ne se contente pas de lire : on peut agrandir les tableaux pour voir chaque détail, résoudre des énigmes visuelles, reconstituer des peintures comme des puzzles et explorer les techniques d’artistes comme Cézanne, Seurat ou Van Gogh."
+        - "Un bon plan pour celles et ceux qui aiment l’art et veulent mieux tirer parti d’un tableau."
+      de:
+        - "The Art of Looking ist ein digitales Projekt von Google Arts & Culture und dem Courtauld Institute of Art in London, das dazu einlädt, Kunst anders zu betrachten. Es vereint 12 multimediale Geschichten, die von Fragen ausgehen wie „Was bedeutet Kunst?“ oder „Für wen ist Kunst?“."
+        - "Anhand von Werken aus verschiedenen Epochen und Kontinenten lernt man, auf Details, Kontext und Deutungen zu achten. Zu den untersuchten Stücken gehören Werke von Van Gogh, Manet und Pieter Bruegel dem Älteren."
+        - "Es wird nicht nur gelesen: Man kann Gemälde vergrößern, um jedes Detail zu sehen, visuelle Rätsel lösen, Gemälde wie Puzzles wieder zusammensetzen und die Techniken von Künstlern wie Cézanne, Seurat oder Van Gogh erkunden."
+        - "Ein guter Tipp für alle, die Kunst mögen und mehr aus einem Gemälde herausholen möchten."
+      it:
+        - "The Art of Looking è un progetto digitale di Google Arts & Culture e del Courtauld Institute of Art di Londra che invita a guardare l’arte in modo diverso. Riunisce 12 storie multimediali che partono da domande come «Che cosa significa l’arte?» o «Per chi è l’arte?»."
+        - "Attraverso opere di epoche e continenti diversi, insegna a notare dettagli, contesto e interpretazioni. Tra i pezzi esplorati ci sono opere di Van Gogh, Manet e Pieter Bruegel il Vecchio."
+        - "Non ci si limita a leggere: si possono ingrandire i dipinti per vedere ogni dettaglio, risolvere enigmi visivi, ricostruire dipinti come puzzle ed esplorare le tecniche di artisti come Cézanne, Seurat o Van Gogh."
+        - "Un buon piano per chi ama l’arte e vuole imparare a trarre di più da un dipinto."
+      pt:
+        - "The Art of Looking é um projeto digital da Google Arts & Culture e do Courtauld Institute of Art de Londres que convida a olhar a arte de outra maneira. Reúne 12 histórias multimédia que partem de perguntas como «O que significa a arte?» ou «Para quem é a arte?»."
+        - "Através de obras de diferentes épocas e continentes, ensina a reparar nos detalhes, no contexto e nas interpretações. Entre as peças exploradas há obras de Van Gogh, Manet e Pieter Bruegel, o Velho."
+        - "Não se limita a ler: pode ampliar os quadros para ver cada detalhe, resolver enigmas visuais, reconstruir pinturas como se fossem puzzles e explorar as técnicas de artistas como Cézanne, Seurat ou Van Gogh."
+        - "Um bom plano para quem gosta de arte e quer aprender a tirar mais partido de um quadro."
+
+  - id: muglobe
+    titulo:
+      es: "MuGlobe: música local de todo el mundo en un mapa"
+      en: "MuGlobe: local music from around the world on a map"
+      fr: "MuGlobe : la musique locale du monde entier sur une carte"
+      de: "MuGlobe: lokale Musik aus aller Welt auf einer Karte"
+      it: "MuGlobe: musica locale da tutto il mondo su una mappa"
+      pt: "MuGlobe: música local de todo o mundo num mapa"
+    fuente: MuGlobe
+    enlace: https://muglobe.com/
+    descripcion:
+      es: "Un mapa del mundo con una radio virtual en cada punto: te paras en un lugar y suena su música local, con artículos sobre sus géneros y su historia."
+      en: "A world map with a virtual radio station at every point: stop anywhere and hear its local music, with articles on its genres and history."
+      fr: "Une carte du monde avec une radio virtuelle en chaque point : arrêtez-vous quelque part et écoutez sa musique locale, avec des articles sur ses genres et son histoire."
+      de: "Eine Weltkarte mit einem virtuellen Radiosender an jedem Punkt: Man hält an einem Ort an und hört dessen lokale Musik, dazu Artikel über Genres und Geschichte."
+      it: "Una mappa del mondo con una radio virtuale in ogni punto: ti fermi in un luogo e ascolti la sua musica locale, con articoli sui generi e sulla storia."
+      pt: "Um mapa do mundo com uma rádio virtual em cada ponto: pare num lugar e ouça a sua música local, com artigos sobre os géneros e a história."
+    detalle:
+      es:
+        - "MuGlobe es un escaparate virtual para descubrir y escuchar música local de rincones muy distintos del planeta. Lo ha creado Ed Brakus, un profesional tecnológico estadounidense ya retirado y apasionado de las músicas del mundo."
+        - "Funciona así: te mueves por el mapa y, allí donde te detienes, suena una emisora virtual con música de la zona. Unos botones de información abren artículos sobre esa música, sus géneros, su historia y su evolución. Y si prefieres dejarte sorprender, el selector de emisoras te lleva al azar a sonidos de lugares distintos."
+        - "Es gratuita y no tiene publicidad. Se sostiene con las aportaciones voluntarias de quienes la usan."
+        - "Un plan sencillo para viajar sin moverte y escuchar algo que quizá no habrías buscado nunca."
+      en:
+        - "MuGlobe is a virtual showcase for discovering and listening to local music from very different corners of the planet. It was created by Ed Brakus, a retired American tech professional with a passion for world music."
+        - "It works like this: you move around the map and, wherever you stop, a virtual radio station plays music from that area. Information buttons open articles about that music, its genres, its history and how it has evolved. And if you would rather be surprised, the station selector takes you at random to sounds from different places."
+        - "It is free and has no advertising. It is supported by voluntary contributions from the people who use it."
+      fr:
+        - "MuGlobe est une vitrine virtuelle pour découvrir et écouter de la musique locale de lieux très différents de la planète. Il a été créé par Ed Brakus, un professionnel américain de la technologie à la retraite, passionné de musiques du monde."
+        - "Le principe : on se déplace sur la carte et, là où l’on s’arrête, une radio virtuelle diffuse la musique de la région. Des boutons d’information ouvrent des articles sur cette musique, ses genres, son histoire et son évolution. Et pour se laisser surprendre, le sélecteur de stations mène au hasard vers des sons de lieux différents."
+        - "Il est gratuit et sans publicité. Il se finance grâce aux contributions volontaires de ses utilisateurs."
+        - "Un moyen simple de voyager sans bouger et d’écouter ce que l’on n’aurait peut-être jamais cherché."
+      de:
+        - "MuGlobe ist ein virtuelles Schaufenster, um lokale Musik aus ganz unterschiedlichen Winkeln des Planeten zu entdecken und zu hören. Entwickelt hat es Ed Brakus, ein pensionierter US-amerikanischer Technikprofi mit Leidenschaft für Weltmusik."
+        - "So funktioniert es: Man bewegt sich über die Karte, und wo man anhält, spielt ein virtueller Radiosender Musik aus der Gegend. Info-Buttons öffnen Artikel über diese Musik, ihre Genres, ihre Geschichte und ihre Entwicklung. Und wer sich lieber überraschen lässt, wird mit der Senderwahl zufällig zu Klängen aus verschiedenen Orten geführt."
+        - "Sie ist kostenlos und werbefrei. Getragen wird sie von freiwilligen Beiträgen der Nutzerinnen und Nutzer."
+        - "Ein einfacher Tipp, um zu reisen, ohne sich zu bewegen, und etwas zu hören, das man vielleicht nie gesucht hätte."
+      it:
+        - "MuGlobe è una vetrina virtuale per scoprire e ascoltare musica locale di angoli molto diversi del pianeta. L’ha creata Ed Brakus, un professionista della tecnologia statunitense in pensione e appassionato di musiche del mondo."
+        - "Funziona così: ti muovi sulla mappa e, dove ti fermi, suona una radio virtuale con la musica della zona. Dei pulsanti informativi aprono articoli su quella musica, i suoi generi, la sua storia e la sua evoluzione. E se preferisci lasciarti sorprendere, il selettore delle emittenti ti porta a caso verso suoni di luoghi diversi."
+        - "È gratuita e senza pubblicità. Si sostiene con i contributi volontari di chi la usa."
+        - "Un modo semplice per viaggiare senza muoversi e ascoltare qualcosa che forse non avresti mai cercato."
+      pt:
+        - "O MuGlobe é uma montra virtual para descobrir e ouvir música local de cantos muito diferentes do planeta. Foi criado por Ed Brakus, um profissional de tecnologia norte-americano reformado e apaixonado por músicas do mundo."
+        - "Funciona assim: move-se pelo mapa e, onde parar, toca uma rádio virtual com música da zona. Botões de informação abrem artigos sobre essa música, os seus géneros, a sua história e a sua evolução. E se preferir deixar-se surpreender, o seletor de emissoras leva-o ao acaso a sons de lugares diferentes."
+        - "É gratuito e não tem publicidade. Sustenta-se com as contribuições voluntárias de quem o usa."
+        - "Um plano simples para viajar sem sair do lugar e ouvir algo que talvez nunca tivesse procurado."
