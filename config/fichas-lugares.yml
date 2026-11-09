@@ -2275,3 +2275,43 @@ conjunto-arqueologico-merida:
           r: "Un día completo da para lo esencial; con dos días puedes ir con más calma, entrar en el museo y alargar el paseo junto al río."
         - p: "¿Qué más ver cerca?"
           r: "La Vía de la Plata une Mérida con Cáceres y Salamanca, y Cáceres está a una hora aproximada en coche."
+
+museo-ciencia-valladolid:
+  relacionados: [museo-las-ciencias, ruta-canal-castilla, castillo-encantado-trigueros-del-valle]
+  contenido:
+    es:
+      texto:
+        - "El Museo de la Ciencia de Valladolid es un museo interactivo pensado para aprender experimentando. Está a orillas del río Pisuerga, y sus salas permanentes explican desde los combustibles fósiles y el cambio climático hasta el funcionamiento de una esclusa, con una sala de Química que relaciona las fórmulas con la evolución de la bicicleta."
+        - "Además de las exposiciones permanentes, cuenta con espacios para muestras temporales, propias o itinerantes, y con un planetario que programa sesiones distintas según la edad del público. Por eso funciona bien como plan familiar, sobre todo en días de lluvia o frío."
+        - "Conviene mirar la programación antes de ir, porque el planetario y las exposiciones temporales cambian, y el horario varía en verano. Consulta siempre la web oficial para horarios, entradas y condiciones de acceso, que cambian."
+      faq:
+        - p: "¿Qué se puede ver en el Museo de la Ciencia de Valladolid?"
+          r: "Salas interactivas permanentes, exposiciones temporales y un planetario con sesiones según la edad."
+        - p: "¿Es buen plan con niños?"
+          r: "Sí, está pensado para tocar y experimentar, y el planetario tiene sesiones adaptadas a distintas edades."
+        - p: "¿Cuánto tiempo se necesita?"
+          r: "Una mañana o una tarde para las salas; algo más si añades una sesión de planetario."
+        - p: "¿Hay que reservar?"
+          r: "Para el planetario y las actividades suele convenir comprobar la programación y las plazas en la web oficial."
+        - p: "¿Qué más ver cerca?"
+          r: "El paseo junto al Pisuerga y, a unos 25 km, el Castillo Encantado de Trigueros del Valle."
+
+castillo-encantado-trigueros-del-valle:
+  relacionados: [museo-ciencia-valladolid, ruta-canal-castilla]
+  contenido:
+    es:
+      texto:
+        - "El Castillo Encantado es una atracción en el castillo del siglo XV de Trigueros del Valle, un pueblo de poco más de 300 habitantes a unos 25 kilómetros de Valladolid. La iniciativa partió del Ayuntamiento y del escultor Juan Villa, y las figuras que se ven son obra de su estudio, Prometeo Escultura."
+        - "No es una visita histórica al uso, sino un recorrido por libre por varias áreas temáticas llenas de seres fantásticos: la guarida del dragón, una mazmorra en la que hay que procurar no despertar a una criatura gigante y otros rincones de ambiente mágico. Gusta mucho a las familias y a quien disfruta con la fantasía."
+        - "Hay una versión especial de Halloween en otoño. Combina la visita con un paseo por el pueblo. Consulta siempre la web oficial para horarios, entradas y condiciones de acceso, que cambian."
+      faq:
+        - p: "¿Dónde está el Castillo Encantado?"
+          r: "En Trigueros del Valle, en la provincia de Valladolid, a unos 25 km de la capital."
+        - p: "¿Qué se ve dentro?"
+          r: "Criaturas fantásticas del escultor Juan Villa repartidas por varias zonas temáticas, como la guarida del dragón o la mazmorra."
+        - p: "¿Se visita con guía?"
+          r: "La visita se hace por libre, a tu ritmo."
+        - p: "¿Es buen plan con niños?"
+          r: "Sí, es una de las visitas familiares más populares de la provincia. Los más pequeños pueden asustarse en algunas zonas."
+        - p: "¿Cuánto tiempo se necesita?"
+          r: "Alrededor de una hora, más lo que dediques a pasear por el pueblo."
