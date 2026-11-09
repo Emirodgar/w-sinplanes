@@ -60,6 +60,14 @@ const jsonld = [baseJsonld, faqLd].filter(Boolean);
       </figure>
     )}
 
+    {extra && p.gallery?.length > 0 && (
+      <div class="plan-gallery">
+        {p.gallery.map((g) => (
+          <figure><img src={g.src} alt={g.alt} width={g.tam?.[0]} height={g.tam?.[1]} loading="lazy" decoding="async" /></figure>
+        ))}
+      </div>
+    )}
+
     {past && <p class="notice">{L.past}</p>}
     {p.approx && <p class="notice">{L.approx}</p>}
 

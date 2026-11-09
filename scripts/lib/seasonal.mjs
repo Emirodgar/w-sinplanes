@@ -154,6 +154,7 @@ export function buildSeasonalPlans(today) {
       place: placeOf(l.lugar ? { provincia: l.lugar[0], municipio: l.lugar[1] } : null), source: { name: 'sinplanes', url: l.fuente },
       ...contentOf({ id: l.id, contenido: f?.contenido }, i18nLugares),
       ...(f?.imagen ? { image: f.imagen, imageSize: f.imagen_tam || null } : {}),
+      ...(f?.galeria ? { gallery: f.galeria } : {}),
       ...(f?.relacionados ? { related: f.relacionados } : {}),
     });
   }

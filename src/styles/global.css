@@ -173,6 +173,9 @@ p { margin: 0 0 1em; max-width: var(--measure); }
 
 /* Ficha ampliada: imagen, texto y preguntas frecuentes */
 .plan-figure { margin: 1.75rem 0 0; }
+.plan-gallery { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 1rem; margin: 1rem 0 0; }
+.plan-gallery figure { margin: 0; }
+.plan-gallery img { display: block; width: 100%; height: auto; border-radius: var(--r-xl); box-shadow: var(--shadow); }
 .plan-figure img { display: block; width: 100%; height: auto; border-radius: var(--r-xl); box-shadow: var(--shadow); }
 .plan-body { margin-block: 2rem; max-width: var(--measure); }
 .plan-body p { font-size: 1.0625rem; line-height: 1.65; margin-bottom: 1.1rem; }

@@ -2,6 +2,7 @@
 # ------------------------------------------------------------
 # Cada ficha: relacionados (ids de otros planes), imagen / imagen_tam [ancho, alto] (opcionales) y contenido.es con
 # imagen_alt (si hay imagen), texto (párrafos) y faq (p = pregunta, r = respuesta). Hoy solo en castellano.
+# Opcional: galeria (lista de { src, tam: [ancho, alto], alt }) con imágenes extra bajo la principal.
 # Horarios, precios y condiciones de entrada NO se publican aquí: cambian y se remite siempre a la web oficial.
 
 museo-nacional-prado:
@@ -2298,8 +2299,14 @@ museo-ciencia-valladolid:
 
 castillo-encantado-trigueros-del-valle:
   relacionados: [museo-ciencia-valladolid, ruta-canal-castilla]
+  imagen: "/img/planes/castillo-encantado-dumbledore.webp"
+  imagen_tam: [891, 693]
+  galeria:
+    - { src: "/img/planes/castillo-encantado-sala-libros.webp", tam: [560, 759], alt: "Sala del castillo con bustos, un duende de traje rojo y pilas de libros sobre un suelo de madera" }
+    - { src: "/img/planes/castillo-encantado-slimer.webp", tam: [556, 763], alt: "Figura colgante de un fantasma verde bajo una viga, con luces rojas y azules en un rincón del castillo" }
   contenido:
     es:
+      imagen_alt: "Busto de Albus Dumbledore sobre terciopelo rojo en una hornacina de piedra del castillo"
       texto:
         - "El Castillo Encantado es una atracción en el castillo del siglo XV de Trigueros del Valle, un pueblo de poco más de 300 habitantes a unos 25 kilómetros de Valladolid. La iniciativa partió del Ayuntamiento y del escultor Juan Villa, y las figuras que se ven son obra de su estudio, Prometeo Escultura."
         - "No es una visita histórica al uso, sino un recorrido por libre por varias áreas temáticas llenas de seres fantásticos: la guarida del dragón, una mazmorra en la que hay que procurar no despertar a una criatura gigante y otros rincones de ambiente mágico. Gusta mucho a las familias y a quien disfruta con la fantasía."
