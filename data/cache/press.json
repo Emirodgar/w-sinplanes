@@ -4557,13 +4557,6 @@
   "a_cubierto": null,
   "confianza": 0.85
  },
- "c8db34d754": {
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/25/laura-contreras-actriz-infancia-mis-padres-me-ensenaron-creer-mi-2062511.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-10-25",
-  "es_plan": false
- },
  "e6f31e36ae": {
   "url": "https://www.elnortedecastilla.es/culturas/seminci/programa/programa-completo-seminci-2026-domingo-octubre-20261025092537-nt.html",
   "fuente": "El Norte de Castilla (Culturas)",
@@ -4591,13 +4584,6 @@
   ],
   "a_cubierto": null,
   "confianza": 0.85
- },
- "1cd0321080": {
-  "url": "https://www.ideal.es/culturas/fandi-julio-norte-protagonizan-sendos-indultos-ecuador-20261025101324-nt.html",
-  "fuente": "Ideal (Culturas)",
-  "src": "prensa-ideal-culturas",
-  "publicado": "2026-10-25",
-  "es_plan": false
  },
  "83520e6810": {
   "url": "https://www.ideal.es/culturas/musica/eco-infinito-angeles-20261025000827-nt.html",
@@ -4684,13 +4670,6 @@
   "a_cubierto": true,
   "confianza": 0.85
  },
- "bc7a560e6c": {
-  "url": "https://www.diariovasco.com/culturas/cuatro-hojas-bola-negra-20261025235603-nt.html",
-  "fuente": "El Diario Vasco (Culturas)",
-  "src": "prensa-diariovasco-culturas",
-  "publicado": "2026-10-25",
-  "es_plan": false
- },
  "2bca9ab977": {
   "url": "https://www.lasprovincias.es/culturas/musica/valenciano-salva-videojuegos-olvido-20261014235831-nt.html",
   "fuente": "Las Provincias (Culturas)",
@@ -4748,13 +4727,6 @@
   "a_cubierto": null,
   "confianza": 0.85
  },
- "50128883b8": {
-  "url": "https://www.eldiariomontanes.es/culturas/seleccion-cantabra-folclore-reune-300-personas-puesta-20261025080816-nt.html",
-  "fuente": "El Diario Montañés (Culturas)",
-  "src": "prensa-diariomontanes-culturas",
-  "publicado": "2026-10-25",
-  "es_plan": false
- },
  "051629a71e": {
   "url": "https://www.eldiariomontanes.es/culturas/jose-cobo-lleva-obras-propone-intervencion-dialoga-20261025075606-nt.html",
   "fuente": "El Diario Montañés (Culturas)",
@@ -4782,13 +4754,6 @@
   ],
   "a_cubierto": true,
   "confianza": 0.85
- },
- "46a79edc6c": {
-  "url": "https://www.larioja.com/culturas/azconiano-20261024081532-nt.html",
-  "fuente": "La Rioja (Culturas)",
-  "src": "prensa-larioja-culturas",
-  "publicado": "2026-10-25",
-  "es_plan": false
  },
  "5a5390d7f8": {
   "url": "https://www.europapress.es/cultura/musica-00129/noticia-musica-esperanza-unen-madrid-mujeres-luchan-contra-cancer-mama-nadie-solo-20261024232138.html",
@@ -5590,48 +5555,6 @@
   "publicado": "2026-10-26",
   "es_plan": false
  },
- "575f1b941d": {
-  "url": "https://www.europapress.es/cultura/cine-00128/noticia-muere-cineasta-jose-luis-garcia-sanchez-oso-oro-berlin-truchas-20261025112555.html",
-  "fuente": "Europa Press (Cultura)",
-  "src": "prensa-europapress-cultura",
-  "publicado": "2026-10-25",
-  "es_plan": false
- },
- "98cc2b9009": {
-  "url": "https://elpais.com/cultura/cine/2026-10-25/muere-a-los-85-anos-el-cineasta-jose-luis-garcia-sanchez-director-que-uso-el-humor-para-filosofar-sobre-la-vida.html",
-  "fuente": "El País (Cultura)",
-  "src": "prensa-elpais-cultura",
-  "publicado": "2026-10-25",
-  "es_plan": false
- },
- "262ffc2884": {
-  "url": "https://elpais.com/cultura/cine/2026-10-25/jose-luis-garcia-sanchez-habia-que-deshacer-la-casa.html",
-  "fuente": "El País (Cultura)",
-  "src": "prensa-elpais-cultura",
-  "publicado": "2026-10-25",
-  "es_plan": false
- },
- "c45226e6ca": {
-  "url": "https://elpais.com/cultura/2026-10-25/cinco-peliculas-imprescindibles-de-jose-luis-garcia-sanchez.html",
-  "fuente": "El País (Cultura)",
-  "src": "prensa-elpais-cultura",
-  "publicado": "2026-10-25",
-  "es_plan": false
- },
- "e3b57e2f9d": {
-  "url": "https://elpais.com/cultura/2026-10-25/vox-mete-la-motosierra-en-la-cultura.html",
-  "fuente": "El País (Cultura)",
-  "src": "prensa-elpais-cultura",
-  "publicado": "2026-10-25",
-  "es_plan": false
- },
- "adcc36c5bc": {
-  "url": "https://elpais.com/cultura/cine/2026-10-25/ricardo-gomez-actor-y-director-llevo-toda-la-vida-escuchando-te-conozco-te-he-visto-crecer-y-a-mi-no-me-ha-visto-crecer-nadie.html",
-  "fuente": "El País (Cultura)",
-  "src": "prensa-elpais-cultura",
-  "publicado": "2026-10-25",
-  "es_plan": false
- },
  "24f6697135": {
   "url": "https://elpais.com/cultura/2026-10-25/habemus-sigfrido-michael-volle-reina-como-wotan-papal-en-el-anillo-romano-de-daniel-harding.html",
   "fuente": "El País (Cultura)",
@@ -5660,27 +5583,6 @@
   "a_cubierto": true,
   "confianza": 0.9
  },
- "7c9dae55a2": {
-  "url": "https://elpais.com/cultura/2026-10-25/judeline-voy-a-llegar-muy-alto-tengo-confianza-ciega-en-mi.html",
-  "fuente": "El País (Cultura)",
-  "src": "prensa-elpais-cultura",
-  "publicado": "2026-10-25",
-  "es_plan": false
- },
- "1124f211dc": {
-  "url": "https://elpais.com/cultura/2026-10-25/muere-el-fotografo-miguel-bergasa-que-documento-la-hermetica-vida-de-la-comunidad-menonita-en-paraguay.html",
-  "fuente": "El País (Cultura)",
-  "src": "prensa-elpais-cultura",
-  "publicado": "2026-10-25",
-  "es_plan": false
- },
- "c2d27af545": {
-  "url": "https://www.lavanguardia.com/cultura/20261025/11667809/muere-actriz-teatro-cine-television-pepa-arenos.html",
-  "fuente": "La Vanguardia (Cultura)",
-  "src": "prensa-lavanguardia-cultura",
-  "publicado": "2026-10-25",
-  "es_plan": false
- },
  "4f2a2a242b": {
   "url": "https://www.lavanguardia.com/cultura/20261025/11667707/cultura-espanol-filnyc-nueva-ucles-york-trump.html",
   "fuente": "La Vanguardia (Cultura)",
@@ -5708,48 +5610,6 @@
   ],
   "a_cubierto": null,
   "confianza": 0.85
- },
- "8f33e9690d": {
-  "url": "https://www.lavanguardia.com/cultura/cine/20261025/11667683/cortometraje-majid-zafar-alza-maximo-galardon-filmets-badalona.html",
-  "fuente": "La Vanguardia (Cultura)",
-  "src": "prensa-lavanguardia-cultura",
-  "publicado": "2026-10-25",
-  "es_plan": false
- },
- "fd8373af04": {
-  "url": "https://www.lavanguardia.com/cultura/cine/20261025/11667664/truchas-corte-faraon-garcia-sanchez-belle-epoque.html",
-  "fuente": "La Vanguardia (Cultura)",
-  "src": "prensa-lavanguardia-cultura",
-  "publicado": "2026-10-25",
-  "es_plan": false
- },
- "83f20270be": {
-  "url": "https://www.lavanguardia.com/cultura/20261025/11667639/muere-85-anos-jose-luis-garcia-sanchez-director-truchas-guionista-belle-epoque.html",
-  "fuente": "La Vanguardia (Cultura)",
-  "src": "prensa-lavanguardia-cultura",
-  "publicado": "2026-10-25",
-  "es_plan": false
- },
- "0ec2b0546c": {
-  "url": "https://www.lavanguardia.com/cultura/20261025/11667492/francia-revueltas-libros-cine.html",
-  "fuente": "La Vanguardia (Cultura)",
-  "src": "prensa-lavanguardia-cultura",
-  "publicado": "2026-10-25",
-  "es_plan": false
- },
- "fc0f3f3fa7": {
-  "url": "https://www.lavanguardia.com/cultura/20261025/11667262/decisiones-toman-cuerpos-la-carne-david-szalay.html",
-  "fuente": "La Vanguardia (Cultura)",
-  "src": "prensa-lavanguardia-cultura",
-  "publicado": "2026-10-25",
-  "es_plan": false
- },
- "5976e5e550": {
-  "url": "https://www.lavanguardia.com/cultura/20261025/11667146/cine-brasileno-teme-bolsonaro.html",
-  "fuente": "La Vanguardia (Cultura)",
-  "src": "prensa-lavanguardia-cultura",
-  "publicado": "2026-10-25",
-  "es_plan": false
  },
  "b7f0ca7147": {
   "url": "https://www.20minutos.es/musica/rapero-jay-z-protagonizara-intermedio-super-bowl-los-angeles_7053762_0.html",
