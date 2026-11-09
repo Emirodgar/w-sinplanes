@@ -233,3 +233,9 @@ reserva:
     titulo: "Historias de la economía"
     generos: [historia, negocios]
     episodio: { titulo: "El mayor pelotazo inmobiliario en la historia de España", enlace: "https://open.spotify.com/episode/0ltpKtoVA0YfxWvniRKfmv" }
+
+  - id: itnig-willyrex
+    portada: "/img/podcasts/itnig-willyrex.jpg"
+    titulo: "Podcast de Itnig: Historias de startups"
+    generos: [negocios]
+    episodio: { titulo: "Willyrex Explica el Negocio Real de YouTube: 100.000€/mes, sponsors y vídeos sin filtros", enlace: "https://open.spotify.com/episode/4JPUWM7SYpmoMD1dZuqSnU" }
