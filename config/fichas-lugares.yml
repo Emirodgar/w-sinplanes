@@ -2304,6 +2304,7 @@ castillo-encantado-trigueros-del-valle:
   galeria:
     - { src: "/img/planes/castillo-encantado-sala-libros.webp", tam: [560, 759], alt: "Sala del castillo con bustos, un duende de traje rojo y pilas de libros sobre un suelo de madera" }
     - { src: "/img/planes/castillo-encantado-slimer.webp", tam: [556, 763], alt: "Figura colgante de un fantasma verde bajo una viga, con luces rojas y azules en un rincón del castillo" }
+    - { src: "/img/planes/castillo-encantado-troll.webp", tam: [556, 750], alt: "Figura de un troll verde con un garrote en una sala de piedra iluminada de azul" }
   contenido:
     es:
       imagen_alt: "Busto de Albus Dumbledore sobre terciopelo rojo en una hornacina de piedra del castillo"
