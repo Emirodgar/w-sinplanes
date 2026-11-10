@@ -252,3 +252,113 @@ reserva:
     sinopsis:
       es: "Florentino Ariza espera más de cincuenta años a que Fermina Daza vuelva a ser libre. Una historia de amor tenaz, con una ciudad caribeña de fondo."
       en: "Florentino Ariza waits more than fifty years for Fermina Daza to be free again. A tenacious love story set against a Caribbean city."
+
+  # Premiados (añadidos al final: no alteran lo ya recomendado en el histórico).
+  - id: el-jarama
+    titulo: "El Jarama"
+    autor: "Rafael Sánchez Ferlosio"
+    generos: [clasico]
+    portada: "/img/libros/el-jarama.webp"
+    motivo: { es: "Premio Nadal 1955", en: "1955 Nadal Prize" }
+    sinopsis:
+      es: "Un domingo de verano, un grupo de jóvenes madrileños se baña en el río Jarama. Casi todo es conversación, y de esa charla trivial sale un retrato muy fiel de la España de los cincuenta, con un final que descoloca."
+      en: "On a summer Sunday, a group of young Madrileños spend the day bathing in the Jarama river. Almost everything is dialogue, and from that trivial chatter comes a faithful portrait of 1950s Spain, with an unsettling ending."
+  - id: la-ciudad-y-los-perros
+    titulo: "La ciudad y los perros"
+    autor: "Mario Vargas Llosa"
+    generos: [contemporanea, clasico]
+    portada: "/img/libros/la-ciudad-y-los-perros.webp"
+    motivo: { es: "Premio Biblioteca Breve 1962", en: "1962 Biblioteca Breve Prize" }
+    sinopsis:
+      es: "Un colegio militar de Lima donde los cadetes sobreviven a base de violencia y código de honor. Cuando un disparo mata a uno de ellos, empieza a salir lo que todos querían callar."
+      en: "A military academy in Lima where cadets survive on violence and a code of honour. When a gunshot kills one of them, what everyone wanted to hide starts coming out."
+  - id: el-nombre-de-la-rosa
+    titulo: "El nombre de la rosa"
+    autor: "Umberto Eco"
+    generos: [misterio, historica]
+    portada: "/img/libros/el-nombre-de-la-rosa.webp"
+    motivo: { es: "Premio Strega 1981", en: "1981 Strega Prize" }
+    sinopsis:
+      es: "En 1327, un fraile franciscano y su joven discípulo investigan una serie de muertes en una abadía benedictina con una biblioteca laberíntica. Novela policiaca medieval y mucho más."
+      en: "In 1327, a Franciscan friar and his young apprentice investigate a series of deaths in a Benedictine abbey with a labyrinthine library. A medieval detective novel and much more."
+  - id: los-hijos-de-la-medianoche
+    titulo: "Los hijos de la medianoche"
+    autor: "Salman Rushdie"
+    generos: [realismo-magico, historica]
+    portada: "/img/libros/los-hijos-de-la-medianoche.webp"
+    motivo: { es: "Premio Booker 1981", en: "1981 Booker Prize" }
+    sinopsis:
+      es: "Saleem nace en el instante exacto de la independencia de la India y comparte poderes mágicos con los demás niños nacidos esa hora. La historia del país contada como una biografía desbordante."
+      en: "Saleem is born at the exact moment of India's independence and shares magical powers with the other children born that hour. The country's history told as an overflowing biography."
+  - id: beloved
+    titulo: "Beloved"
+    autor: "Toni Morrison"
+    generos: [historica, contemporanea]
+    portada: "/img/libros/beloved.webp"
+    motivo: { es: "Premio Pulitzer de Ficción 1988", en: "1988 Pulitzer Prize for Fiction" }
+    sinopsis:
+      es: "Sethe, una mujer que escapó de la esclavitud, vive en Ohio con su hija, atormentada por un fantasma. Una novela sobre la memoria y lo que la esclavitud deja en las personas."
+      en: "Sethe, a woman who escaped slavery, lives in Ohio with her daughter, haunted by a ghost. A novel about memory and what slavery leaves in people."
+  - id: vida-de-pi
+    titulo: "Vida de Pi"
+    autor: "Yann Martel"
+    generos: [contemporanea]
+    portada: "/img/libros/vida-de-pi.webp"
+    motivo: { es: "Premio Booker 2002", en: "2002 Booker Prize" }
+    sinopsis:
+      es: "Tras un naufragio, un adolescente indio sobrevive 227 días en un bote salvavidas con un tigre de Bengala. Aventura, fe y una pregunta final sobre qué historia preferimos creer."
+      en: "After a shipwreck, an Indian teenager survives 227 days on a lifeboat with a Bengal tiger. Adventure, faith and a final question about which story we prefer to believe."
+  - id: la-carretera
+    titulo: "La carretera"
+    autor: "Cormac McCarthy"
+    generos: [contemporanea]
+    portada: "/img/libros/la-carretera.webp"
+    motivo: { es: "Premio Pulitzer de Ficción 2007", en: "2007 Pulitzer Prize for Fiction" }
+    sinopsis:
+      es: "Un padre y su hijo caminan hacia el sur por un país arrasado y cubierto de ceniza. Prosa muy seca para una historia de supervivencia y ternura."
+      en: "A father and son walk south through a scorched, ash-covered country. Very spare prose for a story of survival and tenderness."
+  - id: wolf-hall
+    titulo: "Wolf Hall"
+    autor: "Hilary Mantel"
+    generos: [historica]
+    portada: "/img/libros/wolf-hall.webp"
+    motivo: { es: "Premio Booker 2009", en: "2009 Booker Prize" }
+    sinopsis:
+      es: "La corte de Enrique VIII vista por Thomas Cromwell, el hijo de un herrero que llega a ser su hombre de confianza. Novela histórica contada en presente, muy cerca del personaje."
+      en: "The court of Henry VIII seen through Thomas Cromwell, a blacksmith's son who becomes his right-hand man. Historical fiction told in the present tense, very close to the character."
+  - id: toda-la-luz-que-no-podemos-ver
+    titulo: "Toda la luz que no podemos ver"
+    autor: "Anthony Doerr"
+    generos: [historica]
+    portada: "/img/libros/toda-la-luz-que-no-podemos-ver.webp"
+    motivo: { es: "Premio Pulitzer de Ficción 2015", en: "2015 Pulitzer Prize for Fiction" }
+    sinopsis:
+      es: "En la Segunda Guerra Mundial, una chica ciega francesa y un joven soldado alemán experto en radios acaban cruzando sus caminos en Saint-Malo. Capítulos cortos y mucho ritmo."
+      en: "In the Second World War, a blind French girl and a young German soldier skilled with radios end up crossing paths in Saint-Malo. Short chapters and plenty of pace."
+  - id: la-vegetariana
+    titulo: "La vegetariana"
+    autor: "Han Kang"
+    generos: [contemporanea]
+    portada: "/img/libros/la-vegetariana.webp"
+    motivo: { es: "Premio Booker Internacional 2016", en: "2016 International Booker Prize" }
+    sinopsis:
+      es: "Yeong-hye deja de comer carne tras un sueño y su decisión desbarata a su familia. Tres voces cuentan una novela inquietante y breve de la surcoreana Han Kang."
+      en: "Yeong-hye stops eating meat after a dream and her decision unravels her family. Three voices tell a short, unsettling novel by South Korea's Han Kang."
+  - id: lincoln-en-el-bardo
+    titulo: "Lincoln en el Bardo"
+    autor: "George Saunders"
+    generos: [historica, contemporanea]
+    portada: "/img/libros/lincoln-en-el-bardo.webp"
+    motivo: { es: "Premio Booker 2017", en: "2017 Booker Prize" }
+    sinopsis:
+      es: "En 1862, Abraham Lincoln visita de noche la tumba de su hijo Willie mientras los fantasmas del cementerio lo observan y comentan. Un coro de voces, entre lo trágico y lo cómico."
+      en: "In 1862, Abraham Lincoln visits his son Willie's tomb at night while the cemetery's ghosts watch and comment. A chorus of voices, between the tragic and the comic."
+  - id: la-anomalia
+    titulo: "La anomalía"
+    autor: "Hervé Le Tellier"
+    generos: [contemporanea, misterio]
+    portada: "/img/libros/la-anomalia.webp"
+    motivo: { es: "Premio Goncourt 2020", en: "2020 Goncourt Prize" }
+    sinopsis:
+      es: "Un vuelo París-Nueva York atraviesa una tormenta y, meses después, aterriza otra vez con los mismos pasajeros. Un thriller con ciencia ficción y varios personajes cuyas vidas se ven alteradas."
+      en: "A Paris–New York flight crosses a storm and, months later, lands again with the same passengers. A thriller with science fiction and several characters whose lives are upended."
