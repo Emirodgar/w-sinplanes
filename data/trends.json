@@ -600,6 +600,16 @@
    ]
   },
   {
+   "term": "bomba malaga",
+   "traffic": 2000,
+   "lastSeen": "2026-11-10",
+   "news": [
+    "La falsa alarma por una maleta sospechosa moviliza a la Policía y paraliza el centro de Málaga",
+    "Amenaza de bomba en Málaga tras la muerte de un policía en Asturias al estallar una mochila",
+    "Gran despliegue policial en Muelle Heredia por una maleta sin dueño: se ha cortado el tráfico y el paso a peatones"
+   ]
+  },
+  {
    "term": "estudiante",
    "traffic": 1000,
    "lastSeen": "2026-10-27",
@@ -927,6 +937,36 @@
     "Día de La Almudena de paraguas en Madrid",
     "El Tiempo (07-11-26) Temporal de lluvias",
     "La borrasca Bruna también afecta a la Comunidad de Madrid: lluvias y cielos cubiertos"
+   ]
+  },
+  {
+   "term": "pago",
+   "traffic": 1000,
+   "lastSeen": "2026-11-10",
+   "news": [
+    "La Audiencia avala investigar a Zapatero por presunto tráfico de influencias en Bolivia",
+    "La Audiencia Nacional avala que se investigue a Zapatero por cobrar de empresarios peruanos por su conexión con la causa",
+    "La Audiencia Nacional avala que Calama investigue los negocios de Zapatero en Bolivia"
+   ]
+  },
+  {
+   "term": "david walliams",
+   "traffic": 1000,
+   "lastSeen": "2026-11-10",
+   "news": [
+    "David Walliams named as celebrity who tried to block publication of sexual misconduct allegations",
+    "‘It wasn’t long until he asked me if I’d ever had sex before’: David Walliams accused of preying on young women for sex",
+    "David Walliams accused of preying on teenage girls as young as 15 | ITV News"
+   ]
+  },
+  {
+   "term": "programa electoral pp",
+   "traffic": 1000,
+   "lastSeen": "2026-11-10",
+   "news": [
+    "Feijóo promete sustituir el ingreso mínimo vital por una \"renta de activación\" que se les retirará a quienes rechacen empleos sin \"causa justificada\"",
+    "El PP asume en su programa electoral la prioridad nacional de Vox, modificar el IMV y atajar el \"absentismo injustificado\"",
+    "Feijóo unificará los subsidios por desempleo en uno solo y lo retirará a quien rechace una oferta de trabaj..."
    ]
   },
   {
@@ -1463,16 +1503,6 @@
    ]
   },
   {
-   "term": "pago",
-   "traffic": 500,
-   "lastSeen": "2026-11-10",
-   "news": [
-    "Aldama pagó un año el alquiler del chalet del ex chófer de Sánchez a cambio de que le ayudara a conseguir c...",
-    "El chófer del Peugeot devuelve la alegría a una derecha necesitada de un cambio de guion",
-    "La UCO busca facturas falsas por valor de más de 200.000 euros en la trama de blanqueo de Ábalos"
-   ]
-  },
-  {
    "term": "atentado",
    "traffic": 500,
    "lastSeen": "2026-11-10",
@@ -1480,6 +1510,22 @@
     "Crisis de salud mental o un ultra con conexiones oscuras: la investigación busca determinar el móvil del terrorista de Cracovia",
     "Muere en el hospital el autor del tiroteo de Cracovia que dejó seis muertos y quince heridos",
     "Polonia homenajea a los seis fallecidos en el tiroteo en Cracovia"
+   ]
+  },
+  {
+   "term": "katrin ortega",
+   "traffic": 500,
+   "lastSeen": "2026-11-10",
+   "news": []
+  },
+  {
+   "term": "ana botín",
+   "traffic": 500,
+   "lastSeen": "2026-11-10",
+   "news": [
+    "Ana Botín anuncia que será la última de su familia al frente del Santander",
+    "Entrevista a Ana Botín: \"No habrá otro Botín al frente de Santander\"",
+    "La presidenta de Banco Santander presagia el fin de la saga: \"No habrá otro Botín dirigiendo el banco\""
    ]
   },
   {
@@ -2090,16 +2136,6 @@
    ]
   },
   {
-   "term": "david walliams",
-   "traffic": 200,
-   "lastSeen": "2026-11-10",
-   "news": [
-    "‘It wasn’t long until he asked me if I’d ever had sex before’: David Walliams accused of preying on young women for sex",
-    "David Walliams named as celebrity who tried to block publication of sexual misconduct allegations",
-    "David Walliams named as celebrity who lost injunction bid"
-   ]
-  },
-  {
    "term": "andreas christensen",
    "traffic": 200,
    "lastSeen": "2026-11-10",
@@ -2137,6 +2173,46 @@
     "Fall Out Boy lanzan nuevo single, ‘Aces’, y confirman concierto en Madrid",
     "La gira internacional de Fall Out Boy pasará por España",
     "Fall Out Boy, conciertos y entradas 2027 en España"
+   ]
+  },
+  {
+   "term": "the game awards - juego del año",
+   "traffic": 200,
+   "lastSeen": "2026-11-10",
+   "news": [
+    "Hasta el momento, solo un videojuego ha logrado ser elegido GOTY tanto por la crítica como por los jugadores",
+    "En 12 años de historia, un solo juego ha logrado ser elegido \"Juego del Año\" por la crítica y los jugadores en los The Game Awards",
+    "GOTY: Baldur's Gate 3 logra consenso entre crítica y"
+   ]
+  },
+  {
+   "term": "a-49",
+   "traffic": 200,
+   "lastSeen": "2026-11-10",
+   "news": [
+    "Susto en la A-49: un adelantamiento frustrado acaba en una peligrosa secuencia entre un camión y un coche a la altura de Gines",
+    "Salud amplía el cribado neonatal con el estudio de dos nuevas patologías",
+    "La medicina genómica revoluciona el cribado neonatal para la detección de enfermedades raras"
+   ]
+  },
+  {
+   "term": "piquete",
+   "traffic": 200,
+   "lastSeen": "2026-11-10",
+   "news": [
+    "La secretaria de Juventud de CCOO: \"Mi derecho a hacer piquetes está por encima del derecho de la gente a trabajar\"",
+    "El Sindicato de Inquilinas llama a \"piquetes nocturnos\" para cerrar comercios y a que el 11-N sea \"caótico\": \"La liaremos parda\"",
+    "El Sindicato de Inquilinas de Córdoba reclama un cambio de modelo para garantizar el derecho a la vivienda"
+   ]
+  },
+  {
+   "term": "6 de diciembre",
+   "traffic": 200,
+   "lastSeen": "2026-11-10",
+   "news": [
+    "El BOE confirma que el 6 de diciembre es festivo y cae en domingo: se pasará al lunes 7 en 10 comunidades que disfrutarán de un puente laboral y escolar de 4 días",
+    "Confirmado por el BOE: en diciembre habrá un puente de cuatro días seguidos, pero solo en nueve comunidades y una ciudad autónoma",
+    "Cuándo es el próximo día festivo en España: cae en domingo y habrá un puente de cuatro días en estas comunidades autónomas"
    ]
   },
   {

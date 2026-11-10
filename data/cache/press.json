@@ -18331,5 +18331,759 @@
   "src": "prensa-lavanguardia-cultura",
   "publicado": "2026-11-06",
   "es_plan": false
+ },
+ "0d1389b3f3": {
+  "url": "https://www.20minutos.es/libros/john-harrison-ganador-booker-mas-anciano-historia-conquista-sus-81-anos-con-final-todo-una-satira-distopica_7059289_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-11-10",
+  "es_plan": false
+ },
+ "d7712979a5": {
+  "url": "https://www.20minutos.es/musica/biblioteca-nacional-recibe-200-partituras-fotos-correspondencias-augusto-alguero_7059226_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-11-10",
+  "es_plan": false
+ },
+ "284f7bdc7b": {
+  "url": "https://www.20minutos.es/libros/manolo-palomares-gana-premio-kindle-storyteller-2026-con-su-novela-moriras-despoblado_7059211_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-11-10",
+  "es_plan": false
+ },
+ "790c822892": {
+  "url": "https://www.20minutos.es/musica/yandel-repite-su-exitoso-perreo-sinfonico-madrid_7058821_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-11-10",
+  "es_plan": true,
+  "titulo": "Yandel ofrece concierto sinfónico en Madrid",
+  "resumen": "El artista puertorriqueño Yandel presenta su concepto 'Sinfónico' en Madrid, interpretando sus grandes éxitos con una orquestación espectacular. El concierto forma parte del cierre de su gira española.",
+  "en": {
+   "titulo": "Yandel offers symphonic concert in Madrid",
+   "resumen": "Puerto Rican artist Yandel presents his 'Sinfónico' concept in Madrid, performing his greatest hits with spectacular orchestration. The concert is part of the closing of his Spanish tour."
+  },
+  "inicio": "2026-11-10",
+  "fin": "2026-11-10",
+  "hora": null,
+  "lugar": "Movistar Arena",
+  "municipio": "Madrid",
+  "provincia": "Madrid",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "musica"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "a8db7201a2": {
+  "url": "https://www.20minutos.es/musica/entrevista-alvaro-luna-disco-azulejos_7056584_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-11-10",
+  "es_plan": false
+ },
+ "c43ba42038": {
+  "url": "https://elpais.com/cultura/2026-11-10/kerry-james-marshall-pintor-de-la-experiencia-negra-de-todos-los-artistas-que-conozco-prefiero-mis-propios-cuadros.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-11-10",
+  "es_plan": false
+ },
+ "429e21a371": {
+  "url": "https://elpais.com/cultura/2026-11-10/john-harrison-rompe-moldes-con-su-premio-booker-por-primera-vez-gana-un-autor-de-81-anos-y-de-ciencia-ficcion.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-11-10",
+  "es_plan": false
+ },
+ "9615439a7d": {
+  "url": "https://elpais.com/cultura/cine/2026-11-10/yrupe-la-flor-que-guarda-parte-de-la-memoria-historica-del-cine-espanol.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-11-10",
+  "es_plan": false
+ },
+ "02e5b78a76": {
+  "url": "https://www.lavanguardia.com/cultura/cine/20261110/11680869/muere-donnie-dunagan-puso-voz-bambi-muerte-madre-hacerse-marine.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-10",
+  "es_plan": false
+ },
+ "d2b78dbaeb": {
+  "url": "https://www.lavanguardia.com/cultura/20261110/11672176/raul-garcia-primer-espanol-disney-industria-animacion-ee-uu-secuelas-hay-riesgo.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-10",
+  "es_plan": false
+ },
+ "aebd42b8a0": {
+  "url": "https://www.ara.cat/cultura/musica/carminho-ofereix-gran-nit-contrastos-emocionals-liceu_1_5905766.html",
+  "fuente": "Ara (Cultura)",
+  "src": "prensa-ara-cultura",
+  "publicado": "2026-11-10",
+  "es_plan": true,
+  "titulo": "Carminho actúa en el Liceu de Barcelona",
+  "resumen": "La cantante portuguesa Carminho ofrece un concierto en el Liceu de Barcelona dentro del festival Suite, mezclando drama y alegría con su repertorio de fado.",
+  "en": {
+   "titulo": "Carminho performs at Barcelona's Liceu",
+   "resumen": "Portuguese singer Carminho gives a concert at Barcelona's Liceu as part of the Suite festival, blending drama and joy with her fado repertoire."
+  },
+  "inicio": "2026-11-10",
+  "fin": "2026-11-10",
+  "hora": null,
+  "lugar": "Liceu",
+  "municipio": "Barcelona",
+  "provincia": "Barcelona",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "musica"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "231abd6669": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/10/premios-taurinos-nicanor-villalta-gobierno-aragon-cristiano-torres-aaron-palacio-morenito-aranda-2066142.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-10",
+  "es_plan": false
+ },
+ "401fbe1949": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/10/rtve-admite-entrevista-abascal-revuelta-reflexion-apoyo-broncano-2067323.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-10",
+  "es_plan": false
+ },
+ "e53da7cb19": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/10/gospel-aragones-prepara-una-nueva-explosion-voces-2066929.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-10",
+  "es_plan": true,
+  "titulo": "III Festival de Góspel Amateur de Aragón en Zaragoza",
+  "resumen": "El III Festival de Góspel Amateur de Aragón se celebrará el 28 de noviembre en Zaragoza, presentando la energía y diversidad de la música góspel.",
+  "en": {
+   "titulo": "3rd Amateur Gospel Festival of Aragon in Zaragoza",
+   "resumen": "The 3rd Amateur Gospel Festival of Aragon will be held on November 28th in Zaragoza, showcasing the energy and diversity of gospel music."
+  },
+  "inicio": "2026-11-28",
+  "fin": "2026-11-28",
+  "hora": null,
+  "lugar": null,
+  "municipio": "Zaragoza",
+  "provincia": "Zaragoza",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "5fc76b7459": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/10/monica-naranjo-52anos-siempre-tenido-buen-saque-desayuno-algo-fruta-temporada-tostada-avena-queso-aceite-2066000.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-10",
+  "es_plan": false
+ },
+ "aee1da0b2b": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/10/ingles-john-harrison-booker-2026-distopia-2067219.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-10",
+  "es_plan": false
+ },
+ "1c6d1ecb27": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/10/kaseo-impresiona-estar-esquina-tiroteado-2067216.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-10",
+  "es_plan": false
+ },
+ "2d28a72cd2": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/10/andres-roca-rey-cumoplir-30anos-vivo-solo-casa-campo-necesito-estar-concentrado-disfruto-2066723.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-10",
+  "es_plan": false
+ },
+ "c245031ed2": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/10/miguel-bose-70anos-muy-orgulloso-espanol-vamos-cansar-encima-espana-2064804.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-10",
+  "es_plan": false
+ },
+ "993f41fa65": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/10/gran-wyoming-propietario-19-viviendas-subidas-impuestos-patrimonio-perjudican-acuerdo-2065127.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-10",
+  "es_plan": false
+ },
+ "ee97870879": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/10/ernest-hemingway-famosa-reflexion-espana-pueblo-espanol-tiene-algun-rasgo-comun-orgullo-sentido-2035874.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-10",
+  "es_plan": false
+ },
+ "8d737e7f1f": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/10/victor-jimenez-publico-le-puedes-enganar-una-dos-hasta-tres-veces-pero-cuarta-ya-no-viene-2067198.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-10",
+  "es_plan": true,
+  "titulo": "Estreno de 'La delicadeza' de LaMov en Zaragoza",
+  "resumen": "La compañía de danza LaMov estrena su nueva creación 'La delicadeza', inspirada en la Generación del 27, en el Teatro Principal de Zaragoza del 12 al 15 de noviembre.",
+  "en": {
+   "titulo": "Premiere of 'La delicadeza' by LaMov in Zaragoza",
+   "resumen": "The dance company LaMov premieres its new creation 'La delicadeza', inspired by the Generation of '27, at the Teatro Principal in Zaragoza from November 12th to 15th."
+  },
+  "inicio": "2026-11-12",
+  "fin": "2026-11-15",
+  "hora": "20:00",
+  "lugar": "Teatro Principal",
+  "municipio": "Zaragoza",
+  "provincia": "Zaragoza",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "326fb58195": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/10/aragon-tv-estrena-documental-sigena-historia-un-expolio-2067163.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-10",
+  "es_plan": true,
+  "titulo": "Aragón TV estrena el documental 'Sigena. Historia de un expolio'",
+  "resumen": "Aragón TV estrena el documental 'Sigena. Historia de un expolio' el 10 de noviembre a las 21:50, que repasa la historia del Monasterio de Sigena y la dispersión de su patrimonio.",
+  "en": {
+   "titulo": "Aragón TV premieres the documentary 'Sigena. History of a Spoil'",
+   "resumen": "Aragón TV premieres the documentary 'Sigena. History of a Spoil' on November 10th at 9:50 PM, which reviews the history of the Sigena Monastery and the dispersal of its heritage."
+  },
+  "inicio": "2026-11-10",
+  "fin": "2026-11-10",
+  "hora": "21:50",
+  "lugar": null,
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "e8879148db": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/10/mirella-r-abrisqueta-estrena-washington-su-documental-sobre-un-gran-aragones-los-libros-texto-tampoco-se-abunda-mucho-2067015.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-10",
+  "es_plan": true,
+  "titulo": "Estreno de documental de Mirella R. Abrisqueta en Washington",
+  "resumen": "La cineasta aragonesa Mirella R. Abrisqueta estrena su documental 'El embajador que cambió la historia' el 10 de noviembre en Washington D.C., en el marco de las celebraciones del 250 aniversario de la Independencia de EE.UU.",
+  "en": {
+   "titulo": "Premiere of Mirella R. Abrisqueta's documentary in Washington",
+   "resumen": "Aragonese filmmaker Mirella R. Abrisqueta premieres her documentary 'The Ambassador Who Changed History' on November 10th in Washington D.C., as part of the celebrations for the 250th anniversary of U.S. Independence."
+  },
+  "inicio": "2026-11-10",
+  "fin": "2026-11-10",
+  "hora": null,
+  "lugar": "Spanish Cultural Center Embassy of Spain",
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "59b3f4bc72": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/10/miguel-angel-munoz-no-suelo-tomar-cafe-gusta-yogur-kefir-bol-cereales-energia-tirar-todo-dia-2066996.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-10",
+  "es_plan": false
+ },
+ "4494bcea7a": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/10/jorge-fernandez-desayuno-huevos-plancha-tortilla-jamon-iberico-tomatito-aguacate-rodajas-pan-trigo-sarraceno-litro-agua-2066961.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-10",
+  "es_plan": false
+ },
+ "668d6e32e6": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/10/dani-martin-anuncia-concierto-zaragoza-para-julio-2027-donde-cuando-comprar-las-entradas-2067215.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-10",
+  "es_plan": true,
+  "titulo": "Dani Martín anuncia concierto en Zaragoza en 2027",
+  "resumen": "Dani Martín ha anunciado una nueva fecha de su gira en Zaragoza el 2 de julio de 2027 en el Ibercaja Estadio. Las entradas salen a la venta el 10 de noviembre.",
+  "en": {
+   "titulo": "Dani Martín announces concert in Zaragoza in 2027",
+   "resumen": "Dani Martín has announced a new tour date in Zaragoza on July 2, 2027, at the Ibercaja Estadio. Tickets go on sale November 10th."
+  },
+  "inicio": "2027-07-02",
+  "fin": "2027-07-02",
+  "hora": null,
+  "lugar": "Ibercaja Estadio",
+  "municipio": "Zaragoza",
+  "provincia": "Zaragoza",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "45c7d2f53d": {
+  "url": "https://www.elnortedecastilla.es/culturas/libros/nesb-sacrificado-ambicion-20261110143400-ntrc.html",
+  "fuente": "El Norte de Castilla (Culturas)",
+  "src": "prensa-nortecastilla-culturas",
+  "publicado": "2026-11-10",
+  "es_plan": false
+ },
+ "43e1e533e4": {
+  "url": "https://www.elnortedecastilla.es/culturas/musica/orquesta-uva-apela-solidaridad-aladdin-nielsen-20261110123726-nt.html",
+  "fuente": "El Norte de Castilla (Culturas)",
+  "src": "prensa-nortecastilla-culturas",
+  "publicado": "2026-11-10",
+  "es_plan": true,
+  "titulo": "Concierto solidario de la Orquesta de la UVA a favor de UNICEF",
+  "resumen": "La Orquesta de la UVA celebra un concierto solidario a favor de UNICEF el día 29 en la Cúpula del Milenio, interpretando 'Aladdin' de Nielsen.",
+  "en": {
+   "titulo": "Charity concert by the UVA Orchestra for UNICEF",
+   "resumen": "The UVA Orchestra will hold a charity concert for UNICEF on the 29th at the Cúpula del Milenio, performing Nielsen's 'Aladdin'."
+  },
+  "inicio": "2026-11-29",
+  "fin": "2026-11-29",
+  "hora": null,
+  "lugar": "Cúpula del Milenio",
+  "municipio": null,
+  "provincia": "Valladolid",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura",
+   "ninos"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "99bc47b26e": {
+  "url": "https://www.elnortedecastilla.es/culturas/tv/gonzalo-miro-television-neutral-rtve-20261110095407-ntrc.html",
+  "fuente": "El Norte de Castilla (Culturas)",
+  "src": "prensa-nortecastilla-culturas",
+  "publicado": "2026-11-10",
+  "es_plan": false
+ },
+ "0743aa457e": {
+  "url": "https://www.elnortedecastilla.es/culturas/bodas-figaro-clave-too-20261110000740-ntrc.html",
+  "fuente": "El Norte de Castilla (Culturas)",
+  "src": "prensa-nortecastilla-culturas",
+  "publicado": "2026-11-10",
+  "es_plan": false
+ },
+ "e940c80d4c": {
+  "url": "https://www.elnortedecastilla.es/elecciones/generales/vox-arrebata-escano-pp-salamanca-volvera-tener-20261110084307-nt.html",
+  "fuente": "El Norte de Castilla (Salamanca)",
+  "src": "prensa-nortecastilla-salamanca",
+  "publicado": "2026-11-10",
+  "es_plan": false
+ },
+ "52bb987eac": {
+  "url": "https://www.diariosur.es/culturas/musica/ara-malikian-ofrece-dos-conciertos-dentro-programacion-navidad-cervantes-20261110121318-nt.html",
+  "fuente": "Diario Sur (Culturas)",
+  "src": "prensa-diariosur-culturas",
+  "publicado": "2026-11-10",
+  "es_plan": false
+ },
+ "9c45e5aee5": {
+  "url": "https://www.diariosur.es/culturas/maldicion-teatro-romano-malaga-ampliacion-zona-visitable-20261105062926-nt.html",
+  "fuente": "Diario Sur (Culturas)",
+  "src": "prensa-diariosur-culturas",
+  "publicado": "2026-11-10",
+  "es_plan": false
+ },
+ "7283ed358d": {
+  "url": "https://www.ideal.es/culturas/elliott-murphy-abre-granada-nueva-gira-espanola-20261110134424-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-11-10",
+  "es_plan": true,
+  "titulo": "Elliott Murphy en concierto en Granada",
+  "resumen": "Elliott Murphy inicia su gira española en Granada el jueves 12 de noviembre. El músico neoyorquino actuará a las 21:00 horas en el Teatro CajaGranada.",
+  "en": {
+   "titulo": "Elliott Murphy in concert in Granada",
+   "resumen": "Elliott Murphy begins his Spanish tour in Granada on Thursday, November 12th. The New York musician will perform at 9:00 PM at the Teatro CajaGranada."
+  },
+  "inicio": "2026-11-12",
+  "fin": "2026-11-12",
+  "hora": "21:00",
+  "lugar": "Teatro CajaGranada",
+  "municipio": "Granada",
+  "provincia": "Granada",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "9cf0dbb5ff": {
+  "url": "https://www.ideal.es/culturas/almeria/detras-mito-mirada-inedita-angelo-novi-resucita-20261110131151-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-11-10",
+  "es_plan": false
+ },
+ "460118d4f7": {
+  "url": "https://www.ideal.es/culturas/almeria/guajira-celebra-dia-flamenco-pies-alcazaba-cante-20261110111012-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-11-10",
+  "es_plan": true,
+  "titulo": "Día del Flamenco en Almería",
+  "resumen": "La asociación sociocultural La Guajira celebra el Día del Flamenco el 15 de noviembre a los pies de la Alcazaba con el cante de David de Jacoba y la guitarra de Dani de Morón.",
+  "en": {
+   "titulo": "Flamenco Day in Almería",
+   "resumen": "The sociocultural association La Guajira celebrates Flamenco Day on November 15th at the foot of the Alcazaba with singing by David de Jacoba and guitar by Dani de Morón."
+  },
+  "inicio": "2026-11-15",
+  "fin": "2026-11-15",
+  "hora": null,
+  "lugar": "Alcazaba",
+  "municipio": "Almería",
+  "provincia": "Almería",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": false,
+  "confianza": 0.85
+ },
+ "5a13c7d5bf": {
+  "url": "https://www.ideal.es/culturas/diputacion-apoya-cuatro-peliculas-granadinas-2026-20261110101122-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-11-10",
+  "es_plan": false
+ },
+ "3e57b10ec1": {
+  "url": "https://www.ideal.es/culturas/centro-penitenciario-albolote-comprometido-granada-2031-20261110095542-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-11-10",
+  "es_plan": false
+ },
+ "5364d7e138": {
+  "url": "https://www.ideal.es/culturas/conseguir-capitalidad-cultural-diciembre-esfuerzo-20261109001645-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-11-10",
+  "es_plan": false
+ },
+ "d434dc52f0": {
+  "url": "https://www.ideal.es/culturas/talento-emana-tierra-granada-busca-escenario-20261110004131-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-11-10",
+  "es_plan": false
+ },
+ "c2ce678a97": {
+  "url": "https://www.ideal.es/culturas/alcaldesa-anuncia-puesta-marcha-agenda-cultural-unica-20261109193144-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-11-10",
+  "es_plan": false
+ },
+ "d89321d0cf": {
+  "url": "https://www.elcorreo.com/culturas/museo-vasco-recupera-obra-grandes-protectores-cultura-20261110195454-nt.html",
+  "fuente": "El Correo (Culturas)",
+  "src": "prensa-elcorreo-culturas",
+  "publicado": "2026-11-10",
+  "es_plan": false
+ },
+ "871f30c9ef": {
+  "url": "https://www.elcorreo.com/culturas/arte/implacables-imagenes-gaseosas-creadas-fluorescentes-dan-flavin-20261109123923-nt.html",
+  "fuente": "El Correo (Culturas)",
+  "src": "prensa-elcorreo-culturas",
+  "publicado": "2026-11-10",
+  "es_plan": false
+ },
+ "b33d976b6b": {
+  "url": "https://www.lasprovincias.es/culturas/tv/presidente-rtve-jose-pablo-lopez-reaparece-redes-20261110122758-nt.html",
+  "fuente": "Las Provincias (Culturas)",
+  "src": "prensa-lasprovincias-culturas",
+  "publicado": "2026-11-10",
+  "es_plan": false
+ },
+ "01ec7ed0a0": {
+  "url": "https://www.lasprovincias.es/culturas/tv/tve-emitira-martes-promesa-volvera-serie-20261109004813-nt.html",
+  "fuente": "Las Provincias (Culturas)",
+  "src": "prensa-lasprovincias-culturas",
+  "publicado": "2026-11-10",
+  "es_plan": false
+ },
+ "f5b753b8ef": {
+  "url": "https://www.lasprovincias.es/culturas/tv/hoy-martes-television-superproduccion-historica-llevo-hollywood-20261109004426-nt.html",
+  "fuente": "Las Provincias (Culturas)",
+  "src": "prensa-lasprovincias-culturas",
+  "publicado": "2026-11-10",
+  "es_plan": true,
+  "titulo": "Películas en televisión para hoy",
+  "resumen": "Consulta la cartelera de cine para hoy, 10 de noviembre, con una selección de películas que se emiten en televisión.",
+  "en": {
+   "titulo": "Movies on TV today",
+   "resumen": "Check the movie listings for today, November 10th, with a selection of films broadcast on television."
+  },
+  "inicio": "2026-11-10",
+  "fin": "2026-11-10",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "pantalla"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "e511623bbe": {
+  "url": "https://www.laverdad.es/culturas/destacados-escritores-novela-policiaca-pasaran-semana-claras-20261110142522-nt.html",
+  "fuente": "La Verdad (Culturas)",
+  "src": "prensa-laverdad-culturas",
+  "publicado": "2026-11-10",
+  "es_plan": true,
+  "titulo": "Escritores de novela policiaca en Las Claras",
+  "resumen": "Ciclo de novela policiaca en Las Claras de la Fundación Cajamurcia con destacados autores como Alicia Giménez Bartlett y Marta Robles. Comienza este miércoles.",
+  "en": {
+   "titulo": "Crime Novel Writers at Las Claras",
+   "resumen": "A cycle of crime novels at Las Claras of the Cajamurcia Foundation featuring prominent authors like Alicia Giménez Bartlett and Marta Robles. It begins this Wednesday."
+  },
+  "inicio": "2026-11-12",
+  "fin": "2026-11-12",
+  "hora": null,
+  "lugar": "Las Claras",
+  "municipio": null,
+  "provincia": "Murcia",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "32125732de": {
+  "url": "https://www.laverdad.es/culturas/musica/dani-martin-despedira-gira-pts-anos-murcia-20261110122218-nt.html",
+  "fuente": "La Verdad (Culturas)",
+  "src": "prensa-laverdad-culturas",
+  "publicado": "2026-11-10",
+  "es_plan": true,
+  "titulo": "Dani Martín: Gira '25 pts años' en Murcia",
+  "resumen": "Dani Martín despedirá su gira '25 pts años' el 29 de mayo en Espacio Norte, Murcia, repasando sus grandes éxitos.",
+  "en": {
+   "titulo": "Dani Martín: '25 pts años' Tour in Murcia",
+   "resumen": "Dani Martín will conclude his '25 pts años' tour on May 29th at Espacio Norte, Murcia, revisiting his greatest hits."
+  },
+  "inicio": "2027-05-29",
+  "fin": "2027-05-29",
+  "hora": null,
+  "lugar": "Espacio Norte",
+  "municipio": "Murcia",
+  "provincia": "Murcia",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "760ec04160": {
+  "url": "https://www.laverdad.es/culturas/musica/cantoria-realiza-primera-gira-latinoamerica-20261110113248-nt.html",
+  "fuente": "La Verdad (Culturas)",
+  "src": "prensa-laverdad-culturas",
+  "publicado": "2026-11-10",
+  "es_plan": true,
+  "titulo": "Cantoría: Primera gira por Latinoamérica",
+  "resumen": "La formación Cantoría inicia su primera gira por Latinoamérica con un concierto el 13 de noviembre en el Auditorio Vaz Ferreira de Montevideo.",
+  "en": {
+   "titulo": "Cantoría: First Tour in Latin America",
+   "resumen": "The group Cantoría begins its first tour in Latin America with a concert on November 13th at the Vaz Ferreira Auditorium in Montevideo."
+  },
+  "inicio": "2026-11-13",
+  "fin": "2026-11-13",
+  "hora": null,
+  "lugar": "Auditorio Vaz Ferreira",
+  "municipio": "Montevideo",
+  "provincia": null,
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.5
+ },
+ "b25b2a2245": {
+  "url": "https://www.eldiariomontanes.es/culturas/cine/santanderino-stuart-herrera-recorre-cine-palabras-118-20261110071829-nt.html",
+  "fuente": "El Diario Montañés (Culturas)",
+  "src": "prensa-diariomontanes-culturas",
+  "publicado": "2026-11-10",
+  "es_plan": false
+ },
+ "1b950e61c2": {
+  "url": "https://www.larioja.com/culturas/periferia-coronas-conciertos-escenarios-actual-20261110102105-nt.html",
+  "fuente": "La Rioja (Culturas)",
+  "src": "prensa-larioja-culturas",
+  "publicado": "2026-11-10",
+  "es_plan": false
+ },
+ "d634509dea": {
+  "url": "https://www.larioja.com/culturas/festival-cuentalo-brinda-lienzo-cinco-destacados-ilustradores-20261110074002-nt.html",
+  "fuente": "La Rioja (Culturas)",
+  "src": "prensa-larioja-culturas",
+  "publicado": "2026-11-10",
+  "es_plan": false
+ },
+ "0e557a9f5e": {
+  "url": "https://www.20minutos.es/musica/dani-martin-anuncia-las-ultimas-14-noches-su-gira-agradece-carino-recibido-tras-muerte-su-padre_7059018_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-11-09",
+  "es_plan": false
+ },
+ "9d47e861d5": {
+  "url": "https://www.20minutos.es/musica/tu-salon-convertido-un-escenario-apple-music-estrena-selfie-sing-nueva-forma-grabar-karaoke-desde-iphone_7058949_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-11-09",
+  "es_plan": false
+ },
+ "b01984890a": {
+  "url": "https://elpais.com/us/entretenimiento/2026-11-09/james-gunn-y-peter-safran-abandonan-por-sorpresa-la-presidencia-de-los-estudios-dc-cansados-del-caracter-demasiado-corporativo-del-trabajo.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-11-09",
+  "es_plan": false
+ },
+ "d27b11e736": {
+  "url": "https://elpais.com/espana/catalunya/2026-11-09/patricia-gomez-y-maria-jesus-gonzalez-ganan-el-premio-fundacion-macba-por-una-exposicion-sobre-el-internamiento.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-11-09",
+  "es_plan": false
+ },
+ "fc6d6ea818": {
+  "url": "https://www.lavanguardia.com/cultura/20261109/11679751/open-brains-proyecto-fomenta-pensamiento-critico-gana-premio-impulsa-cultura-2026.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-09",
+  "es_plan": false
+ },
+ "f3f2f25fa2": {
+  "url": "https://www.lavanguardia.com/cultura/20261109/11680255/ultima-exposicion-robert-llimos-abre-can-framis.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-09",
+  "es_plan": true,
+  "titulo": "Exposición de Robert Llimós en Can Framis",
+  "resumen": "Se inaugura la última exposición de Robert Llimós en el Museo Can Framis, un homenaje póstumo que reivindica su arte conceptual y etapa ovni.",
+  "en": {
+   "titulo": "Robert Llimós Exhibition at Can Framis",
+   "resumen": "The last exhibition by Robert Llimós opens at the Can Framis Museum, a posthumous tribute that vindicates his conceptual art and UFO phase."
+  },
+  "inicio": "2026-11-10",
+  "fin": "2027-02-07",
+  "hora": null,
+  "lugar": "Museo Can Framis",
+  "municipio": null,
+  "provincia": "Barcelona",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "e0b49717e2": {
+  "url": "https://www.lavanguardia.com/encatala/20261109/11680256/darrera-mostra-robert-llimos-obre-can-framis.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-09",
+  "es_plan": true,
+  "titulo": "Exposició de Robert Llimós a Can Framis",
+  "resumen": "S'inaugura l'última exposició de Robert Llimós al Museu Can Framis, un homenatge pòstum que reivindica el seu art conceptual i etapa ovni.",
+  "en": {
+   "titulo": "Robert Llimós Exhibition at Can Framis",
+   "resumen": "The last exhibition by Robert Llimós opens at the Can Framis Museum, a posthumous tribute that vindicates his conceptual art and UFO phase."
+  },
+  "inicio": "2026-11-10",
+  "fin": "2027-02-07",
+  "hora": null,
+  "lugar": "Museu Can Framis",
+  "municipio": null,
+  "provincia": "Barcelona",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
  }
 }

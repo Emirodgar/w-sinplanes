@@ -31844,5 +31844,1554 @@
    "cultura"
   ],
   "a_cubierto": true
+ },
+ "3afaa167fc": {
+  "id": "75365cf438",
+  "es": {
+   "titulo": "Ludotecas gratuitas para niños en Latina",
+   "resumen": "El Distrito de Latina ofrece un servicio de ludotecas gratuito para niños de 5 a 12 años. Consulta el horario de viernes y sábados en el Centro Cultural Sara Montiel."
+  },
+  "en": {
+   "titulo": "Free Play Centers for Children in Latina",
+   "resumen": "The Latina District offers a free play center service for children aged 5 to 12. Check the Friday and Saturday schedule at the Sara Montiel Cultural Center."
+  },
+  "temas": [
+   "ninos",
+   "actividades"
+  ],
+  "a_cubierto": null
+ },
+ "6bc3135c6f": {
+  "id": "c121e999de",
+  "es": {
+   "titulo": "Espectáculo infantil 'Cuentilaura: Navidad'",
+   "resumen": "Laura, maestra y apasionada de la infancia, presenta 'Cuentilaura: Navidad', un espectáculo multidisciplinar de 55 minutos que fomenta la imaginación y el aprendizaje a través de cuentos."
+  },
+  "en": {
+   "titulo": "Children's Show 'Cuentilaura: Navidad'",
+   "resumen": "Laura, a teacher passionate about childhood, presents 'Cuentilaura: Navidad', a 55-minute multidisciplinary show that fosters imagination and learning through stories."
+  },
+  "temas": [
+   "ninos",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "8be8d394fc": {
+  "id": "fcad81d9da",
+  "es": {
+   "titulo": "Círculo de silencio entre libros en Burgos",
+   "resumen": "Participa en un encuentro de lectura silenciosa y compartida de textos literarios en la Biblioteca Pública de Burgos. Una hora de calma y reflexión literaria para adultos."
+  },
+  "en": {
+   "titulo": "Circle of Silence Among Books in Burgos",
+   "resumen": "Join a silent reading and shared literary text session at the Burgos Public Library. One hour of calm and literary reflection for adults."
+  },
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "62463bda67": {
+  "id": "1e17bf9df8",
+  "es": {
+   "titulo": "Teatro 'Onironautas' en la Biblioteca de Burgos",
+   "resumen": "Disfruta de 'Onironautas', una emotiva obra de clown que explora recuerdos y sueños de una anciana, abordando la soledad y homenajeando a nuestros mayores. Apta para mayores de 3 años."
+  },
+  "en": {
+   "titulo": "Theater 'Onironautas' at Burgos Library",
+   "resumen": "Enjoy 'Onironautas', a moving clown performance exploring an elderly woman's memories and dreams, addressing loneliness and honoring seniors. Suitable for ages 3 and up."
+  },
+  "temas": [
+   "cultura",
+   "ninos"
+  ],
+  "a_cubierto": true
+ },
+ "850a3ef158": {
+  "id": "13ebb6ca88",
+  "es": {
+   "titulo": "Danza y realidad virtual en 'Stage_On' en Burgos",
+   "resumen": "Experimenta 'Stage_On', un proyecto innovador que fusiona danza en vivo y entornos virtuales para una experiencia inmersiva y emocional. Para mayores de 10 años."
+  },
+  "en": {
+   "titulo": "Dance and Virtual Reality in 'Stage_On' in Burgos",
+   "resumen": "Experience 'Stage_On', an innovative project merging live dance and virtual environments for an immersive and emotional experience. For ages 10 and up."
+  },
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": true
+ },
+ "2d8c7c0c46": {
+  "id": "8a67db2253",
+  "es": {
+   "titulo": "Exposición sobre Igualdad de Género y Mujeres en México",
+   "resumen": "Descubre la exposición 'Igualdad de género. Un asunto de todos/as' que visibiliza la situación de las mujeres en México y promueve la erradicación de la violencia de género."
+  },
+  "en": {
+   "titulo": "Exhibition on Gender Equality and Women in Mexico",
+   "resumen": "Discover the exhibition 'Gender Equality. Everyone's Business' which highlights the situation of women in Mexico and promotes the eradication of gender-based violence."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "07effea7d6": {
+  "id": "f81a129938",
+  "es": {
+   "titulo": "Taller de robótica 'Mini-ingenieros' en Valladolid",
+   "resumen": "Niños de 3 a 5 años construirán y programarán robots en el taller 'Mini-ingenieros en movimiento'. Aprende a crear modelos que cobran vida con motores y programación."
+  },
+  "en": {
+   "titulo": "Robotics Workshop 'Mini-engineers' in Valladolid",
+   "resumen": "Children aged 3 to 5 will build and program robots in the 'Mini-engineers in motion' workshop. Learn to create models that come to life with motors and programming."
+  },
+  "temas": [
+   "ninos",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "5921c0f433": {
+  "id": "df2ea052d2",
+  "es": {
+   "titulo": "Taller de Bolígrafos 3D en Valladolid",
+   "resumen": "Jóvenes de 9 a 13 años crearán diseños tridimensionales con bolígrafos 3D en este taller. ¡Da vida a tu imaginación y llévate tus creaciones!"
+  },
+  "en": {
+   "titulo": "3D Pen Workshop in Valladolid",
+   "resumen": "Young people aged 9 to 13 will create three-dimensional designs with 3D pens in this workshop. Bring your imagination to life and take your creations home!"
+  },
+  "temas": [
+   "actividades",
+   "pantalla"
+  ],
+  "a_cubierto": true
+ },
+ "dc9e55b463": {
+  "id": "bc9d8b23d7",
+  "es": {
+   "titulo": "Conferencia sobre Delincuencia Organizada en Valladolid",
+   "resumen": "El Comisario de Policía Nacional, Manuel Javier Peña Echeverrria, impartirá una charla sobre la delincuencia organizada y su impacto en la sociedad."
+  },
+  "en": {
+   "titulo": "Conference on Organized Crime in Valladolid",
+   "resumen": "National Police Commissioner Manuel Javier Peña Echeverrria will give a talk on organized crime and its impact on society."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "099e346db3": {
+  "id": "7dbb0c483e",
+  "es": {
+   "titulo": "Coloquio sobre la Generación del 27 leonesa y música",
+   "resumen": "Explora el legado de la Generación del 27 en León con un coloquio moderado por Raquel Lanseros y la actuación musical del Dúo Ad Libitum."
+  },
+  "en": {
+   "titulo": "Colloquium on the Leonese Generation of '27 and Music",
+   "resumen": "Explore the legacy of the Generation of '27 in León with a colloquium moderated by Raquel Lanseros and a musical performance by Dúo Ad Libitum."
+  },
+  "temas": [
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "0a79364087": {
+  "id": "8dd0f55bac",
+  "es": {
+   "titulo": "Presentación del libro 'Alfa y Beto hilan el alfabeto'",
+   "resumen": "La autora Susan Fernández Fernández presenta su libro ilustrado para mayores de 9 años, un recorrido poético por el abecedario con poemas, trabalenguas y adivinanzas."
+  },
+  "en": {
+   "titulo": "Book Presentation 'Alfa y Beto hilan el alfabeto'",
+   "resumen": "Author Susan Fernández Fernández presents her illustrated book for ages 9 and up, a poetic journey through the alphabet with poems, tongue twisters, and riddles."
+  },
+  "temas": [
+   "libros",
+   "ninos"
+  ],
+  "a_cubierto": true
+ },
+ "e4444d85fe": {
+  "id": "78cfda7437",
+  "es": {
+   "titulo": "Concierto de jazz y poesía 'zo brinviyer' en Palencia",
+   "resumen": "Disfruta de la fusión de jazz y poesía con zo brinviyer y Lachy Torriente en un concierto que celebra la vida, la vulnerabilidad y el amor. Entrada libre."
+  },
+  "en": {
+   "titulo": "Jazz and Poetry Concert 'zo brinviyer' in Palencia",
+   "resumen": "Enjoy the fusion of jazz and poetry with zo brinviyer and Lachy Torriente in a concert celebrating life, vulnerability, and love. Free entry."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "cb67cb75ec": {
+  "id": "f679e6023c",
+  "es": {
+   "titulo": "Conferencia sobre conflicto adolescente en Palencia",
+   "resumen": "David Álvarez Carretero impartirá una conferencia sobre la presencia y autoridad adulta frente al conflicto adolescente, dentro del ciclo 'La Psicología hoy'."
+  },
+  "en": {
+   "titulo": "Conference on Adolescent Conflict in Palencia",
+   "resumen": "David Álvarez Carretero will give a lecture on adult presence and authority in the face of adolescent conflict, as part of the 'Psychology Today' series."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "8877d405f1": {
+  "id": "0312981feb",
+  "es": {
+   "titulo": "Encuentros con Jóvenes y Arte Joven en Palencia",
+   "resumen": "Participa en 'Encuentros con Jóvenes' y 'Jornadas de arte joven' con autores, ilustradores y danza contemporánea. Incluye juegos de mesa y realidad virtual."
+  },
+  "en": {
+   "titulo": "Encounters with Youth and Young Art in Palencia",
+   "resumen": "Participate in 'Encounters with Youth' and 'Young Art Days' featuring authors, illustrators, and contemporary dance. Includes board games and virtual reality."
+  },
+  "temas": [
+   "cultura",
+   "pantalla",
+   "ninos"
+  ],
+  "a_cubierto": true
+ },
+ "e55db66359": {
+  "id": "20939bdf78",
+  "es": {
+   "titulo": "Teatro para adultos en Salamanca: Biblioescena 2026",
+   "resumen": "La Biblioteca Pública de Salamanca presenta Biblioescena 2026, un ciclo de seis espectáculos de teatro, danza y palabra para adultos y jóvenes."
+  },
+  "en": {
+   "titulo": "Adult Theater in Salamanca: Biblioescena 2026",
+   "resumen": "The Salamanca Public Library presents Biblioescena 2026, a series of six theater, dance, and spoken word performances for adults and young people."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "db47913587": {
+  "id": "9d25d5d337",
+  "es": {
+   "titulo": "Teatro 'Veo, veo ¿Qué no ves?' en Salamanca",
+   "resumen": "Pez Luna Teatro presenta 'Veo, veo ¿Qué no ves?', una obra que combina palabra, canto y poesía para reflexionar sobre la historia de las mujeres y los cuentos tradicionales."
+  },
+  "en": {
+   "titulo": "Theater 'Veo, veo ¿Qué no ves?' in Salamanca",
+   "resumen": "Pez Luna Teatro presents 'Veo, veo ¿Qué no ves?', a performance combining word, song, and poetry to reflect on women's history and traditional tales."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "2c10173e10": {
+  "id": "34bc985bfb",
+  "es": {
+   "titulo": "Espectáculo 'Cantos a Selene' en Segovia",
+   "resumen": "Sumérgete en 'Cantos a Selene', un viaje sensorial de flamenco, danza y poesía que narra un amor imposible entre un mortal y la diosa de la Luna."
+  },
+  "en": {
+   "titulo": "Show 'Cantos a Selene' in Segovia",
+   "resumen": "Immerse yourself in 'Cantos a Selene', a sensory journey of flamenco, dance, and poetry that tells an impossible love story between a mortal and the Moon goddess."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "552c3ef911": {
+  "id": "c79f4e0ab7",
+  "es": {
+   "titulo": "Cuentacuentos musical 'Mua. mua.' para bebés en Soria",
+   "resumen": "Bebés de 6 meses a 3 años disfrutarán del cuentacuentos musical 'Mua. mua.' con libros, juguetes, títeres y canciones. Un espectáculo tierno y lleno de emociones."
+  },
+  "en": {
+   "titulo": "Musical Storytelling 'Mua. mua.' for Babies in Soria",
+   "resumen": "Babies aged 6 months to 3 years will enjoy the musical storytelling 'Mua. mua.' featuring books, toys, puppets, and songs. A tender and emotional show."
+  },
+  "temas": [
+   "ninos",
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "1ddad41bf4": {
+  "id": "80e296aa4e",
+  "es": {
+   "titulo": "Taller de poesía 'Poesía G27' en Soria",
+   "resumen": "Explora tu voz a través de la poesía en el taller 'Poesía G27', que rinde homenaje a las escritoras de la Generación del 27. Doce sesiones para adultos."
+  },
+  "en": {
+   "titulo": "Poetry Workshop 'Poesía G27' in Soria",
+   "resumen": "Explore your voice through poetry in the 'Poesía G27' workshop, which pays homage to the female writers of the Generation of '27. Twelve sessions for adults."
+  },
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "e70ef07a66": {
+  "id": "64ebf28b78",
+  "es": {
+   "titulo": "Exposición 'Los primeros 32 años' de Magia en Zamora",
+   "resumen": "Descubre la historia del Festival Internacional de Magia de Zamora en la exposición 'Los primeros 32 años'. Un recorrido por la excelencia de este arte escénico."
+  },
+  "en": {
+   "titulo": "Exhibition 'The First 32 Years' of Magic in Zamora",
+   "resumen": "Discover the history of the Zamora International Magic Festival in the 'The First 32 Years' exhibition. A journey through the excellence of this performing art."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "cf1abc8a16": {
+  "id": "1b2409a0fd",
+  "es": {
+   "titulo": "Conferencia sobre trauma psicológico en Zamora",
+   "resumen": "Conoce qué es el trauma psicológico y cómo comprenderlo en la conferencia 'Cuando el cuerpo recuerda', parte del ciclo 'Psicología hoy'."
+  },
+  "en": {
+   "titulo": "Conference on Psychological Trauma in Zamora",
+   "resumen": "Learn what psychological trauma is and how to understand it in the conference 'When the Body Remembers', part of the 'Psychology Today' series."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "70bcf17c02": {
+  "id": "86565a7d7f",
+  "es": {
+   "titulo": "Narración 'Ava Gardner y Hollywood en España' en Burgos",
+   "resumen": "Revive la historia de Ava Gardner en Madrid a través de anécdotas y conexiones entre Hollywood y la capital española, contada por Verónica Pensosi."
+  },
+  "en": {
+   "titulo": "Storytelling 'Ava Gardner and Hollywood in Spain' in Burgos",
+   "resumen": "Relive the story of Ava Gardner in Madrid through anecdotes and connections between Hollywood and the Spanish capital, told by Verónica Pensosi."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "865a3b432a": {
+  "id": "a381991047",
+  "es": {
+   "titulo": "Proyección documental sobre labor en Nepal (León)",
+   "resumen": "Descubre la labor de la ONG Familia de Hetauda en Nepal a través del documental 'Asha', que busca la inclusión de niños y jóvenes con discapacidad intelectual."
+  },
+  "en": {
+   "titulo": "Documentary Screening on Work in Nepal (León)",
+   "resumen": "Discover the work of the NGO Familia de Hetauda in Nepal through the documentary 'Asha', which aims for the inclusion of children and young people with intellectual disabilities."
+  },
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": true
+ },
+ "f2e791f22c": {
+  "id": "717e68e359",
+  "es": {
+   "titulo": "Recital poético de Antonio García Calvo en León",
+   "resumen": "El poeta leonés Antonio García Calvo ofrecerá un recital poético mostrando una muestra oral de su obra. Entrada libre hasta completar aforo."
+  },
+  "en": {
+   "titulo": "Poetry Recital by Antonio García Calvo in León",
+   "resumen": "Leonese poet Antonio García Calvo will give a poetry recital, presenting an oral sample of his work. Free entry until capacity is reached."
+  },
+  "temas": [
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": true
+ },
+ "474da4c9d7": {
+  "id": "f9fe418fd7",
+  "es": {
+   "titulo": "'A protestar a la Gran Vía' (LOS ABSURDOS TEATRO)",
+   "resumen": "Una obra de teatro cómica que explora las incongruencias humanas y la tendencia a la protesta. Los Absurdos Teatro presenta un espectáculo que invita a la reflexión sobre la naturaleza humana a través del humor."
+  },
+  "en": {
+   "titulo": "'A protestar a la Gran Vía' (LOS ABSURDOS TEATRO)",
+   "resumen": "A comedy play exploring human inconsistencies and the tendency to protest. Los Absurdos Teatro presents a show that invites reflection on human nature through humor."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "dabcd7be14": {
+  "id": "55d7815f48",
+  "es": {
+   "titulo": "'Arraigo' (ARVINE DANZA)",
+   "resumen": "Un viaje coreográfico que fusiona el folclore y la danza estilizada de la península ibérica. Arvine Danza explora las raíces culturales y la energía de las danzas ancestrales, conectando generaciones."
+  },
+  "en": {
+   "titulo": "'Arraigo' (ARVINE DANZA)",
+   "resumen": "A choreographic journey blending Iberian folklore and stylized dance. Arvine Danza explores cultural roots and the energy of ancestral dances, connecting generations."
+  },
+  "temas": [
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "a1f1366f75": {
+  "id": "70f7137ae3",
+  "es": {
+   "titulo": "'Autorreverse' (PERIGALLO TEATRO)",
+   "resumen": "Dos personas intentan conocerse en un desierto metafórico, descubriendo su gran parecido pero olvidándolo constantemente. Perigallo Teatro presenta una obra cómica y frustrante con interacción del público."
+  },
+  "en": {
+   "titulo": "'Autorreverse' (PERIGALLO TEATRO)",
+   "resumen": "Two people try to get to know each other in a metaphorical desert, discovering their strong resemblance but constantly forgetting it. Perigallo Teatro presents a funny and frustrating play with audience interaction."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "7fdab4ecf8": {
+  "id": "ab50110da2",
+  "es": {
+   "titulo": "'Avuelos' (PEZLUNA TEATRO)",
+   "resumen": "Una niña y un niño juegan a imaginar cómo serán de mayores, recordando a sus abuelos. Pezluna Teatro presenta una obra multidisciplinar sobre el crecimiento, los recuerdos y las preguntas sin respuesta."
+  },
+  "en": {
+   "titulo": "'Avuelos' (PEZLUNA TEATRO)",
+   "resumen": "A girl and a boy play at imagining their future, remembering their grandparents. Pezluna Teatro presents a multidisciplinary work about growing up, memories, and unanswered questions."
+  },
+  "temas": [
+   "cultura",
+   "ninos"
+  ],
+  "a_cubierto": true
+ },
+ "0863dd422e": {
+  "id": "cd2783592c",
+  "es": {
+   "titulo": "'Caballero soy' (LA MÁQUINA REAL)",
+   "resumen": "Un recorrido teatral por la vida y obra de Miguel de Cervantes, explorando sus sueños de ser caballero y las dificultades de su existencia. La Máquina Real presenta una obra divertida y didáctica."
+  },
+  "en": {
+   "titulo": "'Caballero soy' (LA MÁQUINA REAL)",
+   "resumen": "A theatrical journey through the life and work of Miguel de Cervantes, exploring his dreams of knighthood and the hardships of his life. La Máquina Real presents an entertaining and educational play."
+  },
+  "temas": [
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": true
+ },
+ "2933b03a36": {
+  "id": "e66395c590",
+  "es": {
+   "titulo": "'Cenicienta, un musical sin filtros'",
+   "resumen": "Una versión inclusiva y actualizada del clásico cuento de Cenicienta, protagonizada por una joven con síndrome de Down. Este musical familiar rompe estereotipos y celebra la pertenencia."
+  },
+  "en": {
+   "titulo": "'Cenicienta, un musical sin filtros'",
+   "resumen": "An inclusive and updated version of the classic Cinderella fairytale, starring a young woman with Down syndrome. This family musical breaks stereotypes and celebrates belonging."
+  },
+  "temas": [
+   "cultura",
+   "ninos"
+  ],
+  "a_cubierto": true
+ },
+ "c75b11a163": {
+  "id": "2942e3a167",
+  "es": {
+   "titulo": "'Divinas palabras' (ATALAYA)",
+   "resumen": "Atalaya presenta una adaptación contemporánea de la obra cumbre de Valle-Inclán, explorando la avaricia, la lujuria y la muerte con un lenguaje poético y visualmente potente."
+  },
+  "en": {
+   "titulo": "'Divinas palabras' (ATALAYA)",
+   "resumen": "Atalaya presents a contemporary adaptation of Valle-Inclán's masterpiece, exploring greed, lust, and death with poetic language and powerful visuals."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "c206743431": {
+  "id": "3250f7ec87",
+  "es": {
+   "titulo": "'El Cid, casi la verdad' (MEJORCONARTE)",
+   "resumen": "Una comedia que narra de forma hilarante la posible decadencia laboral del Cid, mezclando absurdo, teatro gestual y música en directo. Mejorconarte presenta una visión cómica de la leyenda."
+  },
+  "en": {
+   "titulo": "'El Cid, casi la verdad' (MEJORCONARTE)",
+   "resumen": "A hilarious comedy depicting the possible career decline of El Cid, blending absurdity, gestural theater, and live music. Mejorconarte offers a comedic take on the legend."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "80b12b9f96": {
+  "id": "2e0c9863dd",
+  "es": {
+   "titulo": "'El despertar de la mujer sola' (ALDIAN)",
+   "resumen": "Una ama de casa experimenta un renacimiento personal tras la llegada de una nueva vecina. Aldian presenta una obra que realza a la mujer y lucha contra la violencia de género."
+  },
+  "en": {
+   "titulo": "'El despertar de la mujer sola' (ALDIAN)",
+   "resumen": "A housewife experiences a personal rebirth after a new neighbor arrives. Aldian presents a play that empowers women and fights against gender violence."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "cf041e0223": {
+  "id": "cb33ddf84e",
+  "es": {
+   "titulo": "'El día más feliz de nuestra vida' (VALQUIRIA TEATRO)",
+   "resumen": "Las cuatrillizas reviven los nervios de su Primera Comunión y su boda, explorando los estereotipos de la España de los sesenta y la movida. Valquiria Teatro presenta una comedia sobre el paso del tiempo y la identidad."
+  },
+  "en": {
+   "titulo": "'El día más feliz de nuestra vida' (VALQUIRIA TEATRO)",
+   "resumen": "Quadruplets relive the nerves of their First Communion and wedding, exploring the stereotypes of 1960s Spain and the 'movida' era. Valquiria Teatro presents a comedy about the passage of time and identity."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "745432b8ab": {
+  "id": "ee93090e63",
+  "es": {
+   "titulo": "'El legado' (RITA CLARA)",
+   "resumen": "Un espectáculo de flamenco que explora la herencia cultural y la transmisión del arte de generación en generación. Rita Clara celebra el amor, la muerte y la esencia del flamenco."
+  },
+  "en": {
+   "titulo": "'El legado' (RITA CLARA)",
+   "resumen": "A flamenco performance exploring cultural heritage and the transmission of art through generations. Rita Clara celebrates love, death, and the essence of flamenco."
+  },
+  "temas": [
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "952de18488": {
+  "id": "bf8a397ae8",
+  "es": {
+   "titulo": "'El ratoncito Pérez no nace, se hace' (TITIRIGUIRI)",
+   "resumen": "La historia del origen del Ratoncito Pérez, mostrando cómo las decisiones y aventuras lo convierten en el héroe de los dientes. Titirigiri presenta un espectáculo infantil sobre el crecimiento y la ayuda a los demás."
+  },
+  "en": {
+   "titulo": "'El ratoncito Pérez no nace, se hace' (TITIRIGUIRI)",
+   "resumen": "The origin story of the Tooth Fairy mouse, showing how decisions and adventures make him the tooth hero. Titirigiri presents a children's show about growing up and helping others."
+  },
+  "temas": [
+   "ninos",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "a25bbfb4b5": {
+  "id": "54dc3bf75d",
+  "es": {
+   "titulo": "'Emotions' (FRESAS CON NATA)",
+   "resumen": "Un espectáculo de danza contemporánea sin texto que explora las emociones a través de diversos estilos musicales y movimientos urbanos. Fresas con Nata invita a sentir y conectar con la experiencia humana."
+  },
+  "en": {
+   "titulo": "'Emotions' (FRESAS CON NATA)",
+   "resumen": "A wordless contemporary dance performance exploring emotions through various musical styles and urban movements. Fresas con Nata invites the audience to feel and connect with the human experience."
+  },
+  "temas": [
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "df62c7d11e": {
+  "id": "7990021715",
+  "es": {
+   "titulo": "'Estamos en obras' (EDULOGIC PRODUCCIONES)",
+   "resumen": "Una comedia que rinde homenaje a grandes obras de teatro universal a través de las peripecias de una pareja en terapia. Edulogic Producciones presenta un divertido y referencial montaje."
+  },
+  "en": {
+   "titulo": "'Estamos en obras' (EDULOGIC PRODUCCIONES)",
+   "resumen": "A comedy that pays homage to great universal plays through the adventures of a couple in therapy. Edulogic Producciones presents a funny and referential production."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "6d53f9496a": {
+  "id": "8c43150e98",
+  "es": {
+   "titulo": "'Fronteras' (FRAN ÁVILA)",
+   "resumen": "La historia de un reportero que alcanza la fama fotografiando a Osama Bin Laden y cómo el éxito lo corrompe. Fran Ávila presenta un drama sobre la fama, el idealismo y la cultura occidental."
+  },
+  "en": {
+   "titulo": "'Fronteras' (FRAN ÁVILA)",
+   "resumen": "The story of a reporter who achieves fame photographing Osama Bin Laden and how success corrupts him. Fran Ávila presents a drama about fame, idealism, and Western culture."
+  },
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": true
+ },
+ "aa368e06dd": {
+  "id": "f8617fdac8",
+  "es": {
+   "titulo": "'Gilipollas sin fronteras - 2' (MORFEO TEATRO)",
+   "resumen": "La secuela de 'Gilipollas sin Fronteras' presenta nuevos sketches de humor al estilo de Gila y Tip y Coll. Morfeo Teatro ofrece terapia a través de la risa y la aceptación de la 'gilipollez'."
+  },
+  "en": {
+   "titulo": "'Gilipollas sin fronteras - 2' (MORFEO TEATRO)",
+   "resumen": "The sequel to 'Gilipollas sin Fronteras' presents new comedy sketches in the style of Gila and Tip y Coll. Morfeo Teatro offers therapy through laughter and the acceptance of 'foolishness'."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "1b7e49db04": {
+  "id": "88fe0fcb43",
+  "es": {
+   "titulo": "'Homenaje ochentero' (DEMINGO)",
+   "resumen": "Pedro de Mingo ofrece versiones acústicas de éxitos pop y rock de los 80, 90 y 2000. Un concierto para amenizar fiestas y eventos con un ambiente divertido y participativo."
+  },
+  "en": {
+   "titulo": "'Homenaje ochentero' (DEMINGO)",
+   "resumen": "Pedro de Mingo performs acoustic versions of pop and rock hits from the 80s, 90s, and 2000s. A concert to liven up parties and events with a fun and participatory atmosphere."
+  },
+  "temas": [
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "1fc04f415c": {
+  "id": "bc5275d90e",
+  "es": {
+   "titulo": "'La bruja Kalambres' (INNOVARTE CREACIONES ARTISTICAS)",
+   "resumen": "Una bruja eléctrica descubre su don musical y asiste a la Universidad de Brujiston. Innovarte Creaciones Artísticas presenta un teatro musical cómico para niños sobre poderes, errores y autoaceptación."
+  },
+  "en": {
+   "titulo": "'La bruja Kalambres' (INNOVARTE CREACIONES ARTISTICAS)",
+   "resumen": "An electric witch discovers her musical talent and attends Brujiston University. Innovarte Creaciones Artísticas presents a comedic musical play for children about powers, mistakes, and self-acceptance."
+  },
+  "temas": [
+   "ninos",
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "cb70b63ee7": {
+  "id": "6b61813c83",
+  "es": {
+   "titulo": "'La Faraona' (ESTÍBALIZ NUÑEZ PRODUCCIONES)",
+   "resumen": "Un repaso al flamenco a través de la historia de dos mujeres que luchan por triunfar en el mundo del espectáculo. Estíbaliz Núñez Producciones presenta una comedia flamenca de empoderamiento."
+  },
+  "en": {
+   "titulo": "'La Faraona' (ESTÍBALIZ NUÑEZ PRODUCCIONES)",
+   "resumen": "A review of flamenco through the story of two women fighting to succeed in the entertainment world. Estíbaliz Núñez Producciones presents a comedic flamenco play about empowerment."
+  },
+  "temas": [
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "1e8f63942c": {
+  "id": "7333f12850",
+  "es": {
+   "titulo": "'La rosa 14' (VULKAN IMAGINARY)",
+   "resumen": "La obra narra la historia de Carmen, 'la peque', una niña de 15 años que recuerda a sus amigas fusiladas. Vulkan Imaginary presenta un relato vital sobre la memoria, el dolor y la justicia."
+  },
+  "en": {
+   "titulo": "'La rosa 14' (VULKAN IMAGINARY)",
+   "resumen": "The play tells the story of Carmen, 'la peque', a 15-year-old girl remembering her executed friends. Vulkan Imaginary presents a vital narrative about memory, pain, and justice."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "f8cbc78174": {
+  "id": "615ad33bcb",
+  "es": {
+   "titulo": "'La teoría del casi' (DINAMIA TEATRO)",
+   "resumen": "Una mujer recién enviudada se enfrenta a citas desastrosas mientras redescubre el humor y la resiliencia. Dinamia Teatro presenta una comedia sobre segundas oportunidades y reflexiones vitales."
+  },
+  "en": {
+   "titulo": "'La teoría del casi' (DINAMIA TEATRO)",
+   "resumen": "A recently widowed woman faces disastrous dates while rediscovering humor and resilience. Dinamia Teatro presents a comedy about second chances and life reflections."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "e8e6632347": {
+  "id": "1b9f5a0c0f",
+  "es": {
+   "titulo": "'Lázaro' (ZOLOPOTROKOTEATRO)",
+   "resumen": "Dos juglares narran la vida del pícaro Lázaro de Tormes, desde su infancia pobre hasta la adultez. Zolopotrokoteatro presenta una aventura cómica ambientada en el siglo XVI."
+  },
+  "en": {
+   "titulo": "'Lázaro' (ZOLOPOTROKOTEATRO)",
+   "resumen": "Two minstrels narrate the life of the rogue Lázaro de Tormes, from his poor childhood to adulthood. Zolopotrokoteatro presents a comedic adventure set in the 16th century."
+  },
+  "temas": [
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": true
+ },
+ "10df8039e6": {
+  "id": "cf941623c3",
+  "es": {
+   "titulo": "'Leo' (TEATRO DE PONIENTE)",
+   "resumen": "Una aventura épica sobre el viaje de un hombre a través del tiempo y la memoria, llena de emoción y descubrimiento. Teatro de Poniente ofrece una narración teatral cautivadora."
+  },
+  "en": {
+   "titulo": "'Leo' (TEATRO DE PONIENTE)",
+   "resumen": "An epic adventure about a man's journey through time and memory, filled with emotion and discovery. Teatro de Poniente offers a captivating theatrical narrative."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "639dfa332a": {
+  "id": "be81db28c5",
+  "es": {
+   "titulo": "'Lope exprés' (TNT)",
+   "resumen": "Tres actrices demuestran el ingenio de Lope de Vega a través de música en directo y diversos estilos vocales. TNT presenta un musical que celebra el Siglo de Oro y el oficio teatral."
+  },
+  "en": {
+   "titulo": "'Lope exprés' (TNT)",
+   "resumen": "Three actresses showcase Lope de Vega's wit through live music and various vocal styles. TNT presents a musical celebrating the Golden Age and the theatrical craft."
+  },
+  "temas": [
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "8da1802b3b": {
+  "id": "1f59fcca77",
+  "es": {
+   "titulo": "'Los cuentos de David Acera' en la Biblioteca Pública Municipal",
+   "resumen": "David Acera ofrecerá una sesión de narración oral para público familiar, explorando temáticas inusuales y dando la vuelta a cuentos tradicionales. Actividad enmarcada en la campaña de fomento a la lectura."
+  },
+  "en": {
+   "titulo": "'Los cuentos de David Acera' at the Municipal Public Library",
+   "resumen": "David Acera will offer a storytelling session for families, exploring unusual themes and reinterpreting traditional tales. An activity part of the reading promotion campaign."
+  },
+  "temas": [
+   "libros",
+   "ninos"
+  ],
+  "a_cubierto": true
+ },
+ "0bdccaf9b7": {
+  "id": "c517d718b3",
+  "es": {
+   "titulo": "'Los habitantes de la casa deshabitada' en Nava del Rey",
+   "resumen": "Una avería en una noche de tormenta lleva a dos hombres a refugiarse en una casa embrujada. Allí se encontrarán con criaturas fantasmagóricas, estafadores y un pasado que complica la trama en esta comedia de intriga."
+  },
+  "en": {
+   "titulo": "'The Inhabitants of the Uninhabited House' in Nava del Rey",
+   "resumen": "A breakdown on a stormy night forces two men to seek shelter in a haunted house. There, they encounter ghostly creatures, con artists, and a past that complicates the plot in this comedy of intrigue."
+  },
+  "temas": [
+   "cultura",
+   "teatro"
+  ],
+  "a_cubierto": true
+ },
+ "e3f9b417eb": {
+  "id": "347bbdf35c",
+  "es": {
+   "titulo": "Monólogos de humor 'Los monólogos de Fran el Chavo' en Laguna de Negrillos",
+   "resumen": "Fran el Chavo presenta un show de monólogos fresco y natural para disfrutar en cualquier ocasión. Una propuesta cómica para salir más feliz y reflexionar sobre la vida."
+  },
+  "en": {
+   "titulo": "Comedy Monologues 'Los monólogos de Fran el Chavo' in Laguna de Negrillos",
+   "resumen": "Fran el Chavo presents a fresh and natural stand-up comedy show for any occasion. A humorous performance to leave you happier and reflecting on life."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "464d5542b2": {
+  "id": "05cb4e398d",
+  "es": {
+   "titulo": "'Optometría Violeta' en Barruelo de Santullán",
+   "resumen": "Una obra de teatro que, desde el humor, reflexiona sobre el sexismo cotidiano y las tensiones en las relaciones de pareja tras la conciencia feminista. Aborda temas de igualdad y violencia de género."
+  },
+  "en": {
+   "titulo": "'Optometría Violeta' in Barruelo de Santullán",
+   "resumen": "A play that humorously reflects on everyday sexism and relationship tensions after feminist awareness. It addresses issues of equality and gender-based violence."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "ce0b92e09e": {
+  "id": "f62b79d379",
+  "es": {
+   "titulo": "'Panorama desde el puente' de Arthur Miller en Ávila",
+   "resumen": "Tragedia ambientada en el Brooklyn de los 50 sobre un estibador cuya obsesión por su sobrina desata conflictos sociales y morales. Explora el deseo, la lealtad y la justicia."
+  },
+  "en": {
+   "titulo": "'A View from the Bridge' by Arthur Miller in Ávila",
+   "resumen": "A tragedy set in 1950s Brooklyn about a longshoreman whose obsession with his niece triggers social and moral conflicts. It explores desire, loyalty, and justice."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "28eed1222b": {
+  "id": "31b2d2deaa",
+  "es": {
+   "titulo": "'Polvo serán, más polvo enamorado' en Aranda de Duero",
+   "resumen": "Comedia burlesca que trae a escena la obra más carnal y amorosa de Quevedo. Un homenaje al poeta a través de su teatro breve, letrillas y sonetos, con la Muerte como personaje recurrente."
+  },
+  "en": {
+   "titulo": "'Polvo serán, más polvo enamorado' in Aranda de Duero",
+   "resumen": "A burlesque comedy bringing Quevedo's most carnal and amorous works to the stage. A tribute to the poet through his short plays, songs, and sonnets, featuring Death as a recurring character."
+  },
+  "temas": [
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": true
+ },
+ "d1da124989": {
+  "id": "4dc0d5bcc2",
+  "es": {
+   "titulo": "'Redoxidables - Circonciencia' en Cubillos del Sil",
+   "resumen": "Dos científicos transformados en personajes de circo explican la reacción de reducción-oxidación mediante experimentos y rutinas circenses. Un espectáculo divulgativo y original para todos los públicos."
+  },
+  "en": {
+   "titulo": "'Redoxidables - Circonciencia' in Cubillos del Sil",
+   "resumen": "Two scientists, transformed into circus characters, explain redox reactions through experiments and circus routines. An original and educational show for all audiences."
+  },
+  "temas": [
+   "cultura",
+   "deporte"
+  ],
+  "a_cubierto": true
+ },
+ "bb9a740b2d": {
+  "id": "a492d60800",
+  "es": {
+   "titulo": "'Siempre es fin de año' en Melgar de Fernamental",
+   "resumen": "Una pareja intenta celebrar el fin de año cualquier día para concienciar sobre micromachismos y promover la felicidad. Se enfrentan a desigualdades de género en directo."
+  },
+  "en": {
+   "titulo": "'Siempre es fin de año' in Melgar de Fernamental",
+   "resumen": "A couple tries to celebrate New Year's Eve any day to raise awareness about microaggressions and promote happiness, facing gender inequalities live."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "ba9521423c": {
+  "id": "10046e4113",
+  "es": {
+   "titulo": "'Sin embargo se mueve' de Proyecto Piloto en León",
+   "resumen": "Una propuesta escénica de danza contemporánea que explora el silencio, el tiempo y la forma de habitar el espacio. Reflexiona sobre el deseo inalcanzable y el movimiento perpetuo."
+  },
+  "en": {
+   "titulo": "'Sin embargo se mueve' by Proyecto Piloto in León",
+   "resumen": "A contemporary dance performance exploring silence, time, and how we inhabit space. It reflects on unattainable desire and perpetual motion."
+  },
+  "temas": [
+   "cultura",
+   "danza"
+  ],
+  "a_cubierto": true
+ },
+ "ee9896a09b": {
+  "id": "63ce9db1ef",
+  "es": {
+   "titulo": "Exposiciones temporales en el Museo Etnográfico de Castilla y León (Zamora)",
+   "resumen": "Dos exposiciones: 'Regressar', sobre la memoria popular de la Beira Alta, y 'Esencial, alma y oficio', que muestra la artesanía contemporánea de Castilla y León."
+  },
+  "en": {
+   "titulo": "Temporary exhibitions at the Ethnographic Museum of Castilla y León (Zamora)",
+   "resumen": "Two exhibitions: 'Regressar', about the popular memory of Beira Alta, and 'Esencial, alma y oficio', showcasing contemporary crafts from Castilla y León."
+  },
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true
+ },
+ "6ad73652dd": {
+  "id": "604177b550",
+  "es": {
+   "titulo": "Exposiciones temporales en el Museo de la Evolución Humana (Burgos)",
+   "resumen": "Dos exposiciones: 'Sueños rotos', sobre la niñez en la Sima de los Huesos, y 'Homo antecessor', sobre el descubrimiento de esta especie. Se exhiben cráneos preneandertales."
+  },
+  "en": {
+   "titulo": "Temporary exhibitions at the Museum of Human Evolution (Burgos)",
+   "resumen": "Two exhibitions: 'Sueños rotos', about childhood in the Sima de los Huesos, and 'Homo antecessor', about the discovery of this species. Pre-Neanderthal skulls are displayed."
+  },
+  "temas": [
+   "cultura",
+   "museos",
+   "ninos"
+  ],
+  "a_cubierto": true
+ },
+ "9e455f09ea": {
+  "id": "3ff14fc1ee",
+  "es": {
+   "titulo": "Exposición 'Construir un pueblo: 75 años de San Bernardo' en Valladolid",
+   "resumen": "Exposición en el Archivo Histórico Provincial de Valladolid sobre la historia del pueblo de San Bernardo, creado en los años 40 por el Instituto Nacional de Colonización. Muestra documentos, fotos y planos."
+  },
+  "en": {
+   "titulo": "Exhibition 'Construir un pueblo: 75 años de San Bernardo' in Valladolid",
+   "resumen": "An exhibition at the Provincial Historical Archive of Valladolid about the history of San Bernardo, a town founded in the 1940s by the National Colonization Institute. It features documents, photos, and plans."
+  },
+  "temas": [
+   "cultura",
+   "historia"
+  ],
+  "a_cubierto": true
+ },
+ "ae186456a6": {
+  "id": "ab1f6ca78a",
+  "es": {
+   "titulo": "Exposición sobre George Santayana en el Archivo Histórico Provincial de Ávila",
+   "resumen": "Primera exposición monográfica en España sobre el filósofo George Santayana. Muestra sus obras, cartas y estudios, y busca crear la primera Biblioteca Santayana."
+  },
+  "en": {
+   "titulo": "Exhibition on George Santayana at the Provincial Historical Archive of Ávila",
+   "resumen": "The first monographic exhibition in Spain dedicated to the philosopher George Santayana. It displays his works, letters, and studies, aiming to establish the first Santayana Library."
+  },
+  "temas": [
+   "cultura",
+   "libros",
+   "historia"
+  ],
+  "a_cubierto": true
+ },
+ "a7c8dc879e": {
+  "id": "33f7b1e1d7",
+  "es": {
+   "titulo": "Concierto de LA JUNGLE + ZOMBIE ZOMBIE en Biarritz",
+   "resumen": "La Jungle y Zombie Zombie actuarán en la sala Atabal de Biarritz el 10 de noviembre. Un evento musical para los amantes de la música experimental y electrónica."
+  },
+  "en": {
+   "titulo": "Concert by LA JUNGLE + ZOMBIE ZOMBIE in Biarritz",
+   "resumen": "La Jungle and Zombie Zombie will perform at the Atabal venue in Biarritz on November 10th. A musical event for fans of experimental and electronic music."
+  },
+  "temas": [
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "e8e01c2eb1": {
+  "id": "1b5eeedc1e",
+  "es": {
+   "titulo": "Euskadiko Orkestra: \"Aita Donostia: La vie profonde de Saint François d’Assise\"",
+   "resumen": "La Euskadiko Orkestra presenta la música incidental de Aita Donostia para una obra teatral sobre San Francisco de Asís. Una obra ambiciosa que fusiona espiritualidad, música popular vasca y vanguardia."
+  },
+  "en": {
+   "titulo": "Euskadiko Orkestra: \"Aita Donostia: La vie profonde de Saint François d’Assise\"",
+   "resumen": "The Euskadiko Orkestra presents Aita Donostia's incidental music for a play about Saint Francis of Assisi. An ambitious work blending spirituality, Basque folk music, and avant-garde elements."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "83402bb060": {
+  "id": "a8db1e0d51",
+  "es": {
+   "titulo": "Jaime Ferraro: \"Fraude\" en el Teatro Campos Elíseos",
+   "resumen": "El comediante peruano Jaime Ferraro presenta su show de stand-up comedy 'Fraude'. Una mirada humorística a la política peruana y sus estrategias para ganar las elecciones."
+  },
+  "en": {
+   "titulo": "Jaime Ferraro: \"Fraude\" at Teatro Campos Elíseos",
+   "resumen": "Peruvian comedian Jaime Ferraro presents his stand-up comedy show 'Fraude'. A humorous look at Peruvian politics and his strategies to win the elections."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "d1a3fe8cef": {
+  "id": "85d03d8bb0",
+  "es": {
+   "titulo": "Concierto de The Del Fuegos en el Kafe Antzokia de Bilbao",
+   "resumen": "The Del Fuegos actuarán en el Kafe Antzokia de Bilbao el 10 de noviembre. Un concierto de rock para disfrutar de la música en directo."
+  },
+  "en": {
+   "titulo": "Concert by The Del Fuegos at Kafe Antzokia in Bilbao",
+   "resumen": "The Del Fuegos will perform at the Kafe Antzokia in Bilbao on November 10th. A rock concert to enjoy live music."
+  },
+  "temas": [
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "533bbcb361": {
+  "id": "e496d52568",
+  "es": {
+   "titulo": "\"Teoría King Kong\" en el Teatro Gayarre",
+   "resumen": "Adaptación teatral del influyente ensayo de Virginie Despentes sobre feminismo y teoría de género. Aborda temas como la violación, la prostitución y la represión del deseo."
+  },
+  "en": {
+   "titulo": "\"Teoría King Kong\" at Teatro Gayarre",
+   "resumen": "A theatrical adaptation of Virginie Despentes' influential essay on feminism and gender theory. It addresses topics such as rape, prostitution, and the repression of desire."
+  },
+  "temas": [
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": true
+ },
+ "3cf4242fa7": {
+  "id": "b7cc29fd20",
+  "es": {
+   "titulo": "Azaroan Lore 2026: \"Nor naizen baneki\" en Larressore",
+   "resumen": "Una obra teatral que explora la identidad personal y la introspección a través del teatro. Plantea preguntas sobre quiénes somos y cómo nos definimos en un entorno cambiante."
+  },
+  "en": {
+   "titulo": "Azaroan Lore 2026: \"Nor naizen baneki\" in Larressore",
+   "resumen": "A play that explores personal identity and introspection through theater. It poses questions about who we are and how we define ourselves in a changing environment."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "6a00a3ba59": {
+  "id": "54e662ba31",
+  "es": {
+   "titulo": "Cuentacuentos: \"Begira!\" (1ª sesión) en Vitoria-Gasteiz",
+   "resumen": "Sesión de cuentacuentos para público infantil con historias sobre colores y frutas. Una actividad lúdica y participativa para los más pequeños."
+  },
+  "en": {
+   "titulo": "Storytelling: \"Begira!\" (1st session) in Vitoria-Gasteiz",
+   "resumen": "A storytelling session for children with tales about colors and fruits. A fun and participatory activity for the little ones."
+  },
+  "temas": [
+   "ninos",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "0d660584e1": {
+  "id": "a672919a1b",
+  "es": {
+   "titulo": "Cuentacuentos: \"Adarretatik zintzilik dauden istorioak\" en Vitoria-Gasteiz",
+   "resumen": "Cuentacuentos en euskera para público infantil (+4 años) en la Biblioteca del Centro Cívico Zabalgana. Historias que viajan con el aire."
+  },
+  "en": {
+   "titulo": "Storytelling: \"Adarretatik zintzilik dauden istorioak\" in Vitoria-Gasteiz",
+   "resumen": "Storytelling in Basque for children (+4 years) at the Zabalgana Civic Center Library. Stories that travel with the wind."
+  },
+  "temas": [
+   "ninos",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "664d49cd25": {
+  "id": "9e645be0e3",
+  "es": {
+   "titulo": "Cuentacuentos: \"Begira!\" (2ª sesión) en Vitoria-Gasteiz",
+   "resumen": "Segunda sesión de cuentacuentos para público infantil con historias sobre colores y frutas. Una actividad lúdica y participativa para los más pequeños."
+  },
+  "en": {
+   "titulo": "Storytelling: \"Begira!\" (2nd session) in Vitoria-Gasteiz",
+   "resumen": "Second storytelling session for children with tales about colors and fruits. A fun and participatory activity for the little ones."
+  },
+  "temas": [
+   "ninos",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "754c43fe06": {
+  "id": "53bbc3a08f",
+  "es": {
+   "titulo": "Visita guiada +55: \"Arte vasco en los siglos XX y XXI\" en Donostia / San Sebastián",
+   "resumen": "Visita guiada en el Museo San Telmo para mayores de 55 años, centrada en el arte vasco de los siglos XX y XXI. Un recorrido temático por la colección permanente."
+  },
+  "en": {
+   "titulo": "Guided tour +55: \"Basque Art in the 20th and 21st Centuries\" in Donostia / San Sebastián",
+   "resumen": "A guided tour at the San Telmo Museum for over 55s, focusing on Basque art from the 20th and 21st centuries. A thematic journey through the permanent collection."
+  },
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true
+ },
+ "ad19fa902c": {
+  "id": "eb2b8bbd23",
+  "es": {
+   "titulo": "Martes de Patrimonio 2026: \"Anatomía de un rescate: el sagrario renacentista de Moscador\" en Vitoria-Gasteiz",
+   "resumen": "Conferencia sobre la conservación y restauración del patrimonio cultural de Álava. Se abordará el rescate del sagrario renacentista de Moscador."
+  },
+  "en": {
+   "titulo": "Heritage Tuesdays 2026: \"Anatomy of a Rescue: The Renaissance Tabernacle of Moscador\" in Vitoria-Gasteiz",
+   "resumen": "A lecture on the conservation and restoration of Álava's cultural heritage, focusing on the rescue of the Renaissance tabernacle of Moscador."
+  },
+  "temas": [
+   "cultura",
+   "historia"
+  ],
+  "a_cubierto": true
+ },
+ "8990d7e2d0": {
+  "id": "c82a96846b",
+  "es": {
+   "titulo": "Club de lectura infantil en euskera en Errenteria",
+   "resumen": "Club de lectura para niños de 3-5 años en euskera, con canciones y juegos. Fomenta la lectura en un ambiente relajado y participativo."
+  },
+  "en": {
+   "titulo": "Children's reading club in Basque in Errenteria",
+   "resumen": "A reading club for children aged 3-5 in Basque, featuring songs and games. It promotes reading in a relaxed and participatory environment."
+  },
+  "temas": [
+   "ninos",
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "13a8f4a852": {
+  "id": "749dc434b0",
+  "es": {
+   "titulo": "Ópera en el cine: \"Carmen\"",
+   "resumen": "Disfruta de una nueva visión de la ópera \"Carmen\" de Bizet, proyectada en cines. Esta producción de The Royal Opera traslada la acción a una España contemporánea, centrándose en la violencia de género y el ciclo de abuso."
+  },
+  "en": {
+   "titulo": "Opera in Cinema: \"Carmen\"",
+   "resumen": "Enjoy a new vision of Bizet's opera \"Carmen\" screened in cinemas. This Royal Opera production sets the action in contemporary Spain, focusing on gender violence and the cycle of abuse."
+  },
+  "temas": [
+   "cultura",
+   "pantalla",
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "f37f00c1dc": {
+  "id": "3f8cb8cdc2",
+  "es": {
+   "titulo": "Cuentacuentos en la biblioteca infantil de Torrezabal",
+   "resumen": "Los martes de octubre y noviembre, la biblioteca infantil de Torrezabal en Galdakao acoge sesiones de cuentacuentos para fomentar la lectura en los niños. La entrada es gratuita."
+  },
+  "en": {
+   "titulo": "Storytelling at Torrezabal Children's Library",
+   "resumen": "On Tuesdays in October and November, the Torrezabal Children's Library in Galdakao hosts storytelling sessions to encourage reading among children. Admission is free."
+  },
+  "temas": [
+   "ninos",
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "4b2fafa9c0": {
+  "id": "0becd05b78",
+  "es": {
+   "titulo": "Jornadas de Etnografía: Proyección de \"Basker\"",
+   "resumen": "Proyección del documental etnográfico sueco \"Basker\" (1963) sobre la cultura vasca, seguida de un coloquio con el investigador Argibel Euba en el Museo San Telmo."
+  },
+  "en": {
+   "titulo": "Ethnography Days: \"Basker\" Screening",
+   "resumen": "Screening of the Swedish ethnographic documentary \"Basker\" (1963) about Basque culture, followed by a discussion with researcher Argibel Euba at the San Telmo Museum."
+  },
+  "temas": [
+   "cultura",
+   "pantalla",
+   "libros"
+  ],
+  "a_cubierto": true
+ },
+ "26be7b16ff": {
+  "id": "df78796e7e",
+  "es": {
+   "titulo": "Formación AntiRumores en Vitoria-Gasteiz",
+   "resumen": "Ciclo formativo gratuito en el Centro Cívico Zabalgana para reflexionar sobre racismo, islamofobia y feminismo, promoviendo una sociedad más consciente y activa. Impartido por Anita Hichaicoto Topapori."
+  },
+  "en": {
+   "titulo": "Anti-Rumor Training in Vitoria-Gasteiz",
+   "resumen": "Free training cycle at the Zabalgana Civic Center to reflect on racism, Islamophobia, and feminism, promoting a more conscious and active society. Led by Anita Hichaicoto Topapori."
+  },
+  "temas": [
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "4be729a139": {
+  "id": "804b19756b",
+  "es": {
+   "titulo": "Ciclo de cine \"¡En peligro!\" en Mamariga Kulturgunea",
+   "resumen": "La Biblioteca de Mamariga presenta el ciclo de cine \"¡En peligro!\" durante el último trimestre de 2026, con proyecciones en la Casa de Cultura de Mamariga."
+  },
+  "en": {
+   "titulo": "Film Series \"In Danger!\" at Mamariga Kulturgunea",
+   "resumen": "The Mamariga Library presents the film series \"In Danger!\" during the last quarter of 2026, with screenings at the Mamariga House of Culture."
+  },
+  "temas": [
+   "pantalla",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "b322836dae": {
+  "id": "bf0af2b68a",
+  "es": {
+   "titulo": "Martes Musicales: Antonio Oyarzabal y Cuarteto Bretón",
+   "resumen": "El pianista Antonio Oyarzabal y el Cuarteto Bretón ofrecerán un concierto en Vitoria-Gasteiz, explorando el diálogo entre tradición y redescubrimiento en quintetos de piano y cuerdas."
+  },
+  "en": {
+   "titulo": "Musical Tuesdays: Antonio Oyarzabal and Bretón Quartet",
+   "resumen": "Pianist Antonio Oyarzabal and the Bretón Quartet will perform a concert in Vitoria-Gasteiz, exploring the dialogue between tradition and rediscovery in piano and string quintets."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "9d27e799a0": {
+  "id": "a86d1025cb",
+  "es": {
+   "titulo": "Presentación del libro \"AMOR(ES)\" de Isa Duque en Bilbao",
+   "resumen": "La psicóloga Isa Duque (@lapsicowoman) presenta su libro \"AMOR(ES)\" en Bilbao, una reflexión feminista sobre cómo construir vínculos saludables y cuestionar los mitos del amor romántico."
+  },
+  "en": {
+   "titulo": "Book Presentation: \"AMOR(ES)\" by Isa Duque in Bilbao",
+   "resumen": "Psychologist Isa Duque (@lapsicowoman) presents her book \"AMOR(ES)\" in Bilbao, a feminist reflection on building healthy relationships and questioning romantic love myths."
+  },
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "a5e9c6772a": {
+  "id": "f8e270c83b",
+  "es": {
+   "titulo": "Premios Aixe Getxo! 2026",
+   "resumen": "Getxo celebra la 16ª edición de los premios Aixe Getxo!, reconociendo la actividad cultural del municipio e impulsando la participación ciudadana. Recoge tu invitación en RKE o Muxikebarri."
+  },
+  "en": {
+   "titulo": "Aixe Getxo! Awards 2026",
+   "resumen": "Getxo celebrates the 16th edition of the Aixe Getxo! awards, recognizing the municipality's cultural activity and promoting citizen participation. Collect your invitation at RKE or Muxikebarri."
+  },
+  "temas": [
+   "cultura",
+   "fiestas"
+  ],
+  "a_cubierto": true
+ },
+ "0e532d27a0": {
+  "id": "277c6614a2",
+  "es": {
+   "titulo": "Zinema Gaur 2026: Proyección de \"Aro Berria\"",
+   "resumen": "El ciclo Zinema Gaur 2026 presenta \"Aro Berria\", un film sobre trabajadores que buscan la transformación social en los años 70. Proyección en el Centro Cultural Montehermoso."
+  },
+  "en": {
+   "titulo": "Zinema Gaur 2026: \"Aro Berria\" Screening",
+   "resumen": "The Zinema Gaur 2026 cycle presents \"Aro Berria\", a film about workers seeking social transformation in the 70s. Screening at the Montehermoso Cultural Center."
+  },
+  "temas": [
+   "pantalla",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "5b4d26ea33": {
+  "id": "0f72fbcc90",
+  "es": {
+   "titulo": "Curso de Larrain Dantza en Mauléon-Licharre",
+   "resumen": "Se imparte un curso de Larrain Dantza (danza tradicional vasca) para mayores de 15 años en Mauléon-Licharre."
+  },
+  "en": {
+   "titulo": "Larrain Dantza Course in Mauléon-Licharre",
+   "resumen": "A course in Larrain Dantza (traditional Basque dance) is offered for individuals over 15 years old in Mauléon-Licharre."
+  },
+  "temas": [
+   "cultura",
+   "fiestas"
+  ],
+  "a_cubierto": true
+ },
+ "4eafcb6323": {
+  "id": "62e511e4c9",
+  "es": {
+   "titulo": "Concierto de Txorinho en Altxerri Jazz Club",
+   "resumen": "Disfruta de un concierto de la banda Txorinho, con Dom Oliveira, Hugo Silveira y Daniel Bordonaba, en el Altxerri Jazz Club de Donostia."
+  },
+  "en": {
+   "titulo": "Txorinho Concert at Altxerri Jazz Club",
+   "resumen": "Enjoy a concert by the band Txorinho, featuring Dom Oliveira, Hugo Silveira, and Daniel Bordonaba, at the Altxerri Jazz Club in Donostia."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "a89f7fabc1": {
+  "id": "a85163202b",
+  "es": {
+   "titulo": "Conferencia feminista sobre música vasca en Oñati",
+   "resumen": "Jone Expósito ofrece la conferencia \"Elkarri begira ikusten gara: ertzetatik euskal musikagintzaren hausnarketa feminista bat\" en el Gaztetxe de Oñati."
+  },
+  "en": {
+   "titulo": "Feminist Conference on Basque Music in Oñati",
+   "resumen": "Jone Expósito delivers the conference \"Elkarri begira ikusten gara: ertzetatik euskal musikagintzaren hausnarketa feminista bat\" at the Oñati Gaztetxe."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "c60ceb9e1b": {
+  "id": "1e54c7d632",
+  "es": {
+   "titulo": "Encuentro con Ismael Iglesias en el Museo de Bellas Artes",
+   "resumen": "El Museo de Bellas Artes de Bilbao acoge un encuentro con el artista Ismael Iglesias para conocer su proceso creativo y reflexiones sobre \"Wanderlust, Dark Berlin\"."
+  },
+  "en": {
+   "titulo": "Encounter with Ismael Iglesias at the Fine Arts Museum",
+   "resumen": "The Bilbao Fine Arts Museum hosts an encounter with artist Ismael Iglesias to learn about his creative process and reflections on \"Wanderlust, Dark Berlin.\""
+  },
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true
+ },
+ "7c8e5c24cd": {
+  "id": "a50467d713",
+  "es": {
+   "titulo": "Cinefórum Perseo: \"La hija pequeña\"",
+   "resumen": "Proyección de la película \"La hija pequeña\" en el ciclo \"¿Diferente? No tan diferente\" de Kultur Leioa. Entrada: 2,5 euros."
+  },
+  "en": {
+   "titulo": "Perseo Cineforum: \"La hija pequeña\"",
+   "resumen": "Screening of the film \"La hija pequeña\" as part of the \"Different? Not so different\" cycle at Kultur Leioa. Admission: 2.5 euros."
+  },
+  "temas": [
+   "pantalla",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "31a38f0470": {
+  "id": "cd8b8f994f",
+  "es": {
+   "titulo": "Presentación de \"Buffón\" de Francisco Panera en Basauri",
+   "resumen": "El escritor Francisco Panera presenta su sexta novela, \"Buffón\", en la Casa de Cultura Ibaigane de Basauri. Entrada libre hasta completar aforo."
+  },
+  "en": {
+   "titulo": "Presentation of \"Buffón\" by Francisco Panera in Basauri",
+   "resumen": "Writer Francisco Panera presents his sixth novel, \"Buffón\", at the Ibaigane House of Culture in Basauri. Free entry until capacity is reached."
+  },
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "b084382b4a": {
+  "id": "98c91ae391",
+  "es": {
+   "titulo": "Presentación de \"Etxean\" con performance drag",
+   "resumen": "Presentación del libro \"Etxean\" con una performance drag en Idiazabal, abordando temas de violencia intrafamiliar y la fuerza de la hermandad."
+  },
+  "en": {
+   "titulo": "Presentation of \"Etxean\" with Drag Performance",
+   "resumen": "Presentation of the book \"Etxean\" with a drag performance in Idiazabal, addressing themes of domestic violence and the strength of sisterhood."
+  },
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "26641ce93c": {
+  "id": "07b77751fc",
+  "es": {
+   "titulo": "Cuentacuentos de mitología vasca en Artziniega",
+   "resumen": "Sesión de cuentacuentos sobre \"Basoko eta euskal mitologia\" para niños de 4 a 9 años en la casa de cultura de Artziniega. Inscripción previa necesaria."
+  },
+  "en": {
+   "titulo": "Basque Mythology Storytelling in Artziniega",
+   "resumen": "Storytelling session on \"Basoko eta euskal mitologia\" for children aged 4-9 at the Artziniega House of Culture. Prior registration required."
+  },
+  "temas": [
+   "ninos",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "7700bd1a2f": {
+  "id": "c9144acc33",
+  "es": {
+   "titulo": "Presentación de ensayos sobre el exilio republicano en Irun",
+   "resumen": "Presentación del libro de ensayos de Carlos Blanco Aguinaga sobre el exilio republicano en el CBA de Irun, con la participación de Alda Blanco y otros académicos."
+  },
+  "en": {
+   "titulo": "Presentation of Essays on Republican Exile in Irun",
+   "resumen": "Presentation of Carlos Blanco Aguinaga's essay book on the Republican exile at the CBA in Irun, with the participation of Alda Blanco and other academics."
+  },
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "420366a8a4": {
+  "id": "9eab8dd634",
+  "es": {
+   "titulo": "Ópera en el cine: \"Carmen\" (Zumarraga)",
+   "resumen": "Disfruta de una nueva visión de la ópera \"Carmen\" de Bizet, proyectada en cines. Esta producción de The Royal Opera traslada la acción a una España contemporánea, centrándose en la violencia de género y el ciclo de abuso."
+  },
+  "en": {
+   "titulo": "Opera in Cinema: \"Carmen\" (Zumarraga)",
+   "resumen": "Enjoy a new vision of Bizet's opera \"Carmen\" screened in cinemas. This Royal Opera production sets the action in contemporary Spain, focusing on gender violence and the cycle of abuse."
+  },
+  "temas": [
+   "cultura",
+   "pantalla",
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "97299a8c70": {
+  "id": "27521834f2",
+  "es": {
+   "titulo": "Tarde de juegos de mesa en Ciboure",
+   "resumen": "JOKORIN llega a la mediateca de Ciboure para una tarde de juegos de mesa, retos y diversión para todas las edades a partir de 7 años."
+  },
+  "en": {
+   "titulo": "Board Games Afternoon in Ciboure",
+   "resumen": "JOKORIN comes to the Ciboure media library for an afternoon of board games, challenges, and fun for all ages from 7 years old."
+  },
+  "temas": [
+   "ninos",
+   "actividades",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "eb43106410": {
+  "id": "ae7276237d",
+  "es": {
+   "titulo": "Olatz Salvador y Alaia Martin: \"1:1 eskala\" en Pamplona",
+   "resumen": "Olatz Salvador y Alaia Martín presentan \"1:1 eskala\" en Pamplona, un espectáculo que explora la culpa femenina a través de la música y la palabra, buscando relativizarla y transformarla."
+  },
+  "en": {
+   "titulo": "Olatz Salvador and Alaia Martin: \"1:1 eskala\" in Pamplona",
+   "resumen": "Olatz Salvador and Alaia Martín present \"1:1 eskala\" in Pamplona, a show exploring female guilt through music and words, aiming to relativize and transform it."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "786e7c4c63": {
+  "id": "8bab061886",
+  "es": {
+   "titulo": "Tertulia literaria sobre \"Epizentroa\" en Hernani",
+   "resumen": "Tertulia literaria en euskera sobre la primera colección de cuentos de Nerea Loiola, \"Epizentroa\", en la Biteri Kultur Etxea de Hernani. Entrada libre."
+  },
+  "en": {
+   "titulo": "Literary Gathering on \"Epizentroa\" in Hernani",
+   "resumen": "Literary gathering in Basque about Nerea Loiola's first short story collection, \"Epizentroa\", at the Biteri Kultur Etxea in Hernani. Free entry."
+  },
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "4db67b8486": {
+  "id": "dc6086f503",
+  "es": {
+   "titulo": "Exposición colectiva de aerografía en Derio",
+   "resumen": "Exposición colectiva de aerografía en Kultur Birika, visitable hasta el 10 de noviembre. Incluye charla y demostración el 3 de noviembre."
+  },
+  "en": {
+   "titulo": "Collective Airbrush Exhibition in Derio",
+   "resumen": "Collective airbrush exhibition at Kultur Birika, open until November 10th. Includes a talk and demonstration on November 3rd."
+  },
+  "temas": [
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "925fabebca": {
+  "id": "60110966e7",
+  "es": {
+   "titulo": "Ozzinema: Estreno de \"LURKER\"",
+   "resumen": "Estreno en salas de \"LURKER\", un thriller psicológico sobre la fama y la obsesión, en el Centro Cultural Niessen de Errenteria. Película para adultos en V.O.S."
+  },
+  "en": {
+   "titulo": "Ozzinema: \"LURKER\" Premiere",
+   "resumen": "Theatrical premiere of \"LURKER\", a psychological thriller about fame and obsession, at the Niessen Cultural Center in Errenteria. Adult film in original version with subtitles."
+  },
+  "temas": [
+   "pantalla",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "847544244a": {
+  "id": "4001245f3e",
+  "es": {
+   "titulo": "Charla sobre \"Nafarroako erregeak\" en Anglet",
+   "resumen": "Beñat Zintzo-Garmendia imparte una charla sobre la historia de los reyes de Navarra y las relaciones con Francia y España en Anglet."
+  },
+  "en": {
+   "titulo": "Talk on \"Nafarroako erregeak\" in Anglet",
+   "resumen": "Beñat Zintzo-Garmendia gives a talk on the history of the Kings of Navarre and their relations with France and Spain in Anglet."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
  }
 }

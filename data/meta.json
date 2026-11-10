@@ -1,11 +1,11 @@
 {
-  "generated": "2026-11-10T12:41:02.865Z",
+  "generated": "2026-11-10T13:51:42.732Z",
   "today": "2026-11-10",
-  "events": 6591,
-  "review": 10,
+  "events": 6606,
+  "review": 11,
   "ai": {
-    "calls": 0,
-    "seconds": 60,
+    "calls": 18,
+    "seconds": 307,
     "tripped": false
   },
   "sources": [
@@ -48,7 +48,7 @@
     {
       "id": "prensa-20minutos-cultura",
       "status": "ok",
-      "count": 10,
+      "count": 11,
       "candidatos": true
     },
     {
@@ -60,7 +60,7 @@
     {
       "id": "prensa-lavanguardia-cultura",
       "status": "ok",
-      "count": 30,
+      "count": 31,
       "candidatos": true
     },
     {
@@ -78,7 +78,7 @@
     {
       "id": "prensa-nortecastilla-culturas",
       "status": "ok",
-      "count": 7,
+      "count": 8,
       "candidatos": true
     },
     {
@@ -96,19 +96,19 @@
     {
       "id": "prensa-ideal-culturas",
       "status": "ok",
-      "count": 29,
+      "count": 30,
       "candidatos": true
     },
     {
       "id": "prensa-hoy-culturas",
       "status": "ok",
-      "count": 2,
+      "count": 3,
       "candidatos": true
     },
     {
       "id": "prensa-elcorreo-culturas",
       "status": "ok",
-      "count": 12,
+      "count": 13,
       "candidatos": true
     },
     {
@@ -126,7 +126,7 @@
     {
       "id": "prensa-laverdad-culturas",
       "status": "ok",
-      "count": 12,
+      "count": 14,
       "candidatos": true
     },
     {
@@ -138,7 +138,7 @@
     {
       "id": "prensa-elcomercio-culturas",
       "status": "ok",
-      "count": 4,
+      "count": 5,
       "candidatos": true
     },
     {

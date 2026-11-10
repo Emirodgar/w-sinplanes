@@ -98,5 +98,15 @@
   "confianza": 0.5,
   "fuente": "El Comercio (Culturas)",
   "url": "https://www.elcomercio.es/culturas/arte/jose-ramon-cuervoarango-llega-instituto-cervantes-roma-20261104081016-nt.html"
+ },
+ {
+  "id": "760ec04160",
+  "titulo": "Cantoría: Primera gira por Latinoamérica",
+  "inicio": "2026-11-13",
+  "municipio": "Montevideo",
+  "provincia": null,
+  "confianza": 0.5,
+  "fuente": "La Verdad (Culturas)",
+  "url": "https://www.laverdad.es/culturas/musica/cantoria-realiza-primera-gira-latinoamerica-20261110113248-nt.html"
  }
 ]
