@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09",
+ "updated": "2026-11-10",
  "terms": [
   {
    "term": "carlos cuerpo",
@@ -39,16 +39,6 @@
     "Dónde es festivo hoy, lunes 2 de noviembre: comunidades autónomas que hacen puente por el Día de Todos los Santos",
     "¿Hoy es festivo? Las nueve comunidades que hacen puente este lunes 2 de noviembre",
     "¿Por qué hoy no es fiesta en toda España?"
-   ]
-  },
-  {
-   "term": "crisis migratoria",
-   "traffic": 10000,
-   "lastSeen": "2026-10-26",
-   "news": [
-    "Dos mandos a gritos y la frontera de Ceuta desbordada: el bochorno de la bronca en pleno asalto llega hoy a la Audiencia Nacional",
-    "Última hora de la crisis migratoria de Cauta, en directo: El inspector jefe de la Policía Nacional y el teniente coronel de la Guardia Civil declaran hoy ante la Audiencia Nacional",
-    "La investigación en la Audiencia Nacional por la entrada masiva en Ceuta toma impulso con declaraciones de policías y consejeros que gestionaron la crisis"
    ]
   },
   {
@@ -158,26 +148,6 @@
     "Muere un soldado del Ejército de Tierra durante una instrucción militar en Zaragoza",
     "Qué es la Brigada 'Guzmán el Bueno' X: dónde está, qué funciones tiene y qué unidades la forman",
     "Muere un soldado durante unos ejercicios en el campo de maniobras de San Gregorio (Zaragoza)"
-   ]
-  },
-  {
-   "term": "ibex 35",
-   "traffic": 5000,
-   "lastSeen": "2026-10-26",
-   "news": [
-    "Telefónica se desploma un 8% en la bolsa tras la victoria de Lula en Brasil y Santander pierde un 5%",
-    "¿Por qué cae hoy la acción de Banco Santander?",
-    "El Ibex se descuelga de Europa por el 'efecto Brasil'"
-   ]
-  },
-  {
-   "term": "festival de la canción de eurovisión junior",
-   "traffic": 5000,
-   "lastSeen": "2026-10-26",
-   "news": [
-    "Armenia gana Eurovisión Junior 2026 y España queda segunda con Lucas Paulano y ‘Cuore Bello (Te quiero, te quiero)’",
-    "Eurovisión Junior 2026 (12.2%) lidera en RTVE con la mejor cuota y la segunda gala más vista desde la vuelta de España en 2019",
-    "La 1 lidera con Eurovisión Junior, que logra su mejor cuota en 20 años (12,2%), y Lucas Paulano devuelve a España al podio"
    ]
   },
   {
@@ -338,36 +308,6 @@
     "Julián Álvarez termina su particular plebiscito con pitos: \"Le esperaremos porque le necesitamos para llegar donde queremos\"",
     "Julián perdona y Fermín, no",
     "Julián regresa al 'infierno'"
-   ]
-  },
-  {
-   "term": "alfredo sánchez monteseirín",
-   "traffic": 2000,
-   "lastSeen": "2026-10-26",
-   "news": [
-    "Muere Alfredo Sánchez Monteseirín, el alcalde que modernizó Sevilla, a los 69 años",
-    "Los diez grandes proyectos de Monteseirín: del tranvía a las Setas pasando por la nueva Alameda",
-    "Muere el exalcalde de Sevilla Alfredo Sánchez Monteseirín, a los 69 años"
-   ]
-  },
-  {
-   "term": "herencia",
-   "traffic": 2000,
-   "lastSeen": "2026-10-26",
-   "news": [
-    "Guerra por la herencia de una mujer que cambió tres veces de testamento según quién la cuidaba",
-    "Aceptar una herencia: 30 días para evitar la aceptación pura y simple",
-    "El caso Isak Andic da un nuevo giro: 33 testigos, una herencia millonaria y el testimonio de su hermano"
-   ]
-  },
-  {
-   "term": "electricidad",
-   "traffic": 2000,
-   "lastSeen": "2026-10-26",
-   "news": [
-    "Los embalses hidroeléctricos están en los niveles más bajos de los últimos tres años y amenazan con un invierno de precios caros de electricidad",
-    "La crisis de las renovables fuerza a la banca a una carrera por deshacerse de la deuda del sector",
-    "España afronta un parón de nuevos proyectos de renovables por el caos de los precios de la luz y el portazo de los bancos"
    ]
   },
   {
@@ -630,21 +570,33 @@
    ]
   },
   {
-   "term": "balcón",
-   "traffic": 1000,
-   "lastSeen": "2026-10-26",
+   "term": "grúa",
+   "traffic": 2000,
+   "lastSeen": "2026-11-10",
    "news": [
-    "Un hombre, grave tras caer desde un balcón en Las Palmas de Gran Canaria",
-    "Grave accidente de madrugada en Las Palmas de Gran Canaria: un varón de 36 años cae a la vía pública desde un balcón",
-    "En estado crítico tras precipitarse desde cinco metros de altura en Gran Canaria"
+    "China está construyendo una grúa capaz de levantar 14.000 toneladas. Necesita dos unidades trabajando juntas",
+    "La grúa que puede levantar hasta 14 mil toneladas: Serían 2 mil ángeles de la independencia",
+    "XCMG monta la primera unidad de su grúa de 14.000 t"
    ]
   },
   {
-   "term": "cyanide lol",
-   "traffic": 1000,
-   "lastSeen": "2026-10-26",
+   "term": "piedralaves",
+   "traffic": 2000,
+   "lastSeen": "2026-11-10",
    "news": [
-    "Cyanide, former Fnatic jungler and LoL World Champion, dies aged 31"
+    "Ordenan evacuar Piedralaves (Ávila), con 2.200 vecinos, por riesgo de rebosamiento de la presa por las lluvias de la borrasca Bruna",
+    "Ordenan evacuar a los 2.200 vecinos de Piedralaves (Ávila) por riesgo de rebosamiento de presa",
+    "Evacúan un municipio de Ávila por el posible rebosamiento de una presa"
+   ]
+  },
+  {
+   "term": "fuego",
+   "traffic": 2000,
+   "lastSeen": "2026-11-10",
+   "news": [
+    "«Se me han quemado los 300 kilos de forraje que guardaba, no he llegado a tiempo»",
+    "El Gobierno Vasco reduce a Situación 0 el Plan Especial de Emergencias por Incendios Forestales ante la evolución favorable del incendio de Zaldibia - Gobierno Vasco",
+    "Testimonios de baserritarras en torno al incendio de Zaldibia: llamas de hasta 10 metros"
    ]
   },
   {
@@ -975,16 +927,6 @@
     "Día de La Almudena de paraguas en Madrid",
     "El Tiempo (07-11-26) Temporal de lluvias",
     "La borrasca Bruna también afecta a la Comunidad de Madrid: lluvias y cielos cubiertos"
-   ]
-  },
-  {
-   "term": "sindicato",
-   "traffic": 500,
-   "lastSeen": "2026-10-26",
-   "news": [
-    "Valeria Racu: “Todos los gobiernos han promovido el rentismo”",
-    "De la acampada a los barrios: el Sindicato de Inquilinas busca construir \"alianzas entre vecinos\" ante desahucios",
-    "Salamanca se moviliza por la vivienda y llama a la huelga general del 11N"
    ]
   },
   {
@@ -1521,73 +1463,23 @@
    ]
   },
   {
-   "term": "gran premio de malasia",
-   "traffic": 200,
-   "lastSeen": "2026-10-26",
+   "term": "pago",
+   "traffic": 500,
+   "lastSeen": "2026-11-10",
    "news": [
-    "¿A qué hora es el GP de Malasia de MotoGP? TV, horarios, cómo y dónde ver las carreras desde Sepang en vivo",
-    "Horarios del GP de Malasia de MotoGP: fechas y dónde ver en TV a Marc Márquez y Jorge Martín en Sepang",
-    "Horarios del GP de Malasia de MotoGP en Sepang y cómo verlo en TV"
+    "Aldama pagó un año el alquiler del chalet del ex chófer de Sánchez a cambio de que le ayudara a conseguir c...",
+    "El chófer del Peugeot devuelve la alegría a una derecha necesitada de un cambio de guion",
+    "La UCO busca facturas falsas por valor de más de 200.000 euros en la trama de blanqueo de Ábalos"
    ]
   },
   {
-   "term": "gran hermano",
-   "traffic": 200,
-   "lastSeen": "2026-10-26",
+   "term": "atentado",
+   "traffic": 500,
+   "lastSeen": "2026-11-10",
    "news": [
-    "Ania Iglesias, de ‘Gran Hermano 1’, anuncia que tiene cáncer: “Rendirme jamás será una opción”",
-    "Ania Iglesias (GH1) nos habla de su lucha contra el cáncer: \"Fuera de creencias místicas, mi historia es un milagro\"",
-    "El mensaje de Ania Iglesias ('GH 1') tras anunciar que padece cáncer de colon: \"Cuando acabe los ciclos de quimio...\""
-   ]
-  },
-  {
-   "term": "nàstic - hércules de alicante",
-   "traffic": 200,
-   "lastSeen": "2026-10-26",
-   "news": [
-    "El Hércules CF celebra Halloween por adelantado",
-    "El Nàstic ridiculiza al Hércules en 18 minutos",
-    "Crónica Nàstic-Hércules: Apagón y pesadilla en el Nou Estadi de Tarragona"
-   ]
-  },
-  {
-   "term": "portal del abonado racing",
-   "traffic": 200,
-   "lastSeen": "2026-10-26",
-   "news": [
-    "Arranca la venta anticipada de entradas para la visita del Real Madrid a EL SARDINERO",
-    "Las entradas para el Racing-Real Madrid, desde las 10.00 horas de este lunes y solo en el portal del abonado",
-    "Cómo conseguir entradas para el Racing de Santander-Real Madrid: Precios de LaLiga, información del partido, venta de última hora y más"
-   ]
-  },
-  {
-   "term": "cayetana alvarez de toledo",
-   "traffic": 200,
-   "lastSeen": "2026-10-26",
-   "news": [
-    "Feijóo blinda de nuevo en las listas al núcleo duro que lo acompaña desde Galicia: Marta Varela y Mar Sánchez irán en la candidatura al Congreso",
-    "Alma Ezcurra será la cuarta en la lista del PP por Madrid y la mano derecha de Almeida irá la segunda para el Senado",
-    "Cayetana, la indomable futura ministra de Feijóo"
-   ]
-  },
-  {
-   "term": "toni nadal",
-   "traffic": 200,
-   "lastSeen": "2026-10-26",
-   "news": [
-    "Toni Nadal, entrenador: \"La gente de hoy en día, no sé si es porque cae antes en la frustración, no suele ir al límite\"",
-    "Toni Nadal dará en Oviedo el 9 de noviembre la conferencia 'Todo se puede entrenar'",
-    "Toni Nadal, el entrenador que llevó a Rafa Nadal a la élite, dará una conferencia en Oviedo"
-   ]
-  },
-  {
-   "term": "toledo",
-   "traffic": 200,
-   "lastSeen": "2026-10-26",
-   "news": [
-    "CHEMICAL LEAK UPDATE: EPA reports extremely low glycidyl methacrylate detection in north Toledo",
-    "U.S. EPA air monitoring data show elevated concentrations of inhalable particles near hazmat site",
-    "‘Error’ caused Toledo chemical leak, EPA says, triggering evacuations and calls to stay inside"
+    "Crisis de salud mental o un ultra con conexiones oscuras: la investigación busca determinar el móvil del terrorista de Cracovia",
+    "Muere en el hospital el autor del tiroteo de Cracovia que dejó seis muertos y quince heridos",
+    "Polonia homenajea a los seis fallecidos en el tiroteo en Cracovia"
    ]
   },
   {
@@ -2198,13 +2090,53 @@
    ]
   },
   {
-   "term": "nuevecuatrouno",
-   "traffic": 100,
-   "lastSeen": "2026-10-26",
+   "term": "david walliams",
+   "traffic": 200,
+   "lastSeen": "2026-11-10",
    "news": [
-    "No votes a Eliska en WhatsApp: la Policía Nacional de La Rioja alerta de la estafa que busca controlar tu cuenta",
-    "Aviso de la Policía Nacional si una persona cercana te manda este mensaje: cuidado si te piden esto",
-    "\"¿Podrías votar por Eliska?\": el inofensivo mensaje de WhatsApp diseñado para robar tu cuenta"
+    "‘It wasn’t long until he asked me if I’d ever had sex before’: David Walliams accused of preying on young women for sex",
+    "David Walliams named as celebrity who tried to block publication of sexual misconduct allegations",
+    "David Walliams named as celebrity who lost injunction bid"
+   ]
+  },
+  {
+   "term": "andreas christensen",
+   "traffic": 200,
+   "lastSeen": "2026-11-10",
+   "news": [
+    "Christensen renuncia, entre lágrimas, a Dinamarca porque \"no está preparado\"",
+    "Momento duro para Christensen: \"Lo tenía llorando al teléfono\"",
+    "Riemer: \"¿Christensen? Estaba casi llorando cuando le llamé\""
+   ]
+  },
+  {
+   "term": "alerta de vientos fuertes",
+   "traffic": 200,
+   "lastSeen": "2026-11-10",
+   "news": [
+    "Aviso amarillo por fenómenos costeros y viento este miércoles y jueves en Cartagena",
+    "La borrasca Charles pone en alerta por fuertes vientos a toda la Región de Murcia y trae lluvias",
+    "AEMET activa el aviso amarillo por viento para este miércoles 11 de noviembre en Alhama"
+   ]
+  },
+  {
+   "term": "fever",
+   "traffic": 200,
+   "lastSeen": "2026-11-10",
+   "news": [
+    "Sophie Cunningham Announces Update Ahead of Potential Career Move",
+    "\"It's clearly so political\" - Sophie Cunningham calls out WNBA over three-point contest selections",
+    "Indiana Fever Guard Sophie Cunningham Criticizes WNBA 3-Point Contest Selection Process"
+   ]
+  },
+  {
+   "term": "movistar arena",
+   "traffic": 200,
+   "lastSeen": "2026-11-10",
+   "news": [
+    "Fall Out Boy lanzan nuevo single, ‘Aces’, y confirman concierto en Madrid",
+    "La gira internacional de Fall Out Boy pasará por España",
+    "Fall Out Boy, conciertos y entradas 2027 en España"
    ]
   },
   {

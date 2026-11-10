@@ -5233,48 +5233,6 @@
   "a_cubierto": null,
   "confianza": 0.5
  },
- "4a0f58722c": {
-  "url": "https://www.20minutos.es/musica/salvador-sobral-cultura-se-acabo-ser-apolitico-eso-es-girar-cara-los-artistas-tenemos-que-hablar-concienciar_7051168_0.html",
-  "fuente": "20minutos (Cultura)",
-  "src": "prensa-20minutos-cultura",
-  "publicado": "2026-10-26",
-  "es_plan": false
- },
- "d673f12ff8": {
-  "url": "https://elpais.com/cultura/2026-10-26/stevie-wonder-el-sumo-sacerdote-del-soul-sigue-obrando-milagros.html",
-  "fuente": "El País (Cultura)",
-  "src": "prensa-elpais-cultura",
-  "publicado": "2026-10-26",
-  "es_plan": false
- },
- "6ddaed77a6": {
-  "url": "https://www.lavanguardia.com/cultura/20261026/11667791/vidas.html",
-  "fuente": "La Vanguardia (Cultura)",
-  "src": "prensa-lavanguardia-cultura",
-  "publicado": "2026-10-26",
-  "es_plan": false
- },
- "2fe54dcf43": {
-  "url": "https://www.lavanguardia.com/cultura/20261026/11667942/pere-calders-indigesta-nunca.html",
-  "fuente": "La Vanguardia (Cultura)",
-  "src": "prensa-lavanguardia-cultura",
-  "publicado": "2026-10-26",
-  "es_plan": false
- },
- "2a66514329": {
-  "url": "https://www.ara.cat/cultura/arquitectura/48h-open-house-bcn-tanca-17a-edicio-record-historic-mes-75-000-visitants_25_5890542.html",
-  "fuente": "Ara (Cultura)",
-  "src": "prensa-ara-cultura",
-  "publicado": "2026-10-26",
-  "es_plan": false
- },
- "c047b2ccde": {
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/26/muere-los-46-anos-eric-bauza-hombre-que-daba-voz-pato-lucas-bugs-bunny-piolin-2062871.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-10-26",
-  "es_plan": false
- },
  "fd27d88751": {
   "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/26/ben-sims-dj-pepo-estella-boersma-halloween-florida-135-2062854.html",
   "fuente": "Heraldo de Aragón (Ocio y cultura)",
@@ -5302,27 +5260,6 @@
   ],
   "a_cubierto": true,
   "confianza": 0.85
- },
- "85bb9da411": {
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/26/nacho-lamar-deja-boquiabierta-barcelona-con-su-desfile-080-influencer-misho-artesanos-aragoneses-gran-eco-las-redes-sociales-2062639.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-10-26",
-  "es_plan": false
- },
- "a061615837": {
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/26/por-que-carolyn-bessette-kennedy-sigue-moda-27-anos-despues-su-muerte-las-claves-su-estilo-que-encontraras-las-tiendas-2062836.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-10-26",
-  "es_plan": false
- },
- "a64e05ffd6": {
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/26/restaurante-propiedad-famoso-artista-conquista-bunbury-gira-2062822.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-10-26",
-  "es_plan": false
  },
  "cfec70238f": {
   "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/26/segunda-temporada-serie-exitosa-megan-montaner-fecha-estreno-television-2062817.html",
@@ -5352,13 +5289,6 @@
   "a_cubierto": true,
   "confianza": 0.85
  },
- "8394a0fe04": {
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/26/victor-manuel-coyunturas-insanas-extrema-derecha-policias-jueces-2062818.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-10-26",
-  "es_plan": false
- },
  "d0576b8b11": {
   "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/26/eva-amaral-vivo-aldea-rio-maravilloso-entrenar-2062820.html",
   "fuente": "Heraldo de Aragón (Ocio y cultura)",
@@ -5386,13 +5316,6 @@
   ],
   "a_cubierto": true,
   "confianza": 0.85
- },
- "d085977b45": {
-  "url": "https://www.heraldo.es/ocio-y-cultura/video-nacho-lamar-deja-boquiabierta-barcelona-con-su-desfile-080-2062686-2.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-10-26",
-  "es_plan": false
  },
  "9a46abaf81": {
   "url": "https://www.elnortedecastilla.es/culturas/seminci/programa/programa-completo-seminci-2026-lunes-octubre-20261026093617-nt.html",
@@ -5422,41 +5345,6 @@
   "a_cubierto": true,
   "confianza": 0.85
  },
- "71757325da": {
-  "url": "https://www.diariosur.es/culturas/cine/antonio-banderas-despide-director-abrio-puerta-mitologia-20261026120256-nt.html",
-  "fuente": "Diario Sur (Culturas)",
-  "src": "prensa-diariosur-culturas",
-  "publicado": "2026-10-26",
-  "es_plan": false
- },
- "ee36c85128": {
-  "url": "https://www.ideal.es/culturas/cine/festival-jovenes-realizadores-despide-triple-record-espectadores-20261026114916-nt.html",
-  "fuente": "Ideal (Culturas)",
-  "src": "prensa-ideal-culturas",
-  "publicado": "2026-10-26",
-  "es_plan": false
- },
- "fa6c86bf07": {
-  "url": "https://www.ideal.es/culturas/fundacion-caja-rural-granada-renueva-compromiso-orquesta-20261026114619-nt.html",
-  "fuente": "Ideal (Culturas)",
-  "src": "prensa-ideal-culturas",
-  "publicado": "2026-10-26",
-  "es_plan": false
- },
- "0c52e2ff93": {
-  "url": "https://www.ideal.es/culturas/tif-granada-comienza-programa-2500-escolares-fomentar-20261026104530-nt.html",
-  "fuente": "Ideal (Culturas)",
-  "src": "prensa-ideal-culturas",
-  "publicado": "2026-10-26",
-  "es_plan": false
- },
- "e56b61a69e": {
-  "url": "https://www.elcorreo.com/culturas/cine/sur-exitos-netflix-20261023000737-nt.html",
-  "fuente": "El Correo (Culturas)",
-  "src": "prensa-elcorreo-culturas",
-  "publicado": "2026-10-26",
-  "es_plan": false
- },
  "39455b4c47": {
   "url": "https://www.diariovasco.com/culturas/musica/orfeon-donostiarra-concierto-ivan-terrible-prokofiev-inaki-gabilondo-kursaal-20261026111857-nt.html",
   "fuente": "El Diario Vasco (Culturas)",
@@ -5485,41 +5373,6 @@
   "a_cubierto": true,
   "confianza": 0.85
  },
- "a508dd03b5": {
-  "url": "https://www.diariovasco.com/culturas/cine/jose-luis-garcia-sanchez-director-agito-donostia-20261025191911-nt.html",
-  "fuente": "El Diario Vasco (Culturas)",
-  "src": "prensa-diariovasco-culturas",
-  "publicado": "2026-10-26",
-  "es_plan": false
- },
- "b225461ef1": {
-  "url": "https://www.diariovasco.com/culturas/arkaitz-anorgako-dantzariak-celebro-centenario-victoria-eugenia-20261026080930-nt.html",
-  "fuente": "El Diario Vasco (Culturas)",
-  "src": "prensa-diariovasco-culturas",
-  "publicado": "2026-10-26",
-  "es_plan": false
- },
- "ee31737a65": {
-  "url": "https://www.diariovasco.com/culturas/cine/pasan-anos-puedes-aportar-madurez-hora-contar-20261026070102-nt.html",
-  "fuente": "El Diario Vasco (Culturas)",
-  "src": "prensa-diariovasco-culturas",
-  "publicado": "2026-10-26",
-  "es_plan": false
- },
- "5a426d7dc5": {
-  "url": "https://www.lasprovincias.es/culturas/tv/thriller-accion-chris-pratt-solo-ocho-episodios-20261020115405-nt.html",
-  "fuente": "Las Provincias (Culturas)",
-  "src": "prensa-lasprovincias-culturas",
-  "publicado": "2026-10-26",
-  "es_plan": false
- },
- "3e9cb1c1bd": {
-  "url": "https://www.lasprovincias.es/culturas/tv/netflix-anuncia-estreno-serie-inma-cuesta-alex-20261022001810-nt.html",
-  "fuente": "Las Provincias (Culturas)",
-  "src": "prensa-lasprovincias-culturas",
-  "publicado": "2026-10-26",
-  "es_plan": false
- },
  "8a13b3e73c": {
   "url": "https://www.eldiariomontanes.es/culturas/lucia-lacarra-danza-tulipanes-amor-horrores-guerra-20261026071320-nt.html",
   "fuente": "El Diario Montañés (Culturas)",
@@ -5547,13 +5400,6 @@
   ],
   "a_cubierto": true,
   "confianza": 0.85
- },
- "268d4baaf7": {
-  "url": "https://www.larioja.com/culturas/jose-manuel-leon-melia-cine-flor-piel-20261026084505-nt.html",
-  "fuente": "La Rioja (Culturas)",
-  "src": "prensa-larioja-culturas",
-  "publicado": "2026-10-26",
-  "es_plan": false
  },
  "24f6697135": {
   "url": "https://elpais.com/cultura/2026-10-25/habemus-sigfrido-michael-volle-reina-como-wotan-papal-en-el-anillo-romano-de-daniel-harding.html",
@@ -5934,20 +5780,6 @@
   "publicado": "2026-10-27",
   "es_plan": false
  },
- "9a17f07f15": {
-  "url": "https://www.europapress.es/cultura/noticia-rey-preside-apertura-curso-reales-academias-primer-acto-operarse-cataratas-20261026194757.html",
-  "fuente": "Europa Press (Cultura)",
-  "src": "prensa-europapress-cultura",
-  "publicado": "2026-10-26",
-  "es_plan": false
- },
- "f63d61b219": {
-  "url": "https://www.europapress.es/cultura/noticia-litigio-pissarro-thyssen-robado-nazis-queda-visto-sentencia-eeuu-26-anos-despues-20261026193434.html",
-  "fuente": "Europa Press (Cultura)",
-  "src": "prensa-europapress-cultura",
-  "publicado": "2026-10-26",
-  "es_plan": false
- },
  "8ec78af85c": {
   "url": "https://www.20minutos.es/cultura/una-foto-juan-carlos-i-dedicada-franco-varios-retratos-dictador-subasta-entre-los-objetos-meiras_7053722_0.html",
   "fuente": "20minutos (Cultura)",
@@ -5974,27 +5806,6 @@
   ],
   "a_cubierto": null,
   "confianza": 0.85
- },
- "e11fd265ff": {
-  "url": "https://www.20minutos.es/musica/fontaines-d-c-consiguen-su-mejor-posicion-las-listas-exitos-espana-con-dopamine-chamber_7053709_0.html",
-  "fuente": "20minutos (Cultura)",
-  "src": "prensa-20minutos-cultura",
-  "publicado": "2026-10-26",
-  "es_plan": false
- },
- "bc5104d8de": {
-  "url": "https://www.20minutos.es/artes/fundacion-ibercaja-exhibe-obras-artistas-urbanos-como-banksy-primera-obra-este-genero-zaragoza_7053571_0.html",
-  "fuente": "20minutos (Cultura)",
-  "src": "prensa-20minutos-cultura",
-  "publicado": "2026-10-26",
-  "es_plan": false
- },
- "d89173002a": {
-  "url": "https://www.20minutos.es/artes/isabel-fernandez-gonzalez-conquista-premio-calderon-barca-por-su-obra-campo-fuerza_7053510_0.html",
-  "fuente": "20minutos (Cultura)",
-  "src": "prensa-20minutos-cultura",
-  "publicado": "2026-10-26",
-  "es_plan": false
  },
  "ac47aba42b": {
   "url": "https://www.20minutos.es/musica/grupo-vasco-exkixu-vuelve-musica-tres-decadas-despues-su-disolucion_7053470_0.html",
@@ -6024,20 +5835,6 @@
   "a_cubierto": null,
   "confianza": 0.9
  },
- "2d5fb3f812": {
-  "url": "https://elpais.com/cultura/2026-10-26/talavante-primer-contratado-para-san-isidro-2027-que-injustos-son-los-empresarios-de-las-ventas.html",
-  "fuente": "El País (Cultura)",
-  "src": "prensa-elpais-cultura",
-  "publicado": "2026-10-26",
-  "es_plan": false
- },
- "dc757921c4": {
-  "url": "https://elpais.com/cultura/2026-10-26/isabel-fernandez-gonzalez-gana-el-premio-nacional-calderon-de-la-barca-de-teatro-por-campo-de-fuerzas.html",
-  "fuente": "El País (Cultura)",
-  "src": "prensa-elpais-cultura",
-  "publicado": "2026-10-26",
-  "es_plan": false
- },
  "1ab3ce9fdc": {
   "url": "https://elpais.com/suscripciones/elpaismas/experiencias/2026-10-26/gustavo-dudamel-y-la-sinfonica-nacional-juvenil-de-venezuela-en-madrid.html",
   "fuente": "El País (Cultura)",
@@ -6065,20 +5862,6 @@
   ],
   "a_cubierto": true,
   "confianza": 0.9
- },
- "69e52b1ca0": {
-  "url": "https://www.lavanguardia.com/cultura/20261026/11668763/fernando-eimbcke-macondo-park-shakira-deberia-haber-puesto-cine.html",
-  "fuente": "La Vanguardia (Cultura)",
-  "src": "prensa-lavanguardia-cultura",
-  "publicado": "2026-10-26",
-  "es_plan": false
- },
- "b6254d3461": {
-  "url": "https://www.lavanguardia.com/cultura/20261026/11668743/aknaten-susanna-maelkki-lise-davidsen-xabier-anduaga-premios-amics-liceu.html",
-  "fuente": "La Vanguardia (Cultura)",
-  "src": "prensa-lavanguardia-cultura",
-  "publicado": "2026-10-26",
-  "es_plan": false
  },
  "41d65995ed": {
   "url": "https://www.lavanguardia.com/cultura/20261026/11668746/liceu-reubica-funciones-previstas-11-noviembre-dia-huelga-general.html",
@@ -6108,13 +5891,6 @@
   "a_cubierto": true,
   "confianza": 0.9
  },
- "1117f4dd61": {
-  "url": "https://www.lavanguardia.com/cultura/20261026/11668705/museos-vaticanos-desembarcan-barcelona-artistas-volvieron-templo-siglo-xx.html",
-  "fuente": "La Vanguardia (Cultura)",
-  "src": "prensa-lavanguardia-cultura",
-  "publicado": "2026-10-26",
-  "es_plan": false
- },
  "678db317c1": {
   "url": "https://www.lavanguardia.com/cultura/20261026/11668492/by-invitation-internacionaliza-apuesta-mujeres-artistas.html",
   "fuente": "La Vanguardia (Cultura)",
@@ -6142,34 +5918,6 @@
   ],
   "a_cubierto": true,
   "confianza": 0.9
- },
- "f7a204665e": {
-  "url": "https://www.lavanguardia.com/cultura/20261026/11668485/prado-inaugura-itinerario-muestra-relacion-arte-ingenieria-civil.html",
-  "fuente": "La Vanguardia (Cultura)",
-  "src": "prensa-lavanguardia-cultura",
-  "publicado": "2026-10-26",
-  "es_plan": false
- },
- "4f8e666e4f": {
-  "url": "https://www.lavanguardia.com/cultura/20261026/11668245/mariana-enriquez-conversacion-con-la-oscuridad-fantasmas-libertad.html",
-  "fuente": "La Vanguardia (Cultura)",
-  "src": "prensa-lavanguardia-cultura",
-  "publicado": "2026-10-26",
-  "es_plan": false
- },
- "f3bd5413cb": {
-  "url": "https://www.lavanguardia.com/cultura/20261026/11668278/els-mals-noms-premio-mejor-largometraje-ficcion-som-cinema.html",
-  "fuente": "La Vanguardia (Cultura)",
-  "src": "prensa-lavanguardia-cultura",
-  "publicado": "2026-10-26",
-  "es_plan": false
- },
- "e6cd66cd90": {
-  "url": "https://www.ara.cat/cultura/art/jaume-plensa-tots-macbeth-vida_1_5891153.html",
-  "fuente": "Ara (Cultura)",
-  "src": "prensa-ara-cultura",
-  "publicado": "2026-10-26",
-  "es_plan": false
  },
  "693071db4f": {
   "url": "https://www.ara.cat/cultura/teatre/piel-lava-aterra-barcelona-totes-entrades-venudes_1_5890761.html",
@@ -6199,27 +5947,6 @@
   "a_cubierto": true,
   "confianza": 0.5
  },
- "bed30a47fb": {
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/26/muere-walter-koenig-tripulante-chekov-universo-star-trek-2063074.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-10-26",
-  "es_plan": false
- },
- "fade16c7f3": {
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/26/toto-participante-masterchef-junior-ataque-redes-eliminacion-sigo-teniendo-fe-2062908.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-10-26",
-  "es_plan": false
- },
- "9a54f3017e": {
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/26/torero-roca-rey-expedientado-cohetes-ruidos-fiesta-cumpleanos-2063059.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-10-26",
-  "es_plan": false
- },
  "9605900a5e": {
   "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/26/paloma-san-basilio-dulcinea-teatro-principal-zaragoza-cervantes-feminista-2062936.html",
   "fuente": "Heraldo de Aragón (Ocio y cultura)",
@@ -6247,69 +5974,6 @@
   ],
   "a_cubierto": true,
   "confianza": 0.9
- },
- "244e24d9ff": {
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/26/jordi-wild-desvela-entrevistas-cuatro-candidatos-gobierno-temas-delicados-jodidos-2062863.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-10-26",
-  "es_plan": false
- },
- "54f7902cd1": {
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/26/banksy-se-instala-durante-tres-meses-patio-infanta-zaragoza-abandera-un-lema-arte-que-no-pidio-permiso-2062960.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-10-26",
-  "es_plan": false
- },
- "7e006cb923": {
-  "url": "https://www.heraldo.es/ocio-y-cultura/fotos-exposicion-arte-que-no-pidio-permiso-patio-infanta-zaragoza-2062963-1.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-10-26",
-  "es_plan": false
- },
- "2bea57554d": {
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/26/henar-alvarez-regreso-cielo-con-ella-baja-audiencia-2062840.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-10-26",
-  "es_plan": false
- },
- "22c1745bbf": {
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/26/santiago-auseron-trae-las-canciones-su-disco-nerantzi-teatro-principal-zaragoza-2062928.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-10-26",
-  "es_plan": false
- },
- "a80b018ea8": {
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/26/amaia-montero-recibe-carino-companeros-oreja-gogh-criticas-zaragoza-mundo-aplauso-2062638.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-10-26",
-  "es_plan": false
- },
- "1cdcf3e14c": {
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/26/paco-gonzalez-despido-ser-emisora-jefes-2010-2062897.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-10-26",
-  "es_plan": false
- },
- "539ec04148": {
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/26/critica-pelicula-sentido-sensibilidad-un-eco-jane-austen-2062907.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-10-26",
-  "es_plan": false
- },
- "f994909fc7": {
-  "url": "https://www.elnortedecastilla.es/culturas/seminci/seminci-desvela-motivo-picadura-viral-deformo-cara-20261026195043-nt.html",
-  "fuente": "El Norte de Castilla (Culturas)",
-  "src": "prensa-nortecastilla-culturas",
-  "publicado": "2026-10-26",
-  "es_plan": false
  },
  "297cb7901a": {
   "url": "https://www.diariosur.es/culturas/catartica-mezcla-unica-comedia-teatral-stand-up-20261026170256-nt.html",
@@ -6339,20 +6003,6 @@
   "a_cubierto": true,
   "confianza": 0.85
  },
- "e48ee6320e": {
-  "url": "https://www.diariosur.es/culturas/lupi-rara-residencia-pata-teatro-lalone-cineclub-20261026184552-nt.html",
-  "fuente": "Diario Sur (Culturas)",
-  "src": "prensa-diariosur-culturas",
-  "publicado": "2026-10-26",
-  "es_plan": false
- },
- "1b7a702961": {
-  "url": "https://www.diariosur.es/culturas/reina-sonia-noruega-visitara-malaga-inaugurar-exposicion-20261026153619-nt.html",
-  "fuente": "Diario Sur (Culturas)",
-  "src": "prensa-diariosur-culturas",
-  "publicado": "2026-10-26",
-  "es_plan": false
- },
  "821c63c59a": {
   "url": "https://www.ideal.es/culturas/almeria/terror-centro-almeria-20261026191215-nt.html",
   "fuente": "Ideal (Culturas)",
@@ -6381,13 +6031,6 @@
   ],
   "a_cubierto": null,
   "confianza": 0.9
- },
- "e04a61d7bc": {
-  "url": "https://www.ideal.es/culturas/almeria/fical-2026-oficiales-producciones-nominadas-certamen-nacional-20261026134858-nt.html",
-  "fuente": "Ideal (Culturas)",
-  "src": "prensa-ideal-culturas",
-  "publicado": "2026-10-26",
-  "es_plan": false
  },
  "dc74a9c561": {
   "url": "https://www.20minutos.es/cultura/blogs/yaestaellistoquetodolosabe/sabes-que-es-que-hace-referencia-expresion-escopeta-chejov_7026267_0.html",
