@@ -18784,5 +18784,1183 @@
   ],
   "a_cubierto": true,
   "confianza": 0.9
+ },
+ "466d96f4ef": {
+  "url": "https://www.europapress.es/cultura/musica-00129/noticia-bryan-adams-empapa-madrid-rock-noche-epica-nostalgia-grandes-clasicos-20261111004540.html",
+  "fuente": "Europa Press (Cultura)",
+  "src": "prensa-europapress-cultura",
+  "publicado": "2026-11-11",
+  "es_plan": true,
+  "titulo": "Bryan Adams en concierto en Madrid",
+  "resumen": "El cantante Bryan Adams ofreció un concierto en el Movistar Arena de Madrid repasando su trayectoria musical. El evento combinó sus grandes éxitos de rock con temas más recientes.",
+  "en": {
+   "titulo": "Bryan Adams in concert in Madrid",
+   "resumen": "Singer Bryan Adams performed a concert at the Movistar Arena in Madrid, reviewing his musical career. The event combined his greatest rock hits with more recent songs."
+  },
+  "inicio": "2026-11-11",
+  "fin": "2026-11-11",
+  "hora": null,
+  "lugar": "Movistar Arena",
+  "municipio": "Madrid",
+  "provincia": "Madrid",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "musica"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "7be126727f": {
+  "url": "https://www.europapress.es/cultura/teatroreal-01040/noticia-teatro-real-rinde-ovacion-siete-minutos-bodas-figaro-mozart-ensalzan-union-femenina-20261111002357.html",
+  "fuente": "Europa Press (Cultura)",
+  "src": "prensa-europapress-cultura",
+  "publicado": "2026-11-11",
+  "es_plan": true,
+  "titulo": "Estreno de 'Las bodas de Fígaro' en el Teatro Real",
+  "resumen": "El Teatro Real de Madrid estrena una nueva producción de la ópera 'Las bodas de Fígaro' de Mozart. La puesta en escena traslada la obra al palacio del Elíseo y destaca la unión femenina.",
+  "en": {
+   "titulo": "Premiere of 'The Marriage of Figaro' at the Teatro Real",
+   "resumen": "The Teatro Real in Madrid premieres a new production of Mozart's opera 'The Marriage of Figaro'. The staging moves the work to the Élysée Palace and highlights female unity."
+  },
+  "inicio": "2026-11-11",
+  "fin": "2026-11-27",
+  "hora": null,
+  "lugar": "Teatro Real",
+  "municipio": "Madrid",
+  "provincia": "Madrid",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "74c7ade770": {
+  "url": "https://www.20minutos.es/musica/bad-gyal-las-petunias-cartel-un-coachella-2027-encabezado-por-dua-lipa-madonna_7059647_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-11-11",
+  "es_plan": true,
+  "titulo": "Coachella 2027: Bad Gyal y Las Petunias actuarán",
+  "resumen": "Los festivales de Coachella 2027 en Indio, California, contarán con la participación de las artistas españolas Bad Gyal y Las Petunias. Dua Lipa, Madonna y Daddy Yankee encabezan el cartel.",
+  "en": {
+   "titulo": "Coachella 2027: Bad Gyal and Las Petunias will perform",
+   "resumen": "The Coachella 2027 festivals in Indio, California, will feature Spanish artists Bad Gyal and Las Petunias. Dua Lipa, Madonna, and Daddy Yankee headline the lineup."
+  },
+  "inicio": "2027-04-09",
+  "fin": "2027-04-18",
+  "hora": null,
+  "lugar": "Indio",
+  "municipio": "Indio",
+  "provincia": "California",
+  "ambito": "nacional",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "musica",
+   "fiestas"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "6cfb88a197": {
+  "url": "https://www.20minutos.es/cultura/blogs/yaestaellistoquetodolosabe/sabias-que-un-rinoceronte-se-convirtio-simbolo-voto-protesta-brasil_7059490_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-11-11",
+  "es_plan": false
+ },
+ "52d3aef189": {
+  "url": "https://www.20minutos.es/musica/entrevista-magic-jano-futbolista-profesional-estrella-magia_7053315_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-11-11",
+  "es_plan": true,
+  "titulo": "Magic Jano en la Sala Galileo Galilei de Madrid",
+  "resumen": "El ilusionista Magic Jano presenta su espectáculo 'Espectaculoso: La magia de lo imposible' en la Sala Galileo Galilei de Madrid. El show combina magia y humor.",
+  "en": {
+   "titulo": "Magic Jano at Sala Galileo Galilei in Madrid",
+   "resumen": "Illusionist Magic Jano presents his show 'Espectaculoso: La magia de lo imposible' at Sala Galileo Galilei in Madrid. The show combines magic and humor."
+  },
+  "inicio": "2026-11-29",
+  "fin": "2026-11-29",
+  "hora": null,
+  "lugar": "Sala Galileo Galilei",
+  "municipio": "Madrid",
+  "provincia": "Madrid",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "7baf98e306": {
+  "url": "https://www.20minutos.es/libros/isolda-patron-costas-autora-vergueenza-es-azul-casi-todas-las-emociones-estan-grupo-miedo-amor_7046168_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-11-11",
+  "es_plan": false
+ },
+ "f49be7c480": {
+  "url": "https://elpais.com/cultura/2026-11-11/robert-carsen-deja-sin-revolucion-las-bodas-de-figaro-en-el-teatro-real.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-11-11",
+  "es_plan": true,
+  "titulo": "Representación de 'Las bodas de Fígaro' en el Teatro Real",
+  "resumen": "El Teatro Real de Madrid presenta 'Las bodas de Fígaro' de Mozart hasta el 27 de noviembre. La producción cuenta con un brillante reparto y dirección musical de Stefano Montanari.",
+  "en": {
+   "titulo": "Performance of 'The Marriage of Figaro' at the Teatro Real",
+   "resumen": "The Teatro Real in Madrid presents 'The Marriage of Figaro' by Mozart until November 27. The production features a brilliant cast and musical direction by Stefano Montanari."
+  },
+  "inicio": "2026-11-10",
+  "fin": "2026-11-27",
+  "hora": null,
+  "lugar": "Teatro Real",
+  "municipio": "Madrid",
+  "provincia": "Madrid",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "3547dd9284": {
+  "url": "https://www.lavanguardia.com/cultura/20261111/11681520/l-alternativa-lleva-compromiso-social-programacion-sirve-antidoto-fascismo.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-11",
+  "es_plan": true,
+  "titulo": "Festival L'Alternativa de Cine Independiente en Barcelona",
+  "resumen": "El Festival L'Alternativa de Cine Independiente de Barcelona celebra su 33ª edición del 12 al 22 de noviembre. Exhibirá 220 películas de 34 países y ofrecerá actividades como karaokes de doblaje.",
+  "en": {
+   "titulo": "L'Alternativa Independent Film Festival in Barcelona",
+   "resumen": "The L'Alternativa Independent Film Festival in Barcelona celebrates its 33rd edition from November 12 to 22. It will screen 220 films from 34 countries and offer activities like dubbing karaoke."
+  },
+  "inicio": "2026-11-12",
+  "fin": "2026-11-22",
+  "hora": null,
+  "lugar": null,
+  "municipio": "Barcelona",
+  "provincia": "Barcelona",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "e96d3bd8ef": {
+  "url": "https://www.lavanguardia.com/cultura/20261111/11681446/carminho-fado-avanzado.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-11",
+  "es_plan": false
+ },
+ "ab74abcd36": {
+  "url": "https://www.lavanguardia.com/cultura/20261111/11681401/como-afecta-huelga-general-mundo-cultura-teatros-cines-conciertos-museos.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-11",
+  "es_plan": false
+ },
+ "ab87a51c0c": {
+  "url": "https://www.lavanguardia.com/cultura/20261111/11680723/literatura-fantastica-escape-espejo-realidad-festival-42-nagamatsu-garcia-clairac-charlotte-plumb.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-11",
+  "es_plan": false
+ },
+ "84d2844f40": {
+  "url": "https://www.lavanguardia.com/cultura/20261111/11680186/malmoe-040-tocabamos-lado-gente-canta-nostalgia-vas-mamando.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-11",
+  "es_plan": true,
+  "titulo": "Malmö 040 en el Sant Jordi Club y Movistar Arena",
+  "resumen": "La banda barcelonesa Malmö 040 actuará en el Sant Jordi Club este sábado 14 de noviembre y en el Movistar Arena de Madrid el 19 de febrero de 2027.",
+  "en": {
+   "titulo": "Malmö 040 at Sant Jordi Club and Movistar Arena",
+   "resumen": "The Barcelona-based band Malmö 040 will perform at the Sant Jordi Club this Saturday, November 14, and at the Movistar Arena in Madrid on February 19, 2027."
+  },
+  "inicio": "2026-11-14",
+  "fin": "2026-11-14",
+  "hora": null,
+  "lugar": "Sant Jordi Club",
+  "municipio": "Barcelona",
+  "provincia": "Barcelona",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "musica"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "0dc9eb039a": {
+  "url": "https://www.lavanguardia.com/local/catalunya/20261111/11678252/torello-epicentro-cine-montana.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-11",
+  "es_plan": true,
+  "titulo": "Festival BBVA de Cine de Montaña en Torelló",
+  "resumen": "El Festival BBVA de Cine de Montaña de Torelló celebra su 44ª edición a partir del 13 de noviembre, con 58 películas y actividades complementarias. Es el festival de cine de montaña más veterano de España.",
+  "en": {
+   "titulo": "BBVA Mountain Film Festival in Torelló",
+   "resumen": "The BBVA Mountain Film Festival in Torelló celebrates its 44th edition starting November 13, with 58 films and complementary activities. It is Spain's oldest mountain film festival."
+  },
+  "inicio": "2026-11-13",
+  "fin": "2026-11-13",
+  "hora": null,
+  "lugar": null,
+  "municipio": "Torelló",
+  "provincia": "Barcelona",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "pantalla",
+   "naturaleza"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "d503976ff2": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/11/muere-los-85-anos-stacy-keach-conocido-por-sus-inolvidables-papeles-tipo-duro-television-2067603.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-11",
+  "es_plan": false
+ },
+ "e3697ee9ec": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/11/macarena-gomez-no-gastando-dinero-mantenimiento-tiembla-tren-barbaridad-digo-dicen-todos-pasajeros-2067435.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-11",
+  "es_plan": false
+ },
+ "377d85182c": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/11/victor-manuel-79anos-hecho-santiago-abascal-tras-accidente-ferroviario-urda-gente-mala-toxica-2066567.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-11",
+  "es_plan": true,
+  "titulo": "Gira de conciertos de Víctor Manuel 'Solo a solas conmigo'",
+  "resumen": "El cantautor Víctor Manuel continúa su gira de presentación del disco 'Solo a solas conmigo' por todo el país, con conciertos hasta finales de 2026. El artista de 79 años disfruta de su momento de plenitud y sigue conectando con el público en cada actuación.",
+  "en": {
+   "titulo": "Víctor Manuel's 'Solo a solas conmigo' Concert Tour",
+   "resumen": "Singer-songwriter Víctor Manuel continues his tour presenting the album 'Solo a solas conmigo' across the country, with concerts until the end of 2026. The 79-year-old artist is enjoying a period of fulfillment and continues to connect with audiences at each show."
+  },
+  "inicio": "2026-11-11",
+  "fin": "2026-12-31",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.7
+ },
+ "2ec400b436": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/11/lola-herrera-91anos-admirado-felipe-gonzalez-admirado-toda-alma-ultimamente-entiendo-2066570.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-11",
+  "es_plan": true,
+  "titulo": "Lola Herrera en gira con la obra 'Camino a la Meca'",
+  "resumen": "La actriz Lola Herrera, a sus 91 años, sigue de gira por España con la obra de teatro 'Camino a la Meca'. La representación, que también cuenta con Natalia Dicenta y Carlos Olalla, ofrece una propuesta escénica que recorre el país.",
+  "en": {
+   "titulo": "Lola Herrera on Tour with the Play 'Camino a la Meca'",
+   "resumen": "Actress Lola Herrera, at 91 years old, continues her tour across Spain with the play 'Camino a la Meca'. The performance, also featuring Natalia Dicenta and Carlos Olalla, offers a theatrical production that travels the country."
+  },
+  "inicio": "2026-11-11",
+  "fin": "2026-11-11",
+  "hora": null,
+  "lugar": "Teatro",
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.7
+ },
+ "2809e26736": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/11/enrique-bunbury-obligado-para-concierto-mas-8000personas-llegado-2065189.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-11",
+  "es_plan": false
+ },
+ "88a02bf017": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/11/alba-carrillo-confirma-llegado-demanda-feliciano-lopez-ser-tranquilo-grave-afortunados-2066065.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-11",
+  "es_plan": false
+ },
+ "2575ccbc49": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/11/trestias-desembarca-teatro-las-esquinas-con-una-mezcla-humor-cabaret-2067480.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-11",
+  "es_plan": true,
+  "titulo": "Estreno de 'Trestias' en el Teatro de las Esquinas de Zaragoza",
+  "resumen": "El Teatro de las Esquinas de Zaragoza estrena este fin de semana 'Trestias', una comedia dirigida por Joan Gràcia (Tricicle) que promete humor y cabaret con la participación activa del público.",
+  "en": {
+   "titulo": "'Trestias' Premieres at Zaragoza's Teatro de las Esquinas",
+   "resumen": "Zaragoza's Teatro de las Esquinas premieres 'Trestias' this weekend, a comedy directed by Joan Gràcia (Tricicle) promising humor and cabaret with active audience participation."
+  },
+  "inicio": "2026-11-11",
+  "fin": "2026-11-13",
+  "hora": null,
+  "lugar": "Teatro de las Esquinas",
+  "municipio": "Zaragoza",
+  "provincia": "Zaragoza",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "c500cff6a1": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/11/miguel-mena-retrata-una-decada-convulsa-trilogia-los-80-2067443.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-11",
+  "es_plan": true,
+  "titulo": "Presentación de 'Trilogía de los 80' de Miguel Mena en Zaragoza",
+  "resumen": "El Rock & Blues Café de Zaragoza acogió la presentación de 'Trilogía de los 80', un volumen que reúne tres novelas de Miguel Mena. El autor conversó sobre su obra, que retrata una década convulsa.",
+  "en": {
+   "titulo": "Presentation of Miguel Mena's 'Trilogía de los 80' in Zaragoza",
+   "resumen": "The Rock & Blues Café in Zaragoza hosted the presentation of 'Trilogía de los 80', a volume collecting three novels by Miguel Mena. The author discussed his work, which portrays a turbulent decade."
+  },
+  "inicio": "2026-11-11",
+  "fin": "2026-11-11",
+  "hora": null,
+  "lugar": "Rock & Blues Café",
+  "municipio": "Zaragoza",
+  "provincia": "Zaragoza",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "7dba41a535": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/11/jose-mota-zaragoza-donde-empece-carrera-profesional-hice-todo-mili-2067433.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-11",
+  "es_plan": false
+ },
+ "833859dfb2": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/11/ana-maorad-objeto-es-una-excusa-para-sacar-que-llevas-dentro-2067341.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-11",
+  "es_plan": true,
+  "titulo": "Exposición 'Trashumancias' de Ana Maorad en Zaragoza",
+  "resumen": "La pintora Ana Maorad expone su muestra 'Trashumancias' en la Galería Olga Julián de Zaragoza hasta el 5 de diciembre. La exposición cuenta con Cristina Herrera como artista invitada.",
+  "en": {
+   "titulo": "'Trashumancias' Exhibition by Ana Maorad in Zaragoza",
+   "resumen": "Painter Ana Maorad is exhibiting her show 'Trashumancias' at the Olga Julián Gallery in Zaragoza until December 5th. The exhibition features Cristina Herrera as a guest artist."
+  },
+  "inicio": "2026-11-11",
+  "fin": "2026-12-05",
+  "hora": null,
+  "lugar": "Galería Olga Julián",
+  "municipio": "Zaragoza",
+  "provincia": "Zaragoza",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "ade56ee848": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/11/joan-manuel-serrat-buen-momento-nosotros-podemos-decir-que-pensamos-todo-esto-2067280.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-11",
+  "es_plan": false
+ },
+ "867143ef8c": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/11/antonio-lobato-anos-desayuno-barrita-aguacate-aceite-tomate-despues-escalar-tomo-cerveza-2067093.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-11",
+  "es_plan": false
+ },
+ "2a4a85e5f8": {
+  "url": "https://www.diariosur.es/culturas/huelga-medio-gas-sector-cultural-museos-abren-20261111133339-nt.html",
+  "fuente": "Diario Sur (Culturas)",
+  "src": "prensa-diariosur-culturas",
+  "publicado": "2026-11-11",
+  "es_plan": true,
+  "titulo": "Sector cultural en huelga: museos abiertos, librerías cerradas",
+  "resumen": "El sector cultural experimenta una jornada de huelga con museos abiertos al público y librerías cerradas. Los teatros no tienen agenda y los cines mantienen sus sesiones.",
+  "en": {
+   "titulo": "Cultural Sector Strike: Museums Open, Bookstores Closed",
+   "resumen": "The cultural sector experiences a strike day with museums open to the public and bookstores closed. Theaters have no scheduled events, and cinemas maintain their screenings."
+  },
+  "inicio": "2026-11-11",
+  "fin": "2026-11-11",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "museos",
+   "libros"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "60498f63ab": {
+  "url": "https://www.diariosur.es/culturas/festival-cueva-nerja-preve-volver-2027-tras-20261111115438-nt.html",
+  "fuente": "Diario Sur (Culturas)",
+  "src": "prensa-diariosur-culturas",
+  "publicado": "2026-11-11",
+  "es_plan": true,
+  "titulo": "El Festival de la Cueva de Nerja prevé su regreso en 2027",
+  "resumen": "El Festival de la Cueva de Nerja se prepara para volver en 2027 tras dos años de bloqueo legal. Un tribunal ha rechazado un recurso, permitiendo avanzar con una nueva edición que incluirá hasta doce espectáculos.",
+  "en": {
+   "titulo": "Nerja Cave Festival Expected to Return in 2027",
+   "resumen": "The Nerja Cave Festival is set to return in 2027 after two years of legal deadlock. A court has rejected an appeal, allowing progress on a new edition that will feature up to twelve shows."
+  },
+  "inicio": "2027-01-01",
+  "fin": "2027-12-31",
+  "hora": null,
+  "lugar": "Cueva de Nerja",
+  "municipio": "Nerja",
+  "provincia": "Málaga",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura",
+   "fiestas"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "1797876dc9": {
+  "url": "https://www.ideal.es/culturas/almeria/centro-andaluz-fotografia-programa-tres-talleres-abre-20261111132951-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-11-11",
+  "es_plan": true,
+  "titulo": "Talleres y Club de Fotolibros en el Centro Andaluz de la Fotografía",
+  "resumen": "El Centro Andaluz de la Fotografía en Almería programa tres talleres y abre la inscripción para su Club de Fotolibros. También prorroga exposiciones y presenta una actuación por el Día del Flamenco.",
+  "en": {
+   "titulo": "Workshops and Photobook Club at the Andalusian Center of Photography",
+   "resumen": "The Andalusian Center of Photography in Almería is offering three workshops and opening registration for its Photobook Club. It is also extending exhibitions and presenting a performance for Flamenco Day."
+  },
+  "inicio": "2026-11-11",
+  "fin": "2026-11-11",
+  "hora": null,
+  "lugar": "Centro Andaluz de la Fotografía",
+  "municipio": "Almería",
+  "provincia": "Almería",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "actividades",
+   "museos"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "c80f4ac795": {
+  "url": "https://www.ideal.es/culturas/almeria/fical-rinde-homenaje-actor-alfredo-landa-reestreno-20261111125627-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-11-11",
+  "es_plan": true,
+  "titulo": "Homenaje a Alfredo Landa en FICAL con el documental 'Landa'",
+  "resumen": "La XXV edición del Festival Internacional de Cine de Almería (FICAL) rinde homenaje al actor Alfredo Landa con el reestreno del documental 'Landa', dirigido por Gracia Querejeta y Miguel Olid.",
+  "en": {
+   "titulo": "Tribute to Alfredo Landa at FICAL with the Documentary 'Landa'",
+   "resumen": "The 25th edition of the Almería International Film Festival (FICAL) pays tribute to actor Alfredo Landa with the re-release of the documentary 'Landa', directed by Gracia Querejeta and Miguel Olid."
+  },
+  "inicio": "2026-11-11",
+  "fin": "2026-11-18",
+  "hora": null,
+  "lugar": "Biblioteca Villaespesa",
+  "municipio": "Almería",
+  "provincia": "Almería",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "pantalla",
+   "libros"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "75c44970a5": {
+  "url": "https://www.ideal.es/culturas/jorge-fernandez-bustos-duende-lirica-auditorio-caja-rural-20261111094726-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-11-11",
+  "es_plan": true,
+  "titulo": "Concierto de Mariola Cantarero en el Auditorio Caja Rural",
+  "resumen": "El Auditorio Caja Rural acoge un concierto de lírica y duende con la soprano Mariola Cantarero, acompañada por Juan Habichuela Nieto (guitarra), Antonio José Henares (piano), Eloy Heredia (flauta) y Miguel 'el Cheyenne' (percusión).",
+  "en": {
+   "titulo": "Mariola Cantarero Concert at Auditorio Caja Rural",
+   "resumen": "The Auditorio Caja Rural hosts a concert of lyricism and soul featuring soprano Mariola Cantarero, accompanied by Juan Habichuela Nieto (guitar), Antonio José Henares (piano), Eloy Heredia (flute), and Miguel 'el Cheyenne' (percussion)."
+  },
+  "inicio": "2026-11-10",
+  "fin": "2026-11-10",
+  "hora": null,
+  "lugar": "Auditorio Caja Rural",
+  "municipio": null,
+  "provincia": null,
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.5
+ },
+ "bd1c396a65": {
+  "url": "https://www.diariovasco.com/culturas/muere-stacy-keach-mitico-mike-hammer-alcaide-prison-break-20261111121739-nt.html",
+  "fuente": "El Diario Vasco (Culturas)",
+  "src": "prensa-diariovasco-culturas",
+  "publicado": "2026-11-11",
+  "es_plan": false
+ },
+ "5235ddbcee": {
+  "url": "https://www.diariovasco.com/culturas/libros/lucia-solla-sobral-hablamos-maltrato-fisico-psicologico-20261111000617-nt.html",
+  "fuente": "El Diario Vasco (Culturas)",
+  "src": "prensa-diariovasco-culturas",
+  "publicado": "2026-11-11",
+  "es_plan": true,
+  "titulo": "Lucía Solla Sobral en el festival Literaktum de Donostia",
+  "resumen": "La autora del libro 'Comerás flores', Lucía Solla Sobral, participa en el festival Literaktum en Donostia para hablar sobre el maltrato psicológico.",
+  "en": {
+   "titulo": "Lucía Solla Sobral at the Literaktum festival in Donostia",
+   "resumen": "Author Lucía Solla Sobral, of the book 'Comerás flores', is participating in the Literaktum festival in Donostia to discuss psychological abuse."
+  },
+  "inicio": "2026-11-11",
+  "fin": "2026-11-11",
+  "hora": null,
+  "lugar": null,
+  "municipio": "Donostia",
+  "provincia": "Gipuzkoa",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "f165dbece9": {
+  "url": "https://www.diariovasco.com/culturas/cine/mikel-g-gurpegui-critica-fiesta-pagana-banda-explosiva-20261111172752-nt.html",
+  "fuente": "El Diario Vasco (Culturas)",
+  "src": "prensa-diariovasco-culturas",
+  "publicado": "2026-11-11",
+  "es_plan": false
+ },
+ "fd317ee088": {
+  "url": "https://www.diariovasco.com/culturas/cristina-iglesias-inaugura-nueva-york-esperan-citas-20261111000636-nt.html",
+  "fuente": "El Diario Vasco (Culturas)",
+  "src": "prensa-diariovasco-culturas",
+  "publicado": "2026-11-11",
+  "es_plan": true,
+  "titulo": "Cristina Iglesias inaugura exposiciones en Nueva York, Londres, Venecia y París",
+  "resumen": "La artista Cristina Iglesias tiene programadas inauguraciones en Nueva York, con futuras citas en Londres, Venecia y París, culminando con una gran muestra en la Fundación Cartier.",
+  "en": {
+   "titulo": "Cristina Iglesias inaugurates exhibitions in New York, London, Venice, and Paris",
+   "resumen": "Artist Cristina Iglesias has upcoming inaugurations scheduled in New York, with future dates in London, Venice, and Paris, culminating in a major exhibition at the Fondation Cartier."
+  },
+  "inicio": "2026-11-11",
+  "fin": "2026-11-11",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": "Gipuzkoa",
+  "ambito": "nacional",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.7
+ },
+ "40fd6d89ff": {
+  "url": "https://www.lasprovincias.es/culturas/tv/muere-actriz-valenciana-elisa-ramirez-rostro-destacado-20261111130634-nt.html",
+  "fuente": "Las Provincias (Culturas)",
+  "src": "prensa-lasprovincias-culturas",
+  "publicado": "2026-11-11",
+  "es_plan": false
+ },
+ "f859cbf928": {
+  "url": "https://www.lasprovincias.es/culturas/libros/ibon-martin-mercado-central-vez-tomates-perello-20261110002924-nt.html",
+  "fuente": "Las Provincias (Culturas)",
+  "src": "prensa-lasprovincias-culturas",
+  "publicado": "2026-11-11",
+  "es_plan": false
+ },
+ "6abda08394": {
+  "url": "https://www.lasprovincias.es/culturas/funcion-teatros-olympia-talia-11n-20261111102100-nt.html",
+  "fuente": "Las Provincias (Culturas)",
+  "src": "prensa-lasprovincias-culturas",
+  "publicado": "2026-11-11",
+  "es_plan": false
+ },
+ "7e1b5f5b5b": {
+  "url": "https://www.lasprovincias.es/culturas/teatro/obra-teatro-valenciana-conquistado-arturo-perezreverte-20261109004441-nt.html",
+  "fuente": "Las Provincias (Culturas)",
+  "src": "prensa-lasprovincias-culturas",
+  "publicado": "2026-11-11",
+  "es_plan": true,
+  "titulo": "Estreno de 'Los duelistas' en Les Arts de Valencia",
+  "resumen": "La obra de teatro valenciana 'Los duelistas', inspirada en la novela de Joseph Conrad y dirigida por Gutiérrez Caba, se estrena este jueves en Les Arts de Valencia.",
+  "en": {
+   "titulo": "Premiere of 'Los duelistas' at Les Arts in Valencia",
+   "resumen": "The Valencian play 'Los duelistas', inspired by Joseph Conrad's novel and directed by Gutiérrez Caba, premieres this Thursday at Les Arts in Valencia."
+  },
+  "inicio": "2026-11-13",
+  "fin": "2026-11-13",
+  "hora": null,
+  "lugar": "Les Arts",
+  "municipio": null,
+  "provincia": "Comunitat Valenciana",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.5
+ },
+ "383331ad25": {
+  "url": "https://www.lasprovincias.es/culturas/tv/simpson-fecha-estreno-37a-temporada-neox-20261110002001-nt.html",
+  "fuente": "Las Provincias (Culturas)",
+  "src": "prensa-lasprovincias-culturas",
+  "publicado": "2026-11-11",
+  "es_plan": true,
+  "titulo": "Estreno de la 37ª temporada de 'Los Simpson' en Neox",
+  "resumen": "La mítica serie 'Los Simpson' estrena su 37ª temporada en Neox, prometiendo 15 nuevos episodios cargados de humor para sus seguidores.",
+  "en": {
+   "titulo": "Premiere of the 37th season of 'The Simpsons' on Neox",
+   "resumen": "The iconic series 'The Simpsons' premieres its 37th season on Neox, promising 15 new episodes full of humor for its fans."
+  },
+  "inicio": "2026-11-11",
+  "fin": "2026-11-11",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": "Comunitat Valenciana",
+  "ambito": "nacional",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "pantalla"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "65e9af2d5a": {
+  "url": "https://www.lasprovincias.es/culturas/tv/tve-emite-hoy-miercoles-pelicula-espanola-hizo-20261110001932-nt.html",
+  "fuente": "Las Provincias (Culturas)",
+  "src": "prensa-lasprovincias-culturas",
+  "publicado": "2026-11-11",
+  "es_plan": true,
+  "titulo": "Película española histórica en TVE este miércoles",
+  "resumen": "TVE emite hoy una película española que marcó un hito en los premios Goya, ofreciendo una opción cinematográfica para la noche del 11 de noviembre.",
+  "en": {
+   "titulo": "Historic Spanish film on TVE this Wednesday",
+   "resumen": "TVE is broadcasting a Spanish film today that made history at the Goya Awards, offering a cinematic option for the evening of November 11th."
+  },
+  "inicio": "2026-11-11",
+  "fin": "2026-11-11",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": "Comunitat Valenciana",
+  "ambito": "nacional",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "pantalla",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "5615ded6d1": {
+  "url": "https://www.laverdad.es/culturas/zorroclocos-lobos-regresa-sabado-cocheras-biblioteca-regional-20261111131645-nt.html",
+  "fuente": "La Verdad (Culturas)",
+  "src": "prensa-laverdad-culturas",
+  "publicado": "2026-11-11",
+  "es_plan": true,
+  "titulo": "Festival Zorroclocos e Lobos de autoedición en Murcia",
+  "resumen": "La decimocuarta edición del festival Zorroclocos e Lobos regresa este sábado a las cocheras de la Biblioteca Regional de Murcia, presentando 38 puestos de autoedición gráfica y sonora, conciertos y talleres.",
+  "en": {
+   "titulo": "Zorroclocos e Lobos self-publishing festival in Murcia",
+   "resumen": "The fourteenth edition of the Zorroclocos e Lobos festival returns this Saturday to the Murcia Regional Library's garages, featuring 38 stalls of graphic and sound self-publishing, concerts, and workshops."
+  },
+  "inicio": "2026-11-14",
+  "fin": "2026-11-14",
+  "hora": null,
+  "lugar": "cocheras de la Biblioteca Regional",
+  "municipio": null,
+  "provincia": "Región de Murcia",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "libros",
+   "musica"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.5
+ },
+ "390e34def4": {
+  "url": "https://www.eldiariomontanes.es/culturas/abrego-hilo-producciones-regresan-aulas-nueve-obras-20261111072442-nt.html",
+  "fuente": "El Diario Montañés (Culturas)",
+  "src": "prensa-diariomontanes-culturas",
+  "publicado": "2026-11-11",
+  "es_plan": true,
+  "titulo": "Campaña escolar de teatro de Ábrego e Hilo Producciones en Cantabria",
+  "resumen": "La campaña escolar de teatro de Ábrego e Hilo Producciones inicia su 17ª edición desde mañana hasta el 21 de diciembre, con nueve obras en La Teatrería y el Casyc.",
+  "en": {
+   "titulo": "School theater campaign by Ábrego e Hilo Producciones in Cantabria",
+   "resumen": "The school theater campaign by Ábrego e Hilo Producciones begins its 17th edition from tomorrow until December 21st, with nine plays at La Teatrería and Casyc."
+  },
+  "inicio": "2026-11-12",
+  "fin": "2026-12-21",
+  "hora": null,
+  "lugar": "La Teatrería y el Casyc",
+  "municipio": null,
+  "provincia": "Cantabria",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "ninos"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "ba2339af0f": {
+  "url": "https://www.eldiariomontanes.es/culturas/ciclo-vital-pedro-zubizarreta-suma-museo-naturaleza-20261111072432-nt.html",
+  "fuente": "El Diario Montañés (Culturas)",
+  "src": "prensa-diariomontanes-culturas",
+  "publicado": "2026-11-11",
+  "es_plan": true,
+  "titulo": "Exposición 'Ciclo Vital' de Pedro Zubizarreta en el Museo de la Naturaleza",
+  "resumen": "El Museo de la Naturaleza de Cantabria acoge la exposición 'Ciclo Vital' del artista visual Pedro Zubizarreta, que exhibe sus dibujos hasta abril.",
+  "en": {
+   "titulo": "'Ciclo Vital' exhibition by Pedro Zubizarreta at the Museum of Nature",
+   "resumen": "The Museum of Nature in Cantabria is hosting the 'Ciclo Vital' exhibition by multidisciplinary visual artist Pedro Zubizarreta, showcasing his drawings until April."
+  },
+  "inicio": "2026-11-11",
+  "fin": "2027-04-30",
+  "hora": null,
+  "lugar": "Museo de la Naturaleza",
+  "municipio": null,
+  "provincia": "Cantabria",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "museos",
+   "naturaleza"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "0379be8b76": {
+  "url": "https://www.elcomercio.es/culturas/arte/bellas-artes-une-exposicion-thyssen-dali-20261111102306-nt.html",
+  "fuente": "El Comercio (Culturas)",
+  "src": "prensa-elcomercio-culturas",
+  "publicado": "2026-11-11",
+  "es_plan": true,
+  "titulo": "El Bellas Artes se une a la exposición del Thyssen sobre Dalí y Freud",
+  "resumen": "El Museo Bellas Artes de Asturias se suma a la exposición del Thyssen sobre la influencia de Freud en Dalí, incorporando la obra 'Metamorfosis' de Francisco Fresno.",
+  "en": {
+   "titulo": "Bellas Artes joins the Thyssen exhibition on Dalí and Freud",
+   "resumen": "The Bellas Artes Museum of Asturias is joining the Thyssen exhibition on the influence of Freud on Dalí, incorporating Francisco Fresno's work 'Metamorfosis'."
+  },
+  "inicio": "2026-11-11",
+  "fin": "2026-11-11",
+  "hora": null,
+  "lugar": "Museo Bellas Artes",
+  "municipio": null,
+  "provincia": "Asturias",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "c881bd51a6": {
+  "url": "https://www.europapress.es/cultura/noticia-gobierno-obliga-plataformas-destacar-obra-europea-portada-regular-reparto-lenguas-cooficiales-20261110151917.html",
+  "fuente": "Europa Press (Cultura)",
+  "src": "prensa-europapress-cultura",
+  "publicado": "2026-11-10",
+  "es_plan": false
+ },
+ "e6808c08d7": {
+  "url": "https://www.20minutos.es/cultura/galeria-las-colecciones-reales-reune-estuches-cofres-arquetas-una-muestra-sobre-arte-guardar_7059521_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-11-10",
+  "es_plan": true,
+  "titulo": "Exposición 'El arte de guardar' en la Galería de las Colecciones Reales",
+  "resumen": "La Galería de las Colecciones Reales presenta una exposición sobre estuches, cofres y arquetas reales. La muestra, que explora el arte de guardar objetos valiosos, estará abierta al público hasta el 21 de febrero.",
+  "en": {
+   "titulo": "Exhibition 'The Art of Keeping' at the Gallery of Royal Collections",
+   "resumen": "The Gallery of Royal Collections presents an exhibition on royal cases, chests, and caskets. The exhibition, exploring the art of keeping valuable objects, will be open to the public until February 21st."
+  },
+  "inicio": "2026-11-11",
+  "fin": "2027-02-21",
+  "hora": null,
+  "lugar": "Galería de las Colecciones Reales",
+  "municipio": "Madrid",
+  "provincia": "Madrid",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.95
+ },
+ "d0eeba56c7": {
+  "url": "https://www.20minutos.es/cultura/teatros-musicales-cancelan-reprograman-sus-funciones-este-miercoles-por-huelga-general_7059363_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-11-10",
+  "es_plan": false
+ },
+ "09de3ef48d": {
+  "url": "https://elpais.com/cultura/2026-11-10/el-arte-de-la-miseria-humana-del-colombiano-miguel-angel-rojas-la-exposicion-que-probablemente-no-se-podria-ver-ahora-en-su-pais.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-11-10",
+  "es_plan": true,
+  "titulo": "Exposición de Miguel Ángel Rojas en el Museo Reina Sofía",
+  "resumen": "El Museo Reina Sofía inaugura una retrospectiva del artista conceptual colombiano Miguel Ángel Rojas. La exposición aborda temas como migraciones, educación y derechos humanos, y se presenta como un 'presente eterno'.",
+  "en": {
+   "titulo": "Miguel Ángel Rojas Exhibition at the Reina Sofía Museum",
+   "resumen": "The Reina Sofía Museum inaugurates a retrospective of the Colombian conceptual artist Miguel Ángel Rojas. The exhibition addresses themes such as migration, education, and human rights, and is presented as an 'eternal present'."
+  },
+  "inicio": "2026-11-11",
+  "fin": "2026-11-11",
+  "hora": null,
+  "lugar": "Museo Reina Sofía",
+  "municipio": "Madrid",
+  "provincia": "Madrid",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.95
+ },
+ "fa47a8172a": {
+  "url": "https://elpais.com/economia/2026-11-10/el-gobierno-obliga-a-las-plataformas-a-dar-mayor-visibilidad-al-cine-espanol-y-europeo-en-sus-catalogos.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-11-10",
+  "es_plan": false
+ },
+ "131b5d7c22": {
+  "url": "https://elpais.com/cultura/2026-11-10/jo-nesbo-ser-feliz-es-como-caminar-sobre-hielo-que-se-resquebraja-casi-es-mejor-que-se-rompa-del-todo.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-11-10",
+  "es_plan": false
+ },
+ "a6f8b7287f": {
+  "url": "https://elpais.com/suscripciones/elpaismas/experiencias/2026-11-10/gana-entradas-para-mantener-fuera-del-alcance-de-los-ninos.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-11-10",
+  "es_plan": true,
+  "titulo": "Obra 'Mantener fuera del alcance de los niños' en el Teatro de La Abadía",
+  "resumen": "El Teatro de La Abadía estrena 'Mantener fuera del alcance de los niños', una obra de María Velasco que explora el terror de la exclusión y el sentimiento de no pertenecer, con participación de Al-Blanco y Mario Patrón.",
+  "en": {
+   "titulo": "Play 'Keep Out of Reach of Children' at La Abadía Theatre",
+   "resumen": "La Abadía Theatre premieres 'Keep Out of Reach of Children', a play by María Velasco exploring the terror of exclusion and the feeling of not belonging, featuring Al-Blanco and Mario Patrón."
+  },
+  "inicio": "2026-11-11",
+  "fin": "2026-11-11",
+  "hora": null,
+  "lugar": "Teatro de La Abadía",
+  "municipio": "Madrid",
+  "provincia": "Madrid",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.95
+ },
+ "a0d11debfe": {
+  "url": "https://elpais.com/suscripciones/elpaismas/experiencias/2026-11-10/visita-la-exposicion-de-charlotte-perriand-en-la-fundacio-joan-miro.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-11-10",
+  "es_plan": true,
+  "titulo": "Exposición de Charlotte Perriand en la Fundació Joan Miró",
+  "resumen": "La Fundació Joan Miró presenta la primera gran exposición en España dedicada a la influyente diseñadora Charlotte Perriand. La muestra reivindica la dimensión moderna de su obra.",
+  "en": {
+   "titulo": "Charlotte Perriand Exhibition at Fundació Joan Miró",
+   "resumen": "The Fundació Joan Miró presents the first major exhibition in Spain dedicated to the influential designer Charlotte Perriand. The exhibition highlights the modern dimension of her work."
+  },
+  "inicio": "2026-11-11",
+  "fin": "2026-11-11",
+  "hora": null,
+  "lugar": "Fundació Joan Miró",
+  "municipio": "Barcelona",
+  "provincia": "Barcelona",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.95
+ },
+ "911be7fdac": {
+  "url": "https://elpais.com/cultura/2026-11-10/jose-maria-garzon-anuncia-cambios-ganaderos-para-el-abono-sevillano-de-2027-y-pide-perdon-por-la-presentacion-de-algunos-toros.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-11-10",
+  "es_plan": false
+ },
+ "c2c239c256": {
+  "url": "https://www.lavanguardia.com/cultura/20261110/11681052/xirgu-teatre-lliure-institut-del-teatre-it.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-10",
+  "es_plan": true,
+  "titulo": "Estreno de la obra 'Xirgu' en el Teatre Lliure",
+  "resumen": "El Teatre Lliure estrena 'Xirgu', una obra que reivindica la figura de la actriz y directora teatral Margarida Xirgu, exiliada tras la Guerra Civil. El espectáculo coincide con el 50 aniversario del teatro.",
+  "en": {
+   "titulo": "Premiere of the Play 'Xirgu' at Teatre Lliure",
+   "resumen": "Teatre Lliure premieres 'Xirgu', a play that vindicates the figure of actress and theater director Margarida Xirgu, exiled after the Civil War. The show coincides with the theater's 50th anniversary."
+  },
+  "inicio": "2026-11-11",
+  "fin": "2026-11-11",
+  "hora": null,
+  "lugar": "Teatre Lliure",
+  "municipio": "Barcelona",
+  "provincia": "Barcelona",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.95
+ },
+ "3d25b49f3c": {
+  "url": "https://www.lavanguardia.com/cultura/20261110/11681035/festival-loop-lleva-videoarte-floristeria-barberia-toda-vida.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-10",
+  "es_plan": true,
+  "titulo": "Festival Loop de videoarte en Barcelona",
+  "resumen": "El festival Loop de videoarte se celebra en Barcelona del 17 al 19 de noviembre, con una feria en el hotel Almanac y proyecciones en diversos espacios de la ciudad, incluyendo una barbería.",
+  "en": {
+   "titulo": "Loop Video Art Festival in Barcelona",
+   "resumen": "The Loop video art festival takes place in Barcelona from November 17th to 19th, featuring a fair at the Almanac hotel and screenings in various city spaces, including a barbershop."
+  },
+  "inicio": "2026-11-17",
+  "fin": "2026-11-19",
+  "hora": null,
+  "lugar": "Hotel Almanac y otros espacios",
+  "municipio": "Barcelona",
+  "provincia": "Barcelona",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "actividades",
+   "museos"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.95
+ },
+ "5a13d58abf": {
+  "url": "https://www.lavanguardia.com/cultura/20261110/11681023/mirada-femenina-prerrafaelismo-delirios-vanguardia-paseo-recoletos.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-10",
+  "es_plan": true,
+  "titulo": "Exposiciones en la Fundación Mapfre de Madrid",
+  "resumen": "La Fundación Mapfre en Madrid presenta tres exposiciones que recorren desde el prerrafaelismo hasta la fotografía de mediados del siglo XX, incluyendo vanguardias.",
+  "en": {
+   "titulo": "Exhibitions at Fundación Mapfre in Madrid",
+   "resumen": "Fundación Mapfre in Madrid presents three exhibitions covering from Pre-Raphaelitism to mid-20th century photography, including avant-garde movements."
+  },
+  "inicio": "2026-11-11",
+  "fin": "2027-01-10",
+  "hora": null,
+  "lugar": "Fundación Mapfre",
+  "municipio": "Madrid",
+  "provincia": "Madrid",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.95
+ },
+ "0713308df5": {
+  "url": "https://llegim.ara.cat/actualitat/l-escriptora-trobar-ant-enorme-davant-casa-seva-claudia-ulloa-donoso_1_5884947.html",
+  "fuente": "Ara (Cultura)",
+  "src": "prensa-ara-cultura",
+  "publicado": "2026-11-10",
+  "es_plan": false
+ },
+ "8ab68d2b40": {
+  "url": "https://www.ara.cat/media/marato-escalfa-motors-35a-edicio-record-testimonis_1_5905997.html",
+  "fuente": "Ara (Cultura)",
+  "src": "prensa-ara-cultura",
+  "publicado": "2026-11-10",
+  "es_plan": true,
+  "titulo": "La Marató 2026: edición dedicada a enfermedades neurodegenerativas",
+  "resumen": "La Marató de 3Cat se prepara para su 35ª edición, dedicada a las enfermedades neurodegenerativas y neuromusculares. El evento solidario contará con más de 40 testimonios y se emitirá el 13 de diciembre.",
+  "en": {
+   "titulo": "La Marató 2026: Edition Dedicated to Neurodegenerative Diseases",
+   "resumen": "3Cat's La Marató prepares for its 35th edition, dedicated to neurodegenerative and neuromuscular diseases. The solidarity event will feature over 40 testimonials and will be broadcast on December 13th."
+  },
+  "inicio": "2026-12-13",
+  "fin": "2026-12-13",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "actividades",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.95
+ },
+ "284f75f5ab": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/10/nacho-lamar-fan-kaseo-viste-grammy-latinos-2067475.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-10",
+  "es_plan": false
+ },
+ "6eb9af1ec2": {
+  "url": "https://www.elnortedecastilla.es/culturas/musica/josva-reune-tres-generaciones-mozart-gen-genio-20261110164325-nt.html",
+  "fuente": "El Norte de Castilla (Culturas)",
+  "src": "prensa-nortecastilla-culturas",
+  "publicado": "2026-11-10",
+  "es_plan": true,
+  "titulo": "Concierto de la JOSVa 'El gen del genio' en el Auditorio Miguel Delibes",
+  "resumen": "La Joven Orquesta Sinfónica de Valladolid (JOSVa) presenta su concierto de otoño 'El gen del genio' este domingo en el Auditorio Miguel Delibes, con la participación del pianista Carlos Marín.",
+  "en": {
+   "titulo": "JOSVa Concert 'The Genius Gene' at Miguel Delibes Auditorium",
+   "resumen": "The Young Symphony Orchestra of Valladolid (JOSVa) presents its autumn concert 'The Genius Gene' this Sunday at the Miguel Delibes Auditorium, featuring pianist Carlos Marín."
+  },
+  "inicio": "2026-11-15",
+  "fin": "2026-11-15",
+  "hora": null,
+  "lugar": "Auditorio Miguel Delibes",
+  "municipio": "Valladolid",
+  "provincia": "Valladolid",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.95
  }
 }
