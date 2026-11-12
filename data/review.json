@@ -118,5 +118,25 @@
   "confianza": 0.5,
   "fuente": "La Verdad (Culturas)",
   "url": "https://www.laverdad.es/culturas/zorroclocos-lobos-regresa-sabado-cocheras-biblioteca-regional-20261111131645-nt.html"
+ },
+ {
+  "id": "50035a60a3",
+  "titulo": "Festival Distopía: tres proyecciones y mesa redonda medioambiental",
+  "inicio": "2026-11-12",
+  "municipio": null,
+  "provincia": "Región de Murcia",
+  "confianza": 0.5,
+  "fuente": "La Verdad (Culturas)",
+  "url": "https://www.laverdad.es/culturas/festival-distopia-arranca-jueves-tres-proyecciones-20261112131532-nt.html"
+ },
+ {
+  "id": "872447bb61",
+  "titulo": "Festival Determinantes: teatro, danza, monólogos y talleres en Murcia",
+  "inicio": "2026-11-17",
+  "municipio": "Murcia",
+  "provincia": "Región de Murcia",
+  "confianza": 0.5,
+  "fuente": "La Verdad (Culturas)",
+  "url": "https://www.laverdad.es/culturas/festival-determinantes-aunara-teatro-danza-monologos-mesas-20261112131503-nt.html"
  }
 ]

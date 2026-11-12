@@ -19752,5 +19752,1062 @@
   ],
   "a_cubierto": true,
   "confianza": 0.95
+ },
+ "ee9a68d252": {
+  "url": "https://www.20minutos.es/musica/u2-anuncia-un-segundo-concierto-sevilla-24-mayo-2027_7060276_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-11-12",
+  "es_plan": true,
+  "titulo": "U2 anuncia segundo concierto en Sevilla en mayo de 2027",
+  "resumen": "La banda irlandesa U2 ofrecerá un segundo concierto en el estadio de La Cartuja de Sevilla el 24 de mayo de 2027, sumándose al ya anunciado el 22 de mayo, debido a la alta demanda. Las entradas saldrán a la venta general el 13 de noviembre.",
+  "en": {
+   "titulo": "U2 announces second concert in Seville in May 2027",
+   "resumen": "Irish band U2 will offer a second concert at La Cartuja stadium in Seville on May 24, 2027, adding to the one already announced for May 22, due to high demand. General ticket sales begin November 13."
+  },
+  "inicio": "2027-05-24",
+  "fin": "2027-05-24",
+  "hora": null,
+  "lugar": "Estadio de La Cartuja",
+  "municipio": "Sevilla",
+  "provincia": "Sevilla",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "musica"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "92ea12368a": {
+  "url": "https://www.20minutos.es/musica/estopa-premio-20minutos-2026-no-gustaria-que-espana-haya-respeto-futuro_7059795_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-11-12",
+  "es_plan": false
+ },
+ "d1db15c545": {
+  "url": "https://www.20minutos.es/musica/juan-luis-guerra-encabezara-cuarta-edicion-starlite-occident-madrid-con-dos-conciertos-diciembre_7060248_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-11-12",
+  "es_plan": true,
+  "titulo": "Juan Luis Guerra en Starlite Occident Madrid en diciembre",
+  "resumen": "Juan Luis Guerra ofrecerá dos conciertos en Starlite Occident Madrid los días 16 y 18 de diciembre, como cierre del 15 aniversario del festival. También se celebrará la segunda edición en España de Billboard No.1s el 15 de diciembre.",
+  "en": {
+   "titulo": "Juan Luis Guerra at Starlite Occident Madrid in December",
+   "resumen": "Juan Luis Guerra will perform two concerts at Starlite Occident Madrid on December 16 and 18, closing the festival's 15th anniversary. The second edition of Billboard No.1s in Spain will also take place on December 15."
+  },
+  "inicio": "2026-12-16",
+  "fin": "2026-12-18",
+  "hora": null,
+  "lugar": "Starlite Occident Madrid",
+  "municipio": "Madrid",
+  "provincia": "Madrid",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "e15d2fec67": {
+  "url": "https://www.20minutos.es/cultura/josep-vicent-vs-gustavo-dudamel-un-grammy-latino-se-disputa-las-vegas_7059700_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-11-12",
+  "es_plan": false
+ },
+ "25b891b1af": {
+  "url": "https://www.20minutos.es/libros/escucha-como-genero-literario-sonara-festival-poetas-2026-casa-encendida-madrid_7059388_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-11-12",
+  "es_plan": true,
+  "titulo": "Festival POETAS 2026 en La Casa Encendida, Madrid",
+  "resumen": "La 21ª edición del festival POETAS se celebrará en La Casa Encendida de Madrid los días 20 y 21 de noviembre, centrándose en la escucha como género literario con 19 proyectos escénicos que fusionan poesía, música y artes vivas.",
+  "en": {
+   "titulo": "POETAS 2026 Festival at La Casa Encendida, Madrid",
+   "resumen": "The 21st edition of the POETAS festival will take place at La Casa Encendida in Madrid on November 20 and 21, focusing on listening as a literary genre with 19 performance projects blending poetry, music, and live arts."
+  },
+  "inicio": "2026-11-20",
+  "fin": "2026-11-21",
+  "hora": null,
+  "lugar": "La Casa Encendida",
+  "municipio": "Madrid",
+  "provincia": "Madrid",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "musica",
+   "libros"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "902fc3e03d": {
+  "url": "https://elpais.com/cultura/2026-11-12/la-mare-cantante-y-compositora-tenemos-discursos-de-odio-que-antes-eran-impensables-y-estan-siendo-reforzados-y-justificados.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-11-12",
+  "es_plan": false
+ },
+ "5719b08b69": {
+  "url": "https://elpais.com/cultura/2026-11-12/souto-de-moura-y-chipperfield-dos-premios-pritzker-debaten-sobre-la-crisis-de-la-vivienda-es-el-principal-problema-politico.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-11-12",
+  "es_plan": false
+ },
+ "e14bfa13ab": {
+  "url": "https://elpais.com/cultura/2026-11-12/valerio-rocco-filosofo-nos-matamos-en-el-gimnasio-pero-evitamos-el-dolor-de-pensar.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-11-12",
+  "es_plan": false
+ },
+ "40a573a637": {
+  "url": "https://elpais.com/cultura/2026-11-12/un-dia-para-descubrir-el-madrid-real-y-varios-mas-para-explorar-otros-reales-sitios.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-11-12",
+  "es_plan": false
+ },
+ "d7c7c67082": {
+  "url": "https://www.lavanguardia.com/cultura/20261112/11682382/bola-negra-querido-celeste-t2-castillo-copan-nominaciones-premios-forque-cine-series.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-12",
+  "es_plan": false
+ },
+ "513443944e": {
+  "url": "https://www.lavanguardia.com/cultura/20261112/11681881/arundhati-roy-berlinale-no-podia-hablar-genocidio.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-12",
+  "es_plan": false
+ },
+ "409af4bfb4": {
+  "url": "https://www.lavanguardia.com/cultura/20261112/11682095/lecciones-cine-mudo.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-12",
+  "es_plan": false
+ },
+ "c9d29f0424": {
+  "url": "https://www.ara.cat/cultura/passa-music-pop-rock-capbussa-cancons-tradicio-oral-cantut-mazoni_1_5907011.html",
+  "fuente": "Ara (Cultura)",
+  "src": "prensa-ara-cultura",
+  "publicado": "2026-11-12",
+  "es_plan": true,
+  "titulo": "Mazoni estrena espectáculo sobre la mentira en el festival Càntut",
+  "resumen": "El músico Mazoni estrena un nuevo espectáculo basado en canciones populares sobre la mentira, que se presentará el 13 de noviembre en el festival Càntut de Cassà de la Selva y el 9 de diciembre en Barcelona.",
+  "en": {
+   "titulo": "Mazoni premieres show about lies at Càntut festival",
+   "resumen": "Musician Mazoni premieres a new show based on popular songs about lies, which will be presented on November 13 at the Càntut festival in Cassà de la Selva and on December 9 in Barcelona."
+  },
+  "inicio": "2026-11-13",
+  "fin": "2026-11-13",
+  "hora": null,
+  "lugar": "Festival Càntut",
+  "municipio": "Cassà de la Selva",
+  "provincia": "Girona",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura",
+   "fiestas"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "f82bace433": {
+  "url": "https://www.ara.cat/media/series/doble-racio-thriller-germanes-traumatitzades-the-good-daughter-infamia-arriben-hbo-max_1_5908024.html",
+  "fuente": "Ara (Cultura)",
+  "src": "prensa-ara-cultura",
+  "publicado": "2026-11-12",
+  "es_plan": true,
+  "titulo": "Nuevas series de HBO Max: 'The good daughter' y 'Infamia'",
+  "resumen": "HBO Max estrena dos nuevas series de género thriller basadas en novelas: 'The good daughter' disponible el jueves y 'Infamia' el viernes. Ambas exploran tramas de suspense y drama.",
+  "en": {
+   "titulo": "New HBO Max series: 'The good daughter' and 'Infamia'",
+   "resumen": "HBO Max premieres two new thriller series based on novels: 'The good daughter' available on Thursday and 'Infamia' on Friday. Both explore suspense and drama plots."
+  },
+  "inicio": "2026-11-13",
+  "fin": "2026-11-14",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "pantalla",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "1f2a2f4f2d": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/12/bola-negra-ser-querido-tres-adioses-nominadas-premios-forque-2067975.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-12",
+  "es_plan": false
+ },
+ "7a8b15bc3a": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/12/andadura-zaragoza-art-fair-comienza-con-grandes-expectativas-2068029.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-12",
+  "es_plan": true,
+  "titulo": "Zaragoza Art Fair: Primera edición de la feria de arte contemporáneo",
+  "resumen": "La Zaragoza Art Fair (ZAF) celebra su primera edición en Zaragoza, reuniendo galerías, artistas y público en el Palacio de Montemuzo, el Centro de Historias y el Torreón Fortea. La entrada es gratuita.",
+  "en": {
+   "titulo": "Zaragoza Art Fair: First edition of the contemporary art fair",
+   "resumen": "The Zaragoza Art Fair (ZAF) celebrates its first edition in Zaragoza, bringing together galleries, artists, and the public at the Palacio de Montemuzo, Centro de Historias, and Torreón Fortea. Admission is free."
+  },
+  "inicio": "2026-11-12",
+  "fin": "2026-11-15",
+  "hora": null,
+  "lugar": "Palacio de Montemuzo, Centro de Historias, Torreón Fortea",
+  "municipio": "Zaragoza",
+  "provincia": "Zaragoza",
+  "ambito": "local",
+  "gratis": true,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "4c907683be": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/12/israel-amo-experto-musical-amaia-montero-jamas-ofrecido-tecnica-vocal-increible-no-descartaria-estrategia-siga-hablando-2068020.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-12",
+  "es_plan": false
+ },
+ "e3cbf7a735": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/12/sagrada-familia-inaugura-escultura-colaborado-presos-cataluna-2068015.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-12",
+  "es_plan": true,
+  "titulo": "Escultura colaborativa de presos en la Sagrada Familia",
+  "resumen": "La Basílica de la Sagrada Familia en Barcelona inaugura una escultura creada con la colaboración de 180 presos y expresos de Cataluña, que se podrá visitar hasta finales de mes.",
+  "en": {
+   "titulo": "Collaborative sculpture by inmates at Sagrada Familia",
+   "resumen": "The Sagrada Familia Basilica in Barcelona inaugurates a sculpture created with the collaboration of 180 inmates and former inmates from Catalonia, which can be visited until the end of the month."
+  },
+  "inicio": "2026-11-12",
+  "fin": "2026-11-30",
+  "hora": null,
+  "lugar": "Basílica de la Sagrada Familia",
+  "municipio": "Barcelona",
+  "provincia": "Barcelona",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "377b9f7bd6": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/12/gonzalo-miro-presentador-cena-idiotas-anos-nunca-echado-menos-figura-paterna-felipe-gonzalez-amigo-persona-conoce-bien-2067988.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-12",
+  "es_plan": false
+ },
+ "6278e23469": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/12/cdan-recupera-arte-textil-maria-sarrate-eclipsado-durante-anos-por-figura-jose-beulas-2067991.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-12",
+  "es_plan": true,
+  "titulo": "Exposición de arte textil de María Sarrate en el CDAN de Huesca",
+  "resumen": "El Centro de Arte y Naturaleza (CDAN) de Huesca inaugura la exposición 'María Sarrate Tejedora', dedicada a los tapices de la artista, y la muestra 'A media lumbre'.",
+  "en": {
+   "titulo": "Exhibition of textile art by María Sarrate at CDAN in Huesca",
+   "resumen": "The Center for Art and Nature (CDAN) in Huesca inaugurates the exhibition 'María Sarrate Tejedora', dedicated to the artist's tapestries, and the exhibition 'A media lumbre'."
+  },
+  "inicio": "2026-11-12",
+  "fin": "2026-11-12",
+  "hora": "19:00",
+  "lugar": "Centro de Arte y Naturaleza (CDAN)",
+  "municipio": "Huesca",
+  "provincia": "Huesca",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "0e2effe9ac": {
+  "url": "https://www.heraldo.es/ocio-y-cultura/fotos-cdan-recupera-los-tapices-maria-sarrate-presenta-su-nueva-temporada-expositiva-2067996-1.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-12",
+  "es_plan": true,
+  "titulo": "El CDAN de Huesca presenta tapices de María Sarrate y nueva temporada",
+  "resumen": "El CDAN de Huesca reivindica la obra de María Sarrate con una exposición de sus tapices y estrena 'A media lumbre', conectando oficios tradicionales con la naturaleza.",
+  "en": {
+   "titulo": "CDAN Huesca presents María Sarrate's tapestries and new exhibition season",
+   "resumen": "CDAN Huesca highlights María Sarrate's work with an exhibition of her tapestries and premieres 'A media lumbre', connecting traditional crafts with nature."
+  },
+  "inicio": "2026-11-12",
+  "fin": "2026-11-12",
+  "hora": null,
+  "lugar": "Centro de Arte y Naturaleza (CDAN)",
+  "municipio": "Huesca",
+  "provincia": "Huesca",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "museos",
+   "naturaleza"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "6a1f473b28": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/12/morante-puebla-rompe-banderillero-burlas-plaza-toros-zaragoza-2067926.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-12",
+  "es_plan": false
+ },
+ "0679b7af38": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/12/julio-jose-iglesias-encanta-gente-diga-quiera-gustaria-primero-vieran-show-antes-opinar-2066110.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-12",
+  "es_plan": true,
+  "titulo": "Julio Iglesias Jr. rinde homenaje a su padre en gira por España",
+  "resumen": "Julio Iglesias Jr. recorre España con una gira de homenaje a los clásicos de su padre, interpretando 29 canciones en dos horas, mayormente en español.",
+  "en": {
+   "titulo": "Julio Iglesias Jr. pays tribute to his father on a tour in Spain",
+   "resumen": "Julio Iglesias Jr. is touring Spain with a tribute show to his father's classics, performing 29 songs in two hours, mostly in Spanish."
+  },
+  "inicio": "2026-11-12",
+  "fin": "2026-11-12",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.7
+ },
+ "59c24a9eb0": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/12/fantasia-romance-misterio-protagonizan-segunda-edicion-zarabook-fest-2067965.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-12",
+  "es_plan": true,
+  "titulo": "Zarabook Fest: Festival literario de fantasía, romance y misterio",
+  "resumen": "El Zarabook Fest celebra su segunda edición en Zaragoza los días 13 y 14 de noviembre, reuniendo autores y lectores de géneros como fantasía, romance y misterio.",
+  "en": {
+   "titulo": "Zarabook Fest: Literary festival of fantasy, romance, and mystery",
+   "resumen": "The Zarabook Fest celebrates its second edition in Zaragoza on November 13th and 14th, bringing together authors and readers of genres like fantasy, romance, and mystery."
+  },
+  "inicio": "2026-11-13",
+  "fin": "2026-11-14",
+  "hora": null,
+  "lugar": "Centro Cívico Universidad",
+  "municipio": "Zaragoza",
+  "provincia": "Zaragoza",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "fd974cb045": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/12/los-18-alumnos-conservatorio-profesional-musica-calatayud-ofrecen-un-concierto-2067968.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-12",
+  "es_plan": true,
+  "titulo": "Concierto de alumnos del conservatorio de música de Calatayud",
+  "resumen": "Los 18 alumnos del conservatorio profesional de música de Calatayud ofrecerán un concierto gratuito el 23 de noviembre a las 18:30 en el salón de actos de Claretianos.",
+  "en": {
+   "titulo": "Concert by students from the Calatayud music conservatory",
+   "resumen": "The 18 students from the Calatayud professional music conservatory will offer a free concert on November 23rd at 6:30 PM in the Claretianos auditorium."
+  },
+  "inicio": "2026-11-23",
+  "fin": "2026-11-23",
+  "hora": "18:30",
+  "lugar": "Salón de actos de Claretianos",
+  "municipio": "Calatayud",
+  "provincia": "Zaragoza",
+  "ambito": "local",
+  "gratis": true,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "c818d75b40": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/12/pablo-echenique-48-anos-espana-mejor-pais-vivir-mundo-2067964.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-12",
+  "es_plan": false
+ },
+ "19a7f47596": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/12/enrique-bunbury-naci-piso-pequeno-zaragoza-padres-abuelos-hermanos-2063541.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-12",
+  "es_plan": true,
+  "titulo": "Enrique Bunbury regresa a Zaragoza con su gira 'Nuevas Mutaciones Tour'",
+  "resumen": "Enrique Bunbury actuará en Zaragoza el 12 de diciembre como parte de su gira 'Nuevas Mutaciones Tour', que recorrerá España tras su paso por América.",
+  "en": {
+   "titulo": "Enrique Bunbury returns to Zaragoza with his 'Nuevas Mutaciones Tour'",
+   "resumen": "Enrique Bunbury will perform in Zaragoza on December 12th as part of his 'Nuevas Mutaciones Tour', which will tour Spain after its run in America."
+  },
+  "inicio": "2026-12-12",
+  "fin": "2026-12-12",
+  "hora": null,
+  "lugar": null,
+  "municipio": "Zaragoza",
+  "provincia": "Zaragoza",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "d83076319d": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/12/andres-roca-rey-30anos-vivo-solo-casa-campo-necesito-estar-concentrado-centrado-mi-2066723.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-12",
+  "es_plan": false
+ },
+ "faa07d5c7f": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/12/lola-herrera-tengo-91-anos-rabia-vivir-sociedad-escucha-personas-mayores-rechaza-2067335.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-12",
+  "es_plan": true,
+  "titulo": "Lola Herrera de gira con la obra 'Camino a la Meca'",
+  "resumen": "La actriz Lola Herrera, a sus 91 años, continúa de gira por España con la obra de teatro 'Camino a la Meca', que se representará próximamente en varias localidades.",
+  "en": {
+   "titulo": "Lola Herrera on tour with the play 'Camino a la Meca'",
+   "resumen": "Actress Lola Herrera, at 91 years old, continues touring Spain with the play 'Camino a la Meca', which will soon be performed in several towns."
+  },
+  "inicio": "2026-11-12",
+  "fin": "2026-11-12",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "32f2a58e0f": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/12/matias-prats-jr-define-hermana-marta-unica-familia-no-periodista-compania-grata-orgullosa-padre-2067919.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-12",
+  "es_plan": false
+ },
+ "c0e3f4eca6": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/12/iker-jimenez-santiago-abascal-no-demonio-tridente-tipo-demonizado-2067794.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-12",
+  "es_plan": false
+ },
+ "33a28e16b2": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/12/muere-elisa-ramirez-anos-actriz-historica-estudio1-rtve-teatro-cine-espanol-2067901.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-12",
+  "es_plan": false
+ },
+ "492688abf5": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/12/muere-artista-helena-bianco-causa-un-cancer-neuroendocrino-muy-agresivo-2067897.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-12",
+  "es_plan": false
+ },
+ "cabc2536e6": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/12/monica-naranjo-52anos-siempre-tenido-buen-saque-desayuno-alguna-fruta-temporada-tostada-avena-queso-aceite-2066000.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-12",
+  "es_plan": false
+ },
+ "ee58bb4702": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/12/latin-grammy-arrancan-jueves-vegas-rosalia-karol-favoritas-2067886.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-12",
+  "es_plan": true,
+  "titulo": "Los Latin Grammy 2026 se celebran en Las Vegas",
+  "resumen": "La 27ª edición de los Latin Grammy tendrá lugar este jueves en Las Vegas, con Rosalía y Karol G como favoritas. La gala, que se transmitirá en vivo, contará con actuaciones de varios artistas y un homenaje a Willy Colón.",
+  "en": {
+   "titulo": "The 2026 Latin Grammy Awards are held in Las Vegas",
+   "resumen": "The 27th edition of the Latin Grammy Awards will take place this Thursday in Las Vegas, with Rosalía and Karol G as favorites. The gala, which will be broadcast live, will feature performances by various artists and a tribute to Willy Colón."
+  },
+  "inicio": "2026-11-12",
+  "fin": "2026-11-12",
+  "hora": "17:00",
+  "lugar": "MGM Grand Garden Arena",
+  "municipio": "Las Vegas",
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "7f6c872b96": {
+  "url": "https://www.diariosur.es/culturas/libros/javier-castillo-presentara-aula-sur-ultima-novela-20261112132303-nt.html",
+  "fuente": "Diario Sur (Culturas)",
+  "src": "prensa-diariosur-culturas",
+  "publicado": "2026-11-12",
+  "es_plan": true,
+  "titulo": "Javier Castillo presenta su novela 'Espinas en el aire' en Málaga",
+  "resumen": "El escritor Javier Castillo presentará su última novela, 'Espinas en el aire', el próximo 1 de diciembre en el Aula de SUR. El autor desentrañará los detalles de su nuevo thriller psicológico.",
+  "en": {
+   "titulo": "Javier Castillo presents his novel 'Espinas en el aire' in Málaga",
+   "resumen": "Author Javier Castillo will present his latest novel, 'Espinas en el aire', on December 1 at the Aula de SUR. The author will reveal details of his new psychological thriller."
+  },
+  "inicio": "2026-12-01",
+  "fin": "2026-12-01",
+  "hora": null,
+  "lugar": "Aula de SUR",
+  "municipio": "Málaga",
+  "provincia": "Málaga",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "678394a9de": {
+  "url": "https://www.ideal.es/culturas/dos-cajones-celebra-quince-anos-sobre-escenarios-20261112140654-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-11-12",
+  "es_plan": true,
+  "titulo": "Con Dos Cajones celebra 15 años con concierto solidario en Granada",
+  "resumen": "La formación Con Dos Cajones celebrará su quince aniversario con un concierto solidario el próximo 20 de noviembre en la sala Granada 10. Lo recaudado será a beneficio de la asociación Corro por Marina y Samuel.",
+  "en": {
+   "titulo": "Con Dos Cajones celebrates 15 years with a charity concert in Granada",
+   "resumen": "The band Con Dos Cajones will celebrate their fifteenth anniversary with a charity concert on November 20 at the Granada 10 venue. Proceeds will benefit the Corro por Marina y Samuel association."
+  },
+  "inicio": "2026-11-20",
+  "fin": "2026-11-20",
+  "hora": null,
+  "lugar": "Sala Granada 10",
+  "municipio": "Granada",
+  "provincia": "Granada",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "00f7e344fd": {
+  "url": "https://www.ideal.es/culturas/albaicin-abre-monumentos-visitas-talleres-celebrar-dia-20261112132758-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-11-12",
+  "es_plan": true,
+  "titulo": "El Albaicín celebra el Día del Patrimonio Mundial con visitas y talleres",
+  "resumen": "El Albaicín abrirá sus monumentos para celebrar el Día del Patrimonio Mundial con jornadas de puertas abiertas en la Casa del Chapiz y el Carmen del Aljibe del Rey los días 16, 21 y 22 de noviembre, además de talleres.",
+  "en": {
+   "titulo": "Albaicín celebrates World Heritage Day with visits and workshops",
+   "resumen": "Albaicín will open its monuments to celebrate World Heritage Day with open house days at Casa del Chapiz and Carmen del Aljibe del Rey on November 16, 21, and 22, in addition to workshops."
+  },
+  "inicio": "2026-11-16",
+  "fin": "2026-11-22",
+  "hora": null,
+  "lugar": "Casa del Chapiz, Carmen del Aljibe del Rey",
+  "municipio": "Granada",
+  "provincia": "Granada",
+  "ambito": "local",
+  "gratis": true,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "museos",
+   "actividades"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "ffa34b4ee1": {
+  "url": "https://www.ideal.es/culturas/almeria/asociacion-cultural-interestelab-organiza-taller-fotogramas-laboratorio-20261112113750-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-11-12",
+  "es_plan": true,
+  "titulo": "Taller de fotogramas y laboratorio analógico en Costacabana",
+  "resumen": "La Asociación Cultural Interestelab organiza un taller de fotogramas y laboratorio analógico en Costacabana el 28 de noviembre. Impartido por Estela García, permitirá crear postales fotográficas sin cámara.",
+  "en": {
+   "titulo": "Photogram and analog laboratory workshop in Costacabana",
+   "resumen": "The Interestelab Cultural Association is organizing a photogram and analog laboratory workshop in Costacabana on November 28. Taught by visual artist Estela García, it will allow participants to create photographic postcards without a camera."
+  },
+  "inicio": "2026-11-28",
+  "fin": "2026-11-28",
+  "hora": null,
+  "lugar": "Costacabana",
+  "municipio": "Almería",
+  "provincia": "Almería",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "0d1de368f2": {
+  "url": "https://www.ideal.es/culturas/almeria/encuentro-roquecomic-consolida-exito-participacion-escolar-juvenil-20261112113513-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-11-12",
+  "es_plan": false
+ },
+ "b38845d845": {
+  "url": "https://www.ideal.es/culturas/llenado-album-mensajes-llamando-accion-20261112112631-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-11-12",
+  "es_plan": false
+ },
+ "af5c48c858": {
+  "url": "https://www.ideal.es/culturas/dudas-afrontar-proyecto-20261111004238-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-11-12",
+  "es_plan": true,
+  "titulo": "Pepón Nieto presenta 'La pasión infinita' en Granada",
+  "resumen": "El actor malagueño Pepón Nieto presenta este fin de semana la obra 'La pasión infinita' en el teatro Isabel la Católica de Granada. La obra trata sobre un aspirante a actor sin cualidades.",
+  "en": {
+   "titulo": "Pepón Nieto presents 'La pasión infinita' in Granada",
+   "resumen": "Málaga actor Pepón Nieto presents the play 'La pasión infinita' this weekend at the Isabel la Católica theater in Granada. The play is about an aspiring actor with no talent."
+  },
+  "inicio": "2026-11-13",
+  "fin": "2026-11-15",
+  "hora": null,
+  "lugar": "Teatro Isabel la Católica",
+  "municipio": "Granada",
+  "provincia": "Granada",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "5a64d8c63f": {
+  "url": "https://www.elcorreo.com/culturas/arte/corazones-parachoques-uribitarte40-20260930173837-nt.html",
+  "fuente": "El Correo (Culturas)",
+  "src": "prensa-elcorreo-culturas",
+  "publicado": "2026-11-12",
+  "es_plan": false
+ },
+ "73e20d4833": {
+  "url": "https://www.elcorreo.com/culturas/teatro/compania-finzi-pasca-recupera-personajes-commedia-dellarte-20261111003041-nt.html",
+  "fuente": "El Correo (Culturas)",
+  "src": "prensa-elcorreo-culturas",
+  "publicado": "2026-11-12",
+  "es_plan": true,
+  "titulo": "Estreno nacional de 'TITIZÉ - A Venetian Dream' en Bilbao",
+  "resumen": "La compañía Finzi Pasca presenta el estreno nacional del espectáculo 'TITIZÉ - A Venetian Dream' en el Teatro Arriaga de Bilbao, con cinco funciones del 13 al 15 de noviembre. Recupera personajes de la 'Commedia dell'arte'.",
+  "en": {
+   "titulo": "National premiere of 'TITIZÉ - A Venetian Dream' in Bilbao",
+   "resumen": "The Finzi Pasca company presents the national premiere of the show 'TITIZÉ - A Venetian Dream' at the Arriaga Theater in Bilbao, with five performances from November 13 to 15. It revives characters from the 'Commedia dell'arte'."
+  },
+  "inicio": "2026-11-13",
+  "fin": "2026-11-15",
+  "hora": null,
+  "lugar": "Teatro Arriaga",
+  "municipio": "Bilbao",
+  "provincia": "Bizkaia",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "7dc84fd174": {
+  "url": "https://www.lasprovincias.es/culturas/tv/jordi-wild-desvela-hora-publica-entrevistas-pedro-20261112120415-nt.html",
+  "fuente": "Las Provincias (Culturas)",
+  "src": "prensa-lasprovincias-culturas",
+  "publicado": "2026-11-12",
+  "es_plan": false
+ },
+ "ae06d96d24": {
+  "url": "https://www.lasprovincias.es/culturas/cine/legado-elisa-ramirez-obras-estudio-siguen-disponibles-20261112115829-nt.html",
+  "fuente": "Las Provincias (Culturas)",
+  "src": "prensa-lasprovincias-culturas",
+  "publicado": "2026-11-12",
+  "es_plan": false
+ },
+ "96a763c0f2": {
+  "url": "https://www.lasprovincias.es/culturas/miguel-galdon-nuevo-director-institut-valencia-cultura-20261105093021-nt.html",
+  "fuente": "Las Provincias (Culturas)",
+  "src": "prensa-lasprovincias-culturas",
+  "publicado": "2026-11-12",
+  "es_plan": false
+ },
+ "47b8da16c9": {
+  "url": "https://www.lasprovincias.es/culturas/taburete-pignoise-hijos-ruina-unen-zevra-2027-20261112093058-nt.html",
+  "fuente": "Las Provincias (Culturas)",
+  "src": "prensa-lasprovincias-culturas",
+  "publicado": "2026-11-12",
+  "es_plan": true,
+  "titulo": "Zevra 2027: Taburete, Pignoise e Hijos de la Ruina se unen al festival",
+  "resumen": "El festival de Cullera anuncia nuevas incorporaciones a su cartel para la edición de 2027, que se celebrará del 23 al 26 de julio. Ya se había confirmado la presencia de Bad Gyal.",
+  "en": {
+   "titulo": "Zevra 2027: Taburete, Pignoise and Hijos de la Ruina join the festival",
+   "resumen": "The Cullera festival announces new additions to its lineup for the 2027 edition, taking place from July 23rd to 26th. Bad Gyal had already been confirmed."
+  },
+  "inicio": "2027-07-23",
+  "fin": "2027-07-26",
+  "hora": null,
+  "lugar": null,
+  "municipio": "Cullera",
+  "provincia": "Valencia",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica",
+   "fiestas"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "6146a8009c": {
+  "url": "https://www.lasprovincias.es/culturas/tv/emily-paris-dice-adios-siempre-estrena-ultima-20261111021258-nt.html",
+  "fuente": "Las Provincias (Culturas)",
+  "src": "prensa-lasprovincias-culturas",
+  "publicado": "2026-11-12",
+  "es_plan": false
+ },
+ "12edc7726b": {
+  "url": "https://www.lasprovincias.es/culturas/tv/hoy-jueves-television-oscarizada-hipnotica-pelicula-emma-20261111003503-nt.html",
+  "fuente": "Las Provincias (Culturas)",
+  "src": "prensa-lasprovincias-culturas",
+  "publicado": "2026-11-12",
+  "es_plan": true,
+  "titulo": "Película oscarizada con Emma Stone en televisión este 12 de noviembre",
+  "resumen": "Este jueves 12 de noviembre se emite una película oscarizada protagonizada por Emma Stone. Podrás verla desde casa.",
+  "en": {
+   "titulo": "Oscar-winning film with Emma Stone on television this November 12th",
+   "resumen": "This Thursday, November 12th, an Oscar-winning film starring Emma Stone will be broadcast. You can watch it from home."
+  },
+  "inicio": "2026-11-12",
+  "fin": "2026-11-12",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "pantalla",
+   "cultura"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "e21a44e1f4": {
+  "url": "https://www.laverdad.es/culturas/estudio-maba-lidera-palmares-espanol-premios-diseno-20261112144514-nt.html",
+  "fuente": "La Verdad (Culturas)",
+  "src": "prensa-laverdad-culturas",
+  "publicado": "2026-11-12",
+  "es_plan": false
+ },
+ "50035a60a3": {
+  "url": "https://www.laverdad.es/culturas/festival-distopia-arranca-jueves-tres-proyecciones-20261112131532-nt.html",
+  "fuente": "La Verdad (Culturas)",
+  "src": "prensa-laverdad-culturas",
+  "publicado": "2026-11-12",
+  "es_plan": true,
+  "titulo": "Festival Distopía: tres proyecciones y mesa redonda medioambiental",
+  "resumen": "El festival Distopía comienza este jueves con tres proyecciones. Por la mañana se ha celebrado una mesa redonda sobre retos medioambientales para empresas de la Región.",
+  "en": {
+   "titulo": "Distopía Festival: three screenings and an environmental roundtable",
+   "resumen": "The Distopía festival begins this Thursday with three screenings. In the morning, a roundtable discussion was held on environmental challenges for companies in the Region."
+  },
+  "inicio": "2026-11-12",
+  "fin": "2026-11-12",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": "Región de Murcia",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.5
+ },
+ "872447bb61": {
+  "url": "https://www.laverdad.es/culturas/festival-determinantes-aunara-teatro-danza-monologos-mesas-20261112131503-nt.html",
+  "fuente": "La Verdad (Culturas)",
+  "src": "prensa-laverdad-culturas",
+  "publicado": "2026-11-12",
+  "es_plan": true,
+  "titulo": "Festival Determinantes: teatro, danza, monólogos y talleres en Murcia",
+  "resumen": "La quinta edición del festival Determinantes se celebrará del 17 al 28 de noviembre en los teatros Circo y Romea de Murcia. Incluirá teatro, danza, monólogos y talleres.",
+  "en": {
+   "titulo": "Determinantes Festival: theater, dance, monologues, and workshops in Murcia",
+   "resumen": "The fifth edition of the Determinantes festival will take place from November 17th to 28th at the Circo and Romea theaters in Murcia. It will include theater, dance, monologues, and workshops."
+  },
+  "inicio": "2026-11-17",
+  "fin": "2026-11-28",
+  "hora": null,
+  "lugar": "Teatros Circo y Romea",
+  "municipio": "Murcia",
+  "provincia": "Región de Murcia",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.5
+ },
+ "3c5e0b8ba3": {
+  "url": "https://www.eldiariomontanes.es/culturas/santander-celebra-dia-internacional-flamenco-dos-grandes-20261112080108-nt.html",
+  "fuente": "El Diario Montañés (Culturas)",
+  "src": "prensa-diariomontanes-culturas",
+  "publicado": "2026-11-12",
+  "es_plan": true,
+  "titulo": "Día Internacional del Flamenco en Santander con dos espectáculos",
+  "resumen": "Santander celebra el Día Internacional del Flamenco este fin de semana con dos grandes espectáculos en el centro cívico de Cueto. Organizado por la Concejalía de Dinamización Social.",
+  "en": {
+   "titulo": "International Day of Flamenco in Santander with two shows",
+   "resumen": "Santander celebrates the International Day of Flamenco this weekend with two major shows at the Cueto civic center. Organized by the Department of Social Dynamization."
+  },
+  "inicio": "2026-11-14",
+  "fin": "2026-11-15",
+  "hora": null,
+  "lugar": "Centro cívico de Cueto",
+  "municipio": "Santander",
+  "provincia": "Cantabria",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura",
+   "fiestas"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "b424692e34": {
+  "url": "https://www.eldiariomontanes.es/culturas/cine/cinco-documentales-premiados-ineditos-cantabria-integran-nuevas-20261112073724-nt.html",
+  "fuente": "El Diario Montañés (Culturas)",
+  "src": "prensa-diariomontanes-culturas",
+  "publicado": "2026-11-12",
+  "es_plan": true,
+  "titulo": "Miradas Globales: cinco documentales premiados e inéditos en Cantabria",
+  "resumen": "La Llave Azul presenta 'Miradas Globales' del 17 al 22 de noviembre, una selección de cinco documentales premiados y no estrenados en Cantabria. Incluye coloquios y actividades educativas.",
+  "en": {
+   "titulo": "Global Views: five award-winning and unreleased documentaries in Cantabria",
+   "resumen": "La Llave Azul presents 'Global Views' from November 17th to 22nd, a selection of five award-winning documentaries not yet released in Cantabria. Includes talks and educational activities."
+  },
+  "inicio": "2026-11-17",
+  "fin": "2026-11-22",
+  "hora": null,
+  "lugar": "La Llave Azul",
+  "municipio": null,
+  "provincia": "Cantabria",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "pantalla",
+   "actividades"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "13a66e8753": {
+  "url": "https://www.eldiariomontanes.es/culturas/gran-casino-sardinero-fundacion-racing-reunen-treintena-20261112073610-nt.html",
+  "fuente": "El Diario Montañés (Culturas)",
+  "src": "prensa-diariomontanes-culturas",
+  "publicado": "2026-11-12",
+  "es_plan": true,
+  "titulo": "Exposición solidaria 'Racing, una mirada creativa' en Santander",
+  "resumen": "El Gran Casino Sardinero y la Fundación Racing inauguran hoy la exposición solidaria 'Racing, una mirada creativa', que reúne obras de arte y balones intervenidos en torno al fútbol.",
+  "en": {
+   "titulo": "Charity exhibition 'Racing, a creative look' in Santander",
+   "resumen": "The Gran Casino Sardinero and the Racing Foundation inaugurate the charity exhibition 'Racing, a creative look' today, featuring artworks and intervened footballs related to football."
+  },
+  "inicio": "2026-11-12",
+  "fin": "2026-11-12",
+  "hora": "19:30",
+  "lugar": "Gran Casino Sardinero",
+  "municipio": "Santander",
+  "provincia": "Cantabria",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "deporte",
+   "museos"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "612b7e1a9c": {
+  "url": "https://www.europapress.es/cultura/noticia-union-actores-participa-marcha-madrid-huelga-practicamente-todos-teatros-estan-parados-20261111193827.html",
+  "fuente": "Europa Press (Cultura)",
+  "src": "prensa-europapress-cultura",
+  "publicado": "2026-11-11",
+  "es_plan": false
+ },
+ "5737229bf9": {
+  "url": "https://www.lavanguardia.com/cultura/20261111/11681831/messiez-omar-ayuso-temporada-alta.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-11",
+  "es_plan": true,
+  "titulo": "Estreno de 'La forma humana' de Pablo Messiez en Temporada Alta",
+  "resumen": "El dramaturgo argentino Pablo Messiez estrena su nueva obra 'La forma humana' el sábado 14 de noviembre en El Canal de Salt (Girona), dentro de la programación de Temporada Alta.",
+  "en": {
+   "titulo": "Premiere of 'The Human Form' by Pablo Messiez at Temporada Alta",
+   "resumen": "Argentine playwright Pablo Messiez premieres his new play 'The Human Form' on Saturday, November 14th, at El Canal in Salt (Girona), as part of the Temporada Alta program."
+  },
+  "inicio": "2026-11-14",
+  "fin": "2026-11-14",
+  "hora": null,
+  "lugar": "El Canal",
+  "municipio": "Salt",
+  "provincia": "Girona",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "b095230681": {
+  "url": "https://www.lavanguardia.com/cultura/20261111/11681734/u2-conquista-mundo-perdido.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-11",
+  "es_plan": false
+ },
+ "ac0763a047": {
+  "url": "https://www.diariosur.es/culturas/leonor-watling-leo-sidran-presentan-leoleo-suena-20261111225921-nt.html",
+  "fuente": "Diario Sur (Culturas)",
+  "src": "prensa-diariosur-culturas",
+  "publicado": "2026-11-11",
+  "es_plan": true,
+  "titulo": "Leonor Watling y Leo Sidran presentan Leo&Leo en Málaga",
+  "resumen": "Leonor Watling y Leo Sidran presentan su nuevo proyecto 'Leo&Leo' el 16 de noviembre en la Sala Fundación Unicaja María Cristina de Málaga. La entrada es libre hasta completar aforo.",
+  "en": {
+   "titulo": "Leonor Watling and Leo Sidran present Leo&Leo in Malaga",
+   "resumen": "Leonor Watling and Leo Sidran present their new project 'Leo&Leo' on November 16th at the Sala Fundación Unicaja María Cristina in Malaga. Entry is free until capacity is reached."
+  },
+  "inicio": "2026-11-16",
+  "fin": "2026-11-16",
+  "hora": null,
+  "lugar": "Sala Fundación Unicaja María Cristina",
+  "municipio": "Málaga",
+  "provincia": "Málaga",
+  "ambito": "local",
+  "gratis": true,
+  "precio": "Gratis hasta completar aforo",
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
  }
 }

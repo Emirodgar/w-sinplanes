@@ -40714,5 +40714,1805 @@
    "titulo": "Espetáculo Infantil \"Kalean otso, etxean uso\"",
    "resumen": "Espetáculo infantil \"Kalean otso, etxean uso\" de Patata Tropikala. A peça segue dois detetives que investigam o desaparecimento dos três porquinhos, supostamente obra do Lobo."
   }
+ },
+ "ccf4904a86": {
+  "fr": {
+   "titulo": "Zaragoza Art Fair : Première édition du salon d'art contemporain",
+   "resumen": "La Zaragoza Art Fair (ZAF) célèbre sa première édition à Saragosse, réunissant galeries, artistes et public au Palais de Montemuzo, au Centre d'Histoire et à la Tour Fortea. L'entrée est gratuite."
+  },
+  "de": {
+   "titulo": "Zaragoza Art Fair: Erste Ausgabe der Messe für zeitgenössische Kunst",
+   "resumen": "Die Zaragoza Art Fair (ZAF) feiert ihre erste Ausgabe in Saragossa und bringt Galerien, Künstler und Publikum im Palacio de Montemuzo, im Centro de Historias und im Torreón Fortea zusammen. Der Eintritt ist frei."
+  },
+  "it": {
+   "titulo": "Zaragoza Art Fair: Prima edizione della fiera d'arte contemporanea",
+   "resumen": "La Zaragoza Art Fair (ZAF) celebra la sua prima edizione a Saragozza, riunendo gallerie, artisti e pubblico al Palacio de Montemuzo, al Centro de Historias e al Torreón Fortea. L'ingresso è gratuito."
+  },
+  "pt": {
+   "titulo": "Zaragoza Art Fair: Primeira edição da feira de arte contemporânea",
+   "resumen": "A Zaragoza Art Fair (ZAF) celebra a sua primeira edição em Saragoça, reunindo galerias, artistas e público no Palacio de Montemuzo, no Centro de Historias e no Torreón Fortea. A entrada é gratuita."
+  }
+ },
+ "ef71fb4d54": {
+  "fr": {
+   "titulo": "Sculpture collaborative de détenus à la Sagrada Familia",
+   "resumen": "La Basilique de la Sagrada Familia à Barcelone inaugure une sculpture créée avec la collaboration de 180 détenus et anciens détenus de Catalogne, qui pourra être visitée jusqu'à la fin du mois."
+  },
+  "de": {
+   "titulo": "Kollaborative Skulptur von Gefangenen in der Sagrada Familia",
+   "resumen": "Die Basilika Sagrada Familia in Barcelona eröffnet eine Skulptur, die in Zusammenarbeit mit 180 Häftlingen und ehemaligen Häftlingen aus Katalonien entstanden ist und bis Ende des Monats besichtigt werden kann."
+  },
+  "it": {
+   "titulo": "Scultura collaborativa di detenuti alla Sagrada Familia",
+   "resumen": "La Basilica della Sagrada Familia a Barcellona inaugura una scultura creata con la collaborazione di 180 detenuti ed ex detenuti della Catalogna, visitabile fino alla fine del mese."
+  },
+  "pt": {
+   "titulo": "Escultura colaborativa de presos na Sagrada Família",
+   "resumen": "A Basílica da Sagrada Família em Barcelona inaugura uma escultura criada com a colaboração de 180 presos e ex-presos da Catalunha, que poderá ser visitada até ao final do mês."
+  }
+ },
+ "cd0cee8fdc": {
+  "fr": {
+   "titulo": "Exposition d'art textile de María Sarrate au CDAN de Huesca",
+   "resumen": "Le Centre d'Art et de Nature (CDAN) de Huesca inaugure l'exposition 'María Sarrate Tejedora', dédiée aux tapisseries de l'artiste, ainsi que l'exposition 'A media lumbre'."
+  },
+  "de": {
+   "titulo": "Ausstellung Textilkunst von María Sarrate im CDAN in Huesca",
+   "resumen": "Das Zentrum für Kunst und Natur (CDAN) in Huesca eröffnet die Ausstellung 'María Sarrate Tejedora', die den Wandteppichen der Künstlerin gewidmet ist, sowie die Ausstellung 'A media lumbre'."
+  },
+  "it": {
+   "titulo": "Mostra d'arte tessile di María Sarrate al CDAN di Huesca",
+   "resumen": "Il Centro d'Arte e Natura (CDAN) di Huesca inaugura la mostra 'María Sarrate Tejedora', dedicata agli arazzi dell'artista, e la mostra 'A media lumbre'."
+  },
+  "pt": {
+   "titulo": "Exposição de arte têxtil de María Sarrate no CDAN de Huesca",
+   "resumen": "O Centro de Arte e Natureza (CDAN) de Huesca inaugura a exposição 'María Sarrate Tejedora', dedicada às tapeçarias da artista, e a mostra 'A media lumbre'."
+  }
+ },
+ "4f95cc3d9a": {
+  "fr": {
+   "titulo": "Le CDAN de Huesca présente des tapisseries de María Sarrate et une nouvelle saison",
+   "resumen": "Le CDAN de Huesca met en valeur l'œuvre de María Sarrate avec une exposition de ses tapisseries et lance 'A media lumbre', reliant les métiers traditionnels à la nature."
+  },
+  "de": {
+   "titulo": "Das CDAN Huesca präsentiert Wandteppiche von María Sarrate und neue Saison",
+   "resumen": "Das CDAN Huesca würdigt das Werk von María Sarrate mit einer Ausstellung ihrer Wandteppiche und präsentiert 'A media lumbre', das traditionelle Handwerke mit der Natur verbindet."
+  },
+  "it": {
+   "titulo": "Il CDAN di Huesca presenta arazzi di María Sarrate e nuova stagione espositiva",
+   "resumen": "Il CDAN di Huesca celebra l'opera di María Sarrate con una mostra dei suoi arazzi e presenta 'A media lumbre', collegando mestieri tradizionali e natura."
+  },
+  "pt": {
+   "titulo": "CDAN Huesca apresenta tapeçarias de María Sarrate e nova temporada",
+   "resumen": "O CDAN Huesca destaca a obra de María Sarrate com uma exposição das suas tapeçarias e estreia 'A media lumbre', ligando ofícios tradicionais à natureza."
+  }
+ },
+ "0662bd6dd9": {
+  "fr": {
+   "titulo": "Julio Iglesias Jr. rend hommage à son père en tournée en Espagne",
+   "resumen": "Julio Iglesias Jr. parcourt l'Espagne avec une tournée hommage aux classiques de son père, interprétant 29 chansons en deux heures, majoritairement en espagnol."
+  },
+  "de": {
+   "titulo": "Julio Iglesias Jr. ehrt seinen Vater auf Tournee in Spanien",
+   "resumen": "Julio Iglesias Jr. geht auf eine Tournee durch Spanien, die eine Hommage an die Klassiker seines Vaters darstellt, und singt 29 Lieder in zwei Stunden, meist auf Spanisch."
+  },
+  "it": {
+   "titulo": "Julio Iglesias Jr. rende omaggio al padre in tournée in Spagna",
+   "resumen": "Julio Iglesias Jr. percorre la Spagna con un tour in omaggio ai classici del padre, interpretando 29 canzoni in due ore, per lo più in spagnolo."
+  },
+  "pt": {
+   "titulo": "Julio Iglesias Jr. homenageia o pai em digressão pela Espanha",
+   "resumen": "Julio Iglesias Jr. percorre a Espanha com uma digressão em homenagem aos clássicos do seu pai, interpretando 29 canções em duas horas, maioritariamente em espanhol."
+  }
+ },
+ "7c5ff3ee9b": {
+  "fr": {
+   "titulo": "Lola Herrera en tournée avec la pièce 'Camino a la Meca'",
+   "resumen": "L'actrice Lola Herrera, à 91 ans, continue sa tournée en Espagne avec la pièce de théâtre 'Camino a la Meca', qui sera bientôt jouée dans plusieurs localités."
+  },
+  "de": {
+   "titulo": "Lola Herrera auf Tournee mit dem Stück 'Camino a la Meca'",
+   "resumen": "Die Schauspielerin Lola Herrera (91) setzt ihre Tournee durch Spanien mit dem Theaterstück 'Camino a la Meca' fort, das bald in mehreren Orten aufgeführt wird."
+  },
+  "it": {
+   "titulo": "Lola Herrera in tournée con lo spettacolo 'Camino a la Meca'",
+   "resumen": "L'attrice Lola Herrera, a 91 anni, continua il suo tour in Spagna con lo spettacolo teatrale 'Camino a la Meca', che sarà presto rappresentato in diverse località."
+  },
+  "pt": {
+   "titulo": "Lola Herrera em digressão com a peça 'Camino a la Meca'",
+   "resumen": "A atriz Lola Herrera, aos 91 anos, continua em digressão pela Espanha com a peça de teatro 'Camino a la Meca', que será em breve apresentada em várias localidades."
+  }
+ },
+ "f368a51e34": {
+  "fr": {
+   "titulo": "Les Latin Grammy 2026 se déroulent à Las Vegas",
+   "resumen": "La 27e édition des Latin Grammy aura lieu ce jeudi à Las Vegas, avec Rosalía et Karol G comme favorites. La cérémonie, qui sera diffusée en direct, comprendra des performances de plusieurs artistes et un hommage à Willy Colón."
+  },
+  "de": {
+   "titulo": "Die Latin Grammy Awards 2026 finden in Las Vegas statt",
+   "resumen": "Die 27. Ausgabe der Latin Grammy Awards findet diesen Donnerstag in Las Vegas statt, mit Rosalía und Karol G als Favoritinnen. Die Gala, die live übertragen wird, wird Auftritte verschiedener Künstler und eine Hommage an Willy Colón beinhalten."
+  },
+  "it": {
+   "titulo": "I Latin Grammy 2026 si svolgono a Las Vegas",
+   "resumen": "La 27ª edizione dei Latin Grammy si terrà questo giovedì a Las Vegas, con Rosalía e Karol G come favorite. La cerimonia, che sarà trasmessa in diretta, includerà esibizioni di vari artisti e un omaggio a Willy Colón."
+  },
+  "pt": {
+   "titulo": "Os Latin Grammy 2026 realizam-se em Las Vegas",
+   "resumen": "A 27ª edição dos Latin Grammy terá lugar esta quinta-feira em Las Vegas, com Rosalía e Karol G como favoritas. A gala, que será transmitida ao vivo, contará com atuações de vários artistas e uma homenagem a Willy Colón."
+  }
+ },
+ "778e155896": {
+  "fr": {
+   "titulo": "Film oscarisé avec Emma Stone à la télévision ce 12 novembre",
+   "resumen": "Ce jeudi 12 novembre, un film oscarisé avec Emma Stone est diffusé. Vous pourrez le regarder depuis chez vous."
+  },
+  "de": {
+   "titulo": "Oscar-prämierter Film mit Emma Stone am 12. November im Fernsehen",
+   "resumen": "Diesen Donnerstag, den 12. November, wird ein Oscar-prämierter Film mit Emma Stone ausgestrahlt. Sie können ihn bequem von zu Hause aus ansehen."
+  },
+  "it": {
+   "titulo": "Film premiato con l'Oscar con Emma Stone in televisione il 12 novembre",
+   "resumen": "Questo giovedì 12 novembre viene trasmesso un film premiato con l'Oscar con Emma Stone. Potrai vederlo da casa."
+  },
+  "pt": {
+   "titulo": "Filme premiado com Óscar com Emma Stone na televisão a 12 de novembro",
+   "resumen": "Esta quinta-feira, 12 de novembro, é exibido um filme premiado com Óscar protagonizado por Emma Stone. Poderá vê-lo em casa."
+  }
+ },
+ "758fba80d4": {
+  "fr": {
+   "titulo": "Exposition solidaire 'Racing, un regard créatif' à Santander",
+   "resumen": "Le Gran Casino Sardinero et la Fondation Racing inaugurent aujourd'hui l'exposition solidaire 'Racing, un regard créatif', qui rassemble des œuvres d'art et des ballons de football revisités autour du football."
+  },
+  "de": {
+   "titulo": "Benefizausstellung 'Racing, ein kreativer Blick' in Santander",
+   "resumen": "Das Gran Casino Sardinero und die Racing Foundation eröffnen heute die Benefizausstellung 'Racing, ein kreativer Blick', die Kunstwerke und gestaltete Fußbälle rund um das Thema Fußball zeigt."
+  },
+  "it": {
+   "titulo": "Mostra solidale 'Racing, uno sguardo creativo' a Santander",
+   "resumen": "Il Gran Casino Sardinero e la Fondazione Racing inaugurano oggi la mostra solidale 'Racing, uno sguardo creativo', che riunisce opere d'arte e palloni rivisitati sul tema del calcio."
+  },
+  "pt": {
+   "titulo": "Exposição solidária 'Racing, um olhar criativo' em Santander",
+   "resumen": "O Gran Casino Sardinero e a Fundação Racing inauguram hoje a exposição solidária 'Racing, um olhar criativo', que reúne obras de arte e bolas intervencionadas em torno do futebol."
+  }
+ },
+ "4bdbb08e4f": {
+  "fr": {
+   "titulo": "Mazoni lance un nouveau spectacle sur le mensonge au festival Càntut",
+   "resumen": "Le musicien Mazoni lance un nouveau spectacle basé sur des chansons populaires sur le mensonge, qui sera présenté le 13 novembre au festival Càntut de Cassà de la Selva et le 9 décembre à Barcelone."
+  },
+  "de": {
+   "titulo": "Mazoni feiert Premiere mit Show über Lügen beim Càntut-Festival",
+   "resumen": "Der Musiker Mazoni feiert Premiere mit einer neuen Show, die auf populären Liedern über Lügen basiert und am 13. November beim Càntut-Festival in Cassà de la Selva und am 9. Dezember in Barcelona präsentiert wird."
+  },
+  "it": {
+   "titulo": "Mazoni presenta un nuovo spettacolo sulla menzogna al festival Càntut",
+   "resumen": "Il musicista Mazoni presenta un nuovo spettacolo basato su canzoni popolari sulla menzogna, che sarà presentato il 13 novembre al festival Càntut di Cassà de la Selva e il 9 dicembre a Barcellona."
+  },
+  "pt": {
+   "titulo": "Mazoni estreia espetáculo sobre a mentira no festival Càntut",
+   "resumen": "O músico Mazoni estreia um novo espetáculo baseado em canções populares sobre a mentira, que será apresentado a 13 de novembro no festival Càntut em Cassà de la Selva e a 9 de dezembro em Barcelona."
+  }
+ },
+ "5902409ce0": {
+  "fr": {
+   "titulo": "Nouvelles séries HBO Max : 'The good daughter' et 'Infamia'",
+   "resumen": "HBO Max lance deux nouvelles séries de thriller basées sur des romans : 'The good daughter' disponible jeudi et 'Infamia' vendredi. Les deux explorent des intrigues de suspense et de drame."
+  },
+  "de": {
+   "titulo": "Neue HBO Max Serien: 'The good daughter' und 'Infamia'",
+   "resumen": "HBO Max startet zwei neue Thriller-Serien, die auf Romanen basieren: 'The good daughter' ist ab Donnerstag verfügbar und 'Infamia' ab Freitag. Beide behandeln spannende und dramatische Handlungsstränge."
+  },
+  "it": {
+   "titulo": "Nuove serie HBO Max: 'The good daughter' e 'Infamia'",
+   "resumen": "HBO Max lancia due nuove serie thriller basate su romanzi: 'The good daughter' disponibile giovedì e 'Infamia' venerdì. Entrambe esplorano trame di suspense e dramma."
+  },
+  "pt": {
+   "titulo": "Novas séries da HBO Max: 'The good daughter' e 'Infamia'",
+   "resumen": "A HBO Max estreia duas novas séries de thriller baseadas em romances: 'The good daughter' disponível na quinta-feira e 'Infamia' na sexta-feira. Ambas exploram enredos de suspense e drama."
+  }
+ },
+ "db518b8166": {
+  "fr": {
+   "titulo": "Zarabook Fest : Festival littéraire de fantasy, romance et mystère",
+   "resumen": "Le Zarabook Fest célèbre sa deuxième édition à Saragosse les 13 et 14 novembre, réunissant auteurs et lecteurs de genres tels que la fantasy, la romance et le mystère."
+  },
+  "de": {
+   "titulo": "Zarabook Fest: Literaturfestival für Fantasy, Romantik und Mystery",
+   "resumen": "Das Zarabook Fest feiert seine zweite Ausgabe in Saragossa am 13. und 14. November und bringt Autoren und Leser von Genres wie Fantasy, Romantik und Mystery zusammen."
+  },
+  "it": {
+   "titulo": "Zarabook Fest: Festival letterario di fantasy, romance e mistero",
+   "resumen": "Lo Zarabook Fest celebra la sua seconda edizione a Saragozza il 13 e 14 novembre, riunendo autori e lettori di generi come fantasy, romance e mistero."
+  },
+  "pt": {
+   "titulo": "Zarabook Fest: Festival literário de fantasia, romance e mistério",
+   "resumen": "O Zarabook Fest celebra a sua segunda edição em Saragoça nos dias 13 e 14 de novembro, reunindo autores e leitores de géneros como fantasia, romance e mistério."
+  }
+ },
+ "ef160ba80d": {
+  "fr": {
+   "titulo": "Pepón Nieto présente 'La pasión infinita' à Grenade",
+   "resumen": "L'acteur malaguène Pepón Nieto présente ce week-end la pièce 'La pasión infinita' au théâtre Isabel la Católica de Grenade. La pièce traite d'un aspirant acteur sans talent."
+  },
+  "de": {
+   "titulo": "Pepón Nieto präsentiert 'La pasión infinita' in Granada",
+   "resumen": "Der Schauspieler Pepón Nieto aus Málaga präsentiert dieses Wochenende das Stück 'La pasión infinita' im Theater Isabel la Católica in Granada. Das Stück handelt von einem aufstrebenden Schauspieler ohne Talent."
+  },
+  "it": {
+   "titulo": "Pepón Nieto presenta 'La pasión infinita' a Granada",
+   "resumen": "L'attore Pepón Nieto presenta questo fine settimana lo spettacolo 'La pasión infinita' al teatro Isabel la Católica di Granada. Lo spettacolo parla di un aspirante attore senza qualità."
+  },
+  "pt": {
+   "titulo": "Pepón Nieto apresenta 'La pasión infinita' em Granada",
+   "resumen": "O ator Pepón Nieto apresenta este fim de semana a peça 'La pasión infinita' no teatro Isabel la Católica, em Granada. A peça aborda um aspirante a ator sem qualidades."
+  }
+ },
+ "89f2a64675": {
+  "fr": {
+   "titulo": "Première nationale de 'TITIZÉ - A Venetian Dream' à Bilbao",
+   "resumen": "La compagnie Finzi Pasca présente la première nationale du spectacle 'TITIZÉ - A Venetian Dream' au Théâtre Arriaga de Bilbao, avec cinq représentations du 13 au 15 novembre. Elle fait revivre des personnages de la 'Commedia dell'arte'."
+  },
+  "de": {
+   "titulo": "Nationale Premiere von 'TITIZÉ - A Venetian Dream' in Bilbao",
+   "resumen": "Die Kompanie Finzi Pasca präsentiert die nationale Premiere der Show 'TITIZÉ - A Venetian Dream' im Teatro Arriaga in Bilbao mit fünf Aufführungen vom 13. bis 15. November. Sie lässt Charaktere der 'Commedia dell'arte' wieder aufleben."
+  },
+  "it": {
+   "titulo": "Prima nazionale di 'TITIZÉ - A Venetian Dream' a Bilbao",
+   "resumen": "La compagnia Finzi Pasca presenta la prima nazionale dello spettacolo 'TITIZÉ - A Venetian Dream' al Teatro Arriaga di Bilbao, con cinque rappresentazioni dal 13 al 15 novembre. Recupera personaggi della 'Commedia dell'arte'."
+  },
+  "pt": {
+   "titulo": "Estreia nacional de 'TITIZÉ - A Venetian Dream' em Bilbao",
+   "resumen": "A companhia Finzi Pasca apresenta a estreia nacional do espetáculo 'TITIZÉ - A Venetian Dream' no Teatro Arriaga de Bilbao, com cinco apresentações de 13 a 15 de novembro. Recupera personagens da 'Commedia dell'arte'."
+  }
+ },
+ "71b7eb756d": {
+  "fr": {
+   "titulo": "Journée Internationale du Flamenco à Santander avec deux spectacles",
+   "resumen": "Santander célèbre la Journée Internationale du Flamenco ce week-end avec deux grands spectacles au centre civique de Cueto. Organisé par la Mairie de Dynamisation Sociale."
+  },
+  "de": {
+   "titulo": "Internationaler Tag des Flamenco in Santander mit zwei Shows",
+   "resumen": "Santander feiert den Internationalen Tag des Flamenco an diesem Wochenende mit zwei großen Shows im Gemeindezentrum von Cueto. Organisiert vom Amt für soziale Dynamik."
+  },
+  "it": {
+   "titulo": "Giornata Internazionale del Flamenco a Santander con due spettacoli",
+   "resumen": "Santander celebra la Giornata Internazionale del Flamenco questo fine settimana con due grandi spettacoli nel centro civico di Cueto. Organizzato dall'Assessorato alla Dinamizzazione Sociale."
+  },
+  "pt": {
+   "titulo": "Dia Internacional do Flamenco em Santander com dois espetáculos",
+   "resumen": "Santander celebra o Dia Internacional do Flamenco este fim de semana com dois grandes espetáculos no centro cívico de Cueto. Organizado pelo Pelouro da Dinamização Social."
+  }
+ },
+ "21356eb54a": {
+  "fr": {
+   "titulo": "Première de 'La forma humana' de Pablo Messiez à Temporada Alta",
+   "resumen": "Le dramaturge argentin Pablo Messiez crée sa nouvelle pièce 'La forma humana' le samedi 14 novembre à El Canal de Salt (Girona), dans le cadre de la programmation de Temporada Alta."
+  },
+  "de": {
+   "titulo": "Premiere von 'La forma humana' von Pablo Messiez bei Temporada Alta",
+   "resumen": "Der argentinische Dramatiker Pablo Messiez feiert seine neue Produktion 'La forma humana' am Samstag, den 14. November, im El Canal in Salt (Girona) im Rahmen des Temporada Alta Festivals."
+  },
+  "it": {
+   "titulo": "Prima di 'La forma humana' di Pablo Messiez a Temporada Alta",
+   "resumen": "Il drammaturgo argentino Pablo Messiez presenta la sua nuova opera 'La forma humana' sabato 14 novembre a El Canal di Salt (Girona), nell'ambito della programmazione di Temporada Alta."
+  },
+  "pt": {
+   "titulo": "Estreia de 'La forma humana' de Pablo Messiez em Temporada Alta",
+   "resumen": "O dramaturgo argentino Pablo Messiez estreia a sua nova peça 'La forma humana' no sábado, 14 de novembro, em El Canal de Salt (Girona), dentro da programação de Temporada Alta."
+  }
+ },
+ "61f2e5944f": {
+  "fr": {
+   "titulo": "L'Albaicín célèbre la Journée du Patrimoine Mondial avec des visites et ateliers",
+   "resumen": "L'Albaicín ouvrira ses monuments pour célébrer la Journée du Patrimoine Mondial avec des journées portes ouvertes à la Casa del Chapiz et au Carmen del Aljibe del Rey les 16, 21 et 22 novembre, ainsi que des ateliers."
+  },
+  "de": {
+   "titulo": "Albaicín feiert Welterbetag mit Besichtigungen und Workshops",
+   "resumen": "Das Albaicín öffnet seine Monumente zur Feier des Welterbetages mit Tagen der offenen Tür im Casa del Chapiz und im Carmen del Aljibe del Rey am 16., 21. und 22. November sowie Workshops."
+  },
+  "it": {
+   "titulo": "L'Albaicín celebra la Giornata del Patrimonio Mondiale con visite e laboratori",
+   "resumen": "L'Albaicín aprirà i suoi monumenti per celebrare la Giornata del Patrimonio Mondiale con giornate a porte aperte alla Casa del Chapiz e al Carmen del Aljibe del Rey il 16, 21 e 22 novembre, oltre a laboratori."
+  },
+  "pt": {
+   "titulo": "Albaicín celebra o Dia do Património Mundial com visitas e workshops",
+   "resumen": "O Albaicín abrirá os seus monumentos para celebrar o Dia do Património Mundial com dias de portas abertas na Casa del Chapiz e no Carmen del Aljibe del Rey nos dias 16, 21 e 22 de novembro, além de workshops."
+  }
+ },
+ "f713a57b24": {
+  "fr": {
+   "titulo": "Leonor Watling et Leo Sidran présentent Leo&Leo à Malaga",
+   "resumen": "Leonor Watling et Leo Sidran présentent leur nouveau projet 'Leo&Leo' le 16 novembre à la Sala Fundación Unicaja María Cristina de Malaga. L'entrée est gratuite dans la limite des places disponibles."
+  },
+  "de": {
+   "titulo": "Leonor Watling und Leo Sidran präsentieren Leo&Leo in Málaga",
+   "resumen": "Leonor Watling und Leo Sidran präsentieren ihr neues Projekt 'Leo&Leo' am 16. November in der Sala Fundación Unicaja María Cristina in Málaga. Der Eintritt ist frei, solange Plätze verfügbar sind."
+  },
+  "it": {
+   "titulo": "Leonor Watling e Leo Sidran presentano Leo&Leo a Malaga",
+   "resumen": "Leonor Watling e Leo Sidran presentano il loro nuovo progetto 'Leo&Leo' il 16 novembre alla Sala Fundación Unicaja María Cristina di Malaga. L'ingresso è libero fino a esaurimento posti."
+  },
+  "pt": {
+   "titulo": "Leonor Watling e Leo Sidran apresentam Leo&Leo em Málaga",
+   "resumen": "Leonor Watling e Leo Sidran apresentam o seu novo projeto 'Leo&Leo' a 16 de novembro na Sala Fundación Unicaja María Cristina, em Málaga. A entrada é livre até à lotação esgotar."
+  }
+ },
+ "6d63eb780b": {
+  "fr": {
+   "titulo": "Miradas Globales : cinq documentaires primés et inédits en Cantabrie",
+   "resumen": "La Llave Azul présente 'Miradas Globales' du 17 au 22 novembre, une sélection de cinq documentaires primés et non encore sortis en Cantabrie. Comprend des discussions et des activités éducatives."
+  },
+  "de": {
+   "titulo": "Global Views: Fünf preisgekrönte und unveröffentlichte Dokumentarfilme in Kantabrien",
+   "resumen": "La Llave Azul präsentiert vom 17. bis 22. November 'Miradas Globales', eine Auswahl von fünf preisgekrönten und in Kantabrien noch nicht veröffentlichten Dokumentarfilmen. Enthält Diskussionsrunden und Bildungsaktivitäten."
+  },
+  "it": {
+   "titulo": "Sguardi Globali: cinque documentari premiati e inediti in Cantabria",
+   "resumen": "La Llave Azul presenta 'Miradas Globales' dal 17 al 22 novembre, una selezione di cinque documentari premiati e non ancora distribuiti in Cantabria. Include dibattiti e attività educative."
+  },
+  "pt": {
+   "titulo": "Olhares Globais: cinco documentários premiados e inéditos na Cantábria",
+   "resumen": "A Llave Azul apresenta 'Miradas Globales' de 17 a 22 de novembro, uma seleção de cinco documentários premiados e ainda não estreados na Cantábria. Inclui coloquios e atividades educativas."
+  }
+ },
+ "1a760352ff": {
+  "fr": {
+   "titulo": "Festival POETAS 2026 à La Casa Encendida, Madrid",
+   "resumen": "La 21e édition du festival POETAS se tiendra à La Casa Encendida de Madrid les 20 et 21 novembre, se concentrant sur l'écoute comme genre littéraire avec 19 projets scéniques mêlant poésie, musique et arts vivants."
+  },
+  "de": {
+   "titulo": "Festival POETAS 2026 im La Casa Encendida, Madrid",
+   "resumen": "Die 21. Ausgabe des Festivals POETAS findet am 20. und 21. November im La Casa Encendida in Madrid statt und konzentriert sich auf das Zuhören als literarisches Genre mit 19 Bühnenprojekten, die Poesie, Musik und lebende Künste verbinden."
+  },
+  "it": {
+   "titulo": "Festival POETAS 2026 a La Casa Encendida, Madrid",
+   "resumen": "La 21ª edizione del festival POETAS si terrà a La Casa Encendida di Madrid il 20 e 21 novembre, concentrandosi sull'ascolto come genere letterario con 19 progetti scenici che fondono poesia, musica e arti dal vivo."
+  },
+  "pt": {
+   "titulo": "Festival POETAS 2026 em La Casa Encendida, Madrid",
+   "resumen": "A 21ª edição do festival POETAS realizar-se-á em La Casa Encendida, em Madrid, nos dias 20 e 21 de novembro, focando-se na escuta como género literário com 19 projetos cénicos que fundem poesia, música e artes performativas."
+  }
+ },
+ "f4793a9c51": {
+  "fr": {
+   "titulo": "Con Dos Cajones célèbre 15 ans avec un concert caritatif à Grenade",
+   "resumen": "Le groupe Con Dos Cajones célébrera son quinzième anniversaire avec un concert caritatif le 20 novembre à la salle Granada 10. Les fonds récoltés seront reversés à l'association Corro por Marina y Samuel."
+  },
+  "de": {
+   "titulo": "Con Dos Cajones feiert 15 Jahre mit Benefizkonzert in Granada",
+   "resumen": "Die Band Con Dos Cajones feiert ihr fünfzehnjähriges Bestehen mit einem Benefizkonzert am 20. November im Granada 10. Der Erlös geht an den Verein Corro por Marina y Samuel."
+  },
+  "it": {
+   "titulo": "Con Dos Cajones celebra 15 anni con un concerto di beneficenza a Granada",
+   "resumen": "La band Con Dos Cajones celebrerà il suo quindicesimo anniversario con un concerto di beneficenza il 20 novembre presso la sala Granada 10. Il ricavato andrà a beneficio dell'associazione Corro por Marina y Samuel."
+  },
+  "pt": {
+   "titulo": "Con Dos Cajones celebra 15 anos com concerto solidário em Granada",
+   "resumen": "A banda Con Dos Cajones celebrará o seu décimo quinto aniversário com um concerto solidário a 20 de novembro na sala Granada 10. O valor angariado reverterá para a associação Corro por Marina y Samuel."
+  }
+ },
+ "601ec7a17d": {
+  "fr": {
+   "titulo": "Concert des élèves du conservatoire de musique de Calatayud",
+   "resumen": "Les 18 élèves du conservatoire professionnel de musique de Calatayud donneront un concert gratuit le 23 novembre à 18h30 dans l'auditorium des Claretiens."
+  },
+  "de": {
+   "titulo": "Konzert von Schülern des Konservatoriums für Musik in Calatayud",
+   "resumen": "Die 18 Schüler des Konservatoriums für Musik in Calatayud geben am 23. November um 18:30 Uhr ein kostenloses Konzert im Auditorium der Claretianos."
+  },
+  "it": {
+   "titulo": "Concerto degli allievi del conservatorio di musica di Calatayud",
+   "resumen": "I 18 allievi del conservatorio professionale di musica di Calatayud terranno un concerto gratuito il 23 novembre alle 18:30 nell'auditorium dei Claretianos."
+  },
+  "pt": {
+   "titulo": "Concerto de alunos do conservatório de música de Calatayud",
+   "resumen": "Os 18 alunos do conservatório profissional de música de Calatayud darão um concerto gratuito a 23 de novembro às 18h30 no auditório dos Claretianos."
+  }
+ },
+ "bd1ce28fdb": {
+  "fr": {
+   "titulo": "Atelier de photogrammes et laboratoire analogique à Costacabana",
+   "resumen": "L'Association Culturelle Interestelab organise un atelier de photogrammes et laboratoire analogique à Costacabana le 28 novembre. Animé par Estela García, il permettra de créer des cartes postales photographiques sans appareil."
+  },
+  "de": {
+   "titulo": "Workshop für Fotogramme und analoges Labor in Costacabana",
+   "resumen": "Die Kulturvereinigung Interestelab organisiert am 28. November einen Workshop für Fotogramme und analoges Labor in Costacabana. Geleitet von der bildenden Künstlerin Estela García, können die Teilnehmer fotografische Postkarten ohne Kamera erstellen."
+  },
+  "it": {
+   "titulo": "Laboratorio di fotogrammi e analogico a Costacabana",
+   "resumen": "L'Associazione Culturale Interestelab organizza un laboratorio di fotogrammi e analogico a Costacabana il 28 novembre. Tenuto dall'artista visiva Estela García, permetterà di creare cartoline fotografiche senza fotocamera."
+  },
+  "pt": {
+   "titulo": "Workshop de fotogramas e laboratório analógico em Costacabana",
+   "resumen": "A Associação Cultural Interestelab organiza um workshop de fotogramas e laboratório analógico em Costacabana a 28 de novembro. Ministrado pela artista visual Estela García, permitirá criar postais fotográficos sem câmara."
+  }
+ },
+ "15d9dd4ee0": {
+  "fr": {
+   "titulo": "Javier Castillo présente son roman 'Espinas en el aire' à Malaga",
+   "resumen": "L'écrivain Javier Castillo présentera son dernier roman, 'Espinas en el aire', le 1er décembre à l'Aula de SUR. L'auteur dévoilera les détails de son nouveau thriller psychologique."
+  },
+  "de": {
+   "titulo": "Javier Castillo präsentiert seinen Roman 'Espinas en el aire' in Málaga",
+   "resumen": "Der Schriftsteller Javier Castillo wird seinen neuesten Roman 'Espinas en el aire' am 1. Dezember im Aula de SUR vorstellen. Der Autor wird Details zu seinem neuen Psychothriller enthüllen."
+  },
+  "it": {
+   "titulo": "Javier Castillo presenta il suo romanzo 'Espinas en el aire' a Malaga",
+   "resumen": "Lo scrittore Javier Castillo presenterà il suo ultimo romanzo, 'Espinas en el aire', il 1° dicembre presso l'Aula de SUR. L'autore svelerà i dettagli del suo nuovo thriller psicologico."
+  },
+  "pt": {
+   "titulo": "Javier Castillo apresenta o seu romance 'Espinas en el aire' em Málaga",
+   "resumen": "O escritor Javier Castillo apresentará o seu último romance, 'Espinas en el aire', a 1 de dezembro na Aula de SUR. O autor revelará detalhes do seu novo thriller psicológico."
+  }
+ },
+ "a26d6932a1": {
+  "fr": {
+   "titulo": "Enrique Bunbury revient à Saragosse avec sa tournée 'Nuevas Mutaciones Tour'",
+   "resumen": "Enrique Bunbury se produira à Saragosse le 12 décembre dans le cadre de sa tournée 'Nuevas Mutaciones Tour', qui parcourra l'Espagne après son passage en Amérique."
+  },
+  "de": {
+   "titulo": "Enrique Bunbury kehrt mit seiner Tournee 'Nuevas Mutaciones Tour' nach Zaragoza zurück",
+   "resumen": "Enrique Bunbury wird am 12. Dezember in Zaragoza im Rahmen seiner Tournee 'Nuevas Mutaciones Tour' auftreten, die nach ihrer Amerika-Tournee durch Spanien führt."
+  },
+  "it": {
+   "titulo": "Enrique Bunbury torna a Saragozza con il suo tour 'Nuevas Mutaciones Tour'",
+   "resumen": "Enrique Bunbury si esibirà a Saragozza il 12 dicembre come parte del suo tour 'Nuevas Mutaciones Tour', che attraverserà la Spagna dopo il suo passaggio in America."
+  },
+  "pt": {
+   "titulo": "Enrique Bunbury regressa a Saragoça com a sua digressão 'Nuevas Mutaciones Tour'",
+   "resumen": "Enrique Bunbury atuará em Saragoça a 12 de dezembro como parte da sua digressão 'Nuevas Mutaciones Tour', que percorrerá a Espanha após a sua passagem pela América."
+  }
+ },
+ "e925ee99fc": {
+  "fr": {
+   "titulo": "Juan Luis Guerra au Starlite Occident Madrid en décembre",
+   "resumen": "Juan Luis Guerra donnera deux concerts au Starlite Occident Madrid les 16 et 18 décembre, clôturant le 15e anniversaire du festival. La deuxième édition espagnole de Billboard No.1s aura également lieu le 15 décembre."
+  },
+  "de": {
+   "titulo": "Juan Luis Guerra im Starlite Occident Madrid im Dezember",
+   "resumen": "Juan Luis Guerra gibt am 16. und 18. Dezember zwei Konzerte im Starlite Occident Madrid, zum Abschluss des 15-jährigen Jubiläums des Festivals. Die zweite spanische Ausgabe von Billboard No.1s findet ebenfalls am 15. Dezember statt."
+  },
+  "it": {
+   "titulo": "Juan Luis Guerra al Starlite Occident Madrid a dicembre",
+   "resumen": "Juan Luis Guerra terrà due concerti allo Starlite Occident Madrid il 16 e 18 dicembre, chiudendo il 15° anniversario del festival. Il 15 dicembre si terrà anche la seconda edizione spagnola di Billboard No.1s."
+  },
+  "pt": {
+   "titulo": "Juan Luis Guerra no Starlite Occident Madrid em dezembro",
+   "resumen": "Juan Luis Guerra dará dois concertos no Starlite Occident Madrid a 16 e 18 de dezembro, encerrando o 15º aniversário do festival. A segunda edição espanhola do Billboard No.1s também acontecerá a 15 de dezembro."
+  }
+ },
+ "07deeb44eb": {
+  "fr": {
+   "titulo": "Exposition \"Ertibil Bizkaia 2026\" (Barakaldo)",
+   "resumen": "ERTIBIL BIZKAIA célèbre sa 44e édition, transformant la Sala Rekalde en un espace de rencontre, de réflexion et de diffusion de la production artistique contemporaine de Bizkaia. L'exposition revient à la salle forale après sa rénovation et renforce…"
+  },
+  "de": {
+   "titulo": "Ausstellung \"Ertibil Bizkaia 2026\" (Barakaldo)",
+   "resumen": "ERTIBIL BIZKAIA feiert seine 44. Ausgabe und verwandelt die Sala Rekalde in einen Ort der Begegnung, Reflexion und Verbreitung zeitgenössischer Kunst aus Bizkaia. Die Ausstellung kehrt nach ihrer Renovierung in den Saal der Provinz zurück und stärkt…"
+  },
+  "it": {
+   "titulo": "Mostra \"Ertibil Bizkaia 2026\" (Barakaldo)",
+   "resumen": "ERTIBIL BIZKAIA celebra la sua 44ª edizione, trasformando la Sala Rekalde in uno spazio di incontro, riflessione e diffusione della produzione artistica contemporanea di Bizkaia. La mostra ritorna alla sala forale dopo la sua ristrutturazione e rafforza…"
+  },
+  "pt": {
+   "titulo": "Exposição \"Ertibil Bizkaia 2026\" (Barakaldo)",
+   "resumen": "ERTIBIL BIZKAIA celebra a sua 44ª edição, transformando a Sala Rekalde num espaço de encontro, reflexão e difusão da produção artística contemporânea de Bizkaia. A mostra regressa à sala foral após a sua remodelação e reforça…"
+  }
+ },
+ "e30a87cd55": {
+  "fr": {
+   "titulo": "\"Fernando Remacha : Entre la musique et la vie\"",
+   "resumen": "L'exposition rassemble des photographies familiales et de différentes étapes de la vie de Fernando Remacha (1898-1984), dont certaines prises par le photographe local Nicolás Salinas. Parmi les images, celles prises lors de son séjour en Italie…"
+  },
+  "de": {
+   "titulo": "\"Fernando Remacha: Zwischen Musik und Leben\"",
+   "resumen": "Die Ausstellung versammelt Familienfotos und Bilder aus verschiedenen Lebensphasen von Fernando Remacha (1898-1984), einige aufgenommen vom lokalen Fotografen Nicolás Salinas. Unter den Bildern sind Aufnahmen aus seiner Zeit in Italien hervorzuheben…"
+  },
+  "it": {
+   "titulo": "\"Fernando Remacha: Tra musica e vita\"",
+   "resumen": "La mostra raccoglie fotografie familiari e di diverse fasi della vita di Fernando Remacha (1898-1984), alcune scattate dal fotografo locale Nicolás Salinas. Tra le immagini spiccano quelle scattate durante il suo soggiorno in Italia…"
+  },
+  "pt": {
+   "titulo": "\"Fernando Remacha: Entre a música e a vida\"",
+   "resumen": "A mostra reúne fotografias familiares e de diferentes fases da vida de Fernando Remacha (1898-1984), algumas tiradas pelo fotógrafo local Nicolás Salinas. Entre as imagens destacam-se as tiradas durante a sua estadia em Itália…"
+  }
+ },
+ "102e47b431": {
+  "fr": {
+   "titulo": "Exposition 'Generación del 27'",
+   "resumen": "Exposition analysant la genèse, le style, les influences et les relations personnelles de la Génération de 27, un mouvement clé de la littérature espagnole."
+  },
+  "de": {
+   "titulo": "Ausstellung 'Generación del 27'",
+   "resumen": "Ausstellung, die die Entstehung, den Stil, die Einflüsse und die persönlichen Beziehungen der Generation von 1927, einer Schlüsselbewegung der spanischen Literatur, analysiert."
+  },
+  "it": {
+   "titulo": "Mostra 'Generación del 27'",
+   "resumen": "Mostra che analizza la genesi, lo stile, le influenze e le relazioni personali della Generazione del '27, un movimento chiave della letteratura spagnola."
+  },
+  "pt": {
+   "titulo": "Exposição 'Generación del 27'",
+   "resumen": "Exposição que analisa a génese, o estilo, as influências e as relações pessoais da Geração de 27, um movimento chave da literatura espanhola."
+  }
+ },
+ "94b974d8b8": {
+  "fr": {
+   "titulo": "Spectacle pour enfants : \"Munduari bira (ia) 80 trukotan\"",
+   "resumen": "Un magicien qui a fait le tour du monde cherche de l'aide pour retrouver sa clé volée dans ce spectacle interactif pour enfants. Des indices magiques guideront l'aventure."
+  },
+  "de": {
+   "titulo": "Kindershow: \"Munduari bira (ia) 80 trukotan\"",
+   "resumen": "Ein Magier, der die Welt bereist hat, sucht in dieser interaktiven Kindershow Hilfe, um seinen gestohlenen Schlüssel zu finden. Magische Hinweise leiten das Abenteuer."
+  },
+  "it": {
+   "titulo": "Spettacolo per bambini: \"Munduari bira (ia) 80 trukotan\"",
+   "resumen": "Un mago che ha viaggiato per il mondo cerca aiuto per ritrovare la sua chiave rubata in questo spettacolo interattivo per bambini, dove indizi magici guideranno l'avventura."
+  },
+  "pt": {
+   "titulo": "Espetáculo infantil: \"Munduari bira (ia) 80 trukotan\"",
+   "resumen": "Um mágico que deu a volta ao mundo procura ajuda para encontrar a sua chave roubada neste espetáculo interativo para crianças, onde pistas mágicas guiarão a aventura."
+  }
+ },
+ "1e8a458488": {
+  "fr": {
+   "titulo": "Zientzia Astea 2026 (Barakaldo) : \"Oceanus Plasticus\"",
+   "resumen": "Dans le cadre du programme Zientzia Astea 2026 de Barakaldo. L'exposition Oceanus Plasticus naît de l'engagement environnemental de l'EHU pour la conservation et l'utilisation des océans et des ressources marines de manière…"
+  },
+  "de": {
+   "titulo": "Zientzia Astea 2026 (Barakaldo): \"Oceanus Plasticus\"",
+   "resumen": "Im Rahmen des Programms Zientzia Astea 2026 in Barakaldo. Die Ausstellung Oceanus Plasticus entspringt dem Umweltengagement der EHU für die Erhaltung und Nutzung der Ozeane und Meeresressourcen auf eine…"
+  },
+  "it": {
+   "titulo": "Zientzia Astea 2026 (Barakaldo): \"Oceanus Plasticus\"",
+   "resumen": "Nell'ambito del programma Zientzia Astea 2026 di Barakaldo. La mostra Oceanus Plasticus nasce dall'impegno ambientale dell'EHU per la conservazione e l'utilizzo degli oceani e delle risorse marine in modo…"
+  },
+  "pt": {
+   "titulo": "Zientzia Astea 2026 (Barakaldo): \"Oceanus Plasticus\"",
+   "resumen": "No âmbito do programa Zientzia Astea 2026 de Barakaldo. A exposição Oceanus Plasticus surge do compromisso ambiental da EHU com a conservação e utilização dos oceanos e recursos marinhos de forma…"
+  }
+ },
+ "a91632fb7a": {
+  "fr": {
+   "titulo": "Zientzia Astea 2026 (Barakaldo) : \"Secrets de la côte basque : de la science à l'art\"",
+   "resumen": "Dans le cadre du programme Zientzia Astea 2026 de Barakaldo. Bien que nous pensions connaître la côte basque à première vue, ses vrais secrets restent souvent cachés dans les petits détails, invisibles à l'œil distrait. Cette…"
+  },
+  "de": {
+   "titulo": "Zientzia Astea 2026 (Barakaldo): \"Geheimnisse der baskischen Küste: Von der Wissenschaft zur Kunst\"",
+   "resumen": "Im Rahmen des Programms Zientzia Astea 2026 in Barakaldo. Obwohl wir glauben, die baskische Küste auf den ersten Blick zu kennen, bleiben ihre wahren Geheimnisse oft in den kleinen Details verborgen, die dem unachtsamen Auge entgehen. Diese…"
+  },
+  "it": {
+   "titulo": "Zientzia Astea 2026 (Barakaldo): \"Segreti della costa basca: dalla scienza all'arte\"",
+   "resumen": "Nell'ambito del programma Zientzia Astea 2026 di Barakaldo. Sebbene pensiamo di conoscere la costa basca a prima vista, i suoi veri segreti rimangono spesso nascosti nei piccoli dettagli, invisibili all'occhio distratto. Questa…"
+  },
+  "pt": {
+   "titulo": "Zientzia Astea 2026 (Barakaldo): \"Segredos da costa basca: da ciência à arte\"",
+   "resumen": "No âmbito do programa Zientzia Astea 2026 de Barakaldo. Embora acreditemos conhecer a costa basca à primeira vista, os seus verdadeiros segredos permanecem muitas vezes ocultos nos pequenos detalhes, invisíveis ao olhar distraído. Esta…"
+  }
+ },
+ "eb262fb3c0": {
+  "fr": {
+   "titulo": "Zientzia Astea 2026 : \"Dessiner l'architecture\"",
+   "resumen": "Exposition à Chillida Leku explorant la relation entre art, architecture et nature à travers des dessins d'étudiants en architecture, inspirés par les sculptures d'Eduardo Chillida."
+  },
+  "de": {
+   "titulo": "Zientzia Astea 2026: \"Architektur zeichnen\"",
+   "resumen": "Ausstellung in Chillida Leku, die die Beziehung zwischen Kunst, Architektur und Natur durch Zeichnungen von Architekturstudenten, inspiriert von den Skulpturen Eduardo Chillidas, erforscht."
+  },
+  "it": {
+   "titulo": "Zientzia Astea 2026: \"Disegnare l'architettura\"",
+   "resumen": "Mostra a Chillida Leku che esplora il rapporto tra arte, architettura e natura attraverso disegni di studenti di architettura, ispirati alle sculture di Eduardo Chillida."
+  },
+  "pt": {
+   "titulo": "Zientzia Astea 2026: \"Desenhando a arquitetura\"",
+   "resumen": "Exposição em Chillida Leku que explora a relação entre arte, arquitetura e natureza através de desenhos de estudantes de arquitetura, inspirados nas esculturas de Eduardo Chillida."
+  }
+ },
+ "89a2e2a84c": {
+  "fr": {
+   "titulo": "Projection de \"Sacamantecas\" à Durango",
+   "resumen": "Projection du film \"Sacamantecas\", situé en Alava au XIXe siècle, sur une série de meurtres brutaux et l'enquête pour trouver le coupable."
+  },
+  "de": {
+   "titulo": "Vorführung von \"Sacamantecas\" in Durango",
+   "resumen": "Vorführung des Films \"Sacamantecas\", der im Álava des 19. Jahrhunderts spielt und von einer Reihe brutaler Morde und der Untersuchung zur Ergreifung des Täters handelt."
+  },
+  "it": {
+   "titulo": "Proiezione di \"Sacamantecas\" a Durango",
+   "resumen": "Proiezione del film \"Sacamantecas\", ambientato nell'Alava del XIX secolo, su una serie di brutali omicidi e sull'indagine per trovare il colpevole."
+  },
+  "pt": {
+   "titulo": "Exibição de \"Sacamantecas\" em Durango",
+   "resumen": "Exibição do filme \"Sacamantecas\", ambientado na Álava do século XIX, sobre uma série de assassinatos brutais e a investigação para encontrar o culpado."
+  }
+ },
+ "79eea9c9a4": {
+  "fr": {
+   "titulo": "Projection de \"Sacamantecas\" à Getxo",
+   "resumen": "Projection du film \"Sacamantecas\", situé en Alava au XIXe siècle, sur une série de meurtres brutaux et l'enquête pour trouver le coupable."
+  },
+  "de": {
+   "titulo": "Vorführung von \"Sacamantecas\" in Getxo",
+   "resumen": "Vorführung des Films \"Sacamantecas\", der im Álava des 19. Jahrhunderts spielt und von einer Reihe brutaler Morde und der Untersuchung zur Ergreifung des Täters handelt."
+  },
+  "it": {
+   "titulo": "Proiezione di \"Sacamantecas\" a Getxo",
+   "resumen": "Proiezione del film \"Sacamantecas\", ambientato nell'Alava del XIX secolo, su una serie di brutali omicidi e sull'indagine per trovare il colpevole."
+  },
+  "pt": {
+   "titulo": "Exibição de \"Sacamantecas\" em Getxo",
+   "resumen": "Exibição do filme \"Sacamantecas\", ambientado na Álava do século XIX, sobre uma série de assassinatos brutais e a investigação para encontrar o culpado."
+  }
+ },
+ "e9a38c56b1": {
+  "fr": {
+   "titulo": "Film d'animation \"Katu kapeladuna\"",
+   "resumen": "Projection du film d'animation \"Katu kapeladuna\" (Le Chat Chapeauté), qui raconte les aventures d'un chat rusé semant le chaos dans la vie de deux frères."
+  },
+  "de": {
+   "titulo": "Animationsfilm \"Katu kapeladuna\"",
+   "resumen": "Vorführung des Animationsfilms \"Katu kapeladuna\" (Der Kater mit Hut), der die Abenteuer einer listigen Katze erzählt, die das Leben zweier Geschwister ins Chaos stürzt."
+  },
+  "it": {
+   "titulo": "Film d'animazione \"Katu kapeladuna\"",
+   "resumen": "Proiezione del film d'animazione \"Katu kapeladuna\" (Il Gatto con gli Stivali), che narra le avventure di un astuto gatto che semina il caos nella vita di due fratelli."
+  },
+  "pt": {
+   "titulo": "Filme de animação \"Katu kapeladuna\"",
+   "resumen": "Exibição do filme de animação \"Katu kapeladuna\" (O Gato das Botas), que narra as aventuras de um gato astuto que causa caos na vida de dois irmãos."
+  }
+ },
+ "1350f305ea": {
+  "fr": {
+   "titulo": "Projection de \"Sacamantecas\" à Cinesa Urbil",
+   "resumen": "Projection du film \"Sacamantecas\", situé en Alava au XIXe siècle, sur une série de meurtres brutaux et l'enquête pour trouver le coupable."
+  },
+  "de": {
+   "titulo": "Vorführung von \"Sacamantecas\" im Cinesa Urbil",
+   "resumen": "Vorführung des Films \"Sacamantecas\", der im Álava des 19. Jahrhunderts spielt und von einer Reihe brutaler Morde und der Untersuchung zur Ergreifung des Täters handelt."
+  },
+  "it": {
+   "titulo": "Proiezione di \"Sacamantecas\" al Cinesa Urbil",
+   "resumen": "Proiezione del film \"Sacamantecas\", ambientato nell'Alava del XIX secolo, su una serie di brutali omicidi e sull'indagine per trovare il colpevole."
+  },
+  "pt": {
+   "titulo": "Exibição de \"Sacamantecas\" no Cinesa Urbil",
+   "resumen": "Exibição do filme \"Sacamantecas\", ambientado na Álava do século XIX, sobre uma série de assassinatos brutais e a investigação para encontrar o culpado."
+  }
+ },
+ "81630ca9a7": {
+  "fr": {
+   "titulo": "Projection de \"Sacamantecas\" à Cinesa Max Center",
+   "resumen": "Projection du film \"Sacamantecas\", situé en Alava au XIXe siècle, sur une série de meurtres brutaux et l'enquête pour trouver le coupable."
+  },
+  "de": {
+   "titulo": "Vorführung von \"Sacamantecas\" im Cinesa Max Center",
+   "resumen": "Vorführung des Films \"Sacamantecas\", der im Álava des 19. Jahrhunderts spielt und von einer Reihe brutaler Morde und der Untersuchung zur Ergreifung des Täters handelt."
+  },
+  "it": {
+   "titulo": "Proiezione di \"Sacamantecas\" al Cinesa Max Center",
+   "resumen": "Proiezione del film \"Sacamantecas\", ambientato nell'Alava del XIX secolo, su una serie di brutali omicidi e sull'indagine per trovare il colpevole."
+  },
+  "pt": {
+   "titulo": "Exibição de \"Sacamantecas\" no Cinesa Max Center",
+   "resumen": "Exibição do filme \"Sacamantecas\", ambientado na Álava do século XIX, sobre uma série de assassinatos brutais e a investigação para encontrar o culpado."
+  }
+ },
+ "9004455279": {
+  "fr": {
+   "titulo": "Projection de \"Sacamantecas\" à Cinesa Zubiarte",
+   "resumen": "Projection du film \"Sacamantecas\", situé en Alava au XIXe siècle, sur une série de meurtres brutaux et l'enquête pour trouver le coupable."
+  },
+  "de": {
+   "titulo": "Vorführung von \"Sacamantecas\" im Cinesa Zubiarte",
+   "resumen": "Vorführung des Films \"Sacamantecas\", der im Álava des 19. Jahrhunderts spielt und von einer Reihe brutaler Morde und der Untersuchung zur Ergreifung des Täters handelt."
+  },
+  "it": {
+   "titulo": "Proiezione di \"Sacamantecas\" al Cinesa Zubiarte",
+   "resumen": "Proiezione del film \"Sacamantecas\", ambientato nell'Alava del XIX secolo, su una serie di brutali omicidi e sull'indagine per trovare il colpevole."
+  },
+  "pt": {
+   "titulo": "Exibição de \"Sacamantecas\" no Cinesa Zubiarte",
+   "resumen": "Exibição do filme \"Sacamantecas\", ambientado na Álava do século XIX, sobre uma série de assassinatos brutais e a investigação para encontrar o culpado."
+  }
+ },
+ "9e119cca41": {
+  "fr": {
+   "titulo": "Projection de \"Sacamantecas\" à Cinesa Garbera",
+   "resumen": "Projection du film \"Sacamantecas\", situé en Alava au XIXe siècle, sur une série de meurtres brutaux et l'enquête pour trouver le coupable."
+  },
+  "de": {
+   "titulo": "Vorführung von \"Sacamantecas\" im Cinesa Garbera",
+   "resumen": "Vorführung des Films \"Sacamantecas\", der im Álava des 19. Jahrhunderts spielt und von einer Reihe brutaler Morde und der Untersuchung zur Ergreifung des Täters handelt."
+  },
+  "it": {
+   "titulo": "Proiezione di \"Sacamantecas\" al Cinesa Garbera",
+   "resumen": "Proiezione del film \"Sacamantecas\", ambientato nell'Alava del XIX secolo, su una serie di brutali omicidi e sull'indagine per trovare il colpevole."
+  },
+  "pt": {
+   "titulo": "Exibição de \"Sacamantecas\" no Cinesa Garbera",
+   "resumen": "Exibição do filme \"Sacamantecas\", ambientado na Álava do século XIX, sobre uma série de assassinatos brutais e a investigação para encontrar o culpado."
+  }
+ },
+ "6045a1ed0b": {
+  "fr": {
+   "titulo": "Projection de \"Sacamantecas\" en basque",
+   "resumen": "Projection en basque du film \"Sacamantecas\", qui se déroule en Alava au XIXe siècle, sur une série de meurtres brutaux et l'enquête pour retrouver le coupable."
+  },
+  "de": {
+   "titulo": "Vorführung von \"Sacamantecas\" auf Baskisch",
+   "resumen": "Vorführung des Films \"Sacamantecas\" auf Baskisch, der im Álava des 19. Jahrhunderts spielt und sich mit einer Reihe brutaler Morde und der Suche nach dem Täter befasst."
+  },
+  "it": {
+   "titulo": "Proiezione di \"Sacamantecas\" in basco",
+   "resumen": "Proiezione in basco del film \"Sacamantecas\", ambientato nell'Alava del XIX secolo, su una serie di brutali omicidi e sull'indagine per trovare il colpevole."
+  },
+  "pt": {
+   "titulo": "Projeção de \"Sacamantecas\" em basco",
+   "resumen": "Projeção em basco do filme \"Sacamantecas\", ambientado na Álava do século XIX, sobre uma série de assassinatos brutais e a investigação para encontrar o culpado."
+  }
+ },
+ "83f56d6e5d": {
+  "fr": {
+   "titulo": "\"D'hier à aujourd'hui\", exposition d'Isabel M. Peralta",
+   "resumen": "L'exposition \"D'hier à aujourd'hui\" d'Isabel M. Peralta sera visible du 6 au 15 novembre."
+  },
+  "de": {
+   "titulo": "\"Von gestern bis heute\", Ausstellung von Isabel M. Peralta",
+   "resumen": "Die Ausstellung \"Von gestern bis heute\" von Isabel M. Peralta kann vom 6. bis 15. November besucht werden."
+  },
+  "it": {
+   "titulo": "\"Da ieri a oggi\", mostra di Isabel M. Peralta",
+   "resumen": "La mostra \"Da ieri a oggi\" di Isabel M. Peralta sarà visitabile dal 6 al 15 novembre."
+  },
+  "pt": {
+   "titulo": "\"De ontem para hoje\", exposição de Isabel M. Peralta",
+   "resumen": "A exposição \"De ontem para hoje\" de Isabel M. Peralta poderá ser visitada de 6 a 15 de novembro."
+  }
+ },
+ "2e343e7fa8": {
+  "fr": {
+   "titulo": "\"L'eau\", exposition d'Isabel Muñoz",
+   "resumen": "Le Pavillon des Mixtes de la Citadelle accueille jusqu'au 24 mai l'exposition « L'eau / Ura », de la primée artiste Isabel Muñoz. C'est une exposition de travaux qui confrontent ceux qui les naviguent à l'extrême vulnérabilité des mers et…"
+  },
+  "de": {
+   "titulo": "\"Das Wasser\", Ausstellung von Isabel Muñoz",
+   "resumen": "Der Pavillon de Mixtos der Zitadelle beherbergt bis zum 24. Mai die Ausstellung „Das Wasser / Ura“ der preisgekrönten Künstlerin Isabel Muñoz. Es handelt sich um eine Ausstellung von Werken, die den Betrachter mit der extremen Verletzlichkeit der Meere und… konfrontieren."
+  },
+  "it": {
+   "titulo": "\"L'acqua\", mostra di Isabel Muñoz",
+   "resumen": "Il Padiglione dei Misti della Cittadella ospita fino al 24 maggio la mostra \"L'acqua / Ura\", della premiata artista Isabel Muñoz. È una mostra di lavori che mettono a confronto chi li naviga con l'estrema vulnerabilità dei mari e…"
+  },
+  "pt": {
+   "titulo": "\"A água\", exposição de Isabel Muñoz",
+   "resumen": "O Pavilhão de Mixtos da Cidadela acolhe até 24 de maio a mostra 'A água / Ura', da premiada artista Isabel Muñoz. É uma exposição de trabalhos que confrontam quem os navega com a extrema vulnerabilidade dos mares e…"
+  }
+ },
+ "343abee60e": {
+  "fr": {
+   "titulo": "Ciné : \"El Diputado\" (1978) à Azkuna Zentroa",
+   "resumen": "La Zinemateka d'Azkuna Zentroa projette \"El Diputado\" (1978), un film sur un homme politique victime de chantage en raison de son homosexualité dans l'Espagne de la Transition. Considéré comme un document fondamental de l'époque."
+  },
+  "de": {
+   "titulo": "Film: \"El Diputado\" (1978) im Azkuna Zentroa",
+   "resumen": "Die Zinemateka des Azkuna Zentroa zeigt \"El Diputado\" (1978), einen Film über einen Politiker, der während der spanischen Transición wegen seiner Homosexualität erpresst wird. Gilt als grundlegendes Dokument der Epoche."
+  },
+  "it": {
+   "titulo": "Cinema: \"El Diputado\" (1978) all'Azkuna Zentroa",
+   "resumen": "La Zinemateka dell'Azkuna Zentroa proietta \"El Diputado\" (1978), un film su un politico ricattato per la sua omosessualità nella Spagna della Transizione. Considerato un documento fondamentale dell'epoca."
+  },
+  "pt": {
+   "titulo": "Cinema: \"El Diputado\" (1978) no Azkuna Zentroa",
+   "resumen": "A Zinemateka do Azkuna Zentroa exibe \"El Diputado\" (1978), um filme sobre um político que é chantagado pela sua homossexualidade na Espanha da Transição. Considerado um documento fundamental da época."
+  }
+ },
+ "907b07ff47": {
+  "fr": {
+   "titulo": "Ciné : \"Vámonos Bárbara\" (1978) à Azkuna Zentroa",
+   "resumen": "Azkuna Zentroa présente \"Vámonos Bárbara\" (1978), un film pionnier sur l'émancipation féminine et le divorce dans l'Espagne des années 70. Il raconte le voyage d'une mère et de sa fille à la recherche d'une vie plus libre."
+  },
+  "de": {
+   "titulo": "Film: \"Vámonos Bárbara\" (1978) im Azkuna Zentroa",
+   "resumen": "Das Azkuna Zentroa präsentiert \"Vámonos Bárbara\" (1978), einen wegweisenden Film über weibliche Emanzipation und Scheidung im Spanien der 70er Jahre. Er erzählt die Reise einer Mutter und ihrer Tochter auf der Suche nach einem freieren Leben."
+  },
+  "it": {
+   "titulo": "Cinema: \"Vámonos Bárbara\" (1978) all'Azkuna Zentroa",
+   "resumen": "L'Azkuna Zentroa presenta \"Vámonos Bárbara\" (1978), un film pionieristico che affronta l'emancipazione femminile e il divorzio nella Spagna degli anni '70. Narra il viaggio di una madre e una figlia alla ricerca di una vita più libera."
+  },
+  "pt": {
+   "titulo": "Cinema: \"Vámonos Bárbara\" (1978) no Azkuna Zentroa",
+   "resumen": "O Azkuna Zentroa apresenta \"Vámonos Bárbara\" (1978), um filme pioneiro na abordagem da emancipação feminina e do divórcio na Espanha dos anos 70. Narra a viagem de uma mãe e filha em busca de uma vida mais livre."
+  }
+ },
+ "474bbb0121": {
+  "fr": {
+   "titulo": "Ciné : \"El Crimen de Cuenca\" (1980) à Azkuna Zentroa",
+   "resumen": "La Zinemateka d'Azkuna Zentroa projette \"El Crimen de Cuenca\" (1980), un film censuré en son temps qui raconte une affaire de torture et de condamnation dans l'Espagne du début du XXe siècle. Un document historique clé."
+  },
+  "de": {
+   "titulo": "Film: \"El Crimen de Cuenca\" (1980) im Azkuna Zentroa",
+   "resumen": "Die Zinemateka des Azkuna Zentroa zeigt \"El Crimen de Cuenca\" (1980), einen einst zensierten Film, der einen Fall von Folter und Verurteilung im Spanien des frühen 20. Jahrhunderts erzählt. Ein wichtiges historisches Dokument."
+  },
+  "it": {
+   "titulo": "Cinema: \"El Crimen de Cuenca\" (1980) all'Azkuna Zentroa",
+   "resumen": "La Zinemateka dell'Azkuna Zentroa proietta \"El Crimen de Cuenca\" (1980), un film un tempo censurato che narra un caso di tortura e condanna nella Spagna dei primi del XX secolo. Un documento storico chiave."
+  },
+  "pt": {
+   "titulo": "Cinema: \"El Crimen de Cuenca\" (1980) no Azkuna Zentroa",
+   "resumen": "A Zinemateka do Azkuna Zentroa exibe \"El Crimen de Cuenca\" (1980), um filme outrora censurado que narra um caso de tortura e condenação na Espanha do início do século XX. Um documento histórico chave."
+  }
+ },
+ "7adb1cddda": {
+  "fr": {
+   "titulo": "Zientzia Astea 2026 : Programme à Etxebarri",
+   "resumen": "Dans le cadre de la programmation de Zientzia Astea 2026, la Semaine de la Science, de la Technologie et de l'Innovation. Etxebarri, dans le cadre du Plan Stratégique d'Innovation et en tant que membre du Réseau Innpulso, célébrera, du 9 au 13 de…"
+  },
+  "de": {
+   "titulo": "Zientzia Astea 2026: Programm in Etxebarri",
+   "resumen": "Im Rahmen des Programms von Zientzia Astea 2026, der Woche der Wissenschaft, Technologie und Innovation. Etxebarri wird im Rahmen des strategischen Innovationsplans und als Mitglied des Innpulso-Netzwerks vom 9. bis 13. de…"
+  },
+  "it": {
+   "titulo": "Zientzia Astea 2026: Programma a Etxebarri",
+   "resumen": "Nell'ambito della programmazione di Zientzia Astea 2026, la Settimana della Scienza, della Tecnologia e dell'Innovazione. Etxebarri, nell'ambito del Piano Strategico di Innovazione e come membro della Rete Innpulso, celebrerà, dal 9 al 13 di…"
+  },
+  "pt": {
+   "titulo": "Zientzia Astea 2026: Programa em Etxebarri",
+   "resumen": "No âmbito da programação da Zientzia Astea 2026, a Semana da Ciência, Tecnologia e Inovação. Etxebarri, no âmbito do Plano Estratégico de Inovação e como membro da Rede Innpulso, celebrará, de 9 a 13 de…"
+  }
+ },
+ "3cf848dfc2": {
+  "fr": {
+   "titulo": "Rencontre SER Éthique : Santé, argent et amour",
+   "resumen": "La Bibliothèque Publique Municipale Eugenio Trías accueille la 4ème Rencontre SER Éthique, axée sur la santé, l'argent et l'amour. Une journée pour réfléchir à ces piliers fondamentaux de la vie."
+  },
+  "de": {
+   "titulo": "SER Ethik-Treffen: Gesundheit, Geld und Liebe",
+   "resumen": "Die Städtische Öffentliche Bibliothek Eugenio Trías veranstaltet das 4. SER Ethik-Treffen, das sich auf Gesundheit, Geld und Liebe konzentriert. Ein Tag zur Reflexion über diese grundlegenden Säulen des Lebens."
+  },
+  "it": {
+   "titulo": "Incontro SER Etica: Salute, denaro e amore",
+   "resumen": "La Biblioteca Pubblica Comunale Eugenio Trías ospita il 4° Incontro SER Etica, incentrato su salute, denaro e amore. Una giornata per riflettere su questi pilastri fondamentali della vita."
+  },
+  "pt": {
+   "titulo": "Encontro SER Ética: Saúde, dinheiro e amor",
+   "resumen": "A Biblioteca Pública Municipal Eugenio Trías acolhe o 4º Encontro SER Ética, focado em saúde, dinheiro e amor. Uma jornada para refletir sobre estes pilares fundamentais da vida."
+  }
+ },
+ "d1bfc48854": {
+  "fr": {
+   "titulo": "Visite guidée du quartier des Jerónimos",
+   "resumen": "Découvrez l'influence du Retiro et du Jardin Botanique sur l'architecture bourgeoise de Madrid. Un parcours guidé dans le quartier des Jerónimos avec des histoires de ses voisins illustres. Inscription préalable requise."
+  },
+  "de": {
+   "titulo": "Geführte Tour durch das Jerónimos-Viertel",
+   "resumen": "Entdecken Sie den Einfluss des Retiro-Parks und des Botanischen Gartens auf die bürgerliche Architektur Madrids. Eine geführte Tour durch das Jerónimos-Viertel mit Geschichten seiner illustren Bewohner. Vorherige Anmeldung erforderlich."
+  },
+  "it": {
+   "titulo": "Tour guidato del quartiere dei Jerónimos",
+   "resumen": "Scopri l'influenza del Retiro e del Giardino Botanico sull'architettura borghese di Madrid. Un percorso guidato nel quartiere dei Jerónimos con storie dei suoi illustri residenti. È richiesta l'iscrizione anticipata."
+  },
+  "pt": {
+   "titulo": "Visita guiada ao Bairro dos Jerónimos",
+   "resumen": "Descubra a influência do Retiro e do Jardim Botânico na arquitetura burguesa de Madrid. Um percurso guiado pelo Bairro dos Jerónimos com histórias dos seus ilustres vizinhos. É necessária inscrição prévia."
+  }
+ },
+ "bfd9a66221": {
+  "fr": {
+   "titulo": "Table ronde : Tolkien et la Terre du Milieu",
+   "resumen": "Parcourez le fascinant univers de J. R. R. Tolkien. Nous parlerons de la Terre du Milieu, de ses peuples, langues, créatures et histoires, en découvrant les clés de son chef-d'œuvre de la littérature fantastique."
+  },
+  "de": {
+   "titulo": "Diskussionsrunde: Tolkien und Mittelerde",
+   "resumen": "Reisen Sie durch das faszinierende Universum von J. R. R. Tolkien. Wir werden über Mittelerde, seine Völker, Sprachen, Kreaturen und Geschichten sprechen und die Schlüssel zu seinem Meisterwerk der Fantasy-Literatur entdecken."
+  },
+  "it": {
+   "titulo": "Tavola rotonda: Tolkien e la Terra di Mezzo",
+   "resumen": "Percorri l'affascinante universo di J. R. R. Tolkien. Parleremo della Terra di Mezzo, dei suoi popoli, lingue, creature e storie, scoprendo le chiavi del suo capolavoro della letteratura fantasy."
+  },
+  "pt": {
+   "titulo": "Mesa redonda: Tolkien e a Terra Média",
+   "resumen": "Percorra o fascinante universo de J. R. R. Tolkien. Falaremos sobre a Terra Média, os seus povos, línguas, criaturas e histórias, descobrindo as chaves da sua obra-prima da literatura fantástica."
+  }
+ },
+ "f3c27f9bb8": {
+  "fr": {
+   "titulo": "Conférence : Révolution et contre-révolution",
+   "resumen": "Deuxième conférence du cycle sur la Révolution française. Seront abordées les révoltes et les résistances face aux processus révolutionnaires et la construction de nouveaux ordres politiques et sociaux."
+  },
+  "de": {
+   "titulo": "Vortrag: Revolution und Gegenrevolution",
+   "resumen": "Zweiter Vortrag im Zyklus zur Französischen Revolution. Aufstände und Widerstände gegen revolutionäre Prozesse sowie der Aufbau neuer politischer und sozialer Ordnungen werden thematisiert."
+  },
+  "it": {
+   "titulo": "Conferenza: Rivoluzione e controrivoluzione",
+   "resumen": "Seconda conferenza del ciclo sulla Rivoluzione Francese. Verranno affrontate le rivolte e le resistenze ai processi rivoluzionari e la costruzione di nuovi ordini politici e sociali."
+  },
+  "pt": {
+   "titulo": "Conferência: Revolução e contrarrevolução",
+   "resumen": "Segunda conferência do ciclo sobre a Revolução Francesa. Serão abordadas as revoltas e resistências aos processos revolucionários e a construção de novas ordens políticas e sociais."
+  }
+ },
+ "65620cea3d": {
+  "fr": {
+   "titulo": "Ciné pour enfants : 'Shrek' à la Bibliothèque María Lejárraga",
+   "resumen": "Profitez du film 'Shrek' à la Bibliothèque Publique Municipale María Lejárraga. Une aventure amusante pour toute la famille avec entrée libre jusqu'à épuisement des places."
+  },
+  "de": {
+   "titulo": "Kinderkino: 'Shrek' in der Bibliothek María Lejárraga",
+   "resumen": "Genießen Sie den Film 'Shrek' in der Städtischen Öffentlichen Bibliothek María Lejárraga. Ein unterhaltsames Abenteuer für die ganze Familie mit freiem Eintritt, solange Plätze verfügbar sind."
+  },
+  "it": {
+   "titulo": "Cinema per bambini: 'Shrek' alla Biblioteca María Lejárraga",
+   "resumen": "Goditi il film 'Shrek' presso la Biblioteca Pubblica Comunale María Lejárraga. Un'avventura divertente per tutta la famiglia con ingresso gratuito fino ad esaurimento posti."
+  },
+  "pt": {
+   "titulo": "Cinema infantil: 'Shrek' na Biblioteca María Lejárraga",
+   "resumen": "Desfrute do filme 'Shrek' na Biblioteca Pública Municipal María Lejárraga. Uma aventura divertida para toda a família com entrada gratuita até lotação esgotar."
+  }
+ },
+ "5c6061884c": {
+  "fr": {
+   "titulo": "Collage Vivant + Puzzle Mural à Villa de Vallecas",
+   "resumen": "Activité artistique à Villa de Vallecas combinant 'Collage Vivant' et 'Puzzle Mural'. Une expérience créative pour tous les publics."
+  },
+  "de": {
+   "titulo": "Lebende Collage + Wandpuzzle in Villa de Vallecas",
+   "resumen": "Künstlerische Aktivität in Villa de Vallecas, die 'Lebende Collage' und 'Wandpuzzle' kombiniert. Ein kreatives Erlebnis für alle Zielgruppen."
+  },
+  "it": {
+   "titulo": "Collage Vivo + Puzzle Murale a Villa de Vallecas",
+   "resumen": "Attività artistica a Villa de Vallecas che combina 'Collage Vivo' e 'Puzzle Murale'. Un'esperienza creativa per tutti i pubblici."
+  },
+  "pt": {
+   "titulo": "Colagem Viva + Puzzle Mural em Villa de Vallecas",
+   "resumen": "Atividade artística em Villa de Vallecas que combina 'Colagem Viva' e 'Puzzle Mural'. Uma experiência criativa para todos os públicos."
+  }
+ },
+ "d84d015f26": {
+  "fr": {
+   "titulo": "Présentation et débat du livre 'Siempre tuvimos héroes'",
+   "resumen": "Présentation de l'édition révisée et augmentée du livre 'Siempre tuvimos héroes' de Javier Santamarta del Pozo, suivie d'un débat. Il explore des héros méconnus de l'histoire."
+  },
+  "de": {
+   "titulo": "Präsentation und Diskussion des Buches 'Siempre tuvimos héroes'",
+   "resumen": "Präsentation der überarbeiteten und erweiterten Ausgabe des Buches 'Siempre tuvimos héroes' von Javier Santamarta del Pozo, gefolgt von einer Diskussion. Es werden unbekannte Helden der Geschichte erforscht."
+  },
+  "it": {
+   "titulo": "Presentazione e dibattito del libro 'Siempre tuvimos héroes'",
+   "resumen": "Presentazione dell'edizione riveduta e ampliata del libro 'Siempre tuvimos héroes' di Javier Santamarta del Pozo, seguita da un dibattito. Vengono esplorati eroi sconosciuti della storia."
+  },
+  "pt": {
+   "titulo": "Apresentação e debate do livro 'Siempre tuvimos héroes'",
+   "resumen": "Apresentação da edição revista e ampliada do livro 'Siempre tuvimos héroes' de Javier Santamarta del Pozo, seguida de um debate. Exploram-se heróis desconhecidos da história."
+  }
+ },
+ "89494cd69e": {
+  "fr": {
+   "titulo": "Conférences : Le Madrid du Siècle des Lumières (XVIIIe siècle)",
+   "resumen": "Cycle de conférences sur le Madrid du XVIIIe siècle, abordant des thèmes tels que Charles III, le développement des infrastructures et la mutinerie contre Esquilache. Elles auront lieu les jeudis."
+  },
+  "de": {
+   "titulo": "Vorträge: Madrid im Zeitalter der Aufklärung (18. Jh.)",
+   "resumen": "Vortragsreihe über Madrid im 18. Jahrhundert, die Themen wie Karl III., die Entwicklung der Infrastruktur und den Aufstand gegen Esquilache behandelt. Findet donnerstags statt."
+  },
+  "it": {
+   "titulo": "Conferenze: Il Madrid del Secolo dei Lumi (XVIII sec.)",
+   "resumen": "Ciclo di conferenze sul Madrid del XVIII secolo, che affronta temi come Carlo III, lo sviluppo delle infrastrutture e la sommossa contro Esquilache. Si terranno i giovedì."
+  },
+  "pt": {
+   "titulo": "Conferências: O Madrid do Século das Luzes (Séc. XVIII)",
+   "resumen": "Ciclo de conferências sobre o Madrid do século XVIII, abordando temas como Carlos III, o desenvolvimento de infraestruturas e o motim contra Esquilache. Serão realizadas às quintas-feiras."
+  }
+ },
+ "02176cec7e": {
+  "fr": {
+   "titulo": "Conférence : Ingrid Bergman et Rossellini",
+   "resumen": "Conférence sur la relation entre Ingrid Bergman et Roberto Rossellini, animée par Eva M.ª Mera Jiménez. Entrée libre jusqu'à épuisement des places."
+  },
+  "de": {
+   "titulo": "Vortrag: Ingrid Bergman und Rossellini",
+   "resumen": "Vortrag über die Beziehung zwischen Ingrid Bergman und Roberto Rossellini, gehalten von Eva M.ª Mera Jiménez. Freier Eintritt, solange Plätze verfügbar sind."
+  },
+  "it": {
+   "titulo": "Conferenza: Ingrid Bergman e Rossellini",
+   "resumen": "Conferenza sulla relazione tra Ingrid Bergman e Roberto Rossellini, tenuta da Eva M.ª Mera Jiménez. Ingresso libero fino ad esaurimento posti."
+  },
+  "pt": {
+   "titulo": "Conferência: Ingrid Bergman e Rossellini",
+   "resumen": "Conferência sobre a relação entre Ingrid Bergman e Roberto Rossellini, ministrada por Eva M.ª Mera Jiménez. Entrada livre até lotação esgotar."
+  }
+ },
+ "1443a9b1e3": {
+  "fr": {
+   "titulo": "L'infante Marguerite. Au-delà des Ménines",
+   "resumen": "Conférence sur la vie de Marguerite-Thérèse d'Autriche, l'infante représentée dans Les Ménines, explorant sa biographie de la cour espagnole à Vienne."
+  },
+  "de": {
+   "titulo": "Infantin Margarita. Jenseits von Las Meninas",
+   "resumen": "Vortrag über das Leben von Margarita Teresa von Österreich, der Infantin, die in Las Meninas dargestellt ist, und erkundet ihre Biografie vom spanischen Hof bis nach Wien."
+  },
+  "it": {
+   "titulo": "L'infanta Margherita. Oltre Las Meninas",
+   "resumen": "Conferenza sulla vita di Margherita Teresa d'Austria, l'infanta ritratta in Las Meninas, esplorando la sua biografia dalla corte spagnola a Vienna."
+  },
+  "pt": {
+   "titulo": "A infanta Margarita. Para além de Las Meninas",
+   "resumen": "Conferência sobre a vida de Margarida Teresa de Áustria, a infanta retratada em Las Meninas, explorando a sua biografia da corte espanhola a Viena."
+  }
+ },
+ "a366346ad1": {
+  "fr": {
+   "titulo": "Le voyage d'Harold",
+   "resumen": "Projection du film 'The Unlikely Pilgrimage of Harold Fry'. Un homme retraité entreprend un voyage à pied pour porter un message à une amie malade. Durée 103 min. Recommandé à partir de 12 ans."
+  },
+  "de": {
+   "titulo": "Harolds Reise",
+   "resumen": "Vorführung des Films 'The Unlikely Pilgrimage of Harold Fry'. Ein pensionierter Mann unternimmt eine Fußreise, um einer kranken Freundin eine Nachricht zu überbringen. Dauer 103 Min. Empfohlen ab 12 Jahren."
+  },
+  "it": {
+   "titulo": "Il viaggio di Harold",
+   "resumen": "Proiezione del film 'The Unlikely Pilgrimage of Harold Fry'. Un uomo in pensione intraprende un viaggio a piedi per portare un messaggio a un'amica malata. Durata 103 min. Consigliato dai 12 anni in su."
+  },
+  "pt": {
+   "titulo": "A viagem de Harold",
+   "resumen": "Projeção do filme 'The Unlikely Pilgrimage of Harold Fry'. Um homem reformado embarca numa viagem a pé para entregar uma mensagem a uma amiga doente. Duração 103 min. Recomendado a partir dos 12 anos."
+  }
+ },
+ "ac2b74f2b7": {
+  "fr": {
+   "titulo": "Écrire des mondes pour retrouver le pouvoir",
+   "resumen": "Activité à Matadero Madrid sur l'écriture et l'autonomisation."
+  },
+  "de": {
+   "titulo": "Welten schreiben, um Macht zurückzugewinnen",
+   "resumen": "Aktivität im Matadero Madrid zum Thema Schreiben und Ermächtigung."
+  },
+  "it": {
+   "titulo": "Scrivere mondi per recuperare il potere",
+   "resumen": "Attività a Matadero Madrid sulla scrittura e sull'empowerment."
+  },
+  "pt": {
+   "titulo": "Escrever mundos para recuperar o poder",
+   "resumen": "Atividade no Matadero Madrid sobre escrita e empoderamento."
+  }
+ },
+ "df965831fc": {
+  "fr": {
+   "titulo": "Exposition de tapisseries 'Debajo de todo', de Raquel Lobo",
+   "resumen": "Exposition de tapisseries intitulée 'Debajo de todo' de l'artiste Raquel Lobo à Matadero Madrid."
+  },
+  "de": {
+   "titulo": "Ausstellung von Wandteppichen 'Debajo de todo' von Raquel Lobo",
+   "resumen": "Ausstellung von Wandteppichen mit dem Titel 'Debajo de todo' von der Künstlerin Raquel Lobo im Matadero Madrid."
+  },
+  "it": {
+   "titulo": "Mostra di arazzi 'Debajo de todo', di Raquel Lobo",
+   "resumen": "Mostra di arazzi intitolata 'Debajo de todo' dell'artista Raquel Lobo a Matadero Madrid."
+  },
+  "pt": {
+   "titulo": "Exposição de tapeçarias 'Debajo de todo', de Raquel Lobo",
+   "resumen": "Exposição de tapeçarias intitulada 'Debajo de todo' da artista Raquel Lobo no Matadero Madrid."
+  }
+ },
+ "49334725af": {
+  "fr": {
+   "titulo": "Exposition : 'EIDOLON. Entre la Réalité et les Rêves'",
+   "resumen": "Alfonso Sánchez Pardo Alonso (SPARDO) présente son exposition 'EIDOLON. Entre la Réalité et les Rêves' au Centre Culturel La Vaguada. Ouvert en semaine, avec des samedis selon la programmation."
+  },
+  "de": {
+   "titulo": "Ausstellung: 'EIDOLON. Zwischen Realität und Träumen'",
+   "resumen": "Alfonso Sánchez Pardo Alonso (SPARDO) präsentiert seine Ausstellung 'EIDOLON. Zwischen Realität und Träumen' im Kulturzentrum La Vaguada. Geöffnet wochentags, Samstage nach Programm."
+  },
+  "it": {
+   "titulo": "Mostra: 'EIDOLON. Tra Realtà e Sogni'",
+   "resumen": "Alfonso Sánchez Pardo Alonso (SPARDO) presenta la sua mostra 'EIDOLON. Tra Realtà e Sogni' presso il Centro Culturale La Vaguada. Aperto nei giorni feriali, con sabati secondo programmazione."
+  },
+  "pt": {
+   "titulo": "Exposição: 'EIDOLON. Entre a Realidade e os Sonhos'",
+   "resumen": "Alfonso Sánchez Pardo Alonso (SPARDO) apresenta a sua exposição 'EIDOLON. Entre a Realidade e os Sonhos' no Centro Cultural La Vaguada. Aberto durante a semana, com sábados conforme programação."
+  }
+ },
+ "713ba5b4cc": {
+  "fr": {
+   "titulo": "Festival de littérature fantastique 'Sui Generis Madrid'",
+   "resumen": "Plongez dans le festival de littérature fantastique 'Sui Generis Madrid' à Matadero Madrid. Un événement pour les amateurs de l'imaginaire."
+  },
+  "de": {
+   "titulo": "Fantasy-Literaturfestival 'Sui Generis Madrid'",
+   "resumen": "Tauchen Sie ein in das Fantasy-Literaturfestival 'Sui Generis Madrid' im Matadero Madrid. Eine Veranstaltung für Liebhaber des Imaginären."
+  },
+  "it": {
+   "titulo": "Festival di letteratura fantasy 'Sui Generis Madrid'",
+   "resumen": "Immergetevi nel festival di letteratura fantasy 'Sui Generis Madrid' a Matadero Madrid. Un evento per gli amanti dell'immaginario."
+  },
+  "pt": {
+   "titulo": "Festival de literatura fantástica 'Sui Generis Madrid'",
+   "resumen": "Mergulhe no festival de literatura fantástica 'Sui Generis Madrid' no Matadero Madrid. Um evento para os amantes do imaginário."
+  }
+ },
+ "626b981d1a": {
+  "fr": {
+   "titulo": "Histoire des castagnettes et autres fantaisies",
+   "resumen": "La Bibliothèque Musicale Víctor Espinós présente 'Histoire des castagnettes et autres fantaisies', un parcours à travers l'histoire de cet instrument et d'autres curiosités musicales."
+  },
+  "de": {
+   "titulo": "Geschichte der Kastagnetten und anderer Fantasien",
+   "resumen": "Die Musikbibliothek Víctor Espinós präsentiert 'Geschichte der Kastagnetten und anderer Fantasien', eine Reise durch die Geschichte dieses Instruments und anderer musikalischer Kuriositäten."
+  },
+  "it": {
+   "titulo": "Storia delle nacchere e altre fantasie",
+   "resumen": "La Biblioteca Musicale Víctor Espinós presenta 'Storia delle nacchere e altre fantasie', un percorso attraverso la storia di questo strumento e altre curiosità musicali."
+  },
+  "pt": {
+   "titulo": "História das castanholas e outras fantasias",
+   "resumen": "A Biblioteca Musical Víctor Espinós apresenta 'História das castanholas e outras fantasias', um percurso pela história deste instrumento e outras curiosidades musicais."
+  }
+ },
+ "e5e70be9c4": {
+  "fr": {
+   "titulo": "Pièce de théâtre 'La réplica' pour les plus de 14 ans",
+   "resumen": "Le Centre Culturel Casa de Vacas présente 'La réplica', une pièce de théâtre d'Isidora Stevenson. Recommandée pour un public de plus de 14 ans. Les billets seront distribués une heure avant le début."
+  },
+  "de": {
+   "titulo": "Theaterstück 'La réplica' für über 14-Jährige",
+   "resumen": "Das Kulturzentrum Casa de Vacas präsentiert 'La réplica', ein Theaterstück von Isidora Stevenson. Empfohlen für ein Publikum ab 14 Jahren. Tickets werden eine Stunde vor Beginn ausgegeben."
+  },
+  "it": {
+   "titulo": "Opera teatrale 'La réplica' per maggiori di 14 anni",
+   "resumen": "Il Centro Culturale Casa de Vacas presenta 'La réplica', un'opera teatrale di Isidora Stevenson. Consigliata per un pubblico maggiore di 14 anni. I biglietti saranno distribuiti un'ora prima dell'inizio."
+  },
+  "pt": {
+   "titulo": "Peça de teatro 'La réplica' para maiores de 14 anos",
+   "resumen": "O Centro Cultural Casa de Vacas apresenta 'La réplica', uma peça de teatro de Isidora Stevenson. Recomendada para público com mais de 14 anos. Os bilhetes serão distribuídos uma hora antes do início."
+  }
+ },
+ "824886c339": {
+  "fr": {
+   "titulo": "Llanto por Ignacio Sánchez Mejías au Teatro Español",
+   "resumen": "Assistez à la représentation de 'Llanto por Ignacio Sánchez Mejías' dans le historique Teatro Español. Une œuvre qui rend hommage à la figure du torero."
+  },
+  "de": {
+   "titulo": "Llanto por Ignacio Sánchez Mejías im Teatro Español",
+   "resumen": "Besuchen Sie die Aufführung von 'Llanto por Ignacio Sánchez Mejías' im historischen Teatro Español. Ein Werk, das der Figur des Toreros huldigt."
+  },
+  "it": {
+   "titulo": "Llanto por Ignacio Sánchez Mejías al Teatro Español",
+   "resumen": "Assisti alla rappresentazione di 'Llanto por Ignacio Sánchez Mejías' nello storico Teatro Español. Un'opera che rende omaggio alla figura del torero."
+  },
+  "pt": {
+   "titulo": "Llanto por Ignacio Sánchez Mejías no Teatro Español",
+   "resumen": "Assista à representação de 'Llanto por Ignacio Sánchez Mejías' no histórico Teatro Español. Uma obra que homenageia a figura do toureiro."
+  }
+ },
+ "37eb642968": {
+  "fr": {
+   "titulo": "Madrid Distrito en Corto à Tetuán",
+   "resumen": "Présentation de courts métrages comme 'Una Cabeza En La Pared', 'La Fuerza' et 'El Relevo', explorant des thèmes comme l'adaptation sociale et la moralité."
+  },
+  "de": {
+   "titulo": "Madrid Distrito en Corto in Tetuán",
+   "resumen": "Vorführung von Kurzfilmen wie 'Una Cabeza En La Pared', 'La Fuerza' und 'El Relevo', die Themen wie soziale Anpassung und Moral erforschen."
+  },
+  "it": {
+   "titulo": "Madrid Distrito en Corto a Tetuán",
+   "resumen": "Presentazione di cortometraggi come 'Una Cabeza En La Pared', 'La Fuerza' e 'El Relevo', che esplorano temi come l'adattamento sociale e la moralità."
+  },
+  "pt": {
+   "titulo": "Madrid Distrito en Corto em Tetuán",
+   "resumen": "Apresentação de curtas-metragens como 'Una Cabeza En La Pared', 'La Fuerza' e 'El Relevo', explorando temas como adaptação social e moralidade."
+  }
+ },
+ "78306a4d9d": {
+  "fr": {
+   "titulo": "Master Class d'aquarelle à Sanchinarro",
+   "resumen": "L'Association Espagnole des Aquarellistes propose une master class d'aquarelle dispensée par Feli Bernardo au Centre Culturel Sanchinarro. Entrée libre."
+  },
+  "de": {
+   "titulo": "Aquarell-Meisterkurs in Sanchinarro",
+   "resumen": "Der Spanische Aquarellistenverband bietet einen Meisterkurs in Aquarellmalerei von Feli Bernardo im Kulturzentrum Sanchinarro an. Freier Eintritt."
+  },
+  "it": {
+   "titulo": "Master Class di Acquerello a Sanchinarro",
+   "resumen": "L'Associazione Spagnola di Acquerellisti offre una master class di acquerello tenuta da Feli Bernardo presso il Centro Culturale Sanchinarro. Ingresso libero."
+  },
+  "pt": {
+   "titulo": "Master Class de Aguarela em Sanchinarro",
+   "resumen": "A Associação Espanhola de Aquarelistas oferece uma master class de aguarela ministrada por Feli Bernardo no Centro Cultural Sanchinarro. Entrada livre."
+  }
+ },
+ "792b799e69": {
+  "fr": {
+   "titulo": "Mercadea : Informez-vous sur les déchets à l'UCM",
+   "resumen": "Visitez l'Université Complutense de Madrid pour vous informer sur la gestion correcte des déchets, en particulier les textiles. Triez correctement vos déchets et repartez avec un cadeau."
+  },
+  "de": {
+   "titulo": "Mercadea: Informieren Sie sich über Abfall an der UCM",
+   "resumen": "Besuchen Sie die Complutense Universität Madrid, um sich über die richtige Abfallentsorgung, insbesondere von Textilien, zu informieren. Trennen Sie Ihren Abfall richtig und erhalten Sie ein Geschenk."
+  },
+  "it": {
+   "titulo": "Mercadea: Informati sui rifiuti all'UCM",
+   "resumen": "Visita l'Università Complutense di Madrid per informarti sulla corretta gestione dei rifiuti, in particolare tessili. Separa correttamente i tuoi rifiuti e porta a casa un regalo."
+  },
+  "pt": {
+   "titulo": "Mercadea: Informe-se sobre resíduos na UCM",
+   "resumen": "Visite a Universidade Complutense de Madrid para se informar sobre a gestão correta de resíduos, especialmente têxteis. Separe corretamente os seus resíduos e leve um presente."
+  }
+ },
+ "784b8e9a28": {
+  "fr": {
+   "titulo": "Table ronde : 'Carne, sangre y territorio' à Matadero",
+   "resumen": "Participez à une table ronde sur la littérature contemporaine intitulée 'Carne, sangre y territorio' à Matadero Madrid."
+  },
+  "de": {
+   "titulo": "Diskussionsrunde: 'Carne, sangre y territorio' im Matadero",
+   "resumen": "Nehmen Sie an einer Diskussionsrunde über zeitgenössische Literatur mit dem Titel 'Carne, sangre y territorio' im Matadero Madrid teil."
+  },
+  "it": {
+   "titulo": "Tavola rotonda: 'Carne, sangue e territorio' a Matadero",
+   "resumen": "Partecipa a una tavola rotonda sulla letteratura contemporanea intitolata 'Carne, sangue y territorio' a Matadero Madrid."
+  },
+  "pt": {
+   "titulo": "Mesa redonda: 'Carne, sangue e território' no Matadero",
+   "resumen": "Participe numa mesa redonda sobre literatura contemporânea intitulada 'Carne, sangue y territorio' no Matadero Madrid."
+  }
+ },
+ "fe1afd79a1": {
+  "fr": {
+   "titulo": "Femmes de Cinéma : 'Nosotras Contamos. Romería'",
+   "resumen": "Projection de 'Nosotras Contamos. Romería' de Carla Simón Pipó à Madrid. Un drame sur une jeune femme qui cherche à reconstituer l'histoire de ses parents."
+  },
+  "de": {
+   "titulo": "Frauen im Kino: 'Nosotras Contamos. Romería'",
+   "resumen": "Vorführung von 'Nosotras Contamos. Romería' von Carla Simón Pipó in Madrid. Ein Drama über eine junge Frau, die versucht, die Geschichte ihrer Eltern zu rekonstruieren."
+  },
+  "it": {
+   "titulo": "Donne nel Cinema: 'Nosotras Contamos. Romería'",
+   "resumen": "Proiezione di 'Nosotras Contamos. Romería' di Carla Simón Pipó a Madrid. Un dramma su una giovane donna che cerca di ricostruire la storia dei suoi genitori."
+  },
+  "pt": {
+   "titulo": "Mulheres no Cinema: 'Nosotras Contamos. Romería'",
+   "resumen": "Exibição de 'Nosotras Contamos. Romería' de Carla Simón Pipó em Madrid. Um drama sobre uma jovem que procura reconstruir a história dos seus pais."
+  }
+ },
+ "237c0c74f5": {
+  "fr": {
+   "titulo": "Courtes pièces de Tchekhov",
+   "resumen": "Le groupe de théâtre Juglar al Cinquillo présente une adaptation de trois courtes pièces d'Anton Tchekhov : 'L'Ours', 'La Demande en mariage' et 'Le Jubilé'. Explorez la condition humaine et l'incommunicabilité."
+  },
+  "de": {
+   "titulo": "Kurze Stücke von Tschechow",
+   "resumen": "Die Theatergruppe Juglar al Cinquillo präsentiert eine Adaption von drei Kurzstücken von Anton Tschechow: 'Der Bär', 'Die Heiratsantrag' und 'Das Jubiläum'. Erforschen Sie die menschliche Verfassung und die Unfähigkeit zur Kommunikation."
+  },
+  "it": {
+   "titulo": "Opere brevi di Čechov",
+   "resumen": "Il gruppo teatrale Juglar al Cinquillo presenta un adattamento di tre opere brevi di Anton Čechov: 'L'orso', 'La proposta di matrimonio' e 'L'anniversario'. Esplora la condizione umana e l'incomunicabilità."
+  },
+  "pt": {
+   "titulo": "Peças curtas de Tchekhov",
+   "resumen": "O grupo de teatro Juglar al Cinquillo apresenta uma adaptação de três peças curtas de Anton Tchekhov: 'O Urso', 'O Pedido de Casamento' e 'O Aniversário'. Explore a condição humana e a incomunicabilidade."
+  }
+ },
+ "02a420313b": {
+  "fr": {
+   "titulo": "Papanatas : Comédie Chorale",
+   "resumen": "Le Centre Culturel Puerta de Toledo présente 'Papanatas', une comédie qui réfléchit sur les apparences et les contradictions de la vie quotidienne."
+  },
+  "de": {
+   "titulo": "Papanatas: Chorkomödie",
+   "resumen": "Das Kulturzentrum Puerta de Toledo präsentiert 'Papanatas', eine Komödie, die über Schein und Widersprüche des täglichen Lebens reflektiert."
+  },
+  "it": {
+   "titulo": "Papanatas: Commedia Corale",
+   "resumen": "Il Centro Culturale Puerta de Toledo presenta 'Papanatas', una commedia che riflette sulle apparenze e le contraddizioni della vita quotidiana."
+  },
+  "pt": {
+   "titulo": "Papanatas: Comédia Coral",
+   "resumen": "O Centro Cultural Puerta de Toledo apresenta 'Papanatas', uma comédia que reflete sobre as aparências e as contradições da vida quotidiana."
+  }
+ },
+ "b464a2b1b1": {
+  "fr": {
+   "titulo": "Danse contemporaine : Peeping Tom à Matadero",
+   "resumen": "Découvrez la danse contemporaine avec la compagnie Peeping Tom au Centro Danza Matadero. Une proposition scénique innovante."
+  },
+  "de": {
+   "titulo": "Zeitgenössischer Tanz: Peeping Tom im Matadero",
+   "resumen": "Erleben Sie zeitgenössischen Tanz mit der Kompanie Peeping Tom im Centro Danza Matadero. Ein innovatives Bühnenkonzept."
+  },
+  "it": {
+   "titulo": "Danza contemporanea: Peeping Tom a Matadero",
+   "resumen": "Sperimenta la danza contemporanea con la compagnia Peeping Tom al Centro Danza Matadero. Una proposta scenica innovativa."
+  },
+  "pt": {
+   "titulo": "Dança contemporânea: Peeping Tom no Matadero",
+   "resumen": "Experimente a dança contemporânea com a companhia Peeping Tom no Centro Danza Matadero. Uma proposta cénica inovadora."
+  }
+ },
+ "945cf675bf": {
+  "fr": {
+   "titulo": "Film : El forzudo (1926)",
+   "resumen": "Cycle de Classiques de la Comédie Muette. Un soldat belge voyage en Amérique après la guerre pour rencontrer la femme qui lui écrit des lettres. Film de 1926 au Centre Dotacional Integrado Arganzuela Ángel del Río."
+  },
+  "de": {
+   "titulo": "Film: El forzudo (1926)",
+   "resumen": "Zyklus der Klassiker der Stummfilmkomödie. Ein belgischer Soldat reist nach dem Krieg nach Amerika, um die Frau zu treffen, die ihm Briefe schreibt. Film von 1926 im Arganzuela Ángel del Río Integrated Endowment Center."
+  },
+  "it": {
+   "titulo": "Film: El forzudo (1926)",
+   "resumen": "Ciclo di Classici della Commedia del Muto. Un soldato belga viaggia in America dopo la guerra per incontrare la donna che gli scrive lettere. Film del 1926 presso il Centro Dotacional Integrado Arganzuela Ángel del Río."
+  },
+  "pt": {
+   "titulo": "Filme: El forzudo (1926)",
+   "resumen": "Ciclo de Clássicos da Comédia Muda. Um soldado belga viaja para a América após a guerra para conhecer a mulher que lhe escreve cartas. Filme de 1926 no Centro Dotacional Integrado Arganzuela Ángel del Río."
+  }
+ },
+ "05fed27f62": {
+  "fr": {
+   "titulo": "Programme du jeudi 12 novembre : Courts métrages",
+   "resumen": "Projection de plusieurs courts métrages : 'Faustino', 'Abril, hoy no es invierno', 'Una vocal' et 'Chicken Jazz'. Une sélection diverse d'histoires à Madrid."
+  },
+  "de": {
+   "titulo": "Donnerstag, 12. November Programm: Kurzfilme",
+   "resumen": "Vorführung verschiedener Kurzfilme: 'Faustino', 'Abril, hoy no es invierno', 'Una vocal' und 'Chicken Jazz'. Eine vielfältige Auswahl an Geschichten in Madrid."
+  },
+  "it": {
+   "titulo": "Programma di giovedì 12 novembre: Cortometraggi",
+   "resumen": "Proiezione di diversi cortometraggi: 'Faustino', 'Abril, hoy no es invierno', 'Una vocal' e 'Chicken Jazz'. Una selezione diversificata di storie a Madrid."
+  },
+  "pt": {
+   "titulo": "Programa de quinta-feira, 12 de novembro: Curtas-metragens",
+   "resumen": "Exibição de várias curtas-metragens: 'Faustino', 'Abril, hoy no es invierno', 'Una vocal' e 'Chicken Jazz'. Uma seleção diversificada de histórias em Madrid."
+  }
+ },
+ "1ad0dc20cf": {
+  "fr": {
+   "titulo": "Atelier 'Fanzineitor' à la Bibliothèque Francisco Ayala",
+   "resumen": "Apprenez à créer votre propre fanzine dans cet atelier d'auto-édition. Exprimez votre créativité à travers le dessin et l'écriture. Destiné aux jeunes de 15 à 30 ans."
+  },
+  "de": {
+   "titulo": "Workshop 'Fanzineitor' in der Bibliothek Francisco Ayala",
+   "resumen": "Lernen Sie, Ihr eigenes Fanzine in diesem Self-Publishing-Workshop zu erstellen. Drücken Sie Ihre Kreativität durch Zeichnen und Schreiben aus. Gerichtet an Jugendliche von 15 bis 30 Jahren."
+  },
+  "it": {
+   "titulo": "Laboratorio 'Fanzineitor' alla Biblioteca Francisco Ayala",
+   "resumen": "Impara a creare il tuo fanzine in questo laboratorio di autoproduzione. Esprimi la tua creatività attraverso il disegno e la scrittura. Rivolto a giovani dai 15 ai 30 anni."
+  },
+  "pt": {
+   "titulo": "Workshop 'Fanzineitor' na Biblioteca Francisco Ayala",
+   "resumen": "Aprenda a criar o seu próprio fanzine neste workshop de autoedição. Expresse a sua criatividade através do desenho e da escrita. Destinado a jovens dos 15 aos 30 anos."
+  }
+ },
+ "152321f5a2": {
+  "fr": {
+   "titulo": "Projection de 'Tres amigas' au Centre Socioculturel Alberto Sánchez",
+   "resumen": "La cinémathèque présente 'Tres amigas', un drame français sur les relations et l'honnêteté entre trois femmes. Non recommandé aux moins de 12 ans."
+  },
+  "de": {
+   "titulo": "Vorführung von 'Tres amigas' im Kulturzentrum Alberto Sánchez",
+   "resumen": "Die Filmothek präsentiert 'Tres amigas', ein französisches Drama über Beziehungen und Ehrlichkeit zwischen drei Frauen. Nicht empfohlen für Kinder unter 12 Jahren."
+  },
+  "it": {
+   "titulo": "Proiezione di 'Tres amigas' al Centro Socioculturale Alberto Sánchez",
+   "resumen": "La cineteca presenta 'Tres amigas', un dramma francese sulle relazioni e l'onestà tra tre donne. Non raccomandato ai minori di 12 anni."
+  },
+  "pt": {
+   "titulo": "Exibição de 'Tres amigas' no Centro Sociocultural Alberto Sánchez",
+   "resumen": "A filmoteca apresenta 'Tres amigas', um drama francês sobre as relações e a honestidade entre três mulheres. Não recomendado para menores de 12 anos."
+  }
+ },
+ "1e3ebc4ab4": {
+  "fr": {
+   "titulo": "Valeurs éthiques dans la littérature",
+   "resumen": "Discussion sur les valeurs éthiques dans la littérature à la Bibliothèque Publique Municipale Mario Vargas Llosa."
+  },
+  "de": {
+   "titulo": "Ethische Werte in der Literatur",
+   "resumen": "Diskussion über ethische Werte in der Literatur in der Städtischen Öffentlichen Bibliothek Mario Vargas Llosa."
+  },
+  "it": {
+   "titulo": "Valori etici nella letteratura",
+   "resumen": "Discussione sui valori etici nella letteratura presso la Biblioteca Pubblica Comunale Mario Vargas Llosa."
+  },
+  "pt": {
+   "titulo": "Valores éticos na literatura",
+   "resumen": "Discussão sobre valores éticos na literatura na Biblioteca Pública Municipal Mario Vargas Llosa."
+  }
+ },
+ "cdc422e70b": {
+  "fr": {
+   "titulo": "Visite de l'institution du Défenseur du Peuple",
+   "resumen": "Découvrez l'institution du Défenseur du Peuple, son histoire et ses fonctions. Visitez le Palais des Marquis de Bermejillo del Rey et apprenez-en davantage sur son architecture."
+  },
+  "de": {
+   "titulo": "Besuch der Institution des Bürgerbeauftragten",
+   "resumen": "Lernen Sie die Institution des Bürgerbeauftragten, ihre Geschichte und ihre Funktionen kennen. Besuchen Sie den Palast der Marquise von Bermejillo del Rey und erfahren Sie mehr über seine Architektur."
+  },
+  "it": {
+   "titulo": "Visita all'istituzione del Difensore del Popolo",
+   "resumen": "Scopri l'istituzione del Difensore del Popolo, la sua storia e le sue funzioni. Visita il Palazzo dei Marchesi di Bermejillo del Rey e scopri la sua architettura."
+  },
+  "pt": {
+   "titulo": "Visita à instituição do Provedor de Justiça",
+   "resumen": "Conheça a instituição do Provedor de Justiça, a sua história e funções. Visite o Palácio dos Marqueses de Bermejillo del Rey e aprenda sobre a sua arquitetura."
+  }
+ },
+ "4ba889415f": {
+  "fr": {
+   "titulo": "Bleu, Jaune, Danube. Un voyage en Vespa au cœur de l'Europe",
+   "resumen": "Présentation ou activité liée au livre 'Azul, Amarillo, Danubio. Un viaje en Vespa hacia el corazón de Europa' de José Suárez."
+  },
+  "de": {
+   "titulo": "Blau, Gelb, Donau. Eine Vespa-Reise ins Herz Europas",
+   "resumen": "Präsentation oder Aktivität im Zusammenhang mit dem Buch 'Azul, Amarillo, Danubio. Un viaje en Vespa hacia el corazón de Europa' von José Suárez."
+  },
+  "it": {
+   "titulo": "Blu, Giallo, Danubio. Un viaggio in Vespa nel cuore dell'Europa",
+   "resumen": "Presentazione o attività legata al libro 'Azul, Amarillo, Danubio. Un viaje en Vespa hacia el corazón de Europa' di José Suárez."
+  },
+  "pt": {
+   "titulo": "Azul, Amarelo, Danúbio. Uma viagem de Vespa ao coração da Europa",
+   "resumen": "Apresentação ou atividade relacionada com o livro 'Azul, Amarillo, Danubio. Un viaje en Vespa hacia el corazón de Europa' de José Suárez."
+  }
+ },
+ "938ab82f42": {
+  "fr": {
+   "titulo": "«Contes pour rêver éveillé» avec Pingüi",
+   "resumen": "Séance de contes à la Bibliothèque publique municipale Gabriel García Márquez (Usera) pour les enfants à partir de 2 ans. Une activité pour stimuler l'imagination et l'amour des livres."
+  },
+  "de": {
+   "titulo": "„Geschichten zum Wach-Träumen“ mit Pingüi",
+   "resumen": "Eine Erzählveranstaltung in der Städtischen öffentlichen Bibliothek Gabriel García Márquez (Usera) für Kinder ab 2 Jahren. Eine Aktivität, um die Fantasie und die Liebe zu Büchern zu wecken."
+  },
+  "it": {
+   "titulo": "'Storie per sognare ad occhi aperti' con Pingüi",
+   "resumen": "Sessione di narrazione presso la Biblioteca Pubblica Comunale Gabriel García Márquez (Usera) per bambini dai 2 anni in su. Un'attività per stimolare l'immaginazione e l'amore per i libri."
+  },
+  "pt": {
+   "titulo": "'Contos para sonhar acordado' com Pingüi",
+   "resumen": "Sessão de contação de histórias na Biblioteca Pública Municipal Gabriel García Márquez (Usera) para crianças a partir de 2 anos. Uma atividade para despertar a imaginação e o amor pelos livros."
+  }
+ },
+ "bfe5096237": {
+  "fr": {
+   "titulo": "«Découvre Maria Skłodowska-Curie», par Belén Yuste et Sonnia L. Rivas-Caballero",
+   "resumen": "Présentation du livre «Découvre Maria Skłodowska-Curie» à la Bibliothèque publique municipale José Saramago (Fuencarral-El Pardo)."
+  },
+  "de": {
+   "titulo": "„Entdecke Maria Skłodowska-Curie“ von Belén Yuste und Sonnia L. Rivas-Caballero",
+   "resumen": "Vorstellung des Buches „Entdecke Maria Skłodowska-Curie“ in der Städtischen öffentlichen Bibliothek José Saramago (Fuencarral-El Pardo)."
+  },
+  "it": {
+   "titulo": "'Scopri Maria Skłodowska-Curie' di Belén Yuste e Sonnia L. Rivas-Caballero",
+   "resumen": "Presentazione del libro 'Scopri Maria Skłodowska-Curie' presso la Biblioteca Pubblica Comunale José Saramago (Fuencarral-El Pardo)."
+  },
+  "pt": {
+   "titulo": "'Descobre Maria Skłodowska-Curie', de Belén Yuste e Sonnia L. Rivas-Caballero",
+   "resumen": "Apresentação do livro 'Descobre Maria Skłodowska-Curie' na Biblioteca Pública Municipal José Saramago (Fuencarral-El Pardo)."
+  }
+ },
+ "4b2401ae57": {
+  "fr": {
+   "titulo": "«L'eau qui va et vient : succès et limites de l'ingénierie hydraulique dans la Rome antique»",
+   "resumen": "Conférence sur l'ingénierie hydraulique dans la Rome antique, ses succès et ses limites, au Musée de San Isidro. Les origines de Madrid."
+  },
+  "de": {
+   "titulo": "„Das Wasser, das kommt und geht: Erfolge und Grenzen der Wasserbaukunst im antiken Rom“",
+   "resumen": "Vortrag über Wasserbaukunst im antiken Rom, ihre Erfolge und Grenzen, im Museum von San Isidro. Die Ursprünge Madrids."
+  },
+  "it": {
+   "titulo": "'L'acqua che va e viene: successi e limiti dell'ingegneria idraulica nell'antica Roma'",
+   "resumen": "Conferenza sull'ingegneria idraulica nell'antica Roma, i suoi successi e limiti, presso il Museo di San Isidro. Le origini di Madrid."
+  },
+  "pt": {
+   "titulo": "'A água que vai e vem: sucessos e limitações da engenharia hidráulica na antiga Roma'",
+   "resumen": "Conferência sobre engenharia hidráulica na antiga Roma, seus sucessos e limitações, no Museu de San Isidro. As Origens de Madrid."
+  }
+ },
+ "896a16de2a": {
+  "fr": {
+   "titulo": "«Le conte de don Quichotte», par Emilio Pascual et Javier Serrano",
+   "resumen": "Présentation du livre «Le conte de don Quichotte» d'Emilio Pascual et Javier Serrano à la Bibliothèque publique municipale Iván de Vargas (Centro)."
+  },
+  "de": {
+   "titulo": "„Die Geschichte von Don Quijote“ von Emilio Pascual und Javier Serrano",
+   "resumen": "Vorstellung des Buches „Die Geschichte von Don Quijote“ von Emilio Pascual und Javier Serrano in der Städtischen öffentlichen Bibliothek Iván de Vargas (Centro)."
+  },
+  "it": {
+   "titulo": "'Il racconto di don Chisciotte' di Emilio Pascual e Javier Serrano",
+   "resumen": "Presentazione del libro 'Il racconto di don Chisciotte' di Emilio Pascual e Javier Serrano presso la Biblioteca Pubblica Comunale Iván de Vargas (Centro)."
+  },
+  "pt": {
+   "titulo": "'O conto de dom Quixote' de Emilio Pascual e Javier Serrano",
+   "resumen": "Apresentação do livro 'O conto de dom Quixote' de Emilio Pascual e Javier Serrano na Biblioteca Pública Municipal Iván de Vargas (Centro)."
+  }
+ },
+ "49346f7c3b": {
+  "fr": {
+   "titulo": "«Le manuel antifasciste de Mongolie», par Darío Adanti.",
+   "resumen": "Présentation du livre «Le manuel antifasciste de Mongolie» de Darío Adanti à la Bibliothèque publique municipale Ángel González (Latina)."
+  },
+  "de": {
+   "titulo": "„Das antifaschistische Handbuch der Mongolei“ von Darío Adanti.",
+   "resumen": "Vorstellung des Buches „Das antifaschistische Handbuch der Mongolei“ von Darío Adanti in der Städtischen öffentlichen Bibliothek Ángel González (Latina)."
+  },
+  "it": {
+   "titulo": "'Il manuale antifascista della Mongolia' di Darío Adanti.",
+   "resumen": "Presentazione del libro 'Il manuale antifascista della Mongolia' di Darío Adanti presso la Biblioteca Pubblica Comunale Ángel González (Latina)."
+  },
+  "pt": {
+   "titulo": "'O manual antifascista da Mongólia', de Darío Adanti.",
+   "resumen": "Apresentação do livro 'O manual antifascista da Mongólia' de Darío Adanti na Biblioteca Pública Municipal Ángel González (Latina)."
+  }
+ },
+ "38d07d0184": {
+  "fr": {
+   "titulo": "«Le mystère des deux sœurs», par Almudena Ayensa",
+   "resumen": "Activité à la Bibliothèque publique municipale Pablo Neruda. Plus de détails sur l'événement ne sont pas disponibles dans le texte fourni."
+  },
+  "de": {
+   "titulo": "„Das Geheimnis der beiden Schwestern“ von Almudena Ayensa",
+   "resumen": "Veranstaltung in der Städtischen öffentlichen Bibliothek Pablo Neruda. Weitere Details zur Veranstaltung sind im bereitgestellten Text nicht verfügbar."
+  },
+  "it": {
+   "titulo": "'Il mistero delle due sorelle' di Almudena Ayensa",
+   "resumen": "Attività presso la Biblioteca Pubblica Comunale Pablo Neruda. Ulteriori dettagli sull'evento non sono disponibili nel testo fornito."
+  },
+  "pt": {
+   "titulo": "'O mistério das duas irmãs', de Almudena Ayensa",
+   "resumen": "Atividade na Biblioteca Pública Municipal Pablo Neruda. Mais detalhes sobre o evento não estão disponíveis no texto fornecido."
+  }
+ },
+ "baa3de2a3f": {
+  "fr": {
+   "titulo": "«Le point de vue. Nuances de vie», par Luis González Padrino",
+   "resumen": "Présentation du livre «Le point de vue. Nuances de vie» de Luis González Padrino à la Bibliothèque publique municipale José Hierro (San Blas-Canillejas)."
+  },
+  "de": {
+   "titulo": "„Der Blickwinkel. Lebensnuancen“ von Luis González Padrino",
+   "resumen": "Vorstellung des Buches „Der Blickwinkel. Lebensnuancen“ von Luis González Padrino in der Städtischen öffentlichen Bibliothek José Hierro (San Blas-Canillejas)."
+  },
+  "it": {
+   "titulo": "'Il punto di vista. Pennellate di vita' di Luis González Padrino",
+   "resumen": "Presentazione del libro 'Il punto di vista. Pennellate di vita' di Luis González Padrino presso la Biblioteca Pubblica Comunale José Hierro (San Blas-Canillejas)."
+  },
+  "pt": {
+   "titulo": "'O ponto de vista. Pinceladas de vida', de Luis González Padrino",
+   "resumen": "Apresentação do livro 'O ponto de vista. Pinceladas de vida' de Luis González Padrino na Biblioteca Pública Municipal José Hierro (San Blas-Canillejas)."
+  }
+ },
+ "2f1a49426e": {
+  "fr": {
+   "titulo": "«Le rêve de la Perse : un voyage à travers l'Iran» par María Jesús Mardomingo",
+   "resumen": "Présentation du livre «Le rêve de la Perse : un voyage à travers l'Iran» par María Jesús Mardomingo à la Bibliothèque publique municipale Eugenio Trías."
+  },
+  "de": {
+   "titulo": "„Der Traum von Persien: Eine Reise durch den Iran“ von María Jesús Mardomingo",
+   "resumen": "Vorstellung des Buches „Der Traum von Persien: Eine Reise durch den Iran“ von María Jesús Mardomingo in der Städtischen öffentlichen Bibliothek Eugenio Trías."
+  },
+  "it": {
+   "titulo": "'Il sogno della Persia: un viaggio attraverso l'Iran' di María Jesús Mardomingo",
+   "resumen": "Presentazione del libro 'Il sogno della Persia: un viaggio attraverso l'Iran' di María Jesús Mardomingo presso la Biblioteca Pubblica Comunale Eugenio Trías."
+  },
+  "pt": {
+   "titulo": "'O sonho da Pérsia: uma viagem pelo Irão' de María Jesús Mardomingo",
+   "resumen": "Apresentação do livro 'O sonho da Pérsia: uma viagem pelo Irão' de María Jesús Mardomingo na Biblioteca Pública Municipal Eugenio Trías."
+  }
+ },
+ "116ab18bb0": {
+  "fr": {
+   "titulo": "L'Heure du Conte : Les aventures de Daniela Pirata",
+   "resumen": "Séance de contes pour les enfants à partir de 3 ans à la Bibliothèque publique municipale Manuel Vázquez Montalbán. Accompagnez Daniela Pirata dans ses aventures et résolvez des mystères."
+  },
+  "de": {
+   "titulo": "Die Märchenstunde: Abenteuer von Daniela Pirata",
+   "resumen": "Eine Erzählveranstaltung für Kinder ab 3 Jahren in der Städtischen öffentlichen Bibliothek Manuel Vázquez Montalbán. Begleite Daniela Pirata auf ihren Abenteuern und löse Rätsel."
+  },
+  "it": {
+   "titulo": "L'Ora del Racconto: Avventure di Daniela Pirata",
+   "resumen": "Sessione di narrazione per bambini dai 3 anni in su presso la Biblioteca Pubblica Comunale Manuel Vázquez Montalbán. Accompagna Daniela Pirata nelle sue avventure e risolvi misteri."
+  },
+  "pt": {
+   "titulo": "A Hora do Conto: Aventuras de Daniela Pirata",
+   "resumen": "Sessão de contação de histórias para crianças a partir de 3 anos na Biblioteca Pública Municipal Manuel Vázquez Montalbán. Acompanhe Daniela Pirata nas suas aventuras e resolva mistérios."
+  }
+ },
+ "756a2963e3": {
+  "fr": {
+   "titulo": "Conte en anglais «The Witch and her broom» avec Mar Amado",
+   "resumen": "Séance de contes en anglais pour les enfants à partir de 5 ans à la Bibliothèque Gerardo Diego de Madrid. Une aventure pour stimuler l'imagination."
+  },
+  "de": {
+   "titulo": "Englische Märchenstunde „Die Hexe und ihr Besen“ mit Mar Amado",
+   "resumen": "Englische Erzählveranstaltung für Kinder ab 5 Jahren in der Städtischen öffentlichen Bibliothek Gerardo Diego in Madrid. Ein Abenteuer, um die Fantasie anzuregen."
+  },
+  "it": {
+   "titulo": "Narrazione in inglese 'La strega e la sua scopa' con Mar Amado",
+   "resumen": "Sessione di narrazione in inglese per bambini dai 5 anni in su presso la Biblioteca Comunale Gerardo Diego di Madrid. Un'avventura per stimolare l'immaginazione."
+  },
+  "pt": {
+   "titulo": "Contação de histórias em inglês 'A Bruxa e a sua vassoura' com Mar Amado",
+   "resumen": "Sessão de contação de histórias em inglês para crianças a partir de 5 anos na Biblioteca Municipal Gerardo Diego de Madrid. Uma aventura para despertar a imaginação."
+  }
+ },
+ "c290f6533b": {
+  "fr": {
+   "titulo": "Madame Hofmann (Ciné en français V.O.S.)",
+   "resumen": "Projection du documentaire \"Madame Hofmann\" en version originale sous-titrée. Suivez la vie de Sylvie Hofmann, une infirmière-chef avec 40 ans de dévouement. Entrée libre."
+  },
+  "de": {
+   "titulo": "Madame Hofmann (Französischer Film O.M.U.)",
+   "resumen": "Vorführung des Dokumentarfilms „Madame Hofmann“ im Originalton mit Untertiteln. Verfolgen Sie das Leben von Sylvie Hofmann, einer leitenden Krankenschwester mit 40 Jahren Hingabe. Freier Eintritt."
+  },
+  "it": {
+   "titulo": "Madame Hofmann (Film in francese V.O.S.)",
+   "resumen": "Proiezione del documentario \"Madame Hofmann\" in versione originale sottotitolata. Segue la vita di Sylvie Hofmann, un'infermiera capo con 40 anni di dedizione. Ingresso libero."
+  },
+  "pt": {
+   "titulo": "Madame Hofmann (Cinema em Francês V.O.S.)",
+   "resumen": "Exibição do documentário \"Madame Hofmann\" em versão original legendada. Acompanhe a vida de Sylvie Hofmann, uma enfermeira-chefe com 40 anos de dedicação. Entrada livre."
+  }
+ },
+ "42307eb7e9": {
+  "fr": {
+   "titulo": "Rockanroleando : Musique et théâtre pour tous les publics",
+   "resumen": "Profitez d'une proposition fraîche et originale qui combine théâtre et musique en direct. Un spectacle dynamique et amusant, parfait pour toute la famille, avec la participation du public. Âge recommandé : à partir de 5 ans."
+  },
+  "de": {
+   "titulo": "Rockanroleando: Musik und Theater für alle Zielgruppen",
+   "resumen": "Genießen Sie ein frisches und originelles Angebot, das Theater und Live-Musik kombiniert. Eine dynamische und unterhaltsame Show, perfekt für die ganze Familie, mit Publikumsbeteiligung. Empfohlenes Alter: ab 5 Jahren."
+  },
+  "it": {
+   "titulo": "Rockanroleando: Musica e teatro per tutti i pubblici",
+   "resumen": "Goditi una proposta fresca e originale che combina teatro e musica dal vivo. Uno spettacolo dinamico e divertente, perfetto per tutta la famiglia, con la partecipazione del pubblico. Età consigliata: dai 5 anni in su."
+  },
+  "pt": {
+   "titulo": "Rockanroleando: Música e teatro para todos os públicos",
+   "resumen": "Desfrute de uma proposta fresca e original que combina teatro e música ao vivo. Um espetáculo dinâmico e divertido, perfeito para toda a família, com participação do público. Idade recomendada: a partir de 5 anos."
+  }
+ },
+ "cec4c70f8a": {
+  "fr": {
+   "titulo": "Club de lecture du jeudi à Soria",
+   "resumen": "Rejoignez le club de lecture de récits qui se réunit toutes les deux semaines pour commenter des livres. La bibliothèque propose les lectures et fournit les exemplaires."
+  },
+  "de": {
+   "titulo": "Donnerstags-Lesekreis in Soria",
+   "resumen": "Treten Sie dem Lesezirkel für Erzählungen bei, der sich alle zwei Wochen trifft, um Bücher zu besprechen. Die Bibliothek schlägt die Lektüren vor und stellt die Exemplare zur Verfügung."
+  },
+  "it": {
+   "titulo": "Club del libro del giovedì a Soria",
+   "resumen": "Unisciti al club del libro di narrativa che si riunisce quindicinalmente per commentare libri. La biblioteca propone le letture e fornisce le copie."
+  },
+  "pt": {
+   "titulo": "Clube de Leitura de Quinta-feira em Soria",
+   "resumen": "Junte-se ao clube de leitura de narrativa que se reúne quinzenalmente para comentar livros. A biblioteca propõe as leituras e disponibiliza os exemplares."
+  }
+ },
+ "59dcf373f8": {
+  "fr": {
+   "titulo": "Atelier de robotique «Dash & Dot découvrent l'Europe» à Valladolid",
+   "resumen": "Atelier de robotique pour les enfants de 6 à 8 ans à Valladolid, où ils découvriront l'Europe en utilisant les robots Dash & Dot. Inscription requise."
+  },
+  "de": {
+   "titulo": "Robotik-Workshop „Dash & Dot entdecken Europa“ in Valladolid",
+   "resumen": "Ein Robotik-Workshop für Kinder von 6 bis 8 Jahren in Valladolid, bei dem sie Europa mit den Robotern Dash & Dot kennenlernen. Eine Anmeldung ist erforderlich."
+  },
+  "it": {
+   "titulo": "Laboratorio di robotica 'Dash & Dot scoprono l'Europa' a Valladolid",
+   "resumen": "Laboratorio di robotica per bambini dai 6 agli 8 anni a Valladolid, dove impareranno l'Europa utilizzando i robot Dash & Dot. È richiesta l'iscrizione."
+  },
+  "pt": {
+   "titulo": "Workshop de robótica 'Dash & Dot descobrem a Europa' em Valladolid",
+   "resumen": "Workshop de robótica para crianças dos 6 aos 8 anos em Valladolid, onde aprenderão sobre a Europa utilizando os robôs Dash & Dot. É necessária inscrição."
+  }
+ },
+ "3d98cd911a": {
+  "fr": {
+   "titulo": "Rencontre littéraire : «Chansons d'amour (légèrement) désaccordées»",
+   "resumen": "Présentation du livre d'Ignacio Fernández Herrero, qui contient huit nouvelles et un essai sur des chansons qui font partie de notre histoire personnelle. L'auteur, syndicaliste et professeur, réfléchit sur l'amour et la fiction."
+  },
+  "de": {
+   "titulo": "Literarisches Treffen: „Leicht aus der Stimmung geratene Liebeslieder“",
+   "resumen": "Vorstellung des Buches von Ignacio Fernández Herrero, das acht Kurzgeschichten und einen Essay über Lieder enthält, die Teil unserer persönlichen Geschichte sind. Der Autor, Gewerkschafter und Lehrer, reflektiert über Liebe und Fiktion."
+  },
+  "it": {
+   "titulo": "Incontro letterario: 'Canzoni d'amore (leggermente) stonate'",
+   "resumen": "Presentazione del libro di Ignacio Fernández Herrero, che contiene otto racconti e un saggio su canzoni che fanno parte della nostra storia personale. L'autore, sindacalista e insegnante, riflette sull'amore e sulla finzione."
+  },
+  "pt": {
+   "titulo": "Encontro literário: 'Canções de amor (levemente) desafinadas'",
+   "resumen": "Apresentação do livro de Ignacio Fernández Herrero, que contém oito contos e um ensaio sobre canções que fazem parte da nossa história pessoal. O autor, sindicalista e professor, reflete sobre o amor e a ficção."
+  }
+ },
+ "f0db09a9b6": {
+  "fr": {
+   "titulo": "Présentation du livre : «Le libraire de Macondo»",
+   "resumen": "Présentation du roman lauréat du XXIX Prix de Roman Ville de Badajoz. Il raconte l'amitié entre Ramon Vinyes et Gabriel García Márquez, explorant la littérature, la mémoire et l'exil."
+  },
+  "de": {
+   "titulo": "Buchvorstellung: „Der Buchhändler von Macondo“",
+   "resumen": "Vorstellung des Romans, der den XXIX. Romanpreis der Stadt Badajoz gewonnen hat. Er erzählt von der Freundschaft zwischen Ramon Vinyes und Gabriel García Márquez und erforscht Literatur, Erinnerung und Exil."
+  },
+  "it": {
+   "titulo": "Presentazione del libro: 'Il libraio di Macondo'",
+   "resumen": "Presentazione del romanzo vincitore del XXIX Premio di Romanzo Città di Badajoz. Narra l'amicizia tra Ramon Vinyes e Gabriel García Márquez, esplorando letteratura, memoria ed esilio."
+  },
+  "pt": {
+   "titulo": "Apresentação do livro: 'O livreiro de Macondo'",
+   "resumen": "Apresentação do romance vencedor do XXIX Prémio de Romance Cidade de Badajoz. Narra a amizade entre Ramon Vinyes e Gabriel García Márquez, explorando literatura, memória e exílio."
+  }
+ },
+ "44832730e2": {
+  "fr": {
+   "titulo": "«Un monde de contes» à Duruelo de la Sierra",
+   "resumen": "Alicia Cuenteando raconte des contes et légendes pour un public familial, utilisant musique, chansons et fantaisie pour un voyage culturel et naturel. Places limitées, inscription préalable nécessaire."
+  },
+  "de": {
+   "titulo": "„Eine Welt voller Geschichten“ in Duruelo de la Sierra",
+   "resumen": "Alicia Cuenteando erzählt Märchen und Legenden für Familien, nutzt Musik, Lieder und Fantasie für eine kulturelle und natürliche Reise. Begrenzte Plätze, vorherige Anmeldung erforderlich."
+  },
+  "it": {
+   "titulo": "'Un mondo di storie' a Duruelo de la Sierra",
+   "resumen": "Alicia Cuenteando narra storie e leggende per un pubblico familiare, utilizzando musica, canzoni e fantasia per un viaggio culturale e naturale. Posti limitati, è necessaria l'iscrizione anticipata."
+  },
+  "pt": {
+   "titulo": "'Um mundo de contos' em Duruelo de la Sierra",
+   "resumen": "Alicia Cuenteando narra contos e lendas para público familiar, utilizando música, canções e fantasia para uma viagem cultural e natural. Vagas limitadas, inscrição prévia necessária."
+  }
+ },
+ "bf4c6542b4": {
+  "fr": {
+   "titulo": "Cercle de silence entre les livres à Burgos",
+   "resumen": "Participez à une rencontre de lecture silencieuse et partagée de textes littéraires à la Bibliothèque publique de Burgos. Une heure de calme et de réflexion littéraire pour adultes."
+  },
+  "de": {
+   "titulo": "Kreis der Stille zwischen den Büchern in Burgos",
+   "resumen": "Nehmen Sie an einer stillen und gemeinsamen Lektüre von literarischen Texten in der öffentlichen Bibliothek von Burgos teil. Eine Stunde Ruhe und literarischer Reflexion für Erwachsene."
+  },
+  "it": {
+   "titulo": "Cerchio di silenzio tra i libri a Burgos",
+   "resumen": "Partecipa a un incontro di lettura silenziosa e condivisa di testi letterari presso la Biblioteca Pubblica di Burgos. Un'ora di calma e riflessione letteraria per adulti."
+  },
+  "pt": {
+   "titulo": "Círculo de silêncio entre livros em Burgos",
+   "resumen": "Participe num encontro de leitura silenciosa e partilhada de textos literários na Biblioteca Pública de Burgos. Uma hora de calma e reflexão literária para adultos."
+  }
+ },
+ "b5c2def06b": {
+  "fr": {
+   "titulo": "Théâtre «Onironautas» à la Bibliothèque de Burgos",
+   "resumen": "Découvrez «Onironautas», une pièce de clown émouvante qui explore les souvenirs et les rêves d'une vieille femme, abordant la solitude et rendant hommage à nos aînés. Convient aux plus de 3 ans."
+  },
+  "de": {
+   "titulo": "Theaterstück „Onironautas“ in der Bibliothek von Burgos",
+   "resumen": "Erleben Sie „Onironautas“, ein bewegendes Clownstück, das Erinnerungen und Träume einer alten Frau erforscht, Einsamkeit thematisiert und unsere Ältesten ehrt. Geeignet für Kinder ab 3 Jahren."
+  },
+  "it": {
+   "titulo": "Teatro 'Onironautas' alla Biblioteca di Burgos",
+   "resumen": "Goditi 'Onironautas', un'emozionante opera di clown che esplora i ricordi e i sogni di un'anziana, affrontando la solitudine e rendendo omaggio ai nostri anziani. Adatto ai maggiori di 3 anni."
+  },
+  "pt": {
+   "titulo": "Teatro 'Onironautas' na Biblioteca de Burgos",
+   "resumen": "Desfrute de 'Onironautas', uma comovente peça de clown que explora memórias e sonhos de uma idosa, abordando a solidão e homenageando os nossos idosos. Adequado para maiores de 3 anos."
+  }
+ },
+ "cf845aeaba": {
+  "fr": {
+   "titulo": "XI Journées Claudio Rodríguez : Poésie et eau",
+   "resumen": "Journées dédiées à l'œuvre de Claudio Rodríguez, axées sur le thème de l'eau comme élément clé de sa poésie. Sa vision du monde et son influence sur la poétique contemporaine seront explorées."
+  },
+  "de": {
+   "titulo": "XI. Claudio Rodríguez-Konferenz: Poesie und Wasser",
+   "resumen": "Konferenzen, die dem Werk von Claudio Rodríguez gewidmet sind und sich auf das Thema Wasser als Schlüsselelement seiner Poesie konzentrieren. Seine Weltanschauung und sein Einfluss auf die zeitgenössische Poetik werden untersucht."
+  },
+  "it": {
+   "titulo": "XI Giornate Claudio Rodríguez: Poesia e acqua",
+   "resumen": "Giornate dedicate all'opera di Claudio Rodríguez, incentrate sull'acqua come elemento chiave della sua poesia. Verranno esplorati la sua visione del mondo e la sua influenza sulla poetica contemporanea."
+  },
+  "pt": {
+   "titulo": "XI Jornadas Claudio Rodríguez: Poesia e água",
+   "resumen": "Jornadas dedicadas à obra de Claudio Rodríguez, focando na água como elemento chave na sua poesia. Serão exploradas a sua cosmovisão e a sua influência na poética contemporânea."
+  }
  }
 }

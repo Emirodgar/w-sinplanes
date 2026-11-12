@@ -1,11 +1,11 @@
 {
-  "generated": "2026-11-12T12:44:18.754Z",
+  "generated": "2026-11-12T14:04:21.680Z",
   "today": "2026-11-12",
-  "events": 6868,
-  "review": 12,
+  "events": 6904,
+  "review": 14,
   "ai": {
-    "calls": 0,
-    "seconds": 50,
+    "calls": 16,
+    "seconds": 285,
     "tripped": false
   },
   "sources": [
@@ -48,7 +48,7 @@
     {
       "id": "prensa-20minutos-cultura",
       "status": "ok",
-      "count": 17,
+      "count": 19,
       "candidatos": true
     },
     {
@@ -66,13 +66,13 @@
     {
       "id": "prensa-ara-cultura",
       "status": "ok",
-      "count": 6,
+      "count": 7,
       "candidatos": true
     },
     {
       "id": "prensa-heraldo-ocio",
       "status": "ok",
-      "count": 20,
+      "count": 21,
       "candidatos": true
     },
     {
@@ -96,7 +96,7 @@
     {
       "id": "prensa-ideal-culturas",
       "status": "ok",
-      "count": 30,
+      "count": 32,
       "candidatos": true
     },
     {
@@ -126,7 +126,7 @@
     {
       "id": "prensa-laverdad-culturas",
       "status": "ok",
-      "count": 15,
+      "count": 16,
       "candidatos": true
     },
     {
