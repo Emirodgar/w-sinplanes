@@ -5927,20 +5927,6 @@
   "a_cubierto": null,
   "confianza": 0.9
  },
- "dc74a9c561": {
-  "url": "https://www.20minutos.es/cultura/blogs/yaestaellistoquetodolosabe/sabes-que-es-que-hace-referencia-expresion-escopeta-chejov_7026267_0.html",
-  "fuente": "20minutos (Cultura)",
-  "src": "prensa-20minutos-cultura",
-  "publicado": "2026-10-28",
-  "es_plan": false
- },
- "51cdf089e6": {
-  "url": "https://elpais.com/cultura/cine/2026-10-28/karateka-la-impresionante-historia-de-sandra-sanchez-que-gano-el-oro-olimpico-a-los-39-anos-superando-todas-las-adversidades.html",
-  "fuente": "El País (Cultura)",
-  "src": "prensa-elpais-cultura",
-  "publicado": "2026-10-28",
-  "es_plan": false
- },
  "f34dfe0130": {
   "url": "https://www.lavanguardia.com/cultura/20261028/11669675/sonar-planea-trasladar-port-vell-playa-edicion-dia-d-2027.html",
   "fuente": "La Vanguardia (Cultura)",
@@ -5997,20 +5983,6 @@
   "a_cubierto": null,
   "confianza": 0.85
  },
- "69cfedcdc9": {
-  "url": "https://www.ara.cat/gent/hollywood/l-actor-noah-wyle-l-home-mes-sexi-mon-segons-revista-people_1_5892653.html",
-  "fuente": "Ara (Cultura)",
-  "src": "prensa-ara-cultura",
-  "publicado": "2026-10-28",
-  "es_plan": false
- },
- "e67c5d7900": {
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/28/gabriel-rufian-revuelta-quiero-vaya-bien-psoe-trabajo-2063579.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-10-28",
-  "es_plan": false
- },
  "6cc49398ef": {
   "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/28/victor-manuel-79anos-harto-hoteles-iguales-gira-2063549.html",
   "fuente": "Heraldo de Aragón (Ocio y cultura)",
@@ -6038,13 +6010,6 @@
   ],
   "a_cubierto": null,
   "confianza": 0.85
- },
- "63d99a8d3e": {
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/28/leticia-sabater-aclara-lio-cancelacion-fiesta-halloween-pueblo-zaragoza-2063545.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-10-28",
-  "es_plan": false
  },
  "a3535852e5": {
   "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/28/enrique-bunbury-naci-viviamos-piso-pequeno-zaragoza-padres-hermanos-abuelos-2063541.html",
@@ -6074,20 +6039,6 @@
   "a_cubierto": null,
   "confianza": 0.5
  },
- "9b5698f9eb": {
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/28/muere-recortador-corneado-plaza-toros-pueblo-semanas-hospital-2063542.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-10-28",
-  "es_plan": false
- },
- "06706249d6": {
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/28/maximo-huerta-55anos-cuidar-batallas-dia-ganando-pocas-alegrias-2063332.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-10-28",
-  "es_plan": false
- },
  "4f51378be3": {
   "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/28/monegros-desert-vende-25000-entradas-nombre-cartel-2027-2063221.html",
   "fuente": "Heraldo de Aragón (Ocio y cultura)",
@@ -6116,13 +6067,6 @@
   ],
   "a_cubierto": false,
   "confianza": 0.85
- },
- "8b0b5b96ef": {
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/28/joan-manuel-serrat-situacion-actual-espana-fruto-anos-desgaste-sociedad-momento-expresar-pensamos-2062170.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-10-28",
-  "es_plan": false
  },
  "42a727bf27": {
   "url": "https://www.elnortedecastilla.es/culturas/seminci/programa/programa-completo-seminci-2026-miercoles-octubre-20261028075109-nt.html",
@@ -6209,34 +6153,6 @@
   "a_cubierto": null,
   "confianza": 0.85
  },
- "621ab365fc": {
-  "url": "https://www.diariovasco.com/culturas/cine/actor-andrew-scott-firme-candidato-temporada-premios-20261028001826-nt.html",
-  "fuente": "El Diario Vasco (Culturas)",
-  "src": "prensa-diariovasco-culturas",
-  "publicado": "2026-10-28",
-  "es_plan": false
- },
- "635c5724c4": {
-  "url": "https://www.diariovasco.com/culturas/musica/olatz-salvador-anuncia-cinco-conciertos-cerrar-dos-20261028001811-nt.html",
-  "fuente": "El Diario Vasco (Culturas)",
-  "src": "prensa-diariovasco-culturas",
-  "publicado": "2026-10-28",
-  "es_plan": false
- },
- "21b18c6a86": {
-  "url": "https://www.diariovasco.com/culturas/propuestas-diversas-publico-quiere-reir-aprender-20261028000747-nt.html",
-  "fuente": "El Diario Vasco (Culturas)",
-  "src": "prensa-diariovasco-culturas",
-  "publicado": "2026-10-28",
-  "es_plan": false
- },
- "76754c8a87": {
-  "url": "https://www.lasprovincias.es/sociedad/orson-welles-enamoro-espana-20261028010643-nt.html",
-  "fuente": "Las Provincias (Culturas)",
-  "src": "prensa-lasprovincias-culturas",
-  "publicado": "2026-10-28",
-  "es_plan": false
- },
  "27e6dbfe18": {
   "url": "https://www.laverdad.es/culturas/musica/ojete-calor-regresa-sala-mamba-proximo-diciembre-20261028115315-nt.html",
   "fuente": "La Verdad (Culturas)",
@@ -6265,13 +6181,6 @@
   "a_cubierto": true,
   "confianza": 0.5
  },
- "0d67118c8a": {
-  "url": "https://www.eldiariomontanes.es/culturas/irene-ortiz-defiende-valor-discrepar-preservar-democracia-20261028074245-nt.html",
-  "fuente": "El Diario Montañés (Culturas)",
-  "src": "prensa-diariomontanes-culturas",
-  "publicado": "2026-10-28",
-  "es_plan": false
- },
  "fe1fdfda01": {
   "url": "https://www.eldiariomontanes.es/culturas/jose-manuel-belmonte-esculturas-cierran-curso-expositivo-20261028074237-nt.html",
   "fuente": "El Diario Montañés (Culturas)",
@@ -6299,13 +6208,6 @@
   ],
   "a_cubierto": true,
   "confianza": 0.85
- },
- "84c87af837": {
-  "url": "https://www.eldiariomontanes.es/culturas/santander-reconoce-trayectoria-elena-cordoba-premio-plataforma-20261028071623-nt.html",
-  "fuente": "El Diario Montañés (Culturas)",
-  "src": "prensa-diariomontanes-culturas",
-  "publicado": "2026-10-28",
-  "es_plan": false
  },
  "3c9742c776": {
   "url": "https://www.20minutos.es/cultura/fundacion-canal-presenta-una-muestra-legado-sebastiao-salgado-sobre-fuerza-fragilidad-agua_7054172_0.html",
@@ -6987,27 +6889,6 @@
   "a_cubierto": null,
   "confianza": 0.9
  },
- "29a5dc74c6": {
-  "url": "https://www.20minutos.es/libros/historiador-alberto-angela-su-novela-sobre-julio-cesar-lider-ventas-italia-fue-gran-politico-cinico-feroz-corrupto_7054642_0.html",
-  "fuente": "20minutos (Cultura)",
-  "src": "prensa-20minutos-cultura",
-  "publicado": "2026-10-28",
-  "es_plan": false
- },
- "2618b3712a": {
-  "url": "https://www.20minutos.es/libros/mariana-enriquez-maestra-terror-presenta-nuevo-libro-empatia-tiene-buena-prensa-pero-no-sirve-nada_7054570_0.html",
-  "fuente": "20minutos (Cultura)",
-  "src": "prensa-20minutos-cultura",
-  "publicado": "2026-10-28",
-  "es_plan": false
- },
- "6a4504e7f4": {
-  "url": "https://www.20minutos.es/musica/k-pop-demon-hunters-amplia-su-universo-musical-con-dos-coreografias-oficiales-golden-how-it-s-done_7054537_0.html",
-  "fuente": "20minutos (Cultura)",
-  "src": "prensa-20minutos-cultura",
-  "publicado": "2026-10-28",
-  "es_plan": false
- },
  "ca6fd897de": {
   "url": "https://www.20minutos.es/musica/rosalia-ana-mena-lola-indigo-quevedo-favoritos-para-los40-music-awards-2026_7054459_0.html",
   "fuente": "20minutos (Cultura)",
@@ -7036,20 +6917,6 @@
   "a_cubierto": null,
   "confianza": 0.9
  },
- "3616fe65a4": {
-  "url": "https://www.20minutos.es/cultura/paz-como-proposito-homenaje-pau-casals-london-philharmonic-orchestra-150-aniversario-su-nacimiento_7054403_0.html",
-  "fuente": "20minutos (Cultura)",
-  "src": "prensa-20minutos-cultura",
-  "publicado": "2026-10-28",
-  "es_plan": false
- },
- "01a7b57253": {
-  "url": "https://www.lavanguardia.com/cultura/20261028/11670760/reir-anar-feeeeent.html",
-  "fuente": "La Vanguardia (Cultura)",
-  "src": "prensa-lavanguardia-cultura",
-  "publicado": "2026-10-28",
-  "es_plan": false
- },
  "05eb8d3ebe": {
   "url": "https://www.lavanguardia.com/cultura/20261028/11670560/bach-pulsion-familiar-mano-mal-pelo-tres-hijos.html",
   "fuente": "La Vanguardia (Cultura)",
@@ -7077,27 +6944,6 @@
   ],
   "a_cubierto": null,
   "confianza": 0.9
- },
- "d35e45285f": {
-  "url": "https://www.lavanguardia.com/cultura/20261028/11670494/mayorga-cervantes-perros-romea.html",
-  "fuente": "La Vanguardia (Cultura)",
-  "src": "prensa-lavanguardia-cultura",
-  "publicado": "2026-10-28",
-  "es_plan": false
- },
- "099aab9ba3": {
-  "url": "https://www.lavanguardia.com/cultura/20261028/11670405/santa-monica-explora-como-apps-extraen-datos-personales-alimentar-industria-militar.html",
-  "fuente": "La Vanguardia (Cultura)",
-  "src": "prensa-lavanguardia-cultura",
-  "publicado": "2026-10-28",
-  "es_plan": false
- },
- "39ca0d5470": {
-  "url": "https://www.lavanguardia.com/cultura/20261028/11670214/integrante-equipo-escenico-i-capuleti-e-i-montecchi-sufre-accidente-liceu.html",
-  "fuente": "La Vanguardia (Cultura)",
-  "src": "prensa-lavanguardia-cultura",
-  "publicado": "2026-10-28",
-  "es_plan": false
  },
  "00c99c3223": {
   "url": "https://www.lavanguardia.com/cultura/20261028/11670114/llega-espana-nueva-entrega-acotar-sarah-j-maas.html",
@@ -7184,34 +7030,6 @@
   "a_cubierto": null,
   "confianza": 0.9
  },
- "e61725930a": {
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/28/apple-macbook-pro-tactil-pantalla-proled-chip-m5-2063841.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-10-28",
-  "es_plan": false
- },
- "82fdd17449": {
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/28/super-mario-skeletor-una-ciudad-italiana-se-convierte-un-universo-fantasia-2063826.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-10-28",
-  "es_plan": false
- },
- "8ed516e5f9": {
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/28/jan-orozco-recuerda-madre-nueve-anos-despues-fallecimiento-siempre-presente-2063779.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-10-28",
-  "es_plan": false
- },
- "e80a8e8ba2": {
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/28/critica-concierto-santiago-auseron-teatro-principal-zaragoza-un-paseo-por-pireo-2063737.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-10-28",
-  "es_plan": false
- },
  "ea0b363e57": {
   "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/28/diputacion-zaragoza-expone-fuendetodos-obra-grafica-femenino-maria-cruz-sarvise-2063680.html",
   "fuente": "Heraldo de Aragón (Ocio y cultura)",
@@ -7239,13 +7057,6 @@
   ],
   "a_cubierto": true,
   "confianza": 0.9
- },
- "33e32d7cba": {
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/28/gala-aragon-tierra-jota-teruel-suspende-tragedia-ferroviaria-toledo-2063629.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-10-28",
-  "es_plan": false
  },
  "7df855762c": {
   "url": "https://www.elnortedecastilla.es/culturas/seminci/dos-mil-kilometros-poner-musica-directo-proyeccion-20261028181018-nt.html",
@@ -7275,20 +7086,6 @@
   "a_cubierto": null,
   "confianza": 0.85
  },
- "016c27a463": {
-  "url": "https://www.elnortedecastilla.es/culturas/seminci/documental-muestra-persona-detras-arguinano-busco-deje-20261028173046-nt.html",
-  "fuente": "El Norte de Castilla (Culturas)",
-  "src": "prensa-nortecastilla-culturas",
-  "publicado": "2026-10-28",
-  "es_plan": false
- },
- "62b6a5e872": {
-  "url": "https://www.elnortedecastilla.es/culturas/seminci/seminci-suspende-actividades-nocturnas-miercoles-accidente-ferroviario-20261028155402-nt.html",
-  "fuente": "El Norte de Castilla (Culturas)",
-  "src": "prensa-nortecastilla-culturas",
-  "publicado": "2026-10-28",
-  "es_plan": false
- },
  "8ddad9da77": {
   "url": "https://www.diariosur.es/culturas/hora-creacion-contemporanea-festival-moments-programa-cien-20261028220305-nt.html",
   "fuente": "Diario Sur (Culturas)",
@@ -7317,13 +7114,6 @@
   ],
   "a_cubierto": null,
   "confianza": 0.9
- },
- "b4f817c0d3": {
-  "url": "https://www.diariosur.es/interior/nerjena-gana-premio-investigacion-sesmero-alhaurin-torre-20261028124831-nt.html",
-  "fuente": "Diario Sur (Culturas)",
-  "src": "prensa-diariosur-culturas",
-  "publicado": "2026-10-28",
-  "es_plan": false
  },
  "71d375b436": {
   "url": "https://www.ideal.es/culturas/almeria/guajira-impulsa-ciclo-talleres-artisticos-inclusion-20261028125006-nt.html",

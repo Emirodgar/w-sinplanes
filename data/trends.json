@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11",
+ "updated": "2026-11-12",
  "terms": [
   {
    "term": "carlos cuerpo",
@@ -29,16 +29,6 @@
     "Dónde es festivo hoy, lunes 2 de noviembre: comunidades autónomas que hacen puente por el Día de Todos los Santos",
     "¿Hoy es festivo? Las nueve comunidades que hacen puente este lunes 2 de noviembre",
     "¿Por qué hoy no es fiesta en toda España?"
-   ]
-  },
-  {
-   "term": "telecinco",
-   "traffic": 10000,
-   "lastSeen": "2026-10-28",
-   "news": [
-    "Telecinco toma medidas con ‘Rueda la letra’",
-    "Telecinco retira 'Rueda la letra' de los fines de semana y ajusta sus tardes con un cambio para 'Fiesta'",
-    "Telecinco se rinde con 'Rueda la letra' y lo retira del fin de semana tras sus insostenibles cifras de audiencia"
    ]
   },
   {
@@ -138,6 +128,16 @@
     "Muere un soldado del Ejército de Tierra durante una instrucción militar en Zaragoza",
     "Qué es la Brigada 'Guzmán el Bueno' X: dónde está, qué funciones tiene y qué unidades la forman",
     "Muere un soldado durante unos ejercicios en el campo de maniobras de San Gregorio (Zaragoza)"
+   ]
+  },
+  {
+   "term": "zaragoza delicias",
+   "traffic": 10000,
+   "lastSeen": "2026-11-12",
+   "news": [
+    "Un tren AVE se pasa la estación de Zaragoza, pega un frenazo y Renfe tiene que relevar al maquinista",
+    "Nuevo susto para los usuarios del tren: un AVE se pasa la estación en Zaragoza, pega un frenazo y el...",
+    "Vídeo: Un tren Ave se pasa la parada de Zaragoza y tiene que volver varios metros marcha atrás"
    ]
   },
   {
@@ -308,16 +308,6 @@
     "Abascal cancela su entrevista con Jordi Wild tras denunciar el \"secuestro\" de parte de la grabación de 'La Revuelta' por TVE y El Terrat",
     "Vox suspende la grabación con Jordi Wild tras denunciar que RTVE no cumplió lo acordado en la entrevista de Broncano a Abascal",
     "Vox reclama los 40 minutos no emitidos de Abascal en «La revuelta» y suspende las entrevistas en las que los medios no acepten todas sus exigencias"
-   ]
-  },
-  {
-   "term": "fátima báñez",
-   "traffic": 2000,
-   "lastSeen": "2026-10-28",
-   "news": [
-    "Fátima Báñez reclama reducir el absentismo y los costes laborales para mejorar la productividad",
-    "Las empresas del metal reclaman menos absentismo, más productividad y mano de obra especializada",
-    "La ex ministra del PP, Fátima Báñez, defiende convertir las incertidumbres internacionales en oportunidades"
    ]
   },
   {
@@ -602,11 +592,11 @@
   {
    "term": "isabel peralta",
    "traffic": 2000,
-   "lastSeen": "2026-11-11",
+   "lastSeen": "2026-11-12",
    "news": [
-    "Núcleo Nacional planeó atacar mezquitas y sinagogas: “Hay que empezar con las incineraciones”",
-    "Extremadura, entre los territorios de expansión del grupo neonazi Núcleo Nacional: incitación al odio, armas y adiestramiento militar",
-    "Un donostiarra de 34 años, entre los detenidos por pertenecer al grupo nazi Núcleo Nacional"
+    "Neonazis armados en España",
+    "La organización neonazi Núcleo Nacional tenía planes para desencadenar un «alzamiento armado» en España",
+    "Núcleo Nacional: radiografía policial de los nuevos neonazis españoles"
    ]
   },
   {
@@ -650,43 +640,13 @@
    ]
   },
   {
-   "term": "los rochos",
-   "traffic": 1000,
-   "lastSeen": "2026-10-28",
+   "term": "unidad central operativa",
+   "traffic": 2000,
+   "lastSeen": "2026-11-12",
    "news": [
-    "Última hora de la actualidad política, en directo | El PP responde en redes a la denuncia de Begoña Gómez: “Podría ser peor. Podrían habernos mandado a Los rochos”",
-    "Elecciones 29N, en directo: Gabriel Rufián e Irene Montero visitan La Revuelta",
-    "Begoña Gómez presenta una denuncia por suplantación de imagen por el vídeo del PP hecho con inteligencia artificial"
-   ]
-  },
-  {
-   "term": "train crash spain",
-   "traffic": 1000,
-   "lastSeen": "2026-10-28",
-   "news": [
-    "Live updates: Two high-speed trains collide in Spain forcing suspension of line",
-    "At least 10 dead after two trains collide south of Madrid, regional official says",
-    "Spanish authorities say 2 trains have been involved in accident"
-   ]
-  },
-  {
-   "term": "puerta del sol",
-   "traffic": 1000,
-   "lastSeen": "2026-10-28",
-   "news": [
-    "¿Qué hacer con los sintecho? Una acampada de Sol menguante se atrinchera para aguantar hasta el 11-N",
-    "Tiendas vacías y hartazgo vecinal: Carlos Quílez muestra qué queda de la acampada de Sol un mes después",
-    "Los acampados de Sol se blindan ante las miradas de los curiosos y dicen que se quedarán: \"La acampada sigue, no hay retirada\""
-   ]
-  },
-  {
-   "term": "reina sofia",
-   "traffic": 1000,
-   "lastSeen": "2026-10-28",
-   "news": [
-    "La reina Sofía y su viaje sorpresa a Armenia en una visita fuera de la agenda real",
-    "Doña Sofía, la embajadora incansable de la familia real: de Armenia a Estados Unidos o Reino Unido, la emérita como gran baluarte de la Corona dentro y fuera de España",
-    "Frutas tradicionales y ramos de flores impares: Doña Sofía recibe la hospitalidad de Armenia en su viaje privado al país"
+    "La UCO acude al Tribunal de Cuentas a por información sobre presuntas irregularidades en donaciones al PSOE",
+    "La UCO acude al Tribunal de Cuentas al notar \"discrepancias\" en la documentación sobre las donaciones al PSOE",
+    "Agentes de la UCO acuden al Tribunal de Cuentas por la pieza de financiación del PSOE"
    ]
   },
   {
@@ -990,43 +950,13 @@
    ]
   },
   {
-   "term": "train",
-   "traffic": 500,
-   "lastSeen": "2026-10-28",
+   "term": "trade republic 4%",
+   "traffic": 1000,
+   "lastSeen": "2026-11-12",
    "news": [
-    "EN DIRECT, collision entre deux trains en Espagne : de nombreux morts à déplorer, selon les autorités régionales",
-    "Espagne : deux trains entrent en collision au sud de Madrid, plusieurs «blessés»",
-    "DIRECT. Collision entre deux trains près de Tolède : les autorités locales déplorent \"au moins 10 morts\""
-   ]
-  },
-  {
-   "term": "heraldo de aragon",
-   "traffic": 500,
-   "lastSeen": "2026-10-28",
-   "news": [
-    "La AESAF condena dos agresiones a árbitros en Aragón y Asturias y pide una “respuesta firme” contra la violenc",
-    "Juan Antonio Sagardoy denuncia el perjuicio a la imagen de Almudévar",
-    "Paco Ramo, presidente del colectivo arbitral: \"Nadie está en esta vida para ser insultado o agredido en su trabajo\""
-   ]
-  },
-  {
-   "term": "lne",
-   "traffic": 500,
-   "lastSeen": "2026-10-28",
-   "news": [
-    "Atasco kilométrico en la autopista 'Y' por la colisión entre seis coches",
-    "Un accidente con seis vehículos implicados provoca retenciones kilométricas en la \"Y\" y colapsa la zona oeste de Gijón durante dos horas",
-    "Caos en la «Y» asturiana: seis vehículos chocan en plena hora punta y provocan más de seis kilómetros de atasco hasta Gijón"
-   ]
-  },
-  {
-   "term": "ticketmaster",
-   "traffic": 500,
-   "lastSeen": "2026-10-28",
-   "news": [
-    "Amaral encabeza el cartel del festival que organiza el Sindicato de Inquilinas: \"La vivienda es un derecho\"",
-    "Ticketmaster está a un nivel de monopolio entre las tiqueteras que ya vende hasta los actos del Sindicato de Inquilinas",
-    "Macroconcierto sorpresa en Madrid en favor de la vivienda este noviembre"
+    "Trade Republic eleva la apuesta entre los neobancos y sube la rentabilidad de su cuenta al 4% para nuevos clientes",
+    "Trade Republic dispara al 4,07% TAE su cuenta y eleva el listón del ahorro sin vinculación en España",
+    "Mejores cuentas remuneradas en noviembre: las claves para elegir dónde guardar tus ahorros"
    ]
   },
   {
@@ -1509,93 +1439,33 @@
    ]
   },
   {
-   "term": "el periodico de catalunya",
-   "traffic": 200,
-   "lastSeen": "2026-10-28",
+   "term": "uco ministerio igualdad",
+   "traffic": 500,
+   "lastSeen": "2026-11-12",
    "news": [
-    "Los lectores de EL PERIÓDICO, sobre los disturbios en Barcelona: \"Convocar no es lo mismo que movilizar con sentido\"",
-    "\"Movilizarse no siempre es protestar\"",
-    "El derecho a protestar no es el derecho a ejercer la violencia"
+    "La Fiscalía Europea envía a la UCO al Ministerio de Igualdad por un presunto fraude en la compra de pulseras antimaltrato",
+    "Ana Redondo asegura que los fondos para pulseras de vigilancia se han destinado correctamente",
+    "La Fiscalía Europea investiga un posible fraude en las pulseras antimaltrato con fondos comunitarios"
    ]
   },
   {
-   "term": "bbc",
-   "traffic": 200,
-   "lastSeen": "2026-10-28",
+   "term": "democracia 21",
+   "traffic": 500,
+   "lastSeen": "2026-11-12",
    "news": [
-    "What we know about Ukraine-Russia truce in Oleshky, brokered by Melania Trump",
-    "Oleshky truce appears to hold as two European leaders have ‘frank’ call with Putin",
-    "Ukrainian refugees will be sent to Russia under Melania Trump’s ceasefire"
+    "Miriam González sale del consejo de Atrys para centrarse en su candidatura a las elecciones del 29N",
+    "Miriam González Durántez abandona el consejo de Atrys Health para presentarse a las elecciones generales",
+    "Miriam González, líder de Democracia 21, dimite como consejera de Atrys para centrarse en las elecciones"
    ]
   },
   {
-   "term": "11m",
-   "traffic": 200,
-   "lastSeen": "2026-10-28",
+   "term": "planta",
+   "traffic": 500,
+   "lastSeen": "2026-11-12",
    "news": [
-    "PGB nets RM187.43mil from land sale",
-    "Paragon Globe gets shareholders’ nod for RM398m Johor land sale to data centre firm DayOne",
-    "Paragon Globe shareholders approve RM398m Tanjung Kupang land sale"
-   ]
-  },
-  {
-   "term": "submarino nuclear",
-   "traffic": 200,
-   "lastSeen": "2026-10-28",
-   "news": [
-    "Rusia lanza un misil estratégico desde un submarino nuclear en el Ártico y alcanza su objetivo",
-    "Un submarino nuclear ruso prueba un misil estratégico con destino al Ártico",
-    "Rusia prueba un misil nuclear Bulavá desde un submarino de su Flota del Pacífico y alcanza un objetivo en el Ártico"
-   ]
-  },
-  {
-   "term": "le monde",
-   "traffic": 200,
-   "lastSeen": "2026-10-28",
-   "news": [
-    "La lente infusion de la parole haineuse et raciste, de la droite dure jusqu’au sommet de l’Etat",
-    "“La tension est à son comble en France, et l’attentat de Trappes pourrait être un tournant”",
-    "DIRECT. Attentat raciste à Trappes: un hommage national sera organisé"
-   ]
-  },
-  {
-   "term": "el nacional",
-   "traffic": 200,
-   "lastSeen": "2026-10-28",
-   "news": [
-    "Irene Urdangarin da un nuevo paso en su relación con Fernando Echevarría: las fotos de su escapada a Barcelona con sus hermanos, Pablo y Miguel",
-    "Irene Urdangarin, su nuevo novio y los dos escenarios de su noviazgo: de la familia en Barcelona a la cotidianidad de pareja en Londres",
-    "Irene Urdangarin reaparece en Galicia tras presentar a su novio a su abuelo el rey Juan Carlos I"
-   ]
-  },
-  {
-   "term": "periodico",
-   "traffic": 200,
-   "lastSeen": "2026-10-28",
-   "news": [
-    "La portada de EL PERIÓDICO del 28 de octubre de 2026",
-    "China confirma que no emitirá LaLiga y ve insuficientes las disculpas del Real Madrid",
-    "China no acepta las disculpas del Madrid y confirma el boicot a la Liga"
-   ]
-  },
-  {
-   "term": "cuatro",
-   "traffic": 200,
-   "lastSeen": "2026-10-28",
-   "news": [
-    "La Policía Nacional detiene en Ourense a cuatro personas por la sustracción y venta de joyas valoradas en más de 24.000 euros",
-    "Arrestada una empleada de hogar y tres familiares suyos en Ourense, por la venta por 24.000 euros, de joyas que robaba en la casa en la que trabajaba",
-    "Policía Nacional de Ourense detiene a cuatro personas tras sustraer y vender joyas valoradas en más de 24.000 euros"
-   ]
-  },
-  {
-   "term": "lasexta",
-   "traffic": 200,
-   "lastSeen": "2026-10-28",
-   "news": [
-    "La nueva vida de Cristina Saavedra, la presentadora de laSexta que cambió los informativos por Costa de Marfil: \"Hay una vida emocionante más allá de nuestros ombligos\"",
-    "‘Cara al Show’, con Marc Giró, recibe mañana miércoles a Gabriel Rufián, Pablo López y Manuel Jabois en el Prime Time de laSexta",
-    "Estos son hoy los invitados de 'Cara al show con Marc Giró' en La Sexta (miércoles 28 de octubre de 2026)"
+    "Lidl adelanta la Navidad con esta planta perenne de interior por menos de 4 euros: viene en una maceta que alegrará la casa",
+    "Olvida los geranios: la planta que puede crecer en la sombra y llena tu balcón de colores en otoño aunque n...",
+    "La Generalitat autoriza en Llíria una planta para reciclaje químico de hasta 50.000 toneladas anuales"
    ]
   },
   {
@@ -2183,6 +2053,36 @@
     "Última hora de la huelga general: algunos comercios echan el cierre en la Gran Vía de Madrid",
     "Montero y Belarra se unieron al piquete de las cocheras de la EMT en Entrevías",
     "Tensión en las cocheras de la EMT entre Policía y piquetes"
+   ]
+  },
+  {
+   "term": "avengers endgame encore",
+   "traffic": 200,
+   "lastSeen": "2026-11-12",
+   "news": [
+    "Avengers Endgame: Encore: Streaming Details, Story, Cast & What To Watch Next | Explore Disney+",
+    "Marvel Officially Releases New Avengers Movie on Disney+ in 48 Hours",
+    "The countdown to Avengers: Doomsday continues, and Disney+ has set the release date for Avengers: Endgame: Encore for Friday, November 13. Read more below."
+   ]
+  },
+  {
+   "term": "cristinini",
+   "traffic": 200,
+   "lastSeen": "2026-11-12",
+   "news": [
+    "De Twitch a La Moncloa: la streamer Cristinini recibe la Gran Cruz del Mérito Civil, una distinción con un siglo de historia",
+    "La 'granadina' Cristinini, condecorada por Pedro Sánchez con la Gran Cruz de la Orden del Mérito Civil",
+    "Pedro Sánchez condecora a la streamer Cristinini con la Gran Cruz de la Orden del Mérito Civil"
+   ]
+  },
+  {
+   "term": "silvia alonso",
+   "traffic": 200,
+   "lastSeen": "2026-11-12",
+   "news": [
+    "El patrimonio de Broncano: dos áticos en Madrid, una productora millonaria y un coche valorado en 160.000 euros",
+    "El refugio de David Broncano y Silvia Alonso: una casa de 500 metros y 4.500 de terreno en un municipio de 3.000 habitantes",
+    "Entramos en el refugio en el pantano de Cebreros (Ávila) de David Broncano y Silvia Alonso: “Él tiene una extraña manía con el orden; no puede irse de casa sin dejar la cama perfectamente hecha, y lo peor es que le gusta que la hagamos juntos”"
    ]
   },
   {
