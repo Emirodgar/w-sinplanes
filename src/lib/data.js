@@ -69,6 +69,30 @@ export const textLang = (lang, p) => {
  */
 export const hasText = (p, lang) => lang === 'es' || Boolean(p.title?.[lang] || p.title?.en);
 export const inLang = (list, lang) => list.filter((p) => hasText(p, lang));
+/**
+ * Enlaces para las páginas de planes caducados: qué hacer ahora en su lugar.
+ * `soon`: planes con fecha en los próximos `days` días; `evergreen`: lugares y rutas que no caducan.
+ * Solo planes con texto propio en el idioma (nunca el respaldo), cercanos (provincia/CCAA) o del mismo tema.
+ */
+export function nextSteps(p, lang, { days = 14, max = 3, exclude = [] } = {}) {
+  const pl = p.place || {};
+  const skip = new Set([p.slug, ...exclude]);
+  const score = (x) => {
+    const xl = x.place || {};
+    let s = (x.topics || []).filter((id) => p.topics?.includes(id)).length * 2;
+    if (pl.provincia && xl.provincia === pl.provincia) s += 4;
+    else if (pl.ccaa && xl.ccaa === pl.ccaa) s += 1;
+    return s;
+  };
+  const pick = (list, cmp) => list
+    .filter((x) => !skip.has(x.slug) && !isCourse(x) && (lang === 'es' || x.title?.[lang]))
+    .map((x) => ({ x, s: score(x) })).filter(({ s }) => s > 0)
+    .sort((a, b) => b.s - a.s || cmp(a.x, b.x)).slice(0, max).map(({ x }) => x);
+  const soon = pick(within(days), (a, b) => a.start.localeCompare(b.start));
+  soon.forEach((x) => skip.add(x.slug));
+  const evergreen = pick(plans.filter(isPlace).filter((x) => x.place?.scope === 'local'), (a, b) => a.title.es.localeCompare(b.title.es, 'es'));
+  return { soon, evergreen };
+}
 /** Idiomas en los que el plan tiene texto propio (para hreflang). */
 export const availLangs = (p, all) => all.filter((l) => l === 'es' || p.title?.[l]);
 
