@@ -75,7 +75,7 @@ SINPLANES_OFFLINE=1 npm run pipeline     # opcional: eventos de ejemplo, sin red
 ## Decisiones de contenido
 
 - Nunca se publica el texto original completo de una fuente: solo un resumen y el enlace.
-- Los eventos pasados mantienen su página con `noindex`, salvo las citas recurrentes (`recurring`, se repiten cada año), que nunca llevan `noindex` por estar pasadas.
+- Los eventos pasados mantienen su página **sin `noindex`** (y entran en el sitemap) para darle tiempo a Google de rastrearlos e indexarlos. Pendiente de decidir (nov-2026): `noindex` a los ~3 meses de caducar si el plan no tiene ficha ampliada, y/o redirección 301 a un plan similar.
 - Las páginas de listado con menos de 3 planes llevan `noindex` para no generar contenido pobre.
 - Prensa: la IA nunca copia texto; cada plan enlaza a la noticia. Revisa las condiciones de reutilización de cada feed antes de activarlo.
 - Los planes "para ver" (partidos, estrenos, galas) se marcan como `pantalla` y no llevan marcado Event, porque no tienen lugar físico.
