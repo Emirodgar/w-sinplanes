@@ -1295,3 +1295,49 @@ curiosidades:
         - "Funciona assim: move-se pelo mapa e, onde parar, toca uma rádio virtual com música da zona. Botões de informação abrem artigos sobre essa música, os seus géneros, a sua história e a sua evolução. E se preferir deixar-se surpreender, o seletor de emissoras leva-o ao acaso a sons de lugares diferentes."
         - "É gratuito e não tem publicidade. Sustenta-se com as contribuições voluntárias de quem o usa."
         - "Um plano simples para viajar sem sair do lugar e ouvir algo que talvez nunca tivesse procurado."
+
+  - id: nikon-small-world-2026
+    titulo:
+      es: "Nikon Small World 2026: el mundo bajo el microscopio"
+      en: "Nikon Small World 2026: the world under the microscope"
+      fr: "Nikon Small World 2026 : le monde au microscope"
+      de: "Nikon Small World 2026: die Welt unter dem Mikroskop"
+      it: "Nikon Small World 2026: il mondo al microscopio"
+      pt: "Nikon Small World 2026: o mundo ao microscópio"
+    fuente: Nikon Small World
+    enlace: https://www.nikonsmallworld.com/
+    imagen: nikon-small-world-2026.jpg
+    imagen_alt: { es: "Diatomeas vistas al microscopio óptico: algas microscópicas de formas geométricas sobre fondo oscuro", en: "Diatoms seen through a light microscope: microscopic algae with geometric shapes on a dark background" }
+    credito: "Imagen: Gordon T. Taylor, Stony Brook University / NOAA, vía Wikimedia Commons (dominio público)"
+    descripcion:
+      es: "El concurso internacional de fotomicrografía más veterano: 52 años premiando imágenes espectaculares tomadas con el microscopio óptico. La ganadora de 2026 muestra gotas de tinta suspendidas en pleno proceso de impresión."
+      en: "The longest-running international photomicrography competition: 52 years rewarding spectacular images captured through the light microscope. The 2026 winner shows ink droplets suspended mid-print."
+      fr: "Le plus ancien concours international de photomicrographie : 52 ans à récompenser des images spectaculaires prises au microscope optique. La lauréate 2026 montre des gouttes d’encre en suspension en pleine impression."
+      de: "Der älteste internationale Wettbewerb für Fotomikrografie: seit 52 Jahren werden spektakuläre Aufnahmen durch das Lichtmikroskop ausgezeichnet. Das Siegerbild 2026 zeigt Tintentropfen, die mitten im Druck in der Schwebe sind."
+      it: "Il più longevo concorso internazionale di fotomicrografia: 52 anni di premi a immagini spettacolari catturate con il microscopio ottico. La vincitrice del 2026 mostra gocce d’inchiostro sospese in piena stampa."
+      pt: "O mais veterano concurso internacional de fotomicrografia: 52 anos a premiar imagens espetaculares captadas com o microscópio ótico. A vencedora de 2026 mostra gotas de tinta suspensas em pleno processo de impressão."
+    detalle:
+      es:
+        - "El Nikon Small World lleva 52 años premiando imágenes captadas con el microscopio óptico. La edición de 2026 ya tiene ganadores: la fotografía que se lleva el primer puesto es de Ole Bielfeldt y muestra gotas de tinta suspendidas mientras una impresora trabaja."
+        - "El concurso está abierto a cualquier persona interesada en la fotomicrografía, una modalidad que enseña la belleza y la complejidad de la vida y del mundo a una escala que el ojo no alcanza a ver."
+        - "En su web puedes recorrer la fotogalería con todas las imágenes premiadas este año. Y si prefieres el movimiento, existe también el certamen de vídeo, Small World in Motion."
+      en:
+        - "Nikon Small World has been rewarding images captured through the light microscope for 52 years. The 2026 winners are in: first place goes to Ole Bielfeldt for a photograph of ink droplets suspended in mid-air while a printer is working."
+        - "The competition is open to anyone interested in photomicrography, a field that reveals the beauty and complexity of life and the world at a scale the eye cannot see."
+        - "On its website you can browse the photo gallery with all of this year’s awarded images. And if you prefer motion, there is also a video competition, Small World in Motion."
+      fr:
+        - "Le Nikon Small World récompense depuis 52 ans des images prises au microscope optique. Les lauréats de l’édition 2026 sont connus : la première place revient à Ole Bielfeldt, avec une photographie de gouttes d’encre en suspension pendant le travail d’une imprimante."
+        - "Le concours est ouvert à toute personne intéressée par la photomicrographie, une discipline qui révèle la beauté et la complexité de la vie et du monde à une échelle invisible à l’œil nu."
+        - "Sur son site, on peut parcourir la galerie des images primées cette année. Et pour qui préfère le mouvement, il existe aussi un concours vidéo, Small World in Motion."
+      de:
+        - "Der Nikon Small World zeichnet seit 52 Jahren Aufnahmen aus, die mit dem Lichtmikroskop entstanden sind. Die Gewinner 2026 stehen fest: Den ersten Platz belegt Ole Bielfeldt mit dem Foto von Tintentropfen, die schweben, während ein Drucker arbeitet."
+        - "Der Wettbewerb steht allen offen, die sich für Fotomikrografie interessieren – eine Disziplin, die die Schönheit und Komplexität des Lebens und der Welt in einem Maßstab zeigt, den das Auge nicht erfasst."
+        - "Auf der Website kann man die Fotogalerie mit allen in diesem Jahr prämierten Bildern durchstöbern. Und wer Bewegung bevorzugt: Es gibt auch einen Videowettbewerb, Small World in Motion."
+      it:
+        - "Il Nikon Small World premia da 52 anni immagini catturate con il microscopio ottico. I vincitori dell’edizione 2026 sono noti: il primo posto va a Ole Bielfeldt, con una fotografia di gocce d’inchiostro sospese mentre una stampante lavora."
+        - "Il concorso è aperto a chiunque sia interessato alla fotomicrografia, una disciplina che mostra la bellezza e la complessità della vita e del mondo a una scala che l’occhio non riesce a vedere."
+        - "Sul sito si può sfogliare la galleria con tutte le immagini premiate quest’anno. E per chi preferisce il movimento, c’è anche il concorso video, Small World in Motion."
+      pt:
+        - "O Nikon Small World premeia há 52 anos imagens captadas com o microscópio ótico. Os vencedores da edição de 2026 já são conhecidos: o primeiro lugar vai para Ole Bielfeldt, com uma fotografia de gotas de tinta suspensas enquanto uma impressora trabalha."
+        - "O concurso está aberto a qualquer pessoa interessada em fotomicrografia, uma modalidade que mostra a beleza e a complexidade da vida e do mundo a uma escala que o olho não alcança."
+        - "No site pode percorrer a fotogaleria com todas as imagens premiadas este ano. E se preferir o movimento, existe também o concurso de vídeo, Small World in Motion."
