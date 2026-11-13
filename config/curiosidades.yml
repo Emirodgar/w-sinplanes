@@ -1381,3 +1381,49 @@ curiosidades:
       pt:
         - "O New York Times propõe uma experiência visual em torno de «I dwell in Possibility», um poema de Emily Dickinson. Com apenas 50 palavras, a autora consegue encerrar possibilidades sem fim."
         - "A peça pode ser consultada gratuitamente e é uma boa desculpa para reler devagar um poema breve, atentando em cada palavra."
+
+  - id: nasa-hojas-rojas-satelite
+    titulo:
+      es: "Cazando hojas rojas desde el espacio"
+      en: "Hunting red leaves from space"
+      fr: "À la chasse aux feuilles rouges depuis l’espace"
+      de: "Rote Blätter aus dem All jagen"
+      it: "A caccia di foglie rosse dallo spazio"
+      pt: "A caçar folhas vermelhas a partir do espaço"
+    fuente: NASA Earth Observatory
+    enlace: https://science.nasa.gov/earth/earth-observatory/hunting-red-leaves-with-satellites/
+    imagen: nasa-hojas-rojas.jpg
+    imagen_alt: { es: "Imagen de satélite de los bosques de Vermont con las montañas teñidas de rojo y naranja y los valles aún verdes", en: "Satellite image of Vermont’s forests with the mountains turned red and orange and the valleys still green" }
+    credito: "Imagen: NASA Earth Observatory / Lauren Dauphin, con datos de Landsat 9 (USGS)"
+    descripcion:
+      es: "Un especial visual de NASA Earth Observatory que usa imágenes de satélite para mostrar cómo los rojos del otoño avanzan por distintas regiones del planeta."
+      en: "A visual feature from NASA Earth Observatory that uses satellite imagery to show how autumn reds sweep across different regions of the planet."
+      fr: "Un dossier visuel de la NASA Earth Observatory qui utilise des images satellites pour montrer comment les rouges de l’automne gagnent différentes régions de la planète."
+      de: "Eine visuelle Reportage des NASA Earth Observatory, die mit Satellitenbildern zeigt, wie die Rottöne des Herbstes durch verschiedene Regionen des Planeten ziehen."
+      it: "Uno speciale visivo del NASA Earth Observatory che usa immagini satellitari per mostrare come i rossi dell’autunno si spostano nelle diverse regioni del pianeta."
+      pt: "Um especial visual do NASA Earth Observatory que usa imagens de satélite para mostrar como os vermelhos do outono avançam por diferentes regiões do planeta."
+    detalle:
+      es:
+        - "«Hunting Red Leaves With Satellites» enlaza con el momijigari japonés, la tradición de salir a contemplar las hojas rojas del otoño, y la lleva al espacio: los científicos miden cuánto rojo, naranja y amarillo tiene un bosque frente a su verde y siguen esa proporción a lo largo del tiempo."
+        - "Los datos proceden del satélite PACE de la NASA, que observa la vegetación casi a diario en 286 bandas espectrales, y de Landsat 9, que aporta el detalle de las montañas de Vermont. Los mapas muestran cómo el rojo avanza desde el norte, en Nueva Inglaterra, el norte de Canadá y Rusia, hacia el sur."
+        - "Una advertencia: no todo rojo es otoño. Cultivos, sequías o plagas también alteran los pigmentos, y las nubes pueden dejar huecos en los mapas."
+      en:
+        - "“Hunting Red Leaves With Satellites” draws on the Japanese tradition of momijigari, going out to admire the red leaves of autumn, and takes it into space: scientists measure how much red, orange and yellow a forest shows against its green and track that ratio over time."
+        - "The data come from NASA’s PACE satellite, which observes vegetation almost daily across 286 spectral bands, and from Landsat 9, which supplies the close-up of Vermont’s mountains. The maps show the red moving south from New England, northern Canada and Russia."
+        - "One caveat: not every red is autumn. Crops, drought and pests also change pigment levels, and clouds can leave gaps in the maps."
+      fr:
+        - "« Hunting Red Leaves With Satellites » s’inspire du momijigari japonais, la tradition d’aller admirer les feuilles rouges de l’automne, et l’emmène dans l’espace : les scientifiques mesurent la part de rouge, d’orange et de jaune d’une forêt par rapport à son vert et suivent ce rapport dans le temps."
+        - "Les données viennent du satellite PACE de la NASA, qui observe la végétation presque chaque jour sur 286 bandes spectrales, et de Landsat 9, qui fournit le gros plan des montagnes du Vermont. Les cartes montrent le rouge descendre vers le sud depuis la Nouvelle-Angleterre, le nord du Canada et la Russie."
+        - "Une précision : tout rouge n’est pas de l’automne. Les cultures, la sécheresse ou les ravageurs modifient aussi les pigments, et les nuages peuvent laisser des trous dans les cartes."
+      de:
+        - "„Hunting Red Leaves With Satellites“ greift das japanische Momijigari auf, die Tradition, im Herbst die roten Blätter zu bewundern, und bringt sie ins All: Forschende messen, wie viel Rot, Orange und Gelb ein Wald im Verhältnis zu seinem Grün zeigt, und verfolgen dieses Verhältnis über die Zeit."
+        - "Die Daten stammen vom NASA-Satelliten PACE, der die Vegetation fast täglich in 286 Spektralbändern beobachtet, und von Landsat 9, das die Nahaufnahme der Berge Vermonts liefert. Die Karten zeigen, wie das Rot von Neuengland, Nordkanada und Russland aus nach Süden wandert."
+        - "Ein Vorbehalt: Nicht jedes Rot ist Herbst. Auch Ackerfrüchte, Dürre oder Schädlinge verändern die Pigmente, und Wolken können Lücken in den Karten hinterlassen."
+      it:
+        - "«Hunting Red Leaves With Satellites» richiama il momijigari giapponese, la tradizione di uscire ad ammirare le foglie rosse dell’autunno, e la porta nello spazio: gli scienziati misurano quanto rosso, arancione e giallo mostra una foresta rispetto al suo verde e seguono questo rapporto nel tempo."
+        - "I dati arrivano dal satellite PACE della NASA, che osserva la vegetazione quasi ogni giorno in 286 bande spettrali, e da Landsat 9, che fornisce il dettaglio delle montagne del Vermont. Le mappe mostrano il rosso che scende verso sud dalla Nuova Inghilterra, dal Canada settentrionale e dalla Russia."
+        - "Un’avvertenza: non ogni rosso è autunno. Anche colture, siccità e parassiti alterano i pigmenti, e le nuvole possono lasciare vuoti nelle mappe."
+      pt:
+        - "«Hunting Red Leaves With Satellites» parte do momijigari japonês, a tradição de sair para admirar as folhas vermelhas do outono, e leva-a para o espaço: os cientistas medem quanto vermelho, laranja e amarelo uma floresta mostra face ao seu verde e acompanham essa proporção ao longo do tempo."
+        - "Os dados vêm do satélite PACE da NASA, que observa a vegetação quase todos os dias em 286 bandas espectrais, e do Landsat 9, que dá o pormenor das montanhas do Vermont. Os mapas mostram o vermelho a descer para sul a partir da Nova Inglaterra, do norte do Canadá e da Rússia."
+        - "Um aviso: nem todo o vermelho é outono. Culturas, secas ou pragas também alteram os pigmentos, e as nuvens podem deixar falhas nos mapas."
