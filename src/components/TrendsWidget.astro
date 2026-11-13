@@ -1,0 +1,35 @@
+---
+import { t, url, INTL_LOCALE } from '../i18n/ui.js';
+import { tendencias } from '../i18n/tendencias.js';
+import { trending, inLang, fmtWhen, fmtPlace, ptitle, textLang } from '../lib/data.js';
+
+const { lang } = Astro.props;
+const L = t[lang];
+const T = tendencias[lang];
+const list = inLang(trending(30), lang).slice(0, 5);
+const max = Math.max(...list.map((p) => p.trend), 1);
+const num = new Intl.NumberFormat(INTL_LOCALE[lang], { useGrouping: 'always' }); // "2.000", también en español (que no agrupa los de 4 cifras)
+// Anchura relativa a la más alta de la lista; un mínimo para que la barra se vea siempre.
+const pct = (p) => Math.max(12, Math.round((p.trend / max) * 100));
+---
+{list.length > 0 && (
+  <section class="widget widget-trend" aria-labelledby="w-trend">
+    <h2 id="w-trend">{L.w.trending}</h2>
+    <p class="muted">{L.trendingIntro}</p>
+    <ul class="plan-list">
+      {list.map((p) => (
+        <li>
+          <a class="title" href={url.plan(lang, p.slug)} lang={textLang(lang, p)}>{ptitle(p, lang)}</a>
+          <span class="trend-bar" aria-hidden="true"><span style={`width:${pct(p)}%`}></span></span>
+          <span class="plan-meta">
+            {p.trendTerm && <span class="trend-term">{p.trendTraffic ? T.searched(p.trendTerm, num.format(p.trendTraffic)) : `«${p.trendTerm}»`}</span>}
+            <span>{fmtWhen(lang, p)}</span>
+            <span>{fmtPlace(p, L.allSpain)}</span>
+            {p.free && <span class="tag">{L.free_}</span>}
+          </span>
+        </li>
+      ))}
+    </ul>
+    <p class="trend-legend">{T.legend}</p>
+  </section>
+)}

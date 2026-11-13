@@ -105,6 +105,12 @@ p { margin: 0 0 1em; max-width: var(--measure); }
 .widget .more:hover { text-decoration: underline; }
 .widget--wide { grid-column: 1 / -1; }
 
+/* Tendencias en la red: barra de interés relativo bajo cada plan. */
+.trend-bar { display: block; height: 6px; margin: 0.35rem 0 0.15rem; border-radius: 999px; background: var(--fill); overflow: hidden; }
+.trend-bar > span { display: block; height: 100%; border-radius: inherit; background: var(--accent); }
+.trend-term { color: var(--ink); font-weight: 600; }
+.trend-legend { margin: 1rem 0 0; font-size: var(--s-1); color: var(--ink-soft); }
+
 /* Amanece / anochece junto al tiempo (widgets con ubicación). */
 .sun { display: flex; flex-wrap: wrap; gap: 0.35rem 1.25rem; margin: 0.75rem 0 1rem; font-size: 0.9375rem; color: var(--ink-soft); }
 .sun span { display: inline-flex; align-items: center; gap: 0.4rem; }

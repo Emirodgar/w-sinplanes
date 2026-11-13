@@ -10,6 +10,7 @@ import MatchToday from './MatchToday.astro';
 import TodayIn from './TodayIn.astro';
 import HalloweenWidget from './HalloweenWidget.astro';
 import DiaDestacado from './DiaDestacado.astro';
+import TrendsWidget from './TrendsWidget.astro';
 import { t, url, monthName, HREFLANG, INTL_LOCALE } from '../i18n/ui.js';
 import { TODAY, currentMonth, seasonalFor, upcoming, within, overlaps, weekendRange, span, isCourse, topicById, fmtDay, cap, ptitle, psummary, textLang, trending, boost, inLang } from '../lib/data.js';
 
@@ -27,7 +28,6 @@ const watch = boost(inLang(upcoming(), lang).filter((p) => p.kind === 'pantalla'
 const fresh = (p) => span(p) <= 45 && !isCourse(p);
 const free = inLang(within(21), lang).filter((p) => p.free && fresh(p)).slice(0, 5);
 const kids = inLang(within(30), lang).filter((p) => p.topics?.includes('ninos') && fresh(p)).slice(0, 5);
-const trend = inLang(trending(30), lang).slice(0, 5);
 const next = inLang(upcoming(), lang).filter((p) => p.recurring && p.kind === 'evento').slice(0, 5);
 
 const kidsT = topicById('ninos');
@@ -111,13 +111,7 @@ const jsonld = {
       <a class="more" href={url.topic(lang, kidsT)}>{L.seeAll}</a>
     </section>
 
-    {trend.length > 0 && (
-      <section class="widget" aria-labelledby="w-trend">
-        <h2 id="w-trend">{L.w.trending}</h2>
-        <p class="muted">{L.trendingIntro}</p>
-        <PlanList lang={lang} plans={trend} />
-      </section>
-    )}
+    <TrendsWidget lang={lang} />
 
     <CineWidget lang={lang} />
 

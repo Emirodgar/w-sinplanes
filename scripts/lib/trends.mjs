@@ -54,14 +54,16 @@ export function applyTrends(plans, history, today) {
     .filter((h) => h.w.length > 0 && h.decay > 0);
   const hay = plans.map((p) => new Set(words(`${p.title.es} ${p.place?.municipio || ''} ${p.place?.provincia || ''}`)));
   const score = new Array(plans.length).fill(0);
+  const by = new Array(plans.length).fill(null); // la búsqueda que da la puntuación a cada plan
   for (const h of terms) {
     const hits = hay.flatMap((set, i) => (h.w.every((w) => set.has(w)) ? [i] : []));
     if (!hits.length || hits.length > MAX_MATCHES) continue;
     // Escala logarítmica: 200+ ≈ 23, 10K+ ≈ 40, 1M+ ≈ 60, ajustada por frescura
     const sc = Math.round(Math.log10(Math.max(h.traffic, 10)) * 10 * h.decay);
-    for (const i of hits) score[i] = Math.max(score[i], sc);
+    for (const i of hits) if (sc > score[i]) { score[i] = sc; by[i] = h; }
   }
-  return plans.map((p, i) => (score[i] > 0 ? { ...p, trend: score[i] } : p));
+  // trendTerm / trendTraffic: qué búsqueda y qué volumen (aprox.) hay detrás, para mostrarlo en la portada.
+  return plans.map((p, i) => (score[i] > 0 ? { ...p, trend: score[i], trendTerm: by[i].term, trendTraffic: by[i].traffic } : p));
 }
 
 const FILE = path.join(ROOT, 'data/trends.json');
