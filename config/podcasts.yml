@@ -57,6 +57,7 @@ destacados: []
 reserva:
   - id: mago-more-villalonga
     fecha: "2026-05-02"
+    portada: "/img/podcasts/mago-more-villalonga.jpg"
     titulo: "Mago More"
     generos: [negocios]
     episodio: { titulo: "“Hay que reinventarse cuando el teléfono deja de sonar” | Juan Villalonga", enlace: "https://www.youtube.com/watch?v=kRLHDTSQOig" }
@@ -74,6 +75,7 @@ reserva:
 
   - id: esto-merece-una-explicacion-ave
     fecha: "2026-05-16"
+    portada: "/img/podcasts/esto-merece-una-explicacion-ave.jpg"
     titulo: "Esto merece una explicación"
     autor: "RNE Audio"
     generos: [actualidad]
@@ -106,6 +108,7 @@ reserva:
 
   - id: formula-del-exito-maestro
     fecha: "2026-06-13"
+    portada: "/img/podcasts/formula-del-exito-maestro.jpg"
     titulo: "La Fórmula Del Éxito con Uri Sabat"
     generos: [negocios]
     episodio: { titulo: "La felicidad es un timo que te robó la libertad (y nadie te lo dice) | Jesús G. Maestro", enlace: "https://open.spotify.com/episode/3LTYCC25BkDPUMwaBEng9i" }
@@ -119,6 +122,7 @@ reserva:
 
   - id: itnig-uriarte
     fecha: "2026-06-27"
+    portada: "/img/podcasts/itnig-uriarte.jpg"
     titulo: "Podcast de Itnig: Historias de startups"
     generos: [negocios]
     episodio: { titulo: "Jon Uriarte: de vender Ticketbis a presidir el Athletic | #425", enlace: "https://open.spotify.com/episode/3C1peytDSGpD10JOYVqCq5" }
@@ -131,12 +135,14 @@ reserva:
 
   - id: polymatas-pensar-bien
     fecha: "2026-07-11"
+    portada: "/img/podcasts/polymatas.jpg"
     titulo: "Polymatas"
     generos: [ciencia]
     episodio: { titulo: "#53 ¿Por qué cuesta tanto pensar bien?", enlace: "https://open.spotify.com/episode/26NYllf2ugM13sGwkFvskq" }
 
   - id: charlando-con-libros-hipercomplejidad
     fecha: "2026-07-18"
+    portada: "/img/podcasts/charlando-con-libros.jpg"
     titulo: "Charlando con libros"
     autor: "Adrián Sussudio"
     generos: [literatura]
@@ -183,6 +189,7 @@ reserva:
 
   - id: el-copiloto-ismael-clemente
     fecha: "2026-09-05"
+    portada: "/img/podcasts/el-copiloto.jpg"
     titulo: "El Copiloto"
     generos: [negocios]
     episodio: { titulo: "Ismael Clemente, el CEO del Ibex", enlace: "https://open.spotify.com/episode/4tczsVHQQAwaeMFWYPZbzv" }
@@ -196,12 +203,14 @@ reserva:
 
   - id: formula-del-exito-longevidad
     fecha: "2026-09-19"
+    portada: "/img/podcasts/formula-del-exito-longevidad.jpg"
     titulo: "La Fórmula Del Éxito con Uri Sabat"
     generos: [negocios]
     episodio: { titulo: "El secreto de longevidad de los millonarios", enlace: "https://open.spotify.com/episode/7zmETUvVpjQ1tDnONq9Uh0" }
 
   - id: polymatas-ia
     fecha: "2026-10-03"
+    portada: "/img/podcasts/polymatas-ia.jpg"
     titulo: "Polymatas"
     generos: [ciencia]
     episodio: { titulo: "#113 ¿Hay algo que una IA nunca podrá hacer?", enlace: "https://open.spotify.com/episode/2fjcdiZg7idnsSYQKplsqJ" }
@@ -225,11 +234,13 @@ reserva:
       en: "Radio adaptation of Benito Pérez Galdós’s Episodios nacionales, historical novels on nineteenth-century Spain."
 
   - id: aprendizaje-infinito-leer-rapido
+    portada: "/img/podcasts/aprendizaje-infinito.jpg"
     titulo: "Aprendizaje infinito"
     generos: [cultura]
     episodio: { titulo: "Cómo leer más rápido (sin sacrificar comprensión)", enlace: "https://open.spotify.com/episode/3mkbH2sXVZlStuHr5NUk0p" }
 
   - id: historias-de-la-economia-pelotazo-inmobiliario
+    portada: "/img/podcasts/historias-de-la-economia.jpg"
     titulo: "Historias de la economía"
     generos: [historia, negocios]
     episodio: { titulo: "El mayor pelotazo inmobiliario en la historia de España", enlace: "https://open.spotify.com/episode/0ltpKtoVA0YfxWvniRKfmv" }
@@ -239,3 +250,203 @@ reserva:
     titulo: "Podcast de Itnig: Historias de startups"
     generos: [negocios]
     episodio: { titulo: "Willyrex Explica el Negocio Real de YouTube: 100.000€/mes, sponsors y vídeos sin filtros", enlace: "https://open.spotify.com/episode/4JPUWM7SYpmoMD1dZuqSnU" }
+
+  - id: escobula
+    portada: "/img/podcasts/escobula.jpg"
+    titulo: "La escóbula de la brújula"
+    autor: "Podium Podcast"
+    generos: [historia, cultura]
+    enlaces: { apple: "https://podcasts.apple.com/es/podcast/la-esc%C3%B3bula-de-la-br%C3%BAjula/id647849954", web: "https://www.podiumpodcast.com/la-escobula-de-la-brujula/" }
+    descripcion:
+      es: "Divulgación sobre historia, civilizaciones antiguas, misterios y curiosidades del mundo, de los programas veteranos del podcast en español."
+      en: "Popular history, ancient civilizations, mysteries and curiosities from around the world, one of the veteran Spanish-language podcasts."
+
+  - id: radio-ambulante
+    portada: "/img/podcasts/radio-ambulante.jpg"
+    titulo: "Radio Ambulante"
+    autor: "Radio Ambulante Studios"
+    generos: [cultura, actualidad]
+    enlaces: { apple: "https://podcasts.apple.com/es/podcast/radio-ambulante/id527614348", web: "https://radioambulante.org" }
+    descripcion:
+      es: "Crónicas narrativas en español sobre Latinoamérica y su gente. Es uno de los podcasts en español más reconocidos y premiados a nivel internacional."
+      en: "Narrative reporting in Spanish about Latin America and its people, one of the most acclaimed and awarded Spanish-language podcasts worldwide."
+
+  - id: leyendas-legendarias
+    portada: "/img/podcasts/leyendas-legendarias.jpg"
+    titulo: "Leyendas Legendarias"
+    autor: "Sonoro"
+    generos: [cultura, historia]
+    enlaces: { apple: "https://podcasts.apple.com/es/podcast/leyendas-legendarias/id1454073357", web: "https://leyendaslegendarias.com/" }
+    descripcion:
+      es: "Mitos, leyendas, historia y rarezas del mundo contados en clave de humor. Uno de los podcasts de más éxito de la escena hispana."
+      en: "Myths, legends, history and oddities of the world told with humor, one of the biggest hits of the Spanish-language scene."
+
+  - id: entiende-tu-mente
+    portada: "/img/podcasts/entiende-tu-mente.jpg"
+    titulo: "Entiende Tu Mente"
+    autor: "Molo Cebrián"
+    generos: [ciencia]
+    enlaces: { apple: "https://podcasts.apple.com/es/podcast/entiende-tu-mente/id1229124446", web: "https://entiendetumente.info/" }
+    descripcion:
+      es: "Psicología y neurociencia explicadas con rigor y cercanía: emociones, hábitos, relaciones y salud mental."
+      en: "Psychology and neuroscience explained with rigor and warmth: emotions, habits, relationships and mental health."
+
+  - id: nadie-sabe-nada
+    portada: "/img/podcasts/nadie-sabe-nada.jpg"
+    titulo: "Nadie Sabe Nada"
+    autor: "SER Podcast"
+    generos: [cultura]
+    enlaces: { apple: "https://podcasts.apple.com/es/podcast/nadie-sabe-nada/id665143133", web: "http://cadenaser.com/programa/nadie_sabe_nada" }
+    descripcion:
+      es: "El magacín de humor de la Cadena SER con Andreu Buenafuente y Berto Romero: una de las referencias del podcast en España."
+      en: "The Cadena SER humor magazine with Andreu Buenafuente and Berto Romero, a landmark of Spanish podcasting."
+
+  - id: estirando-el-chicle
+    portada: "/img/podcasts/estirando-el-chicle.jpg"
+    titulo: "Estirando el chicle"
+    autor: "Podium Podcast"
+    generos: [cultura]
+    enlaces: { apple: "https://podcasts.apple.com/es/podcast/estirando-el-chicle/id1511396938", web: "https://www.podiumpodcast.com/estirando-el-chicle/" }
+    descripcion:
+      es: "Conversación, humor y cultura popular con Carolina Iglesias y Henar Álvarez, de los podcasts más escuchados en español."
+      en: "Conversation, humor and pop culture with Carolina Iglesias and Henar Álvarez, among the most listened-to podcasts in Spanish."
+
+  - id: carne-cruda
+    portada: "/img/podcasts/carne-cruda.jpg"
+    titulo: "Carne Cruda"
+    autor: "La República Independiente"
+    generos: [actualidad, cultura]
+    enlaces: { apple: "https://podcasts.apple.com/es/podcast/carne-cruda-programas/id925651075", web: "https://www.eldiario.es/carnecruda/" }
+    descripcion:
+      es: "Programa independiente de actualidad, cultura y entrevistas dirigido por Javier Gallego, con una larga trayectoria en radio y podcast."
+      en: "An independent show of current affairs, culture and interviews led by Javier Gallego, with a long track record in radio and podcast."
+
+  - id: hoy-en-el-pais
+    portada: "/img/podcasts/hoy-en-el-pais.jpg"
+    titulo: "Hoy en EL PAÍS"
+    autor: "EL PAÍS"
+    generos: [actualidad]
+    enlaces: { apple: "https://podcasts.apple.com/es/podcast/hoy-en-el-pa%C3%ADs/id1376446768", web: "https://elpais.com/podcasts/hoy-en-el-pais/" }
+    descripcion:
+      es: "El podcast diario de EL PAÍS: la noticia más importante del día explicada en pocos minutos."
+      en: "EL PAÍS’s daily podcast: the day’s most important story explained in a few minutes."
+
+  - id: memorias-de-pez
+    portada: "/img/podcasts/memorias-de-pez.jpg"
+    titulo: "Memorias de Pez"
+    autor: "Memorias de Pez"
+    generos: [historia]
+    enlaces: { apple: "https://podcasts.apple.com/es/podcast/memorias-de-pez/id1511412240", web: "https://memoriasdepez.com" }
+    descripcion:
+      es: "Historia narrada en formato largo, con humor y rigor, sobre personajes y episodios del pasado."
+      en: "Long-form history told with humor and rigor, about figures and episodes from the past."
+
+  - id: el-hilo
+    portada: "/img/podcasts/el-hilo.jpg"
+    titulo: "El hilo"
+    autor: "Radio Ambulante Studios"
+    generos: [actualidad]
+    enlaces: { apple: "https://podcasts.apple.com/es/podcast/el-hilo/id1504713161", web: "https://elhilo.audio/" }
+    descripcion:
+      es: "Noticias de América Latina y del mundo en español: cada episodio sigue un hilo y lo explica con contexto."
+      en: "News from Latin America and the world in Spanish: each episode follows one thread and explains it in context."
+
+  - id: bbva-aprendemos-juntos
+    portada: "/img/podcasts/bbva-aprendemos-juntos.jpg"
+    titulo: "BBVA Aprendemos juntos"
+    autor: "BBVA Podcast"
+    generos: [ciencia, cultura]
+    enlaces: { apple: "https://podcasts.apple.com/es/podcast/bbva-aprendemos-juntos/id1331478791", web: "https://www.bbva.com/es/especiales/bbva-podcast/" }
+    descripcion:
+      es: "Conversaciones con científicos, escritores y pensadores sobre ciencia, cultura y bienestar."
+      en: "Conversations with scientists, writers and thinkers about science, culture and wellbeing."
+
+  - id: crims
+    portada: "/img/podcasts/crims.jpg"
+    titulo: "Crims"
+    autor: "Catalunya Ràdio"
+    generos: [crimen]
+    enlaces: { apple: "https://podcasts.apple.com/es/podcast/crims/id1440040477", web: "https://www.3cat.cat/3cat/crims/" }
+    descripcion:
+      es: "Crónica negra en catalán: casos criminales reales contados con detalle por el programa de Catalunya Ràdio."
+      en: "Catalan-language true crime: real criminal cases told in detail by Catalunya Ràdio’s program."
+
+  - id: caso-63
+    portada: "/img/podcasts/caso-63.jpg"
+    titulo: "Caso 63"
+    autor: "Spotify Studios"
+    generos: [cultura]
+    enlaces: { apple: "https://podcasts.apple.com/es/podcast/caso-63/id1801803563" }
+    descripcion:
+      es: "Serie de ficción sonora de ciencia ficción en español: una psiquiatra del futuro trata a una paciente que viene del pasado."
+      en: "A Spanish-language sci-fi audio drama: a psychiatrist of the future treats a patient who comes from the past."
+
+  - id: this-american-life
+    portada: "/img/podcasts/this-american-life.jpg"
+    titulo: "This American Life"
+    autor: "This American Life"
+    generos: [cultura]
+    enlaces: { apple: "https://podcasts.apple.com/es/podcast/this-american-life/id201671138", web: "https://www.thisamericanlife.org" }
+    descripcion:
+      es: "Cada semana, un tema y varias historias reales narradas por Ira Glass. Ganador del premio Pulitzer en periodismo de audio y de varios Peabody."
+      en: "Each week, one theme and several true stories hosted by Ira Glass. Winner of a Pulitzer Prize for audio reporting and several Peabody Awards."
+
+  - id: radiolab
+    portada: "/img/podcasts/radiolab.jpg"
+    titulo: "Radiolab"
+    autor: "WNYC Studios"
+    generos: [ciencia]
+    enlaces: { apple: "https://podcasts.apple.com/es/podcast/radiolab/id152249110", web: "https://www.radiolab.org" }
+    descripcion:
+      es: "Ciencia, filosofía y preguntas grandes con un diseño sonoro muy cuidado. Premiado con varios Peabody."
+      en: "Science, philosophy and big questions with distinctive sound design. A multiple Peabody Award winner."
+
+  - id: 99-invisible
+    portada: "/img/podcasts/99-invisible.jpg"
+    titulo: "99% Invisible"
+    autor: "Roman Mars"
+    generos: [cultura]
+    enlaces: { apple: "https://podcasts.apple.com/es/podcast/99-invisible/id394775318", web: "https://99percentinvisible.org" }
+    descripcion:
+      es: "Los detalles ocultos de la arquitectura y el diseño que dan forma al mundo cotidiano."
+      en: "The hidden details of architecture and design that shape everyday life."
+
+  - id: hardcore-history
+    portada: "/img/podcasts/hardcore-history.jpg"
+    titulo: "Dan Carlin’s Hardcore History"
+    autor: "Dan Carlin"
+    generos: [historia]
+    enlaces: { apple: "https://podcasts.apple.com/es/podcast/dan-carlins-hardcore-history/id173001861", web: "https://www.dancarlin.com" }
+    descripcion:
+      es: "Episodios larguísimos y casi teatrales sobre grandes momentos de la historia: referencia mundial del podcast histórico."
+      en: "Very long, almost theatrical episodes on great moments in history, a worldwide benchmark of history podcasting."
+
+  - id: in-our-time
+    portada: "/img/podcasts/in-our-time.jpg"
+    titulo: "In Our Time"
+    autor: "BBC Radio 4"
+    generos: [historia, ciencia]
+    enlaces: { apple: "https://podcasts.apple.com/es/podcast/in-our-time/id73330895", web: "https://www.bbc.co.uk/programmes/b006qykl" }
+    descripcion:
+      es: "Debate de especialistas sobre historia, ciencia, filosofía y cultura, emitido por BBC Radio 4 desde 1998."
+      en: "Expert discussion of history, science, philosophy and culture, broadcast on BBC Radio 4 since 1998."
+
+  - id: freakonomics-radio
+    portada: "/img/podcasts/freakonomics-radio.jpg"
+    titulo: "Freakonomics Radio"
+    autor: "Stephen J. Dubner"
+    generos: [negocios, ciencia]
+    enlaces: { apple: "https://podcasts.apple.com/es/podcast/freakonomics-radio/id354668519", web: "https://freakonomics.com" }
+    descripcion:
+      es: "Economía y ciencias del comportamiento aplicadas a la vida real, del equipo del bestseller Freakonomics."
+      en: "Economics and behavioral science applied to real life, from the team behind the bestseller Freakonomics."
+
+  - id: serial
+    portada: "/img/podcasts/serial.jpg"
+    titulo: "Serial"
+    autor: "Serial Productions"
+    generos: [crimen]
+    enlaces: { apple: "https://podcasts.apple.com/es/podcast/serial/id917918570", web: "https://serialpodcast.org" }
+    descripcion:
+      es: "La temporada que convirtió el true crime en fenómeno mundial y primer podcast en ganar un premio Peabody."
+      en: "The season that made true crime a global phenomenon, and the first podcast to win a Peabody Award."
