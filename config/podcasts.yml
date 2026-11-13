@@ -256,7 +256,7 @@ reserva:
     titulo: "La escóbula de la brújula"
     autor: "Podium Podcast"
     generos: [historia, cultura]
-    enlaces: { apple: "https://podcasts.apple.com/es/podcast/la-esc%C3%B3bula-de-la-br%C3%BAjula/id647849954", web: "https://www.podiumpodcast.com/la-escobula-de-la-brujula/" }
+    enlaces: { spotify: "https://open.spotify.com/show/5lf8QBe0plyw4iM661oRil", apple: "https://podcasts.apple.com/es/podcast/la-esc%C3%B3bula-de-la-br%C3%BAjula/id647849954", web: "https://www.podiumpodcast.com/la-escobula-de-la-brujula/" }
     descripcion:
       es: "Divulgación sobre historia, civilizaciones antiguas, misterios y curiosidades del mundo, de los programas veteranos del podcast en español."
       en: "Popular history, ancient civilizations, mysteries and curiosities from around the world, one of the veteran Spanish-language podcasts."
@@ -266,7 +266,7 @@ reserva:
     titulo: "Radio Ambulante"
     autor: "Radio Ambulante Studios"
     generos: [cultura, actualidad]
-    enlaces: { apple: "https://podcasts.apple.com/es/podcast/radio-ambulante/id527614348", web: "https://radioambulante.org" }
+    enlaces: { spotify: "https://open.spotify.com/show/0J74zdNxUVWHq4gLoq8MqX", apple: "https://podcasts.apple.com/es/podcast/radio-ambulante/id527614348", web: "https://radioambulante.org" }
     descripcion:
       es: "Crónicas narrativas en español sobre Latinoamérica y su gente. Es uno de los podcasts en español más reconocidos y premiados a nivel internacional."
       en: "Narrative reporting in Spanish about Latin America and its people, one of the most acclaimed and awarded Spanish-language podcasts worldwide."
@@ -276,7 +276,7 @@ reserva:
     titulo: "Leyendas Legendarias"
     autor: "Sonoro"
     generos: [cultura, historia]
-    enlaces: { apple: "https://podcasts.apple.com/es/podcast/leyendas-legendarias/id1454073357", web: "https://leyendaslegendarias.com/" }
+    enlaces: { spotify: "https://open.spotify.com/show/6wF969GfLUfypoKaicH5gr", apple: "https://podcasts.apple.com/es/podcast/leyendas-legendarias/id1454073357", web: "https://leyendaslegendarias.com/" }
     descripcion:
       es: "Mitos, leyendas, historia y rarezas del mundo contados en clave de humor. Uno de los podcasts de más éxito de la escena hispana."
       en: "Myths, legends, history and oddities of the world told with humor, one of the biggest hits of the Spanish-language scene."
@@ -286,7 +286,7 @@ reserva:
     titulo: "Entiende Tu Mente"
     autor: "Molo Cebrián"
     generos: [ciencia]
-    enlaces: { apple: "https://podcasts.apple.com/es/podcast/entiende-tu-mente/id1229124446", web: "https://entiendetumente.info/" }
+    enlaces: { spotify: "https://open.spotify.com/show/0sGGLIDnnijRPLef7InllD", apple: "https://podcasts.apple.com/es/podcast/entiende-tu-mente/id1229124446", web: "https://entiendetumente.info/" }
     descripcion:
       es: "Psicología y neurociencia explicadas con rigor y cercanía: emociones, hábitos, relaciones y salud mental."
       en: "Psychology and neuroscience explained with rigor and warmth: emotions, habits, relationships and mental health."
@@ -296,7 +296,7 @@ reserva:
     titulo: "Nadie Sabe Nada"
     autor: "SER Podcast"
     generos: [cultura]
-    enlaces: { apple: "https://podcasts.apple.com/es/podcast/nadie-sabe-nada/id665143133", web: "http://cadenaser.com/programa/nadie_sabe_nada" }
+    enlaces: { spotify: "https://open.spotify.com/show/1jXeGsr1X2gpss332C8cAw", apple: "https://podcasts.apple.com/es/podcast/nadie-sabe-nada/id665143133", web: "http://cadenaser.com/programa/nadie_sabe_nada" }
     descripcion:
       es: "El magacín de humor de la Cadena SER con Andreu Buenafuente y Berto Romero: una de las referencias del podcast en España."
       en: "The Cadena SER humor magazine with Andreu Buenafuente and Berto Romero, a landmark of Spanish podcasting."
@@ -306,7 +306,7 @@ reserva:
     titulo: "Estirando el chicle"
     autor: "Podium Podcast"
     generos: [cultura]
-    enlaces: { apple: "https://podcasts.apple.com/es/podcast/estirando-el-chicle/id1511396938", web: "https://www.podiumpodcast.com/estirando-el-chicle/" }
+    enlaces: { spotify: "https://open.spotify.com/show/6V1DDzXVZg6wFXFo0SanY2", apple: "https://podcasts.apple.com/es/podcast/estirando-el-chicle/id1511396938", web: "https://www.podiumpodcast.com/estirando-el-chicle/" }
     descripcion:
       es: "Conversación, humor y cultura popular con Carolina Iglesias y Henar Álvarez, de los podcasts más escuchados en español."
       en: "Conversation, humor and pop culture with Carolina Iglesias and Henar Álvarez, among the most listened-to podcasts in Spanish."
@@ -316,7 +316,7 @@ reserva:
     titulo: "Carne Cruda"
     autor: "La República Independiente"
     generos: [actualidad, cultura]
-    enlaces: { apple: "https://podcasts.apple.com/es/podcast/carne-cruda-programas/id925651075", web: "https://www.eldiario.es/carnecruda/" }
+    enlaces: { spotify: "https://open.spotify.com/show/56JLkQ1ijviWl0zsPQ6WJr", apple: "https://podcasts.apple.com/es/podcast/carne-cruda-programas/id925651075", web: "https://www.eldiario.es/carnecruda/" }
     descripcion:
       es: "Programa independiente de actualidad, cultura y entrevistas dirigido por Javier Gallego, con una larga trayectoria en radio y podcast."
       en: "An independent show of current affairs, culture and interviews led by Javier Gallego, with a long track record in radio and podcast."
@@ -326,7 +326,7 @@ reserva:
     titulo: "Hoy en EL PAÍS"
     autor: "EL PAÍS"
     generos: [actualidad]
-    enlaces: { apple: "https://podcasts.apple.com/es/podcast/hoy-en-el-pa%C3%ADs/id1376446768", web: "https://elpais.com/podcasts/hoy-en-el-pais/" }
+    enlaces: { spotify: "https://open.spotify.com/show/4n2SYRzAXUKDFccZ993ZEh", apple: "https://podcasts.apple.com/es/podcast/hoy-en-el-pa%C3%ADs/id1376446768", web: "https://elpais.com/podcasts/hoy-en-el-pais/" }
     descripcion:
       es: "El podcast diario de EL PAÍS: la noticia más importante del día explicada en pocos minutos."
       en: "EL PAÍS’s daily podcast: the day’s most important story explained in a few minutes."
@@ -336,7 +336,7 @@ reserva:
     titulo: "Memorias de Pez"
     autor: "Memorias de Pez"
     generos: [historia]
-    enlaces: { apple: "https://podcasts.apple.com/es/podcast/memorias-de-pez/id1511412240", web: "https://memoriasdepez.com" }
+    enlaces: { spotify: "https://open.spotify.com/show/654RfrgrNOgdLhqnETeeIE", apple: "https://podcasts.apple.com/es/podcast/memorias-de-pez/id1511412240", web: "https://memoriasdepez.com" }
     descripcion:
       es: "Historia narrada en formato largo, con humor y rigor, sobre personajes y episodios del pasado."
       en: "Long-form history told with humor and rigor, about figures and episodes from the past."
@@ -346,7 +346,7 @@ reserva:
     titulo: "El hilo"
     autor: "Radio Ambulante Studios"
     generos: [actualidad]
-    enlaces: { apple: "https://podcasts.apple.com/es/podcast/el-hilo/id1504713161", web: "https://elhilo.audio/" }
+    enlaces: { spotify: "https://open.spotify.com/show/3skDSKvB1twtAxgLh0645y", apple: "https://podcasts.apple.com/es/podcast/el-hilo/id1504713161", web: "https://elhilo.audio/" }
     descripcion:
       es: "Noticias de América Latina y del mundo en español: cada episodio sigue un hilo y lo explica con contexto."
       en: "News from Latin America and the world in Spanish: each episode follows one thread and explains it in context."
@@ -356,7 +356,7 @@ reserva:
     titulo: "BBVA Aprendemos juntos"
     autor: "BBVA Podcast"
     generos: [ciencia, cultura]
-    enlaces: { apple: "https://podcasts.apple.com/es/podcast/bbva-aprendemos-juntos/id1331478791", web: "https://www.bbva.com/es/especiales/bbva-podcast/" }
+    enlaces: { spotify: "https://open.spotify.com/show/07rXxtOlzNI0NuB8vpAgvE", apple: "https://podcasts.apple.com/es/podcast/bbva-aprendemos-juntos/id1331478791", web: "https://www.bbva.com/es/especiales/bbva-podcast/" }
     descripcion:
       es: "Conversaciones con científicos, escritores y pensadores sobre ciencia, cultura y bienestar."
       en: "Conversations with scientists, writers and thinkers about science, culture and wellbeing."
@@ -366,7 +366,7 @@ reserva:
     titulo: "Crims"
     autor: "Catalunya Ràdio"
     generos: [crimen]
-    enlaces: { apple: "https://podcasts.apple.com/es/podcast/crims/id1440040477", web: "https://www.3cat.cat/3cat/crims/" }
+    enlaces: { spotify: "https://open.spotify.com/show/3DcwEMyFnVftWBS0E0HXM1", apple: "https://podcasts.apple.com/es/podcast/crims/id1440040477", web: "https://www.3cat.cat/3cat/crims/" }
     descripcion:
       es: "Crónica negra en catalán: casos criminales reales contados con detalle por el programa de Catalunya Ràdio."
       en: "Catalan-language true crime: real criminal cases told in detail by Catalunya Ràdio’s program."
@@ -376,7 +376,7 @@ reserva:
     titulo: "Caso 63"
     autor: "Spotify Studios"
     generos: [cultura]
-    enlaces: { apple: "https://podcasts.apple.com/es/podcast/caso-63/id1801803563" }
+    enlaces: { spotify: "https://open.spotify.com/show/20ch3IIqtWSSM4nfy11ZzP", apple: "https://podcasts.apple.com/es/podcast/caso-63/id1801803563" }
     descripcion:
       es: "Serie de ficción sonora de ciencia ficción en español: una psiquiatra del futuro trata a una paciente que viene del pasado."
       en: "A Spanish-language sci-fi audio drama: a psychiatrist of the future treats a patient who comes from the past."
@@ -386,7 +386,7 @@ reserva:
     titulo: "This American Life"
     autor: "This American Life"
     generos: [cultura]
-    enlaces: { apple: "https://podcasts.apple.com/es/podcast/this-american-life/id201671138", web: "https://www.thisamericanlife.org" }
+    enlaces: { spotify: "https://open.spotify.com/show/41zWZdWCpVQrKj7ykQnXRc", apple: "https://podcasts.apple.com/es/podcast/this-american-life/id201671138", web: "https://www.thisamericanlife.org" }
     descripcion:
       es: "Cada semana, un tema y varias historias reales narradas por Ira Glass. Ganador del premio Pulitzer en periodismo de audio y de varios Peabody."
       en: "Each week, one theme and several true stories hosted by Ira Glass. Winner of a Pulitzer Prize for audio reporting and several Peabody Awards."
@@ -396,7 +396,7 @@ reserva:
     titulo: "Radiolab"
     autor: "WNYC Studios"
     generos: [ciencia]
-    enlaces: { apple: "https://podcasts.apple.com/es/podcast/radiolab/id152249110", web: "https://www.radiolab.org" }
+    enlaces: { spotify: "https://open.spotify.com/show/2hmkzUtix0qTqvtpPcMzEL", apple: "https://podcasts.apple.com/es/podcast/radiolab/id152249110", web: "https://www.radiolab.org" }
     descripcion:
       es: "Ciencia, filosofía y preguntas grandes con un diseño sonoro muy cuidado. Premiado con varios Peabody."
       en: "Science, philosophy and big questions with distinctive sound design. A multiple Peabody Award winner."
@@ -406,7 +406,7 @@ reserva:
     titulo: "99% Invisible"
     autor: "Roman Mars"
     generos: [cultura]
-    enlaces: { apple: "https://podcasts.apple.com/es/podcast/99-invisible/id394775318", web: "https://99percentinvisible.org" }
+    enlaces: { spotify: "https://open.spotify.com/show/2VRS1IJCTn2Nlkg33ZVfkM", apple: "https://podcasts.apple.com/es/podcast/99-invisible/id394775318", web: "https://99percentinvisible.org" }
     descripcion:
       es: "Los detalles ocultos de la arquitectura y el diseño que dan forma al mundo cotidiano."
       en: "The hidden details of architecture and design that shape everyday life."
@@ -416,7 +416,7 @@ reserva:
     titulo: "Dan Carlin’s Hardcore History"
     autor: "Dan Carlin"
     generos: [historia]
-    enlaces: { apple: "https://podcasts.apple.com/es/podcast/dan-carlins-hardcore-history/id173001861", web: "https://www.dancarlin.com" }
+    enlaces: { spotify: "https://open.spotify.com/show/72qiPaoDRf8HkGKEChvG5q", apple: "https://podcasts.apple.com/es/podcast/dan-carlins-hardcore-history/id173001861", web: "https://www.dancarlin.com" }
     descripcion:
       es: "Episodios larguísimos y casi teatrales sobre grandes momentos de la historia: referencia mundial del podcast histórico."
       en: "Very long, almost theatrical episodes on great moments in history, a worldwide benchmark of history podcasting."
@@ -426,7 +426,7 @@ reserva:
     titulo: "In Our Time"
     autor: "BBC Radio 4"
     generos: [historia, ciencia]
-    enlaces: { apple: "https://podcasts.apple.com/es/podcast/in-our-time/id73330895", web: "https://www.bbc.co.uk/programmes/b006qykl" }
+    enlaces: { spotify: "https://open.spotify.com/show/17YfG23eMbfLBaDPqucgzZ", apple: "https://podcasts.apple.com/es/podcast/in-our-time/id73330895", web: "https://www.bbc.co.uk/programmes/b006qykl" }
     descripcion:
       es: "Debate de especialistas sobre historia, ciencia, filosofía y cultura, emitido por BBC Radio 4 desde 1998."
       en: "Expert discussion of history, science, philosophy and culture, broadcast on BBC Radio 4 since 1998."
@@ -436,7 +436,7 @@ reserva:
     titulo: "Freakonomics Radio"
     autor: "Stephen J. Dubner"
     generos: [negocios, ciencia]
-    enlaces: { apple: "https://podcasts.apple.com/es/podcast/freakonomics-radio/id354668519", web: "https://freakonomics.com" }
+    enlaces: { spotify: "https://open.spotify.com/show/6z4NLXyHPga1UmSJsPK7G1", apple: "https://podcasts.apple.com/es/podcast/freakonomics-radio/id354668519", web: "https://freakonomics.com" }
     descripcion:
       es: "Economía y ciencias del comportamiento aplicadas a la vida real, del equipo del bestseller Freakonomics."
       en: "Economics and behavioral science applied to real life, from the team behind the bestseller Freakonomics."
@@ -446,7 +446,7 @@ reserva:
     titulo: "Serial"
     autor: "Serial Productions"
     generos: [crimen]
-    enlaces: { apple: "https://podcasts.apple.com/es/podcast/serial/id917918570", web: "https://serialpodcast.org" }
+    enlaces: { spotify: "https://open.spotify.com/show/5wMPFS9B5V7gg6hZ3UZ7hf", apple: "https://podcasts.apple.com/es/podcast/serial/id917918570", web: "https://serialpodcast.org" }
     descripcion:
       es: "La temporada que convirtió el true crime en fenómeno mundial y primer podcast en ganar un premio Peabody."
       en: "The season that made true crime a global phenomenon, and the first podcast to win a Peabody Award."
