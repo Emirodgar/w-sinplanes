@@ -1341,3 +1341,43 @@ curiosidades:
         - "O Nikon Small World premeia há 52 anos imagens captadas com o microscópio ótico. Os vencedores da edição de 2026 já são conhecidos: o primeiro lugar vai para Ole Bielfeldt, com uma fotografia de gotas de tinta suspensas enquanto uma impressora trabalha."
         - "O concurso está aberto a qualquer pessoa interessada em fotomicrografia, uma modalidade que mostra a beleza e a complexidade da vida e do mundo a uma escala que o olho não alcança."
         - "No site pode percorrer a fotogaleria com todas as imagens premiadas este ano. E se preferir o movimento, existe também o concurso de vídeo, Small World in Motion."
+
+  - id: nyt-dickinson-poema
+    titulo:
+      es: "Un poema de Emily Dickinson, en experiencia visual"
+      en: "An Emily Dickinson poem as a visual experience"
+      fr: "Un poème d’Emily Dickinson en expérience visuelle"
+      de: "Ein Gedicht von Emily Dickinson als visuelles Erlebnis"
+      it: "Una poesia di Emily Dickinson come esperienza visiva"
+      pt: "Um poema de Emily Dickinson em experiência visual"
+    fuente: The New York Times
+    enlace: https://www.nytimes.com/interactive/2026/10/21/books/emily-dickinson-poem-i-dwell-in-possibility.html
+    imagen: nyt-dickinson-poema.jpg
+    imagen_alt: { es: "Retrato en daguerrotipo de Emily Dickinson de joven, sentada con un pequeño ramo de flores en las manos", en: "Daguerreotype portrait of a young Emily Dickinson, seated with a small bunch of flowers in her hands" }
+    credito: "Imagen: daguerrotipo de Emily Dickinson (h. 1847) / Wikimedia Commons (dominio público)"
+    descripcion:
+      es: "Un reportaje interactivo del New York Times, de consulta gratuita, que convierte en experiencia visual «I dwell in Possibility»: un poema de Emily Dickinson de apenas 50 palabras con posibilidades infinitas."
+      en: "A free-to-read interactive from The New York Times that turns “I dwell in Possibility” into a visual experience: an Emily Dickinson poem of barely 50 words holding endless possibilities."
+      fr: "Un reportage interactif du New York Times, en accès libre, qui transforme « I dwell in Possibility » en expérience visuelle : un poème d’Emily Dickinson de 50 mots à peine, aux possibilités infinies."
+      de: "Eine frei zugängliche interaktive Reportage der New York Times, die „I dwell in Possibility“ in ein visuelles Erlebnis verwandelt: ein Gedicht von Emily Dickinson mit kaum 50 Wörtern und unendlichen Möglichkeiten."
+      it: "Un reportage interattivo del New York Times, di libera consultazione, che trasforma «I dwell in Possibility» in un’esperienza visiva: una poesia di Emily Dickinson di appena 50 parole dalle possibilità infinite."
+      pt: "Uma reportagem interativa do New York Times, de consulta gratuita, que transforma «I dwell in Possibility» numa experiência visual: um poema de Emily Dickinson com apenas 50 palavras e possibilidades infinitas."
+    detalle:
+      es:
+        - "El New York Times propone una experiencia visual en torno a «I dwell in Possibility», un poema de Emily Dickinson. Con apenas 50 palabras, la autora consigue encerrar posibilidades sin fin."
+        - "La pieza se puede consultar gratis y es una buena excusa para releer despacio un poema breve, fijándose en cada palabra."
+      en:
+        - "The New York Times offers a visual experience built around “I dwell in Possibility”, a poem by Emily Dickinson. In barely 50 words, she manages to hold endless possibilities."
+        - "The piece is free to read, and a good excuse to reread a short poem slowly, paying attention to every word."
+      fr:
+        - "Le New York Times propose une expérience visuelle autour de « I dwell in Possibility », un poème d’Emily Dickinson. En à peine 50 mots, elle parvient à contenir des possibilités sans fin."
+        - "L’article est en accès libre et constitue un bon prétexte pour relire lentement un poème bref, en s’attardant sur chaque mot."
+      de:
+        - "Die New York Times bietet ein visuelles Erlebnis rund um „I dwell in Possibility“, ein Gedicht von Emily Dickinson. Mit kaum 50 Wörtern gelingt es ihr, endlose Möglichkeiten einzufangen."
+        - "Der Beitrag ist kostenlos lesbar und ein guter Anlass, ein kurzes Gedicht langsam und Wort für Wort noch einmal zu lesen."
+      it:
+        - "Il New York Times propone un’esperienza visiva intorno a «I dwell in Possibility», una poesia di Emily Dickinson. In appena 50 parole riesce a racchiudere possibilità infinite."
+        - "L’articolo è di libera consultazione ed è una buona scusa per rileggere lentamente una poesia breve, soffermandosi su ogni parola."
+      pt:
+        - "O New York Times propõe uma experiência visual em torno de «I dwell in Possibility», um poema de Emily Dickinson. Com apenas 50 palavras, a autora consegue encerrar possibilidades sem fim."
+        - "A peça pode ser consultada gratuitamente e é uma boa desculpa para reler devagar um poema breve, atentando em cada palavra."
