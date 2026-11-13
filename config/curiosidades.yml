@@ -1519,3 +1519,55 @@ curiosidades:
         - "«Visions of America» é um especial multimédia ilustrado da The New York Times Magazine, a revista dominical do jornal, por ocasião do 250.º aniversário dos Estados Unidos."
         - "Sete historiadores de destaque contam sete histórias pouco conhecidas de figuras da época fundacional do país."
         - "Cada história é oferecida de duas formas: em imagens, com as ilustrações de Tim McDonagh por onde se avança fazendo scroll, e em texto."
+
+  - id: bbc-springwatch
+    titulo:
+      es: "Springwatch: la naturaleza británica en directo"
+      en: "Springwatch: British wildlife, live"
+      fr: "Springwatch : la nature britannique en direct"
+      de: "Springwatch: die britische Natur live"
+      it: "Springwatch: la natura britannica in diretta"
+      pt: "Springwatch: a natureza britânica em direto"
+    fuente: BBC
+    enlace: https://www.bbc.co.uk/programmes/b007qgm3
+    imagen: springwatch.jpg
+    imagen_alt: { es: "Un puente blanco sobre las aguas y los juncales de Crom, en Irlanda del Norte, con bosque al fondo", en: "A white bridge over the waters and reed beds of Crom, Northern Ireland, with woodland behind" }
+    credito: "Imagen: Andreas F. Borchert / Wikimedia Commons (CC BY-SA 4.0)"
+    descripcion:
+      es: "Cada primavera, la BBC dedica a la vida salvaje de las islas británicas una serie con cámaras ocultas en directo, documentales y participación ciudadana."
+      en: "Every spring, the BBC devotes a series to the wildlife of the British Isles, with live hidden cameras, documentaries and public participation."
+      fr: "Chaque printemps, la BBC consacre une série à la faune des îles Britanniques, avec des caméras cachées en direct, des documentaires et la participation du public."
+      de: "Jeden Frühling widmet die BBC der Tierwelt der Britischen Inseln eine Sendereihe mit Live-Kameras, Dokumentationen und Beteiligung des Publikums."
+      it: "Ogni primavera la BBC dedica alla fauna delle isole britanniche una serie con telecamere nascoste in diretta, documentari e partecipazione del pubblico."
+      pt: "Todas as primaveras, a BBC dedica à vida selvagem das ilhas britânicas uma série com câmaras ocultas em direto, documentários e participação do público."
+    detalle:
+      es:
+        - "Springwatch es la popular serie con la que la BBC cubre, cada primavera y con todo detalle, la naturaleza y la vida salvaje de las islas británicas. Combina la emisión en directo de cámaras ocultas con documentales y participación ciudadana."
+        - "En la edición de 2026, que se emitió del 25 de mayo al 11 de junio, las cámaras estaban en Crom, una de las principales áreas de conservación natural de Irlanda del Norte. En su web se podían ver, y escuchar, cámaras en directo desde la mañana hasta la noche."
+        - "Había dos formas de seguirlas. El reproductor «In focus» mostraba una cámara y las iba cambiando a lo largo del día; «Multicam» ofrecía cuatro a la vez, también en rotación."
+        - "Las cámaras en directo solo funcionan durante la temporada, pero la página del programa permite explorar la serie y estar atento a la próxima edición."
+      en:
+        - "Springwatch is the popular series in which the BBC covers the nature and wildlife of the British Isles in detail every spring. It combines live broadcasts from hidden cameras with documentaries and public participation."
+        - "The 2026 edition, which ran from 25 May to 11 June, had its cameras at Crom, one of Northern Ireland’s main nature conservation areas. On its website you could watch, and hear, live cameras from morning to night."
+        - "There were two ways to follow them. The “In focus” player showed one camera and switched between them through the day; “Multicam” offered four at once, also rotating."
+        - "The live cameras only run during the season, but the programme page lets you explore the series and look out for the next edition."
+      fr:
+        - "Springwatch est la série populaire par laquelle la BBC couvre en détail, chaque printemps, la nature et la faune des îles Britanniques. Elle associe la diffusion en direct de caméras cachées, des documentaires et la participation du public."
+        - "Lors de l’édition 2026, diffusée du 25 mai au 11 juin, les caméras se trouvaient à Crom, l’une des principales zones de conservation de la nature d’Irlande du Nord. Sur son site, on pouvait voir et entendre des caméras en direct du matin au soir."
+        - "Deux façons de les suivre : le lecteur « In focus » montrait une caméra et changeait de caméra au fil de la journée ; « Multicam » en proposait quatre à la fois, également en rotation."
+        - "Les caméras en direct ne fonctionnent que pendant la saison, mais la page du programme permet d’explorer la série et de guetter la prochaine édition."
+      de:
+        - "Springwatch ist die beliebte Sendereihe, mit der die BBC jedes Frühjahr ausführlich über die Natur und Tierwelt der Britischen Inseln berichtet. Sie verbindet Live-Übertragungen versteckter Kameras mit Dokumentationen und Beteiligung des Publikums."
+        - "In der Ausgabe 2026, die vom 25. Mai bis 11. Juni lief, standen die Kameras in Crom, einem der wichtigsten Naturschutzgebiete Nordirlands. Auf der Website konnte man von morgens bis abends Live-Kameras sehen und hören."
+        - "Es gab zwei Möglichkeiten, sie zu verfolgen: Der Player „In focus“ zeigte eine Kamera und wechselte im Lauf des Tages; „Multicam“ bot vier gleichzeitig, ebenfalls im Wechsel."
+        - "Die Live-Kameras laufen nur während der Saison, aber auf der Sendungsseite kann man die Reihe erkunden und auf die nächste Ausgabe warten."
+      it:
+        - "Springwatch è la popolare serie con cui la BBC racconta in dettaglio, ogni primavera, la natura e la fauna delle isole britanniche. Unisce la trasmissione in diretta di telecamere nascoste a documentari e partecipazione del pubblico."
+        - "Nell’edizione 2026, andata in onda dal 25 maggio all’11 giugno, le telecamere erano a Crom, una delle principali aree di conservazione naturale dell’Irlanda del Nord. Sul sito si potevano vedere e ascoltare telecamere in diretta dalla mattina alla sera."
+        - "C’erano due modi per seguirle: il lettore «In focus» mostrava una telecamera e le alternava nel corso della giornata; «Multicam» ne offriva quattro insieme, anch’esse a rotazione."
+        - "Le telecamere in diretta funzionano solo durante la stagione, ma la pagina del programma permette di esplorare la serie e aspettare la prossima edizione."
+      pt:
+        - "O Springwatch é a popular série com que a BBC cobre, todas as primaveras e com todo o pormenor, a natureza e a vida selvagem das ilhas britânicas. Combina a emissão em direto de câmaras ocultas com documentários e participação do público."
+        - "Na edição de 2026, emitida de 25 de maio a 11 de junho, as câmaras estavam em Crom, uma das principais áreas de conservação da natureza da Irlanda do Norte. No site era possível ver, e ouvir, câmaras em direto da manhã à noite."
+        - "Havia duas formas de as seguir: o leitor «In focus» mostrava uma câmara e ia mudando ao longo do dia; o «Multicam» oferecia quatro em simultâneo, também em rotação."
+        - "As câmaras em direto só funcionam durante a temporada, mas a página do programa permite explorar a série e ficar atento à próxima edição."
