@@ -1572,6 +1572,61 @@ citas:
             r: "Sí, la organización ha previsto un recorrido accesible y el acto final tendrá interpretación en lengua de signos."
           - p: "¿Es buen plan con niños?"
             r: "Sí, es una jornada pensada para familias y grupos de amigos, con música y animación a lo largo del recorrido."
+  - id: salamanca-encantada-navidad
+    regla: { tipo: fija, inicio: "11-26", fin: "01-06" }
+    aprox: true
+    temas: [navidad]
+    lugar: { provincia: "Salamanca", municipio: "Salamanca" }
+    fuente: "https://www.tribunasalamanca.com/noticias/466148/nenufares-gigantes-flamencos-y-ranas-para-decorar-el-entorno-de-la-catedral-de-salamanca-en-navidad"
+    es: { titulo: "Salamanca encantada: la Navidad junto a la Catedral", resumen: "Estanque tropical con nenúfares gigantes y flamencos en la Plaza de los Leones y 350 metros de recorrido de luces hasta los Jardines de Santo Domingo. Se estrena el 26 de noviembre de 2026." }
+    en: { titulo: "Salamanca encantada: Christmas by the Cathedral", resumen: "A tropical pond with giant water lilies and flamingos in the Plaza de los Leones and a 350-metre light trail to the Santo Domingo Gardens. It opens on 26 November 2026." }
+    relacionados: [luces-navidad, encendido-luces, catedrales-salamanca, salamanca-un-dia, mercadillos-navidad]
+    contenido:
+      es:
+        texto:
+          - "«Salamanca encantada» es el nombre de la experiencia de iluminación y ambientación navideña al aire libre que lucirá la ciudad durante las próximas semanas. Según la Fundación Salamanca Ciudad de Cultura, es una decoración «totalmente diferente al repertorio tradicional» y se estrena el 26 de noviembre de 2026. Une la Plaza de los Leones, junto a la Catedral, y los Jardines de Santo Domingo, como dos actos de un mismo relato, con un recorrido peatonal de unos 350 metros."
+          - "El conjunto principal de la Plaza de los Leones es un estanque tropical: nenúfares de hasta 1,60 metros, flores de loto, flamencos y ranas que emergen de una pradera al pie de una catedral gótica. En los Jardines de Santo Domingo, desde donde se tiene una de las mejores vistas de la ciudad, un sistema de sonido reproducirá villancicos y música navideña."
+          - "En total se colocan 62 piezas decorativas: 52 estructuras de alambre vestidas en raso, acabadas a mano e iluminadas con LED, y diez piezas de acero con manguera de luz. La luz de colores se reserva para la vegetación y las piezas, mientras que la piedra de Villamayor se ilumina en blanco cálido de baja intensidad, para que la decoración se apoye en el monumento y no compita con él. Según la prensa local, la intervención cuesta 283.000 euros más impuestos."
+          - "Al ser decoración en la calle, lo más cómodo es ir a pie, de noche y, si puedes, entre semana para evitar aglomeraciones. La fecha de fin y los detalles del encendido los anuncian la Fundación y el Ayuntamiento, así que conviene consultar sus canales oficiales antes de ir. Por cercanía, se combina bien con las Catedrales y con un paseo por el casco histórico."
+        faq:
+          - p: "¿Cuándo empieza «Salamanca encantada»?"
+            r: "El 26 de noviembre de 2026. La fecha de fin no se ha concretado: la prensa habla de «las próximas semanas», así que consulta los canales oficiales."
+          - p: "¿Dónde está la decoración?"
+            r: "En la Plaza de los Leones, junto a la Catedral, y en los Jardines de Santo Domingo, unidos por un recorrido peatonal de unos 350 metros."
+          - p: "¿Qué se verá en la Plaza de los Leones?"
+            r: "Un estanque tropical con nenúfares de hasta 1,60 metros, flores de loto, flamencos y ranas, frente a la Catedral."
+          - p: "¿Cuántas piezas decorativas hay?"
+            r: "62: 52 estructuras de alambre vestidas en raso e iluminadas con LED y diez piezas de acero con manguera de luz."
+          - p: "¿Cuánto cuesta la decoración?"
+            r: "Según la prensa local, 283.000 euros más impuestos. La noticia no menciona precio de entrada para verla; confirma en los canales oficiales."
+          - p: "¿Es buen plan con niños?"
+            r: "Sí, es muy visual, con animales gigantes iluminados y villancicos. Ten cuidado con las aglomeraciones y acuerda un punto de encuentro por si os separáis."
+  - id: salamanca-con-voz-de-mujer
+    regla: { tipo: fija, inicio: "11-26", fin: "12-21" }
+    aprox: true
+    temas: [cultura]
+    lugar: { provincia: "Salamanca", municipio: "Salamanca" }
+    fuente: "https://salamancaymas.es/con-voz-de-mujer/"
+    es: { titulo: "Salamanca con voz de mujer: visitas guiadas gratuitas", resumen: "Recorridos guiados gratuitos por el centro histórico de Salamanca desde la Plaza Mayor. Fechas: 26 y 27 de noviembre, 1, 2, 17, 18 y 21 de diciembre, a las 16:30." }
+    en: { titulo: "Salamanca con voz de mujer: free guided tours", resumen: "Free guided walks through Salamanca's historic centre from the Plaza Mayor, on 26 and 27 November and 1, 2, 17, 18 and 21 December at 16:30." }
+    relacionados: [plaza-mayor-salamanca, llaves-de-la-ciudad-salamanca, salamanca-un-dia]
+    contenido:
+      es:
+        texto:
+          - "«Salamanca con voz de mujer» es una serie de visitas guiadas gratuitas por el exterior y el centro histórico de la ciudad. Las próximas salidas son el 26 y el 27 de noviembre, y el 1, 2, 17, 18 y 21 de diciembre."
+          - "Todas empiezan a las 16:30 y el punto de encuentro es la Plaza Mayor, bajo el reloj. Cada recorrido dura entre una hora y media y dos horas, y el aforo es de 30 personas."
+          - "Las invitaciones se obtienen a través de la web del programa (salamancaymas.es/con-voz-de-mujer). Como las plazas son limitadas, conviene pedirlas con antelación y confirmar en la web oficial las condiciones de cada fecha."
+        faq:
+          - p: "¿Cuándo son las visitas de «Salamanca con voz de mujer»?"
+            r: "El 26 y 27 de noviembre, y el 1, 2, 17, 18 y 21 de diciembre de 2026, a las 16:30."
+          - p: "¿Dónde es el punto de encuentro?"
+            r: "En la Plaza Mayor de Salamanca, bajo el reloj."
+          - p: "¿Es gratis?"
+            r: "Sí, la prensa local las presenta como visitas guiadas gratuitas, pero hay que conseguir invitación a través de la web del programa."
+          - p: "¿Cuánto dura y cuánta gente cabe?"
+            r: "Entre una hora y media y dos horas, con un aforo de 30 personas."
+          - p: "¿Cómo consigo la invitación?"
+            r: "En salamancaymas.es/con-voz-de-mujer. Confirma allí cómo y cuándo se abren las plazas de cada fecha."
   - id: semana-santa-caceres
     regla: { tipo: pascua, desde: -7, hasta: 0 }
     temas: [fiestas, cultura]
