@@ -6406,34 +6406,6 @@
   "a_cubierto": true,
   "confianza": 0.9
  },
- "d0de9f0bb2": {
-  "url": "https://elpais.com/cultura/2026-10-29/el-regreso-de-c-tangana-a-la-musica-con-el-grupo-de-rap-que-lo-cambio-todo-y-al-que-tildaron-de-pijo.html",
-  "fuente": "El País (Cultura)",
-  "src": "prensa-elpais-cultura",
-  "publicado": "2026-10-29",
-  "es_plan": false
- },
- "08251705c1": {
-  "url": "https://elpais.com/cultura/2026-10-29/el-misterio-del-trozo-de-piedra-que-resulto-ser-una-diosa-romana.html",
-  "fuente": "El País (Cultura)",
-  "src": "prensa-elpais-cultura",
-  "publicado": "2026-10-29",
-  "es_plan": false
- },
- "dc0a64ef90": {
-  "url": "https://elpais.com/cultura/2026-10-29/daniel-mordzinski-fotografo-me-ilusiona-creer-que-mis-fotografias-contribuyen-a-ensanchar-la-complicidad-lectora.html",
-  "fuente": "El País (Cultura)",
-  "src": "prensa-elpais-cultura",
-  "publicado": "2026-10-29",
-  "es_plan": false
- },
- "704e1e2692": {
-  "url": "https://www.lavanguardia.com/cultura/20261029/11670938/homenaje-pau-casals-cant-dels-ocells-victimas-accidente-auditorio-nacional.html",
-  "fuente": "La Vanguardia (Cultura)",
-  "src": "prensa-lavanguardia-cultura",
-  "publicado": "2026-10-29",
-  "es_plan": false
- },
  "e1021ed632": {
   "url": "https://www.lavanguardia.com/cultura/20261029/11670571/na-hong-jin-queria-llevar-accion-limite.html",
   "fuente": "La Vanguardia (Cultura)",
@@ -6461,48 +6433,6 @@
   ],
   "a_cubierto": true,
   "confianza": 0.7
- },
- "67cc5a35f2": {
-  "url": "https://www.ara.cat/cultura/angels-gonyalons-posa-veu-dones-maltractades-victor-catala_1_5893766.html",
-  "fuente": "Ara (Cultura)",
-  "src": "prensa-ara-cultura",
-  "publicado": "2026-10-29",
-  "es_plan": false
- },
- "52d4fd79a9": {
-  "url": "https://www.ara.cat/gent/hollywood/doc-retorn-futur-l-actor-christopher-lloyd-confessa-seva-addiccio-cocaina_1_5893619.html",
-  "fuente": "Ara (Cultura)",
-  "src": "prensa-ara-cultura",
-  "publicado": "2026-10-29",
-  "es_plan": false
- },
- "60ab44fa47": {
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/29/leire-martinez-sale-defensa-amaia-montero-criticas-concierto-zaragoza-fiestas-pilar-terriblemente-doloroso-2063062.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-10-29",
-  "es_plan": false
- },
- "e1ab4f1e2a": {
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/29/eres-capaz-reconocer-todos-los-jugadores-casademont-2063372.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-10-29",
-  "es_plan": false
- },
- "91b45366e4": {
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/29/rafa-mora-43anos-propietario-9pisos-primero-compramos-80000euros-alquilado-900-2063164.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-10-29",
-  "es_plan": false
- },
- "33b9b8c420": {
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/29/maximo-huerta-55anos-pregunto-acuerde-limpiar-lapida-nombre-2063917.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-10-29",
-  "es_plan": false
  },
  "1c6e71e8d0": {
   "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/29/pancho-varona-giras-joaquin-sabina-jactaba-persona-escenario-admiraba-serrat-2063915.html",
@@ -6561,13 +6491,6 @@
   "a_cubierto": true,
   "confianza": 0.85
  },
- "52fe98e38a": {
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/29/eco-bunuel-mexico-inspira-un-nuevo-documental-jose-angel-guimera-2063808.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-10-29",
-  "es_plan": false
- },
  "1b4659de3c": {
   "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/29/borja-ecce-homo-se-vivio-como-una-vergueenza-yo-creo-que-es-motivo-orgullo-2063762.html",
   "fuente": "Heraldo de Aragón (Ocio y cultura)",
@@ -6596,13 +6519,6 @@
   ],
   "a_cubierto": true,
   "confianza": 0.85
- },
- "60da3cc143": {
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/29/aitana-rechaza-especular-vivienda-propiedades-unicamente-uso-personal-2063758.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-10-29",
-  "es_plan": false
  },
  "8a1a40f1d3": {
   "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/29/estos-son-los-6-conciertos-bombo-platillo-para-otono-zaragoza-una-invitacion-descubrir-traves-desprejuicio-2063674.html",
@@ -6686,13 +6602,6 @@
   ],
   "a_cubierto": null,
   "confianza": 0.9
- },
- "a7c67e2860": {
-  "url": "https://www.elnortedecastilla.es/culturas/musica/siempre-busco-estado-gracia-escenario-droga-siempre-20261025001038-ntrc.html",
-  "fuente": "El Norte de Castilla (Culturas)",
-  "src": "prensa-nortecastilla-culturas",
-  "publicado": "2026-10-29",
-  "es_plan": false
  },
  "df362f1774": {
   "url": "https://www.elnortedecastilla.es/culturas/tv/megan-montaner-puedo-permitirme-decir-proyecto-conciliar-20261029001011-ntrc.html",
@@ -6806,20 +6715,6 @@
   "a_cubierto": true,
   "confianza": 0.85
  },
- "35a17b961d": {
-  "url": "https://www.lasprovincias.es/culturas/tv/confirmado-crunchyroll-pone-fecha-estreno-tercera-temporada-20261028160512-nt.html",
-  "fuente": "Las Provincias (Culturas)",
-  "src": "prensa-lasprovincias-culturas",
-  "publicado": "2026-10-29",
-  "es_plan": false
- },
- "d701e83066": {
-  "url": "https://www.lasprovincias.es/culturas/musica/ocho-meses-infructuosos-busqueda-festivalodromo-alternativo-ciudad-20261027004039-nt.html",
-  "fuente": "Las Provincias (Culturas)",
-  "src": "prensa-lasprovincias-culturas",
-  "publicado": "2026-10-29",
-  "es_plan": false
- },
  "d3d9b3728f": {
   "url": "https://www.lasprovincias.es/culturas/tv/tve-emite-jueves-hora-bruja-concha-velasco-20261028003656-nt.html",
   "fuente": "Las Provincias (Culturas)",
@@ -6847,20 +6742,6 @@
   ],
   "a_cubierto": true,
   "confianza": 0.9
- },
- "3cc3407166": {
-  "url": "https://www.eldiariomontanes.es/culturas/jose-cobo-mira-goya-ojos-20261029182503-nt.html",
-  "fuente": "El Diario Montañés (Culturas)",
-  "src": "prensa-diariomontanes-culturas",
-  "publicado": "2026-10-29",
-  "es_plan": false
- },
- "d84db813e5": {
-  "url": "https://www.larioja.com/culturas/logrono-bailando-azcona-20261028090446-nt.html",
-  "fuente": "La Rioja (Culturas)",
-  "src": "prensa-larioja-culturas",
-  "publicado": "2026-10-29",
-  "es_plan": false
  },
  "7d0e9f5f29": {
   "url": "https://www.larioja.com/culturas/maleta-alex-rodado-calahorra-estrenara-cines-noviembre-20261028090724-nt.html",
@@ -8353,27 +8234,6 @@
   "a_cubierto": null,
   "confianza": 0.9
  },
- "df83c4f5ca": {
-  "url": "https://www.20minutos.es/cultura/prado-thyssen-otros-grandes-museos-cancelan-sus-actividades-hasta-2-noviembre-senal-duelo-por-urda_7055105_0.html",
-  "fuente": "20minutos (Cultura)",
-  "src": "prensa-20minutos-cultura",
-  "publicado": "2026-10-29",
-  "es_plan": false
- },
- "2b3d8eb73a": {
-  "url": "https://www.20minutos.es/musica/luz-casal-macarra-para-mi-es-actitud-que-dice-las-cosas-sin-intentar-ponerle-parches_7055090_0.html",
-  "fuente": "20minutos (Cultura)",
-  "src": "prensa-20minutos-cultura",
-  "publicado": "2026-10-29",
-  "es_plan": false
- },
- "5a3f78b177": {
-  "url": "https://www.20minutos.es/musica/luz-casal-rozalen-arde-bogota-maria-jose-llergo-premios-aupa-congreso-bime_7055040_0.html",
-  "fuente": "20minutos (Cultura)",
-  "src": "prensa-20minutos-cultura",
-  "publicado": "2026-10-29",
-  "es_plan": false
- },
  "0a9d432a67": {
   "url": "https://www.20minutos.es/artes/descubre-universo-freudiano-dali-thyssen-junto-hugaceo-crujiente-quizas-que-nos-caiga-mal-nos-hace-entender-su-obra_7054919_0.html",
   "fuente": "20minutos (Cultura)",
@@ -8402,13 +8262,6 @@
   ],
   "a_cubierto": null,
   "confianza": 0.9
- },
- "6c65f31752": {
-  "url": "https://www.20minutos.es/musica/ana-mena-se-sincera-sobre-su-momento-personal-no-estoy-mi-mejor-ano-pero-me-ayuda-musica_7054978_0.html",
-  "fuente": "20minutos (Cultura)",
-  "src": "prensa-20minutos-cultura",
-  "publicado": "2026-10-29",
-  "es_plan": false
  },
  "bccfb5e49a": {
   "url": "https://elpais.com/cultura/2026-10-31/michel-houellebecq-escritor-es-agotador-que-te-llamen-escritor-facha-pero-uno-termina-por-resignarse.html",

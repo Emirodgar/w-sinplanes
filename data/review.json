@@ -30,16 +30,6 @@
   "url": "https://www.diariovasco.com/culturas/musica/nogen-anuncia-dejan-simplemente-no-podemos-seguir-20261020161236-nt.html"
  },
  {
-  "id": "490133fbf3",
-  "titulo": "Latin Grammy 2026 en Las Vegas",
-  "inicio": "2026-11-12",
-  "municipio": "Las Vegas",
-  "provincia": null,
-  "confianza": 0.5,
-  "fuente": "20minutos (Cultura)",
-  "url": "https://www.20minutos.es/musica/rosalia-daddy-yankee-entre-los-artistas-que-actuaran-los-latin-grammy-2026_7051210_0.html"
- },
- {
   "id": "27e6dbfe18",
   "titulo": "Ojete Calor en Sala Mamba (Murcia)",
   "inicio": "2026-12-26",
@@ -70,26 +60,6 @@
   "url": "https://www.ara.cat/cultura/10a-edicio-festival-rbls-teatre-jove-aborda-salut-mental-memoria-historica_25_5895009.html"
  },
  {
-  "id": "1c9426b63f",
-  "titulo": "Àngels Gonyalons recita poesía religiosa de Joan Maragall en Girona y Vic",
-  "inicio": "2026-11-03",
-  "municipio": null,
-  "provincia": null,
-  "confianza": 0.5,
-  "fuente": "La Vanguardia (Cultura)",
-  "url": "https://www.lavanguardia.com/local/girona/20261102/11674167/actriz-angels-gonyalons-pondra-voz-poesia-religiosa-joan-maragall.html"
- },
- {
-  "id": "ee1c4f4d4b",
-  "titulo": "Exposición fotográfica de José Ramón Cuervo-Arango en Roma",
-  "inicio": "2026-11-12",
-  "municipio": "Roma",
-  "provincia": null,
-  "confianza": 0.5,
-  "fuente": "El Comercio (Culturas)",
-  "url": "https://www.elcomercio.es/culturas/arte/jose-ramon-cuervoarango-llega-instituto-cervantes-roma-20261104081016-nt.html"
- },
- {
   "id": "760ec04160",
   "titulo": "Cantoría: Primera gira por Latinoamérica",
   "inicio": "2026-11-13",
@@ -118,16 +88,6 @@
   "confianza": 0.5,
   "fuente": "La Verdad (Culturas)",
   "url": "https://www.laverdad.es/culturas/zorroclocos-lobos-regresa-sabado-cocheras-biblioteca-regional-20261111131645-nt.html"
- },
- {
-  "id": "50035a60a3",
-  "titulo": "Festival Distopía: tres proyecciones y mesa redonda medioambiental",
-  "inicio": "2026-11-12",
-  "municipio": null,
-  "provincia": "Región de Murcia",
-  "confianza": 0.5,
-  "fuente": "La Verdad (Culturas)",
-  "url": "https://www.laverdad.es/culturas/festival-distopia-arranca-jueves-tres-proyecciones-20261112131532-nt.html"
  },
  {
   "id": "872447bb61",
