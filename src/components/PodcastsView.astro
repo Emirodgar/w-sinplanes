@@ -8,7 +8,9 @@ import { weekLabel, listenLinks } from '../lib/podcasts.js';
 
 const { lang, route } = Astro.props;
 const L = t[lang];
-const list = podcasts.historico;
+// Primero lo ya recomendado (lo más reciente arriba) y después el resto de la lista, que aún no ha tocado en la rotación.
+const seen = new Set(podcasts.historico.map((p) => p.id));
+const list = [...podcasts.historico, ...podcasts.todos.filter((p) => !seen.has(p.id))];
 const label = (g) => pickText(podcasts.generos[g], lang).text;
 // solo temáticas con algún podcast, en el orden del fichero
 const genres = Object.keys(podcasts.generos).filter((g) => list.some((p) => p.generos?.includes(g)));
@@ -48,7 +50,7 @@ const jsonld = {
             <li class="book-card podcast-card" data-genres={(p.generos || []).join(' ')} data-q={norm(`${p.titulo} ${p.autor || ''} ${p.episodio?.titulo || ''} ${gl.join(' ')} ${why?.text || ''}`)}>
               <PodcastCover podcast={p} />
               <div class="book-card-body">
-                <p class="book-eyebrow" lang={why ? why.lang : undefined}>{why?.text || weekLabel(L, lang, p.semana)}</p>
+                <p class="book-eyebrow" lang={why ? why.lang : undefined}>{why?.text || (p.semana ? weekLabel(L, lang, p.semana) : '')}</p>
                 <h2 class="book-title">{p.titulo}</h2>
                 {p.autor && <p class="book-author">{p.autor}</p>}
                 {desc.text && <p class="book-synopsis" lang={desc.lang !== lang ? desc.lang : undefined}>{desc.text}</p>}
