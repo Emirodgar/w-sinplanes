@@ -1427,3 +1427,95 @@ curiosidades:
         - "«Hunting Red Leaves With Satellites» parte do momijigari japonês, a tradição de sair para admirar as folhas vermelhas do outono, e leva-a para o espaço: os cientistas medem quanto vermelho, laranja e amarelo uma floresta mostra face ao seu verde e acompanham essa proporção ao longo do tempo."
         - "Os dados vêm do satélite PACE da NASA, que observa a vegetação quase todos os dias em 286 bandas espectrais, e do Landsat 9, que dá o pormenor das montanhas do Vermont. Os mapas mostram o vermelho a descer para sul a partir da Nova Inglaterra, do norte do Canadá e da Rússia."
         - "Um aviso: nem todo o vermelho é outono. Culturas, secas ou pragas também alteram os pigmentos, e as nuvens podem deixar falhas nos mapas."
+
+  - id: typelit
+    titulo:
+      es: "TypeLit: aprende mecanografía copiando clásicos"
+      en: "TypeLit: learn to touch-type by copying the classics"
+      fr: "TypeLit : apprenez la dactylographie en recopiant les classiques"
+      de: "TypeLit: Zehnfingersystem lernen mit Klassikern"
+      it: "TypeLit: impara a dattilografare copiando i classici"
+      pt: "TypeLit: aprenda dactilografia copiando os clássicos"
+    fuente: TypeLit
+    enlace: https://www.typelit.io/
+    imagen: typelit.jpg
+    imagen_alt: { es: "Primer plano de las barras tipográficas de una máquina de escribir antigua", en: "Close-up of the typebars of an old typewriter" }
+    credito: "Imagen: Thad Zajdowicz / Wikimedia Commons (CC BY 2.0)"
+    descripcion:
+      es: "Una web para mejorar tu mecanografía escribiendo fragmentos de grandes obras literarias, disponibles en varios idiomas, español incluido."
+      en: "A website to improve your typing by copying passages from great works of literature, available in several languages, Spanish included."
+      fr: "Un site pour améliorer votre dactylographie en recopiant des extraits de grandes œuvres littéraires, disponibles en plusieurs langues, dont l’espagnol."
+      de: "Eine Website, um das Tippen zu verbessern, indem man Passagen großer literarischer Werke abschreibt – in mehreren Sprachen, darunter Spanisch."
+      it: "Un sito per migliorare la dattilografia copiando brani di grandi opere letterarie, disponibili in diverse lingue, spagnolo compreso."
+      pt: "Um site para melhorar a dactilografia copiando excertos de grandes obras literárias, disponíveis em vários idiomas, incluindo o espanhol."
+    detalle:
+      es:
+        - "TypeLit.io es un proyecto de un desarrollador web independiente desde Vancouver (Canadá). Sirve para descubrir y mejorar la mecanografía: escribir rápido, sin mirar el teclado y con todos los dedos."
+        - "Dominarla ayuda a ganar productividad y a aprovechar mejor el tiempo frente al ordenador."
+        - "Lo original es el material de práctica: en lugar de frases sueltas, copias textos de libros clásicos, así que cada sesión es también una forma distinta de leer literatura. La biblioteca incluye obras en varios idiomas, entre ellos el español."
+      en:
+        - "TypeLit.io is a project by an independent web developer based in Vancouver, Canada. It helps you discover and improve touch typing: typing fast, without looking at the keyboard and using all your fingers."
+        - "Mastering it boosts productivity and makes better use of your time at the computer."
+        - "What sets it apart is the practice material: instead of random sentences, you copy texts from classic books, so every session is also a different way of reading literature. The library includes works in several languages, Spanish among them."
+      fr:
+        - "TypeLit.io est un projet mené par un développeur web indépendant installé à Vancouver (Canada). Il permet de découvrir et d’améliorer la dactylographie : taper vite, sans regarder le clavier et avec tous les doigts."
+        - "La maîtriser aide à gagner en productivité et à mieux employer son temps devant l’ordinateur."
+        - "Son originalité tient au matériel d’entraînement : au lieu de phrases isolées, on recopie des textes de livres classiques, si bien que chaque séance est aussi une autre façon de lire la littérature. La bibliothèque propose des œuvres en plusieurs langues, dont l’espagnol."
+      de:
+        - "TypeLit.io ist ein Projekt eines unabhängigen Webentwicklers aus Vancouver (Kanada). Es hilft, das Zehnfingersystem zu entdecken und zu verbessern: schnell tippen, ohne auf die Tastatur zu schauen und mit allen Fingern."
+        - "Wer es beherrscht, arbeitet produktiver und nutzt seine Zeit am Computer besser."
+        - "Das Besondere ist das Übungsmaterial: Statt loser Sätze schreibt man Texte aus klassischen Büchern ab, sodass jede Übung auch eine andere Art ist, Literatur zu lesen. Die Bibliothek bietet Werke in mehreren Sprachen, darunter Spanisch."
+      it:
+        - "TypeLit.io è un progetto di uno sviluppatore web indipendente di Vancouver (Canada). Serve a scoprire e migliorare la dattilografia: scrivere veloce, senza guardare la tastiera e con tutte le dita."
+        - "Padroneggiarla aiuta ad aumentare la produttività e a sfruttare meglio il tempo davanti al computer."
+        - "L’originalità sta nel materiale di esercizio: invece di frasi isolate si ricopiano testi di libri classici, così ogni sessione è anche un modo diverso di leggere la letteratura. La biblioteca include opere in diverse lingue, spagnolo compreso."
+      pt:
+        - "O TypeLit.io é um projeto de um programador web independente de Vancouver (Canadá). Serve para descobrir e melhorar a dactilografia: escrever depressa, sem olhar para o teclado e com todos os dedos."
+        - "Dominá-la ajuda a ganhar produtividade e a aproveitar melhor o tempo em frente ao computador."
+        - "O original é o material de treino: em vez de frases soltas, copiam-se textos de livros clássicos, pelo que cada sessão é também uma forma diferente de ler literatura. A biblioteca inclui obras em vários idiomas, entre eles o espanhol."
+
+  - id: nyt-visions-of-america
+    titulo:
+      es: "«Visions of America»: siete historias de la fundación de EE. UU."
+      en: "“Visions of America”: seven stories from the founding of the US"
+      fr: "« Visions of America » : sept histoires de la fondation des États-Unis"
+      de: "„Visions of America“: sieben Geschichten aus der Gründerzeit der USA"
+      it: "«Visions of America»: sette storie della fondazione degli Stati Uniti"
+      pt: "«Visions of America»: sete histórias da fundação dos EUA"
+    fuente: The New York Times Magazine
+    enlace: https://www.nytimes.com/interactive/2026/06/22/magazine/usa-250-anniversary-american-revolution.html
+    imagen: nyt-visions-of-america.jpg
+    imagen_alt: { es: "La presentación de la Declaración de Independencia, cuadro de John Trumbull con los redactores ante una sala llena de delegados", en: "The presentation of the Declaration of Independence, a painting by John Trumbull showing its drafters before a room full of delegates" }
+    credito: "Imagen: «Declaración de Independencia» (1819), John Trumbull / Wikimedia Commons (dominio público)"
+    descripcion:
+      es: "Un especial multimedia ilustrado de The New York Times Magazine por los 250 años de EE. UU.: siete historias poco conocidas de personajes de la etapa fundacional, contadas por siete historiadores."
+      en: "An illustrated multimedia special from The New York Times Magazine for the 250th anniversary of the US: seven little-known stories of figures from the founding era, told by seven historians."
+      fr: "Un dossier multimédia illustré du New York Times Magazine pour les 250 ans des États-Unis : sept histoires méconnues de figures de la période fondatrice, racontées par sept historiens."
+      de: "Eine illustrierte Multimedia-Reportage des New York Times Magazine zum 250. Jahrestag der USA: sieben wenig bekannte Geschichten von Persönlichkeiten der Gründerzeit, erzählt von sieben Historikern."
+      it: "Uno speciale multimediale illustrato del New York Times Magazine per i 250 anni degli Stati Uniti: sette storie poco note di protagonisti dell’epoca fondatrice, raccontate da sette storici."
+      pt: "Um especial multimédia ilustrado da The New York Times Magazine pelos 250 anos dos EUA: sete histórias pouco conhecidas de figuras da época fundacional, contadas por sete historiadores."
+    detalle:
+      es:
+        - "«Visions of America» es un especial multimedia ilustrado de The New York Times Magazine, la revista dominical del diario, con motivo del 250 aniversario de Estados Unidos."
+        - "Siete destacados historiadores cuentan siete historias poco conocidas de personajes de la etapa fundacional del país."
+        - "Cada historia se ofrece de dos maneras: en imágenes, con las ilustraciones de Tim McDonagh por las que se avanza haciendo scroll, y en texto."
+      en:
+        - "“Visions of America” is an illustrated multimedia special from The New York Times Magazine, the paper’s Sunday magazine, marking the 250th anniversary of the United States."
+        - "Seven leading historians tell seven little-known stories about figures from the country’s founding era."
+        - "Each story comes in two forms: visually, through Tim McDonagh’s illustrations that you move through by scrolling, and as text."
+      fr:
+        - "« Visions of America » est un dossier multimédia illustré du New York Times Magazine, le magazine dominical du quotidien, à l’occasion du 250e anniversaire des États-Unis."
+        - "Sept historiens de renom racontent sept histoires méconnues de personnages de la période fondatrice du pays."
+        - "Chaque histoire est proposée de deux façons : en images, avec les illustrations de Tim McDonagh que l’on parcourt en faisant défiler la page, et en texte."
+      de:
+        - "„Visions of America“ ist eine illustrierte Multimedia-Reportage des New York Times Magazine, des Sonntagsmagazins der Zeitung, anlässlich des 250. Jahrestags der Vereinigten Staaten."
+        - "Sieben namhafte Historiker erzählen sieben wenig bekannte Geschichten über Persönlichkeiten aus der Gründerzeit des Landes."
+        - "Jede Geschichte gibt es in zwei Formen: visuell, mit den Illustrationen von Tim McDonagh, durch die man beim Scrollen voranschreitet, und als Text."
+      it:
+        - "«Visions of America» è uno speciale multimediale illustrato del New York Times Magazine, il supplemento domenicale del quotidiano, in occasione del 250º anniversario degli Stati Uniti."
+        - "Sette storici di primo piano raccontano sette storie poco note su protagonisti dell’epoca fondatrice del paese."
+        - "Ogni storia è proposta in due modi: in immagini, con le illustrazioni di Tim McDonagh attraverso cui si avanza scorrendo la pagina, e in forma di testo."
+      pt:
+        - "«Visions of America» é um especial multimédia ilustrado da The New York Times Magazine, a revista dominical do jornal, por ocasião do 250.º aniversário dos Estados Unidos."
+        - "Sete historiadores de destaque contam sete histórias pouco conhecidas de figuras da época fundacional do país."
+        - "Cada história é oferecida de duas formas: em imagens, com as ilustrações de Tim McDonagh por onde se avança fazendo scroll, e em texto."
