@@ -640,6 +640,16 @@
    ]
   },
   {
+   "term": "alerta meteorológica",
+   "traffic": 2000,
+   "lastSeen": "2026-11-13",
+   "news": [
+    "La borrasca Charles obliga a activar el plan de inundaciones en Madrid y la Comunidad pide precaución ante las fuertes lluvias y el viento",
+    "Activada la fase de preemergencia del plan especial de inundaciones",
+    "Aviso naranja por viento y amarillo por lluvia este miércoles en la Comunidad de Madrid"
+   ]
+  },
+  {
    "term": "jubilación en españa",
    "traffic": 1000,
    "lastSeen": "2026-11-08",
@@ -937,6 +947,26 @@
     "Leire Díez, sobre la oferta de dos millones que recibió del entorno del PP: “Si hubiese aceptado hubieran vencido”",
     "Leire Díez acusa al PP de ofrecerle dos millones para atacar a Sánchez",
     "Leire Díez: \"Me ofrecieron 2 millones por mentir contra Pedro Sánchez\""
+   ]
+  },
+  {
+   "term": "luka vušković",
+   "traffic": 1000,
+   "lastSeen": "2026-11-13",
+   "news": [
+    "Tottenham choosing Jan Paul van Hecke over Luka Vuskovic is already aging well",
+    "Jan Paul van Hecke reflects on Tottenham start and reveals Roberto De Zerbi's role in transfer",
+    "Liverpool identify Brighton star as dream 2027 target as Leeds move to take top talent off the menu"
+   ]
+  },
+  {
+   "term": "naranja",
+   "traffic": 1000,
+   "lastSeen": "2026-11-13",
+   "news": [
+    "Mercadona confirma el origen de las naranjas que vende este año en sus supermercados",
+    "El precio de las naranjas desde hoy en los supermercados: de Mercadona a Consum, Dia, Carrefour o Alcampo",
+    "¿Novedades sobre lo saludable o no que es un zumo de naranja? El estudio del CSIC, en jóvenes, lo compara con otras bebidas azucaradas, no con comerse la fruta entera"
    ]
   },
   {
@@ -1419,16 +1449,6 @@
    ]
   },
   {
-   "term": "alerta meteorológica",
-   "traffic": 500,
-   "lastSeen": "2026-11-13",
-   "news": [
-    "La borrasca Charles obliga a activar el plan de inundaciones en Madrid y la Comunidad pide precaución ante las fuertes lluvias y el viento",
-    "Activada la fase de preemergencia del plan especial de inundaciones",
-    "Aviso naranja por viento y amarillo por lluvia este miércoles en la Comunidad de Madrid"
-   ]
-  },
-  {
    "term": "camionero",
    "traffic": 500,
    "lastSeen": "2026-11-13",
@@ -1456,6 +1476,16 @@
     "Jannik Sinner: \"El objetivo es ir a Australia\"",
     "Otro 'marrón' para Sinner en plena recuperación: una operación de amígdalas le hace perder peso",
     "Jannik Sinner desvela los tres tenistas que le escribieron al anunciar que no iba a jugar más en 2026"
+   ]
+  },
+  {
+   "term": "inmaculada gutierrez carrizo",
+   "traffic": 500,
+   "lastSeen": "2026-11-13",
+   "news": [
+    "Cuerpo destituye al presidente de Renfe afín a Puente para tratar de apaciguar el malestar del sector y recupera a Joaquim Hortalà para dirigir Adif",
+    "El Gobierno nombra al nuevo presidente de Adif y a la nueva presidenta de Renfe",
+    "El Gobierno cesa a Álvaro Fernández Heredia y nombra perfiles técnicos al frente de Renfe y Adif"
    ]
   },
   {
@@ -2119,10 +2149,42 @@
    "term": "toñi moreno",
    "traffic": 200,
    "lastSeen": "2026-11-13",
+   "news": []
+  },
+  {
+   "term": "ley mordaza",
+   "traffic": 200,
+   "lastSeen": "2026-11-13",
+   "news": []
+  },
+  {
+   "term": "comerciante",
+   "traffic": 200,
+   "lastSeen": "2026-11-13",
    "news": [
-    "Toñi Moreno, 53 años: «Desayuno alimentos que me desinflamen. Tomo pan de centeno con pavo, tortilla francesa y café solo»",
-    "María Pérez",
-    "La atleta María Pérez: \"Hay que estar donde uno sea feliz y eso es lo que he intentado hacer\""
+    "Amplia respuesta en la calle pero seguimiento desigual en los centros de trabajo",
+    "Casi 3.000 personas claman por la vivienda en la manifestación local",
+    "Una marea clama contra la especulación en bilbo | Topics of the day | GARA Euskal Herriko egunkaria"
+   ]
+  },
+  {
+   "term": "plus ultra",
+   "traffic": 200,
+   "lastSeen": "2026-11-13",
+   "news": [
+    "Plus Ultra prepara un ERE que amenaza a sus 679 trabajadores y recorta flota y rutas tras el polémico rescate de 53 millones del Gobierno",
+    "Plus Ultra prepara un ERE y el recorte de rutas transatlánticas por combustible y falta del liquidez",
+    "Plus Ultra suspende todos sus vuelos salvo Venezuela y prepara preconcurso de acreedores y un ERE para 679 trabajadores"
+   ]
+  },
+  {
+   "term": "hamza abdelkarim",
+   "traffic": 200,
+   "lastSeen": "2026-11-13",
+   "news": [
+    "El gran salto de Hamza Abdelkarim",
+    "Tras la destitución de Hossam Hassan: la visión de Ali Maher abre la puerta de la gloria a Hamza Abdel Karim",
+    "Oportunidad de oro para Hamza con Egipto"
    ]
   },
   {

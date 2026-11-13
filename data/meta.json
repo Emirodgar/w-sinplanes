@@ -1,11 +1,11 @@
 {
-  "generated": "2026-11-13T12:13:51.390Z",
+  "generated": "2026-11-13T13:32:47.406Z",
   "today": "2026-11-13",
-  "events": 7085,
+  "events": 7114,
   "review": 10,
   "ai": {
-    "calls": 0,
-    "seconds": 68,
+    "calls": 24,
+    "seconds": 367,
     "tripped": false
   },
   "sources": [
@@ -72,7 +72,7 @@
     {
       "id": "prensa-heraldo-ocio",
       "status": "ok",
-      "count": 16,
+      "count": 17,
       "candidatos": true
     },
     {
@@ -96,7 +96,7 @@
     {
       "id": "prensa-ideal-culturas",
       "status": "ok",
-      "count": 28,
+      "count": 30,
       "candidatos": true
     },
     {
@@ -120,19 +120,19 @@
     {
       "id": "prensa-lasprovincias-culturas",
       "status": "ok",
-      "count": 34,
+      "count": 35,
       "candidatos": true
     },
     {
       "id": "prensa-laverdad-culturas",
       "status": "ok",
-      "count": 20,
+      "count": 21,
       "candidatos": true
     },
     {
       "id": "prensa-diariomontanes-culturas",
       "status": "ok",
-      "count": 12,
+      "count": 13,
       "candidatos": true
     },
     {
