@@ -55,6 +55,9 @@ curiosidades:
       pt: "TED: «How to tell a story»"
     fuente: TED
     enlace: https://www.ted.com/playlists/62/how_to_tell_a_story
+    imagen: ted-how-to-tell-a-story.jpg
+    imagen_alt: { es: "Un ponente en el escenario de un evento TEDx ante el público", en: "A speaker on stage at a TEDx event in front of an audience" }
+    credito: "Imagen: Embajada de EE. UU. en Nueva Zelanda / Wikimedia Commons (dominio público)"
     descripcion:
       es: "Una colección de charlas de TED centradas en el arte de contar historias, con maestros de la narración que dan nuevas respuestas a preguntas ancestrales."
       en: "A collection of TED talks about the art of storytelling, with master storytellers exploring new answers to age-old questions."
