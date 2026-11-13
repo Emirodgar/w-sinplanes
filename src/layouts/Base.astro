@@ -103,5 +103,31 @@ const switcher = LANGS.map((l) => ({ l, href: route && avail.includes(l) ? route
       <p>{L.updated(fmtDay(lang, meta.today, { day: 'numeric', month: 'long', year: 'numeric' }))}</p>
     </div>
   </footer>
+  <button class="to-top" type="button" aria-label={L.toTop} title={L.toTop} hidden>
+    <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 14 6-6 6 6" /></svg>
+  </button>
+  <script is:inline>
+    // Botón discreto para volver arriba: aparece al bajar un par de pantallas y respeta «reducir movimiento».
+    (function () {
+      var b = document.querySelector('.to-top');
+      if (!b) return;
+      var on = false, ticking = false;
+      function update() {
+        ticking = false;
+        var show = window.scrollY > Math.max(600, window.innerHeight * 0.8);
+        if (show === on) return;
+        on = show;
+        if (show) { b.hidden = false; requestAnimationFrame(function () { b.classList.add('is-on'); }); }
+        else { b.classList.remove('is-on'); setTimeout(function () { if (!on) b.hidden = true; }, 250); }
+      }
+      window.addEventListener('scroll', function () { if (!ticking) { ticking = true; requestAnimationFrame(update); } }, { passive: true });
+      b.addEventListener('click', function () {
+        var calm = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+        window.scrollTo({ top: 0, behavior: calm ? 'auto' : 'smooth' });
+        var m = document.getElementById('main'); if (m) { m.setAttribute('tabindex', '-1'); m.focus({ preventScroll: true }); }
+      });
+      update();
+    })();
+  </script>
 </body>
 </html>

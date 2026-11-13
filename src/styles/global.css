@@ -459,3 +459,11 @@ html.halloween.noche { color-scheme: dark; --canvas: #15112a; --surface: #211a3a
 .halloween.noche .widget-halloween { background: linear-gradient(135deg, var(--surface) 55%, #3a2410); }
 .halloween.noche .widgets > .widget:nth-child(4n + 3)::before, .halloween.noche .widget-halloween::before, .halloween.noche .season::after { background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 80 80' fill='none' stroke='%23d9cfe8' stroke-width='1' stroke-linecap='round' opacity='.5'%3E%3Cpath d='M0 0H80M0 0L74 28M0 0L54 54M0 0L28 74M0 0V80'/%3E%3Cpath d='M22 0Q19 19 0 22M42 0Q35 35 0 42M62 0Q51 51 0 62'/%3E%3C/svg%3E"); }
 .halloween.noche .widgets > .widget:nth-child(4n + 1)::after, .halloween.noche .widget-halloween::after { background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 40 64'%3E%3Cpath d='M20 0V40' stroke='%23d9cfe8' stroke-width='1'/%3E%3Cpath d='M12 46L4 40M12 50L2 50M12 54L4 60M28 46L36 40M28 50L38 50M28 54L36 60' stroke='%23cfc6df' stroke-width='1.6' stroke-linecap='round'/%3E%3Ccircle cx='20' cy='42' r='4' fill='%23cfc6df'/%3E%3Cellipse cx='20' cy='52' rx='8' ry='9' fill='%23cfc6df'/%3E%3Cpath d='M20 46v12' stroke='%23ff7a1a' stroke-width='2'/%3E%3C/svg%3E"); }
+
+/* Botón «volver arriba»: discreto, aparece al hacer scroll */
+.to-top { position: fixed; right: max(1rem, env(safe-area-inset-right)); bottom: max(1rem, env(safe-area-inset-bottom)); z-index: 15; width: 2.75rem; height: 2.75rem; padding: 0; display: inline-flex; align-items: center; justify-content: center; border: 0; border-radius: 999px; background: color-mix(in srgb, var(--surface) 80%, transparent); -webkit-backdrop-filter: saturate(180%) blur(14px); backdrop-filter: saturate(180%) blur(14px); color: var(--ink); box-shadow: 0 0 0 1px var(--line), 0 6px 18px rgba(0, 0, 0, 0.08); cursor: pointer; opacity: 0; transform: translateY(8px); transition: opacity 0.2s ease, transform 0.2s ease, background 0.15s ease, color 0.15s ease; }
+.to-top[hidden] { display: none; }
+.to-top.is-on { opacity: 0.9; transform: none; }
+.to-top:hover, .to-top:focus-visible { opacity: 1; background: var(--accent); color: var(--accent-ink); }
+@media (prefers-reduced-motion: reduce) { .to-top { transition: none; transform: none; } }
+@media print { .to-top { display: none; } }

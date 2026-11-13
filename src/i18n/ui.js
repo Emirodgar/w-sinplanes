@@ -113,6 +113,7 @@ export const t = {
     langLabel: 'Idioma',
     searchLabel: 'Buscar planes', searchPlaceholder: 'Busca por nombre, lugar o tema…', searchNone: 'No hay planes que coincidan con tu búsqueda.', newTab: 'se abre en una pestaña nueva',
     skip: 'Saltar al contenido',
+    toTop: 'Volver arriba',
     w: {
       season: (m) => `De temporada en ${m}`,
       weekend: 'Este fin de semana',
@@ -206,6 +207,7 @@ export const t = {
     langLabel: 'Language',
     searchLabel: 'Search plans', searchPlaceholder: 'Search by name, place or topic…', searchNone: 'No plans match your search.', newTab: 'opens in a new tab',
     skip: 'Skip to content',
+    toTop: 'Back to top',
     w: {
       season: (m) => `In season in ${m}`,
       weekend: 'This weekend',
@@ -299,6 +301,7 @@ export const t = {
     langLabel: 'Langue',
     searchLabel: 'Rechercher des idées', searchPlaceholder: 'Cherchez par nom, lieu ou thème…', searchNone: 'Aucune idée ne correspond à votre recherche.', newTab: 's’ouvre dans un nouvel onglet',
     skip: 'Aller au contenu',
+    toTop: 'Retour en haut',
     w: {
       season: (m) => `De saison en ${m}`,
       weekend: 'Ce week-end',
@@ -392,6 +395,7 @@ export const t = {
     langLabel: 'Sprache',
     searchLabel: 'Tipps suchen', searchPlaceholder: 'Nach Name, Ort oder Thema suchen …', searchNone: 'Keine Tipps passen zu deiner Suche.', newTab: 'öffnet in einem neuen Tab',
     skip: 'Zum Inhalt springen',
+    toTop: 'Nach oben',
     w: {
       season: (m) => `Saisonales im ${m}`,
       weekend: 'Dieses Wochenende',
@@ -485,6 +489,7 @@ export const t = {
     langLabel: 'Lingua',
     searchLabel: 'Cerca idee', searchPlaceholder: 'Cerca per nome, luogo o tema…', searchNone: 'Nessuna idea corrisponde alla tua ricerca.', newTab: 'si apre in una nuova scheda',
     skip: 'Vai al contenuto',
+    toTop: 'Torna su',
     w: {
       season: (m) => `Di stagione a ${m}`,
       weekend: 'Questo fine settimana',
@@ -578,6 +583,7 @@ export const t = {
     langLabel: 'Idioma',
     searchLabel: 'Pesquisar ideias', searchPlaceholder: 'Pesquise por nome, local ou tema…', searchNone: 'Nenhuma ideia corresponde à sua pesquisa.', newTab: 'abre num novo separador',
     skip: 'Saltar para o conteúdo',
+    toTop: 'Voltar ao topo',
     w: {
       season: (m) => `De época em ${m}`,
       weekend: 'Este fim de semana',
