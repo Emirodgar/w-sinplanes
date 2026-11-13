@@ -9,6 +9,7 @@ import CuriosityWidget from './CuriosityWidget.astro';
 import MatchToday from './MatchToday.astro';
 import TodayIn from './TodayIn.astro';
 import HalloweenWidget from './HalloweenWidget.astro';
+import DiaDestacado from './DiaDestacado.astro';
 import { t, url, monthName, HREFLANG, INTL_LOCALE } from '../i18n/ui.js';
 import { TODAY, currentMonth, seasonalFor, upcoming, within, overlaps, weekendRange, span, isCourse, topicById, fmtDay, cap, ptitle, psummary, textLang, trending, boost, inLang } from '../lib/data.js';
 
@@ -61,6 +62,8 @@ const jsonld = {
   <TodayIn lang={lang} />
 
   <SearchBox lang={lang} mode="index" />
+
+  <DiaDestacado lang={lang} />
 
   <section class="season" data-search-hide aria-labelledby="w-season">
     <div>

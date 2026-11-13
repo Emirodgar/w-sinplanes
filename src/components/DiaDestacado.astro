@@ -1,0 +1,37 @@
+---
+import { url } from '../i18n/ui.js';
+import { destacados } from '../i18n/destacados.js';
+import { diaDestacado } from '../lib/destacados.js';
+import { fmtWhen, ptitle, psummary, textLang } from '../lib/data.js';
+
+const { lang } = Astro.props;
+const D = destacados[lang];
+const hit = diaDestacado(lang);
+const count = (n) => (n > 1 ? D.many.replace('{n}', n) : n === 1 ? D.one : n === 0 ? D.today : D.going);
+---
+{hit && (
+  <section class="destacado" data-search-hide aria-labelledby="w-destacado">
+    <div class="dest-top">
+      <p class="dest-label">{D.label}</p>
+      <p class="dest-count" data-day={hit.p.start} data-end={hit.p.end || hit.p.start} data-one={D.one} data-many={D.many} data-today={D.today} data-going={D.going}>{count(hit.left)}</p>
+    </div>
+    <h2 id="w-destacado" lang={textLang(lang, hit.p)}>{ptitle(hit.p, lang)}</h2>
+    <p class="dest-when">{fmtWhen(lang, hit.p)}{hit.p.approx ? ` · ${D.approx}` : ''}</p>
+    <p class="dest-sum" lang={textLang(lang, hit.p)}>{psummary(hit.p, lang)}</p>
+    <a class="dest-more" href={url.plan(lang, hit.p.slug)} lang={lang}>{D.more}</a>
+  </section>
+)}
+<script is:inline>
+  // Cuenta atrás con la fecha real en Madrid (el HTML puede ser de ayer si el despliegue diario se retrasa).
+  (function () {
+    var c = document.querySelector('.dest-count');
+    if (!c) return;
+    try {
+      var today = new Date().toLocaleDateString('sv-SE', { timeZone: 'Europe/Madrid' });
+      var d = function (a, b) { return Math.round((new Date(b + 'T12:00:00Z') - new Date(a + 'T12:00:00Z')) / 864e5); };
+      if (today > c.dataset.end) { c.closest('.destacado').hidden = true; return; }
+      var n = d(today, c.dataset.day);
+      c.textContent = n > 1 ? c.dataset.many.replace('{n}', n) : n === 1 ? c.dataset.one : n === 0 ? c.dataset.today : c.dataset.going;
+    } catch (e) {}
+  })();
+</script>
