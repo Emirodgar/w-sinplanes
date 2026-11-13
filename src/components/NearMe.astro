@@ -2,6 +2,7 @@
 // Widget "Cerca de ti": geolocalización y previsión de lluvia en el navegador (Open-Meteo, sin clave).
 import { t, url } from '../i18n/ui.js';
 import { within, fmtWhen, ptitle, inLang } from '../lib/data.js';
+import { SOL } from '../lib/sol.js';
 const { lang } = Astro.props;
 const L = t[lang];
 const items = inLang(within(14), lang)
@@ -13,10 +14,11 @@ const items = inLang(within(14), lang)
   <p class="muted">{L.nearIntro}</p>
   <button class="button" type="button" id="near-btn">{L.nearButton}</button>
   <div id="near-out" aria-live="polite"></div>
-  <script type="application/json" id="near-data" set:html={JSON.stringify({ items, s: { loading: L.nearLoading, denied: L.nearDenied, none: L.nearNone, rain: L.nearRain, km: L.km, places: url.places(lang), indoor: L.indoor } })} />
+  <script type="application/json" id="near-data" set:html={JSON.stringify({ items, s: { loading: L.nearLoading, denied: L.nearDenied, none: L.nearNone, rain: L.nearRain, km: L.km, places: url.places(lang), indoor: L.indoor, sun: SOL[lang] } })} />
 </section>
 
 <script>
+  import { sunHtml } from '../lib/sol.js';
   const btn = document.getElementById('near-btn');
   const out = document.getElementById('near-out');
   const { items, s } = JSON.parse(document.getElementById('near-data').textContent);
@@ -32,10 +34,12 @@ const items = inLang(within(14), lang)
     msg(s.loading);
     navigator.geolocation.getCurrentPosition(async ({ coords }) => {
       const { latitude: la, longitude: lo } = coords;
-      let rain = false;
+      let rain = false, sun = '';
       try {
-        const r = await fetch(`https://api.open-meteo.com/v1/forecast?latitude=${la.toFixed(2)}&longitude=${lo.toFixed(2)}&daily=precipitation_probability_max&timezone=Europe%2FMadrid&forecast_days=1`);
-        rain = ((await r.json()).daily?.precipitation_probability_max?.[0] ?? 0) >= 60;
+        const r = await fetch(`https://api.open-meteo.com/v1/forecast?latitude=${la.toFixed(2)}&longitude=${lo.toFixed(2)}&daily=precipitation_probability_max,sunrise,sunset&timezone=auto&forecast_days=1`);
+        const daily = (await r.json()).daily;
+        rain = (daily?.precipitation_probability_max?.[0] ?? 0) >= 60;
+        sun = sunHtml(daily, 0, s.sun);
       } catch { /* sin previsión, seguimos */ }
       const near = items
         .map((p) => ({ ...p, d: dist(la, lo, p.la, p.lo) }))
@@ -43,7 +47,7 @@ const items = inLang(within(14), lang)
         .sort((a, b) => (rain ? (b.i === true) - (a.i === true) : 0) || a.d - b.d)
         .slice(0, 5);
       if (!near.length) return msg(s.none);
-      out.innerHTML = (rain ? `<p class="notice">${esc(s.rain)}</p>` : '') +
+      out.innerHTML = (rain ? `<p class="notice">${esc(s.rain)}</p>` : '') + sun +
         '<ul class="plan-list" style="margin-top:1rem">' + near.map((p) =>
           `<li><a class="title" href="${p.u}">${esc(p.t)}</a><span class="plan-meta"><span>${esc(p.w)}</span><span>${esc(p.m)}</span><span>${Math.round(p.d)} ${s.km}</span>${p.i ? `<span class="tag">${esc(s.indoor)}</span>` : ''}</span></li>`).join('') + '</ul>';
     }, () => msg(s.denied), { timeout: 10000, maximumAge: 600000 });

@@ -105,6 +105,12 @@ p { margin: 0 0 1em; max-width: var(--measure); }
 .widget .more:hover { text-decoration: underline; }
 .widget--wide { grid-column: 1 / -1; }
 
+/* Amanece / anochece junto al tiempo (widgets con ubicación). */
+.sun { display: flex; flex-wrap: wrap; gap: 0.35rem 1.25rem; margin: 0.75rem 0 1rem; font-size: 0.9375rem; color: var(--ink-soft); }
+.sun span { display: inline-flex; align-items: center; gap: 0.4rem; }
+.sun svg { color: var(--ink); flex: none; }
+.sun b { color: var(--ink); font-weight: 650; font-variant-numeric: tabular-nums; }
+
 /* Día destacado: tarjeta con el acento amarillo, entre el buscador y el mes. */
 .destacado { background: var(--accent); color: var(--accent-ink); border-radius: var(--r-xl); padding: clamp(1.25rem, 4vw, 2.25rem); margin-bottom: var(--gap); box-shadow: var(--shadow); display: flex; flex-direction: column; align-items: flex-start; }
 .destacado[hidden] { display: none; }

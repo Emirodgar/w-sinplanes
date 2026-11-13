@@ -3,6 +3,7 @@
 // con la previsión de lluvia (Open-Meteo, sin clave) para poner primero lo que es a cubierto. Se filtra en el navegador sobre los planes
 // de los próximos días que se incrustan aquí; la provincia elegida se recuerda en localStorage.
 import { t, url, INTL_LOCALE } from '../i18n/ui.js';
+import { SOL } from '../lib/sol.js';
 import { plans, TODAY, geo, slugify, isDated, isCourse, span, ptitle, inLang } from '../lib/data.js';
 
 const { lang } = Astro.props;
@@ -65,7 +66,7 @@ for (const [pv, o] of Object.entries(provs)) {
   provs[pv] = { la: o.c ? +(o.la / o.c).toFixed(3) : null, lo: o.c ? +(o.lo / o.c).toFixed(3) : null, k: o.k, h: slug ? url.province(lang, slug, slugify(pv)) : null };
 }
 
-const data = { items, provs, loc: INTL_LOCALE[lang], today: TODAY, s: { ...S, indoor: L.indoor, free: L.free_, denied: L.nearDenied, loading: L.nearLoading } };
+const data = { items, provs, loc: INTL_LOCALE[lang], today: TODAY, s: { ...S, indoor: L.indoor, free: L.free_, denied: L.nearDenied, loading: L.nearLoading, sun: SOL[lang] } };
 ---
 <section class="today" data-search-hide aria-labelledby="today-h">
   <h2 id="today-h">{S.heading}</h2>
@@ -89,6 +90,7 @@ const data = { items, provs, loc: INTL_LOCALE[lang], today: TODAY, s: { ...S, in
       <button class="chip" type="button" data-flag="i" aria-pressed="false">{S.indoor}</button>
     </div>
     <p class="notice" id="today-wx" hidden></p>
+    <div id="today-sun"></div>
     <div id="today-out" aria-live="polite"></div>
     <div class="today-actions">
       <button class="button" type="button" id="today-surprise">{S.surprise}</button>
@@ -100,6 +102,7 @@ const data = { items, provs, loc: INTL_LOCALE[lang], today: TODAY, s: { ...S, in
 </section>
 
 <script>
+  import { sunHtml } from '../lib/sol.js';
   const data = JSON.parse(document.getElementById('today-data').textContent);
   const { items, provs, loc, s } = data;
   const $ = (id) => document.getElementById(id);
@@ -133,7 +136,7 @@ const data = { items, provs, loc: INTL_LOCALE[lang], today: TODAY, s: { ...S, in
   const forecast = (city) => {
     const p = provs[city];
     if (!p || p.la == null) return Promise.resolve(null);
-    return (wx[city] ||= fetch(`https://api.open-meteo.com/v1/forecast?latitude=${p.la}&longitude=${p.lo}&daily=precipitation_probability_max,temperature_2m_max&timezone=Europe%2FMadrid&forecast_days=7`)
+    return (wx[city] ||= fetch(`https://api.open-meteo.com/v1/forecast?latitude=${p.la}&longitude=${p.lo}&daily=precipitation_probability_max,temperature_2m_max,sunrise,sunset&timezone=auto&forecast_days=7`)
       .then((r) => r.json()).then((j) => j.daily || null).catch(() => null));
   };
 
@@ -180,6 +183,7 @@ const data = { items, provs, loc: INTL_LOCALE[lang], today: TODAY, s: { ...S, in
     $('today-intro').hidden = !!city;
     $('today-h').textContent = city ? s['title_' + state.day].replace('{city}', city) : s.heading;
     select.value = city || '';
+    $('today-sun').innerHTML = '';
     if (!city) return;
     document.querySelectorAll('#today-panel [data-day]').forEach((b) => b.setAttribute('aria-pressed', String(b.dataset.day === state.day)));
     document.querySelectorAll('#today-panel [data-flag]').forEach((b) => b.setAttribute('aria-pressed', String(state[b.dataset.flag])));
@@ -206,6 +210,7 @@ const data = { items, provs, loc: INTL_LOCALE[lang], today: TODAY, s: { ...S, in
     const p = daily.precipitation_probability_max[i] ?? 0, tmax = Math.round(daily.temperature_2m_max[i]);
     const rain = p >= 60;
     draw(rain, (rain ? s.rain : s.dry).replace('{p}', String(p)).replace('{t}', String(tmax)));
+    $('today-sun').innerHTML = sunHtml(daily, i, s.sun);
   }
 
   const setCity = (c) => { state.city = c || null; state.pick = null; if (c) store.set('sp-city', c); render(); };
