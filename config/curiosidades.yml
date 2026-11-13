@@ -34,6 +34,9 @@ curiosidades:
       pt: "Pixar in a Box: a arte de contar histórias"
     fuente: Khan Academy
     enlace: https://www.khanacademy.org/partner-content/hass-storytelling
+    imagen: pixar-in-a-box.jpg
+    imagen_alt: { es: "Un zoótropo, juguete óptico que anima una secuencia de dibujos", en: "A zoetrope, an optical toy that animates a sequence of drawings" }
+    credito: "Imagen: Runner1616 / Wikimedia Commons (CC BY-SA 3.0)"
     descripcion:
       es: "Un curso gratuito y completo de la Khan Academy en el que los guionistas de Pixar explican cómo trabajan y crean sus historias."
       en: "A complete free course on Khan Academy in which Pixar’s storytellers explain how they work and build their stories."
@@ -83,6 +86,9 @@ curiosidades:
       pt: "Melhores inventos de 2026 segundo a TIME"
     fuente: TIME
     enlace: https://time.com/collection/best-inventions/2026/
+    imagen: mejores-inventos-time-2026.jpg
+    imagen_alt: { es: "Bombillas Mazda en una exposición histórica de inventos eléctricos", en: "Mazda light bulbs in a historical exhibit of electrical inventions" }
+    credito: "Imagen: Joe Mabel / Wikimedia Commons (CC BY-SA 4.0)"
     descripcion:
       es: "La selección anual de la revista TIME con 300 inventos «que están haciendo del mundo un lugar mejor, más inteligente y más divertido», filtrables por categorías."
       en: "TIME magazine’s annual selection of 300 inventions “that are making the world better, smarter and more fun”, which you can filter by category."
@@ -120,6 +126,9 @@ curiosidades:
       pt: "Guia gastronómico do Google Maps: Fan-Favorite Dining List 2026"
     fuente: Google Maps
     enlace: https://blog.google/products-and-platforms/products/maps/google-maps-fan-favorite-dining-list/
+    imagen: google-maps-fan-favorite-dining-list-2026.jpg
+    imagen_alt: { es: "Platos de tapas servidos en una mesa de restaurante", en: "Plates of tapas served at a restaurant table" }
+    credito: "Imagen: Gveret Tered / Wikimedia Commons (CC BY-SA 4.0)"
     descripcion:
       es: "La primera guía gastronómica de Google Maps reúne los restaurantes favoritos del público y las tendencias culinarias del último año en 10 ciudades del mundo, de Tokio a Santiago de Chile."
       en: "Google Maps’ first dining guide brings together the crowd-favourite restaurants and the food trends of the past year in 10 cities around the world, from Tokyo to Santiago."
@@ -163,6 +172,9 @@ curiosidades:
       pt: "Cheetah Cub Cam: crias de chita em direto"
     fuente: Smithsonian’s National Zoo
     enlace: https://nationalzoo.si.edu/webcams/cheetah-cub-cam
+    imagen: cheetah-cub-cam.jpg
+    imagen_alt: { es: "Un cachorro de guepardo entre la hierba alta", en: "A cheetah cub among tall grass" }
+    credito: "Imagen: Charles J. Sharp / Wikimedia Commons (CC BY-SA 4.0)"
     descripcion:
       es: "Una cámara en directo, las 24 horas, para ver crecer a cinco cachorros de guepardo y a su madre, Zura, en el Smithsonian Conservation Biology Institute (Virginia, EE. UU.)."
       en: "A live camera, around the clock, to watch five cheetah cubs and their mother, Zura, grow up at the Smithsonian Conservation Biology Institute (Virginia, US)."
@@ -206,6 +218,9 @@ curiosidades:
       pt: "RewindMap: atlas histórico interativo"
     fuente: RewindMap
     enlace: https://rewindmap.com/
+    imagen: rewindmap.jpg
+    imagen_alt: { es: "Mapa histórico de Guayana y Venezuela de Blaeu, de 1635", en: "Historical 1635 map of Guiana and Venezuela by Blaeu" }
+    credito: "Imagen: Willem Blaeu / Wikimedia Commons (dominio público)"
     descripcion:
       es: "Un atlas histórico interactivo para recorrer miles de años de historia con un mapa del mundo y una línea temporal, año a año."
       en: "An interactive historical atlas to travel through thousands of years of history with a world map and a timeline, year by year."
@@ -243,6 +258,9 @@ curiosidades:
       pt: "Lovie Awards 2026: os prémios europeus da internet"
     fuente: Lovie Awards
     enlace: https://www.lovieawards.com/
+    imagen: lovie-awards-2026.jpg
+    imagen_alt: { es: "Europa de noche vista desde la Estación Espacial Internacional", en: "Europe at night seen from the International Space Station" }
+    credito: "Imagen: Alexander Gerst / Wikimedia Commons (CC BY-SA 2.0)"
     descripcion:
       es: "El equivalente europeo de los Webby Awards: un escaparate de la mejor creatividad digital europea, con finalistas de webs, vídeo, publicidad, podcasts, apps, juegos, redes sociales e inteligencia artificial."
       en: "Europe’s answer to the Webby Awards: a showcase of the best European digital creativity, with finalists in websites, video, advertising, podcasts, apps, games, social media and artificial intelligence."
@@ -286,6 +304,9 @@ curiosidades:
       pt: "10-Minute Challenge: os desafios de atenção do New York Times"
     fuente: The New York Times
     enlace: https://www.nytimes.com/spotlight/10-minute-challenge
+    imagen: nyt-10-minute-challenge.jpg
+    imagen_alt: { es: "Un crucigrama impreso a medio resolver", en: "A printed crossword puzzle, partly solved" }
+    credito: "Imagen: Spaghettifier / Wikimedia Commons (CC BY-SA 4.0)"
     descripcion:
       es: "Cada primer lunes de mes, el New York Times propone dedicar diez minutos ininterrumpidos a contemplar a fondo una obra de arte, con zoom, preguntas previas y datos de la obra al terminar."
       en: "On the first Monday of every month, The New York Times invites you to spend ten uninterrupted minutes looking closely at a work of art, with zoom, questions beforehand and details about the piece afterwards."
@@ -329,6 +350,9 @@ curiosidades:
       pt: "Prémios Nobel: todos os vencedores"
     fuente: NobelPrize.org
     enlace: https://www.nobelprize.org/
+    imagen: premios-nobel.jpg
+    imagen_alt: { es: "Medalla del Premio Nobel de Medicina", en: "Nobel Prize medal for Medicine" }
+    credito: "Imagen: Osama Shukir Muhammed Amin FRCP(Glasg) / Wikimedia Commons (CC BY-SA 4.0)"
     descripcion:
       es: "La web oficial de los Premios Nobel, para conocer a todos los galardonados de cada categoría y de cada año, con sus biografías y su trabajo."
       en: "The official website of the Nobel Prizes, to discover every laureate in every category and year, with their biographies and their work."
@@ -366,6 +390,9 @@ curiosidades:
       pt: "Global Cities Index da Oxford Economics: ranking das 1.000 maiores cidades"
     fuente: Oxford Economics
     enlace: https://www.oxfordeconomics.com/global-cities-index/
+    imagen: oxford-economics-global-cities-index.jpg
+    imagen_alt: { es: "Panorámica de Londres y el Támesis al anochecer", en: "London skyline and the Thames at dusk" }
+    credito: "Imagen: Diliff / Wikimedia Commons (CC BY-SA 3.0)"
     descripcion:
       es: "Un ranking comparativo e interactivo de las 1.000 mayores ciudades del planeta, valoradas en economía, capital humano, calidad de vida, medio ambiente y gobernanza."
       en: "An interactive comparative ranking of the 1,000 largest cities on the planet, scored on economics, human capital, quality of life, environment and governance."
@@ -403,6 +430,9 @@ curiosidades:
       pt: "World Teachers’ Day 2026: histórias de professores e procura de ideias da Google e da TED"
     fuente: Google
     enlace: https://blog.google/products-and-platforms/products/education/world-teachers-day-2026/
+    imagen: world-teachers-day-2026-google-ted.jpg
+    imagen_alt: { es: "Un profesor y sus alumnos en un aula", en: "A teacher and students in a classroom" }
+    credito: "Imagen: Harrison Keely / Wikimedia Commons (CC BY 4.0)"
     descripcion:
       es: "Una colección de historias de docentes de todo el mundo que usan la tecnología en el aula, y la búsqueda global de educadores innovadores que lanzan Google y TED."
       en: "A collection of stories from teachers around the world who use technology in the classroom, and the global search for innovative educators launched by Google and TED."
@@ -440,6 +470,9 @@ curiosidades:
       pt: "Ripples of History: atlas interativo de causa e efeito na história"
     fuente: Ripples of History
     enlace: https://www.ripplesofhistory.com/
+    imagen: ripples-of-history.jpg
+    imagen_alt: { es: "Ondas concéntricas en el agua tras caer una gota", en: "Concentric ripples spreading after a water drop" }
+    credito: "Imagen: Koshy Koshy from Faridabad, Haryana, India / Wikimedia Commons (CC BY 2.0)"
     descripcion:
       es: "Un atlas interactivo de la historia mundial, de 1800 a 2026, que conecta sobre un mapa más de 550 acontecimientos y sus relaciones de causa y efecto."
       en: "An interactive atlas of world history, from 1800 to 2026, that connects more than 550 events on a map through their causes and effects."
@@ -477,6 +510,9 @@ curiosidades:
       pt: "Descubrí Costa Rica: mapa interativo"
     fuente: Esencial Costa Rica
     enlace: https://www.esencialcostarica.com/mapainteractivo/
+    imagen: descubri-costa-rica.jpg
+    imagen_alt: { es: "El volcán Arenal rodeado de selva en Costa Rica", en: "Arenal volcano surrounded by rainforest in Costa Rica" }
+    credito: "Imagen: Rhododendrites / Wikimedia Commons (CC BY-SA 4.0)"
     descripcion:
       es: "Un mapa interactivo de Costa Rica para explorar la riqueza cultural, natural y oceánica de este país centroamericano."
       en: "An interactive map of Costa Rica to explore the cultural, natural and ocean riches of this Central American country."
@@ -508,6 +544,9 @@ curiosidades:
       pt: "Nautilus Live: exploração das profundezas do mar em direto"
     fuente: Ocean Exploration Trust
     enlace: https://nautiluslive.org/
+    imagen: nautilus-live.jpg
+    imagen_alt: { es: "El vehículo submarino Hercules sobre la cubierta de un buque", en: "The Hercules underwater vehicle on a ship’s deck" }
+    credito: "Imagen: Brennanphillips at English Wikipedia / Wikimedia Commons (dominio público)"
     descripcion:
       es: "Imágenes en directo, las 24 horas, del fondo del océano, captadas por los vehículos submarinos del buque de investigación E/V Nautilus y comentadas por su equipo científico."
       en: "Round-the-clock live footage of the ocean floor, filmed by the underwater vehicles of the research vessel E/V Nautilus and narrated by its science team."
@@ -557,6 +596,9 @@ curiosidades:
       pt: "Audubon: as 100 melhores fotografias de aves"
     fuente: Audubon
     enlace: https://www.audubon.org/es/revista/premios-de-fotografia-audubon-2026-los-100-mejores
+    imagen: audubon-100-mejores-fotografias-aves.jpg
+    imagen_alt: { es: "Un nectarínido de colores posado en una rama", en: "A colorful sunbird perched on a branch" }
+    credito: "Imagen: Emman Asuncion Foronda / Wikimedia Commons (CC BY-SA 4.0)"
     descripcion:
       es: "Una galería de la revista Audubon con las cien mejores imágenes de sus concursos anuales de fotografía de aves, a gran tamaño y con la historia de cada toma."
       en: "A gallery from Audubon magazine with the hundred best images from its annual bird photography contests, shown large and with the story behind each shot."
@@ -600,6 +642,9 @@ curiosidades:
       pt: "Relief → World: mapa de elevação interativo"
     fuente: Bert Spaan
     enlace: https://relief.bertspaan.nl/world
+    imagen: relief-world.jpg
+    imagen_alt: { es: "Mapa mundial de relieve con la topografía de tierra y océanos", en: "World relief map showing land and ocean topography" }
+    credito: "Imagen: NASA / Wikimedia Commons (dominio público)"
     descripcion:
       es: "Un mapa de relieve de todo el mundo en el que haces zoom hasta cualquier punto del planeta y la paleta de colores se ajusta a las altitudes de la zona que estás viendo."
       en: "A relief map of the whole world where you zoom in to any point on the planet and the colour palette adjusts to the altitudes of the area you are looking at."
@@ -643,6 +688,9 @@ curiosidades:
       pt: "NASA’s Eyes: o sistema solar em 3D"
     fuente: NASA
     enlace: https://eyes.nasa.gov/apps/solar-system/
+    imagen: nasa-eyes-on-the-solar-system.jpg
+    imagen_alt: { es: "Montaje de planetas del sistema solar con imágenes de la NASA", en: "Montage of solar system planets from NASA imagery" }
+    credito: "Imagen: NASA / Wikimedia Commons (dominio público)"
     descripcion:
       es: "Aplicación gratuita de la NASA que se abre en el navegador y permite explorar en 3D planetas, lunas, asteroides, cometas y misiones espaciales con datos reales."
       en: "A free NASA app that runs in your browser and lets you explore planets, moons, asteroids, comets and space missions in 3D, using real data."
@@ -686,6 +734,9 @@ curiosidades:
       pt: "NASA’s Eyes on the Earth: o planeta visto pelos satélites"
     fuente: NASA
     enlace: https://eyes.nasa.gov/apps/earth/
+    imagen: nasa-eyes-on-the-earth.jpg
+    imagen_alt: { es: "La Tierra vista desde el espacio (Blue Marble) con África en el centro", en: "Earth seen from space (Blue Marble) with Africa at the center" }
+    credito: "Imagen: NASA / Wikimedia Commons (dominio público)"
     descripcion:
       es: "La versión de NASA’s Eyes dedicada a la Tierra: una aplicación 3D gratuita para ver nuestro planeta con los datos y las imágenes de los satélites de observación de la NASA."
       en: "The Earth edition of NASA’s Eyes: a free 3D app to see our planet through the data and images of NASA’s Earth-observing satellites."
@@ -729,6 +780,9 @@ curiosidades:
       pt: "NASA’s Eyes on Asteroids: asteroides e cometas próximos da Terra"
     fuente: NASA/JPL
     enlace: https://eyes.nasa.gov/apps/asteroids/
+    imagen: nasa-eyes-on-asteroids.jpg
+    imagen_alt: { es: "El asteroide Bennu fotografiado por la sonda OSIRIS-REx", en: "Asteroid Bennu photographed by the OSIRIS-REx spacecraft" }
+    credito: "Imagen: NASA / Wikimedia Commons (dominio público)"
     descripcion:
       es: "Una visualización 3D gratuita de los asteroides y cometas conocidos que se acercan a la órbita de la Tierra, con sus próximos pasos cercanos y las misiones que los estudian."
       en: "A free 3D visualisation of the known asteroids and comets that come near Earth’s orbit, with their upcoming close approaches and the missions that study them."
@@ -772,6 +826,9 @@ curiosidades:
       pt: "NASA’s Eyes on Exoplanets: planetas de outras estrelas em 3D"
     fuente: NASA
     enlace: https://eyes.nasa.gov/apps/exo/
+    imagen: nasa-eyes-on-exoplanets.jpg
+    imagen_alt: { es: "Recreación artística de un planeta junto a su estrella", en: "Artist’s concept of a planet next to its star" }
+    credito: "Imagen: ESA, NASA, and L. Calcada (ESO for STScI) / Wikimedia Commons (dominio público)"
     descripcion:
       es: "Una simulación 3D gratuita de los miles de exoplanetas confirmados (planetas que orbitan otras estrellas) y de las zonas donde podría existir agua líquida."
       en: "A free 3D simulation of the thousands of confirmed exoplanets (planets orbiting other stars) and of the zones where liquid water could exist."
@@ -815,6 +872,9 @@ curiosidades:
       pt: "Google Pinpoint: investigar com IA os seus próprios documentos"
     fuente: Google
     enlace: https://journaliststudio.google.com/pinpoint/collections
+    imagen: google-pinpoint.jpg
+    imagen_alt: { es: "Cajas de archivo con documentos en las estanterías de un depósito", en: "Archive boxes of documents on repository shelves" }
+    credito: "Imagen: The National Archives (United Kingdom) / Wikimedia Commons (CC BY 3.0)"
     descripcion:
       es: "Una herramienta gratuita de Google que usa inteligencia artificial para analizar, transcribir y buscar en miles de tus propios documentos, de PDFs y fotos a audios."
       en: "A free Google tool that uses artificial intelligence to analyse, transcribe and search thousands of your own documents, from PDFs and photos to audio."
@@ -864,6 +924,9 @@ curiosidades:
       pt: "LinkedIn Games: minijogos diários"
     fuente: LinkedIn
     enlace: https://www.linkedin.com/games/
+    imagen: linkedin-games.jpg
+    imagen_alt: { es: "Fichas de madera con letras que forman la palabra VISION", en: "Wooden letter tiles spelling the word VISION" }
+    credito: "Imagen: WOKANDAPIX / Wikimedia Commons (CC0)"
     descripcion:
       es: "Ocho minijuegos de palabras, lógica y trivial con los que LinkedIn propone pausas rápidas de concentración cada día, entre ellos Wend, Zip, Tango, Queens y Mini Sudoku."
       en: "Eight word, logic and trivia mini-games with which LinkedIn offers quick daily breaks of focus, including Wend, Zip, Tango, Queens and Mini Sudoku."
@@ -907,6 +970,9 @@ curiosidades:
       pt: "United Parks of America: os parques nacionais dos EUA no Google Arts & Culture"
     fuente: Google Arts & Culture
     enlace: https://artsandculture.google.com/project/national-park-service
+    imagen: united-parks-of-america.jpg
+    imagen_alt: { es: "Valle de Yosemite con El Capitán al fondo", en: "Yosemite Valley with El Capitan in the background" }
+    credito: "Imagen: King of Hearts / Wikimedia Commons (CC BY-SA 3.0)"
     descripcion:
       es: "Una exposición virtual gratuita de Google Arts & Culture y el Servicio de Parques Nacionales de EE. UU. para recorrer desde casa más de 60 parques nacionales, del Gran Cañón a Yellowstone."
       en: "A free virtual exhibition by Google Arts & Culture and the US National Park Service to tour more than 60 national parks from home, from the Grand Canyon to Yellowstone."
@@ -950,6 +1016,9 @@ curiosidades:
       pt: "Anthropeum: jogo diário de arte com a coleção do Metropolitan Museum"
     fuente: Anthropeum
     enlace: https://anthropeum.com/
+    imagen: anthropeum.jpg
+    imagen_alt: { es: "Fachada del Museo Metropolitano de Arte de Nueva York", en: "Facade of the Metropolitan Museum of Art in New York" }
+    credito: "Imagen: Hugo Schneider / Wikimedia Commons (CC BY-SA 2.0)"
     descripcion:
       es: "Un juego online diario en el que hay que adivinar cuándo y dónde se creó cada una de diez obras de arte de la colección del Metropolitan Museum de Nueva York."
       en: "A daily online game in which you guess when and where each of ten works of art from New York’s Metropolitan Museum collection was made."
@@ -999,6 +1068,9 @@ curiosidades:
       pt: "The Drum: os 50 melhores anúncios de futebol de sempre"
     fuente: The Drum
     enlace: https://www.thedrum.com/the-best-football-ads-ever
+    imagen: the-drum-mejores-anuncios-futbol.jpg
+    imagen_alt: { es: "Aficionados junto a un estadio de fútbol", en: "Fans outside a football stadium" }
+    credito: "Imagen: Tadpolefarm / Wikimedia Commons (CC BY-SA 4.0)"
     descripcion:
       es: "La revista de publicidad The Drum reúne los 50 mejores anuncios de la historia relacionados con el fútbol, para verlos uno a uno."
       en: "Advertising magazine The Drum brings together the 50 best football-related ads of all time, to watch one by one."
@@ -1036,6 +1108,9 @@ curiosidades:
       pt: "The StoryGraph: o seu diário de leituras e recomendador de livros"
     fuente: The StoryGraph
     enlace: https://thestorygraph.com/
+    imagen: the-storygraph.jpg
+    imagen_alt: { es: "Libros en una estantería", en: "Books on a shelf" }
+    credito: "Imagen: Energyme / Wikimedia Commons (CC BY-SA 4.0)"
     descripcion:
       es: "Web y app para registrar tus lecturas y descubrir libros según tu estado de ánimo y tus temas favoritos, una alternativa independiente a Goodreads."
       en: "A website and app to log your reading and discover books based on your mood and favourite topics, an independent alternative to Goodreads."
@@ -1079,6 +1154,9 @@ curiosidades:
       pt: "Riverside: guia em 10 passos para começar um podcast (edição 2026)"
     fuente: Riverside
     enlace: https://riverside.com/blog/how-to-start-a-podcast
+    imagen: riverside-como-empezar-un-podcast.jpg
+    imagen_alt: { es: "Micrófonos en un estudio de podcast", en: "Microphones in a podcast studio" }
+    credito: "Imagen: Myotus / Wikimedia Commons (CC BY 4.0)"
     descripcion:
       es: "Una guía gratuita, en inglés, de la plataforma Riverside y del creador Stephen Robles que explica en diez pasos cómo lanzar un podcast, desde la idea hasta medir resultados."
       en: "A free guide from the Riverside platform and creator Stephen Robles that explains in ten steps how to launch a podcast, from the idea to measuring results."
@@ -1122,6 +1200,9 @@ curiosidades:
       pt: "The Art of Looking: aprender a olhar para a arte com o Courtauld"
     fuente: Google Arts & Culture
     enlace: https://artsandculture.google.com/project/courtauld
+    imagen: the-art-of-looking-courtauld.jpg
+    imagen_alt: { es: "«Un bar en el Folies-Bergère», de Édouard Manet (Courtauld Gallery)", en: "“A Bar at the Folies-Bergère” by Édouard Manet (Courtauld Gallery)" }
+    credito: "Imagen: Édouard Manet / Wikimedia Commons (dominio público)"
     descripcion:
       es: "Un proyecto interactivo de Google Arts & Culture y el Courtauld Institute of Art de Londres, con 12 historias para mirar las obras de arte con más atención y descubrir sus detalles."
       en: "An interactive project by Google Arts & Culture and the Courtauld Institute of Art in London, with 12 stories to look at artworks more closely and discover their details."
@@ -1171,6 +1252,9 @@ curiosidades:
       pt: "MuGlobe: música local de todo o mundo num mapa"
     fuente: MuGlobe
     enlace: https://muglobe.com/
+    imagen: muglobe.jpg
+    imagen_alt: { es: "Guitarras e instrumentos musicales en una tienda", en: "Guitars and musical instruments in a shop" }
+    credito: "Imagen: Ronald Saunders from Warrington, UK / Wikimedia Commons (CC BY-SA 2.0)"
     descripcion:
       es: "Un mapa del mundo con una radio virtual en cada punto: te paras en un lugar y suena su música local, con artículos sobre sus géneros y su historia."
       en: "A world map with a virtual radio station at every point: stop anywhere and hear its local music, with articles on its genres and history."
