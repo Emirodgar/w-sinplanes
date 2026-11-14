@@ -81,6 +81,21 @@
   ],
   "a_cubierto": true
  },
+ "4049807437": {
+  "id": "8046fed329",
+  "es": {
+   "titulo": "Grandes ilusiones",
+   "resumen": "Espectáculo de magia y escapismo que promete llevar al público a un mundo de ilusión. Incluye apariciones, levitaciones y desapariciones."
+  },
+  "en": {
+   "titulo": "Great Illusions",
+   "resumen": "A magic and escapism show that promises to take the audience to a world of illusion. It includes appearances, levitations, and disappearances."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
  "fc3832a9c4": {
   "id": "27e9f88743",
   "es": {
@@ -37710,6 +37725,1563 @@
   "en": {
    "titulo": "Xabier Amuriza & Agus Barandiaran: \"85 Kopla\" in Donostia",
    "resumen": "Attend \"85 Kopla\" in Donostia, where Xabier Amuriza and Agus Barandiaran fuse music and coplas, reviewing life and traditions through songs."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "81ab0b3c4b": {
+  "id": "980d0ec839",
+  "es": {
+   "titulo": "Buscando a Tomokazu Komiya",
+   "resumen": "Charla de Carlos Salas en la Biblioteca Pública Municipal Iván de Vargas sobre \"Buscando a Tomokazu Komiya\". Entrada libre hasta completar aforo."
+  },
+  "en": {
+   "titulo": "Searching for Tomokazu Komiya",
+   "resumen": "Talk by Carlos Salas at the Iván de Vargas Municipal Public Library about \"Searching for Tomokazu Komiya\". Free entry until capacity is reached."
+  },
+  "temas": [
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": true
+ },
+ "e8e4cabc02": {
+  "id": "7336fd994e",
+  "es": {
+   "titulo": "Compostagram: la red trófica y social del suelo",
+   "resumen": "Descubre la red trófica y social del suelo en el Centro de Información y Educación Ambiental de Dehesa de la Villa. Una actividad para entender la vida bajo nuestros pies."
+  },
+  "en": {
+   "titulo": "Compostagram: The Soil's Food and Social Web",
+   "resumen": "Discover the soil's food and social web at the Dehesa de la Villa Environmental Education and Information Center. An activity to understand the life beneath our feet."
+  },
+  "temas": [
+   "naturaleza",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "f44c335b70": {
+  "id": "adcd29e86f",
+  "es": {
+   "titulo": "Cuentacuentos para niños",
+   "resumen": "Disfruta de sesiones de cuentacuentos para los más pequeños. Una actividad pensada para fomentar la imaginación y el amor por la lectura en familia."
+  },
+  "en": {
+   "titulo": "Storytelling for Children",
+   "resumen": "Enjoy storytelling sessions for the little ones. An activity designed to foster imagination and a love for reading within the family."
+  },
+  "temas": [
+   "ninos",
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "9130b8ecd5": {
+  "id": "7275a17da9",
+  "es": {
+   "titulo": "El tesoro de Barracuda",
+   "resumen": "Asiste a \"El tesoro de Barracuda\" en el Centro Cultural Carril del Conde. Una propuesta para disfrutar en familia."
+  },
+  "en": {
+   "titulo": "Barracuda's Treasure",
+   "resumen": "Attend \"Barracuda's Treasure\" at the Carril del Conde Cultural Center. A proposal for family enjoyment."
+  },
+  "temas": [
+   "ninos",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "9210f5f90f": {
+  "id": "a413e0ae27",
+  "es": {
+   "titulo": "Ruta de senderismo: Encinar de San Pedro",
+   "resumen": "Realiza una ruta de senderismo de 8 km por el Encinar de San Pedro en la Casa de Campo. Descubre la vida silvestre de la reserva integral. Apta para mayores de 12 años."
+  },
+  "en": {
+   "titulo": "Hiking Route: Encinar de San Pedro",
+   "resumen": "Embark on an 8 km hiking route through the Encinar de San Pedro in Casa de Campo. Discover the wildlife of the integral reserve. Suitable for ages 12 and up."
+  },
+  "temas": [
+   "naturaleza",
+   "rutas",
+   "deporte"
+  ],
+  "a_cubierto": false
+ },
+ "dac03f4f3d": {
+  "id": "3e2797102e",
+  "es": {
+   "titulo": "Espectáculo musical 'Fiesta pirata'",
+   "resumen": "Disfruta de \"Fiesta Pirata\", un espectáculo musical interactivo para toda la familia en el Parque de Salvador Allende. ¡Música, juegos y sorpresas!"
+  },
+  "en": {
+   "titulo": "Musical Show 'Pirate Party'",
+   "resumen": "Enjoy \"Fiesta Pirata\", an interactive musical show for the whole family at Salvador Allende Park. Music, games, and surprises!"
+  },
+  "temas": [
+   "musica",
+   "ninos",
+   "fiestas"
+  ],
+  "a_cubierto": false
+ },
+ "caca69025c": {
+  "id": "c583e1168c",
+  "es": {
+   "titulo": "Exhibición de patinaje artístico sobre hielo",
+   "resumen": "Asiste a una exhibición de patinaje artístico sobre hielo en la pista de hielo de Entrevías, Madrid. Un espectáculo sobre el hielo."
+  },
+  "en": {
+   "titulo": "Figure Skating Exhibition on Ice",
+   "resumen": "Attend a figure skating exhibition on ice at the Entrevías ice rink in Madrid. A spectacular show on ice."
+  },
+  "temas": [
+   "deporte",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "9416ca6061": {
+  "id": "e84dd9322c",
+  "es": {
+   "titulo": "In_CORPUS en Matadero Madrid",
+   "resumen": "Explora \"In_CORPUS\" en Matadero Madrid. Una experiencia cultural y artística."
+  },
+  "en": {
+   "titulo": "In_CORPUS at Matadero Madrid",
+   "resumen": "Explore \"In_CORPUS\" at Matadero Madrid. A cultural and artistic experience."
+  },
+  "temas": [
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "c4729dbf3e": {
+  "id": "dde0ebb7f3",
+  "es": {
+   "titulo": "Joaco Showman: 'Qué magia'",
+   "resumen": "No te pierdas \"¡Qué Magia!\" de Joaco Showman en el Parque de Salvador Allende. Un espectáculo familiar lleno de humor y sorpresas."
+  },
+  "en": {
+   "titulo": "Joaco Showman: 'What Magic'",
+   "resumen": "Don't miss Joaco Showman's \"¡Qué Magia!\" at Salvador Allende Park. A family show full of humor and surprises."
+  },
+  "temas": [
+   "cultura",
+   "ninos",
+   "actividades"
+  ],
+  "a_cubierto": false
+ },
+ "28aad58c44": {
+  "id": "13322a51f2",
+  "es": {
+   "titulo": "Juegos deportivos: Baloncesto, Diana y Pin Pon",
+   "resumen": "Participa en divertidos juegos deportivos como baloncesto, tiro a diana y pin pon en el Parque de Salvador Allende. ¡Ponte a prueba!"
+  },
+  "en": {
+   "titulo": "Sports Games: Basketball, Darts, and Ping Pong",
+   "resumen": "Participate in fun sports games like basketball, darts, and ping pong at Salvador Allende Park. Test your skills!"
+  },
+  "temas": [
+   "deporte",
+   "actividades",
+   "ninos"
+  ],
+  "a_cubierto": false
+ },
+ "a3e472132b": {
+  "id": "31bd460c80",
+  "es": {
+   "titulo": "Taller: Los sonidos de Madrid",
+   "resumen": "Descubre los sonidos de Madrid en un taller práctico en la Cabaña de la Rosaleda, Parque del Retiro. Aprende sobre sonido y paisaje sonoro."
+  },
+  "en": {
+   "titulo": "Workshop: The Sounds of Madrid",
+   "resumen": "Discover the sounds of Madrid in a practical workshop at the Rosaleda Cabin, Retiro Park. Learn about sound and soundscape."
+  },
+  "temas": [
+   "naturaleza",
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "653a9d9515": {
+  "id": "92b7a235bf",
+  "es": {
+   "titulo": "Photocall: Mañana divertida con recuerdo único",
+   "resumen": "Diviértete en el photocall del Parque de Salvador Allende y llévate un recuerdo original. ¡Crea tu foto más divertida y bonita!"
+  },
+  "en": {
+   "titulo": "Photocall: Fun Morning with a Unique Souvenir",
+   "resumen": "Have fun at the Salvador Allende Park photocall and take home an original souvenir. Create your funniest and most beautiful photo!"
+  },
+  "temas": [
+   "fiestas",
+   "actividades",
+   "ninos"
+  ],
+  "a_cubierto": false
+ },
+ "e1259e08fc": {
+  "id": "a362130710",
+  "es": {
+   "titulo": "Plenilunio en la Quinta de los Molinos",
+   "resumen": "Disfruta de \"Plenilunio\" en el Espacio Abierto Quinta de los Molinos. Una actividad para conectar con el entorno."
+  },
+  "en": {
+   "titulo": "Full Moon at Quinta de los Molinos",
+   "resumen": "Enjoy \"Plenilunio\" (Full Moon) at the Quinta de los Molinos Open Space. An activity to connect with the environment."
+  },
+  "temas": [
+   "naturaleza",
+   "parques"
+  ],
+  "a_cubierto": false
+ },
+ "a9496a66a6": {
+  "id": "908e37c7ac",
+  "es": {
+   "titulo": "Inteligencia artificial, cultura pop y música",
+   "resumen": "Jornada sobre inteligencia artificial, cultura pop y música en Madrid. Incluye proyecciones, charlas, podcasts y conciertos."
+  },
+  "en": {
+   "titulo": "Artificial Intelligence, Pop Culture, and Music",
+   "resumen": "An event on artificial intelligence, pop culture, and music in Madrid. Includes screenings, talks, podcasts, and concerts."
+  },
+  "temas": [
+   "pantalla",
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "878c1e7a7d": {
+  "id": "16f7593f7f",
+  "es": {
+   "titulo": "Taller: El ruido de mi calle",
+   "resumen": "Participa en el taller \"El ruido de mi calle\" en el Parque del Retiro. Aprende sobre contaminación acústica y su medición."
+  },
+  "en": {
+   "titulo": "Workshop: The Noise of My Street",
+   "resumen": "Participate in the \"The Noise of My Street\" workshop in Retiro Park. Learn about noise pollution and its measurement."
+  },
+  "temas": [
+   "naturaleza",
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "da1a2b3324": {
+  "id": "849dba8460",
+  "es": {
+   "titulo": "Taller Pinta-Rocas: pequeños artistas del bosque",
+   "resumen": "Taller infantil \"Pinta-Rocas\" en el Centro Maris Stella. Niños a partir de 5 años decorarán rocas para crear animales y criaturas."
+  },
+  "en": {
+   "titulo": "Rock Painting Workshop: Little Forest Artists",
+   "resumen": "Children's workshop \"Pinta-Rocas\" at the Maris Stella Center. Children aged 5 and up will decorate rocks to create animals and creatures."
+  },
+  "temas": [
+   "ninos",
+   "actividades",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "fbd743cbe1": {
+  "id": "b50049af5f",
+  "es": {
+   "titulo": "Talleres infantiles: Marionetas, globoflexia y pinta caras",
+   "resumen": "Disfruta de talleres infantiles de manualidades y animación en el Parque de Salvador Allende. Marionetas, globoflexia y pinta caras para toda la familia."
+  },
+  "en": {
+   "titulo": "Children's Workshops: Puppets, Balloon Modeling, and Face Painting",
+   "resumen": "Enjoy children's craft and animation workshops at Salvador Allende Park. Puppets, balloon modeling, and face painting for the whole family."
+  },
+  "temas": [
+   "ninos",
+   "actividades",
+   "cultura"
+  ],
+  "a_cubierto": false
+ },
+ "6512634f89": {
+  "id": "12ce05cbd1",
+  "es": {
+   "titulo": "Taller: Vigilantes del suelo",
+   "resumen": "Descubre el mundo bajo tus pies en el taller \"Vigilantes del suelo\" en el Centro Maris Stella. Experimentos para conocer el suelo."
+  },
+  "en": {
+   "titulo": "Workshop: Soil Watchers",
+   "resumen": "Discover the world beneath your feet in the \"Soil Watchers\" workshop at the Maris Stella Center. Experiments to learn about the soil."
+  },
+  "temas": [
+   "naturaleza",
+   "actividades",
+   "ninos"
+  ],
+  "a_cubierto": true
+ },
+ "662b4482be": {
+  "id": "5728ce3a42",
+  "es": {
+   "titulo": "Animación musical 'Turdiones piratas!!'",
+   "resumen": "Vive la energía y el ritmo de \"Turdiones piratas!!\" en el Parque de Salvador Allende. Una animación musical llena de baile y diversión."
+  },
+  "en": {
+   "titulo": "Musical Animation 'Pirate Turdions!!'",
+   "resumen": "Experience the energy and rhythm of \"Turdiones piratas!!\" at Salvador Allende Park. A musical animation full of dancing and fun."
+  },
+  "temas": [
+   "musica",
+   "fiestas",
+   "actividades"
+  ],
+  "a_cubierto": false
+ },
+ "caac9498a1": {
+  "id": "374a352fd6",
+  "es": {
+   "titulo": "Verne en el Teatro de Títeres de El Retiro",
+   "resumen": "Asiste a \"Verne\" en el Teatro de Títeres de El Retiro. Una propuesta teatral para disfrutar."
+  },
+  "en": {
+   "titulo": "Verne at El Retiro Puppet Theatre",
+   "resumen": "Attend \"Verne\" at the El Retiro Puppet Theatre. A theatrical performance to enjoy."
+  },
+  "temas": [
+   "cultura",
+   "ninos"
+  ],
+  "a_cubierto": true
+ },
+ "30301797b0": {
+  "id": "72fa1c1ee9",
+  "es": {
+   "titulo": "Música, literatura y cultura pop",
+   "resumen": "Jornada de música, literatura y cultura pop en Madrid. Incluye proyecciones, presentación literaria y conciertos."
+  },
+  "en": {
+   "titulo": "Music, Literature, and Pop Culture",
+   "resumen": "An event featuring music, literature, and pop culture in Madrid. Includes screenings, a literary presentation, and concerts."
+  },
+  "temas": [
+   "pantalla",
+   "libros",
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "81c8ec1364": {
+  "id": "a7981000bf",
+  "es": {
+   "titulo": "'Destape, tapa y tapete' de Liher Laya",
+   "resumen": "Exposición \"Destape, tapa y tapete\" de Liher Laya en la Biblioteca Pública Municipal Vallecas. Entrada libre hasta completar aforo."
+  },
+  "en": {
+   "titulo": "'Destape, tapa y tapete' by Liher Laya",
+   "resumen": "Exhibition \"Destape, tapa y tapete\" by Liher Laya at the Vallecas Municipal Public Library. Free entry until capacity is reached."
+  },
+  "temas": [
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": true
+ },
+ "dc722c513a": {
+  "id": "8f11d76459",
+  "es": {
+   "titulo": "'El punto de vista. Pinceladas de una vida' de Luis González",
+   "resumen": "Exposición \"El punto de vista. Pinceladas de una vida\" de Luis González en la Biblioteca Pública Municipal María Lejárraga. Entrada libre."
+  },
+  "en": {
+   "titulo": "'The Point of View. Brushstrokes of a Life' by Luis González",
+   "resumen": "Exhibition \"El punto de vista. Pinceladas de una vida\" by Luis González at the María Lejárraga Municipal Public Library. Free entry."
+  },
+  "temas": [
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": true
+ },
+ "fefa2f5aea": {
+  "id": "fa554b7aac",
+  "es": {
+   "titulo": "'Pepuka y el monstruo que se llevó su sonrisa'",
+   "resumen": "Asiste al cuento \"Pepuka y el monstruo que se llevó su sonrisa\" en la Biblioteca Pública Municipal Mario Vargas Llosa. Para niños a partir de 5 años."
+  },
+  "en": {
+   "titulo": "'Pepuka and the Monster Who Took Her Smile'",
+   "resumen": "Attend the story \"Pepuka y el monstruo que se llevó su sonrisa\" at the Mario Vargas Llosa Municipal Public Library. For children aged 5 and up."
+  },
+  "temas": [
+   "ninos",
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": true
+ },
+ "73d03d9229": {
+  "id": "09427491ec",
+  "es": {
+   "titulo": "'Trabajando por un barrio mejor'",
+   "resumen": "Visita la Biblioteca Pública Municipal San Fermín para la actividad \"Trabajando por un barrio mejor\". Entrada libre hasta completar aforo."
+  },
+  "en": {
+   "titulo": "'Working for a Better Neighborhood'",
+   "resumen": "Visit the San Fermín Municipal Public Library for the \"Working for a Better Neighborhood\" activity. Free entry until capacity is reached."
+  },
+  "temas": [
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": true
+ },
+ "3df0886bae": {
+  "id": "5db26a197a",
+  "es": {
+   "titulo": "¿Qué hacer ante la emergencia de la angustia?",
+   "resumen": "Charla sobre cómo gestionar la angustia en la Biblioteca Pública Municipal José Hierro de Madrid. Una oportunidad para aprender herramientas y estrategias ante situaciones de emergencia emocional."
+  },
+  "en": {
+   "titulo": "What to do in case of anguish emergency?",
+   "resumen": "A talk on how to manage anguish at the José Hierro Municipal Public Library in Madrid. An opportunity to learn tools and strategies for emotional emergencies."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "0d086d34c5": {
+  "id": "e672bac1f2",
+  "es": {
+   "titulo": "Monólogos de Quique Matilla",
+   "resumen": "El humorista Quique Matilla presenta su espectáculo de monólogos en Ampudia. Con más de 1.600 actuaciones, garantiza un show cómico basado en situaciones cotidianas."
+  },
+  "en": {
+   "titulo": "Quique Matilla's Monologues",
+   "resumen": "Comedian Quique Matilla presents his stand-up show in Ampudia. With over 1,600 performances, he guarantees a comedic show based on everyday situations."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "0533921e33": {
+  "id": "e3ec566229",
+  "es": {
+   "titulo": "Cervantes, encantado",
+   "resumen": "Experiencia inmersiva en realidad virtual que transporta al público al Siglo de Oro español. A través de unas gafas VR, se revive la vida de Cervantes y su época en Alcalá de Henares."
+  },
+  "en": {
+   "titulo": "Cervantes, Enchanted",
+   "resumen": "An immersive virtual reality experience that transports the audience to the Spanish Golden Age. Through VR goggles, the life of Cervantes and his era in Alcalá de Henares is relived."
+  },
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": null
+ },
+ "545e0ecd79": {
+  "id": "7682aa7ac5",
+  "es": {
+   "titulo": "Bebés de cuento: Punto de cuento",
+   "resumen": "Sesiones de animación a la lectura para bebés de 6 a 36 meses en la Biblioteca Pública de Segovia. Incluye cuentacuentos, canciones y talleres creativos."
+  },
+  "en": {
+   "titulo": "Storybook Babies: Punto de cuento",
+   "resumen": "Reading promotion sessions for babies aged 6 to 36 months at the Segovia Public Library. Includes storytelling, songs, and creative workshops."
+  },
+  "temas": [
+   "ninos",
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "d71609b6ae": {
+  "id": "19558a1690",
+  "es": {
+   "titulo": "Acústicos: Dúo Socorro",
+   "resumen": "El Dúo Socorro, con violín y guitarra, ofrece un viaje sonoro por swing, música klezmer y jazz en la Biblioteca Pública de Segovia. Interpretación cercana y enérgica."
+  },
+  "en": {
+   "titulo": "Acoustics: Dúo Socorro",
+   "resumen": "Dúo Socorro, featuring violin and guitar, offers a sonic journey through swing, klezmer, and jazz at the Segovia Public Library. An intimate and energetic performance."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "cd903903ef": {
+  "id": "b15a4c524f",
+  "es": {
+   "titulo": "VII Jornadas de Estudios Locales: Coomonte",
+   "resumen": "Jornadas dedicadas a la obra del escultor Jose Luis Coomonte en Zamora. Incluyen conferencias sobre su arte, su integración en el paisaje y su legado."
+  },
+  "en": {
+   "titulo": "VII Local Studies Conference: Coomonte",
+   "resumen": "Conferences dedicated to the work of sculptor Jose Luis Coomonte in Zamora. They include talks on his art, its integration into the landscape, and his legacy."
+  },
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": null
+ },
+ "a3f041af6e": {
+  "id": "58682a69e5",
+  "es": {
+   "titulo": "A contar Quijotes",
+   "resumen": "Espectáculo teatral musical para todas las edades que acerca la figura de Don Quijote a los más pequeños. Una versión divertida y disparatada con escenografías y canciones originales."
+  },
+  "en": {
+   "titulo": "Telling Quixote Stories",
+   "resumen": "A musical theater show for all ages that introduces the figure of Don Quixote to children. A fun and whimsical version with original sets and songs."
+  },
+  "temas": [
+   "ninos",
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "a1bc9c7a75": {
+  "id": "511c849b35",
+  "es": {
+   "titulo": "Ceferina y Ceferino comediantes del camino",
+   "resumen": "Comedia teatral sobre dos personajes dispares obligados a compartir escenario. Entre discusiones y humor, desvelan su situación mientras entretienen con historias, magia y canciones."
+  },
+  "en": {
+   "titulo": "Ceferina and Ceferino, Road Comedians",
+   "resumen": "A theatrical comedy about two disparate characters forced to share a stage. Amidst arguments and humor, they reveal their situation while entertaining with stories, magic, and songs."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "8018f3c2d5": {
+  "id": "78891ca941",
+  "es": {
+   "titulo": "Chefs",
+   "resumen": "Comedia teatral que explora el mundo de la gastronomía a través de un chef en apuros y su peculiar equipo. Humor y reflexión sobre la comida y la cocina."
+  },
+  "en": {
+   "titulo": "Chefs",
+   "resumen": "A comedic play exploring the world of gastronomy through a chef in trouble and his quirky team. Humor and reflection on food and cooking."
+  },
+  "temas": [
+   "cultura",
+   "gastronomia"
+  ],
+  "a_cubierto": null
+ },
+ "aa6848548f": {
+  "id": "9e57938c67",
+  "es": {
+   "titulo": "Fábula mundi / Cuentos del latir del mundo",
+   "resumen": "Cuentacuentos teatralizado para toda la familia con títeres, imágenes y música. Un viaje por relatos de diferentes culturas, promoviendo la empatía y la imaginación."
+  },
+  "en": {
+   "titulo": "Fábula mundi / Tales from the World's Beat",
+   "resumen": "A theatrical storytelling for the whole family with puppets, images, and music. A journey through tales from different cultures, promoting empathy and imagination."
+  },
+  "temas": [
+   "ninos",
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "71d705b0a1": {
+  "id": "073cd8acee",
+  "es": {
+   "titulo": "Homenaje a la Zarzuela",
+   "resumen": "Concierto de música clásica en homenaje a la Zarzuela. Una velada dedicada a este género lírico español."
+  },
+  "en": {
+   "titulo": "Homage to Zarzuela",
+   "resumen": "A classical music concert paying homage to Zarzuela. An evening dedicated to this Spanish lyrical genre."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "c9a30debe6": {
+  "id": "5634d528e8",
+  "es": {
+   "titulo": "La peoná",
+   "resumen": "Drama cómico ambientado en un barrio humilde de Andalucía. La historia de Charo y su lucha por mantener su negocio, contado desde la risa."
+  },
+  "en": {
+   "titulo": "La Peoná",
+   "resumen": "A comedic drama set in a humble neighborhood in Andalusia. The story of Charo and her struggle to keep her business afloat, told with humor."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "1a7c44d130": {
+  "id": "69bbd6196f",
+  "es": {
+   "titulo": "¡Mago a la fuga!: espectáculo de escapismo, humor y magia",
+   "resumen": "Espectáculo de magia y escapismo con toques de humor, ideal para todos los públicos. Combina interacción, ingenio y un final sorprendente."
+  },
+  "en": {
+   "titulo": "Magician on the Loose!: Escapism, Humor, and Magic Show",
+   "resumen": "A magic and escapism show with humorous touches, ideal for all audiences. It combines interaction, wit, and a surprising finale."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "fd5b904238": {
+  "id": "e3c847aa00",
+  "es": {
+   "titulo": "Majuelo en campos de Castilla",
+   "resumen": "Teatro multidisciplinar que explora la memoria rural y la adaptación a la ciudad a través del sonido, la palabra y el movimiento. Humor y reflexión sobre las raíces."
+  },
+  "en": {
+   "titulo": "Majuelo in the Fields of Castile",
+   "resumen": "A multidisciplinary theater piece exploring rural memory and adaptation to the city through sound, word, and movement. Humor and reflection on roots."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "6075952995": {
+  "id": "edc534d482",
+  "es": {
+   "titulo": "Redoxidables - Circonciencia",
+   "resumen": "Espectáculo de circo y ciencia para todos los públicos. Dos científicos transformados en superhéroes explican conceptos de Redox de forma divertida y original."
+  },
+  "en": {
+   "titulo": "Redoxidables - Circonciencia",
+   "resumen": "A circus and science show for all audiences. Two scientists transformed into superheroes explain Redox concepts in a fun and original way."
+  },
+  "temas": [
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": null
+ },
+ "f0d6f7c32a": {
+  "id": "5f8ef7688f",
+  "es": {
+   "titulo": "Tributo a El Arrebato, Melendi, Estopa...",
+   "resumen": "Concierto tributo a El Arrebato, con versiones de Estopa, Melendi y otros artistas. Saúl, reconocido por su estilo, ofrece un espectáculo de rumba pop y flamenco."
+  },
+  "en": {
+   "titulo": "Tribute to El Arrebato, Melendi, Estopa...",
+   "resumen": "A tribute concert to El Arrebato, featuring covers of Estopa, Melendi, and other artists. Saúl, recognized for his style, offers a rumba pop and flamenco show."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "79979a0395": {
+  "id": "4906edf03a",
+  "es": {
+   "titulo": "De memoria",
+   "resumen": "Espectáculo de narración oral que repasa leyendas y cuentos populares. Adaptable a cada público, combina risa, tradición y sentimiento."
+  },
+  "en": {
+   "titulo": "From Memory",
+   "resumen": "A storytelling performance that revisits legends and popular tales. Adaptable to each audience, it combines laughter, tradition, and emotion."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "d01edc7472": {
+  "id": "c8f30adf32",
+  "es": {
+   "titulo": "El cartero real: Navidad, magia y cuentacuentos",
+   "resumen": "Espectáculo navideño con cuentos, títeres, magia y música en vivo. Un cartero real narra historias intercaladas con trucos y canciones festivas."
+  },
+  "en": {
+   "titulo": "The Royal Postman: Christmas, Magic, and Storytelling",
+   "resumen": "A Christmas show featuring stories, puppets, magic, and live music. A royal postman narrates tales interspersed with tricks and festive songs."
+  },
+  "temas": [
+   "navidad",
+   "ninos",
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "2ede9b8315": {
+  "id": "525b0f69ce",
+  "es": {
+   "titulo": "La escuela de los vicios",
+   "resumen": "Adaptación teatral de las sátiras de Quevedo. Un diablo enseña a dos necios los vicios para ascender socialmente, con humor ácido y crítica a la corrupción."
+  },
+  "en": {
+   "titulo": "The School of Vices",
+   "resumen": "A theatrical adaptation of Quevedo's satires. A devil teaches two fools about vices for social advancement, with acidic humor and criticism of corruption."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "d080549517": {
+  "id": "22e26e12ab",
+  "es": {
+   "titulo": "Los monólogos de Chapu y Chavo",
+   "resumen": "Espectáculo de monólogos con humor generalista y rural sobre la vida en los pueblos de Castilla. Dos cómicos garantizan risas continuas."
+  },
+  "en": {
+   "titulo": "Chapu and Chavo's Monologues",
+   "resumen": "A stand-up comedy show with general and rural humor about life in the villages of Castile. Two comedians guarantee continuous laughter."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "69f8a27c06": {
+  "id": "56c7f8a695",
+  "es": {
+   "titulo": "Los panes y los peces",
+   "resumen": "Teatro que rinde homenaje a los mayores y a la vida rural. Explora la despoblación y la pérdida de raíces a través de una historia familiar con humor."
+  },
+  "en": {
+   "titulo": "The Loaves and the Fishes",
+   "resumen": "A play that pays homage to the elderly and rural life. It explores depopulation and the loss of roots through a family story with humor."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "52aaa8e436": {
+  "id": "6231fa8f11",
+  "es": {
+   "titulo": "Pinocha",
+   "resumen": "Musical infantil que narra la aventura de Pinocha, un títere que viaja a la Luna. Enseña sobre superación, aprendizaje y disfrutar del camino."
+  },
+  "en": {
+   "titulo": "Pinocha",
+   "resumen": "A children's musical telling the adventure of Pinocha, a puppet who travels to the Moon. It teaches about overcoming challenges, learning, and enjoying the journey."
+  },
+  "temas": [
+   "ninos",
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "1bf7c6e361": {
+  "id": "a41db772e0",
+  "es": {
+   "titulo": "Irati Castro Henrich: \"Eko eta itsasoa\"",
+   "resumen": "Concierto infantil donde Eko, un ser mágico, lucha contra la contaminación marina a través de la música. Explica problemas y soluciones para proteger el mar."
+  },
+  "en": {
+   "titulo": "Irati Castro Henrich: \"Eko and the Sea\"",
+   "resumen": "A children's concert where Eko, a magical being, fights marine pollution through music. It explains problems and solutions to protect the sea."
+  },
+  "temas": [
+   "ninos",
+   "musica",
+   "naturaleza"
+  ],
+  "a_cubierto": null
+ },
+ "917a9257d2": {
+  "id": "0dedbfd9b7",
+  "es": {
+   "titulo": "ANESTESIA + TXATAR en Azpeitia",
+   "resumen": "Concierto especial de Anestesia para celebrar el 30 aniversario de su LP \"Erantzun\". La banda actuará en el Sanagustin kulturgunea de Azpeitia el 14 de noviembre."
+  },
+  "en": {
+   "titulo": "ANESTESIA + TXATAR in Azpeitia",
+   "resumen": "Special concert by Anestesia to celebrate the 30th anniversary of their album \"Erantzun\". The band will perform at Sanagustin kulturgunea in Azpeitia on November 14th."
+  },
+  "temas": [
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "b68a057d51": {
+  "id": "4cba59e572",
+  "es": {
+   "titulo": "+dMANÁ (Tributo a Maná) en Bilbao",
+   "resumen": "La banda tributo a Maná, +dMANÁ, recrea la mítica gira \"Amar es combatir\" de 2007 en el Kafe Antzokia de Bilbao. Revive los grandes éxitos del rock latino."
+  },
+  "en": {
+   "titulo": "+dMANÁ (Tribute to Maná) in Bilbao",
+   "resumen": "The Maná tribute band, +dMANÁ, recreates the legendary \"Amar es combatir\" tour from 2007 at the Kafe Antzokia in Bilbao. Relive the greatest hits of Latin rock."
+  },
+  "temas": [
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "57f0e00dbd": {
+  "id": "fa61ba0de8",
+  "es": {
+   "titulo": "Raimundo El Canastero + BROKEN BROTHERS BRASS BAND + MOISES NO DUERME en Villava/Atarrabia",
+   "resumen": "Concierto en la Sala Totem con Raimundo el Canastero, conocido por su voz flamenca, acompañado por BROKEN BROTHERS BRASS BAND y MOISES NO DUERME. Una noche de música intensa."
+  },
+  "en": {
+   "titulo": "Raimundo El Canastero + BROKEN BROTHERS BRASS BAND + MOISES NO DUERME in Villava/Atarrabia",
+   "resumen": "Concert at Sala Totem featuring Raimundo el Canastero, known for his soulful flamenco voice, accompanied by BROKEN BROTHERS BRASS BAND and MOISES NO DUERME. A night of intense music."
+  },
+  "temas": [
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "a528b3d6fd": {
+  "id": "b822e16834",
+  "es": {
+   "titulo": "BLOW UP FEST 2026: THE NOMADS + SEX MUSEUM + HENRI HERBERT & THE FURY en Bilbao",
+   "resumen": "El Blow Up Fest 2026 llega a la sala Santana 27 de Bilbao con The Nomads, Sex Museum y Henri Herbert & The Fury. Tres décadas de rock and roll y garage rock."
+  },
+  "en": {
+   "titulo": "BLOW UP FEST 2026: THE NOMADS + SEX MUSEUM + HENRI HERBERT & THE FURY in Bilbao",
+   "resumen": "Blow Up Fest 2026 takes place at Santana 27 venue in Bilbao, featuring The Nomads, Sex Museum, and Henri Herbert & The Fury. Experience decades of rock and roll and garage rock."
+  },
+  "temas": [
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "d7cc8424e7": {
+  "id": "ff1078dcd8",
+  "es": {
+   "titulo": "Komedia Fest 2026: \"Despotorre\" en Eibar",
+   "resumen": "Dentro del Komedia Fest 2026, Ane Lindane y Raquel Torres presentan \"Despotorre\" en el Teatro Coliseo de Eibar. Un espectáculo donde cómicos probarán sus nuevos textos."
+  },
+  "en": {
+   "titulo": "Komedia Fest 2026: \"Despotorre\" in Eibar",
+   "resumen": "As part of Komedia Fest 2026, Ane Lindane and Raquel Torres present \"Despotorre\" at the Teatro Coliseo in Eibar. A show where comedians will test their new material."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "17e62b86f3": {
+  "id": "ae43bff449",
+  "es": {
+   "titulo": "Euskal Herriko Bertsolari Txapelketa 2026: semifinal en Biarritz",
+   "resumen": "Semifinal del Campeonato de Euskal Herria de Bertsolaris 2026 en Biarritz. Participan destacados bertsolaris como Maddalen Arzallus y Sustrai Colina."
+  },
+  "en": {
+   "titulo": "Euskal Herriko Bertsolari Txapelketa 2026: semifinal in Biarritz",
+   "resumen": "Semifinal of the Euskal Herria Bertsolari Championship 2026 in Biarritz. Featuring prominent bertsolaris such as Maddalen Arzallus and Sustrai Colina."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "9dc2b04cf5": {
+  "id": "2a205b4f26",
+  "es": {
+   "titulo": "Documental \"Bihotza, la vida en Álava como nunca la habías visto\"",
+   "resumen": "Proyección del documental \"Bihotza, la vida en Álava como nunca la habías visto\". Un recorrido de 45 minutos por la riqueza medioambiental de Álava, con el mayor índice de biodiversidad de la península."
+  },
+  "en": {
+   "titulo": "Documentary \"Bihotza, life in Álava as you've never seen it\"",
+   "resumen": "Screening of the documentary \"Bihotza, life in Álava as you've never seen it\". A 45-minute journey through Álava's environmental richness, boasting the highest biodiversity index on the Iberian Peninsula."
+  },
+  "temas": [
+   "naturaleza",
+   "pantalla"
+  ],
+  "a_cubierto": true
+ },
+ "6527a4f6cd": {
+  "id": "90e25d9c25",
+  "es": {
+   "titulo": "Maika Makovski + Geminiss La Banda en Vitoria-Gasteiz",
+   "resumen": "Concierto de Maika Makovski y Geminiss La Banda el 14 de noviembre en la sala HellDorado de Vitoria-Gasteiz. Una noche de música en directo."
+  },
+  "en": {
+   "titulo": "Maika Makovski + Geminiss La Banda in Vitoria-Gasteiz",
+   "resumen": "Concert by Maika Makovski and Geminiss La Banda on November 14th at the HellDorado venue in Vitoria-Gasteiz. An evening of live music."
+  },
+  "temas": [
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "0afe63e563": {
+  "id": "042262f08a",
+  "es": {
+   "titulo": "Lectura del libro \"Tartaro\" en Cambo-les-Bains",
+   "resumen": "Presentación y lectura del libro \"Tartaro\" de Xantal Barnetxe, dirigido a niños de 7 a 10 años, en Cambo-les-Bains. Una actividad para fomentar la lectura infantil."
+  },
+  "en": {
+   "titulo": "Reading of the book \"Tartaro\" in Cambo-les-Bains",
+   "resumen": "Presentation and reading of the book \"Tartaro\" by Xantal Barnetxe, aimed at children aged 7 to 10, in Cambo-les-Bains. An activity to encourage children's reading."
+  },
+  "temas": [
+   "libros",
+   "ninos"
+  ],
+  "a_cubierto": true
+ },
+ "aed80f03bb": {
+  "id": "85b51eb798",
+  "es": {
+   "titulo": "Iván Ferreiro en San Sebastián",
+   "resumen": "Iván Ferreiro celebra 35 años de carrera con la gira \"Hoy x Ayer\" en el Kursaal de San Sebastián. Repasará grandes éxitos de Los Piratas y su etapa en solitario."
+  },
+  "en": {
+   "titulo": "Iván Ferreiro in San Sebastián",
+   "resumen": "Iván Ferreiro celebrates 35 years in music with the \"Hoy x Ayer\" tour at the Kursaal in San Sebastián. He will revisit his greatest hits from Los Piratas and his solo career."
+  },
+  "temas": [
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "923ffc8a81": {
+  "id": "1983c1569d",
+  "es": {
+   "titulo": "Jorge Santos: \"Todos Locos: un monólogo sobre salud mental\" en Bilbao",
+   "resumen": "Jorge Santos presenta \"Todos Locos\", un monólogo de comedia sobre salud mental en el Teatro Campos Elíseos de Bilbao. Humor honesto para reflexionar sobre la ansiedad y la autoexigencia."
+  },
+  "en": {
+   "titulo": "Jorge Santos: \"Todos Locos: a monologue on mental health\" in Bilbao",
+   "resumen": "Jorge Santos presents \"Todos Locos\", a comedy monologue about mental health at the Teatro Campos Elíseos in Bilbao. Honest humor to reflect on anxiety and self-demand."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "3c1f183f39": {
+  "id": "eebdc02aad",
+  "es": {
+   "titulo": "AURUM Bandas Sonoras a la luz de las velas en Tudela",
+   "resumen": "Experiencia única \"AURUM Bandas Sonoras a la luz de las velas\" en el Teatro Gaztambide de Tudela. La orquesta y coro interpretan icónicas bandas sonoras de cine en un ambiente íntimo."
+  },
+  "en": {
+   "titulo": "AURUM Soundtracks by candlelight in Tudela",
+   "resumen": "Unique experience \"AURUM Soundtracks by candlelight\" at the Teatro Gaztambide in Tudela. The orchestra and choir perform iconic film soundtracks in an intimate setting."
+  },
+  "temas": [
+   "musica",
+   "pantalla"
+  ],
+  "a_cubierto": true
+ },
+ "d96074f2d6": {
+  "id": "99fdb479bd",
+  "es": {
+   "titulo": "Camino Escena Norte 2026: \"EL ÚLTIMO AULLIDO\" en Altsasu/Alsasua",
+   "resumen": "Dentro del festival Camino Escena Norte 2026, se presenta \"EL ÚLTIMO AULLIDO\" en el Centro Cultural Iortia de Altsasu/Alsasua. Un montaje documental sobre el sumario 18/98."
+  },
+  "en": {
+   "titulo": "Camino Escena Norte 2026: \"EL ÚLTIMO AULLIDO\" in Altsasu/Alsasua",
+   "resumen": "As part of the Camino Escena Norte 2026 festival, \"EL ÚLTIMO AULLIDO\" is presented at the Iortia Cultural Center in Altsasu/Alsasua. A documentary play about the 18/98 legal case."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "143b506fec": {
+  "id": "b68249f6fd",
+  "es": {
+   "titulo": "\"On time\" (Estreno en Euskadi) en Barakaldo",
+   "resumen": "Estreno en Euskadi del espectáculo de danza contemporánea \"On Time\" en Barakaldo. Tres piezas de coreógrafas reconocidas exploran retos artísticos con bailarines diversos."
+  },
+  "en": {
+   "titulo": "\"On time\" (Euskadi Premiere) in Barakaldo",
+   "resumen": "Euskadi premiere of the contemporary dance performance \"On Time\" in Barakaldo. Three pieces by renowned choreographers explore artistic challenges with diverse dancers."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "c35bd38382": {
+  "id": "b528ee1b63",
+  "es": {
+   "titulo": "\"Esencia\" con Juan Echanove y Joaquín Climent en Donostia / San Sebastián",
+   "resumen": "Juan Echanove y Joaquín Climent protagonizan \"Esencia\" en el Teatro Victoria Eugenia de Donostia. Una obra sobre la percepción y la realidad, ganadora de premios Talía."
+  },
+  "en": {
+   "titulo": "\"Esencia\" with Juan Echanove and Joaquín Climent in Donostia / San Sebastián",
+   "resumen": "Juan Echanove and Joaquín Climent star in \"Esencia\" at the Teatro Victoria Eugenia in Donostia. A play about perception and reality, winner of Talía awards."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "a1a5fee4e9": {
+  "id": "a8352ea7b4",
+  "es": {
+   "titulo": "Literaktum 2026: \"Enperadorearen kondaira\" en Donostia / San Sebastián",
+   "resumen": "Espectáculo de sombras chinescas \"Enperadorearen kondaira\" del grupo Patata Tropikala dentro de Literaktum 2026 en el Centro Cultural Larratxo (Donostia). Para mayores de 4 años."
+  },
+  "en": {
+   "titulo": "Literaktum 2026: \"Enperadorearen kondaira\" in Donostia / San Sebastián",
+   "resumen": "Chinese shadow play \"Enperadorearen kondaira\" by Patata Tropikala as part of Literaktum 2026 at Larratxo Cultural Center (Donostia). For ages 4+."
+  },
+  "temas": [
+   "cultura",
+   "ninos"
+  ],
+  "a_cubierto": true
+ },
+ "3ddf5a04c9": {
+  "id": "ee7497355d",
+  "es": {
+   "titulo": "Literaktum 2026: \"La loca historia del siglo de Oro\" en Donostia / San Sebastián",
+   "resumen": "La obra \"La loca historia del siglo de Oro\" de La escalera de tijera y Z teatro se presenta en Literaktum 2026 en Donostia. Un repaso al Siglo de Oro con humor, clown y música."
+  },
+  "en": {
+   "titulo": "Literaktum 2026: \"La loca historia del siglo de Oro\" in Donostia / San Sebastián",
+   "resumen": "The play \"La loca historia del siglo de Oro\" by La escalera de tijera and Z teatro is presented at Literaktum 2026 in Donostia. A review of the Spanish Golden Age with humor, clowning, and music."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "4e92f1bb6a": {
+  "id": "e35e5b343c",
+  "es": {
+   "titulo": "Izaki Gardenak + Hondora en Donostia / San Sebastián",
+   "resumen": "Últimos conciertos de Izaki Gardenak antes de una pausa indefinida, junto a Hondora, en la Sala Intxaurrondo de Donostia. Música en directo con influencias diversas."
+  },
+  "en": {
+   "titulo": "Izaki Gardenak + Hondora in Donostia / San Sebastián",
+   "resumen": "Final concerts by Izaki Gardenak before an indefinite break, alongside Hondora, at Sala Intxaurrondo in Donostia. Live music with diverse influences."
+  },
+  "temas": [
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "5b2190d4e1": {
+  "id": "ebb57912bf",
+  "es": {
+   "titulo": "\"Alai familian\" en Tolosa",
+   "resumen": "La compañía Lasala presenta \"Alai familian\" en el Leidor Aretoa de Tolosa. Una obra sobre la diversidad familiar y la amistad, para público infantil y familiar."
+  },
+  "en": {
+   "titulo": "\"Alai familian\" in Tolosa",
+   "resumen": "The company Lasala presents \"Alai familian\" at the Leidor Aretoa in Tolosa. A play about family diversity and friendship, for children and families."
+  },
+  "temas": [
+   "ninos",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "b518f75013": {
+  "id": "40f0cd9586",
+  "es": {
+   "titulo": "\"Sidari\" en Igorre",
+   "resumen": "La obra \"Sidari\" de Xake Produkzioak se presenta en Lasarte Aretoa (Igorre). Una pareja en un viaje por Europa se encuentra con una pareja de ancianos que podría ser su futuro."
+  },
+  "en": {
+   "titulo": "\"Sidari\" in Igorre",
+   "resumen": "The play \"Sidari\" by Xake Produkzioak is presented at Lasarte Aretoa (Igorre). A couple on a European trip encounters an elderly couple who might be their future selves."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "1fcd7bedd3": {
+  "id": "8564a27bb2",
+  "es": {
+   "titulo": "Tigre y Diamante + Muñeca Rusa en Vitoria-Gasteiz",
+   "resumen": "Concierto de garage-punk con Tigre y Diamante y la banda indie Muñeca Rusa en Vitoria-Gasteiz. Noche de guitarras afiladas y energía rockera."
+  },
+  "en": {
+   "titulo": "Tigre y Diamante + Muñeca Rusa in Vitoria-Gasteiz",
+   "resumen": "Garage-punk concert featuring Tigre y Diamante and the indie band Muñeca Rusa in Vitoria-Gasteiz. A night of sharp guitars and rock energy."
+  },
+  "temas": [
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "8081b417df": {
+  "id": "5c5d8ee315",
+  "es": {
+   "titulo": "JP Fernandez en Bilbao",
+   "resumen": "JP Fernandez presenta su gira \"Sombras y Destellos\" en la Sala Santana 27 de Bilbao. Un viaje musical que conecta emociones y recuerdos."
+  },
+  "en": {
+   "titulo": "JP Fernandez in Bilbao",
+   "resumen": "JP Fernandez presents his \"Sombras y Destellos\" tour at Sala Santana 27 in Bilbao. A musical journey connecting emotions and memories."
+  },
+  "temas": [
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "b0655583a5": {
+  "id": "4a0d128db5",
+  "es": {
+   "titulo": "Sendaberri 2026: \"Elara, bidaia bat izarretara\" en Bera",
+   "resumen": "La Casa de Cultura de Bera acoge \"Elara, bidaia bat izarretara\" dentro de Sendaberri 2026. Una obra que aborda el duelo infantil y la pérdida de forma sensible."
+  },
+  "en": {
+   "titulo": "Sendaberri 2026: \"Elara, bidaia bat izarretara\" in Bera",
+   "resumen": "The Bera House of Culture hosts \"Elara, bidaia bat izarretara\" as part of Sendaberri 2026. A play that sensitively addresses childhood grief and loss."
+  },
+  "temas": [
+   "ninos",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "69dd09bfbe": {
+  "id": "0aeea9a893",
+  "es": {
+   "titulo": "\"Maurice Ravel: un compositor con alma vasca\" en Leioa",
+   "resumen": "Concierto divulgativo en Kultur Leioa sobre la relación de Maurice Ravel con el País Vasco. Interpretación de su Trío en la menor y obras de compositores vascos."
+  },
+  "en": {
+   "titulo": "\"Maurice Ravel: a composer with Basque soul\" in Leioa",
+   "resumen": "Educational concert at Kultur Leioa exploring Maurice Ravel's connection to the Basque Country. Featuring his Trio in A minor and works by Basque composers."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "af69474c78": {
+  "id": "bbe0bc2015",
+  "es": {
+   "titulo": "Metal United Fest 2026 en Bilbao",
+   "resumen": "Primera edición del Metal United Fest en D8 Sorkuntza Faktoria (Bilbao) con Azrael, Mandragora Negra, BudaSam y Mala Decisión. Una noche de heavy metal y hard rock."
+  },
+  "en": {
+   "titulo": "Metal United Fest 2026 in Bilbao",
+   "resumen": "First edition of Metal United Fest at D8 Sorkuntza Faktoria (Bilbao) featuring Azrael, Mandragora Negra, BudaSam, and Mala Decisión. A night of heavy metal and hard rock."
+  },
+  "temas": [
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "9e5c76d30f": {
+  "id": "013d806734",
+  "es": {
+   "titulo": "Quincena Musical de Durango: Antón Gómez & Michel Reynoso",
+   "resumen": "Concierto de música de cámara en la Quincena Musical de Durango. El pianista Michel Reynoso y el saxofonista Antón Gómez presentan un repertorio que abarca desde lo clásico hasta lo contemporáneo, con la participación especial de una bailarina."
+  },
+  "en": {
+   "titulo": "Durango Musical Fortnight: Antón Gómez & Michel Reynoso",
+   "resumen": "Chamber music concert at the Durango Musical Fortnight. Pianist Michel Reynoso and saxophonist Antón Gómez present a repertoire ranging from classical to contemporary, with a special appearance by a dancer."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "f3d27f4661": {
+  "id": "810f620b8f",
+  "es": {
+   "titulo": "Dirdir 2026: Fantasma Sur: \"Un año, una noche\"",
+   "resumen": "Concierto y proyección cinematográfica dentro del festival Dirdir 2026. Alondra Bentley y Ylia fusionan voz y electrónica en un espectáculo atmosférico, acompañado por proyecciones interactivas de Isaki Lacuesta."
+  },
+  "en": {
+   "titulo": "Dirdir 2026: Fantasma Sur: \"One Year, One Night\"",
+   "resumen": "Concert and film screening within the Dirdir 2026 festival. Alondra Bentley and Ylia merge voice and electronics in an atmospheric show, accompanied by interactive projections by Isaki Lacuesta."
+  },
+  "temas": [
+   "musica",
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": null
+ },
+ "861024c7e7": {
+  "id": "9b42cbfce4",
+  "es": {
+   "titulo": "Dirdir 2026: \"Conversación con Isaki Lacuesta\"",
+   "resumen": "Charla con el cineasta Isaki Lacuesta en el festival Dirdir 2026. Se abordarán sus proyectos multidisciplinares, incluyendo \"Fantasma Sur\" y su película \"Un año, una noche\", explorando la conexión entre cine, arte y música."
+  },
+  "en": {
+   "titulo": "Dirdir 2026: \"Conversation with Isaki Lacuesta\"",
+   "resumen": "Talk with filmmaker Isaki Lacuesta at the Dirdir 2026 festival. His multidisciplinary projects, including \"Fantasma Sur\" and his film \"One Year, One Night,\" will be discussed, exploring the connection between cinema, art, and music."
+  },
+  "temas": [
+   "cultura",
+   "pantalla",
+   "musica"
+  ],
+  "a_cubierto": null
+ },
+ "cd61cb8845": {
+  "id": "0eefd628a8",
+  "es": {
+   "titulo": "\"Bodas de sangre\"",
+   "resumen": "Representación teatral amateur de \"Bodas de sangre\" para público adulto en el Berango Antzokia. La obra se presenta en castellano."
+  },
+  "en": {
+   "titulo": "\"Bodas de sangre\" (Blood Wedding)",
+   "resumen": "Amateur theater performance of \"Bodas de sangre\" for an adult audience at Berango Antzokia. The play is presented in Spanish."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "5212041cc5": {
+  "id": "9a7efee241",
+  "es": {
+   "titulo": "\"Bidutzi\"",
+   "resumen": "Espectáculo de humor para público infantil y familiar a partir de tres años. \"Bidutzi\" utiliza títeres y música en directo para crear una experiencia divertida y teatral en Carnaval."
+  },
+  "en": {
+   "titulo": "\"Bidutzi\"",
+   "resumen": "Humorous show for children and families aged three and up. \"Bidutzi\" uses puppets and live music to create a fun and theatrical experience during Carnival."
+  },
+  "temas": [
+   "cultura",
+   "ninos",
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "bf33678968": {
+  "id": "592bf57846",
+  "es": {
+   "titulo": "Euskadiko Orkestra 2026/2027: \"Matinée de Miramon 4: La Brisa Ensemble\"",
+   "resumen": "Concierto de música de cámara de la temporada 2026/27 de Euskadiko Orkestra. El ciclo Matinées de Miramon presenta diversas formaciones, incluyendo un homenaje al Día de San Sebastián y la presencia destacada del jazz."
+  },
+  "en": {
+   "titulo": "Euskadiko Orkestra 2026/2027: \"Matinée de Miramon 4: La Brisa Ensemble\"",
+   "resumen": "Chamber music concert from the 2026/27 season of Euskadiko Orkestra. The Matinées de Miramon series features various ensembles, including a tribute to San Sebastián Day and a prominent jazz segment."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "7e346fd1dc": {
+  "id": "651e7af797",
+  "es": {
+   "titulo": "Confluencias 2026: Podcast en directo: \"Bombificadas\"",
+   "resumen": "Encuentro cultural feminista en Pamplona con la realización en directo del podcast \"Bombificadas\". Samantha Hudson y María Barrier conversarán sobre cultura y entretenimiento con perspectiva de género."
+  },
+  "en": {
+   "titulo": "Confluencias 2026: Live Podcast: \"Bombificadas\"",
+   "resumen": "Feminist cultural event in Pamplona featuring a live recording of the podcast \"Bombificadas.\" Samantha Hudson and María Barrier will discuss culture and entertainment with a gender perspective."
+  },
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": true
+ },
+ "b5bda2bd20": {
+  "id": "e48208c3f6",
+  "es": {
+   "titulo": "\"Ardatzak\"",
+   "resumen": "Espectáculo de circo y homenaje al diábolo, un juguete de antaño. Los malabaristas Gorka e Imanol exploran la estabilidad a través del movimiento, en una obra poética y emotiva."
+  },
+  "en": {
+   "titulo": "\"Ardatzak\"",
+   "resumen": "Circus show and tribute to the diabolo, a classic toy. Jugglers Gorka and Imanol explore stability through movement in a poetic and emotional performance."
+  },
+  "temas": [
+   "cultura",
+   "ninos"
+  ],
+  "a_cubierto": true
+ },
+ "16780a1888": {
+  "id": "77a9f2ddf7",
+  "es": {
+   "titulo": "Lucia Lacarra Ballet: \"A.I. (Amalur Indarra)\"",
+   "resumen": "El Lucia Lacarra Ballet presenta \"A.I. (Amalur Indarra)\", una obra que cuestiona el papel de la creatividad humana frente a la Inteligencia Artificial y busca reconectar con la fuerza de la Tierra."
+  },
+  "en": {
+   "titulo": "Lucia Lacarra Ballet: \"A.I. (Amalur Indarra)\"",
+   "resumen": "Lucia Lacarra Ballet presents \"A.I. (Amalur Indarra),\" a piece questioning the role of human creativity against Artificial Intelligence and seeking to reconnect with the Earth's strength."
+  },
+  "temas": [
+   "cultura",
+   "musica",
+   "deporte"
+  ],
+  "a_cubierto": null
+ },
+ "2ea78cee79": {
+  "id": "84da6d94e0",
+  "es": {
+   "titulo": "Udazkena musikaz 2026 - Festival Internacional de Órgano de Alegia",
+   "resumen": "Primera edición del Festival Internacional de Órgano de Alegia, con cuatro conciertos de órgano acompañados de otros instrumentos o canto, celebrando el 145 aniversario del órgano local."
+  },
+  "en": {
+   "titulo": "Udazkena musikaz 2026 - Alegia International Organ Festival",
+   "resumen": "First edition of the Alegia International Organ Festival, featuring four organ concerts accompanied by other instruments or voice, celebrating the 145th anniversary of the local organ."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "11c7ec6f11": {
+  "id": "55ffc2b66c",
+  "es": {
+   "titulo": "Camino Escena Norte 2026: \"52 hercios\"",
+   "resumen": "Obra teatral que utiliza la metáfora de una ballena solitaria que emite un sonido inaudible para su especie, explorando el aislamiento social y la soledad no deseada."
+  },
+  "en": {
+   "titulo": "Camino Escena Norte 2026: \"52 Hertz\"",
+   "resumen": "Theatrical play using the metaphor of a lonely whale emitting a sound inaudible to its species, exploring social isolation and unwanted loneliness."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "cb4e1ea257": {
+  "id": "11912ef61f",
+  "es": {
+   "titulo": "Udazkena musikaz 2026: MATÍAS SAGRERAS y ENSEMBLE 16'",
+   "resumen": "Concierto de órgano y coro dentro del Festival Internacional de Órgano de Alegia \"Udazkena Musikaz 2026\", a cargo de Matías Sagreras y Ensemble 16'."
+  },
+  "en": {
+   "titulo": "Udazkena musikaz 2026: MATÍAS SAGRERAS & ENSEMBLE 16'",
+   "resumen": "Organ and choir concert as part of the \"Udazkena Musikaz 2026\" International Organ Festival in Alegia, performed by Matías Sagreras and Ensemble 16'."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "343710839c": {
+  "id": "58d664c862",
+  "es": {
+   "titulo": "Udazkena musikaz 2026 - Festival Internacional de Órgano de Alegia: Oier Gaston + Mikel Maniega",
+   "resumen": "Concierto de órgano y trompeta en el Festival Internacional de Órgano de Alegia. Oier Gaston al órgano y Mikel Maniega a la trompeta ofrecerán un recital."
+  },
+  "en": {
+   "titulo": "Udazkena musikaz 2026 - Alegia International Organ Festival: Oier Gaston + Mikel Maniega",
+   "resumen": "Organ and trumpet concert at the Alegia International Organ Festival. Oier Gaston on organ and Mikel Maniega on trumpet will perform a recital."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "e6f8ca1732": {
+  "id": "870a202afc",
+  "es": {
+   "titulo": "Geuretik sortuak: \"Etxea\"",
+   "resumen": "Obra teatral que explora las heridas y sueños rotos de cuatro generaciones en una casa. Se abordan temas como la precariedad, la nostalgia y el futuro incierto."
+  },
+  "en": {
+   "titulo": "Geuretik sortuak: \"Etxea\" (Home)",
+   "resumen": "Theatrical play exploring the wounds and broken dreams of four generations within a house. It addresses themes of precariousness, nostalgia, and an uncertain future."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "da7f04cabe": {
+  "id": "4597d121ef",
+  "es": {
+   "titulo": "Taller: \"Midori koadernoa\"",
+   "resumen": "Taller de encuadernación para crear un cuaderno de viaje o \"Midori\". Aprende sobre materiales y técnicas de encuadernación en este taller práctico."
+  },
+  "en": {
+   "titulo": "Workshop: \"Midori Notebook\"",
+   "resumen": "Bookbinding workshop to create a travel notebook or \"Midori.\" Learn about binding materials and techniques in this hands-on session."
+  },
+  "temas": [
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": true
+ },
+ "e0de514ecc": {
+  "id": "dd76c0f27e",
+  "es": {
+   "titulo": "Girando por Navarra 2026: Puntu Takoma",
+   "resumen": "Concierto de \"Puntu Takoma\" como parte del programa \"Girando por Navarra 2026\". El ciclo presenta doce conciertos de artistas emergentes navarros en diversas localidades."
+  },
+  "en": {
+   "titulo": "Touring Navarre 2026: Puntu Takoma",
+   "resumen": "Concert by \"Puntu Takoma\" as part of the \"Touring Navarre 2026\" program. The series features twelve concerts by emerging Navarrese artists in various towns."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "d95ce4afbb": {
+  "id": "c1ffb6f862",
+  "es": {
+   "titulo": "Club de lectura clásica (2026-2027): \"Cantra de los Nibelungos\"",
+   "resumen": "Club de lectura centrado en \"Cantar de los Nibelungos\", una obra cumbre de la épica universal. Se exploran diferentes movimientos literarios y épocas."
+  },
+  "en": {
+   "titulo": "Classic Book Club (2026-2027): \"Song of the Nibelungs\"",
+   "resumen": "Book club focusing on \"Song of the Nibelungs,\" a masterpiece of universal epic poetry. Different literary movements and eras will be explored."
+  },
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "f9b6681dc4": {
+  "id": "00a952e182",
+  "es": {
+   "titulo": "\"El espíritu de la Zarzuela\"",
+   "resumen": "Comedia musical que evoca la zarzuela con actuaciones y enredos divertidos. Una obra ligera y alegre para mayores de 14 años."
+  },
+  "en": {
+   "titulo": "\"The Spirit of Zarzuela\"",
+   "resumen": "Musical comedy evoking zarzuela with performances and humorous entanglements. A lighthearted and cheerful play for ages 14 and up."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "9d0d4c78d3": {
+  "id": "e5205edb6b",
+  "es": {
+   "titulo": "Pablo Torti 4tet",
+   "resumen": "Concierto de jazz contemporáneo de Pablo Torti 4tet en Altxerri Jazz Bar. La banda presenta composiciones originales inspiradas en poemas de Miguel Hernández."
+  },
+  "en": {
+   "titulo": "Pablo Torti 4tet",
+   "resumen": "Contemporary jazz concert by Pablo Torti 4tet at Altxerri Jazz Bar. The band presents original compositions inspired by poems by Miguel Hernández."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "d77e7491d5": {
+  "id": "3279ed4908",
+  "es": {
+   "titulo": "Auzo Eszena 2026 (otoño): \"El gran inmolador\"",
+   "resumen": "Obra teatral \"El gran inmolador\" dentro del festival Auzo Eszena 2026. Un reality show de los 2000 donde cinco mujeres compiten en un concurso de popularidad que podría costarles la vida."
+  },
+  "en": {
+   "titulo": "Auzo Eszena 2026 (Autumn): \"The Great Immolator\"",
+   "resumen": "Theatrical play \"El gran inmolador\" as part of the Auzo Eszena 2026 festival. A reality show set in the 2000s where five women compete in a popularity contest that could cost them their lives."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "80702caebc": {
+  "id": "a64ce2b90d",
+  "es": {
+   "titulo": "Visita guiada: \"Bizitza paraleloak. La memoria de las copias\"",
+   "resumen": "Exposición en el Museo de Reproducciones de Bilbao sobre el valor de las copias artísticas para la conservación del patrimonio cultural. Se reflexiona sobre su papel histórico y de investigación."
+  },
+  "en": {
+   "titulo": "Guided Tour: \"Bizitza paraleloak. The Memory of Copies\"",
+   "resumen": "Exhibition at the Bilbao Museum of Reproductions exploring the value of artistic copies in preserving cultural heritage. It reflects on their historical and research roles."
+  },
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true
+ },
+ "8107668810": {
+  "id": "a5719db521",
+  "es": {
+   "titulo": "JazzOn Fest 2026: KALEIDOSCOPE & EVA FERNÁNDEZ",
+   "resumen": "Concierto de jazz dentro del festival JazzOn Fest 2026. Eva Fernández (saxo y voz) y Kaleidoscope ofrecerán un repertorio de jazz moderno."
+  },
+  "en": {
+   "titulo": "JazzOn Fest 2026: KALEIDOSCOPE & EVA FERNÁNDEZ",
+   "resumen": "Jazz concert within the JazzOn Fest 2026 festival. Eva Fernández (sax and vocals) and Kaleidoscope will perform a modern jazz repertoire."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "d061ef7ebe": {
+  "id": "13eb7cb299",
+  "es": {
+   "titulo": "Klasikoak 2026: \"Queen Kelly (La reina Kelly)\"",
+   "resumen": "Proyección de la película muda \"Queen Kelly\" (1929) dentro del ciclo Klasikoak de la Filmoteca Vasca. Una comedia dramática ambientada en un convento."
+  },
+  "en": {
+   "titulo": "Klasikoak 2026: \"Queen Kelly\"",
+   "resumen": "Screening of the silent film \"Queen Kelly\" (1929) as part of the Klasikoak series by the Basque Film Archive. A dramatic comedy set in a convent."
+  },
+  "temas": [
+   "pantalla",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "b4077c50cd": {
+  "id": "36778bfd34",
+  "es": {
+   "titulo": "\"Kapikua Cirkus\"",
+   "resumen": "Espectáculo de clown y circo con \"Kapikua Cirkus\". Dos clowns, a pesar de su maestría, parecen haber olvidado sus habilidades, ofreciendo números de equilibrio y malabares."
+  },
+  "en": {
+   "titulo": "\"Kapikua Cirkus\"",
+   "resumen": "Clown and circus show \"Kapikua Cirkus.\" Two clowns, despite their mastery, seem to have forgotten their skills, presenting balancing and juggling acts."
+  },
+  "temas": [
+   "cultura",
+   "ninos"
+  ],
+  "a_cubierto": true
+ },
+ "3470f11ca3": {
+  "id": "0e44d6cfb0",
+  "es": {
+   "titulo": "Eresmin Abesbatza: \"Itsasoa eta euskal kantua\"",
+   "resumen": "Encuentro coral \"Itsasoa eta euskal kantua\" organizado por Eresmin Abesbatza. Diversas corales de Euskal Herria actuarán en iglesias de Donostia."
+  },
+  "en": {
+   "titulo": "Eresmin Abesbatza: \"The Sea and Basque Song\"",
+   "resumen": "Choral gathering \"Itsasoa eta euskal kantua\" organized by Eresmin Abesbatza. Various choirs from the Basque Country will perform in churches in Donostia."
   },
   "temas": [
    "musica",

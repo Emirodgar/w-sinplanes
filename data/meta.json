@@ -1,11 +1,11 @@
 {
-  "generated": "2026-11-14T11:28:45.399Z",
+  "generated": "2026-11-14T12:35:12.735Z",
   "today": "2026-11-14",
-  "events": 7353,
-  "review": 8,
+  "events": 7369,
+  "review": 9,
   "ai": {
-    "calls": 0,
-    "seconds": 41,
+    "calls": 17,
+    "seconds": 285,
     "tripped": false
   },
   "sources": [
@@ -42,7 +42,7 @@
     {
       "id": "prensa-europapress-cultura",
       "status": "ok",
-      "count": 4,
+      "count": 5,
       "candidatos": true
     },
     {

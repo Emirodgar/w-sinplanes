@@ -21402,5 +21402,826 @@
   ],
   "a_cubierto": null,
   "confianza": 0.85
+ },
+ "d160166570": {
+  "url": "https://www.europapress.es/cultura/noticia-sergio-ramirez-ingresa-domingo-rae-ocupar-silla-vacante-muerte-vargas-llosa-20261114124450.html",
+  "fuente": "Europa Press (Cultura)",
+  "src": "prensa-europapress-cultura",
+  "publicado": "2026-11-14",
+  "es_plan": false
+ },
+ "4944757594": {
+  "url": "https://elpais.com/cultura/2026-11-14/kyle-eastwood-hijo-de-clint-eastwood-mi-padre-ha-interpretado-a-muchos-tipos-duros-pero-no-es-tan-duro-como-parece.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-11-14",
+  "es_plan": false
+ },
+ "e839771e7b": {
+  "url": "https://elpais.com/cultura/cine/2026-11-14/julio-anguita-el-hombre-que-renuncio-al-paraiso-comunista.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-11-14",
+  "es_plan": false
+ },
+ "db844647b4": {
+  "url": "https://elpais.com/cultura/cine/2026-11-14/la-bola-negra-de-los-javis-se-coloca-como-una-de-las-favoritas-a-los-premios-del-cine-europeo-con-10-nominaciones.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-11-14",
+  "es_plan": true,
+  "titulo": "Premios del Cine Europeo en Atenas",
+  "resumen": "La gala de los Premios del Cine Europeo se celebrará el 16 de enero en Atenas. La película española 'La bola negra' de los Javis opta a 10 galardones.",
+  "en": {
+   "titulo": "European Film Awards in Athens",
+   "resumen": "The European Film Awards ceremony will be held on January 16th in Athens. The Spanish film 'La bola negra' by Los Javis is nominated for 10 awards."
+  },
+  "inicio": "2027-01-16",
+  "fin": "2027-01-16",
+  "hora": null,
+  "lugar": null,
+  "municipio": "Atenas",
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "bbfbfc891f": {
+  "url": "https://elpais.com/cultura/2026-11-14/la-fundacion-mutua-madrilena-recupera-el-palacio-de-plaza-de-espana-para-consolidar-un-nuevo-eje-cultural-en-la-capital.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-11-14",
+  "es_plan": false
+ },
+ "c4c349395e": {
+  "url": "https://www.lavanguardia.com/cultura/20261114/11683816/escuela-catalana-identidad-nacional-economia.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-14",
+  "es_plan": false
+ },
+ "b69fe24f0b": {
+  "url": "https://www.lavanguardia.com/encatala/20261114/11683810/norbert-bilbeny-publica-memories-adolescencia-barcelona.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-14",
+  "es_plan": false
+ },
+ "0b143facbc": {
+  "url": "https://www.lavanguardia.com/local/maresme/20261114/11683443/vecindario-costero-municipio-independiente-nacimiento-vilassar-mar-ano-1784.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-14",
+  "es_plan": false
+ },
+ "e18d6c748b": {
+  "url": "https://www.lavanguardia.com/cultura/20261114/11684038/rentable-salto-vacio.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-14",
+  "es_plan": false
+ },
+ "1100a897c4": {
+  "url": "https://llegim.ara.cat/critiques-literaries/novel-lar-historia-mallorca_1_5908136.html",
+  "fuente": "Ara (Cultura)",
+  "src": "prensa-ara-cultura",
+  "publicado": "2026-11-14",
+  "es_plan": false
+ },
+ "f2f5f807a1": {
+  "url": "https://www.ara.cat/llengua/portar-gel-laba-vol-dir-no-integrat-parlen-catalans-fills-d-immigrants_130_5908250.html",
+  "fuente": "Ara (Cultura)",
+  "src": "prensa-ara-cultura",
+  "publicado": "2026-11-14",
+  "es_plan": true,
+  "titulo": "Congreso MigrAccions en Barcelona",
+  "resumen": "El Ateneu Barcelonès acoge el congreso MigrAccions del 19 al 21 de noviembre. El evento aborda la cohesión social y los efectos de los cambios demográficos en Catalunya.",
+  "en": {
+   "titulo": "MigrAccions Congress in Barcelona",
+   "resumen": "The Ateneu Barcelonès hosts the MigrAccions congress from November 19th to 21st. The event addresses social cohesion and the effects of demographic changes in Catalonia."
+  },
+  "inicio": "2026-11-19",
+  "fin": "2026-11-21",
+  "hora": null,
+  "lugar": "Ateneu Barcelonès",
+  "municipio": "Barcelona",
+  "provincia": "Barcelona",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "8a661860b8": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/14/eva-amaral-ultimo-dia-disfrutar-maravilla-ilusion-contaros-diseno-escenario-gira-2068059.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-14",
+  "es_plan": true,
+  "titulo": "Conciertos de Eva Amaral en Barcelona y Madrid",
+  "resumen": "Eva Amaral ofrecerá sus dos últimos conciertos de la gira Dolce Vita el 18 de diciembre en Barcelona y el 28 de diciembre en Madrid. El escenario está inspirado en paisajes naturales.",
+  "en": {
+   "titulo": "Eva Amaral Concerts in Barcelona and Madrid",
+   "resumen": "Eva Amaral will perform her last two concerts of the Dolce Vita tour on December 18th in Barcelona and December 28th in Madrid. The stage design is inspired by natural landscapes."
+  },
+  "inicio": "2026-12-18",
+  "fin": "2026-12-28",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "8564d19e24": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/14/rosa-montero-escritor-maduro-tiene-humildad-dejarse-contar-historia-2068501.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-14",
+  "es_plan": false
+ },
+ "57efecd5c2": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/14/festival-cine-zaragoza-celebra-talento-aragones-su-xxxi-edicion-2068500.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-14",
+  "es_plan": true,
+  "titulo": "Festival de Cine de Zaragoza",
+  "resumen": "El Festival de Cine de Zaragoza celebra su XXXI edición del 19 al 28 de noviembre. Se proyectarán 105 obras finalistas y se premiará el talento aragonés.",
+  "en": {
+   "titulo": "Zaragoza Film Festival",
+   "resumen": "The Zaragoza Film Festival celebrates its XXXI edition from November 19th to 28th. 105 finalist works will be screened, and Aragonese talent will be awarded."
+  },
+  "inicio": "2026-11-19",
+  "fin": "2026-11-28",
+  "hora": null,
+  "lugar": null,
+  "municipio": "Zaragoza",
+  "provincia": "Zaragoza",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "4049ff2729": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/14/silvia-alonso-entrenador-personal-trabajo-gimnasio-veces-correr-juego-tenis-2068405.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-14",
+  "es_plan": false
+ },
+ "4508efb0e5": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/14/pedro-zapater-bob-destiny-toco-con-billie-holiday-bailo-con-sara-montiel-vivio-veinte-anos-zaragoza-2068393.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-14",
+  "es_plan": true,
+  "titulo": "Presentación del libro \"Bob Destiny\" de Pedro Zapater",
+  "resumen": "El periodista Pedro Zapater presenta su libro \"Bob Destiny. La increíble historia de un showman\" en La Lata de Bombillas. El evento tendrá lugar este sábado.",
+  "en": {
+   "titulo": "Presentation of the book \"Bob Destiny\" by Pedro Zapater",
+   "resumen": "Journalist Pedro Zapater presents his book \"Bob Destiny. The incredible story of a showman\" at La Lata de Bombillas. The event will take place this Saturday."
+  },
+  "inicio": "2026-11-14",
+  "fin": "2026-11-14",
+  "hora": "12:30",
+  "lugar": "La Lata de Bombillas",
+  "municipio": null,
+  "provincia": null,
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.5
+ },
+ "d747e663a9": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/14/alvaro-arias-alvroarias-influencer-cristiano-congreso-fe-red-cuarte-huerva-zaragoza-2068389.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-14",
+  "es_plan": true,
+  "titulo": "I Congreso Fe en Red con el influencer Álvaro Arias",
+  "resumen": "El influencer cristiano Álvaro Arias participará en el I Congreso Fe en Red en el auditorio de Cuarte de Huerva. El evento se centra en la evangelización a través de las redes sociales.",
+  "en": {
+   "titulo": "I Congress Faith in Network with influencer Álvaro Arias",
+   "resumen": "Christian influencer Álvaro Arias will participate in the I Congress Faith in Network at the auditorium of Cuarte de Huerva. The event focuses on evangelization through social media."
+  },
+  "inicio": "2026-11-14",
+  "fin": "2026-11-14",
+  "hora": null,
+  "lugar": "Auditorio de Cuarte de Huerva",
+  "municipio": "Cuarte de Huerva",
+  "provincia": "Zaragoza",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "d41a9e223b": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/14/las-raices-separadas-david-bisbal-47-anos-chenoa-51-estan-9-600-kilometros-linea-recta-las-dos-ciudades-que-marcaron-sus-origenes-antes-ot-2068200.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-14",
+  "es_plan": false
+ },
+ "9a8154fe4f": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/14/chelo-garcia-cortes-incapaz-gimnasio-no-ganas-esten-haciendo-fotos-todo-dia-2068133.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-14",
+  "es_plan": false
+ },
+ "3e008faefd": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/14/arturo-perez-reverte-cumplir-75anos-cada-dia-levanto-trabajo-seis-horas-artista-musa-currar-2067649.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-14",
+  "es_plan": false
+ },
+ "4b017c4eb7": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/14/pancho-varona-estuve-40anos-joaquin-sabina-echo-menos-2067314.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-14",
+  "es_plan": false
+ },
+ "bef8cb1288": {
+  "url": "https://www.elnortedecastilla.es/culturas/mil-federicos-desvan-tiempo-20261114104914-ntrc.html",
+  "fuente": "El Norte de Castilla (Culturas)",
+  "src": "prensa-nortecastilla-culturas",
+  "publicado": "2026-11-14",
+  "es_plan": false
+ },
+ "5a49da4d3a": {
+  "url": "https://www.ideal.es/culturas/almeria/jose-merce-lleva-esencia-flamenco-teatro-auditorio-20261114120757-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-11-14",
+  "es_plan": false
+ },
+ "d0287e67f2": {
+  "url": "https://www.ideal.es/culturas/almeria/gran-noche-cine-musica-homenajes-gala-apertura-20261113234931-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-11-14",
+  "es_plan": false
+ },
+ "b39208c9dc": {
+  "url": "https://www.hoy.es/culturas/trazos/editora-regional-extremadura-prepara-nueve-novedades-publicos-20261114074436-nt.html",
+  "fuente": "Hoy (Culturas)",
+  "src": "prensa-hoy-culturas",
+  "publicado": "2026-11-14",
+  "es_plan": false
+ },
+ "04f9e63940": {
+  "url": "https://www.elcorreo.com/culturas/musica/ole-viva-flamenco-marco-flores-mayte-martin-20261114015021-nt.html",
+  "fuente": "El Correo (Culturas)",
+  "src": "prensa-elcorreo-culturas",
+  "publicado": "2026-11-14",
+  "es_plan": false
+ },
+ "466066f67d": {
+  "url": "https://www.diariovasco.com/culturas/musica/era-cerrado-cateto-absurdo-pensar-musica-mejor-20261114001239-nt.html",
+  "fuente": "El Diario Vasco (Culturas)",
+  "src": "prensa-diariovasco-culturas",
+  "publicado": "2026-11-14",
+  "es_plan": true,
+  "titulo": "Concierto 'Hoy x Ayer' de exlíder de Los Piratas en Kursaal",
+  "resumen": "El exlíder de Los Piratas repasará 35 años de trayectoria musical con su concierto 'Hoy x Ayer' en el Kursaal este sábado.",
+  "en": {
+   "titulo": "'Hoy x Ayer' concert by ex-leader of Los Piratas at Kursaal",
+   "resumen": "The ex-leader of Los Piratas will review 35 years of musical career with his concert 'Hoy x Ayer' at the Kursaal this Saturday."
+  },
+  "inicio": "2026-11-14",
+  "fin": "2026-11-14",
+  "hora": null,
+  "lugar": "Kursaal",
+  "municipio": "San Sebastián",
+  "provincia": "Gipuzkoa",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "edc84a9548": {
+  "url": "https://www.lasprovincias.es/culturas/tv/exitosa-comedia-luis-zahera-nominada-emmy-internacional-20261027003533-nt.html",
+  "fuente": "Las Provincias (Culturas)",
+  "src": "prensa-lasprovincias-culturas",
+  "publicado": "2026-11-14",
+  "es_plan": false
+ },
+ "769cbd7509": {
+  "url": "https://www.lasprovincias.es/culturas/musica/aquelarre-raphael-roig-arena-20261113225843-nt.html",
+  "fuente": "Las Provincias (Culturas)",
+  "src": "prensa-lasprovincias-culturas",
+  "publicado": "2026-11-14",
+  "es_plan": false
+ },
+ "c58a7221ea": {
+  "url": "https://www.lasprovincias.es/culturas/tv/hoy-sabado-television-retorcido-thriller-psicologico-corono-20261113002157-nt.html",
+  "fuente": "Las Provincias (Culturas)",
+  "src": "prensa-lasprovincias-culturas",
+  "publicado": "2026-11-14",
+  "es_plan": true,
+  "titulo": "Estrenos de cine en televisión para el sábado 14 de noviembre",
+  "resumen": "Este sábado 14 de noviembre se pueden ver varias películas desde casa, incluyendo un 'thriller' psicológico protagonizado por Ben Affleck.",
+  "en": {
+   "titulo": "Movie premieres on television for Saturday, November 14",
+   "resumen": "This Saturday, November 14, several movies can be watched from home, including a psychological thriller starring Ben Affleck."
+  },
+  "inicio": "2026-11-14",
+  "fin": "2026-11-14",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "pantalla",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "796166c679": {
+  "url": "https://www.eldiariomontanes.es/culturas/teatro-expres-estrenara-micropropuestas-escenicas-tantas-companias-20261114082233-nt.html",
+  "fuente": "El Diario Montañés (Culturas)",
+  "src": "prensa-diariomontanes-culturas",
+  "publicado": "2026-11-14",
+  "es_plan": true,
+  "titulo": "Teatro Exprés: 21 micropropuestas escénicas en Cantabria",
+  "resumen": "El ciclo Teatro Exprés presenta 21 espectáculos de compañías cántabras en varios espacios de la ciudad. La iniciativa está organizada por Acepae y cuenta con el apoyo de la Fundación Santander Creativa.",
+  "en": {
+   "titulo": "Teatro Exprés: 21 micro-stage proposals in Cantabria",
+   "resumen": "The Teatro Exprés cycle presents 21 shows by Cantabrian companies in various city venues. The initiative is organized by Acepae with the support of the Santander Creativa Foundation."
+  },
+  "inicio": "2026-11-20",
+  "fin": "2026-12-27",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": "Cantabria",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "2abf777c85": {
+  "url": "https://www.20minutos.es/libros/10-titulos-para-celebrar-dia-las-librerias_7060918_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-11-13",
+  "es_plan": false
+ },
+ "3df72c92ad": {
+  "url": "https://www.20minutos.es/cultura/festival-atrium-musicae-celebra-su-quinta-edicion-con-orquesta-nacional-espana-bicentenario-beethoven_7060824_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-11-13",
+  "es_plan": true,
+  "titulo": "Festival Atrium Musicae en Cáceres y provincia",
+  "resumen": "La quinta edición del festival Atrium Musicae se celebra del 26 de enero al 1 de febrero de 2027, con 19 conciertos en Cáceres y su provincia. El evento fusiona patrimonio monumental y música, incluyendo homenajes a Haydn y Beethoven.",
+  "en": {
+   "titulo": "Atrium Musicae Festival in Cáceres and province",
+   "resumen": "The fifth edition of the Atrium Musicae festival takes place from January 26th to February 1st, 2027, featuring 19 concerts in Cáceres and its province. The event blends monumental heritage with music, including tributes to Haydn and Beethoven."
+  },
+  "inicio": "2027-01-26",
+  "fin": "2027-02-01",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": "Cáceres",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "e147cf172f": {
+  "url": "https://www.20minutos.es/musica/ralphie-choo-anuncia-segundo-disco-charmain-le-grand-architecte-para-febrero_7060794_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-11-13",
+  "es_plan": true,
+  "titulo": "Ralphie Choo lanza su segundo disco 'Charmain \"Le grand architecte\"'",
+  "resumen": "El músico Ralphie Choo publicará su segundo álbum, 'Charmain \"Le grand architecte\"', el 26 de febrero. Ha lanzado un nuevo sencillo, 'El hueso', que evoca sonidos tropicalistas y ha sido destacado por Spotify España.",
+  "en": {
+   "titulo": "Ralphie Choo releases his second album 'Charmain \"Le grand architecte\"'",
+   "resumen": "Musician Ralphie Choo will release his second album, 'Charmain \"Le grand architecte\"', on February 26th. He has released a new single, 'El hueso', which evokes tropicalist sounds and has been featured by Spotify Spain."
+  },
+  "inicio": "2027-02-26",
+  "fin": "2027-02-26",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "9844ba3146": {
+  "url": "https://elpais.com/cultura/2026-11-13/las-librerias-piden-proteccion-ante-la-presion-inmobiliaria-no-hacemos-planes-mas-alla-de-cada-renovacion-de-alquiler-es-dramatico.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-11-13",
+  "es_plan": false
+ },
+ "93d93f4c9e": {
+  "url": "https://elpais.com/cultura/2026-11-13/las-memorias-de-nacho-duato-desencadenado-entre-el-novio-que-dejo-por-ver-una-pelicula-de-torrente-y-el-lado-duro-de-la-vida.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-11-13",
+  "es_plan": true,
+  "titulo": "Presentación del libro de memorias de Nacho Duato en Valencia",
+  "resumen": "El coreógrafo Nacho Duato presenta su libro de memorias 'Habla como un hombre' en el Paraninfo de La Nau de la Universitat de València, escrito junto a la poeta Lupe Bohorques.",
+  "en": {
+   "titulo": "Presentation of Nacho Duato's memoir book in Valencia",
+   "resumen": "Choreographer Nacho Duato presents his memoir book 'Habla como un hombre' at the Paraninfo de La Nau of the University of Valencia, written with poet Lupe Bohorques."
+  },
+  "inicio": "2026-11-13",
+  "fin": "2026-11-13",
+  "hora": null,
+  "lugar": "Paraninfo de La Nau",
+  "municipio": "Valencia",
+  "provincia": "Valencia",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "4213a6384e": {
+  "url": "https://www.lavanguardia.com/cultura/20261113/11683820/obc-cancela-in-extremis-segunda-mahler-publico-butacas-l-auditori.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-13",
+  "es_plan": false
+ },
+ "6f09dacca1": {
+  "url": "https://www.lavanguardia.com/cultura/20261113/11683624/ozuna-trueno-dei-v-cabezas-cartel-proximo-share.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-13",
+  "es_plan": true,
+  "titulo": "Festival Share con Ozuna, Trueno y Dei V",
+  "resumen": "El festival de música urbana Share se celebrará los días 23 y 24 de julio en el Parc del Fòrum, con Ozuna, Trueno y Dei V como cabezas de cartel. También participarán Benny Jr., De la Rose y La Blackie.",
+  "en": {
+   "titulo": "Share Festival with Ozuna, Trueno, and Dei V",
+   "resumen": "The urban music festival Share will take place on July 23rd and 24th at Parc del Fòrum, featuring Ozuna, Trueno, and Dei V as headliners. Benny Jr., De la Rose, and La Blackie will also perform."
+  },
+  "inicio": "2027-07-23",
+  "fin": "2027-07-24",
+  "hora": null,
+  "lugar": "Parc del Fòrum",
+  "municipio": "Barcelona",
+  "provincia": "Barcelona",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica",
+   "fiestas"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "b697a04f91": {
+  "url": "https://www.lavanguardia.com/cultura/20261113/11683583/aragon-advierte-permitira-rebeldia-permanente-mnac-sijena.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-13",
+  "es_plan": false
+ },
+ "972d351548": {
+  "url": "https://www.ara.cat/cultura/musica/conservatori-liceu-acollira-tres-concerts-cicle-constel-lacions-musica-d-albert-guinovart_25_5909760.html",
+  "fuente": "Ara (Cultura)",
+  "src": "prensa-ara-cultura",
+  "publicado": "2026-11-13",
+  "es_plan": true,
+  "titulo": "Conciertos de Albert Guinovart en el Liceu",
+  "resumen": "El Conservatori del Liceu acoge tres conciertos del ciclo 'Constel·lacions' dedicados a la música de Albert Guinovart. El compositor estrenará una obra para oboe, piano y orquesta de cámara.",
+  "en": {
+   "titulo": "Albert Guinovart concerts at Liceu",
+   "resumen": "The Liceu Conservatory hosts three concerts of the 'Constel·lacions' cycle dedicated to Albert Guinovart's music. The composer will premiere a work for oboe, piano, and chamber orchestra."
+  },
+  "inicio": "2026-11-13",
+  "fin": "2026-11-13",
+  "hora": null,
+  "lugar": "Conservatori del Liceu",
+  "municipio": "Barcelona",
+  "provincia": "Barcelona",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "d595e80225": {
+  "url": "https://www.ara.cat/societat/salut/l-uter-matern-l-adolescencia-creen-atles-dels-condicionants-salut-infantil_1_5909676.html",
+  "fuente": "Ara (Cultura)",
+  "src": "prensa-ara-cultura",
+  "publicado": "2026-11-13",
+  "es_plan": false
+ },
+ "7585439c4e": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/13/premios-pregoneros-fiestas-tubo-zaragoza-2026-2068531.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-13",
+  "es_plan": true,
+  "titulo": "Fiestas del Tubo de Zaragoza",
+  "resumen": "Las fiestas del Tubo en Zaragoza han comenzado con la entrega de premios de honor a La Banda del Canal, Casa Pascualillo, Dionisio Sánchez y el equipo femenino de Casademont, marcando el inicio de un fin de semana festivo y gastronómico.",
+  "en": {
+   "titulo": "Tubo de Zaragoza Festivals",
+   "resumen": "The Tubo festivals in Zaragoza have begun with the awarding of honorary prizes to La Banda del Canal, Casa Pascualillo, Dionisio Sánchez, and the Casademont women's team, marking the start of a festive and gastronomic weekend."
+  },
+  "inicio": "2026-11-13",
+  "fin": "2026-11-13",
+  "hora": null,
+  "lugar": "El Tubo",
+  "municipio": "Zaragoza",
+  "provincia": "Zaragoza",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "fiestas",
+   "gastronomia"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "8d90abfae3": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/13/andres-roca-rey-30anos-vivo-solo-casa-campo-porque-necesito-concentrarme-centrado-mi-2066723.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-13",
+  "es_plan": true,
+  "titulo": "Andrés Roca Rey en México",
+  "resumen": "El torero Andrés Roca Rey continúa su temporada en México tras cumplir 30 años. Se presentará en Monterrey el 20 de noviembre, seguido de actuaciones en Aguascalientes, León y Apizaco.",
+  "en": {
+   "titulo": "Andrés Roca Rey in Mexico",
+   "resumen": "Bullfighter Andrés Roca Rey continues his season in Mexico after turning 30. He will perform in Monterrey on November 20th, followed by appearances in Aguascalientes, León, and Apizaco."
+  },
+  "inicio": "2026-11-20",
+  "fin": "2026-11-20",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "deporte"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "2d9a84f080": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/13/gran-wyoming-propietario-19-viviendas-subidas-impuestos-patrimonio-me-perjudican-puedo-estar-acuerdo-2065127.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-13",
+  "es_plan": false
+ },
+ "5b7c669395": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/13/amenabar-pulla-feijoo-bola-negra-javis-oscar-tesis-2068473.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-13",
+  "es_plan": false
+ },
+ "c621431d74": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/13/critica-danza-lamov-delicadeza-suavidad-arte-paz-2068475.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-13",
+  "es_plan": false
+ },
+ "4cf4b73a5b": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/13/carlos-bardem-hermano-consiguio-meter-colegas-oscar-encuentro-mi-madre-agarrada-mano-jack-nicholson-harrison-ford-2068423.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-13",
+  "es_plan": false
+ },
+ "4c1c68c28e": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/13/zaragoza-art-fair-entrega-sus-premios-adquisicion-obra-social-categoria-profesional-2068455.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-13",
+  "es_plan": true,
+  "titulo": "Zaragoza Art Fair entrega sus premios de adquisición",
+  "resumen": "La Zaragoza Art Fair (ZAF) ha celebrado la entrega de sus premios de adquisición, obra social y categoría profesional, promoviendo el arte contemporáneo.",
+  "en": {
+   "titulo": "Zaragoza Art Fair presents its acquisition awards",
+   "resumen": "The Zaragoza Art Fair (ZAF) has held the presentation of its acquisition, social work, and professional category awards, promoting contemporary art."
+  },
+  "inicio": "2026-11-13",
+  "fin": "2026-11-13",
+  "hora": null,
+  "lugar": "Zaragoza Art Fair",
+  "municipio": "Zaragoza",
+  "provincia": "Zaragoza",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "museos",
+   "actividades"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "c30a83f992": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/13/ciudad-peruana-chiclayo-recibe-grande-papa-leon-bienvenido-casa-2068410.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-13",
+  "es_plan": false
+ },
+ "ddb7f16178": {
+  "url": "https://www.diariosur.es/culturas/museo-malaga-agua-exposicion-retrata-modernidad-20261113184753-nt.html",
+  "fuente": "Diario Sur (Culturas)",
+  "src": "prensa-diariosur-culturas",
+  "publicado": "2026-11-13",
+  "es_plan": false
+ },
+ "c7973ae9a2": {
+  "url": "https://www.ideal.es/culturas/almeria/fical-reivindica-poder-cortometraje-enteran-pajarito-20261113205533-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-11-13",
+  "es_plan": false
+ },
+ "2efdb5ff9e": {
+  "url": "https://www.ideal.es/culturas/almeria/legado-jose-maria-forque-documental-recupera-grandes-20261113180026-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-11-13",
+  "es_plan": false
+ },
+ "00e7635d94": {
+  "url": "https://www.ideal.es/culturas/cine/fenomeno-lorca-salta-disney-serie-mexicana-bodas-20261113175944-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-11-13",
+  "es_plan": false
+ },
+ "d46a557733": {
+  "url": "https://www.ideal.es/culturas/jaen/tres-profesionales-jienenses-optan-premios-asecan-cine-20261113173449-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-11-13",
+  "es_plan": false
+ },
+ "02696f1277": {
+  "url": "https://www.ideal.es/culturas/rafael-cobos-alberto-rodriguez-reciben-premio-granada-20261113160531-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-11-13",
+  "es_plan": false
+ },
+ "7e87a7fab0": {
+  "url": "https://www.elcorreo.com/culturas/tv/alokahiru-serie-juvenil-sobre-crisis-vivienda-clave-20261113193515-nt.html",
+  "fuente": "El Correo (Culturas)",
+  "src": "prensa-elcorreo-culturas",
+  "publicado": "2026-11-13",
+  "es_plan": false
+ },
+ "5bf8db1fd2": {
+  "url": "https://www.elcorreo.com/culturas/territorios/marta-borraz-novelar-vih-20261114161832-nt.html",
+  "fuente": "El Correo (Culturas)",
+  "src": "prensa-elcorreo-culturas",
+  "publicado": "2026-11-13",
+  "es_plan": false
+ },
+ "aba0472664": {
+  "url": "https://www.diariovasco.com/culturas/ainara-martin-cierra-ciclo-topic-apuesta-fuerte-20261113194534-nt.html",
+  "fuente": "El Diario Vasco (Culturas)",
+  "src": "prensa-diariovasco-culturas",
+  "publicado": "2026-11-13",
+  "es_plan": false
+ },
+ "6e89658593": {
+  "url": "https://www.diariovasco.com/culturas/juan-echanove-teatro-extincion-raza-humana-cultura-20261113193837-nt.html",
+  "fuente": "El Diario Vasco (Culturas)",
+  "src": "prensa-diariovasco-culturas",
+  "publicado": "2026-11-13",
+  "es_plan": true,
+  "titulo": "Juan Echanove regresa al Victoria Eugenia con 'Esencia'",
+  "resumen": "Juan Echanove actúa este viernes y sábado en el Victoria Eugenia con la obra teatral 'Esencia', un duelo interpretativo junto a Joaquín Climent.",
+  "en": {
+   "titulo": "Juan Echanove returns to Victoria Eugenia with 'Esencia'",
+   "resumen": "Juan Echanove performs this Friday and Saturday at the Victoria Eugenia with the play 'Esencia', an interpretive duel alongside Joaquín Climent."
+  },
+  "inicio": "2026-11-14",
+  "fin": "2026-11-15",
+  "hora": null,
+  "lugar": "Victoria Eugenia",
+  "municipio": "Donostia/San Sebastián",
+  "provincia": "Gipuzkoa",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "a692fdeb04": {
+  "url": "https://www.lasprovincias.es/culturas/tv/programacion-septima-sabado-domingo-humor-dos-peliculas-20261113202412-nt.html",
+  "fuente": "Las Provincias (Culturas)",
+  "src": "prensa-lasprovincias-culturas",
+  "publicado": "2026-11-13",
+  "es_plan": true,
+  "titulo": "Programación de La Séptima este sábado y domingo: humor y cine",
+  "resumen": "La Séptima emitirá este fin de semana programas de humor, dos películas y una entrevista a Pedro Sánchez, sin contenido deportivo.",
+  "en": {
+   "titulo": "La Séptima programming this Saturday and Sunday: humor and movies",
+   "resumen": "La Séptima will broadcast humor programs, two movies, and an interview with Pedro Sánchez this weekend, with no sports content."
+  },
+  "inicio": "2026-11-14",
+  "fin": "2026-11-15",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": "Comunitat Valenciana",
+  "ambito": "nacional",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "pantalla",
+   "actividades"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
  }
 }

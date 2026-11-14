@@ -620,6 +620,16 @@
    ]
   },
   {
+   "term": "valladolid - castellón",
+   "traffic": 2000,
+   "lastSeen": "2026-11-14",
+   "news": [
+    "Real Valladolid - Castellón: alineaciones, horario, dónde ver, pronósticos y estadísticas",
+    "Valladolid - Castellón en directo",
+    "El Castellón mide la ambición de un Pucela liberado"
+   ]
+  },
+  {
    "term": "jubilación en españa",
    "traffic": 1000,
    "lastSeen": "2026-11-08",
@@ -945,7 +955,7 @@
    "lastSeen": "2026-11-14",
    "news": [
     "First catch aborted in SpaceX Starship rocket double-catch test",
-    "SpaceX Starship booster explodes - as test flight suffers setback",
+    "Live updates: SpaceX lifts off, aiming to make history in Starship’s 15th test",
     "SpaceX Starship megarocket blasts off before expected return for reuse"
    ]
   },
@@ -957,6 +967,16 @@
     "Japan vs Brazil: Friendlies stats & head-to-head",
     "Singapore Japan Brazil Soccer",
     "Kubo opens the scoring for Japan against Brazil; follow live"
+   ]
+  },
+  {
+   "term": "brasil",
+   "traffic": 1000,
+   "lastSeen": "2026-11-14",
+   "news": [
+    "Brasil x Japão: onde assistir ao vivo e escalações do amistoso da Seleção",
+    "Escalação da Seleção: Rayan está fora do amistoso deste sábado; Bontempo e André disputam a vaga",
+    "Vídeo: mensagem de Singapura - Vinícius responde aos críticos de forma estrondosa"
    ]
   },
   {
@@ -1430,6 +1450,26 @@
     "Cuerpo destituye al presidente de Renfe afín a Puente para tratar de apaciguar el malestar del sector y recupera a Joaquim Hortalà para dirigir Adif",
     "El Gobierno nombra al nuevo presidente de Adif y a la nueva presidenta de Renfe",
     "El Gobierno cesa a Álvaro Fernández Heredia y nombra perfiles técnicos al frente de Renfe y Adif"
+   ]
+  },
+  {
+   "term": "vinícius júnior",
+   "traffic": 500,
+   "lastSeen": "2026-11-14",
+   "news": [
+    "¡Ojo al golazo de Vinicius con Brasil!",
+    "Vídeo: un mensaje desde Singapur, Vinicius responde a sus críticos de forma contundente",
+    "Brasil x Japão: onde assistir ao vivo e escalações do amistoso da Seleção"
+   ]
+  },
+  {
+   "term": "gijs naber",
+   "traffic": 500,
+   "lastSeen": "2026-11-14",
+   "news": [
+    "Gijs Naber is nieuwe Sinterklaas en volgt na vijftien jaar Stefan de Walle op",
+    "Sinterklaasmysterie na weken onthuld, Gijs Naber volgt Stefan de Walle op",
+    "Gijs Naber loopt (vermomd?) door Grave, maar onze fotograaf spot hem: is het Sint-geheim onthuld?"
    ]
   },
   {
@@ -2083,6 +2123,36 @@
    ]
   },
   {
+   "term": "kaja kallas",
+   "traffic": 200,
+   "lastSeen": "2026-11-14",
+   "news": [
+    "Russia is ‘setting traps’ in Ukraine talks, EU foreign policy chief warns",
+    "Kaja Kallas warns that Europe \"is falling into the trap\" of Russia in the negotiations regarding Ukraine",
+    "Kallas says 'Russians don't want me' as EU envoy for peace talks"
+   ]
+  },
+  {
+   "term": "a coruña",
+   "traffic": 200,
+   "lastSeen": "2026-11-14",
+   "news": [
+    "Muere un joven de 25 años tras ser atropellado por un conductor ebrio en la avenida do Porto, en A Coruña",
+    "Muere una persona al ser atropellada en Frades (A Coruña)",
+    "Fallece un joven de 25 años atropellado en A Coruña por un conductor que dio positivo en las pruebas de alcoholemia"
+   ]
+  },
+  {
+   "term": "frenkie de jong",
+   "traffic": 200,
+   "lastSeen": "2026-11-14",
+   "news": [
+    "Más problemas físicos con De Jong",
+    "Xavi Hernández señala que el cambio de Frenkie de Jong fue por molestias, pero cree que estará disponible para el siguiente partido",
+    "Xavi Hernández y su contundente defensa a Frenkie de Jong: \"Si le preguntas a sus compañeros quién es el mejor centrocampista, te dirán que él\""
+   ]
+  },
+  {
    "term": "sl vs pak",
    "traffic": 100,
    "lastSeen": "2026-10-31",
@@ -2133,16 +2203,6 @@
    ]
   },
   {
-   "term": "kaja kallas",
-   "traffic": 100,
-   "lastSeen": "2026-11-14",
-   "news": [
-    "Russia is ‘setting traps’ in Ukraine talks, EU foreign policy chief warns",
-    "Kaja Kallas warns that Europe \"is falling into the trap\" of Russia in the negotiations regarding Ukraine",
-    "Kallas says 'Russians don't want me' as EU envoy for peace talks"
-   ]
-  },
-  {
    "term": "solucion tildes wordle hoy",
    "traffic": 100,
    "lastSeen": "2026-11-14",
@@ -2160,6 +2220,26 @@
     "Sismo de magnitude 2,9 a norte da Madeira",
     "Ainda a recuperar da tempestade, Madeira abalada por sismo de 2,9",
     "Sismo de magnitude 2,9 a norte da Madeira"
+   ]
+  },
+  {
+   "term": "angelina jolie",
+   "traffic": 100,
+   "lastSeen": "2026-11-14",
+   "news": [
+    "Angelina Jolie, Brad Pitt’s daughter Vivienne reveals hospitalization for eating disorder at LA art exhibit: ‘It wasn’t easy’",
+    "Vivienne Jolie Opens Up About Hospital Stay and Art About Recovery",
+    "Brad Pitt And Angelina Jolie’s Youngest Daughter Vivienne 'struggled With An Eating Disorder'"
+   ]
+  },
+  {
+   "term": "radar",
+   "traffic": 100,
+   "lastSeen": "2026-11-14",
+   "news": [
+    "El radar que reforzará el escudo de la Armada: así defiende el radar SPY-7 a las fragatas F-110 frente a las nuevas amenazas",
+    "Dos nuevas fragatas españolas dan un salto militar: más veloces, con lanzamiento vertical ampliado y diferentes misiles",
+    "Elentir elogia las fragatas españolas F-100: «Uno de los mejores buques de guerra que hay actualmente en servicio: las fragatas de la clase “Álvaro de Bazán”»"
    ]
   }
  ]
