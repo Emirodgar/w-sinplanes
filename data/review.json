@@ -60,16 +60,6 @@
   "url": "https://www.ara.cat/cultura/10a-edicio-festival-rbls-teatre-jove-aborda-salut-mental-memoria-historica_25_5895009.html"
  },
  {
-  "id": "5615ded6d1",
-  "titulo": "Festival Zorroclocos e Lobos de autoedición en Murcia",
-  "inicio": "2026-11-14",
-  "municipio": null,
-  "provincia": "Región de Murcia",
-  "confianza": 0.5,
-  "fuente": "La Verdad (Culturas)",
-  "url": "https://www.laverdad.es/culturas/zorroclocos-lobos-regresa-sabado-cocheras-biblioteca-regional-20261111131645-nt.html"
- },
- {
   "id": "872447bb61",
   "titulo": "Festival Determinantes: teatro, danza, monólogos y talleres en Murcia",
   "inicio": "2026-11-17",
@@ -78,15 +68,5 @@
   "confianza": 0.5,
   "fuente": "La Verdad (Culturas)",
   "url": "https://www.laverdad.es/culturas/festival-determinantes-aunara-teatro-danza-monologos-mesas-20261112131503-nt.html"
- },
- {
-  "id": "4508efb0e5",
-  "titulo": "Presentación del libro \"Bob Destiny\" de Pedro Zapater",
-  "inicio": "2026-11-14",
-  "municipio": null,
-  "provincia": null,
-  "confianza": 0.5,
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/14/pedro-zapater-bob-destiny-toco-con-billie-holiday-bailo-con-sara-montiel-vivio-veinte-anos-zaragoza-2068393.html"
  }
 ]

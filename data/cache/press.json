@@ -8144,27 +8144,6 @@
   "a_cubierto": null,
   "confianza": 0.85
  },
- "b6bb02d322": {
-  "url": "https://elpais.com/cultura/2026-10-31/marisa-manchado-el-ultimo-viaje.html",
-  "fuente": "El País (Cultura)",
-  "src": "prensa-elpais-cultura",
-  "publicado": "2026-10-31",
-  "es_plan": false
- },
- "95f24cfbfc": {
-  "url": "https://elpais.com/cultura/cine/2026-10-31/dao-apuesta-arriesgada-y-experimental-sobre-la-familia-y-africa-gana-en-la-seminci.html",
-  "fuente": "El País (Cultura)",
-  "src": "prensa-elpais-cultura",
-  "publicado": "2026-10-31",
-  "es_plan": false
- },
- "9e4a628f94": {
-  "url": "https://elpais.com/cultura/2026-10-31/buscando-sirenas-en-napoles.html",
-  "fuente": "El País (Cultura)",
-  "src": "prensa-elpais-cultura",
-  "publicado": "2026-10-31",
-  "es_plan": false
- },
  "d2c2292ebb": {
   "url": "https://elpais.com/cultura/2026-10-31/lisette-oropesa-da-una-leccion-de-bel-canto-con-bellini-en-el-liceu.html",
   "fuente": "El País (Cultura)",
@@ -8192,27 +8171,6 @@
   ],
   "a_cubierto": true,
   "confianza": 0.9
- },
- "c7112283ec": {
-  "url": "https://elpais.com/cultura/2026-10-31/santiago-munoz-machado-director-de-la-rae-el-ingles-no-esta-destrozando-el-espanol.html",
-  "fuente": "El País (Cultura)",
-  "src": "prensa-elpais-cultura",
-  "publicado": "2026-10-31",
-  "es_plan": false
- },
- "a981f36dbf": {
-  "url": "https://www.lavanguardia.com/cultura/culturas/20261031/11670116/flamenco-cine-historia-romance-vista-isaki-lacuesta.html",
-  "fuente": "La Vanguardia (Cultura)",
-  "src": "prensa-lavanguardia-cultura",
-  "publicado": "2026-10-31",
-  "es_plan": false
- },
- "7c803b1a73": {
-  "url": "https://www.lavanguardia.com/cultura/culturas/20261031/11670089/formentor-bienvenidos-biblioteca-universal-gran-literatura.html",
-  "fuente": "La Vanguardia (Cultura)",
-  "src": "prensa-lavanguardia-cultura",
-  "publicado": "2026-10-31",
-  "es_plan": false
  },
  "280312b048": {
   "url": "https://www.lavanguardia.com/cultura/20261031/11670117/branford-marsalis-samara-joy-kyle-eastwood-puro-jazz-brl.html",
@@ -8381,20 +8339,6 @@
   "a_cubierto": null,
   "confianza": 0.85
  },
- "d2a8166646": {
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/31/risto-mejide-51anos-desayuno-tostadas-pan-tumaca-lonchas-jamon-iberico-zumo-naranja-cafe-leche-soja-2064373.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-10-31",
-  "es_plan": false
- },
- "5a74c36e86": {
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/31/busto-goya-tiene-dueno-fundacion-zuloaga-invierte-euros-escultura-pintor-2063836.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-10-31",
-  "es_plan": false
- },
  "1f384cd9d1": {
   "url": "https://www.elnortedecastilla.es/culturas/seminci/programa/programa-completo-seminci-2026-sabado-octubre-20261031083753-nt.html",
   "fuente": "El Norte de Castilla (Culturas)",
@@ -8422,13 +8366,6 @@
   ],
   "a_cubierto": null,
   "confianza": 0.9
- },
- "16a3d1bc5f": {
-  "url": "https://www.elnortedecastilla.es/culturas/libros/scorsese-tarantino-cuatro-libros-leer-sobre-cine-20261031083531-nt.html",
-  "fuente": "El Norte de Castilla (Culturas)",
-  "src": "prensa-nortecastilla-culturas",
-  "publicado": "2026-10-31",
-  "es_plan": false
  },
  "b2d348c8ff": {
   "url": "https://www.ideal.es/culturas/francisco-carreno-recorre-camino-maravillas-escondida-20261031115056-nt.html",
@@ -8515,20 +8452,6 @@
   "a_cubierto": null,
   "confianza": 0.9
  },
- "684cf64d21": {
-  "url": "https://www.elcorreo.com/culturas/musica/quedense-nombre-ariane-cagno-20261031014905-nt.html",
-  "fuente": "El Correo (Culturas)",
-  "src": "prensa-elcorreo-culturas",
-  "publicado": "2026-10-31",
-  "es_plan": false
- },
- "d31aaa49b2": {
-  "url": "https://www.elcorreo.com/culturas/libros/michel-houellebecq-ia-vuelva-hostil-lejano-hoy-20261030001112-nt.html",
-  "fuente": "El Correo (Culturas)",
-  "src": "prensa-elcorreo-culturas",
-  "publicado": "2026-10-31",
-  "es_plan": false
- },
  "dff702af9c": {
   "url": "https://www.diariovasco.com/culturas/cine/semana-cine-fantastico-terror-donostia-inauguro-triste-20261031085003-nt.html",
   "fuente": "El Diario Vasco (Culturas)",
@@ -8556,27 +8479,6 @@
   ],
   "a_cubierto": null,
   "confianza": 0.85
- },
- "2ffd39bea0": {
-  "url": "https://www.diariovasco.com/culturas/series/desagertuta-desaparecido-serie-netflix-san-sebastian-segunda-temporada-serie-20261031191955-nt.html",
-  "fuente": "El Diario Vasco (Culturas)",
-  "src": "prensa-diariovasco-culturas",
-  "publicado": "2026-10-31",
-  "es_plan": false
- },
- "4322871251": {
-  "url": "https://www.lasprovincias.es/culturas/musica/legado-fumiga-cuidad-musica-lengua-20261030000414-nt.html",
-  "fuente": "Las Provincias (Culturas)",
-  "src": "prensa-lasprovincias-culturas",
-  "publicado": "2026-10-31",
-  "es_plan": false
- },
- "2b938eceef": {
-  "url": "https://www.lasprovincias.es/culturas/tv/rtve-suspende-revuelta-proximo-lunes-noviembre-especial-20261030004018-nt.html",
-  "fuente": "Las Provincias (Culturas)",
-  "src": "prensa-lasprovincias-culturas",
-  "publicado": "2026-10-31",
-  "es_plan": false
  },
  "2f3ef414bc": {
   "url": "https://www.lasprovincias.es/culturas/tv/tve-emite-sabado-boda-mejor-amigo-comedia-20261030000707-nt.html",
@@ -8661,13 +8563,6 @@
   ],
   "a_cubierto": null,
   "confianza": 0.9
- },
- "9b6cf75801": {
-  "url": "https://www.larioja.com/culturas/libros/luis-angel-adan-leon-cine-quinqui-far-west-20261031094710-nt.html",
-  "fuente": "La Rioja (Culturas)",
-  "src": "prensa-larioja-culturas",
-  "publicado": "2026-10-31",
-  "es_plan": false
  },
  "df991cd55e": {
   "url": "https://www.larioja.com/culturas/funcion-don-juan-tenorio-teatro-pobre-circulo-logrones-20261031220411-nt.html",
@@ -9683,62 +9578,6 @@
   "a_cubierto": null,
   "confianza": 0.9
  },
- "ec24dc7476": {
-  "url": "https://www.20minutos.es/musica/ian-gillan-mitico-lider-deep-purple-hospitalizado-emergencia-anos-conciertos-cancelados_7055890_0.html",
-  "fuente": "20minutos (Cultura)",
-  "src": "prensa-20minutos-cultura",
-  "publicado": "2026-10-31",
-  "es_plan": false
- },
- "4c86704e0f": {
-  "url": "https://www.lavanguardia.com/cultura/musica/20261031/11672418/ritmo-raices-jorge-drexler-seducen-primer-sant-jordi.html",
-  "fuente": "La Vanguardia (Cultura)",
-  "src": "prensa-lavanguardia-cultura",
-  "publicado": "2026-10-31",
-  "es_plan": false
- },
- "c95cf02007": {
-  "url": "https://www.ara.cat/cultura/teatre/bones-interpretacions-flaix-tardor-mica-decebedor_1_5895982.html",
-  "fuente": "Ara (Cultura)",
-  "src": "prensa-ara-cultura",
-  "publicado": "2026-10-31",
-  "es_plan": false
- },
- "cc4ede03f5": {
-  "url": "https://diumenge.ara.cat/diumenge/ara-hi-moltes-mes-restriccions-prohibicions_130_5871121.html",
-  "fuente": "Ara (Cultura)",
-  "src": "prensa-ara-cultura",
-  "publicado": "2026-10-31",
-  "es_plan": false
- },
- "edc39e46d3": {
-  "url": "https://www.ara.cat/cultura/cinema/seminci-guardona-pel-licules-salen-lobas-cinemania_25_5896040.html",
-  "fuente": "Ara (Cultura)",
-  "src": "prensa-ara-cultura",
-  "publicado": "2026-10-31",
-  "es_plan": false
- },
- "2ae998dc1d": {
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/31/angela-aured-reina-jota-aragonesa-generos-mas-exigentes-2064531.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-10-31",
-  "es_plan": false
- },
- "6bbcb371d7": {
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/10/31/critica-comedia-olla-teatro-principal-zaragoza-usar-plauto-vano-2064633.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-10-31",
-  "es_plan": false
- },
- "e4a5f8e40c": {
-  "url": "https://www.elnortedecastilla.es/culturas/seminci/seminci-articula-clausura-sobria-solidaridad-luto-oficial-20261031224412-nt.html",
-  "fuente": "El Norte de Castilla (Culturas)",
-  "src": "prensa-nortecastilla-culturas",
-  "publicado": "2026-10-31",
-  "es_plan": false
- },
  "a309d4dcc5": {
   "url": "https://www.elnortedecastilla.es/culturas/seminci/hora-ver-manana-peliculas-premiadas-seminci-20261031180822-nt.html",
   "fuente": "El Norte de Castilla (Culturas)",
@@ -9766,34 +9605,6 @@
   ],
   "a_cubierto": null,
   "confianza": 0.85
- },
- "7eff81cf86": {
-  "url": "https://www.elnortedecastilla.es/culturas/seminci/alain-gomis-conquista-espiga-oro-dao-20261031121528-nt.html",
-  "fuente": "El Norte de Castilla (Culturas)",
-  "src": "prensa-nortecastilla-culturas",
-  "publicado": "2026-10-31",
-  "es_plan": false
- },
- "c2a9380759": {
-  "url": "https://www.diariosur.es/culturas/javier-camara-enero-cumplo-anos-creo-momento-20261031221553-nt.html",
-  "fuente": "Diario Sur (Culturas)",
-  "src": "prensa-diariosur-culturas",
-  "publicado": "2026-10-31",
-  "es_plan": false
- },
- "9664ad845c": {
-  "url": "https://www.ideal.es/culturas/ardientes-opera-nunca-existio-creada-granada-20261101232414-nt.html",
-  "fuente": "Ideal (Culturas)",
-  "src": "prensa-ideal-culturas",
-  "publicado": "2026-10-31",
-  "es_plan": false
- },
- "42ff4ed5e7": {
-  "url": "https://www.ideal.es/culturas/carrera-darro-galerias-sotano-facultad-tomo-calle-20261101232250-nt.html",
-  "fuente": "Ideal (Culturas)",
-  "src": "prensa-ideal-culturas",
-  "publicado": "2026-10-31",
-  "es_plan": false
  },
  "a14cbef27a": {
   "url": "https://www.elcorreo.com/culturas/libros/german-coppini-trajo-malos-tiempos-lirica-dijimos-20261027121216-nt.html",
@@ -9851,34 +9662,6 @@
   ],
   "a_cubierto": null,
   "confianza": 0.85
- },
- "ca50346645": {
-  "url": "https://www.diariovasco.com/culturas/cine/seminci-corona-cine-larga-duracion-20261031180801-nt.html",
-  "fuente": "El Diario Vasco (Culturas)",
-  "src": "prensa-diariovasco-culturas",
-  "publicado": "2026-10-31",
-  "es_plan": false
- },
- "b481589267": {
-  "url": "https://www.lasprovincias.es/culturas/musica/halloween-toma-palau-musica-bandas-sonoras-aterradoras-20261031184951-nt.html",
-  "fuente": "Las Provincias (Culturas)",
-  "src": "prensa-lasprovincias-culturas",
-  "publicado": "2026-10-31",
-  "es_plan": false
- },
- "f7a9433c1f": {
-  "url": "https://www.elcomercio.es/culturas/aula-cultura/lopez-otin-presenta-nuevo-libro-teatro-jovellanos-comercio-20261101204526-nt.html",
-  "fuente": "El Comercio (Culturas)",
-  "src": "prensa-elcomercio-culturas",
-  "publicado": "2026-10-31",
-  "es_plan": false
- },
- "afeacf1440": {
-  "url": "https://www.elcomercio.es/culturas/arte/obra-atra-bilis-sotanob-lleva-dos-premios-20261031132939-nt.html",
-  "fuente": "El Comercio (Culturas)",
-  "src": "prensa-elcomercio-culturas",
-  "publicado": "2026-10-31",
-  "es_plan": false
  },
  "09e27bee56": {
   "url": "https://www.larioja.com/culturas/palabras-imagenes-dos-formas-contar-20261031190355-nt.html",

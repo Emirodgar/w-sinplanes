@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14",
+ "updated": "2026-11-15",
  "terms": [
   {
    "term": "carlos cuerpo",
@@ -29,15 +29,6 @@
     "Dónde es festivo hoy, lunes 2 de noviembre: comunidades autónomas que hacen puente por el Día de Todos los Santos",
     "¿Hoy es festivo? Las nueve comunidades que hacen puente este lunes 2 de noviembre",
     "¿Por qué hoy no es fiesta en toda España?"
-   ]
-  },
-  {
-   "term": "audiencia provincial de madrid",
-   "traffic": 10000,
-   "lastSeen": "2026-10-31",
-   "news": [
-    "Juzgan a la empleada de una procuraduría acusada de quedarse el dinero de pagos judiciales",
-    "La Audiencia de Madrid juzga a una mujer por falsear mandamientos judiciales y desviar 860.000 euros a sus cuentas y las de su familia"
    ]
   },
   {
@@ -281,13 +272,13 @@
    ]
   },
   {
-   "term": "televisión",
-   "traffic": 2000,
-   "lastSeen": "2026-10-31",
+   "term": "tren",
+   "traffic": 5000,
+   "lastSeen": "2026-11-15",
    "news": [
-    "La TDT cambia el 5 de noviembre: cómo resintonizar y qué canales se verán afectados",
-    "5 de noviembre: Resintoniza tu televisión para no perder Atreseries",
-    "La TDT da un giro: llega un nuevo canal gratis y millones de televisiones tendrán que resintonizarse a esta hora el 5 de noviembre"
+    "Descarrila un tren de mercancías en Zarzalejo y resulta herido leve el maquinista",
+    "Cortada la línea de media distancia entre Madrid y Ávila tras el descarrilamiento de un tren de mercancías",
+    "Cortada la línea de tren entre Madrid y Ávila tras el descarrilamiento de un mercancías"
    ]
   },
   {
@@ -630,6 +621,26 @@
    ]
   },
   {
+   "term": "real sociedad - athletic club",
+   "traffic": 2000,
+   "lastSeen": "2026-11-15",
+   "news": [
+    "Sigue en directo el Real Sociedad - Athletic Club",
+    "Un derbi de altura en Anoeta",
+    "Euskotren ofrecerá este domingo un servicio especial para el derbi femenino entre Real y Athletic"
+   ]
+  },
+  {
+   "term": "valencia - leyma coruña",
+   "traffic": 2000,
+   "lastSeen": "2026-11-15",
+   "news": [
+    "Valencia Basket repite en el Roig Arena para enfrentarse al Leyma Coruña",
+    "Cruce de caminos en el Roig Arena",
+    "Test de altura para el Básquet Coruña en su primera visita al Roig Arena"
+   ]
+  },
+  {
    "term": "jubilación en españa",
    "traffic": 1000,
    "lastSeen": "2026-11-08",
@@ -637,26 +648,6 @@
     "La Seguridad Social confirma: es muy difícil que un trabajador llegue a los 67 años en plenas capacidades",
     "La jubilación cambia en 2027: esta es la edad a la que podrás retirarte y empezar a cobrar pensión",
     "Se acabó la jubilación a los 66 años en España y es oficial: se confirma que desde el 1 de enero de 2027 ca..."
-   ]
-  },
-  {
-   "term": "carta de sheila a su madre",
-   "traffic": 1000,
-   "lastSeen": "2026-10-31",
-   "news": [
-    "La carta de Sheila a su madre, víctima del accidente de tren: “No sé ser tú, mamá. No sé cómo se sostiene todo sin ti”",
-    "La carta de Sheila a su madre, víctima de Urda, que rompe a Nacho Abad y al equipo de ‘En boca de todos’: \"No sé cómo se sostiene esto sin ti\"",
-    "La emotiva carta de Sheila a su madre Toñi fallecida en el AVE: «No sé ser tú, mamá, y tengo un miedo terrible»"
-   ]
-  },
-  {
-   "term": "eurofighter typhoon",
-   "traffic": 1000,
-   "lastSeen": "2026-10-31",
-   "news": [
-    "Antonio Juárez, piloto de cazas, cuando los Eurofighter españoles llegaron a enfrentarse en maniobras al F-22 furtivo de EE UU: «Era la primera vez que nos entrenábamos con esta plataforma»",
-    "Francia y Reino Unido realizan un ejercicio aéreo de ataque nuclear por primera vez",
-    "La amenaza de Putin lleva a Reino Unido a efectuar en Alemania la mayor operación paracaidista desde la II Guerra Mundial"
    ]
   },
   {
@@ -980,6 +971,16 @@
    ]
   },
   {
+   "term": "unicaja - bàsquet girona",
+   "traffic": 1000,
+   "lastSeen": "2026-11-15",
+   "news": [
+    "En directo, Unicaja-Girona",
+    "Previa del Unicaja-FIATC Girona: Prohibido perder (domingo, 12.30 horas)",
+    "El FIATC Girona, sin Jassel Pérez, a por su primer triunfo como visitante"
+   ]
+  },
+  {
    "term": "audiencias tv",
    "traffic": 500,
    "lastSeen": "2026-11-08",
@@ -987,25 +988,6 @@
     "'La Ruleta' (9.4%) lidera la noche, 'Malas lenguas' (8.8%) resiste y Luján Argüelles (5.7%) destaca en las audiencias de La Séptima",
     "La Séptima marca otro récord en su primer sábado y supera a La 2 con un 3%",
     "Audiencias TV ayer | Luján Argüelles arrasa en La Séptima y gana a Telecinco con su 'Fin de semana' y el tándem Alba Carrillo y Marta Márquez se queda a una décima de laSexta"
-   ]
-  },
-  {
-   "term": "sri lanka vs pakistan",
-   "traffic": 500,
-   "lastSeen": "2026-10-31",
-   "news": [
-    "Pakistan vs Sri Lanka in the perfect finale to entertaining tri-series",
-    "Pakistan eye first tri-series win at home against Sri Lanka in Lahore today",
-    "!+[JIO@STAR>>>] PAK vs SL cricket Ｌｉｖｅ 𝖥𝗋𝖾𝖾 Cricket Coverage On Tv"
-   ]
-  },
-  {
-   "term": "pablo carreño",
-   "traffic": 500,
-   "lastSeen": "2026-10-31",
-   "news": [
-    "November 1, 2026: Tsitsipas vs Tien Tennis Prediction Market",
-    "November 1, 2026: Humbert vs Van de Zandschulp Tennis Prediction Market"
    ]
   },
   {
@@ -1470,56 +1452,6 @@
     "Gijs Naber is nieuwe Sinterklaas en volgt na vijftien jaar Stefan de Walle op",
     "Sinterklaasmysterie na weken onthuld, Gijs Naber volgt Stefan de Walle op",
     "Gijs Naber loopt (vermomd?) door Grave, maar onze fotograaf spot hem: is het Sint-geheim onthuld?"
-   ]
-  },
-  {
-   "term": "escaparate",
-   "traffic": 200,
-   "lastSeen": "2026-10-31",
-   "news": [
-    "Golpe policial a Blocus ante un sábado de máxima alerta: blindaje de comercios en las grandes ciudades por temor a disturbios",
-    "El miedo de Halloween asalta las calles por la amenaza de Blocus",
-    "Los antidisturbios blindan la zona comercial del centro de Madrid para disuadir los saqueos"
-   ]
-  },
-  {
-   "term": "stephen curry",
-   "traffic": 200,
-   "lastSeen": "2026-10-31",
-   "news": [
-    "Curry's ankle-breaker on Luka highlights Warriors' stunning 25-point comeback",
-    "Game Recap: Warriors 112, Lakers 95",
-    "Curry knocks down Doncic (literally) and leads the Warriors' historic comeback"
-   ]
-  },
-  {
-   "term": "horóscopo diario",
-   "traffic": 200,
-   "lastSeen": "2026-10-31",
-   "news": [
-    "Horóscopo de hoy, sábado 31 de octubre: \"A medida que las dudas se despejen, podremos avanzar con mayor confianza\"",
-    "Aries, Tauro, Géminis, Cáncer, Leo, Virgo, Libra, Escorpio, Sagitario, Capricornio, Acuario y Piscis: así será este sábado 31 de octubre",
-    "Horóscopo de hoy: amor, trabajo, salud y dinero signo a signo para el 31 de octubre de 2026"
-   ]
-  },
-  {
-   "term": "arzobispo",
-   "traffic": 200,
-   "lastSeen": "2026-10-31",
-   "news": [
-    "Accidente de tren en Toledo hoy: muertos, heridos y última hora de Óscar Puente, en directo",
-    "Sánchez y sus ministros rechazan ir al funeral por las víctimas en Urda, que oficiará el arzobispo de Toledo",
-    "La imagen del Cristo de la Vera-Cruz de Urda, presente en el funeral por los fallecidos en el accidente ferroviario"
-   ]
-  },
-  {
-   "term": "puente aéreo",
-   "traffic": 200,
-   "lastSeen": "2026-10-31",
-   "news": [
-    "Los hoteles de Sevilla registran una \"ola de cancelaciones\" tras el accidente ferroviario y lamentan \"la incertidumbre\" y la afectación a la imagen de la ciudad",
-    "Andalucía teme otro golpe millonario por el corte de la alta velocidad con Madrid",
-    "La cancelación y el freno de reservas hoteleras deja en el aire el puente de Todos los Santos en Granada"
    ]
   },
   {
@@ -2153,33 +2085,43 @@
    ]
   },
   {
-   "term": "sl vs pak",
-   "traffic": 100,
-   "lastSeen": "2026-10-31",
+   "term": "share festival",
+   "traffic": 200,
+   "lastSeen": "2026-11-15",
    "news": [
-    "+)HERE'S!!(* WAY TO WATCH PAK vs SL final match LIVE STREAM Free REDDIT",
-    "Pakistan vs Sri Lanka Live Score ODI Tri-Series Final",
-    "++[LIVE]NOW!] ODI Tri-Nation Series in UAE 2026 Final Srilanka vs Pakistan 𝐋𝐈𝐕𝐄 Ｓｔｒｅａｍｓ Ｆｒｅｅ ＯＮ Ｔｖ Ｃｈａｎｎｅｌ"
+    "Ozuna, Trueno y Dei V, cabezas del cartel del próximo Share",
+    "Share Festival 2027 en Barcelona: Ozuna, Dei V, Trueno, Lucho RK, De La Rose...",
+    "Share Festival, el mayor festival dirigido a público joven, revela los primeros nombres de su cartel 2027"
    ]
   },
   {
-   "term": "falcon 9",
-   "traffic": 100,
-   "lastSeen": "2026-10-31",
+   "term": "dp world tour",
+   "traffic": 200,
+   "lastSeen": "2026-11-15",
    "news": [
-    "SpaceX’s Falcon 9 launch scheduled for tonight: What time can you see it in the U.S.?",
-    "SpaceX Confirms Deployment of 27 Satellites for Starlink",
-    "West Coast Falcon 9 rocket launches 27 Starlink satellites"
+    "Rory McIlroy at DP World Tour Championship in Dubai trying to equal Colin Montgomerie's record",
+    "Who can still win the Race to Dubai? - Articles - Rolex Series",
+    "Live: Tour Ch'ship R4 updates: McIlroy seeking silverware"
    ]
   },
   {
-   "term": "tesla, inc.",
-   "traffic": 100,
-   "lastSeen": "2026-10-31",
+   "term": "john malkovich",
+   "traffic": 200,
+   "lastSeen": "2026-11-15",
    "news": [
-    "Tesla stock leaves rest of the Magnificent 7 in the dust, surging to October’s top spot",
-    "After Earnings, We Raise Our Tesla Stock Fair Value Estimate. Are Shares a Buy?",
-    "Tesla-SpaceX Merger Hopes Send Bearish Ratings to 11-Year Low"
+    "John Malkovich Recalls Spike Jonze’s Surprising Feedback for ‘Being John Malkovich’ in ’60 Minutes’ First Look",
+    "John Malkovich Revisits Spike Jonze’s Directing Notes for ‘Being John Malkovich’ in ’60 Minutes’ Sneak Peek",
+    "John Malkovich Recalls Spike Jonze’s Surprising Feedback for ‘Being John Malkovich’ in ‘60 Minutes’ First Look"
+   ]
+  },
+  {
+   "term": "casa del niño",
+   "traffic": 200,
+   "lastSeen": "2026-11-15",
+   "news": [
+    "La Casa del Niño de Las Palmas de Gran Canaria, 35 años sin menores y con su futuro bloqueado",
+    "El estado actual de La Casa del Niño, en imágenes",
+    "Así se encuentra La Casa del Niño: escombros, abandono y suciedad"
    ]
   },
   {
@@ -2240,6 +2182,25 @@
     "El radar que reforzará el escudo de la Armada: así defiende el radar SPY-7 a las fragatas F-110 frente a las nuevas amenazas",
     "Dos nuevas fragatas españolas dan un salto militar: más veloces, con lanzamiento vertical ampliado y diferentes misiles",
     "Elentir elogia las fragatas españolas F-100: «Uno de los mejores buques de guerra que hay actualmente en servicio: las fragatas de la clase “Álvaro de Bazán”»"
+   ]
+  },
+  {
+   "term": "claudia schiffer",
+   "traffic": 100,
+   "lastSeen": "2026-11-15",
+   "news": [
+    "De la hija del 'Litri' a la de Claudia Schiffer, estas son las 19 chicas de vivirán el glamour del Baile de debutantes de París",
+    "Así es Clementine Vaughn, la hija de Claudia Schiffer que participará en el Baile de las Debutantes"
+   ]
+  },
+  {
+   "term": "feria de abril",
+   "traffic": 100,
+   "lastSeen": "2026-11-15",
+   "news": [
+    "La nueva normativa de la Feria de Sevilla choca con los titulares de casetas: piden medidas antidiscotecas, control del ruido o criterios claros de adjudicación",
+    "¿Cuándo caen la Feria y la Semana Santa en 2027? Consulta todos los días festivos en Sevilla el próximo año",
+    "¿Qué Día Cae Semana Santa en 2027, 2028, 2029 y 2030 en México? Total de Días de Vacaciones"
    ]
   }
  ]
