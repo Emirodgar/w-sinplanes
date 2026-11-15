@@ -1,11 +1,11 @@
 {
-  "generated": "2026-11-15T11:57:50.551Z",
+  "generated": "2026-11-15T13:03:12.671Z",
   "today": "2026-11-15",
-  "events": 7550,
-  "review": 7,
+  "events": 7563,
+  "review": 8,
   "ai": {
-    "calls": 0,
-    "seconds": 37,
+    "calls": 19,
+    "seconds": 320,
     "tripped": false
   },
   "sources": [
@@ -72,13 +72,13 @@
     {
       "id": "prensa-heraldo-ocio",
       "status": "ok",
-      "count": 16,
+      "count": 17,
       "candidatos": true
     },
     {
       "id": "prensa-nortecastilla-culturas",
       "status": "ok",
-      "count": 5,
+      "count": 6,
       "candidatos": true
     },
     {

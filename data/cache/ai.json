@@ -65,6 +65,22 @@
   ],
   "a_cubierto": true
  },
+ "3198269857": {
+  "id": "3a05ff2f45",
+  "es": {
+   "titulo": "Tracatá (Carbonera)",
+   "resumen": "Espectáculo de danza con fusión electro-flamenco que narra el ciclo del carbón a través de testimonios de mineros y sus familias. Una historia de trabajo y vida."
+  },
+  "en": {
+   "titulo": "Tracatá (Carbonera)",
+   "resumen": "A dance performance with electro-flamenco fusion narrating the coal cycle through testimonies of miners and their families. A story of work and life."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
  "3665434669": {
   "id": "6d40a8b27d",
   "es": {
@@ -39282,6 +39298,1598 @@
   "en": {
    "titulo": "Eresmin Abesbatza: \"The Sea and Basque Song\"",
    "resumen": "Choral gathering \"Itsasoa eta euskal kantua\" organized by Eresmin Abesbatza. Various choirs from the Basque Country will perform in churches in Donostia."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "b271de7322": {
+  "id": "b5d625ba48",
+  "es": {
+   "titulo": "José Antonio Aarnoutse Trío",
+   "resumen": "Concierto de jazz del José Antonio Aarnoutse Trío en el Centro Cultural la Elipa. El músico cartagenero presenta su segundo trabajo discográfico tras años de evolución artística."
+  },
+  "en": {
+   "titulo": "José Antonio Aarnoutse Trio",
+   "resumen": "Jazz concert by the José Antonio Aarnoutse Trio at the Centro Cultural la Elipa. The Cartagena-born musician presents his second album after years of artistic evolution."
+  },
+  "temas": [
+   "musica"
+  ],
+  "a_cubierto": null
+ },
+ "0aa80508eb": {
+  "id": "2fff72606b",
+  "es": {
+   "titulo": "Senda: Los ecosistemas de Pradolongo",
+   "resumen": "Descubre la biodiversidad del parque Pradolongo en esta ruta guiada. Aprende sobre los diferentes ecosistemas y la historia democrática del parque. Apta para mayores de 7 años."
+  },
+  "en": {
+   "titulo": "Trail: The Ecosystems of Pradolongo",
+   "resumen": "Discover the biodiversity of Pradolongo Park on this guided trail. Learn about its diverse ecosystems and the park's democratic history. Suitable for ages 7 and up."
+  },
+  "temas": [
+   "naturaleza",
+   "rutas",
+   "parques"
+  ],
+  "a_cubierto": false
+ },
+ "4a42f43886": {
+  "id": "17dd7a06d8",
+  "es": {
+   "titulo": "La Magia Sorprendente de Luis Joyra",
+   "resumen": "Espectáculo de magia infantil y familiar con el Mago Luis Joyra. Disfruta de 60 minutos de emoción, risas y asombro con números de gran formato y participación del público."
+  },
+  "en": {
+   "titulo": "The Surprising Magic of Luis Joyra",
+   "resumen": "A fun magic show for children and families featuring Mago Luis Joyra. Enjoy 60 minutes of excitement, laughter, and wonder with large-scale tricks and audience participation."
+  },
+  "temas": [
+   "ninos",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "8d276ade38": {
+  "id": "267b45a736",
+  "es": {
+   "titulo": "Secundario. Vida de un actor de provincias",
+   "resumen": "Un homenaje al actor secundario a través de un viaje íntimo y emotivo. Antonio Velasco comparte la soledad del camerino y reflexiona sobre la vida y el alma del cómico."
+  },
+  "en": {
+   "titulo": "Secondary. Life of a Provincial Actor",
+   "resumen": "A tribute to the supporting actor through an intimate and emotional journey. Antonio Velasco shares the solitude of the dressing room, reflecting on the life and soul of a comedian."
+  },
+  "temas": [
+   "cultura",
+   "teatro"
+  ],
+  "a_cubierto": true
+ },
+ "036256bf0f": {
+  "id": "a601ed0d00",
+  "es": {
+   "titulo": "Gilipollas sin fronteras - 2",
+   "resumen": "Un show de humor con nuevos sketches que celebra la \"gilipollez\" como terapia. Inspirado en grandes cómicos, este dúo promete carcajadas y un espíritu liberador."
+  },
+  "en": {
+   "titulo": "Assholes Without Borders - 2",
+   "resumen": "A comedy show with new sketches celebrating \"foolishness\" as therapy. Inspired by great comedians, this duo promises laughter and a liberating spirit."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "1f6869bd51": {
+  "id": "02eb3f1e2d",
+  "es": {
+   "titulo": "Inventar, inventariar, inventurear con Gianni Rodari",
+   "resumen": "Taller teatral inspirado en Gianni Rodari para aprender a inventar historias. Un viaje lúdico a través de palabras, objetos y fantasía para despertar la creatividad infantil."
+  },
+  "en": {
+   "titulo": "Invent, Inventory, Inventure with Gianni Rodari",
+   "resumen": "A theatrical workshop inspired by Gianni Rodari to learn story invention. A playful journey through words, objects, and fantasy to spark children's creativity."
+  },
+  "temas": [
+   "ninos",
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": true
+ },
+ "d38172173d": {
+  "id": "de3f5c0045",
+  "es": {
+   "titulo": "La Magia de Papá Noel",
+   "resumen": "Espectáculo de magia navideño con Papá Noel y su ayudante Purpurina. Un show lleno de ilusión y trucos sorprendentes para disfrutar en familia durante las fiestas."
+  },
+  "en": {
+   "titulo": "The Magic of Santa Claus",
+   "resumen": "A Christmas magic show featuring Santa Claus and his assistant Purpurina. A performance full of wonder and surprising tricks for families to enjoy during the holidays."
+  },
+  "temas": [
+   "ninos",
+   "navidad",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "07ccdc6b5a": {
+  "id": "e42625c0fc",
+  "es": {
+   "titulo": "Manual de la Perfecta Viajera",
+   "resumen": "Comedia teatral sobre los desafíos de encontrar autenticidad en destinos turísticos. Una viajera se enfrenta a situaciones cómicas en su búsqueda de experiencias genuinas."
+  },
+  "en": {
+   "titulo": "Manual for the Perfect Traveler",
+   "resumen": "A theatrical comedy about the challenges of finding authenticity in tourist destinations. A traveler faces comical situations in her quest for genuine experiences."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "d05d72bce8": {
+  "id": "d1a55d1d63",
+  "es": {
+   "titulo": "Gracias Raphael",
+   "resumen": "Tributo musical a Raphael con Richard Sánchez. Un recorrido por los grandes éxitos del icónico cantante, interpretando alrededor de 20 temas en un espectáculo de 70-90 minutos."
+  },
+  "en": {
+   "titulo": "Thanks Raphael",
+   "resumen": "Musical tribute to Raphael by Richard Sánchez. A journey through the iconic singer's greatest hits, performing around 20 songs in a 70-90 minute show."
+  },
+  "temas": [
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "2a81b12269": {
+  "id": "ad456ed190",
+  "es": {
+   "titulo": "Los Monólogos de Dani Fontecha",
+   "resumen": "Espectáculo de monólogos de humor a cargo de Dani Fontecha, conocido por su participación en 'El Hormiguero'. Una hora de comedia para el Teatro Municipal Benevivere."
+  },
+  "en": {
+   "titulo": "Dani Fontecha's Monologues",
+   "resumen": "Stand-up comedy show by Dani Fontecha, known for his appearance on 'El Hormiguero'. An hour of comedy at the Teatro Municipal Benevivere."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "ecd235d830": {
+  "id": "6692410ed5",
+  "es": {
+   "titulo": "Ser Centella",
+   "resumen": "Los Clowns 'Los Centella' presentan \"Ser Centella\", un espectáculo multidisciplinar con humor, ternura y música. Una celebración de la vida con seis instrumentos en escena."
+  },
+  "en": {
+   "titulo": "Being Centella",
+   "resumen": "The clowns 'Los Centella' present \"Ser Centella\", a multidisciplinary show with humor, tenderness, and music. A celebration of life with six instruments on stage."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "74155afb33": {
+  "id": "2921b93a8a",
+  "es": {
+   "titulo": "Dantza Plazetan 2026: Beti Jai Alai Dantzari Taldea",
+   "resumen": "Festival de folklore vasco en Bilbao con actuaciones gratuitas de diferentes grupos de danza. Celebra la cultura vasca a través de romerías, kalejiras y alardes a lo largo del año."
+  },
+  "en": {
+   "titulo": "Dantza Plazetan 2026: Beti Jai Alai Dantzari Taldea",
+   "resumen": "Basque folklore festival in Bilbao featuring free performances by various dance groups. Celebrate Basque culture through traditional dances, parades, and performances throughout the year."
+  },
+  "temas": [
+   "cultura",
+   "fiestas"
+  ],
+  "a_cubierto": false
+ },
+ "4eb7859c24": {
+  "id": "465f8a3cf4",
+  "es": {
+   "titulo": "Exposición \"De ayer a hoy\" de Isabel M. Peralta",
+   "resumen": "Exposición de arte de Isabel M. Peralta titulada \"De ayer a hoy\". Podrá visitarse en la Sala Municipal de Exposiciones Ezkurdi del 6 al 15 de noviembre."
+  },
+  "en": {
+   "titulo": "Exhibition \"From Yesterday to Today\" by Isabel M. Peralta",
+   "resumen": "Art exhibition by Isabel M. Peralta titled \"From Yesterday to Today\". It can be visited at the Sala Municipal de Exposiciones Ezkurdi from November 6th to 15th."
+  },
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true
+ },
+ "bdf78b6a57": {
+  "id": "fa11697d51",
+  "es": {
+   "titulo": "Exposición \"El agua\" de Isabel Muñoz",
+   "resumen": "Muestra fotográfica de Isabel Muñoz sobre la vulnerabilidad de mares y océanos. Imágenes en blanco y negro que conciencian sobre el cuidado del ecosistema marino."
+  },
+  "en": {
+   "titulo": "Exhibition \"Water\" by Isabel Muñoz",
+   "resumen": "Photographic exhibition by Isabel Muñoz on the vulnerability of seas and oceans. Black and white images raising awareness about marine ecosystem conservation."
+  },
+  "temas": [
+   "naturaleza",
+   "agua",
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true
+ },
+ "bedc3c4629": {
+  "id": "f234992614",
+  "es": {
+   "titulo": "Concierto: PORTRAIT",
+   "resumen": "La banda PORTRAIT actuará en la Sala Groove de Portugalete el 15 de noviembre. Una noche de música en directo para disfrutar de su sonido."
+  },
+  "en": {
+   "titulo": "Concert: PORTRAIT",
+   "resumen": "The band PORTRAIT will perform at Sala Groove in Portugalete on November 15th. An evening of live music to enjoy their sound."
+  },
+  "temas": [
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "cc9553248d": {
+  "id": "6ae9aeed78",
+  "es": {
+   "titulo": "Iruña 2.0",
+   "resumen": "Pieza escénica que explora la historia reciente de Pamplona a través de la figura de un mono. Una tragicomedia que reflexiona sobre la libertad, la justicia y la condición humana."
+  },
+  "en": {
+   "titulo": "Iruña 2.0",
+   "resumen": "A stage piece exploring Pamplona's recent history through the figure of a monkey. A tragicomedy reflecting on freedom, justice, and the human condition."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "8df5df8c62": {
+  "id": "2cb12754a6",
+  "es": {
+   "titulo": "Concierto: SNIPER",
+   "resumen": "La banda SNIPER actuará en la sala Atabal de Biarritz el 15 de noviembre. Prepárate para una noche de música en directo."
+  },
+  "en": {
+   "titulo": "Concert: SNIPER",
+   "resumen": "The band SNIPER will perform at Sala Atabal in Biarritz on November 15th. Get ready for a night of live music."
+  },
+  "temas": [
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "ac46b2de58": {
+  "id": "0af72d0124",
+  "es": {
+   "titulo": "Cine para todos: \"Hartz-atzapar Kanpamentua\"",
+   "resumen": "Película de aventuras infantiles sobre dos niños que buscan un oso para salvar un campamento de verano. Con la ayuda de una mofeta parlante, vivirán una intrépida aventura."
+  },
+  "en": {
+   "titulo": "Cinema for All: \"Bear Claw Camp\"",
+   "resumen": "Children's adventure film about two kids searching for a bear to save a summer camp. With the help of a talking skunk, they embark on a thrilling adventure."
+  },
+  "temas": [
+   "ninos",
+   "pantalla"
+  ],
+  "a_cubierto": true
+ },
+ "7e614488c8": {
+  "id": "01b215d4ce",
+  "es": {
+   "titulo": "La Ruta del Arte BBK: \"Animalario\"",
+   "resumen": "Exposición de reproducciones de obras de arte centradas en animales. \"Animalario\" muestra la diversidad de representaciones animales en el arte, desde lo alegórico a lo simbólico."
+  },
+  "en": {
+   "titulo": "The BBK Art Route: \"Animalario\"",
+   "resumen": "Exhibition of reproduced artworks focused on animals. \"Animalario\" showcases the diversity of animal representations in art, from the allegorical to the symbolic."
+  },
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true
+ },
+ "644f973a3a": {
+  "id": "7af7c0926e",
+  "es": {
+   "titulo": "Concierto: Cloud Nothings",
+   "resumen": "El grupo CLOUD NOTHINGS actuará en la sala Dabadaba de Donostia el 15 de noviembre. Disfruta de su música en directo."
+  },
+  "en": {
+   "titulo": "Concert: Cloud Nothings",
+   "resumen": "The band CLOUD NOTHINGS will perform at Sala Dabadaba in Donostia on November 15th. Enjoy their live music."
+  },
+  "temas": [
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "a8baeaa8f1": {
+  "id": "f5b6a089e2",
+  "es": {
+   "titulo": "Royal Film Concert Orchestra: \"Morricone y 100 años de cine\"",
+   "resumen": "Concierto homenaje a Ennio Morricone y al cine. La Royal Film Concert Orchestra interpreta las bandas sonoras más famosas de todos los tiempos en un espectáculo de 90 minutos."
+  },
+  "en": {
+   "titulo": "Royal Film Concert Orchestra: \"Morricone and 100 Years of Cinema\"",
+   "resumen": "A tribute concert to Ennio Morricone and cinema. The Royal Film Concert Orchestra performs the most famous soundtracks of all time in a 90-minute show."
+  },
+  "temas": [
+   "musica",
+   "pantalla"
+  ],
+  "a_cubierto": true
+ },
+ "e9d26af79c": {
+  "id": "034e8bee70",
+  "es": {
+   "titulo": "Scapino Ballet Rotterdam: \"La Mer\"",
+   "resumen": "Danza contemporánea sobre el océano y sus amenazas. \"La Mer\" combina coreografía, proyecciones y música para reflexionar sobre la relación entre el ser humano y la naturaleza."
+  },
+  "en": {
+   "titulo": "Scapino Ballet Rotterdam: \"La Mer\"",
+   "resumen": "Contemporary dance about the ocean and its threats. \"La Mer\" combines choreography, projections, and music to reflect on the relationship between humans and nature."
+  },
+  "temas": [
+   "cultura",
+   "agua",
+   "naturaleza"
+  ],
+  "a_cubierto": true
+ },
+ "614165ed8e": {
+  "id": "3482e90fac",
+  "es": {
+   "titulo": "\"TITIZÉ - A Venetian Dream\"",
+   "resumen": "Espectáculo visual y poético inspirado en Venecia. Clown, acrobacias y música se unen para crear una experiencia onírica y emocionante sin necesidad de palabras."
+  },
+  "en": {
+   "titulo": "\"TITIZÉ - A Venetian Dream\"",
+   "resumen": "A visual and poetic show inspired by Venice. Clown, acrobatics, and music combine to create a dreamlike and emotional experience without words."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "40a805943e": {
+  "id": "86a70bd0a4",
+  "es": {
+   "titulo": "Dani Mateo: \"¿Por qué no te callas?\"",
+   "resumen": "Dani Mateo presenta su monólogo \"¿Por qué no te callas?\". Una reflexión humorística sobre los momentos actuales y las curiosidades de la vida moderna."
+  },
+  "en": {
+   "titulo": "Dani Mateo: \"Why Don't You Shut Up?\"",
+   "resumen": "Dani Mateo presents his stand-up show \"Why Don't You Shut Up?\". A humorous reflection on current times and the curiosities of modern life."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "eba932ea71": {
+  "id": "7e52a97d31",
+  "es": {
+   "titulo": "Dirty Sound Magnet en concierto",
+   "resumen": "La banda Dirty Sound Magnet actuará en D8 Sorkuntza Faktoria en Bilbao. Una oportunidad para disfrutar de música en directo."
+  },
+  "en": {
+   "titulo": "Dirty Sound Magnet in concert",
+   "resumen": "The band Dirty Sound Magnet will perform at D8 Sorkuntza Faktoria in Bilbao. An opportunity to enjoy live music."
+  },
+  "temas": [
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "633d84f70e": {
+  "id": "74a954b5dd",
+  "es": {
+   "titulo": "Género de dudas: Teatro con Pastora Vega y Pablo Carbonell",
+   "resumen": "Una obra teatral que explora la estabilidad de una pareja cuando surgen noticias inesperadas. Con humor inteligente y giros argumentales, invita a la reflexión."
+  },
+  "en": {
+   "titulo": "Género de dudas: Theater with Pastora Vega and Pablo Carbonell",
+   "resumen": "A play that explores the stability of a couple when unexpected news arises. With intelligent humor and plot twists, it invites reflection."
+  },
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": true
+ },
+ "48ccebe17e": {
+  "id": "1feab9ab7c",
+  "es": {
+   "titulo": "Festival de música clásica de Plentzia",
+   "resumen": "La iglesia de Plentzia acoge un festival de música clásica con órgano, violín, piano y voces. Incluye conciertos vespertinos y sesiones de cuentos musicalizados para niños."
+  },
+  "en": {
+   "titulo": "Plentzia Classical Music Festival",
+   "resumen": "Plentzia's church hosts a classical music festival featuring organ, violin, piano, and voices. It includes afternoon concerts and musical storytelling sessions for children."
+  },
+  "temas": [
+   "musica",
+   "ninos",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "e47f37a6c1": {
+  "id": "897022d1a3",
+  "es": {
+   "titulo": "Exposición \"Ertibil Bizkaia 2026\" en Barakaldo",
+   "resumen": "La Sala Rekalde presenta la 44ª edición de Ertibil Bizkaia, mostrando la producción artística contemporánea de jóvenes creadores de Bizkaia. La exposición itinerará por varias localidades."
+  },
+  "en": {
+   "titulo": "Exhibition \"Ertibil Bizkaia 2026\" in Barakaldo",
+   "resumen": "Sala Rekalde presents the 44th edition of Ertibil Bizkaia, showcasing contemporary artistic production by young creators from Bizkaia. The exhibition will tour several towns."
+  },
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true
+ },
+ "15fac44a44": {
+  "id": "0d99cf3065",
+  "es": {
+   "titulo": "Karim: \"Todo va a ir bien…o no\"",
+   "resumen": "Un espectáculo de humor que mezcla tarotismo y optimismo, invitando a disfrutar cada momento. Promete risas, emoción y una conexión única con el público."
+  },
+  "en": {
+   "titulo": "Karim: \"Everything will be fine... or not\"",
+   "resumen": "A comedy show blending tarot reading and optimism, inviting the audience to enjoy every moment. It promises laughter, emotion, and a unique connection with the public."
+  },
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": true
+ },
+ "52a5e5bcda": {
+  "id": "731723167a",
+  "es": {
+   "titulo": "FIAR 2026 - Festival de Arte Relacional de Álava",
+   "resumen": "El Festival Internacional de Arte Relacional de Álava celebra su segunda edición en Vitoria-Gasteiz y otras localidades, profundizando en el arte como espacio de encuentro y participación."
+  },
+  "en": {
+   "titulo": "FIAR 2026 - Alava Relational Art Festival",
+   "resumen": "The Alava International Relational Art Festival celebrates its second edition in Vitoria-Gasteiz and other towns, focusing on art as a space for encounter and participation."
+  },
+  "temas": [
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "aa626d2502": {
+  "id": "23a10678c4",
+  "es": {
+   "titulo": "\"Gota\": Clown y magia para público familiar",
+   "resumen": "Un espectáculo de calle que combina clown contemporáneo y magia nouvelle, con manipulación de objetos y teatro físico. Ideal para público a partir de 4 años."
+  },
+  "en": {
+   "titulo": "\"Gota\": Clown and magic for families",
+   "resumen": "A street performance combining contemporary clowning and nouvelle magic, featuring object manipulation and physical theater. Ideal for audiences aged 4 and up."
+  },
+  "temas": [
+   "cultura",
+   "ninos"
+  ],
+  "a_cubierto": true
+ },
+ "f1cf41dd35": {
+  "id": "e212f9b92d",
+  "es": {
+   "titulo": "\"Bidutzi\": Aventura familiar en Carnaval",
+   "resumen": "Una aventura familiar ambientada en Carnaval donde un pequeño monstruo debe escapar de una jaula. Mezcla disfraces, humor y emoción para celebrar la amistad."
+  },
+  "en": {
+   "titulo": "\"Bidutzi\": Family adventure during Carnival",
+   "resumen": "A family adventure set during Carnival where a little monster must escape a cage. It mixes costumes, humor, and emotion to celebrate friendship."
+  },
+  "temas": [
+   "cultura",
+   "ninos",
+   "fiestas"
+  ],
+  "a_cubierto": true
+ },
+ "d06fbe5a7f": {
+  "id": "4d3979bb49",
+  "es": {
+   "titulo": "Festival de Teatro de Vitoria-Gasteiz: \"Farra\"",
+   "resumen": "Un cabaret barroco que celebra la fiesta y la cultura del Siglo de Oro, mezclando música, locura y acrobacias. Reflexiona sobre el pasado y el presente con humor."
+  },
+  "en": {
+   "titulo": "Vitoria-Gasteiz Theater Festival: \"Farra\"",
+   "resumen": "A baroque cabaret celebrating the festivities and culture of the Golden Age, blending music, madness, and acrobatics. It reflects on the past and present with humor."
+  },
+  "temas": [
+   "cultura",
+   "musica",
+   "fiestas"
+  ],
+  "a_cubierto": true
+ },
+ "05478d5905": {
+  "id": "71afbfab23",
+  "es": {
+   "titulo": "(cancelado) Alondra Bentley, Isaki Lacuesta: \"Fantasma Sur\"",
+   "resumen": "Un proyecto musical y cinematográfico que fusiona la voz de Alondra Bentley con ritmos electrónicos y proyecciones en vivo. Explora géneros y atmósferas espectrales."
+  },
+  "en": {
+   "titulo": "(canceled) Alondra Bentley, Isaki Lacuesta: \"Fantasma Sur\"",
+   "resumen": "A musical and cinematic project merging Alondra Bentley's voice with electronic rhythms and live projections. It explores genres and spectral atmospheres."
+  },
+  "temas": [
+   "musica",
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": true
+ },
+ "b733eb0dbf": {
+  "id": "c04484682f",
+  "es": {
+   "titulo": "\"Teoría King Kong\": Teatro sobre feminismo",
+   "resumen": "Adaptación teatral del influyente ensayo de Virginie Despentes sobre feminismo y teoría de género. Aborda temas como la explotación, la violencia y la libertad."
+  },
+  "en": {
+   "titulo": "\"Teoría King Kong\": Theater on feminism",
+   "resumen": "Theatrical adaptation of Virginie Despentes' influential essay on feminism and gender theory. It addresses topics such as exploitation, violence, and freedom."
+  },
+  "temas": [
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": true
+ },
+ "36d6b18f6f": {
+  "id": "092ae5fafd",
+  "es": {
+   "titulo": "Exposición \"José Antonio Sistiaga\"",
+   "resumen": "Exposición dedicada a la obra de José Antonio Sistiaga en Kur Art Gallery."
+  },
+  "en": {
+   "titulo": "Exhibition \"José Antonio Sistiaga\"",
+   "resumen": "Exhibition dedicated to the work of José Antonio Sistiaga at Kur Art Gallery."
+  },
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true
+ },
+ "d148afa61f": {
+  "id": "22b4b9f7ac",
+  "es": {
+   "titulo": "\"Jumana Manna. Foragers\": Cine en Artium",
+   "resumen": "El Museo Artium presenta la película \"Foragers\" de Jumana Manna, que explora con humor irónico la recogida de plantas silvestres en Palestina y las leyes israelíes."
+  },
+  "en": {
+   "titulo": "\"Jumana Manna. Foragers\": Film at Artium",
+   "resumen": "The Artium Museum presents Jumana Manna's film \"Foragers,\" which humorously explores the gathering of wild plants in Palestine and Israeli laws."
+  },
+  "temas": [
+   "cultura",
+   "pantalla",
+   "naturaleza"
+  ],
+  "a_cubierto": true
+ },
+ "f07f6b32c7": {
+  "id": "411277e731",
+  "es": {
+   "titulo": "\"No seremos las últimas\": Aventura mágica familiar",
+   "resumen": "Una aventura familiar llena de magia, lucha y humor donde tres jóvenes acceden a una academia de magia. Explora temas de pertenencia y superación."
+  },
+  "en": {
+   "titulo": "\"No seremos las últimas\": Family magic adventure",
+   "resumen": "A family adventure filled with magic, struggle, and humor where three youngsters gain entry to a magic academy. It explores themes of belonging and overcoming challenges."
+  },
+  "temas": [
+   "cultura",
+   "ninos",
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "baaca424e0": {
+  "id": "b21b6e92be",
+  "es": {
+   "titulo": "\"Alizia, un ensueño musical\": Adaptación de Alicia en el País de las Maravillas",
+   "resumen": "Una adaptación musical del clásico \"Alicia en el País de las Maravillas\", con personajes emblemáticos y música maravillosa. Ideal para celebrar un cumpleaños mágico."
+  },
+  "en": {
+   "titulo": "\"Alizia, a musical dream\": Adaptation of Alice in Wonderland",
+   "resumen": "A musical adaptation of the classic \"Alice in Wonderland,\" featuring iconic characters and wonderful music. Perfect for celebrating a magical birthday."
+  },
+  "temas": [
+   "cultura",
+   "ninos",
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "fe6b3800eb": {
+  "id": "38a27d48e5",
+  "es": {
+   "titulo": "Exposición de Josemari Salaberria en Zarautz",
+   "resumen": "La sala de exposiciones Sanz Enea en Zarautz presenta una muestra de Josemari Salaberria. Una oportunidad para disfrutar de su obra."
+  },
+  "en": {
+   "titulo": "Exhibition by Josemari Salaberria in Zarautz",
+   "resumen": "The Sanz Enea exhibition hall in Zarautz presents a show by Josemari Salaberria. An opportunity to enjoy his work."
+  },
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true
+ },
+ "bd3de45ffc": {
+  "id": "1528630d59",
+  "es": {
+   "titulo": "\"Lur eta Amets\": Viaje a través de la historia",
+   "resumen": "Dos gemelos viajan por diferentes épocas históricas gracias a los poderes de su abuela y su gato. Una aventura familiar llena de acción y humor."
+  },
+  "en": {
+   "titulo": "\"Lur eta Amets\": Journey through history",
+   "resumen": "Two twins travel through different historical eras thanks to the powers of their grandmother and her cat. A family adventure full of action and humor."
+  },
+  "temas": [
+   "cultura",
+   "ninos",
+   "aventuras"
+  ],
+  "a_cubierto": true
+ },
+ "3e4405ecb8": {
+  "id": "bba5a22540",
+  "es": {
+   "titulo": "Galbahe: \"Ez gara dena ahazteko nahikoa biziko\"",
+   "resumen": "Una propuesta que une literatura y música, basada en el poemario \"Galbahea\". Una de las últimas oportunidades para disfrutar de este proyecto en directo."
+  },
+  "en": {
+   "titulo": "Galbahe: \"Ez gara dena ahazteko nahikoa biziko\"",
+   "resumen": "A project that combines literature and music, based on the poetry collection \"Galbahea.\" One of the last opportunities to enjoy this project live."
+  },
+  "temas": [
+   "musica",
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "e00e4dffb6": {
+  "id": "90afac73e6",
+  "es": {
+   "titulo": "\"De rosas o de lirios\": Circo, danza y teatro",
+   "resumen": "Un espectáculo multidisciplinar que explora la amistad a través del circo, la danza y el teatro. Una obra fresca y actual para público adulto."
+  },
+  "en": {
+   "titulo": "\"De rosas o de lirios\": Circus, dance, and theater",
+   "resumen": "A multidisciplinary performance exploring friendship through circus, dance, and theater. A fresh and contemporary work for adult audiences."
+  },
+  "temas": [
+   "cultura",
+   "deporte"
+  ],
+  "a_cubierto": true
+ },
+ "2d6a4ce275": {
+  "id": "f5b51ee384",
+  "es": {
+   "titulo": "\"El ventrílocuo\": Humor, música y ventriloquía",
+   "resumen": "Un espectáculo que actualiza el arte de la ventriloquía con humor, canciones originales y música en directo de piano y violín. Una experiencia para la vista y el oído."
+  },
+  "en": {
+   "titulo": "\"El ventrílocuo\": Humor, music, and ventriloquism",
+   "resumen": "A show that updates the art of ventriloquism with humor, original songs, and live piano and violin music. An experience for both sight and hearing."
+  },
+  "temas": [
+   "cultura",
+   "musica",
+   "pantalla"
+  ],
+  "a_cubierto": true
+ },
+ "cfb10780ab": {
+  "id": "401a9baf2e",
+  "es": {
+   "titulo": "\"Des-nudo\": Exposición sobre emociones y vínculos",
+   "resumen": "Una exposición que explora las ataduras emocionales y el proceso de liberarse de ellas. Una mirada a la fragilidad y la fuerza del ser humano."
+  },
+  "en": {
+   "titulo": "\"Des-nudo\": Exhibition on emotions and bonds",
+   "resumen": "An exhibition exploring emotional ties and the process of letting go. A look at human fragility and strength."
+  },
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true
+ },
+ "a8941ed224": {
+  "id": "e063927fd0",
+  "es": {
+   "titulo": "Exposición \"Pulso. Latidos de la fauna ibérica\"",
+   "resumen": "Una exposición fotográfica de Oihane García y Daniel Vidal que muestra la fauna ibérica de forma respetuosa, concienciando sobre su conservación."
+  },
+  "en": {
+   "titulo": "Exhibition \"Pulso. Latidos de la fauna ibérica\"",
+   "resumen": "A photographic exhibition by Oihane García and Daniel Vidal showcasing Iberian fauna respectfully, raising awareness about its conservation."
+  },
+  "temas": [
+   "naturaleza",
+   "cultura",
+   "fotografia"
+  ],
+  "a_cubierto": true
+ },
+ "f3b5d7daa8": {
+  "id": "560d28fa61",
+  "es": {
+   "titulo": "\"Lamiaren ispilua\": Fantasía vasca para niños",
+   "resumen": "Un espectáculo infantil que mezcla juego, fantasía y mitología vasca. Una niña descubre un espejo mágico que despierta su imaginación y la lleva a una aventura."
+  },
+  "en": {
+   "titulo": "\"Lamiaren ispilua\": Basque fantasy for children",
+   "resumen": "A children's show blending play, fantasy, and Basque mythology. A girl discovers a magic mirror that sparks her imagination and leads her on an adventure."
+  },
+  "temas": [
+   "ninos",
+   "cultura",
+   "fantasia"
+  ],
+  "a_cubierto": true
+ },
+ "4bffcfc5c9": {
+  "id": "172d2d4dc6",
+  "es": {
+   "titulo": "ArabaClick 2026: Exposición \"ArabaClick\"",
+   "resumen": "Exposición fotográfica dentro del encuentro ArabaClick 2026, que reúne miradas emergentes y consolidadas sobre la imagen. Descubre nuevas historias y sensibilidades."
+  },
+  "en": {
+   "titulo": "ArabaClick 2026: \"ArabaClick\" exhibition",
+   "resumen": "Photography exhibition within the ArabaClick 2026 meeting, which brings together emerging and established perspectives on the image. Discover new stories and sensibilities."
+  },
+  "temas": [
+   "cultura",
+   "fotografia"
+  ],
+  "a_cubierto": true
+ },
+ "639b3d0480": {
+  "id": "3d0069136f",
+  "es": {
+   "titulo": "Semana de Cine Fantástico: \"Hyakki yagyô\"",
+   "resumen": "Exposición de Álvaro Herranz sobre el folclore japonés, con esculturas y fotografías de yokai y seres sobrenaturales. Un viaje al mundo de lo fantástico."
+  },
+  "en": {
+   "titulo": "Fantasy Film Week: \"Hyakki yagyô\"",
+   "resumen": "Exhibition by Álvaro Herranz on Japanese folklore, featuring sculptures and photographs of yokai and supernatural beings. A journey into the world of the fantastic."
+  },
+  "temas": [
+   "cultura",
+   "pantalla",
+   "fantasia"
+  ],
+  "a_cubierto": true
+ },
+ "25e3f40d33": {
+  "id": "687ab0cd66",
+  "es": {
+   "titulo": "Mapamundistas 2026: Exposición colectiva \"Una cuerda que se teje\"",
+   "resumen": "El Pabellón de Mixtos de Pamplona acoge la exposición colectiva 'Una cuerda que se teje', parte del programa 'Mapamundistas 2026'. La muestra explora el concepto de generación y las aportaciones individuales a un legado común a través de obras de diversos artistas."
+  },
+  "en": {
+   "titulo": "Mapamundistas 2026: Collective Exhibition \"A Rope That Is Woven\"",
+   "resumen": "The Pabellón de Mixtos in Pamplona hosts the collective exhibition 'A Rope That Is Woven', part of the 'Mapamundistas 2026' program. The exhibition explores the concept of generation and individual contributions to a shared legacy through works by various artists."
+  },
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true
+ },
+ "4664af7ad6": {
+  "id": "e3ebc3919c",
+  "es": {
+   "titulo": "Encuentros de Pamplona 2026: \"Web\", Mona Hatoum",
+   "resumen": "La obra 'Web' de Mona Hatoum, expuesta en los Encuentros de Pamplona 2026, transforma el espacio con una instalación de esferas de vidrio y cables de acero. La pieza evoca tensiones entre atracción y amenaza, delicadeza y violencia."
+  },
+  "en": {
+   "titulo": "Encuentros de Pamplona 2026: \"Web\", Mona Hatoum",
+   "resumen": "Mona Hatoum's artwork 'Web', exhibited at the Encuentros de Pamplona 2026, transforms the space with an installation of glass spheres and steel cables. The piece evokes tensions between attraction and threat, delicacy and violence."
+  },
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true
+ },
+ "3f3a86e8de": {
+  "id": "8e62a49845",
+  "es": {
+   "titulo": "Encuentros de Pamplona 2026: \"Is the museum a battlefield?\", Hito Steyerl",
+   "resumen": "La obra 'Is the museum a battlefield?' de Hito Steyerl, parte de los Encuentros de Pamplona 2026, analiza las conexiones financieras y políticas entre el arte contemporáneo y la industria armamentística global."
+  },
+  "en": {
+   "titulo": "Encuentros de Pamplona 2026: \"Is the museum a battlefield?\", Hito Steyerl",
+   "resumen": "Hito Steyerl's work 'Is the museum a battlefield?', part of the Encuentros de Pamplona 2026, analyzes the hidden financial and political links between contemporary art institutions and the global arms industry."
+  },
+  "temas": [
+   "cultura",
+   "museos",
+   "pantalla"
+  ],
+  "a_cubierto": true
+ },
+ "6b197ab0a4": {
+  "id": "e650f1d698",
+  "es": {
+   "titulo": "Programa Camino Escena Norte 2026",
+   "resumen": "Camino Escena Norte celebra su octava edición conectando comunidades cantábricas y navarras a través de las artes escénicas. El programa incluye unos 60 espectáculos de teatro, danza y circo hasta el 15 de noviembre."
+  },
+  "en": {
+   "titulo": "Camino Escena Norte 2026 Program",
+   "resumen": "Camino Escena Norte celebrates its eighth edition, connecting Cantabrian and Navarrese communities through performing arts. The program features around 60 theater, dance, and circus shows until November 15th."
+  },
+  "temas": [
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "abf07a7ef1": {
+  "id": "cf8a64e6e9",
+  "es": {
+   "titulo": "Coque Malla protagoniza \"La ópera de los tres centavos\"",
+   "resumen": "Coque Malla encabeza la nueva producción de \"La ópera de los tres centavos\" de Bertolt Brecht y Kurt Weill. La obra, estrenada en 1928, critica ferozmente el capitalismo y la crisis económica de la época."
+  },
+  "en": {
+   "titulo": "Coque Malla Stars in \"The Threepenny Opera\"",
+   "resumen": "Coque Malla leads the new production of Bertolt Brecht and Kurt Weill's \"The Threepenny Opera.\" The play, first staged in 1928, fiercely criticizes capitalism and the economic crisis of the era."
+  },
+  "temas": [
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "ca16402b01": {
+  "id": "0a641c2ab0",
+  "es": {
+   "titulo": "Oldarra (coro)",
+   "resumen": "El coro Oldarra ofrecerá una actuación en Sare."
+  },
+  "en": {
+   "titulo": "Oldarra (choir)",
+   "resumen": "The Oldarra choir will perform in Sare."
+  },
+  "temas": [
+   "musica"
+  ],
+  "a_cubierto": null
+ },
+ "2668abaa12": {
+  "id": "483e0442ba",
+  "es": {
+   "titulo": "Mapamundistas 2026: \"Las que hilan memoria\"",
+   "resumen": "La exposición 'Las que hilan memoria' de Laurita Siles en Pamplona narra la historia de su familia exiliada en Tánger. El tejido se convierte en una escritura poética que da forma a relatos familiares marcados por la historia del siglo XX."
+  },
+  "en": {
+   "titulo": "Mapamundistas 2026: \"Those Who Spin Memory\"",
+   "resumen": "Laurita Siles' exhibition 'Those Who Spin Memory' in Pamplona narrates her family's history of exile in Tangier. Weaving becomes a poetic writing that shapes family stories marked by 20th-century history."
+  },
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true
+ },
+ "bddfbeb928": {
+  "id": "ed8211589c",
+  "es": {
+   "titulo": "Mapamundistas 2026: \"Asfódelos\"",
+   "resumen": "Pauline Cholier presenta 'Asfódelos', un vídeo en su granja familiar de Córcega. La artista se centra en las manos de su abuelo mientras realiza tareas diarias, cuestionando la relación personal y contrastando su arte con el trabajo tradicional."
+  },
+  "en": {
+   "titulo": "Mapamundistas 2026: \"Asphodel\"",
+   "resumen": "Pauline Cholier presents 'Asphodel', a video filmed on her family farm in Corsica. The artist focuses on her grandfather's hands during daily tasks, questioning personal relationships and contrasting her art with traditional labor."
+  },
+  "temas": [
+   "cultura",
+   "museos",
+   "naturaleza"
+  ],
+  "a_cubierto": true
+ },
+ "f5b223cfcf": {
+  "id": "79181ca3d4",
+  "es": {
+   "titulo": "Mapamundistas 2026: \"Ad hoc\"",
+   "resumen": "Alba de la Portilla crea la instalación escultórica 'Ad hoc' para la sala de exposiciones de Pamplona. Utiliza elementos arquitectónicos y objetos de su estudio, reflexionando sobre la transformación y el devenir de las formas construidas."
+  },
+  "en": {
+   "titulo": "Mapamundistas 2026: \"Ad hoc\"",
+   "resumen": "Alba de la Portilla creates the sculptural installation 'Ad hoc' for the exhibition space in Pamplona. She uses architectural elements and objects from her studio, reflecting on the transformation and evolution of constructed forms."
+  },
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true
+ },
+ "db5bca2f40": {
+  "id": "8d4eb3b7a3",
+  "es": {
+   "titulo": "Mapamundistas 2026: \"Obra pictórica 2016-2026\"",
+   "resumen": "La colección de óleos 'Obra pictórica 2016-2026' de La Comunidad Sanguínea muestra la visión compartida de una familia sobre la naturaleza mediterránea. Varias manos intervienen en cada lienzo, sumando perspectivas."
+  },
+  "en": {
+   "titulo": "Mapamundistas 2026: \"Pictorial Work 2016-2026\"",
+   "resumen": "The oil painting collection 'Pictorial Work 2016-2026' by La Comunidad Sanguínea displays a family's shared vision of the Mediterranean landscape. Multiple hands contribute to each canvas, adding perspectives."
+  },
+  "temas": [
+   "cultura",
+   "museos",
+   "naturaleza"
+  ],
+  "a_cubierto": true
+ },
+ "353aa4a7d2": {
+  "id": "630fa5e94f",
+  "es": {
+   "titulo": "Mapamundistas 2026: \"La imposibilidad\"",
+   "resumen": "Víctor Forniés presenta 'La imposibilidad', retratos filmográficos de tres jóvenes que reflexionan sobre la percepción y la identidad. El proyecto se centra en las aulas de Filosofía de la Imagen y Estética."
+  },
+  "en": {
+   "titulo": "Mapamundistas 2026: \"The Impossibility\"",
+   "resumen": "Víctor Forniés presents 'The Impossibility', filmographic portraits of three young women reflecting on perception and identity. The project is centered in the Philosophy of Image and Aesthetics classrooms."
+  },
+  "temas": [
+   "cultura",
+   "museos",
+   "pantalla"
+  ],
+  "a_cubierto": true
+ },
+ "1adcc9e99a": {
+  "id": "2acdb12dcf",
+  "es": {
+   "titulo": "Mapamundistas 2026: \"Léxico de palabras que desaparecen\"",
+   "resumen": "Iratxe Jaio presenta 'Léxico de palabras que desaparecen', un film que retrata a su padre mientras revisita su vida y pensamientos. La obra explora la memoria y la identidad a través de imágenes y notas."
+  },
+  "en": {
+   "titulo": "Mapamundistas 2026: \"Lexicon of Disappearing Words\"",
+   "resumen": "Iratxe Jaio presents 'Lexicon of Disappearing Words', a film portraying her father as he revisits his life and thoughts. The work explores memory and identity through images and notes."
+  },
+  "temas": [
+   "cultura",
+   "museos",
+   "pantalla"
+  ],
+  "a_cubierto": true
+ },
+ "d320c86b80": {
+  "id": "b97f6cae14",
+  "es": {
+   "titulo": "\"Hansel y Gretel. El Musical\"",
+   "resumen": "El clásico cuento 'Hansel y Gretel' cobra vida en un musical familiar lleno de música, humor y coreografías. La obra, recomendada a partir de 3 años, narra la aventura de los hermanos en un bosque encantado."
+  },
+  "en": {
+   "titulo": "\"Hansel and Gretel. The Musical\"",
+   "resumen": "The classic tale 'Hansel and Gretel' comes to life in a family musical filled with music, humor, and choreography. The show, recommended for ages 3 and up, tells the story of the siblings' adventure in an enchanted forest."
+  },
+  "temas": [
+   "cultura",
+   "ninos"
+  ],
+  "a_cubierto": true
+ },
+ "c28e00ef2c": {
+  "id": "f8f0b13092",
+  "es": {
+   "titulo": "\"Torcidxs\"",
+   "resumen": "La obra teatral 'Torcidxs' utiliza el humor y la metateatralidad para explorar la identidad y el fallo. El público puede opinar y juzgar el espectáculo, que muestra el teatro como un cuerpo 'torcido' en busca de una rectitud imposible."
+  },
+  "en": {
+   "titulo": "\"Torcidxs\"",
+   "resumen": "The theatrical play 'Torcidxs' uses humor and metatheatre to explore identity and failure. The audience can comment on and judge the performance, which portrays theatre as a 'twisted' body seeking an impossible straightness."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "d21b70f491": {
+  "id": "d326e61b9f",
+  "es": {
+   "titulo": "\"Kayara. Inka gerraria\"",
+   "resumen": "La película 'Kayara. Inka gerraria' narra la historia de una joven Inka que desafía las normas de género para unirse al cuerpo de mensajeros Chasqui en el Imperio inca."
+  },
+  "en": {
+   "titulo": "\"Kayara. Inca Warrior\"",
+   "resumen": "The film 'Kayara. Inca Warrior' tells the story of a young Inca woman who defies gender norms to join the Chasqui messenger corps in the Inca Empire."
+  },
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": true
+ },
+ "83022dca6c": {
+  "id": "2e50703127",
+  "es": {
+   "titulo": "Exposición \"Entre gestos y miradas\" de Marimar Pérez",
+   "resumen": "La exposición 'Entre gestos y miradas' de Marimar Pérez presenta retratos que capturan emociones e historias a través de miradas y gestos. La muestra se exhibirá en varios centros cívicos de Vitoria-Gasteiz hasta diciembre."
+  },
+  "en": {
+   "titulo": "Exhibition \"Between Gestures and Glances\" by Marimar Pérez",
+   "resumen": "Marimar Pérez's exhibition 'Between Gestures and Glances' features portraits capturing emotions and stories through gazes and gestures. The exhibition will be displayed in various civic centers in Vitoria-Gasteiz until December."
+  },
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true
+ },
+ "64f674cdf1": {
+  "id": "f16a5dfbc9",
+  "es": {
+   "titulo": "Exposición \"World Press Photo 2026\" en Vitoria-Gasteiz",
+   "resumen": "Vitoria-Gasteiz acoge la 24ª edición de \"World Press Photo\", mostrando 42 historias visuales impactantes de fotoperiodistas. La exposición incluye la \"foto del año\", que retrata un momento de dolor en la frontera de EE.UU."
+  },
+  "en": {
+   "titulo": "Exhibition \"World Press Photo 2026\" in Vitoria-Gasteiz",
+   "resumen": "Vitoria-Gasteiz hosts the 24th edition of \"World Press Photo\", showcasing 42 impactful visual stories from photojournalists. The exhibition features the \"photo of the year\", depicting a moment of pain at the US border."
+  },
+  "temas": [
+   "cultura",
+   "museos",
+   "pantalla"
+  ],
+  "a_cubierto": true
+ },
+ "bcf6976bd0": {
+  "id": "d9f7554add",
+  "es": {
+   "titulo": "Fluxu 2026: Instalación de Miren Doiz en Auritz-Burguete",
+   "resumen": "Miren Doiz crea una instalación efímera en Auritz-Burguete utilizando materiales tradicionales de oficios locales. La obra, dentro del circuito Fluxu 2026, conecta el saber artesanal con las prácticas contemporáneas y el cuidado del ecosistema."
+  },
+  "en": {
+   "titulo": "Fluxu 2026: Miren Doiz Installation in Auritz-Burguete",
+   "resumen": "Miren Doiz creates an ephemeral installation in Auritz-Burguete using traditional materials from local trades. The work, part of the Fluxu 2026 circuit, connects artisanal knowledge with contemporary practices and ecosystem care."
+  },
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true
+ },
+ "5b84f0468b": {
+  "id": "392ec60412",
+  "es": {
+   "titulo": "\"Frankopoleon\"",
+   "resumen": "La obra teatral \"Frankopoleon\", creada por KulturArteCo, reflexiona sobre la identidad vasca en el año 2070. La pieza cuestiona las miradas externas, las lenguas y los orígenes en un estado dual."
+  },
+  "en": {
+   "titulo": "\"Frankopoleon\"",
+   "resumen": "The theatrical play \"Frankopoleon\", created by KulturArteCo, reflects on Basque identity in the year 2070. The piece questions external perspectives, languages, and origins within a dual state."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "24ed3df0e3": {
+  "id": "48fd7ac8aa",
+  "es": {
+   "titulo": "\"La loca historia del Siglo de Oro\"",
+   "resumen": "La obra \"La loca historia del Siglo de Oro\" repasa esta época a través de gestualidad, clown, circo y música en directo. Aborda temas actuales como guerras, el rol de la mujer y la ambición personal."
+  },
+  "en": {
+   "titulo": "\"The Crazy History of the Golden Age\"",
+   "resumen": "The play \"The Crazy History of the Golden Age\" reviews this era through gestures, clowning, circus, and live music. It addresses current themes such as wars, the role of women, and personal ambition."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "7a8ceb1cc5": {
+  "id": "c52af02d3d",
+  "es": {
+   "titulo": "\"Arrainak bihotzean\"",
+   "resumen": "El espectáculo de títeres \"Arrainak bihotzean\" narra el viaje de Marti al fondo del mar para superar sus miedos. La obra, con poemas de Leire Bilbao, combina teatro, títeres y música."
+  },
+  "en": {
+   "titulo": "\"Fish in the Heart\"",
+   "resumen": "The puppet show \"Fish in the Heart\" tells Marti's journey to the bottom of the sea to overcome her fears. The play, featuring poems by Leire Bilbao, combines theatre, puppetry, and music."
+  },
+  "temas": [
+   "cultura",
+   "ninos"
+  ],
+  "a_cubierto": true
+ },
+ "b0c016e563": {
+  "id": "5d4f80e0b4",
+  "es": {
+   "titulo": "PEPPERMINT SEXTET Kolektif: \"Bixi Bixi\"",
+   "resumen": "El colectivo Peppermint Sextet presenta su nuevo disco \"Bixi Bixi\" en el Altxerri Jazz Club de Donostia / San Sebastián. El grupo combina diversos instrumentos y voces."
+  },
+  "en": {
+   "titulo": "PEPPERMINT SEXTET Kolektif: \"Bixi Bixi\"",
+   "resumen": "The collective Peppermint Sextet presents their new album \"Bixi Bixi\" at the Altxerri Jazz Club in Donostia / San Sebastián. The group combines various instruments and voices."
+  },
+  "temas": [
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "0d69c38933": {
+  "id": "8162868d66",
+  "es": {
+   "titulo": "Habia \"Omen\"",
+   "resumen": "El grupo Habia presenta \"Omen\" con Amaia Hiriart (violonchelo y voz), Elena Haira (alto y voz), Maia Iribarne (violín y voz) y Maiana Aguerre (violín y voz)."
+  },
+  "en": {
+   "titulo": "Habia \"Omen\"",
+   "resumen": "The group Habia presents \"Omen\" featuring Amaia Hiriart (cello and voice), Elena Haira (alto and voice), Maia Iribarne (violin and voice), and Maiana Aguerre (violin and voice)."
+  },
+  "temas": [
+   "musica"
+  ],
+  "a_cubierto": null
+ },
+ "d8205febdf": {
+  "id": "4478bfcd30",
+  "es": {
+   "titulo": "\"El hijo de la cómica\"",
+   "resumen": "La obra \"El hijo de la cómica\" explora historias de supervivencia, miedos y esperanzas a través de recuerdos familiares y ecos literarios. Se centra en las voces de mujeres y la búsqueda de la libertad."
+  },
+  "en": {
+   "titulo": "\"The Comedian's Son\"",
+   "resumen": "The play \"The Comedian's Son\" explores stories of survival, fears, and hopes through family memories and literary echoes. It focuses on women's voices and the pursuit of freedom."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "bd176ce438": {
+  "id": "55038d021b",
+  "es": {
+   "titulo": "Festival de Teatro de Santurtzi 2026: \"MISS COSAS Y YO\"",
+   "resumen": "Diana Pla Solina presenta \"Miss Cosas y Yo\" en el Festival de Teatro de Santurtzi. La obra mezcla teatro, clown, danza y comedia para explorar la lucha entre la realidad y la ficción, y las heridas personales."
+  },
+  "en": {
+   "titulo": "Santurtzi Theatre Festival 2026: \"MISS THINGS AND I\"",
+   "resumen": "Diana Pla Solina presents \"Miss Things and I\" at the Santurtzi Theatre Festival. The work blends theatre, clowning, dance, and comedy to explore the struggle between reality and fiction, and personal wounds."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "00328d0ba0": {
+  "id": "ed1ea3c058",
+  "es": {
+   "titulo": "Fin de Año Musical de Araia 2026: Enclave",
+   "resumen": "Araia celebra la 34.ª edición del Fin de Año Musical con conciertos en noviembre. \"Enclave Cine\" es una de las citas destacadas, que tendrá lugar en la Sala Andra Mari."
+  },
+  "en": {
+   "titulo": "Araia's Musical New Year's Eve 2026: Enclave",
+   "resumen": "Araia celebrates the 34th edition of its Musical New Year's Eve with concerts in November. \"Enclave Cine\" is one of the highlights, taking place at the Sala Andra Mari."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "93834a80c2": {
+  "id": "47185c525f",
+  "es": {
+   "titulo": "Musika Bizi 2026: Orquesta Sinfónica de Acordeones de Bilbao",
+   "resumen": "La Orquesta Sinfónica de Acordeones de Bilbao ofrece un concierto en el ciclo Musika Bizi 2026. El programa \"Música para gozar en tu barrio\" recorre clásicos populares internacionales y vascos."
+  },
+  "en": {
+   "titulo": "Musika Bizi 2026: Bilbao Symphony Accordion Orchestra",
+   "resumen": "The Bilbao Symphony Accordion Orchestra performs in the Musika Bizi 2026 cycle. The program \"Music to Enjoy in Your Neighborhood\" features popular international and Basque classics."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "1f9b25b876": {
+  "id": "dff30cd6b3",
+  "es": {
+   "titulo": "\"Zanbuila\"",
+   "resumen": "Una obra de teatro que explora la crisis existencial de Itziar, una enfermera de 39 años, y su reflexión sobre la vida al conocer a mujeres de otras generaciones. Se centra en la sororidad y las voces femeninas."
+  },
+  "en": {
+   "titulo": "\"Zanbuila\"",
+   "resumen": "A play exploring the existential crisis of Itziar, a 39-year-old nurse, and her life reflections upon meeting women from other generations. It focuses on sisterhood and female voices."
+  },
+  "temas": [
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "8c937edb24": {
+  "id": "7c56af9c13",
+  "es": {
+   "titulo": "Camino Escena Norte 2026: \"VOO / Vuelo\"",
+   "resumen": "El espectáculo \"VOO / Vuelo\" de Voo Teatro combina teatro físico y manipulación de objetos. Dos personajes persiguen el sueño de volar en un viaje sensorial que explora la convivencia y la amistad."
+  },
+  "en": {
+   "titulo": "Camino Escena Norte 2026: \"VOO / Flight\"",
+   "resumen": "\"VOO / Flight\" by Voo Teatro blends physical theater and object manipulation. Two characters pursue the dream of flying in a sensory journey exploring coexistence and friendship."
+  },
+  "temas": [
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "3137794a63": {
+  "id": "63f41cc648",
+  "es": {
+   "titulo": "Exposición \"El viaje de las mujeres del desierto\" de Ana Valiño",
+   "resumen": "La exposición \"El viaje de las mujeres del desierto\" de Ana Valiño se presenta en el Centro Cultural Amaia de Irun. La muestra estará disponible de octubre a noviembre."
+  },
+  "en": {
+   "titulo": "\"The Journey of the Desert Women\" exhibition by Ana Valiño",
+   "resumen": "The exhibition \"The Journey of the Desert Women\" by Ana Valiño is presented at the Amaia Cultural Center in Irun. The exhibition will be available from October to November."
+  },
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true
+ },
+ "f3db1ba0b7": {
+  "id": "c41e26b86f",
+  "es": {
+   "titulo": "\"ZTB. Zientzia, Teknologia, Berrikuntza BERGARA\", FERNANDO G. BAPTISTA",
+   "resumen": "Fernando G. Baptista, explorador de infografía científica de National Geographic, presenta su trabajo en Bergara dentro de las jornadas ZTB."
+  },
+  "en": {
+   "titulo": "\"ZTB. Science, Technology, Innovation BERGARA\", FERNANDO G. BAPTISTA",
+   "resumen": "Fernando G. Baptista, scientific infographic explorer for National Geographic, presents his work in Bergara as part of the ZTB conferences."
+  },
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": true
+ },
+ "4070e1c19c": {
+  "id": "79b1daa137",
+  "es": {
+   "titulo": "Bergara ZTB Jardunaldiak 2026",
+   "resumen": "Bergara acoge la 11.ª edición de las Jornadas ZTB, centradas en la investigación, la ciencia y la innovación. El evento busca acercar el proceso de investigación a la vida cotidiana."
+  },
+  "en": {
+   "titulo": "Bergara ZTB Conferences 2026",
+   "resumen": "Bergara hosts the 11th edition of the ZTB Conferences, focusing on research, science, and innovation. The event aims to bring the research process closer to everyday life."
+  },
+  "temas": [
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "def1ce8f84": {
+  "id": "017d83a571",
+  "es": {
+   "titulo": "\"Iruña. pulsión e impermanencia. gertrudis gannon\"",
+   "resumen": "Una serie de obras inspiradas en poemas medievales y la actualidad, que exploran las pulsiones contradictorias de la vida. La exposición invita a una reflexión personal sobre el cambio y la permanencia."
+  },
+  "en": {
+   "titulo": "\"Iruña. impulse and impermanence. gertrudis gannon\"",
+   "resumen": "A series of artworks inspired by medieval poems and current events, exploring life's contradictory impulses. The exhibition invites personal reflection on change and permanence."
+  },
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true
+ },
+ "db363e899a": {
+  "id": "ae766e898f",
+  "es": {
+   "titulo": "Muestra de Teatro de Aquí 2026: \"EL TIEMPO Y LOS CONWAY\"",
+   "resumen": "La obra \"El Tiempo y los Conway\" explora la naturaleza cíclica del tiempo a través de una familia en 1919. La pieza invita a reflexionar sobre el pasado, presente y futuro coexistiendo."
+  },
+  "en": {
+   "titulo": "Muestra de Teatro de Aquí 2026: \"TIME AND THE CONWAYS\"",
+   "resumen": "The play \"Time and the Conways\" explores the cyclical nature of time through a family in 1919. The piece invites reflection on the past, present, and future coexisting."
+  },
+  "temas": [
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "be36f7a471": {
+  "id": "83ff1f429d",
+  "es": {
+   "titulo": "Jardín Remoto Experience 2026 - Simposio Nacional de Fotografía de Autor",
+   "resumen": "El simposio nacional de fotografía de autor Jardín Remoto Experience celebra su cuarta edición en Nanclares de la Oca. Incluye conferencias, revisiones de portfolios y premios."
+  },
+  "en": {
+   "titulo": "Remote Garden Experience 2026 - National Symposium of Author Photography",
+   "resumen": "The national symposium of author photography, Remote Garden Experience, celebrates its fourth edition in Nanclares de la Oca. It includes conferences, portfolio reviews, and awards."
+  },
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": true
+ },
+ "3e30b0eff9": {
+  "id": "996dd4c7f1",
+  "es": {
+   "titulo": "Zinematxiki: \"Evolution\"",
+   "resumen": "La película de animación \"Evolution\" narra la aventura de tres amigos que deben salvar el mundo tras una mezcla de ADN extraterrestre. Una divertida historia de humanos y animales."
+  },
+  "en": {
+   "titulo": "Zinematxiki: \"Evolution\"",
+   "resumen": "The animated film \"Evolution\" tells the adventure of three friends who must save the world after an alien DNA mix. A fun story of humans and animals."
+  },
+  "temas": [
+   "pantalla",
+   "ninos"
+  ],
+  "a_cubierto": true
+ },
+ "e426b2b7fa": {
+  "id": "cf913144d8",
+  "es": {
+   "titulo": "Ispilu(h)ari 2026: \"Erresinolaren kantua\"",
+   "resumen": "Se presenta \"Erresinolaren kantua\", una obra de teatro infantil de marionetas en Deba. Una propuesta escénica para los más pequeños."
+  },
+  "en": {
+   "titulo": "Ispilu(h)ari 2026: \"Erresinolaren kantua\"",
+   "resumen": "\"Erresinolaren kantua\", a children's puppet theater play, is presented in Deba. A stage performance for young audiences."
+  },
+  "temas": [
+   "ninos",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "74ddb7f894": {
+  "id": "6ee70b8a59",
+  "es": {
+   "titulo": "Azaroan Musika 2026: Banda Municipal de música de San Adrián",
+   "resumen": "La Banda Municipal de Música de San Adrián, con una larga trayectoria, ofrece un concierto en Legazpi. El repertorio incluye polkas, valses y villancicos."
+  },
+  "en": {
+   "titulo": "November Music 2026: San Adrián Municipal Band",
+   "resumen": "The San Adrián Municipal Band, with a long history, performs a concert in Legazpi. The repertoire includes polkas, waltzes, and Christmas carols."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "405b6a3ddf": {
+  "id": "c86745e4ab",
+  "es": {
+   "titulo": "TAC! 2026 (Sestao): exposición de proyectos arquitectónicos",
+   "resumen": "El Festival de Arquitectura Urbana TAC! 2026 presenta una exposición de los proyectos arquitectónicos de la convocatoria Sestao. La muestra se ubica en la salida del Metro y la Escuela de Música."
+  },
+  "en": {
+   "titulo": "TAC! 2026 (Sestao): exhibition of architectural projects",
+   "resumen": "The Urban Architecture Festival TAC! 2026 presents an exhibition of architectural projects from the Sestao call. The exhibition is located at the Metro exit and the Music School."
+  },
+  "temas": [
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "94143c0dfd": {
+  "id": "e109fb44fa",
+  "es": {
+   "titulo": "Aitzina Folk 2026: XIP XAP \"piratas de secano\"",
+   "resumen": "El espectáculo familiar \"Piratas de Secano\" de Xip Xap convierte la calle en una aventura pirata con música, humor y participación. Una propuesta interactiva para todas las edades."
+  },
+  "en": {
+   "titulo": "Aitzina Folk 2026: XIP XAP \"land pirates\"",
+   "resumen": "The family show \"Land Pirates\" by Xip Xap transforms the street into a pirate adventure with music, humor, and participation. An interactive performance for all ages."
+  },
+  "temas": [
+   "musica",
+   "cultura",
+   "ninos"
+  ],
+  "a_cubierto": true
+ },
+ "e623af9fbb": {
+  "id": "9f50dd8c1c",
+  "es": {
+   "titulo": "Visitas guiadas: exposición \"World Press Photo 2026\"",
+   "resumen": "Se ofrecen visitas guiadas a la exposición \"World Press Photo 2026\" en Vitoria-Gasteiz. Hay sesiones para centros escolares y para el público general, en euskera y castellano."
+  },
+  "en": {
+   "titulo": "Guided tours: \"World Press Photo 2026\" exhibition",
+   "resumen": "Guided tours are offered for the \"World Press Photo 2026\" exhibition in Vitoria-Gasteiz. There are sessions for schools and the general public, in Basque and Spanish."
+  },
+  "temas": [
+   "cultura",
+   "pantalla",
+   "museos"
+  ],
+  "a_cubierto": true
+ },
+ "5da322c16d": {
+  "id": "ded6781bc6",
+  "es": {
+   "titulo": "Mercado Solidario del Libro Usado 2026 de Getxo",
+   "resumen": "El 20.º Mercado Solidario del Libro Usado se celebra en Getxo. Se podrán adquirir libros a precios simbólicos, con el objetivo de fomentar la lectura y la solidaridad."
+  },
+  "en": {
+   "titulo": "Getxo Used Book Charity Market 2026",
+   "resumen": "The 20th Used Book Charity Market is held in Getxo. Books can be purchased at symbolic prices, aiming to promote reading and solidarity."
+  },
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "5d6e9bc96a": {
+  "id": "a775b2bbf9",
+  "es": {
+   "titulo": "Festival de Teatro de Santurtzi 2026: \"Tretatxu\"",
+   "resumen": "\"Tretatxu\" es un espectáculo de títeres que narra la historia de un bandolero. Combina humor, emoción y ternura con una cuidada estética, recomendado a partir de 6 años."
+  },
+  "en": {
+   "titulo": "Santurtzi Theater Festival 2026: \"Tretatxu\"",
+   "resumen": "\"Tretatxu\" is a puppet show telling the story of a bandit. It combines humor, emotion, and tenderness with careful aesthetics, recommended for ages 6 and up."
+  },
+  "temas": [
+   "ninos",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "5a37923e85": {
+  "id": "7640506569",
+  "es": {
+   "titulo": "Encuentros de Teatro Vasco de Azpeitia 2026: \"Rigor Mortis\"",
+   "resumen": "\"Rigor Mortis\" es una comedia de enredo sobre secretos familiares. La obra, ganadora del programa Nuevas Dramaturgias, se presenta en Azpeitia."
+  },
+  "en": {
+   "titulo": "Basque Theater Encounters of Azpeitia 2026: \"Rigor Mortis\"",
+   "resumen": "\"Rigor Mortis\" is a farce about family secrets. The play, winner of the New Dramaturgies program, is presented in Azpeitia."
+  },
+  "temas": [
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "9e69d6f28f": {
+  "id": "8c892d3856",
+  "es": {
+   "titulo": "Programa Fiestas de San Martín 2026 en Arrieta",
+   "resumen": "Las Fiestas de San Martín de Arrieta se celebrarán del 6 al 15 de noviembre con diversas actividades como espectáculos de danza, conciertos y juegos."
+  },
+  "en": {
+   "titulo": "San Martín Festival Program 2026 in Arrieta",
+   "resumen": "The San Martín Festival in Arrieta will be celebrated from November 6th to 15th with various activities including dance performances, concerts, and games."
+  },
+  "temas": [
+   "fiestas",
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "7ae9186220": {
+  "id": "6487fd8d87",
+  "es": {
+   "titulo": "ArabaClick 2026: \"ÁLAVA IMAGINARIA\"",
+   "resumen": "La exposición \"Álava Imaginaria\" de ArabaClick reúne la mirada de cinco fotógrafos sobre la provincia, explorando paisajes y biodiversidad. Una invitación a imaginar y valorar la naturaleza."
+  },
+  "en": {
+   "titulo": "ArabaClick 2026: \"IMAGINARY ALAVA\"",
+   "resumen": "The \"Imaginary Alava\" exhibition by ArabaClick brings together the perspectives of five photographers on the province, exploring landscapes and biodiversity. An invitation to imagine and appreciate nature."
+  },
+  "temas": [
+   "cultura",
+   "naturaleza",
+   "pantalla"
+  ],
+  "a_cubierto": true
+ },
+ "b54d8618c5": {
+  "id": "4963550b5e",
+  "es": {
+   "titulo": "HARIAK 2026 - festival de cine sobre las resistencias",
+   "resumen": "El festival HARIAK celebra su quinto aniversario con proyecciones de documentales sobre resistencias y coloquios con activistas y cineastas. La entrada es gratuita."
+  },
+  "en": {
+   "titulo": "HARIAK 2026 - film festival on resistances",
+   "resumen": "The HARIAK festival celebrates its fifth anniversary with screenings of documentaries on resistances and discussions with activists and filmmakers. Admission is free."
+  },
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": true
+ },
+ "a4ef732a4c": {
+  "id": "bd5113e5e1",
+  "es": {
+   "titulo": "Fiestas de San Martín 2026 en Arrieta: Amilotx dantza taldea",
+   "resumen": "Dentro de las Fiestas de Arrieta, el grupo de danza Amilotx dantza taldea ofrecerá una actuación. Un evento cultural dentro de la programación festiva."
+  },
+  "en": {
+   "titulo": "San Martín Festival 2026 in Arrieta: Amilotx dance group",
+   "resumen": "As part of the Arrieta Festival, the dance group Amilotx dantza taldea will perform. A cultural event within the festive program."
+  },
+  "temas": [
+   "fiestas",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "c1c480be1d": {
+  "id": "8f437add4f",
+  "es": {
+   "titulo": "\"Superthings: Filma\" (Villabona)",
+   "resumen": "La película \"Superthings: Filma\" narra la aventura de tres amigos que se convierten en superhéroes para salvar su ciudad de un villano. Una historia de amistad y valentía."
+  },
+  "en": {
+   "titulo": "\"Superthings: The Movie\" (Villabona)",
+   "resumen": "The movie \"Superthings: The Movie\" tells the adventure of three friends who become superheroes to save their city from a villain. A story of friendship and bravery."
+  },
+  "temas": [
+   "pantalla",
+   "ninos"
+  ],
+  "a_cubierto": true
+ },
+ "34395a3053": {
+  "id": "948d392cb5",
+  "es": {
+   "titulo": "Olaia Inziarte en acústico (Zizurkil)",
+   "resumen": "Olaia Inziarte ofrece un concierto íntimo y acústico en Zizurkil. Su propuesta musical combina sensibilidad, innovación y el uso del euskera."
+  },
+  "en": {
+   "titulo": "Olaia Inziarte in acoustic (Zizurkil)",
+   "resumen": "Olaia Inziarte offers an intimate and acoustic concert in Zizurkil. Her musical proposal combines sensitivity, innovation, and the use of Basque language."
   },
   "temas": [
    "musica",

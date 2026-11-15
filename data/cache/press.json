@@ -22006,5 +22006,721 @@
   ],
   "a_cubierto": null,
   "confianza": 0.85
+ },
+ "4da0a9a954": {
+  "url": "https://www.europapress.es/cultura/musica-00129/noticia-madrid-abraza-love-of-lesbian-antes-paron-indefinido-no-despedida-agradecimiento-20261115004841.html",
+  "fuente": "Europa Press (Cultura)",
+  "src": "prensa-europapress-cultura",
+  "publicado": "2026-11-15",
+  "es_plan": true,
+  "titulo": "Love of Lesbian en Madrid antes de su parón indefinido",
+  "resumen": "La banda Love of Lesbian ofrece un concierto en Madrid con sus grandes éxitos y la colaboración de Eva Amaral. El evento marca un agradecimiento antes de un parón indefinido del grupo.",
+  "en": {
+   "titulo": "Love of Lesbian in Madrid before their indefinite hiatus",
+   "resumen": "The band Love of Lesbian offers a concert in Madrid with their greatest hits and the collaboration of Eva Amaral. The event marks a thank you before the group's indefinite hiatus."
+  },
+  "inicio": "2026-11-15",
+  "fin": "2026-11-15",
+  "hora": null,
+  "lugar": null,
+  "municipio": "Madrid",
+  "provincia": "Madrid",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "d8e6500516": {
+  "url": "https://www.20minutos.es/cultura/orquesta-comunitaria-gran-canaria-un-ejemplo-vocacion-musical-altruismo_7061226_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-11-15",
+  "es_plan": true,
+  "titulo": "Concierto de la Orquesta Comunitaria de Gran Canaria",
+  "resumen": "La Orquesta Comunitaria de Gran Canaria ofrece un concierto en el Auditorio Alfredo Kraus de Las Palmas, dedicado a música de series de televisión de los ochenta y noventa. La entrada es gratuita.",
+  "en": {
+   "titulo": "Concert by the Gran Canaria Community Orchestra",
+   "resumen": "The Gran Canaria Community Orchestra performs a concert at the Alfredo Kraus Auditorium in Las Palmas, dedicated to music from 1980s and 1990s television series. Admission is free."
+  },
+  "inicio": "2026-11-15",
+  "fin": "2026-11-15",
+  "hora": null,
+  "lugar": "Auditorio Alfredo Kraus",
+  "municipio": "Las Palmas de Gran Canaria",
+  "provincia": "Las Palmas",
+  "ambito": "local",
+  "gratis": true,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "d0d5f9ec49": {
+  "url": "https://elpais.com/cultura/cine/2026-11-15/emma-suarez-me-he-quitado-la-ansiedad-de-llegar-a-todo-y-a-todos-ahora-me-toca-a-mi.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-11-15",
+  "es_plan": true,
+  "titulo": "Estreno de 'Hermanas' con Emma Suárez y Elena Anaya",
+  "resumen": "La actriz Emma Suárez estrena la película 'Hermanas', un drama sobre abusos sexuales en la familia, junto a Elena Anaya. El estreno es el 27 de noviembre.",
+  "en": {
+   "titulo": "Premiere of 'Hermanas' with Emma Suárez and Elena Anaya",
+   "resumen": "Actress Emma Suárez premieres the film 'Hermanas', a drama about sexual abuse within the family, alongside Elena Anaya. The premiere is on November 27th."
+  },
+  "inicio": "2026-11-27",
+  "fin": "2026-11-27",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "50a49c3153": {
+  "url": "https://elpais.com/cultura/2026-11-15/la-orquestra-de-la-comunitat-valenciana-narra-a-schumann-con-thomas-hengelbrock-antes-de-desembarcar-en-madrid.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-11-15",
+  "es_plan": true,
+  "titulo": "Orquestra de la Comunitat Valenciana en Madrid",
+  "resumen": "La Orquestra de la Comunitat Valenciana, dirigida por Thomas Hengelbrock, interpreta obras de Schumann y Brahms en el Auditorio Nacional de Madrid. El concierto es el 15 de noviembre.",
+  "en": {
+   "titulo": "Orquestra de la Comunitat Valenciana in Madrid",
+   "resumen": "The Orquestra de la Comunitat Valenciana, conducted by Thomas Hengelbrock, performs works by Schumann and Brahms at the Auditorio Nacional in Madrid. The concert is on November 15th."
+  },
+  "inicio": "2026-11-15",
+  "fin": "2026-11-15",
+  "hora": null,
+  "lugar": "Auditorio Nacional",
+  "municipio": "Madrid",
+  "provincia": "Madrid",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "952c622b6a": {
+  "url": "https://www.lavanguardia.com/cultura/20261115/11684466/teatrinos-clave-escondidos.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-15",
+  "es_plan": false
+ },
+ "30bf0033e4": {
+  "url": "https://www.lavanguardia.com/cultura/20261115/11684395/todos-caben-premios-nacionales-cultura-rajoy-sanchez-urtasun-plensa-colita-wert-lassalle.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-15",
+  "es_plan": false
+ },
+ "bd2b209d1b": {
+  "url": "https://www.lavanguardia.com/cultura/20261115/11684388/forum-mercado-controversia-sobre-ultimo-hallazgo-barcino-romana-continua.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-15",
+  "es_plan": false
+ },
+ "c65c240bf8": {
+  "url": "https://www.lavanguardia.com/cultura/20261115/11684195/u2-recuperar-mundo-perdido-otros-discos-semana.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-15",
+  "es_plan": false
+ },
+ "ffd0a8649d": {
+  "url": "https://www.lavanguardia.com/cultura/20261115/11683758/lisa-tuttle-sociedad-llego-creerse-hombres-podian-crear.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-15",
+  "es_plan": false
+ },
+ "0d4225938d": {
+  "url": "https://www.lavanguardia.com/cultura/20261115/11683727/perderle-miedo-raval.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-15",
+  "es_plan": false
+ },
+ "f71dc0671d": {
+  "url": "https://www.lavanguardia.com/cultura/culturas/20261115/11681555/belleza-locura-actor.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-15",
+  "es_plan": false
+ },
+ "b7b360ac0e": {
+  "url": "https://www.lavanguardia.com/cultura/culturas/20261115/11680796/critica-futboliza.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-15",
+  "es_plan": false
+ },
+ "0653483775": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/15/andres-roca-rey-30anos-vivo-solo-casa-campo-disfrito-mucho-necesito-concentrarme-centrado-mi-2066723.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-15",
+  "es_plan": false
+ },
+ "3c3260ce1d": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/15/mil-federicos-desvan-tiempo-escenario-circulo-bellas-artes-madrid-festival-ene-2068667.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-15",
+  "es_plan": false
+ },
+ "7883832252": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/15/bosco-bruegel-dos-artistas-osados-se-rien-mundo-exposicion-coruna-2068656.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-15",
+  "es_plan": false
+ },
+ "2405c3acf7": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/15/anton-castro-marta-borraz-nacho-ga-velilla-compania-d-click-entre-los-ganadores-los-premios-artes-letras-2068549.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-15",
+  "es_plan": true,
+  "titulo": "Entrega de los premios ‘Artes & Letras’ en Zaragoza",
+  "resumen": "El Teatro Principal de Zaragoza acoge la gala de entrega de la XII edición de los Premios Artes & Letras. El evento reconocerá la labor de diversos artistas y proyectos culturales aragoneses.",
+  "en": {
+   "titulo": "Presentation of the ‘Artes & Letras’ awards in Zaragoza",
+   "resumen": "The Teatro Principal in Zaragoza hosts the awards ceremony for the 12th edition of the Artes & Letras Awards. The event will recognize the work of various Aragonese artists and cultural projects."
+  },
+  "inicio": "2026-11-23",
+  "fin": "2026-11-23",
+  "hora": null,
+  "lugar": "Teatro Principal",
+  "municipio": "Zaragoza",
+  "provincia": "Zaragoza",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "23e2485552": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/15/inigo-tina-perra-aparecio-justo-cuando-mas-necesitaba-recuperar-ganas-seguir-adelante-2068432.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-15",
+  "es_plan": false
+ },
+ "3adc760bc7": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/15/casa-eva-amaral-piedra-alejada-ruido-chimenea-lena-llamada-naturaleza-2068390.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-15",
+  "es_plan": false
+ },
+ "45b775c961": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/15/mario-vaquerizo-me-he-dado-cuenta-podia-estar-muerto-frivolidad-bien-entendida-salva-vida-2066269.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-15",
+  "es_plan": false
+ },
+ "cded4ed03f": {
+  "url": "https://www.elnortedecastilla.es/culturas/musica/pianista-michel-camilo-energetico-trio-triunfa-festival-20261115134928-nt.html",
+  "fuente": "El Norte de Castilla (Culturas)",
+  "src": "prensa-nortecastilla-culturas",
+  "publicado": "2026-11-15",
+  "es_plan": false
+ },
+ "087182cccf": {
+  "url": "https://www.elnortedecastilla.es/culturas/bosco-bruegel-rien-mundo-20261022001535-ntrc.html",
+  "fuente": "El Norte de Castilla (Culturas)",
+  "src": "prensa-nortecastilla-culturas",
+  "publicado": "2026-11-15",
+  "es_plan": false
+ },
+ "c3f17894a8": {
+  "url": "https://www.diariosur.es/culturas/teatro-vuelve-hermoso-20261115091100-nt.html",
+  "fuente": "Diario Sur (Culturas)",
+  "src": "prensa-diariosur-culturas",
+  "publicado": "2026-11-15",
+  "es_plan": false
+ },
+ "9a8106187c": {
+  "url": "https://www.ideal.es/culturas/almeria/elena-anaya-laia-costa-gorka-otxoa-sergio-20261115112945-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-11-15",
+  "es_plan": false
+ },
+ "69ae3f1c3a": {
+  "url": "https://www.ideal.es/culturas/musica/sabia-musica-persona-calar-corazon-gente-20261114001117-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-11-15",
+  "es_plan": true,
+  "titulo": "Concierto aniversario de artista malagueña en Granada",
+  "resumen": "La artista malagueña regresa a Granada el 29 de noviembre para ofrecer su concierto aniversario 'Ya no estoy sola'.",
+  "en": {
+   "titulo": "Anniversary concert by Malaga artist in Granada",
+   "resumen": "The Malaga artist returns to Granada on November 29th to offer her anniversary concert 'Ya no estoy sola'."
+  },
+  "inicio": "2026-11-29",
+  "fin": "2026-11-29",
+  "hora": null,
+  "lugar": null,
+  "municipio": "Granada",
+  "provincia": "Granada",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "f73ea7ef08": {
+  "url": "https://www.elcorreo.com/culturas/musica/gorka-urbizu-lanza-sello-zilarra-diskoak-publicar-20261114005307-nt.html",
+  "fuente": "El Correo (Culturas)",
+  "src": "prensa-elcorreo-culturas",
+  "publicado": "2026-11-15",
+  "es_plan": true,
+  "titulo": "Lanzamiento del sello Zilarra Diskoak por Gorka Urbizu",
+  "resumen": "Gorka Urbizu lanza el sello discográfico Zilarra Diskoak para publicar trabajos de otras bandas, estrenando en diciembre el primer vinilo de Naxker.",
+  "en": {
+   "titulo": "Launch of Zilarra Diskoak label by Gorka Urbizu",
+   "resumen": "Gorka Urbizu launches the record label Zilarra Diskoak to release works by other bands, premiering the first vinyl by Naxker in December."
+  },
+  "inicio": "2026-12-01",
+  "fin": "2026-12-01",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": "Navarra",
+  "ambito": "nacional",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.7
+ },
+ "c039a80d67": {
+  "url": "https://www.diariovasco.com/culturas/cine/ekaitz-bertiz-la-bola-negra-javis-penelope-cruz-20261115162453-nt.html",
+  "fuente": "El Diario Vasco (Culturas)",
+  "src": "prensa-diariovasco-culturas",
+  "publicado": "2026-11-15",
+  "es_plan": false
+ },
+ "467fcb0cf7": {
+  "url": "https://www.diariovasco.com/culturas/eduardo-gonzalo-dialogan-nuevo-abrazo-dos-chillidas-20261115000939-nt.html",
+  "fuente": "El Diario Vasco (Culturas)",
+  "src": "prensa-diariovasco-culturas",
+  "publicado": "2026-11-15",
+  "es_plan": false
+ },
+ "718bf6c39f": {
+  "url": "https://www.lasprovincias.es/culturas/tv/nueva-serie-true-crime-netflix-creadores-asunta-20261111004616-nt.html",
+  "fuente": "Las Provincias (Culturas)",
+  "src": "prensa-lasprovincias-culturas",
+  "publicado": "2026-11-15",
+  "es_plan": false
+ },
+ "9453a17eca": {
+  "url": "https://www.laverdad.es/culturas/ainhoa-arteta-cantar-cuatro-ultimas-canciones-strauss-20261114220749-nt.html",
+  "fuente": "La Verdad (Culturas)",
+  "src": "prensa-laverdad-culturas",
+  "publicado": "2026-11-15",
+  "es_plan": true,
+  "titulo": "Ainhoa Arteta ofrece concierto en Murcia",
+  "resumen": "La cantante lírica Ainhoa Arteta ofrecerá un recital el 28 de noviembre en el Auditorio Regional Víctor Villegas de Murcia, acompañada por la Orquesta Sinfónica de la UCAM.",
+  "en": {
+   "titulo": "Ainhoa Arteta offers concert in Murcia",
+   "resumen": "The opera singer Ainhoa Arteta will give a recital on November 28th at the Auditorio Regional Víctor Villegas in Murcia, accompanied by the UCAM Symphony Orchestra."
+  },
+  "inicio": "2026-11-28",
+  "fin": "2026-11-28",
+  "hora": null,
+  "lugar": "Auditorio Regional Víctor Villegas",
+  "municipio": "Murcia",
+  "provincia": "Región de Murcia",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.5
+ },
+ "bcc943ad08": {
+  "url": "https://www.eldiariomontanes.es/culturas/eduardo-paniagua-cesar-carazo-templo-sonoro-miradas-20261115194857-nt.html",
+  "fuente": "El Diario Montañés (Culturas)",
+  "src": "prensa-diariomontanes-culturas",
+  "publicado": "2026-11-15",
+  "es_plan": true,
+  "titulo": "Eduardo Paniagua y César Carazo en 'El templo sonoro' en Cantabria",
+  "resumen": "Los músicos Eduardo Paniagua y César Carazo actuarán el martes en la iglesia del Cristo dentro del ciclo 'El templo sonoro' de Otras Miradas en Cantabria.",
+  "en": {
+   "titulo": "Eduardo Paniagua and César Carazo in 'El templo sonoro' in Cantabria",
+   "resumen": "Musicians Eduardo Paniagua and César Carazo will perform on Tuesday at the Cristo church as part of the 'El templo sonoro' cycle of Otras Miradas in Cantabria."
+  },
+  "inicio": "2026-11-17",
+  "fin": "2026-11-17",
+  "hora": null,
+  "lugar": "Iglesia del Cristo",
+  "municipio": null,
+  "provincia": "Cantabria",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "f28604f239": {
+  "url": "https://www.eldiariomontanes.es/culturas/amor-brujo-falla-dialoga-musica-contemporanea-palacio-20261115074711-nt.html",
+  "fuente": "El Diario Montañés (Culturas)",
+  "src": "prensa-diariomontanes-culturas",
+  "publicado": "2026-11-15",
+  "es_plan": true,
+  "titulo": "'El amor brujo' de Falla dialoga con la música contemporánea",
+  "resumen": "La Atlántida Chamber Orchestra, bajo la dirección de Manuel Tévar, ofrecerá un concierto en el Palacio de Festivales interpretando obras de música contemporánea.",
+  "en": {
+   "titulo": "'El amor brujo' by Falla dialogues with contemporary music",
+   "resumen": "The Atlántida Chamber Orchestra, conducted by Manuel Tévar, will perform contemporary music works at the Palacio de Festivales."
+  },
+  "inicio": "2026-11-18",
+  "fin": "2026-11-18",
+  "hora": null,
+  "lugar": "Palacio de Festivales",
+  "municipio": null,
+  "provincia": "Cantabria",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "c872513478": {
+  "url": "https://www.larioja.com/culturas/casa-imagen-fotografias-teo-20261115214220-nt.html",
+  "fuente": "La Rioja (Culturas)",
+  "src": "prensa-larioja-culturas",
+  "publicado": "2026-11-15",
+  "es_plan": false
+ },
+ "1f9bd3572c": {
+  "url": "https://www.europapress.es/cultura/noticia-centro-cultural-coreano-combina-exposiciones-literatura-gastronomia-fenomeno-pop-cerrar-2026-madrid-20261114182044.html",
+  "fuente": "Europa Press (Cultura)",
+  "src": "prensa-europapress-cultura",
+  "publicado": "2026-11-14",
+  "es_plan": false
+ },
+ "9723dfb317": {
+  "url": "https://www.lavanguardia.com/cultura/20261114/11684617/invierno-criaturas-ancestrales.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-14",
+  "es_plan": false
+ },
+ "8f1107b469": {
+  "url": "https://www.lavanguardia.com/cultura/20261114/11684616/tagliabue-inaugura-shenzhen.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-14",
+  "es_plan": false
+ },
+ "ea3a9078ea": {
+  "url": "https://www.lavanguardia.com/cultura/20261114/11684615/violencia-fascinante-helnwein.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-14",
+  "es_plan": false
+ },
+ "4e61573084": {
+  "url": "https://www.lavanguardia.com/cultura/musica/20261114/11684361/remei-ca-fresca-rabia-logica.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-14",
+  "es_plan": false
+ },
+ "c69e8a115b": {
+  "url": "https://www.lavanguardia.com/cultura/20261114/11684257/bola-negra-irrumpe-premios-cine-europeo-diez-nominaciones.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-14",
+  "es_plan": false
+ },
+ "a7ce50d330": {
+  "url": "https://www.ara.cat/cultura/bola-negra-arrasa-nominacions-als-premis-cinema-europeu_1_5910552.html",
+  "fuente": "Ara (Cultura)",
+  "src": "prensa-ara-cultura",
+  "publicado": "2026-11-14",
+  "es_plan": false
+ },
+ "274b378b43": {
+  "url": "https://llegim.ara.cat/actualitat/esperanca-sierra-serra-homes-violents-massa-vora_1_5894937.html",
+  "fuente": "Ara (Cultura)",
+  "src": "prensa-ara-cultura",
+  "publicado": "2026-11-14",
+  "es_plan": false
+ },
+ "a3cb70976c": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/14/critica-musica-maika-makovski-maika-arrebato-2068628.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-14",
+  "es_plan": false
+ },
+ "8baedc9c78": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/14/ernest-hemingway-mas-famosa-reflexion-sobre-espana-pueblo-espanol-tiene-algun-rasgo-comun-orgullo-sentido-2035874.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-14",
+  "es_plan": false
+ },
+ "c7e88affd9": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/14/victor-manuel-79anos-acaba-harto-hoteles-todos-iguales-final-gira-2063549.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-14",
+  "es_plan": false
+ },
+ "4d9f349dc3": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/14/miguel-bose-70anos-muy-orgulloso-espanol-vamos-no-cansar-espana-2064804.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-14",
+  "es_plan": false
+ },
+ "7a41d050e8": {
+  "url": "https://www.elnortedecastilla.es/culturas/musica/cerca-excelencia-20261114193017-nt.html",
+  "fuente": "El Norte de Castilla (Culturas)",
+  "src": "prensa-nortecastilla-culturas",
+  "publicado": "2026-11-14",
+  "es_plan": false
+ },
+ "326b532335": {
+  "url": "https://www.elnortedecastilla.es/culturas/musica/digno-homenaje-yellowjackets-kurt-elling-festival-jazz-20261114192324-nt.html",
+  "fuente": "El Norte de Castilla (Culturas)",
+  "src": "prensa-nortecastilla-culturas",
+  "publicado": "2026-11-14",
+  "es_plan": true,
+  "titulo": "Yellowjackets y Kurt Elling en el Festival de Jazz de Palencia",
+  "resumen": "El Festival de Jazz de Palencia presenta un homenaje al jazz fusión de Weather Report con la actuación de Yellowjackets y Kurt Elling, destacando su larga trayectoria.",
+  "en": {
+   "titulo": "Yellowjackets and Kurt Elling at the Palencia Jazz Festival",
+   "resumen": "The Palencia Jazz Festival features a tribute to Weather Report's fusion jazz with a performance by Yellowjackets and Kurt Elling, highlighting their long career."
+  },
+  "inicio": "2026-11-14",
+  "fin": "2026-11-14",
+  "hora": null,
+  "lugar": null,
+  "municipio": "Palencia",
+  "provincia": "Palencia",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "7e059e896a": {
+  "url": "https://www.diariosur.es/culturas/tv/netflix-estrena-serie-sissi-rodada-malaga-cuenta-20261113195113-nt.html",
+  "fuente": "Diario Sur (Culturas)",
+  "src": "prensa-diariosur-culturas",
+  "publicado": "2026-11-14",
+  "es_plan": false
+ },
+ "e75ea92295": {
+  "url": "https://www.ideal.es/culturas/almeria/carlos-saura-nino-fotografia-retrato-intimo-dirigido-20261114200306-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-11-14",
+  "es_plan": false
+ },
+ "7ff941925f": {
+  "url": "https://www.ideal.es/culturas/almeria/contigo-opera-prima-maria-ruiz-sobre-desamor-20261114195817-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-11-14",
+  "es_plan": false
+ },
+ "38bcb10f3c": {
+  "url": "https://www.ideal.es/culturas/almeria/infortunio-western-manuel-olaya-rodado-minihollywood-oasys-20261114195331-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-11-14",
+  "es_plan": false
+ },
+ "ce560ff063": {
+  "url": "https://www.ideal.es/culturas/almeria/santiago-segura-maria-luisa-gutierrez-celebran-fical-20261114194550-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-11-14",
+  "es_plan": false
+ },
+ "83ef38f5d9": {
+  "url": "https://www.ideal.es/culturas/almeria/fical-2026-tiende-puentes-cine-ciencia-abordar-20261114194145-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-11-14",
+  "es_plan": false
+ },
+ "04679e25fa": {
+  "url": "https://www.ideal.es/culturas/almeria/miriam-garlo-desgrana-claves-interpretativas-sorda-cineforum-20261114193602-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-11-14",
+  "es_plan": false
+ },
+ "66e0dde0e4": {
+  "url": "https://www.laverdad.es/culturas/samara-joy-grandes-voces-contemporaneas-despide-domingo-20261114172837-nt.html",
+  "fuente": "La Verdad (Culturas)",
+  "src": "prensa-laverdad-culturas",
+  "publicado": "2026-11-14",
+  "es_plan": true,
+  "titulo": "Samara Joy y La Perra Blanco en el Cartagena Jazz Festival",
+  "resumen": "Samara Joy y La Perra Blanco actúan en la clausura del 45 Cartagena Jazz Festival. El concierto de La Perra Blanco será el domingo a las 12:30 en la terraza de El Batel.",
+  "en": {
+   "titulo": "Samara Joy and La Perra Blanco at the Cartagena Jazz Festival",
+   "resumen": "Samara Joy and La Perra Blanco perform at the closing of the 45th Cartagena Jazz Festival. La Perra Blanco's concert is on Sunday at 12:30 PM on the El Batel terrace."
+  },
+  "inicio": "2026-11-15",
+  "fin": "2026-11-15",
+  "hora": "12:30",
+  "lugar": "Terraza de El Batel",
+  "municipio": "Cartagena",
+  "provincia": "Murcia",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "eebd578579": {
+  "url": "https://www.laverdad.es/culturas/cine/publico-distopia-premia-cortometraje-javier-fesser-20261114161015-nt.html",
+  "fuente": "La Verdad (Culturas)",
+  "src": "prensa-laverdad-culturas",
+  "publicado": "2026-11-14",
+  "es_plan": false
+ },
+ "a1b7fbbf12": {
+  "url": "https://www.laverdad.es/culturas/demusica-ensemble-rescata-voces-monasterios-une-molina-20261114152429-nt.html",
+  "fuente": "La Verdad (Culturas)",
+  "src": "prensa-laverdad-culturas",
+  "publicado": "2026-11-14",
+  "es_plan": false
+ },
+ "a2bba5198a": {
+  "url": "https://www.elcomercio.es/culturas/arte/memoria-generosidad-exponen-gijon-20261114213720-nt.html",
+  "fuente": "El Comercio (Culturas)",
+  "src": "prensa-elcomercio-culturas",
+  "publicado": "2026-11-14",
+  "es_plan": false
+ },
+ "af2bf0fb7a": {
+  "url": "https://www.larioja.com/culturas/joven-compania-nacional-llevara-clasicos-cinco-institutos-20261114133906-nt.html",
+  "fuente": "La Rioja (Culturas)",
+  "src": "prensa-larioja-culturas",
+  "publicado": "2026-11-14",
+  "es_plan": true,
+  "titulo": "La Joven Compañía Nacional en institutos riojanos",
+  "resumen": "La Joven Compañía Nacional llevará representaciones teatrales adaptadas a cinco institutos de La Rioja del 16 al 20 de noviembre, con un enfoque didáctico.",
+  "en": {
+   "titulo": "The National Youth Company in La Rioja institutes",
+   "resumen": "The National Youth Company will perform adapted theatrical representations in five institutes in La Rioja from November 16th to 20th, with an educational focus."
+  },
+  "inicio": "2026-11-16",
+  "fin": "2026-11-20",
+  "hora": null,
+  "lugar": "Institutos",
+  "municipio": null,
+  "provincia": "La Rioja",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "29aafa7ee3": {
+  "url": "https://www.lasprovincias.es/culturas/centre-carme-muestra-influencia-segrelles-arte-actual-20261113184250-nt.html",
+  "fuente": "Las Provincias (Culturas)",
+  "src": "prensa-lasprovincias-culturas",
+  "publicado": "2026-11-13",
+  "es_plan": true,
+  "titulo": "Centre del Carme: influencia de Segrelles en arte actual",
+  "resumen": "El Centre del Carme de Valencia muestra la influencia de Segrelles en el arte actual a través de encuentros con ilustradores, cineastas y artistas urbanos los días 17 de noviembre y 4 y 12 de diciembre.",
+  "en": {
+   "titulo": "Centre del Carme: Segrelles' influence on current art",
+   "resumen": "The Centre del Carme in Valencia showcases Segrelles' influence on current art through meetings with illustrators, filmmakers, and urban artists on November 17th, and December 4th and 12th."
+  },
+  "inicio": "2026-11-17",
+  "fin": "2026-12-12",
+  "hora": null,
+  "lugar": "Centre del Carme",
+  "municipio": "Valencia",
+  "provincia": "Valencia",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "museos",
+   "actividades"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "e427900fcc": {
+  "url": "https://www.lasprovincias.es/culturas/albatros-famosa-nave-julio-verne-aterriza-valencia-20261113133806-nt.html",
+  "fuente": "Las Provincias (Culturas)",
+  "src": "prensa-lasprovincias-culturas",
+  "publicado": "2026-11-13",
+  "es_plan": false
  }
 }
