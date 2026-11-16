@@ -252,6 +252,12 @@ reserva:
     generos: [negocios]
     episodio: { titulo: "Willyrex Explica el Negocio Real de YouTube: 100.000€/mes, sponsors y vídeos sin filtros", enlace: "https://open.spotify.com/episode/4JPUWM7SYpmoMD1dZuqSnU" }
 
+  - id: itnig-myinvestor
+    portada: "/img/podcasts/myinvestor-itnig.jpg"
+    titulo: "Podcast de Itnig: Historias de startups"
+    generos: [negocios]
+    episodio: { titulo: "MyInvestor: de casi cerrar a abrir 1.000 cuentas al día", enlace: "https://open.spotify.com/episode/4D2aoJCDKU4lijVYm7cPjl" }
+
   - id: escobula
     portada: "/img/podcasts/escobula.jpg"
     titulo: "La escóbula de la brújula"
