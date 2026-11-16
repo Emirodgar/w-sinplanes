@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15",
+ "updated": "2026-11-16",
  "terms": [
   {
    "term": "carlos cuerpo",
@@ -29,16 +29,6 @@
     "Dónde es festivo hoy, lunes 2 de noviembre: comunidades autónomas que hacen puente por el Día de Todos los Santos",
     "¿Hoy es festivo? Las nueve comunidades que hacen puente este lunes 2 de noviembre",
     "¿Por qué hoy no es fiesta en toda España?"
-   ]
-  },
-  {
-   "term": "levante badalona - barcelona",
-   "traffic": 10000,
-   "lastSeen": "2026-11-01",
-   "news": [
-    "Badalona - Barcelona, en directo: Liga F, hoy en vivo",
-    "A seguir sumando en Palamós",
-    "El Barça no quiere levantar el pie en el derbi"
    ]
   },
   {
@@ -109,16 +99,6 @@
     "Un tren AVE se pasa la estación de Zaragoza, pega un frenazo y Renfe tiene que relevar al maquinista",
     "Nuevo susto para los usuarios del tren: un AVE se pasa la estación en Zaragoza, pega un frenazo y el...",
     "Vídeo: Un tren Ave se pasa la parada de Zaragoza y tiene que volver varios metros marcha atrás"
-   ]
-  },
-  {
-   "term": "real madrid - burgos",
-   "traffic": 5000,
-   "lastSeen": "2026-11-01",
-   "news": [
-    "Real Madrid - Burgos, en directo: ACB (Liga Endesa) 2026/27 hoy en vivo",
-    "Real Madrid - Burgos, en directo hoy | Liga Endesa de baloncesto",
-    "A qué hora es el Real Madrid - Recoletas Salud San Pablo Burgos: horario, dónde ver hoy en TV y canal del partido de la Liga Endesa"
    ]
   },
   {
@@ -282,23 +262,13 @@
    ]
   },
   {
-   "term": "calentamiento súbito estratosférico",
-   "traffic": 2000,
-   "lastSeen": "2026-11-01",
+   "term": "maquinista",
+   "traffic": 5000,
+   "lastSeen": "2026-11-16",
    "news": [
-    "Una posible ruptura del vórtice polar podría provocar un cambio en la circulación atmosférica y dejar más lluvias sobre España",
-    "Los meteorólogos coinciden: el 4 de noviembre se producirá el CSE más temprano jamás registrado",
-    "Alerta por el vórtice polar: el fenómeno atmosférico que se adelanta a su récord de 1968 e impactará en España"
-   ]
-  },
-  {
-   "term": "joventut - bilbao basket",
-   "traffic": 2000,
-   "lastSeen": "2026-11-01",
-   "news": [
-    "Ponsarnau avisa del peligro de “generación y ejecución” de Ricky y Laprovittola",
-    "El Surne busca ser «incómodo» ante el Joventut",
-    "El Joventut, a mantener el invicto en el Olímpic en el regreso de Tomic"
+    "Renfe investiga a un maquinista que reanudó la marcha de un tren abarrotado: “Recemos para que no pase nada”",
+    "Polémica por el mensaje de un maquinista del R11: “Recemos para que no pase nada”",
+    "Investigan a un maquinista que pidió a parte del pasaje de un Rodalies bajar del tren al estar abarrotado"
    ]
   },
   {
@@ -651,6 +621,16 @@
    ]
   },
   {
+   "term": "juan carlos peinado",
+   "traffic": 2000,
+   "lastSeen": "2026-11-16",
+   "news": [
+    "El juez que sustituye a Peinado ordena a Google que no borre el 'software' por el que Begoña Gómez se va a sentar en el banquillo",
+    "El juzgado del caso Begoña Gómez insta a Google a no eliminar contenido del software investigado",
+    "El sustituto del juez Peinado ordena a Google conservar los datos del software de Begoña Gómez"
+   ]
+  },
+  {
    "term": "jubilación en españa",
    "traffic": 1000,
    "lastSeen": "2026-11-08",
@@ -658,26 +638,6 @@
     "La Seguridad Social confirma: es muy difícil que un trabajador llegue a los 67 años en plenas capacidades",
     "La jubilación cambia en 2027: esta es la edad a la que podrás retirarte y empezar a cobrar pensión",
     "Se acabó la jubilación a los 66 años en España y es oficial: se confirma que desde el 1 de enero de 2027 ca..."
-   ]
-  },
-  {
-   "term": "como - venezia",
-   "traffic": 1000,
-   "lastSeen": "2026-11-01",
-   "news": [
-    "Como vs Venezia: Italian Serie A stats & head-to-head",
-    "Fabregas: ‘Venezia will be difficult for Como, Kean injury happened with Italy’",
-    "✅ Como-Venezia XIs | Paz, Baturina, Ricci, Butez and Busio"
-   ]
-  },
-  {
-   "term": "obradoiro - breogán",
-   "traffic": 1000,
-   "lastSeen": "2026-11-01",
-   "news": [
-    "Una máquina de anotar frente al rey de las segundas oportunidades",
-    "En directo: Obradoiro - Breogán; primer derbi gallego de la temporada en la Liga Endesa",
-    "El Fontes do Sar recupera el derbi gallego en la Liga Endesa"
    ]
   },
   {
@@ -991,6 +951,36 @@
    ]
   },
   {
+   "term": "catamarán",
+   "traffic": 1000,
+   "lastSeen": "2026-11-16",
+   "news": [
+    "Un catamarán español denuncia la persecución por parte de cuatro barcos marroquíes cuando navegaba desde Cartagena hacia Canarias",
+    "Piratas marroquíes intentan abordar 'OZ', el catamarán de Cartagena que navega rumbo al Caribe",
+    "Piratas de aguas marroquíes persiguen al catamarán cartagenero que participa en la regata ARC"
+   ]
+  },
+  {
+   "term": "ayuntamiento de madrid",
+   "traffic": 1000,
+   "lastSeen": "2026-11-16",
+   "news": [
+    "Almeida presenta una denuncia contra el ex delegado del Gobierno en Madrid por prevaricación ante su \"inacción\" en la acampada de Sol",
+    "El Ayuntamiento de Madrid denuncia al exdelegado del Gobierno por un delito de prevaricación por la acampada de Sol",
+    "Sanz informa sobre la denuncia al exdelegado del Gobierno por la acampada ilegal en Sol"
+   ]
+  },
+  {
+   "term": "real murcia - alcorcón",
+   "traffic": 1000,
+   "lastSeen": "2026-11-16",
+   "news": [
+    "Real Murcia 1 - Alcorcón 2: resumen, goles y resultado",
+    "Primera derrota en casa marcada por la roja a Jorquera",
+    "El Real Murcia no encuentra el antídoto contra Lancho y Esteban Aparicio"
+   ]
+  },
+  {
    "term": "audiencias tv",
    "traffic": 500,
    "lastSeen": "2026-11-08",
@@ -998,36 +988,6 @@
     "'La Ruleta' (9.4%) lidera la noche, 'Malas lenguas' (8.8%) resiste y Luján Argüelles (5.7%) destaca en las audiencias de La Séptima",
     "La Séptima marca otro récord en su primer sábado y supera a La 2 con un 3%",
     "Audiencias TV ayer | Luján Argüelles arrasa en La Séptima y gana a Telecinco con su 'Fin de semana' y el tándem Alba Carrillo y Marta Márquez se queda a una décima de laSexta"
-   ]
-  },
-  {
-   "term": "gasolina",
-   "traffic": 500,
-   "lastSeen": "2026-11-01",
-   "news": [
-    "El precio de la gasolina y el diésel desde hoy: así quedan las ayudas y el coste de llenar el depósito",
-    "Bajonazo del precio de la gasolina y el diésel este domingo: repostar sale mucho más barato",
-    "Llega noviembre y el precio de la gasolina no cambia, este es el descuento que se aplica por litro de combustible y te va a gustar"
-   ]
-  },
-  {
-   "term": "miguel bosé",
-   "traffic": 500,
-   "lastSeen": "2026-11-01",
-   "news": [
-    "Marcos Llorente estalla contra quienes le acusan de politizar el accidente de tren: «A mí la política me la suda»",
-    "Las redes comparan las reacciones de Borja Iglesias y otros futbolistas tras el accidente en Toledo: \"La diferencia entre estar a la altura o embarrar\"",
-    "Miguel Bosé, a los 70 años: \"Estoy orgulloso de ser español y no nos cansaremos a pesar de lo que se le ha venido encima al país\""
-   ]
-  },
-  {
-   "term": "massimo rivola",
-   "traffic": 500,
-   "lastSeen": "2026-11-01",
-   "news": [
-    "“Lo he intentado, no ha podido ser y hay que aceptarlo”",
-    "Bonora explica el plan para Martín tras retirarse en Malasia",
-    "Jorge Martín se baja de la cita de Sepang"
    ]
   },
   {
@@ -1495,22 +1455,23 @@
    ]
   },
   {
-   "term": "ciara mageean",
-   "traffic": 200,
-   "lastSeen": "2026-11-01",
+   "term": "economista",
+   "traffic": 500,
+   "lastSeen": "2026-11-16",
    "news": [
-    "Ciara Mageean: European champion and Olympian dies aged 34",
-    "Live: Tributes paid as Olympian Ciara Mageean dies aged 34",
-    "Irish Olympian and European champion Ciara Mageean has died aged 34"
+    "Gonzalo Bernardos, economista: «El poder adquisitivo de los españoles con convenio ha caído un 2,2% desde q...",
+    "Gonzalo Bernardos identifica el mayor problema de España y señala a los políticos: \"No he oído a ningún partido hablar de ofrecer una solución\"",
+    "Gonzalo Bernardos, economista: \"El primer problema del país no es la vivienda ni el paro\"; señala la lentitud de la Administración"
    ]
   },
   {
-   "term": "presión fiscal",
-   "traffic": 200,
-   "lastSeen": "2026-11-01",
+   "term": "nolotil",
+   "traffic": 500,
+   "lastSeen": "2026-11-16",
    "news": [
-    "Las empresas de CyL pagan más por ganar: el Impuesto de Sociedades supera en casi 8 puntos la media nacional",
-    "Las empresas de Castilla y León denuncian la «fuerte presión fiscal» que sufren"
+    "Un estudio destapa nueve muertes por el uso de Nolotil en dos años en Alicante, siete de ellas de pacientes británicos",
+    "Un estudio hospitalario en Valencia destapa que los británicos tienen hasta 120 veces más riesgo de sufrir reacciones mortales por Nolotil",
+    "Nueve muertes vinculadas al uso de Nolotil en Alicante en dos años: siete de los fallecidos eran británicos"
    ]
   },
   {
@@ -2191,6 +2152,36 @@
     "¿Qué es El Niño? Así enloquece el clima global una pequeña región tropical del Pacífico",
     "\"Tenemos siete meses\": expertos alertan de las consecuencias de El Niño en Europa y piden tomar medidas",
     "Los meteorólogos avisan: hace 30 años hubo un fenómeno de El Niño parecido y España tuvo bastante nieve"
+   ]
+  },
+  {
+   "term": "front ampli",
+   "traffic": 200,
+   "lastSeen": "2026-11-16",
+   "news": [
+    "Ara Més-Front Ampli propone limitar el precio de los alquileres comerciales para proteger el pequeño comercio",
+    "Ara Més-Front Ampli pide un fondo de inversión público para el impulso de empresas locales",
+    "Ara Més-Front Ampli propone fondos públicos para impulsar empresas locales, crear empleo y fomentar la inversión"
+   ]
+  },
+  {
+   "term": "india",
+   "traffic": 200,
+   "lastSeen": "2026-11-16",
+   "news": [
+    "UK's Prince William, Princess Kate begin India visit with street cricket",
+    "Prince William and Princess Catherine arrive in India for 3-day visit",
+    "Prince and Princess of Wales play street cricket in Mumbai"
+   ]
+  },
+  {
+   "term": "venta",
+   "traffic": 200,
+   "lastSeen": "2026-11-16",
+   "news": [
+    "Moeve encarga a Rothschild buscar comprador para sus gasolineras",
+    "Moeve (antigua Cepsa) estudia vender sus 2.000 estaciones de servicio en España y Portugal",
+    "Moeve sondea la venta de sus 1.700 gasolineras"
    ]
   },
   {

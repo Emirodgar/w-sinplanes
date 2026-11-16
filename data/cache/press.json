@@ -9013,34 +9013,6 @@
   "a_cubierto": true,
   "confianza": 0.9
  },
- "619fd57fef": {
-  "url": "https://elpais.com/cultura/2026-11-01/mago-de-oz-muy-grandes-muy-conflictivos-demandas-disputas-por-el-poder-y-una-pelicula-que-reabre-las-heridas-del-grupo-heavy.html",
-  "fuente": "El País (Cultura)",
-  "src": "prensa-elpais-cultura",
-  "publicado": "2026-11-01",
-  "es_plan": false
- },
- "04e9e0ea29": {
-  "url": "https://elpais.com/cultura/2026-11-01/detras-de-la-guerrilla-de-everyone-hates-elon-y-sus-tres-lecciones-para-acabar-con-los-superricos.html",
-  "fuente": "El País (Cultura)",
-  "src": "prensa-elpais-cultura",
-  "publicado": "2026-11-01",
-  "es_plan": false
- },
- "4b22e55381": {
-  "url": "https://elpais.com/cultura/2026-11-01/lucia-caraballo-fomentar-el-odio-no-es-libertad-de-expresion.html",
-  "fuente": "El País (Cultura)",
-  "src": "prensa-elpais-cultura",
-  "publicado": "2026-11-01",
-  "es_plan": false
- },
- "cb9b689b4e": {
-  "url": "https://elpais.com/podcasts/hoy-en-el-pais/2026-11-01/sin-casa-no-hay-cultura.html",
-  "fuente": "El País (Cultura)",
-  "src": "prensa-elpais-cultura",
-  "publicado": "2026-11-01",
-  "es_plan": false
- },
  "a608d07085": {
   "url": "https://www.lavanguardia.com/neo/20261101/11673337/videojuegos-esperados-noviembre-2026-calendario-lanzamientos-ps5-xbox-nintendo-switch-2-pc.html",
   "fuente": "La Vanguardia (Cultura)",
@@ -9069,13 +9041,6 @@
   ],
   "a_cubierto": null,
   "confianza": 0.85
- },
- "4ddada0564": {
-  "url": "https://www.lavanguardia.com/cultura/20261101/11672707/escrito-inteligencia-artificial-nuevo-delirio-editorial-detectores-pangram-almadia.html",
-  "fuente": "La Vanguardia (Cultura)",
-  "src": "prensa-lavanguardia-cultura",
-  "publicado": "2026-11-01",
-  "es_plan": false
  },
  "ebc4311ba9": {
   "url": "https://www.lavanguardia.com/cultura/culturas/20261101/11670216/manresa-todas-partes.html",
@@ -9135,20 +9100,6 @@
   "a_cubierto": true,
   "confianza": 0.9
  },
- "132d81e888": {
-  "url": "https://www.lavanguardia.com/cultura/20261101/11673179/barcelona-mundo.html",
-  "fuente": "La Vanguardia (Cultura)",
-  "src": "prensa-lavanguardia-cultura",
-  "publicado": "2026-11-01",
-  "es_plan": false
- },
- "3baad63233": {
-  "url": "https://www.lavanguardia.com/cultura/20261101/11672709/marianne-faithfull-jagger-rolling-stones-inedit-broken-english.html",
-  "fuente": "La Vanguardia (Cultura)",
-  "src": "prensa-lavanguardia-cultura",
-  "publicado": "2026-11-01",
-  "es_plan": false
- },
  "54d38b48e3": {
   "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/01/festival-cine-fuentes-celebra-su-30a-edicion-con-entrega-los-premios-panorama-2064843.html",
   "fuente": "Heraldo de Aragón (Ocio y cultura)",
@@ -9177,20 +9128,6 @@
   ],
   "a_cubierto": true,
   "confianza": 0.9
- },
- "81173ca61d": {
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/01/critica-cine-hope-mucho-mas-que-monstruos-2064839.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-11-01",
-  "es_plan": false
- },
- "6b08996701": {
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/01/miguel-bose-70anos-orgulloso-espanol-cansaremos-pais-2064804.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-11-01",
-  "es_plan": false
  },
  "0dee981659": {
   "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/01/horario-donde-ver-hoy-gratis-corrida-final-liga-nacional-novilladas-television-2064801.html",
@@ -9221,27 +9158,6 @@
   "a_cubierto": null,
   "confianza": 0.9
  },
- "d618c06073": {
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/01/victor-manuel-79anos-acaba-harto-hoteles-iguales-pesa-final-gira-2063549.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-11-01",
-  "es_plan": false
- },
- "f5f40119a1": {
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/01/maximo-huerta-55anos-cuando-no-este-persona-acuerde-limpiar-lapida-nombre-2063917.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-11-01",
-  "es_plan": false
- },
- "55b1679972": {
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/01/pancho-varona-giras-joaquin-sabina-presumia-persona-escenario-admiracion-serrat-2063915.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-11-01",
-  "es_plan": false
- },
  "17777ef92a": {
   "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/01/kaseo-tenia-colega-dijo-vivia-marques-conteste-disco-facil-revientalo-2064272.html",
   "fuente": "Heraldo de Aragón (Ocio y cultura)",
@@ -9269,13 +9185,6 @@
   ],
   "a_cubierto": null,
   "confianza": 0.85
- },
- "2d95cac8c8": {
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/01/pedro-miana-las-matematicas-como-los-eclipses-son-cultura-2064770.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-11-01",
-  "es_plan": false
  },
  "b7349b3e87": {
   "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/01/entrevista-marc-biarnes-vivimos-tiempos-los-que-se-premia-ser-idiota-2064756.html",
@@ -9305,34 +9214,6 @@
   "a_cubierto": true,
   "confianza": 0.85
  },
- "fbcea4dad3": {
-  "url": "https://www.heraldo.es/ocio-y-cultura/video-carlos-sobera-sobre-su-relacion-con-zaragoza-primera-vez-fuera-casa-una-guitarra-2064462-2.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-11-01",
-  "es_plan": false
- },
- "caface1a13": {
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/01/carlos-sobera-zaragoza-primera-ciudad-conoci-salir-casa-camino-jaca-me-puse-pesado-guitarra-2064418.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-11-01",
-  "es_plan": false
- },
- "407b4b917b": {
-  "url": "https://www.ideal.es/culturas/comic-marvel-secretos-alhambra-orla-imprescindible-bellas-20261101232323-nt.html",
-  "fuente": "Ideal (Culturas)",
-  "src": "prensa-ideal-culturas",
-  "publicado": "2026-11-01",
-  "es_plan": false
- },
- "36e609f85b": {
-  "url": "https://www.elcorreo.com/culturas/musica/sonrientes-super-figuras-cuban-jazz-syndicate-felices-20261101075826-nt.html",
-  "fuente": "El Correo (Culturas)",
-  "src": "prensa-elcorreo-culturas",
-  "publicado": "2026-11-01",
-  "es_plan": false
- },
  "9f99f36857": {
   "url": "https://www.elcorreo.com/culturas/musica/barry-suma-segunda-noche-bilbao-20261031004416-nt.html",
   "fuente": "El Correo (Culturas)",
@@ -9361,13 +9242,6 @@
   "a_cubierto": true,
   "confianza": 0.85
  },
- "00a814cc91": {
-  "url": "https://www.diariovasco.com/culturas/cine/medianoche-cannes-hogar-familia-adams-20261101081158-nt.html",
-  "fuente": "El Diario Vasco (Culturas)",
-  "src": "prensa-diariovasco-culturas",
-  "publicado": "2026-11-01",
-  "es_plan": false
- },
  "740db3cfb4": {
   "url": "https://www.diariovasco.com/culturas/musica/ultimo-regalo-dolly-parton-reencuentro-20261101000850-nt.html",
   "fuente": "El Diario Vasco (Culturas)",
@@ -9395,27 +9269,6 @@
   ],
   "a_cubierto": null,
   "confianza": 0.7
- },
- "107d1e1016": {
-  "url": "https://www.lasprovincias.es/sociedad/a-la-carrera/maraton-nueva-york-2026-podra-verse-domingo-20261030033739-nt.html",
-  "fuente": "Las Provincias (Culturas)",
-  "src": "prensa-lasprovincias-culturas",
-  "publicado": "2026-11-01",
-  "es_plan": false
- },
- "aeac2f3cb5": {
-  "url": "https://www.lasprovincias.es/culturas/musica/malu-emociona-valencia-dedica-concierto-victimas-accidente-20261031003416-nt.html",
-  "fuente": "Las Provincias (Culturas)",
-  "src": "prensa-lasprovincias-culturas",
-  "publicado": "2026-11-01",
-  "es_plan": false
- },
- "df5f95344a": {
-  "url": "https://www.lasprovincias.es/culturas/tv/docuserie-grabaciones-ineditas-prepara-mediaset-sobre-asesinato-20261029002712-nt.html",
-  "fuente": "Las Provincias (Culturas)",
-  "src": "prensa-lasprovincias-culturas",
-  "publicado": "2026-11-01",
-  "es_plan": false
  },
  "47390ec856": {
   "url": "https://www.lasprovincias.es/culturas/tv/esperada-serie-epoca-creador-downton-abbey-regresa-20261030002656-nt.html",
@@ -9472,27 +9325,6 @@
   ],
   "a_cubierto": true,
   "confianza": 0.9
- },
- "47fc3c7ff1": {
-  "url": "https://www.laverdad.es/culturas/anselm-kiefer-ceniza-plomo-estrellas-conectar-vida-20261101234451-nt.html",
-  "fuente": "La Verdad (Culturas)",
-  "src": "prensa-laverdad-culturas",
-  "publicado": "2026-11-01",
-  "es_plan": false
- },
- "f63634defe": {
-  "url": "https://www.eldiariomontanes.es/culturas/cine/travesura-carrera-20261101102023-nt.html",
-  "fuente": "El Diario Montañés (Culturas)",
-  "src": "prensa-diariomontanes-culturas",
-  "publicado": "2026-11-01",
-  "es_plan": false
- },
- "be473d6460": {
-  "url": "https://www.eldiariomontanes.es/culturas/hilo-producciones-atra-bilis-suma-dos-galardones-20261101080405-nt.html",
-  "fuente": "El Diario Montañés (Culturas)",
-  "src": "prensa-diariomontanes-culturas",
-  "publicado": "2026-11-01",
-  "es_plan": false
  },
  "3c2361e29a": {
   "url": "https://www.elcomercio.es/festival-cine-gijon/ficx-director-entrevista-edicion-musculo-programacion-peliculas-20261031180901-nt.html",
@@ -10447,55 +10279,6 @@
   "a_cubierto": null,
   "confianza": 0.9
  },
- "f20aaaaaed": {
-  "url": "https://www.europapress.es/cultura/libros-00132/noticia-goncalo-tavares-premio-formentor-2026-alerta-ia-puede-crear-tetraplejicos-intelectuales-20261101181812.html",
-  "fuente": "Europa Press (Cultura)",
-  "src": "prensa-europapress-cultura",
-  "publicado": "2026-11-01",
-  "es_plan": false
- },
- "833d67f7e8": {
-  "url": "https://www.20minutos.es/libros/goncalo-m-tavares-premio-formentor-2026-ia-puede-crear-tetraplejicos-intelectuales_7056081_0.html",
-  "fuente": "20minutos (Cultura)",
-  "src": "prensa-20minutos-cultura",
-  "publicado": "2026-11-01",
-  "es_plan": false
- },
- "1db9d5a32d": {
-  "url": "https://elpais.com/cultura/2026-11-01/muere-a-los-81-anos-el-artista-miquel-navarro.html",
-  "fuente": "El País (Cultura)",
-  "src": "prensa-elpais-cultura",
-  "publicado": "2026-11-01",
-  "es_plan": false
- },
- "bf74616d35": {
-  "url": "https://www.lavanguardia.com/cultura/20261101/11673515/goncalo-m-tavares-ia-convertirnos-tetraplejicos-intelectuales.html",
-  "fuente": "La Vanguardia (Cultura)",
-  "src": "prensa-lavanguardia-cultura",
-  "publicado": "2026-11-01",
-  "es_plan": false
- },
- "aea4489524": {
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/01/madonna-recomienda-bola-negra-javis-seguidores-instagram-2064988.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-11-01",
-  "es_plan": false
- },
- "81da5f506c": {
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/01/goncalo-tavares-premio-formentor-2026-pobreza-lenguaje-fascismos-2064962.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-11-01",
-  "es_plan": false
- },
- "c727ec52f1": {
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/01/muere-miquel-navarro-creador-que-imagino-ciudades-esculpio-iconos-urbanos-2064892.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-11-01",
-  "es_plan": false
- },
  "563ceda811": {
   "url": "https://www.diariovasco.com/culturas/musica/autografos-obras-arte-michael-jackson-llegan-exposicion-20261101202311-nt.html",
   "fuente": "El Diario Vasco (Culturas)",
@@ -10525,13 +10308,6 @@
   "a_cubierto": true,
   "confianza": 0.85
  },
- "30e18389c1": {
-  "url": "https://www.diariovasco.com/culturas/musica/guerra-interna-mago-salpica-estreno-pelicula-20261101202306-nt.html",
-  "fuente": "El Diario Vasco (Culturas)",
-  "src": "prensa-diariovasco-culturas",
-  "publicado": "2026-11-01",
-  "es_plan": false
- },
  "7e5dc0b5ec": {
   "url": "https://www.lasprovincias.es/culturas/tv/tve-emite-lunes-sueno-eterno-humphrey-bogart-20261101235930-nt.html",
   "fuente": "Las Provincias (Culturas)",
@@ -10559,13 +10335,6 @@
   ],
   "a_cubierto": true,
   "confianza": 0.85
- },
- "6fd4b64bbb": {
-  "url": "https://www.lasprovincias.es/culturas/miquel-navarro-modernidad-discreta-20261101161728-nt.html",
-  "fuente": "Las Provincias (Culturas)",
-  "src": "prensa-lasprovincias-culturas",
-  "publicado": "2026-11-01",
-  "es_plan": false
  },
  "0c669070ba": {
   "url": "https://www.elcorreo.com/culturas/arte/memoria-nutre-retrospectiva-alejandra-icaza-sala-rekalde-20261030200215-nt.html",
