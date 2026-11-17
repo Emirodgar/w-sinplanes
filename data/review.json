@@ -118,5 +118,25 @@
   "confianza": 0.5,
   "fuente": "La Verdad (Culturas)",
   "url": "https://www.laverdad.es/culturas/coamu-acoge-xxix-edicion-exposicion-vivir-arte-20261116130653-nt.html"
+ },
+ {
+  "id": "6e988e6d00",
+  "titulo": "Los Pecos se despiden en el Roig Arena de Valencia",
+  "inicio": "2027-12-19",
+  "municipio": "Valencia",
+  "provincia": "Comunitat Valenciana",
+  "confianza": 0.5,
+  "fuente": "Las Provincias (Culturas)",
+  "url": "https://www.lasprovincias.es/culturas/musica/pecos-despiden-escenarios-roig-arena-20261117132359-nt.html"
+ },
+ {
+  "id": "9f612236e0",
+  "titulo": "Tardor presenta nueva canción en la Sala Repvblicca",
+  "inicio": "2026-11-20",
+  "municipio": null,
+  "provincia": "Comunitat Valenciana",
+  "confianza": 0.5,
+  "fuente": "Las Provincias (Culturas)",
+  "url": "https://www.lasprovincias.es/culturas/musica/tardor-presenta-nueva-cancion-vuelta-escenarios-despues-20261117130249-nt.html"
  }
 ]

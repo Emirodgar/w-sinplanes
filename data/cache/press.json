@@ -23324,5 +23324,1140 @@
   "src": "prensa-lasprovincias-culturas",
   "publicado": "2026-11-13",
   "es_plan": false
+ },
+ "9213e006ce": {
+  "url": "https://www.europapress.es/cultura/noticia-trabajos-traslado-pinturas-profanas-sijena-huesca-comienzan-martes-20261117072153.html",
+  "fuente": "Europa Press (Cultura)",
+  "src": "prensa-europapress-cultura",
+  "publicado": "2026-11-17",
+  "es_plan": true,
+  "titulo": "Traslado de las pinturas de Sijena",
+  "resumen": "El MNAC inicia el traslado de las pinturas profanas de Sijena a Huesca. Las obras llegarán al Monasterio de Santa María de Sijena el 2 de diciembre.",
+  "en": {
+   "titulo": "Transfer of Sijena Paintings",
+   "resumen": "The MNAC begins the transfer of profane paintings from Sijena to Huesca. The works will arrive at the Monastery of Santa María de Sijena on December 2nd."
+  },
+  "inicio": "2026-12-02",
+  "fin": "2026-12-02",
+  "hora": null,
+  "lugar": "Monasterio de Santa María de Sijena",
+  "municipio": "Sijena",
+  "provincia": "Huesca",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "d32d8847e0": {
+  "url": "https://www.20minutos.es/artes/galeria-las-colecciones-reales-expone-una-obra-firmada-por-velazquez-felipe-iv-un-prestamo-national-gallery_7062155_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-11-17",
+  "es_plan": true,
+  "titulo": "Velázquez: Felipe IV en la Galería de las Colecciones Reales",
+  "resumen": "La Galería de las Colecciones Reales expone el retrato de Felipe IV pintado por Velázquez, cedido por la National Gallery de Londres. Estará visible hasta el 14 de febrero de 2027.",
+  "en": {
+   "titulo": "Velázquez: Philip IV at the Gallery of Royal Collections",
+   "resumen": "The Gallery of Royal Collections exhibits Velázquez's portrait of Philip IV, on loan from the National Gallery in London. It will be on display until February 14, 2027."
+  },
+  "inicio": "2026-11-17",
+  "fin": "2027-02-14",
+  "hora": null,
+  "lugar": "Galería de las Colecciones Reales",
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "7f931900ef": {
+  "url": "https://www.20minutos.es/libros/isabel-coixet-publica-silencio-se-come-me-encanta-ir-bar-mi-calle-pedirme-un-cortado-bocadillo-fuet-3-50-oferta_7059620_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-11-17",
+  "es_plan": false
+ },
+ "9dd139452c": {
+  "url": "https://elpais.com/cultura/2026-11-17/antonio-roma-no-existe-pero-va-a-dar-un-concierto.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-11-17",
+  "es_plan": false
+ },
+ "36d12a6262": {
+  "url": "https://elpais.com/cultura/cine/2026-11-17/los-actores-que-han-dado-vida-a-james-bond-de-peor-a-mejor.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-11-17",
+  "es_plan": false
+ },
+ "7d76765dcf": {
+  "url": "https://elpais.com/cultura/cine/2026-11-17/la-transicion-como-casi-nunca-se-ha-visto.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-11-17",
+  "es_plan": true,
+  "titulo": "Proyección de cine de la Transición en Gijón",
+  "resumen": "El festival de Gijón proyecta cinco piezas audiovisuales restauradas de los años setenta. La sesión 'Interior / Exterior' explora la memoria fílmica olvidada de la época.",
+  "en": {
+   "titulo": "Film Screening of the Transition in Gijón",
+   "resumen": "The Gijón festival screens five restored audiovisual pieces from the seventies. The 'Interior / Exterior' session explores the forgotten film memory of the era."
+  },
+  "inicio": "2026-11-17",
+  "fin": "2026-11-17",
+  "hora": null,
+  "lugar": "Festival de cine de Gijón",
+  "municipio": "Gijón",
+  "provincia": "Asturias",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "741572c66e": {
+  "url": "https://elpais.com/cultura/2026-11-17/abduraimov-bychkov-y-la-filarmonica-checa-brillan-en-zaragoza-con-un-rajmaninov-sin-neurosis.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-11-17",
+  "es_plan": true,
+  "titulo": "Concierto de la Filarmónica Checa en Zaragoza",
+  "resumen": "La Filarmónica Checa, dirigida por Semyon Bychkov y con el pianista Behzod Abduraimov, ofrece un concierto en Zaragoza con obras de Rajmáninov.",
+  "en": {
+   "titulo": "Czech Philharmonic Concert in Zaragoza",
+   "resumen": "The Czech Philharmonic, conducted by Semyon Bychkov and featuring pianist Behzod Abduraimov, offers a concert in Zaragoza with works by Rachmaninoff."
+  },
+  "inicio": "2026-11-16",
+  "fin": "2026-11-16",
+  "hora": null,
+  "lugar": "Sala Mozart",
+  "municipio": "Zaragoza",
+  "provincia": "Zaragoza",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "e9ee2ce8b6": {
+  "url": "https://elpais.com/cultura/2026-11-17/chiara-oliver-ser-artistas-abiertamente-queer-es-una-forma-de-decir-que-no-nos-van-a-callar.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-11-17",
+  "es_plan": true,
+  "titulo": "Concierto de Chiara Oliver en Barcelona",
+  "resumen": "Chiara Oliver ofrece un concierto acústico en Barcelona con motivo de la Music Week de LOS40. Presentará temas de su álbum 'no fue real' y su próxima edición deluxe.",
+  "en": {
+   "titulo": "Chiara Oliver Concert in Barcelona",
+   "resumen": "Chiara Oliver offers an acoustic concert in Barcelona for LOS40 Music Week. She will present songs from her album 'no fue real' and its upcoming deluxe edition."
+  },
+  "inicio": "2026-11-17",
+  "fin": "2026-11-17",
+  "hora": null,
+  "lugar": "Convent dels Àngels",
+  "municipio": "Barcelona",
+  "provincia": "Barcelona",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "40a7995e2d": {
+  "url": "https://www.lavanguardia.com/cultura/musica/20261117/11686534/pecos-anuncian-gira-despedida-medio-siglo-carrera.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-17",
+  "es_plan": true,
+  "titulo": "Gira de despedida de Pecos",
+  "resumen": "El dúo Pecos inicia su gira de despedida 'Concierto para una despedida' en Salamanca el 5 de junio de 2027, con paradas en Barcelona y Madrid.",
+  "en": {
+   "titulo": "Pecos Farewell Tour",
+   "resumen": "The duo Pecos begins their farewell tour 'Concierto para una despedida' in Salamanca on June 5, 2027, with stops in Barcelona and Madrid."
+  },
+  "inicio": "2027-06-05",
+  "fin": "2027-12-26",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "dfa7c6ec17": {
+  "url": "https://www.lavanguardia.com/cultura/20261117/11686451/la-forma-humana-cuerpos-amantes-teatro.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-17",
+  "es_plan": true,
+  "titulo": "Estreno de 'La forma humana' en Salt",
+  "resumen": "El Canal de Salt acoge el estreno absoluto de 'La forma humana' de Pablo Messiez, una obra inspirada en Francis Bacon y Agustín Gómez Arcos.",
+  "en": {
+   "titulo": "Premiere of 'La forma humana' in Salt",
+   "resumen": "El Canal de Salt hosts the absolute premiere of 'La forma humana' by Pablo Messiez, a play inspired by Francis Bacon and Agustín Gómez Arcos."
+  },
+  "inicio": "2026-11-17",
+  "fin": "2026-11-17",
+  "hora": null,
+  "lugar": "El Canal",
+  "municipio": "Salt",
+  "provincia": "Girona",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "b6fd25ad24": {
+  "url": "https://www.lavanguardia.com/cultura/20261117/11685853/biennal-robert-gerhard-disfrutar-reflexionar.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-17",
+  "es_plan": true,
+  "titulo": "Biennal Robert Gerhard en Cataluña",
+  "resumen": "La Biennal Robert Gerhard presenta un concierto con el Cuarteto op. 22 de Anton Webern y otras interpretaciones musicales.",
+  "en": {
+   "titulo": "Biennal Robert Gerhard in Catalonia",
+   "resumen": "The Biennal Robert Gerhard presents a concert featuring Anton Webern's Quartet op. 22 and other musical performances."
+  },
+  "inicio": "2026-11-17",
+  "fin": "2026-11-17",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": "Cataluña",
+  "ambito": "nacional",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "25cbfae82b": {
+  "url": "https://www.lavanguardia.com/cultura/musica/20261117/11686196/salen-venta-entradas-conciertos-estopa-como-comprarlas-venta-general.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-17",
+  "es_plan": true,
+  "titulo": "Entradas para los conciertos de Estopa",
+  "resumen": "Salen a la venta las entradas para los conciertos de Estopa en el marco de 'La Gira la MKT'. La venta general comienza el 17 de noviembre a las 22:22h.",
+  "en": {
+   "titulo": "Tickets for Estopa Concerts",
+   "resumen": "Tickets for Estopa's concerts as part of 'La Gira la MKT' go on sale. General sales begin on November 17th at 10:22 PM."
+  },
+  "inicio": "2026-11-17",
+  "fin": "2026-11-17",
+  "hora": "22:22",
+  "lugar": null,
+  "municipio": null,
+  "provincia": "Cataluña",
+  "ambito": "nacional",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "a51ee32300": {
+  "url": "https://www.lavanguardia.com/cultura/20261117/11685900/juegos-hambre-amanecer-cosecha-siembra-semilla-revolucion-panem.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-17",
+  "es_plan": true,
+  "titulo": "Estreno de 'Los juegos del hambre. Amanecer en la cosecha'",
+  "resumen": "Se estrena la precuela cinematográfica 'Los juegos del hambre. Amanecer en la cosecha', ambientada 24 años antes de la historia original y rodada parcialmente en Asturias.",
+  "en": {
+   "titulo": "Premiere of 'The Hunger Games. The Ballad of Songbirds & Snakes'",
+   "resumen": "The prequel film 'The Hunger Games. The Ballad of Songbirds & Snakes' premieres, set 24 years before the original story and partially filmed in Asturias."
+  },
+  "inicio": "2026-11-21",
+  "fin": "2026-11-21",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": "Asturias",
+  "ambito": "nacional",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "pantalla",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "3f11a512a7": {
+  "url": "https://www.ara.cat/cultura/historia/museu-d-historia-catalunya-exposa-copia-mes-antiga-llibre-dels-feyts-jaume_25_5913212.html",
+  "fuente": "Ara (Cultura)",
+  "src": "prensa-ara-cultura",
+  "publicado": "2026-11-17",
+  "es_plan": true,
+  "titulo": "Exposición del 'Llibre dels feyts' de Jaume I",
+  "resumen": "El Museu d’Història de Catalunya expone la copia más antigua conservada en catalán del 'Llibre dels feyts' de Jaume I, del 17 al 22 de noviembre.",
+  "en": {
+   "titulo": "Exhibition of Jaume I's 'Llibre dels feyts'",
+   "resumen": "The Museu d’Història de Catalunya exhibits the oldest preserved copy in Catalan of Jaume I's 'Llibre dels feyts' from November 17th to 22nd."
+  },
+  "inicio": "2026-11-17",
+  "fin": "2026-11-22",
+  "hora": null,
+  "lugar": "Museu d’Història de Catalunya",
+  "municipio": null,
+  "provincia": "Barcelona",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "libros",
+   "museos"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "eaff858b7d": {
+  "url": "https://www.ara.cat/cultura/oye-sherman-presenta-historia-certa-mentida-l-espai-texas-festival-classics_25_5912951.html",
+  "fuente": "Ara (Cultura)",
+  "src": "prensa-ara-cultura",
+  "publicado": "2026-11-17",
+  "es_plan": true,
+  "titulo": "Oye Sherman en el Festival Clàssics de Barcelona",
+  "resumen": "La humorista Oye Sherman presenta su espectáculo 'Una història certa sobre la mentida' en el Espai Texas, dentro del Festival Clàssics, con funciones el 24 de noviembre, 1 y 8 de diciembre.",
+  "en": {
+   "titulo": "Oye Sherman at the Festival Clàssics in Barcelona",
+   "resumen": "Comedian Oye Sherman presents her show 'Una història certa sobre la mentida' at Espai Texas, as part of the Festival Clàssics, with performances on November 24th, December 1st, and December 8th."
+  },
+  "inicio": "2026-11-24",
+  "fin": "2026-12-08",
+  "hora": null,
+  "lugar": "Espai Texas",
+  "municipio": "Barcelona",
+  "provincia": "Barcelona",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "fiestas"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "425fcca39f": {
+  "url": "https://www.ara.cat/media/tv/realment-jordi-cubino_1_5913100.html",
+  "fuente": "Ara (Cultura)",
+  "src": "prensa-ara-cultura",
+  "publicado": "2026-11-17",
+  "es_plan": false
+ },
+ "eea7882cf1": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/17/los-secretos-anuncian-un-nuevo-concierto-zaragoza-para-2027-2069417.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-17",
+  "es_plan": true,
+  "titulo": "Los Secretos anuncian concierto en Zaragoza en 2027",
+  "resumen": "La banda madrileña Los Secretos realizará una gira por teatros y auditorios de España en 2027 para presentar su nuevo disco 'Nada es como antes'. Zaragoza es una de las ciudades incluidas en el tour.",
+  "en": {
+   "titulo": "Los Secretos announce concert in Zaragoza in 2027",
+   "resumen": "The Madrid-based band Los Secretos will tour theaters and auditoriums across Spain in 2027 to present their new album 'Nada es como antes'. Zaragoza is one of the cities included in the tour."
+  },
+  "inicio": "2027-05-01",
+  "fin": "2027-05-01",
+  "hora": null,
+  "lugar": null,
+  "municipio": "Zaragoza",
+  "provincia": "Zaragoza",
+  "ambito": "nacional",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "5931352c3a": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/17/andreu-buenafuente-vuelve-television-tras-paron-prescripcion-medica-2069378.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-17",
+  "es_plan": false
+ },
+ "733c1cc01e": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/17/critica-musica-orquesta-filarmonica-checa-gran-poderio-interpretativo-2069394.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-17",
+  "es_plan": false
+ },
+ "f25ca8fdac": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/17/penelope-cruz-anos-desayuno-huevos-fruta-cereales-caseros-tostadas-encanta-cafe-arabica-organico-leche-almendras-tomo-dia-2069322.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-17",
+  "es_plan": false
+ },
+ "f7295ca4ae": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/17/gta-vi-llega-19-noviembre-tras-13-anos-espera-con-10-millones-reservas-2069303.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-17",
+  "es_plan": true,
+  "titulo": "GTA VI desata la locura mundial: el videojuego más esperado llega tras 13 años",
+  "resumen": "El esperado videojuego GTA VI se lanza el 19 de noviembre, tras 13 años de desarrollo. Se esperan cifras récord de ventas y ingresos, consolidando a los videojuegos como la mayor industria cultural.",
+  "en": {
+   "titulo": "GTA VI unleashes global frenzy: the most anticipated video game arrives after 13 years",
+   "resumen": "The highly anticipated video game GTA VI launches on November 19th, after 13 years of development. Record sales and revenue figures are expected, solidifying video games as the largest cultural industry."
+  },
+  "inicio": "2026-11-19",
+  "fin": "2026-11-19",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "56f9fb2106": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/17/agatha-ruiz-prada-primero-hizo-ana-botella-cuando-llego-poder-quitar-arbol-navidad-puerta-sol-daba-rabia-2067726.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-17",
+  "es_plan": false
+ },
+ "a304387571": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/17/aitana-propietaria-tres-casas-no-especulo-vivienda-ni-querer-hacer-nunca-compre-casa-miami-trabajar-tributando-espana-2063758.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-17",
+  "es_plan": false
+ },
+ "1260c46110": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/17/david-broncano-santiago-abascal-vox-aprovechado-revuelta-liado-2069278.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-17",
+  "es_plan": false
+ },
+ "38b09bba60": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/17/lola-herrera-91anos-mujer-entender-otra-votar-santiago-abascal-2069273.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-17",
+  "es_plan": true,
+  "titulo": "Lola Herrera representa 'Camino a la Meca' en Alcorcón y Barbastro",
+  "resumen": "La actriz Lola Herrera, a sus 91 años, continúa de gira por España con la obra de teatro 'Camino a la Meca'. La gira pasará por Alcorcón y Barbastro.",
+  "en": {
+   "titulo": "Lola Herrera performs 'Camino a la Meca' in Alcorcón and Barbastro",
+   "resumen": "Actress Lola Herrera, at 91 years old, continues her tour across Spain with the play 'Camino a la Meca'. The tour will visit Alcorcón and Barbastro."
+  },
+  "inicio": "2026-11-22",
+  "fin": "2026-11-22",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.7
+ },
+ "b050233e6f": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/17/joan-manuel-serrat-82anos-proximas-elecciones-votar-pensar-tiranos-crean-complicidad-buena-gente-silencio-2069268.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-17",
+  "es_plan": false
+ },
+ "39ab13bb68": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/17/enfado-enrique-bunbury-pleno-concierto-gente-respetar-2069262.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-17",
+  "es_plan": true,
+  "titulo": "Enrique Bunbury ofrece conciertos en España en diciembre",
+  "resumen": "Tras finalizar su gira por América, Enrique Bunbury actuará en España en diciembre con su 'Nuevas Mutaciones Tour'. Los últimos conciertos en América son en California y Los Ángeles.",
+  "en": {
+   "titulo": "Enrique Bunbury performs concerts in Spain in December",
+   "resumen": "After concluding his tour in America, Enrique Bunbury will perform in Spain in December with his 'Nuevas Mutaciones Tour'. The last concerts in America are in California and Los Angeles."
+  },
+  "inicio": "2026-12-01",
+  "fin": "2026-12-31",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.7
+ },
+ "8f0829c04d": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/17/andres-roca-rey-30anos-vivo-solo-casa-campo-necesito-estar-concentrado-disfruto-mucho-2066723.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-17",
+  "es_plan": true,
+  "titulo": "Roca Rey torea en Monterrey, Aguascalientes, León y Apizaco",
+  "resumen": "El torero peruano Andrés Roca Rey continúa su temporada en América, con próximas actuaciones en México. Toreará en Monterrey el 20 de noviembre, y después en Aguascalientes, León y Apizaco.",
+  "en": {
+   "titulo": "Roca Rey performs in Monterrey, Aguascalientes, León, and Apizaco",
+   "resumen": "Peruvian bullfighter Andrés Roca Rey continues his season in America, with upcoming performances in Mexico. He will perform in Monterrey on November 20th, and later in Aguascalientes, León, and Apizaco."
+  },
+  "inicio": "2026-11-20",
+  "fin": "2026-11-20",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "deporte"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "127e303b8a": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/17/gran-wyoming-propietario-19-viviendas-subidas-impuestos-patrimonio-perjudican-acuerdo-2065127.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-17",
+  "es_plan": false
+ },
+ "e2b402b0d8": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/17/jose-mota-ibamos-todos-companeros-siempre-discoteca-zaragoza-conocer-manas-2069201.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-17",
+  "es_plan": false
+ },
+ "d0cf15d44c": {
+  "url": "https://www.elnortedecastilla.es/culturas/musica/oscyl-convoca-plaza-compositor-residente-20261117132909-nt.html",
+  "fuente": "El Norte de Castilla (Culturas)",
+  "src": "prensa-nortecastilla-culturas",
+  "publicado": "2026-11-17",
+  "es_plan": false
+ },
+ "eeb34bb563": {
+  "url": "https://www.elnortedecastilla.es/culturas/teatro/venecia-sonada-teatro-acrobatico-20261117065702-nt.html",
+  "fuente": "El Norte de Castilla (Culturas)",
+  "src": "prensa-nortecastilla-culturas",
+  "publicado": "2026-11-17",
+  "es_plan": true,
+  "titulo": "Titizé: Teatro acrobático en Valladolid",
+  "resumen": "Daniele Finzi Pasca presenta 'Titizé', un espectáculo de teatro acrobático inspirado en Venecia. Habrá siete funciones del 18 al 22 de noviembre.",
+  "en": {
+   "titulo": "Titizé: Acrobatic theater in Valladolid",
+   "resumen": "Daniele Finzi Pasca presents 'Titizé', an acrobatic theater show inspired by Venice. There will be seven performances from November 18th to 22nd."
+  },
+  "inicio": "2026-11-18",
+  "fin": "2026-11-22",
+  "hora": null,
+  "lugar": null,
+  "municipio": "Valladolid",
+  "provincia": "Valladolid",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "2027f9fd62": {
+  "url": "https://www.elnortedecastilla.es/culturas/tv/belen-esteban-regresa-casa-gran-hermano-vip-20261117000014-ntrc.html",
+  "fuente": "El Norte de Castilla (Culturas)",
+  "src": "prensa-nortecastilla-culturas",
+  "publicado": "2026-11-17",
+  "es_plan": true,
+  "titulo": "Gran Hermano VIP: Estreno de la novena edición",
+  "resumen": "Telecinco estrena este miércoles la novena edición de 'Gran Hermano VIP'. El reality show regresa con una casa renovada en Tres Cantos.",
+  "en": {
+   "titulo": "Gran Hermano VIP: Premiere of the ninth edition",
+   "resumen": "Telecinco premieres the ninth edition of 'Gran Hermano VIP' this Wednesday. The reality show returns with a renovated house in Tres Cantos."
+  },
+  "inicio": "2026-11-19",
+  "fin": "2026-11-19",
+  "hora": null,
+  "lugar": null,
+  "municipio": "Tres Cantos",
+  "provincia": "Madrid",
+  "ambito": "nacional",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "pantalla",
+   "actividades"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "00e77a5df2": {
+  "url": "https://www.diariosur.es/culturas/embargado-hacienda-horno-esculturas-odisea-zoilo-blanca-20261116054700-nt.html",
+  "fuente": "Diario Sur (Culturas)",
+  "src": "prensa-diariosur-culturas",
+  "publicado": "2026-11-17",
+  "es_plan": true,
+  "titulo": "Exposición 'Drôlerie' de Zoilo Blanca en Madrid",
+  "resumen": "El artista Zoilo Blanca inaugura 'Drôlerie' en WIT Gallery, su primera exposición individual en Madrid. La muestra presenta pinturas y esculturas.",
+  "en": {
+   "titulo": "'Drôlerie' exhibition by Zoilo Blanca in Madrid",
+   "resumen": "Artist Zoilo Blanca inaugurates 'Drôlerie' at WIT Gallery, his first solo exhibition in Madrid. The show features paintings and sculptures."
+  },
+  "inicio": "2026-11-17",
+  "fin": "2026-11-17",
+  "hora": null,
+  "lugar": "WIT Gallery",
+  "municipio": "Madrid",
+  "provincia": "Madrid",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "18ac6a59db": {
+  "url": "https://www.ideal.es/culturas/almeria/domingos-acida-comedia-sobre-conflictos-familiares-llega-20261117144145-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-11-17",
+  "es_plan": true,
+  "titulo": "'53 domingos' en el Auditorio de Roquetas de Mar",
+  "resumen": "La comedia familiar '53 domingos' se representa el 28 de noviembre en el Auditorio de Roquetas de Mar. Las entradas cuestan a partir de 18 euros.",
+  "en": {
+   "titulo": "'53 domingos' at the Roquetas de Mar Auditorium",
+   "resumen": "The family comedy '53 domingos' will be performed on November 28th at the Roquetas de Mar Auditorium. Tickets start from 18 euros."
+  },
+  "inicio": "2026-11-28",
+  "fin": "2026-11-28",
+  "hora": "21:00",
+  "lugar": "Auditorio de Roquetas de Mar",
+  "municipio": "Roquetas de Mar",
+  "provincia": "Almería",
+  "ambito": "local",
+  "gratis": false,
+  "precio": "desde 18 euros",
+  "temas": [
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "e4313adb22": {
+  "url": "https://www.ideal.es/culturas/almeria/roquetas-mar-clausura-roquecomic-tras-semana-conferencias-20261117143832-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-11-17",
+  "es_plan": false
+ },
+ "f44feafb46": {
+  "url": "https://www.ideal.es/culturas/almeria/centro-andaluz-letras-propone-dialogo-sobre-turismo-20261117143443-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-11-17",
+  "es_plan": true,
+  "titulo": "Diálogo sobre turismo y filosofía en Granada",
+  "resumen": "El Centro Andaluz de las Letras organiza un encuentro el 26 de noviembre con Omar Linares sobre la utilidad terapéutica de la filosofía, en relación al ensayo 'Melón con jamón'.",
+  "en": {
+   "titulo": "Dialogue on tourism and philosophy in Granada",
+   "resumen": "The Andalusian Center for Letters is organizing a meeting on November 26th with Omar Linares about the therapeutic utility of philosophy, related to the essay 'Melón con jamón'."
+  },
+  "inicio": "2026-11-26",
+  "fin": "2026-11-26",
+  "hora": null,
+  "lugar": "Centro Andaluz de las Letras",
+  "municipio": "Granada",
+  "provincia": "Granada",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "ed556a2101": {
+  "url": "https://www.ideal.es/culturas/jose-coronado-hiba-abouk-carlos-bardem-pablo-20261117133711-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-11-17",
+  "es_plan": true,
+  "titulo": "Premios Lorca de Cine en Granada",
+  "resumen": "Granada celebra nueve días de cine con los Premios Lorca. José Coronado recibirá el galardón de honor el próximo lunes en el Teatro Isabel la Católica.",
+  "en": {
+   "titulo": "Lorca Film Awards in Granada",
+   "resumen": "Granada celebrates nine days of cinema with the Lorca Awards. José Coronado will receive the honorary award next Monday at the Isabel la Católica Theater."
+  },
+  "inicio": "2026-11-23",
+  "fin": "2026-11-23",
+  "hora": null,
+  "lugar": "Teatro Isabel la Católica",
+  "municipio": "Granada",
+  "provincia": "Granada",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "08a5671128": {
+  "url": "https://www.ideal.es/culturas/jaen/musica-directo-gastronomia-unen-fin-semana-jaen-20261117134819-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-11-17",
+  "es_plan": true,
+  "titulo": "II Sardinada Solidaria en Jaén",
+  "resumen": "La música en directo y la gastronomía se unen en la II Sardinada Solidaria este sábado, 21 de noviembre, en el Parque de la Concordia de Jaén. La recaudación será para Manos Unidas.",
+  "en": {
+   "titulo": "II Solidarity Sardine Festival in Jaén",
+   "resumen": "Live music and gastronomy unite at the II Solidarity Sardine Festival this Saturday, November 21st, in Jaén's Parque de la Concordia. Proceeds will go to Manos Unidas."
+  },
+  "inicio": "2026-11-21",
+  "fin": "2026-11-21",
+  "hora": "12:00",
+  "lugar": "Parque de la Concordia",
+  "municipio": "Jaén",
+  "provincia": "Jaén",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "musica",
+   "gastronomia",
+   "fiestas"
+  ],
+  "a_cubierto": false,
+  "confianza": 0.85
+ },
+ "550c6135f2": {
+  "url": "https://www.ideal.es/culturas/teatro-alhambra-acoge-espectaculo-das-innere-beben-20261117123621-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-11-17",
+  "es_plan": true,
+  "titulo": "'DAS INNERE BEBEN' en el Teatro Alhambra",
+  "resumen": "El Teatro Alhambra acoge el 20 de noviembre la propuesta de danza-teatro 'DAS INNERE BEBEN' de Nadine Gerspacher, que explora el aislamiento y el duelo.",
+  "en": {
+   "titulo": "'DAS INNERE BEBEN' at the Alhambra Theater",
+   "resumen": "The Alhambra Theater hosts the dance-theater performance 'DAS INNERE BEBEN' by Nadine Gerspacher on November 20th, exploring isolation and grief."
+  },
+  "inicio": "2026-11-20",
+  "fin": "2026-11-20",
+  "hora": null,
+  "lugar": "Teatro Alhambra",
+  "municipio": "Granada",
+  "provincia": "Granada",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "96ad688e7b": {
+  "url": "https://www.ideal.es/culturas/texto-ganador-concurso-relatos-ideal-20261117001240-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-11-17",
+  "es_plan": false
+ },
+ "14050a5066": {
+  "url": "https://www.hoy.es/culturas/toros/extremenos-alejandro-mora-tomas-angulo-sergio-sanchez-20261117102143-nt.html",
+  "fuente": "Hoy (Culturas)",
+  "src": "prensa-hoy-culturas",
+  "publicado": "2026-11-17",
+  "es_plan": false
+ },
+ "62b92c91b2": {
+  "url": "https://www.elcorreo.com/culturas/musica/sonografia-irudipenak-musican-ruido-vasco-monte-fabrica-20261117104645-nt.html",
+  "fuente": "El Correo (Culturas)",
+  "src": "prensa-elcorreo-culturas",
+  "publicado": "2026-11-17",
+  "es_plan": false
+ },
+ "771fb2181a": {
+  "url": "https://www.diariovasco.com/culturas/musica/secretos-daran-concierto-kursaal-proxima-primavera-dentro-20261117122311-nt.html",
+  "fuente": "El Diario Vasco (Culturas)",
+  "src": "prensa-diariovasco-culturas",
+  "publicado": "2026-11-17",
+  "es_plan": true,
+  "titulo": "Concierto de Los Secretos en San Sebastián",
+  "resumen": "Los Secretos ofrecerán un concierto en el Kursaal de San Sebastián el 21 de mayo de 2027, como parte de su nueva gira de teatros para presentar su disco 'Nada es como antes'.",
+  "en": {
+   "titulo": "Los Secretos concert in San Sebastián",
+   "resumen": "Los Secretos will perform a concert at the Kursaal in San Sebastián on May 21st, 2027, as part of their new theater tour to present their album 'Nada es como antes'."
+  },
+  "inicio": "2027-05-21",
+  "fin": "2027-05-21",
+  "hora": null,
+  "lugar": "Kursaal",
+  "municipio": "San Sebastián",
+  "provincia": "Gipuzkoa",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "f210ca8f11": {
+  "url": "https://www.diariovasco.com/culturas/musica/bulego-390-kilometros-siete-conciertos-gratuitos-doce-20261116163849-nt.html",
+  "fuente": "El Diario Vasco (Culturas)",
+  "src": "prensa-diariovasco-culturas",
+  "publicado": "2026-11-17",
+  "es_plan": true,
+  "titulo": "Gira gratuita de Bulego por el País Vasco",
+  "resumen": "La banda Bulego realizará siete conciertos gratuitos en 12 horas este sábado, recorriendo el País Vasco desde Maule hasta Pamplona, antes del lanzamiento de su nuevo disco.",
+  "en": {
+   "titulo": "Bulego's free tour through the Basque Country",
+   "resumen": "The band Bulego will perform seven free concerts in 12 hours this Saturday, traveling across the Basque Country from Maule to Pamplona, before releasing their new album."
+  },
+  "inicio": "2026-11-22",
+  "fin": "2026-11-22",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": "País Vasco",
+  "ambito": "nacional",
+  "gratis": true,
+  "precio": "Gratuito",
+  "temas": [
+   "musica",
+   "fiestas"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "04dd6b3e18": {
+  "url": "https://www.diariovasco.com/culturas/musica/alex-ubago-concierto-solidario-navidad-super-amara-20261117001131-nt.html",
+  "fuente": "El Diario Vasco (Culturas)",
+  "src": "prensa-diariovasco-culturas",
+  "publicado": "2026-11-17",
+  "es_plan": true,
+  "titulo": "Alex Ubago en el Concierto Solidario de Navidad de Super Amara",
+  "resumen": "El cantante Alex Ubago actuará en el Concierto Solidario de Navidad de Super Amara el 18 de diciembre en el Kursaal para celebrar el 25 aniversario de su disco 'Qué pides tú'.",
+  "en": {
+   "titulo": "Alex Ubago at the Super Amara Christmas Charity Concert",
+   "resumen": "Singer Alex Ubago will perform at the Super Amara Christmas Charity Concert on December 18th at the Kursaal to celebrate the 25th anniversary of his album 'Qué pides tú'."
+  },
+  "inicio": "2026-12-18",
+  "fin": "2026-12-18",
+  "hora": null,
+  "lugar": "Kursaal",
+  "municipio": null,
+  "provincia": "Gipuzkoa",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura",
+   "fiestas"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "985684226a": {
+  "url": "https://www.lasprovincias.es/culturas/homenaje-postumo-miquel-navarro-madrid-20261117115641-nt.html",
+  "fuente": "Las Provincias (Culturas)",
+  "src": "prensa-lasprovincias-culturas",
+  "publicado": "2026-11-17",
+  "es_plan": false
+ },
+ "2f843f7d1e": {
+  "url": "https://www.lasprovincias.es/culturas/teatro/jose-vicente-peiro-diversion-humor-musical-20261117134557-nt.html",
+  "fuente": "Las Provincias (Culturas)",
+  "src": "prensa-lasprovincias-culturas",
+  "publicado": "2026-11-17",
+  "es_plan": false
+ },
+ "6e988e6d00": {
+  "url": "https://www.lasprovincias.es/culturas/musica/pecos-despiden-escenarios-roig-arena-20261117132359-nt.html",
+  "fuente": "Las Provincias (Culturas)",
+  "src": "prensa-lasprovincias-culturas",
+  "publicado": "2026-11-17",
+  "es_plan": true,
+  "titulo": "Los Pecos se despiden en el Roig Arena de Valencia",
+  "resumen": "El dúo madrileño Los Pecos realizará su última actuación en Valencia el 19 de diciembre de 2027 en el Roig Arena, coincidiendo con el lanzamiento de un disco recopilatorio.",
+  "en": {
+   "titulo": "Los Pecos say goodbye at Valencia's Roig Arena",
+   "resumen": "The Madrid duo Los Pecos will perform their final concert in Valencia on December 19, 2027, at the Roig Arena, coinciding with the release of a compilation album."
+  },
+  "inicio": "2027-12-19",
+  "fin": "2027-12-19",
+  "hora": null,
+  "lugar": "Roig Arena",
+  "municipio": "Valencia",
+  "provincia": "Comunitat Valenciana",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.5
+ },
+ "9f612236e0": {
+  "url": "https://www.lasprovincias.es/culturas/musica/tardor-presenta-nueva-cancion-vuelta-escenarios-despues-20261117130249-nt.html",
+  "fuente": "Las Provincias (Culturas)",
+  "src": "prensa-lasprovincias-culturas",
+  "publicado": "2026-11-17",
+  "es_plan": true,
+  "titulo": "Tardor presenta nueva canción en la Sala Repvblicca",
+  "resumen": "El grupo valenciano Tardor actuará el 20 de noviembre en la Sala Repvblicca para presentar su nueva canción 'Les coses que mai passaran', que formará parte de su próximo disco.",
+  "en": {
+   "titulo": "Tardor presents new song at Sala Repvblicca",
+   "resumen": "The Valencian band Tardor will perform on November 20th at Sala Repvblicca to present their new song 'Les coses que mai passaran', which will be part of their upcoming album."
+  },
+  "inicio": "2026-11-20",
+  "fin": "2026-11-20",
+  "hora": null,
+  "lugar": "Sala Repvblicca",
+  "municipio": null,
+  "provincia": "Comunitat Valenciana",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.5
+ },
+ "aded402486": {
+  "url": "https://www.lasprovincias.es/culturas/ultimo-mural-patraix-recrea-colosal-diosa-ceres-20261117125749-nt.html",
+  "fuente": "Las Provincias (Culturas)",
+  "src": "prensa-lasprovincias-culturas",
+  "publicado": "2026-11-17",
+  "es_plan": false
+ },
+ "6c7ac0fd7f": {
+  "url": "https://www.lasprovincias.es/culturas/teatro/pequeno-gran-teatro-20261110160831-nt.html",
+  "fuente": "Las Provincias (Culturas)",
+  "src": "prensa-lasprovincias-culturas",
+  "publicado": "2026-11-17",
+  "es_plan": false
+ },
+ "fb0b51915a": {
+  "url": "https://www.lasprovincias.es/culturas/tv/nuevo-thriller-charlie-hunnam-emilia-clarke-llega-20261112004523-nt.html",
+  "fuente": "Las Provincias (Culturas)",
+  "src": "prensa-lasprovincias-culturas",
+  "publicado": "2026-11-17",
+  "es_plan": true,
+  "titulo": "Nuevo thriller con Charlie Hunnam y Emilia Clarke en Prime Video",
+  "resumen": "Prime Video estrenará en enero un nuevo thriller protagonizado por Charlie Hunnam y Emilia Clarke, cargado de violencia y crímenes.",
+  "en": {
+   "titulo": "New thriller with Charlie Hunnam and Emilia Clarke on Prime Video",
+   "resumen": "Prime Video will premiere a new thriller in January starring Charlie Hunnam and Emilia Clarke, filled with violence and crime."
+  },
+  "inicio": "2027-01-01",
+  "fin": "2027-01-01",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": "Comunitat Valenciana",
+  "ambito": "nacional",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "pantalla",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.7
+ },
+ "e0d673e1f4": {
+  "url": "https://www.laverdad.es/culturas/musica/jeanmichel-jarre-dara-concierto-murcia-2027-20261117115648-nt.html",
+  "fuente": "La Verdad (Culturas)",
+  "src": "prensa-laverdad-culturas",
+  "publicado": "2026-11-17",
+  "es_plan": false
+ },
+ "5a9531638a": {
+  "url": "https://www.laverdad.es/culturas/musica/arde-bogota-ilumina-ciudad-estrellas-20261116221651-nt.html",
+  "fuente": "La Verdad (Culturas)",
+  "src": "prensa-laverdad-culturas",
+  "publicado": "2026-11-17",
+  "es_plan": false
+ },
+ "715f14ddd8": {
+  "url": "https://www.laverdad.es/culturas/estudio-murciano-santacruz-arquitectura-disena-nuevo-atractivo-20261116210642-nt.html",
+  "fuente": "La Verdad (Culturas)",
+  "src": "prensa-laverdad-culturas",
+  "publicado": "2026-11-17",
+  "es_plan": true,
+  "titulo": "Nuevo Camino de Vértigo en el Parque Minero de Macael",
+  "resumen": "El Parque Minero de Macael estrena el 'Camino de Vértigo', una estructura de escaleras y miradores diseñada por Santa-Cruz Arquitectura, que abrirá al público el 11 de diciembre.",
+  "en": {
+   "titulo": "New Vertigo Trail at the Macael Mining Park",
+   "resumen": "The Macael Mining Park is opening the 'Camino de Vértigo', a structure of stairs and viewpoints designed by Santa-Cruz Arquitectura, which will open to the public on December 11th."
+  },
+  "inicio": "2026-12-11",
+  "fin": "2026-12-11",
+  "hora": null,
+  "lugar": "Parque Minero de Macael",
+  "municipio": "Macael",
+  "provincia": "Almería",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "actividades",
+   "naturaleza",
+   "rutas"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "698f9e8293": {
+  "url": "https://www.eldiariomontanes.es/deportes/racing/balones-creativos-solidarios-20261117215622-nt.html",
+  "fuente": "El Diario Montañés (Culturas)",
+  "src": "prensa-diariomontanes-culturas",
+  "publicado": "2026-11-17",
+  "es_plan": false
+ },
+ "9696dd37ed": {
+  "url": "https://www.larioja.com/culturas/rosa-azafran-agua-azucarillos-aguardiente-ciclo-nacional-20261117131004-nt.html",
+  "fuente": "La Rioja (Culturas)",
+  "src": "prensa-larioja-culturas",
+  "publicado": "2026-11-17",
+  "es_plan": true,
+  "titulo": "Ciclo Nacional de Zarzuela en Logroño",
+  "resumen": "El 50 Ciclo Nacional de Zarzuela presenta 'La rosa del azafrán' y 'Agua, azucarillos y aguardiente' los días 5 y 12 de diciembre en el Teatro Bretón de Logroño.",
+  "en": {
+   "titulo": "National Zarzuela Cycle in Logroño",
+   "resumen": "The 50th National Zarzuela Cycle presents 'La rosa del azafrán' and 'Agua, azucarillos y aguardiente' on December 5th and 12th at the Bretón Theater in Logroño."
+  },
+  "inicio": "2026-12-05",
+  "fin": "2026-12-12",
+  "hora": null,
+  "lugar": "Teatro Bretón",
+  "municipio": "Logroño",
+  "provincia": "La Rioja",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "307420f1d1": {
+  "url": "https://www.larioja.com/culturas/festival-magia-logrono-20261117104940-nt.html",
+  "fuente": "La Rioja (Culturas)",
+  "src": "prensa-larioja-culturas",
+  "publicado": "2026-11-17",
+  "es_plan": false
+ },
+ "97aefdfa6a": {
+  "url": "https://www.20minutos.es/musica/rosalia-asistira-los40-music-awards-que-contaran-con-actuaciones-estopa-quevedo_7061798_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-11-16",
+  "es_plan": true,
+  "titulo": "Los40 Music Awards 2026 en Barcelona",
+  "resumen": "La 21ª edición de Los40 Music Awards se celebrará el 20 de noviembre en el Palau Sant Jordi de Barcelona, con actuaciones de Estopa, Quevedo y la presencia de Rosalía.",
+  "en": {
+   "titulo": "Los40 Music Awards 2026 in Barcelona",
+   "resumen": "The 21st edition of Los40 Music Awards will take place on November 20th at the Palau Sant Jordi in Barcelona, featuring performances by Estopa, Quevedo, and the attendance of Rosalía."
+  },
+  "inicio": "2026-11-20",
+  "fin": "2026-11-20",
+  "hora": null,
+  "lugar": "Palau Sant Jordi",
+  "municipio": "Barcelona",
+  "provincia": "Barcelona",
+  "ambito": "nacional",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
  }
 }

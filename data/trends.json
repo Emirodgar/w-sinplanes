@@ -592,6 +592,36 @@
    ]
   },
   {
+   "term": "precio luz",
+   "traffic": 2000,
+   "lastSeen": "2026-11-17",
+   "news": [
+    "Precio de la luz por horas hoy, martes 17 de noviembre: las horas más baratas y más caras",
+    "Desplome del precio de la luz: la electricidad será un 51,29% más barata este martes 17 de noviembre",
+    "Precio de la luz hoy, 17 de noviembre: Rebajas de más del 50% en el precio de la luz, cuándo será prohibitivo encender la luz"
+   ]
+  },
+  {
+   "term": "tamara falcó",
+   "traffic": 2000,
+   "lastSeen": "2026-11-17",
+   "news": [
+    "Isabel Preysler y Tamara Falcó reaparecen juntas con chaquetas a juego en el homenaje a Julio Iglesias",
+    "Julio Iglesias Jr. conquista Madrid con las canciones de su padre y una Isabel Preysler pletórica entre el público",
+    "Del vaquero roto de Tamara Falcó al collar de Isabel Preysler: así visten para un concierto dos de las mujeres más elegantes"
+   ]
+  },
+  {
+   "term": "ticketmaster",
+   "traffic": 2000,
+   "lastSeen": "2026-11-17",
+   "news": [
+    "How Ticketmaster Changed Concert Culture",
+    "Concert culture has to change",
+    "Packers announce roster move | Nov. 16, 2026"
+   ]
+  },
+  {
    "term": "jubilación en españa",
    "traffic": 1000,
    "lastSeen": "2026-11-08",
@@ -1448,6 +1478,16 @@
    ]
   },
   {
+   "term": "erik lira",
+   "traffic": 500,
+   "lastSeen": "2026-11-17",
+   "news": [
+    "“Bellingham se acercó, me abrazó y me dijo que era un gran jugador”",
+    "Erik Lira revela lo que Jude Bellingham le dijo en el México vs Inglaterra: “Ojalá jueges en un equipo grande”",
+    "La frase de Jude Bellingham a Erik Lira meses después del Mundial 2026"
+   ]
+  },
+  {
    "term": "energía",
    "traffic": 200,
    "lastSeen": "2026-11-03",
@@ -1951,11 +1991,11 @@
   {
    "term": "hamza abdelkarim",
    "traffic": 200,
-   "lastSeen": "2026-11-13",
+   "lastSeen": "2026-11-17",
    "news": [
-    "El gran salto de Hamza Abdelkarim",
-    "Tras la destitución de Hossam Hassan: la visión de Ali Maher abre la puerta de la gloria a Hamza Abdel Karim",
-    "Oportunidad de oro para Hamza con Egipto"
+    "Hamza, intocable",
+    "De acuerdo con el jugador: el Barcelona toma una decisión tajante sobre el futuro de Hamza Abdelkarim",
+    "El nuevo giro con Hamza Abdelkarim"
    ]
   },
   {
@@ -2228,6 +2268,46 @@
    ]
   },
   {
+   "term": "nitto atp finals",
+   "traffic": 200,
+   "lastSeen": "2026-11-17",
+   "news": [
+    "A different perspective: Szilveszter Makó reimagines Nitto ATP Finals stars",
+    "Exclusive: The World’s Top Players Look Back on a Wild Year in Men’s Tennis",
+    "Moovit & FITP join forces: CO₂ Counter makes debut at the Nitto ATP Finals"
+   ]
+  },
+  {
+   "term": "binter",
+   "traffic": 200,
+   "lastSeen": "2026-11-17",
+   "news": [
+    "Vuelos desde Pamplona a Canarias por 85 euros con la promoción Flight Friday de Binter",
+    "Binter lanza su promoción 'Flight Friday': vuelos en rutas nacionales e internacionales desde 23 euros",
+    "Binter activa su Flight Friday para volar desde Pamplona a Canarias"
+   ]
+  },
+  {
+   "term": "basket zaragoza",
+   "traffic": 200,
+   "lastSeen": "2026-11-17",
+   "news": [
+    "Casademont Zaragoza descarta un esguince de Homesley; Vives, pendiente de pruebas",
+    "La pala ilíaca de Guillem Vives tiene en vilo al Casademont Zaragoza",
+    "Casademont Zaragoza, entre la pelea por la Copa y las lesiones: Homesley evita un nuevo esguince y Vives está pendiente de pruebas"
+   ]
+  },
+  {
+   "term": "mónica garcía",
+   "traffic": 200,
+   "lastSeen": "2026-11-17",
+   "news": [
+    "Sanidad envía un requerimiento para exigir crear ya un registro de objetores al aborto en Andalucía y Baleares",
+    "Sanidad envía un requerimiento a Andalucía y Baleares para que creen el registro de objetores al aborto",
+    "Sanidad reclama por carta a Andalucía y Baleares que creen ya el registro de objetores de conciencia sobre el aborto"
+   ]
+  },
+  {
    "term": "operador ferroviario",
    "traffic": 100,
    "lastSeen": "2026-11-07",
@@ -2306,6 +2386,12 @@
     "César Millán, adiestrador canino de 57 años: ‘Humanizar a los perros es un error, necesitan ejercicio, disciplina y afecto, en ese orden’",
     "César Millán advierte sobre el error más común en casa: ‘No existe un mal perro, solo dueños que no comprenden sus necesidades’"
    ]
+  },
+  {
+   "term": "manifestació",
+   "traffic": 100,
+   "lastSeen": "2026-11-17",
+   "news": []
   }
  ]
 }

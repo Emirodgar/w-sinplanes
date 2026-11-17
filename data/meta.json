@@ -1,11 +1,11 @@
 {
-  "generated": "2026-11-17T13:27:46.658Z",
+  "generated": "2026-11-17T14:58:45.553Z",
   "today": "2026-11-17",
-  "events": 7906,
-  "review": 12,
+  "events": 7946,
+  "review": 14,
   "ai": {
-    "calls": 0,
-    "seconds": 54,
+    "calls": 17,
+    "seconds": 267,
     "tripped": false
   },
   "sources": [
@@ -48,19 +48,19 @@
     {
       "id": "prensa-20minutos-cultura",
       "status": "ok",
-      "count": 9,
+      "count": 10,
       "candidatos": true
     },
     {
       "id": "prensa-elpais-cultura",
       "status": "ok",
-      "count": 7,
+      "count": 8,
       "candidatos": true
     },
     {
       "id": "prensa-lavanguardia-cultura",
       "status": "ok",
-      "count": 29,
+      "count": 30,
       "candidatos": true
     },
     {
@@ -72,7 +72,7 @@
     {
       "id": "prensa-heraldo-ocio",
       "status": "ok",
-      "count": 20,
+      "count": 19,
       "candidatos": true
     },
     {
@@ -96,7 +96,7 @@
     {
       "id": "prensa-ideal-culturas",
       "status": "ok",
-      "count": 30,
+      "count": 33,
       "candidatos": true
     },
     {
@@ -149,9 +149,9 @@
     },
     {
       "id": "prensa-elprogreso",
-      "status": "ok",
-      "count": 7,
-      "candidatos": true
+      "nombre": "El Progreso (Lugo)",
+      "status": "error",
+      "detail": "HTTP 403 en https://www.elprogreso.es/rss/"
     }
   ]
 }
