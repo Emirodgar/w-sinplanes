@@ -9608,13 +9608,6 @@
   "a_cubierto": null,
   "confianza": 0.9
  },
- "362dc78501": {
-  "url": "https://www.20minutos.es/musica/entrevista-asha-benidorm-fest-cancion-rendez-vous_7046421_0.html",
-  "fuente": "20minutos (Cultura)",
-  "src": "prensa-20minutos-cultura",
-  "publicado": "2026-11-02",
-  "es_plan": false
- },
  "d4382fd005": {
   "url": "https://elpais.com/cultura/2026-11-02/nick-rhodes-de-duran-duran-me-dan-ganas-de-vomitar-cuando-preguntan-por-las-cifras-en-redes-sociales.html",
   "fuente": "El País (Cultura)",
@@ -9642,13 +9635,6 @@
   ],
   "a_cubierto": true,
   "confianza": 0.9
- },
- "119bfd9f7d": {
-  "url": "https://elpais.com/cultura/2026-11-02/morat-celebra-su-decimo-aniversario-con-un-concierto-intimo-en-madrid.html",
-  "fuente": "El País (Cultura)",
-  "src": "prensa-elpais-cultura",
-  "publicado": "2026-11-02",
-  "es_plan": false
  },
  "97e576ff0a": {
   "url": "https://elpais.com/cultura/2026-11-02/kent-nagano-devuelve-a-falla-su-atlantida-y-vox-luminis-susurra-a-mozart-por-las-victimas-de-urda.html",
@@ -9678,13 +9664,6 @@
   "a_cubierto": true,
   "confianza": 0.9
  },
- "aa414a5e42": {
-  "url": "https://elpais.com/cultura/2026-11-02/omar-ayuso-actor-yo-concibo-el-sexo-como-un-juego-en-el-que-puede-caber-el-amor.html",
-  "fuente": "El País (Cultura)",
-  "src": "prensa-elpais-cultura",
-  "publicado": "2026-11-02",
-  "es_plan": false
- },
  "1c9426b63f": {
   "url": "https://www.lavanguardia.com/local/girona/20261102/11674167/actriz-angels-gonyalons-pondra-voz-poesia-religiosa-joan-maragall.html",
   "fuente": "La Vanguardia (Cultura)",
@@ -9712,41 +9691,6 @@
   ],
   "a_cubierto": true,
   "confianza": 0.5
- },
- "bfc69b910a": {
-  "url": "https://www.lavanguardia.com/cultura/20261102/11673920/maria-velasco-hurga-infancias-infelices.html",
-  "fuente": "La Vanguardia (Cultura)",
-  "src": "prensa-lavanguardia-cultura",
-  "publicado": "2026-11-02",
-  "es_plan": false
- },
- "1d7055c257": {
-  "url": "https://www.lavanguardia.com/cultura/musica/20261102/11673744/muere-juan-atkins-padres-tecno-64-anos.html",
-  "fuente": "La Vanguardia (Cultura)",
-  "src": "prensa-lavanguardia-cultura",
-  "publicado": "2026-11-02",
-  "es_plan": false
- },
- "3ad9333267": {
-  "url": "https://www.lavanguardia.com/comer/al-dia/20261102/11673517/ciclo-cine-barcelona-come-peliculas.html",
-  "fuente": "La Vanguardia (Cultura)",
-  "src": "prensa-lavanguardia-cultura",
-  "publicado": "2026-11-02",
-  "es_plan": false
- },
- "63cf27b638": {
-  "url": "https://www.ara.cat/cultura/musica/mar-pujol-endema-concert-em-llevar-ressaca-d-adolescent-sentint-culpable_128_5896758.html",
-  "fuente": "Ara (Cultura)",
-  "src": "prensa-ara-cultura",
-  "publicado": "2026-11-02",
-  "es_plan": false
- },
- "a6adc6a097": {
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/02/leire-martinez-contesta-criticas-amaia-montero-concierto-zaragoza-fiestas-pilar-terriblemente-doloroso-2063062.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-11-02",
-  "es_plan": false
  },
  "ac09caf469": {
   "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/02/pelicula-rocky-vuelve-los-cines-donde-verla-zaragoza-2065052.html",
@@ -9776,34 +9720,6 @@
   "a_cubierto": true,
   "confianza": 0.9
  },
- "91c9cce1b4": {
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/02/arturo-perez-reverte-escritor-cuando-estoy-sevilla-desayuno-siempre-churros-san-pablo-aperitivo-piletas-2064349.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-11-02",
-  "es_plan": false
- },
- "a07d52f69b": {
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/02/critica-concierto-gustavo-dudamel-con-sinfonica-nacional-juvenil-venezuela-tercera-va-2065038.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-11-02",
-  "es_plan": false
- },
- "7009eae24e": {
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/02/ernest-hemingway-famosa-reflexion-espana-pueblo-espanol-rasgo-comun-orgullo-otro-sentido-2035874.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-11-02",
-  "es_plan": false
- },
- "770ac8b011": {
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/02/torero-roca-rey-30anos-mucho-miedo-ilusionado-responsabilizado-2064585.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-11-02",
-  "es_plan": false
- },
  "0909c0fd69": {
   "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/02/jose-sacristan-89anos-detestables-actitudes-miserables-santiago-abascal-terrible-accidente-ferroviario-espanoles-votan-2064584.html",
   "fuente": "Heraldo de Aragón (Ocio y cultura)",
@@ -9831,34 +9747,6 @@
   "a_cubierto": true,
   "confianza": 0.9
  },
- "b9880b512c": {
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/02/gira-retorno-heroes-silencio-2007-bunbury-beneficio-economicamente-resto-herida-hizo-sangrante-2056391.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-11-02",
-  "es_plan": false
- },
- "0654435b51": {
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/02/goncalo-m-tavares-fascismo-nunca-duerme-2064950.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-11-02",
-  "es_plan": false
- },
- "49b0169c57": {
-  "url": "https://www.elnortedecastilla.es/culturas/seminci/seminci-bastion-cine-autor-significa-crear-libertad-20261102082941-nt.html",
-  "fuente": "El Norte de Castilla (Culturas)",
-  "src": "prensa-nortecastilla-culturas",
-  "publicado": "2026-11-02",
-  "es_plan": false
- },
- "01ff9e6aa8": {
-  "url": "https://www.elnortedecastilla.es/culturas/siete-siglos-tejiendo-arte-20261012002701-ntrc.html",
-  "fuente": "El Norte de Castilla (Culturas)",
-  "src": "prensa-nortecastilla-culturas",
-  "publicado": "2026-11-02",
-  "es_plan": false
- },
  "e7e50fd99b": {
   "url": "https://www.diariosur.es/culturas/entradas-u2-sevilla-debes-saber-preventa-20261102082518-nt.html",
   "fuente": "Diario Sur (Culturas)",
@@ -9885,27 +9773,6 @@
   ],
   "a_cubierto": null,
   "confianza": 0.9
- },
- "5f86808777": {
-  "url": "https://www.ideal.es/culturas/nave-granadina-construyen-suenos-20261102233801-nt.html",
-  "fuente": "Ideal (Culturas)",
-  "src": "prensa-ideal-culturas",
-  "publicado": "2026-11-02",
-  "es_plan": false
- },
- "bb3b21ecaa": {
-  "url": "https://www.elcorreo.com/culturas/musica/pasion-vega-recopila-almodovar-susto-incluido-arriaga-20261102014838-nt.html",
-  "fuente": "El Correo (Culturas)",
-  "src": "prensa-elcorreo-culturas",
-  "publicado": "2026-11-02",
-  "es_plan": false
- },
- "634db266e4": {
-  "url": "https://www.elcorreo.com/culturas/musica/estalla-crisis-precedentes-mago-pocos-dias-estreno-20261102140320-nt.html",
-  "fuente": "El Correo (Culturas)",
-  "src": "prensa-elcorreo-culturas",
-  "publicado": "2026-11-02",
-  "es_plan": false
  },
  "afe48b7c6a": {
   "url": "https://www.elcorreo.com/culturas/musica/queens-the-stone-age-tocaran-miercoles-junio-20261102110135-nt.html",
@@ -9961,13 +9828,6 @@
   "a_cubierto": null,
   "confianza": 0.9
  },
- "d8df9339b2": {
-  "url": "https://www.diariovasco.com/tolosa-goierri/tolosa/the-epiphoni-consort-ganador-edicion-certamen-coral-20261101085938-nt.html",
-  "fuente": "El Diario Vasco (Culturas)",
-  "src": "prensa-diariovasco-culturas",
-  "publicado": "2026-11-02",
-  "es_plan": false
- },
  "9411e772a1": {
   "url": "https://www.diariovasco.com/bidasoa/hondarribia/festival-hondarribitarra-amua-trae-the-molotovs-combo-20261031220628-nt.html",
   "fuente": "El Diario Vasco (Culturas)",
@@ -9995,13 +9855,6 @@
   ],
   "a_cubierto": null,
   "confianza": 0.9
- },
- "196e296879": {
-  "url": "https://www.diariovasco.com/culturas/miguel-zugaza-espejua-20261102073148-nt.html",
-  "fuente": "El Diario Vasco (Culturas)",
-  "src": "prensa-diariovasco-culturas",
-  "publicado": "2026-11-02",
-  "es_plan": false
  },
  "1ef6b148ff": {
   "url": "https://www.lasprovincias.es/culturas/queens-the-stone-age-actuara-junio-roig-20261102093853-nt.html",
@@ -11232,13 +11085,6 @@
   "a_cubierto": null,
   "confianza": 0.85
  },
- "fcc5269c6f": {
-  "url": "https://www.lavanguardia.com/cultura/20261102/11674317/editores-europeos-reunen-formentor-debate-inteligencia-artificial.html",
-  "fuente": "La Vanguardia (Cultura)",
-  "src": "prensa-lavanguardia-cultura",
-  "publicado": "2026-11-02",
-  "es_plan": false
- },
  "8e46da4706": {
   "url": "https://www.lavanguardia.com/cultura/20261102/11674298/thierry-fremaux-director-festival-cannes-recibira-giraldillo-honor-festival-sevilla.html",
   "fuente": "La Vanguardia (Cultura)",
@@ -11266,13 +11112,6 @@
   ],
   "a_cubierto": null,
   "confianza": 0.85
- },
- "dbd398d822": {
-  "url": "https://www.ara.cat/media/ccma/magnifica-road-movie-lidia-heredia_129_5897883.html",
-  "fuente": "Ara (Cultura)",
-  "src": "prensa-ara-cultura",
-  "publicado": "2026-11-02",
-  "es_plan": false
  },
  "dcc7744b0b": {
   "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/02/doctor-alaska-serie-donde-cuando-ver-1629473.html",
@@ -11329,20 +11168,6 @@
   ],
   "a_cubierto": null,
   "confianza": 0.75
- },
- "114150a529": {
-  "url": "https://www.lasprovincias.es/culturas/tv/ultimas-noticias-bridgerton-netflix-informa-final-rodaje-20261102225102-nt.html",
-  "fuente": "Las Provincias (Culturas)",
-  "src": "prensa-lasprovincias-culturas",
-  "publicado": "2026-11-02",
-  "es_plan": false
- },
- "4d33fe1f30": {
-  "url": "https://www.laverdad.es/culturas/diana-paco-dia-firme-feria-libro-murcia-20261102235347-nt.html",
-  "fuente": "La Verdad (Culturas)",
-  "src": "prensa-laverdad-culturas",
-  "publicado": "2026-11-02",
-  "es_plan": false
  },
  "d2b753a101": {
   "url": "https://www.laverdad.es/culturas/gauchito-gil-santo-pagano-argentino-tinder-20261102194904-nt.html",

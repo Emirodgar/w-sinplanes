@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16",
+ "updated": "2026-11-17",
  "terms": [
   {
    "term": "carlos cuerpo",
@@ -19,36 +19,6 @@
     "Rubio ajusticia, Morata ya moja",
     "Real Valladolid CF 4-3 CD Leganés | Resumen",
     "Porque sí, y punto"
-   ]
-  },
-  {
-   "term": "comunidades autónomas festivo hoy",
-   "traffic": 20000,
-   "lastSeen": "2026-11-02",
-   "news": [
-    "Dónde es festivo hoy, lunes 2 de noviembre: comunidades autónomas que hacen puente por el Día de Todos los Santos",
-    "¿Hoy es festivo? Las nueve comunidades que hacen puente este lunes 2 de noviembre",
-    "¿Por qué hoy no es fiesta en toda España?"
-   ]
-  },
-  {
-   "term": "apagón eléctrico",
-   "traffic": 10000,
-   "lastSeen": "2026-11-02",
-   "news": [
-    "La Palma sufre un apagón general que deja a la isla sin suministro eléctrico durante casi cuatro horas",
-    "Garriga (Vox) pide una auditoría de todos los kilómetros de red ferroviaria",
-    "Restablecido el suministro eléctrico en La Palma tras un apagón de cuatro horas"
-   ]
-  },
-  {
-   "term": "rafael jódar",
-   "traffic": 10000,
-   "lastSeen": "2026-11-02",
-   "news": [
-    "Resumen y resultado del Tabilo - Jódar del Masters 1.000 de París",
-    "A qué hora es el Jódar - Tabilo: horario y dónde ver hoy en TV la primera ronda del torneo de París",
-    "Jódar - Tabilo, en directo | Masters 1000 de París Bercy de tenis"
    ]
   },
   {
@@ -109,16 +79,6 @@
     "Carlos Alcaraz - Frances Tiafoe: en directo las Finales ATP | Última hora de ATP Finals en vivo hoy",
     "Carlos Alcaraz - Frances Tiafoe, el partido de las ATP Finals en vivo|Comienza el encuentro",
     "Alcaraz vs Tiafoe, Nitto ATP Finals hoy: resultado y última hora del partido, en directo"
-   ]
-  },
-  {
-   "term": "tenerife - fc andorra",
-   "traffic": 5000,
-   "lastSeen": "2026-11-02",
-   "news": [
-    "Tenerife - Andorra, en directo: LaLiga Hypermotion, hoy en vivo",
-    "Localidades ya adquiridas del #TenerifeAndorra",
-    "CD Tenerife vs FC Andorra: horario, minuto a minuto y claves del partido"
    ]
   },
   {
@@ -279,45 +239,6 @@
     "Renfe investiga a un maquinista que reanudó la marcha de un tren abarrotado: “Recemos para que no pase nada”",
     "Polémica por el mensaje de un maquinista del R11: “Recemos para que no pase nada”",
     "Investigan a un maquinista que pidió a parte del pasaje de un Rodalies bajar del tren al estar abarrotado"
-   ]
-  },
-  {
-   "term": "supermercados abiertos",
-   "traffic": 2000,
-   "lastSeen": "2026-11-02",
-   "news": [
-    "Horarios especiales de Mercadona para el domingo 1 de noviembre, Todos los Santos, y el lunes 2",
-    "¿Qué supermercados y centros comerciales abren en Córdoba el lunes 2 de noviembre?",
-    "¿Qué tiendas y centros comerciales abren en Málaga este lunes festivo, 2 de noviembre?"
-   ]
-  },
-  {
-   "term": "presentador",
-   "traffic": 2000,
-   "lastSeen": "2026-11-02",
-   "news": [
-    "Carlota Corredera se rompe al hablar de Raúl Triguero: \"Por encima de todo, creo que lo importante es decir cómo era él como persona. Era muy buena persona, muy buen compañero, siempre estaba sonriendo\"",
-    "La noche más difícil de Telecinco: el desgarro de Santi Acosta y Beatriz Archidona por la muerte de Raúl Triguero, \"un amigo, una buena persona\"",
-    "«De Viernes» se despide del periodista Raúl Triguero, muerto en Urda: «Eras el mejor y te ganabas a todo el mundo»"
-   ]
-  },
-  {
-   "term": "matías prats",
-   "traffic": 2000,
-   "lastSeen": "2026-11-02",
-   "news": [
-    "Matías Prats, sobre su patrimonio: «Mi padre vivía para trabajar y yo, para vivir; he invertido en una empresa fotovoltaica junto a unos amigos»",
-    "Matías Prats, sobre su padre y su patrimonio: \"Mi padre vivía para trabajar y yo, para vivir; he invertido en una empresa fotovoltaica junto a unos amigos\""
-   ]
-  },
-  {
-   "term": "clara montes",
-   "traffic": 2000,
-   "lastSeen": "2026-11-02",
-   "news": [
-    "Buenas noticias para Clara Montes, ingresada tras el accidente de tren en Toledo",
-    "La cantante Clara Montes sale de la UCI tras el accidente de tren en Urda: \"Está fuera de peligro\"",
-    "Clara Montes, herida en el accidente de Urda: «Hoy, más que nunca, doy gracias por poder estar aquí»"
    ]
   },
   {
@@ -651,6 +572,26 @@
    ]
   },
   {
+   "term": "vinícius júnior",
+   "traffic": 2000,
+   "lastSeen": "2026-11-17",
+   "news": [
+    "Vinicius hat trick y enfado con Brasil: \"Había acordado jugar 15 minutos más\"",
+    "Vuelve el mejor Vini",
+    "Singapur 0 - Brasil 7: resumen, resultado y goles del partido"
+   ]
+  },
+  {
+   "term": "josé luis rodríguez zapatero",
+   "traffic": 2000,
+   "lastSeen": "2026-11-17",
+   "news": [
+    "Zapatero ficha a dos joyeros de Valencia que tasarán a la baja las joyas que le intervino el juez",
+    "Zapatero pide acceso a sus joyas para que sus peritos elaboren una nueva tasación",
+    "Zapatero solicita al juez Calama que admita a dos peritos propuestos por él para tasar las joyas"
+   ]
+  },
+  {
    "term": "jubilación en españa",
    "traffic": 1000,
    "lastSeen": "2026-11-08",
@@ -668,16 +609,6 @@
     "Dani Mérida se despide de París y de la temporada 2026",
     "ATP Masters 1000 de París - Paul vs. Mérida Aguilar: fecha, hora y dónde ver",
     "Mérida dice adiós a una temporada de ensueño con una severa derrota"
-   ]
-  },
-  {
-   "term": "cinturón de seguridad",
-   "traffic": 1000,
-   "lastSeen": "2026-11-02",
-   "news": [
-    "Por qué los trenes no llevan cinturón de seguridad",
-    "Tras el accidente de tren de Toledo, muchos se preguntan lo mismo: ¿los trenes deben llevar cinturón de seguridad?",
-    "¿Existe un ‘asiento más seguro’ en un tren? En caso de un choque, no es tan sencillo"
    ]
   },
   {
@@ -1018,34 +949,6 @@
     "'La Ruleta' (9.4%) lidera la noche, 'Malas lenguas' (8.8%) resiste y Luján Argüelles (5.7%) destaca en las audiencias de La Séptima",
     "La Séptima marca otro récord en su primer sábado y supera a La 2 con un 3%",
     "Audiencias TV ayer | Luján Argüelles arrasa en La Séptima y gana a Telecinco con su 'Fin de semana' y el tándem Alba Carrillo y Marta Márquez se queda a una décima de laSexta"
-   ]
-  },
-  {
-   "term": "lorenzo musetti",
-   "traffic": 500,
-   "lastSeen": "2026-11-02",
-   "news": [
-    "Licensable picture: Rolex Paris Masters - Day 1",
-    "Licensable picture: SPORTS-TENNIS-ROLEX-PARIS-MASTERS-GASTON-KOPRIVA",
-    "Licensable picture: International Tennis match - TENNIS - ROLEX PARIS MASTERS 2026"
-   ]
-  },
-  {
-   "term": "atp paris",
-   "traffic": 500,
-   "lastSeen": "2026-11-02",
-   "news": [
-    "Cédric Pioline, directeur du Rolex Paris Masters : « La surface est plus rapide cette année, et assez nettement »",
-    "Masters 1000 de Paris : Fils, Cobolli, Jodar, Djokovic… La course au Masters de Turin va se décanter",
-    "Tennis : combien va gagner le vainqueur du Rolex Paris Masters ?"
-   ]
-  },
-  {
-   "term": "norovirus",
-   "traffic": 500,
-   "lastSeen": "2026-11-02",
-   "news": [
-    "Nueve intoxicados por norovirus en Tarragona tras consumir navajas poco cocinadas"
    ]
   },
   {
@@ -1435,16 +1338,6 @@
    ]
   },
   {
-   "term": "vinícius júnior",
-   "traffic": 500,
-   "lastSeen": "2026-11-14",
-   "news": [
-    "¡Ojo al golazo de Vinicius con Brasil!",
-    "Vídeo: un mensaje desde Singapur, Vinicius responde a sus críticos de forma contundente",
-    "Brasil x Japão: onde assistir ao vivo e escalações do amistoso da Seleção"
-   ]
-  },
-  {
    "term": "gijs naber",
    "traffic": 500,
    "lastSeen": "2026-11-14",
@@ -1545,33 +1438,13 @@
    ]
   },
   {
-   "term": "zizou bergs",
-   "traffic": 200,
-   "lastSeen": "2026-11-02",
+   "term": "presupuesto de defensa",
+   "traffic": 500,
+   "lastSeen": "2026-11-17",
    "news": [
-    "̳̳‍‍++[ＬＩＶＥＳｔｒｅａｍ]𝐓𝐕!!] Ignacio Buse VS Zizou Bergs 𝐋𝐈𝐕𝐄 Ｓｔｒｅａｍ",
-    "Tennis, ATP – Rolex Paris Masters 2026: Buse downs Bergs",
-    "Ignacio Buse beats Zizou Bergs at ATP Paris"
-   ]
-  },
-  {
-   "term": "unión sindical de controladores aéreos",
-   "traffic": 200,
-   "lastSeen": "2026-11-02",
-   "news": [
-    "Lola Moreno, controladora aérea (USCA): \"La filtración de los audios del accidente ferroviario es inadmisible e ilegal\"",
-    "La Unión Sindical de Controladores Aéreos celebrará su Congreso Nacional la semana que viene en Palma",
-    "¿Hay controladores suficientes? USCA lo debate en su 38º Congreso en Palma"
-   ]
-  },
-  {
-   "term": "zelda",
-   "traffic": 200,
-   "lastSeen": "2026-11-02",
-   "news": [
-    "'The Legend of Zelda: Ocarina of Time': un remake en el que Nintendo se lo juega todo",
-    "Desvelado el tamaño de Zelda Ocarina of Time Remake para Nintendo Switch 2 junto a otro de los grandes lanzamientos de esta semana",
-    "Eiji Aonuma desvela su preocupación ante el lanzamiento de Ocarina of Time Remake: “No puedo dejar de pensar e"
+    "El Frente Amplio apuesta por reducir el presupuesto militar y convertir las bases de Rota y Morón en polos tecnológicos",
+    "Frente Amplio propone en su programa reducir el gasto militar y reconvertir las bases militares de EEUU, pero no pide salir de la OTAN",
+    "Embargo total de armas a Israel y marcha atrás respecto al Sáhara, promesas de Frente Amplio si gana el 29N"
    ]
   },
   {
@@ -2282,6 +2155,76 @@
     "Sony detalla accesorios premium para PS5 y PC en 2026 con FlexStrike a la cabeza",
     "Target Has Some Cracking PS5 Game Deals For Black Friday",
     "PlayStation Plus Black Friday discounts revealed early, with Premium getting the biggest 33% discount"
+   ]
+  },
+  {
+   "term": "pablo hernández de cos",
+   "traffic": 200,
+   "lastSeen": "2026-11-17",
+   "news": [
+    "Alemania propone al economista Brunnermeier para el Comité Ejecutivo del BCE y el español Hernández de Cos acaricia ya la silla que deja Lagarde",
+    "Amplio consenso para el relevo de Lagarde",
+    "Pablo Hernández de Cos se acerca a la presidencia del BCE con el respaldo de Alemania"
+   ]
+  },
+  {
+   "term": "arthur fils",
+   "traffic": 200,
+   "lastSeen": "2026-11-17",
+   "news": [
+    "Arthur Fils-Rafa Jódar en directo, el partido de las ATP Finals en vivo",
+    "Jódar se juega su supervivencia en las ATP Finals ante su víctima favorita",
+    "Jódar busca seguir con opciones en Turín; Zverev y Shelton juegan por el liderato"
+   ]
+  },
+  {
+   "term": "paga extraordinària",
+   "traffic": 200,
+   "lastSeen": "2026-11-17",
+   "news": [
+    "15.650 pensionistas navarros cobrarán este mes más de 6.000 euros",
+    "El aviso de un funcionario sobre la paga extra de Navidad de los pensionistas: «Será suficiente cobrar un día, solo un día»",
+    "Cuando se cobran las pensiones en noviembre: esta es la fecha"
+   ]
+  },
+  {
+   "term": "ray tintori",
+   "traffic": 200,
+   "lastSeen": "2026-11-17",
+   "news": [
+    "Morto a 43 anni Ray Tintori, regista di videoclip musicali",
+    "Muere el cineasta Ray Tintori, pareja de Heidi Gardner, a los 43 años",
+    "Muere a los 43 años Ray Tintori, cineasta y novio de la actriz Heidi Gardner"
+   ]
+  },
+  {
+   "term": "os mallos",
+   "traffic": 200,
+   "lastSeen": "2026-11-17",
+   "news": [
+    "Dos detenidos por trata de personas en Os Mallos dentro de una operación nacional de la UCO",
+    "La UCO desarrolla una operación contra la explotación sexual en A Coruña, Zaragoza y Alicante",
+    "12:50H | 17 NOVIEMBRE 2026 | HERRERA EN COPE EN A CORUÑA"
+   ]
+  },
+  {
+   "term": "nadir hifi",
+   "traffic": 200,
+   "lastSeen": "2026-11-17",
+   "news": [
+    "Paris aux portes du podium",
+    "Hugo Yimga-Moukouri, Nadir Hifi, le 5 majeur de la 8e journée de Betclic Élite 2026-2027",
+    "Limoges CSP : des flops, du répondant et une ambition"
+   ]
+  },
+  {
+   "term": "george soros",
+   "traffic": 200,
+   "lastSeen": "2026-11-17",
+   "news": [
+    "Soros Joined Family Offices Selling Nvidia Before CEO Exit",
+    "NVIDIA Corporation $NVDA Shares Sold by Warwick Investment Management Inc.",
+    "Soros Family Office Leads Nvidia Holdings Reduction as Philadelphia Semiconductor Index Plunges More Than 5% in a Single Session"
    ]
   },
   {
