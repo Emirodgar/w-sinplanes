@@ -1251,6 +1251,7 @@ plaza-mayor-salamanca:
         - "La Plaza Mayor de Salamanca es una de las más bellas de España y el centro de la vida de la ciudad. Es una plaza barroca de piedra dorada, construida en el siglo XVIII con diseño de Alberto de Churriguera, con soportales continuos y un conjunto muy armónico."
         - "En los arcos y en las fachadas hay medallones con relieves de personajes de la historia de España, y en uno de sus lados se levanta el Ayuntamiento, la Casa Consistorial. De día es un buen punto para tomar un café bajo los soportales, y de noche, con la iluminación, gana mucho."
         - "Este otoño la Casa Consistorial participa en «Las llaves de la ciudad», el programa de visitas del Ayuntamiento (en 2026, del 24 de octubre al 20 de diciembre), que abre algunas de sus dependencias. Consulta siempre la web oficial para horarios y condiciones de visita, que cambian."
+        - "Novedad de Navidad 2026: la plaza vuelve a ser el escenario del videomapping navideño. Se llamará «La rana que detuvo la Navidad», durará unos 10 minutos y se proyectará sobre la fachada del Ayuntamiento y la del Pabellón Real, con las fachadas de toda la plaza iluminadas desde los balcones del Ayuntamiento, efectos de sonido y un cuento locutado. Según la prensa local, que cita el documento de formalización del contrato, es una propuesta parecida a la de 2025, que tuvo un astronauta. Además, un «cielo de estrellas» de luces micro LED cubrirá las cuatro galerías del perímetro, pensado para resaltar la piedra dorada sin saturar el espacio; se repetirá en la calle San Vicente Ferrer, junto a la cabecera de la Catedral. Las luces de Navidad de Salamanca se encienden el 26 de noviembre y se apagan el 5 de enero de 2027. Consulta la web oficial del Ayuntamiento o de Turismo de Salamanca para los pases del videomapping, que no constan en la noticia."
       faq:
         - p: "¿Quién diseñó la Plaza Mayor?"
           r: "Alberto de Churriguera, en el siglo XVIII, dentro del barroco salmantino."
@@ -1260,6 +1261,10 @@ plaza-mayor-salamanca:
           r: "Se abre a visitas durante «Las llaves de la ciudad», que se celebra en otoño. Consulta la web oficial de Turismo de Salamanca para fechas y reservas."
         - p: "¿Cuándo es mejor ir?"
           r: "De día para pasear y tomar un café, y al anochecer, cuando la iluminación resalta la piedra dorada."
+        - p: "¿Qué hay en la Plaza Mayor en Navidad 2026?"
+          r: "Un videomapping de unos 10 minutos, «La rana que detuvo la Navidad», sobre el Ayuntamiento y el Pabellón Real, y un «cielo de estrellas» de luces LED bajo los soportales. Las luces de la ciudad se encienden el 26 de noviembre."
+        - p: "¿Hasta cuándo está la iluminación navideña?"
+          r: "Hasta el 5 de enero de 2027, según el programa publicado por la prensa local."
         - p: "¿Qué más ver cerca?"
           r: "La Casa de las Conchas, la Universidad y las Catedrales, todas a pocos minutos a pie."
 catedrales-salamanca:
@@ -1291,6 +1296,7 @@ casa-las-conchas:
         - "La Casa de las Conchas es uno de los edificios más fotografiados de Salamanca. Es una casa señorial gótica de principios del siglo XVI, con la fachada cubierta de conchas de vieira, un símbolo asociado al Camino de Santiago."
         - "Hoy es una biblioteca pública, así que se puede entrar a su patio interior, con una galería de arcos de aire mudéjar, un buen sitio para parar un momento. Las ventanas con rejas de estilo plateresco completan una fachada que mezcla influencias muy distintas."
         - "Está muy cerca de la Clerecía y de la Universidad, así que es fácil incluirla en un paseo por el centro. Conviene mirar la fachada con luz de tarde, cuando la piedra dorada se ve mejor. Consulta siempre la web oficial para horarios y condiciones de acceso, que cambian."
+        - "Novedad de Navidad 2026: la fachada tendrá una decoración propia, diseñada para la primera infancia. Según el documento del contrato que recoge la prensa local, un baño de luz teñirá la piedra de Villamayor de un azul marino sutil, como un cielo nocturno en tres dimensiones, y se proyectarán haces de luz sobre las conchas, que se encenderán y apagarán despacio al ritmo de villancicos tradicionales. Es el plan perfecto para ver con niños pequeños al anochecer, cuando las luces de Navidad de Salamanca estén encendidas, del 26 de noviembre al 5 de enero de 2027."
       faq:
         - p: "¿Por qué tiene conchas?"
           r: "Las conchas de vieira son el símbolo del Camino de Santiago y decoran la fachada del edificio."
@@ -1298,6 +1304,8 @@ casa-las-conchas:
           r: "Sí, funciona como biblioteca pública y se puede acceder a su patio. Consulta los horarios en la web oficial."
         - p: "¿Cuánto tiempo se necesita?"
           r: "Unos 15 o 30 minutos."
+        - p: "¿Cómo será la Casa de las Conchas en Navidad?"
+          r: "Con un baño de luz azul marino sobre la fachada y haces de luz sobre las conchas que se encienden y apagan con villancicos. Está pensado para los más pequeños y estará hasta el 5 de enero de 2027."
         - p: "¿Qué más ver cerca?"
           r: "La Clerecía, la Universidad, las Catedrales y la Plaza Mayor."
 clerecia:
