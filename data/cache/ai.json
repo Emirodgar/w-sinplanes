@@ -65,6 +65,22 @@
   ],
   "a_cubierto": true
  },
+ "2534774735": {
+  "id": "3a1c3c6d47",
+  "es": {
+   "titulo": "Baile dominguero",
+   "resumen": "Disfruta de un animado baile los domingos en el Centro Intergeneracional Río Esmeralda. Un espacio para socializar y divertirse."
+  },
+  "en": {
+   "titulo": "Sunday Dance",
+   "resumen": "Enjoy a lively dance every Sunday at the Río Esmeralda Intergenerational Center. A space for socializing and having fun."
+  },
+  "temas": [
+   "fiestas",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
  "3198269857": {
   "id": "3a05ff2f45",
   "es": {
@@ -44123,5 +44139,1622 @@
    "cultura"
   ],
   "a_cubierto": null
+ },
+ "4f5c26fea4": {
+  "id": "23e0de29db",
+  "es": {
+   "titulo": "25 días, 25 historias por descubrir",
+   "resumen": "Descubre 25 historias únicas en la Biblioteca Pública Municipal San Fermín. Una oportunidad para explorar narrativas y ampliar tus horizontes culturales."
+  },
+  "en": {
+   "titulo": "25 Days, 25 Stories to Discover",
+   "resumen": "Discover 25 unique stories at the San Fermín Municipal Public Library. An opportunity to explore narratives and broaden your cultural horizons."
+  },
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "ebab1f2c2a": {
+  "id": "b4ccad1472",
+  "es": {
+   "titulo": "Premio de Poesía Francisco de Quevedo 2026",
+   "resumen": "Asiste a la entrega del prestigioso Premio de Poesía Francisco de Quevedo 2026 en la Biblioteca Pública Municipal Eugenio Trías. Un evento para los amantes de la literatura."
+  },
+  "en": {
+   "titulo": "Francisco de Quevedo Poetry Award 2026 Ceremony",
+   "resumen": "Attend the ceremony for the prestigious Francisco de Quevedo Poetry Award 2026 at the Eugenio Trías Municipal Public Library. An event for literature lovers."
+  },
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "a35e903566": {
+  "id": "f08efed69f",
+  "es": {
+   "titulo": "Belén Tradicional con Dioramas",
+   "resumen": "Explora la magia de la Navidad con un belén tradicional que incluye cinco dioramas y un gran belén de 30 m² con río natural. Una obra de arte belenista para todos los públicos."
+  },
+  "en": {
+   "titulo": "Traditional Nativity Scene with Dioramas",
+   "resumen": "Explore the magic of Christmas with a traditional nativity scene featuring five dioramas and a large 30 m² scene with a natural river. A nativity art masterpiece for all ages."
+  },
+  "temas": [
+   "navidad",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "c8b5321146": {
+  "id": "1d4ce20d15",
+  "es": {
+   "titulo": "Belén Monumental Siciliano",
+   "resumen": "Admira un impresionante belén monumental siciliano con más de 120 figuras realistas de Angela Tripi. Una muestra del arte belenista y la cultura mediterránea."
+  },
+  "en": {
+   "titulo": "Sicilian Monumental Nativity Scene",
+   "resumen": "Admire an impressive Sicilian monumental nativity scene with over 120 realistic figures by Angela Tripi. A display of nativity art and Mediterranean culture."
+  },
+  "temas": [
+   "navidad",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "b29b82ad1e": {
+  "id": "19231825a7",
+  "es": {
+   "titulo": "Ciclo de Cine Navideño: Clásicos del Espronceda",
+   "resumen": "Disfruta de un ciclo de cine con temática navideña todos los miércoles en el Centro Cultural Espronceda. Una cita para los amantes del séptimo arte."
+  },
+  "en": {
+   "titulo": "Christmas Film Series: Espronceda Classics",
+   "resumen": "Enjoy a film series with a Christmas theme every Wednesday at the Espronceda Cultural Center. A must-see for cinema lovers."
+  },
+  "temas": [
+   "pantalla",
+   "navidad",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "87d81ae906": {
+  "id": "697e568a22",
+  "es": {
+   "titulo": "Colores primarios",
+   "resumen": "Una proyección en la Cineteca Madrid. Explora la temática de 'Colores primarios' en este evento cinematográfico."
+  },
+  "en": {
+   "titulo": "Primary Colors",
+   "resumen": "A screening at Cineteca Madrid. Explore the theme of 'Primary Colors' in this cinematic event."
+  },
+  "temas": [
+   "pantalla",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "41ecc78755": {
+  "id": "7d44ff3992",
+  "es": {
+   "titulo": "Como todo mortal: Cine y Ciencia Ficción",
+   "resumen": "Una película que entrelaza documental, flamenco y ciencia ficción, explorando paisajes y la explotación de recursos. Con presencia de la directora."
+  },
+  "en": {
+   "titulo": "Like All Mortals: Film and Science Fiction",
+   "resumen": "A film blending documentary, flamenco, and science fiction, exploring landscapes and resource exploitation. With the director present."
+  },
+  "temas": [
+   "pantalla",
+   "cultura",
+   "naturaleza"
+  ],
+  "a_cubierto": true
+ },
+ "11e6fcb6cb": {
+  "id": "a260bdb0e6",
+  "es": {
+   "titulo": "ConversaCiencia: 'Cazando fantasmas' sobre neutrinos",
+   "resumen": "Un debate sobre neutrinos con la científica Clara Cuesta Soria en la Biblioteca Manuel Vázquez Montalbán. Divulgación científica accesible para todos."
+  },
+  "en": {
+   "titulo": "ConversaCiencia: 'Ghost Hunting' on Neutrinos",
+   "resumen": "A discussion about neutrinos with scientist Clara Cuesta Soria at the Manuel Vázquez Montalbán Library. Accessible science outreach for everyone."
+  },
+  "temas": [
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": true
+ },
+ "7507daeba3": {
+  "id": "b76aa80ea9",
+  "es": {
+   "titulo": "EcoGEMS: Medioambiente, Salud y Bienestar",
+   "resumen": "Explora la relación entre medioambiente, salud y bienestar en la Biblioteca Pública Municipal San Fermín. Un evento para reflexionar sobre nuestro entorno."
+  },
+  "en": {
+   "titulo": "EcoGEMS: Environment, Health, and Well-being",
+   "resumen": "Explore the connection between environment, health, and well-being at the San Fermín Municipal Public Library. An event to reflect on our surroundings."
+  },
+  "temas": [
+   "naturaleza",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "3909ff0590": {
+  "id": "115140c129",
+  "es": {
+   "titulo": "El hombre más solitario de la ciudad + The Blessing",
+   "resumen": "Dos proyecciones: 'The Blessing' sobre un refugio colectivo y música, y 'El hombre más solitario de la ciudad' sobre recuerdos y pérdida. En la Cineteca Madrid."
+  },
+  "en": {
+   "titulo": "The Loneliest Man in Town + The Blessing",
+   "resumen": "Two screenings: 'The Blessing' about a collective refuge and music, and 'The Loneliest Man in Town' about memories and loss. At Cineteca Madrid."
+  },
+  "temas": [
+   "pantalla",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "67155bdcfd": {
+  "id": "60a51d234d",
+  "es": {
+   "titulo": "En busca del sol: Aventura infantil",
+   "resumen": "Una aventura infantil sobre igualdad y valentía, donde una niña persigue su sueño de ser piloto. Una historia inspiradora para los más pequeños."
+  },
+  "en": {
+   "titulo": "In Search of the Sun: Children's Adventure",
+   "resumen": "A children's adventure about equality and bravery, where a girl pursues her dream of becoming a pilot. An inspiring story for the little ones."
+  },
+  "temas": [
+   "ninos",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "1d5c3d12a2": {
+  "id": "3e5745283a",
+  "es": {
+   "titulo": "Encendido del Árbol de Navidad en Chamartín",
+   "resumen": "Celebra la Navidad en Chamartín con el encendido del árbol, música de coros y la entrega del premio de tarjetas navideñas. Un evento familiar."
+  },
+  "en": {
+   "titulo": "Christmas Tree Lighting in Chamartín",
+   "resumen": "Celebrate Christmas in Chamartín with the tree lighting ceremony, choir music, and the award for Christmas cards. A family event."
+  },
+  "temas": [
+   "navidad",
+   "fiestas",
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "e58d4a276e": {
+  "id": "ddda3ef5d9",
+  "es": {
+   "titulo": "Encendido Navideño 2026 en Villaverde",
+   "resumen": "El Distrito de Villaverde da la bienvenida a la Navidad con el encendido de luces y la actuación del Coro Songspell en la Plaza de Àgata."
+  },
+  "en": {
+   "titulo": "Christmas Lighting 2026 in Villaverde",
+   "resumen": "The Villaverde District welcomes Christmas with the lighting ceremony and a performance by the Songspell Choir in Plaza de Àgata."
+  },
+  "temas": [
+   "navidad",
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "50b5210505": {
+  "id": "b04826c842",
+  "es": {
+   "titulo": "Escáner: Sesión de Cortometrajes",
+   "resumen": "Una selección de cortometrajes que exploran temas como la infancia, la colonización de Marte y la juventud. Proyecciones en la Cineteca Madrid."
+  },
+  "en": {
+   "titulo": "Scanner: Short Film Session",
+   "resumen": "A selection of short films exploring themes such as childhood, Mars colonization, and youth. Screenings at Cineteca Madrid."
+  },
+  "temas": [
+   "pantalla",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "b527371aba": {
+  "id": "381d61dfb4",
+  "es": {
+   "titulo": "Alumbrado Navideño y Chocolatada",
+   "resumen": "Inauguración del alumbrado navideño con espectáculo musical familiar y encendido del árbol en calle Playa de Aro. Incluye pasacalles y música."
+  },
+  "en": {
+   "titulo": "Christmas Lights and Hot Chocolate",
+   "resumen": "Inauguration of the Christmas lights with a family musical show and tree lighting on Playa de Aro street. Includes a parade and music."
+  },
+  "temas": [
+   "navidad",
+   "fiestas",
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "a1d9b263c1": {
+  "id": "2dfec7171d",
+  "es": {
+   "titulo": "Jazz de Tres: Tributo a Disney",
+   "resumen": "Disfruta de un concierto de jazz con un tributo a las canciones de Disney en el Salón de Actos. Un evento para todos los públicos."
+  },
+  "en": {
+   "titulo": "Jazz de Tres: Disney Tribute",
+   "resumen": "Enjoy a jazz concert with a tribute to Disney songs in the Auditorium Hall. An event for all audiences."
+  },
+  "temas": [
+   "musica",
+   "ninos"
+  ],
+  "a_cubierto": true
+ },
+ "f212b9a6de": {
+  "id": "417619255f",
+  "es": {
+   "titulo": "Juegos, talleres y cuentacuentos en Plaza de Daoíz y Velarde",
+   "resumen": "Actividades infantiles el domingo 22 de noviembre: juegos, talleres creativos, cuentacuentos y atracciones. Entrada libre."
+  },
+  "en": {
+   "titulo": "Games, Workshops, and Storytelling",
+   "resumen": "Children's activities on Sunday, November 22nd: games, creative workshops, storytelling, and attractions. Free entry."
+  },
+  "temas": [
+   "ninos",
+   "actividades",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "4754f5060a": {
+  "id": "81ab9324a7",
+  "es": {
+   "titulo": "Crónica del cansancio + Las islas afortunadas",
+   "resumen": "Dos documentales en la Cineteca Madrid: 'Crónica del cansancio' sobre vivienda y 'Las islas afortunadas' sobre la lucha por la supervivencia en Canarias."
+  },
+  "en": {
+   "titulo": "Chronicle of Tiredness + The Fortunate Islands",
+   "resumen": "Two documentaries at Cineteca Madrid: 'Chronicle of Tiredness' about housing and 'The Fortunate Islands' about the struggle for survival in the Canary Islands."
+  },
+  "temas": [
+   "pantalla",
+   "cultura",
+   "naturaleza"
+  ],
+  "a_cubierto": true
+ },
+ "3f9533bc3d": {
+  "id": "1131b25ba6",
+  "es": {
+   "titulo": "Lejos de los árboles: Viaje sonoro y personal",
+   "resumen": "Una artista sonora mexicana viaja por los Andes siguiendo el legado de su abuelo, creando un mapa sonoro de lenguas en peligro. Un viaje íntimo."
+  },
+  "en": {
+   "titulo": "Far from the Trees: Sonic and Personal Journey",
+   "resumen": "A Mexican sound artist travels through the Andes following her grandfather's legacy, creating a sound map of endangered languages. An intimate journey."
+  },
+  "temas": [
+   "pantalla",
+   "cultura",
+   "naturaleza"
+  ],
+  "a_cubierto": true
+ },
+ "15847f4a0d": {
+  "id": "a7b7a1ef17",
+  "es": {
+   "titulo": "Magia, talleres, juegos y espectáculos en Plaza de Daoíz y Velarde",
+   "resumen": "Programa de actividades para el fin de semana: espectáculos de magia, talleres creativos, juegos y animación familiar. Entrada libre."
+  },
+  "en": {
+   "titulo": "Magic, Workshops, Games, and Shows",
+   "resumen": "Weekend activity program: magic shows, creative workshops, games, and family entertainment. Free entry."
+  },
+  "temas": [
+   "ninos",
+   "actividades",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "92d751a454": {
+  "id": "3597715cf6",
+  "es": {
+   "titulo": "El Tardeo Flamenco: Montoya y Carmona",
+   "resumen": "Disfruta de un espectáculo de flamenco fresco y vibrante con Montoya y Carmona, que repasan sus temas y versiones de grandes del Nuevo Flamenco."
+  },
+  "en": {
+   "titulo": "Flamenco Afternoon: Montoya and Carmona",
+   "resumen": "Enjoy a fresh and vibrant flamenco show with Montoya and Carmona, who perform their own songs and covers of New Flamenco greats."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "d04e54553b": {
+  "id": "d69a981eee",
+  "es": {
+   "titulo": "MRGente 1: Cortometrajes sobre familia y tradición",
+   "resumen": "Una selección de cortometrajes que exploran la vida de feriantes, la adaptación tras la cárcel y la infancia junto a un río. En la Cineteca Madrid."
+  },
+  "en": {
+   "titulo": "MRGente 1: Short Films on Family and Tradition",
+   "resumen": "A selection of short films exploring the lives of fairground workers, adaptation after prison, and childhood by a river. At Cineteca Madrid."
+  },
+  "temas": [
+   "pantalla",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "4cb524424f": {
+  "id": "ab352f0de7",
+  "es": {
+   "titulo": "MRGente 2: Cortometrajes sobre adicción y búsqueda",
+   "resumen": "Cortometrajes que abordan la adicción a las pantallas, la búsqueda de identidad y la conexión con el pasado familiar. En la Cineteca Madrid."
+  },
+  "en": {
+   "titulo": "MRGente 2: Short Films on Addiction and Search",
+   "resumen": "Short films addressing screen addiction, the search for identity, and connection with family history. At Cineteca Madrid."
+  },
+  "temas": [
+   "pantalla",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "14184983ff": {
+  "id": "774132a087",
+  "es": {
+   "titulo": "MRGente 3: Cortometrajes sobre danza y paisaje",
+   "resumen": "Cortometrajes que exploran la historia del ballet, la experiencia femenina nocturna y los misterios de la huerta valenciana. En la Cineteca Madrid."
+  },
+  "en": {
+   "titulo": "MRGente 3: Short Films on Dance and Landscape",
+   "resumen": "Short films exploring the history of ballet, the female nocturnal experience, and the mysteries of the Valencian orchard. At Cineteca Madrid."
+  },
+  "temas": [
+   "pantalla",
+   "cultura",
+   "naturaleza"
+  ],
+  "a_cubierto": true
+ },
+ "6160474bc3": {
+  "id": "42f97c9293",
+  "es": {
+   "titulo": "Navidad en Villaverde",
+   "resumen": "Celebra la Navidad en el barrio de Villaverde. Disfruta de las actividades y el ambiente festivo que se organiza en la zona."
+  },
+  "en": {
+   "titulo": "Christmas in Villaverde",
+   "resumen": "Celebrate Christmas in the Villaverde neighborhood. Enjoy the activities and festive atmosphere organized in the area."
+  },
+  "temas": [
+   "fiestas",
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "490e23077e": {
+  "id": "31e98f4e7a",
+  "es": {
+   "titulo": "Nika Rodríguez en formato íntimo",
+   "resumen": "La artista madrileña Nika Rodríguez, conocida por Operación Triunfo y La Edad de Oro del Pop Español, ofrece un concierto íntimo. Disfruta de su talento con canciones propias y versiones en un ambiente cercano."
+  },
+  "en": {
+   "titulo": "Nika Rodríguez in an intimate format",
+   "resumen": "Madrid artist Nika Rodríguez, known from Operación Triunfo and La Edad de Oro del Pop Español, offers an intimate concert. Enjoy her talent with original songs and covers in a close atmosphere."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "3674d72f9f": {
+  "id": "cfc68aab91",
+  "es": {
+   "titulo": "No es Krahe y no es Sabina… pero en algo rima",
+   "resumen": "Un evento en la Biblioteca Musical Víctor Espinós. El título sugiere una velada musical o literaria inspirada en los estilos de Joaquín Sabina y Javier Krahe."
+  },
+  "en": {
+   "titulo": "It's not Krahe and it's not Sabina... but it rhymes somehow",
+   "resumen": "An event at the Víctor Espinós Musical Library. The title suggests a musical or literary evening inspired by the styles of Joaquín Sabina and Javier Krahe."
+  },
+  "temas": [
+   "musica",
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": true
+ },
+ "6709db906a": {
+  "id": "c568c64123",
+  "es": {
+   "titulo": "Normal Planet + A Day in the Life of Jo",
+   "resumen": "Doble sesión de cine: 'A Day in the Life of Jo' sigue a una adolescente en Atenas, mezclando realidad y ensueño. 'Normal Planet' explora un museo virtual a través de la mirada de un pez."
+  },
+  "en": {
+   "titulo": "Normal Planet + A Day in the Life of Jo",
+   "resumen": "Double film screening: 'A Day in the Life of Jo' follows a teenager in Athens, blending reality and dreams. 'Normal Planet' explores a virtual museum through the eyes of a fish."
+  },
+  "temas": [
+   "pantalla",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "0f525d084e": {
+  "id": "ec4943a34a",
+  "es": {
+   "titulo": "Presentación de las Residencias de Cine 2026",
+   "resumen": "La Cineteca Madrid presenta las Residencias de Cine 2026. Un evento para conocer los proyectos y creadores seleccionados para este programa."
+  },
+  "en": {
+   "titulo": "Presentation of the 2026 Film Residencies",
+   "resumen": "Cineteca Madrid presents the 2026 Film Residencies. An event to learn about the selected projects and creators for this program."
+  },
+  "temas": [
+   "pantalla",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "08fc601e25": {
+  "id": "4437e17233",
+  "es": {
+   "titulo": "Presentación del libro 'La marquesa y Bonaparte'",
+   "resumen": "Presentación en el Museo de Historia de Madrid del libro de María José Rubio sobre la relación entre la marquesa de Santa Cruz y Luciano Bonaparte en el Madrid de 1800."
+  },
+  "en": {
+   "titulo": "Book presentation: 'La marquesa y Bonaparte'",
+   "resumen": "Presentation at the Museum of History of Madrid of María José Rubio's book about the relationship between the Marquise of Santa Cruz and Luciano Bonaparte in Madrid in 1800."
+  },
+  "temas": [
+   "libros",
+   "cultura",
+   "historia"
+  ],
+  "a_cubierto": true
+ },
+ "c429d576ac": {
+  "id": "bd21ea46ab",
+  "es": {
+   "titulo": "Providence and the Guitar",
+   "resumen": "El director João Nicolau adapta un relato de Robert Louis Stevenson en 'Providence and the Guitar'. Un viaje que mezcla pasado y presente, celebrando la creatividad y el arte independiente."
+  },
+  "en": {
+   "titulo": "Providence and the Guitar",
+   "resumen": "Director João Nicolau adapts a Robert Louis Stevenson story in 'Providence and the Guitar'. A journey blending past and present, celebrating creativity and independent art."
+  },
+  "temas": [
+   "pantalla",
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "87fa7ee870": {
+  "id": "4cefe04149",
+  "es": {
+   "titulo": "Reunión: La oficina verde en tu distrito",
+   "resumen": "Encuentro sobre sostenibilidad y ecología en el Centro Cultural Villa de Barajas. Participa en la iniciativa 'La oficina verde en tu distrito'."
+  },
+  "en": {
+   "titulo": "Meeting: The green office in your district",
+   "resumen": "A meeting about sustainability and ecology at the Villa de Barajas Cultural Center. Participate in the 'The green office in your district' initiative."
+  },
+  "temas": [
+   "naturaleza",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "64b50e358f": {
+  "id": "99213d1845",
+  "es": {
+   "titulo": "Rompe el silencio",
+   "resumen": "Tres personas comparten sus traumas más secretos en un lugar experimental. Una obra que aborda el acoso laboral, el maltrato psicológico y físico."
+  },
+  "en": {
+   "titulo": "Break the silence",
+   "resumen": "Three individuals share their deepest traumas in an experimental space. A play addressing workplace harassment, psychological, and physical abuse."
+  },
+  "temas": [
+   "cultura",
+   "teatro"
+  ],
+  "a_cubierto": true
+ },
+ "40e210462e": {
+  "id": "981c1aad61",
+  "es": {
+   "titulo": "Sesiones temáticas de huerto",
+   "resumen": "Profundiza en temas de huerto, alimentación sostenible y biodiversidad en el Aula Ambiental La Cabaña del Retiro. Sesiones participativas para público adulto."
+  },
+  "en": {
+   "titulo": "Themed garden sessions",
+   "resumen": "Delve into topics of gardening, sustainable food, and biodiversity at the La Cabaña del Retiro Environmental Classroom. Participatory sessions for adults."
+  },
+  "temas": [
+   "naturaleza",
+   "actividades",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "762b784159": {
+  "id": "e1030c76d4",
+  "es": {
+   "titulo": "SUSPENDIDO POR OBRAS: Alma Flamenca",
+   "resumen": "El espectáculo de flamenco 'Alma Flamenca' en el Centro Sociocultural El Greco queda suspendido por obras. Se informará de su reprogramación."
+  },
+  "en": {
+   "titulo": "SUSPENDED DUE TO WORKS: Alma Flamenca",
+   "resumen": "The flamenco show 'Alma Flamenca' at the El Greco Sociocultural Center is suspended due to construction work. Rescheduling information will be provided."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "18011470b5": {
+  "id": "3a93ba6618",
+  "es": {
+   "titulo": "TALLERES DINÁMICOS «Las frecuencias altas» CON L-ABE",
+   "resumen": "Participa en los talleres dinámicos 'Las frecuencias altas' impartidos por L-ABE en el Centro de Cultura Contemporánea CondeDuque."
+  },
+  "en": {
+   "titulo": "DYNAMIC WORKSHOPS 'High Frequencies' WITH L-ABE",
+   "resumen": "Participate in the dynamic workshops 'High Frequencies' led by L-ABE at the CondeDuque Contemporary Culture Center."
+  },
+  "temas": [
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "af916b738e": {
+  "id": "7d23498185",
+  "es": {
+   "titulo": "Todo es cárcel",
+   "resumen": "Película que combina ficción y documental sobre los campos de concentración franquistas, explorando las heridas de la guerra a través de la historia de Elsa, Carmen y Ángel."
+  },
+  "en": {
+   "titulo": "Todo es cárcel",
+   "resumen": "A film blending fiction and documentary about Francoist concentration camps, exploring the wounds of war through the story of Elsa, Carmen, and Ángel."
+  },
+  "temas": [
+   "pantalla",
+   "cultura",
+   "historia"
+  ],
+  "a_cubierto": true
+ },
+ "e3685ee477": {
+  "id": "5dff2895d9",
+  "es": {
+   "titulo": "Una muestra de mis acuarelas preferidas",
+   "resumen": "Exposición de acuarelas de Icíar Cámara en el Centro Cultural Hortaleza. La artista presenta paisajes, escenas urbanas y naturalezas pintadas con su técnica preferida."
+  },
+  "en": {
+   "titulo": "A selection of my favorite watercolors",
+   "resumen": "Watercolor exhibition by Icíar Cámara at the Hortaleza Cultural Center. The artist presents landscapes, urban scenes, and nature painted in her favorite technique."
+  },
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true
+ },
+ "ca34d04987": {
+  "id": "6f0b4c3310",
+  "es": {
+   "titulo": "Zambomba Flamenca en Barajas",
+   "resumen": "Disfruta de una Zambomba Flamenca en la calle Pradoluengo, en el barrio del Aeropuerto de Madrid. Un evento para todos los públicos."
+  },
+  "en": {
+   "titulo": "Zambomba Flamenca in Barajas",
+   "resumen": "Enjoy a Zambomba Flamenca on Pradoluengo Street, in Madrid's Airport neighborhood. An event for all audiences."
+  },
+  "temas": [
+   "musica",
+   "fiestas",
+   "cultura"
+  ],
+  "a_cubierto": false
+ },
+ "a93984434b": {
+  "id": "2ea1046a85",
+  "es": {
+   "titulo": "'Anatomía de las Sombras' por Celia Esgar",
+   "resumen": "Conferencia en la Biblioteca Pública Municipal Ángel González sobre los mitos de la literatura gótica, impartida por Celia Esgar."
+  },
+  "en": {
+   "titulo": "'Anatomy of Shadows' by Celia Esgar",
+   "resumen": "Lecture at the Ángel González Municipal Public Library on the myths of gothic literature, given by Celia Esgar."
+  },
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "5872acefe5": {
+  "id": "6f24a705af",
+  "es": {
+   "titulo": "'La IA es tu esclava' de Jesús León Álvaro",
+   "resumen": "Presentación del libro sobre Inteligencia Artificial y Neurociencia en la Biblioteca Pública Municipal Miguel Delibes. Aprende a controlar tus capacidades mentales en la era digital."
+  },
+  "en": {
+   "titulo": "'AI is your slave' by Jesús León Álvaro",
+   "resumen": "Presentation of the book on Artificial Intelligence and Neuroscience at the Miguel Delibes Municipal Public Library. Learn to control your mental capacities in the digital age."
+  },
+  "temas": [
+   "pantalla",
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "1c0a0e8703": {
+  "id": "0e8f506528",
+  "es": {
+   "titulo": "'La IA es tu esclava' de Jesús León Álvaro",
+   "resumen": "Conferencia en la Biblioteca Pública Municipal José Hierro para presentar el libro 'La IA es tu esclava'. Divulgación sobre IA y su impacto en el cerebro con ejercicios prácticos."
+  },
+  "en": {
+   "titulo": "'AI is your slave' by Jesús León Álvaro",
+   "resumen": "Conference at the José Hierro Municipal Public Library to present the book 'AI is your slave'. Information on AI and its impact on the brain with practical exercises."
+  },
+  "temas": [
+   "pantalla",
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "64b174330d": {
+  "id": "60c9d368c1",
+  "es": {
+   "titulo": "'Las ignoradas entre los ignorados' por Mesa Memoria Histórica",
+   "resumen": "La Asociación Mesa Memoria Histórica del Distrito Latina presenta en la Biblioteca Pública Municipal Ángel González un acto sobre memoria histórica."
+  },
+  "en": {
+   "titulo": "'The ignored among the ignored' by Historical Memory Association",
+   "resumen": "The Historical Memory Association of the Latina District presents an event on historical memory at the Ángel González Municipal Public Library."
+  },
+  "temas": [
+   "cultura",
+   "historia"
+  ],
+  "a_cubierto": true
+ },
+ "02959d3ef6": {
+  "id": "7bb556450c",
+  "es": {
+   "titulo": "'Palabras de la diversidad' de varios autores",
+   "resumen": "Presentación de 'Palabras de la diversidad', una obra colectiva con textos de varios autores en la Biblioteca Pública Municipal David Gistau."
+  },
+  "en": {
+   "titulo": "'Words of diversity' by various authors",
+   "resumen": "Presentation of 'Words of diversity', a collective work with texts by various authors at the David Gistau Municipal Public Library."
+  },
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "7e9da87753": {
+  "id": "281786de9f",
+  "es": {
+   "titulo": "¡Ya verás!",
+   "resumen": "Un evento o proyección en la Cineteca Madrid. El título sugiere una experiencia visual o narrativa sorprendente."
+  },
+  "en": {
+   "titulo": "You'll see!",
+   "resumen": "An event or screening at Cineteca Madrid. The title suggests a surprising visual or narrative experience."
+  },
+  "temas": [
+   "pantalla",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "588ebb24ca": {
+  "id": "27cebabe59",
+  "es": {
+   "titulo": "40 Certamen Coreográfico de Madrid",
+   "resumen": "El Centro de Cultura Contemporánea CondeDuque acoge el 40 Certamen Coreográfico de Madrid, un evento dedicado a la danza y la creación coreográfica."
+  },
+  "en": {
+   "titulo": "40th Madrid Choreographic Contest",
+   "resumen": "The CondeDuque Contemporary Culture Center hosts the 40th Madrid Choreographic Contest, an event dedicated to dance and choreographic creation."
+  },
+  "temas": [
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "c80752cdd9": {
+  "id": "514083b801",
+  "es": {
+   "titulo": "Violencias contra las mujeres: sustrato común",
+   "resumen": "Conferencia en la Biblioteca Pública de Salamanca sobre la violencia y la prostitución, impartida por Carmen Delgado Álvarez, investigadora en violencia de género."
+  },
+  "en": {
+   "titulo": "Violence against women: common substrate",
+   "resumen": "Lecture at the Salamanca Public Library on violence and prostitution, given by Carmen Delgado Álvarez, a researcher in gender violence."
+  },
+  "temas": [
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": true
+ },
+ "a93e13e4d5": {
+  "id": "f54f036d22",
+  "es": {
+   "titulo": "Presentación libro 'Historias para recordar'",
+   "resumen": "Presentación en la Biblioteca Pública de Salamanca del libro 'Historias para recordar' de Catalina Casares, con la participación de protagonistas y la Fundación Colisée."
+  },
+  "en": {
+   "titulo": "Book presentation 'Stories to remember'",
+   "resumen": "Presentation at the Salamanca Public Library of the book 'Stories to remember' by Catalina Casares, with the participation of protagonists and the Colisée Foundation."
+  },
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "b01a4108c4": {
+  "id": "5963d6b80c",
+  "es": {
+   "titulo": "Talleres de nuevas tecnologías en Zamora",
+   "resumen": "La Biblioteca Pública de Zamora ofrece talleres prácticos sobre nuevas tecnologías e inteligencia artificial para facilitar la vida digital. Aprende sobre móvil, internet, compras y banca online."
+  },
+  "en": {
+   "titulo": "New technologies workshops in Zamora",
+   "resumen": "The Zamora Public Library offers practical workshops on new technologies and artificial intelligence to facilitate digital life. Learn about mobile phones, internet, online shopping, and banking."
+  },
+  "temas": [
+   "pantalla",
+   "actividades",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "2a71cfff8b": {
+  "id": "122423b846",
+  "es": {
+   "titulo": "Exposición sobre el filósofo George Santayana en Ávila",
+   "resumen": "El Archivo Histórico Provincial de Ávila acoge la primera exposición monográfica en España sobre el influyente filósofo George Santayana. La muestra, que incluye obras, cartas y estudios, servirá de base para la creación de la primera Biblioteca Santayana."
+  },
+  "en": {
+   "titulo": "Exhibition on philosopher George Santayana in Ávila",
+   "resumen": "The Provincial Historical Archive of Ávila hosts the first monographic exhibition in Spain on the influential philosopher George Santayana. The exhibition, featuring works, letters, and studies, will form the basis for the creation of the first Santayana Library."
+  },
+  "temas": [
+   "cultura",
+   "libros",
+   "museos"
+  ],
+  "a_cubierto": null
+ },
+ "e969b7c4e6": {
+  "id": "4df150ff75",
+  "es": {
+   "titulo": "Ciclo de cine 'Ciclo de cine en violeta' en Burgos",
+   "resumen": "Se proyectarán cortometrajes como 'Camino de regreso' y 'Las atrevidas. Ecos de libertad', abordando temas de memoria histórica, violencia de género y migración. Una actividad organizada por la Coordinadora de ONGD de Castilla y León."
+  },
+  "en": {
+   "titulo": "Film series 'Ciclo de cine en violeta' in Burgos",
+   "resumen": "Short films such as 'Camino de regreso' and 'Las atrevidas. Ecos de libertad' will be screened, addressing themes of historical memory, gender violence, and migration. An activity organized by the Coordinator of ONGDs of Castilla y León."
+  },
+  "temas": [
+   "pantalla",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "4b9c6e1cf2": {
+  "id": "b6c47c9341",
+  "es": {
+   "titulo": "Presentación del cuento infantil 'Marco y el Club de los Valientes' en León",
+   "resumen": "La Biblioteca Pública de León acoge la presentación del cuento infantil 'Marco y el Club de los Valientes', escrito por M del Carmen de Prada Calleja. Una historia para niños de 4 a 10 años sobre el miedo a equivocarse."
+  },
+  "en": {
+   "titulo": "Presentation of the children's book 'Marco y el Club de los Valientes' in León",
+   "resumen": "The Public Library of León hosts the presentation of the children's book 'Marco y el Club de los Valientes', written by M del Carmen de Prada Calleja. A story for children aged 4 to 10 about the fear of making mistakes."
+  },
+  "temas": [
+   "libros",
+   "ninos",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "d42659ee1c": {
+  "id": "db22312be8",
+  "es": {
+   "titulo": "Exposición fotográfica 'El Hombre de Arena' en Palencia",
+   "resumen": "La Biblioteca Pública de Palencia exhibe 'El Hombre de Arena' de Alberto García, una muestra fotográfica que reflexiona sobre la fragilidad de la memoria histórica y el abandono del patrimonio a través de diversos enclaves de Castilla."
+  },
+  "en": {
+   "titulo": "Photographic exhibition 'El Hombre de Arena' in Palencia",
+   "resumen": "The Public Library of Palencia exhibits 'El Hombre de Arena' by Alberto García, a photographic display that reflects on the fragility of historical memory and the abandonment of heritage through various sites in Castilla."
+  },
+  "temas": [
+   "cultura",
+   "museos",
+   "rutas"
+  ],
+  "a_cubierto": true
+ },
+ "75cd89c443": {
+  "id": "8a8c0dc797",
+  "es": {
+   "titulo": "Mesa redonda sobre literatura y medioambiente en Segovia",
+   "resumen": "La Biblioteca Pública de Segovia organiza una mesa redonda sobre las conexiones entre literatura y medioambiente, explorando cómo la escritura puede generar sensibilidad ecológica y fortalecer el vínculo con la naturaleza."
+  },
+  "en": {
+   "titulo": "Round table on literature and environment in Segovia",
+   "resumen": "The Public Library of Segovia organizes a round table on the connections between literature and the environment, exploring how writing can generate ecological sensitivity and strengthen the bond with nature."
+  },
+  "temas": [
+   "libros",
+   "naturaleza",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "1af719b1ac": {
+  "id": "4b04446e69",
+  "es": {
+   "titulo": "Taller de escritura 'Noticias desde el alcorque' en Segovia",
+   "resumen": "Un taller de escritura creativa en la Biblioteca Pública de Segovia para imaginar historias contadas por árboles urbanos. Una actividad para mirar la naturaleza de otra manera y conectar con el entorno."
+  },
+  "en": {
+   "titulo": "Writing workshop 'Noticias desde el alcorque' in Segovia",
+   "resumen": "A creative writing workshop at the Public Library of Segovia to imagine stories told by urban trees. An activity to look at nature differently and connect with the environment."
+  },
+  "temas": [
+   "libros",
+   "naturaleza",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "12d8c9a44c": {
+  "id": "e223574a90",
+  "es": {
+   "titulo": "Espectáculo '18036 Bernarda' en Zamora",
+   "resumen": "La compañía Lola Eiffel Company presenta '18036 Bernarda', una obra de danza contemporánea y teatro que evoca un 'grito a la libertad' a través de la historia de una mujer marcada por la guerra y el exilio."
+  },
+  "en": {
+   "titulo": "Performance '18036 Bernarda' in Zamora",
+   "resumen": "The Lola Eiffel Company presents '18036 Bernarda', a contemporary dance and theater piece that evokes a 'cry for freedom' through the story of a woman marked by war and exile."
+  },
+  "temas": [
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "c1e967e825": {
+  "id": "67b94222c0",
+  "es": {
+   "titulo": "Espectáculo de improvisación 'Impro impar show (2+1)' en El Tiemblo",
+   "resumen": "El Auditorio Villa de El Tiemblo presenta 'Impro impar show (2+1)', un espectáculo cómico de teatro de improvisación donde todo es inventado al momento, garantizando risas y diversión."
+  },
+  "en": {
+   "titulo": "Improvisation show 'Impro impar show (2+1)' in El Tiemblo",
+   "resumen": "The Villa de El Tiemblo Auditorium presents 'Impro impar show (2+1)', a comedic improvisation theater show where everything is invented on the spot, guaranteeing laughter and fun."
+  },
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": true
+ },
+ "16eed6a9e4": {
+  "id": "e2755a0528",
+  "es": {
+   "titulo": "Espectáculo de clown 'Ridi pagliaccio' en Boñar",
+   "resumen": "El espectáculo 'Ridi pagliaccio' de ASACO PRODUCCIONES trae a Boñar un dúo de payasos que, inspirados en la ópera, buscan hacer reír al público a pesar de sus corazones rotos, mezclando risas, lágrimas y música."
+  },
+  "en": {
+   "titulo": "Clown show 'Ridi pagliaccio' in Boñar",
+   "resumen": "The show 'Ridi pagliaccio' by ASACO PRODUCCIONES brings to Boñar a clown duo who, inspired by opera, aim to make the audience laugh despite their broken hearts, mixing laughter, tears, and music."
+  },
+  "temas": [
+   "cultura",
+   "ninos"
+  ],
+  "a_cubierto": true
+ },
+ "ddf63c6a7f": {
+  "id": "2cbef50bf0",
+  "es": {
+   "titulo": "Espectáculo teatral 'Sobre vientos y viajes' en Azadinos",
+   "resumen": "El Auditorio de Sariegos acoge 'Sobre vientos y viajes', una obra multidisciplinar de MAISA MARBÁN que reflexiona sobre la vida como un viaje, invitando a perderse por rutas imprecisas y a dejarse llevar por el asombro."
+  },
+  "en": {
+   "titulo": "Theater show 'Sobre vientos y viajes' in Azadinos",
+   "resumen": "The Sariegos Auditorium hosts 'Sobre vientos y viajes', a multidisciplinary work by MAISA MARBÁN that reflects on life as a journey, inviting audiences to get lost on imprecise routes and embrace wonder."
+  },
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": true
+ },
+ "d9a05932ec": {
+  "id": "198fc4bb64",
+  "es": {
+   "titulo": "Pieza destacada: Falera Romana en el Museo de Ávila",
+   "resumen": "El Museo de Ávila expone una falera de bronce, un elemento de indumentaria militar romana hallado en San Pedro del Arroyo. La pieza documenta la importancia del poblamiento tardorromano en la comarca abulense."
+  },
+  "en": {
+   "titulo": "Featured piece: Roman Falera at the Museum of Ávila",
+   "resumen": "The Museum of Ávila exhibits a bronze falera, a Roman military clothing item found in San Pedro del Arroyo. The piece documents the importance of late Roman settlement in the Ávila region."
+  },
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true
+ },
+ "c1860a6dd3": {
+  "id": "fd90375756",
+  "es": {
+   "titulo": "Club de lectura sobre 'Comerás flores' en Salamanca",
+   "resumen": "La Biblioteca Pública de Salamanca organiza, en colaboración con la Escuela Oficial de Idiomas, un club de lectura sobre el libro 'Comerás flores' de Lucía Solla Sobral."
+  },
+  "en": {
+   "titulo": "Reading club on 'Comerás flores' in Salamanca",
+   "resumen": "The Public Library of Salamanca, in collaboration with the Official School of Languages, organizes a reading club on the book 'Comerás flores' by Lucía Solla Sobral."
+  },
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "e4fe8824d0": {
+  "id": "7fccec6647",
+  "es": {
+   "titulo": "Encuentro con Txabi Arnal en Salamanca",
+   "resumen": "La Biblioteca Pública de Salamanca acoge un encuentro con Txabi Arnal, profesor de Literatura Infantil y Juvenil, bajo el lema '¡Viva el amor libro!', explorando las diversas formas del amor en la literatura."
+  },
+  "en": {
+   "titulo": "Meeting with Txabi Arnal in Salamanca",
+   "resumen": "The Public Library of Salamanca hosts a meeting with Txabi Arnal, a professor of Children's and Young Adult Literature, under the slogan 'Long live the love of books!', exploring the diverse forms of love in literature."
+  },
+  "temas": [
+   "libros",
+   "cultura",
+   "ninos"
+  ],
+  "a_cubierto": true
+ },
+ "e5fb898420": {
+  "id": "d00c97420d",
+  "es": {
+   "titulo": "Biblioteca Humana sobre agroalimentación en Zamora",
+   "resumen": "La Biblioteca Pública de Zamora celebra una 'Biblioteca Humana' donde dos personas del sistema agroalimentario local y una del Sur Global compartirán sus experiencias sobre producción de alimentos, territorio y sostenibilidad."
+  },
+  "en": {
+   "titulo": "Human Library on agri-food systems in Zamora",
+   "resumen": "The Public Library of Zamora holds a 'Human Library' where two individuals from the local agri-food system and one from the Global South will share their experiences on food production, territory, and sustainability."
+  },
+  "temas": [
+   "cultura",
+   "gastronomia"
+  ],
+  "a_cubierto": true
+ },
+ "89e13cdf13": {
+  "id": "a5198e023d",
+  "es": {
+   "titulo": "Presentación del libro de poemas 'Cristal y secano' en Zamora",
+   "resumen": "La Biblioteca Pública de Zamora acoge la presentación de 'Cristal y secano', poemario de Eva Pérez Cepeda que narra la crónica íntima de un amor a través de paisajes y emociones, explorando el duelo y el renacimiento."
+  },
+  "en": {
+   "titulo": "Presentation of the poetry book 'Cristal y secano' in Zamora",
+   "resumen": "The Public Library of Zamora hosts the presentation of 'Cristal y secano', a poetry collection by Eva Pérez Cepeda that narrates the intimate chronicle of a love through landscapes and emotions, exploring grief and rebirth."
+  },
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "a5b56721fb": {
+  "id": "4a591a9f4c",
+  "es": {
+   "titulo": "Bertso saio marraztua en Zizur Mayor",
+   "resumen": "Dos bertsolaris y un dibujante improvisan en la Casa de Cultura de Zizur Mayor. La ilustración provoca al bertso y el bertso a la ilustración en un espectáculo único."
+  },
+  "en": {
+   "titulo": "Illustrated bertso performance in Zizur Mayor",
+   "resumen": "Two bertsolaris (Basque improvisational singers) and an illustrator improvise at the Zizur Mayor Cultural Center. The illustration provokes the bertso, and the bertso provokes the illustration in a unique performance."
+  },
+  "temas": [
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "69dd7e88fd": {
+  "id": "9da5838c3f",
+  "es": {
+   "titulo": "Literaktum 2026: 'Río Rojo' en Donostia / San Sebastián",
+   "resumen": "Ernesto Is presenta 'Río Rojo', obra ganadora de un premio literario, que explora la grabación de 'El bueno, el feo y el malo' y la memoria de la represión franquista. Incluye una performance sonora de Inko Martín."
+  },
+  "en": {
+   "titulo": "Literaktum 2026: 'Río Rojo' in Donostia / San Sebastián",
+   "resumen": "Ernesto Is presents 'Río Rojo', an award-winning literary work, exploring the filming of 'The Good, the Bad and the Ugly' and the memory of Francoist repression. Includes a live sound performance by Inko Martín."
+  },
+  "temas": [
+   "cultura",
+   "libros",
+   "pantalla"
+  ],
+  "a_cubierto": true
+ },
+ "5a733528bb": {
+  "id": "c410189fdc",
+  "es": {
+   "titulo": "Presentación del cómic 'El Viaje' de Paco Roca en Bilbao",
+   "resumen": "Bidebarrieta Kulturgunea en Bilbao acoge la presentación del cómic 'El Viaje' de Paco Roca, con la intervención de Koldo Azpitarte."
+  },
+  "en": {
+   "titulo": "Presentation of the comic 'El Viaje' by Paco Roca in Bilbao",
+   "resumen": "Bidebarrieta Kulturgunea in Bilbao hosts the presentation of the comic 'El Viaje' by Paco Roca, with Koldo Azpitarte presenting."
+  },
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "33194586a7": {
+  "id": "b266a4d1a4",
+  "es": {
+   "titulo": "Concierto de Ixura Haize Taldea en Markina-Xemein",
+   "resumen": "El grupo Ixura Haize Taldea ofrecerá un concierto itinerante por las calles de Markina-Xemein."
+  },
+  "en": {
+   "titulo": "Concert by Ixura Haize Taldea in Markina-Xemein",
+   "resumen": "The group Ixura Haize Taldea will perform a concert along the streets of Markina-Xemein."
+  },
+  "temas": [
+   "musica",
+   "fiestas"
+  ],
+  "a_cubierto": null
+ },
+ "6be4149878": {
+  "id": "29f69696a2",
+  "es": {
+   "titulo": "Club de lectura de romantasy 'ERREINUEN ATARIAN' en Durango",
+   "resumen": "La Biblioteca Bizenta de Durango inicia su club de lectura de romantasy 'ERREINUEN ATARIAN', centrado en obras que mezclan fantasía y romance. La sesión de noviembre tratará 'Sentido y sensibilidad'."
+  },
+  "en": {
+   "titulo": "Romantasy reading club 'ERREINUEN ATARIAN' in Durango",
+   "resumen": "The Bizenta Library in Durango launches its romantasy reading club 'ERREINUEN ATARIAN', focusing on works that blend fantasy and romance. The November session will cover 'Sense and Sensibility'."
+  },
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "c0fbb8fbfa": {
+  "id": "53a0105eb9",
+  "es": {
+   "titulo": "Cuentacuentos con Doro Zobaran en Abadiño",
+   "resumen": "La Biblioteca de Abadiño (Udal Mediateka) acoge una sesión de cuentacuentos a cargo de Doro Zobaran."
+  },
+  "en": {
+   "titulo": "Storytelling session with Doro Zobaran in Abadiño",
+   "resumen": "The Library of Abadiño (Udal Mediateka) hosts a storytelling session by Doro Zobaran."
+  },
+  "temas": [
+   "ninos",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "ec27b13d57": {
+  "id": "63f3892adb",
+  "es": {
+   "titulo": "Cuentacuentos con Ixabel Agirresarobe en Aretxabaleta",
+   "resumen": "La Biblioteca de Aretxabaleta celebra una sesión de cuentacuentos con la narradora Ixabel Agirresarobe."
+  },
+  "en": {
+   "titulo": "Storytelling session with Ixabel Agirresarobe in Aretxabaleta",
+   "resumen": "The Library of Aretxabaleta holds a storytelling session with narrator Ixabel Agirresarobe."
+  },
+  "temas": [
+   "ninos",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "529e926f1a": {
+  "id": "d9cc3ca71e",
+  "es": {
+   "titulo": "Cuentacuentos 'Por el río se llega al mar… o no' en Sangüesa",
+   "resumen": "La Casa de Cultura Palacio de Vallesantoro en Sangüesa presenta el cuentacuentos 'Por el río se llega al mar… o no', una aventura para niños de 3 a 8 años llena de tesoros inesperados en las orillas del río."
+  },
+  "en": {
+   "titulo": "Storytelling 'Por el río se llega al mar… o no' in Sangüesa",
+   "resumen": "The Casa de Cultura Palacio de Vallesantoro in Sangüesa presents the storytelling session 'Por el río se llega al mar… o no', an adventure for children aged 3 to 8 full of unexpected treasures on the riverbanks."
+  },
+  "temas": [
+   "ninos",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "fe32b10fd5": {
+  "id": "beb832b0f6",
+  "es": {
+   "titulo": "Documental y coloquio sobre deporte vasco en Bilbao",
+   "resumen": "El Kafe Antzokia de Bilbao proyecta el documental 'Gurea Euskal Kirola' (1981) sobre el deporte vasco y organiza un coloquio posterior con deportistas."
+  },
+  "en": {
+   "titulo": "Documentary and talk on Basque sports in Bilbao",
+   "resumen": "The Kafe Antzokia in Bilbao screens the documentary 'Gurea Euskal Kirola' (1981) about Basque sports and organizes a subsequent talk with athletes."
+  },
+  "temas": [
+   "deporte",
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": true
+ },
+ "d9aec5d839": {
+  "id": "b832b59c6c",
+  "es": {
+   "titulo": "Presentación del libro 'A pesar de todo' en Vitoria-Gasteiz",
+   "resumen": "La librería Eva Forest Liburutopia en Vitoria-Gasteiz acoge la presentación del libro 'A pesar de todo' de Taxio Ardanaz."
+  },
+  "en": {
+   "titulo": "Presentation of the book 'A pesar de todo' in Vitoria-Gasteiz",
+   "resumen": "The Eva Forest Liburutopia bookstore in Vitoria-Gasteiz hosts the presentation of the book 'A pesar de todo' by Taxio Ardanaz."
+  },
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "bc228b14df": {
+  "id": "e6e3af7e2c",
+  "es": {
+   "titulo": "Presentación de libro: \"Mundu guztiak\"",
+   "resumen": "Presentación de la colección de relatos \"Mundu guztiak\" de Rubén Sánchez Bakaikoa. El libro, concebido como un viaje mental, explora las historias de los vecinos de un edificio en el futuro."
+  },
+  "en": {
+   "titulo": "Book Presentation: \"Mundu guztiak\"",
+   "resumen": "Presentation of Rubén Sánchez Bakaikoa's short story collection \"Mundu guztiak\". The book, conceived as a mental journey, explores the stories of a building's residents in the future."
+  },
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "fb24920a39": {
+  "id": "42b7e2f3b2",
+  "es": {
+   "titulo": "Literaktum 2026: \"Basurdekume txikia\"",
+   "resumen": "Lur Korta narrará el cuento infantil \"Basurdekume txikia\" de Grazia Deledda en euskera. La historia trata de la amistad entre un niño sardo y un jabalí."
+  },
+  "en": {
+   "titulo": "Literaktum 2026: \"Basurdekume txikia\"",
+   "resumen": "Lur Korta will narrate the children's story \"Basurdekume txikia\" by Grazia Deledda in Basque. The story is about the friendship between a Sardinian boy and a wild boar piglet."
+  },
+  "temas": [
+   "libros",
+   "cultura",
+   "ninos"
+  ],
+  "a_cubierto": true
+ },
+ "15c23ade9e": {
+  "id": "be5d081895",
+  "es": {
+   "titulo": "Literaktum 2026: Encuentro \"Dudak dakarrena\"",
+   "resumen": "Conversación entre los autores Itziar Aranburu y Jon Ander Garcia sobre su obra \"Dudak dakarrena\", un drama divertido que explora la duda y el destino."
+  },
+  "en": {
+   "titulo": "Literaktum 2026: \"Dudak dakarrena\" Encounter",
+   "resumen": "A conversation between authors Itziar Aranburu and Jon Ander Garcia about their work \"Dudak dakarrena\", a fun drama that explores doubt and destiny."
+  },
+  "temas": [
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": true
+ },
+ "1ee5138301": {
+  "id": "fa1e854f45",
+  "es": {
+   "titulo": "Literaktum 2026: \"El baobab que enloqueció\"",
+   "resumen": "La escritora Ken Bugul conversa sobre su novela \"El baobab que enloqueció\", que narra el viaje de una joven senegalesa atrapada entre dos culturas."
+  },
+  "en": {
+   "titulo": "Literaktum 2026: \"The Baobab That Went Mad\"",
+   "resumen": "Author Ken Bugul discusses her novel \"The Baobab That Went Mad\", which narrates the journey of a young Senegalese woman caught between two cultures."
+  },
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "23a22e484e": {
+  "id": "053cad166d",
+  "es": {
+   "titulo": "Club de lectura en inglés: \"The Finkler Question\"",
+   "resumen": "Club de lectura en inglés en la Biblioteca de Mungia para discutir la novela \"The Finkler Question\"."
+  },
+  "en": {
+   "titulo": "English Book Club: \"The Finkler Question\"",
+   "resumen": "An English book club meeting at the Mungia Library to discuss the novel \"The Finkler Question\"."
+  },
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "436be16748": {
+  "id": "87fcd7ab95",
+  "es": {
+   "titulo": "Cuentacuentos infantil: \"Laminak\"",
+   "resumen": "Sesión de cuentacuentos para niños de 4 a 7 años con Joxe Aldasoro, que narrará historias sobre \"Laminak\"."
+  },
+  "en": {
+   "titulo": "Children's Storytelling: \"Laminak\"",
+   "resumen": "A storytelling session for children aged 4-7 with Joxe Aldasoro, who will tell stories about \"Laminak\" (mythological beings)."
+  },
+  "temas": [
+   "ninos",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "ce647c78c3": {
+  "id": "b49b0a8944",
+  "es": {
+   "titulo": "Película: \"Katu kapeladuna\"",
+   "resumen": "Proyección de la película de animación \"Katu kapeladuna\", sobre un gato travieso que causa caos en la vida de dos hermanos."
+  },
+  "en": {
+   "titulo": "Movie: \"The Cat in the Hat\"",
+   "resumen": "Screening of the animated film \"The Cat in the Hat\", about a mischievous cat that causes chaos in the lives of two siblings."
+  },
+  "temas": [
+   "pantalla",
+   "ninos",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "06ff4c3a96": {
+  "id": "4dc0417e3b",
+  "es": {
+   "titulo": "Película: \"Sacamantecas\"",
+   "resumen": "Proyección del thriller \"Sacamantecas\", ambientado en el siglo XIX en Vitoria, sobre una serie de asesinatos y la búsqueda de justicia."
+  },
+  "en": {
+   "titulo": "Movie: \"Sacamantecas\"",
+   "resumen": "Screening of the thriller \"Sacamantecas\", set in 19th-century Vitoria, about a series of murders and the pursuit of justice."
+  },
+  "temas": [
+   "pantalla",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "548b3686a0": {
+  "id": "50f556912c",
+  "es": {
+   "titulo": "Cuentacuentos: \"PATXI PUTXIREN KONTU ZAHARRAK\"",
+   "resumen": "Sesión de cuentacuentos con Ixabel Agirresarobe en la Biblioteca de Astigarraga, donde narrará \"PATXI PUTXIREN KONTU ZAHARRAK\"."
+  },
+  "en": {
+   "titulo": "Storytelling: \"PATXI PUTXIREN KONTU ZAHARRAK\"",
+   "resumen": "Storytelling session with Ixabel Agirresarobe at the Astigarraga Library, where she will narrate \"PATXI PUTXIREN KONTU ZAHARRAK\"."
+  },
+  "temas": [
+   "ninos",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "cbcff386ff": {
+  "id": "f30cf4e77c",
+  "es": {
+   "titulo": "Presentación de libro: \"LEHENBIZIKO HARRIA\"",
+   "resumen": "Presentación de la novela \"LEHENBIZIKO HARRIA\" de Bernhard J. Mathiuet, traducida al euskera por Arantza Martinez Etxarri."
+  },
+  "en": {
+   "titulo": "Book Presentation: \"LEHENBIZIKO HARRIA\"",
+   "resumen": "Presentation of the novel \"LEHENBIZIKO HARRIA\" by Bernhard J. Mathiuet, translated into Basque by Arantza Martinez Etxarri."
+  },
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "273d2e920d": {
+  "id": "f11fce312f",
+  "es": {
+   "titulo": "Bilbao TX Fest 2026: \"Korri, Kuru, Korri\"",
+   "resumen": "Espectáculo de títeres \"Korri, Kuru, Korri\" que narra la aventura de una jirafa y una niña disfrazada, dentro del Festival Internacional de Títeres de Bilbao."
+  },
+  "en": {
+   "titulo": "Bilbao TX Fest 2026: \"Korri, Kuru, Korri\"",
+   "resumen": "Puppet show \"Korri, Kuru, Korri\" telling the adventure of a giraffe and a disguised girl, as part of the Bilbao International Puppet Festival."
+  },
+  "temas": [
+   "cultura",
+   "ninos"
+  ],
+  "a_cubierto": true
+ },
+ "b393025480": {
+  "id": "4d826bd9e2",
+  "es": {
+   "titulo": "Bilbao TX Fest 2026: \"Egnatia\"",
+   "resumen": "Espectáculo de marionetas y títeres \"Egnatia\" que explora la relación entre titiriteros y sus creaciones, dentro del Festival Internacional de Títeres de Bilbao."
+  },
+  "en": {
+   "titulo": "Bilbao TX Fest 2026: \"Egnatia\"",
+   "resumen": "Puppet and marionette show \"Egnatia\" exploring the relationship between puppeteers and their creations, as part of the Bilbao International Puppet Festival."
+  },
+  "temas": [
+   "cultura",
+   "ninos"
+  ],
+  "a_cubierto": true
+ },
+ "592bf2c7c9": {
+  "id": "e7f64d714e",
+  "es": {
+   "titulo": "Visita guiada: \"Kanthoria eta autotunea\"",
+   "resumen": "Visita guiada a la exposición \"Kanthoria eta autotunea\" que repasa la historia de la música vasca, con una guía de Xabier Erkizia."
+  },
+  "en": {
+   "titulo": "Guided Tour: \"Kanthoria eta autotunea\"",
+   "resumen": "Guided tour of the exhibition \"Kanthoria eta autotunea\" reviewing the history of Basque music, led by Xabier Erkizia."
+  },
+  "temas": [
+   "musica",
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true
+ },
+ "95f2df0eea": {
+  "id": "e4902cf0d3",
+  "es": {
+   "titulo": "Conferencia: \"El renacer de la nao ballenera San Juan\"",
+   "resumen": "Conferencia sobre la nao ballenera San Juan a cargo de Don Xabier Agote, abordando su renacimiento y relevancia histórica."
+  },
+  "en": {
+   "titulo": "Conference: \"The Rebirth of the Whaling Ship San Juan\"",
+   "resumen": "Conference on the whaling ship San Juan by Don Xabier Agote, discussing its rebirth and historical significance."
+  },
+  "temas": [
+   "cultura",
+   "agua"
+  ],
+  "a_cubierto": true
+ },
+ "fb40cd3e52": {
+  "id": "1b31aaa89f",
+  "es": {
+   "titulo": "Musika Astea 2026: Dúo Boreal",
+   "resumen": "El Dúo Boreal, formado por arpa y guitarra, ofrecerá un viaje musical interpretando piezas de Piazzolla, Albéniz y Boccherini."
+  },
+  "en": {
+   "titulo": "Musika Astea 2026: Dúo Boreal",
+   "resumen": "Dúo Boreal, featuring harp and guitar, will offer a musical journey performing pieces by Piazzolla, Albéniz, and Boccherini."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "f66398d62d": {
+  "id": "dda5325ed0",
+  "es": {
+   "titulo": "MusikUme: \"Euripean\"",
+   "resumen": "Talleres de música en familia para bebés de 0 a 3 años, diseñados para fortalecer el vínculo y estimular el desarrollo a través de la música."
+  },
+  "en": {
+   "titulo": "MusikUme: \"Euripean\"",
+   "resumen": "Family music workshops for babies aged 0-3, designed to strengthen bonds and stimulate development through music."
+  },
+  "temas": [
+   "ninos",
+   "musica",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "570aa626dc": {
+  "id": "278047960f",
+  "es": {
+   "titulo": "Recital Euskadi y Galicia en Fusión",
+   "resumen": "Un recital que fusiona la música de Euskadi y Galicia, celebrado en Bilborock."
+  },
+  "en": {
+   "titulo": "Recital Euskadi and Galicia in Fusion",
+   "resumen": "A recital that fuses the music of Euskadi and Galicia, held at Bilborock."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "4ff2ac299e": {
+  "id": "92d6345117",
+  "es": {
+   "titulo": "Documental: \"Badiako ikastola txiki kementsu haiek\"",
+   "resumen": "Proyección del documental que recupera la memoria de las primeras ikastolas (escuelas en euskera) en Pasaia y Lezo durante los años 60 y 70."
+  },
+  "en": {
+   "titulo": "Documentary: \"Badiako ikastola txiki kementsu haiek\"",
+   "resumen": "Screening of the documentary that recovers the memory of the first ikastolas (Basque-language schools) in Pasaia and Lezo during the 1960s and 70s."
+  },
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": true
+ },
+ "e9f9e04e26": {
+  "id": "3dff1e1e0b",
+  "es": {
+   "titulo": "Presentación de libro: \"Shakespearek ez zuen inoiz egin\"",
+   "resumen": "Presentación del libro de Charles Bukowski \"Shakespearek ez zuen inoiz egin\", traducido por Jone Gartzia, con la participación de la traductora y el editor."
+  },
+  "en": {
+   "titulo": "Book Presentation: \"Shakespearek ez zuen inoiz egin\"",
+   "resumen": "Presentation of Charles Bukowski's book \"Shakespearek ez zuen inoiz egin\", translated by Jone Gartzia, with the participation of the translator and editor."
+  },
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "854e23f9f3": {
+  "id": "b48a815525",
+  "es": {
+   "titulo": "Vídeo forum: \"Nagore\"",
+   "resumen": "Proyección del documental \"Nagore\", que aborda el asesinato de Nagore Laffage, seguida de un coloquio con su madre, Asun Casasola."
+  },
+  "en": {
+   "titulo": "Video Forum: \"Nagore\"",
+   "resumen": "Screening of the documentary \"Nagore\", which addresses the murder of Nagore Laffage, followed by a discussion with her mother, Asun Casasola."
+  },
+  "temas": [
+   "pantalla",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "f77a0903f6": {
+  "id": "29dffd0682",
+  "es": {
+   "titulo": "Documental musical: \"Muguruza FM 40 Tour\"",
+   "resumen": "Proyección del documental \"Muguruza FM 40 Tour\", que capta la última gran gira de Fermin Muguruza celebrando 40 años de música y compromiso."
+  },
+  "en": {
+   "titulo": "Music Documentary: \"Muguruza FM 40 Tour\"",
+   "resumen": "Screening of the documentary \"Muguruza FM 40 Tour\", capturing Fermin Muguruza's final major tour celebrating 40 years of music and commitment."
+  },
+  "temas": [
+   "musica",
+   "pantalla",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "4984f10ec5": {
+  "id": "bf286edeaa",
+  "es": {
+   "titulo": "Cuentacuentos: Maite Franko",
+   "resumen": "Sesión de cuentacuentos para niños de 2 a 3 años con Maite Franco en la Biblioteca de Ibarra."
+  },
+  "en": {
+   "titulo": "Storytelling: Maite Franko",
+   "resumen": "Storytelling session for children aged 2-3 with Maite Franco at the Ibarra Library."
+  },
+  "temas": [
+   "ninos",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "f50c0e3d7b": {
+  "id": "84d8f8ae3b",
+  "es": {
+   "titulo": "Documental: \"Sorgina, banaiz\"",
+   "resumen": "Proyección del documental \"Sorgina, banaiz\" que ofrece una visión crítica de la caza de brujas en el País Vasco, analizando el miedo y el poder."
+  },
+  "en": {
+   "titulo": "Documentary: \"Sorgina, banaiz\"",
+   "resumen": "Screening of the documentary \"Sorgina, banaiz\" offering a critical view of witch hunts in the Basque Country, analyzing fear and power."
+  },
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": true
+ },
+ "424af30d52": {
+  "id": "aec4503415",
+  "es": {
+   "titulo": "Presentación libro y charla gastronómica",
+   "resumen": "Presentación del libro infantil \"Algo no anda bien en la cocina\" por Iñaki Larrea, seguido de una charla sobre cocina local con el chef Aitor Etxenike."
+  },
+  "en": {
+   "titulo": "Book Presentation and Gastronomy Talk",
+   "resumen": "Presentation of the children's book \"Algo no anda bien en la cocina\" by Iñaki Larrea, followed by a talk on local cuisine with chef Aitor Etxenike."
+  },
+  "temas": [
+   "libros",
+   "gastronomia",
+   "ninos"
+  ],
+  "a_cubierto": true
+ },
+ "a306c665d1": {
+  "id": "d29ab9b199",
+  "es": {
+   "titulo": "IV Ganboa Zinemaldia",
+   "resumen": "Cuarta edición del festival de cine ambiental Gamboa Zinemaldia, enfocado en la sostenibilidad, el cine y la comunidad."
+  },
+  "en": {
+   "titulo": "IV Ganboa Film Festival",
+   "resumen": "Fourth edition of the environmental film festival Gamboa Zinemaldia, focusing on sustainability, cinema, and community."
+  },
+  "temas": [
+   "pantalla",
+   "cultura",
+   "naturaleza"
+  ],
+  "a_cubierto": true
  }
 }

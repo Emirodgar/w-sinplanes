@@ -24263,5 +24263,1027 @@
   ],
   "a_cubierto": null,
   "confianza": 0.9
+ },
+ "60ac19cc6f": {
+  "url": "https://www.20minutos.es/musica/agorazein-convierte-nostalgia-moda-diez-anos-despues_7062581_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-11-18",
+  "es_plan": false
+ },
+ "21832f86fc": {
+  "url": "https://www.20minutos.es/musica/festival-glastonbury-anuncia-su-cartel-para-2027-con-harry-styles-billie-eilish-sam-fender-cher-cabeza_7062583_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-11-18",
+  "es_plan": true,
+  "titulo": "Festival Glastonbury 2027",
+  "resumen": "El festival de música Glastonbury anuncia su cartel para 2027, con Harry Styles, Billie Eilish, Sam Fender y Cher como cabezas de cartel. El evento se celebrará en Pilton, Somerset.",
+  "en": {
+   "titulo": "Glastonbury Festival 2027",
+   "resumen": "The Glastonbury music festival announces its 2027 lineup, featuring Harry Styles, Billie Eilish, Sam Fender, and Cher as headliners. The event will take place in Pilton, Somerset."
+  },
+  "inicio": "2027-06-23",
+  "fin": "2027-06-27",
+  "hora": null,
+  "lugar": "Worthy Farm",
+  "municipio": "Pilton",
+  "provincia": "Somerset",
+  "ambito": "nacional",
+  "gratis": false,
+  "precio": "más de 400 libras",
+  "temas": [
+   "musica",
+   "fiestas"
+  ],
+  "a_cubierto": false,
+  "confianza": 0.9
+ },
+ "4a0c556a26": {
+  "url": "https://www.20minutos.es/musica/maluma-celebrara-12-julio-un-concierto-madrid-como-parte-loco-x-volver-tour_7062549_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-11-18",
+  "es_plan": false
+ },
+ "d0a649c3c4": {
+  "url": "https://www.20minutos.es/artes/javier-bardem-se-sube-las-tablas-teatro-ante-cien-afortunados_7062487_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-11-18",
+  "es_plan": true,
+  "titulo": "Javier Bardem debuta en teatro en Madrid",
+  "resumen": "Javier Bardem debuta en el Espacio Zafra de Madrid con la obra '¡Chéjov, Chéjov!'. Las funciones van del 19 de noviembre al 7 de febrero.",
+  "en": {
+   "titulo": "Javier Bardem debuts in theater in Madrid",
+   "resumen": "Javier Bardem makes his theater debut at Espacio Zafra in Madrid with the play '¡Chéjov, Chéjov!'. Performances run from November 19 to February 7."
+  },
+  "inicio": "2026-11-19",
+  "fin": "2027-02-07",
+  "hora": null,
+  "lugar": "Espacio Zafra Teatro",
+  "municipio": "Madrid",
+  "provincia": "Madrid",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "8954b7e5bf": {
+  "url": "https://www.20minutos.es/libros/festival-literario-rosa-negro-que-dirige-marta-robles-regresa-con-nuevo-escenario-ser-humano-pide-amor-hasta-que-muere_7060381_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-11-18",
+  "es_plan": true,
+  "titulo": "Festival literario 'Rosa&Negro' en Madrid",
+  "resumen": "La tercera edición del festival literario 'Rosa&Negro' se celebra en Carabanchel (Madrid) del 19 al 21 de noviembre, reuniendo a más de 30 escritores.",
+  "en": {
+   "titulo": "'Rosa&Negro' literary festival in Madrid",
+   "resumen": "The third edition of the 'Rosa&Negro' literary festival takes place in Carabanchel (Madrid) from November 19 to 21, bringing together over 30 writers."
+  },
+  "inicio": "2026-11-19",
+  "fin": "2026-11-21",
+  "hora": null,
+  "lugar": "Centro Cultural Fernando Lázaro Carreter",
+  "municipio": "Madrid",
+  "provincia": "Madrid",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "c411689293": {
+  "url": "https://www.20minutos.es/cultura/blogs/motel-margot/retorno-apartamentos-acapulco-es-uno-los-discos-ano_7040576_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-11-18",
+  "es_plan": false
+ },
+ "a6daec3d8c": {
+  "url": "https://elpais.com/cultura/2026-11-18/entrevista-con-la-oreja-de-van-gogh-cuando-sales-del-puto-infierno-cuando-te-tiras-siete-anos-en-la-cama-ya-superarlo-es-la-hostia.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-11-18",
+  "es_plan": false
+ },
+ "679f76f9a7": {
+  "url": "https://elpais.com/cultura/2026-11-18/el-dilema-del-festival-idfa-el-cannes-de-los-documentales-no-damos-voz-a-gobiernos-en-contra-de-los-derechos-humanos-pero-tampoco-condenamos-a-los-cineastas-por-el-camino.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-11-18",
+  "es_plan": false
+ },
+ "72385cbaac": {
+  "url": "https://elpais.com/cultura/branded/faro-santander/2026-11-18/asi-se-penso-diseno-y-construyo-uno-de-los-museos-mas-sostenibles-del-mundo.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-11-18",
+  "es_plan": false
+ },
+ "edce1104cf": {
+  "url": "https://www.lavanguardia.com/cultura/20261118/11687256/aragon-tacha-urtasun-supremacista-cobarde-criticar-sentencia-sijena.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-18",
+  "es_plan": false
+ },
+ "b9ea7faba5": {
+  "url": "https://www.lavanguardia.com/cultura/cine/20261118/11687224/jeff-bezos-satisfecho-robert-pattinson-nuevo-bond-participe-activamente-eleccion.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-18",
+  "es_plan": false
+ },
+ "bfe61e7878": {
+  "url": "https://www.lavanguardia.com/cultura/20261118/11687131/museo-dali-figueres-expone-retrato-artista-hizo-madre-16-anos.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-18",
+  "es_plan": true,
+  "titulo": "Exposición de retrato de la madre de Dalí en Figueres",
+  "resumen": "El Museo Dalí de Figueres expone un retrato de la madre de Salvador Dalí, realizado por el artista a los 16 años. La obra estará expuesta seis meses.",
+  "en": {
+   "titulo": "Exhibition of Dalí's mother's portrait in Figueres",
+   "resumen": "The Dalí Museum in Figueres exhibits a portrait of Salvador Dalí's mother, painted by the artist at age 16. The work will be on display for six months."
+  },
+  "inicio": "2026-11-18",
+  "fin": "2027-05-18",
+  "hora": null,
+  "lugar": "Teatro-Museo Dalí",
+  "municipio": "Figueres",
+  "provincia": "Girona",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "museos",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "787f91af1c": {
+  "url": "https://www.lavanguardia.com/cultura/musica/20261118/11687186/harry-styles-billie-eilish-cher-cartel-principal-proximo-glastonbury.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-18",
+  "es_plan": true,
+  "titulo": "Festival Glastonbury 2027: Harry Styles, Eilish y Cher",
+  "resumen": "Harry Styles, Billie Eilish y Cher encabezan el cartel del festival Glastonbury 2027. Las entradas para el evento, que regresa tras un parón, ya están agotadas.",
+  "en": {
+   "titulo": "Glastonbury Festival 2027: Harry Styles, Eilish, and Cher",
+   "resumen": "Harry Styles, Billie Eilish, and Cher headline the Glastonbury Festival 2027 lineup. Tickets for the event, which returns after a break, are already sold out."
+  },
+  "inicio": "2027-06-23",
+  "fin": "2027-06-27",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "musica",
+   "fiestas"
+  ],
+  "a_cubierto": false,
+  "confianza": 0.85
+ },
+ "fa641f8fb9": {
+  "url": "https://www.lavanguardia.com/cultura/20261118/11687136/magda-como-fanatismo-miedo-llevar-alguien-matar-hijos.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-18",
+  "es_plan": true,
+  "titulo": "Obra de teatro 'Magda' en Madrid",
+  "resumen": "La obra 'Magda', escrita por Chela de Ferrari y Luis Alberto León, se estrena en el teatro María Guerrero de Madrid y estará en cartel hasta el 27 de diciembre.",
+  "en": {
+   "titulo": "'Magda' play in Madrid",
+   "resumen": "The play 'Magda', written by Chela de Ferrari and Luis Alberto León, premieres at the María Guerrero theater in Madrid and will run until December 27."
+  },
+  "inicio": "2026-11-18",
+  "fin": "2026-12-27",
+  "hora": null,
+  "lugar": "Teatro María Guerrero",
+  "municipio": "Madrid",
+  "provincia": "Madrid",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "9d2e31faec": {
+  "url": "https://www.lavanguardia.com/cultura/20261118/11686861/vicent-enric-belda-josep-maria-fulquet-premios-literarios-gandia-mirada-compartida.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-18",
+  "es_plan": true,
+  "titulo": "Premios literarios de Gandia",
+  "resumen": "Vicent Enric Belda y Josep Maria Fulquet recibirán este viernes los premios literarios de Gandia en el palacio Ducal, reconociendo sus obras sobre la posguerra franquista.",
+  "en": {
+   "titulo": "Gandia literary awards",
+   "resumen": "Vicent Enric Belda and Josep Maria Fulquet will receive the Gandia literary awards this Friday at the Ducal Palace, recognizing their works on the Francoist post-war period."
+  },
+  "inicio": "2026-11-21",
+  "fin": "2026-11-21",
+  "hora": null,
+  "lugar": "Palacio Ducal",
+  "municipio": "Gandia",
+  "provincia": "Valencia",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "bff206fb28": {
+  "url": "https://www.lavanguardia.com/cultura/20261118/11686828/kneecap-the-molotovs-jungle-primeros-confirmados-cruilla.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-18",
+  "es_plan": false
+ },
+ "8c48ced9db": {
+  "url": "https://www.lavanguardia.com/cultura/20261118/11686705/director-pelicula-incomoda-cuenta-cara-periodismo.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-18",
+  "es_plan": false
+ },
+ "a9dbbe8bb2": {
+  "url": "https://www.lavanguardia.com/cultura/20261118/11664664/salvador-sobral-conciertos-son-acto-resistencia-hoy-dia.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-18",
+  "es_plan": false
+ },
+ "31aa59a494": {
+  "url": "https://www.lavanguardia.com/cultura/musica/20261118/11686878/estopa-anuncia-nuevos-conciertos-valencia-barcelona-madrid-agotar-entradas.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-18",
+  "es_plan": false
+ },
+ "e21c50bd0f": {
+  "url": "https://www.ara.cat/cultura/musica/festivals-musica/kneecap-jungle-jorge-drexler-actuaran-festival-cruilla-2027_25_5914310.html",
+  "fuente": "Ara (Cultura)",
+  "src": "prensa-ara-cultura",
+  "publicado": "2026-11-18",
+  "es_plan": false
+ },
+ "2aca82f117": {
+  "url": "https://www.ara.cat/societat/mobilitat/conflicte-ferroviari-l-acord-cuerpo-sindicats-no-convenc-maquinistes_1_5914634.html",
+  "fuente": "Ara (Cultura)",
+  "src": "prensa-ara-cultura",
+  "publicado": "2026-11-18",
+  "es_plan": false
+ },
+ "1e808c3e07": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/18/anne-hathaway-madre-tercera-vez-2069673.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-18",
+  "es_plan": false
+ },
+ "5de87c7b81": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/18/comedia-teatral-53-domingos-cesc-gay-llega-olimpia-huesca-doble-sesion-2069672.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-18",
+  "es_plan": true,
+  "titulo": "La comedia '53 domingos' de Cesc Gay llega al Olimpia de Huesca",
+  "resumen": "La obra teatral '53 domingos', escrita y dirigida por Cesc Gay, se representará en el Teatro Olimpia de Huesca el viernes 20 y sábado 21 de noviembre a las 20:30. Las entradas tienen un precio de 28 € en venta anticipada.",
+  "en": {
+   "titulo": "Cesc Gay's Comedy '53 Domingos' Arrives at Olimpia Theater in Huesca",
+   "resumen": "The play '53 Domingos', written and directed by Cesc Gay, will be performed at the Olimpia Theater in Huesca on Friday, November 20th, and Saturday, November 21st, at 8:30 PM. Advance tickets cost €28."
+  },
+  "inicio": "2026-11-20",
+  "fin": "2026-11-21",
+  "hora": "20:30",
+  "lugar": "Teatro Olimpia",
+  "municipio": "Huesca",
+  "provincia": "Huesca",
+  "ambito": "local",
+  "gratis": false,
+  "precio": "28 € en venta anticipada",
+  "temas": [
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "65f3d69f1f": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/18/joan-manuel-serrat-82anos-votar-proximas-elecciones-fijarse-amigos-candidatos-juntan-2069569.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-18",
+  "es_plan": false
+ },
+ "138840f7fb": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/18/juego-mejores-resenas-gta-arrasa-critica-alcanza-metacritic-lanzamiento-2069658.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-18",
+  "es_plan": false
+ },
+ "8be19607c5": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/18/eva-amaral-ultimos-dias-disfrutar-maravilla-ilusion-contaros-diseno-escenario-gira-2068059.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-18",
+  "es_plan": true,
+  "titulo": "Eva Amaral se despide de su gira 'Dolce Vita' en Barcelona y Madrid",
+  "resumen": "Eva Amaral finalizará su gira 'Dolce Vita' con dos conciertos: el 18 de diciembre en el Palau Sant Jordi de Barcelona y el 28 de diciembre en el Movistar Arena de Madrid.",
+  "en": {
+   "titulo": "Eva Amaral Says Goodbye to Her 'Dolce Vita' Tour in Barcelona and Madrid",
+   "resumen": "Eva Amaral will conclude her 'Dolce Vita' tour with two concerts: on December 18th at Palau Sant Jordi in Barcelona and on December 28th at Movistar Arena in Madrid."
+  },
+  "inicio": "2026-12-18",
+  "fin": "2026-12-28",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "musica"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "5c711edac8": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/18/espana-cuarto-pais-mundo-crecen-solicitudes-libres-lanzamiento-grand-theft-auto-2069580.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-18",
+  "es_plan": false
+ },
+ "179daf98e5": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/18/ana-obregon-71anos-madre-mejor-marisco-no-podia-faltar-padres-encantaba-2069097.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-18",
+  "es_plan": false
+ },
+ "49320ec6b8": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/18/andres-roca-rey-30anos-soledad-bonita-eliges-tranquilidad-paz-2069570.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-18",
+  "es_plan": true,
+  "titulo": "Andrés Roca Rey retoma su temporada taurina en México",
+  "resumen": "El torero Andrés Roca Rey continúa su temporada en América, actuando en México este viernes 20 de noviembre en Monterrey, y posteriormente en Aguascalientes, León y Apizaco.",
+  "en": {
+   "titulo": "Andrés Roca Rey Resumes His Bullfighting Season in Mexico",
+   "resumen": "Bullfighter Andrés Roca Rey continues his season in America, performing in Mexico this Friday, November 20th, in Monterrey, and later in Aguascalientes, León, and Apizaco."
+  },
+  "inicio": "2026-11-20",
+  "fin": "2026-11-20",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": null,
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "deporte"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.5
+ },
+ "a916e22f37": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/18/katrin-ortega-alcaldesa-pueblo-270habitantes-entra-gran-hermano-vip-corazon-delante-2069363.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-18",
+  "es_plan": false
+ },
+ "e4b5d2eae4": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/18/victor-manuel-79anos-santiago-abascal-blanco-negro-sabe-claramente-expulsable-2069566.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-18",
+  "es_plan": false
+ },
+ "ef2693361b": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/18/pancho-varona-giras-hacia-joaquin-sabina-jactaba-persona-sobre-escenario-admiraba-joan-manuel-serrat-2063915.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-18",
+  "es_plan": false
+ },
+ "d0effe8bdb": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/18/alba-carrillo-confirma-demanda-llegado-feliciano-lopez-ser-tranquilo-nada-grave-afortunados-2066065.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-18",
+  "es_plan": false
+ },
+ "9edf1f2bbd": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/18/pedro-piqueras-71-anos-acuesto-pronto-no-duermo-mucho-leer-yoga-2069490.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-18",
+  "es_plan": false
+ },
+ "805795f839": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/18/carlos-hipolito-teatro-goza-una-salud-excelente-vivira-eternamente-2069481.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-18",
+  "es_plan": true,
+  "titulo": "Carlos Hipólito en 'Largo viaje hacia la noche' en Zaragoza",
+  "resumen": "El actor Carlos Hipólito regresa al Teatro Principal de Zaragoza para representar la obra 'Largo viaje hacia la noche' del 19 al 22 de noviembre.",
+  "en": {
+   "titulo": "Carlos Hipólito in 'Long Day's Journey into Night' in Zaragoza",
+   "resumen": "Actor Carlos Hipólito returns to the Teatro Principal in Zaragoza to perform the play 'Long Day's Journey into Night' from November 19th to 22nd."
+  },
+  "inicio": "2026-11-19",
+  "fin": "2026-11-22",
+  "hora": "20:00",
+  "lugar": "Teatro Principal",
+  "municipio": "Zaragoza",
+  "provincia": "Zaragoza",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "4cdc8fa017": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/18/luis-tosar-anos-padre-trabajaba-sastre-tenia-alternar-panadero-saliese-2069337.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-18",
+  "es_plan": false
+ },
+ "c44da57cb0": {
+  "url": "https://www.elnortedecastilla.es/culturas/libros/bailarina-paula-valbuena-pone-palabras-formula-pureza-20261118125059-nt.html",
+  "fuente": "El Norte de Castilla (Culturas)",
+  "src": "prensa-nortecastilla-culturas",
+  "publicado": "2026-11-18",
+  "es_plan": true,
+  "titulo": "Paula Valbuena presenta 'La chica que escribía torcido' en León",
+  "resumen": "La bailarina Paula Valbuena presenta su libro 'La chica que escribía torcido' este viernes a las 19:00 h. en la librería Oletvm de León.",
+  "en": {
+   "titulo": "Paula Valbuena presents 'The Girl Who Wrote Crooked' in León",
+   "resumen": "Dancer Paula Valbuena presents her book 'The Girl Who Wrote Crooked' this Friday at 7:00 PM at the Oletvm bookstore in León."
+  },
+  "inicio": "2026-11-18",
+  "fin": "2026-11-18",
+  "hora": "19:00",
+  "lugar": "Librería Oletvm",
+  "municipio": "León",
+  "provincia": "León",
+  "ambito": "local",
+  "gratis": true,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "9275a0e738": {
+  "url": "https://www.ideal.es/culturas/almeria/jaime-lorente-presenta-mal-hijo-drama-gestado-20261118141306-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-11-18",
+  "es_plan": true,
+  "titulo": "Jaime Lorente presenta 'El mal hijo' en Granada",
+  "resumen": "El actor Jaime Lorente estrena su drama 'El mal hijo' esta tarde en el Teatro Apolo de Granada, dentro del Certamen Nacional de Largometrajes 'Ópera Prima'.",
+  "en": {
+   "titulo": "Jaime Lorente presents 'The Bad Son' in Granada",
+   "resumen": "Actor Jaime Lorente premieres his drama 'The Bad Son' this afternoon at the Teatro Apolo in Granada, as part of the National Feature Film Competition 'Ópera Prima'."
+  },
+  "inicio": "2026-11-18",
+  "fin": "2026-11-18",
+  "hora": null,
+  "lugar": "Teatro Apolo",
+  "municipio": "Granada",
+  "provincia": "Granada",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "dc37529d49": {
+  "url": "https://www.ideal.es/culturas/almeria/huercal-almeria-acogera-monologo-hago-quiero-abordar-20261118141227-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-11-18",
+  "es_plan": true,
+  "titulo": "Monólogo 'Lo hago porque te quiero' en Huércal de Almería",
+  "resumen": "Huércal de Almería acogerá el monólogo 'Lo hago porque te quiero' el 24 de noviembre en el Teatro Multiusos para abordar la violencia de género.",
+  "en": {
+   "titulo": "'I Do It Because I Love You' Monologue in Huércal de Almería",
+   "resumen": "Huércal de Almería will host the monologue 'I Do It Because I Love You' on November 24th at the Teatro Multiusos to address gender violence."
+  },
+  "inicio": "2026-11-24",
+  "fin": "2026-11-24",
+  "hora": null,
+  "lugar": "Teatro Multiusos",
+  "municipio": "Huércal de Almería",
+  "provincia": "Almería",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "a9efcfbc32": {
+  "url": "https://www.ideal.es/culturas/granadina-adopcion-nominada-grammy-portada-disco-lily-20261117000314-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-11-18",
+  "es_plan": false
+ },
+ "ee2190c433": {
+  "url": "https://www.elcorreo.com/culturas/mejores-planes-culturales-fin-semana-bizkaia-20261117130605-nt.html",
+  "fuente": "El Correo (Culturas)",
+  "src": "prensa-elcorreo-culturas",
+  "publicado": "2026-11-18",
+  "es_plan": true,
+  "titulo": "Planes culturales en Bizkaia este fin de semana",
+  "resumen": "Los especialistas de EL CORREO recomiendan planes culturales en Bizkaia para este fin de semana, incluyendo ópera, teatro, danza y artes plásticas.",
+  "en": {
+   "titulo": "Cultural plans in Bizkaia this weekend",
+   "resumen": "EL CORREO specialists recommend cultural events in Bizkaia for this weekend, including opera, theater, dance, and visual arts."
+  },
+  "inicio": "2026-11-18",
+  "fin": "2026-11-22",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": "Bizkaia",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "musica",
+   "museos"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.7
+ },
+ "0861c8fd6e": {
+  "url": "https://www.diariovasco.com/culturas/musica/xabier-anduaga-lucia-lacarra-izaro-estrellas-kursaal-20261118131926-nt.html",
+  "fuente": "El Diario Vasco (Culturas)",
+  "src": "prensa-diariovasco-culturas",
+  "publicado": "2026-11-18",
+  "es_plan": true,
+  "titulo": "Xabier Anduaga en 'Lucia de Lammermoor' en Gipuzkoa",
+  "resumen": "El tenor Xabier Anduaga actuará el 3 de febrero en el Kursaal de San Sebastián en la ópera 'Lucia de Lammermoor', parte de la programación de Kursaal Eszena 2027.",
+  "en": {
+   "titulo": "Xabier Anduaga in 'Lucia di Lammermoor' in Gipuzkoa",
+   "resumen": "Tenor Xabier Anduaga will perform on February 3rd at the Kursaal in San Sebastián in the opera 'Lucia di Lammermoor', part of the Kursaal Eszena 2027 program."
+  },
+  "inicio": "2027-02-03",
+  "fin": "2027-02-03",
+  "hora": null,
+  "lugar": "Kursaal",
+  "municipio": "San Sebastián",
+  "provincia": "Gipuzkoa",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "46785f94f2": {
+  "url": "https://www.diariovasco.com/tolosa-goierri/ordizia/universo-musical-mikel-urretagoiena-vuelve-viernes-ordizia-20261117173635-nt.html",
+  "fuente": "El Diario Vasco (Culturas)",
+  "src": "prensa-diariovasco-culturas",
+  "publicado": "2026-11-18",
+  "es_plan": true,
+  "titulo": "Concierto de Mikel Urretagoiena en Ordizia",
+  "resumen": "Mikel Urretagoiena ofrecerá un concierto este viernes en D'Elikatuz de Ordizia, acompañado por un cuarteto musical.",
+  "en": {
+   "titulo": "Mikel Urretagoiena concert in Ordizia",
+   "resumen": "Mikel Urretagoiena will perform a concert this Friday at D'Elikatuz in Ordizia, accompanied by a musical quartet."
+  },
+  "inicio": "2026-11-18",
+  "fin": "2026-11-18",
+  "hora": null,
+  "lugar": "D'Elikatuz",
+  "municipio": "Ordizia",
+  "provincia": "Gipuzkoa",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "937d12ad14": {
+  "url": "https://www.lasprovincias.es/culturas/hermano-david-broncano-valencia-20261118133504-nt.html",
+  "fuente": "Las Provincias (Culturas)",
+  "src": "prensa-lasprovincias-culturas",
+  "publicado": "2026-11-18",
+  "es_plan": true,
+  "titulo": "El hermano de David Broncano en Valencia",
+  "resumen": "El clarinetista y director del Festival Música en Segura, hermano de David Broncano, visitará el Palau de la Música de Valencia la próxima semana.",
+  "en": {
+   "titulo": "David Broncano's brother in Valencia",
+   "resumen": "The clarinetist and director of the Música en Segura Festival, David Broncano's brother, will visit the Palau de la Música in Valencia next week."
+  },
+  "inicio": "2026-11-23",
+  "fin": "2026-11-23",
+  "hora": null,
+  "lugar": "Palau de la Música",
+  "municipio": "Valencia",
+  "provincia": "Valencia",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "5bf988c1c5": {
+  "url": "https://www.lasprovincias.es/culturas/cine/compromis-gusta-mostra-valencia-20261118132126-nt.html",
+  "fuente": "Las Provincias (Culturas)",
+  "src": "prensa-lasprovincias-culturas",
+  "publicado": "2026-11-18",
+  "es_plan": false
+ },
+ "4a8573ed27": {
+  "url": "https://www.lasprovincias.es/culturas/empresa-seguridad-museo-sorolla-madrid-vigilara-exposicion-20261118100608-nt.html",
+  "fuente": "Las Provincias (Culturas)",
+  "src": "prensa-lasprovincias-culturas",
+  "publicado": "2026-11-18",
+  "es_plan": false
+ },
+ "d8f87dee7a": {
+  "url": "https://www.lasprovincias.es/culturas/musica/locura-estopa-valencia-vuelan-entradas-pista-20261118090831-nt.html",
+  "fuente": "Las Provincias (Culturas)",
+  "src": "prensa-lasprovincias-culturas",
+  "publicado": "2026-11-18",
+  "es_plan": true,
+  "titulo": "Estopa inicia gira en Valencia en junio de 2027",
+  "resumen": "Los hermanos Muñoz comenzarán su nueva gira en el estadio del Levante en Valencia en junio de 2027. Las entradas más económicas se han agotado rápidamente.",
+  "en": {
+   "titulo": "Estopa starts tour in Valencia in June 2027",
+   "resumen": "The Muñoz brothers will kick off their new tour at the Levante stadium in Valencia in June 2027. The cheapest tickets have sold out quickly."
+  },
+  "inicio": "2027-06-01",
+  "fin": "2027-06-01",
+  "hora": null,
+  "lugar": "Estadio del Levante",
+  "municipio": "Valencia",
+  "provincia": "Valencia",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "musica"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "1620398a4c": {
+  "url": "https://www.lasprovincias.es/culturas/musculo-audiovisual-valenciano-vuelca-pelicula-mal-padre-20261116004526-nt.html",
+  "fuente": "Las Provincias (Culturas)",
+  "src": "prensa-lasprovincias-culturas",
+  "publicado": "2026-11-18",
+  "es_plan": true,
+  "titulo": "Estreno de la película 'El mal padre' este viernes en cines",
+  "resumen": "La película 'El mal padre', rodada íntegramente en Valencia, llega a las salas de cine este viernes. El film cuenta con el apoyo del sector audiovisual valenciano.",
+  "en": {
+   "titulo": "Premiere of the film 'El mal padre' this Friday in cinemas",
+   "resumen": "The film 'El mal padre', shot entirely in Valencia, arrives in cinemas this Friday. The film has the support of the Valencian audiovisual sector."
+  },
+  "inicio": "2026-11-20",
+  "fin": "2026-11-20",
+  "hora": null,
+  "lugar": null,
+  "municipio": "Valencia",
+  "provincia": "Valencia",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "d6d7eba999": {
+  "url": "https://www.lasprovincias.es/culturas/tv/mad-emite-hoy-miercoles-mejor-pelicula-oscar-20261117003727-nt.html",
+  "fuente": "Las Provincias (Culturas)",
+  "src": "prensa-lasprovincias-culturas",
+  "publicado": "2026-11-18",
+  "es_plan": true,
+  "titulo": "Be Mad emite hoy la mejor película de los Oscar 2014",
+  "resumen": "El canal Be Mad emite hoy miércoles la película galardonada como la mejor en los Oscar de 2014. La programación incluye otros géneros como bélico, ciencia ficción, acción o drama.",
+  "en": {
+   "titulo": "Be Mad airs today the best film of the 2014 Oscars",
+   "resumen": "The Be Mad channel airs today, Wednesday, the film awarded as the best at the 2014 Oscars. The programming includes other genres such as war, science fiction, action, or drama."
+  },
+  "inicio": "2026-11-18",
+  "fin": "2026-11-18",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": true,
+  "precio": null,
+  "temas": [
+   "pantalla"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "7f9db0e005": {
+  "url": "https://www.lasprovincias.es/culturas/tv/wow-valencia-plataforma-television-emitira-sabado-directo-20261116003653-nt.html",
+  "fuente": "Las Provincias (Culturas)",
+  "src": "prensa-lasprovincias-culturas",
+  "publicado": "2026-11-18",
+  "es_plan": true,
+  "titulo": "Combate de MMA en directo este sábado en Valencia",
+  "resumen": "La plataforma WOW 34 Valencia emitirá en directo este sábado un combate de MMA desde el Roig Arena. El evento busca repetir el éxito del pasado 11 de abril.",
+  "en": {
+   "titulo": "Live MMA fight this Saturday in Valencia",
+   "resumen": "The WOW 34 Valencia platform will broadcast live this Saturday an MMA fight from the Roig Arena. The event aims to repeat the success of last April 11th."
+  },
+  "inicio": "2026-11-21",
+  "fin": "2026-11-21",
+  "hora": null,
+  "lugar": "Roig Arena",
+  "municipio": "Valencia",
+  "provincia": "Valencia",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "deporte"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "10a89098bf": {
+  "url": "https://www.laverdad.es/murcia/marca-murciana-warburton-vuelve-171-dias-despues-20261117120439-nt.html",
+  "fuente": "La Verdad (Culturas)",
+  "src": "prensa-laverdad-culturas",
+  "publicado": "2026-11-18",
+  "es_plan": true,
+  "titulo": "Lanzamiento de camiseta 'Wasted Double Long Sleeve' el 26 de noviembre",
+  "resumen": "La marca murciana Warburton lanza el 26 de noviembre su nueva prenda, la camiseta 'Wasted Double Long Sleeve'. Este lanzamiento se produce 171 días después de su última novedad.",
+  "en": {
+   "titulo": "Launch of 'Wasted Double Long Sleeve' t-shirt on November 26th",
+   "resumen": "The Murcian brand Warburton is launching its new garment, the 'Wasted Double Long Sleeve' t-shirt, on November 26th. This launch comes 171 days after their last novelty."
+  },
+  "inicio": "2026-11-26",
+  "fin": "2026-11-26",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": "Murcia",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "d555b7a898": {
+  "url": "https://www.laverdad.es/culturas/actor-roberto-alamo-premio-ficc55-20261118110556-nt.html",
+  "fuente": "La Verdad (Culturas)",
+  "src": "prensa-laverdad-culturas",
+  "publicado": "2026-11-18",
+  "es_plan": false
+ },
+ "e77f455b1d": {
+  "url": "https://www.eldiariomontanes.es/culturas/archivo-historico-recobra-memoria-cantabras-vinculadas-lyceum-20261118071705-nt.html",
+  "fuente": "El Diario Montañés (Culturas)",
+  "src": "prensa-diariomontanes-culturas",
+  "publicado": "2026-11-18",
+  "es_plan": true,
+  "titulo": "Exposición sobre mujeres vinculadas al Lyceum Club Femenino",
+  "resumen": "El Archivo Histórico de Cantabria inaugura una exposición con motivo del centenario del Lyceum Club Femenino, destacando la trayectoria de doce de sus socias.",
+  "en": {
+   "titulo": "Exhibition on women linked to the Lyceum Club Femenino",
+   "resumen": "The Historical Archive of Cantabria inaugurates an exhibition to mark the centenary of the Lyceum Club Femenino, highlighting the careers of twelve of its members."
+  },
+  "inicio": "2026-11-18",
+  "fin": "2026-11-18",
+  "hora": null,
+  "lugar": "Archivo Histórico",
+  "municipio": null,
+  "provincia": "Cantabria",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "50784975a6": {
+  "url": "https://www.larioja.com/culturas/fronton-cinema-revellin-buena-fuente-20261118140812-nt.html",
+  "fuente": "La Rioja (Culturas)",
+  "src": "prensa-larioja-culturas",
+  "publicado": "2026-11-18",
+  "es_plan": true,
+  "titulo": "Premio de Narración Breve 'De Buena Fuente' hasta enero de 2027",
+  "resumen": "Se abre la convocatoria para el Premio de Narración Breve 'De Buena Fuente', centrado en el Frontón Cinema del Revellín. Los relatos se podrán presentar hasta el 31 de enero de 2027.",
+  "en": {
+   "titulo": "'De Buena Fuente' Short Story Prize until January 2027",
+   "resumen": "The call for entries for the 'De Buena Fuente' Short Story Prize, focusing on the Frontón Cinema del Revellín, is now open. Submissions can be made until January 31, 2027."
+  },
+  "inicio": "2026-11-21",
+  "fin": "2027-01-31",
+  "hora": null,
+  "lugar": "Frontón Cinema del Revellín",
+  "municipio": null,
+  "provincia": "La Rioja",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "7c863e2d91": {
+  "url": "https://www.20minutos.es/musica/los-pecos-sacan-disco-ponen-fecha-su-adios-definitivo-sera-una-gira-2027-se-apagan-los-focos-pero-quedan-las-canciones_7062231_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-11-17",
+  "es_plan": true,
+  "titulo": "Gira de despedida de Los Pecos en 2027",
+  "resumen": "Los Pecos inician en 2027 su gira de despedida definitiva, 'Concierto para una despedida', culminando una carrera de cinco décadas. Lanzan también el disco 'Dos Voces y una Historia en Directo'.",
+  "en": {
+   "titulo": "Los Pecos' farewell tour in 2027",
+   "resumen": "Los Pecos begin their definitive farewell tour, 'Concierto para una despedida', in 2027, concluding a five-decade career. They are also releasing the album 'Dos Voces y una Historia en Directo'."
+  },
+  "inicio": "2027-01-01",
+  "fin": "2027-12-31",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": "España",
+  "ambito": "nacional",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "musica"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "5ca1bff217": {
+  "url": "https://www.20minutos.es/cultura/lola-herrera-deja-caja-las-letras-cervantes-un-ejemplar-deshojado-cinco-horas-con-mario-me-cambio-vida_7062176_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-11-17",
+  "es_plan": false
+ },
+ "0191872d5a": {
+  "url": "https://elpais.com/cultura/2026-11-17/felipe-iv-llega-lujosamente-vestido-desde-londres-a-la-galeria-de-las-colecciones-reales-de-madrid.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-11-17",
+  "es_plan": true,
+  "titulo": "Exposición del retrato de Felipe IV en Madrid hasta febrero de 2027",
+  "resumen": "La Galería de las Colecciones Reales de Madrid acoge el retrato de Felipe IV de Velázquez, cedido por la National Gallery. Podrá verse hasta el 14 de febrero de 2027.",
+  "en": {
+   "titulo": "Exhibition of Felipe IV's portrait in Madrid until February 2027",
+   "resumen": "The Gallery of Royal Collections in Madrid hosts Velázquez's portrait of Felipe IV, loaned by the National Gallery. It can be viewed until February 14, 2027."
+  },
+  "inicio": "2026-11-18",
+  "fin": "2027-02-14",
+  "hora": null,
+  "lugar": "Galería de las Colecciones Reales",
+  "municipio": "Madrid",
+  "provincia": "Madrid",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "3b51d0b028": {
+  "url": "https://elpais.com/cultura/2026-11-17/javier-bardem-espero-que-el-29-n-gane-un-gobierno-progresista-depende-de-nosotros-y-de-que-ejerzamos-un-voto-util.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-11-17",
+  "es_plan": false
+ },
+ "60c3167b4d": {
+  "url": "https://elpais.com/suscripciones/elpaismas/experiencias/2026-11-17/el-zorro-el-musical-en-el-teatro-la-latina.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-11-17",
+  "es_plan": true,
+  "titulo": "'El Zorro, El Musical' en el Teatro La Latina",
+  "resumen": "El Teatro La Latina presenta 'El Zorro, El Musical', una aventura teatral ambientada entre España y Los Ángeles. El espectáculo combina acción, música y coreografías.",
+  "en": {
+   "titulo": "'El Zorro, El Musical' at Teatro La Latina",
+   "resumen": "Teatro La Latina presents 'El Zorro, El Musical', a theatrical adventure set between Spain and Los Angeles. The show combines action, music, and choreography."
+  },
+  "inicio": "2026-11-17",
+  "fin": "2026-11-17",
+  "hora": null,
+  "lugar": "Teatro La Latina",
+  "municipio": "Madrid",
+  "provincia": "Madrid",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "51cefa6e16": {
+  "url": "https://www.lavanguardia.com/cultura/20261117/11686777/histeria-protesta-naturaleza-refugio-loop-toma-hotel-almanac.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-17",
+  "es_plan": true,
+  "titulo": "Feria de videoarte Loop en Barcelona",
+  "resumen": "La feria de videoarte Loop se celebra en Barcelona, ocupando el hotel Almanac. Presenta obras de 34 galerías internacionales que exploran temas como la misoginia y la naturaleza.",
+  "en": {
+   "titulo": "Loop video art fair in Barcelona",
+   "resumen": "The Loop video art fair takes place in Barcelona, occupying the Almanac hotel. It features works from 34 international galleries exploring themes such as misogyny and nature."
+  },
+  "inicio": "2026-11-17",
+  "fin": "2026-11-17",
+  "hora": null,
+  "lugar": "Hotel Almanac",
+  "municipio": "Barcelona",
+  "provincia": "Barcelona",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
  }
 }
