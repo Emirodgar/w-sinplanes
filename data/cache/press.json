@@ -10303,20 +10303,6 @@
   "a_cubierto": true,
   "confianza": 0.9
  },
- "b0e35392c5": {
-  "url": "https://www.20minutos.es/musica/entrevista-estopa-disco-maketa_7054201_0.html",
-  "fuente": "20minutos (Cultura)",
-  "src": "prensa-20minutos-cultura",
-  "publicado": "2026-11-03",
-  "es_plan": false
- },
- "3bfb093f26": {
-  "url": "https://elpais.com/cultura/2026-11-03/james-ellis-ford-de-producir-a-fontaines-dc-y-depeche-mode-a-grabar-con-olivia-rodrigo-desde-el-hospital-por-una-leucemia-nunca-me-permiti-pensar-que-iba-a-morir.html",
-  "fuente": "El País (Cultura)",
-  "src": "prensa-elpais-cultura",
-  "publicado": "2026-11-03",
-  "es_plan": false
- },
  "41e673398a": {
   "url": "https://elpais.com/espana/catalunya/2026-11-03/el-sonar-no-ha-muerto-su-edicion-de-2027-recupera-el-dia-y-vuelve-a-la-playa.html",
   "fuente": "El País (Cultura)",
@@ -10344,27 +10330,6 @@
   ],
   "a_cubierto": null,
   "confianza": 0.9
- },
- "f8d45bc459": {
-  "url": "https://elpais.com/cultura/2026-11-03/almudena-ariza-periodista-el-lobby-sionista-pedia-mi-cabeza-por-hacer-periodismo.html",
-  "fuente": "El País (Cultura)",
-  "src": "prensa-elpais-cultura",
-  "publicado": "2026-11-03",
-  "es_plan": false
- },
- "82d7dcd8af": {
-  "url": "https://elpais.com/cultura/2026-11-03/los-editores-europeos-se-muestran-mas-permeables-ante-el-tsunami-de-la-ia.html",
-  "fuente": "El País (Cultura)",
-  "src": "prensa-elpais-cultura",
-  "publicado": "2026-11-03",
-  "es_plan": false
- },
- "472271b98e": {
-  "url": "https://www.lavanguardia.com/cultura/20261103/11675005/philippe-jaenada-gana-goncourt-novela-policiaca.html",
-  "fuente": "La Vanguardia (Cultura)",
-  "src": "prensa-lavanguardia-cultura",
-  "publicado": "2026-11-03",
-  "es_plan": false
  },
  "b28f9e0db9": {
   "url": "https://www.lavanguardia.com/qf/20261103/11674352/if-barcelona-reivindica-teatro-visual-objetos-marionetas-treintena-espectaculos.html",
@@ -10562,13 +10527,6 @@
   "a_cubierto": true,
   "confianza": 0.85
  },
- "e386096419": {
-  "url": "https://www.ara.cat/societat/successos/activat-protocol-d-emergencia-l-aeroport-murcia-avis-bomba-avio_1_5898573.html",
-  "fuente": "Ara (Cultura)",
-  "src": "prensa-ara-cultura",
-  "publicado": "2026-11-03",
-  "es_plan": false
- },
  "5b137ac23d": {
   "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/03/zinentiendo-arranca-zaragoza-con-una-seleccion-cine-lgtbqi-premiado-grandes-festivales-2065285.html",
   "fuente": "Heraldo de Aragón (Ocio y cultura)",
@@ -10596,13 +10554,6 @@
   ],
   "a_cubierto": null,
   "confianza": 0.9
- },
- "c53e0dde37": {
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/03/bola-negra-es-ya-pelicula-mas-vista-ano-espana-2065269.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-11-03",
-  "es_plan": false
  },
  "ef0c87ae05": {
   "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/03/teatro-olimpia-reune-este-fin-semana-cine-musica-humor-con-salva-reina-jesus-arbues-2065261.html",
@@ -10633,20 +10584,6 @@
   "a_cubierto": true,
   "confianza": 0.9
  },
- "8a5f48b1c7": {
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/03/maximo-huerta-55anos-pregunto-cuando-no-este-acuerde-limpiar-lapida-nombre-2063917.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-11-03",
-  "es_plan": false
- },
- "1e72807180": {
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/03/victor-manuel-79anos-acabo-harto-hoteles-todos-iguales-cansa-final-gira-2063549.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-11-03",
-  "es_plan": false
- },
  "e129d91749": {
   "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/03/paloma-san-basilio-un-cigarrillo-medias-fumaria-con-cualquier-persona-interesante-2065050.html",
   "fuente": "Heraldo de Aragón (Ocio y cultura)",
@@ -10674,13 +10611,6 @@
   ],
   "a_cubierto": true,
   "confianza": 0.9
- },
- "069042a490": {
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/03/antonio-banderas-opina-javis-oscar-tienen-mucho-poder-visto-todavia-bola-negra-2065227.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-11-03",
-  "es_plan": false
  },
  "6d12dea9e4": {
   "url": "https://www.heraldo.es/ocio-y-cultura/video-paloma-san-basilio-las-redes-son-aburridisimas-que-necesidad-hay-estar-exhibiendose-constantemente-2065230-2.html",
@@ -10710,27 +10640,6 @@
   "a_cubierto": true,
   "confianza": 0.9
  },
- "22823afaba": {
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/03/arturo-perez-reverte-multado-no-llevar-cinturon-seguridad-taxi-2065210.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-11-03",
-  "es_plan": false
- },
- "4a9a9cf0e8": {
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/03/risto-mejide-51anos-desayuno-tostadas-pan-tumaca-jamon-iberico-zumo-naranja-cafe-leche-soja-2064373.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-11-03",
-  "es_plan": false
- },
- "47073c0555": {
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/03/david-ucles-36anos-polemica-arturo-perez-reverte-persigue-estados-unidos-2065196.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-11-03",
-  "es_plan": false
- },
  "4b3ecd04f5": {
   "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/03/enrique-bunbury-obligado-parar-concierto-hasta-aqui-2065189.html",
   "fuente": "Heraldo de Aragón (Ocio y cultura)",
@@ -10759,20 +10668,6 @@
   "a_cubierto": true,
   "confianza": 0.85
  },
- "91e3d7e1e3": {
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/03/miguel-bose-70anos-orgulloso-espanol-vamos-cansar-encima-espana-2064804.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-11-03",
-  "es_plan": false
- },
- "f5f2268ee8": {
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/03/joan-manuel-serrat-tengo-82anos-ningun-interes-perdurable-interesa-cabeza-aguante-2064269.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-11-03",
-  "es_plan": false
- },
  "987b4bca3c": {
   "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/03/kaseo-colega-dijo-vivia-marques-conteste-disco-vende-50000copias-revientalo-2064272.html",
   "fuente": "Heraldo de Aragón (Ocio y cultura)",
@@ -10800,48 +10695,6 @@
   ],
   "a_cubierto": null,
   "confianza": 0.85
- },
- "601be379ea": {
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/03/pancho-varona-giras-joaquin-sabina-jactaba-persona-escenario-admiracion-joan-manuel-serrat-2063915.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-11-03",
-  "es_plan": false
- },
- "83fd254264": {
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/03/carlos-sobera-zaragoza-primera-ciudad-conoci-10anos-sali-casa-pesado-guitarra-2064418.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-11-03",
-  "es_plan": false
- },
- "592da9825a": {
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/03/subasta-cantante-george-michael-desata-una-guerra-familiar-2065149.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-11-03",
-  "es_plan": false
- },
- "581a38195f": {
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/03/asi-es-casa-leonor-watling-jorge-drexler-chueca-madrid-decoracion-blanco-madera-libros-mucha-musica-2062143.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-11-03",
-  "es_plan": false
- },
- "b13a13ffd9": {
-  "url": "https://www.elnortedecastilla.es/culturas/tv/radiografia-ficcion-espanola-edad-oro-demasiadas-sombras-20261102000608-ntrc.html",
-  "fuente": "El Norte de Castilla (Culturas)",
-  "src": "prensa-nortecastilla-culturas",
-  "publicado": "2026-11-03",
-  "es_plan": false
- },
- "b2082a0c02": {
-  "url": "https://www.elnortedecastilla.es/culturas/canto-agua-vida-sebastiao-salgado-20261027001421-ntrc.html",
-  "fuente": "El Norte de Castilla (Culturas)",
-  "src": "prensa-nortecastilla-culturas",
-  "publicado": "2026-11-03",
-  "es_plan": false
  },
  "3859e2a6cc": {
   "url": "https://www.ideal.es/culturas/almeria/talleres-infantiles-encuentros-literarios-cine-exposiciones-propuestas-20261103134500-nt.html",
@@ -10873,13 +10726,6 @@
   "a_cubierto": null,
   "confianza": 0.5
  },
- "a364184318": {
-  "url": "https://www.ideal.es/culturas/almeria/festival-almerijazz-afronta-semana-grande-siete-propuestas-20261103131018-nt.html",
-  "fuente": "Ideal (Culturas)",
-  "src": "prensa-ideal-culturas",
-  "publicado": "2026-11-03",
-  "es_plan": false
- },
  "095f1de48a": {
   "url": "https://www.diariovasco.com/culturas/libros/lucia-solla-maximo-huerta-manuel-vilas-literaktum-20261103122310-nt.html",
   "fuente": "El Diario Vasco (Culturas)",
@@ -10907,20 +10753,6 @@
   ],
   "a_cubierto": null,
   "confianza": 0.85
- },
- "72c5f4dbbb": {
-  "url": "https://www.diariovasco.com/culturas/zinemaldia/gobierno-vasco-sube-300000-euros-aportacion-festival-20261103001010-nt.html",
-  "fuente": "El Diario Vasco (Culturas)",
-  "src": "prensa-diariovasco-culturas",
-  "publicado": "2026-11-03",
-  "es_plan": false
- },
- "9512a165e9": {
-  "url": "https://www.lasprovincias.es/culturas/valencia-aguarda-gran-homenaje-miquel-navarro-20261102010703-nt.html",
-  "fuente": "Las Provincias (Culturas)",
-  "src": "prensa-lasprovincias-culturas",
-  "publicado": "2026-11-03",
-  "es_plan": false
  },
  "be7f46bcd6": {
   "url": "https://www.laverdad.es/culturas/bullas-cartagena-jazz-festival-maxi-caballero-trio-20261103135426-nt.html",
@@ -10950,13 +10782,6 @@
   "a_cubierto": true,
   "confianza": 0.85
  },
- "fc160a1ef5": {
-  "url": "https://www.laverdad.es/culturas/creacia-abre-convocatoria-lab-neb-cultural-impulsar-20261103132549-nt.html",
-  "fuente": "La Verdad (Culturas)",
-  "src": "prensa-laverdad-culturas",
-  "publicado": "2026-11-03",
-  "es_plan": false
- },
  "8ea7b1e98a": {
   "url": "https://www.laverdad.es/culturas/cuenta-atras-inicio-segunda-feria-libro-molina-20261103131411-nt.html",
   "fuente": "La Verdad (Culturas)",
@@ -10984,13 +10809,6 @@
   ],
   "a_cubierto": null,
   "confianza": 0.85
- },
- "120d839972": {
-  "url": "https://www.laverdad.es/culturas/innovadora-murcia-participa-exposicion-internacional-libros-artista-20261103123135-nt.html",
-  "fuente": "La Verdad (Culturas)",
-  "src": "prensa-laverdad-culturas",
-  "publicado": "2026-11-03",
-  "es_plan": false
  },
  "4cf012b214": {
   "url": "https://www.eldiariomontanes.es/culturas/charlas-talleres-musica-festival-fanzines-autoedicion-caricias-20261103080258-nt.html",
@@ -11020,13 +10838,6 @@
   ],
   "a_cubierto": null,
   "confianza": 0.75
- },
- "4ba745c39b": {
-  "url": "https://www.larioja.com/culturas/biblioteca-rafael-azcona-acoge-exposicion-niebla-redes-20261103134141-nt.html",
-  "fuente": "La Rioja (Culturas)",
-  "src": "prensa-larioja-culturas",
-  "publicado": "2026-11-03",
-  "es_plan": false
  },
  "c05591141b": {
   "url": "https://www.larioja.com/culturas/ccr-acogera-sabados-noviembre-ciclo-documentales-danza-20261103125722-nt.html",
@@ -12161,13 +11972,6 @@
   ],
   "a_cubierto": true,
   "confianza": 0.9
- },
- "3de966a6f1": {
-  "url": "https://elpais.com/cultura/2026-11-03/la-justicia-italiana-reabre-el-caso-del-asesinato-de-pasolini-51-anos-despues-de-su-muerte.html",
-  "fuente": "El País (Cultura)",
-  "src": "prensa-elpais-cultura",
-  "publicado": "2026-11-03",
-  "es_plan": false
  },
  "3e9b8121c3": {
   "url": "https://www.europapress.es/cultura/cine-00128/noticia-regreso-godzilla-miserables-sacamantecas-manana-cines-20261105115846.html",
