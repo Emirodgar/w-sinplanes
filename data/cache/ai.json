@@ -45756,5 +45756,808 @@
    "naturaleza"
   ],
   "a_cubierto": true
+ },
+ "ef6cb90abf": {
+  "id": "2f89d6eb7c",
+  "es": {
+   "titulo": "Aquí no paga nadie",
+   "resumen": "Disfruta de la obra de teatro 'Aquí no paga nadie', una comedia sobre la supervivencia y la moralidad inspirada en Darío de Fo. La entrada es gratuita hasta completar aforo."
+  },
+  "en": {
+   "titulo": "Nobody Pays Here",
+   "resumen": "Enjoy the play 'Nobody Pays Here', a comedy about survival and morality inspired by Dario Fo. Entry is free until full capacity."
+  },
+  "temas": [
+   "cultura",
+   "fiestas"
+  ],
+  "a_cubierto": true
+ },
+ "27998317f6": {
+  "id": "642367e07c",
+  "es": {
+   "titulo": "Ballet Flamenco de Andalucía",
+   "resumen": "Asiste a una actuación del Ballet Flamenco de Andalucía en el Centro Danza Matadero (CDM)."
+  },
+  "en": {
+   "titulo": "Andalusian Flamenco Ballet",
+   "resumen": "Attend a performance by the Andalusian Flamenco Ballet at the Matadero Dance Center (CDM)."
+  },
+  "temas": [
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "8eb6fdbad0": {
+  "id": "3eb9a08e9b",
+  "es": {
+   "titulo": "Belén CMM Antonio Mingote",
+   "resumen": "Visita el Belén realizado por los socios del Centro Municipal de Mayores Antonio Mingote. Una muestra de la tradición navideña."
+  },
+  "en": {
+   "titulo": "CMM Antonio Mingote Nativity Scene",
+   "resumen": "Visit the Nativity scene created by the members of the Antonio Mingote Municipal Senior Center. A display of Christmas tradition."
+  },
+  "temas": [
+   "cultura",
+   "navidad",
+   "ninos"
+  ],
+  "a_cubierto": true
+ },
+ "ca27ff1421": {
+  "id": "d6e63d546f",
+  "es": {
+   "titulo": "Exposición 'El mundo es un Belén'",
+   "resumen": "Descubre la exposición 'El mundo es un Belén' en el Centro Cultural Galileo, con piezas de la Colección Basanta-Martín y belenes infantiles."
+  },
+  "en": {
+   "titulo": "'The World is a Nativity Scene' Exhibition",
+   "resumen": "Discover the 'The World is a Nativity Scene' exhibition at the Galileo Cultural Center, featuring pieces from the Basanta-Martín Collection and children's nativity scenes."
+  },
+  "temas": [
+   "cultura",
+   "ninos",
+   "navidad"
+  ],
+  "a_cubierto": true
+ },
+ "3a5408b011": {
+  "id": "ce4240ed97",
+  "es": {
+   "titulo": "Celebración del Día de la Constitución",
+   "resumen": "Participa en la celebración del Día de la Constitución en la Plaza de Chamberí con una lectura pública de artículos y un chocolate con churros."
+  },
+  "en": {
+   "titulo": "Constitution Day Celebration",
+   "resumen": "Participate in the Constitution Day celebration in Plaza de Chamberí with a public reading of articles and a chocolate with churros."
+  },
+  "temas": [
+   "cultura",
+   "fiestas"
+  ],
+  "a_cubierto": false
+ },
+ "05034e9be5": {
+  "id": "58e063b47f",
+  "es": {
+   "titulo": "Cine infantil: 'Shreketefeliz Navidad'",
+   "resumen": "Disfruta de la película infantil 'Shreketefeliz Navidad' en la Biblioteca María Lejárraga. Entrada libre hasta completar aforo."
+  },
+  "en": {
+   "titulo": "Children's Film: 'Shreketefeliz Navidad'",
+   "resumen": "Enjoy the children's film 'Shreketefeliz Navidad' at the María Lejárraga Library. Free entry until full capacity."
+  },
+  "temas": [
+   "ninos",
+   "pantalla",
+   "navidad"
+  ],
+  "a_cubierto": true
+ },
+ "d576d0b286": {
+  "id": "d79214efb9",
+  "es": {
+   "titulo": "Concierto de Ainhoa Arteta",
+   "resumen": "Experimenta la magia de la Navidad con el concierto de la reconocida soprano Ainhoa Arteta en la Iglesia de Nuestra Señora de los Ángeles."
+  },
+  "en": {
+   "titulo": "Ainhoa Arteta Concert",
+   "resumen": "Experience the magic of Christmas with a concert by the renowned soprano Ainhoa Arteta at the Church of Our Lady of the Angels."
+  },
+  "temas": [
+   "musica",
+   "navidad",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "d406d92919": {
+  "id": "48536d503f",
+  "es": {
+   "titulo": "Concierto de Ara Malikian",
+   "resumen": "Disfruta del virtuoso violinista Ara Malikian en un concierto que fusiona música clásica y estilos contemporáneos para celebrar el encendido de luces."
+  },
+  "en": {
+   "titulo": "Ara Malikian Concert",
+   "resumen": "Enjoy the virtuoso violinist Ara Malikian in a concert that blends classical music and contemporary styles to celebrate the lighting ceremony."
+  },
+  "temas": [
+   "musica",
+   "navidad",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "731999f3d6": {
+  "id": "0eedfadc0c",
+  "es": {
+   "titulo": "Concierto de Hey Kid",
+   "resumen": "La Plaza de Chamberí vibrará con la música en directo de Hey Kid, una revelación musical ideal para el público joven, tras el encendido de luces."
+  },
+  "en": {
+   "titulo": "Hey Kid Concert",
+   "resumen": "Plaza de Chamberí will buzz with the live music of Hey Kid, a musical revelation ideal for young audiences, after the lighting ceremony."
+  },
+  "temas": [
+   "musica",
+   "navidad"
+  ],
+  "a_cubierto": true
+ },
+ "3936f63d93": {
+  "id": "88e7cb2751",
+  "es": {
+   "titulo": "Conferencia: Los secretos ocultos del Belén",
+   "resumen": "Descubre los secretos ocultos de los belenes en una conferencia impartida por Antonio Basanta Reyes en el Centro Cultural Galileo."
+  },
+  "en": {
+   "titulo": "Lecture: The Hidden Secrets of Nativity Scenes",
+   "resumen": "Discover the hidden secrets of nativity scenes in a lecture given by Antonio Basanta Reyes at the Galileo Cultural Center."
+  },
+  "temas": [
+   "cultura",
+   "navidad"
+  ],
+  "a_cubierto": true
+ },
+ "2e06365d75": {
+  "id": "bc795e8cc0",
+  "es": {
+   "titulo": "Conferencia: El Belén, seña de identidad",
+   "resumen": "Antonio Basanta Reyes imparte una conferencia sobre 'El Belén, seña de identidad de la cultura española' en el Centro Cultural Galileo."
+  },
+  "en": {
+   "titulo": "Lecture: The Nativity Scene, a Cultural Identity",
+   "resumen": "Antonio Basanta Reyes gives a lecture on 'The Nativity Scene, a sign of Spanish cultural identity' at the Galileo Cultural Center."
+  },
+  "temas": [
+   "cultura",
+   "navidad"
+  ],
+  "a_cubierto": true
+ },
+ "2dd0b481ae": {
+  "id": "92a23e2c8f",
+  "es": {
+   "titulo": "El barrio de boca en boca - Usera",
+   "resumen": "Actividad en la Biblioteca Pública Municipal Gabriel García Márquez en Usera."
+  },
+  "en": {
+   "titulo": "The Neighborhood by Word of Mouth - Usera",
+   "resumen": "Activity at the Gabriel García Márquez Municipal Public Library in Usera."
+  },
+  "temas": [
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": true
+ },
+ "fa5fff333b": {
+  "id": "b8c13c5f3d",
+  "es": {
+   "titulo": "El poder de los cuentos",
+   "resumen": "Explora 'El poder de los cuentos' en la Biblioteca Pública Municipal Pablo Neruda."
+  },
+  "en": {
+   "titulo": "The Power of Stories",
+   "resumen": "Explore 'The Power of Stories' at the Pablo Neruda Municipal Public Library."
+  },
+  "temas": [
+   "cultura",
+   "libros",
+   "ninos"
+  ],
+  "a_cubierto": true
+ },
+ "baaf9ce9fd": {
+  "id": "6ff1b588a2",
+  "es": {
+   "titulo": "Encendido de luces de Navidad en Chamberí",
+   "resumen": "El Distrito de Chamberí da la bienvenida a la Navidad con el encendido de luces, acompañado de música de cámara, Ara Malikian y Hey Kid."
+  },
+  "en": {
+   "titulo": "Chamberí Christmas Lights Switch-On",
+   "resumen": "The Chamberí District welcomes Christmas with the lighting ceremony, accompanied by chamber music, Ara Malikian, and Hey Kid."
+  },
+  "temas": [
+   "musica",
+   "navidad",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "077950dfb3": {
+  "id": "fe54d0e060",
+  "es": {
+   "titulo": "Festival Coros en el Barrio 2026",
+   "resumen": "Asiste al Festival Coros en el Barrio 2026 en el Centro de Cultura Contemporánea CondeDuque."
+  },
+  "en": {
+   "titulo": "Festival Choirs in the Neighborhood 2026",
+   "resumen": "Attend the Festival Choirs in the Neighborhood 2026 at the CondeDuque Center for Contemporary Culture."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "7a6d68129c": {
+  "id": "917ca4c385",
+  "es": {
+   "titulo": "Fotomatón de Navidad",
+   "resumen": "Captura tus recuerdos navideños en el fotomatón gratuito de la Plaza de Chamberí y otras ubicaciones. ¡Sonríe, es Navidad!"
+  },
+  "en": {
+   "titulo": "Christmas Photo Booth",
+   "resumen": "Capture your Christmas memories at the free photo booth in Plaza de Chamberí and other locations. Smile, it's Christmas!"
+  },
+  "temas": [
+   "fiestas",
+   "navidad",
+   "actividades"
+  ],
+  "a_cubierto": false
+ },
+ "6a253d9f1d": {
+  "id": "5577bf4922",
+  "es": {
+   "titulo": "Instrumentos occidentales y orientales: encuentro musical",
+   "resumen": "Disfruta de un encuentro musical entre culturas con instrumentos occidentales y orientales en la Biblioteca Pública Municipal Eugenio Trías."
+  },
+  "en": {
+   "titulo": "Western and Eastern Instruments: A Musical Encounter",
+   "resumen": "Enjoy a musical encounter between cultures with Western and Eastern instruments at the Eugenio Trías Municipal Public Library."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "8ef7eaa8d3": {
+  "id": "2e42950ebe",
+  "es": {
+   "titulo": "Minidisco mágica",
+   "resumen": "Participa en la 'Minidisco mágica' en la Biblioteca Pública Municipal Eugenio Trías. Diversión para los más pequeños."
+  },
+  "en": {
+   "titulo": "Magic Mini-Disco",
+   "resumen": "Participate in the 'Magic Mini-Disco' at the Eugenio Trías Municipal Public Library. Fun for the little ones."
+  },
+  "temas": [
+   "ninos",
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "c1385af5f9": {
+  "id": "138151e151",
+  "es": {
+   "titulo": "Mirar Madrid: imágenes de una villa y corte",
+   "resumen": "Explora la evolución de Madrid a través de arte y documentos históricos en esta visita-taller para adultos. Crea tu propio cuaderno de viaje."
+  },
+  "en": {
+   "titulo": "Looking at Madrid: Images of a Villa and Court",
+   "resumen": "Explore Madrid's evolution through art and historical documents in this workshop-visit for adults. Create your own travel journal."
+  },
+  "temas": [
+   "cultura",
+   "museos",
+   "rutas"
+  ],
+  "a_cubierto": true
+ },
+ "34141c751d": {
+  "id": "d1c403b538",
+  "es": {
+   "titulo": "Música coral Bohème",
+   "resumen": "El Coro Bohéme, con jóvenes voces, ofrecerá un concierto de música navideña de alta calidad artística en la Parroquia de San Juan Crisóstomo."
+  },
+  "en": {
+   "titulo": "Bohème Choral Music",
+   "resumen": "The Bohème Choir, featuring young voices, will offer a high-quality Christmas music concert at the Parish of San Juan Crisóstomo."
+  },
+  "temas": [
+   "musica",
+   "navidad",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "762cca8428": {
+  "id": "76f1e32198",
+  "es": {
+   "titulo": "Música coral Coro de Actores",
+   "resumen": "El Coro de Actores, compuesto por profesionales de las artes escénicas, presenta un repertorio versátil en la Iglesia de Santa Teresa y Santa Isabel."
+  },
+  "en": {
+   "titulo": "Choral Music by the Actors' Choir",
+   "resumen": "The Actors' Choir, composed of performing arts professionals, presents a versatile repertoire at the Church of Santa Teresa and Santa Isabel."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "79bd355899": {
+  "id": "2c1dc39c2f",
+  "es": {
+   "titulo": "Música coral Ensemble Colmenar Viejo",
+   "resumen": "El Ensemble Colmenar Viejo ofrecerá un concierto de preparación para el Adviento con música navideña en la Iglesia de Santa Rita."
+  },
+  "en": {
+   "titulo": "Choral Music Ensemble Colmenar Viejo",
+   "resumen": "Ensemble Colmenar Viejo will offer a concert to prepare for Advent with Christmas music at the Church of Santa Rita."
+  },
+  "temas": [
+   "musica",
+   "navidad",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "c6e88c72fc": {
+  "id": "e206b9ea91",
+  "es": {
+   "titulo": "Música coral de alumnos Katarina Gurska",
+   "resumen": "Los alumnos del centro Katarina Gurska demostrarán su talento en un concierto de música clásica en el Centro Cultural Galileo."
+  },
+  "en": {
+   "titulo": "Choral Music by Katarina Gurska Students",
+   "resumen": "Students from the Katarina Gurska center will showcase their talent in a classical music concert at the Galileo Cultural Center."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "a4632db8b0": {
+  "id": "6e2443ec8a",
+  "es": {
+   "titulo": "Música coral navideña con Coro de Actores",
+   "resumen": "El Coro de Actores llenará el Centro Cultural Galileo de música navideña con un concierto de villancicos lleno de sensibilidad y talento."
+  },
+  "en": {
+   "titulo": "Christmas Choral Music with the Actors' Choir",
+   "resumen": "The Actors' Choir will fill the Galileo Cultural Center with Christmas music, performing carols with sensitivity and talent."
+  },
+  "temas": [
+   "musica",
+   "navidad",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "00d8d663fa": {
+  "id": "18370783ca",
+  "es": {
+   "titulo": "Música coral Galileo",
+   "resumen": "El Coro Galileo ofrece un concierto de melodías navideñas en el Centro Cultural Galileo. Una oportunidad para disfrutar de la alegría y la magia de la Navidad a través de la música."
+  },
+  "en": {
+   "titulo": "Galileo Choir Concert",
+   "resumen": "The Galileo Choir presents a concert of Christmas melodies at the Galileo Cultural Center. An opportunity to enjoy the joy and magic of Christmas through music."
+  },
+  "temas": [
+   "musica",
+   "navidad"
+  ],
+  "a_cubierto": true
+ },
+ "9fb686db7e": {
+  "id": "80a0dcae05",
+  "es": {
+   "titulo": "Música coral Maristas Chamberí",
+   "resumen": "El Coro Maristas Chamberí, con más de 30 años de trayectoria, presenta un concierto de villancicos y piezas corales en la Iglesia de San Cristóbal y San Rafael. Una actuación para celebrar el espíritu navideño."
+  },
+  "en": {
+   "titulo": "Maristas Chamberí Choir Concert",
+   "resumen": "The Maristas Chamberí Choir, with over 30 years of experience, presents a concert of carols and choral pieces at the Church of San Cristóbal y San Rafael. A performance to celebrate the Christmas spirit."
+  },
+  "temas": [
+   "musica",
+   "navidad"
+  ],
+  "a_cubierto": true
+ },
+ "fdbed6764c": {
+  "id": "069b843fc8",
+  "es": {
+   "titulo": "Música coral Matritum Cantat",
+   "resumen": "El Coro Matritum Cantat, dirigido por Javier Blanco, actuará en el Convento de las Siervas de María. Conocidos por sus colaboraciones con la Orquesta Sinfónica de Madrid, ofrecerán un concierto especial."
+  },
+  "en": {
+   "titulo": "Matritum Cantat Choir Concert",
+   "resumen": "The Matritum Cantat Choir, led by Javier Blanco, will perform at the Convent of the Servants of Mary. Known for their collaborations with the Madrid Symphony Orchestra, they will offer a special concert."
+  },
+  "temas": [
+   "musica",
+   "navidad"
+  ],
+  "a_cubierto": true
+ },
+ "e399ce2dae": {
+  "id": "1a2149d83b",
+  "es": {
+   "titulo": "Música Coral San Agustín",
+   "resumen": "La Coral San Agustín, galardonada en el Concurso de Villancicos del Ayuntamiento de Madrid, ofrecerá un concierto en la Iglesia de San José de la Montaña. Una cita para disfrutar de la música coral."
+  },
+  "en": {
+   "titulo": "San Agustín Coral Concert",
+   "resumen": "The San Agustín Coral, winners of the Madrid City Council's Carol Competition, will perform a concert at the Church of San José de la Montaña. An event to enjoy choral music."
+  },
+  "temas": [
+   "musica",
+   "navidad"
+  ],
+  "a_cubierto": true
+ },
+ "9546793b9a": {
+  "id": "db162e672f",
+  "es": {
+   "titulo": "Nacimiento en la Plaza de Chamberí",
+   "resumen": "Se inaugura el tradicional Nacimiento en la Plaza de Chamberí con acompañamiento musical del coro infantil Mushi. Un evento para dar la bienvenida a la temporada navideña."
+  },
+  "en": {
+   "titulo": "Nativity Scene in Plaza de Chamberí",
+   "resumen": "The traditional Nativity scene in Plaza de Chamberí opens with musical accompaniment from the Mushi children's choir. An event to welcome the Christmas season."
+  },
+  "temas": [
+   "navidad",
+   "ninos"
+  ],
+  "a_cubierto": true
+ },
+ "066b07734a": {
+  "id": "acda2f9292",
+  "es": {
+   "titulo": "Taller: Prepara tu Navidad - Regala de manera original",
+   "resumen": "Aprende técnicas creativas para envolver regalos y darles un toque personal y elegante en estas fiestas. Un taller práctico para sorprender con presentaciones únicas."
+  },
+  "en": {
+   "titulo": "Workshop: Prepare Your Christmas - Gift Wrapping Creatively",
+   "resumen": "Learn creative techniques to wrap gifts with a unique, elegant, and personal touch this holiday season. A practical workshop to surprise with special presentations."
+  },
+  "temas": [
+   "actividades",
+   "navidad"
+  ],
+  "a_cubierto": true
+ },
+ "dc74d88b51": {
+  "id": "5084d4e9eb",
+  "es": {
+   "titulo": "Taller: Prepara tu Navidad - Decora tu mesa",
+   "resumen": "Descubre ideas para crear una decoración de mesa acogedora y festiva, convirtiéndola en la protagonista de tus celebraciones navideñas. Un taller para cuidar cada detalle."
+  },
+  "en": {
+   "titulo": "Workshop: Prepare Your Christmas - Decorate Your Table",
+   "resumen": "Discover ideas for creating a cozy and festive table setting, making it the centerpiece of your Christmas celebrations. A workshop to perfect every detail."
+  },
+  "temas": [
+   "actividades",
+   "navidad"
+  ],
+  "a_cubierto": true
+ },
+ "d8671cce0b": {
+  "id": "27838ae21d",
+  "es": {
+   "titulo": "Taller: Prepara tu Navidad - Arreglos florales",
+   "resumen": "Aprende nuevas técnicas y diseños para elaborar originales adornos florales y centros de mesa navideños. Transforma tu hogar con arreglos creativos y únicos."
+  },
+  "en": {
+   "titulo": "Workshop: Prepare Your Christmas - Floral Arrangements",
+   "resumen": "Learn new techniques and designs to create original Christmas floral arrangements and centerpieces. Transform your home with creative and unique decorations."
+  },
+  "temas": [
+   "actividades",
+   "navidad"
+  ],
+  "a_cubierto": true
+ },
+ "a2bea635f8": {
+  "id": "788218ed51",
+  "es": {
+   "titulo": "Taller: Prepara tu Navidad - Decora tu casa",
+   "resumen": "Inspírate con propuestas sencillas y elegantes para transformar tu hogar en un espacio lleno de magia navideña. Ideas decorativas para cada estancia y estilo."
+  },
+  "en": {
+   "titulo": "Workshop: Prepare Your Christmas - Decorate Your Home",
+   "resumen": "Get inspired with simple and elegant ideas to transform your home into a space full of Christmas magic. Decorative suggestions for every room and style."
+  },
+  "temas": [
+   "actividades",
+   "navidad"
+  ],
+  "a_cubierto": true
+ },
+ "ca32e276a7": {
+  "id": "0303bbdc61",
+  "es": {
+   "titulo": "Taller: Prepara tu Navidad - Arreglos florales",
+   "resumen": "Crea centros y composiciones florales para llenar tu hogar de color y espíritu navideño. Un taller práctico para dar la bienvenida a la Navidad con elegancia."
+  },
+  "en": {
+   "titulo": "Workshop: Prepare Your Christmas - Floral Arrangements",
+   "resumen": "Create floral centerpieces and arrangements to fill your home with color and Christmas spirit. A practical workshop to welcome the holidays with elegance."
+  },
+  "temas": [
+   "actividades",
+   "navidad"
+  ],
+  "a_cubierto": true
+ },
+ "b891462690": {
+  "id": "2255079408",
+  "es": {
+   "titulo": "Programación infantil: El Gato con Botas",
+   "resumen": "Disfruta del musical infantil 'El Gato con Botas', una divertida historia de príncipes, princesas y un astuto felino. Dos pases disponibles para toda la familia."
+  },
+  "en": {
+   "titulo": "Children's Program: Puss in Boots",
+   "resumen": "Enjoy the children's musical 'Puss in Boots', a fun story of princes, princesses, and a clever feline. Two showtimes available for the whole family."
+  },
+  "temas": [
+   "ninos",
+   "musica",
+   "pantalla"
+  ],
+  "a_cubierto": true
+ },
+ "9934f0677f": {
+  "id": "1321f63b4f",
+  "es": {
+   "titulo": "Escuela de pequeños artesanos navideños",
+   "resumen": "Taller infantil para crear manualidades navideñas como tarjetas y bolas para el árbol. Una mañana de sábado llena de creatividad, juego y magia para niños de 3 a 10 años."
+  },
+  "en": {
+   "titulo": "Little Christmas Artisans School",
+   "resumen": "Children's workshop to create Christmas crafts like cards and tree ornaments. A Saturday morning filled with creativity, games, and magic for children aged 3 to 10."
+  },
+  "temas": [
+   "ninos",
+   "actividades",
+   "navidad"
+  ],
+  "a_cubierto": true
+ },
+ "ead218f834": {
+  "id": "dadb512e63",
+  "es": {
+   "titulo": "Swing en la Biblioteca: Sesión Balboa",
+   "resumen": "Una sesión de baile dedicada al estilo Balboa, ideal para los amantes del swing. Disfruta de la música y el ambiente en esta animada tarde."
+  },
+  "en": {
+   "titulo": "Swing at the Library: Balboa Session",
+   "resumen": "A dance session dedicated to the Balboa style, perfect for swing enthusiasts. Enjoy the music and atmosphere in this lively afternoon."
+  },
+  "temas": [
+   "musica",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "448f97a699": {
+  "id": "6d53d9514e",
+  "es": {
+   "titulo": "Taller de Baile: Contigo con Tango",
+   "resumen": "Explora la conexión y las relaciones a través del abrazo del tango en este taller de baile. No se requiere experiencia previa, solo ganas de vivir algo nuevo."
+  },
+  "en": {
+   "titulo": "Dance Workshop: With You in Tango",
+   "resumen": "Explore connection and relationships through the embrace of tango in this dance workshop. No prior experience is needed, just a desire to try something new."
+  },
+  "temas": [
+   "actividades",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "bb46cda1d0": {
+  "id": "745d14dc11",
+  "es": {
+   "titulo": "Taller de consumo y etiquetado",
+   "resumen": "Aprende sobre derechos del consumidor, consumo sostenible y el significado de las etiquetas. Un taller teórico-práctico en el Parque del Retiro para entender mejor nuestras compras."
+  },
+  "en": {
+   "titulo": "Consumerism and Labeling Workshop",
+   "resumen": "Learn about consumer rights, sustainable consumption, and the meaning of labels. A theoretical and practical workshop in Retiro Park to better understand our purchases."
+  },
+  "temas": [
+   "actividades",
+   "naturaleza"
+  ],
+  "a_cubierto": true
+ },
+ "86bb553de9": {
+  "id": "774a4fce5e",
+  "es": {
+   "titulo": "Talleres Animario 2026",
+   "resumen": "La Cineteca Madrid acoge una serie de talleres bajo el nombre de Animario 2026. Una oportunidad para explorar diferentes disciplinas creativas."
+  },
+  "en": {
+   "titulo": "Animario 2026 Workshops",
+   "resumen": "Cineteca Madrid hosts a series of workshops under the name Animario 2026. An opportunity to explore different creative disciplines."
+  },
+  "temas": [
+   "pantalla",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "04bc2258dd": {
+  "id": "7853bb8065",
+  "es": {
+   "titulo": "Talleres de coronas y roscones navideños",
+   "resumen": "Aprende a elaborar coronas navideñas inspiradas en Madrid y el tradicional roscón de Reyes. Talleres creativos y prácticos para disfrutar de la gastronomía y las manualidades."
+  },
+  "en": {
+   "titulo": "Christmas Wreath and Roscon Workshops",
+   "resumen": "Learn to make Christmas wreaths inspired by Madrid and the traditional King's cake (roscón de Reyes). Creative and practical workshops to enjoy gastronomy and crafts."
+  },
+  "temas": [
+   "actividades",
+   "navidad",
+   "gastronomia"
+  ],
+  "a_cubierto": true
+ },
+ "d5914cb4f1": {
+  "id": "451ee5247b",
+  "es": {
+   "titulo": "Tardes de música para Mayores",
+   "resumen": "Cuatro conciertos navideños gratuitos para personas mayores en el Centro Municipal de Mayores Antonio Mingote. Disfruta de música coral y actuaciones de diferentes grupos."
+  },
+  "en": {
+   "titulo": "Music Afternoons for Seniors",
+   "resumen": "Four free Christmas concerts for seniors at the Antonio Mingote Municipal Senior Center. Enjoy choral music and performances by various groups."
+  },
+  "temas": [
+   "musica",
+   "navidad"
+  ],
+  "a_cubierto": true
+ },
+ "e69f5e0af4": {
+  "id": "853a14755d",
+  "es": {
+   "titulo": "'Alcasser. Mi verdad' de Francisco García",
+   "resumen": "Presentación del libro 'Alcasser. Mi verdad' de Francisco García en la Biblioteca Pública Municipal José Saramago. Una oportunidad para conocer la obra del autor."
+  },
+  "en": {
+   "titulo": "'Alcasser. My Truth' by Francisco García",
+   "resumen": "Presentation of the book 'Alcasser. My Truth' by Francisco García at the José Saramago Municipal Public Library. An opportunity to learn about the author's work."
+  },
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "dbf98a09bb": {
+  "id": "a35d3bdf24",
+  "es": {
+   "titulo": "'Arde Malta' de José Manuel Sala",
+   "resumen": "Presentación del libro 'Arde Malta' de José Manuel Sala en la Biblioteca Pública Municipal Eugenio Trías. Una cita para los amantes de la literatura."
+  },
+  "en": {
+   "titulo": "'Arde Malta' by José Manuel Sala",
+   "resumen": "Presentation of the book 'Arde Malta' by José Manuel Sala at the Eugenio Trías Municipal Public Library. An event for literature lovers."
+  },
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "d089b84483": {
+  "id": "88df202e8d",
+  "es": {
+   "titulo": "Cuentacuentos: 'La increíble historia de un agujero negro'",
+   "resumen": "Un cuentacuentos para niños de 7 a 9 años sobre astronomía y agujeros negros. Descubre los misterios del universo a través de una historia fascinante."
+  },
+  "en": {
+   "titulo": "Storytelling: 'The Incredible Story of a Black Hole'",
+   "resumen": "A storytelling session for children aged 7 to 9 about astronomy and black holes. Discover the mysteries of the universe through a fascinating story."
+  },
+  "temas": [
+   "ninos",
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "e990cc505f": {
+  "id": "ffadaa62e5",
+  "es": {
+   "titulo": "'Las acequias del agua' de Antonio García Martínez",
+   "resumen": "Presentación del libro 'Las acequias del agua' de Antonio García Martínez en la Biblioteca Pública Municipal Eugenio Trías. Una oportunidad para explorar la temática del agua a través de la literatura."
+  },
+  "en": {
+   "titulo": "'The Water Acequias' by Antonio García Martínez",
+   "resumen": "Presentation of the book 'The Water Acequias' by Antonio García Martínez at the Eugenio Trías Municipal Public Library. An opportunity to explore the theme of water through literature."
+  },
+  "temas": [
+   "libros",
+   "agua",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "496df1b196": {
+  "id": "5768d3a629",
+  "es": {
+   "titulo": "Cuentacuentos: 'Los pedos de Alfredo'",
+   "resumen": "Un cuentacuentos y actividad para niños sobre emociones y valores, utilizando el tema de los pedos de forma divertida y natural. Los niños crearán su propio pedo con collage."
+  },
+  "en": {
+   "titulo": "Storytelling: 'Alfredo's Farts'",
+   "resumen": "A storytelling and activity session for children focusing on emotions and values, using the topic of farts in a fun and natural way. Children will create their own fart using collage."
+  },
+  "temas": [
+   "ninos",
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": true
+ },
+ "1256e9e129": {
+  "id": "590aab7903",
+  "es": {
+   "titulo": "'Mujeres y exterminio' de Pablo Martínez-Botello",
+   "resumen": "Presentación del libro 'Mujeres y exterminio' de Pablo Martínez-Botello en la Biblioteca Pública Municipal Ángel González. Una cita literaria para reflexionar sobre temas sociales."
+  },
+  "en": {
+   "titulo": "'Women and Extermination' by Pablo Martínez-Botello",
+   "resumen": "Presentation of the book 'Women and Extermination' by Pablo Martínez-Botello at the Ángel González Municipal Public Library. A literary event to reflect on social issues."
+  },
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "9b116a9c61": {
+  "id": "5be9fd96eb",
+  "es": {
+   "titulo": "Visita-taller familiar: Viajeros en el tiempo",
+   "resumen": "Un viaje familiar por la historia de Madrid a través de la Exposición del Antiguo Madrid de 1926. Descubre cómo era la ciudad y crea tu propia visión de Madrid en el futuro."
+  },
+  "en": {
+   "titulo": "Family Visit-Workshop: Time Travelers to Madrid",
+   "resumen": "A family journey through Madrid's history via the 1926 Old Madrid Exhibition. Discover what the city was like and create your own vision of Madrid's future."
+  },
+  "temas": [
+   "ninos",
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": true
  }
 }

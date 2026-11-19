@@ -25019,5 +25019,954 @@
   ],
   "a_cubierto": true,
   "confianza": 0.85
+ },
+ "6d069a50aa": {
+  "url": "https://www.europapress.es/cultura/cine-00128/noticia-nueva-entrega-juegos-hambre-director-mal-padre-llegan-cines-20261119115259.html",
+  "fuente": "Europa Press (Cultura)",
+  "src": "prensa-europapress-cultura",
+  "publicado": "2026-11-19",
+  "es_plan": true,
+  "titulo": "Estrenos de cine: 'Los juegos del hambre', 'El director' y 'El mal padre'",
+  "resumen": "Este viernes llegan a las salas de cine varias películas, destacando la precuela de 'Los juegos del hambre'. La cartelera se completa con dramas, comedias y otros géneros.",
+  "en": {
+   "titulo": "Cinema premieres: 'The Hunger Games', 'The Director', and 'The Bad Father'",
+   "resumen": "This Friday, several films arrive in cinemas, highlighting the prequel to 'The Hunger Games'. The lineup is completed with dramas, comedies, and other genres."
+  },
+  "inicio": "2026-11-20",
+  "fin": "2026-11-20",
+  "hora": null,
+  "lugar": "Cines",
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "bbd7d7514a": {
+  "url": "https://www.20minutos.es/musica/retiran-varias-canciones-barrio-las-plataformas-digitales-tras-una-sentencia-dejaron-ser-solamente-mias_7063176_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-11-19",
+  "es_plan": false
+ },
+ "6acb5c0056": {
+  "url": "https://www.20minutos.es/artes/andre-dorine-obra-teatro-muda-que-dice-muchas-cosas-tras-una-mascara_7062745_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-11-19",
+  "es_plan": true,
+  "titulo": "'André y Dorine', teatro de máscaras sin palabras en Madrid",
+  "resumen": "La obra muda 'André y Dorine' de Kulunka Teatro regresa a Madrid. Una tragicomedia de máscaras que narra una historia de amor en la vejez, hasta el 29 de noviembre.",
+  "en": {
+   "titulo": "'André y Dorine', wordless mask theatre in Madrid",
+   "resumen": "The wordless play 'André y Dorine' by Kulunka Teatro returns to Madrid. A mask tragicomedy telling a love story in old age, until November 29th."
+  },
+  "inicio": "2026-11-19",
+  "fin": "2026-11-29",
+  "hora": null,
+  "lugar": "Teatro Pavón",
+  "municipio": "Madrid",
+  "provincia": "Madrid",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "822ec664cf": {
+  "url": "https://www.20minutos.es/musica/rosalia-sorprende-los-musicos-que-intentaron-descifrar-berghain-hace-un-ano-con-un-regalo-muy-especial_7063127_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-11-19",
+  "es_plan": false
+ },
+ "d5bf15bb95": {
+  "url": "https://www.20minutos.es/musica/raya-real-presenta-con-alegria-su-nuevo-villancico-junto-amazon-music-una-gira-por-espana_7063096_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-11-19",
+  "es_plan": true,
+  "titulo": "Raya Real presenta 'Con Alegría' y gira navideña",
+  "resumen": "Raya Real lanza el villancico 'Con Alegría' con Amazon Music y anuncia una gira por España que comienza el 26 de noviembre en Palma de Mallorca.",
+  "en": {
+   "titulo": "Raya Real presents 'Con Alegría' and Christmas tour",
+   "resumen": "Raya Real releases the Christmas carol 'Con Alegría' with Amazon Music and announces a tour across Spain starting November 26th in Palma de Mallorca."
+  },
+  "inicio": "2026-11-26",
+  "fin": "2026-12-31",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica",
+   "fiestas",
+   "navidad"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "7f78b71ce1": {
+  "url": "https://www.20minutos.es/musica/crean-un-cantante-flamenco-con-ia-contratan-un-artista-que-se-le-parece-fisicamente-para-dar-un-concierto_7063033_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-11-19",
+  "es_plan": false
+ },
+ "ef49e3e3bf": {
+  "url": "https://www.20minutos.es/musica/telonera-los-secretos-gran-promesa-pop-espanol-debut-julieta-carrasco_7062938_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-11-19",
+  "es_plan": false
+ },
+ "04b49cfd28": {
+  "url": "https://elpais.com/cultura/cine/2026-11-19/you-can-see-everything-un-profundo-analisis-sobre-la-conducta-humana.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-11-19",
+  "es_plan": true,
+  "titulo": "Estreno en España del documental 'Puedes verlo todo'",
+  "resumen": "El documental 'Puedes verlo todo', de Nathan Fielder, que analiza la conducta humana, llega a España el 25 de diciembre tras su éxito en Estados Unidos.",
+  "en": {
+   "titulo": "Spanish premiere of the documentary 'You Can See Everything'",
+   "resumen": "The documentary 'You Can See Everything', by Nathan Fielder, which analyzes human behavior, arrives in Spain on December 25th after its success in the United States."
+  },
+  "inicio": "2026-12-25",
+  "fin": "2026-12-25",
+  "hora": null,
+  "lugar": "Cines",
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "f964c75815": {
+  "url": "https://elpais.com/podcasts/hoy-en-el-pais/2026-11-19/la-cultura-del-gta-vi-mas-alla-del-juego.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-11-19",
+  "es_plan": true,
+  "titulo": "Lanzamiento del videojuego GTA VI",
+  "resumen": "El esperado videojuego GTA VI se estrena este 19 de noviembre, prometiendo superar el éxito de entregas anteriores con una producción ambiciosa y fotorrealismo.",
+  "en": {
+   "titulo": "Launch of the video game GTA VI",
+   "resumen": "The highly anticipated video game GTA VI is released this November 19th, promising to surpass the success of previous installments with ambitious production and photorealism."
+  },
+  "inicio": "2026-11-19",
+  "fin": "2026-11-19",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "pantalla",
+   "actividades"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "e69b17cf21": {
+  "url": "https://elpais.com/cultura/2026-11-19/les-indes-la-agitada-historia-de-un-cuadro-de-velazquez-en-clave-de-road-movie-barroca.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-11-19",
+  "es_plan": true,
+  "titulo": "Proyección de 'Les Indes' en el Festival de Cine de Gijón",
+  "resumen": "La película 'Les Indes', una 'road movie' barroca sobre un cuadro de Velázquez, se proyecta este jueves en el Festival de Cine de Gijón.",
+  "en": {
+   "titulo": "Screening of 'Les Indes' at the Gijón Film Festival",
+   "resumen": "The film 'Les Indes', a baroque 'road movie' about a Velázquez painting, is screened this Thursday at the Gijón Film Festival."
+  },
+  "inicio": "2026-11-19",
+  "fin": "2026-11-19",
+  "hora": null,
+  "lugar": "Festival de Cine de Gijón",
+  "municipio": "Gijón",
+  "provincia": "Asturias",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "7c5428b695": {
+  "url": "https://www.lavanguardia.com/cultura/musica/20261119/11688249/quiere-le-apague-movil-exitosa-cruzada-festival-edimburgo-sonidos-indiscretos.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-19",
+  "es_plan": false
+ },
+ "729d4fd217": {
+  "url": "https://www.lavanguardia.com/cultura/musica/20261119/11688198/belen-nueva-orleans-joni-witzi-trae-villancicos-siempre-clave-jazz.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-19",
+  "es_plan": true,
+  "titulo": "Joni Witzi presenta 'FUM! FUM! JAZZ!' en El Vendrell y Madrid",
+  "resumen": "Joni Witzi reinventa los villancicos con jazz, swing y música afrocubana en su espectáculo 'FUM! FUM! JAZZ!'. Preestreno en El Vendrell el 20 de noviembre y gira en Madrid el 27.",
+  "en": {
+   "titulo": "Joni Witzi presents 'FUM! FUM! JAZZ!' in El Vendrell and Madrid",
+   "resumen": "Joni Witzi reinvents Christmas carols with jazz, swing, and Afro-Cuban music in his show 'FUM! FUM! JAZZ!'. Preview in El Vendrell on November 20th and tour in Madrid on the 27th."
+  },
+  "inicio": "2026-11-20",
+  "fin": "2027-01-06",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica",
+   "fiestas",
+   "navidad"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "c3f824946d": {
+  "url": "https://www.lavanguardia.com/cultura/20261119/11687955/luz-formas-marta-povo-arxiu-fotografic-muerte.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-19",
+  "es_plan": true,
+  "titulo": "Exposición de Marta Povo en el Arxiu Fotogràfic de Barcelona",
+  "resumen": "El Arxiu Fotogràfic de Barcelona acoge una exposición de Marta Povo del 19 de noviembre de 2026 al 23 de mayo de 2027, mostrando más de 140 fotografías.",
+  "en": {
+   "titulo": "Marta Povo exhibition at the Arxiu Fotogràfic de Barcelona",
+   "resumen": "The Arxiu Fotogràfic de Barcelona hosts an exhibition of Marta Povo from November 19, 2026, to May 23, 2027, showcasing over 140 photographs."
+  },
+  "inicio": "2026-11-19",
+  "fin": "2027-05-23",
+  "hora": null,
+  "lugar": "Arxiu Fotogràfic de Barcelona",
+  "municipio": "Barcelona",
+  "provincia": "Barcelona",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "2744164a2b": {
+  "url": "https://www.lavanguardia.com/cultura/20261119/11688136/reina-cuela-ultimo-ensayo-espectaculo-centro-danza-matadero.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-19",
+  "es_plan": false
+ },
+ "592418a99a": {
+  "url": "https://www.lavanguardia.com/cultura/20261119/11688120/victoria-camps-galardonada-premio-atlantida-gremi-d-editors-catalunya.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-19",
+  "es_plan": true,
+  "titulo": "Victòria Camps, premio Atlántida 2026 en Barcelona",
+  "resumen": "La filósofa Victòria Camps recibirá el premio Atlántida 2026 el 14 de diciembre en el Teatre Goya de Barcelona, reconociendo su pensamiento y ética.",
+  "en": {
+   "titulo": "Victòria Camps, Atlántida Award 2026 in Barcelona",
+   "resumen": "Philosopher Victòria Camps will receive the Atlántida Award 2026 on December 14th at the Teatre Goya in Barcelona, recognizing her thought and ethics."
+  },
+  "inicio": "2026-12-14",
+  "fin": "2026-12-14",
+  "hora": null,
+  "lugar": "Teatre Goya",
+  "municipio": "Barcelona",
+  "provincia": "Barcelona",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "7713230fd8": {
+  "url": "https://www.lavanguardia.com/cultura/20261119/11687995/fallece-xose-luis-mendez-ferrin-mayores-escritores-lengua-gallega-siglo-xx.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-19",
+  "es_plan": false
+ },
+ "502dac8840": {
+  "url": "https://www.lavanguardia.com/cultura/20261119/11687615/peeping-tom-revisita-temporada-alta.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-19",
+  "es_plan": true,
+  "titulo": "Peeping Tom revisita su salón en Temporada Alta",
+  "resumen": "Temporada Alta presenta un fin de semana de espectáculos de primer nivel con nombres como Peeping Tom, Agnès Mateus y Quim Tarrida, Oligor y Microscopía, y Xavier Bobés. El festival reúne a 80 profesionales de nueve países en su semana de programadores.",
+  "en": {
+   "titulo": "Peeping Tom revisits its stage at Temporada Alta",
+   "resumen": "Temporada Alta presents a weekend of top-tier performances featuring artists like Peeping Tom, Agnès Mateus and Quim Tarrida, Oligor y Microscopía, and Xavier Bobés. The festival brings together 80 professionals from nine countries for its programmers' week."
+  },
+  "inicio": "2026-11-19",
+  "fin": "2026-11-19",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": "Girona",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.7
+ },
+ "85e1ba3278": {
+  "url": "https://www.lavanguardia.com/cultura/20261119/11687580/xavier-alberti-teatro-pacto-convivencia-necesitamos-humanos.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-19",
+  "es_plan": true,
+  "titulo": "Xavier Albertí dirige 'La ira de Narciso' en el Teatro de la Abadía",
+  "resumen": "El dramaturgo catalán Xavier Albertí dirige 'La ira de Narciso', del autor francouruguayo Sergio Blanco, en el Teatro de la Abadía de Madrid. La obra se presenta en la programación del Festival de Otoño, siendo su estreno en España.",
+  "en": {
+   "titulo": "Xavier Albertí directs 'The Wrath of Narcissus' at La Abadía Theatre",
+   "resumen": "Catalan playwright Xavier Albertí directs 'The Wrath of Narcissus', by Franco-Uruguayan author Sergio Blanco, at the Teatro de la Abadía in Madrid. The play is part of the Autumn Festival program and marks its Spanish premiere."
+  },
+  "inicio": "2026-11-19",
+  "fin": "2026-11-19",
+  "hora": null,
+  "lugar": "Teatro de la Abadía",
+  "municipio": "Madrid",
+  "provincia": "Madrid",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "8e2a971a2f": {
+  "url": "https://www.lavanguardia.com/cultura/20261119/11682478/eduard-fernandez-el-mal-padre-tener-hijo-mas-dificil-bonito.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-19",
+  "es_plan": true,
+  "titulo": "Estreno de 'El mal padre' con Eduard Fernández",
+  "resumen": "Eduard Fernández protagoniza 'El mal padre', un drama familiar dirigido por Roberto Bueso que se estrena este viernes tras su paso por el festival de San Sebastián. La película narra la historia de un académico enfermo que reúne a sus hijos distanciados por Navidad.",
+  "en": {
+   "titulo": "Premiere of 'The Bad Father' starring Eduard Fernández",
+   "resumen": "Eduard Fernández stars in 'The Bad Father', a family drama directed by Roberto Bueso, premiering this Friday after its screening at the San Sebastián festival. The film tells the story of a sick academic who reunites his estranged children for Christmas."
+  },
+  "inicio": "2026-11-21",
+  "fin": "2026-11-21",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.75
+ },
+ "8800fd2f30": {
+  "url": "https://www.ara.cat/cultura/musica/joan-chamorro-promoc-comencin-improvisar-des-mes-petits_1_5914962.html",
+  "fuente": "Ara (Cultura)",
+  "src": "prensa-ara-cultura",
+  "publicado": "2026-11-19",
+  "es_plan": true,
+  "titulo": "Sant Andreu Jazz Band celebra 20 años en el Festival de Jazz de Barcelona",
+  "resumen": "La Sant Andreu Jazz Band, liderada por Joan Chamorro, celebra sus 20 años con conciertos especiales en el Festival de Jazz de Barcelona, donde recibirán la Medalla de Oro. El proyecto ha formado a músicos como Andrea Motis y Rita Payés.",
+  "en": {
+   "titulo": "Sant Andreu Jazz Band celebrates 20 years at the Barcelona Jazz Festival",
+   "resumen": "The Sant Andreu Jazz Band, led by Joan Chamorro, celebrates its 20th anniversary with special concerts at the Barcelona Jazz Festival, where they will receive the Gold Medal. The project has trained musicians like Andrea Motis and Rita Payés."
+  },
+  "inicio": "2026-11-19",
+  "fin": "2026-11-19",
+  "hora": null,
+  "lugar": null,
+  "municipio": "Barcelona",
+  "provincia": "Barcelona",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "7d47d5b8fe": {
+  "url": "https://www.ara.cat/cultura/art/vols-comencar-col-leccionar-art-setmana-l-art-t-ho-posa-facil_1_5914395.html",
+  "fuente": "Ara (Cultura)",
+  "src": "prensa-ara-cultura",
+  "publicado": "2026-11-19",
+  "es_plan": true,
+  "titulo": "La Setmana de l’Art acerca el arte contemporáneo al público",
+  "resumen": "La sexta edición de la Setmana de l’Art se celebrará del 25 al 29 de noviembre en galerías de todo el país, con el objetivo de acercar el arte contemporáneo, los artistas y las galerías al gran público.",
+  "en": {
+   "titulo": "Art Week makes contemporary art accessible to the public",
+   "resumen": "The sixth edition of Art Week will take place from November 25th to 29th in galleries across the country, aiming to bring contemporary art, artists, and galleries closer to the general public."
+  },
+  "inicio": "2026-11-25",
+  "fin": "2026-11-29",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "077aaa3d9f": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/19/carlos-herrera-feijoo-arraso-sanchez-debate-luego-psoe-gano-post-debate-veces-tiene-mas-efecto-opinion-publicada-2070042.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-19",
+  "es_plan": true,
+  "titulo": "Debate electoral entre Pedro Sánchez y Alberto Núñez Feijóo",
+  "resumen": "El presidente del Gobierno y el líder del PP se enfrentan en el único cara a cara televisado antes de las elecciones generales del 29 de noviembre. El debate se celebra este jueves a las 22:00 en Tres Cantos (Madrid) y será moderado por María Casado.",
+  "en": {
+   "titulo": "Electoral debate between Pedro Sánchez and Alberto Núñez Feijóo",
+   "resumen": "The Prime Minister and the leader of the PP face off in the only televised debate before the general elections on November 29th. The debate takes place this Thursday at 10:00 PM in Tres Cantos (Madrid) and will be moderated by María Casado."
+  },
+  "inicio": "2026-11-19",
+  "fin": "2026-11-19",
+  "hora": "22:00",
+  "lugar": "Plató A de Madrid Content City",
+  "municipio": "Tres Cantos",
+  "provincia": "Madrid",
+  "ambito": "nacional",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "pantalla"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "47718d970c": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/19/andres-roca-rey-30anos-vivo-solo-casa-campo-disfruto-mucho-estar-metido-mi-2066723.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-19",
+  "es_plan": true,
+  "titulo": "Roca Rey continúa su temporada taurina en México",
+  "resumen": "Tras triunfar en Lima, el torero peruano Andrés Roca Rey se presenta en México el próximo 20 de noviembre en Monterrey, seguido de actuaciones en Aguascalientes, León y Apizaco. El diestro cumple 30 años y reflexiona sobre su disciplina.",
+  "en": {
+   "titulo": "Roca Rey continues his bullfighting season in Mexico",
+   "resumen": "After succeeding in Lima, Peruvian bullfighter Andrés Roca Rey will perform in Mexico on November 20th in Monterrey, followed by appearances in Aguascalientes, León, and Apizaco. The bullfighter turns 30 and reflects on his discipline."
+  },
+  "inicio": "2026-11-20",
+  "fin": "2026-11-20",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "deporte"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.75
+ },
+ "65e15e1345": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/19/pedro-almodovar-no-rechazaria-nicole-kidman-ademas-ser-buena-actriz-operado-resulta-esta-mejor-nunca-2069996.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-19",
+  "es_plan": false
+ },
+ "6e3c546ebf": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/19/guitarricadelafuente-actor-bola-negra-madre-medico-acaba-jubilar-siempre-deseado-comediante-2069969.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-19",
+  "es_plan": false
+ },
+ "9a2a9a698b": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/19/javier-bardem-espero-gane-gobierno-progresista-respete-derechos-mujeres-vivienda-educacion-sanidad-publica-2069951.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-19",
+  "es_plan": false
+ },
+ "061b6b2989": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/19/critica-cine-como-robar-banco-revolucion-superficial-2069967.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-19",
+  "es_plan": false
+ },
+ "f9f25ab385": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/19/primer-cine-tecnologia-4dx-aragon-aragonia-zaragoza-2069934.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-19",
+  "es_plan": true,
+  "titulo": "Aragón estrena cine 4DX en Cines Aragonia con 'Vengadores: Doomsday'",
+  "resumen": "Zaragoza acoge el primer cine con tecnología 4DX de Aragón en Cines Aragonia, que proyectará 'Vengadores: Doomsday' a partir del 18 de diciembre de 2026. La sala ofrecerá efectos como movimiento, viento, lluvia y nieve.",
+  "en": {
+   "titulo": "Aragon premieres 4DX cinema at Cines Aragonia with 'Avengers: Doomsday'",
+   "resumen": "Zaragoza hosts Aragon's first 4DX cinema at Cines Aragonia, which will screen 'Avengers: Doomsday' starting December 18, 2026. The theater will offer effects such as motion, wind, rain, and snow."
+  },
+  "inicio": "2026-12-18",
+  "fin": "2026-12-18",
+  "hora": null,
+  "lugar": "Cines Aragonia",
+  "municipio": "Zaragoza",
+  "provincia": "Zaragoza",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "pantalla",
+   "actividades"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "16992b443d": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/19/lola-herrera-91-anos-soy-mujer-no-puedo-entender-otra-mujer-pueda-votar-santiago-abascal-no-tiene-sentido-2069273.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-19",
+  "es_plan": true,
+  "titulo": "Lola Herrera de gira con 'Camino a la Meca'",
+  "resumen": "A sus 91 años, Lola Herrera continúa de gira por España con la obra de teatro 'Camino a la Meca', compartiendo escenario con su hija Natalia Dicenta. Las próximas paradas son Alcorcón y Barbastro.",
+  "en": {
+   "titulo": "Lola Herrera on tour with 'Camino a la Meca'",
+   "resumen": "At 91 years old, Lola Herrera continues her tour across Spain with the play 'Camino a la Meca', sharing the stage with her daughter Natalia Dicenta. The next stops are Alcorcón and Barbastro."
+  },
+  "inicio": "2026-11-19",
+  "fin": "2026-11-19",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "e3677697ab": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/19/julio-jose-iglesias-53anos-encanta-gente-diga-quiera-gustaria-vinieran-concierto-vean-historia-cuento-2066110.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-19",
+  "es_plan": true,
+  "titulo": "Julio José Iglesias inicia gira en España homenajeando a su padre",
+  "resumen": "Julio Iglesias Jr. inicia en España una gira de conciertos para rendir homenaje a su padre, Julio Iglesias, interpretando sus grandes éxitos. El artista se siente \"muy español\" y mantiene un fuerte vínculo con su país.",
+  "en": {
+   "titulo": "Julio José Iglesias begins tribute tour in Spain honoring his father",
+   "resumen": "Julio Iglesias Jr. kicks off a concert tour in Spain paying tribute to his father, Julio Iglesias, by performing his greatest hits. The artist feels \"very Spanish\" and maintains a strong connection to his country."
+  },
+  "inicio": "2026-11-19",
+  "fin": "2026-11-19",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "8581c817b0": {
+  "url": "https://www.diariovasco.com/culturas/libros/novela-asesinato-donostiarra-era-reto-situar-thriller-tamborrada-20261119194851-nt.html",
+  "fuente": "El Diario Vasco (Culturas)",
+  "src": "prensa-diariovasco-culturas",
+  "publicado": "2026-11-19",
+  "es_plan": false
+ },
+ "3571e4d242": {
+  "url": "https://www.diariovasco.com/oarsoaldea/pasaia/vuelve-cine-revela-riqueza-natural-esconde-fondo-mar-20261118163234-nt.html",
+  "fuente": "El Diario Vasco (Culturas)",
+  "src": "prensa-diariovasco-culturas",
+  "publicado": "2026-11-19",
+  "es_plan": true,
+  "titulo": "Vuelve el cine que revela la riqueza natural que esconde el fondo del mar",
+  "resumen": "El Ciclo Internacional de Cine Submarino (CIMASUB) regresa a Pasaia en diciembre para celebrar su 50 aniversario, mostrando la riqueza natural submarina.",
+  "en": {
+   "titulo": "Cinema revealing the natural richness hidden at the bottom of the sea returns",
+   "resumen": "The International Submarine Film Cycle (CIMASUB) returns to Pasaia in December to celebrate its 50th anniversary, showcasing underwater natural richness."
+  },
+  "inicio": "2026-12-01",
+  "fin": "2026-12-01",
+  "hora": null,
+  "lugar": null,
+  "municipio": "Pasaia",
+  "provincia": "Gipuzkoa",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "naturaleza",
+   "agua",
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.7
+ },
+ "935d58257f": {
+  "url": "https://www.diariovasco.com/bajo-deba/eibar/olatz-gorrotxategi-lleva-coliseo-historia-memoria-familiar-20261118162540-nt.html",
+  "fuente": "El Diario Vasco (Culturas)",
+  "src": "prensa-diariovasco-culturas",
+  "publicado": "2026-11-19",
+  "es_plan": true,
+  "titulo": "Olatz Gorrotxategi lleva al Coliseo la historia de una memoria familiar con '43º 13' 44'' N'",
+  "resumen": "La actriz y dramaturga Olatz Gorrotxategi presenta este viernes en el Coliseo una pieza de teatro documental sobre la vida de su tío abuelo.",
+  "en": {
+   "titulo": "Olatz Gorrotxategi brings a family memory story to the Coliseo with '43º 13' 44'' N'",
+   "resumen": "Actress and playwright Olatz Gorrotxategi presents a documentary theatre piece about her great-uncle's life this Friday at the Coliseo."
+  },
+  "inicio": "2026-11-19",
+  "fin": "2026-11-19",
+  "hora": "19:00",
+  "lugar": "Coliseo",
+  "municipio": null,
+  "provincia": "Gipuzkoa",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "c3d1a08140": {
+  "url": "https://www.diariovasco.com/culturas/musica/coro-ciudadano-abestu-euskadiko-orkestrarekin-ultima-estreno-20261119070140-nt.html",
+  "fuente": "El Diario Vasco (Culturas)",
+  "src": "prensa-diariovasco-culturas",
+  "publicado": "2026-11-19",
+  "es_plan": true,
+  "titulo": "El coro ciudadano Abestu Euskadiko Orkestrarekin ultima su estreno",
+  "resumen": "El coro ciudadano Abestu actuará con la Euskadiko Orkestra en el Auditorio Kursaal los días 26 y 27 de noviembre, tras pasar por Pamplona y Bilbao.",
+  "en": {
+   "titulo": "The citizen choir Abestu with the Euskadiko Orchestra finalizes its premiere",
+   "resumen": "The citizen choir Abestu will perform with the Euskadiko Orchestra at the Kursaal Auditorium on November 26th and 27th, after stops in Pamplona and Bilbao."
+  },
+  "inicio": "2026-11-26",
+  "fin": "2026-11-27",
+  "hora": null,
+  "lugar": "Auditorio Kursaal",
+  "municipio": null,
+  "provincia": "Gipuzkoa",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "26f89aa0e1": {
+  "url": "https://www.diariovasco.com/culturas/musica/musikene-orfeon-usandizaga-20261119174034-nt.html",
+  "fuente": "El Diario Vasco (Culturas)",
+  "src": "prensa-diariovasco-culturas",
+  "publicado": "2026-11-19",
+  "es_plan": true,
+  "titulo": "Jesús Echeverría dirige este viernes en el Kursaal 'Las golondrinas' de Usandizaga",
+  "resumen": "Con motivo del 25 aniversario de Musikene, Jesús Echeverría dirigirá la obra 'Las golondrinas' de Usandizaga este viernes en el Kursaal.",
+  "en": {
+   "titulo": "Jesús Echeverría conducts Usandizaga's 'Las golondrinas' this Friday at the Kursaal",
+   "resumen": "To commemorate Musikene's 25th anniversary, Jesús Echeverría will conduct Usandizaga's work 'Las golondrinas' this Friday at the Kursaal."
+  },
+  "inicio": "2026-11-19",
+  "fin": "2026-11-19",
+  "hora": null,
+  "lugar": "Kursaal",
+  "municipio": null,
+  "provincia": "Gipuzkoa",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "9e062cae78": {
+  "url": "https://www.lasprovincias.es/culturas/teatro/conselleria-disposicion-total-llegar-acuerdos-teatro-principal-20261119131735-nt.html",
+  "fuente": "Las Provincias (Culturas)",
+  "src": "prensa-lasprovincias-culturas",
+  "publicado": "2026-11-19",
+  "es_plan": false
+ },
+ "af6cde3d5b": {
+  "url": "https://www.lasprovincias.es/culturas/inyeccion-economica-ivam-pueda-completar-programacion-ano-20261119113026-nt.html",
+  "fuente": "Las Provincias (Culturas)",
+  "src": "prensa-lasprovincias-culturas",
+  "publicado": "2026-11-19",
+  "es_plan": false
+ },
+ "6cdac13caa": {
+  "url": "https://www.lasprovincias.es/culturas/musica/abogados-valencianos-juegan-hombres-bad-bunny-20261117164409-nt.html",
+  "fuente": "Las Provincias (Culturas)",
+  "src": "prensa-lasprovincias-culturas",
+  "publicado": "2026-11-19",
+  "es_plan": true,
+  "titulo": "Los abogados valencianos que juegan a ser Hombres G y Bad Bunny",
+  "resumen": "La banda de abogados Imperio de la Ley, junto a Los Improcedentes, ofrecerán un concierto este viernes en Palau Alameda.",
+  "en": {
+   "titulo": "Valencian lawyers who play as Hombres G and Bad Bunny",
+   "resumen": "The lawyer band Imperio de la Ley, along with Los Improcedentes, will perform a concert this Friday at Palau Alameda."
+  },
+  "inicio": "2026-11-19",
+  "fin": "2026-11-19",
+  "hora": null,
+  "lugar": "Palau Alameda",
+  "municipio": null,
+  "provincia": "Comunitat Valenciana",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.5
+ },
+ "90cce63f67": {
+  "url": "https://www.laverdad.es/culturas/escritora-maria-duenas-presenta-sabado-cartagena-nuevo-20261119111705-nt.html",
+  "fuente": "La Verdad (Culturas)",
+  "src": "prensa-laverdad-culturas",
+  "publicado": "2026-11-19",
+  "es_plan": true,
+  "titulo": "María Dueñas presenta este sábado en Cartagena el nuevo álbum ilustrado de Elda Moreno y Ricard López",
+  "resumen": "La escritora María Dueñas presentará el sábado en Cartagena el libro juvenil ilustrado 'Lazos', que fomenta la empatía y la cooperación.",
+  "en": {
+   "titulo": "María Dueñas presents Elda Moreno and Ricard López's new illustrated album this Saturday in Cartagena",
+   "resumen": "Author María Dueñas will present the illustrated youth book 'Lazos' this Saturday in Cartagena, which promotes empathy and cooperation."
+  },
+  "inicio": "2026-11-22",
+  "fin": "2026-11-22",
+  "hora": null,
+  "lugar": null,
+  "municipio": "Cartagena",
+  "provincia": "Región de Murcia",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "libros",
+   "cultura",
+   "ninos"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.5
+ },
+ "fe9f6efe24": {
+  "url": "https://www.laverdad.es/culturas/cineasta-eva-libertad-critico-javier-ocana-completan-20261119113354-nt.html",
+  "fuente": "La Verdad (Culturas)",
+  "src": "prensa-laverdad-culturas",
+  "publicado": "2026-11-19",
+  "es_plan": false
+ },
+ "dd4abd7130": {
+  "url": "https://www.laverdad.es/culturas/dysphoria-realidad-personas-trans-20261119001207-nt.html",
+  "fuente": "La Verdad (Culturas)",
+  "src": "prensa-laverdad-culturas",
+  "publicado": "2026-11-19",
+  "es_plan": true,
+  "titulo": "'Dysphoria' y la realidad de las personas trans en el Festival Determinantes",
+  "resumen": "El monólogo 'Dysphoria', interpretado por Gema Matarranz, abordará la realidad de las personas trans y se presentará el próximo miércoles en el Teatro Circo Murcia.",
+  "en": {
+   "titulo": "'Dysphoria' and the reality of trans people at the Determinantes Festival",
+   "resumen": "The monologue 'Dysphoria', performed by Gema Matarranz, will address the reality of trans people and will be presented next Wednesday at the Teatro Circo Murcia."
+  },
+  "inicio": "2026-11-24",
+  "fin": "2026-11-24",
+  "hora": null,
+  "lugar": "Teatro Circo Murcia",
+  "municipio": "Murcia",
+  "provincia": "Región de Murcia",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.5
+ },
+ "d117f57cf1": {
+  "url": "https://www.eldiariomontanes.es/culturas/centro-botin-dedica-programacion-fin-ano-procesos-20261119072156-nt.html",
+  "fuente": "El Diario Montañés (Culturas)",
+  "src": "prensa-diariomontanes-culturas",
+  "publicado": "2026-11-19",
+  "es_plan": true,
+  "titulo": "El Centro Botín dedica su programación de fin de año a los procesos creativos",
+  "resumen": "El Centro Botín presenta la colectiva 'Itinerarios', esculturas de Solange Pessoa y el ciclo 'Así se hace' en diciembre, centrados en procesos creativos.",
+  "en": {
+   "titulo": "Centro Botín dedicates its year-end programming to creative processes",
+   "resumen": "Centro Botín presents the collective exhibition 'Itinerarios', sculptures by Solange Pessoa, and the 'Así se hace' cycle in December, focusing on creative processes."
+  },
+  "inicio": "2026-11-20",
+  "fin": "2026-11-20",
+  "hora": null,
+  "lugar": "Centro Botín",
+  "municipio": null,
+  "provincia": "Cantabria",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "museos",
+   "actividades"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "9397696d62": {
+  "url": "https://www.eldiariomontanes.es/culturas/pieza-proyecto-vecinas-barrio-habitado-estrena-sala-20261119074354-nt.html",
+  "fuente": "El Diario Montañés (Culturas)",
+  "src": "prensa-diariomontanes-culturas",
+  "publicado": "2026-11-19",
+  "es_plan": true,
+  "titulo": "Estreno de 'Vecinas. El barrio habitado' y 'Jardín virtual' gratuito en Escena Miriñaque",
+  "resumen": "Se estrena la pieza 'Vecinas. El barrio habitado' y se ofrece una sesión gratuita de la experiencia inmersiva 'Jardín virtual' en Escena Miriñaque.",
+  "en": {
+   "titulo": "Premiere of 'Vecinas. El barrio habitado' and free 'Jardín virtual' at Escena Miriñaque",
+   "resumen": "The piece 'Vecinas. El barrio habitado' premieres, and a free session of the immersive experience 'Jardín virtual' is offered at Escena Miriñaque."
+  },
+  "inicio": "2026-11-20",
+  "fin": "2026-11-20",
+  "hora": null,
+  "lugar": "Escena Miriñaque",
+  "municipio": null,
+  "provincia": "Cantabria",
+  "ambito": "local",
+  "gratis": true,
+  "precio": "gratuita",
+  "temas": [
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "e65658cf15": {
+  "url": "https://www.larioja.com/culturas/agenda-cultural-rioja-noviembre-20261118145316-nt.html",
+  "fuente": "La Rioja (Culturas)",
+  "src": "prensa-larioja-culturas",
+  "publicado": "2026-11-19",
+  "es_plan": true,
+  "titulo": "Agenda cultural de La Rioja: 'Hija de la Luna', Ópera Madame Butterfly y Shakespeare",
+  "resumen": "La Rioja ofrece 'Hija de la Luna', la Ópera Madame Butterfly, Oslo Ovnies en la sala Rever y una comedia de Shakespeare en el teatro Bretón.",
+  "en": {
+   "titulo": "La Rioja's cultural agenda: 'Hija de la Luna', Opera Madame Butterfly, and Shakespeare",
+   "resumen": "La Rioja features 'Hija de la Luna', the Opera Madame Butterfly, Oslo Ovnies at Sala Rever, and a Shakespeare comedy at Teatro Bretón."
+  },
+  "inicio": "2026-11-19",
+  "fin": "2026-11-22",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": "La Rioja",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "2b47361a70": {
+  "url": "https://www.larioja.com/culturas/foro-espiritualidad-reflexionara-sobre-aceptacion-enero-riojaforum-20261119144736-nt.html",
+  "fuente": "La Rioja (Culturas)",
+  "src": "prensa-larioja-culturas",
+  "publicado": "2026-11-19",
+  "es_plan": true,
+  "titulo": "XV Foro de la Espiritualidad reflexionará sobre la aceptación el 30 y 31 de enero",
+  "resumen": "El XV Foro de la Espiritualidad se celebrará el 30 y 31 de enero en Riojafórum, centrado en la reflexión sobre la aceptación. Las entradas salen a la venta el 27 de noviembre.",
+  "en": {
+   "titulo": "15th Spirituality Forum will reflect on acceptance on January 30th and 31st",
+   "resumen": "The 15th Spirituality Forum will take place on January 30th and 31st at Riojafórum, focusing on reflection about acceptance. Tickets go on sale November 27th."
+  },
+  "inicio": "2027-01-30",
+  "fin": "2027-01-31",
+  "hora": null,
+  "lugar": "Riojafórum",
+  "municipio": null,
+  "provincia": "La Rioja",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "actividades",
+   "cultura"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
  }
 }

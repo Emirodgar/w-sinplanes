@@ -1458,6 +1458,16 @@
    ]
   },
   {
+   "term": "pasapalabra",
+   "traffic": 500,
+   "lastSeen": "2026-11-19",
+   "news": [
+    "El nuevo hito de Moisés en Pasapalabra: 50 programas y un gesto de complicidad con David",
+    "Moisés Laguardia alcanza su primer gran hito desde que regresó a 'Pasapalabra': \"¡Estas cosas hay que celebrarlas, sí señor!\"",
+    "El nuevo hito de Moisés en Pasapalabra: 50 programas y un gesto de complicidad con David"
+   ]
+  },
+  {
    "term": "cr7",
    "traffic": 200,
    "lastSeen": "2026-11-05",
@@ -2318,6 +2328,56 @@
    ]
   },
   {
+   "term": "antonio roma",
+   "traffic": 200,
+   "lastSeen": "2026-11-19",
+   "news": [
+    "¿Quién es Antonio Roma? El cantante que no existe, tiene 185.000 oyentes en Spotify y dará un concierto",
+    "Un cantante flamenco generado con IA dará su primer concierto en Madrid: “No es humano, es un concepto”",
+    "Crean un cantante flamenco con IA y contratan a un artista que se le parece físicamente para dar un concierto"
+   ]
+  },
+  {
+   "term": "explosivo",
+   "traffic": 200,
+   "lastSeen": "2026-11-19",
+   "news": [
+    "Los Tedax retiran un artefacto explosivo antiguo encontrado en los terrenos de AWS en Walqa",
+    "Frente común sindical y político en Vigo contra el «discurso antiobrero» y el ataque a UGT",
+    "Pepe Álvarez lamenta el \"ataque terrorista\" a la sede de UGT en Vigo"
+   ]
+  },
+  {
+   "term": "cintia rocho",
+   "traffic": 200,
+   "lastSeen": "2026-11-19",
+   "news": [
+    "La líder del clan de 'los Rocho' pide escolta para declarar en la Audiencia Nacional por el 'caso Cloacas'",
+    "Cintia Rocho pide protección policial al juez Pedraz para su declaración en la causa de las cloacas del PSOE",
+    "La líder de los Rochos pide protección tras dejar en evidencia a las ‘cloacas’ del PSOE"
+   ]
+  },
+  {
+   "term": "comisión europea",
+   "traffic": 200,
+   "lastSeen": "2026-11-19",
+   "news": [
+    "Un ciberataque con una herramienta de IA accede a los servidores internos de la Comisión Europea",
+    "La Comisión Europea sufre un ciberataque con IA",
+    "La Comisión Europea investiga un ciberataque a un programa interno y no aclara si hubo robo de datos"
+   ]
+  },
+  {
+   "term": "aitana",
+   "traffic": 200,
+   "lastSeen": "2026-11-19",
+   "news": [
+    "Aitana, ante las próximas elecciones del 29 de noviembre: “Sigamos avanzando y no retrocediendo”",
+    "Aitana, sobre las elecciones: “Sigamos avanzando y no retrocediendo, por favor”",
+    "\"No deberíamos normalizar vivir el futuro con miedo\": el aplaudido mensaje de Aitana que reivindica la empatía y alerta contra los retrocesos"
+   ]
+  },
+  {
    "term": "operador ferroviario",
    "traffic": 100,
    "lastSeen": "2026-11-07",
@@ -2402,6 +2462,44 @@
    "traffic": 100,
    "lastSeen": "2026-11-17",
    "news": []
+  },
+  {
+   "term": "cayetana",
+   "traffic": 100,
+   "lastSeen": "2026-11-19",
+   "news": [
+    "Álvarez de Toledo destapa la visión utilitaria del PP sobre la migración: \"Necesitamos inmigración que trabaje mientras los españoles se ponen a tener bebés\"",
+    "Cayetana Álvarez de Toledo: “Necesitamos inmigrantes que trabajen mientras los españoles se ponen a tener bebés”",
+    "Cayetana Álvarez de Toledo, sobre inmigración y natalidad: \"Necesitamos inmigración que trabaje mientras los españoles se ponen a tener bebés”"
+   ]
+  },
+  {
+   "term": "james rodríguez",
+   "traffic": 100,
+   "lastSeen": "2026-11-19",
+   "news": [
+    "El exjugador del Real Madrid que fue perseguido por la policía por exceso de velocidad: ahora se compra un superdeportivo que supera los 350 km/h"
+   ]
+  },
+  {
+   "term": "llanes",
+   "traffic": 100,
+   "lastSeen": "2026-11-19",
+   "news": [
+    "Nueve detenidos en Cantabria y tres en Asturias en una macroperación contra el tráfico de drogas",
+    "La Guardia Civil desarticula una red de tráfico de drogas que operaba entre Cantabria y el Oriente de Asturias",
+    "La operación escontra'l narcotráficu n'Asturies y Cantabria sigue abierta y nun se descarten más rexistros"
+   ]
+  },
+  {
+   "term": "peio etxeberria",
+   "traffic": 100,
+   "lastSeen": "2026-11-19",
+   "news": [
+    "Peio Etxeberria hace saltar las alarmas a tres días de la final: «Veo borroso»",
+    "La final del Cuatro y Medio, en vilo por el ojo izquierdo de Peio Etxeberria",
+    "Peio Etxeberria, sobre su irritación ocular: “Hoy veré qué tal va y de cara al domingo, decidiremos”"
+   ]
   }
  ]
 }
