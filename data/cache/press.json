@@ -11798,13 +11798,6 @@
   "a_cubierto": null,
   "confianza": 0.9
  },
- "5156793b93": {
-  "url": "https://www.20minutos.es/musica/entrevista-roser-espectaculo-hola-raffaella_7046537_0.html",
-  "fuente": "20minutos (Cultura)",
-  "src": "prensa-20minutos-cultura",
-  "publicado": "2026-11-05",
-  "es_plan": false
- },
  "88093a0b1c": {
   "url": "https://elpais.com/cultura/2026-11-05/bob-wilson-fernando-pessoa-y-maria-de-medeiros-trio-de-ases-para-un-acontecimiento-teatral.html",
   "fuente": "El País (Cultura)",
@@ -11832,27 +11825,6 @@
   ],
   "a_cubierto": true,
   "confianza": 0.85
- },
- "652ca3b3a7": {
-  "url": "https://elpais.com/cultura/2026-11-05/dos-de-cada-tres-jovenes-nacidos-en-2008-solicitan-el-bono-cultural-joven-2026.html",
-  "fuente": "El País (Cultura)",
-  "src": "prensa-elpais-cultura",
-  "publicado": "2026-11-05",
-  "es_plan": false
- },
- "1d6f085b20": {
-  "url": "https://elpais.com/cultura/2026-11-05/la-asociacion-emprendo-danza-denuncia-en-un-informe-injerencias-politicas-en-las-artes-escenicas.html",
-  "fuente": "El País (Cultura)",
-  "src": "prensa-elpais-cultura",
-  "publicado": "2026-11-05",
-  "es_plan": false
- },
- "cb60f810bf": {
-  "url": "https://elpais.com/cultura/2026-11-05/eiji-aonuma-nunca-imagine-que-despues-de-terminar-ocarina-of-time-seguiria-haciendo-juegos-de-zelda.html",
-  "fuente": "El País (Cultura)",
-  "src": "prensa-elpais-cultura",
-  "publicado": "2026-11-05",
-  "es_plan": false
  },
  "726687b3f5": {
   "url": "https://elpais.com/cultura/2026-11-05/el-cuarteto-pavel-haas-lleva-a-schubert-al-borde-del-abismo-en-la-fundacion-juan-march.html",
@@ -11882,13 +11854,6 @@
   "a_cubierto": true,
   "confianza": 0.9
  },
- "4eaa770cc4": {
-  "url": "https://elpais.com/cultura/2026-11-05/carmen-posadas-si-te-llaman-fascista-entras-en-shock-pero-es-un-insulto-absurdo.html",
-  "fuente": "El País (Cultura)",
-  "src": "prensa-elpais-cultura",
-  "publicado": "2026-11-05",
-  "es_plan": false
- },
  "bf71ea2074": {
   "url": "https://www.lavanguardia.com/cultura/musica/20261105/11676888/conciertos-u2-barcelona-seran-dias-13-15-mayo-cuando-empieza-venta-entradas.html",
   "fuente": "La Vanguardia (Cultura)",
@@ -11916,13 +11881,6 @@
   ],
   "a_cubierto": null,
   "confianza": 0.9
- },
- "db672c69fe": {
-  "url": "https://www.lavanguardia.com/cultura/20261105/11676776/margarita-garcia-robayo-gana-premio-herralde-querida-sharik.html",
-  "fuente": "La Vanguardia (Cultura)",
-  "src": "prensa-lavanguardia-cultura",
-  "publicado": "2026-11-05",
-  "es_plan": false
  },
  "09f5f09387": {
   "url": "https://www.lavanguardia.com/cultura/20261105/11676683/els-amics-les-arts-secretos-sau-estrenaran-nuevos-discos-festival-strenes-girona.html",
@@ -11952,13 +11910,6 @@
   "a_cubierto": true,
   "confianza": 0.9
  },
- "97f598a35d": {
-  "url": "https://www.lavanguardia.com/cultura/20261105/11675180/anna-caballe-alguien-tuviera-sida-80-asi-lepra.html",
-  "fuente": "La Vanguardia (Cultura)",
-  "src": "prensa-lavanguardia-cultura",
-  "publicado": "2026-11-05",
-  "es_plan": false
- },
  "f96ffcec41": {
   "url": "https://llegim.ara.cat/actualitat/gairebe-150-traductors-desembarquen-barcelona-mostrar-potencia-literatura-catalana_1_5900927.html",
   "fuente": "Ara (Cultura)",
@@ -11987,13 +11938,6 @@
   "a_cubierto": true,
   "confianza": 0.9
  },
- "72b7db9e69": {
-  "url": "https://llegim.ara.cat/actualitat/premi-herralde-literatura-aguda-irreverent-margarita-garcia-robayo_1_5900873.html",
-  "fuente": "Ara (Cultura)",
-  "src": "prensa-ara-cultura",
-  "publicado": "2026-11-05",
-  "es_plan": false
- },
  "6cb5d49613": {
   "url": "https://www.ara.cat/media/series/beteve-reforca-l-aposta-ficcio-serie-episodic_1_5899794.html",
   "fuente": "Ara (Cultura)",
@@ -12021,13 +11965,6 @@
   ],
   "a_cubierto": null,
   "confianza": 0.85
- },
- "c827acbf3d": {
-  "url": "https://www.ara.cat/gent/famosos/quim-gutierrez-torna-rodar-catala-vint-anys-despres-disfrutant_1_5900872.html",
-  "fuente": "Ara (Cultura)",
-  "src": "prensa-ara-cultura",
-  "publicado": "2026-11-05",
-  "es_plan": false
  },
  "d6d807d0bd": {
   "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/05/u2-anade-barcelona-sus-agenda-conciertos-espana-2065981.html",
@@ -12083,13 +12020,6 @@
   "a_cubierto": null,
   "confianza": 0.9
  },
- "70fa3fd663": {
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/05/miguel-angel-revilla-83anos-levanto-7manana-desayuno-leche-cantabria-entera-medio-sobao-2063946.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-11-05",
-  "es_plan": false
- },
  "5d26b9aaa7": {
   "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/05/more-than-disc-edita-vinilo-calor-alaska-un-clasico-banda-telephunken-2065884.html",
   "fuente": "Heraldo de Aragón (Ocio y cultura)",
@@ -12117,13 +12047,6 @@
   ],
   "a_cubierto": null,
   "confianza": 0.9
- },
- "d7dabe13ed": {
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/05/xbox-game-pass-15-juegos-noviembre-2026-fechas-2065866.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-11-05",
-  "es_plan": false
  },
  "f39a9538cc": {
   "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/05/zelda-ocarina-of-time-nintendo-switch-2-nueva-version-2065858.html",
@@ -12181,13 +12104,6 @@
   "a_cubierto": null,
   "confianza": 0.85
  },
- "1c8361ac60": {
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/05/joaquin-sabina-77anos-vivi-mundo-noche-discotecas-vida-domestica-romantica-2065631.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-11-05",
-  "es_plan": false
- },
  "bfe17da7f3": {
   "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/05/jose-sacristan-llegado-89anos-salud-potable-vida-parece-tomadura-pelo-2065835.html",
   "fuente": "Heraldo de Aragón (Ocio y cultura)",
@@ -12214,27 +12130,6 @@
   ],
   "a_cubierto": null,
   "confianza": 0.85
- },
- "d03f0ea333": {
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/05/victor-manuel-79anos-entiendo-descontento-espana-motivos-hartos-cosas-dictadura-2065836.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-11-05",
-  "es_plan": false
- },
- "566cbb7a6d": {
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/05/miguel-bose-70anos-orgulloso-espanol-vamos-cansar-encima-espana-2064804.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-11-05",
-  "es_plan": false
- },
- "35112c66be": {
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/05/maximo-huerta-55anos-no-se-habra-persona-limpiar-lapida-nombre-2063917.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-11-05",
-  "es_plan": false
  },
  "e851ad845a": {
   "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/05/kaseo-tenia-colega-dijo-vivia-marques-conteste-facil-disco-gira-revientalo-2064272.html",
@@ -12264,27 +12159,6 @@
   "a_cubierto": null,
   "confianza": 0.85
  },
- "e96d65333f": {
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/05/rosa-melendez-modista-bunbury-desde-principio-entendi-bien-que-queria-2065819.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-11-05",
-  "es_plan": false
- },
- "2bb4034023": {
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/05/maria-bonilla-joven-zaragoza-viral-cancion-algo-interes-2065703.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-11-05",
-  "es_plan": false
- },
- "1549103dff": {
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/05/mario-vaquerizo-muy-controlador-exceso-control-hace-veces-enfade-personas-olvido-horas-hablarme-2065691.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-11-05",
-  "es_plan": false
- },
  "6b71e50aed": {
   "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/05/jose-luis-esteban-quijote-es-una-novela-infinita-si-te-dejas-interpelar-los-clasicos-estan-siempre-vivos-2065628.html",
   "fuente": "Heraldo de Aragón (Ocio y cultura)",
@@ -12312,20 +12186,6 @@
   ],
   "a_cubierto": true,
   "confianza": 0.9
- },
- "d53ee5debf": {
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/05/gran-wyoming-propietario-19-viviendas-subidas-impuestos-patrimonio-me-perjudican-estar-acuerdo-ellas-2065127.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-11-05",
-  "es_plan": false
- },
- "7c002eb174": {
-  "url": "https://www.elnortedecastilla.es/culturas/arte/ribalta-aperitivo-escuela-valenciana-museo-escultura-20261105142539-nt.html",
-  "fuente": "El Norte de Castilla (Culturas)",
-  "src": "prensa-nortecastilla-culturas",
-  "publicado": "2026-11-05",
-  "es_plan": false
  },
  "f67fc39dbe": {
   "url": "https://www.elnortedecastilla.es/culturas/musica/gira-pasara-barcelona-sevilla-20261105132757-ntrc.html",
@@ -12382,20 +12242,6 @@
   ],
   "a_cubierto": true,
   "confianza": 0.85
- },
- "a15fb5eb47": {
-  "url": "https://www.ideal.es/culturas/091-juventude-apuntan-sexta-edicion-dee-fest-20261105112613-nt.html",
-  "fuente": "Ideal (Culturas)",
-  "src": "prensa-ideal-culturas",
-  "publicado": "2026-11-05",
-  "es_plan": false
- },
- "ed31f80b10": {
-  "url": "https://www.lasprovincias.es/culturas/museo-nacional-escultura-ribalta-20261105130845-nt.html",
-  "fuente": "Las Provincias (Culturas)",
-  "src": "prensa-lasprovincias-culturas",
-  "publicado": "2026-11-05",
-  "es_plan": false
  },
  "f8b0ce5542": {
   "url": "https://www.lasprovincias.es/culturas/musica/u2-fechas-conciertos-espana-20261105124903-nt.html",
@@ -12480,13 +12326,6 @@
   ],
   "a_cubierto": true,
   "confianza": 0.9
- },
- "cb715ac11d": {
-  "url": "https://www.lasprovincias.es/culturas/operacion-valenciana-hispanicsorolla-ronda-millones-euros-20261104015027-nt.html",
-  "fuente": "Las Provincias (Culturas)",
-  "src": "prensa-lasprovincias-culturas",
-  "publicado": "2026-11-05",
-  "es_plan": false
  },
  "57f9765d55": {
   "url": "https://www.lasprovincias.es/culturas/tv/presentadores-programas-confirmados-septima-nuevo-canal-television-20261104184816-nt.html",
@@ -12625,13 +12464,6 @@
   ],
   "a_cubierto": null,
   "confianza": 0.9
- },
- "bd5fe47a25": {
-  "url": "https://www.laverdad.es/culturas/cine/asesinatos-rurales-sacamantecas-20261105092629-nt.html",
-  "fuente": "La Verdad (Culturas)",
-  "src": "prensa-laverdad-culturas",
-  "publicado": "2026-11-05",
-  "es_plan": false
  },
  "9ef61aa898": {
   "url": "https://www.eldiariomontanes.es/culturas/ivan-gastanaga-lleva-historia-libro-sobre-heridas-20261105183254-nt.html",
