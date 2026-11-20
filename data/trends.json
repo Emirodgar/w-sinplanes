@@ -4,11 +4,11 @@
   {
    "term": "carlos alcaraz",
    "traffic": 20000,
-   "lastSeen": "2026-11-18",
+   "lastSeen": "2026-11-20",
    "news": [
-    "Carlos Alcaraz - Daniil Medvedev, en directo, el partido de las ATP Finals en vivo",
-    "Carlos Alcaraz, a sellar el pase a semifinales ante el imprevisible Medvedev",
-    "¿A qué hora es el Alcaraz - Medvedev? TV, horario, cómo y dónde ver hoy las ATP Finals"
+    "Carlos Alcaraz - Flavio Cobolli en directo, el partido de las ATP Finals en vivo|Comienza el encuentro",
+    "Carlos Alcaraz - Flavio Cobolli, las ATP Finals en directo",
+    "Una traumatóloga, sobre las molestias musculares de Alcaraz: “El dolor puede provocar cambios en la técnica o que sobrecargue otras zonas”"
    ]
   },
   {
@@ -519,6 +519,26 @@
     "Cierra SkyShowtime, la plataforma de ‘streaming’ de ‘Dexter’, ‘Star Trek’, ‘Yellowstone’ y los estrenos de Paramount y Universal en España",
     "SkyShowtime desaparecerá en 2027 y dejará huérfanas series como ‘Yellowstone’ o ‘Tierra de mafiosos’",
     "Adiós a SkyShowtime. La plataforma cae víctima de Skydance y cierra sus puertas en 2027"
+   ]
+  },
+  {
+   "term": "grand theft auto",
+   "traffic": 2000,
+   "lastSeen": "2026-11-20",
+   "news": [
+    "GTA 6 drives spike in download demand, as estimated sales top $2.3bn",
+    "Grand Theft Auto VI Now Available",
+    "The Guardian view on Grand Theft Auto VI: a game that makes players think twice | Editorial"
+   ]
+  },
+  {
+   "term": "edurne y de gea",
+   "traffic": 2000,
+   "lastSeen": "2026-11-20",
+   "news": [
+    "Nuevos detalles de la supuesta ruptura entre Edurne y David de Gea: quién ha dado el paso, los motivos, cómo está la cantante...",
+    "Edurne explicará su dolor con una canción",
+    "Edurne pone tierra de por medio en su matrimonio al viajar a París sola con su hija"
    ]
   },
   {
@@ -1405,6 +1425,36 @@
     "Mónica Bardem se acuerda de su madre tras el debut en el teatro de su hermano Javier: “Mi madre está tan orgullosa y feliz como todos”",
     "Mónica Bardem, tras el estreno teatral de su hermano Javier: \"Mi madre está orgullosa y feliz. No la puedo tocar, pero lo noto\"",
     "Javier Bardem debuta en el teatro con la ausencia de Penélope Cruz pero el apoyo de su hermana"
+   ]
+  },
+  {
+   "term": "los juegos del hambre",
+   "traffic": 500,
+   "lastSeen": "2026-11-20",
+   "news": [
+    "Hollywood’s Worst Tendencies, in One Movie",
+    "Inside Jennifer Lawrence and Josh Hutcherson's 'Hunger Games' return",
+    "The best and worst 'Hunger Games' movies ranked — according to the fans and critics"
+   ]
+  },
+  {
+   "term": "família",
+   "traffic": 500,
+   "lastSeen": "2026-11-20",
+   "news": [
+    "Hospital além das paredes – por Giovanni Cerri",
+    "A família está preparada para receber um idoso de volta do hospital?",
+    "Hospital de Curitiba prepara pacientes e familiares para “alta segura”"
+   ]
+  },
+  {
+   "term": "irene montero",
+   "traffic": 500,
+   "lastSeen": "2026-11-20",
+   "news": [
+    "Montero critica el debate de Feijóo y Sánchez y llama a no sucumbir al \"chantaje del voto útil\"",
+    "Irene Montero dice que el cara a cara es una estrategia de PP y PSOE \"para concentrar el voto\" y que en España \"no cambie nada\"",
+    "Montero lamenta que \"solo Feijóo habló de feminismo\" en el debate y fue \"para atacarlo\": \"Crece el machismo y su violencia\""
    ]
   },
   {
@@ -2319,6 +2369,16 @@
    ]
   },
   {
+   "term": "thibaut courtois",
+   "traffic": 200,
+   "lastSeen": "2026-11-20",
+   "news": [
+    "El Real Madrid amplía el contrato de Thibaut Courtois hasta 2028",
+    "Semana fantástica en Valdebebas: Courtois amplía su contrato con el Real Madrid",
+    "Tras Güler y Tchouameni, otra estrella renueva con el Real Madrid"
+   ]
+  },
+  {
    "term": "operador ferroviario",
    "traffic": 100,
    "lastSeen": "2026-11-07",
@@ -2450,6 +2510,36 @@
     "El príncipe Guillermo y Kate Middleton rompen con una tradición histórica pensando en sus hijos y en su futuro como reyes",
     "HISTORIA DE UNA JOYA: el collar de esmeraldas que la reina Isabel II lució con Obama y Kate Middleton ha elegido para su gran vuelta internacional",
     "La maleta que Kate Middleton se ha llevado a la India: trajes sastre, vestidos prácticos, un bolso con sello español y joyas con historia"
+   ]
+  },
+  {
+   "term": "entierro",
+   "traffic": 100,
+   "lastSeen": "2026-11-20",
+   "news": [
+    "Ceremonia conmemorativa y entierro de los restos del mártir Nguyen Van Don en el cementerio de los mártires de Thanh Son.",
+    "Marta, 74 años, no fue al entierro de su hijo: \"Lo enterré el día que cerró aquella puerta sin invitarme a pasar\"",
+    "Una madre de 74 años no fue al entierro de su hijo: “Lo enterré cuando cerró aquella puerta”"
+   ]
+  },
+  {
+   "term": "sevilla betis",
+   "traffic": 100,
+   "lastSeen": "2026-11-20",
+   "news": [
+    "Cuatro canteranos del Sevilla FC en la sesión previa al Betis",
+    "Tamiou Kpebane, Sevilla FC: ¿lateral, 8 o 10 con García Plaza?",
+    "Los debutantes del Betis en el Gran Derbi: estos son los jugadores que podrían disputar su primer derbi ante el Sevilla"
+   ]
+  },
+  {
+   "term": "judit mascó",
+   "traffic": 100,
+   "lastSeen": "2026-11-20",
+   "news": [
+    "Los mocasines de Judit Mascó, la apuesta segura para los eventos de la temporada",
+    "Sofía García Faya, psicóloga, sobre la reflexión de Judit Mascó acerca del envejecimiento: \"Cada etapa tiene su parte bonita si de verdad la vives sin rechazarla\"",
+    "Judit Mascó confiesa que duerme en habitaciones separadas con Eduard Vicente: \"El fin de semana nos juntamos\""
    ]
   }
  ]

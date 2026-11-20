@@ -148,5 +148,25 @@
   "confianza": 0.5,
   "fuente": "La Verdad (Culturas)",
   "url": "https://www.laverdad.es/culturas/dysphoria-realidad-personas-trans-20261119001207-nt.html"
+ },
+ {
+  "id": "00166378ab",
+  "titulo": "Presentación del libro 'El corazón en llamas' sobre María Zambrano",
+  "inicio": "2026-11-20",
+  "municipio": null,
+  "provincia": null,
+  "confianza": 0.5,
+  "fuente": "20minutos (Cultura)",
+  "url": "https://www.20minutos.es/libros/corazon-llamas-un-libro-ilustrado-que-recuerda-pensadora-maria-zambrano_7063644_0.html"
+ },
+ {
+  "id": "41f869277d",
+  "titulo": "Crítica de teatro: 'Largo viaje hacia la noche' en el Teatro Principal",
+  "inicio": "2026-11-20",
+  "municipio": null,
+  "provincia": null,
+  "confianza": 0.5,
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/20/critica-teatro-una-noche-imposible-imaginar-2070318.html"
  }
 ]

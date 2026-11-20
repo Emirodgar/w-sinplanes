@@ -1,11 +1,11 @@
 {
-  "generated": "2026-11-20T12:54:19.522Z",
+  "generated": "2026-11-20T14:27:15.355Z",
   "today": "2026-11-20",
-  "events": 8650,
-  "review": 15,
+  "events": 8680,
+  "review": 17,
   "ai": {
-    "calls": 0,
-    "seconds": 40,
+    "calls": 15,
+    "seconds": 244,
     "tripped": false
   },
   "sources": [
@@ -17,7 +17,7 @@
     {
       "id": "jcyl-agenda",
       "status": "ok",
-      "count": 471
+      "count": 466
     },
     {
       "id": "euskadi-kulturklik",
@@ -72,7 +72,7 @@
     {
       "id": "prensa-heraldo-ocio",
       "status": "ok",
-      "count": 15,
+      "count": 16,
       "candidatos": true
     },
     {
@@ -90,13 +90,13 @@
     {
       "id": "prensa-diariosur-culturas",
       "status": "ok",
-      "count": 9,
+      "count": 10,
       "candidatos": true
     },
     {
       "id": "prensa-ideal-culturas",
       "status": "ok",
-      "count": 40,
+      "count": 42,
       "candidatos": true
     },
     {
@@ -108,7 +108,7 @@
     {
       "id": "prensa-elcorreo-culturas",
       "status": "ok",
-      "count": 10,
+      "count": 11,
       "candidatos": true
     },
     {
@@ -132,7 +132,7 @@
     {
       "id": "prensa-diariomontanes-culturas",
       "status": "ok",
-      "count": 12,
+      "count": 13,
       "candidatos": true
     },
     {

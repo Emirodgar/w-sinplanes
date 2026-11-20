@@ -25800,5 +25800,1163 @@
   ],
   "a_cubierto": true,
   "confianza": 0.9
+ },
+ "58cb855600": {
+  "url": "https://www.20minutos.es/libros/una-biblioteca-con-1-984-ejemplares-novela-1984-george-orwell-podria-llegar-cataluna-tras-su-paso-por-glasgow_7063648_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-11-20",
+  "es_plan": false
+ },
+ "00166378ab": {
+  "url": "https://www.20minutos.es/libros/corazon-llamas-un-libro-ilustrado-que-recuerda-pensadora-maria-zambrano_7063644_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-11-20",
+  "es_plan": true,
+  "titulo": "Presentación del libro 'El corazón en llamas' sobre María Zambrano",
+  "resumen": "La Fundación María Zambrano presenta 'El corazón en llamas', un libro ilustrado que recopila fragmentos de la obra de la pensadora malagueña con motivo del aniversario de su regreso a España. La selección de textos y biografía corre a cargo de Mercedes Gómez-Blesa, con ilustraciones de Leticia Ruife",
+  "en": {
+   "titulo": "Presentation of the book 'El corazón en llamas' about María Zambrano",
+   "resumen": "The María Zambrano Foundation presents 'El corazón en llamas', an illustrated book compiling fragments of the work of the Malagan thinker on the anniversary of her return to Spain. Mercedes Gómez-Blesa selected the texts and biography, with illustrations by Leticia Ruifernández."
+  },
+  "inicio": "2026-11-20",
+  "fin": "2026-11-20",
+  "hora": null,
+  "lugar": "Fundación María Zambrano",
+  "municipio": null,
+  "provincia": null,
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.5
+ },
+ "f92650819f": {
+  "url": "https://www.20minutos.es/musica/carolina-durante-lanza-por-sorpresa-tres-nuevas-canciones-su-cuarto-disco-aun-sin-fecha-salida_7063622_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-11-20",
+  "es_plan": true,
+  "titulo": "Carolina Durante lanza tres nuevas canciones y anuncia concierto en Madrid",
+  "resumen": "Carolina Durante ha publicado por sorpresa tres nuevas canciones que formarán parte de su próximo disco. La banda madrileña también tiene un concierto programado en el Movistar Arena de Madrid el 8 de enero.",
+  "en": {
+   "titulo": "Carolina Durante releases three new songs and announces concert in Madrid",
+   "resumen": "Carolina Durante has surprisingly released three new songs that will be part of their upcoming album. The Madrid-based band also has a concert scheduled at the Movistar Arena in Madrid on January 8th."
+  },
+  "inicio": "2027-01-08",
+  "fin": "2027-01-08",
+  "hora": null,
+  "lugar": "Movistar Arena",
+  "municipio": "Madrid",
+  "provincia": "Madrid",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "f31d58af00": {
+  "url": "https://www.20minutos.es/libros/coque-malla-macarena-cabo-pasion-contada-como-una-novela-nos-une-una-conexion-quimica-fisica-emocional_7062328_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-11-20",
+  "es_plan": false
+ },
+ "4ce935dbc9": {
+  "url": "https://www.20minutos.es/musica/alejandro-sanz-anuncia-ahora-que-una-nueva-gira-por-espana-para-2027-otro-verano-juntos_7063553_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-11-20",
+  "es_plan": true,
+  "titulo": "Alejandro Sanz anuncia gira '¿Y ahora qué +?' por España en 2027",
+  "resumen": "Alejandro Sanz ha anunciado una nueva gira por España para el verano de 2027, titulada '¿Y ahora qué +?', que incluirá 12 conciertos en diversas ciudades del país. Las entradas saldrán a la venta el próximo martes 24 de noviembre.",
+  "en": {
+   "titulo": "Alejandro Sanz announces '¿Y ahora qué +?' tour in Spain for 2027",
+   "resumen": "Alejandro Sanz has announced a new tour across Spain for the summer of 2027, titled '¿Y ahora qué +?', which will include 12 concerts in various cities. Tickets go on sale next Tuesday, November 24th."
+  },
+  "inicio": "2027-06-12",
+  "fin": "2027-07-31",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "e2f4dfbf28": {
+  "url": "https://www.20minutos.es/musica/estopa-publica-maketa-un-disco-con-que-vuelven-sus-origenes-es-nuestra-prehistoria-cuando-solo-eramos-david-jose_7063531_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-11-20",
+  "es_plan": true,
+  "titulo": "Estopa lanza 'La maketa', disco con canciones inéditas de sus inicios",
+  "resumen": "Estopa publica 'La maketa', un doble disco que recupera canciones grabadas entre 1996 y 1998, antes de su debut oficial. El álbum incluye temas inéditos y grabaciones originales, volviendo a los orígenes del dúo.",
+  "en": {
+   "titulo": "Estopa releases 'La maketa', album with unreleased songs from their beginnings",
+   "resumen": "Estopa releases 'La maketa', a double album featuring songs recorded between 1996 and 1998, before their official debut. The album includes unreleased tracks and original recordings, returning to the duo's roots."
+  },
+  "inicio": "2026-11-20",
+  "fin": "2026-11-20",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "9da004c275": {
+  "url": "https://www.20minutos.es/artes/una-nina-pintor-yoshitomo-nara-se-vende-por-15-9-millones-dolares-plena-fiebre-por-artista-nueva-york_7063448_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-11-20",
+  "es_plan": false
+ },
+ "d45cc3c95d": {
+  "url": "https://www.20minutos.es/musica/entrevista-mafalda-cardenal-disco-belonia_7056572_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-11-20",
+  "es_plan": false
+ },
+ "1d331de6c6": {
+  "url": "https://elpais.com/cultura/cine/2026-11-20/david-verdaguer-actor-un-problema-del-periodismo-y-de-la-interpretacion-es-que-hay-egos-por-medio-todo-el-rato.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-11-20",
+  "es_plan": false
+ },
+ "923c78f434": {
+  "url": "https://elpais.com/cultura/cine/2026-11-20/el-mal-padre-otra-de-tensiones-entre-un-padre-y-sus-hijos-y-esta-bien.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-11-20",
+  "es_plan": false
+ },
+ "693e8ca67b": {
+  "url": "https://elpais.com/cultura/cine/2026-11-20/adolescencia-sexo-y-muerte-en-campamento-miasma-un-orgasmo-de-cine.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-11-20",
+  "es_plan": false
+ },
+ "2d778f94f5": {
+  "url": "https://elpais.com/cultura/cine/2026-11-20/rose-sandra-huller-lleva-los-pantalones-en-otra-actuacion-prodigiosa.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-11-20",
+  "es_plan": false
+ },
+ "3ef1754913": {
+  "url": "https://elpais.com/cultura/cine/2026-11-20/iron-boy-crecer-con-la-emocion-sencilla-de-la-acuarela.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-11-20",
+  "es_plan": false
+ },
+ "2c7386e7db": {
+  "url": "https://elpais.com/cultura/cine/2026-11-20/el-director-la-gran-pelicula-sobre-el-periodismo-espanol-aun-esta-por-llegar.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-11-20",
+  "es_plan": false
+ },
+ "1f8c8328f4": {
+  "url": "https://www.lavanguardia.com/cultura/20261120/11687086/maketa-manantial-fecha-caducidad.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-20",
+  "es_plan": true,
+  "titulo": "Estopa lanza 'La maketa', disco con canciones inéditas de sus inicios",
+  "resumen": "Estopa publica 'La maketa', un doble disco que recupera canciones grabadas entre 1996 y 1998, antes de su debut oficial. El álbum incluye temas inéditos y grabaciones originales, volviendo a los orígenes del dúo.",
+  "en": {
+   "titulo": "Estopa releases 'La maketa', album with unreleased songs from their beginnings",
+   "resumen": "Estopa releases 'La maketa', a double album featuring songs recorded between 1996 and 1998, before their official debut. The album includes unreleased tracks and original recordings, returning to the duo's roots."
+  },
+  "inicio": "2026-11-20",
+  "fin": "2026-11-20",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "cb104e56ea": {
+  "url": "https://www.lavanguardia.com/cultura/cine/20261120/11688113/adolescencia-sexo-muerte-campamento-miasma-oda-slasher-mas-chapucero-otros-estrenos-semana.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-20",
+  "es_plan": true,
+  "titulo": "Estrenos de cine: Campamento Miasma y otros títulos de la semana",
+  "resumen": "Llegan a la cartelera cinco nuevos filmes, incluyendo 'Campamento Miasma', una oda al cine 'slasher' de bajo presupuesto, y 'Hasta el fin del mundo'.",
+  "en": {
+   "titulo": "Movie premieres: Campamento Miasma and other titles of the week",
+   "resumen": "Five new films arrive in theaters, including 'Campamento Miasma', an ode to low-budget slasher cinema, and 'Hasta el fin del mundo'."
+  },
+  "inicio": "2026-11-20",
+  "fin": "2026-11-20",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "96477f0142": {
+  "url": "https://www.lavanguardia.com/qf/planes/20261120/11687607/rebeldes-llegan-sala-apolo-repasar-todos-exitos.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-20",
+  "es_plan": true,
+  "titulo": "Los Rebeldes actúan en la Sala Apolo de Barcelona",
+  "resumen": "La banda barcelonesa Los Rebeldes ofrecerá un concierto en la Sala Apolo repasando sus grandes éxitos como 'Mediterráneo'.",
+  "en": {
+   "titulo": "Los Rebeldes perform at Sala Apolo in Barcelona",
+   "resumen": "The Barcelona-based band Los Rebeldes will perform a concert at Sala Apolo, revisiting their greatest hits such as 'Mediterráneo'."
+  },
+  "inicio": "2026-11-23",
+  "fin": "2026-11-23",
+  "hora": null,
+  "lugar": "Sala Apolo",
+  "municipio": "Barcelona",
+  "provincia": "Barcelona",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "86965d0085": {
+  "url": "https://www.lavanguardia.com/qf/planes/20261120/11687604/vicente-amigo-celebra-cuatro-decadas-trayectoria-palau-musica.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-20",
+  "es_plan": true,
+  "titulo": "Vicente Amigo celebra 40 años de carrera en el Palau de la Música",
+  "resumen": "El guitarrista flamenco Vicente Amigo actúa en el Palau de la Música de Barcelona para celebrar sus cuatro décadas de trayectoria musical.",
+  "en": {
+   "titulo": "Vicente Amigo celebrates 40 years of career at Palau de la Música",
+   "resumen": "Flamenco guitarist Vicente Amigo performs at Barcelona's Palau de la Música to celebrate his four decades of musical career."
+  },
+  "inicio": "2026-11-20",
+  "fin": "2026-11-20",
+  "hora": null,
+  "lugar": "Palau de la Música",
+  "municipio": "Barcelona",
+  "provincia": "Barcelona",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "6d8638e68c": {
+  "url": "https://www.lavanguardia.com/cultura/teatro/20261120/11687457/romeo-judio-julieta-arabe-tots-ocells-regresa-teatro-biblioteca.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-20",
+  "es_plan": true,
+  "titulo": "La obra 'Tots ocells' regresa al teatro La Biblioteca de Barcelona",
+  "resumen": "La compañía La Perla 29 repone 'Tots ocells', de Wajdi Mouawad, en el teatro La Biblioteca, con funciones hasta enero.",
+  "en": {
+   "titulo": "The play 'Tots ocells' returns to La Biblioteca theater in Barcelona",
+   "resumen": "The company La Perla 29 revives 'Tots ocells' by Wajdi Mouawad at La Biblioteca theater, with performances running until January."
+  },
+  "inicio": "2026-11-20",
+  "fin": "2027-01-31",
+  "hora": null,
+  "lugar": "Teatro La Biblioteca",
+  "municipio": "Barcelona",
+  "provincia": "Barcelona",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "05e02de40f": {
+  "url": "https://www.lavanguardia.com/qf/20261120/11686630/luz-ilumina-legado-gaudi.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-20",
+  "es_plan": true,
+  "titulo": "Mataró celebra el Año Gaudí con 'A la luz de Gaudí'",
+  "resumen": "Mataró transforma cinco edificios patrimoniales con instalaciones de luz y tecnología para conmemorar el centenario de Gaudí.",
+  "en": {
+   "titulo": "Mataró celebrates Gaudí Year with 'A la luz de Gaudí'",
+   "resumen": "Mataró transforms five heritage buildings with light and technology installations to commemorate Gaudí's centenary."
+  },
+  "inicio": "2026-11-20",
+  "fin": "2026-11-22",
+  "hora": null,
+  "lugar": null,
+  "municipio": "Mataró",
+  "provincia": "Barcelona",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "museos",
+   "actividades"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "3314bafbd2": {
+  "url": "https://www.lavanguardia.com/qf/20261120/11686574/terror-revisa-pecados-adolescencia-sexo-muerte-campamento-miasma.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-20",
+  "es_plan": true,
+  "titulo": "Estreno de 'Adolescencia, sexo y muerte en Campamento Miasma'",
+  "resumen": "La película 'Adolescencia, sexo y muerte en Campamento Miasma' revisita el cine 'slasher' ochentero con una trama sobre una saga de terror.",
+  "en": {
+   "titulo": "Premiere of 'Adolescencia, sexo y muerte en Campamento Miasma'",
+   "resumen": "The film 'Adolescencia, sexo y muerte en Campamento Miasma' revisits 80s slasher cinema with a plot about a horror saga."
+  },
+  "inicio": "2026-11-20",
+  "fin": "2026-11-20",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "fcee92e8c1": {
+  "url": "https://www.lavanguardia.com/local/maresme/20261120/11686503/mataro-transforma-cinco-edificios-emblematicos-llum-gaudi.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-20",
+  "es_plan": true,
+  "titulo": "Mataró presenta 'A la luz de Gaudí' del 20 al 22 de noviembre",
+  "resumen": "Cinco edificios emblemáticos de Mataró se transforman con arte, luz y tecnología en el evento 'A la luz de Gaudí' con motivo del Año Gaudí.",
+  "en": {
+   "titulo": "Mataró presents 'A la luz de Gaudí' from November 20 to 22",
+   "resumen": "Five emblematic buildings in Mataró are transformed with art, light, and technology in the 'A la luz de Gaudí' event for Gaudí Year."
+  },
+  "inicio": "2026-11-20",
+  "fin": "2026-11-22",
+  "hora": null,
+  "lugar": null,
+  "municipio": "Mataró",
+  "provincia": "Barcelona",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "museos",
+   "actividades"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "c03402ec75": {
+  "url": "https://www.lavanguardia.com/cultura/20261120/11688752/tonto-tonto.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-20",
+  "es_plan": false
+ },
+ "d4ff71ffdc": {
+  "url": "https://www.ara.cat/cultura/art/gabriela-galceran-escoltessim-mes-artistes-coses-anirien-millor-tots_1_5916862.html",
+  "fuente": "Ara (Cultura)",
+  "src": "prensa-ara-cultura",
+  "publicado": "2026-11-20",
+  "es_plan": true,
+  "titulo": "Presentación del libro 'The voice of the artist(s)' en la feria Loop",
+  "resumen": "Gabriela Galcerán presenta el libro 'The voice of the artist(s)' en la feria de videoarte Loop, en el Hotel Almanac Barcelona.",
+  "en": {
+   "titulo": "Presentation of the book 'The voice of the artist(s)' at the Loop fair",
+   "resumen": "Gabriela Galcerán presents the book 'The voice of the artist(s)' at the Loop video art fair, held at Hotel Almanac Barcelona."
+  },
+  "inicio": "2026-11-20",
+  "fin": "2026-11-20",
+  "hora": null,
+  "lugar": "Hotel Almanac Barcelona",
+  "municipio": "Barcelona",
+  "provincia": "Barcelona",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "libros",
+   "actividades"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "6b077b9add": {
+  "url": "https://llegim.ara.cat/actualitat/viola-ardone-fills-han-desil-lusionar-pares-llibertat_1_5866187.html",
+  "fuente": "Ara (Cultura)",
+  "src": "prensa-ara-cultura",
+  "publicado": "2026-11-20",
+  "es_plan": false
+ },
+ "2fa32e4f93": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/20/joan-manuel-serrat-82anos-cuando-vaya-votar-proximas-elecciones-pensar-tiranos-crean-complicidad-buena-gente-2069268.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-20",
+  "es_plan": true,
+  "titulo": "Joan Manuel Serrat llama a votar en un vídeo para 'El Intermedio'",
+  "resumen": "Joan Manuel Serrat anima a la ciudadanía a votar en las próximas elecciones generales del 29 de noviembre en un vídeo para el programa 'El Intermedio'.",
+  "en": {
+   "titulo": "Joan Manuel Serrat calls to vote in a video for 'El Intermedio'",
+   "resumen": "Joan Manuel Serrat encourages citizens to vote in the upcoming general elections on November 29 in a video for the program 'El Intermedio'."
+  },
+  "inicio": "2026-11-20",
+  "fin": "2026-11-20",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "b057b20180": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/20/david-bisbal-desayuno-huevos-rancheros-arepas-pieza-fruta-zumo-buen-cafe-para-mi-comida-mas-importante-2070353.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-20",
+  "es_plan": false
+ },
+ "98c98e0f8e": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/20/vampiro-agente-007-memes-que-ha-dejado-eleccion-robert-pattinson-como-nuevo-james-bond-2070262.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-20",
+  "es_plan": false
+ },
+ "324dac0aa9": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/20/alejandro-sanz-anuncia-concierto-zaragoza-para-2027-donde-cuando-comprar-las-entradas-2070278.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-20",
+  "es_plan": true,
+  "titulo": "Alejandro Sanz anuncia concierto en Zaragoza en verano de 2027",
+  "resumen": "Alejandro Sanz suma Zaragoza a su gira '¿Y Ahora Qué+?' con un concierto previsto para el verano de 2027. Las entradas saldrán a la venta próximamente.",
+  "en": {
+   "titulo": "Alejandro Sanz announces concert in Zaragoza in summer 2027",
+   "resumen": "Alejandro Sanz adds Zaragoza to his '¿Y Ahora Qué+?' tour with a concert scheduled for summer 2027. Tickets will go on sale soon."
+  },
+  "inicio": "2027-06-01",
+  "fin": "2027-08-31",
+  "hora": null,
+  "lugar": null,
+  "municipio": "Zaragoza",
+  "provincia": "Zaragoza",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "41f869277d": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/20/critica-teatro-una-noche-imposible-imaginar-2070318.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-20",
+  "es_plan": true,
+  "titulo": "Crítica de teatro: 'Largo viaje hacia la noche' en el Teatro Principal",
+  "resumen": "Se estrena la obra 'Largo viaje hacia la noche' con Carlos Hipólito en el Teatro Principal, explorando las complejas relaciones de la familia Tyrone.",
+  "en": {
+   "titulo": "Theater review: 'Largo viaje hacia la noche' at Teatro Principal",
+   "resumen": "The play 'Largo viaje hacia la noche' starring Carlos Hipólito premieres at Teatro Principal, exploring the complex relationships of the Tyrone family."
+  },
+  "inicio": "2026-11-20",
+  "fin": "2026-11-22",
+  "hora": null,
+  "lugar": "Teatro Principal",
+  "municipio": null,
+  "provincia": null,
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.5
+ },
+ "35454b8e8f": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/20/maluma-arrasa-madrid-vende-mas-30-000-entradas-menos-dos-horas-agota-dos-conciertos-2070277.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-20",
+  "es_plan": true,
+  "titulo": "Maluma anuncia conciertos en Madrid en 2027",
+  "resumen": "El cantante colombiano Maluma ha agotado las entradas para dos de sus próximos conciertos en Madrid como parte de su gira mundial 'Loco X Volver World Tour 2027'. Únicamente quedan localidades para una tercera fecha en el Movistar Arena.",
+  "en": {
+   "titulo": "Maluma announces concerts in Madrid in 2027",
+   "resumen": "Colombian singer Maluma has sold out tickets for two of his upcoming concerts in Madrid as part of his 'Loco X Volver World Tour 2027'. Only tickets for a third show at the Movistar Arena remain available."
+  },
+  "inicio": "2027-01-01",
+  "fin": "2027-12-31",
+  "hora": null,
+  "lugar": "Movistar Arena",
+  "municipio": "Madrid",
+  "provincia": "Madrid",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "musica"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.7
+ },
+ "d27199ba9d": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/20/camela-concierto-pueblo-20minutos-zaragoza-muela-fin-semana-2069947.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-20",
+  "es_plan": true,
+  "titulo": "Concierto de Camela en La Muela (Zaragoza)",
+  "resumen": "El dúo Camela actuará este viernes, 20 de noviembre, en La Muela (Zaragoza) dentro de las fiestas patronales de San Clemente 2026. El concierto comenzará a las 23:30 horas en el Auditorio Municipal.",
+  "en": {
+   "titulo": "Camela concert in La Muela (Zaragoza)",
+   "resumen": "The duo Camela will perform this Friday, November 20th, in La Muela (Zaragoza) as part of the San Clemente 2026 patron saint festivities. The concert will start at 11:30 PM at the Municipal Auditorium."
+  },
+  "inicio": "2026-11-20",
+  "fin": "2026-11-20",
+  "hora": "23:30",
+  "lugar": "Auditorio Municipal",
+  "municipio": "La Muela",
+  "provincia": "Zaragoza",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "musica",
+   "fiestas"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "93a61cc7d3": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/20/yan-geling-novelista-china-cuando-politica-es-mas-sensata-obsesion-por-comida-disminuye-2070131.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-20",
+  "es_plan": true,
+  "titulo": "Presentación de novela de Yan Geling en Zaragoza",
+  "resumen": "La novelista china Yan Geling presentará su libro 'El banquetista. Crónica de un parásito' el próximo lunes en el Paraninfo de la Universidad de Zaragoza. El evento comenzará a las 19:00.",
+  "en": {
+   "titulo": "Yan Geling novel presentation in Zaragoza",
+   "resumen": "Chinese novelist Yan Geling will present her book 'The Banquetist. Chronicle of a Parasite' next Monday at the Paraninfo of the University of Zaragoza. The event starts at 7:00 PM."
+  },
+  "inicio": "2026-11-24",
+  "fin": "2026-11-24",
+  "hora": "19:00",
+  "lugar": "Paraninfo de la Universidad de Zaragoza",
+  "municipio": "Zaragoza",
+  "provincia": "Zaragoza",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "c929d8308d": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/20/ampuero-no-tengo-aspiraciones-ganar-nobel-prefiero-denunciar-las-injusticias-2070129.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-20",
+  "es_plan": true,
+  "titulo": "Presentación de libro de María Fernanda Ampuero en Zaragoza",
+  "resumen": "La escritora ecuatoriana María Fernanda Ampuero presenta su nuevo libro 'La puerta de no retorno' este viernes en la librería Cálamo de Zaragoza. La presentación será a las 19:00.",
+  "en": {
+   "titulo": "María Fernanda Ampuero book presentation in Zaragoza",
+   "resumen": "Ecuadorian writer María Fernanda Ampuero will present her new book 'La puerta de no retorno' this Friday at the Cálamo bookstore in Zaragoza. The presentation is at 7:00 PM."
+  },
+  "inicio": "2026-11-20",
+  "fin": "2026-11-20",
+  "hora": "19:00",
+  "lugar": "Librería Cálamo",
+  "municipio": "Zaragoza",
+  "provincia": "Zaragoza",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "691586c536": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/20/aragon-tierra-jota-llenara-teatro-capitol-calatayud-tradicion-innovacion-2070071.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-20",
+  "es_plan": true,
+  "titulo": "Festival 'Aragón, tierra de jota' en Calatayud",
+  "resumen": "El festival 'Aragón, tierra de jota' llega este viernes al teatro Capitol de Calatayud con un espectáculo que combina tradición e innovación. La gala comenzará a las 20:00.",
+  "en": {
+   "titulo": "'Aragón, tierra de jota' festival in Calatayud",
+   "resumen": "The 'Aragón, tierra de jota' festival arrives this Friday at the Capitol theater in Calatayud with a show combining tradition and innovation. The gala begins at 8:00 PM."
+  },
+  "inicio": "2026-11-20",
+  "fin": "2026-11-20",
+  "hora": "20:00",
+  "lugar": "Teatro Capitol",
+  "municipio": "Calatayud",
+  "provincia": "Zaragoza",
+  "ambito": "local",
+  "gratis": true,
+  "precio": "Gratuito (recoger entradas)",
+  "temas": [
+   "musica",
+   "cultura",
+   "fiestas"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "34381c943a": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/20/macarena-gomez-creo-isabel-diaz-ayuso-persona-hecho-cultura-este-pais-2070009.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-20",
+  "es_plan": false
+ },
+ "68673284d4": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/20/gema-ruperez-duda-es-imprescindible-para-desafiar-establecido-2069801.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-20",
+  "es_plan": true,
+  "titulo": "Exposición 'Devenir' de Gema Rupérez en Zaragoza",
+  "resumen": "La artista Gema Rupérez inaugura la exposición 'Devenir' en la Sala Juana Francés de Zaragoza. La muestra, fruto de un taller con mujeres que han sufrido violencia machista, puede visitarse hasta el 29 de enero.",
+  "en": {
+   "titulo": "'Devenir' exhibition by Gema Rupérez in Zaragoza",
+   "resumen": "Artist Gema Rupérez inaugurates the 'Devenir' exhibition at the Sala Juana Francés in Zaragoza. The exhibition, resulting from a workshop with women who have suffered gender-based violence, can be visited until January 29th."
+  },
+  "inicio": "2026-11-19",
+  "fin": "2027-01-29",
+  "hora": null,
+  "lugar": "Sala Juana Francés (Casa de la Mujer)",
+  "municipio": "Zaragoza",
+  "provincia": "Zaragoza",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "museos",
+   "actividades"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "d6532097bb": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/20/luis-tosar-55anos-desayuno-perfecto-huevos-fritos-beicon-tostada-pan-bien-fresco-cafe-leche-zumo-naranja-2069760.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-20",
+  "es_plan": false
+ },
+ "b802dfd679": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/20/joan-manuel-serrat-82anos-elecciones-perderemos-capaces-defender-avanzan-tendencias-totalitarias-2069682.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-20",
+  "es_plan": false
+ },
+ "3e865b0f8c": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/20/arturo-perez-reverte-santiago-abascal-subir-mucho-elecciones-voz-unico-partido-ideas-2069651.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-20",
+  "es_plan": false
+ },
+ "2ab888b188": {
+  "url": "https://www.elnortedecastilla.es/culturas/teatro/tozuda-canta-calderon-colectivo-incomunicacion-agua-sucia-20261120072718-nt.html",
+  "fuente": "El Norte de Castilla (Culturas)",
+  "src": "prensa-nortecastilla-culturas",
+  "publicado": "2026-11-20",
+  "es_plan": true,
+  "titulo": "La Tozuda en el Teatro Calderón",
+  "resumen": "La obra 'Agua Sucia' de La Tozuda se presenta este fin de semana en el Teatro Calderón, explorando temas como lo colectivo y la incomunicación. También se podrá ver la magia de Óscar Escalante y el humor de Juan Carlos Ortega.",
+  "en": {
+   "titulo": "La Tozuda at the Calderón Theater",
+   "resumen": "'Agua Sucia' by La Tozuda is presented this weekend at the Calderón Theater, exploring themes of the collective and lack of communication. The magic of Óscar Escalante and the humor of Juan Carlos Ortega will also be featured."
+  },
+  "inicio": "2026-11-21",
+  "fin": "2026-11-23",
+  "hora": null,
+  "lugar": "Teatro Calderón",
+  "municipio": null,
+  "provincia": "Valladolid",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.7
+ },
+ "32b82faade": {
+  "url": "https://www.elnortedecastilla.es/culturas/musica/amigos-zarzuela-lleva-juicio-antonio-gaudi-romper-20261119201303-nt.html",
+  "fuente": "El Norte de Castilla (Culturas)",
+  "src": "prensa-nortecastilla-culturas",
+  "publicado": "2026-11-20",
+  "es_plan": true,
+  "titulo": "Gala 70 aniversario Amigos de la Zarzuela en Valladolid",
+  "resumen": "La asociación Amigos de la Zarzuela celebra su 70 aniversario con una gala este viernes en el Teatro Zorrilla de Valladolid. El evento conmemora la trayectoria de la asociación lírica.",
+  "en": {
+   "titulo": "70th anniversary gala of Amigos de la Zarzuela in Valladolid",
+   "resumen": "The Amigos de la Zarzuela association celebrates its 70th anniversary with a gala this Friday at the Teatro Zorrilla in Valladolid. The event commemorates the lyrical association's trajectory."
+  },
+  "inicio": "2026-11-20",
+  "fin": "2026-11-20",
+  "hora": null,
+  "lugar": "Teatro Zorrilla",
+  "municipio": "Valladolid",
+  "provincia": "Valladolid",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "0f85bfb67f": {
+  "url": "https://www.elnortedecastilla.es/culturas/libros/martin-garzo-reune-ensayos-sobre-cuentos-casa-20261120072903-nt.html",
+  "fuente": "El Norte de Castilla (Culturas)",
+  "src": "prensa-nortecastilla-culturas",
+  "publicado": "2026-11-20",
+  "es_plan": true,
+  "titulo": "Presentación de libro de Martín Garzo en Valladolid",
+  "resumen": "El escritor Martín Garzo presenta este viernes su libro de ensayos sobre cuentos, 'Una casa de palabras', en la Fundación Segundo y Santiago Montes de Valladolid.",
+  "en": {
+   "titulo": "Martín Garzo book presentation in Valladolid",
+   "resumen": "Writer Martín Garzo will present his essay book on short stories, 'Una casa de palabras', this Friday at the Fundación Segundo y Santiago Montes in Valladolid."
+  },
+  "inicio": "2026-11-20",
+  "fin": "2026-11-20",
+  "hora": null,
+  "lugar": "Fundación Segundo y Santiago Montes",
+  "municipio": "Valladolid",
+  "provincia": "Valladolid",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "d7b54285ec": {
+  "url": "https://www.diariosur.es/culturas/libros/javier-castillo-recrea-mansion-ultima-novela-centro-20261120143310-nt.html",
+  "fuente": "Diario Sur (Culturas)",
+  "src": "prensa-diariosur-culturas",
+  "publicado": "2026-11-20",
+  "es_plan": true,
+  "titulo": "Experiencia inmersiva de Javier Castillo en Málaga",
+  "resumen": "El escritor Javier Castillo recrea la mansión de su última novela, 'Espinas en el aire', en el centro de Málaga. La presentación oficial del libro será el 1 de diciembre.",
+  "en": {
+   "titulo": "Javier Castillo immersive experience in Málaga",
+   "resumen": "Writer Javier Castillo recreates the mansion from his latest novel, 'Espinas en el aire', in the center of Málaga. The official book presentation will be on December 1st."
+  },
+  "inicio": "2026-11-20",
+  "fin": "2026-11-30",
+  "hora": null,
+  "lugar": null,
+  "municipio": "Málaga",
+  "provincia": "Málaga",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.8
+ },
+ "26444a25f9": {
+  "url": "https://www.diariosur.es/culturas/musica/alejandro-sanz-gira-fechas-malaga-fuengirola-entradas-2027-fecha-20261120112626-nt.html",
+  "fuente": "Diario Sur (Culturas)",
+  "src": "prensa-diariosur-culturas",
+  "publicado": "2026-11-20",
+  "es_plan": true,
+  "titulo": "Alejandro Sanz actuará en Málaga en 2027",
+  "resumen": "El cantante Alejandro Sanz regresará a Málaga en 2027 para ofrecer un concierto. Las entradas saldrán a la venta el próximo 24 de noviembre.",
+  "en": {
+   "titulo": "Alejandro Sanz will perform in Málaga in 2027",
+   "resumen": "Singer Alejandro Sanz will return to Málaga in 2027 to give a concert. Tickets will go on sale next November 24th."
+  },
+  "inicio": "2027-01-01",
+  "fin": "2027-12-31",
+  "hora": null,
+  "lugar": null,
+  "municipio": "Málaga",
+  "provincia": "Málaga",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "musica"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.7
+ },
+ "43cc12ab64": {
+  "url": "https://www.ideal.es/culturas/almeria/comienzan-ensayos-opera-lelisir-damore-donizetti-funciones-20261120144854-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-11-20",
+  "es_plan": true,
+  "titulo": "Ensayos de la ópera L'elisir d'amore en Almería",
+  "resumen": "Comienzan los ensayos de la ópera L'elisir d'amore de Donizetti, con funciones programadas para el 6 y 7 de diciembre en Almería. Las entradas ya están a la venta.",
+  "en": {
+   "titulo": "Rehearsals for the opera L'elisir d'amore in Almería",
+   "resumen": "Rehearsals for Donizetti's opera L'elisir d'amore begin, with performances scheduled for December 6 and 7 in Almería. Tickets are now on sale."
+  },
+  "inicio": "2026-12-06",
+  "fin": "2026-12-07",
+  "hora": null,
+  "lugar": "Auditorio del Centro Financiero Cajamar",
+  "municipio": "Almería",
+  "provincia": "Almería",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "d87d776054": {
+  "url": "https://www.ideal.es/culturas/almeria/alejandro-sanz-llega-plaza-toros-almeria-tour-20261120142508-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-11-20",
+  "es_plan": false
+ },
+ "b3647c272d": {
+  "url": "https://www.elcorreo.com/culturas/musica/bec-vivira-maraton-horas-musica-electronica-hallucinarium-20261120141135-nt.html",
+  "fuente": "El Correo (Culturas)",
+  "src": "prensa-elcorreo-culturas",
+  "publicado": "2026-11-20",
+  "es_plan": true,
+  "titulo": "Maratón de 10 horas de música electrónica 'Hallucinarium' en Barakaldo",
+  "resumen": "Este sábado 21 de noviembre, elrow transforma el BEC de Barakaldo en una experiencia inmersiva de música electrónica con seis DJs, desde las 20:00 hasta las 06:00.",
+  "en": {
+   "titulo": "10-hour electronic music marathon 'Hallucinarium' in Barakaldo",
+   "resumen": "This Saturday, November 21, elrow transforms the BEC in Barakaldo into an immersive electronic music experience with six DJs, running from 8 PM to 6 AM."
+  },
+  "inicio": "2026-11-21",
+  "fin": "2026-11-22",
+  "hora": "20:00",
+  "lugar": "BEC (Bilbao Exhibition Centre)",
+  "municipio": "Barakaldo",
+  "provincia": "Bizkaia",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "musica",
+   "fiestas",
+   "cultura"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.95
+ },
+ "dd909ad37f": {
+  "url": "https://www.elcorreo.com/culturas/musica/sentimos-ningun-tipo-presion-gustarnos-20261119174107-nt.html",
+  "fuente": "El Correo (Culturas)",
+  "src": "prensa-elcorreo-culturas",
+  "publicado": "2026-11-20",
+  "es_plan": true,
+  "titulo": "Concierto de presentación del álbum 'Egarria' en las Torres Isozaki",
+  "resumen": "La banda bilbaína presenta su undécimo álbum, 'Egarria', este viernes en las Torres Isozaki, tocando el disco íntegro en un concierto que promete rock y pop melódico.",
+  "en": {
+   "titulo": "Album presentation concert 'Egarria' at Torres Isozaki",
+   "resumen": "The Bilbao-based band presents their eleventh album, 'Egarria', this Friday at Torres Isozaki, playing the entire record in a concert promising rock and melodic pop."
+  },
+  "inicio": "2026-11-20",
+  "fin": "2026-11-20",
+  "hora": null,
+  "lugar": "Torres Isozaki",
+  "municipio": "Bilbao",
+  "provincia": "Bizkaia",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.95
+ },
+ "ead0e1a9d6": {
+  "url": "https://www.elcorreo.com/culturas/musica/shinova-cierra-palacio-euskalduna-gira-teatros-junto-20261119010758-nt.html",
+  "fuente": "El Correo (Culturas)",
+  "src": "prensa-elcorreo-culturas",
+  "publicado": "2026-11-20",
+  "es_plan": true,
+  "titulo": "Shinova cierra su gira de teatros en el Palacio Euskalduna",
+  "resumen": "La banda del Duranguesado, Shinova, ofrece este viernes su último concierto de la gira de teatros en el Palacio Euskalduna, antes de grabar su próximo disco.",
+  "en": {
+   "titulo": "Shinova concludes theater tour at Palacio Euskalduna",
+   "resumen": "The Duranguesado band, Shinova, performs their final theater tour concert this Friday at the Palacio Euskalduna, before recording their next album."
+  },
+  "inicio": "2026-11-20",
+  "fin": "2026-11-20",
+  "hora": null,
+  "lugar": "Palacio Euskalduna",
+  "municipio": "Bilbao",
+  "provincia": "Bizkaia",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.95
+ },
+ "b5b260460e": {
+  "url": "https://www.diariovasco.com/culturas/tv/henar-alvarez-despide-sorpresa-rtve-cancelacion-alcieloconella-20261120112808-nt.html",
+  "fuente": "El Diario Vasco (Culturas)",
+  "src": "prensa-diariovasco-culturas",
+  "publicado": "2026-11-20",
+  "es_plan": false
+ },
+ "8ec326be2a": {
+  "url": "https://www.diariovasco.com/culturas/eduardo-gonzalo-chillida-20261119131944-nt.html",
+  "fuente": "El Diario Vasco (Culturas)",
+  "src": "prensa-diariovasco-culturas",
+  "publicado": "2026-11-20",
+  "es_plan": false
+ },
+ "29d6f19502": {
+  "url": "https://www.diariovasco.com/culturas/musica/catherine-russell-reivindica-linaje-clasico-jazz-sabado-20261120070939-nt.html",
+  "fuente": "El Diario Vasco (Culturas)",
+  "src": "prensa-diariovasco-culturas",
+  "publicado": "2026-11-20",
+  "es_plan": true,
+  "titulo": "Catherine Russell en concierto de jazz en el Kursaal",
+  "resumen": "Catherine Russell reivindica el jazz clásico este sábado en el Kursaal, repasando grandes estándares y blues de los años veinte, treinta y cuarenta.",
+  "en": {
+   "titulo": "Catherine Russell in jazz concert at Kursaal",
+   "resumen": "Catherine Russell celebrates classic jazz this Saturday at the Kursaal, performing great standards and blues from the 1920s, 30s, and 40s."
+  },
+  "inicio": "2026-11-21",
+  "fin": "2026-11-21",
+  "hora": null,
+  "lugar": "Kursaal",
+  "municipio": "Donostia/San Sebastián",
+  "provincia": "Gipuzkoa",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.95
+ },
+ "a0dcf19d71": {
+  "url": "https://www.diariovasco.com/culturas/musica/zahara-concierto-san-sebastian-dabadaba-20261120185255-nt.html",
+  "fuente": "El Diario Vasco (Culturas)",
+  "src": "prensa-diariovasco-culturas",
+  "publicado": "2026-11-20",
+  "es_plan": true,
+  "titulo": "Zahara presenta 'ZAHARAVE:lite' en Dabadaba",
+  "resumen": "La cantante Zahara lleva su faceta más techno y la versión de club de su espectáculo rave, 'ZAHARAVE:lite', a la pista de baile de Dabadaba este sábado.",
+  "en": {
+   "titulo": "Zahara presents 'ZAHARAVE:lite' at Dabadaba",
+   "resumen": "Singer Zahara brings her techno side and the club version of her rave show, 'ZAHARAVE:lite', to the Dabadaba dance floor this Saturday."
+  },
+  "inicio": "2026-11-21",
+  "fin": "2026-11-21",
+  "hora": null,
+  "lugar": "Dabadaba",
+  "municipio": "Donostia/San Sebastián",
+  "provincia": "Gipuzkoa",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura",
+   "fiestas"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.95
+ },
+ "5e4f24dc36": {
+  "url": "https://www.diariovasco.com/culturas/teatro-desnuda-masculinidad-infancia-20261120190646-nt.html",
+  "fuente": "El Diario Vasco (Culturas)",
+  "src": "prensa-diariovasco-culturas",
+  "publicado": "2026-11-20",
+  "es_plan": true,
+  "titulo": "Obra 'Lo peor que le puede pasar a un niño' en Lugaritz",
+  "resumen": "Ékoma Teatro y Javier Liñera presentan este viernes en Lugaritz 'Lo peor que le puede pasar a un niño', una obra que disecciona los roles de género y la identidad masculina desde la infancia.",
+  "en": {
+   "titulo": "Play 'Lo peor que le puede pasar a un niño' at Lugaritz",
+   "resumen": "Ékoma Teatro and Javier Liñera present 'Lo peor que le puede pasar a un niño' this Friday at Lugaritz, a play dissecting gender roles and masculinity from childhood."
+  },
+  "inicio": "2026-11-20",
+  "fin": "2026-11-20",
+  "hora": null,
+  "lugar": "Lugaritz",
+  "municipio": "Donostia/San Sebastián",
+  "provincia": "Gipuzkoa",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.95
+ },
+ "b1a15c346d": {
+  "url": "https://www.lasprovincias.es/culturas/musica/estopa-valencia-tercer-concierto-estadio-levante-20261120100541-nt.html",
+  "fuente": "Las Provincias (Culturas)",
+  "src": "prensa-lasprovincias-culturas",
+  "publicado": "2026-11-20",
+  "es_plan": false
+ },
+ "fc2f021dcd": {
+  "url": "https://www.lasprovincias.es/culturas/musica/love-lesbian-exageracion-fallera-valencia-conecta-20261119011241-nt.html",
+  "fuente": "Las Provincias (Culturas)",
+  "src": "prensa-lasprovincias-culturas",
+  "publicado": "2026-11-20",
+  "es_plan": false
+ },
+ "82a662a989": {
+  "url": "https://www.eldiariomontanes.es/culturas/fuego-cuerpo-20261120135831-nt.html",
+  "fuente": "El Diario Montañés (Culturas)",
+  "src": "prensa-diariomontanes-culturas",
+  "publicado": "2026-11-20",
+  "es_plan": false
+ },
+ "4588dcbe64": {
+  "url": "https://www.eldiariomontanes.es/culturas/sotileza/infancia-rota-robada-invisible-20261120072722-nt.html",
+  "fuente": "El Diario Montañés (Culturas)",
+  "src": "prensa-diariomontanes-culturas",
+  "publicado": "2026-11-20",
+  "es_plan": false
+ },
+ "06ea4b1aba": {
+  "url": "https://www.eldiariomontanes.es/culturas/lafuente-cultura-material-dialoga-coleccion-massimo-minini-20261120073139-nt.html",
+  "fuente": "El Diario Montañés (Culturas)",
+  "src": "prensa-diariomontanes-culturas",
+  "publicado": "2026-11-20",
+  "es_plan": true,
+  "titulo": "Exposición 'Lafuente. Cultura Material' en Cantabria",
+  "resumen": "La muestra 'Lafuente. Cultura Material', que dialoga con la colección de Massimo Minini, se inaugura hoy y abre al público el día 23. Incluye visitas guiadas.",
+  "en": {
+   "titulo": "'Lafuente. Cultura Material' exhibition in Cantabria",
+   "resumen": "The exhibition 'Lafuente. Cultura Material', which dialogues with Massimo Minini's collection, opens today and to the public on the 23rd. It includes guided tours."
+  },
+  "inicio": "2026-11-20",
+  "fin": "2026-11-20",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": "Cantabria",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.75
  }
 }

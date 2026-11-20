@@ -65,6 +65,37 @@
   ],
   "a_cubierto": true
  },
+ "2174264099": {
+  "id": "e90cf95156",
+  "es": {
+   "titulo": "\"Descanse en paz… ¡Quién pueda!\" en Aranguren",
+   "resumen": "Una obra teatral en un peculiar sanatorio donde los residentes luchan por resolver sus \"problemillas\" para avanzar. Un hecho insólito podría reestablecer el orden."
+  },
+  "en": {
+   "titulo": "\"Rest in peace… Whoever can!\" in Aranguren",
+   "resumen": "A theatrical play set in a peculiar sanatorium where residents struggle to solve their \"little problems\" to move forward. An unusual event might restore order."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "2448882050": {
+  "id": "8ce43acc22",
+  "es": {
+   "titulo": "Entrega de premios del Certamen de Escaparatismo",
+   "resumen": "Ceremonia de entrega de premios del Certamen de Escaparatismo. Los galardones se entregarán directamente en los establecimientos ganadores."
+  },
+  "en": {
+   "titulo": "Award Ceremony for the Window Dressing Contest",
+   "resumen": "Award ceremony for the Window Dressing Contest. Prizes will be presented directly at the winning establishments."
+  },
+  "temas": [
+   "cultura",
+   "fiestas"
+  ],
+  "a_cubierto": true
+ },
  "2534774735": {
   "id": "3a1c3c6d47",
   "es": {
@@ -113,6 +144,22 @@
   ],
   "a_cubierto": true
  },
+ "3767767546": {
+  "id": "e199dce95d",
+  "es": {
+   "titulo": "'Mejor no decirlo': Comedia con Imanol Arias y María Barranco",
+   "resumen": "Imanol Arias y María Barranco protagonizan 'Mejor no decirlo', una comedia sobre un matrimonio que se plantea decir todo después de años juntos. La obra, un éxito en Buenos Aires, llega a España para provocar risas y reflexión sobre lo que callamos."
+  },
+  "en": {
+   "titulo": "'Mejor no decirlo': Comedy with Imanol Arias and María Barranco",
+   "resumen": "Imanol Arias and María Barranco star in 'Mejor no decirlo', a comedy about a couple who consider saying everything after years together. The play, a success in Buenos Aires, arrives in Spain to provoke laughter and reflection on what we keep silent."
+  },
+  "temas": [
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": null
+ },
  "4049807437": {
   "id": "8046fed329",
   "es": {
@@ -127,6 +174,22 @@
    "cultura"
   ],
   "a_cubierto": null
+ },
+ "4123046151": {
+  "id": "63ddc6b958",
+  "es": {
+   "titulo": "Espectáculo infantil 'Blim blam!' con Gonzalo Granados en Burgos",
+   "resumen": "Gonzalo Granados presenta 'Blim blam!', un espectáculo de magia y humor para niños donde un mago busca su billete de tren perdido. Una aventura imaginativa llena de sorpresas y objetos misteriosos."
+  },
+  "en": {
+   "titulo": "Children's show 'Blim blam!' with Gonzalo Granados in Burgos",
+   "resumen": "Gonzalo Granados presents 'Blim blam!', a magic and humor show for children where a magician searches for his lost train ticket. An imaginative adventure full of surprises and mysterious objects."
+  },
+  "temas": [
+   "cultura",
+   "ninos"
+  ],
+  "a_cubierto": true
  },
  "fc3832a9c4": {
   "id": "27e9f88743",
@@ -46559,5 +46622,1549 @@
    "actividades"
   ],
   "a_cubierto": true
+ },
+ "52d944c5f9": {
+  "id": "219b09dbbe",
+  "es": {
+   "titulo": "Acuarelas arquitectónicas en Salamanca",
+   "resumen": "Exposición de acuarelas arquitectónicas de gran formato de Daniel Mass Lorenzo. La muestra se centra en paisajes urbanos y escenas cotidianas, destacando la precisión técnica y el uso de colores vibrantes para capturar la luz y atmósfera de las ciudades."
+  },
+  "en": {
+   "titulo": "Architectural Watercolors in Salamanca",
+   "resumen": "Exhibition of large-format architectural watercolors by Daniel Mass Lorenzo. The show focuses on urban landscapes and daily scenes, highlighting technical precision and the use of vibrant colors to capture the light and atmosphere of cities."
+  },
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true
+ },
+ "d33b0c2707": {
+  "id": "afb7f15b77",
+  "es": {
+   "titulo": "Espectáculo de magia familiar 'Aluciflipante'",
+   "resumen": "Guillermo Monfort presenta 'Aluciflipante', un espectáculo de magia familiar que combina sorpresa, humor y participación del público. Diseñado para todas las edades, invita a niños y adultos a implicarse en números dinámicos e interactivos."
+  },
+  "en": {
+   "titulo": "'Aluciflipante' Family Magic Show",
+   "resumen": "Guillermo Monfort presents 'Aluciflipante', a family magic show combining surprise, humor, and audience participation. Designed for all ages, it invites children and adults to engage in dynamic and interactive acts."
+  },
+  "temas": [
+   "ninos",
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": true
+ },
+ "898b713b29": {
+  "id": "844a178340",
+  "es": {
+   "titulo": "Belén monumental 'Un sueño hecho belén'",
+   "resumen": "La Asociación Belenista 'La Milagrosa' presenta una exposición belenística de gran formato. Recrea un poblado de inspiración hebrea con construcciones, figuras y escenas detalladas que transportan a la época del nacimiento de Jesús."
+  },
+  "en": {
+   "titulo": "Monumental Nativity Scene 'A Dream Come True'",
+   "resumen": "The 'La Milagrosa' Nativity Association presents a large-format nativity scene exhibition. It recreates a Hebrew-inspired village with detailed constructions, figures, and scenes transporting viewers to the time of Jesus' birth."
+  },
+  "temas": [
+   "navidad",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "59e7cac2a3": {
+  "id": "5119cdc426",
+  "es": {
+   "titulo": "Homenaje al escultor belenista José Luis Mayo Lebrija",
+   "resumen": "Exposición que rinde homenaje al escultor belenista José Luis Mayo Lebrija. Se exhibe una muestra antológica de su obra y se monta un belén popular con figuras y escenografías creadas por el artista."
+  },
+  "en": {
+   "titulo": "Tribute to Nativity Scene Sculptor José Luis Mayo Lebrija",
+   "resumen": "An exhibition paying tribute to the nativity scene sculptor José Luis Mayo Lebrija. It features an anthological display of his work and a popular nativity scene with figures and settings created by the artist."
+  },
+  "temas": [
+   "navidad",
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true
+ },
+ "95880dd3a9": {
+  "id": "d5b9025295",
+  "es": {
+   "titulo": "Exposición de acuarelas 'Caminando en acuarela'",
+   "resumen": "Felisa Aguado presenta 'Caminando en acuarela', una muestra que refleja su experiencia lírica con la acuarela y la búsqueda de la belleza en el mundo. Las obras exploran paisajes, flores y cielos con una perspectiva poética."
+  },
+  "en": {
+   "titulo": "Watercolor Exhibition 'Walking in Watercolor'",
+   "resumen": "Felisa Aguado presents 'Walking in Watercolor', an exhibition reflecting her lyrical experience with watercolor and the search for beauty in the world. The works explore landscapes, flowers, and skies with a poetic perspective."
+  },
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true
+ },
+ "43bc1f286d": {
+  "id": "8b85902de0",
+  "es": {
+   "titulo": "Ciclo 'Comprender el Antiguo Egipto': Campesino y territorio",
+   "resumen": "Una sesión dentro del ciclo 'Comprender el Antiguo Egipto' centrada en la figura del campesino y su relación con el territorio. Un evento para profundizar en la historia y la vida cotidiana del antiguo Egipto."
+  },
+  "en": {
+   "titulo": "Cycle 'Understanding Ancient Egypt': Peasant and Territory",
+   "resumen": "A session within the 'Understanding Ancient Egypt' cycle focusing on the figure of the peasant and their relationship with the land. An event to delve into the history and daily life of ancient Egypt."
+  },
+  "temas": [
+   "cultura",
+   "libros",
+   "museos"
+  ],
+  "a_cubierto": true
+ },
+ "e38a51d447": {
+  "id": "b3098cc5d7",
+  "es": {
+   "titulo": "Exposición de collages abstractos de Isa Molina",
+   "resumen": "Isa Molina presenta 'Collages', una exposición de obras en técnica mixta de carácter abstracto. Utiliza materiales cotidianos para crear nuevas narrativas visuales, concibiendo el arte como herramienta de reflexión y cambio personal."
+  },
+  "en": {
+   "titulo": "Abstract Collage Exhibition by Isa Molina",
+   "resumen": "Isa Molina presents 'Collages', an exhibition of mixed-media works with an abstract character. She uses everyday materials to create new visual narratives, viewing art as a tool for reflection and personal change."
+  },
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true
+ },
+ "a0a50d9b58": {
+  "id": "c26cd9cfc7",
+  "es": {
+   "titulo": "Concierto 'Sin Miedo al Exceso' con Catalein Yongüein",
+   "resumen": "Catalein Yongüein ofrece un concierto titulado 'Sin Miedo al Exceso'. Un evento musical gratuito que promete una velada de música en vivo."
+  },
+  "en": {
+   "titulo": "Concert 'No Fear of Excess' with Catalein Yongüein",
+   "resumen": "Catalein Yongüein presents a concert titled 'No Fear of Excess'. A free musical event promising an evening of live music."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "8169a226e9": {
+  "id": "a260bdb0e6",
+  "es": {
+   "titulo": "ConversaCiencia: 'Cazando fantasmas' sobre neutrinos",
+   "resumen": "Encuentro de divulgación científica 'ConversaCiencia' con Clara Cuesta Soria sobre neutrinos. Un debate accesible para el público sobre estas partículas enigmáticas del universo, integrado en 'El CIEMAT en tu barrio'."
+  },
+  "en": {
+   "titulo": "ConversaCiencia: 'Ghost Hunting' on Neutrinos",
+   "resumen": "A science outreach event 'ConversaCiencia' with Clara Cuesta Soria about neutrinos. An accessible debate for the public on these enigmatic particles of the universe, part of 'CIEMAT in your neighborhood'."
+  },
+  "temas": [
+   "cultura",
+   "pantalla",
+   "libros"
+  ],
+  "a_cubierto": true
+ },
+ "6cc544c12e": {
+  "id": "95baf03f13",
+  "es": {
+   "titulo": "El Cascanueces: ballet clásico navideño",
+   "resumen": "La Compañía de Danza Arts presenta 'El Cascanueces', el tradicional cuento de Navidad con música de Tchaikovsky. Una historia de fantasía sobre el viaje de Clara al reino de los dulces, recomendada para mayores de 8 años."
+  },
+  "en": {
+   "titulo": "The Nutcracker: Classic Christmas Ballet",
+   "resumen": "The Arts Dance Company presents 'The Nutcracker', the traditional Christmas tale with Tchaikovsky's music. A fantasy story about Clara's journey to the land of sweets, recommended for ages 8 and up."
+  },
+  "temas": [
+   "navidad",
+   "cultura",
+   "ninos"
+  ],
+  "a_cubierto": true
+ },
+ "e9c468a3bd": {
+  "id": "4730c1f746",
+  "es": {
+   "titulo": "Espectáculo de K-Pop Cover Dance",
+   "resumen": "Nuria Heras & Friends presentan un espectáculo de K-Pop Cover Dance. Una actuación vibrante que celebra la popular música y danza coreana."
+  },
+  "en": {
+   "titulo": "K-Pop Cover Dance Show",
+   "resumen": "Nuria Heras & Friends present a K-Pop Cover Dance show. A vibrant performance celebrating popular Korean music and dance."
+  },
+  "temas": [
+   "musica",
+   "cultura",
+   "fiestas"
+  ],
+  "a_cubierto": true
+ },
+ "4941a53803": {
+  "id": "3e976e8f9b",
+  "es": {
+   "titulo": "Exposición fotográfica 'Fotografía, Experiencia y Territorio'",
+   "resumen": "Muestra colectiva de fotografía que explora miradas diversas sobre el territorio, la memoria y la identidad. Las imágenes invitan a recorrer paisajes físicos y emocionales, transformando lo cotidiano en relato y reflexión."
+  },
+  "en": {
+   "titulo": "Photography Exhibition 'Photography, Experience, and Territory'",
+   "resumen": "A collective photography exhibition exploring diverse perspectives on territory, memory, and identity. The images invite viewers to journey through physical and emotional landscapes, transforming the everyday into narrative and reflection."
+  },
+  "temas": [
+   "cultura",
+   "museos",
+   "naturaleza"
+  ],
+  "a_cubierto": true
+ },
+ "72e1a9318b": {
+  "id": "10a22a28f6",
+  "es": {
+   "titulo": "Fotovoz: 'La mirada de los jóvenes sobre su barrio'",
+   "resumen": "Actividad 'Fotovoz' para jóvenes de 12 a 17 años, donde explorarán su barrio a través de la fotografía. Una iniciativa para capturar y compartir sus perspectivas sobre su entorno."
+  },
+  "en": {
+   "titulo": "Photovoice: 'Young People's View of Their Neighborhood'",
+   "resumen": "'Photovoice' activity for young people aged 12-17, where they will explore their neighborhood through photography. An initiative to capture and share their perspectives on their surroundings."
+  },
+  "temas": [
+   "cultura",
+   "ninos",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "ef6b5c3eb1": {
+  "id": "a843a3cc36",
+  "es": {
+   "titulo": "Hora del cuento: 'Un oso a contrarreloj'",
+   "resumen": "Cuentacuentos para niños de 5 a 8 años sobre la importancia de aprender a leer el reloj. Se narrará 'Un oso a contrarreloj' y se realizará una manualidad para practicar la lectura de las horas."
+  },
+  "en": {
+   "titulo": "Story Time: 'A Bear Against the Clock'",
+   "resumen": "Storytelling for children aged 5-8 about the importance of learning to read a clock. 'A Bear Against the Clock' will be read, followed by a craft activity to practice telling time."
+  },
+  "temas": [
+   "ninos",
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "536065d8bc": {
+  "id": "c3df1c1c95",
+  "es": {
+   "titulo": "Inauguración Espacio Chamartín Brilla y Belén 2026",
+   "resumen": "Evento de inauguración del Espacio Chamartín Brilla y la temporada de Belenes 2026. Incluye un musical infantil titulado 'La Banda Mocosa'."
+  },
+  "en": {
+   "titulo": "Inauguration of Chamartín Brilla Space and Nativity Scene 2026",
+   "resumen": "Inauguration event for the Chamartín Brilla Space and the 2026 Nativity Scene season. Features a children's musical titled 'La Banda Mocosa'."
+  },
+  "temas": [
+   "navidad",
+   "ninos",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "c04e09e71c": {
+  "id": "f06eea5b1b",
+  "es": {
+   "titulo": "Taller de iniciación a la fotografía de naturaleza",
+   "resumen": "Taller práctico de fotografía de naturaleza para adultos en el Parque del Retiro. Aprenderás técnicas y consejos para capturar la belleza del entorno natural."
+  },
+  "en": {
+   "titulo": "Introduction to Nature Photography Workshop",
+   "resumen": "Practical nature photography workshop for adults in Retiro Park. You will learn techniques and tips for capturing the beauty of the natural environment."
+  },
+  "temas": [
+   "naturaleza",
+   "actividades",
+   "parques"
+  ],
+  "a_cubierto": null
+ },
+ "5a6313e37e": {
+  "id": "be51e921ef",
+  "es": {
+   "titulo": "Concierto de Kiki Morente en el Museo Lázaro Galdiano",
+   "resumen": "Kiki Morente, figura renovadora del flamenco, actúa en el Museo Lázaro Galdiano. Ofrecerá una propuesta que fusiona tradición y modernidad, accesible para todos los públicos."
+  },
+  "en": {
+   "titulo": "Kiki Morente Concert at Lázaro Galdiano Museum",
+   "resumen": "Kiki Morente, an innovative flamenco artist, performs at the Lázaro Galdiano Museum. He will present a show blending tradition and modernity, accessible to all audiences."
+  },
+  "temas": [
+   "musica",
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true
+ },
+ "583f9f828c": {
+  "id": "1c1bfbb459",
+  "es": {
+   "titulo": "Representación teatral 'La señorita Julia'",
+   "resumen": "El Fernán Gómez Centro Cultural de la Villa presenta la obra de teatro 'La señorita Julia'. Una pieza escénica para disfrutar de la dramaturgia contemporánea."
+  },
+  "en": {
+   "titulo": "Theatrical Performance 'Miss Julie'",
+   "resumen": "The Fernán Gómez Cultural Center of the City presents the play 'Miss Julie'. A stage production to enjoy contemporary drama."
+  },
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": true
+ },
+ "e0c513ac5e": {
+  "id": "f3460b2ef9",
+  "es": {
+   "titulo": "Luis Medina meets Manuel Machado Project: Jazz y poesía",
+   "resumen": "Luis Medina y el Manuel Machado Project ofrecen un recital que fusiona jazz y poesía musical. Una propuesta que recorre el repertorio del cantautor junto a músicos de jazz."
+  },
+  "en": {
+   "titulo": "Luis Medina meets Manuel Machado Project: Jazz and Poetry",
+   "resumen": "Luis Medina and the Manuel Machado Project offer a recital blending jazz and musical poetry. A performance exploring the singer-songwriter's repertoire with jazz musicians."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "2fc8f8b01f": {
+  "id": "84e3c01fe4",
+  "es": {
+   "titulo": "Manuel Borraz Group: Jazz contemporáneo",
+   "resumen": "El Manuel Borraz Group presenta una propuesta de jazz contemporáneo. El cuarteto explora nuevos territorios musicales a través de la improvisación y lenguajes actuales."
+  },
+  "en": {
+   "titulo": "Manuel Borraz Group: Contemporary Jazz",
+   "resumen": "The Manuel Borraz Group presents a contemporary jazz proposal. The quartet explores new musical territories through improvisation and current musical languages."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "0587643a8a": {
+  "id": "56ebd12b8a",
+  "es": {
+   "titulo": "Presentación del libro 'Menudo Belén' de Toño Casado",
+   "resumen": "Toño Casado presenta 'Menudo Belén', un libro familiar que recupera villancicos tradicionales. Una propuesta para redescubrir la Navidad y compartirla con los más pequeños."
+  },
+  "en": {
+   "titulo": "Book Presentation 'Menudo Belén' by Toño Casado",
+   "resumen": "Toño Casado presents 'Menudo Belén', a family book that revives traditional Christmas carols. A proposal to rediscover Christmas and share it with children."
+  },
+  "temas": [
+   "navidad",
+   "libros",
+   "ninos",
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "782f13efb1": {
+  "id": "bdbd58b75e",
+  "es": {
+   "titulo": "Visita-taller 'Mirar Madrid: imágenes de una ciudad'",
+   "resumen": "Recorrido por la memoria artística y documental de Madrid, centrado en su evolución urbana y cotidiana. Incluye un taller creativo para elaborar un cuaderno de bitácora personal sobre la ciudad."
+  },
+  "en": {
+   "titulo": "Workshop Visit 'Looking at Madrid: Images of a City'",
+   "resumen": "A tour through Madrid's artistic and documentary memory, focusing on its urban and daily evolution. Includes a creative workshop to produce a personal logbook about the city."
+  },
+  "temas": [
+   "cultura",
+   "museos",
+   "rutas"
+  ],
+  "a_cubierto": true
+ },
+ "6a705e3109": {
+  "id": "0214e0f664",
+  "es": {
+   "titulo": "Visita-taller 'Mirar Madrid: imágenes de una ciudad'",
+   "resumen": "Explora la evolución de Madrid a través de arte y documentos históricos. Tras la visita, crearás un cuaderno personal con tus impresiones, combinando patrimonio, observación y creación."
+  },
+  "en": {
+   "titulo": "Workshop Visit 'Looking at Madrid: Images of a City'",
+   "resumen": "Explore Madrid's evolution through art and historical documents. After the visit, you'll create a personal notebook with your impressions, combining heritage, observation, and creation."
+  },
+  "temas": [
+   "cultura",
+   "museos",
+   "rutas"
+  ],
+  "a_cubierto": true
+ },
+ "06f01f7e68": {
+  "id": "f7788b133b",
+  "es": {
+   "titulo": "Concierto de Góspel de la UCM",
+   "resumen": "El Coro de Gospel y Música Moderna de la Universidad Complutense de Madrid ofrece un concierto de góspel. Una actuación llena de energía y sentimiento."
+  },
+  "en": {
+   "titulo": "UCM Gospel Concert",
+   "resumen": "The Gospel and Modern Music Choir of the Complutense University of Madrid presents a gospel concert. A performance full of energy and soul."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "c4850005f9": {
+  "id": "c7e5718b0f",
+  "es": {
+   "titulo": "Música coral Villar del Olmo",
+   "resumen": "El Coro Villar del Olmo ofrecerá un concierto en la Parroquia de Nuestra Señora de los Ángeles. Esta agrupación vocal, vinculada a la Escuela Municipal de Música, es conocida por sus actuaciones en Alcalá de Henares y su participación en eventos culturales y religiosos."
+  },
+  "en": {
+   "titulo": "Villar del Olmo Choral Music",
+   "resumen": "The Villar del Olmo Choir will perform a concert at the Parish of Nuestra Señora de los Ángeles. This vocal group, linked to the Municipal Music School, is known for its performances in Alcalá de Henares and its participation in cultural and religious events."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "f2e0fabb10": {
+  "id": "2ac86ca4a4",
+  "es": {
+   "titulo": "Notas para volar",
+   "resumen": "La Compañía Nomade Lab presenta 'Notas para volar', un laboratorio artístico de danza que explora la experiencia migratoria desde las perspectivas de quienes se van y quienes se quedan. La obra conecta memorias, afectos y distancias a través del movimiento y la performance."
+  },
+  "en": {
+   "titulo": "Notes to Fly",
+   "resumen": "The Nomade Lab Company presents 'Notes to Fly', an artistic dance laboratory exploring the migratory experience from the perspectives of those who leave and those who stay. The work connects memories, affections, and distances through movement and performance."
+  },
+  "temas": [
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "ddcd4c008c": {
+  "id": "6748057935",
+  "es": {
+   "titulo": "Poesía revelada. Proyecto de creación literaria",
+   "resumen": "La Biblioteca Pública Municipal Iván de Vargas acoge un proyecto de creación literaria centrado en la poesía. Un espacio para la expresión y el descubrimiento literario en el corazón de Madrid."
+  },
+  "en": {
+   "titulo": "Revealed Poetry. Literary Creation Project",
+   "resumen": "The Iván de Vargas Municipal Public Library hosts a literary creation project focused on poetry. A space for expression and literary discovery in the heart of Madrid."
+  },
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "08e48679f1": {
+  "id": "307d2b56f8",
+  "es": {
+   "titulo": "Programación infantil: Zumikids en Navidad",
+   "resumen": "La compañía Zumikids presenta un espectáculo familiar lleno de música, humor y juegos para celebrar la Navidad. Los más pequeños serán los protagonistas de una emocionante aventura navideña."
+  },
+  "en": {
+   "titulo": "Children's Programming: Zumikids at Christmas",
+   "resumen": "The Zumikids company presents a family show full of music, humor, and games to celebrate Christmas. Young children will be the stars of an exciting holiday adventure."
+  },
+  "temas": [
+   "ninos",
+   "musica",
+   "fiestas"
+  ],
+  "a_cubierto": true
+ },
+ "fcfb85cf19": {
+  "id": "ceadda1d1e",
+  "es": {
+   "titulo": "Tacaboom!!",
+   "resumen": "Un concierto-juego para toda la familia donde el ritmo es el protagonista. Con música, canto y baile, John O’Brien, Juan Moreno y Jorge Castañeda invitan a todos a participar activamente en un viaje musical."
+  },
+  "en": {
+   "titulo": "Tacaboom!!",
+   "resumen": "A concert-game for the whole family where rhythm takes center stage. With music, singing, and dancing, John O’Brien, Juan Moreno, and Jorge Castañeda invite everyone to actively participate in a musical journey."
+  },
+  "temas": [
+   "musica",
+   "ninos",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "ffdf467537": {
+  "id": "9da475047c",
+  "es": {
+   "titulo": "Taller de Navidad: Creación de Belén",
+   "resumen": "Participa en la creación de figuras y elementos para el Belén de Guindalera y del centro. Se realizarán talleres para adultos y familias, utilizando materiales como arcilla fría y elaborando decoraciones navideñas."
+  },
+  "en": {
+   "titulo": "Christmas Workshop: Nativity Scene Creation",
+   "resumen": "Participate in creating figures and elements for the Guindalera Nativity scene and the center's display. Workshops for adults and families will be held, using materials like cold clay and crafting Christmas decorations."
+  },
+  "temas": [
+   "ninos",
+   "fiestas",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "b1f71a1261": {
+  "id": "f42789ea9d",
+  "es": {
+   "titulo": "Taller de expresión corporal",
+   "resumen": "Se ofrecen talleres de expresión corporal para infantil, juvenil y adultos en el Teatro Municipal de Vallecas. Una oportunidad para explorar el movimiento y la comunicación no verbal."
+  },
+  "en": {
+   "titulo": "Body Expression Workshop",
+   "resumen": "Body expression workshops are offered for children, youth, and adults at the Municipal Theater of Vallecas. An opportunity to explore movement and non-verbal communication."
+  },
+  "temas": [
+   "actividades",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "69820a6058": {
+  "id": "5e0ab3a6cd",
+  "es": {
+   "titulo": "Tertulia literaria 'El escribidor': Un poema con fantasma",
+   "resumen": "La Biblioteca Mario Vargas Llosa acoge una tertulia literaria con un recital colectivo de poemas que incluyan la temática de los fantasmas. Una tarde para compartir creaciones propias o ajenas."
+  },
+  "en": {
+   "titulo": "Literary Gathering 'El escribidor': A Poem with a Ghost",
+   "resumen": "The Mario Vargas Llosa Library hosts a literary gathering with a collective recital of poems featuring ghosts. An afternoon to share original or existing works."
+  },
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "6c7f334d40": {
+  "id": "a72dc346f5",
+  "es": {
+   "titulo": "Viaje Hacia La Paz",
+   "resumen": "La Compañía Sonrisas Mágicas presenta 'Viaje Hacia La Paz', una aventura para niños a partir de 3 años. Sonrisas y el Equipo Planeta buscarán la fórmula para restablecer la paz en el mundo."
+  },
+  "en": {
+   "titulo": "Journey Towards Peace",
+   "resumen": "The Sonrisas Mágicas Company presents 'Journey Towards Peace', an adventure for children aged 3 and up. Smiles and Team Planet will search for the formula to restore peace in the world."
+  },
+  "temas": [
+   "ninos",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "4d628ec0c5": {
+  "id": "d798583007",
+  "es": {
+   "titulo": "VicalArte 2026",
+   "resumen": "VicalArte 2026 es una muestra iberoamericana de arte que reúne obras de artistas de diversas nacionalidades. Organizada por Estudio 40, busca consolidarse como una cita anual para el encuentro de sensibilidades culturales."
+  },
+  "en": {
+   "titulo": "VicalArte 2026",
+   "resumen": "VicalArte 2026 is an Ibero-American art exhibition featuring works by artists of various nationalities. Organized by Estudio 40, it aims to become an annual event for the convergence of cultural sensibilities."
+  },
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true
+ },
+ "8be6a16ef6": {
+  "id": "95c85fcd5a",
+  "es": {
+   "titulo": "Zo Brinviyer",
+   "resumen": "Zo Brinviyer fusiona poesía y jazz en una propuesta con profundas raíces afro y de rumba, influenciada por el jazz espiritual. Un viaje emocional sobre ser mujer, vulnerabilidad y el amor como fuerza motora."
+  },
+  "en": {
+   "titulo": "Zo Brinviyer",
+   "resumen": "Zo Brinviyer merges poetry and jazz in a performance with deep Afro and rumba roots, influenced by spiritual jazz. An emotional journey about being a woman, vulnerability, and love as a driving force."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "c688a3a53e": {
+  "id": "0c4a58b5d2",
+  "es": {
+   "titulo": "'123, manos, dedos y pies' con Andrea Ortúzar",
+   "resumen": "Sesión de bebecuentos para bebés de 0 a 24 meses en la Biblioteca Pública Municipal La Chata. Andrea Ortúzar guiará a los más pequeños y sus acompañantes en un viaje para estimular los sentidos y el vínculo afectivo."
+  },
+  "en": {
+   "titulo": "'123, Hands, Fingers, and Feet' with Andrea Ortúzar",
+   "resumen": "Baby story session for infants aged 0 to 24 months at the La Chata Municipal Public Library. Andrea Ortúzar will guide the little ones and their companions on a journey to stimulate senses and emotional bonding."
+  },
+  "temas": [
+   "ninos",
+   "libros",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "e2133dabeb": {
+  "id": "09497c3033",
+  "es": {
+   "titulo": "'A la gala gala de la religión' de Patricia Fernández Martín",
+   "resumen": "La Biblioteca Pública Municipal Gloria Fuertes en Barajas presenta la obra 'A la gala gala de la religión' de Patricia Fernández Martín. Un evento cultural centrado en la literatura."
+  },
+  "en": {
+   "titulo": "'A la gala gala de la religión' by Patricia Fernández Martín",
+   "resumen": "The Gloria Fuertes Municipal Public Library in Barajas presents the work 'A la gala gala de la religión' by Patricia Fernández Martín. A cultural event focused on literature."
+  },
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "0194177f72": {
+  "id": "a024cbab44",
+  "es": {
+   "titulo": "'Agüita Agüita' con Silvina Rodríguez",
+   "resumen": "La Biblioteca Pública Municipal Gloria Fuertes ofrece una sesión de bebecuentos con Silvina Rodríguez para bebés de 0 a 24 meses. El objetivo es estimular los sentidos y fortalecer el vínculo afectivo a través de la lectura."
+  },
+  "en": {
+   "titulo": "'Agüita Agüita' with Silvina Rodríguez",
+   "resumen": "The Gloria Fuertes Municipal Public Library offers a baby story session with Silvina Rodríguez for infants aged 0 to 24 months. The aim is to stimulate senses and strengthen emotional bonds through reading."
+  },
+  "temas": [
+   "ninos",
+   "libros",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "9b638bc312": {
+  "id": "9d2aa3e20a",
+  "es": {
+   "titulo": "'Agüita Agüita' con Silvina Rodríguez",
+   "resumen": "La Biblioteca Pública Municipal Canillejas presenta 'Agüita Agüita' con Silvina Rodríguez, una sesión de cuentacuentos para bebés de 0 a 24 meses. Fomenta la estimulación sensorial y el vínculo afectivo."
+  },
+  "en": {
+   "titulo": "'Agüita Agüita' with Silvina Rodríguez",
+   "resumen": "The Canillejas Municipal Public Library presents 'Agüita Agüita' with Silvina Rodríguez, a storytelling session for babies aged 0 to 24 months. It promotes sensory stimulation and emotional bonding."
+  },
+  "temas": [
+   "ninos",
+   "libros",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "7e0d55ad26": {
+  "id": "b8b9466030",
+  "es": {
+   "titulo": "'El viaje de Sonido' con Patricia Rodríguez Agudo",
+   "resumen": "Taller y cuento sobre el sentido del oído para niños a partir de 6 años en la Biblioteca Eugenio Trías. Se explorará cómo viaja el sonido, el uso de audífonos y la anatomía del oído."
+  },
+  "en": {
+   "titulo": "'The Journey of Sound' with Patricia Rodríguez Agudo",
+   "resumen": "A workshop and story about the sense of hearing for children aged 6 and up at the Eugenio Trías Library. It will explore how sound travels, the use of hearing aids, and ear anatomy."
+  },
+  "temas": [
+   "ninos",
+   "actividades",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "523672e5e1": {
+  "id": "1fb81ff127",
+  "es": {
+   "titulo": "'Presentación del libro 'Defiéndete' y taller práctico",
+   "resumen": "La Biblioteca Pública Municipal Eugenio Trías acoge la presentación del libro 'Defiéndete', que incluirá un taller práctico. Un evento centrado en la literatura y la participación activa."
+  },
+  "en": {
+   "titulo": "'Defiéndete' Book Presentation and Practical Workshop",
+   "resumen": "The Eugenio Trías Municipal Public Library hosts the presentation of the book 'Defiéndete', which will include a practical workshop. An event focused on literature and active participation."
+  },
+  "temas": [
+   "libros",
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "5f5f717b2f": {
+  "id": "bfe0cb6f58",
+  "es": {
+   "titulo": "'Stone soup', con Mamen Storyteller",
+   "resumen": "Sesión de cuentacuentos en inglés para niños a partir de 4 años en la Biblioteca Eugenio Trías. Mamen Storyteller guiará a los pequeños en aventuras mágicas para familiarizarlos con el idioma de forma lúdica."
+  },
+  "en": {
+   "titulo": "'Stone Soup' with Mamen Storyteller",
+   "resumen": "English storytelling session for children aged 4 and up at the Eugenio Trías Library. Mamen Storyteller will guide the little ones through magical adventures, playfully familiarizing them with the language."
+  },
+  "temas": [
+   "ninos",
+   "libros",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "f78bc206b2": {
+  "id": "0ec0d9c076",
+  "es": {
+   "titulo": "'The Witch and her broom' con Mar Amado",
+   "resumen": "La Biblioteca Pública Municipal Ciudad Lineal presenta 'The Witch and her broom' con Mar Amado. Una sesión de cuentacuentos en inglés para niños a partir de 4 años, fomentando la imaginación y el aprendizaje del idioma."
+  },
+  "en": {
+   "titulo": "'The Witch and Her Broom' with Mar Amado",
+   "resumen": "The Ciudad Lineal Municipal Public Library presents 'The Witch and Her Broom' with Mar Amado. An English storytelling session for children aged 4 and up, fostering imagination and language learning."
+  },
+  "temas": [
+   "ninos",
+   "libros",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "bc6945aa4d": {
+  "id": "a72a1f83c2",
+  "es": {
+   "titulo": "'Tiempo detenido' de María Macavea",
+   "resumen": "La Biblioteca Pública Municipal Francisco Ayala en Vicálvaro presenta 'Tiempo detenido', una obra de María Macavea. Un evento cultural centrado en la literatura."
+  },
+  "en": {
+   "titulo": "'Tiempo detenido' by María Macavea",
+   "resumen": "The Francisco Ayala Municipal Public Library in Vicálvaro presents 'Tiempo detenido' by María Macavea. A cultural event focused on literature."
+  },
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "b6d798afa2": {
+  "id": "dd40d8de70",
+  "es": {
+   "titulo": "Presentación del libro 'Habla por mí' con Amaya Muñoz Vicario",
+   "resumen": "Amaya Muñoz Vicario presenta su novela 'Habla por mí', un thriller con crítica social sobre violencia de género y trata de personas. La autora, también conocida por 'El mundo a rayas', compartirá su obra."
+  },
+  "en": {
+   "titulo": "Book Presentation 'Habla por mí' with Amaya Muñoz Vicario",
+   "resumen": "Amaya Muñoz Vicario presents her novel 'Habla por mí', a thriller with social commentary on gender violence and human trafficking. The author, also known for 'El mundo a rayas', will share her work."
+  },
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "2dd36c348d": {
+  "id": "6045e6a1d0",
+  "es": {
+   "titulo": "Concierto de cello y piano. Conservatorio Miguel Manzano",
+   "resumen": "Concierto de cello y piano en el Conservatorio Profesional de Música Miguel Manzano, centrado en compositores rusos como Davydov, Prokófiev y Shostakóvich. Actúan Álvaro Sánchez Mangas y Natalia Zapatero Campo."
+  },
+  "en": {
+   "titulo": "Cello and Piano Concert. Miguel Manzano Conservatory",
+   "resumen": "A cello and piano concert at the Miguel Manzano Professional Conservatory of Music, focusing on Russian composers like Davydov, Prokofiev, and Shostakovich. Featuring Álvaro Sánchez Mangas and Natalia Zapatero Campo."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "afa87f4b3d": {
+  "id": "a70848484d",
+  "es": {
+   "titulo": "'Flamenc oh!!' (PRODUCCIONES YLLANA)",
+   "resumen": "Producciones Yllana presenta 'Flamenc oh!!', un espectáculo que fusiona flamenco tradicional con estilos modernos como el rap, pop y jazz. Una historia de amor, pasión y conflicto familiar."
+  },
+  "en": {
+   "titulo": "'Flamenc oh!!' (PRODUCCIONES YLLANA)",
+   "resumen": "Producciones Yllana presents 'Flamenc oh!!', a show that fuses traditional flamenco with modern styles like rap, pop, and jazz. A story of love, passion, and family conflict."
+  },
+  "temas": [
+   "musica",
+   "cultura",
+   "fiestas"
+  ],
+  "a_cubierto": true
+ },
+ "6980fa6e82": {
+  "id": "dbab8d6f5a",
+  "es": {
+   "titulo": "'Houdini, historia de una muerte' (SAGA PRODUCCIONES)",
+   "resumen": "Saga Producciones presenta 'Houdini, historia de una muerte', un espectáculo multidisciplinar que recrea los trucos de Houdini. Teatro, magia, escapismo y danza se unen para contar su fascinante vida."
+  },
+  "en": {
+   "titulo": "'Houdini, Story of a Death' (SAGA PRODUCCIONES)",
+   "resumen": "Saga Producciones presents 'Houdini, Story of a Death', a multidisciplinary show recreating Houdini's tricks. Theater, magic, escapism, and dance come together to tell his fascinating life story."
+  },
+  "temas": [
+   "cultura",
+   "pantalla",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "0e3028388c": {
+  "id": "63352d9c64",
+  "es": {
+   "titulo": "'Magia... ¡de cine!' (DIEGO CATHAN)",
+   "resumen": "Diego Cathan presenta 'Magia... ¡de cine!', un espectáculo que rinde homenaje a la historia del cine a través de trucos de magia inspirados en películas como Harry Potter o Misión Imposible."
+  },
+  "en": {
+   "titulo": "'Magic... of Cinema!' (DIEGO CATHAN)",
+   "resumen": "Diego Cathan presents 'Magic... of Cinema!', a show that pays homage to the history of cinema through magic tricks inspired by films like Harry Potter and Mission Impossible."
+  },
+  "temas": [
+   "cultura",
+   "pantalla",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "4b875ffbec": {
+  "id": "198fc4bb64",
+  "es": {
+   "titulo": "Pieza del mes: Falera Romana de San Pedro del Arroyo en el Museo de Ávila",
+   "resumen": "El Museo de Ávila presenta una falera de bronce, un elemento de indumentaria militar romana, hallado en San Pedro del Arroyo. La pieza se vincula a la villa tardorromana de El Vergel y documenta la riqueza de la zona en la antigüedad."
+  },
+  "en": {
+   "titulo": "Piece of the Month: Roman Falera from San Pedro del Arroyo at Ávila Museum",
+   "resumen": "The Ávila Museum presents a bronze falera, a piece of Roman military attire, found in San Pedro del Arroyo. The artifact is linked to the late Roman villa of El Vergel, highlighting the area's ancient wealth."
+  },
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true
+ },
+ "dc767beccc": {
+  "id": "8364b5f47e",
+  "es": {
+   "titulo": "Exposición 'Miguel Villarino. El hilo de Ariadna' en el Museo de Zamora",
+   "resumen": "El Museo de Zamora exhibe 'El hilo de Ariadna', una retrospectiva de la obra pictórica de Miguel Villarino durante casi tres décadas. La muestra explora temas universales como la fugacidad de la vida y la comunicación."
+  },
+  "en": {
+   "titulo": "Exhibition 'Miguel Villarino. Ariadne's Thread' at Zamora Museum",
+   "resumen": "The Zamora Museum showcases 'Ariadne's Thread', a retrospective of Miguel Villarino's pictorial work spanning nearly three decades. The exhibition explores universal themes such as life's transience and communication."
+  },
+  "temas": [
+   "cultura",
+   "museos",
+   "pantalla"
+  ],
+  "a_cubierto": true
+ },
+ "07c7d8ea47": {
+  "id": "1ab342c4d7",
+  "es": {
+   "titulo": "Biblioescena: Danza virtual 'Stage_ON' en Castilla y León",
+   "resumen": "El ciclo Biblioescena presenta 'Stage_ON', un proyecto de danza que fusiona la experiencia en vivo con entornos virtuales y realidad virtual. Una propuesta innovadora para vivir la danza desde múltiples perspectivas."
+  },
+  "en": {
+   "titulo": "Biblioescena: Virtual Dance 'Stage_ON' in Castilla y León",
+   "resumen": "The Biblioescena cycle presents 'Stage_ON', a dance project merging live experience with virtual environments and VR. An innovative proposal to experience dance from multiple perspectives."
+  },
+  "temas": [
+   "cultura",
+   "pantalla",
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "6055292c74": {
+  "id": "42494b1635",
+  "es": {
+   "titulo": "'El viaje de Nuru': Teatro infantil sobre la diferencia y la aventura",
+   "resumen": "'El viaje de Nuru' es una obra de teatro infantil sobre una hormiga diferente que emprende un viaje para encontrar su lugar. Una aventura tierna y valiente que celebra la imaginación y la amistad."
+  },
+  "en": {
+   "titulo": "'Nuru's Journey': Children's theater about difference and adventure",
+   "resumen": "'Nuru's Journey' is a children's play about a different ant who embarks on a journey to find her place. A tender and brave adventure celebrating imagination and friendship."
+  },
+  "temas": [
+   "cultura",
+   "ninos"
+  ],
+  "a_cubierto": true
+ },
+ "6f074be687": {
+  "id": "a1146fdffe",
+  "es": {
+   "titulo": "'Scrooge y la Navidad': Teatro de títeres basado en Dickens",
+   "resumen": "'Scrooge y la Navidad' es una adaptación teatral del cuento de Charles Dickens con títeres. La obra narra la transformación de un avaro hombre de negocios en vísperas de Navidad."
+  },
+  "en": {
+   "titulo": "'Scrooge and Christmas': Puppet theater based on Dickens",
+   "resumen": "'Scrooge and Christmas' is a theatrical adaptation of Charles Dickens' tale using puppets. The play narrates the transformation of a greedy businessman on Christmas Eve."
+  },
+  "temas": [
+   "cultura",
+   "ninos",
+   "navidad"
+  ],
+  "a_cubierto": true
+ },
+ "6b6f079fc7": {
+  "id": "0ebb563ed5",
+  "es": {
+   "titulo": "Conferencia: 'Vacceos bajo el fuego' en Zamora",
+   "resumen": "Carlos Sanz Mínguez imparte la conferencia 'Vacceos bajo el fuego', analizando la vida y crisis de las comunidades vacceas ante los imperios mediterráneos. Se abordará la arqueología del conflicto y la vida cotidiana en sus fortalezas."
+  },
+  "en": {
+   "titulo": "Conference: 'Vacceos under fire' in Zamora",
+   "resumen": "Carlos Sanz Mínguez gives the conference 'Vacceos under fire', analyzing the life and crisis of Vaccaei communities facing Mediterranean empires. It will cover the archaeology of conflict and daily life in their strongholds."
+  },
+  "temas": [
+   "cultura",
+   "museos",
+   "rutas"
+  ],
+  "a_cubierto": true
+ },
+ "c29d827764": {
+  "id": "3f0ebc337a",
+  "es": {
+   "titulo": "Musical 'Con alma de mujer' en Guijuelo: Homenaje a las divas",
+   "resumen": "'Con alma de mujer' es un espectáculo musical que rinde homenaje a las divas del cuplé, cabaret y revista española. Con Julita Peinetas, Suso González y Conchi Hernández, repasa canciones icónicas de los años 30 al 50."
+  },
+  "en": {
+   "titulo": "Musical 'Con alma de mujer' in Guijuelo: Tribute to divas",
+   "resumen": "'Con alma de mujer' is a musical show paying tribute to the divas of Spanish cuplé, cabaret, and revista. Featuring Julita Peinetas, Suso González, and Conchi Hernández, it revisits iconic songs from the 30s to the 50s."
+  },
+  "temas": [
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "fac0f1fb0d": {
+  "id": "f49f9a2770",
+  "es": {
+   "titulo": "'El Mago de Oz': Teatro musical familiar en Santovenia de Pisuerga",
+   "resumen": "Ptclam presenta 'El Mago de Oz', una adaptación teatral musical del clásico infantil. La obra celebra la amistad, la sensibilidad y la colaboración a través de las aventuras de Dorothy y sus amigos."
+  },
+  "en": {
+   "titulo": "'The Wizard of Oz': Family musical theater in Santovenia de Pisuerga",
+   "resumen": "Ptclam presents 'The Wizard of Oz', a musical theater adaptation of the children's classic. The play celebrates friendship, sensitivity, and collaboration through the adventures of Dorothy and her friends."
+  },
+  "temas": [
+   "cultura",
+   "ninos",
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "4cf9a9f3ab": {
+  "id": "df4fb26e3a",
+  "es": {
+   "titulo": "'En el viento': Teatro infantil sobre la magia de los libros",
+   "resumen": "'En el viento' es una obra de teatro infantil que convierte los libros en magia escénica. Los cómicos invitan al público a participar en aventuras donde la imaginación es la protagonista."
+  },
+  "en": {
+   "titulo": "'In the Wind': Children's theater about the magic of books",
+   "resumen": "'In the Wind' is a children's play that turns books into stage magic. Comedians invite the audience to participate in adventures where imagination takes center stage."
+  },
+  "temas": [
+   "cultura",
+   "ninos"
+  ],
+  "a_cubierto": true
+ },
+ "6bb202212a": {
+  "id": "9dcfd83a63",
+  "es": {
+   "titulo": "'La maja robada': Teatro sobre el robo de arte en el Museo del Prado",
+   "resumen": "'La maja robada o El museo de los cuadros vacíos' narra la historia de dos mujeres que roban obras de arte del Museo del Prado. Inspirada en un caso real, la obra mezcla comedia y drama."
+  },
+  "en": {
+   "titulo": "'The Stolen Maja': Theater about art theft at the Prado Museum",
+   "resumen": "'The Stolen Maja or The Museum of Empty Paintings' tells the story of two women who steal artworks from the Prado Museum. Inspired by a true event, the play blends comedy and drama."
+  },
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true
+ },
+ "692fbfbf18": {
+  "id": "4754971a5a",
+  "es": {
+   "titulo": "Teatro 'Nunca me gustaron tus besos' contra la violencia de género",
+   "resumen": "La obra 'Nunca me gustaron tus besos' busca sensibilizar y dar voz contra la violencia hacia las mujeres. Organizada por la Subdelegación del Gobierno en Ávila, promueve el respeto, la igualdad y la libertad."
+  },
+  "en": {
+   "titulo": "Theater 'I Never Liked Your Kisses' against gender violence",
+   "resumen": "The play 'I Never Liked Your Kisses' aims to raise awareness and give voice against violence towards women. Organized by the Government Sub-delegation in Ávila, it promotes respect, equality, and freedom."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "68404b401d": {
+  "id": "24e9cd48bb",
+  "es": {
+   "titulo": "Antonio Orozco en concierto en Vitoria-Gasteiz",
+   "resumen": "Antonio Orozco celebra 26 años de carrera con su gira 'La gira de mi vida' en el Buesa Arena. Una noche de emoción, energía y gratitud hacia su público."
+  },
+  "en": {
+   "titulo": "Antonio Orozco in concert in Vitoria-Gasteiz",
+   "resumen": "Antonio Orozco celebrates 26 years of his career with his 'The Tour of My Life' tour at the Buesa Arena. A night of emotion, energy, and gratitude towards his audience."
+  },
+  "temas": [
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "7691971c7c": {
+  "id": "992d75b939",
+  "es": {
+   "titulo": "Orquesta Sinfónica de Acordeones de Bilbao (BAOS) en Sestao",
+   "resumen": "La Orquesta Sinfónica de Acordeones de Bilbao (BAOS) ofrece un concierto con arreglos exclusivos de grandes compositores. Reconocida por su calidad, la orquesta presenta un repertorio que emociona al público."
+  },
+  "en": {
+   "titulo": "Bilbao Accordion Symphony Orchestra (BAOS) in Sestao",
+   "resumen": "The Bilbao Accordion Symphony Orchestra (BAOS) presents a concert featuring exclusive arrangements of great composers. Recognized for its quality, the orchestra offers a repertoire that moves the audience."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "b15d26a2f7": {
+  "id": "6b37b135e7",
+  "es": {
+   "titulo": "Shinova presenta 'La Tormenta Perfecta' en Bilbao",
+   "resumen": "Shinova estrena en directo su nuevo EP 'La Tormenta Perfecta' en el Palacio Euskalduna, con una sección de cuerdas y un espectáculo inmersivo. Una fusión de música potente y diseño visual."
+  },
+  "en": {
+   "titulo": "Shinova presents 'La Tormenta Perfecta' in Bilbao",
+   "resumen": "Shinova premieres their new EP 'La Tormenta Perfecta' live at the Palacio Euskalduna, featuring a string section and an immersive show. A fusion of powerful music and visual design."
+  },
+  "temas": [
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "d5fb94f2fa": {
+  "id": "c679ce6beb",
+  "es": {
+   "titulo": "47TER + OLIVER en concierto en Biarritz",
+   "resumen": "Los artistas 47TER y OLIVER actuarán en la sala Atabal de Biarritz, ofreciendo una noche de música para sus seguidores."
+  },
+  "en": {
+   "titulo": "47TER + OLIVER in concert in Biarritz",
+   "resumen": "Artists 47TER and OLIVER will perform at the Atabal venue in Biarritz, offering a night of music for their fans."
+  },
+  "temas": [
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "a06a49f033": {
+  "id": "34e17b0c5d",
+  "es": {
+   "titulo": "El Mentón de Fogarty en directo en Bilbao",
+   "resumen": "La banda El Mentón de Fogarty ofrecerá un concierto en la sala Stage Live de Bilbao, presentando su propuesta musical en directo."
+  },
+  "en": {
+   "titulo": "El Mentón de Fogarty live in Bilbao",
+   "resumen": "The band El Mentón de Fogarty will perform a concert at the Stage Live venue in Bilbao, presenting their live musical offering."
+  },
+  "temas": [
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "ec9db37356": {
+  "id": "03442ab7f4",
+  "es": {
+   "titulo": "BRUJERIA + Okher en concierto en Villava/Atarrabia",
+   "resumen": "Las bandas BRUJERIA y OKHER actuarán juntas en la sala Totem de Villava/Atarrabia, ofreciendo una noche de potente música en directo."
+  },
+  "en": {
+   "titulo": "BRUJERIA + Okher in concert in Villava/Atarrabia",
+   "resumen": "The bands BRUJERIA and OKHER will perform together at the Totem venue in Villava/Atarrabia, offering a night of powerful live music."
+  },
+  "temas": [
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "b35432fd84": {
+  "id": "91bb4f8b90",
+  "es": {
+   "titulo": "Raimundo El Canastero + Broken Brothers Brass Band en Vitoria-Gasteiz",
+   "resumen": "Raimundo El Canastero, artista flamenco, actuará junto a Broken Brothers Brass Band en la sala Jimmy Jazz de Vitoria-Gasteiz. Una fusión de flamenco y brass band llena de sentimiento."
+  },
+  "en": {
+   "titulo": "Raimundo El Canastero + Broken Brothers Brass Band in Vitoria-Gasteiz",
+   "resumen": "Flamenco artist Raimundo El Canastero will perform with the Broken Brothers Brass Band at the Jimmy Jazz venue in Vitoria-Gasteiz. A fusion of flamenco and brass band full of emotion."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "65da5451f1": {
+  "id": "bd8241aa8b",
+  "es": {
+   "titulo": "Andrés Koi en concierto en Bilbao",
+   "resumen": "Andrés Koi, exvocalista de DVICIO, presenta su proyecto en solitario en el Cotton Club de Bilbao. Una propuesta de pop íntimo y cosmopolita con sensibilidad y estética cuidada."
+  },
+  "en": {
+   "titulo": "Andrés Koi in concert in Bilbao",
+   "resumen": "Andrés Koi, former lead singer of DVICIO, presents his solo project at the Cotton Club in Bilbao. An intimate and cosmopolitan pop offering with sensitivity and refined aesthetics."
+  },
+  "temas": [
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "009beef914": {
+  "id": "21afb79e79",
+  "es": {
+   "titulo": "Mikel Bermejo: \"Eureka\" - Comedia en Basauri",
+   "resumen": "Mikel Bermejo presenta su espectáculo de comedia \"Eureka\" en Basauri. Una reflexión humorística sobre la vida moderna, los influencers y la estupidez humana."
+  },
+  "en": {
+   "titulo": "Mikel Bermejo: \"Eureka\" - Comedy in Basauri",
+   "resumen": "Mikel Bermejo presents his comedy show \"Eureka\" in Basauri. A humorous reflection on modern life, influencers, and human stupidity."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "ae81f96332": {
+  "id": "4db668e0ad",
+  "es": {
+   "titulo": "Diego Arjona: \"Divorciarse a los 40\" en Eibar",
+   "resumen": "Dentro del Komedia Fest 2026, Diego Arjona presenta \"Divorciarse a los 40\", una comedia sobre las vicisitudes del divorcio. Un espectáculo con monólogos, humor y situaciones basadas en hechos reales."
+  },
+  "en": {
+   "titulo": "Diego Arjona: \"Divorcing at 40\" in Eibar",
+   "resumen": "As part of Komedia Fest 2026, Diego Arjona presents \"Divorcing at 40\", a comedy about the challenges of divorce. A show featuring monologues, humor, and situations based on real events."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "5c51cc61d4": {
+  "id": "8ea432789e",
+  "es": {
+   "titulo": "BBK Music Legends 2026: Danny Bryant en Bilbao",
+   "resumen": "Danny Bryant, referente del blues-rock británico, actúa en la Sala BBK dentro del festival BBK Music Legends 2026. Presentará su nuevo trabajo \"Nothing Left Behind\" y temas clásicos."
+  },
+  "en": {
+   "titulo": "BBK Music Legends 2026: Danny Bryant in Bilbao",
+   "resumen": "Danny Bryant, a leading figure in British blues-rock, performs at Sala BBK as part of the BBK Music Legends 2026 festival. He will present his new album \"Nothing Left Behind\" and classic tracks."
+  },
+  "temas": [
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "5030b47eea": {
+  "id": "56795fbbfd",
+  "es": {
+   "titulo": "Juan Mari Beltran laukotea: Música y instrumentos vascos en Ciboure",
+   "resumen": "Juan Mari Beltran laukotea presenta un concierto de música popular vasca en Ciboure. El espectáculo explora cantos, melodías y el uso de instrumentos tradicionales vascos."
+  },
+  "en": {
+   "titulo": "Juan Mari Beltran laukotea: Basque music and instruments in Ciboure",
+   "resumen": "Juan Mari Beltran laukotea presents a concert of Basque folk music in Ciboure. The show explores songs, melodies, and the use of traditional Basque instruments."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "017a9664f5": {
+  "id": "68bca48a7a",
+  "es": {
+   "titulo": "\"Ai, gure juaneteak\": espectáculo escénico híbrido",
+   "resumen": "Una visión escénica que fusiona teatro y música, reinterpretando las letras de Laboa desde una perspectiva actual. Tres actores-músicos exploran la palabra y la melodía en un espectáculo que celebra el patrimonio emocional de estas canciones."
+  },
+  "en": {
+   "titulo": "\"Ai, gure juaneteak\": hybrid scenic show",
+   "resumen": "A scenic vision that fuses theater and music, reinterpreting Laboa's lyrics from a current perspective. Three actor-musicians explore word and melody in a show that celebrates the emotional heritage of these songs."
+  },
+  "temas": [
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": null
+ },
+ "a564558b5f": {
+  "id": "c1deedfb45",
+  "es": {
+   "titulo": "Morgan presenta \"Hotel Tour 2025\" en Tudela",
+   "resumen": "La banda Morgan regresa con su \"Hotel Tour 2025\" para presentar su nuevo álbum \"HOTEL MORGAN\". El concierto promete un viaje emocional a través de sus nuevas canciones, invitando al público a ser parte de su universo creativo."
+  },
+  "en": {
+   "titulo": "Morgan presents \"Hotel Tour 2025\" in Tudela",
+   "resumen": "The band Morgan returns with their \"Hotel Tour 2025\" to present their new album \"HOTEL MORGAN\". The concert promises an emotional journey through their new songs, inviting the audience to be part of their creative universe."
+  },
+  "temas": [
+   "musica"
+  ],
+  "a_cubierto": null
+ },
+ "b8555f1d99": {
+  "id": "0a2e37e8bb",
+  "es": {
+   "titulo": "Exposición \"Pinturas y artes decorativas\" en Basauri",
+   "resumen": "La Agrupación de Artistas de San Miguel presenta su exposición \"Pinturas y artes decorativas\" en la Taberna Nagusia de Basauri. Una muestra que podrá visitarse del 26 de octubre al 20 de noviembre."
+  },
+  "en": {
+   "titulo": "\"Paintings and decorative arts\" exhibition in Basauri",
+   "resumen": "The San Miguel Artists' Association presents its \"Paintings and decorative arts\" exhibition at the Taberna Nagusia in Basauri. The show will be on display from October 26th to November 20th."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "92a8c2429a": {
+  "id": "e97d893b2e",
+  "es": {
+   "titulo": "Exposición \"Pasión por la fotografía\" en Basauri",
+   "resumen": "La Asociación de Fotógrafos de Basauri exhibe \"Pasión por la fotografía\" en la Taberna Nagusia. La exposición estará abierta al público del 30 de noviembre al 14 de enero."
+  },
+  "en": {
+   "titulo": "\"Passion for photography\" exhibition in Basauri",
+   "resumen": "The Basauri Photographers' Association exhibits \"Passion for photography\" at the Taberna Nagusia. The exhibition will be open to the public from November 30th to January 14th."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "6f272a43ed": {
+  "id": "a49d77d6a2",
+  "es": {
+   "titulo": "Festival de Teatro de Vitoria-Gasteiz: \"Verborrea\"",
+   "resumen": "Dentro del Festival Internacional de Teatro de Vitoria-Gasteiz 2026, se presenta \"Verborrea\", una tragicomedia salvaje sobre los marginados y el lado oscuro de la sociedad, inspirada en el punk de los 80."
+  },
+  "en": {
+   "titulo": "Vitoria-Gasteiz Theater Festival: \"Verborrea\"",
+   "resumen": "As part of the Vitoria-Gasteiz International Theater Festival 2026, \"Verborrea\" is presented, a wild tragicomedy about outcasts and society's dark side, inspired by 80s punk."
+  },
+  "temas": [
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": null
+ },
+ "3dfb4803a0": {
+  "id": "8b5c97f78c",
+  "es": {
+   "titulo": "Literaktum 2026: \"Lo peor que le puede pasar a un niño\"",
+   "resumen": "Una propuesta escénica dentro de Literaktum 2026 que deconstruye la masculinidad a través de la experiencia personal y colectiva. Jaime Liñera y Ekoma teatro invitan a reflexionar sobre la identidad y los roles de género."
+  },
+  "en": {
+   "titulo": "Literaktum 2026: \"The worst that can happen to a child\"",
+   "resumen": "A scenic proposal within Literaktum 2026 that deconstructs masculinity through personal and collective experience. Jaime Liñera and Ekoma teatro invite reflection on identity and gender roles."
+  },
+  "temas": [
+   "cultura",
+   "ninos"
+  ],
+  "a_cubierto": null
+ },
+ "6209ecf9c5": {
+  "id": "9d78f1e382",
+  "es": {
+   "titulo": "Xabi Aburruzaga Trio en Deba",
+   "resumen": "El Xabi Aburruzaga Trio ofrecerá un concierto en Deba, organizado por Debako Kultur Elkartea. Una actuación musical en la localidad."
+  },
+  "en": {
+   "titulo": "Xabi Aburruzaga Trio in Deba",
+   "resumen": "The Xabi Aburruzaga Trio will perform a concert in Deba, organized by Debako Kultur Elkartea. A musical performance in the town."
+  },
+  "temas": [
+   "musica"
+  ],
+  "a_cubierto": null
+ },
+ "e101883207": {
+  "id": "5e0e474c6d",
+  "es": {
+   "titulo": "Niña Polaca en Bilbao",
+   "resumen": "La banda madrileña Niña Polaca actuará en el Bilboko Kafe Antzokia. Su música mezcla indie rock, pop y garage rock con influencias del pop español de los 80."
+  },
+  "en": {
+   "titulo": "Niña Polaca in Bilbao",
+   "resumen": "The Madrid-based band Niña Polaca will perform at the Bilboko Kafe Antzokia. Their music blends indie rock, pop, and garage rock with influences from 80s Spanish pop."
+  },
+  "temas": [
+   "musica"
+  ],
+  "a_cubierto": null
+ },
+ "61c20d9ad9": {
+  "id": "3ae62f4077",
+  "es": {
+   "titulo": "\"Hasta el último baile\": espectáculo de danza",
+   "resumen": "Un espectáculo de danza con música en directo que explora el paso del tiempo, la memoria y la transformación del cuerpo. Una reflexión sobre la vejez y el poder de la danza para unir generaciones."
+  },
+  "en": {
+   "titulo": "\"Until the last dance\": dance performance",
+   "resumen": "A dance performance with live music that explores the passage of time, memory, and body transformation. A reflection on aging and the power of dance to connect generations."
+  },
+  "temas": [
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": null
+ },
+ "8f2768477d": {
+  "id": "101614cf2c",
+  "es": {
+   "titulo": "\"52 hercios\": metáfora del aislamiento social",
+   "resumen": "La obra \"52 hertzioko balea\" utiliza la metáfora de una ballena solitaria para explorar el aislamiento social y la soledad no deseada, tejiendo experiencias interconectadas."
+  },
+  "en": {
+   "titulo": "\"52 hertz\": metaphor for social isolation",
+   "resumen": "The play \"52 hertzioko balea\" uses the metaphor of a lonely whale to explore social isolation and unwanted solitude, weaving interconnected experiences."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "46ba0748a4": {
+  "id": "f360c1beb0",
+  "es": {
+   "titulo": "Vanessa Collier en Leioa",
+   "resumen": "La cantante, saxofonista y compositora tejana Vanessa Collier presenta su blues, rock y soul en Kultur Leioa. Un talento joven que ha conquistado crítica y público."
+  },
+  "en": {
+   "titulo": "Vanessa Collier in Leioa",
+   "resumen": "Texan singer, saxophonist, and composer Vanessa Collier presents her blues, rock, and soul music at Kultur Leioa. A young talent who has won over critics and audiences."
+  },
+  "temas": [
+   "musica"
+  ],
+  "a_cubierto": null
+ },
+ "15a7f88b22": {
+  "id": "8f01e1f8e4",
+  "es": {
+   "titulo": "Festival Musika Haizeak 2026 en Markina-Xemein",
+   "resumen": "La VII edición del festival Musika Haizeak 2026 presenta conciertos en formato dúo en la ermita de Arretxinaga y la iglesia de Xemein, con músicos locales."
+  },
+  "en": {
+   "titulo": "Musika Haizeak Festival 2026 in Markina-Xemein",
+   "resumen": "The 7th edition of the Musika Haizeak 2026 festival features duo concerts at the Arretxinaga hermitage and Xemein church, with local musicians."
+  },
+  "temas": [
+   "musica"
+  ],
+  "a_cubierto": null
+ },
+ "b9a66845f9": {
+  "id": "784e8a8b50",
+  "es": {
+   "titulo": "Concierto de voz y órgano en Musika Haizeak 2026",
+   "resumen": "Dentro del ciclo Musika Haizeak 2026, Aitor Garitano (tenor) y Mikel Ansola (órgano) ofrecerán un concierto en la iglesia de Xemein el 20 de noviembre."
+  },
+  "en": {
+   "titulo": "Voice and organ concert at Musika Haizeak 2026",
+   "resumen": "As part of the Musika Haizeak 2026 cycle, Aitor Garitano (tenor) and Mikel Ansola (organ) will perform a concert at the Xemein church on November 20th."
+  },
+  "temas": [
+   "musica"
+  ],
+  "a_cubierto": null
+ },
+ "2d73386682": {
+  "id": "17ab33c7a1",
+  "es": {
+   "titulo": "MOMO actúa en la Sala Totem",
+   "resumen": "El grupo MOMO ofrecerá un concierto en la Sala Totem el próximo 20 de noviembre. Una actuación musical en Villava/Atarrabia."
+  },
+  "en": {
+   "titulo": "MOMO performs at Sala Totem",
+   "resumen": "The group MOMO will perform a concert at Sala Totem on November 20th. A musical performance in Villava/Atarrabia."
+  },
+  "temas": [
+   "musica"
+  ],
+  "a_cubierto": null
+ },
+ "9c22a94bc8": {
+  "id": "0e716d4430",
+  "es": {
+   "titulo": "Festival de Santa Zezilia en Ermua",
+   "resumen": "La Escuela de Música Alboka y Txindurri taldea celebran el tradicional festival en honor a la patrona de la música en el Ermua Antzokia."
+  },
+  "en": {
+   "titulo": "Santa Zezilia Festival in Ermua",
+   "resumen": "The Alboka Music School and Txindurri taldea celebrate the traditional festival honoring the patron saint of music at the Ermua Antzokia."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "0a86b35083": {
+  "id": "8b1105d3d6",
+  "es": {
+   "titulo": "Ciclo de cine francés: \"Une aussi longue absence\"",
+   "resumen": "Proyección de la película francesa \"Une aussi longue absence\" en el Centro Cultural Okendo. La historia de una mujer que cree reconocer a su marido desaparecido en un vagabundo."
+  },
+  "en": {
+   "titulo": "French film series: \"Une aussi longue absence\"",
+   "resumen": "Screening of the French film \"Une aussi longue absence\" at the Okendo Cultural Center. The story of a woman who believes she recognizes her missing husband in a tramp."
+  },
+  "temas": [
+   "pantalla",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "2a18674545": {
+  "id": "bf72dd0c9e",
+  "es": {
+   "titulo": "Ciclo \"Oreixe Akustikoa 2026\" en Arrasate",
+   "resumen": "El ciclo \"Oreixe Akustikoa 2026\" se celebra en Arrasate los viernes de septiembre, octubre y noviembre, ofreciendo siete conciertos de música acústica de diversos estilos."
+  },
+  "en": {
+   "titulo": "\"Oreixe Akustikoa 2026\" cycle in Arrasate",
+   "resumen": "The \"Oreixe Akustikoa 2026\" cycle takes place in Arrasate on Fridays in September, October, and November, offering seven acoustic music concerts of various styles."
+  },
+  "temas": [
+   "musica"
+  ],
+  "a_cubierto": null
+ },
+ "28ec3a8a09": {
+  "id": "05b18150b3",
+  "es": {
+   "titulo": "Grupo HABIA en \"Oreixe akustikoa 2026\"",
+   "resumen": "El grupo HABIA presenta su música, que fusiona tradición y contemporaneidad, en el Centro de Música Juan Arzamendi como parte del ciclo \"Oreixe akustikoa 2026\"."
+  },
+  "en": {
+   "titulo": "HABIA group in \"Oreixe akustikoa 2026\"",
+   "resumen": "The group HABIA presents its music, which fuses tradition and contemporaneity, at the Juan Arzamendi Music Center as part of the \"Oreixe akustikoa 2026\" cycle."
+  },
+  "temas": [
+   "musica"
+  ],
+  "a_cubierto": null
+ },
+ "d6ef423c89": {
+  "id": "b1d55953e8",
+  "es": {
+   "titulo": "Exposición \"¿HOLABUENOSDÍAS\" de Abdeldjalil Sahed en Basauri",
+   "resumen": "Inauguración y visita guiada de la exposición fotográfica \"¿HOLABUENOSDÍAS\" de Abdeldjalil Sahed en la Torre de Ariz. La muestra estará del 20 de noviembre al 4 de diciembre."
+  },
+  "en": {
+   "titulo": "\"¿HOLABUENOSDÍAS\" exhibition by Abdeldjalil Sahed in Basauri",
+   "resumen": "Opening and guided tour of Abdeldjalil Sahed's photographic exhibition \"¿HOLABUENOSDÍAS\" at the Torre de Ariz. The exhibition will be on display from November 20th to December 4th."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "c13ed2d840": {
+  "id": "28cc6ac768",
+  "es": {
+   "titulo": "\"43º13'44''N\": teatro documento en Eibar",
+   "resumen": "Olatz Gorrotxategi presenta \"43º13'44''N\", una conferencia performativa que narra la vida de su tío abuelo a través de la memoria familiar y colectiva, combinando euskera y castellano."
+  },
+  "en": {
+   "titulo": "\"43º13'44''N\": documentary theater in Eibar",
+   "resumen": "Olatz Gorrotxategi presents \"43º13'44''N\", a performative lecture narrating her great-uncle's life through family and collective memory, combining Basque and Spanish."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "2bb6931491": {
+  "id": "52dbc27532",
+  "es": {
+   "titulo": "Bazen Behin 2026: Pello Añorga cuenta \"Korri, korri\"",
+   "resumen": "Dentro de Bazen Behin 2026, Pello Añorga ofrece una sesión de cuentacuentos titulada \"Korri, korri\" para niños de 5 a 8 años en la Biblioteca de Barakaldo."
+  },
+  "en": {
+   "titulo": "Bazen Behin 2026: Pello Añorga tells \"Korri, korri\"",
+   "resumen": "As part of Bazen Behin 2026, Pello Añorga offers a storytelling session titled \"Korri, korri\" for children aged 5-8 at the Barakaldo Library."
+  },
+  "temas": [
+   "ninos",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "fa7e600684": {
+  "id": "04f3f50a84",
+  "es": {
+   "titulo": "Bazen Behin 2026: Bego Alabazan y \"Liburuen magia\"",
+   "resumen": "Bego Alabazan presenta la sesión de cuentacuentos \"Liburuen magia\" dentro de Bazen Behin 2026, invitando a los niños de 5 a 8 años a descubrir la magia de los libros."
+  },
+  "en": {
+   "titulo": "Bazen Behin 2026: Bego Alabazan and \"Book magic\"",
+   "resumen": "Bego Alabazan presents the storytelling session \"Liburuen magia\" as part of Bazen Behin 2026, inviting children aged 5-8 to discover the magic of books."
+  },
+  "temas": [
+   "ninos",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "547c8eec06": {
+  "id": "df8009a2cb",
+  "es": {
+   "titulo": "Jon Plazaola: Comedia \"AA Aita\" en Azkoitia",
+   "resumen": "Jon Plazaola presenta su comedia \"AA Aita\", donde comparte sus experiencias sobre la paternidad, el dolor y la estupidez humana con humor y reflexión."
+  },
+  "en": {
+   "titulo": "Jon Plazaola: Comedy \"AA Aita\" in Azkoitia",
+   "resumen": "Jon Plazaola presents his comedy \"AA Aita\", where he shares his experiences about fatherhood, pain, and human stupidity with humor and reflection."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "eaf27d9734": {
+  "id": "43a51c21b8",
+  "es": {
+   "titulo": "Gararock Fest 2026: Harat en Mendaro",
+   "resumen": "Dentro del festival Gararock Fest 2026, la banda navarra Harat actuará en el San Agustin Kulturgunea. Su música combina guitarras distorsionadas y ritmos hipnóticos."
+  },
+  "en": {
+   "titulo": "Gararock Fest 2026: Harat in Mendaro",
+   "resumen": "As part of the Gararock Fest 2026, the Navarrese band Harat will perform at San Agustin Kulturgunea. Their music combines distorted guitars and hypnotic rhythms."
+  },
+  "temas": [
+   "musica"
+  ],
+  "a_cubierto": null
  }
 }
