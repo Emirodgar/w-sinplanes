@@ -12688,27 +12688,6 @@
   "a_cubierto": null,
   "confianza": 0.85
  },
- "ab1783ec83": {
-  "url": "https://www.20minutos.es/libros/andrea-abreu-vuelve-novela-tras-exito-panza-burro-mi-generacion-tiene-sensacion-fin-mundo-no-futuro_7047735_0.html",
-  "fuente": "20minutos (Cultura)",
-  "src": "prensa-20minutos-cultura",
-  "publicado": "2026-11-06",
-  "es_plan": false
- },
- "0a3473933b": {
-  "url": "https://elpais.com/us/entretenimiento/2026-11-05/la-revista-the-new-yorker-arremete-contra-la-bola-negra-no-es-un-monumento-es-un-fracaso.html",
-  "fuente": "El País (Cultura)",
-  "src": "prensa-elpais-cultura",
-  "publicado": "2026-11-06",
-  "es_plan": false
- },
- "cd1bb8864b": {
-  "url": "https://elpais.com/cultura/cine/2026-11-06/la-bola-negra-se-convierte-en-la-pelicula-mas-vista-del-ano-en-espana-a-lomos-del-publico-joven.html",
-  "fuente": "El País (Cultura)",
-  "src": "prensa-elpais-cultura",
-  "publicado": "2026-11-06",
-  "es_plan": false
- },
  "270792624c": {
   "url": "https://elpais.com/cultura/cine/2026-11-06/sacamantecas-creible-ambientacion-en-el-retrato-de-un-monstruo.html",
   "fuente": "El País (Cultura)",
@@ -12877,13 +12856,6 @@
   "a_cubierto": null,
   "confianza": 0.9
  },
- "fe2233c061": {
-  "url": "https://www.lavanguardia.com/cultura/20261106/11677732/tintin-mary-poppins-grupo-planeta-editorial-juventud.html",
-  "fuente": "La Vanguardia (Cultura)",
-  "src": "prensa-lavanguardia-cultura",
-  "publicado": "2026-11-06",
-  "es_plan": false
- },
  "9c7cb87391": {
   "url": "https://www.lavanguardia.com/cultura/musica/20261106/11677652/pitbull-pone-bailar-barcelona-madrid-fiestas-llenas-calvas-gafas-sol-corbatas.html",
   "fuente": "La Vanguardia (Cultura)",
@@ -12910,13 +12882,6 @@
   ],
   "a_cubierto": null,
   "confianza": 0.85
- },
- "d12ea67d33": {
-  "url": "https://www.lavanguardia.com/cultura/cine/20261106/11677620/bola-negra-convence-revista-the-new-yorker-monumento-fracaso.html",
-  "fuente": "La Vanguardia (Cultura)",
-  "src": "prensa-lavanguardia-cultura",
-  "publicado": "2026-11-06",
-  "es_plan": false
  },
  "51211afd4e": {
   "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/06/revelada-intrahistoria-flying-free-himno-legendario-musica-makina-2066284.html",
@@ -12946,48 +12911,6 @@
   "a_cubierto": null,
   "confianza": 0.85
  },
- "2901d2f58c": {
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/06/christian-galvez-protestas-profesores-telemadrid-yo-no-iba-presentador-ser-profesor-2065669.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-11-06",
-  "es_plan": false
- },
- "2cc5c96320": {
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/06/enrique-bunbury-obligado-detener-concierto-8000personas-hasta-aqui-2065189.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-11-06",
-  "es_plan": false
- },
- "00a0a6272e": {
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/06/pedro-sanchez-gran-wyoming-despues-tanto-tiempo-quedate-hasta-mi-proxima-investidura-2066265.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-11-06",
-  "es_plan": false
- },
- "1ba479d4c2": {
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/06/aragones-mario-kimera-kimera-leyendas-recortadores-toros-documental-2066244.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-11-06",
-  "es_plan": false
- },
- "ea71c62cb3": {
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/06/gira-retorno-heroes-silencio-2007-bunbury-beneficio-economicamente-resto-herida-sangrante-2056391.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-11-06",
-  "es_plan": false
- },
- "c2c4a60816": {
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/06/septima-estrena-cuota-millones-vieron-momento-septima-2066254.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-11-06",
-  "es_plan": false
- },
  "7cea8f5748": {
   "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/06/certamen-bandas-musica-pascual-marquina-calatayud-arranca-este-sabado-su-decima-edicion-2066258.html",
   "fuente": "Heraldo de Aragón (Ocio y cultura)",
@@ -13015,20 +12938,6 @@
   ],
   "a_cubierto": null,
   "confianza": 0.9
- },
- "e7e2b35874": {
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/06/joan-manuel-serrat-82anos-casa-sombria-vivienda-barrio-sol-entraba-mucha-dificultad-2063175.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-11-06",
-  "es_plan": false
- },
- "6fa802f315": {
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/06/critica-musical-dulcinea-paloma-basilio-teatro-principal-zaragoza-2066243.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-11-06",
-  "es_plan": false
  },
  "9516de9590": {
   "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/06/jose-sacristan-89anos-detestables-actitudes-miserables-santiago-abascal-terrible-accidente-ferroviario-espanoles-votan-2064584.html",
@@ -13058,13 +12967,6 @@
   "a_cubierto": null,
   "confianza": 0.9
  },
- "3cd7e787a5": {
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/06/arturo-perez-reverte-75anos-futuro-apagando-luz-veo-jovenes-estafado-2066009.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-11-06",
-  "es_plan": false
- },
  "25d8d70da7": {
   "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/06/kaseo-hacer-critica-izquierda-fascista-decir-hoy-2066027.html",
   "fuente": "Heraldo de Aragón (Ocio y cultura)",
@@ -13092,34 +12994,6 @@
   ],
   "a_cubierto": null,
   "confianza": 0.85
- },
- "e82b559f1d": {
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/06/victor-manuel-79anos-acaba-harto-hoteles-todos-iguales-parecidos-final-gira-2063549.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-11-06",
-  "es_plan": false
- },
- "620841d43f": {
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/06/aitana-concierto-auditorio-nacional-mexico-cuarto-azul-2066235.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-11-06",
-  "es_plan": false
- },
- "ad881e9d64": {
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/06/carlos-sobera-zaragoza-primera-ciudad-conoci-10anos-sali-casa-pesado-guitarra-2064418.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-11-06",
-  "es_plan": false
- },
- "8e8be5e094": {
-  "url": "https://www.heraldo.es/ocio-y-cultura/video-entrevista-jose-mota-humorista-director-arriba-tutto-2066222-2.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-11-06",
-  "es_plan": false
  },
  "787b8222f0": {
   "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/06/nati-canada-si-dios-me-da-vida-fuerzas-seguire-pintando-2066143.html",
@@ -13178,27 +13052,6 @@
   "a_cubierto": false,
   "confianza": 0.85
  },
- "4ba0eb050c": {
-  "url": "https://www.elnortedecastilla.es/culturas/teatro/fernando-cayo-estrena-crematorio-retrato-corrupcion-urbanistica-20261106135350-nt.html",
-  "fuente": "El Norte de Castilla (Culturas)",
-  "src": "prensa-nortecastilla-culturas",
-  "publicado": "2026-11-06",
-  "es_plan": false
- },
- "adf35f8273": {
-  "url": "https://www.elnortedecastilla.es/culturas/tv/septima-anota-cuota-media-estreno-20261106105125-ntrc.html",
-  "fuente": "El Norte de Castilla (Culturas)",
-  "src": "prensa-nortecastilla-culturas",
-  "publicado": "2026-11-06",
-  "es_plan": false
- },
- "f88cb654db": {
-  "url": "https://www.elnortedecastilla.es/culturas/teatro/proyecto-432-recupera-memoria-antifranquista-valladolid-20261106102257-nt.html",
-  "fuente": "El Norte de Castilla (Culturas)",
-  "src": "prensa-nortecastilla-culturas",
-  "publicado": "2026-11-06",
-  "es_plan": false
- },
  "d4c42b3711": {
   "url": "https://www.elnortedecastilla.es/culturas/cine/contemplar-mundo-ojos-piedad-isla-20261106102226-nt.html",
   "fuente": "El Norte de Castilla (Culturas)",
@@ -13227,13 +13080,6 @@
   "a_cubierto": null,
   "confianza": 0.85
  },
- "8d89cd95cf": {
-  "url": "https://www.diariosur.es/culturas/cac-malaga-salva-ultimo-escollo-remodelacion-20261105054627-nt.html",
-  "fuente": "Diario Sur (Culturas)",
-  "src": "prensa-diariosur-culturas",
-  "publicado": "2026-11-06",
-  "es_plan": false
- },
  "ae93c47d68": {
   "url": "https://www.diariosur.es/culturas/hijos-ruina-voz-generacion-rap-musica-20261104054544-nt.html",
   "fuente": "Diario Sur (Culturas)",
@@ -13261,34 +13107,6 @@
   ],
   "a_cubierto": null,
   "confianza": 0.85
- },
- "0aa6dbd969": {
-  "url": "https://www.ideal.es/culturas/andalucia-reconoce-tejido-creativo-segunda-edicion-premios-20261105213853-nt.html",
-  "fuente": "Ideal (Culturas)",
-  "src": "prensa-ideal-culturas",
-  "publicado": "2026-11-06",
-  "es_plan": false
- },
- "048feed847": {
-  "url": "https://www.ideal.es/culturas/muneca-triste-20261105000206-nt.html",
-  "fuente": "Ideal (Culturas)",
-  "src": "prensa-ideal-culturas",
-  "publicado": "2026-11-06",
-  "es_plan": false
- },
- "49572fafa8": {
-  "url": "https://www.diariovasco.com/culturas/cine/ghost-the-cell-semana-cine-terror-20261106121523-nt.html",
-  "fuente": "El Diario Vasco (Culturas)",
-  "src": "prensa-diariovasco-culturas",
-  "publicado": "2026-11-06",
-  "es_plan": false
- },
- "1d894e525a": {
-  "url": "https://www.diariovasco.com/culturas/enganados-fotografia-realidad-mirada-alejandro-cartagena-exposicion-tabakalera-20261105174237-nt.html",
-  "fuente": "El Diario Vasco (Culturas)",
-  "src": "prensa-diariovasco-culturas",
-  "publicado": "2026-11-06",
-  "es_plan": false
  },
  "dd041ff00c": {
   "url": "https://www.diariovasco.com/alto-deba/bergara/txuma-murugarren-presenta-concierto-disco-hemen-behar-20261105150056-nt.html",
@@ -14037,34 +13855,6 @@
   "a_cubierto": true,
   "confianza": 0.9
  },
- "97bd23352c": {
-  "url": "https://elpais.com/cultura/cine/2026-11-06/muere-a-los-52-anos-el-director-chileno-sebastian-lelio-ganador-del-oscar-por-una-mujer-fantastica.html",
-  "fuente": "El País (Cultura)",
-  "src": "prensa-elpais-cultura",
-  "publicado": "2026-11-06",
-  "es_plan": false
- },
- "902fa03ef7": {
-  "url": "https://elpais.com/cultura/2026-11-06/la-editorial-almadia-mantiene-su-confianza-en-la-novela-de-david-silva-rojas-y-no-retira-el-premio.html",
-  "fuente": "El País (Cultura)",
-  "src": "prensa-elpais-cultura",
-  "publicado": "2026-11-06",
-  "es_plan": false
- },
- "cad088e90c": {
-  "url": "https://elpais.com/cultura/2026-11-06/rodrigo-sorogoyen-carlos-bardem-alana-s-portero-y-sara-barquinero-entre-las-mas-de-800-personalidades-de-la-cultura-que-respaldan-en-un-manifiesto-la-huelga-general.html",
-  "fuente": "El País (Cultura)",
-  "src": "prensa-elpais-cultura",
-  "publicado": "2026-11-06",
-  "es_plan": false
- },
- "4f204d9da5": {
-  "url": "https://www.lavanguardia.com/cultura/20261106/11678554/noche-barcelonesa-vive.html",
-  "fuente": "La Vanguardia (Cultura)",
-  "src": "prensa-lavanguardia-cultura",
-  "publicado": "2026-11-06",
-  "es_plan": false
- },
  "1f7dc8ea74": {
   "url": "https://www.lavanguardia.com/cultura/20261106/11678337/laura-gallego-joan-lluis-lluis-fernando-navarro-ramon-victoria-alvarez-premios-festival-42.html",
   "fuente": "La Vanguardia (Cultura)",
@@ -14121,13 +13911,6 @@
   "a_cubierto": null,
   "confianza": 0.9
  },
- "f5c306e931": {
-  "url": "https://www.lavanguardia.com/cultura/20261106/11678293/muere-cineasta-chileno-sebastian-lelio-ganador-oscar-52-anos.html",
-  "fuente": "La Vanguardia (Cultura)",
-  "src": "prensa-lavanguardia-cultura",
-  "publicado": "2026-11-06",
-  "es_plan": false
- },
  "fc3b3a657e": {
   "url": "https://www.lavanguardia.com/local/baix-llobregat/20261106/11677765/nueva-forma-descubrir-mayor-colonia-textil-catalunya.html",
   "fuente": "La Vanguardia (Cultura)",
@@ -14155,13 +13938,6 @@
   ],
   "a_cubierto": true,
   "confianza": 0.9
- },
- "fa166dd832": {
-  "url": "https://www.lavanguardia.com/cultura/musica/20261106/11678132/angel-of-sant-esteve-u2-adelanta-fragmento-the-mirror-maker-cancion-dedicada-rosalia.html",
-  "fuente": "La Vanguardia (Cultura)",
-  "src": "prensa-lavanguardia-cultura",
-  "publicado": "2026-11-06",
-  "es_plan": false
  },
  "3b514374c5": {
   "url": "https://www.lavanguardia.com/qf/planes/20261106/11677142/kyle-eastwood-frente-espejo-festival-jazz-barcelona.html",
@@ -16140,13 +15916,6 @@
   ],
   "a_cubierto": true,
   "confianza": 0.85
- },
- "61d994a4a7": {
-  "url": "https://www.lavanguardia.com/cultura/teatro/20261106/11676839/me-n-vaig-nuevo-espectaculo-solitario-carles-sans-poliorama.html",
-  "fuente": "La Vanguardia (Cultura)",
-  "src": "prensa-lavanguardia-cultura",
-  "publicado": "2026-11-06",
-  "es_plan": false
  },
  "0d1389b3f3": {
   "url": "https://www.20minutos.es/libros/john-harrison-ganador-booker-mas-anciano-historia-conquista-sus-81-anos-con-final-todo-una-satira-distopica_7059289_0.html",

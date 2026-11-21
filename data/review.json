@@ -40,16 +40,6 @@
   "url": "https://www.ideal.es/culturas/almeria/guajira-impulsa-ciclo-talleres-artisticos-inclusion-20261028125006-nt.html"
  },
  {
-  "id": "b3e8ce3393",
-  "titulo": "Festival RBLS de Teatre Jove celebra su 10ª edición",
-  "inicio": "2026-11-06",
-  "municipio": null,
-  "provincia": null,
-  "confianza": 0.5,
-  "fuente": "Ara (Cultura)",
-  "url": "https://www.ara.cat/cultura/10a-edicio-festival-rbls-teatre-jove-aborda-salut-mental-memoria-historica_25_5895009.html"
- },
- {
   "id": "872447bb61",
   "titulo": "Festival Determinantes: teatro, danza, monólogos y talleres en Murcia",
   "inicio": "2026-11-17",
@@ -110,26 +100,6 @@
   "url": "https://www.lasprovincias.es/culturas/musica/pecos-despiden-escenarios-roig-arena-20261117132359-nt.html"
  },
  {
-  "id": "9f612236e0",
-  "titulo": "Tardor presenta nueva canción en la Sala Repvblicca",
-  "inicio": "2026-11-20",
-  "municipio": null,
-  "provincia": "Comunitat Valenciana",
-  "confianza": 0.5,
-  "fuente": "Las Provincias (Culturas)",
-  "url": "https://www.lasprovincias.es/culturas/musica/tardor-presenta-nueva-cancion-vuelta-escenarios-despues-20261117130249-nt.html"
- },
- {
-  "id": "49320ec6b8",
-  "titulo": "Andrés Roca Rey retoma su temporada taurina en México",
-  "inicio": "2026-11-20",
-  "municipio": null,
-  "provincia": null,
-  "confianza": 0.5,
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/18/andres-roca-rey-30anos-soledad-bonita-eliges-tranquilidad-paz-2069570.html"
- },
- {
   "id": "90cce63f67",
   "titulo": "María Dueñas presenta este sábado en Cartagena el nuevo álbum ilustrado de Elda Moreno y Ricard López",
   "inicio": "2026-11-22",
@@ -148,16 +118,6 @@
   "confianza": 0.5,
   "fuente": "La Verdad (Culturas)",
   "url": "https://www.laverdad.es/culturas/dysphoria-realidad-personas-trans-20261119001207-nt.html"
- },
- {
-  "id": "00166378ab",
-  "titulo": "Presentación del libro 'El corazón en llamas' sobre María Zambrano",
-  "inicio": "2026-11-20",
-  "municipio": null,
-  "provincia": null,
-  "confianza": 0.5,
-  "fuente": "20minutos (Cultura)",
-  "url": "https://www.20minutos.es/libros/corazon-llamas-un-libro-ilustrado-que-recuerda-pensadora-maria-zambrano_7063644_0.html"
  },
  {
   "id": "41f869277d",
