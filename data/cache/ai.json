@@ -48,6 +48,23 @@
   ],
   "a_cubierto": null
  },
+ "2002342778": {
+  "id": "e9cb7c4bc3",
+  "es": {
+   "titulo": "Ruta de senderismo: Cerro Garabitas",
+   "resumen": "Recorrido circular de 10 km por la Casa de Campo para descubrir vestigios de la Guerra Civil y disfrutar de las vistas desde el Cerro Garabitas. Apta para mayores de 12 años."
+  },
+  "en": {
+   "titulo": "Hiking Route: Cerro Garabitas",
+   "resumen": "A 10 km circular route through Casa de Campo to discover remnants of the Civil War and enjoy the views from Cerro Garabitas. Suitable for ages 12 and up."
+  },
+  "temas": [
+   "naturaleza",
+   "rutas",
+   "deporte"
+  ],
+  "a_cubierto": false
+ },
  "2125724036": {
   "id": "3ad16747f2",
   "es": {
@@ -48166,5 +48183,1591 @@
    "musica"
   ],
   "a_cubierto": null
+ },
+ "2cf0303d8f": {
+  "id": "62f4f945fd",
+  "es": {
+   "titulo": "Cartas para la inclusión",
+   "resumen": "Actividad en el Centro Cultural Eduardo Úrculo de Tetuán. Un espacio para la reflexión y la expresión sobre la inclusión."
+  },
+  "en": {
+   "titulo": "Letters for Inclusion",
+   "resumen": "Activity at the Eduardo Úrculo Cultural Center in Tetuán. A space for reflection and expression on inclusion."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "2a6b1537c7": {
+  "id": "6429b05c8a",
+  "es": {
+   "titulo": "Concierto Coral Fundación Gredos San Diego",
+   "resumen": "Disfruta de un concierto coral ofrecido por la Fundación Gredos San Diego en el Centro Cultural el Torito de Moratalaz."
+  },
+  "en": {
+   "titulo": "Gredos San Diego Foundation Choral Concert",
+   "resumen": "Enjoy a choral concert by the Gredos San Diego Foundation at the El Torito Cultural Center in Moratalaz."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "f366a77219": {
+  "id": "2339934a45",
+  "es": {
+   "titulo": "Concierto Coral Polifónica Nuestra Señora de la Merced",
+   "resumen": "Concierto de música coral en la Parroquia Santa María del Buen Aire, ofrecido por la Polifónica Nuestra Señora de la Merced."
+  },
+  "en": {
+   "titulo": "Nuestra Señora de la Merced Polyphonic Choral Concert",
+   "resumen": "Choral music concert at the Santa María del Buen Aire Parish, performed by the Nuestra Señora de la Merced Polyphonic Choir."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "200eed839d": {
+  "id": "4ae02b4b69",
+  "es": {
+   "titulo": "Concierto Coral Polifónica Nuestra Señora de Moratalaz",
+   "resumen": "La Polifónica Nuestra Señora de Moratalaz ofrece un concierto en la Parroquia Nuestra Señora de la Merced."
+  },
+  "en": {
+   "titulo": "Nuestra Señora de Moratalaz Polyphonic Choral Concert",
+   "resumen": "The Nuestra Señora de Moratalaz Polyphonic Choir presents a concert at the Nuestra Señora de la Merced Parish."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "d5bf8e6bae": {
+  "id": "c097eca584",
+  "es": {
+   "titulo": "Concierto Coral Polifónica Sagrada Familia",
+   "resumen": "Disfruta de un concierto coral de la Polifónica Sagrada Familia en la Parroquia Santa Ana y La Esperanza."
+  },
+  "en": {
+   "titulo": "Sagrada Familia Polyphonic Choral Concert",
+   "resumen": "Enjoy a choral concert by the Sagrada Familia Polyphonic Choir at the Santa Ana y La Esperanza Parish."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "dc6db4ef72": {
+  "id": "5776f72c2d",
+  "es": {
+   "titulo": "Concierto de rock y exposición fotográfica",
+   "resumen": "La banda 'Las Noches' ofrece un concierto de rock en el Centro de Educación Ambiental y Cultural Maris Stella, acompañado de una exposición fotográfica de la Asociación Alucinos."
+  },
+  "en": {
+   "titulo": "Rock Concert and Photography Exhibition",
+   "resumen": "The band 'Las Noches' performs a rock concert at the Maris Stella Environmental and Cultural Education Center, accompanied by a photography exhibition from the Alucinos Association."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "0bd247dc46": {
+  "id": "bcfaab5613",
+  "es": {
+   "titulo": "Concierto de piano: Especial Navidad",
+   "resumen": "Concierto de piano en el Centro Cultural Casa de Vacas con obras de grandes compositores. Entrada libre hasta completar aforo."
+  },
+  "en": {
+   "titulo": "Piano Concert: Christmas Special",
+   "resumen": "Piano concert at the Casa de Vacas Cultural Center featuring works by great composers. Free entry until capacity is reached."
+  },
+  "temas": [
+   "musica",
+   "cultura",
+   "navidad"
+  ],
+  "a_cubierto": true
+ },
+ "4920cc0d20": {
+  "id": "2dd0ad4aea",
+  "es": {
+   "titulo": "Concierto Grupo Rondalla Banguilad",
+   "resumen": "El Grupo Rondalla Banguilad interpreta canciones populares, pasodobles, habaneras y fragmentos de zarzuelas en el Centro Cultural el Torito."
+  },
+  "en": {
+   "titulo": "Rondalla Banguilad Group Concert",
+   "resumen": "The Rondalla Banguilad Group performs popular songs, pasodobles, habaneras, and zarzuela excerpts at the El Torito Cultural Center."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "364172a436": {
+  "id": "bd834f8ce4",
+  "es": {
+   "titulo": "Concierto La Voz del Desierto",
+   "resumen": "La banda de rock católico 'La Voz del Desierto' ofrece un concierto vibrante y conmovedor en la Iglesia del Perpetuo Socorro."
+  },
+  "en": {
+   "titulo": "The Voice of the Desert Concert",
+   "resumen": "The Catholic rock band 'La Voz del Desierto' offers a vibrant and moving concert at the Iglesia del Perpetuo Socorro."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "b5d4fa3cf9": {
+  "id": "6a4e09b5a9",
+  "es": {
+   "titulo": "Cuentacuentos: Navidades en la Granja",
+   "resumen": "Sesión de cuentacuentos con temática navideña en el Centro Cultural Nicolás Salmerón de Chamartín."
+  },
+  "en": {
+   "titulo": "Storytelling: Christmas at the Farm",
+   "resumen": "Storytelling session with a Christmas theme at the Nicolás Salmerón Cultural Center in Chamartín."
+  },
+  "temas": [
+   "ninos",
+   "cultura",
+   "navidad"
+  ],
+  "a_cubierto": true
+ },
+ "153918fa5d": {
+  "id": "422dd7fd71",
+  "es": {
+   "titulo": "Cuéntame",
+   "resumen": "Actividad cultural en el Centro Cultural Eduardo Úrculo de Tetuán. Un espacio para compartir historias y experiencias."
+  },
+  "en": {
+   "titulo": "Tell Me",
+   "resumen": "Cultural activity at the Eduardo Úrculo Cultural Center in Tetuán. A space to share stories and experiences."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "b182f24f73": {
+  "id": "ab2ef9eaff",
+  "es": {
+   "titulo": "El alma tiene que comer: Teatro y danza",
+   "resumen": "Obra de teatro y danza en conmemoración del Día Internacional de la Eliminación de la Violencia contra la Mujer. Se realizará al aire libre o en el Centro Cultural Usera en caso de mal tiempo."
+  },
+  "en": {
+   "titulo": "The Soul Must Eat: Theater and Dance",
+   "resumen": "A theater and dance performance commemorating the International Day for the Elimination of Violence against Women. It will take place outdoors or at the Usera Cultural Center in case of bad weather."
+  },
+  "temas": [
+   "cultura",
+   "fiestas"
+  ],
+  "a_cubierto": null
+ },
+ "021e2f842d": {
+  "id": "725bb53d10",
+  "es": {
+   "titulo": "El Cajón de Mía Crespo",
+   "resumen": "Actividad en el Centro Cultural Eduardo Úrculo de Tetuán. Un evento para explorar la creatividad y la expresión artística."
+  },
+  "en": {
+   "titulo": "Mía Crespo's Drawer",
+   "resumen": "Activity at the Eduardo Úrculo Cultural Center in Tetuán. An event to explore creativity and artistic expression."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "7f014e57e2": {
+  "id": "c00bc74e6f",
+  "es": {
+   "titulo": "El circo de las marionetas",
+   "resumen": "Disfruta de un espectáculo de marionetas en el Teatro de Títeres de El Retiro."
+  },
+  "en": {
+   "titulo": "The Puppet Circus",
+   "resumen": "Enjoy a puppet show at the El Retiro Puppet Theater."
+  },
+  "temas": [
+   "ninos",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "41ae4cd72f": {
+  "id": "9828bc7d5b",
+  "es": {
+   "titulo": "El taller de los duendes",
+   "resumen": "Actividad infantil en la Casa del Lector. Un taller para despertar la imaginación y la creatividad de los más pequeños."
+  },
+  "en": {
+   "titulo": "The Gnomes' Workshop",
+   "resumen": "Children's activity at the Casa del Lector. A workshop to spark the imagination and creativity of the little ones."
+  },
+  "temas": [
+   "ninos",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "3ee6b74e64": {
+  "id": "f7cdd8399d",
+  "es": {
+   "titulo": "El termómetro de la inclusión",
+   "resumen": "Actividad en el Centro Cultural Eduardo Úrculo de Tetuán. Un espacio para medir y fomentar la inclusión social."
+  },
+  "en": {
+   "titulo": "The Inclusion Thermometer",
+   "resumen": "Activity at the Eduardo Úrculo Cultural Center in Tetuán. A space to measure and promote social inclusion."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "103fc34bc3": {
+  "id": "553c116002",
+  "es": {
+   "titulo": "Esculturas a la virulé",
+   "resumen": "Exposición de esculturas al aire libre en el Espacio Abierto Quinta de los Molinos."
+  },
+  "en": {
+   "titulo": "Whimsical Sculptures",
+   "resumen": "Outdoor sculpture exhibition at the Quinta de los Molinos Open Space."
+  },
+  "temas": [
+   "cultura",
+   "parques"
+  ],
+  "a_cubierto": false
+ },
+ "bad436a84c": {
+  "id": "4ec8273d89",
+  "es": {
+   "titulo": "Fragmentos",
+   "resumen": "Actividad cultural en el Centro Cultural Eduardo Úrculo de Tetuán. Un evento para explorar diferentes perspectivas y realidades."
+  },
+  "en": {
+   "titulo": "Fragments",
+   "resumen": "Cultural activity at the Eduardo Úrculo Cultural Center in Tetuán. An event to explore different perspectives and realities."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "b25f74e112": {
+  "id": "9ccb770730",
+  "es": {
+   "titulo": "Gaudete! Concierto de Navidad",
+   "resumen": "La Agrupación Coral 'El Madroño' ofrece un concierto navideño en el Centro Sociocultural Maestro Alonso, con villancicos tradicionales y populares."
+  },
+  "en": {
+   "titulo": "Gaudete! Christmas Concert",
+   "resumen": "The 'El Madroño' Choir presents a Christmas concert at the Maestro Alonso Sociocultural Center, featuring traditional and popular carols."
+  },
+  "temas": [
+   "musica",
+   "cultura",
+   "navidad"
+  ],
+  "a_cubierto": true
+ },
+ "b29ab0ae11": {
+  "id": "daae3e3fa6",
+  "es": {
+   "titulo": "Ideas que toman forma",
+   "resumen": "Actividad en el Centro Cultural Eduardo Úrculo de Tetuán. Un espacio para dar forma a nuevas ideas y proyectos."
+  },
+  "en": {
+   "titulo": "Ideas Taking Shape",
+   "resumen": "Activity at the Eduardo Úrculo Cultural Center in Tetuán. A space to shape new ideas and projects."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "91dd410403": {
+  "id": "aea4e0cea6",
+  "es": {
+   "titulo": "Lectura del Shahnameh (Libro de los Reyes)",
+   "resumen": "Lectura pública del épico 'Libro de los Reyes' persa en la Biblioteca Pública Municipal Mario Vargas Llosa."
+  },
+  "en": {
+   "titulo": "Reading of the Shahnameh (Book of Kings)",
+   "resumen": "Public reading of the epic Persian 'Book of Kings' at the Mario Vargas Llosa Municipal Public Library."
+  },
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "b575ea476d": {
+  "id": "3ce2968771",
+  "es": {
+   "titulo": "Lengua de signos ambulante",
+   "resumen": "Actividad en el Centro Cultural Eduardo Úrculo de Tetuán. Un evento para promover la comunicación y la accesibilidad."
+  },
+  "en": {
+   "titulo": "Traveling Sign Language",
+   "resumen": "Activity at the Eduardo Úrculo Cultural Center in Tetuán. An event to promote communication and accessibility."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "4a34b3e97e": {
+  "id": "0ca9977686",
+  "es": {
+   "titulo": "Los tipos malos 2",
+   "resumen": "Proyección de la película 'Los tipos malos 2' en el Centro Cultural Carril del Conde de Hortaleza."
+  },
+  "en": {
+   "titulo": "The Bad Guys 2",
+   "resumen": "Screening of the movie 'The Bad Guys 2' at the Carril del Conde Cultural Center in Hortaleza."
+  },
+  "temas": [
+   "pantalla",
+   "ninos"
+  ],
+  "a_cubierto": true
+ },
+ "c777a6f9eb": {
+  "id": "5d3b9197c7",
+  "es": {
+   "titulo": "Mago Alejandro (May Magic) en Mercado San Cristóbal",
+   "resumen": "El Mago Alejandro (May Magic) ofrece un espectáculo de magia en el Mercado de San Cristóbal."
+  },
+  "en": {
+   "titulo": "Magician Alejandro (May Magic) at San Cristóbal Market",
+   "resumen": "Magician Alejandro (May Magic) presents a magic show at the San Cristóbal Market."
+  },
+  "temas": [
+   "cultura",
+   "ninos"
+  ],
+  "a_cubierto": null
+ },
+ "1273ff2a55": {
+  "id": "ab22aed4dd",
+  "es": {
+   "titulo": "Mago Héctor en Mercado de Chamartín",
+   "resumen": "Disfruta de un espectáculo de magia con el Mago Héctor en el Mercado de Chamartín. Una oportunidad para sorprenderse y divertirse en un ambiente único."
+  },
+  "en": {
+   "titulo": "Magician Héctor at Chamartín Market",
+   "resumen": "Enjoy a magic show with Magician Héctor at the Chamartín Market. An opportunity to be amazed and have fun in a unique atmosphere."
+  },
+  "temas": [
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": null
+ },
+ "bfbd3f6566": {
+  "id": "247dc3e504",
+  "es": {
+   "titulo": "Maíz con sabor a historia en Tetuán",
+   "resumen": "Explora la historia a través del maíz en el Centro Cultural Eduardo Úrculo. Una actividad cultural para aprender y reflexionar."
+  },
+  "en": {
+   "titulo": "Corn with a taste of history in Tetuán",
+   "resumen": "Explore history through corn at the Eduardo Úrculo Cultural Center. A cultural activity to learn and reflect."
+  },
+  "temas": [
+   "cultura",
+   "gastronomia"
+  ],
+  "a_cubierto": true
+ },
+ "21e5b72477": {
+  "id": "749e9d1fe5",
+  "es": {
+   "titulo": "Malabares sin límites en Tetuán",
+   "resumen": "Descubre el arte de los malabares en el Centro Cultural Eduardo Úrculo. Una exhibición o taller para disfrutar de la destreza y la habilidad."
+  },
+  "en": {
+   "titulo": "Unlimited Juggling in Tetuán",
+   "resumen": "Discover the art of juggling at the Eduardo Úrculo Cultural Center. A show or workshop to enjoy skill and dexterity."
+  },
+  "temas": [
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "82eecb9d6c": {
+  "id": "5a2f986626",
+  "es": {
+   "titulo": "Matritum Cantat en Mercado de Prosperidad",
+   "resumen": "Disfruta de la música coral con Matritum Cantat en el Mercado de Prosperidad. Una experiencia auditiva en un entorno vibrante."
+  },
+  "en": {
+   "titulo": "Matritum Cantat at Prosperidad Market",
+   "resumen": "Enjoy choral music with Matritum Cantat at the Prosperidad Market. An auditory experience in a vibrant setting."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "03d8c99145": {
+  "id": "9301f5f7d0",
+  "es": {
+   "titulo": "Muestra 'Vengo a medida para tu bien' en Tetuán",
+   "resumen": "Visita la exposición 'Vengo a medida para tu bien' en el Centro Cultural Eduardo Úrculo. Una muestra artística que invita a la reflexión."
+  },
+  "en": {
+   "titulo": "Exhibition 'I come tailor-made for your good' in Tetuán",
+   "resumen": "Visit the exhibition 'I come tailor-made for your good' at the Eduardo Úrculo Cultural Center. An artistic display that invites reflection."
+  },
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true
+ },
+ "185453566a": {
+  "id": "0e90f8644a",
+  "es": {
+   "titulo": "Noche de pijamas para tu peluche en Carabanchel",
+   "resumen": "Una divertida noche de pijamas para peluches en la Biblioteca Pública Municipal Victoria Prego. ¡Una aventura nocturna para los más pequeños!"
+  },
+  "en": {
+   "titulo": "Pajama night for your stuffed animal in Carabanchel",
+   "resumen": "A fun pajama night for stuffed animals at the Victoria Prego Municipal Public Library. A nocturnal adventure for the little ones!"
+  },
+  "temas": [
+   "ninos",
+   "libros"
+  ],
+  "a_cubierto": true
+ },
+ "583e63620b": {
+  "id": "3f1bb853ba",
+  "es": {
+   "titulo": "Paneles de expresión en Tetuán",
+   "resumen": "Participa en 'Paneles de expresión' en el Centro Cultural Eduardo Úrculo. Una actividad para compartir ideas y puntos de vista."
+  },
+  "en": {
+   "titulo": "Expression panels in Tetuán",
+   "resumen": "Participate in 'Expression panels' at the Eduardo Úrculo Cultural Center. An activity to share ideas and viewpoints."
+  },
+  "temas": [
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "c19b930327": {
+  "id": "c0185b711d",
+  "es": {
+   "titulo": "Pasacalles navideño: El Escuadrón de los Juguetes",
+   "resumen": "Disfruta de un mágico pasacalles navideño con 'El Escuadrón de los Juguetes' en el Paseo de la Habana. ¡Pura ilusión y diversión festiva!"
+  },
+  "en": {
+   "titulo": "Christmas parade: The Toy Squadron",
+   "resumen": "Enjoy a magical Christmas parade with 'The Toy Squadron' on Paseo de la Habana. Pure illusion and festive fun!"
+  },
+  "temas": [
+   "fiestas",
+   "ninos",
+   "navidad"
+  ],
+  "a_cubierto": false
+ },
+ "93562d35ce": {
+  "id": "d1fb5c6933",
+  "es": {
+   "titulo": "Picnic: Comedia de Fernando Arrabal",
+   "resumen": "Asiste a 'Picnic', una comedia de Fernando Arrabal en el Centro Cultural Buenavista. Una obra que mezcla humor y reflexión sobre la guerra."
+  },
+  "en": {
+   "titulo": "Picnic: Fernando Arrabal's Comedy",
+   "resumen": "Attend 'Picnic', a comedy by Fernando Arrabal at the Buenavista Cultural Center. A play that mixes humor and reflection on war."
+  },
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": true
+ },
+ "6b6d1b152b": {
+  "id": "6b4b8d6ef7",
+  "es": {
+   "titulo": "Pintura con otras manos en Tetuán",
+   "resumen": "Explora la creatividad a través de la pintura en el Centro Cultural Eduardo Úrculo. Una actividad artística para todos."
+  },
+  "en": {
+   "titulo": "Painting with other hands in Tetuán",
+   "resumen": "Explore creativity through painting at the Eduardo Úrculo Cultural Center. An artistic activity for everyone."
+  },
+  "temas": [
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "725f4de551": {
+  "id": "7b398f7ad5",
+  "es": {
+   "titulo": "Prodigiosas proyecciones en Quinta de los Molinos",
+   "resumen": "Disfruta de 'Prodigiosas proyecciones' en el Espacio Abierto Quinta de los Molinos. Una experiencia visual que te sorprenderá."
+  },
+  "en": {
+   "titulo": "Prodigious projections at Quinta de los Molinos",
+   "resumen": "Enjoy 'Prodigious projections' at the Quinta de los Molinos Open Space. A visual experience that will surprise you."
+  },
+  "temas": [
+   "pantalla",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "1bde22e000": {
+  "id": "907a68fa09",
+  "es": {
+   "titulo": "Programación infantil: Mago Antonio",
+   "resumen": "Espectáculo de magia cómica y humor familiar con el Mago Antonio en Madrid. Diversión garantizada para todas las edades."
+  },
+  "en": {
+   "titulo": "Children's programming: Magician Antonio",
+   "resumen": "A show of comic magic and family humor with Magician Antonio in Madrid. Fun guaranteed for all ages."
+  },
+  "temas": [
+   "ninos",
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": null
+ },
+ "65f0796c2a": {
+  "id": "2ba034bed9",
+  "es": {
+   "titulo": "Retratos al tacto en Tetuán",
+   "resumen": "Descubre el arte a través del tacto con 'Retratos al tacto' en el Centro Cultural Eduardo Úrculo. Una experiencia sensorial única."
+  },
+  "en": {
+   "titulo": "Portraits by touch in Tetuán",
+   "resumen": "Discover art through touch with 'Portraits by touch' at the Eduardo Úrculo Cultural Center. A unique sensory experience."
+  },
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true
+ },
+ "75703f412c": {
+  "id": "902b7c8070",
+  "es": {
+   "titulo": "Salida Mediambiental: Ruta de los Cantiles",
+   "resumen": "Realiza una ruta de senderismo de baja dificultad por la Ruta de los Cantiles en Rivas-Vaciamadrid. Descubre el Parque Regional del Sureste."
+  },
+  "en": {
+   "titulo": "Environmental Outing: Ruta de los Cantiles",
+   "resumen": "Take a low-difficulty hiking route along the Ruta de los Cantiles in Rivas-Vaciamadrid. Discover the Southeast Regional Park."
+  },
+  "temas": [
+   "naturaleza",
+   "rutas",
+   "parques"
+  ],
+  "a_cubierto": false
+ },
+ "8ebb61fe4c": {
+  "id": "2eefba9aa9",
+  "es": {
+   "titulo": "Taller de decoración navideña en Carabanchel",
+   "resumen": "Crea tus propias decoraciones navideñas en la Biblioteca Pública Municipal Victoria Prego. ¡Despierta tu espíritu festivo!"
+  },
+  "en": {
+   "titulo": "Christmas decoration workshop in Carabanchel",
+   "resumen": "Create your own Christmas decorations at the Victoria Prego Municipal Public Library. Awaken your festive spirit!"
+  },
+  "temas": [
+   "ninos",
+   "navidad",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "c5e4057242": {
+  "id": "6660508607",
+  "es": {
+   "titulo": "Taller de lectura dramatizada: 'Leer en tres actos'",
+   "resumen": "Participa en un taller de lectura dramatizada 'Leer en tres actos' en la Biblioteca Pública Municipal Mario Vargas Llosa. Una experiencia teatral."
+  },
+  "en": {
+   "titulo": "Dramatized reading workshop: 'Reading in three acts'",
+   "resumen": "Participate in a dramatized reading workshop 'Reading in three acts' at the Mario Vargas Llosa Municipal Public Library. A theatrical experience."
+  },
+  "temas": [
+   "libros",
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "4a0c80e471": {
+  "id": "e1d1f10653",
+  "es": {
+   "titulo": "Taller de meteorología familiar en Usera",
+   "resumen": "Aprende sobre meteorología y construye instrumentos en familia en el Centro de Educación Ambiental Maris Stella. ¡Ciencia y diversión!"
+  },
+  "en": {
+   "titulo": "Family meteorology workshop in Usera",
+   "resumen": "Learn about meteorology and build instruments as a family at the Maris Stella Environmental Education Center. Science and fun!"
+  },
+  "temas": [
+   "ninos",
+   "actividades",
+   "naturaleza"
+  ],
+  "a_cubierto": true
+ },
+ "17be9e03f8": {
+  "id": "750aff6f72",
+  "es": {
+   "titulo": "Taller Infantil: Mi pequeño Árbol de Navidad",
+   "resumen": "Crea tu propio árbol de Navidad en este taller infantil en el Centro Cultural Nicolás Salmerón. ¡Diversión y creatividad navideña!"
+  },
+  "en": {
+   "titulo": "Children's Workshop: My Little Christmas Tree",
+   "resumen": "Create your own Christmas tree in this children's workshop at the Nicolás Salmerón Cultural Center. Christmas fun and creativity!"
+  },
+  "temas": [
+   "ninos",
+   "navidad",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "d1cdc37f93": {
+  "id": "4bd01a3a8f",
+  "es": {
+   "titulo": "Taller-cuentacuentos: Los Guardianes del Planeta",
+   "resumen": "Únete a 'Los Guardianes del Planeta' en un taller-cuentacuentos en el Centro de Educación Ambiental Maris Stella. ¡Aprende a cuidar la Tierra!"
+  },
+  "en": {
+   "titulo": "Storytelling workshop: Guardians of the Planet",
+   "resumen": "Join 'Guardians of the Planet' in a storytelling workshop at the Maris Stella Environmental Education Center. Learn to care for the Earth!"
+  },
+  "temas": [
+   "ninos",
+   "libros",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "f1f3645955": {
+  "id": "366700cb0e",
+  "es": {
+   "titulo": "The Machine To Be Another en Tetuán",
+   "resumen": "Experimenta 'The Machine To Be Another' en el Centro Cultural Eduardo Úrculo. Una propuesta innovadora y tecnológica."
+  },
+  "en": {
+   "titulo": "The Machine To Be Another in Tetuán",
+   "resumen": "Experience 'The Machine To Be Another' at the Eduardo Úrculo Cultural Center. An innovative and technological proposal."
+  },
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": true
+ },
+ "d355a99397": {
+  "id": "61f29d6a1f",
+  "es": {
+   "titulo": "Torneo de Fútbol Sala de las Estrellas",
+   "resumen": "Competición de fútbol sala para categorías alevín y benjamín en el Colegio Público Rufino Blanco. ¡El deporte rey en acción!"
+  },
+  "en": {
+   "titulo": "Football Sala Tournament of the Stars",
+   "resumen": "Football sala competition for U10 and U12 categories at Rufino Blanco Public School. The king of sports in action!"
+  },
+  "temas": [
+   "deporte",
+   "ninos"
+  ],
+  "a_cubierto": true
+ },
+ "3855a66c2c": {
+  "id": "4c0a7e13cf",
+  "es": {
+   "titulo": "Trashumancia: patrimonio cultural inmaterial",
+   "resumen": "Descubre la trashumancia, patrimonio cultural inmaterial de la humanidad, en el Centro de Información Ambiental de Dehesa de la Villa."
+  },
+  "en": {
+   "titulo": "Transhumance: intangible cultural heritage",
+   "resumen": "Discover transhumance, intangible cultural heritage of humanity, at the Dehesa de la Villa Environmental Information Center."
+  },
+  "temas": [
+   "cultura",
+   "naturaleza",
+   "rutas"
+  ],
+  "a_cubierto": true
+ },
+ "ccf715218c": {
+  "id": "71c74edbab",
+  "es": {
+   "titulo": "Cuentos para soñar despierto con Pingüi",
+   "resumen": "Sesión de cuentacuentos para niños a partir de 2 años en la Biblioteca Manuel Vázquez Montalbán. ¡Aventuras e imaginación garantizadas!"
+  },
+  "en": {
+   "titulo": "Stories to dream awake with Pingüi",
+   "resumen": "Storytelling session for children aged 2 and up at the Manuel Vázquez Montalbán Library. Adventures and imagination guaranteed!"
+  },
+  "temas": [
+   "ninos",
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "80c0de6017": {
+  "id": "454ddc5bf7",
+  "es": {
+   "titulo": "'El Duende y la estrella' con Alicia Cuenteando",
+   "resumen": "Disfruta de cuentos mágicos para niños de 2 a 4 años en la Biblioteca José Hierro. Una actividad para despertar la imaginación."
+  },
+  "en": {
+   "titulo": "'The Goblin and the Star' with Alicia Cuenteando",
+   "resumen": "Enjoy magical stories for children aged 2 to 4 at the José Hierro Library. An activity to spark imagination."
+  },
+  "temas": [
+   "ninos",
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "4371be455e": {
+  "id": "6b21b95bd1",
+  "es": {
+   "titulo": "Concurso de tarjetas navideñas en Villaverde",
+   "resumen": "Participa en el 'I Concurso de tarjetas navideñas' organizado por la Biblioteca Francisco Umbral. ¡Muestra tu arte y espíritu festivo!"
+  },
+  "en": {
+   "titulo": "Christmas card contest at Villaverde",
+   "resumen": "Participate in the '1st Christmas card contest' organized by the Francisco Umbral Library. Show your art and festive spirit!"
+  },
+  "temas": [
+   "ninos",
+   "navidad",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "8c72e9c90d": {
+  "id": "bd2d176483",
+  "es": {
+   "titulo": "'Los Belliquercus. Musgón y el viaje a lo desconocido'",
+   "resumen": "Presentación del libro infantil 'Los Belliquercus. Musgón y el viaje a lo desconocido' con su autora. Incluye un taller creativo para acercar la lectura de forma divertida. Entrada libre hasta completar aforo."
+  },
+  "en": {
+   "titulo": "'Los Belliquercus. Musgón and the journey into the unknown'",
+   "resumen": "Presentation of the children's book 'Los Belliquercus. Musgón and the journey into the unknown' with its author. Includes a creative workshop to make reading fun. Free entry until capacity is reached."
+  },
+  "temas": [
+   "libros",
+   "ninos",
+   "naturaleza"
+  ],
+  "a_cubierto": true
+ },
+ "cf880506e0": {
+  "id": "1d6b2adede",
+  "es": {
+   "titulo": "'Madre robada' y 'Tu memoria, mis recuerdos'",
+   "resumen": "Presentación de los libros 'Madre robada' y 'Tu memoria, mis recuerdos' de Estrella García Lozano en la Biblioteca Pública Municipal Benjamín Palencia."
+  },
+  "en": {
+   "titulo": "'Madre robada' and 'Tu memoria, mis recuerdos'",
+   "resumen": "Presentation of the books 'Madre robada' and 'Tu memoria, mis recuerdos' by Estrella García Lozano at the Benjamín Palencia Municipal Public Library."
+  },
+  "temas": [
+   "libros"
+  ],
+  "a_cubierto": true
+ },
+ "54ced83971": {
+  "id": "75a1e5fb8d",
+  "es": {
+   "titulo": "'Y se armó la marimorena' con Yoana Siri",
+   "resumen": "Sesión de cuentacuentos 'Y se armó la marimorena' para niños a partir de 4 años, a cargo de Yoana Siri. Una actividad para despertar la imaginación y el amor por los libros. Entrada libre."
+  },
+  "en": {
+   "titulo": "'Y se armó la marimorena' with Yoana Siri",
+   "resumen": "Storytelling session 'Y se armó la marimorena' for children aged 4 and up, by Yoana Siri. An activity to spark imagination and a love for books. Free entry."
+  },
+  "temas": [
+   "libros",
+   "ninos"
+  ],
+  "a_cubierto": true
+ },
+ "f3dfcc90b4": {
+  "id": "02c4ac72a3",
+  "es": {
+   "titulo": "'Zapatito roto, cuéntame otro' con Mar Amado",
+   "resumen": "Sesión de cuentacuentos 'Zapatito roto, cuéntame otro' para niños a partir de 4 años, impartida por Mar Amado. Fomenta la imaginación y el gusto por la lectura. Entrada libre."
+  },
+  "en": {
+   "titulo": "'Zapatito roto, cuéntame otro' with Mar Amado",
+   "resumen": "Storytelling session 'Zapatito roto, cuéntame otro' for children aged 4 and up, led by Mar Amado. It fosters imagination and a love for reading. Free entry."
+  },
+  "temas": [
+   "libros",
+   "ninos"
+  ],
+  "a_cubierto": true
+ },
+ "93b0243523": {
+  "id": "e98e3e0467",
+  "es": {
+   "titulo": "¿Quién tiene lugar en la cultura? - Tetuan",
+   "resumen": "Debate o charla sobre la inclusión y el espacio en la cultura en el Centro Cultural Eduardo Úrculo de Tetuán."
+  },
+  "en": {
+   "titulo": "Who has a place in culture? - Tetuan",
+   "resumen": "Discussion or talk about inclusion and space in culture at the Eduardo Úrculo Cultural Center in Tetuán."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "7d1cf664c4": {
+  "id": "e1eca9f318",
+  "es": {
+   "titulo": "Cuentos que no caducan con Las Mudanceras",
+   "resumen": "Sesión de cuentacuentos populares 'Cuentos que no caducan' a cargo de Las Mudanceras (Irene Mesonero Polilla y Judy Judynski). Para público familiar a partir de 5 años. Entrada libre."
+  },
+  "en": {
+   "titulo": "Timeless stories with Las Mudanceras",
+   "resumen": "Storytelling session of popular tales 'Timeless stories' by Las Mudanceras (Irene Mesonero Polilla and Judy Judynski). For families aged 5 and up. Free entry."
+  },
+  "temas": [
+   "libros",
+   "ninos"
+  ],
+  "a_cubierto": true
+ },
+ "3db2fd164b": {
+  "id": "a17cf2c6ad",
+  "es": {
+   "titulo": "Narración para adultos 'Faros' de Félix Albo",
+   "resumen": "Espectáculo de narración para adultos 'Faros' a cargo de Félix Albo. Historias sobre pérdidas, encuentros y la búsqueda de rumbo. Entrada libre."
+  },
+  "en": {
+   "titulo": "Adult storytelling 'Faros' by Félix Albo",
+   "resumen": "Adult storytelling performance 'Faros' by Félix Albo. Stories about loss, encounters, and finding direction. Free entry."
+  },
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "0f1066e76b": {
+  "id": "8a47caf515",
+  "es": {
+   "titulo": "'A que voy yo y lo encuentro' (ARTEATRO P.T.)",
+   "resumen": "Obra de teatro cómica 'A que voy yo y lo encuentro' de ARTEATRO P.T. Explora las relaciones madre-hija a través de la música y la memoria. Duración: 95 min."
+  },
+  "en": {
+   "titulo": "'A que voy yo y lo encuentro' (ARTEATRO P.T.)",
+   "resumen": "Comedic play 'A que voy yo y lo encuentro' by ARTEATRO P.T. Explores mother-daughter relationships through music and memory. Duration: 95 min."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "9ec46c8bd4": {
+  "id": "c9a43a1f02",
+  "es": {
+   "titulo": "'Flamenco sextet. Mares y lunas, nuevo disco' (RAÚL OLIVAR)",
+   "resumen": "Concierto de presentación del nuevo disco de flamenco 'Mares y lunas' de Raúl Olivar. Un sexteto con guitarra, cante, baile y percusión. Duración: 100 min."
+  },
+  "en": {
+   "titulo": "'Flamenco sextet. Mares y lunas, new album' (RAÚL OLIVAR)",
+   "resumen": "Concert presenting Raúl Olivar's new flamenco album 'Mares y lunas'. A sextet featuring guitar, singing, dance, and percussion. Duration: 100 min."
+  },
+  "temas": [
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "17d6bc019a": {
+  "id": "d390f4a7f5",
+  "es": {
+   "titulo": "'Magia anderground' (MAGO JON ANDER)",
+   "resumen": "Espectáculo de magia familiar 'Magia anderground' de Jon Ander, que fusiona magia, clown y stand-up. Duración: 70 min."
+  },
+  "en": {
+   "titulo": "'Magia anderground' (MAGO JON ANDER)",
+   "resumen": "Family magic show 'Magia anderground' by Jon Ander, blending magic, clown, and stand-up. Duration: 70 min."
+  },
+  "temas": [
+   "cultura",
+   "ninos"
+  ],
+  "a_cubierto": true
+ },
+ "7841511f0b": {
+  "id": "b4cf0bbf2e",
+  "es": {
+   "titulo": "Canasteros. Centro flamenco Sentidos",
+   "resumen": "Espectáculo de danza flamenca 'Canasteros' del Centro flamenco Sentidos. Un viaje por los palos del flamenco con cante, guitarra, violín y baile. Duración: 120 min."
+  },
+  "en": {
+   "titulo": "Canasteros. Sentidos Flamenco Center",
+   "resumen": "Flamenco dance show 'Canasteros' by Sentidos Flamenco Center. A journey through flamenco styles with singing, guitar, violin, and dance. Duration: 120 min."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "5e69f217f8": {
+  "id": "9a8f4cacc2",
+  "es": {
+   "titulo": "Taller de inglés 'Fun 4 All' con Sofía Ringressi",
+   "resumen": "Taller de inglés para niños de 9 a 11 años, 'Fun 4 All', impartido por Sofía Ringressi. Aprende inglés jugando a través de juegos y actividades. Duración: 90 min."
+  },
+  "en": {
+   "titulo": "'Fun 4 All' English Workshop with Sofía Ringressi",
+   "resumen": "English workshop for children aged 9 to 11, 'Fun 4 All', led by Sofía Ringressi. Learn English through fun games and activities. Duration: 90 min."
+  },
+  "temas": [
+   "ninos",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "59ba86560b": {
+  "id": "765d324620",
+  "es": {
+   "titulo": "Taller creativo en familia: Adorno navideño",
+   "resumen": "Taller creativo en familia para hacer adornos navideños con materiales naturales. Fomenta la creatividad y el tiempo compartido. Para niños de 7 a 12 años. Duración: 180 min."
+  },
+  "en": {
+   "titulo": "Family creative workshop: Christmas ornament",
+   "resumen": "Family creative workshop to make Christmas ornaments using natural materials. Encourages creativity and shared time. For children aged 7 to 12. Duration: 180 min."
+  },
+  "temas": [
+   "ninos",
+   "actividades",
+   "navidad"
+  ],
+  "a_cubierto": true
+ },
+ "7db92f6fc7": {
+  "id": "137fe1d0d6",
+  "es": {
+   "titulo": "Taller de experimentos navideños, con Isi Cuentitis",
+   "resumen": "Taller de experimentos científicos con temática navideña para niños, impartido por Isi Cuentitis. Incluye cuentos y actividades lúdicas. Duración: 90 min."
+  },
+  "en": {
+   "titulo": "Christmas experiments workshop, with Isi Cuentitis",
+   "resumen": "Science experiments workshop with a Christmas theme for children, led by Isi Cuentitis. Includes stories and fun activities. Duration: 90 min."
+  },
+  "temas": [
+   "ninos",
+   "actividades",
+   "navidad"
+  ],
+  "a_cubierto": true
+ },
+ "fff418c491": {
+  "id": "6762d60890",
+  "es": {
+   "titulo": "'La flor del cante, el alma de la copla' (DAVID PÉREZ)",
+   "resumen": "Concierto íntimo de canción española 'La flor del cante, el alma de la copla' por David Pérez. Un homenaje a grandes coplistas con voz y guitarra. Duración: 80 min."
+  },
+  "en": {
+   "titulo": "'La flor del cante, el alma de la copla' (DAVID PÉREZ)",
+   "resumen": "Intimate Spanish song concert 'La flor del cante, el alma de la copla' by David Pérez. A tribute to great copla singers with voice and guitar. Duration: 80 min."
+  },
+  "temas": [
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "6c24247386": {
+  "id": "7ab79ede18",
+  "es": {
+   "titulo": "Presentación del libro de relatos 'Tarot'",
+   "resumen": "Presentación de la antología de relatos 'Tarot', obra colectiva surgida de un taller de escritura, que reinterpreta las cartas del tarot. Entrada libre."
+  },
+  "en": {
+   "titulo": "Presentation of the short story collection 'Tarot'",
+   "resumen": "Presentation of the short story anthology 'Tarot', a collective work from a writing workshop, which reinterprets the tarot cards. Free entry."
+  },
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "09868f7ac5": {
+  "id": "9af1fd5edc",
+  "es": {
+   "titulo": "'El barbero de Picasso' (AMOR AL TEATRO)",
+   "resumen": "Comedia teatral 'El barbero de Picasso' de AMOR AL TEATRO. Explora la nostalgia y la identidad española a través de las discusiones de Picasso y su barbero. Duración: 90 min."
+  },
+  "en": {
+   "titulo": "'El barbero de Picasso' (AMOR AL TEATRO)",
+   "resumen": "Theatrical comedy 'El barbero de Picasso' by AMOR AL TEATRO. Explores nostalgia and Spanish identity through the discussions of Picasso and his barber. Duration: 90 min."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "b0659b2af9": {
+  "id": "89bd69d96a",
+  "es": {
+   "titulo": "'Estamos en obras' (EDULOGIC PRODUCCIONES)",
+   "resumen": "Comedia teatral 'Estamos en obras' de EDULOGIC PRODUCCIONES. Una pareja con problemas maritales recurre a referencias literarias universales. Duración: 55 min."
+  },
+  "en": {
+   "titulo": "'Estamos en obras' (EDULOGIC PRODUCCIONES)",
+   "resumen": "Theatrical comedy 'Estamos en obras' by EDULOGIC PRODUCCIONES. A couple with marital problems uses references from universal literature. Duration: 55 min."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "fbc5d489cc": {
+  "id": "0bac47ce14",
+  "es": {
+   "titulo": "'Ser centella' (GARRAPETE)",
+   "resumen": "Espectáculo teatral multidisciplinar 'Ser centella' de GARRAPETE. Dos clowns presentan su filosofía vital con humor, ternura e instrumentos. Duración: 55 min."
+  },
+  "en": {
+   "titulo": "'Ser centella' (GARRAPETE)",
+   "resumen": "Multidisciplinary theatrical show 'Ser centella' by GARRAPETE. Two clowns present their life philosophy with humor, tenderness, and instruments. Duration: 55 min."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "74eb028a0b": {
+  "id": "3a56f86151",
+  "es": {
+   "titulo": "'Última planta' (ZONA IMAGINARIA)",
+   "resumen": "Comedia dramática teatral 'Última planta' de ZONA IMAGINARIA. Dos desconocidos encerrados en un ascensor comparten un viaje emocional y nostálgico. Duración: 65 min."
+  },
+  "en": {
+   "titulo": "'Última planta' (ZONA IMAGINARIA)",
+   "resumen": "Dramatic comedy play 'Última planta' by ZONA IMAGINARIA. Two strangers trapped in an elevator share an emotional and nostalgic journey. Duration: 65 min."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "4cfb7facf8": {
+  "id": "71e897c23e",
+  "es": {
+   "titulo": "'40 años de tu vida y bailarines' (OSCAR RECIO)",
+   "resumen": "Espectáculo musical de Oscar Recio que recorre éxitos de copla, pop y baladas de los 80s y 90s, con cuerpo de baile. Duración: 90 min."
+  },
+  "en": {
+   "titulo": "'40 years of your life and dancers' (OSCAR RECIO)",
+   "resumen": "Musical show by Oscar Recio covering hits from copla, pop, and 80s/90s ballads, with a dance troupe. Duration: 90 min."
+  },
+  "temas": [
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "d538e54eee": {
+  "id": "b18c15bcb1",
+  "es": {
+   "titulo": "La Oreja de Van Gogh con Amaia Montero",
+   "resumen": "Concierto de La Oreja de Van Gogh en Pamplona, con el regreso de Amaia Montero. Parte de la gira 'Tantas cosas que contar'."
+  },
+  "en": {
+   "titulo": "La Oreja de Van Gogh with Amaia Montero",
+   "resumen": "La Oreja de Van Gogh concert in Pamplona, featuring the return of Amaia Montero. Part of the 'Tantas cosas que contar' tour."
+  },
+  "temas": [
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "cbce6b47b1": {
+  "id": "64f457cd5c",
+  "es": {
+   "titulo": "Anestesia: \"ERANTZUN 30 URTE BIRA\"",
+   "resumen": "Concierto de la banda Anestesia para celebrar el 30 aniversario de su LP 'Erantzun'. La gira tendrá lugar a finales de 2026."
+  },
+  "en": {
+   "titulo": "Anestesia: \"ERANTZUN 30 URTE BIRA\"",
+   "resumen": "Concert by the band Anestesia to celebrate the 30th anniversary of their LP 'Erantzun'. The tour will take place at the end of 2026."
+  },
+  "temas": [
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "7038556a7b": {
+  "id": "92dd0cbd76",
+  "es": {
+   "titulo": "CANDLELIGHT Bilbao: \"Tributo a Ludovico Einaudi\"",
+   "resumen": "Concierto de música clásica a la luz de las velas en Bilbao, con un tributo a las composiciones de Ludovico Einaudi. Apto para mayores de 8 años."
+  },
+  "en": {
+   "titulo": "CANDLELIGHT Bilbao: \"Tribute to Ludovico Einaudi\"",
+   "resumen": "Candlelight classical music concert in Bilbao, featuring a tribute to Ludovico Einaudi's compositions. Suitable for ages 8 and up."
+  },
+  "temas": [
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "24fe1548c8": {
+  "id": "460345d23e",
+  "es": {
+   "titulo": "CANDLELIGHT Donostia/San Sebastián: \"Tributo a Hans Zimmer\"",
+   "resumen": "Concierto de música de cine a la luz de las velas en San Sebastián, rindiendo homenaje a las bandas sonoras de Hans Zimmer. Apto para mayores de 8 años."
+  },
+  "en": {
+   "titulo": "CANDLELIGHT Donostia/San Sebastián: \"Tribute to Hans Zimmer\"",
+   "resumen": "Candlelight film music concert in San Sebastián, paying tribute to Hans Zimmer's soundtracks. Suitable for ages 8 and up."
+  },
+  "temas": [
+   "musica",
+   "pantalla"
+  ],
+  "a_cubierto": true
+ },
+ "d3a1ca66fc": {
+  "id": "0e420f779a",
+  "es": {
+   "titulo": "El Drogas en Bilbao",
+   "resumen": "El icónico rockero El Drogas ofrecerá dos conciertos en la sala Santana 27 de Bilbao los días 20 y 21 de noviembre. Presentará un repertorio que incluye clásicos de Barricada y temas de su carrera en solitario. Las entradas para el 21 de noviembre ya están agotadas."
+  },
+  "en": {
+   "titulo": "El Drogas in Bilbao",
+   "resumen": "The iconic rocker El Drogas will perform two concerts at the Santana 27 venue in Bilbao on November 20th and 21st. He will present a repertoire including Barricada classics and solo career tracks. Tickets for November 21st are already sold out."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "f1ab95c3b1": {
+  "id": "52a0e50f62",
+  "es": {
+   "titulo": "Girls in Hawaii y Lena Deluxe en Biarritz",
+   "resumen": "El 21 de noviembre, las bandas Girls in Hawaii y Lena Deluxe actuarán en la sala Atabal de Biarritz. Un evento musical que promete una noche de buena música en la ciudad costera."
+  },
+  "en": {
+   "titulo": "Girls in Hawaii and Lena Deluxe in Biarritz",
+   "resumen": "On November 21st, the bands Girls in Hawaii and Lena Deluxe will perform at the Atabal venue in Biarritz. A musical event promising a night of great music in the coastal city."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "77bfb0f225": {
+  "id": "35e8f7da37",
+  "es": {
+   "titulo": "\"Malquerida\" en Basauri",
+   "resumen": "La obra \"Malquerida\" de Jacinto Benavente, adaptada por Natalia Menéndez y Juan Carlos Rubio, se presenta en Basauri. Explora las complejas relaciones y pasiones en una hacienda de verano, centrándose en el conflicto entre una madre y su hija."
+  },
+  "en": {
+   "titulo": "\"Malquerida\" in Basauri",
+   "resumen": "The play \"Malquerida\" by Jacinto Benavente, adapted by Natalia Menéndez and Juan Carlos Rubio, is presented in Basauri. It explores complex relationships and passions on a summer estate, focusing on the conflict between a mother and her daughter."
+  },
+  "temas": [
+   "cultura",
+   "teatro"
+  ],
+  "a_cubierto": true
+ },
+ "fa89a0dd91": {
+  "id": "4707937221",
+  "es": {
+   "titulo": "Zeballos en la Sala Azkena de Bilbao",
+   "resumen": "El artista Zeballos actuará el 21 de noviembre en la Sala Azkena de Bilbao para presentar su nuevo disco \"Amor Fiado\". Una cita para los seguidores del artista en la capital vizcaína."
+  },
+  "en": {
+   "titulo": "Zeballos at Sala Azkena, Bilbao",
+   "resumen": "The artist Zeballos will perform on November 21st at Sala Azkena in Bilbao to present his new album \"Amor Fiado\". A date for the artist's fans in the capital of Biscay."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "065adc9888": {
+  "id": "3c5477a3fc",
+  "es": {
+   "titulo": "\"El hipnotista\" en Barañáin",
+   "resumen": "Aryel Altamar presenta \"El hipnotista\" en el Auditorio Barañáin, un espectáculo que redefine la hipnosis y el mentalismo. Una experiencia interactiva que combina risas y el poder de la mente."
+  },
+  "en": {
+   "titulo": "\"The Hypnotist\" in Barañáin",
+   "resumen": "Aryel Altamar presents \"The Hypnotist\" at the Barañáin Auditorium, a show that redefines hypnosis and mentalism. An interactive experience combining laughter and the power of the mind."
+  },
+  "temas": [
+   "pantalla",
+   "cultura",
+   "espectaculos"
+  ],
+  "a_cubierto": true
+ },
+ "4fd576e1a0": {
+  "id": "0907a85e11",
+  "es": {
+   "titulo": "Homenaje a Sabina en el Kursaal",
+   "resumen": "El espectáculo \"SABINA – El mejor homenaje\" recorrerá el universo musical de Joaquín Sabina en el Kursaal. \"Malas Compañías\" ofrecerá una cuidada puesta en escena de sus grandes éxitos."
+  },
+  "en": {
+   "titulo": "Tribute to Sabina at Kursaal",
+   "resumen": "The show \"SABINA – The best tribute\" will journey through Joaquín Sabina's musical universe at the Kursaal. \"Malas Compañías\" will offer a carefully staged performance of his greatest hits."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "967f1ed4af": {
+  "id": "6f132cfdd3",
+  "es": {
+   "titulo": "FEMMM vocal jazz en Oiartzun",
+   "resumen": "La agrupación vocal FEMMM, liderada por cuatro mujeres, actuará en Landetxe Kultur Aretoa de Oiartzun. Su propuesta fusiona jazz y pop con un sonido vocal distintivo, acompañada por banda en directo."
+  },
+  "en": {
+   "titulo": "FEMMM vocal jazz in Oiartzun",
+   "resumen": "The vocal group FEMMM, led by four women, will perform at Landetxe Kultur Aretoa in Oiartzun. Their proposal fuses jazz and pop with a distinctive vocal sound, accompanied by a live band."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "f713081839": {
+  "id": "8ee6879705",
+  "es": {
+   "titulo": "Raúl Alegría: \"Asombro\" en Bilbao",
+   "resumen": "El aclamado mago Raúl Alegría presenta su espectáculo \"Asombro\" en el Teatro Campos Elíseos de Bilbao. Un show de magia de gran formato con ilusiones nunca antes vistas para toda la familia."
+  },
+  "en": {
+   "titulo": "Raúl Alegría: \"Asombro\" in Bilbao",
+   "resumen": "The acclaimed magician Raúl Alegría presents his show \"Asombro\" at the Teatro Campos Elíseos in Bilbao. A large-format magic show with never-before-seen illusions for the whole family."
+  },
+  "temas": [
+   "cultura",
+   "espectaculos",
+   "ninos"
+  ],
+  "a_cubierto": true
+ },
+ "b406ea8b33": {
+  "id": "a209b7d822",
+  "es": {
+   "titulo": "David Puerto: \"Bien\" en Bilbao",
+   "resumen": "El cómico David Puerto presenta su nuevo espectáculo de comedia \"Bien\" en el Teatro Campos Elíseos de Bilbao. Una propuesta fresca que combina crowdwork, improvisación y música."
+  },
+  "en": {
+   "titulo": "David Puerto: \"Bien\" in Bilbao",
+   "resumen": "Comedian David Puerto presents his new comedy show \"Bien\" at the Teatro Campos Elíseos in Bilbao. A fresh proposal that combines crowdwork, improvisation, and music."
+  },
+  "temas": [
+   "cultura",
+   "espectaculos"
+  ],
+  "a_cubierto": true
+ },
+ "9881090739": {
+  "id": "8c890b5445",
+  "es": {
+   "titulo": "Catherine Russell en Donostia / San Sebastián",
+   "resumen": "La reconocida cantante de jazz Catherine Russell presenta su gira española en el Kursaal de Donostia / San Sebastián. Hija de Luis Russell, ha colaborado con grandes artistas y cuenta con dos nominaciones al Grammy."
+  },
+  "en": {
+   "titulo": "Catherine Russell in Donostia / San Sebastián",
+   "resumen": "Renowned jazz singer Catherine Russell presents her Spanish tour at the Kursaal in Donostia / San Sebastián. Daughter of Luis Russell, she has collaborated with major artists and has two Grammy nominations."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "d16701b448": {
+  "id": "54fd8f833d",
+  "es": {
+   "titulo": "Odolkiak Ordainetan y Añube en Azpeitia",
+   "resumen": "El 21 de noviembre, los grupos Odolkiak Ordainetan y Añube actuarán en el centro cultural Sanagustin de Azpeitia. Odolkiak Ordainetan presentará su segundo disco, \"Gure tenplu galduak\"."
+  },
+  "en": {
+   "titulo": "Odolkiak Ordainetan and Añube in Azpeitia",
+   "resumen": "On November 21st, the groups Odolkiak Ordainetan and Añube will perform at the Sanagustin Cultural Center in Azpeitia. Odolkiak Ordainetan will present their second album, \"Gure tenplu galduak\"."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "06d39e8c67": {
+  "id": "232b335007",
+  "es": {
+   "titulo": "Niko Etxart en Getxo (Iparra Galdu Gabe 2026)",
+   "resumen": "Como parte de las jornadas Iparra Galdu Gabe 2026, el pionero del rock en euskera Niko Etxart ofrecerá un concierto en Muxikebarri, Getxo, el 21 de noviembre. Celebrará su extensa carrera musical."
+  },
+  "en": {
+   "titulo": "Niko Etxart in Getxo (Iparra Galdu Gabe 2026)",
+   "resumen": "As part of the Iparra Galdu Gabe 2026 events, the pioneer of Basque rock Niko Etxart will perform a concert at Muxikebarri, Getxo, on November 21st. He will celebrate his extensive musical career."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "5575680037": {
+  "id": "2ffe934894",
+  "es": {
+   "titulo": "James Rhodes: \"Manía\" en Tudela",
+   "resumen": "El pianista James Rhodes presenta su recital \"Manía\" en Tudela, interpretando obras de Chopin, Brahms y Rachmaninov. Conocido por su estilo interactivo, compartirá anécdotas y su conexión con la música."
+  },
+  "en": {
+   "titulo": "James Rhodes: \"Manía\" in Tudela",
+   "resumen": "Pianist James Rhodes presents his recital \"Manía\" in Tudela, performing works by Chopin, Brahms, and Rachmaninov. Known for his interactive style, he will share anecdotes and his connection with music."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "411d04c522": {
+  "id": "309138f31d",
+  "es": {
+   "titulo": "\"Desobedientes 18/98\" en Altsasu/Alsasua",
+   "resumen": "Tanttaka Teatro presenta \"Desobedientes 18/98\" en Altsasu/Alsasua. La obra aborda la desobediencia civil a través de una tesis doctoral y el contexto del sumario judicial 18/98."
+  },
+  "en": {
+   "titulo": "\"Desobedientes 18/98\" in Altsasu/Alsasua",
+   "resumen": "Tanttaka Teatro presents \"Desobedientes 18/98\" in Altsasu/Alsasua. The play addresses civil disobedience through a doctoral thesis and the context of the judicial case 18/98."
+  },
+  "temas": [
+   "cultura",
+   "teatro"
+  ],
+  "a_cubierto": true
+ },
+ "bafa5a25e2": {
+  "id": "1ecab867bc",
+  "es": {
+   "titulo": "\"La importancia de llamarse Ernesto\" en Getxo",
+   "resumen": "La compañía Sin Remilgos presenta su versión de \"La importancia de llamarse Ernesto\" de Oscar Wilde en Muxikebarri, Getxo. Una comedia ingeniosa que reflexiona sobre las apariencias y la identidad."
+  },
+  "en": {
+   "titulo": "\"The Importance of Being Earnest\" in Getxo",
+   "resumen": "The company Sin Remilgos presents its version of Oscar Wilde's \"The Importance of Being Earnest\" at Muxikebarri, Getxo. A witty comedy that reflects on appearances and identity."
+  },
+  "temas": [
+   "cultura",
+   "teatro"
+  ],
+  "a_cubierto": true
+ },
+ "8035ebec75": {
+  "id": "e76c6f240e",
+  "es": {
+   "titulo": "\"Fly me to the moon\" en Donostia / San Sebastián",
+   "resumen": "La compañía Leandre presenta \"Fly me to the moon\" en Gazteszena, Donostia / San Sebastián. Un espectáculo de payasos sin palabras para todos los públicos que explora el sueño y la fantasía."
+  },
+  "en": {
+   "titulo": "\"Fly me to the moon\" in Donostia / San Sebastián",
+   "resumen": "The company Leandre presents \"Fly me to the moon\" at Gazteszena, Donostia / San Sebastián. A wordless clown show for all audiences that explores dreams and fantasy."
+  },
+  "temas": [
+   "cultura",
+   "espectaculos",
+   "ninos"
+  ],
+  "a_cubierto": true
+ },
+ "71d152829a": {
+  "id": "90b8e7475e",
+  "es": {
+   "titulo": "Revolution JamRock 2026 en Donostia / San Sebastián",
+   "resumen": "Revolution JamRock regresa el 21 de noviembre al Centro Cultural Intxaurrondo de Donostia / San Sebastián con Joe Yorke, Alpha Steppa & Nai Jah y Revolutionary Brothers. Un referente de la música jamaicana y cultura sound system."
+  },
+  "en": {
+   "titulo": "Revolution JamRock 2026 in Donostia / San Sebastián",
+   "resumen": "Revolution JamRock returns on November 21st to the Intxaurrondo Cultural Center in Donostia / San Sebastián featuring Joe Yorke, Alpha Steppa & Nai Jah, and Revolutionary Brothers. A benchmark for Jamaican music and sound system culture."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "d13ff6c8a8": {
+  "id": "41d58ba2f8",
+  "es": {
+   "titulo": "\"Té de construyo\" en Donostia / San Sebastián",
+   "resumen": "La compañía Sobria y Serena presenta \"Té de construyo\" en Sala Imanol Larzabal (Lugaritz), Donostia / San Sebastián. Tres mujeres conservadoras utilizan el humor ácido para debatir temas de actualidad."
+  },
+  "en": {
+   "titulo": "\"Té de construyo\" in Donostia / San Sebastián",
+   "resumen": "The company Sobria y Serena presents \"Té de construyo\" at Sala Imanol Larzabal (Lugaritz), Donostia / San Sebastián. Three conservative women use acid humor to discuss current issues."
+  },
+  "temas": [
+   "cultura",
+   "espectaculos"
+  ],
+  "a_cubierto": true
+ },
+ "d4bc536a4e": {
+  "id": "d173906705",
+  "es": {
+   "titulo": "\"Patatekin\" en Donostia / San Sebastián",
+   "resumen": "El Teatro Principal de Donostia acoge \"Patatekin\", el último espectáculo de Barrexerka. Una obra que mezcla teatro y sketches con humor y nostalgia, explorando situaciones familiares y absurdas."
+  },
+  "en": {
+   "titulo": "\"Patatekin\" in Donostia / San Sebastián",
+   "resumen": "The Teatro Principal in Donostia hosts \"Patatekin\", the latest show by Barrexerka. A play that mixes theater and sketches with humor and nostalgia, exploring familiar and absurd situations."
+  },
+  "temas": [
+   "cultura",
+   "teatro"
+  ],
+  "a_cubierto": true
+ },
+ "df44f1481f": {
+  "id": "f046360d85",
+  "es": {
+   "titulo": "Rafael Álvarez \"El brujo\": \"Mi vida en el arte\" en Barakaldo",
+   "resumen": "Rafael Álvarez \"El brujo\" presenta \"Mi vida en el arte\" en Barakaldo, un espectáculo centrado en el verso y los clásicos del Siglo de Oro español. Una profunda reflexión sobre el teatro y la palabra."
+  },
+  "en": {
+   "titulo": "Rafael Álvarez \"El brujo\": \"Mi vida en el arte\" in Barakaldo",
+   "resumen": "Rafael Álvarez \"El brujo\" presents \"Mi vida en el arte\" in Barakaldo, a show focused on verse and the classics of the Spanish Golden Age. A deep reflection on theater and the word."
+  },
+  "temas": [
+   "cultura",
+   "teatro"
+  ],
+  "a_cubierto": true
+ },
+ "c93d754b99": {
+  "id": "6deaeb3e77",
+  "es": {
+   "titulo": "Rafa Sánchez de La Unión: \"Biografía\" en Pamplona/Iruña",
+   "resumen": "Rafa Sánchez, vocalista de La Unión, presenta \"Biografía\" en el Auditorio Baluarte de Pamplona/Iruña. Un recorrido audiovisual por las canciones y vivencias de la icónica banda."
+  },
+  "en": {
+   "titulo": "Rafa Sánchez from La Unión: \"Biografía\" in Pamplona/Iruña",
+   "resumen": "Rafa Sánchez, vocalist of La Unión, presents \"Biografía\" at the Baluarte Auditorium in Pamplona/Iruña. An audiovisual journey through the songs and experiences of the iconic band."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "38d1d40f62": {
+  "id": "5ac870fe43",
+  "es": {
+   "titulo": "Clara Ingold: \"Paloma de parque\" en Bilbao",
+   "resumen": "Clara Ingold presenta su espectáculo \"Paloma de parque\" en el Teatro Campos Elíseos de Bilbao. Una obra que combina monólogos, música y humor para reflexionar sobre la autodestrucción y los problemas generacionales."
+  },
+  "en": {
+   "titulo": "Clara Ingold: \"Paloma de parque\" in Bilbao",
+   "resumen": "Clara Ingold presents her show \"Paloma de parque\" at the Teatro Campos Elíseos in Bilbao. A work that combines monologues, music, and humor to reflect on self-destruction and generational issues."
+  },
+  "temas": [
+   "cultura",
+   "espectaculos"
+  ],
+  "a_cubierto": true
+ },
+ "4102d1ea35": {
+  "id": "c0ca1cb434",
+  "es": {
+   "titulo": "Concurso de fotografía Gorbeialdea 2026",
+   "resumen": "Abierto el concurso de fotografía de la Cuadrilla de Gorbeialdea 2026, con temática libre y premios en varias categorías. Se aceptan fotos de los municipios de Aramaio, Arratzua-Ubarrundia, Legutio, Urkabustaiz, Zigoitia y Zuia."
+  },
+  "en": {
+   "titulo": "Gorbeialdea Photography Contest 2026",
+   "resumen": "The Gorbeialdea District photography contest 2026 is now open, with a free theme and prizes in various categories. Photos from the municipalities of Aramaio, Arratzua-Ubarrundia, Legutio, Urkabustaiz, Zigoitia, and Zuia are accepted."
+  },
+  "temas": [
+   "naturaleza",
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": null
+ },
+ "1270545dc2": {
+  "id": "145a7fc0bb",
+  "es": {
+   "titulo": "Tartalo 2026: LA M.O.D.A. y Siloé en Vitoria-Gasteiz",
+   "resumen": "LA M.O.D.A. y Siloé actuarán juntos el 21 de noviembre en el Buesa Arena de Vitoria-Gasteiz. Dos de las bandas más aclamadas de la escena nacional ofrecerán un concierto único, con Nacho Pistacho como artista invitado."
+  },
+  "en": {
+   "titulo": "Tartalo 2026: LA M.O.D.A. and Siloé in Vitoria-Gasteiz",
+   "resumen": "LA M.O.D.A. and Siloé will perform together on November 21st at the Buesa Arena in Vitoria-Gasteiz. Two of the most acclaimed bands on the national scene will offer a unique concert, with Nacho Pistacho as a special guest."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "50f82b2eba": {
+  "id": "234812e8ed",
+  "es": {
+   "titulo": "Ciclo Bibra 2026: Marina y su Melao en Donostia / San Sebastián",
+   "resumen": "Marina y su Melao, liderada por Marina Molina, presentará su fusión de bomba puertorriqueña y sonidos afrocaribeños en el Ciclo Bibra de Donostia / San Sebastián. Un viaje musical por la tradición y el folclore."
+  },
+  "en": {
+   "titulo": "Ciclo Bibra 2026: Marina y su Melao in Donostia / San Sebastián",
+   "resumen": "Marina y su Melao, led by Marina Molina, will present their fusion of Puerto Rican bomba and Afro-Caribbean sounds at the Ciclo Bibra in Donostia / San Sebastián. A musical journey through tradition and folklore."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
  }
 }

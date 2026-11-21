@@ -1,11 +1,11 @@
 {
-  "generated": "2026-11-21T12:40:35.064Z",
+  "generated": "2026-11-21T13:46:39.455Z",
   "today": "2026-11-21",
-  "events": 8934,
+  "events": 8955,
   "review": 13,
   "ai": {
-    "calls": 0,
-    "seconds": 56,
+    "calls": 13,
+    "seconds": 202,
     "tripped": false
   },
   "sources": [
@@ -96,7 +96,7 @@
     {
       "id": "prensa-ideal-culturas",
       "status": "ok",
-      "count": 34,
+      "count": 36,
       "candidatos": true
     },
     {

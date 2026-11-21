@@ -1,4 +1,32 @@
 {
+ "2027321795": {
+  "url": "https://www.laverdad.es/culturas/vuelve-ficc-peliculas-sugieren-emocionan-inspiran-20261120000926-nt.html",
+  "fuente": "La Verdad (Culturas)",
+  "src": "prensa-laverdad-culturas",
+  "publicado": "2026-11-21",
+  "es_plan": true,
+  "titulo": "Festival Internacional de Cine de Cartagena (FICC)",
+  "resumen": "El Festival Internacional de Cine de Cartagena (FICC) celebra su edición desde este sábado y durante ocho días, ofreciendo una selección de películas premiadas.",
+  "en": {
+   "titulo": "Cartagena International Film Festival (FICC)",
+   "resumen": "The Cartagena International Film Festival (FICC) celebrates its edition starting this Saturday for eight days, offering a selection of award-winning films."
+  },
+  "inicio": "2026-11-21",
+  "fin": "2026-11-28",
+  "hora": null,
+  "lugar": null,
+  "municipio": "Cartagena",
+  "provincia": "Murcia",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
  "2959590595": {
   "url": "https://www.20minutos.es/musica/emotiva-historia-detras-tema-mente-bolboreta-cancion-que-explica-como-es-vivir-con-ela_7055178_0.html",
   "fuente": "20minutos (Cultura)",
@@ -26727,5 +26755,837 @@
   ],
   "a_cubierto": true,
   "confianza": 0.75
+ },
+ "89abb62c08": {
+  "url": "https://www.europapress.es/cultura/cine-00128/noticia-ayudas-cine-29n-vox-quiere-acabar-subvenciones-pp-promete-no-estar-lado-censura-20261121124500.html",
+  "fuente": "Europa Press (Cultura)",
+  "src": "prensa-europapress-cultura",
+  "publicado": "2026-11-21",
+  "es_plan": false
+ },
+ "74231eed83": {
+  "url": "https://www.20minutos.es/musica/rosalia-reina-absoluta-los40-music-awards-2026_7063002_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-11-21",
+  "es_plan": true,
+  "titulo": "Rosalía triunfa en los Los40 Music Awards 2026",
+  "resumen": "Rosalía se corona como la gran triunfadora de los Los40 Music Awards 2026, celebrados en Barcelona, al obtener cuatro galardones, incluyendo Artista Global del Año y Mejor Álbum por 'Lux'. La gala también reconoció a otros artistas nacionales e internacionales.",
+  "en": {
+   "titulo": "Rosalía triumphs at the Los40 Music Awards 2026",
+   "resumen": "Rosalía is crowned the big winner of the Los40 Music Awards 2026, held in Barcelona, taking home four awards, including Global Artist of the Year and Best Album for 'Lux'. The gala also recognized other national and international artists."
+  },
+  "inicio": "2026-11-21",
+  "fin": "2026-11-21",
+  "hora": null,
+  "lugar": "Palau Sant Jordi",
+  "municipio": "Barcelona",
+  "provincia": "Barcelona",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "3589aa818c": {
+  "url": "https://elpais.com/cultura/2026-11-21/un-centro-de-arte-contemporaneo-de-segovia-denuncia-que-el-pp-y-vox-quieren-cambiarlo-por-uno-de-cultura-tradicional.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-11-21",
+  "es_plan": false
+ },
+ "8d2fbd6d20": {
+  "url": "https://elpais.com/cultura/cine/2026-11-21/peter-mullan-actor-y-director-los-cineastas-militantes-de-izquierda-estamos-rozando-la-extincion.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-11-21",
+  "es_plan": false
+ },
+ "d1d48ec5a4": {
+  "url": "https://elpais.com/cultura/2026-11-21/alberto-cortes-el-creador-escenico-de-culto-que-encarna-a-lorca-hay-que-tener-cuidado-para-no-mercantilizar-los-iconos.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-11-21",
+  "es_plan": true,
+  "titulo": "Alberto Cortés presenta sus trabajos en el Festival de Otoño",
+  "resumen": "El creador escénico Alberto Cortés presenta sus últimos trabajos en el Festival de Otoño en Madrid, antes de iniciar una gira europea por París. El artista, conocido por su enfoque vanguardista, encarna a Lorca.",
+  "en": {
+   "titulo": "Alberto Cortés presents his works at the Autumn Festival",
+   "resumen": "Stage creator Alberto Cortés presents his latest works at the Autumn Festival in Madrid before embarking on a European tour in Paris. The artist, known for his avant-garde approach, embodies Lorca."
+  },
+  "inicio": "2026-11-21",
+  "fin": "2026-11-21",
+  "hora": null,
+  "lugar": null,
+  "municipio": "Madrid",
+  "provincia": "Madrid",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.7
+ },
+ "f470596d63": {
+  "url": "https://elpais.com/cultura/2026-11-21/cervantes-y-el-quijote-reviven-en-madrid-en-un-mundo-de-realidad-virtual-interactiva.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-11-21",
+  "es_plan": true,
+  "titulo": "Exposición inmersiva de Cervantes y el Quijote en Madrid",
+  "resumen": "La Fundación Mutua Madrileña inaugura en Madrid una gran exposición inmersiva sobre Cervantes y El Quijote, que incluye realidad virtual. La muestra abre al público el 24 de noviembre y estará disponible durante seis meses.",
+  "en": {
+   "titulo": "Immersive exhibition on Cervantes and Don Quixote in Madrid",
+   "resumen": "The Mutua Madrileña Foundation inaugurates a major immersive exhibition on Cervantes and Don Quixote in Madrid, featuring virtual reality. The exhibition opens to the public on November 24th and will run for six months."
+  },
+  "inicio": "2026-11-24",
+  "fin": "2027-05-23",
+  "hora": null,
+  "lugar": "Plaza de España, 8",
+  "municipio": "Madrid",
+  "provincia": "Madrid",
+  "ambito": "local",
+  "gratis": false,
+  "precio": "8 euros (muestra museográfica), 16 euros (con RV)",
+  "temas": [
+   "cultura",
+   "libros",
+   "museos"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "af496af301": {
+  "url": "https://www.lavanguardia.com/cultura/20261121/11689808/agnes-mateus-inunda-sangre-escenario-guerras-religion.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-21",
+  "es_plan": true,
+  "titulo": "La Veronal abre la Big Bang en Salt con 'Living & leaving'",
+  "resumen": "El festival Temporada Alta 2026 en Girona arranca su fase culminante, la Big Bang, con la actuación de La Veronal y su obra 'Living & leaving', que aborda las guerras de religión. El evento atrae a programadores internacionales.",
+  "en": {
+   "titulo": "La Veronal opens Big Bang in Salt with 'Living & leaving'",
+   "resumen": "The Temporada Alta 2026 festival in Girona begins its culminating phase, Big Bang, with La Veronal's performance of 'Living & leaving', which addresses religious wars. The event attracts international programmers."
+  },
+  "inicio": "2026-11-21",
+  "fin": "2026-11-21",
+  "hora": null,
+  "lugar": null,
+  "municipio": "Salt",
+  "provincia": "Girona",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "d6cb8b6e79": {
+  "url": "https://www.lavanguardia.com/cultura/20261121/11689374/higado-bolano-otros-debitos.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-21",
+  "es_plan": false
+ },
+ "6e9aca4c5e": {
+  "url": "https://www.lavanguardia.com/cultura/culturas/20261121/11686625/libro-pincha.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-21",
+  "es_plan": true,
+  "titulo": "Nuevo libro sobre cactus, moda y modernidad barcelonesa",
+  "resumen": "La próxima semana se publicará 'La dèria dels cactus. Moda i critica de la modernitat barcelonina' de Julià Guillamon, que explora la relación entre cactus, cultura y moda desde los años 30 hasta el Citröen Cactus.",
+  "en": {
+   "titulo": "New book on cacti, fashion, and Barcelonian modernity",
+   "resumen": "Next week, 'La dèria dels cactus. Moda i critica de la modernitat barcelonina' by Julià Guillamon will be released, exploring the relationship between cacti, culture, and fashion from the 1930s to the Citröen Cactus."
+  },
+  "inicio": "2026-11-24",
+  "fin": "2026-11-24",
+  "hora": null,
+  "lugar": "Librerías",
+  "municipio": "Barcelona",
+  "provincia": "Barcelona",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.7
+ },
+ "9f8fb6be99": {
+  "url": "https://www.lavanguardia.com/cultura/culturas/20261121/11686380/generacion-27-cultura-catalana.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-21",
+  "es_plan": false
+ },
+ "871b060834": {
+  "url": "https://www.ara.cat/cultura/musica/rosalia-triomfa-gran-festival-los40-music-awards_1_5918150.html",
+  "fuente": "Ara (Cultura)",
+  "src": "prensa-ara-cultura",
+  "publicado": "2026-11-21",
+  "es_plan": true,
+  "titulo": "Rosalía triunfa en el gran festival de LOS40 Music Awards en Barcelona",
+  "resumen": "Rosalía es la gran protagonista de los LOS40 Music Awards celebrados en el Palau Sant Jordi de Barcelona, alzándose con cuatro premios, incluyendo Artista Global del Año y Mejor Álbum. La gala contó con la presencia de artistas nacionales e internacionales.",
+  "en": {
+   "titulo": "Rosalía triumphs at the LOS40 Music Awards festival in Barcelona",
+   "resumen": "Rosalía is the main star of the LOS40 Music Awards held at Palau Sant Jordi in Barcelona, winning four awards, including Global Artist of the Year and Best Album. The gala featured national and international artists."
+  },
+  "inicio": "2026-11-21",
+  "fin": "2026-11-21",
+  "hora": null,
+  "lugar": "Palau Sant Jordi",
+  "municipio": "Barcelona",
+  "provincia": "Barcelona",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "6c84fc78c5": {
+  "url": "https://www.ara.cat/societat/barcelona/meitat-dels-busos-d-hidrogen-barcelona-aturats-falta-combustible_1_5917085.html",
+  "fuente": "Ara (Cultura)",
+  "src": "prensa-ara-cultura",
+  "publicado": "2026-11-21",
+  "es_plan": false
+ },
+ "2d62832ab3": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/21/pedro-piqueras-71anos-acuesto-pronto-hora-me-levanto-buena-leer-yoga-2069490.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-21",
+  "es_plan": false
+ },
+ "b8ed72961e": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/21/rosalia-su-lux-triunfan-barcelona-con-cuatro-galardones-los40-music-awards-2070577.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-21",
+  "es_plan": true,
+  "titulo": "Rosalía y su 'Lux' triunfan en Barcelona con cuatro galardones en Los40 Music Awards",
+  "resumen": "Rosalía ha sido reconocida en Barcelona con cuatro premios en Los40 Music Awards, incluyendo Artista Global del Año y Mejor Álbum por 'Lux'. La gala también premió a otros artistas internacionales y latinos.",
+  "en": {
+   "titulo": "Rosalía and her 'Lux' triumph in Barcelona with four awards at Los40 Music Awards",
+   "resumen": "Rosalía has been recognized in Barcelona with four awards at the Los40 Music Awards, including Global Artist of the Year and Best Album for 'Lux'. The gala also awarded other international and Latin artists."
+  },
+  "inicio": "2026-11-21",
+  "fin": "2026-11-21",
+  "hora": null,
+  "lugar": "Palau Sant Jordi",
+  "municipio": "Barcelona",
+  "provincia": "Barcelona",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "e10544698f": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/21/david-ucles-ser-isabel-diaz-ayuso-como-sufrir-paralisis-sueno-vida-dios-2070576.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-21",
+  "es_plan": false
+ },
+ "6c8517e46d": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/21/pancho-varona-69anos-se-como-es-joaquin-sabina-loco-aires-repente-2070575.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-21",
+  "es_plan": false
+ },
+ "60f626e940": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/21/andres-roca-rey-30anos-vivo-solo-casa-campo-necesito-estar-concentrado-disfruto-2066723.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-21",
+  "es_plan": false
+ },
+ "ce73765ff3": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/21/gran-wyoming-propietario-19-viviendas-subidas-impuestos-patrimonio-perjudican-aunque-pueda-no-estar-deacuerdo-2065127.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-21",
+  "es_plan": false
+ },
+ "96851281e4": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/21/musica-estopa-sacamos-maketa-ahora-porque-corriamos-riesgo-convirtiera-disco-postumo-2070531.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-21",
+  "es_plan": false
+ },
+ "8f5df8cbb9": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/21/una-noche-magica-que-sentirse-orgulloso-ser-aragon-2070363.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-21",
+  "es_plan": false
+ },
+ "91225a7b2e": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/21/miguel-angel-silvestre-desayunar-espaguetis-bastante-comun-mananas-pienso-buena-oportunidad-comerlos-2069619.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-21",
+  "es_plan": false
+ },
+ "04443b5891": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/21/ana-pastor-accionista-unica-newtral-no-multimillonaria-trabajo-horas-conseguir-proyectos-salgan-2069436.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-21",
+  "es_plan": false
+ },
+ "4f0568267b": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/21/paquito-d-rivera-jazz-es-algo-imposible-definir-pero-muy-facil-reconocer-2069350.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-21",
+  "es_plan": true,
+  "titulo": "Paquito D'Rivera actúa en el Festival de Jazz de Zaragoza",
+  "resumen": "El músico cubano Paquito D'Rivera actuará en trío este sábado 21 de noviembre a las 21:00 en la sala Multiusos del Auditorio de Zaragoza, dentro del XLIII Festival de Jazz.",
+  "en": {
+   "titulo": "Paquito D'Rivera performs at Zaragoza Jazz Festival",
+   "resumen": "Cuban musician Paquito D'Rivera will perform in a trio this Saturday, November 21st, at 9:00 PM in the Multiusos hall of the Zaragoza Auditorium, as part of the XLIII Jazz Festival."
+  },
+  "inicio": "2026-11-21",
+  "fin": "2026-11-21",
+  "hora": "21:00",
+  "lugar": "Sala Multiusos del Auditorio de Zaragoza",
+  "municipio": "Zaragoza",
+  "provincia": "Zaragoza",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "1bd094a6f2": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/21/teresa-aguirre-jotera-bilbilitana-homenajeada-calatayud-jota-me-vino-sin-buscarla-2070507.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-21",
+  "es_plan": false
+ },
+ "ba5ece582c": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/21/las-raices-mestizaje-hacen-resplandecer-jota-desde-calatayud-2070537.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-21",
+  "es_plan": false
+ },
+ "842646766c": {
+  "url": "https://www.heraldo.es/ocio-y-cultura/fotos-gala-aragon-tierra-jota-2026-2070569-1.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-21",
+  "es_plan": false
+ },
+ "d55ef9d14f": {
+  "url": "https://www.elnortedecastilla.es/culturas/gta-arrasa-estreno-3790-millones-dolares-primeras-20261121113515-ntrc.html",
+  "fuente": "El Norte de Castilla (Culturas)",
+  "src": "prensa-nortecastilla-culturas",
+  "publicado": "2026-11-21",
+  "es_plan": false
+ },
+ "19559a2a8f": {
+  "url": "https://www.elnortedecastilla.es/culturas/teatro/latido-tanido-lenguaje-emociones-musica-cuerpo-20261121083221-nt.html",
+  "fuente": "El Norte de Castilla (Culturas)",
+  "src": "prensa-nortecastilla-culturas",
+  "publicado": "2026-11-21",
+  "es_plan": false
+ },
+ "586ca4c070": {
+  "url": "https://www.ideal.es/culturas/almeria/tom-berenger-regresa-almeria-anos-despues-platoon-20261121142549-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-11-21",
+  "es_plan": true,
+  "titulo": "Tom Berenger recibe el Premio 'Almería, tierra de cine'",
+  "resumen": "El actor Tom Berenger recibirá este sábado el Premio 'Almería, tierra de cine' en Almería, 40 años después de su participación en 'Platoon'.",
+  "en": {
+   "titulo": "Tom Berenger receives the 'Almería, land of cinema' Award",
+   "resumen": "Actor Tom Berenger will receive the 'Almería, land of cinema' Award this Saturday in Almería, 40 years after his role in 'Platoon'."
+  },
+  "inicio": "2026-11-21",
+  "fin": "2026-11-21",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": "Almería",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "f6feaefb06": {
+  "url": "https://www.ideal.es/culturas/almeria/goyo-jimenez-invade-risas-teatro-auditorio-roquetas-20261121134801-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-11-21",
+  "es_plan": false
+ },
+ "b5eb5025d2": {
+  "url": "https://www.ideal.es/culturas/jaen/rayo-barro-rinde-tributo-miguel-hernandez-museo-20261121133537-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-11-21",
+  "es_plan": true,
+  "titulo": "Exposición 'El Rayo en el Barro' en el Museo Rafael Zabaleta",
+  "resumen": "El artista Ramón Campos presenta una exposición en el Museo Rafael Zabaleta en Quesada, dedicada a Miguel Hernández. La muestra estará abierta al público hasta el 10 de enero.",
+  "en": {
+   "titulo": "'El Rayo en el Barro' Exhibition at the Rafael Zabaleta Museum",
+   "resumen": "Artist Ramón Campos presents an exhibition at the Rafael Zabaleta Museum in Quesada, dedicated to Miguel Hernández. The exhibition will be open to the public until January 10th."
+  },
+  "inicio": "2026-11-21",
+  "fin": "2027-01-10",
+  "hora": null,
+  "lugar": "Museo Rafael Zabaleta",
+  "municipio": "Quesada",
+  "provincia": "Jaén",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "da63393ee5": {
+  "url": "https://www.ideal.es/culturas/retomar-camino-entendimiento-parte-cultura-pervive-20261120000545-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-11-21",
+  "es_plan": false
+ },
+ "006f2f4945": {
+  "url": "https://www.elcorreo.com/culturas/cine/joseba-lopezortega-gran-noticia-abrieran-nuevas-salas-20261120010208-nt.html",
+  "fuente": "El Correo (Culturas)",
+  "src": "prensa-elcorreo-culturas",
+  "publicado": "2026-11-21",
+  "es_plan": false
+ },
+ "07fcf83e40": {
+  "url": "https://www.elcorreo.com/culturas/drogas-baja-escenario-largo-tiempo-tras-concierto-20261121001452-nt.html",
+  "fuente": "El Correo (Culturas)",
+  "src": "prensa-elcorreo-culturas",
+  "publicado": "2026-11-21",
+  "es_plan": true,
+  "titulo": "Último concierto de El Drogas antes de un largo parón",
+  "resumen": "El músico El Drogas se despide de los escenarios por un tiempo indefinido tras su concierto este sábado en Bilbao. El evento marca el fin de una etapa antes de un descanso.",
+  "en": {
+   "titulo": "El Drogas' Last Concert Before a Long Hiatus",
+   "resumen": "Musician El Drogas bids farewell to the stage for an indefinite period after his concert this Saturday in Bilbao. The event marks the end of an era before a break."
+  },
+  "inicio": "2026-11-21",
+  "fin": "2026-11-21",
+  "hora": null,
+  "lugar": null,
+  "municipio": "Bilbao",
+  "provincia": "Vizcaya",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "11ed8efd7f": {
+  "url": "https://www.diariovasco.com/culturas/musica/maren-creo-enfado-cantado-euskera-duda-20261121002407-nt.html",
+  "fuente": "El Diario Vasco (Culturas)",
+  "src": "prensa-diariovasco-culturas",
+  "publicado": "2026-11-21",
+  "es_plan": false
+ },
+ "0c2b5def03": {
+  "url": "https://www.diariovasco.com/culturas/dentro-nuevo-topo-primer-viaje-estacion-barrio-20261121002504-nt.html",
+  "fuente": "El Diario Vasco (Culturas)",
+  "src": "prensa-diariovasco-culturas",
+  "publicado": "2026-11-21",
+  "es_plan": false
+ },
+ "493ffb3a70": {
+  "url": "https://www.lasprovincias.es/culturas/tv/disney-estrena-fin-semana-tercera-temporada-series-20261120002011-nt.html",
+  "fuente": "Las Provincias (Culturas)",
+  "src": "prensa-lasprovincias-culturas",
+  "publicado": "2026-11-21",
+  "es_plan": true,
+  "titulo": "Estreno de temporada de serie en Disney+",
+  "resumen": "Disney+ estrena este fin de semana los dos primeros episodios de la tercera temporada de una de sus series más populares, superando en audiencia a títulos de Marvel y Star Wars.",
+  "en": {
+   "titulo": "Series Season Premiere on Disney+",
+   "resumen": "Disney+ premieres the first two episodes of the third season of one of its most popular series this weekend, outperforming Marvel and Star Wars titles in viewership."
+  },
+  "inicio": "2026-11-21",
+  "fin": "2026-11-21",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "pantalla"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "6a320dd033": {
+  "url": "https://www.lasprovincias.es/culturas/tv/telecinco-emite-hoy-sabado-clasico-moderno-cine-20261120001943-nt.html",
+  "fuente": "Las Provincias (Culturas)",
+  "src": "prensa-lasprovincias-culturas",
+  "publicado": "2026-11-21",
+  "es_plan": true,
+  "titulo": "Emisión de película de acción en Telecinco",
+  "resumen": "Telecinco emite este sábado un clásico moderno del cine de acción protagonizado por Denzel Washington. Se recomienda también consultar la programación de TDT.",
+  "en": {
+   "titulo": "Action Movie Broadcast on Telecinco",
+   "resumen": "Telecinco broadcasts a modern action film classic starring Denzel Washington this Saturday. Viewers are also advised to check TDT programming."
+  },
+  "inicio": "2026-11-21",
+  "fin": "2026-11-21",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "pantalla"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "9c7065fe8e": {
+  "url": "https://www.laverdad.es/culturas/bob-pop-elige-region-murcia-despedir-exitosa-20261118070000-nt.html",
+  "fuente": "La Verdad (Culturas)",
+  "src": "prensa-laverdad-culturas",
+  "publicado": "2026-11-21",
+  "es_plan": true,
+  "titulo": "Gira de Bob Pop en la Región de Murcia",
+  "resumen": "Bob Pop se despide de su gira nacional en Calasparra y Murcia los días 27 y 28 de noviembre con su espectáculo 'Hablar no sirve. De nada', que aborda temas como la dependencia y la diversidad.",
+  "en": {
+   "titulo": "Bob Pop's Tour in the Region of Murcia",
+   "resumen": "Bob Pop concludes his national tour in Calasparra and Murcia on November 27th and 28th with his show 'Hablar no sirve. De nada', addressing themes like dependency and diversity."
+  },
+  "inicio": "2026-11-27",
+  "fin": "2026-11-28",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": "Murcia",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "4295978e44": {
+  "url": "https://www.larioja.com/culturas/encuentro-cultura-reune-logrono-profesionales-empresas-asociaciones-20261121131959-nt.html",
+  "fuente": "La Rioja (Culturas)",
+  "src": "prensa-larioja-culturas",
+  "publicado": "2026-11-21",
+  "es_plan": true,
+  "titulo": "Encuentro de la Cultura en Logroño",
+  "resumen": "Logroño acoge el Encuentro de la Cultura, reuniendo a profesionales, empresas, asociaciones y administraciones para debatir sobre el sector.",
+  "en": {
+   "titulo": "Culture Meeting in Logroño",
+   "resumen": "Logroño hosts the Culture Meeting, bringing together professionals, companies, associations, and administrations to discuss the sector."
+  },
+  "inicio": "2026-11-21",
+  "fin": "2026-11-21",
+  "hora": null,
+  "lugar": "Riojafórum",
+  "municipio": "Logroño",
+  "provincia": "La Rioja",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "5294e938ef": {
+  "url": "https://www.larioja.com/culturas/madame-butterfly-levanta-telon-riojaforum-20261120093844-nt.html",
+  "fuente": "La Rioja (Culturas)",
+  "src": "prensa-larioja-culturas",
+  "publicado": "2026-11-21",
+  "es_plan": true,
+  "titulo": "Ópera 'Madame Butterfly' en Logroño",
+  "resumen": "La ópera 'Madame Butterfly' de Puccini se representa en Logroño este sábado a las 19:00 horas en Riojafórum, a cargo de la compañía Leonor Gago y la Ópera Nacional de Moldavia.",
+  "en": {
+   "titulo": "'Madame Butterfly' Opera in Logroño",
+   "resumen": "Puccini's opera 'Madame Butterfly' is performed in Logroño this Saturday at 7:00 PM at Riojafórum, by the Leonor Gago company and the National Opera of Moldova."
+  },
+  "inicio": "2026-11-21",
+  "fin": "2026-11-21",
+  "hora": "19:00",
+  "lugar": "Riojafórum",
+  "municipio": "Logroño",
+  "provincia": "La Rioja",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "f2db454e4c": {
+  "url": "https://www.europapress.es/cultura/musica-00129/noticia-vetusta-morla-viste-verde-madrid-educacion-publica-pais-maestros-pierde-futuro-20261120235330.html",
+  "fuente": "Europa Press (Cultura)",
+  "src": "prensa-europapress-cultura",
+  "publicado": "2026-11-20",
+  "es_plan": true,
+  "titulo": "Concierto de Vetusta Morla en Madrid",
+  "resumen": "Vetusta Morla celebra su última actuación en Madrid este viernes en el Movistar Arena, como parte de su 'Gira de Vuelta, Canciones de Ida', con un alegato por la educación pública.",
+  "en": {
+   "titulo": "Vetusta Morla Concert in Madrid",
+   "resumen": "Vetusta Morla celebrates their last performance in Madrid this Friday at the Movistar Arena, as part of their 'Gira de Vuelta, Canciones de Ida', with a plea for public education."
+  },
+  "inicio": "2026-11-20",
+  "fin": "2026-11-20",
+  "hora": null,
+  "lugar": "Movistar Arena",
+  "municipio": "Madrid",
+  "provincia": "Madrid",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "799887a7a7": {
+  "url": "https://www.europapress.es/cultura/libros-00132/noticia-martin-caparros-espera-fervientemente-vox-pp-no-gobiernen-buscan-regresar-pasado-no-existio-20261120193348.html",
+  "fuente": "Europa Press (Cultura)",
+  "src": "prensa-europapress-cultura",
+  "publicado": "2026-11-20",
+  "es_plan": false
+ },
+ "2d7ba41d10": {
+  "url": "https://www.20minutos.es/musica/los-excompaneros-robe-iniesta-publican-cancion-vertigo-una-declaracion-musical-recuerdo-cantante_7063734_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-11-20",
+  "es_plan": false
+ },
+ "578694ff32": {
+  "url": "https://elpais.com/cultura/2026-11-20/llegan-a-a-coruna-las-imagenes-de-david-sims-el-fotografo-que-capturo-la-esencia-de-la-juventud-de-los-noventa.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-11-20",
+  "es_plan": true,
+  "titulo": "Exposición: David Sims, fotógrafo de la esencia juvenil de los noventa",
+  "resumen": "La Fundación MOP en A Coruña presenta 'The Hamster Becomes The Problem', una retrospectiva de 35 años de carrera del fotógrafo David Sims. La exposición, con más de 200 imágenes, explora su archivo personal y su visión única de la moda y lo cotidiano.",
+  "en": {
+   "titulo": "Exhibition: David Sims, photographer of the 90s youth essence",
+   "resumen": "The MOP Foundation in A Coruña presents 'The Hamster Becomes The Problem', a retrospective of photographer David Sims' 35-year career. The exhibition, featuring over 200 images, explores his personal archive and his unique vision of fashion and everyday life."
+  },
+  "inicio": "2026-11-21",
+  "fin": "2027-05-01",
+  "hora": null,
+  "lugar": "Muelle de Batería",
+  "municipio": "A Coruña",
+  "provincia": "A Coruña",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.95
+ },
+ "fa11137892": {
+  "url": "https://elpais.com/cultura/2026-11-20/hans-baldung-grien-un-maestro-de-la-mirada-el-cuerpo-y-la-muerte-a-la-sombra-de-durero.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-11-20",
+  "es_plan": true,
+  "titulo": "Exposición: Hans Baldung Grien, maestro del Renacimiento alemán",
+  "resumen": "El Museo del Prado en Madrid inaugura una exposición monográfica dedicada a Hans Baldung Grien, colaborador de Durero. La muestra, que explora su obra centrada en la mirada, el cuerpo y la muerte, podrá verse hasta marzo de 2027.",
+  "en": {
+   "titulo": "Exhibition: Hans Baldung Grien, master of the German Renaissance",
+   "resumen": "The Prado Museum in Madrid inaugurates a monographic exhibition dedicated to Hans Baldung Grien, a collaborator of Dürer. The exhibition, exploring his work focused on gaze, body, and death, will be on display until March 2027."
+  },
+  "inicio": "2026-11-20",
+  "fin": "2027-03-07",
+  "hora": null,
+  "lugar": "Museo del Prado",
+  "municipio": "Madrid",
+  "provincia": "Madrid",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.95
+ },
+ "a397694bf1": {
+  "url": "https://www.lavanguardia.com/cultura/20261120/11689367/mary-halvorson-canis-major-estrella-refulgente.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-20",
+  "es_plan": false
+ },
+ "387178be63": {
+  "url": "https://www.heraldo.es/ocio-y-cultura/fotos-alfombra-roja-los-premios-los40-music-awards-los-mejores-los-peores-looks-2070567-1.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-20",
+  "es_plan": true,
+  "titulo": "Premios Los40 Music Awards 2026",
+  "resumen": "La 21ª edición de los premios Los40 Music Awards se celebra en el Palau Sant Jordi de Barcelona. El evento premia la música y contará con la presencia de artistas.",
+  "en": {
+   "titulo": "Los40 Music Awards 2026",
+   "resumen": "The 21st edition of the Los40 Music Awards takes place at Palau Sant Jordi in Barcelona. The event celebrates music and will feature artists."
+  },
+  "inicio": "2026-11-20",
+  "fin": "2026-11-20",
+  "hora": null,
+  "lugar": "Palau Sant Jordi",
+  "municipio": "Barcelona",
+  "provincia": "Barcelona",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.95
+ },
+ "730c884ba9": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/20/disney-prepara-regreso-home-alone-macaulay-culkin-segun-variety-eeuu-cine-2070547.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-20",
+  "es_plan": false
+ },
+ "1f0eec7a77": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/20/bo-derek-mujer-perfecta-cumple-70-anos-alejada-hollywood-2070520.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-20",
+  "es_plan": false
+ },
+ "90cc373830": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/20/muere-cyra-toledo-actriz-cine-hermana-presentadora-jose-toledo-2070438.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-20",
+  "es_plan": false
+ },
+ "1b5a1752a4": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/20/sandra-golpe-trabajo-factura-fisicamente-persona-sentida-dejo-alma-mis-noticias-2070124.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-20",
+  "es_plan": false
+ },
+ "6a38b9da08": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/20/muere-72-anos-antropologo-oscense-gaspar-mairal-2070396.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-20",
+  "es_plan": false
+ },
+ "039f2c3c72": {
+  "url": "https://www.elnortedecastilla.es/culturas/musica/tonina-poner-centro-invisible-20261120231533-nt.html",
+  "fuente": "El Norte de Castilla (Culturas)",
+  "src": "prensa-nortecastilla-culturas",
+  "publicado": "2026-11-20",
+  "es_plan": false
+ },
+ "6dfa388037": {
+  "url": "https://www.diariosur.es/culturas/desconocida-opera-juventud-bizet-vuelve-vida-teatro-20261120172810-nt.html",
+  "fuente": "Diario Sur (Culturas)",
+  "src": "prensa-diariosur-culturas",
+  "publicado": "2026-11-20",
+  "es_plan": false
+ },
+ "cf5e7b15bc": {
+  "url": "https://www.ideal.es/culturas/almeria/almeria-corto-rinde-homenaje-emma-suarez-reconoce-20261120230153-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-11-20",
+  "es_plan": false
+ },
+ "be29a646e7": {
+  "url": "https://www.ideal.es/culturas/jaen/teatro-musica-visitas-patrimoniales-programacion-palacios-invierno-20261120181057-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-11-20",
+  "es_plan": false
+ },
+ "a9e46738d4": {
+  "url": "https://www.ideal.es/culturas/almeria/actriz-emma-suarez-descubre-estrella-almeria-cine-20261120172631-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-11-20",
+  "es_plan": false
+ },
+ "eb57ba371c": {
+  "url": "https://www.ideal.es/culturas/jaen/san-juan-cruz-figura-alcance-gracias-lectura-20261120170638-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-11-20",
+  "es_plan": false
  }
 }
