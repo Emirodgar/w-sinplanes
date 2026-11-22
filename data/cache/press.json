@@ -13164,76 +13164,6 @@
   "a_cubierto": null,
   "confianza": 0.85
  },
- "c1203546c2": {
-  "url": "https://www.europapress.es/madrid/noticia-nave-73-estrena-perra-roja-obra-soledad-heridas-guerra-europa-entreguerras-20261107093151.html",
-  "fuente": "Europa Press (Cultura)",
-  "src": "prensa-europapress-cultura",
-  "publicado": "2026-11-07",
-  "es_plan": false
- },
- "463c99c9a7": {
-  "url": "https://www.20minutos.es/cultura/blogs/motel-margot/extranos-misterios-luna-los-falsarios-adolfo-garcia-ortega_7033396_0.html",
-  "fuente": "20minutos (Cultura)",
-  "src": "prensa-20minutos-cultura",
-  "publicado": "2026-11-07",
-  "es_plan": false
- },
- "7d290d663f": {
-  "url": "https://www.lavanguardia.com/cultura/20261107/11678386/mira-festival-claroscuro.html",
-  "fuente": "La Vanguardia (Cultura)",
-  "src": "prensa-lavanguardia-cultura",
-  "publicado": "2026-11-07",
-  "es_plan": false
- },
- "a5d4312e99": {
-  "url": "https://www.lavanguardia.com/cultura/20261107/11678343/deja-fuera-cine-espanol.html",
-  "fuente": "La Vanguardia (Cultura)",
-  "src": "prensa-lavanguardia-cultura",
-  "publicado": "2026-11-07",
-  "es_plan": false
- },
- "bc03b3f6cf": {
-  "url": "https://www.lavanguardia.com/cultura/20261107/11678206/dificil-paisano-revuelta-abascal.html",
-  "fuente": "La Vanguardia (Cultura)",
-  "src": "prensa-lavanguardia-cultura",
-  "publicado": "2026-11-07",
-  "es_plan": false
- },
- "2782325d78": {
-  "url": "https://www.lavanguardia.com/cultura/20261107/11678189/noche-barcelonesa-esta-viva.html",
-  "fuente": "La Vanguardia (Cultura)",
-  "src": "prensa-lavanguardia-cultura",
-  "publicado": "2026-11-07",
-  "es_plan": false
- },
- "c5220ba421": {
-  "url": "https://www.lavanguardia.com/cultura/20261107/11678173/jorge-volpi-algoritmos-brindan-paz-apariencia.html",
-  "fuente": "La Vanguardia (Cultura)",
-  "src": "prensa-lavanguardia-cultura",
-  "publicado": "2026-11-07",
-  "es_plan": false
- },
- "20077baf3d": {
-  "url": "https://www.lavanguardia.com/cultura/culturas/20261107/11674178/bulliciosa-alejandria-mentira.html",
-  "fuente": "La Vanguardia (Cultura)",
-  "src": "prensa-lavanguardia-cultura",
-  "publicado": "2026-11-07",
-  "es_plan": false
- },
- "d7144ad661": {
-  "url": "https://www.lavanguardia.com/cultura/culturas/20261107/11674177/literatura-traspasa-muro.html",
-  "fuente": "La Vanguardia (Cultura)",
-  "src": "prensa-lavanguardia-cultura",
-  "publicado": "2026-11-07",
-  "es_plan": false
- },
- "8327948916": {
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/07/critica-pelicula-ruega-nosotras-cine-chicas-descarriadas-2066577.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-11-07",
-  "es_plan": false
- },
  "b5560d19db": {
   "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/07/victor-manuel-79anos-hecho-santiago-abascal-accidente-ferroviario-urda-gente-mala-toxica-2066567.html",
   "fuente": "Heraldo de Aragón (Ocio y cultura)",
@@ -13261,13 +13191,6 @@
   ],
   "a_cubierto": true,
   "confianza": 0.85
- },
- "c72ae5b30f": {
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/07/lola-herrera-91anos-admirado-alma-felipe-gonzalez-entiendo-2066570.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-11-07",
-  "es_plan": false
  },
  "210599c3a7": {
   "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/07/bryan-adams-trae-zaragoza-su-aura-estrella-una-coleccion-grandes-exitos-2066382.html",
@@ -13325,48 +13248,6 @@
   "a_cubierto": true,
   "confianza": 0.85
  },
- "5ba6840eb4": {
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/07/gran-wyoming-propietario-19-viviendas-suban-impuestos-patrimonio-perjudica-acuerdo-2065127.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-11-07",
-  "es_plan": false
- },
- "d7f67082f7": {
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/07/alba-carrillo-confirma-llegado-demanda-feliciano-lopez-tranquilo-afortunados-2066065.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-11-07",
-  "es_plan": false
- },
- "f823d51f38": {
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/07/arturo-perez-reverte-tengo74anos-cuanto-queda-vida-asistir-final-occidente-espectaculo-interesantisimo-2043306.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-11-07",
-  "es_plan": false
- },
- "a9c53abb17": {
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/07/dia-joaquin-sabina-escucho-primera-vez-heroes-silencio-dios-entienda-2063962.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-11-07",
-  "es_plan": false
- },
- "86f0c4d18f": {
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/07/ramon-garcia-jubila-gran-wyoming-anos-cumplo-mes-estoy-edad-quitarme-2066282.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-11-07",
-  "es_plan": false
- },
- "91a8cfc7bc": {
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/07/julio-jose-iglesias-encanta-gente-diga-quiera-primero-vengan-show-opine-2066110.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-11-07",
-  "es_plan": false
- },
  "be6a3e1a98": {
   "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/07/the-sky-is-landfill-casi-nadie-por-aqui-pudo-ver-actuar-jeff-buckley-su-dia-2066557.html",
   "fuente": "Heraldo de Aragón (Ocio y cultura)",
@@ -13395,41 +13276,6 @@
   "a_cubierto": true,
   "confianza": 0.9
  },
- "7ecd946597": {
-  "url": "https://www.elnortedecastilla.es/salamanca/dura-multa-subirse-marquesina-autobus-salamanca-romperla-20261107123033-nt.html",
-  "fuente": "El Norte de Castilla (Salamanca)",
-  "src": "prensa-nortecastilla-salamanca",
-  "publicado": "2026-11-07",
-  "es_plan": false
- },
- "2cb4be1d25": {
-  "url": "https://www.elnortedecastilla.es/salamanca/buscan-dos-menores-edad-desaparecidas-salamanca-20261106223709-nt.html",
-  "fuente": "El Norte de Castilla (Salamanca)",
-  "src": "prensa-nortecastilla-salamanca",
-  "publicado": "2026-11-07",
-  "es_plan": false
- },
- "bc16248765": {
-  "url": "https://www.ideal.es/culturas/almeria/leoleo-convierten-teatro-apolo-espacio-complicidad-emocion-20261107120634-nt.html",
-  "fuente": "Ideal (Culturas)",
-  "src": "prensa-ideal-culturas",
-  "publicado": "2026-11-07",
-  "es_plan": false
- },
- "4b9975c88e": {
-  "url": "https://www.ideal.es/culturas/garcia-paredes-arquitecto-cambio-granada-exposicion-unica-20261106000559-nt.html",
-  "fuente": "Ideal (Culturas)",
-  "src": "prensa-ideal-culturas",
-  "publicado": "2026-11-07",
-  "es_plan": false
- },
- "121a74a32a": {
-  "url": "https://www.elcorreo.com/culturas/musica/medina-azahara-pincha-adios-bilbao-20261107073651-nt.html",
-  "fuente": "El Correo (Culturas)",
-  "src": "prensa-elcorreo-culturas",
-  "publicado": "2026-11-07",
-  "es_plan": false
- },
  "4affd4f97d": {
   "url": "https://www.elcorreo.com/culturas/musica/raphael-campana-cultura-sirva-alimentar-odio-20261106005623-nt.html",
   "fuente": "El Correo (Culturas)",
@@ -13457,34 +13303,6 @@
   ],
   "a_cubierto": true,
   "confianza": 0.9
- },
- "fbf6cb34c6": {
-  "url": "https://www.elcorreo.com/culturas/arte/miguel-zugaza-necesitamos-periodistas-ayuden-discriminar-cumulo-20261106005124-nt.html",
-  "fuente": "El Correo (Culturas)",
-  "src": "prensa-elcorreo-culturas",
-  "publicado": "2026-11-07",
-  "es_plan": false
- },
- "6892a52b9f": {
-  "url": "https://www.elcorreo.com/culturas/territorios/agua-vida-peligro-extincion-20261107120848-nt.html",
-  "fuente": "El Correo (Culturas)",
-  "src": "prensa-elcorreo-culturas",
-  "publicado": "2026-11-07",
-  "es_plan": false
- },
- "85ccba1667": {
-  "url": "https://www.diariovasco.com/culturas/tv/revuelta-entrevistara-santiaga-abascal-publico-habitual-puedo-20261107120439-nt.html",
-  "fuente": "El Diario Vasco (Culturas)",
-  "src": "prensa-diariovasco-culturas",
-  "publicado": "2026-11-07",
-  "es_plan": false
- },
- "8b7d66f7fc": {
-  "url": "https://www.diariovasco.com/culturas/musica/amaia-montero-sufre-pequena-caida-concierto-oreja-20261107105910-nt.html",
-  "fuente": "El Diario Vasco (Culturas)",
-  "src": "prensa-diariovasco-culturas",
-  "publicado": "2026-11-07",
-  "es_plan": false
  },
  "26d098e215": {
   "url": "https://www.diariovasco.com/culturas/manos-salvaron-cuadro-caro-mundo-20261107000147-nt.html",
@@ -13598,13 +13416,6 @@
   "a_cubierto": null,
   "confianza": 0.85
  },
- "aabbc9632d": {
-  "url": "https://www.lasprovincias.es/culturas/musica/inigo-quintero-arrasa-valencia-ciudad-siempre-responde-20261106002401-nt.html",
-  "fuente": "Las Provincias (Culturas)",
-  "src": "prensa-lasprovincias-culturas",
-  "publicado": "2026-11-07",
-  "es_plan": false
- },
  "6d24db9c68": {
   "url": "https://www.lasprovincias.es/culturas/musica/vendera-entradas-fans-taquilla-20261105132124-nt.html",
   "fuente": "Las Provincias (Culturas)",
@@ -13631,13 +13442,6 @@
   ],
   "a_cubierto": null,
   "confianza": 0.85
- },
- "3798002bfe": {
-  "url": "https://www.laverdad.es/culturas/musica/bryan-adams-detiene-tiempo-murcia-grandes-exitos-20261107100318-nt.html",
-  "fuente": "La Verdad (Culturas)",
-  "src": "prensa-laverdad-culturas",
-  "publicado": "2026-11-07",
-  "es_plan": false
  },
  "d23642da71": {
   "url": "https://www.eldiariomontanes.es/culturas/muestra-collages-poeta-carlos-alcorta-reune-afinidades-20261107074933-nt.html",
@@ -13723,27 +13527,6 @@
   ],
   "a_cubierto": null,
   "confianza": 0.85
- },
- "5936835ab5": {
-  "url": "https://www.larioja.com/culturas/recital-generacion-concierto-crescendo-cierran-escenario-vivo-20261107103856-nt.html",
-  "fuente": "La Rioja (Culturas)",
-  "src": "prensa-larioja-culturas",
-  "publicado": "2026-11-07",
-  "es_plan": false
- },
- "b15617b5f0": {
-  "url": "https://www.larioja.com/culturas/redonda-expone-mejores-miradas-siglo-xxi-sobre-20261107103714-nt.html",
-  "fuente": "La Rioja (Culturas)",
-  "src": "prensa-larioja-culturas",
-  "publicado": "2026-11-07",
-  "es_plan": false
- },
- "6f3934052e": {
-  "url": "https://www.larioja.com/culturas/preguntas-respuesta-martina-perez-20261107103502-nt.html",
-  "fuente": "La Rioja (Culturas)",
-  "src": "prensa-larioja-culturas",
-  "publicado": "2026-11-07",
-  "es_plan": false
  },
  "b5965c443c": {
   "url": "https://www.larioja.com/culturas/compania-nacho-duato-breton-espectaculo-20261107191841-nt.html",
@@ -14645,34 +14428,6 @@
   "a_cubierto": null,
   "confianza": 0.85
  },
- "fb59b5b96f": {
-  "url": "https://www.lavanguardia.com/cultura/20261107/11678810/litigio-sijena-encara-fase-decisiva.html",
-  "fuente": "La Vanguardia (Cultura)",
-  "src": "prensa-lavanguardia-cultura",
-  "publicado": "2026-11-07",
-  "es_plan": false
- },
- "470cc5495c": {
-  "url": "https://www.ara.cat/cultura/arquitectura/autoretrat-inedit-mural-ocult-telo-reciclat-secrets-gaudi-han-sortit-llum_130_5896715.html",
-  "fuente": "Ara (Cultura)",
-  "src": "prensa-ara-cultura",
-  "publicado": "2026-11-07",
-  "es_plan": false
- },
- "0cd33bc84c": {
-  "url": "https://www.ara.cat/cultura/broken-english-guanya-24a-edicio-festival-in-edit_25_5903335.html",
-  "fuente": "Ara (Cultura)",
-  "src": "prensa-ara-cultura",
-  "publicado": "2026-11-07",
-  "es_plan": false
- },
- "b74f25fb92": {
-  "url": "https://www.ara.cat/opinio/experiment-extraordinari_129_5903337.html",
-  "fuente": "Ara (Cultura)",
-  "src": "prensa-ara-cultura",
-  "publicado": "2026-11-07",
-  "es_plan": false
- },
  "e69dd6af95": {
   "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/07/bryan-adams-explica-concierto-zaragoza-estrella-2066598.html",
   "fuente": "Heraldo de Aragón (Ocio y cultura)",
@@ -14755,13 +14510,6 @@
   "a_cubierto": null,
   "confianza": 0.9
  },
- "1d3e972271": {
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/07/lopez-simon-recibe-premio-valores-tauromaquia-casa-andalucia-2066639.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-11-07",
-  "es_plan": false
- },
  "c66487d105": {
   "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/07/elefantes-sorprende-fans-vino-musica-directo-zaragoza-2066593.html",
   "fuente": "Heraldo de Aragón (Ocio y cultura)",
@@ -14817,13 +14565,6 @@
   ],
   "a_cubierto": true,
   "confianza": 0.85
- },
- "2db559a85c": {
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/07/joan-manuel-serrat-ocurriendo-espana-resultado-muchos-anos-desgaste-ilusion-gente-2062170.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-11-07",
-  "es_plan": false
  },
  "175caa995c": {
   "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/07/walls-me-hace-muy-feliz-que-zaragoza-sea-primera-fecha-gira-espana-es-un-inicio-bastante-potente-2066580.html",
@@ -14966,27 +14707,6 @@
   "a_cubierto": null,
   "confianza": 0.85
  },
- "65b06169a2": {
-  "url": "https://www.ideal.es/culturas/jaen/gabino-diego-recoge-xiv-premio-tierra-ibera-20261107134214-nt.html",
-  "fuente": "Ideal (Culturas)",
-  "src": "prensa-ideal-culturas",
-  "publicado": "2026-11-07",
-  "es_plan": false
- },
- "45dc9f5d9a": {
-  "url": "https://www.elcorreo.com/culturas/musica/andoni-aizpuru-aflora-mes-mes-club-20261107145918-nt.html",
-  "fuente": "El Correo (Culturas)",
-  "src": "prensa-elcorreo-culturas",
-  "publicado": "2026-11-07",
-  "es_plan": false
- },
- "2cf922c90f": {
-  "url": "https://www.diariovasco.com/buruntzaldea/astigarraga/recuperacion-lagar-erbetegietxeberri-20261107080310-nt.html",
-  "fuente": "El Diario Vasco (Culturas)",
-  "src": "prensa-diariovasco-culturas",
-  "publicado": "2026-11-07",
-  "es_plan": false
- },
  "4e2e581c5e": {
   "url": "https://www.lasprovincias.es/culturas/musica/shinova-estrena-caballo-troya-valencia-adelanto-sorpresa-20261107234124-nt.html",
   "fuente": "Las Provincias (Culturas)",
@@ -15041,13 +14761,6 @@
   ],
   "a_cubierto": true,
   "confianza": 0.9
- },
- "ba18a158ca": {
-  "url": "https://www.laverdad.es/culturas/segunda-edicion-murcia-impacta-festival-reune-hub-20261107161741-nt.html",
-  "fuente": "La Verdad (Culturas)",
-  "src": "prensa-laverdad-culturas",
-  "publicado": "2026-11-07",
-  "es_plan": false
  },
  "7f77d3a518": {
   "url": "https://www.20minutos.es/musica/historico-gazir-record-guinness-200-batallas-freestyle-12-horas-frente-250-rivales_7058825_0.html",
@@ -15881,13 +15594,6 @@
   ],
   "a_cubierto": true,
   "confianza": 0.85
- },
- "bac9a11334": {
-  "url": "https://www.larioja.com/culturas/auto-fe-brujas-zugarramurdi-logrono-rioja-20261108225838-nt.html",
-  "fuente": "La Rioja (Culturas)",
-  "src": "prensa-larioja-culturas",
-  "publicado": "2026-11-07",
-  "es_plan": false
  },
  "ce096c1e31": {
   "url": "https://www.lavanguardia.com/encatala/20261106/11677056/lovecraft-esplendor-horror-cosmic-festival-42.html",
