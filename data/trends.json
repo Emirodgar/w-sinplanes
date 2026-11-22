@@ -22,6 +22,16 @@
    ]
   },
   {
+   "term": "moto gp",
+   "traffic": 20000,
+   "lastSeen": "2026-11-22",
+   "news": [
+    "Carrera MotoGP del GP Portugal en directo | Marc Márquez hoy en vivo",
+    "GP de Portugal en directo, la carrera de MotoGP en vivo",
+    "Marc Márquez retrasa su coronación al caerse en la Sprint a falta de una vuelta y media"
+   ]
+  },
+  {
    "term": "militar",
    "traffic": 10000,
    "lastSeen": "2026-11-08",
@@ -49,6 +59,16 @@
     "¿Cuándo se cobra la pensión y la paga extra de noviembre de 2026? Fechas por banco",
     "Cuándo se cobran las pensiones en noviembre de 2026: la fecha de ingreso en cada banco",
     "Miles de pensionistas que tienen reconocidas 14 pagas recibirán en noviembre la mensualidad ordinaria junto a la paga extra de Navidad; la Seguridad Social establece el abono entre el 1 y el 4"
+   ]
+  },
+  {
+   "term": "movistar plus",
+   "traffic": 10000,
+   "lastSeen": "2026-11-22",
+   "news": [
+    "La Séptima emitirá la docuserie sobre Pedro Sánchez en abierto tras su estreno en Movistar Plus",
+    "La Séptima rescata el documental de Pedro Sánchez que nadie quiso emitir y lo programa a una semana de las elecciones y tras su derrota en el cara a cara",
+    "La épica de los mindundis"
    ]
   },
   {
@@ -149,6 +169,16 @@
     "Cuponazo de la ONCE hoy: comprobar resultados del sorteo del 20 de noviembre y números premiados, en directo",
     "Resultados de La Bonoloto Triplex y Cuponazo de la Once del lunes viernes, 20 de noviembre de 2026",
     "ONCE: Sorteo del Cuponazo del viernes 20 de noviembre de 2026"
+   ]
+  },
+  {
+   "term": "barca hoy",
+   "traffic": 5000,
+   "lastSeen": "2026-11-22",
+   "news": [
+    "Barcelona - Villarreal en directo | Lamine falla un penalti",
+    "Hansi Flick: \"Estamos en un buen momento\"",
+    "Once del Barça con novedades en defensa y ataque"
    ]
   },
   {
@@ -769,6 +799,16 @@
     "El séptimo de caballería de Pacheta llega al Templo",
     "En directo | Sabadell - Granada CF",
     "Sabadell - Granada: horario, dónde ver hoy en TV y canal del partido de LaLiga Hypermotion"
+   ]
+  },
+  {
+   "term": "estadísticas de fc barcelona contra villarreal club de fútbol",
+   "traffic": 1000,
+   "lastSeen": "2026-11-22",
+   "news": [
+    "Sabah vs. Barcelona (Nov 25, 2026) Odds and Spread",
+    "Arizona 35-28 Kansas State (Nov 21, 2026) Game Recap",
+    "Juventus vs. Omonia (Nov 26, 2026) Odds and Spread"
    ]
   },
   {
@@ -2365,6 +2405,56 @@
    ]
   },
   {
+   "term": "ajax - den haag",
+   "traffic": 200,
+   "lastSeen": "2026-11-22",
+   "news": [
+    "Ajax vs ADO Den Haag: Dutch Eredivisie stats & head-to-head",
+    "Preview: Ajax vs. ADO Den Haag - prediction, team news, lineups",
+    "Brandt, Amrabat, Kehrer, Gaaei, Berghuis And Tsygankov: Ajax Injury News Ahead Of ADO Den Haag Clash"
+   ]
+  },
+  {
+   "term": "livetv",
+   "traffic": 200,
+   "lastSeen": "2026-11-22",
+   "news": [
+    "Argentina midfielder Paredes collapses during TV interview",
+    "Argentina’s Leandro Paredes collapses during live TV interview after Boca Juniors win",
+    "Paredes Collapses During TV Interview After Boca Juniors Trophy Win"
+   ]
+  },
+  {
+   "term": "live tv",
+   "traffic": 200,
+   "lastSeen": "2026-11-22",
+   "news": [
+    "This early Black Friday YouTube TV streaming deal saves you $75 on 5 months of live TV",
+    "This early YouTube TV Black Friday streaming deal gets you 100+ live TV channels at a serious discount",
+    "Fubo vs YouTube TV"
+   ]
+  },
+  {
+   "term": "hull city - brighton",
+   "traffic": 200,
+   "lastSeen": "2026-11-22",
+   "news": [
+    "Hull City vs Brighton & Hove Albion LIVE: Premier League build-up, team news, stats & updates",
+    "Hull vs Brighton predictions: 8-1 Bet Builder tip, team news and odds",
+    "Hull get Belloumi and Mendy back for Brighton visit"
+   ]
+  },
+  {
+   "term": "fcb hoy",
+   "traffic": 200,
+   "lastSeen": "2026-11-22",
+   "news": [
+    "Lamine recibió tratamiento en un tobillo durante el calentamiento",
+    "Preocupación en el Barcelona: Yamal recibe tratamiento antes del duelo ante el Villarreal",
+    "¿Juega Lamine Yamal a pesar de las molestias que ha sufrido en el calentamiento?"
+   ]
+  },
+  {
    "term": "ingeniero",
    "traffic": 100,
    "lastSeen": "2026-11-08",
@@ -2566,6 +2656,16 @@
     "Juventus - Venezia LIVE. Serie A latest updates",
     "A Spalletti no le afectan los comentarios de Conte",
     "Licensable picture: Serie A - Juventus v Venezia"
+   ]
+  },
+  {
+   "term": "leyma coruña",
+   "traffic": 100,
+   "lastSeen": "2026-11-22",
+   "news": [
+    "El análisis de Nacho Rama: Un partido de valor doble en el camino a la permanencia",
+    "El Leyma, a apuntalar el fortín del Coliseum ante un Lleida con las alarmas encendidas",
+    "Básquet Coruña, contra su rival favorito y en su mejor momento"
    ]
   }
  ]

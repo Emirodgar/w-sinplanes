@@ -1,4 +1,11 @@
 {
+ "1592413670": {
+  "url": "https://www.diariovasco.com/culturas/musica/abrazo-duda-madera-20261122000017-nt.html",
+  "fuente": "El Diario Vasco (Culturas)",
+  "src": "prensa-diariovasco-culturas",
+  "publicado": "2026-11-22",
+  "es_plan": false
+ },
  "2027321795": {
   "url": "https://www.laverdad.es/culturas/vuelve-ficc-peliculas-sugieren-emocionan-inspiran-20261120000926-nt.html",
   "fuente": "La Verdad (Culturas)",
@@ -27292,6 +27299,946 @@
   "fuente": "Ideal (Culturas)",
   "src": "prensa-ideal-culturas",
   "publicado": "2026-11-20",
+  "es_plan": false
+ },
+ "49e80987ad": {
+  "url": "https://elpais.com/cultura/2026-11-22/rosendo-rompe-ocho-anos-de-silencio-toda-mi-vida-ha-sido-una-pelea-constante-conmigo-mismo.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-11-22",
+  "es_plan": false
+ },
+ "3bf9079470": {
+  "url": "https://elpais.com/cultura/2026-11-22/el-teatro-real-reconquista-en-viena-el-titulo-de-mejor-teatro-de-opera-del-mundo.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-11-22",
+  "es_plan": false
+ },
+ "be62f8ee92": {
+  "url": "https://elpais.com/cultura/2026-11-22/un-documental-para-visitar-los-otros-mundos-de-cristina-fernandez-cubas-una-escritora-permanentemente-en-la-cuerda-floja.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-11-22",
+  "es_plan": true,
+  "titulo": "Documental sobre Cristina Fernández Cubas en el festival Rizoma",
+  "resumen": "El festival Rizoma proyecta este domingo un documental sobre la escritora Cristina Fernández Cubas, ganadora del Premio Cervantes, explorando su mundo interior y referentes.",
+  "en": {
+   "titulo": "Documentary about Cristina Fernández Cubas at Rizoma festival",
+   "resumen": "The Rizoma festival is screening a documentary this Sunday about writer Cristina Fernández Cubas, winner of the Cervantes Prize, exploring her inner world and influences."
+  },
+  "inicio": "2026-11-22",
+  "fin": "2026-11-22",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "libros",
+   "museos"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "4023da622c": {
+  "url": "https://elpais.com/cultura/2026-11-22/rito-y-geografia-del-cine-flamenco-nuevas-miradas-sobre-el-cruce-de-dos-artes-populares.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-11-22",
+  "es_plan": false
+ },
+ "88659f8472": {
+  "url": "https://elpais.com/cultura/2026-11-22/jesus-lopez-solo-acierto-con-el-1-de-los-artistas-y-soy-un-genio.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-11-22",
+  "es_plan": false
+ },
+ "0be28fe015": {
+  "url": "https://www.lavanguardia.com/cultura/20261122/11690448/armenia-lyana-ulikhanyan-alza-galardon-pau-casals-jovenes-cellistas.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-22",
+  "es_plan": false
+ },
+ "a3dd87d176": {
+  "url": "https://www.lavanguardia.com/cultura/20261122/11689429/homenaje-serrat-barnasants-50-anos-res-es-mesqui.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-22",
+  "es_plan": true,
+  "titulo": "Homenaje a Serrat del Barnasants por los 50 años de ‘Res no és mesquí’",
+  "resumen": "El festival Barnasants celebra el 50 aniversario del disco 'Res no és mesquí' de Joan Manuel Serrat con un concierto homenaje el próximo 28 de enero en el casino de l’Aliança del Poble Nou.",
+  "en": {
+   "titulo": "Barnasants tribute to Serrat for the 50th anniversary of ‘Res no és mesquí’",
+   "resumen": "The Barnasants festival celebrates the 50th anniversary of Joan Manuel Serrat's album 'Res no és mesquí' with a tribute concert on January 28th at the casino de l’Aliança del Poble Nou."
+  },
+  "inicio": "2027-01-28",
+  "fin": "2027-01-28",
+  "hora": null,
+  "lugar": "Casino de l’Aliança del Poble Nou",
+  "municipio": "Barcelona",
+  "provincia": "Barcelona",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "0d8c590af7": {
+  "url": "https://www.lavanguardia.com/cultura/20261122/11690393/teatro-real-nuevo-premiado-mejor-opera-mundo-oscars-lirica.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-22",
+  "es_plan": false
+ },
+ "40b9161ea1": {
+  "url": "https://www.lavanguardia.com/cultura/20261122/11690360/pinto-rechaza-acusaciones-censura-eliminar-cinco-obras-programacion.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-22",
+  "es_plan": false
+ },
+ "ebf2b53093": {
+  "url": "https://www.lavanguardia.com/cultura/20261122/11690357/teatro-real-madrid-premiado-mejor-opera-mundo-oscars-lirica.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-22",
+  "es_plan": false
+ },
+ "5d0616ce4c": {
+  "url": "https://www.lavanguardia.com/cultura/20261122/11690314/peeping-tom-beso-danzado-mas-bonito-temporada-alta.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-22",
+  "es_plan": false
+ },
+ "a5d0948fa1": {
+  "url": "https://www.lavanguardia.com/cultura/20261122/11689960/videojuegos-definen-siglo.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-22",
+  "es_plan": false
+ },
+ "06a05b377d": {
+  "url": "https://www.lavanguardia.com/cultura/20261122/11689815/gillian-anderson-valiente-espacio-creativo-debil-otros-ambitos-vida.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-22",
+  "es_plan": false
+ },
+ "1c131e7ece": {
+  "url": "https://www.lavanguardia.com/cultura/culturas/20261122/11685378/nvidia-honeytrap.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-22",
+  "es_plan": false
+ },
+ "7242b0e251": {
+  "url": "https://www.lavanguardia.com/cultura/20261122/11690234/coreografias-metro.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-22",
+  "es_plan": false
+ },
+ "ca5c3a4f49": {
+  "url": "https://www.lavanguardia.com/cultura/20261122/11689894/candy-crush-joana-moll-santa-monica-cookies-arte-anthropic.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-22",
+  "es_plan": true,
+  "titulo": "Exposición 'Boom Crash Candy Crush' en Arts Santa Mònica",
+  "resumen": "El Arts Santa Mònica presenta la exposición 'Boom Crash Candy Crush', comisariada por Joana Moll y Enric Puig Punyet, que explora las amenazas ocultas tras las apariencias a través del arte.",
+  "en": {
+   "titulo": "'Boom Crash Candy Crush' Exhibition at Arts Santa Mònica",
+   "resumen": "Arts Santa Mònica presents the exhibition 'Boom Crash Candy Crush', curated by Joana Moll and Enric Puig Punyet, exploring hidden threats behind appearances through art."
+  },
+  "inicio": "2026-11-22",
+  "fin": "2026-11-22",
+  "hora": null,
+  "lugar": "Arts Santa Mònica",
+  "municipio": "Barcelona",
+  "provincia": "Barcelona",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "4c48ee32b8": {
+  "url": "https://www.ara.cat/cultura/dansa-teatre-experimental-enmig-soroll-campanya-electoral_1_5919184.html",
+  "fuente": "Ara (Cultura)",
+  "src": "prensa-ara-cultura",
+  "publicado": "2026-11-22",
+  "es_plan": true,
+  "titulo": "Festival Temporada Alta: Big Bang en Girona y Salt",
+  "resumen": "El festival Temporada Alta celebra su fin de semana Big Bang con 10 propuestas de artes escénicas, la mayoría de nueva creación, en Girona y Salt, reuniendo a profesionales del sector.",
+  "en": {
+   "titulo": "Temporada Alta Festival: Big Bang in Girona and Salt",
+   "resumen": "The Temporada Alta festival celebrates its Big Bang weekend with 10 performing arts proposals, mostly new creations, in Girona and Salt, bringing together industry professionals."
+  },
+  "inicio": "2026-11-22",
+  "fin": "2026-11-25",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": "Girona",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "0b54a117e5": {
+  "url": "https://www.ara.cat/cultura/homenatge-serrat-salvat-papasseit-inaugurara-barnasants-2027_25_5919240.html",
+  "fuente": "Ara (Cultura)",
+  "src": "prensa-ara-cultura",
+  "publicado": "2026-11-22",
+  "es_plan": true,
+  "titulo": "Barnasants 2027: Homenaje a Serrat y Salvat-Papasseit",
+  "resumen": "El ciclo de canción de autor Barnasants inaugurará su edición de 2027 el 28 de enero con un espectáculo homenaje al cantautor Joan Manuel Serrat y al poeta Joan Salvat-Papasseit.",
+  "en": {
+   "titulo": "Barnasants 2027: Homage to Serrat and Salvat-Papasseit",
+   "resumen": "The singer-songwriter cycle Barnasants will inaugurate its 2027 edition on January 28th with a tribute show to singer Joan Manuel Serrat and poet Joan Salvat-Papasseit."
+  },
+  "inicio": "2027-01-28",
+  "fin": "2027-01-28",
+  "hora": null,
+  "lugar": "Teatre de l’Aliança del Poblenou",
+  "municipio": "Barcelona",
+  "provincia": "Barcelona",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "musica",
+   "libros"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "d4825c720f": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/22/jose-sacristan-tengo89anos-estremece-santiago-abascal-ilegal-recorte-libertades-2070764.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-22",
+  "es_plan": false
+ },
+ "70742eeb5b": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/22/oreja-gogh-amaia-montero-pone-mirar-redes-gente-dano-personal-2070766.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-22",
+  "es_plan": true,
+  "titulo": "Conciertos de La Oreja de Van Gogh en Pamplona",
+  "resumen": "La Oreja de Van Gogh ha ofrecido dos exitosos conciertos este fin de semana en el Navarra Arena de Pamplona, como parte de su gira de regreso.",
+  "en": {
+   "titulo": "La Oreja de Van Gogh Concerts in Pamplona",
+   "resumen": "La Oreja de Van Gogh has performed two successful concerts this weekend at the Navarra Arena in Pamplona, as part of their comeback tour."
+  },
+  "inicio": "2026-11-22",
+  "fin": "2026-11-23",
+  "hora": null,
+  "lugar": "Navarra Arena",
+  "municipio": "Pamplona",
+  "provincia": "Navarra",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "380163a278": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/22/miguel-bose-70anos-estoy-orgulloso-ser-espanol-no-cansaremos-emcima-pais-2064804.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-22",
+  "es_plan": false
+ },
+ "9ce4495218": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/22/maria-bernardeau-etiqueta-nepobaby-hace-que-me-juzguen-triple-2070762.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-22",
+  "es_plan": true,
+  "titulo": "Estreno 2ª temporada 'Física o Química. La nueva generación'",
+  "resumen": "La actriz María Bernardeau regresa con la segunda temporada de 'Física o Química. La nueva generación', que se estrena el 6 de diciembre en atresplayer.",
+  "en": {
+   "titulo": "Premiere of 2nd season 'Física o Química. La nueva generación'",
+   "resumen": "Actress María Bernardeau returns with the second season of 'Física o Química. La nueva generación', premiering on December 6th on atresplayer."
+  },
+  "inicio": "2026-12-06",
+  "fin": "2026-12-06",
+  "hora": null,
+  "lugar": "atresplayer",
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "e97726638f": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/22/puntadas-con-hilo-por-gloria-salgado-los-secretos-armario-james-bond-2070760.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-22",
+  "es_plan": false
+ },
+ "e40da52614": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/22/gta-vi-arrasa-su-estreno-con-3-790-millones-dolares-sus-primeras-24-horas-2070754.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-22",
+  "es_plan": true,
+  "titulo": "Estreno de 'GTA VI'",
+  "resumen": "El videojuego 'GTA VI' ha batido récords en su estreno, acumulando 3.790 millones de dólares en sus primeras 24 horas y 32,5 millones de reservas.",
+  "en": {
+   "titulo": "'GTA VI' Premiere",
+   "resumen": "The video game 'GTA VI' has broken records on its premiere, accumulating $3.79 billion in its first 24 hours and 32.5 million reservations."
+  },
+  "inicio": "2026-11-22",
+  "fin": "2026-11-22",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "pantalla",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "ca78eae9aa": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/22/nuevo-ambicioso-espectaculo-une-jota-aragonesa-elegante-figura-goya-2070529.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-22",
+  "es_plan": true,
+  "titulo": "Espectáculo 'Goya y la jota eterna' en Madrid",
+  "resumen": "Un nuevo espectáculo de jota aragonesa, 'Goya y la jota eterna', une el folclore con la figura de Goya y se representará en el Teatro Principal y el Ateneo de Madrid.",
+  "en": {
+   "titulo": "'Goya y la jota eterna' Show in Madrid",
+   "resumen": "A new Aragonese jota show, 'Goya y la jota eterna', combines folklore with the figure of Goya and will be performed at the Teatro Principal and Ateneo de Madrid."
+  },
+  "inicio": "2026-11-22",
+  "fin": "2026-11-22",
+  "hora": null,
+  "lugar": "Teatro Principal y Ateneo",
+  "municipio": "Madrid",
+  "provincia": "Madrid",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "musica",
+   "fiestas"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "e95b5c6ad8": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/22/alaska-desayuno-antes-si-no-estoy-dieta-me-puedo-comer-bollo-churros-cafe-leche-2070221.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-22",
+  "es_plan": false
+ },
+ "0c09002af5": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/22/azucar-moreno-infancia-ayudar-familia-arrimabamos-hombro-poder-llevar-algo-casa-2069737.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-22",
+  "es_plan": false
+ },
+ "2b89f5da5d": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/22/raices-separadas-bertin-osborne-71-anos-fabiola-martinez-53-madrid-maracaibo-7-378-km-linea-recta-una-distancia-que-marco-origen-su-historia-amor-2068008.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-22",
+  "es_plan": false
+ },
+ "b601d3c4f8": {
+  "url": "https://www.elnortedecastilla.es/culturas/real-elegido-nuevo-mejor-teatro-opera-mundo-20261122124239-ntrc.html",
+  "fuente": "El Norte de Castilla (Culturas)",
+  "src": "prensa-nortecastilla-culturas",
+  "publicado": "2026-11-22",
+  "es_plan": false
+ },
+ "9618fe620b": {
+  "url": "https://www.ideal.es/culturas/jaen/comedia-tomas-afan-alcanza-exito-jaen-relato-20261122142017-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-11-22",
+  "es_plan": true,
+  "titulo": "Comedia de Tomás Afán en Teatro La Paca (Jaén)",
+  "resumen": "El Teatro La Paca en Jaén ha acogido este fin de semana la comedia de Tomás Afán, que explora la diferencia entre generaciones y sus lastres.",
+  "en": {
+   "titulo": "Tomás Afán's Comedy at Teatro La Paca (Jaén)",
+   "resumen": "Teatro La Paca in Jaén hosted Tomás Afán's comedy this weekend, exploring the differences between generations and their burdens."
+  },
+  "inicio": "2026-11-22",
+  "fin": "2026-11-23",
+  "hora": null,
+  "lugar": "Teatro La Paca",
+  "municipio": "Jaén",
+  "provincia": "Jaén",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "19888b40ef": {
+  "url": "https://www.ideal.es/culturas/jaen/tiempo-olivos-realidad-mundo-rural-llega-upm-20261122134855-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-11-22",
+  "es_plan": true,
+  "titulo": "'Tiempo entre olivos' se proyecta en la UPM",
+  "resumen": "El documental 'Tiempo entre olivos', ganador del Festival de Cine Europeo de Sevilla, se proyectará en la Sala Asuán de la UPM. La obra aborda la realidad del mundo rural.",
+  "en": {
+   "titulo": "'Tiempo entre olivos' is screened at UPM",
+   "resumen": "The documentary 'Tiempo entre olivos', winner of the Seville European Film Festival, will be screened at the Sala Asuán of UPM. The work addresses the reality of the rural world."
+  },
+  "inicio": "2026-11-22",
+  "fin": "2026-11-22",
+  "hora": "20:00",
+  "lugar": "Sala Asuán",
+  "municipio": null,
+  "provincia": null,
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.5
+ },
+ "77d171b4a1": {
+  "url": "https://www.ideal.es/culturas/analistas-financieros-suman-carrera-granada-capitalidad-cultural-20261122114246-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-11-22",
+  "es_plan": false
+ },
+ "a848342c16": {
+  "url": "https://www.ideal.es/culturas/manager-mano-oro-presenta-nueva-compania-gold-20261122011724-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-11-22",
+  "es_plan": false
+ },
+ "1540758dd1": {
+  "url": "https://www.elcorreo.com/culturas/musica/row-bec-noche-luces-confeti-tecno-fantasia-20261122013602-nt.html",
+  "fuente": "El Correo (Culturas)",
+  "src": "prensa-elcorreo-culturas",
+  "publicado": "2026-11-22",
+  "es_plan": false
+ },
+ "50a475c519": {
+  "url": "https://www.diariovasco.com/culturas/musica/frenetico-maraton-musical-bulego-pasa-donostia-20261122000009-nt.html",
+  "fuente": "El Diario Vasco (Culturas)",
+  "src": "prensa-diariovasco-culturas",
+  "publicado": "2026-11-22",
+  "es_plan": false
+ },
+ "001d5c2609": {
+  "url": "https://www.lasprovincias.es/culturas/tv/avecina-vuelve-telecinco-15a-temporada-dos-anos-20261120002542-nt.html",
+  "fuente": "Las Provincias (Culturas)",
+  "src": "prensa-lasprovincias-culturas",
+  "publicado": "2026-11-22",
+  "es_plan": false
+ },
+ "b34821b4c4": {
+  "url": "https://www.elprogreso.es/noticia-patrocinio/andaina-sumase-hoxe-aos-diversoss-actos-promovidos-burela-polo-25n/202611221156182015162.html",
+  "fuente": "El Progreso (Lugo)",
+  "src": "prensa-elprogreso",
+  "publicado": "2026-11-22",
+  "es_plan": true,
+  "titulo": "Andaina por el 25N en Burela",
+  "resumen": "El Concello de Burela organiza una andaina como parte de los actos conmemorativos del Día de la Eliminación de la Violencia contra la Mujer.",
+  "en": {
+   "titulo": "Walk for 25N in Burela",
+   "resumen": "The Burela City Council is organizing a walk as part of the commemorative events for the Day for the Elimination of Violence against Women."
+  },
+  "inicio": "2026-11-22",
+  "fin": "2026-11-22",
+  "hora": null,
+  "lugar": null,
+  "municipio": "Burela",
+  "provincia": "Lugo",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "actividades",
+   "cultura"
+  ],
+  "a_cubierto": false,
+  "confianza": 0.85
+ },
+ "c54bb73951": {
+  "url": "https://www.elprogreso.es/sarria/ruta-4x4-comarca-sarria-alza-como-mayor-galicia-540-vehiculos/202611220500002015748.html",
+  "fuente": "El Progreso (Lugo)",
+  "src": "prensa-elprogreso",
+  "publicado": "2026-11-22",
+  "es_plan": true,
+  "titulo": "Ruta 4x4 en la comarca de Sarria",
+  "resumen": "La ruta 4x4 de la comarca de Sarria, la mayor de Galicia, continúa este domingo con pruebas de habilidad en O Morelle. Participan vehículos de varias comunidades.",
+  "en": {
+   "titulo": "4x4 route in the Sarria region",
+   "resumen": "The 4x4 route in the Sarria region, the largest in Galicia, continues this Sunday with skill tests in O Morelle. Vehicles from various communities are participating."
+  },
+  "inicio": "2026-11-22",
+  "fin": "2026-11-22",
+  "hora": null,
+  "lugar": "O Morelle",
+  "municipio": null,
+  "provincia": "Lugo",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "deporte",
+   "rutas",
+   "actividades"
+  ],
+  "a_cubierto": false,
+  "confianza": 0.85
+ },
+ "09a619b6cf": {
+  "url": "https://www.europapress.es/cultura/teatroreal-01040/noticia-teatro-real-elegido-mejor-teatro-opera-mundo-international-opera-awards-segunda-vez-20261121224847.html",
+  "fuente": "Europa Press (Cultura)",
+  "src": "prensa-europapress-cultura",
+  "publicado": "2026-11-21",
+  "es_plan": false
+ },
+ "9ce5c58f75": {
+  "url": "https://elpais.com/cultura/2026-11-21/una-productora-teatral-denuncia-al-ayuntamiento-de-pinto-pp-de-cancelar-por-motivos-ideologicos-una-obra-inspirada-en-lorca-y-otros-cuatro-montajes.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-11-21",
+  "es_plan": false
+ },
+ "508a6d7cf2": {
+  "url": "https://elpais.com/cultura/2026-11-21/raphael-suspende-un-concierto-en-a-coruna-a-ultima-hora-por-una-indisposicion.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-11-21",
+  "es_plan": false
+ },
+ "cda82e4ab8": {
+  "url": "https://www.lavanguardia.com/cultura/20261121/11690025/museologos-catalanes-premian-muestra-sobre-gitanos-vinseum.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-21",
+  "es_plan": false
+ },
+ "ecd6236b8d": {
+  "url": "https://www.ara.cat/cultura/musica-armenia-lyana-ulikhanyan-guanya-guardo-internacional-pau-casals-joves-violoncel-listes-2026_25_5918498.html",
+  "fuente": "Ara (Cultura)",
+  "src": "prensa-ara-cultura",
+  "publicado": "2026-11-21",
+  "es_plan": false
+ },
+ "ab59ea14a6": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/21/los-incombustibles-hombres-g-repasan-todos-sus-himnos-ante-un-graderio-extasiado-2070667.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-21",
+  "es_plan": true,
+  "titulo": "Hombres G en concierto en Zaragoza",
+  "resumen": "La banda Hombres G repasó sus grandes éxitos en el pabellón Príncipe Felipe de Zaragoza ante un público entregado. La gira 'Los mejores años de nuestra vida' colgó el cartel de 'no hay entradas'.",
+  "en": {
+   "titulo": "Hombres G in concert in Zaragoza",
+   "resumen": "The band Hombres G played their greatest hits at the Príncipe Felipe pavilion in Zaragoza to an enthusiastic audience. The 'Best Years of Our Lives' tour sold out."
+  },
+  "inicio": "2026-11-21",
+  "fin": "2026-11-21",
+  "hora": null,
+  "lugar": "Pabellón Príncipe Felipe",
+  "municipio": "Zaragoza",
+  "provincia": "Zaragoza",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "2c54935d6c": {
+  "url": "https://www.heraldo.es/ocio-y-cultura/fotos-concierto-hombres-g-zaragoza-2070724-1.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-21",
+  "es_plan": true,
+  "titulo": "Concierto de Hombres G en Zaragoza",
+  "resumen": "La gira 'Los mejores años de nuestra vida' de Hombres G llenó el pabellón Príncipe Felipe de Zaragoza este sábado.",
+  "en": {
+   "titulo": "Hombres G Concert in Zaragoza",
+   "resumen": "The 'Los mejores años de nuestra vida' tour by Hombres G filled the Príncipe Felipe pavilion in Zaragoza this Saturday."
+  },
+  "inicio": "2026-11-21",
+  "fin": "2026-11-21",
+  "hora": null,
+  "lugar": "Pabellón Príncipe Felipe",
+  "municipio": "Zaragoza",
+  "provincia": "Zaragoza",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "musica"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "2303cd83d1": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/21/critica-cine-amanecer-cosecha-enviados-morir-2070664.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-21",
+  "es_plan": false
+ },
+ "a861f5aafc": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/21/isabel-preysler-76anos-desayuno-agua-caliente-lima-semillas-lino-vaso-agua-jamaica-2069461.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-21",
+  "es_plan": false
+ },
+ "82811af51b": {
+  "url": "https://www.elnortedecastilla.es/culturas/musica/ana-maria-valderrama-alba-ventura-cuarteto-ribera-20261120222133-nt.html",
+  "fuente": "El Norte de Castilla (Culturas)",
+  "src": "prensa-nortecastilla-culturas",
+  "publicado": "2026-11-21",
+  "es_plan": true,
+  "titulo": "Semana de Música de Medina del Campo",
+  "resumen": "La Semana de Música de Medina del Campo presenta seis conciertos y un documental en el auditorio Emiliano Allende del 23 al 28 de noviembre.",
+  "en": {
+   "titulo": "Medina del Campo Music Week",
+   "resumen": "Medina del Campo Music Week features six concerts and a documentary at the Emiliano Allende auditorium from November 23rd to 28th."
+  },
+  "inicio": "2026-11-23",
+  "fin": "2026-11-28",
+  "hora": null,
+  "lugar": "Auditorio Emiliano Allende",
+  "municipio": "Medina del Campo",
+  "provincia": "Valladolid",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "55e9f35341": {
+  "url": "https://www.diariosur.es/culturas/cine/adelfa-calvo-sobre-abuela-nina-puebla-guerra-20261119213844-nt.html",
+  "fuente": "Diario Sur (Culturas)",
+  "src": "prensa-diariosur-culturas",
+  "publicado": "2026-11-21",
+  "es_plan": false
+ },
+ "dae4019308": {
+  "url": "https://www.diariosur.es/culturas/zambombas-navidad-cuelan-primera-vez-albeniz-20261119213717-nt.html",
+  "fuente": "Diario Sur (Culturas)",
+  "src": "prensa-diariosur-culturas",
+  "publicado": "2026-11-21",
+  "es_plan": true,
+  "titulo": "Zambombás de Navidad en el Cine Albéniz",
+  "resumen": "El Cine Albéniz de Málaga acoge por primera vez zambombás de Navidad el 2 de diciembre para recaudar fondos para la Casa Ronald McDonald.",
+  "en": {
+   "titulo": "Christmas Zambombás at Albéniz Cinema",
+   "resumen": "Málaga's Albéniz Cinema hosts Christmas zambombás for the first time on December 2nd to raise funds for Casa Ronald McDonald."
+  },
+  "inicio": "2026-12-02",
+  "fin": "2026-12-02",
+  "hora": null,
+  "lugar": "Cine Albéniz",
+  "municipio": "Málaga",
+  "provincia": "Málaga",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "fiestas",
+   "musica",
+   "navidad"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "5aba3eb797": {
+  "url": "https://www.diariosur.es/culturas/libros/certamen-microrrelatos-pablo-aranda-desvelara-ganadores-lunes-20261118213415-nt.html",
+  "fuente": "Diario Sur (Culturas)",
+  "src": "prensa-diariosur-culturas",
+  "publicado": "2026-11-21",
+  "es_plan": true,
+  "titulo": "Entrega de premios del certamen de microrrelatos Pablo Aranda",
+  "resumen": "El certamen de microrrelatos Pablo Aranda desvelará sus ganadores este lunes en La Térmica de Málaga.",
+  "en": {
+   "titulo": "Pablo Aranda Micro-story Contest Awards Ceremony",
+   "resumen": "The Pablo Aranda micro-story contest will announce its winners this Monday at La Térmica in Málaga."
+  },
+  "inicio": "2026-11-23",
+  "fin": "2026-11-23",
+  "hora": null,
+  "lugar": "La Térmica",
+  "municipio": "Málaga",
+  "provincia": "Málaga",
+  "ambito": "local",
+  "gratis": true,
+  "precio": null,
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "21cebaf70e": {
+  "url": "https://www.ideal.es/culturas/almeria/william-levy-regresa-fical-estreno-mundial-bajo-20261121191520-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-11-21",
+  "es_plan": true,
+  "titulo": "Estreno de 'Bajo un fuego' en Fical con William Levy",
+  "resumen": "William Levy presenta el estreno mundial de la película 'Bajo un fuego' en Fical, junto a su hija Kailey.",
+  "en": {
+   "titulo": "Premiere of 'Under a Fire' at Fical with William Levy",
+   "resumen": "William Levy presents the world premiere of the film 'Under a Fire' at Fical, alongside his daughter Kailey."
+  },
+  "inicio": "2026-11-21",
+  "fin": "2026-11-21",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "pantalla",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.8
+ },
+ "6afb5ab5e9": {
+  "url": "https://www.ideal.es/culturas/almeria/paula-echevarria-regresa-almeria-recibir-premio-almeria-20261121165840-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-11-21",
+  "es_plan": true,
+  "titulo": "Paula Echevarría recibe el Premio 'Almería, tierra de cine'",
+  "resumen": "Paula Echevarría regresa a Almería para recibir el Premio 'Almería, tierra de cine' y descubrir su estrella en Fical.",
+  "en": {
+   "titulo": "Paula Echevarría Receives 'Almería, Land of Cinema' Award",
+   "resumen": "Paula Echevarría returns to Almería to receive the 'Almería, Land of Cinema' Award and unveil her star at Fical."
+  },
+  "inicio": "2026-11-21",
+  "fin": "2026-11-21",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "pantalla",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.8
+ },
+ "04953bc6a7": {
+  "url": "https://www.elcorreo.com/culturas/arte/anos-bilbaoarte-traves-obra-setenta-artistas-coleccion-20261119230149-nt.html",
+  "fuente": "El Correo (Culturas)",
+  "src": "prensa-elcorreo-culturas",
+  "publicado": "2026-11-21",
+  "es_plan": true,
+  "titulo": "Exposición 'Registros personales' en BilbaoArte",
+  "resumen": "La Sala Uribitarte40 de BilbaoArte presenta la exposición 'Registros personales. Volver sobre lo hecho' hasta el 31 de enero.",
+  "en": {
+   "titulo": "'Personal Records' Exhibition at BilbaoArte",
+   "resumen": "The Uribitarte40 Hall at BilbaoArte presents the exhibition 'Personal Records. Revisiting What Has Been Done' until January 31st."
+  },
+  "inicio": "2026-11-21",
+  "fin": "2027-01-31",
+  "hora": null,
+  "lugar": "Sala Uribitarte40",
+  "municipio": "Bilbao",
+  "provincia": "Bizkaia",
+  "ambito": "local",
+  "gratis": true,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "62226df117": {
+  "url": "https://www.lasprovincias.es/culturas/musica/tardor-rompe-silencio-tres-anos-cantos-amor-20261121201657-nt.html",
+  "fuente": "Las Provincias (Culturas)",
+  "src": "prensa-lasprovincias-culturas",
+  "publicado": "2026-11-21",
+  "es_plan": true,
+  "titulo": "Concierto de Tardor en Valencia",
+  "resumen": "La banda Tardor ofrece un concierto en Valencia, combinando sus temas clásicos con material de su próximo disco de 2027.",
+  "en": {
+   "titulo": "Tardor Concert in Valencia",
+   "resumen": "The band Tardor performs a concert in Valencia, mixing their classic songs with material from their upcoming 2027 album."
+  },
+  "inicio": "2026-11-21",
+  "fin": "2026-11-21",
+  "hora": null,
+  "lugar": null,
+  "municipio": "Valencia",
+  "provincia": "Valencia",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "musica"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "f076d2dae1": {
+  "url": "https://www.lasprovincias.es/culturas/apoteosis-cultura-japonesa-valencia-20261121171418-nt.html",
+  "fuente": "Las Provincias (Culturas)",
+  "src": "prensa-lasprovincias-culturas",
+  "publicado": "2026-11-21",
+  "es_plan": true,
+  "titulo": "Feria de anime y manga en Valencia",
+  "resumen": "Miles de personas asisten a la mayor feria de España de anime y manga en Valencia, con gran afluencia de público joven y cosplayers.",
+  "en": {
+   "titulo": "Anime and Manga Fair in Valencia",
+   "resumen": "Thousands of people attend Spain's largest anime and manga fair in Valencia, with a large turnout of young attendees and cosplayers."
+  },
+  "inicio": "2026-11-21",
+  "fin": "2026-11-21",
+  "hora": null,
+  "lugar": null,
+  "municipio": "Valencia",
+  "provincia": "Valencia",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "fiestas",
+   "ninos"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "b21d85208c": {
+  "url": "https://www.eldiariomontanes.es/culturas/pasos-desvios-arte-hoy-20261121153658-nt.html",
+  "fuente": "El Diario Montañés (Culturas)",
+  "src": "prensa-diariomontanes-culturas",
+  "publicado": "2026-11-21",
+  "es_plan": true,
+  "titulo": "Exposición 'Itinerarios XXXI' en el Centro Botín",
+  "resumen": "La exposición 'Itinerarios XXXI' reúne a seis artistas internacionales con diversos lenguajes creativos en el Centro Botín hasta abril.",
+  "en": {
+   "titulo": "'Itineraries XXXI' Exhibition at Botín Centre",
+   "resumen": "The 'Itineraries XXXI' exhibition brings together six international artists with diverse creative languages at the Botín Centre until April."
+  },
+  "inicio": "2026-11-21",
+  "fin": "2027-04-30",
+  "hora": null,
+  "lugar": "Centro Botín",
+  "municipio": "Santander",
+  "provincia": "Cantabria",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "66187bbe03": {
+  "url": "https://www.larioja.com/culturas/maridaje-moda-vino-francoespanolas-logrono-20261121183411-nt.html",
+  "fuente": "La Rioja (Culturas)",
+  "src": "prensa-larioja-culturas",
+  "publicado": "2026-11-21",
+  "es_plan": true,
+  "titulo": "XII Mercado de la Moda y el Vino en Logroño",
+  "resumen": "La bodega Franco-Españolas en Logroño celebra su XII Mercado de la Moda y el Vino, con más de veinte expositores.",
+  "en": {
+   "titulo": "12th Fashion and Wine Market in Logroño",
+   "resumen": "The Franco-Españolas winery in Logroño celebrates its 12th Fashion and Wine Market, featuring over twenty exhibitors."
+  },
+  "inicio": "2026-11-21",
+  "fin": "2026-11-21",
+  "hora": null,
+  "lugar": "Bodega Franco-Españolas",
+  "municipio": "Logroño",
+  "provincia": "La Rioja",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "gastronomia",
+   "cultura"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "18387b05a6": {
+  "url": "https://www.elprogreso.es/sociedad/gente/raphael-suspende-ultima-hora-concierto-coruna-sufrir-indisposicion/202611212247452015743.html",
+  "fuente": "El Progreso (Lugo)",
+  "src": "prensa-elprogreso",
+  "publicado": "2026-11-21",
   "es_plan": false
  }
 }
