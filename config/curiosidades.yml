@@ -1571,3 +1571,39 @@ curiosidades:
         - "Na edição de 2026, emitida de 25 de maio a 11 de junho, as câmaras estavam em Crom, uma das principais áreas de conservação da natureza da Irlanda do Norte. No site era possível ver, e ouvir, câmaras em direto da manhã à noite."
         - "Havia duas formas de as seguir: o leitor «In focus» mostrava uma câmara e ia mudando ao longo do dia; o «Multicam» oferecia quatro em simultâneo, também em rotação."
         - "As câmaras em direto só funcionam durante a temporada, mas a página do programa permite explorar a série e ficar atento à próxima edição."
+
+  - id: new-mind-museum
+    titulo:
+      es: "New Mind Museum: la historia de la IA en 3D"
+      en: "New Mind Museum: the history of AI in 3D"
+      fr: "New Mind Museum : l’histoire de l’IA en 3D"
+      de: "New Mind Museum: die Geschichte der KI in 3D"
+      it: "New Mind Museum: la storia dell’IA in 3D"
+      pt: "New Mind Museum: a história da IA em 3D"
+    fuente: New Mind Museum
+    enlace: https://newmindmuseum.com/
+    descripcion:
+      es: "Un museo virtual en 3D por el que puedes pasear para recorrer la historia de la inteligencia artificial."
+      en: "A virtual 3D museum you can walk through to explore the history of artificial intelligence."
+      fr: "Un musée virtuel en 3D à parcourir pour explorer l’histoire de l’intelligence artificielle."
+      de: "Ein virtuelles 3D-Museum, durch das du spazieren kannst, um die Geschichte der künstlichen Intelligenz zu erkunden."
+      it: "Un museo virtuale in 3D da percorrere per esplorare la storia dell’intelligenza artificiale."
+      pt: "Um museu virtual em 3D que podes percorrer para conhecer a história da inteligência artificial."
+
+  - id: voyager-1-dia-luz
+    titulo:
+      es: "Voyager 1 a un día-luz de la Tierra"
+      en: "Voyager 1, one light-day from Earth"
+      fr: "Voyager 1 à un jour-lumière de la Terre"
+      de: "Voyager 1 – einen Lichttag von der Erde entfernt"
+      it: "Voyager 1 a un giorno-luce dalla Terra"
+      pt: "Voyager 1 a um dia-luz da Terra"
+    fuente: NASA
+    enlace: https://science.nasa.gov/mission/voyager/voyager-1/voyager-1-what-is-a-light-day/
+    descripcion:
+      es: "La sonda Voyager 1 alcanzó el 19 de noviembre de 2026 una distancia de un día-luz de la Tierra. La NASA ofrece una visualización interactiva en 3D para seguir su posición."
+      en: "The Voyager 1 probe reached a distance of one light-day from Earth on 19 November 2026. NASA offers an interactive 3D visualisation to follow its position."
+      fr: "La sonde Voyager 1 a atteint le 19 novembre 2026 une distance d’un jour-lumière de la Terre. La NASA propose une visualisation interactive en 3D pour suivre sa position."
+      de: "Die Sonde Voyager 1 hat am 19. November 2026 einen Abstand von einem Lichttag zur Erde erreicht. Die NASA bietet eine interaktive 3D-Visualisierung, um ihre Position zu verfolgen."
+      it: "La sonda Voyager 1 ha raggiunto il 19 novembre 2026 una distanza di un giorno-luce dalla Terra. La NASA offre una visualizzazione interattiva in 3D per seguirne la posizione."
+      pt: "A sonda Voyager 1 atingiu a 19 de novembro de 2026 uma distância de um dia-luz da Terra. A NASA oferece uma visualização interativa em 3D para acompanhar a sua posição."
