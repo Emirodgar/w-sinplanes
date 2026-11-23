@@ -1318,6 +1318,36 @@
    ]
   },
   {
+   "term": "periodista",
+   "traffic": 500,
+   "lastSeen": "2026-11-23",
+   "news": [
+    "El periodismo está de luto: adiós a Esteban Morales",
+    "El periodista Esteban Morales fallece a los 70 años",
+    "Muere el periodista canario Estebán Morales a los 70 años"
+   ]
+  },
+  {
+   "term": "álvaro arbeloa",
+   "traffic": 500,
+   "lastSeen": "2026-11-23",
+   "news": [
+    "Arbeloa le da la vuelta",
+    "La 'masterclass' de Arbeloa: \"Parecían Maldini y Baresi\"",
+    "Manchester City-Fulham, Arbeloa: «Affengruber y Bassey, como Baresi y Maldini ante Haaland»"
+   ]
+  },
+  {
+   "term": "vuelo",
+   "traffic": 500,
+   "lastSeen": "2026-11-23",
+   "news": [
+    "De las freidoras de Iberostar al depósito de un A350: a bordo del primer avión con la mezcla de combustible sostenible el futuro",
+    "Moeve estrena su combustible procedente del hidrógeno verde en un primer vuelo comercial",
+    "Moeve prueba el queroseno fabricado con aceite de cocina en un Madrid-Lisboa"
+   ]
+  },
+  {
    "term": "el norte de castilla",
    "traffic": 200,
    "lastSeen": "2026-11-09",
@@ -2385,6 +2415,46 @@
    ]
   },
   {
+   "term": "al-shamal - al-ahli saudi",
+   "traffic": 200,
+   "lastSeen": "2026-11-23",
+   "news": [
+    "\"Yesterday's friend\": Riyad Mahrez surprises Al-Ahli players before Al-Shamal clash",
+    "Al-Shamal vs Al Ahli: TV channel, live stream and kick-off time for AFC Champions League Elite",
+    "check headline: Al Ahli boss Pušić demands ‘maximum effort’ ahead of Al Shamal clash"
+   ]
+  },
+  {
+   "term": "plan auto+",
+   "traffic": 200,
+   "lastSeen": "2026-11-23",
+   "news": [
+    "Adiós a las ayudas de 4.500 euros para comprar un coche eléctrico: el Plan Auto+ agota su presupuesto",
+    "El agotamiento del Plan Auto+ atrapa en un limbo sin ayudas a compradores de vehículos eléctricos",
+    "Frenazo al coche eléctrico, se terminan los 7.500 euros de ayuda a los compradores de coches enchufables"
+   ]
+  },
+  {
+   "term": "espacio mediterráneo",
+   "traffic": 200,
+   "lastSeen": "2026-11-23",
+   "news": [
+    "Extinguido un incendio en la cocina de un restaurante asiático de Espacio Mediterráneo, en Cartagena",
+    "Bomberos de Cartagena extinguen un incendio en la cocina de un restaurante en Cabezo Beaza",
+    "Un incendio en un restaurante junto a Espacio Mediterráneo obliga a evacuar una gasolinera"
+   ]
+  },
+  {
+   "term": "openai",
+   "traffic": 200,
+   "lastSeen": "2026-11-23",
+   "news": [
+    "Perplexity and Intelligence",
+    "OpenAI scientist proposes industry AI limits tied to model intelligence metric",
+    "OpenAI Calls For Leading AI Firms to Agree on AI Development Limits"
+   ]
+  },
+  {
    "term": "solucion tildes wordle hoy",
    "traffic": 100,
    "lastSeen": "2026-11-14",
@@ -2616,6 +2686,36 @@
     "García-Page se desmarca en plena campaña del decreto de centros de datos: “Que el fanatismo ideológico no le afecte”",
     "Page rompe con Sánchez también por los centros de datos en plena campaña: “Que el fanatismo ideológico no afecte a esta industria”",
     "La Copa del Mundo ya está en Toledo"
+   ]
+  },
+  {
+   "term": "fouzi lekjaa",
+   "traffic": 100,
+   "lastSeen": "2026-11-23",
+   "news": [
+    "Confirmado, el PP condiciona la participación de España en el Mundial 2030 a organizar la final: ¿puede la Selección retirarse de la competición?",
+    "Marruecos responde a Louzán: \"Si España cree que es capaz de albergar la final del Mundial, les decimos felicitaciones y les deseamos suerte...\"",
+    "Las cinco ventajas del Spotify Camp Nou para ser la sede de la final del Mundial 2030 (mejor que el Bernabéu)"
+   ]
+  },
+  {
+   "term": "leonida",
+   "traffic": 100,
+   "lastSeen": "2026-11-23",
+   "news": [
+    "I Tracked Down All 60 Birds in GTA 6: A Birder’s Guide to Vice City’s Wildlife",
+    "What It’s Like to Go Birding in Grand Theft Auto VI",
+    "Players are coming to ‘GTA VI’ for the car chases, but staying for the wildlife"
+   ]
+  },
+  {
+   "term": "msci world",
+   "traffic": 100,
+   "lastSeen": "2026-11-23",
+   "news": [
+    "KI-Ausverkauf drückt MSCI World: So viel Tech steckt in deinem Welt-ETF",
+    "iShares MSCI World ETF: Indexumbau zum Handelsschluss 30. November 2026",
+    "MSCI World unter 200-Tage-Linie"
    ]
   }
  ]

@@ -28030,5 +28030,1048 @@
   "src": "prensa-elprogreso",
   "publicado": "2026-11-21",
   "es_plan": false
+ },
+ "4783193202": {
+  "url": "https://www.20minutos.es/musica/leticia-sabater-lanza-su-tradicional-villancico-navideno-con-un-mensaje-sus-criticos-que-le-pique-que-se-rasque_7064542_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-11-23",
+  "es_plan": true,
+  "titulo": "Leticia Sabater lanza su villancico navideño 'La Putivuelta'",
+  "resumen": "Leticia Sabater estrena su nuevo villancico navideño, 'La Putivuelta', con un videoclip lleno de humor y efectos visuales. La canción, de estilo electro-pop, invita a bailar con una coreografía pegadiza.",
+  "en": {
+   "titulo": "Leticia Sabater releases her Christmas carol 'La Putivuelta'",
+   "resumen": "Leticia Sabater premieres her new Christmas carol, 'La Putivuelta', with a music video full of humor and visual effects. The electro-pop song features a catchy choreography."
+  },
+  "inicio": "2026-11-23",
+  "fin": "2026-11-23",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "musica",
+   "fiestas"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "5879368cab": {
+  "url": "https://www.20minutos.es/musica/como-conseguir-sello-correos-robe-iniesta-fechas-donde-hacerse-homenaje-lider-extremoduro_7064474_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-11-23",
+  "es_plan": true,
+  "titulo": "Sello conmemorativo de Robe Iniesta",
+  "resumen": "Correos lanza un sello conmemorativo dedicado a Robe Iniesta, líder de Extremoduro. La pieza, parte de una serie filatélica musical, rinde homenaje a su trayectoria e incluye un QR con una de sus canciones.",
+  "en": {
+   "titulo": "Commemorative stamp of Robe Iniesta",
+   "resumen": "Correos (the Spanish postal service) has released a commemorative stamp dedicated to Robe Iniesta, the former frontman of Extremoduro. Part of a musical philatelic series, it honors his career and includes a QR code with one of his songs."
+  },
+  "inicio": "2026-11-23",
+  "fin": "2026-11-23",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": false,
+  "precio": "5 euros",
+  "temas": [
+   "cultura",
+   "musica",
+   "libros"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "1e38313df0": {
+  "url": "https://elpais.com/cultura/2026-11-23/la-buena-musica.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-11-23",
+  "es_plan": false
+ },
+ "d75386047d": {
+  "url": "https://elpais.com/suscripciones/elpaismas/experiencias/2026-11-23/el-fenomeno-yunchan-lim-llega-en-diciembre-de-la-mano-de-ibermusica.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-11-23",
+  "es_plan": true,
+  "titulo": "Concierto de Yunchan Lim en el Auditorio Nacional de Música",
+  "resumen": "El joven pianista Yunchan Lim ofrecerá un recital de sonatas de Mozart en el Auditorio Nacional de Música de Madrid el próximo 3 de diciembre. Una oportunidad para disfrutar de la temporada 2026-2027 de Ibermúsica.",
+  "en": {
+   "titulo": "Yunchan Lim concert at the National Music Auditorium",
+   "resumen": "Young pianist Yunchan Lim will perform a recital of Mozart sonatas at the National Music Auditorium in Madrid on December 3rd. This is an opportunity to enjoy the 2026-2027 Ibermúsica season."
+  },
+  "inicio": "2026-12-03",
+  "fin": "2026-12-03",
+  "hora": null,
+  "lugar": "Auditorio Nacional de Música",
+  "municipio": "Madrid",
+  "provincia": "Madrid",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "musica",
+   "museos"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "b0785eb8e2": {
+  "url": "https://elpais.com/suscripciones/elpaismas/experiencias/2026-11-23/samson-et-dalila-desde-la-gran-pantalla-de-cine-yelmo.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-11-23",
+  "es_plan": true,
+  "titulo": "Proyección de ópera 'Samson et Dalila' en Cine Yelmo",
+  "resumen": "Cine Yelmo proyectará en directo la ópera 'Samson et Dalila' del Metropolitan Opera House de Nueva York el 5 de diciembre. Una oportunidad para disfrutar de la obra de Camille Saint-Saëns en pantalla grande.",
+  "en": {
+   "titulo": "'Samson et Dalila' opera screening at Cine Yelmo",
+   "resumen": "Cine Yelmo will broadcast the opera 'Samson et Dalila' from the Metropolitan Opera House in New York live on December 5th. An opportunity to enjoy Camille Saint-Saëns' work on the big screen."
+  },
+  "inicio": "2026-12-05",
+  "fin": "2026-12-05",
+  "hora": null,
+  "lugar": "Cine Yelmo",
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "musica",
+   "pantalla"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "e23de137f7": {
+  "url": "https://elpais.com/suscripciones/elpaismas/experiencias/2026-11-23/philippe-jaroussky-en-el-ciclo-impacta.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-11-23",
+  "es_plan": false
+ },
+ "d07f8b3547": {
+  "url": "https://www.lavanguardia.com/cultura/cine/20261123/11691320/bola-negra-mas-spiderman-pelicula-mas-taquillera-ano-espana.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-23",
+  "es_plan": false
+ },
+ "dbc8740e5e": {
+  "url": "https://www.lavanguardia.com/cultura/20261123/11691291/batalla-lepanto-molinos-viento-rey-sumerge-universo-cervantes.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-23",
+  "es_plan": true,
+  "titulo": "Exposición inmersiva sobre Cervantes en Madrid",
+  "resumen": "El Rey Felipe VI ha inaugurado 'Cervantes. La gran exposición inmersiva' en Madrid. La muestra combina documentos históricos y realidad virtual para explorar la vida y obra del escritor.",
+  "en": {
+   "titulo": "Immersive exhibition on Cervantes in Madrid",
+   "resumen": "King Felipe VI has inaugurated 'Cervantes. The Great Immersive Exhibition' in Madrid. The exhibition combines historical documents and virtual reality to explore the writer's life and work."
+  },
+  "inicio": "2026-11-23",
+  "fin": "2026-11-23",
+  "hora": null,
+  "lugar": "Plaza de España, 8",
+  "municipio": "Madrid",
+  "provincia": "Madrid",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "libros",
+   "museos"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "5e1ac7eb64": {
+  "url": "https://www.lavanguardia.com/cultura/20261123/11691208/amancio-prada-refugio-rosalia-castro.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-23",
+  "es_plan": true,
+  "titulo": "Amancio Prada rinde homenaje a Rosalía de Castro",
+  "resumen": "Amancio Prada ofrece un recital íntimo en el ciclo Barnasants, celebrando 50 años de conexión con la poesía de Rosalía de Castro. El espectáculo combina canciones, recitados y monólogos.",
+  "en": {
+   "titulo": "Amancio Prada pays tribute to Rosalía de Castro",
+   "resumen": "Amancio Prada presents an intimate recital in the Barnasants cycle, celebrating 50 years of connection with Rosalía de Castro's poetry. The performance combines songs, recitations, and monologues."
+  },
+  "inicio": "2026-11-23",
+  "fin": "2026-11-23",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": "Barcelona",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "musica",
+   "libros"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "68180e3226": {
+  "url": "https://www.lavanguardia.com/cultura/20261123/11691015/daniel-kehlmann-seguro-fascismo-llegara-alemania.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-23",
+  "es_plan": false
+ },
+ "020348d4e7": {
+  "url": "https://www.ara.cat/cultura/cinema/critiques/oro-sin-ley-ethan-hawke-paul-newman_1_5920087.html",
+  "fuente": "Ara (Cultura)",
+  "src": "prensa-ara-cultura",
+  "publicado": "2026-11-23",
+  "es_plan": true,
+  "titulo": "Película 'Oro sin ley' en cartelera",
+  "resumen": "La película 'Oro sin ley' se presenta como una opción clásica para disfrutar en familia, evocando el estilo de westerns y aventuras de los años 60 y 70.",
+  "en": {
+   "titulo": "'Oro sin ley' film in theaters",
+   "resumen": "The film 'Oro sin ley' is presented as a classic option for family viewing, evoking the style of westerns and adventures from the 60s and 70s."
+  },
+  "inicio": "2026-11-23",
+  "fin": "2026-11-23",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": "Barcelona",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "7448178f19": {
+  "url": "https://www.ara.cat/cultura/teatre/maria-rovira-vida-mentida-hidra-caps_1_5920117.html",
+  "fuente": "Ara (Cultura)",
+  "src": "prensa-ara-cultura",
+  "publicado": "2026-11-23",
+  "es_plan": true,
+  "titulo": "Monólogo 'Una història certa sobre la mentida' en Festival Clàssics",
+  "resumen": "Maria Rovira estrena el martes 'Una història certa sobre la mentida' en el Festival Clàssics de l'Espai Texas. El monólogo, que también se verá en diciembre, explora la ficción a través de experiencias personales y figuras históricas.",
+  "en": {
+   "titulo": "Monologue 'Una història certa sobre la mentida' at Festival Clàssics",
+   "resumen": "Maria Rovira premieres 'Una història certa sobre la mentida' on Tuesday at the Festival Clàssics in Espai Texas. The monologue, also showing in December, explores fiction through personal experiences and historical figures."
+  },
+  "inicio": "2026-11-25",
+  "fin": "2026-12-08",
+  "hora": null,
+  "lugar": "Espai Texas",
+  "municipio": "Barcelona",
+  "provincia": "Barcelona",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "libros",
+   "actividades"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "f7b8b7446a": {
+  "url": "https://www.ara.cat/cultura/arquitectura/benedetta-tagliabue-inaugura-xina-conservatori-musica-shenzhen_25_5920381.html",
+  "fuente": "Ara (Cultura)",
+  "src": "prensa-ara-cultura",
+  "publicado": "2026-11-23",
+  "es_plan": false
+ },
+ "faf6724bf9": {
+  "url": "https://www.ara.cat/cultura/figa-flawas-anuncia-nova-gira-2027_25_5920053.html",
+  "fuente": "Ara (Cultura)",
+  "src": "prensa-ara-cultura",
+  "publicado": "2026-11-23",
+  "es_plan": true,
+  "titulo": "Figa Flawas anuncia nueva gira para 2027",
+  "resumen": "Figa Flawas ha anunciado una nueva gira para 2027 que recorrerá importantes festivales de los Països Catalans, incluyendo Canet Rock, Vida Festival y Telecogresca.",
+  "en": {
+   "titulo": "Figa Flawas announces new tour for 2027",
+   "resumen": "Figa Flawas has announced a new tour for 2027 that will visit major festivals in the Catalan Countries, including Canet Rock, Vida Festival, and Telecogresca."
+  },
+  "inicio": "2027-01-01",
+  "fin": "2027-12-31",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": "Barcelona",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "musica",
+   "fiestas"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "32bb52aecb": {
+  "url": "https://www.ara.cat/cultura/opera/teatro-real-madrid-guanya-segon-cop-premi-millor-escenari-d-opera-mon_25_5919880.html",
+  "fuente": "Ara (Cultura)",
+  "src": "prensa-ara-cultura",
+  "publicado": "2026-11-23",
+  "es_plan": false
+ },
+ "55789ef027": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/23/museo-prado-analiza-huella-goya-pintura-espanola-los-poemas-rilke-2070850.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-23",
+  "es_plan": true,
+  "titulo": "Exposición sobre Rilke en el Museo del Prado",
+  "resumen": "El Museo del Prado inaugura una exposición dedicada al poeta Rainer Maria Rilke, explorando su fascinación por el arte y la cultura española durante sus viajes en 1912 y 1913. La muestra coincide con el centenario de su fallecimiento.",
+  "en": {
+   "titulo": "Exhibition on Rilke at the Prado Museum",
+   "resumen": "The Prado Museum opens an exhibition dedicated to the poet Rainer Maria Rilke, exploring his fascination with Spanish art and culture during his travels in 1912 and 1913. The exhibition coincides with the centenary of his death."
+  },
+  "inicio": "2026-11-23",
+  "fin": "2026-11-23",
+  "hora": null,
+  "lugar": "Museo del Prado",
+  "municipio": "Madrid",
+  "provincia": "Madrid",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "libros",
+   "museos"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "a472e8ffad": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/23/bola-negra-pelicula-mas-taquillera-ano-espana-millones-recaudados-cine-2071001.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-23",
+  "es_plan": false
+ },
+ "c9a917427a": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/23/exitosa-pelicula-documental-con-tierra-los-pies-llega-pantalla-olimpia-huesca-2071054.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-23",
+  "es_plan": true,
+  "titulo": "Proyección del documental 'Con la tierra en los pies' en Huesca",
+  "resumen": "El documental aragonés 'Con la tierra en los pies' se proyectará el jueves 26 de noviembre en el Teatro Olimpia de Huesca, seguido de un coloquio con el productor y la directora del Festival Espiello.",
+  "en": {
+   "titulo": "Screening of the documentary 'Con la tierra en los pies' in Huesca",
+   "resumen": "The Aragonese documentary 'Con la tierra en los pies' will be screened on Thursday, November 26th, at the Olimpia Theater in Huesca, followed by a Q&A with the producer and the director of the Espiello Festival."
+  },
+  "inicio": "2026-11-26",
+  "fin": "2026-11-26",
+  "hora": "20:00",
+  "lugar": "Teatro Olimpia",
+  "municipio": "Huesca",
+  "provincia": "Huesca",
+  "ambito": "local",
+  "gratis": false,
+  "precio": "6 euros",
+  "temas": [
+   "cultura",
+   "libros",
+   "actividades"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "6036ac18af": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/23/pedro-almodovar-no-rechazaria-nicole-kidman-aparte-ser-buena-actriz-operado-resulta-esta-mejor-nunca-2069996.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-23",
+  "es_plan": false
+ },
+ "40c7535fa9": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/23/artista-promotor-musical-bilbilitano-sanxis-debuta-como-miembro-votante-los-latin-grammy-2026-2071008.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-23",
+  "es_plan": false
+ },
+ "b430a0cd0d": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/23/isabel-preysler-76anos-desayuno-agua-caliente-lima-semillas-lino-acabo-vaso-agua-jamaica-2069461.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-23",
+  "es_plan": false
+ },
+ "05e0568f56": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/23/muere-gabriel-felix-modelo-influencer-jugando-futbol-nunca-pense-escribir-esto-dificil-palabras-2070990.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-23",
+  "es_plan": false
+ },
+ "304ef34cce": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/23/hora-salen-venta-entradas-concierto-alejandro-sanz-zaragoza-2070977.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-23",
+  "es_plan": true,
+  "titulo": "Entradas para el concierto de Alejandro Sanz en Zaragoza salen a la venta",
+  "resumen": "Las entradas para el concierto de Alejandro Sanz en Zaragoza, que tendrá lugar el 26 de junio de 2027, estarán disponibles a partir del martes 24 de noviembre a las 10:00.",
+  "en": {
+   "titulo": "Tickets for Alejandro Sanz's concert in Zaragoza go on sale",
+   "resumen": "Tickets for Alejandro Sanz's concert in Zaragoza, scheduled for June 26, 2027, will be available starting Tuesday, November 24th, at 10:00 AM."
+  },
+  "inicio": "2027-06-26",
+  "fin": "2027-06-26",
+  "hora": null,
+  "lugar": "Ibercaja Estadio",
+  "municipio": "Zaragoza",
+  "provincia": "Zaragoza",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "musica"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "64e25a358a": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/23/victor-manuel-tengo-79anos-salgo-escenario-moto-nervios-muerto-2070963.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-23",
+  "es_plan": true,
+  "titulo": "Últimos conciertos de Víctor Manuel en 2026",
+  "resumen": "Víctor Manuel continúa con su gira 'Solo a solas conmigo' y ofrecerá sus últimos conciertos del año el 29 de noviembre en Madrid y en diciembre en La Coruña, Almería y Albacete.",
+  "en": {
+   "titulo": "Víctor Manuel's final concerts of 2026",
+   "resumen": "Víctor Manuel continues his 'Solo a solas conmigo' tour, with his final concerts of the year on November 29th in Madrid and in December in La Coruña, Almería, and Albacete."
+  },
+  "inicio": "2026-11-29",
+  "fin": "2026-12-31",
+  "hora": null,
+  "lugar": "Movistar Arena",
+  "municipio": "Madrid",
+  "provincia": "Madrid",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "94c3ad6b11": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/23/kaseo-blasfemaba-mananas-voces-mias-fuera-realidad-insoportable-2070951.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-23",
+  "es_plan": true,
+  "titulo": "Gira de Kase.O para presentar 'Camisa de fuerza'",
+  "resumen": "El rapero Kase.O iniciará en enero una gira por España y América para presentar su nuevo disco 'Camisa de fuerza', explorando temas personales y su lucha contra la depresión.",
+  "en": {
+   "titulo": "Kase.O's tour to present 'Camisa de fuerza'",
+   "resumen": "Rapper Kase.O will begin a tour of Spain and America in January to present his new album 'Camisa de fuerza', exploring personal themes and his battle with depression."
+  },
+  "inicio": "2027-01-01",
+  "fin": "2027-01-01",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "75b5ba6002": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/23/miguel-rios-82anos-ganan-derechas-pp-vox-elecciones-espera-censura-retroceder-tiempo-oscuro-2070952.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-23",
+  "es_plan": true,
+  "titulo": "Miguel Ríos concluye su gira 'El último vals'",
+  "resumen": "Miguel Ríos finalizará su gira 'El último vals' el próximo 8 de diciembre en el Movistar Arena de Madrid, expresando su preocupación por un posible retroceso a tiempos oscuros si gana la derecha.",
+  "en": {
+   "titulo": "Miguel Ríos concludes his 'El último vals' tour",
+   "resumen": "Miguel Ríos will conclude his 'El último vals' tour on December 8th at the Movistar Arena in Madrid, expressing concern about a potential regression to dark times if the right wins."
+  },
+  "inicio": "2026-12-08",
+  "fin": "2026-12-08",
+  "hora": null,
+  "lugar": "Movistar Arena",
+  "municipio": "Madrid",
+  "provincia": "Madrid",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "5567497211": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/23/andres-roca-rey-cumplir-30anos-tengo-ganas-terminarlo-bien-poder-sentir-2070956.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-23",
+  "es_plan": false
+ },
+ "ff781397d8": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/23/gran-wyoming-propietario-19-viviendas-si-suben-impuestos-patrimonio-perjudican-aunque-pueda-estar-deacuerdo-2065127.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-23",
+  "es_plan": false
+ },
+ "108f8c5b06": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/23/david-bisbal-desayuno-huevos-rancheros-arepas-pieza-fruta-zumo-buen-cafe-comenzar-manana-2070353.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-23",
+  "es_plan": false
+ },
+ "1f29efbb8b": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/23/delacueva-musica-hay-que-pelear-disfrutar-cada-etapa-2070903.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-23",
+  "es_plan": true,
+  "titulo": "Delacueva presenta su disco 'No me llames artista' en Zaragoza",
+  "resumen": "El proyecto musical Delacueva, liderado por Manuel de la Cueva, presentará su disco 'No me llames artista' en directo en la sala López de Zaragoza el 19 de diciembre.",
+  "en": {
+   "titulo": "Delacueva presents his album 'No me llames artista' in Zaragoza",
+   "resumen": "The musical project Delacueva, led by Manuel de la Cueva, will present his album 'No me llames artista' live at the López venue in Zaragoza on December 19th."
+  },
+  "inicio": "2026-12-19",
+  "fin": "2026-12-19",
+  "hora": null,
+  "lugar": "Sala López",
+  "municipio": "Zaragoza",
+  "provincia": "Zaragoza",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "e7282dd102": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/23/miguele-magia-es-un-lenguaje-una-herramienta-comunicacion-2070901.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-23",
+  "es_plan": true,
+  "titulo": "Estreno de 'Penumbra' de Miguelé en Madrid",
+  "resumen": "El ilusionista Miguelé estrena su nuevo espectáculo de magia, 'Penumbra', en el Pequeño Teatro Gran Vía de Madrid. El mago, con discapacidad visual, presentará su innovadora propuesta.",
+  "en": {
+   "titulo": "Miguelé Premieres 'Penumbra' Show in Madrid",
+   "resumen": "Illusionist Miguelé premieres his new magic show, 'Penumbra', at the Pequeño Teatro Gran Vía in Madrid. The magician, who has a visual impairment, will present his innovative act."
+  },
+  "inicio": "2026-11-26",
+  "fin": "2026-11-26",
+  "hora": null,
+  "lugar": "Pequeño Teatro Gran Vía",
+  "municipio": "Madrid",
+  "provincia": "Madrid",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "cdf2c5457e": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/23/suena-muy-loco-pudo-venir-u2-expo-zaragoza-2070898.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-23",
+  "es_plan": false
+ },
+ "eb4d9a73ac": {
+  "url": "https://www.elnortedecastilla.es/culturas/musica/anticipo-romanticismo-20261123120040-nt.html",
+  "fuente": "El Norte de Castilla (Culturas)",
+  "src": "prensa-nortecastilla-culturas",
+  "publicado": "2026-11-23",
+  "es_plan": true,
+  "titulo": "Concierto: Fischer dirige a la OSCyL con Mendelssohn y Schumann",
+  "resumen": "La Orquesta Sinfónica de Castilla y León (OSCyL), dirigida por Fischer, ofrecerá un concierto centrado en las primeras sinfonías de Mendelssohn y Schumann.",
+  "en": {
+   "titulo": "Concert: Fischer Conducts OSCyL with Mendelssohn and Schumann",
+   "resumen": "The Castilla y León Symphony Orchestra (OSCyL), conducted by Fischer, will perform a concert focusing on the early symphonies of Mendelssohn and Schumann."
+  },
+  "inicio": "2026-11-26",
+  "fin": "2026-11-26",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": "Castilla y León",
+  "ambito": "nacional",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.7
+ },
+ "47ae5bf7fa": {
+  "url": "https://www.elnortedecastilla.es/culturas/musica/cobham-cucurucho-valdes-lecciones-virtuosismo-festival-jazz-20261123114142-nt.html",
+  "fuente": "El Norte de Castilla (Culturas)",
+  "src": "prensa-nortecastilla-culturas",
+  "publicado": "2026-11-23",
+  "es_plan": false
+ },
+ "712f9a424e": {
+  "url": "https://www.diariosur.es/culturas/toys-rock-musica-juguetes-malaga-20261123170411-nt.html",
+  "fuente": "Diario Sur (Culturas)",
+  "src": "prensa-diariosur-culturas",
+  "publicado": "2026-11-23",
+  "es_plan": true,
+  "titulo": "Festival solidario Toys & Rock en Málaga",
+  "resumen": "La sala Trinchera de Málaga acoge el festival solidario 'Toys & Rock' el próximo 4 de diciembre, donde se recogerán juguetes para niños hospitalizados.",
+  "en": {
+   "titulo": "Toys & Rock Charity Festival in Málaga",
+   "resumen": "The Trinchera venue in Málaga will host the 'Toys & Rock' charity festival on December 4th, collecting toys for hospitalized children."
+  },
+  "inicio": "2026-12-04",
+  "fin": "2026-12-04",
+  "hora": null,
+  "lugar": "Sala Trinchera",
+  "municipio": "Málaga",
+  "provincia": "Málaga",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "musica",
+   "ninos",
+   "fiestas"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "b0ecc54f74": {
+  "url": "https://www.diariosur.es/culturas/musica/encuentro-martirio-suena-sur-entrevista-canciones-piano-malaga-20261023132225-nt.html",
+  "fuente": "Diario Sur (Culturas)",
+  "src": "prensa-diariosur-culturas",
+  "publicado": "2026-11-23",
+  "es_plan": true,
+  "titulo": "Martirio: entrevista y acústico en Málaga el 13 de enero",
+  "resumen": "La cantante Martirio ofrecerá una entrevista y un concierto acústico el 13 de enero en la Sala Fundación Unicaja María Cristina de Málaga, con entrada libre.",
+  "en": {
+   "titulo": "Martirio: Interview and Acoustic Set in Málaga on January 13th",
+   "resumen": "Singer Martirio will give an interview and an acoustic concert on January 13th at the Sala Fundación Unicaja María Cristina in Málaga, with free admission."
+  },
+  "inicio": "2027-01-13",
+  "fin": "2027-01-13",
+  "hora": null,
+  "lugar": "Sala Fundación Unicaja María Cristina",
+  "municipio": "Málaga",
+  "provincia": "Málaga",
+  "ambito": "local",
+  "gratis": true,
+  "precio": "entrada libre hasta completar aforo",
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "f5fcd01ceb": {
+  "url": "https://www.ideal.es/culturas/jaen/uja-estrena-nivel-nacional-auto-navideno-pastores-20261123171141-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-11-23",
+  "es_plan": true,
+  "titulo": "Estreno de 'Los pastores de Belén' en la Catedral de Jaén",
+  "resumen": "La obra navideña 'Los pastores de Belén', de tradición oral de Nuevo México, se estrena a nivel nacional en la Catedral de Jaén el 24 de noviembre, representada por In Vitro Teatro.",
+  "en": {
+   "titulo": "Premiere of 'Los pastores de Belén' in Jaén Cathedral",
+   "resumen": "The Christmas play 'Los pastores de Belén', from New Mexican oral tradition, premieres nationally in Jaén Cathedral on November 24th, performed by In Vitro Teatro."
+  },
+  "inicio": "2026-11-24",
+  "fin": "2026-11-24",
+  "hora": null,
+  "lugar": "Catedral de Jaén",
+  "municipio": "Jaén",
+  "provincia": "Jaén",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "fiestas",
+   "navidad"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "3124277bf3": {
+  "url": "https://www.ideal.es/culturas/jaen/noche-luz-concierto-navideno-chico-perez-catedral-20261123160211-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-11-23",
+  "es_plan": true,
+  "titulo": "Concierto navideño 'Noche de luz' en Jaén",
+  "resumen": "Chico Pérez ofrecerá el concierto navideño 'Noche de luz' el 22 de diciembre en la Catedral de Jaén, a beneficio de Cáritas.",
+  "en": {
+   "titulo": "'Noche de luz' Christmas Concert in Jaén",
+   "resumen": "Chico Pérez will perform the Christmas concert 'Noche de luz' on December 22nd in Jaén Cathedral, to benefit Cáritas."
+  },
+  "inicio": "2026-12-22",
+  "fin": "2026-12-22",
+  "hora": null,
+  "lugar": "Catedral de Jaén",
+  "municipio": "Jaén",
+  "provincia": "Jaén",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "musica",
+   "fiestas",
+   "navidad"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "be4eab58de": {
+  "url": "https://www.ideal.es/culturas/almeria/almeria-licita-116161-euros-sondeos-arqueologicos-previos-20261123155205-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-11-23",
+  "es_plan": false
+ },
+ "a6b9fb93c5": {
+  "url": "https://www.ideal.es/culturas/almeria/celia-pirez-david-galera-clausuran-iii-ciclo-20261123154912-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-11-23",
+  "es_plan": true,
+  "titulo": "Celia Pírez y David Galera en el Ciclo 'ImproVables' en Almería",
+  "resumen": "La bailarina Celia Pírez y el trompetista David Galera clausurarán el III Ciclo 'ImproVables' en Almería con una improvisación de danza, performance y música en vivo.",
+  "en": {
+   "titulo": "Celia Pírez and David Galera at 'ImproVables' Cycle in Almería",
+   "resumen": "Dancer Celia Pírez and trumpeter David Galera will close the III 'ImproVables' Cycle in Almería with an improvisation of dance, performance, and live music."
+  },
+  "inicio": "2026-11-26",
+  "fin": "2026-11-26",
+  "hora": null,
+  "lugar": "Centro Fundación Unicaja Almería",
+  "municipio": "Almería",
+  "provincia": "Almería",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "musica",
+   "actividades"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "5b18a73ab0": {
+  "url": "https://www.ideal.es/culturas/almeria/museo-almeria-conmemora-santa-cecilia-tres-sesiones-20261123154339-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-11-23",
+  "es_plan": true,
+  "titulo": "Conciertos del Conservatorio Julián Arcas en el Museo de Almería",
+  "resumen": "El Museo de Almería celebra Santa Cecilia con tres sesiones musicales de alumnos del Conservatorio Julián Arcas, ofreciendo repertorio de viento-madera.",
+  "en": {
+   "titulo": "Julián Arcas Conservatory Concerts at Almería Museum",
+   "resumen": "The Almería Museum celebrates Saint Cecilia with three musical sessions by students from the Julián Arcas Conservatory, featuring woodwind repertoire."
+  },
+  "inicio": "2026-11-24",
+  "fin": "2026-11-24",
+  "hora": null,
+  "lugar": "Museo de Almería",
+  "municipio": "Almería",
+  "provincia": "Almería",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "1373380eba": {
+  "url": "https://www.ideal.es/culturas/musica-colores-semana-black-granada-20261123121440-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-11-23",
+  "es_plan": true,
+  "titulo": "Conciertos recomendados en Granada esta semana",
+  "resumen": "Se presentan recomendaciones de conciertos para disfrutar durante la 'semana más black' en Granada, ofreciendo una variedad de eventos musicales.",
+  "en": {
+   "titulo": "Recommended Concerts in Granada This Week",
+   "resumen": "Concert recommendations are presented for enjoyment during the 'blackest week' in Granada, offering a variety of musical events."
+  },
+  "inicio": "2026-11-23",
+  "fin": "2026-11-29",
+  "hora": null,
+  "lugar": null,
+  "municipio": "Granada",
+  "provincia": "Granada",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.7
+ },
+ "6974c0b249": {
+  "url": "https://www.ideal.es/culturas/almeria/pablo-lopez-protagoniza-nueva-cita-encuentros-fotografia-20261123114643-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-11-23",
+  "es_plan": true,
+  "titulo": "Pablo López en 'Encuentros con la fotografía' en Almería",
+  "resumen": "Pablo López participará en una charla en línea el 17 de diciembre dentro de los 'Encuentros con la fotografía' en Almería, abordando la relación entre paisaje e historia.",
+  "en": {
+   "titulo": "Pablo López in 'Encounters with Photography' in Almería",
+   "resumen": "Pablo López will participate in an online talk on December 17th as part of the 'Encounters with Photography' event in Almería, discussing the relationship between landscape and history."
+  },
+  "inicio": "2026-12-17",
+  "fin": "2026-12-17",
+  "hora": null,
+  "lugar": null,
+  "municipio": "Almería",
+  "provincia": "Almería",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "e3c8c39008": {
+  "url": "https://www.elcorreo.com/culturas/musica/mfc-chicken-barrence-whitfield-convierten-gallinero-blues-20261123014809-nt.html",
+  "fuente": "El Correo (Culturas)",
+  "src": "prensa-elcorreo-culturas",
+  "publicado": "2026-11-23",
+  "es_plan": true,
+  "titulo": "MFC Chicken & Barrence Whitfield en el Blues Hotsak en Soraluze",
+  "resumen": "MFC Chicken & Barrence Whitfield cerraron el 8º Blues Hotsak en Soraluze y actuarán el martes en Santander, dentro de su gira.",
+  "en": {
+   "titulo": "MFC Chicken & Barrence Whitfield at Blues Hotsak in Soraluze",
+   "resumen": "MFC Chicken & Barrence Whitfield closed the 8th Blues Hotsak festival in Soraluze and will perform on Tuesday in Santander as part of their tour."
+  },
+  "inicio": "2026-11-25",
+  "fin": "2026-11-25",
+  "hora": null,
+  "lugar": null,
+  "municipio": "Soraluze",
+  "provincia": "Gipuzkoa",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "a6b2a0f30f": {
+  "url": "https://www.diariovasco.com/culturas/musica/bbk-live-suma-artistas-vetusta-morla-sanguijuelas-lykkeli-20261123112241-nt.html",
+  "fuente": "El Diario Vasco (Culturas)",
+  "src": "prensa-diariovasco-culturas",
+  "publicado": "2026-11-23",
+  "es_plan": true,
+  "titulo": "BBK Live 2021: Vetusta Morla, Lykke Li y más",
+  "resumen": "El festival BBK Live anuncia nuevas confirmaciones para su edición de 2021, incluyendo a Vetusta Morla, Sanguijuelas del Guadiana y Lykke Li, que se celebrará los días 8, 9 y 10 de julio.",
+  "en": {
+   "titulo": "BBK Live 2021: Vetusta Morla, Lykke Li, and More",
+   "resumen": "The BBK Live festival announces new confirmations for its 2021 edition, including Vetusta Morla, Sanguijuelas del Guadiana, and Lykke Li, taking place on July 8th, 9th, and 10th."
+  },
+  "inicio": "2027-07-08",
+  "fin": "2027-07-10",
+  "hora": null,
+  "lugar": "Cobetas",
+  "municipio": "Barakaldo",
+  "provincia": "Bizkaia",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "musica",
+   "fiestas"
+  ],
+  "a_cubierto": false,
+  "confianza": 0.85
+ },
+ "dd910c71a8": {
+  "url": "https://www.lasprovincias.es/culturas/tv/thriller-espanol-sobre-extrana-desaparicion-solo-cuatro-20261109003518-nt.html",
+  "fuente": "Las Provincias (Culturas)",
+  "src": "prensa-lasprovincias-culturas",
+  "publicado": "2026-11-23",
+  "es_plan": false
+ },
+ "a01a7acaef": {
+  "url": "https://www.lasprovincias.es/culturas/tv/movistar-plus-pone-fecha-estreno-querido-pelicula-20261117003447-nt.html",
+  "fuente": "Las Provincias (Culturas)",
+  "src": "prensa-lasprovincias-culturas",
+  "publicado": "2026-11-23",
+  "es_plan": false
+ },
+ "864d14f841": {
+  "url": "https://www.laverdad.es/culturas/sorpresa-batel-20261123130137-nt.html",
+  "fuente": "La Verdad (Culturas)",
+  "src": "prensa-laverdad-culturas",
+  "publicado": "2026-11-23",
+  "es_plan": false
+ },
+ "0029afb2bb": {
+  "url": "https://www.eldiariomontanes.es/culturas/cafe-artes-abre-investigacion-escenica-sobre-formas-20261123072045-nt.html",
+  "fuente": "El Diario Montañés (Culturas)",
+  "src": "prensa-diariomontanes-culturas",
+  "publicado": "2026-11-23",
+  "es_plan": true,
+  "titulo": "Muestra escénica en el Café de las Artes",
+  "resumen": "El Café de las Artes acoge el jueves 26 una Muestra del Laboratorio Umbral, que investiga las formas de percibir y crear, en su segunda fase dirigida por Pati Domenech.",
+  "en": {
+   "titulo": "Stage showcase at Café de las Artes",
+   "resumen": "On Thursday the 26th, Café de las Artes will host a Showcase from the Umbral Laboratory, which investigates ways of perceiving and creating, in its second phase directed by Pati Domenech."
+  },
+  "inicio": "2026-11-26",
+  "fin": "2026-11-26",
+  "hora": null,
+  "lugar": "Café de las Artes",
+  "municipio": null,
+  "provincia": "Cantabria",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "999e4220c7": {
+  "url": "https://www.larioja.com/culturas/regresa-breton-flauta-magica-ciencia-ficcion-20261123140929-nt.html",
+  "fuente": "La Rioja (Culturas)",
+  "src": "prensa-larioja-culturas",
+  "publicado": "2026-11-23",
+  "es_plan": false
+ },
+ "c00d6f7e3d": {
+  "url": "https://www.larioja.com/culturas/fallece-musico-aragones-luis-fatas-vinculado-cultura-20261123101548-nt.html",
+  "fuente": "La Rioja (Culturas)",
+  "src": "prensa-larioja-culturas",
+  "publicado": "2026-11-23",
+  "es_plan": false
+ },
+ "53c9588f2c": {
+  "url": "https://www.larioja.com/culturas/suite-dianas-rafa-perez-jarrero-exposicion-logrono-20261123153231-nt.html",
+  "fuente": "La Rioja (Culturas)",
+  "src": "prensa-larioja-culturas",
+  "publicado": "2026-11-23",
+  "es_plan": false
+ },
+ "756079ea81": {
+  "url": "https://elpais.com/cultura/2026-11-22/big-bang-de-artes-escenicas-en-girona-teatro-de-objetos-sangre-y-el-beso-bailado-mas-iconico.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-11-22",
+  "es_plan": false
+ },
+ "5af051ce6d": {
+  "url": "https://elpais.com/cultura/2026-11-22/almudena-grandes-vuelve-a-reunir-a-los-suyos-cinco-anos-despues-de-su-muerte.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-11-22",
+  "es_plan": false
+ },
+ "89e7af804d": {
+  "url": "https://www.ara.cat/media/mundo-no-existeix-pel-licula-mundo_129_5919507.html",
+  "fuente": "Ara (Cultura)",
+  "src": "prensa-ara-cultura",
+  "publicado": "2026-11-22",
+  "es_plan": false
+ },
+ "173d10258e": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/22/muere-musico-luis-fatas-fundador-grupo-chicoten-2070896.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-22",
+  "es_plan": false
+ },
+ "df81f609b7": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/22/raphael-suspende-concierto-indisposicion-regresa-madrid-alta-medica-2070884.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-22",
+  "es_plan": false
+ },
+ "e513466696": {
+  "url": "https://www.elnortedecastilla.es/culturas/mejor-escenario-opera-20261122180209-ntrc.html",
+  "fuente": "El Norte de Castilla (Culturas)",
+  "src": "prensa-nortecastilla-culturas",
+  "publicado": "2026-11-22",
+  "es_plan": false
+ },
+ "7e2dfc0a70": {
+  "url": "https://www.diariosur.es/culturas/america-decadente-llega-malaga-20261119215027-nt.html",
+  "fuente": "Diario Sur (Culturas)",
+  "src": "prensa-diariosur-culturas",
+  "publicado": "2026-11-22",
+  "es_plan": false
+ },
+ "7c16f4e5c1": {
+  "url": "https://www.ideal.es/culturas/emilio-lacarcel-vilchez-musica-solidaridad-concierto-ocg-20261122173818-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-11-22",
+  "es_plan": false
  }
 }

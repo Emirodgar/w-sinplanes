@@ -114,6 +114,22 @@
   ],
   "a_cubierto": null
  },
+ "2324091575": {
+  "id": "57d3583dd3",
+  "es": {
+   "titulo": "Proyección y tertulia \"Libres de acoso\" en Donostia",
+   "resumen": "Proyección del documental \"Libres de acoso\" de Félix Zurita, seguida de una tertulia dinamizada por Nerea Redondo. Un espacio para la reflexión sobre el acoso."
+  },
+  "en": {
+   "titulo": "Screening and Discussion \"Libres de acoso\" in Donostia",
+   "resumen": "Screening of Félix Zurita's documentary \"Libres de acoso\" (Free from Harassment), followed by a discussion facilitated by Nerea Redondo. A space for reflection on harassment."
+  },
+  "temas": [
+   "pantalla",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
  "2448882050": {
   "id": "8ce43acc22",
   "es": {
@@ -51383,6 +51399,1188 @@
    "ninos",
    "cultura",
    "deporte"
+  ],
+  "a_cubierto": true
+ },
+ "c0caf9ea59": {
+  "id": "332da8b438",
+  "es": {
+   "titulo": "Proyección de \"Sacamantecas\" en Zumarraga",
+   "resumen": "Película ambientada en Álava en el siglo XIX, durante la III Guerra Carlista. Sigue la investigación de una serie de asesinatos de mujeres en Vitoria y la lucha por encontrar al culpable en un contexto de guerra y ocultación."
+  },
+  "en": {
+   "titulo": "Screening of \"Sacamantecas\" in Zumarraga",
+   "resumen": "A film set in 19th-century Álava during the Third Carlist War. It follows the investigation into a series of women's murders in Vitoria and the struggle to find the culprit amidst war and cover-ups."
+  },
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": true
+ },
+ "e34c417260": {
+  "id": "b54962a05c",
+  "es": {
+   "titulo": "Concurso de cortos \"Punterengo\" en Abadiño",
+   "resumen": "Abadiño acoge el concurso de cortometrajes \"Punterengo\" del 22 al 23 de noviembre. Un evento para los amantes del cine en formato breve."
+  },
+  "en": {
+   "titulo": "\"Punterengo\" Short Film Contest in Abadiño",
+   "resumen": "Abadiño hosts the \"Punterengo\" short film contest from November 22nd to 23rd. An event for lovers of short-format cinema."
+  },
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": true
+ },
+ "e1b565f537": {
+  "id": "2633ce82f4",
+  "es": {
+   "titulo": "Presentación del libro \"Etxe bat norberarena\" en Ordizia",
+   "resumen": "Yolanda Arrieta presenta su ensayo poético \"Etxe bat norberarena\" en Ordizia. Un libro que reivindica un espacio propio a través de la palabra, uniendo poesía y pensamiento."
+  },
+  "en": {
+   "titulo": "Book presentation: \"Etxe bat norberarena\" in Ordizia",
+   "resumen": "Yolanda Arrieta presents her poetic essay \"Etxe bat norberarena\" in Ordizia. A book that claims a personal space through words, blending poetry and thought."
+  },
+  "temas": [
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": true
+ },
+ "c86ed80e54": {
+  "id": "bcc9133803",
+  "es": {
+   "titulo": "Literaktum 2026: Charla sobre \"Un metro cuadrado\" en Donostia",
+   "resumen": "La escritora Llucia Ramis conversa con Juan G. Andrés en Donostia sobre su libro \"Un metro cuadrado\". Una reflexión sobre la precariedad y la búsqueda de hogar en la ciudad."
+  },
+  "en": {
+   "titulo": "Literaktum 2026: Talk on \"Un metro cuadrado\" in Donostia",
+   "resumen": "Author Llucia Ramis discusses her book \"Un metro cuadrado\" with Juan G. Andrés in Donostia. A reflection on precariousness and the search for home in the city."
+  },
+  "temas": [
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": true
+ },
+ "43bfafec21": {
+  "id": "3fd619475b",
+  "es": {
+   "titulo": "Festival de cine Zinegin 2026 en Hasparren",
+   "resumen": "Hasparren celebra la 14ª edición del festival de cine Zinegin del 18 al 23 de noviembre. Un encuentro para disfrutar del séptimo arte."
+  },
+  "en": {
+   "titulo": "Zinegin Film Festival 2026 in Hasparren",
+   "resumen": "Hasparren hosts the 14th edition of the Zinegin film festival from November 18th to 23rd. A gathering to enjoy the seventh art."
+  },
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": true
+ },
+ "6b5680ae5d": {
+  "id": "8dbb80a74c",
+  "es": {
+   "titulo": "Cine fórum \"Sustraiak\" en Altsasu/Alsasua",
+   "resumen": "Proyección del documental \"Sustraiak\" en Altsasu/Alsasua. Sigue la historia de tres jóvenes migrantes que encuentran en la escalada y la montaña un refugio y libertad."
+  },
+  "en": {
+   "titulo": "Film forum \"Sustraiak\" in Altsasu/Alsasua",
+   "resumen": "Screening of the documentary \"Sustraiak\" in Altsasu/Alsasua. It follows the story of three young migrants who find refuge and freedom in climbing and the mountains."
+  },
+  "temas": [
+   "cultura",
+   "pantalla",
+   "naturaleza"
+  ],
+  "a_cubierto": true
+ },
+ "d14c71dc09": {
+  "id": "81d6d46356",
+  "es": {
+   "titulo": "Proyección de \"Sacamantecas\" en Elorrio",
+   "resumen": "Película ambientada en Álava en el siglo XIX, durante la III Guerra Carlista. Sigue la investigación de una serie de asesinatos de mujeres en Vitoria y la lucha por encontrar al culpable en un contexto de guerra y ocultación."
+  },
+  "en": {
+   "titulo": "Screening of \"Sacamantecas\" in Elorrio",
+   "resumen": "A film set in 19th-century Álava during the Third Carlist War. It follows the investigation into a series of women's murders in Vitoria and the struggle to find the culprit amidst war and cover-ups."
+  },
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": true
+ },
+ "5e2b9bef07": {
+  "id": "100f7fa92d",
+  "es": {
+   "titulo": "Presentación libro \"Auzolanaren lurretan: EHZ 30 urtez\" en Pamplona",
+   "resumen": "Presentación del libro \"Auzolanaren lurretan: EHZ 30 urtez\" en Pamplona, que narra los 30 años de historia del festival Euskal Herria Zuzenean. Un repaso a su trayectoria y organización."
+  },
+  "en": {
+   "titulo": "Book presentation \"Auzolanaren lurretan: EHZ 30 urtez\" in Pamplona",
+   "resumen": "Presentation of the book \"Auzolanaren lurretan: EHZ 30 urtez\" in Pamplona, recounting the 30-year history of the Euskal Herria Zuzenean festival. A review of its journey and organization."
+  },
+  "temas": [
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": true
+ },
+ "b466b14e78": {
+  "id": "f46c05a3be",
+  "es": {
+   "titulo": "Sesión de cuentacuentos en Haziaraba 2026 (Iruña de Oca)",
+   "resumen": "Dentro del Festival Rural de Estimulación Artística Temprana Haziaraba 2026, se celebra una sesión de cuentacuentos en Iruña de Oca para los más pequeños."
+  },
+  "en": {
+   "titulo": "Storytelling session at Haziaraba 2026 (Iruña de Oca)",
+   "resumen": "As part of the Haziaraba 2026 Rural Festival for Early Artistic Stimulation, a storytelling session for young children is held in Iruña de Oca."
+  },
+  "temas": [
+   "ninos",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "067facd5eb": {
+  "id": "ce5ee76d1a",
+  "es": {
+   "titulo": "Cuentacuentos \"Letrekin Dantzan\" en Errenteria",
+   "resumen": "Actividad en Errenteria que combina cuentos infantiles, música y danza para estimular la lectura y la emoción en niños a partir de 3 años. Se realiza en euskera."
+  },
+  "en": {
+   "titulo": "Storytelling \"Letrekin Dantzan\" in Errenteria",
+   "resumen": "An activity in Errenteria that combines children's stories, music, and dance to stimulate reading and emotion in children aged 3 and up. Conducted in Basque."
+  },
+  "temas": [
+   "ninos",
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "fc86f84aee": {
+  "id": "f6e79d06e3",
+  "es": {
+   "titulo": "Festival de Títeres Sestao 2026: \"Tretatxu\"",
+   "resumen": "El Festival Internacional de Títeres de Sestao presenta \"Tretatxu\", la historia de un niño travieso que se convierte en bandolero. Un espectáculo de títeres para mayores de 6 años."
+  },
+  "en": {
+   "titulo": "Sestao Puppet Festival 2026: \"Tretatxu\"",
+   "resumen": "The Sestao International Puppet Festival presents \"Tretatxu\", the story of a mischievous boy who becomes a bandit. A puppet show for ages 6 and up."
+  },
+  "temas": [
+   "ninos",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "3f13899175": {
+  "id": "dc68d80134",
+  "es": {
+   "titulo": "Cuentacuentos con Ines Bengoa en Usurbil",
+   "resumen": "Sesión de cuentacuentos a cargo de Ines Bengoa en la Biblioteca de Usurbil. Una actividad para disfrutar de historias narradas."
+  },
+  "en": {
+   "titulo": "Storytelling with Ines Bengoa in Usurbil",
+   "resumen": "A storytelling session by Ines Bengoa at the Usurbil Library. An activity to enjoy narrated stories."
+  },
+  "temas": [
+   "ninos",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "516c075b27": {
+  "id": "358ee6a9e8",
+  "es": {
+   "titulo": "Proyección de \"Sacamantecas\" en Galdakao",
+   "resumen": "Película ambientada en Álava en el siglo XIX, durante la III Guerra Carlista. Sigue la investigación de una serie de asesinatos de mujeres en Vitoria y la lucha por encontrar al culpable en un contexto de guerra y ocultación."
+  },
+  "en": {
+   "titulo": "Screening of \"Sacamantecas\" in Galdakao",
+   "resumen": "A film set in 19th-century Álava during the Third Carlist War. It follows the investigation into a series of women's murders in Vitoria and the struggle to find the culprit amidst war and cover-ups."
+  },
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": true
+ },
+ "d558cfe861": {
+  "id": "081bb360c0",
+  "es": {
+   "titulo": "Zinegin 2026: Proyección de \"Maspalomas\" en Hasparren",
+   "resumen": "Dentro del festival Zinegin 2026, se proyecta \"Maspalomas\". Un drama sobre un hombre mayor que, tras un accidente, debe reencontrarse con su hija y consigo mismo."
+  },
+  "en": {
+   "titulo": "Zinegin 2026: Screening of \"Maspalomas\" in Hasparren",
+   "resumen": "As part of the Zinegin 2026 festival, \"Maspalomas\" is screened. A drama about an elderly man who, after an accident, must reconnect with his daughter and himself."
+  },
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": true
+ },
+ "e032f2668e": {
+  "id": "0f29fc966e",
+  "es": {
+   "titulo": "Presentación libro \"Semilla de libertad\" en Legazpi",
+   "resumen": "David Martinez Lasa presenta en Legazpi su novela \"Semilla de libertad\", que narra los sucesos de Montejurra en su 50 aniversario. Una obra sobre memoria y resistencia."
+  },
+  "en": {
+   "titulo": "Book presentation \"Semilla de libertad\" in Legazpi",
+   "resumen": "David Martinez Lasa presents his novel \"Semilla de libertad\" in Legazpi, recounting the events of Montejurra on its 50th anniversary. A work about memory and resistance."
+  },
+  "temas": [
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": true
+ },
+ "bc9fa7e26e": {
+  "id": "28b37b89f4",
+  "es": {
+   "titulo": "Proyección cortometraje \"ay claridad\" en Donostia",
+   "resumen": "Proyección del cortometraje \"ay claridad\" en Donostia, que explora los debates entre Lorca, Dalí y Buñuel sobre el cristal, conectando ciencia y arte. Incluye coloquio."
+  },
+  "en": {
+   "titulo": "Screening of short film \"ay claridad\" in Donostia",
+   "resumen": "Screening of the short film \"ay claridad\" in Donostia, exploring debates between Lorca, Dalí, and Buñuel about glass, connecting science and art. Includes a Q&A."
+  },
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": true
+ },
+ "470e5b94f8": {
+  "id": "8fcfcfcebf",
+  "es": {
+   "titulo": "Proyección de \"Sacamantecas\" en Elorrio (Arriola)",
+   "resumen": "Película ambientada en Álava en el siglo XIX, durante la III Guerra Carlista. Sigue la investigación de una serie de asesinatos de mujeres en Vitoria y la lucha por encontrar al culpable en un contexto de guerra y ocultación."
+  },
+  "en": {
+   "titulo": "Screening of \"Sacamantecas\" in Elorrio (Arriola)",
+   "resumen": "A film set in 19th-century Álava during the Third Carlist War. It follows the investigation into a series of women's murders in Vitoria and the struggle to find the culprit amidst war and cover-ups."
+  },
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": true
+ },
+ "71de275fb5": {
+  "id": "45ab937880",
+  "es": {
+   "titulo": "Euskadiko Orkestra: \"Falla / Debussy / Stravinsky\" en Pamplona",
+   "resumen": "La Euskadiko Orkestra presenta en Pamplona el programa sinfónico 'Falla / Debussy / Stravinsky', explorando el modernismo musical de principios del siglo XX."
+  },
+  "en": {
+   "titulo": "Euskadiko Orkestra: \"Falla / Debussy / Stravinsky\" in Pamplona",
+   "resumen": "The Euskadiko Orkestra presents the symphonic program 'Falla / Debussy / Stravinsky' in Pamplona, exploring early 20th-century musical modernism."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "3e8eb257b4": {
+  "id": "f2d9f0fd45",
+  "es": {
+   "titulo": "Diálogos de cine: \"Cría cuervos\" en Bilbao",
+   "resumen": "Sesión de Zinemateka en Bilbao centrada en \"Cría cuervos\" (1976) de Carlos Saura, una mirada crítica a la España de la transición. Incluye debate."
+  },
+  "en": {
+   "titulo": "Film dialogues: \"Cría cuervos\" in Bilbao",
+   "resumen": "A Zinemateka session in Bilbao focusing on Carlos Saura's \"Cría cuervos\" (1976), a critical look at Spain during the transition period. Includes a discussion."
+  },
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": true
+ },
+ "9c61ebcbc3": {
+  "id": "0e8e50c863",
+  "es": {
+   "titulo": "Visita guiada \"J.M. Sert\" para mayores de 55 en Donostia",
+   "resumen": "Visita guiada en Donostia para mayores de 55 años a la exposición permanente, centrada en la historia del museo y las pinturas de Josep María Sert."
+  },
+  "en": {
+   "titulo": "Guided tour \"J.M. Sert\" for over 55s in Donostia",
+   "resumen": "A guided tour in Donostia for those over 55 to the permanent exhibition, focusing on the museum's history and the paintings of Josep María Sert."
+  },
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true
+ },
+ "77e04c3f30": {
+  "id": "4682a7a8ad",
+  "es": {
+   "titulo": "Club de lectura literaturas USA: \"Amarilla\" en Vitoria-Gasteiz",
+   "resumen": "Club de lectura en Vitoria-Gasteiz que aborda \"Amarilla\" de R.F. Kuang. Se enfoca en historias de colectivos minoritarios de Estados Unidos."
+  },
+  "en": {
+   "titulo": "US Literature Book Club: \"Yellowface\" in Vitoria-Gasteiz",
+   "resumen": "A book club in Vitoria-Gasteiz discussing R.F. Kuang's \"Yellowface\". It focuses on stories from minority groups in the United States."
+  },
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "b420a8e685": {
+  "id": "f433610b0f",
+  "es": {
+   "titulo": "Martes de Patrimonio 2026 en Vitoria-Gasteiz",
+   "resumen": "Ciclo de conferencias en Vitoria-Gasteiz sobre patrimonio cultural inmaterial, estudio y conservación. Profesionales compartirán sus conocimientos sobre el patrimonio de Álava."
+  },
+  "en": {
+   "titulo": "Heritage Tuesdays 2026 in Vitoria-Gasteiz",
+   "resumen": "A series of conferences in Vitoria-Gasteiz on intangible cultural heritage, study, and conservation. Professionals will share their knowledge on Álava's heritage."
+  },
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true
+ },
+ "c0a676de3d": {
+  "id": "3851dd8f93",
+  "es": {
+   "titulo": "Festival de Títeres Sestao 2026: \"Bidutzi\"",
+   "resumen": "El Festival Internacional de Títeres de Sestao presenta \"Bidutzi\", un espectáculo de humor en euskera para público infantil y familiar a partir de 3 años, que juega con los miedos."
+  },
+  "en": {
+   "titulo": "Sestao Puppet Festival 2026: \"Bidutzi\"",
+   "resumen": "The Sestao International Puppet Festival presents \"Bidutzi\", a humorous show in Basque for children and families aged 3 and up, which plays with fears."
+  },
+  "temas": [
+   "ninos",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "e5d4c8ca8a": {
+  "id": "bdb0a04fbe",
+  "es": {
+   "titulo": "Visita guiada \"Arte Siglo XV\" en Donostia (Museo San Telmo)",
+   "resumen": "Visita guiada en el Museo San Telmo de Donostia para mayores de 55 años a la colección histórica de arte desde el siglo XV. Se articula en itinerarios temáticos."
+  },
+  "en": {
+   "titulo": "Guided tour \"Art from the 15th Century\" in Donostia (San Telmo Museum)",
+   "resumen": "A guided tour at the San Telmo Museum in Donostia for those over 55 to the historical art collection from the 15th century. It is structured in thematic itineraries."
+  },
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true
+ },
+ "fd6b3c8ed8": {
+  "id": "6d097d660f",
+  "es": {
+   "titulo": "Teatro amateur \"Un matrimonio a lo loco\" en Portugalete",
+   "resumen": "Representación teatral amateur de \"Un matrimonio a lo loco\" por la Asociación Las Amigas de Repélega en el Centro Cultural Santa Clara de Portugalete."
+  },
+  "en": {
+   "titulo": "Amateur theatre \"Un matrimonio a lo loco\" in Portugalete",
+   "resumen": "Amateur theatre performance of \"Un matrimonio a lo loco\" by the Las Amigas de Repélega Association at the Santa Clara Cultural Center in Portugalete."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "649a6caa52": {
+  "id": "12a64a8ae6",
+  "es": {
+   "titulo": "Jornada sobre Alfabetización Mediática Avanzada en San Telmo Museoa",
+   "resumen": "Jornada con expertos vascos sobre alfabetización mediática avanzada. Se entregará el premio Begirada Kritikoa al ganador de este año. Más información e inscripciones en www.naiz.eus."
+  },
+  "en": {
+   "titulo": "Advanced Media Literacy Conference at San Telmo Museum",
+   "resumen": "Conference with Basque experts on advanced media literacy. The Begirada Kritikoa award will be presented to this year's winner. More information and registration at www.naiz.eus."
+  },
+  "temas": [
+   "cultura",
+   "libros",
+   "pantalla"
+  ],
+  "a_cubierto": true
+ },
+ "d9812dae10": {
+  "id": "16a41542b9",
+  "es": {
+   "titulo": "Ciclo de Cine \"¡En Peligro!\" en Mamariga Kulturgunea",
+   "resumen": "Ciclo de cine \"¡En Peligro!\" en la Biblioteca de Mamariga. Se proyectará la película \"HINDENBURG\". Consulta la guía y el cartel en formato PDF para más detalles."
+  },
+  "en": {
+   "titulo": "Film Cycle \"In Danger!\" at Mamariga Kulturgunea",
+   "resumen": "Film cycle \"In Danger!\" at the Mamariga Library. The film \"HINDENBURG\" will be screened. Check the PDF guide and poster for more details."
+  },
+  "temas": [
+   "pantalla",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "1bf74201ba": {
+  "id": "92155db0bf",
+  "es": {
+   "titulo": "Ciclo Diálogos de Cine: \"Cría Cuervos\" en Azkuna Zentroa",
+   "resumen": "Proyección de \"Cría Cuervos\" (1976) de Carlos Saura, película representativa de la transición española. Ofrece una mirada crítica a la sociedad franquista a través de una familia madrileña."
+  },
+  "en": {
+   "titulo": "Film Dialogues Cycle: \"Cría Cuervos\" at Azkuna Zentroa",
+   "resumen": "Screening of Carlos Saura's \"Cría Cuervos\" (1976), a representative film of the Spanish transition. It offers a critical look at Francoist society through a Madrid family."
+  },
+  "temas": [
+   "pantalla",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "18368a164a": {
+  "id": "9d61539393",
+  "es": {
+   "titulo": "Concierto de violonchelo \"Cello Duello\" en Vitoria-Gasteiz",
+   "resumen": "El dúo de violonchelos Cello Duello, formado por Wolfgang Emanuel Schmidt y Jens-Peter Maintz, presenta un programa que combina diversión y exigencia técnica. Interpretaran obras de Haydn, Eichberg, Servais, Offenbach y Paganini."
+  },
+  "en": {
+   "titulo": "Cello Concert \"Cello Duello\" in Vitoria-Gasteiz",
+   "resumen": "The cello duo Cello Duello, featuring Wolfgang Emanuel Schmidt and Jens-Peter Maintz, presents a program combining fun and technical demands. They will perform works by Haydn, Eichberg, Servais, Offenbach, and Paganini."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "0236398ddf": {
+  "id": "f01a45acde",
+  "es": {
+   "titulo": "Tertulia literaria sobre \"Luciérnaga\" de Natalia Litvinova",
+   "resumen": "Tertulia literaria en castellano sobre el libro \"Luciérnaga\" de Natalia Litvinova, dinamizada por Ylenia Benito. El libro está disponible en las bibliotecas de Donostia Kultura."
+  },
+  "en": {
+   "titulo": "Literary Gathering on Natalia Litvinova's \"Luciérnaga\"",
+   "resumen": "Literary gathering in Spanish about Natalia Litvinova's book \"Luciérnaga\", facilitated by Ylenia Benito. The book is available at Donostia Kultura libraries."
+  },
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "c39054b377": {
+  "id": "5f52dad873",
+  "es": {
+   "titulo": "Documental \"Lutxi eta zuhaitza\" en Legazpi",
+   "resumen": "Documental que narra la historia de la militante de ETA Lucía Urigoitia, fallecida en circunstancias confusas. Explora las dudas y contradicciones del caso, usando el árbol como símbolo de una memoria plena."
+  },
+  "en": {
+   "titulo": "Documentary \"Lutxi eta zuhaitza\" in Legazpi",
+   "resumen": "Documentary recounting the story of ETA militant Lucía Urigoitia, who died in confusing circumstances. It explores the doubts and contradictions of the case, using a tree as a symbol of full memory."
+  },
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": true
+ },
+ "b508391f68": {
+  "id": "cb3034590b",
+  "es": {
+   "titulo": "Escuela de Empoderamiento Euskaldun: \"Capacidades y categorías de hablantes\"",
+   "resumen": "Charla sobre la competencia lingüística en euskera, abordando la capacidad de expresión, la calidad del idioma y la categorización de hablantes. Se discutirá la situación en Vitoria-Gasteiz y el papel del movimiento euskaltzale."
+  },
+  "en": {
+   "titulo": "Euskaldun Empowerment School: \"Competencies and Speaker Categories\"",
+   "resumen": "Talk on Basque language proficiency, addressing expression ability, language quality, and speaker categorization. The situation in Vitoria-Gasteiz and the role of the euskaltzale movement will be discussed."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "3fb1274e9a": {
+  "id": "c991e7a38f",
+  "es": {
+   "titulo": "Presentación del libro \"Uñas sucias\" de Júlia Salander",
+   "resumen": "Presentación de la primera novela de ficción de la politóloga y divulgadora feminista Júlia Salander, \"Uñas sucias\", un debut en el género negro."
+  },
+  "en": {
+   "titulo": "Book Presentation: \"Uñas sucias\" by Júlia Salander",
+   "resumen": "Presentation of the first fiction novel by political scientist and feminist communicator Júlia Salander, \"Uñas sucias\", a debut in the noir genre."
+  },
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "ed36d954ae": {
+  "id": "6d99abb0e2",
+  "es": {
+   "titulo": "Programa Zinema Gaur 2026 en Vitoria-Gasteiz",
+   "resumen": "El ciclo Zinema Gaur regresa al Centro Cultural Montehermoso con cuatro títulos diversos de cine contemporáneo y de autor, incluyendo \"Un Poeta\", \"Aro Berria\", \"Qué te dice esa naturaleza\" y \"Las Corrientes\"."
+  },
+  "en": {
+   "titulo": "Zinema Gaur 2026 Program in Vitoria-Gasteiz",
+   "resumen": "The Zinema Gaur cycle returns to the Montehermoso Cultural Center with four diverse titles of contemporary and auteur cinema, including \"Un Poeta\", \"Aro Berria\", \"Qué te dice esa naturaleza\", and \"Las Corrientes\"."
+  },
+  "temas": [
+   "pantalla",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "3d306fb076": {
+  "id": "9fbda67608",
+  "es": {
+   "titulo": "Zinema Gaur 2026: \"Las Corrientes\" en Vitoria-Gasteiz",
+   "resumen": "Proyección de \"Las Corrientes\" dentro del ciclo Zinema Gaur 2026. La película narra cómo un impulso repentino en la cima de su carrera lleva a una profesional de la moda a confrontar un pasado oculto."
+  },
+  "en": {
+   "titulo": "Zinema Gaur 2026: \"Las Corrientes\" in Vitoria-Gasteiz",
+   "resumen": "Screening of \"Las Corrientes\" as part of the Zinema Gaur 2026 cycle. The film tells how a sudden impulse at the height of her career leads a fashion professional to confront a hidden past."
+  },
+  "temas": [
+   "pantalla",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "66b069dd2c": {
+  "id": "703478535e",
+  "es": {
+   "titulo": "Exposición de Ilustraciones de Mª Pilar Horrego en Zizurkil",
+   "resumen": "Exposición de ilustraciones de la artista cubana Mª Pilar Horrego en la Biblioteca Plazida Ontaño. En la inauguración se realizarán caricaturas para recaudar fondos para Cuba."
+  },
+  "en": {
+   "titulo": "Illustration Exhibition by Mª Pilar Horrego in Zizurkil",
+   "resumen": "Exhibition of illustrations by Cuban artist Mª Pilar Horrego at the Plazida Ontaño Library. Caricatures will be drawn at the opening to raise funds for Cuba."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "88a7820989": {
+  "id": "35d041eefa",
+  "es": {
+   "titulo": "Taller \"Cómo elegir una buena lectura\" con Dorleta Kortazar",
+   "resumen": "Taller para padres y educadores impartido por Dorleta Kortazar sobre cómo elegir lecturas para niños y fomentar el amor por la lectura. Se explorarán herramientas, recomendaciones y la importancia de los cuentos."
+  },
+  "en": {
+   "titulo": "Workshop \"How to Choose a Good Read\" with Dorleta Kortazar",
+   "resumen": "Workshop for parents and educators led by Dorleta Kortazar on how to choose children's books and foster a love for reading. Tools, recommendations, and the importance of stories will be explored."
+  },
+  "temas": [
+   "libros",
+   "ninos",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "df554c4fd8": {
+  "id": "4131a395f9",
+  "es": {
+   "titulo": "Videofórum \"La Gran Noche del Pop\" en Donostia",
+   "resumen": "Proyección del documental \"La Gran Noche del Pop\", que narra la historia detrás de la grabación de la canción \"We Are the World\" en 1985 con las mayores estrellas de la música."
+  },
+  "en": {
+   "titulo": "Videoforum \"La Gran Noche del Pop\" in Donostia",
+   "resumen": "Screening of the documentary \"La Gran Noche del Pop\", which tells the story behind the recording of the song \"We Are the World\" in 1985 with music's biggest stars."
+  },
+  "temas": [
+   "musica",
+   "pantalla",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "debd3219e9": {
+  "id": "db39535252",
+  "es": {
+   "titulo": "Ensayo abierto \"iZULOA\" en Donostia",
+   "resumen": "Ensayo abierto de la nueva creación escénica \"iZULOA\" de Garazi Egiguren e Inés Osinaga. El público podrá presenciar el proceso creativo, explorando temas de invisibilidad, memoria y vulnerabilidad."
+  },
+  "en": {
+   "titulo": "Open Rehearsal \"iZULOA\" in Donostia",
+   "resumen": "Open rehearsal of the new stage creation \"iZULOA\" by Garazi Egiguren and Inés Osinaga. The audience can witness the creative process, exploring themes of invisibility, memory, and vulnerability."
+  },
+  "temas": [
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "0e812e500a": {
+  "id": "8c7bbc29df",
+  "es": {
+   "titulo": "Mesa redonda \"Groenlandia: Clima, Recursos y Geopolítica Ártica\"",
+   "resumen": "Análisis de la transformación de Groenlandia desde perspectivas geopolíticas, climáticas y de recursos. Expertos debatirán los retos y oportunidades para el Ártico."
+  },
+  "en": {
+   "titulo": "Roundtable \"Greenland: Climate, Resources, and Arctic Geopolitics\"",
+   "resumen": "Analysis of Greenland's transformation from geopolitical, climatic, and resource perspectives. Experts will discuss the challenges and opportunities for the Arctic."
+  },
+  "temas": [
+   "naturaleza",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "de08ee2281": {
+  "id": "0bf44c6e41",
+  "es": {
+   "titulo": "Podcast en directo de \"Berria FM\" en Pamplona",
+   "resumen": "Evento de podcast en directo del programa \"Berria FM\" en Golem Baiona. Una oportunidad para escuchar contenido en vivo y participar."
+  },
+  "en": {
+   "titulo": "Live Podcast \"Berria FM\" in Pamplona",
+   "resumen": "Live podcast event from the program \"Berria FM\" at Golem Baiona. An opportunity to listen to live content and participate."
+  },
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": true
+ },
+ "e05fde7303": {
+  "id": "6dddf253df",
+  "es": {
+   "titulo": "Encuentro con Cristina Iglesias en el Museo de Bellas Artes de Bilbao",
+   "resumen": "Continuación del ciclo de encuentros con artistas, esta vez con Cristina Iglesias para conocer su obra \"A través de la celosía\", su proceso creativo y reflexiones."
+  },
+  "en": {
+   "titulo": "Encounter with Cristina Iglesias at the Bilbao Fine Arts Museum",
+   "resumen": "Continuation of the artist encounter series, this time with Cristina Iglesias to learn about her work \"A través de la celosía\", her creative process, and reflections."
+  },
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true
+ },
+ "0e35e8a9e3": {
+  "id": "c8670e8f20",
+  "es": {
+   "titulo": "Cinefórum \"Iván y Hadoum\" en Leioa",
+   "resumen": "Proyección de la película \"Iván y Hadoum\" (102 min, +12) dentro del ciclo \"¿Diferente? No tan diferente\". Entrada: 2,5 euros."
+  },
+  "en": {
+   "titulo": "Cineforum \"Iván y Hadoum\" in Leioa",
+   "resumen": "Screening of the film \"Iván y Hadoum\" (102 min, +12) as part of the \"Different? Not so different\" cycle. Admission: 2.5 euros."
+  },
+  "temas": [
+   "pantalla",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "7987eacccd": {
+  "id": "a7f9421663",
+  "es": {
+   "titulo": "Presentación del libro \"Morlans\" en Pamplona",
+   "resumen": "Presentación del libro \"Morlans\" del escritor Xabier Mendiguren en la librería Karrikiri. Participarán el autor y la presentadora Jasmine Khris Maansri."
+  },
+  "en": {
+   "titulo": "Book Presentation: \"Morlans\" in Pamplona",
+   "resumen": "Presentation of the book \"Morlans\" by writer Xabier Mendiguren at the Karrikiri bookstore. The author and presenter Jasmine Khris Maansri will participate."
+  },
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "3af7057c63": {
+  "id": "111d69bac7",
+  "es": {
+   "titulo": "Literatura Feminista: \"Barne Zerbitzuak\" de Katixa Agirre en Hernani",
+   "resumen": "Presentación de la novela histórica \"Barne Zerbitzuak\" de Katixa Agirre, que narra la historia de mujeres que crearon una red de espionaje durante la Guerra Civil y la II Guerra Mundial."
+  },
+  "en": {
+   "titulo": "Feminist Literature: Katixa Agirre's \"Barne Zerbitzuak\" in Hernani",
+   "resumen": "Presentation of Katixa Agirre's historical novel \"Barne Zerbitzuak\", which tells the story of women who created a spy network during the Civil War and WWII."
+  },
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "79e6228421": {
+  "id": "e4842e64a6",
+  "es": {
+   "titulo": "Concierto de Thursday's Pussy Dogs en Vitoria-Gasteiz",
+   "resumen": "Actuación en directo del grupo de Pamplona Thursday's Pussy Dogs en Parral Taberna. Disfruta de música en vivo en un ambiente acogedor."
+  },
+  "en": {
+   "titulo": "Concert by Thursday's Pussy Dogs in Vitoria-Gasteiz",
+   "resumen": "Live performance by the Pamplona-based band Thursday's Pussy Dogs at Parral Taberna. Enjoy live music in a cozy atmosphere."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "005312e3b7": {
+  "id": "a1659b4631",
+  "es": {
+   "titulo": "Kresala Zinekluba: \"Nuestro Héroe, Blathazar\" en Donostia",
+   "resumen": "Proyección de \"Nuestro Héroe, Blathazar\" en Cines Trueba. Un adolescente neoyorquino viaja a Texas para impresionar a una activista y evitar un acto de violencia."
+  },
+  "en": {
+   "titulo": "Kresala Film Club: \"Nuestro Héroe, Blathazar\" in Donostia",
+   "resumen": "Screening of \"Nuestro Héroe, Blathazar\" at Cines Trueba. A wealthy New York teenager travels to Texas to impress an activist and prevent an act of violence."
+  },
+  "temas": [
+   "pantalla",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "dd2693ba44": {
+  "id": "b3befb3562",
+  "es": {
+   "titulo": "Club de lectura \"Encarna Viva\" en Bilbao",
+   "resumen": "Club de lectura sobre \"Encarna Viva\" de Javi de Castro, una historia de vampiros que mezcla costumbrismo rural y suspense, reflexionando sobre la realidad, el mito y la felicidad."
+  },
+  "en": {
+   "titulo": "Book Club: \"Encarna Viva\" in Bilbao",
+   "resumen": "Book club discussion on Javi de Castro's \"Encarna Viva\", a vampire story blending rural customs and suspense, reflecting on reality, myth, and happiness."
+  },
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "622baae6a7": {
+  "id": "86433ce522",
+  "es": {
+   "titulo": "Club de lectura \"EncontrArte\": \"Zoriona, edo antzeko zerbait\"",
+   "resumen": "Presentación del libro \"Zoriona, edo antzeko zerbait\" de Karmele Mitxelena. Una narración en primera persona sobre el duelo, el amor y la búsqueda de sentido en la vida."
+  },
+  "en": {
+   "titulo": "Book Club \"EncontrArte\": \"Zoriona, edo antzeko zerbait\"",
+   "resumen": "Presentation of the book \"Zoriona, edo antzeko zerbait\" by Karmele Mitxelena. A first-person narrative about grief, love, and the search for meaning in life."
+  },
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "1344f04cd4": {
+  "id": "d5f38f594d",
+  "es": {
+   "titulo": "Club de lectura fácil: \"El agua del Rif\"",
+   "resumen": "Participa en un club de lectura fácil en la Biblioteca de Bilbao para comentar la obra \"El agua del Rif\" de Montse Flores Parrarès. Una oportunidad para compartir impresiones sobre la lectura."
+  },
+  "en": {
+   "titulo": "Easy Reading Club: \"The Water of the Rif\"",
+   "resumen": "Join an easy reading club at the Bilbao Library to discuss Montse Flores Parrarès's \"The Water of the Rif\". A chance to share your thoughts on the book."
+  },
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "e671ddec7c": {
+  "id": "5b7a655644",
+  "es": {
+   "titulo": "Concierto: Las Eras en Dabadaba",
+   "resumen": "Disfruta de la actuación de Las Eras en la sala Dabadaba de Donostia/San Sebastián el 24 de noviembre. Una noche de música en directo."
+  },
+  "en": {
+   "titulo": "Concert: Las Eras at Dabadaba",
+   "resumen": "Enjoy a live performance by Las Eras at the Dabadaba venue in Donostia/San Sebastián on November 24th. An evening of live music."
+  },
+  "temas": [
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "75a5c4a15c": {
+  "id": "66682df47a",
+  "es": {
+   "titulo": "Documental: \"Sucia\"",
+   "resumen": "Proyección del documental \"Sucia\" en Ordizia, donde la actriz Bàrbara Mestanza transforma su experiencia de agresión sexual en una obra teatral. Una reflexión sobre el trauma y la confrontación."
+  },
+  "en": {
+   "titulo": "Documentary: \"Sucia\"",
+   "resumen": "Screening of the documentary \"Sucia\" in Ordizia, where actress Bàrbara Mestanza turns her experience of sexual assault into a theatrical work. A reflection on trauma and confrontation."
+  },
+  "temas": [
+   "pantalla",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "7274be7bf5": {
+  "id": "89fe1a5314",
+  "es": {
+   "titulo": "Club de lectura: \"El señor de las moscas\"",
+   "resumen": "Participa en el club de lectura de la Biblioteca de Mungia para debatir sobre la novela \"El señor de las moscas\". Una oportunidad para profundizar en la obra literaria."
+  },
+  "en": {
+   "titulo": "Reading Club: \"Lord of the Flies\"",
+   "resumen": "Join the reading club at the Mungia Library to discuss the novel \"Lord of the Flies\". An opportunity to delve deeper into the literary work."
+  },
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "889daa5726": {
+  "id": "dfadbdd2e6",
+  "es": {
+   "titulo": "Documental: \"La fuerza del silencio\" y coloquio",
+   "resumen": "Proyección en Eibar del documental \"La fuerza del silencio\", que sigue la historia de sanación de una joven en Etiopía tras la guerra. Incluye un coloquio posterior."
+  },
+  "en": {
+   "titulo": "Documentary: \"The Strength of Silence\" and discussion",
+   "resumen": "Screening in Eibar of the documentary \"The Strength of Silence\", following the healing journey of a young woman in Ethiopia after the war. Includes a subsequent discussion."
+  },
+  "temas": [
+   "pantalla",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "8a76792fde": {
+  "id": "6eb5a742bf",
+  "es": {
+   "titulo": "Bebarruko Jardunek 2026: The Ex's",
+   "resumen": "Disfruta de la actuación de The Ex's en el marco de Bebarruko Jardunek 2026 (Otoño) en Matadeixe, Azkoitia. Una cita musical en la temporada de otoño."
+  },
+  "en": {
+   "titulo": "Bebarruko Jardunek 2026: The Ex's",
+   "resumen": "Enjoy the performance by The Ex's as part of Bebarruko Jardunek 2026 (Autumn) at Matadeixe, Azkoitia. A musical event during the autumn season."
+  },
+  "temas": [
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "620277ce52": {
+  "id": "db94126b18",
+  "es": {
+   "titulo": "Cuentacuentos para adultos: \"Los ecos que nos habitan\"",
+   "resumen": "Asiste a la sesión de cuentacuentos para adultos \"Los ecos que nos habitan\" el 24 de noviembre en la Casa de Cultura de Elgoibar. Una experiencia narrativa para mayores."
+  },
+  "en": {
+   "titulo": "Storytelling for Adults: \"The Echoes That Inhabit Us\"",
+   "resumen": "Attend the adult storytelling session \"The Echoes That Inhabit Us\" on November 24th at the Elgoibar House of Culture. A narrative experience for adults."
+  },
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "68e94cc6b4": {
+  "id": "e9e56cc611",
+  "es": {
+   "titulo": "Tertulia literaria: \"Tres maneras de inducir un coma\"",
+   "resumen": "Participa en una tertulia literaria en la Biblioteca Municipal de Andoain el 24 de noviembre para conversar sobre el libro \"Tres maneras de inducir un coma\" de Alba Carballal."
+  },
+  "en": {
+   "titulo": "Literary Discussion: \"Three Ways to Induce a Coma\"",
+   "resumen": "Join a literary discussion at the Andoain Municipal Library on November 24th to talk about Alba Carballal's book \"Three Ways to Induce a Coma\"."
+  },
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "6755f6363e": {
+  "id": "400c903bdf",
+  "es": {
+   "titulo": "Bilbao Fashion Week 2026",
+   "resumen": "Descubre la moda y el diseño en Bilbao del 10 al 24 de noviembre con la Bilbao Fashion Week. Habrá jornadas, encuentros, gastronomía y pasarelas para profesionales y público."
+  },
+  "en": {
+   "titulo": "Bilbao Fashion Week 2026",
+   "resumen": "Discover fashion and design in Bilbao from November 10th to 24th with Bilbao Fashion Week. The event will feature conferences, meetings, gastronomy, and fashion shows for professionals and the public."
+  },
+  "temas": [
+   "cultura",
+   "fiestas"
+  ],
+  "a_cubierto": true
+ },
+ "b7900ac14e": {
+  "id": "24855674f7",
+  "es": {
+   "titulo": "\"Una mirada a La Encartada Moda y viceversa\"",
+   "resumen": "Experimenta \"Una mirada a La Encartada Moda y viceversa\" el 24 de noviembre en el Museo Vasco de Bilbao. Una propuesta inmersiva que fusiona patrimonio industrial, moda y creación contemporánea."
+  },
+  "en": {
+   "titulo": "\"A Look at La Encartada Fashion and Vice Versa\"",
+   "resumen": "Experience \"A Look at La Encartada Fashion and Vice Versa\" on November 24th at the Basque Museum in Bilbao. An immersive proposal merging industrial heritage, fashion, and contemporary creation."
+  },
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true
+ },
+ "2362e4fecf": {
+  "id": "5fea39033a",
+  "es": {
+   "titulo": "Tertulia literaria: \"No matarían ni una mosca\"",
+   "resumen": "Únete a la tertulia literaria en la Biblioteca de Oñati el 24 de noviembre para analizar \"No matarían ni una mosca\" de Slavenka Drakulic, que explora la naturaleza de los criminales de guerra."
+  },
+  "en": {
+   "titulo": "Literary Discussion: \"They Wouldn't Even Kill a Fly\"",
+   "resumen": "Join the literary discussion at the Oñati Library on November 24th to analyze Slavenka Drakulic's \"They Wouldn't Even Kill a Fly\", which explores the nature of war criminals."
+  },
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "15be4173c8": {
+  "id": "0eb7b3a1e6",
+  "es": {
+   "titulo": "Presentación libro: \"Las dos familias de Raquel\"",
+   "resumen": "Asiste a la presentación del libro \"Las dos familias de Raquel\" en la Casa de Cultura de Legutio el 24 de noviembre. Incluye una charla sobre bebés robados, enmarcada en el Día contra la Violencia Machista."
+  },
+  "en": {
+   "titulo": "Book Presentation: \"Raquel's Two Families\"",
+   "resumen": "Attend the presentation of the book \"Raquel's Two Families\" at the Legutio House of Culture on November 24th. Includes a talk on stolen babies, coinciding with the International Day for the Elimination of Violence against Women."
+  },
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "b22da7b8a7": {
+  "id": "c1dc5719cc",
+  "es": {
+   "titulo": "Bertso saioa: Haira Aizpurua, Sustrai Colina",
+   "resumen": "Disfruta de una sesión de bertso con los bertsolaris Haira Aizpurua y Sustrai Colina en Urrugne, organizada por la ikastola local. Una muestra de la tradición oral vasca."
+  },
+  "en": {
+   "titulo": "Bertso Session: Haira Aizpurua, Sustrai Colina",
+   "resumen": "Enjoy a bertso session with bertsolaris Haira Aizpurua and Sustrai Colina in Urrugne, organized by the local ikastola. A showcase of Basque oral tradition."
+  },
+  "temas": [
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "da20fe2307": {
+  "id": "de9ed25019",
+  "es": {
+   "titulo": "Bertso jaialdia: Haira Aizpurua, Sustrai Colina",
+   "resumen": "Asiste a un festival de bertso en Urrugne con Haira Aizpurua y Sustrai Colina como bertsolaris. Organizado por la ikastola local, es una celebración de la poesía improvisada vasca."
+  },
+  "en": {
+   "titulo": "Bertso Festival: Haira Aizpurua, Sustrai Colina",
+   "resumen": "Attend a bertso festival in Urrugne featuring bertsolaris Haira Aizpurua and Sustrai Colina. Organized by the local ikastola, it's a celebration of Basque improvised poetry."
+  },
+  "temas": [
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "3bfd1659c1": {
+  "id": "cf8127d85d",
+  "es": {
+   "titulo": "Poesía contra la Violencia hacia las Mujeres en Bilbao",
+   "resumen": "Las Tertulias Poéticas de los Martes en Bilbao dedican su sesión a recitar poemas contra la violencia hacia las mujeres, en conmemoración del Día Internacional contra la Violencia de Género."
+  },
+  "en": {
+   "titulo": "Poetry against Violence Towards Women in Bilbao",
+   "resumen": "The Tuesday Poetic Gatherings in Bilbao dedicate their session to reciting poems against violence towards women, commemorating the International Day for the Elimination of Violence against Women."
+  },
+  "temas": [
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": true
+ },
+ "4bfb92eebb": {
+  "id": "5eca032ab5",
+  "es": {
+   "titulo": "Presentación libro: \"Nola esaten zaio agur ama bati\"",
+   "resumen": "Acompaña la presentación del libro \"Nola esaten zaio agur ama bati\" de Uxue Razquin el 24 de noviembre en Zirika! herri gunea, Bilbao. Una obra que aborda temas sensibles."
+  },
+  "en": {
+   "titulo": "Book Presentation: \"How to Say Goodbye to a Mother\"",
+   "resumen": "Join the presentation of the book \"How to Say Goodbye to a Mother\" by Uxue Razquin on November 24th at Zirika! herri gunea, Bilbao. A work that addresses sensitive themes."
+  },
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "ce4f75faf9": {
+  "id": "d8a2058592",
+  "es": {
+   "titulo": "Cinefórum Perseo: \"Iván & Hadoum\"",
+   "resumen": "Participa en el Cinefórum Perseo en Kultur Leioa el 24 de noviembre con la proyección de \"Iván & Hadoum\". Una película para mayores de 12 años."
+  },
+  "en": {
+   "titulo": "Perseo Cineforum: \"Iván & Hadoum\"",
+   "resumen": "Join the Perseo Cineforum at Kultur Leioa on November 24th for the screening of \"Iván & Hadoum\". A film suitable for audiences aged 12 and over."
+  },
+  "temas": [
+   "pantalla",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "c869dcf52e": {
+  "id": "1a9eb2537b",
+  "es": {
+   "titulo": "Teatro: \"Taxi\"",
+   "resumen": "Disfruta de la obra de teatro \"Taxi\" en Getxo, una pieza de Idoia Garzes interpretada por Mikel Martinez. Una historia sobre las relaciones humanas vistas desde un taxi."
+  },
+  "en": {
+   "titulo": "Theater: \"Taxi\"",
+   "resumen": "Enjoy the play \"Taxi\" in Getxo, a piece by Idoia Garzes performed by Mikel Martinez. A story about human relationships seen from a taxi."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "5f6d7ee9ef": {
+  "id": "14e0589bab",
+  "es": {
+   "titulo": "Cineclub Fas: \"Anoche conquisté Tebas\"",
+   "resumen": "Asiste a la proyección de \"Anoche conquisté Tebas\" en el Salón Indautxu, Bilbao. Una película filmada en las termas romanas de Bande, que explora sentimientos y temores en un ambiente acuático."
+  },
+  "en": {
+   "titulo": "Cineclub Fas: \"Last Night I Conquered Thebes\"",
+   "resumen": "Attend the screening of \"Last Night I Conquered Thebes\" at Salón Indautxu, Bilbao. A film shot in the Roman baths of Bande, exploring feelings and fears in an aquatic setting."
+  },
+  "temas": [
+   "pantalla",
+   "cultura",
+   "agua"
+  ],
+  "a_cubierto": true
+ },
+ "51efd7c25e": {
+  "id": "af79790df6",
+  "es": {
+   "titulo": "Ondas de Jazz: Carlota Urdiales en Vitoria-Gasteiz",
+   "resumen": "Disfruta de la actuación de Carlota Urdiales dentro del festival Ondas de Jazz en la Ciudad 2026-2027 en Vitoria-Gasteiz. Una propuesta de neo soul, R&B y hip hop."
+  },
+  "en": {
+   "titulo": "Jazz Waves: Carlota Urdiales in Vitoria-Gasteiz",
+   "resumen": "Enjoy the performance by Carlota Urdiales as part of the Jazz Waves in the City 2026-2027 festival in Vitoria-Gasteiz. A neo soul, R&B, and hip hop offering."
+  },
+  "temas": [
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "e1283de876": {
+  "id": "cd0d804619",
+  "es": {
+   "titulo": "Concierto: Joel Sarakula en Dabadaba",
+   "resumen": "Experimenta el Soulful Pop de Joel Sarakula, artista australiano-británico, en Dabadaba, Donostia/San Sebastián. Su música fusiona influencias de los setenta con una visión contemporánea."
+  },
+  "en": {
+   "titulo": "Concert: Joel Sarakula at Dabadaba",
+   "resumen": "Experience the Soulful Pop of Joel Sarakula, an Australian-British artist, at Dabadaba, Donostia/San Sebastián. His music blends 70s influences with a contemporary outlook."
+  },
+  "temas": [
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "f24da38bad": {
+  "id": "0284e5051a",
+  "es": {
+   "titulo": "Presentación libro: \"Etxean\"",
+   "resumen": "Asiste a la presentación del libro \"Etxean\" en Ustaritz, una obra que aborda la violencia doméstica y la fuerza de la hermandad a través de un cuento. Incluye una performance drag."
+  },
+  "en": {
+   "titulo": "Book Presentation: \"Etxean\"",
+   "resumen": "Attend the presentation of the book \"Etxean\" in Ustaritz, a work that addresses domestic violence and the strength of sisterhood through a story. Includes a drag performance."
+  },
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "34894dfb03": {
+  "id": "617563b5ef",
+  "es": {
+   "titulo": "Euskadiko Orkestra: \"Falla / Debussy / Stravinsky\" en Bilbao",
+   "resumen": "La Euskadiko Orkestra presenta \"Falla / Debussy / Stravinsky\" en el Euskalduna de Bilbao el 25 de noviembre. Un programa que explora el modernismo musical parisino del siglo XX."
+  },
+  "en": {
+   "titulo": "Euskadiko Orchestra: \"Falla / Debussy / Stravinsky\" in Bilbao",
+   "resumen": "The Euskadiko Orchestra presents \"Falla / Debussy / Stravinsky\" at the Euskalduna Palace in Bilbao on November 25th. A program exploring 20th-century Parisian musical modernism."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "d1dd89345d": {
+  "id": "1aac88bfe9",
+  "es": {
+   "titulo": "Espectáculo: \"Titizé - A Venetian dream\"",
+   "resumen": "Déjate cautivar por \"Titizé - A Venetian dream\" en Donostia/San Sebastián. Un espectáculo visual y poético inspirado en Venecia, que combina clown, acrobacias y música."
+  },
+  "en": {
+   "titulo": "Show: \"Titizé - A Venetian Dream\"",
+   "resumen": "Be captivated by \"Titizé - A Venetian Dream\" in Donostia/San Sebastián. A visual and poetic show inspired by Venice, combining clowning, acrobatics, and music."
+  },
+  "temas": [
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "6bc71d74ea": {
+  "id": "9780942d9e",
+  "es": {
+   "titulo": "Cuentacuentos: \"Ipuin gozo eta gaziak\"",
+   "resumen": "Sesión de cuentacuentos \"Ipuin gozo eta gaziak\" para niños de 4 a 7 años en la Biblioteca de Lezo, a cargo de la narradora Ines Bengoa."
+  },
+  "en": {
+   "titulo": "Storytelling: \"Sweet and Sour Tales\"",
+   "resumen": "Storytelling session \"Sweet and Sour Tales\" for children aged 4-7 at the Lezo Library, presented by storyteller Ines Bengoa."
+  },
+  "temas": [
+   "ninos",
+   "cultura"
   ],
   "a_cubierto": true
  }

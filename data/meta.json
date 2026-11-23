@@ -1,11 +1,11 @@
 {
-  "generated": "2026-11-23T14:39:50.540Z",
+  "generated": "2026-11-23T16:34:05.685Z",
   "today": "2026-11-23",
-  "events": 9391,
+  "events": 9430,
   "review": 11,
   "ai": {
-    "calls": 0,
-    "seconds": 54,
+    "calls": 13,
+    "seconds": 249,
     "tripped": false
   },
   "sources": [
@@ -17,7 +17,7 @@
     {
       "id": "jcyl-agenda",
       "status": "ok",
-      "count": 438
+      "count": 445
     },
     {
       "id": "euskadi-kulturklik",
@@ -27,7 +27,7 @@
     {
       "id": "coruna-agenda",
       "status": "ok",
-      "count": 160
+      "count": 162
     },
     {
       "id": "tmdb-estrenos",
@@ -54,7 +54,7 @@
     {
       "id": "prensa-elpais-cultura",
       "status": "ok",
-      "count": 14,
+      "count": 17,
       "candidatos": true
     },
     {
@@ -66,7 +66,7 @@
     {
       "id": "prensa-ara-cultura",
       "status": "ok",
-      "count": 9,
+      "count": 11,
       "candidatos": true
     },
     {
@@ -90,13 +90,13 @@
     {
       "id": "prensa-diariosur-culturas",
       "status": "ok",
-      "count": 11,
+      "count": 12,
       "candidatos": true
     },
     {
       "id": "prensa-ideal-culturas",
       "status": "ok",
-      "count": 23,
+      "count": 28,
       "candidatos": true
     },
     {
