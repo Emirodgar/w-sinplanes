@@ -100,16 +100,6 @@
   "url": "https://www.lasprovincias.es/culturas/musica/pecos-despiden-escenarios-roig-arena-20261117132359-nt.html"
  },
  {
-  "id": "90cce63f67",
-  "titulo": "María Dueñas presenta este sábado en Cartagena el nuevo álbum ilustrado de Elda Moreno y Ricard López",
-  "inicio": "2026-11-22",
-  "municipio": "Cartagena",
-  "provincia": "Región de Murcia",
-  "confianza": 0.5,
-  "fuente": "La Verdad (Culturas)",
-  "url": "https://www.laverdad.es/culturas/escritora-maria-duenas-presenta-sabado-cartagena-nuevo-20261119111705-nt.html"
- },
- {
   "id": "dd4abd7130",
   "titulo": "'Dysphoria' y la realidad de las personas trans en el Festival Determinantes",
   "inicio": "2026-11-24",
@@ -118,25 +108,5 @@
   "confianza": 0.5,
   "fuente": "La Verdad (Culturas)",
   "url": "https://www.laverdad.es/culturas/dysphoria-realidad-personas-trans-20261119001207-nt.html"
- },
- {
-  "id": "41f869277d",
-  "titulo": "Crítica de teatro: 'Largo viaje hacia la noche' en el Teatro Principal",
-  "inicio": "2026-11-20",
-  "municipio": null,
-  "provincia": null,
-  "confianza": 0.5,
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/20/critica-teatro-una-noche-imposible-imaginar-2070318.html"
- },
- {
-  "id": "19888b40ef",
-  "titulo": "'Tiempo entre olivos' se proyecta en la UPM",
-  "inicio": "2026-11-22",
-  "municipio": null,
-  "provincia": null,
-  "confianza": 0.5,
-  "fuente": "Ideal (Culturas)",
-  "url": "https://www.ideal.es/culturas/jaen/tiempo-olivos-realidad-mundo-rural-llega-upm-20261122134855-nt.html"
  }
 ]

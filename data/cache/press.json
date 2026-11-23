@@ -13812,62 +13812,6 @@
   "a_cubierto": null,
   "confianza": 0.9
  },
- "bf19884683": {
-  "url": "https://www.20minutos.es/libros/prodigiosa-ciudad-los-prodigios-mendoza-cumple-40-anos-he-preferido-no-corregir-errores-libro-tiene-vida-propia_7058288_0.html",
-  "fuente": "20minutos (Cultura)",
-  "src": "prensa-20minutos-cultura",
-  "publicado": "2026-11-08",
-  "es_plan": false
- },
- "b3fdf2aba2": {
-  "url": "https://elpais.com/cultura/2026-11-08/george-saunders-escritor-contar-historias-es-una-necesidad-primordial.html",
-  "fuente": "El País (Cultura)",
-  "src": "prensa-elpais-cultura",
-  "publicado": "2026-11-08",
-  "es_plan": false
- },
- "e756db4f01": {
-  "url": "https://elpais.com/cultura/2026-11-08/el-nino-del-exilio-republicano-que-catalogo-todo-el-cine-mexicano.html",
-  "fuente": "El País (Cultura)",
-  "src": "prensa-elpais-cultura",
-  "publicado": "2026-11-08",
-  "es_plan": false
- },
- "527dd959a6": {
-  "url": "https://www.lavanguardia.com/encatala/20261108/11678838/naomi-ishiguro-independencia-pes-nobel-festival-42-literatura.html",
-  "fuente": "La Vanguardia (Cultura)",
-  "src": "prensa-lavanguardia-cultura",
-  "publicado": "2026-11-08",
-  "es_plan": false
- },
- "2a3d52ff28": {
-  "url": "https://www.lavanguardia.com/cultura/20261108/11678837/naomi-ishiguro-como-conseguir-independencia-peso-nobel.html",
-  "fuente": "La Vanguardia (Cultura)",
-  "src": "prensa-lavanguardia-cultura",
-  "publicado": "2026-11-08",
-  "es_plan": false
- },
- "bf96576d91": {
-  "url": "https://www.lavanguardia.com/cultura/20261108/11678827/katixa-agirre-espias-mas-comunes-han-sido-criadas.html",
-  "fuente": "La Vanguardia (Cultura)",
-  "src": "prensa-lavanguardia-cultura",
-  "publicado": "2026-11-08",
-  "es_plan": false
- },
- "4bb93aa8b8": {
-  "url": "https://www.lavanguardia.com/cultura/20261108/11678688/kiko-veneno-plan-buen-rollo-otros-discos-semana.html",
-  "fuente": "La Vanguardia (Cultura)",
-  "src": "prensa-lavanguardia-cultura",
-  "publicado": "2026-11-08",
-  "es_plan": false
- },
- "b6d0deab34": {
-  "url": "https://www.lavanguardia.com/cultura/20261108/11678114/conciertos-moviles-busca-emocion-unica.html",
-  "fuente": "La Vanguardia (Cultura)",
-  "src": "prensa-lavanguardia-cultura",
-  "publicado": "2026-11-08",
-  "es_plan": false
- },
  "de8ea91d1f": {
   "url": "https://www.lavanguardia.com/cultura/20261108/11677274/carminho-voces-tienden-puentes-apostar-entendimiento-mutuo.html",
   "fuente": "La Vanguardia (Cultura)",
@@ -13896,27 +13840,6 @@
   "a_cubierto": true,
   "confianza": 0.85
  },
- "38f74aa0f2": {
-  "url": "https://www.lavanguardia.com/cultura/culturas/20261108/11674154/treinta-anos-clasico-juvenil.html",
-  "fuente": "La Vanguardia (Cultura)",
-  "src": "prensa-lavanguardia-cultura",
-  "publicado": "2026-11-08",
-  "es_plan": false
- },
- "c7f2b3bd08": {
-  "url": "https://www.lavanguardia.com/cultura/20261108/11679040/literatura-barcelonesa-brilla.html",
-  "fuente": "La Vanguardia (Cultura)",
-  "src": "prensa-lavanguardia-cultura",
-  "publicado": "2026-11-08",
-  "es_plan": false
- },
- "c6180a9da4": {
-  "url": "https://www.lavanguardia.com/cultura/20261108/11678617/minuto-de-silencio-de-miguel-barca-pau-casals-cant-dels-ocells-savall.html",
-  "fuente": "La Vanguardia (Cultura)",
-  "src": "prensa-lavanguardia-cultura",
-  "publicado": "2026-11-08",
-  "es_plan": false
- },
  "a0edb68207": {
   "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/08/enrique-bunbury-obligado-detener-concierto-mas-8000personas-2065189.html",
   "fuente": "Heraldo de Aragón (Ocio y cultura)",
@@ -13944,20 +13867,6 @@
   ],
   "a_cubierto": null,
   "confianza": 0.5
- },
- "4f5666f25f": {
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/08/andres-roca-rey-30anos-vivo-solo-casa-campo-disfruto-mucho-concentrado-metido-mi-2066723.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-11-08",
-  "es_plan": false
- },
- "6e402c751a": {
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/08/david-ucles-santiago-abascal-valentia-salir-revuelta-proteccion-publico-comprado-agallas-2066721.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-11-08",
-  "es_plan": false
  },
  "646c9bb1bc": {
   "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/08/monica-naranjo-52anos-siempre-tenido-buen-saque-desayuno-fruta-temporada-tostada-avena-queso-aceite-2066000.html",
@@ -14042,20 +13951,6 @@
   "a_cubierto": true,
   "confianza": 0.9
  },
- "557f5af8bd": {
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/08/enrique-bunbury-come-mitico-restaurante-menu-cuesta-520euros-2066720.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-11-08",
-  "es_plan": false
- },
- "ed40b3afc9": {
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/08/musica-alcala-norte-no-vamos-sobrados-somos-realistas-2066659.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-11-08",
-  "es_plan": false
- },
  "59c16f500a": {
   "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/08/nerea-rodriguez-nunca-habia-patinado-pero-cuando-me-propusieron-este-musical-dije-alla-voy-2065641.html",
   "fuente": "Heraldo de Aragón (Ocio y cultura)",
@@ -14083,34 +13978,6 @@
   ],
   "a_cubierto": true,
   "confianza": 0.9
- },
- "db65bbf341": {
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/08/charlie-sheen-61anos-sobre-como-ha-cambiado-vida-centrate-que-hay-2065632.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-11-08",
-  "es_plan": false
- },
- "457501e319": {
-  "url": "https://www.elnortedecastilla.es/culturas/cine/estreno-documental-sobre-piedad-isla-reune-600-20261108130829-nt.html",
-  "fuente": "El Norte de Castilla (Culturas)",
-  "src": "prensa-nortecastilla-culturas",
-  "publicado": "2026-11-08",
-  "es_plan": false
- },
- "e3bf0c5f3c": {
-  "url": "https://www.ideal.es/culturas/dos-buena-sesiones-internacionales-despedido-festival-jazz-20261108123748-nt.html",
-  "fuente": "Ideal (Culturas)",
-  "src": "prensa-ideal-culturas",
-  "publicado": "2026-11-08",
-  "es_plan": false
- },
- "e91cb76515": {
-  "url": "https://www.ideal.es/culturas/almeria/nueve-formaciones-musicales-conmemoran-tres-decadas-musica-20261108113557-nt.html",
-  "fuente": "Ideal (Culturas)",
-  "src": "prensa-ideal-culturas",
-  "publicado": "2026-11-08",
-  "es_plan": false
  },
  "046b6899ab": {
   "url": "https://www.elcorreo.com/culturas/musica/miribilla-enloquece-ritmo-palmas-galvan-real-20261108083117-nt.html",
@@ -14196,20 +14063,6 @@
   ],
   "a_cubierto": null,
   "confianza": 0.9
- },
- "e39497a888": {
-  "url": "https://www.lasprovincias.es/culturas/tv/programacion-septima-sabado-domingo-20261106101522-nt.html",
-  "fuente": "Las Provincias (Culturas)",
-  "src": "prensa-lasprovincias-culturas",
-  "publicado": "2026-11-08",
-  "es_plan": false
- },
- "89772027ab": {
-  "url": "https://www.lasprovincias.es/culturas/generacion-toma-arts-fenomeno-jovenes-llena-opera-20261103153021-nt.html",
-  "fuente": "Las Provincias (Culturas)",
-  "src": "prensa-lasprovincias-culturas",
-  "publicado": "2026-11-08",
-  "es_plan": false
  },
  "e17bcac7ae": {
   "url": "https://www.lasprovincias.es/culturas/tv/punt-emite-domingo-mayores-obras-maestras-alfred-20261107010314-nt.html",
@@ -15510,69 +15363,6 @@
   ],
   "a_cubierto": true,
   "confianza": 0.85
- },
- "4c5b63670b": {
-  "url": "https://www.lavanguardia.com/cultura/20261108/11679307/festival-42-cierra-sexta-edicion-barcelona-mas-8-100-asistentes.html",
-  "fuente": "La Vanguardia (Cultura)",
-  "src": "prensa-lavanguardia-cultura",
-  "publicado": "2026-11-08",
-  "es_plan": false
- },
- "52e4e054e4": {
-  "url": "https://www.lavanguardia.com/cultura/20261108/11679299/by-invitation-cierra-septima-edicion-record-15-000-visitantes-50-mas-ano-anterior.html",
-  "fuente": "La Vanguardia (Cultura)",
-  "src": "prensa-lavanguardia-cultura",
-  "publicado": "2026-11-08",
-  "es_plan": false
- },
- "e80dcd1835": {
-  "url": "https://www.ara.cat/estils/mirar-ho-viure-ho-fascinen-tant-experiencies-immersives_130_5900804.html",
-  "fuente": "Ara (Cultura)",
-  "src": "prensa-ara-cultura",
-  "publicado": "2026-11-08",
-  "es_plan": false
- },
- "524bdd8fa6": {
-  "url": "https://www.heraldo.es/ocio-y-cultura/eva-laborda-crea-vestidos-fiesta-inspirados-indumentaria-tradicional-aragon-fotos-2066817-1.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-11-08",
-  "es_plan": false
- },
- "675409d056": {
-  "url": "https://www.ideal.es/culturas/almeria/viaje-tiempo-sobre-ruedas-salvaje-oeste-20261108191310-nt.html",
-  "fuente": "Ideal (Culturas)",
-  "src": "prensa-ideal-culturas",
-  "publicado": "2026-11-08",
-  "es_plan": false
- },
- "a2a93c3618": {
-  "url": "https://www.ideal.es/culturas/almeria/publico-disfruta-farra-espectaculo-musica-teatro-clasico-20261108190541-nt.html",
-  "fuente": "Ideal (Culturas)",
-  "src": "prensa-ideal-culturas",
-  "publicado": "2026-11-08",
-  "es_plan": false
- },
- "90789538c8": {
-  "url": "https://www.ideal.es/culturas/jaen/5000-asistentes-mangafest-reflejan-consolidacion-evento-jaen-20261108173221-nt.html",
-  "fuente": "Ideal (Culturas)",
-  "src": "prensa-ideal-culturas",
-  "publicado": "2026-11-08",
-  "es_plan": false
- },
- "4c339c6709": {
-  "url": "https://www.ideal.es/culturas/jaen/gamberra-marine-auclair-gana-xiv-festival-cortos-20261108162730-nt.html",
-  "fuente": "Ideal (Culturas)",
-  "src": "prensa-ideal-culturas",
-  "publicado": "2026-11-08",
-  "es_plan": false
- },
- "3f30b225d4": {
-  "url": "https://www.lasprovincias.es/culturas/tv/programa-septima-cuela-vistos-sabado-20261108131458-nt.html",
-  "fuente": "Las Provincias (Culturas)",
-  "src": "prensa-lasprovincias-culturas",
-  "publicado": "2026-11-08",
-  "es_plan": false
  },
  "9b6cd88db2": {
   "url": "https://www.laverdad.es/culturas/ejemplo-tolerancia-falta-20261108220941-nt.html",
