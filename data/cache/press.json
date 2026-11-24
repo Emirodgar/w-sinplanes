@@ -28856,5 +28856,915 @@
   "src": "prensa-ideal-culturas",
   "publicado": "2026-11-22",
   "es_plan": false
+ },
+ "99bfc5483f": {
+  "url": "https://www.20minutos.es/artes/nathan-sawaya-escultor-que-moldea-sus-obras-con-piezas-lego-llega-barcelona_7065198_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-11-24",
+  "es_plan": true,
+  "titulo": "Art of the Brick: Exposición de Lego en Barcelona",
+  "resumen": "La exposición 'Art of the Brick' llega a Barcelona con más de 80 obras creadas con piezas de Lego por el artista Nathan Sawaya. Se podrá visitar en el Espai Inmersa hasta el 10 de enero de 2027.",
+  "en": {
+   "titulo": "Art of the Brick: Lego Exhibition in Barcelona",
+   "resumen": "The 'Art of the Brick' exhibition arrives in Barcelona featuring over 80 works made from Lego bricks by artist Nathan Sawaya. It can be visited at Espai Inmersa until January 10, 2027."
+  },
+  "inicio": "2026-11-26",
+  "fin": "2027-01-10",
+  "hora": null,
+  "lugar": "Espai Inmersa",
+  "municipio": "Barcelona",
+  "provincia": "Barcelona",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "museos",
+   "actividades"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "3819fea3b2": {
+  "url": "https://www.20minutos.es/libros/alfred-lopez-presenta-su-nuevo-libro-haz-historia-haciendo-caca-100-curiosidades-para-leer-mientras-estas-bano_7065167_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-11-24",
+  "es_plan": false
+ },
+ "83954ca938": {
+  "url": "https://www.20minutos.es/musica/vetusta-morla-anuncia-su-nuevo-disco-importante-que-llegara-comienzos-2027_7065192_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-11-24",
+  "es_plan": false
+ },
+ "a46cab256f": {
+  "url": "https://www.20minutos.es/artes/galder-varas-se-despide-esto-no-es-un-show-pero-anuncia-un-nuevo-espectaculo_7065176_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-11-24",
+  "es_plan": true,
+  "titulo": "Galder Varas estrena 'Esto no es una terapia' en Madrid",
+  "resumen": "El cómico Galder Varas se despide de su espectáculo 'Esto no es un show' con cuatro funciones en diciembre y estrena 'Esto no es una terapia' el 12 de febrero de 2027 en el Teatro Gran Vía de Madrid.",
+  "en": {
+   "titulo": "Galder Varas Premieres 'Esto no es una terapia' in Madrid",
+   "resumen": "Comedian Galder Varas says goodbye to his show 'Esto no es un show' with four performances in December and premieres 'Esto no es una terapia' on February 12, 2027, at Teatro Gran Vía in Madrid."
+  },
+  "inicio": "2027-02-12",
+  "fin": "2027-02-12",
+  "hora": null,
+  "lugar": "Teatro Gran Vía",
+  "municipio": "Madrid",
+  "provincia": "Madrid",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "b95d433f42": {
+  "url": "https://www.20minutos.es/artes/exposicion-que-explora-figura-van-gogh-como-influencer-prolongara-su-apertura-hasta-finales-2027_7065112_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-11-24",
+  "es_plan": true,
+  "titulo": "Exposición 'Van Gogh Influenceur' en Auvers-sur-oise",
+  "resumen": "La exposición que explora la figura de Van Gogh como 'influencer' en el castillo de Auvers-sur-oise (Francia) prolongará su apertura hasta finales de 2027, reabriendo el 6 de febrero tras una reforma.",
+  "en": {
+   "titulo": "'Van Gogh Influenceur' Exhibition in Auvers-sur-oise",
+   "resumen": "The exhibition exploring Van Gogh's role as an 'influencer' at the Château d'Auvers-sur-oise (France) will extend its run until the end of 2027, reopening on February 6 after renovations."
+  },
+  "inicio": "2027-02-06",
+  "fin": "2027-12-31",
+  "hora": null,
+  "lugar": "Castillo de Auvers-sur-oise",
+  "municipio": "Auvers-sur-oise",
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "6ce7fd60c1": {
+  "url": "https://www.20minutos.es/musica/mad-cool-cambia-nombre-incorpora-una-gran-grada-para-los-conciertos_7065117_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-11-24",
+  "es_plan": false
+ },
+ "d8039bdb29": {
+  "url": "https://www.20minutos.es/musica/mad-cool-2027-ya-tiene-fechas-aunque-aun-no-ha-dado-pistas-cartel_7065063_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-11-24",
+  "es_plan": true,
+  "titulo": "Mad Cool 2027: Fechas confirmadas en julio",
+  "resumen": "El festival Mad Cool 2027 se celebrará del 7 al 10 de julio en el recinto Iberdrola Music de Villaverde, Madrid. Aún no se ha anunciado el cartel de artistas.",
+  "en": {
+   "titulo": "Mad Cool 2027: Dates Confirmed for July",
+   "resumen": "The Mad Cool 2027 festival will take place from July 7 to 10 at the Iberdrola Music venue in Villaverde, Madrid. The artist lineup has not yet been announced."
+  },
+  "inicio": "2027-07-07",
+  "fin": "2027-07-10",
+  "hora": null,
+  "lugar": "Recinto Iberdrola Music",
+  "municipio": "Madrid",
+  "provincia": "Madrid",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica",
+   "fiestas"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "6f915c954c": {
+  "url": "https://www.20minutos.es/libros/santiago-lorenzo-autor-contenta-me-da-igual-que-mis-libros-se-vendan-no-normal-es-que-mi-no-me-haga-caso-nadie_7059844_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-11-24",
+  "es_plan": false
+ },
+ "8557d9f921": {
+  "url": "https://www.20minutos.es/libros/cumple-200-anos-padre-pinocho-no-es-geppetto_7065040_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-11-24",
+  "es_plan": false
+ },
+ "1b4b470946": {
+  "url": "https://www.20minutos.es/musica/freestyle-vuelve-con-fuerza-espana-nace-royal-league-nueva-competicion-que-reune-leyendas-genero_7065028_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-11-24",
+  "es_plan": true,
+  "titulo": "Royal League: Nueva competición de 'freestyle' en Valencia",
+  "resumen": "La Royal League, una nueva competición de 'freestyle' con leyendas del género, celebra su primera jornada el 28 de noviembre en la Sala República de Valencia.",
+  "en": {
+   "titulo": "Royal League: New 'Freestyle' Competition in Valencia",
+   "resumen": "The Royal League, a new 'freestyle' competition featuring legends of the genre, holds its first round on November 28 at Sala República in Valencia."
+  },
+  "inicio": "2026-11-28",
+  "fin": "2026-11-28",
+  "hora": null,
+  "lugar": "Sala República",
+  "municipio": "Valencia",
+  "provincia": "Valencia",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "musica",
+   "actividades"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "bcf35429b3": {
+  "url": "https://www.20minutos.es/artes/territorios-fantasmas-una-exposicion-que-otazu-explora-como-los-territorios-que-habitamos-construyen-nuestra-realidad_7064564_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-11-24",
+  "es_plan": true,
+  "titulo": "Exposición 'Territorios fantasmas' en Otazu (Navarra)",
+  "resumen": "La exposición 'Territorios fantasmas', que explora cómo los territorios construyen nuestra realidad con obras de 19 artistas, se puede visitar hasta agosto de 2027 en la bodega navarra.",
+  "en": {
+   "titulo": "'Territorios fantasmas' Exhibition in Otazu (Navarra)",
+   "resumen": "The exhibition 'Territorios fantasmas', exploring how territories shape our reality with works by 19 artists, can be visited until August 2027 at the Navarra winery."
+  },
+  "inicio": "2026-11-24",
+  "fin": "2027-08-31",
+  "hora": null,
+  "lugar": "Bodega Navarra",
+  "municipio": "Otazu",
+  "provincia": "Navarra",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "museos",
+   "actividades"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "c1ef571b98": {
+  "url": "https://www.20minutos.es/artes/miguele-mago-con-un-13-vision-que-desafia-los-sentidos-penumbra-magia-no-es-principal-sino-lenguaje_7064631_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-11-24",
+  "es_plan": false
+ },
+ "f64ee73f72": {
+  "url": "https://elpais.com/cultura/2026-11-24/mad-cool-cambia-de-nombre-y-tendra-gradas-en-su-proxima-edicion.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-11-24",
+  "es_plan": false
+ },
+ "472648a178": {
+  "url": "https://elpais.com/cultura/del-tirador-a-la-ciudad/2026-11-24/una-fabrica-de-coches-en-bruselas-reconvertida-en-el-mayor-museo-europeo-de-arte-contemporaneo.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-11-24",
+  "es_plan": false
+ },
+ "d1f66acb6f": {
+  "url": "https://elpais.com/cultura/2026-11-24/una-casa-2991-pesetas-y-una-obsesion-el-testamento-de-antoni-gaudi-ve-la-luz-100-anos-despues-de-su-muerte.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-11-24",
+  "es_plan": false
+ },
+ "b42b26c8c3": {
+  "url": "https://elpais.com/cultura/2026-11-24/en-ningun-sitio-como-en-casa-de-miki-leal.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-11-24",
+  "es_plan": true,
+  "titulo": "Exposición Miki Leal: La corriente del confort",
+  "resumen": "La sala Alcalá 31 de Madrid acoge una retrospectiva del artista sevillano Miki Leal, con 120 obras entre pinturas, cerámicas y mobiliario que exploran la noción de lo doméstico y la felicidad.",
+  "en": {
+   "titulo": "Miki Leal Exhibition: The Current of Comfort",
+   "resumen": "The Alcalá 31 hall in Madrid hosts a retrospective of the Sevillian artist Miki Leal, featuring 120 works including paintings, ceramics, and furniture that explore the notion of the domestic and happiness."
+  },
+  "inicio": "2026-11-24",
+  "fin": "2027-01-10",
+  "hora": null,
+  "lugar": "Sala Alcalá 31",
+  "municipio": "Madrid",
+  "provincia": "Madrid",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "a6f1fe0c69": {
+  "url": "https://elpais.com/cultura/2026-11-24/la-compositora-cecilia-bercovich-dedica-su-primera-opera-a-las-trece-rosas-fusiladas-en-1939.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-11-24",
+  "es_plan": false
+ },
+ "e8ec46e646": {
+  "url": "https://elpais.com/cultura/2026-11-24/el-largo-camino-para-perdonar-a-un-hermano-asesino-es-una-forma-de-dolor-diferente-pero-aun-asi-atroz.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-11-24",
+  "es_plan": false
+ },
+ "0dde436ec0": {
+  "url": "https://elpais.com/suscripciones/elpaismas/2026-11-24/ultraligera-en-los-encuentros-el-pais.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-11-24",
+  "es_plan": true,
+  "titulo": "Ultraligera en los Encuentros EL PAÍS",
+  "resumen": "La banda Ultraligera presentará su nuevo disco 'Lapsus' y su próxima gira en un evento exclusivo con música en directo en los Teatros Luchana de Madrid.",
+  "en": {
+   "titulo": "Ultraligera at EL PAÍS Encounters",
+   "resumen": "The band Ultraligera will present their new album 'Lapsus' and their upcoming tour in an exclusive event with live music at the Luchana Theaters in Madrid."
+  },
+  "inicio": "2026-12-09",
+  "fin": "2026-12-09",
+  "hora": null,
+  "lugar": "Teatros Luchana",
+  "municipio": "Madrid",
+  "provincia": "Madrid",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "25d3f7ec34": {
+  "url": "https://www.lavanguardia.com/cultura/20261124/11692163/biennal-d-arts-digitals-arranca-muestra-sobre-pioneros-artistas-actuales-sector.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-24",
+  "es_plan": true,
+  "titulo": "Biennal d'Arts Digitals: Exposición 'Vectors'",
+  "resumen": "La Biennal d'Arts Digitals arranca con la exposición 'Vectors' en el DHub, que explora el arte digital y sirve como pistoletazo de salida para una programación de actividades hasta marzo.",
+  "en": {
+   "titulo": "Biennal d'Arts Digitals: 'Vectors' Exhibition",
+   "resumen": "The Biennal d'Arts Digitals kicks off with the 'Vectors' exhibition at the DHub, exploring digital art and launching a program of activities until March."
+  },
+  "inicio": "2026-11-24",
+  "fin": "2027-03-14",
+  "hora": null,
+  "lugar": "DHub",
+  "municipio": null,
+  "provincia": "Barcelona",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "museos",
+   "actividades"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "94c6b34162": {
+  "url": "https://www.lavanguardia.com/cultura/20261124/11692104/opera-paris-acusada-antisemitismo-berenice-princesa-africana.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-24",
+  "es_plan": true,
+  "titulo": "La Opéra de Paris reestrena 'La Clemenza di Tito'",
+  "resumen": "La Opéra de Paris reestrena la ópera de Mozart 'La Clemenza di Tito' con el montaje de Willy Decker, que se presenta por séptima vez desde 1997.",
+  "en": {
+   "titulo": "Opéra de Paris Restages 'La Clemenza di Tito'",
+   "resumen": "The Opéra de Paris restages Mozart's opera 'La Clemenza di Tito' with Willy Decker's production, presented for the seventh time since 1997."
+  },
+  "inicio": "2026-11-24",
+  "fin": "2026-11-24",
+  "hora": null,
+  "lugar": "Opéra de Paris",
+  "municipio": "París",
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "aaacbae6ea": {
+  "url": "https://www.lavanguardia.com/cultura/20261124/11692025/spielberg-dirigira-western-romantico-protagonizado-cillian-murphy-jessie-buckley.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-24",
+  "es_plan": false
+ },
+ "04af80e557": {
+  "url": "https://www.lavanguardia.com/cultura/20261124/11691609/garriga-vela-detectivesco-regreso-muntaner-38.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-24",
+  "es_plan": true,
+  "titulo": "Reedición de 'Muntaner, 38' de Garriga Vela",
+  "resumen": "La editorial Candaya celebra el 30 aniversario de la novela 'Muntaner, 38' de José Antonio Garriga Vela con una nueva reedición.",
+  "en": {
+   "titulo": "Reissue of 'Muntaner, 38' by Garriga Vela",
+   "resumen": "The publisher Candaya celebrates the 30th anniversary of the novel 'Muntaner, 38' by José Antonio Garriga Vela with a new reissue."
+  },
+  "inicio": "2026-11-24",
+  "fin": "2026-11-24",
+  "hora": null,
+  "lugar": null,
+  "municipio": "Barcelona",
+  "provincia": "Barcelona",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "b9deb004f1": {
+  "url": "https://www.lavanguardia.com/cultura/20261124/11691605/regreso-juan-lobon.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-24",
+  "es_plan": true,
+  "titulo": "Recuperación de 'El mundo de Juan Lobón' de Luis Berenguer",
+  "resumen": "La editorial Libros del Asteroide recupera 'El mundo de Juan Lobón', la celebrada novela de Luis Berenguer, premio de la Crítica en 1967.",
+  "en": {
+   "titulo": "Recovery of 'El mundo de Juan Lobón' by Luis Berenguer",
+   "resumen": "The publisher Libros del Asteroide has recovered 'El mundo de Juan Lobón', the acclaimed novel by Luis Berenguer, winner of the Critics' Award in 1967."
+  },
+  "inicio": "2026-11-24",
+  "fin": "2026-11-24",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": "A Coruña",
+  "ambito": "nacional",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "25ced00254": {
+  "url": "https://www.lavanguardia.com/cultura/20261124/11691583/traductores-arma-secreta-literatura-catalana.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-24",
+  "es_plan": true,
+  "titulo": "Fòrum Internacional de Traductors de Literatura Catalana",
+  "resumen": "Barcelona acoge el Fòrum Internacional de Traductors de Literatura Catalana, reuniendo a más de 140 participantes para debatir sobre la traducción y la literatura catalana.",
+  "en": {
+   "titulo": "International Forum of Catalan Literature Translators",
+   "resumen": "Barcelona hosts the International Forum of Catalan Literature Translators, bringing together over 140 participants to discuss translation and Catalan literature."
+  },
+  "inicio": "2026-11-24",
+  "fin": "2026-11-26",
+  "hora": null,
+  "lugar": "Institut d’Estudis Catalans y CCCB",
+  "municipio": "Barcelona",
+  "provincia": "Barcelona",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "92fa63628a": {
+  "url": "https://www.lavanguardia.com/cultura/20261124/11691548/blai-bonet-tosar-raval-teatre.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-24",
+  "es_plan": true,
+  "titulo": "Pep Tosar estrena 'La casa en obres' sobre Blai Bonet",
+  "resumen": "El teatro Raval celebra el centenario del escritor mallorquín Blai Bonet con el montaje 'La casa en obres' de Pep Tosar, que se estrenó en 1997.",
+  "en": {
+   "titulo": "Pep Tosar Premieres 'La casa en obres' based on Blai Bonet",
+   "resumen": "The Raval theater celebrates the centenary of the Mallorcan writer Blai Bonet with Pep Tosar's production 'La casa en obres', which premiered in 1997."
+  },
+  "inicio": "2026-11-24",
+  "fin": "2026-11-24",
+  "hora": null,
+  "lugar": "Teatro Raval",
+  "municipio": "Barcelona",
+  "provincia": "Barcelona",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "b5d9117262": {
+  "url": "https://www.lavanguardia.com/cultura/20261124/11691499/felipe-vi-lugar-virtual-mancha.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-24",
+  "es_plan": true,
+  "titulo": "Exposición inmersiva sobre Cervantes en Madrid",
+  "resumen": "La Fundación Mutua Madrileña inaugura un nuevo centro cultural en Madrid con una exposición inmersiva dedicada a Cervantes, presentada por el Rey.",
+  "en": {
+   "titulo": "Immersive Exhibition on Cervantes in Madrid",
+   "resumen": "The Fundación Mutua Madrileña inaugurates a new cultural center in Madrid with an immersive exhibition dedicated to Cervantes, presented by the King."
+  },
+  "inicio": "2026-11-23",
+  "fin": "2026-11-23",
+  "hora": null,
+  "lugar": "Fundación Mutua Madrileña",
+  "municipio": "Madrid",
+  "provincia": "Madrid",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "libros",
+   "museos"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "de09e0853c": {
+  "url": "https://www.lavanguardia.com/cultura/20261124/11680183/ethan-hawke-pensamos-placer-felices-verdadera-felicidad-cumplir-responsabilidades-oro-sin-ley.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-24",
+  "es_plan": false
+ },
+ "6a51609476": {
+  "url": "https://llegim.ara.cat/entrevistes/lisa-tuttle-mestra-demanava-redaccio-nostre-millor-amic-li-entregava-altra-cosa_128_5905955.html",
+  "fuente": "Ara (Cultura)",
+  "src": "prensa-ara-cultura",
+  "publicado": "2026-11-24",
+  "es_plan": true,
+  "titulo": "Lisa Tuttle en el Festival 42",
+  "resumen": "La autora Lisa Tuttle, destacada en el Festival 42, presenta su novela 'La meva mort', reeditada por New York Review Books.",
+  "en": {
+   "titulo": "Lisa Tuttle at Festival 42",
+   "resumen": "Author Lisa Tuttle, featured at Festival 42, presents her novel 'La meva mort', reissued by New York Review Books."
+  },
+  "inicio": "2026-11-24",
+  "fin": "2026-11-24",
+  "hora": null,
+  "lugar": "Festival 42",
+  "municipio": "Barcelona",
+  "provincia": "Barcelona",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "bdc1cc156a": {
+  "url": "https://www.ara.cat/cultura/cinema/aniversari-colors-xcentric-celebra-25-anys-referent-cinema-experimental-catalunya_25_5921600.html",
+  "fuente": "Ara (Cultura)",
+  "src": "prensa-ara-cultura",
+  "publicado": "2026-11-24",
+  "es_plan": true,
+  "titulo": "Xcèntric celebra 25 años de cine experimental",
+  "resumen": "El ciclo Xcèntric del CCCB celebra su 25 aniversario del 27 al 29 de noviembre con un programa especial centrado en el color, incluyendo performances y proyecciones.",
+  "en": {
+   "titulo": "Xcèntric Celebrates 25 Years of Experimental Cinema",
+   "resumen": "The Xcèntric cycle at CCCB celebrates its 25th anniversary from November 27th to 29th with a special program focused on color, including performances and screenings."
+  },
+  "inicio": "2026-11-27",
+  "fin": "2026-11-29",
+  "hora": null,
+  "lugar": "CCCB",
+  "municipio": "Barcelona",
+  "provincia": "Barcelona",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "5e77ce042e": {
+  "url": "https://www.ara.cat/cultura/arquitectura/dues-obres-batlle-roig-premiades-world-architecture-festival-2026_25_5921402.html",
+  "fuente": "Ara (Cultura)",
+  "src": "prensa-ara-cultura",
+  "publicado": "2026-11-24",
+  "es_plan": false
+ },
+ "6abd731a88": {
+  "url": "https://www.heraldo.es/ocio-y-cultura/video-brillo-varietes-emocion-una-velada-relevo-para-los-premios-artes-letras-2026-2071403-2.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-24",
+  "es_plan": false
+ },
+ "5d667a5b62": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/24/mad-cool-se-pone-comodo-tendra-una-gran-grada-para-los-conciertos-2071355.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-24",
+  "es_plan": false
+ },
+ "e2ceea3cdc": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/24/232-largometrajes-espanoles-optaran-premios-goya-2027premios-goya-2071344.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-24",
+  "es_plan": false
+ },
+ "8578f42533": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/24/spielberg-dirigira-western-protagonizado-cillian-murphy-jessie-buckley-2071342.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-24",
+  "es_plan": false
+ },
+ "918f13121a": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/24/critica-pelicula-director-david-jimenez-verdaguer-mundo-2071314.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-24",
+  "es_plan": false
+ },
+ "7c4d38eb06": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/24/olimpia-huesca-celebrara-navidad-con-cine-humor-rafa-maza-teatro-musical-2071293.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-24",
+  "es_plan": true,
+  "titulo": "Programación navideña en el Olimpia de Huesca",
+  "resumen": "El Teatro Olimpia de Huesca presenta una programación especial de Navidad del 10 al 30 de diciembre, con cine, humor de Rafa Maza y teatro musical, incluyendo producciones aragonesas y espectáculos familiares.",
+  "en": {
+   "titulo": "Christmas Programming at Olimpia de Huesca",
+   "resumen": "The Olimpia Theater in Huesca presents a special Christmas program from December 10 to 30, featuring cinema, Rafa Maza's comedy, and musical theater, including Aragonese productions and family shows."
+  },
+  "inicio": "2026-12-10",
+  "fin": "2026-12-30",
+  "hora": null,
+  "lugar": "Teatro Olimpia",
+  "municipio": "Huesca",
+  "provincia": "Huesca",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "musica",
+   "fiestas",
+   "ninos"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "a2bcff5f0f": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/24/eduard-fernandez-limites-hija-alguna-vez-hecho-era-debil-2071283.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-24",
+  "es_plan": false
+ },
+ "3b50fbfd5b": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/24/lola-herrera-91anos-tengo-cadera-nueva-meses-rapidamente-vuelto-escenario-2069571.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-24",
+  "es_plan": false
+ },
+ "738d38b495": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/24/miguel-bose-70anos-estoy-orgulloso-ser-espanol-no-vamos-cansar-todo-venido-encima-espana-2064804.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-24",
+  "es_plan": false
+ },
+ "8584e0d09d": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/24/pancho-varona-giras-joaquin-sabina-presumia-persona-sobre-escenario-admiracion-joan-manuel-serrat-2063915.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-24",
+  "es_plan": false
+ },
+ "43e13e10d9": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/24/andres-roca-rey-30anos-vivo-solo-casa-campo-disfruto-mucho-necesito-concentrado-2066723.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-24",
+  "es_plan": false
+ },
+ "02686d7f6e": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/24/kaseo-46anos-dia-calle-alfonso-zaragoza-chico-dio-algo-conservo-emocionar-2071254.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-24",
+  "es_plan": true,
+  "titulo": "Kase.O inicia gira de conciertos en enero",
+  "resumen": "Kase.O lanzará su nuevo disco 'Camisa de fuerza' y comenzará una gira de conciertos por España y América a partir de enero. El rapero comparte anécdotas sobre su relación con los fans.",
+  "en": {
+   "titulo": "Kase.O Starts Concert Tour in January",
+   "resumen": "Kase.O will release his new album 'Camisa de fuerza' and begin a concert tour across Spain and America starting in January. The rapper shares anecdotes about his relationship with fans."
+  },
+  "inicio": "2027-01-01",
+  "fin": "2027-01-01",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "52111e5d51": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/24/joan-manuel-serrat-82anos-proximas-elecciones-votar-favor-bien-comun-libertad-amplia-justicia-justa-2071075.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-24",
+  "es_plan": false
+ },
+ "c7324b608c": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/24/joaquin-sabina-77anos-noche-estabamos-pablo-milanes-perjudicados-whisky-calzoncillos-vinieron-policias-2071059.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-24",
+  "es_plan": false
+ },
+ "b2e9333452": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/24/sergio-hernandez-finalista-planeta-2026-isabel-allende-me-ha-dicho-que-no-me-ponga-nervioso-que-escriba-para-mi-2071245.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-24",
+  "es_plan": false
+ },
+ "567bfe55cc": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/24/luis-zahera-60-anos-desayunar-cuatro-huevos-fritos-pan-fruta-nueces-sandwich-jamon-queso-fundido-leche-avena-polen-2071117.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-24",
+  "es_plan": false
+ },
+ "a09b583b16": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/24/miguel-angel-revilla-padre-pesetas-mes-estudiar-bilbao-hecho-todo-vendido-trajes-veranos-recorria-espana-encuestas-2071061.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-24",
+  "es_plan": false
+ },
+ "9175ba6b84": {
+  "url": "https://www.elnortedecastilla.es/culturas/teatro/desvan-calderon-convierte-zoo-espectaculos-pequenos-20261124145320-nt.html",
+  "fuente": "El Norte de Castilla (Culturas)",
+  "src": "prensa-nortecastilla-culturas",
+  "publicado": "2026-11-24",
+  "es_plan": false
+ },
+ "9c9fe68b5f": {
+  "url": "https://www.elnortedecastilla.es/culturas/libros/eva-orue-cronista-siglo-xxi-miercoles-circulo-20261124104733-nt.html",
+  "fuente": "El Norte de Castilla (Culturas)",
+  "src": "prensa-nortecastilla-culturas",
+  "publicado": "2026-11-24",
+  "es_plan": true,
+  "titulo": "Eva Orúe en el Círculo de Recreo de Valladolid",
+  "resumen": "La periodista Eva Orúe participará en una conversación este miércoles en el Círculo de Recreo de Valladolid. Estará acompañada por Angélica Tanarro, conductora del ciclo organizado por la Fundación Delibes.",
+  "en": {
+   "titulo": "Eva Orúe at the Círculo de Recreo in Valladolid",
+   "resumen": "Journalist Eva Orúe will participate in a conversation this Wednesday at the Círculo de Recreo in Valladolid. She will be accompanied by Angélica Tanarro, host of the cycle organized by the Fundación Delibes."
+  },
+  "inicio": "2026-11-24",
+  "fin": "2026-11-24",
+  "hora": "19:30",
+  "lugar": "Círculo de Recreo",
+  "municipio": "Valladolid",
+  "provincia": "Valladolid",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "1a7b77e105": {
+  "url": "https://www.ideal.es/culturas/almeria/decena-ojeadores-ojean-futuro-flamenco-almeria-20261124141200-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-11-24",
+  "es_plan": false
+ },
+ "ec631d3fb1": {
+  "url": "https://www.ideal.es/culturas/almeria/encendido-almeria-fecha-millon-medio-luces-abrir-20261124134051-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-11-24",
+  "es_plan": false
+ },
+ "b0d87bf422": {
+  "url": "https://www.ideal.es/culturas/almeria/amigos-alcazaba-preside-xix-encuentro-asociaciones-defensa-20261124121108-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-11-24",
+  "es_plan": false
+ },
+ "f23a61bed2": {
+  "url": "https://www.ideal.es/culturas/almeria/buleria-guleria-david-bisbal-protagonista-anuncio-navidad-20261124111820-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-11-24",
+  "es_plan": false
+ },
+ "6f2ddd0d08": {
+  "url": "https://www.hoy.es/culturas/toros/feria-taurina-olivenza-2027-fecha-oficial-20261124083350-nt.html",
+  "fuente": "Hoy (Culturas)",
+  "src": "prensa-hoy-culturas",
+  "publicado": "2026-11-24",
+  "es_plan": true,
+  "titulo": "Feria Taurina de Olivenza 2027",
+  "resumen": "La Feria Taurina de Olivenza se celebrará los días 5, 6 y 7 de marzo de 2027. El ciclo contará con un total de cuatro festejos taurinos.",
+  "en": {
+   "titulo": "Olivenza Bullfighting Fair 2027",
+   "resumen": "The Olivenza Bullfighting Fair will take place on March 5th, 6th, and 7th, 2027. The event will feature a total of four bullfighting shows."
+  },
+  "inicio": "2027-03-05",
+  "fin": "2027-03-07",
+  "hora": null,
+  "lugar": null,
+  "municipio": "Olivenza",
+  "provincia": "Badajoz",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "deporte",
+   "fiestas"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "3df46e3b71": {
+  "url": "https://www.diariovasco.com/culturas/cine/cine-tabakalera-2027-20261124123240-nt.html",
+  "fuente": "El Diario Vasco (Culturas)",
+  "src": "prensa-diariovasco-culturas",
+  "publicado": "2026-11-24",
+  "es_plan": false
+ },
+ "025991f6c6": {
+  "url": "https://www.diariovasco.com/culturas/series/familia-panini-rescatar-lote-cromos-queria-vender-empresa-marvel-20261122182022-nt.html",
+  "fuente": "El Diario Vasco (Culturas)",
+  "src": "prensa-diariovasco-culturas",
+  "publicado": "2026-11-24",
+  "es_plan": false
+ },
+ "a9b7a3f946": {
+  "url": "https://www.diariovasco.com/culturas/dantzaz-cierra-etapa-compania-20261124001215-nt.html",
+  "fuente": "El Diario Vasco (Culturas)",
+  "src": "prensa-diariovasco-culturas",
+  "publicado": "2026-11-24",
+  "es_plan": false
+ },
+ "bb983d01a0": {
+  "url": "https://www.diariovasco.com/culturas/obra-teatro-parpados-escenario-20261124000915-nt.html",
+  "fuente": "El Diario Vasco (Culturas)",
+  "src": "prensa-diariovasco-culturas",
+  "publicado": "2026-11-24",
+  "es_plan": true,
+  "titulo": "Obra de teatro sensorial en Tabakalera",
+  "resumen": "'Pupa, pupita, pupila. Masaje de la visión' es una obra de teatro sensorial que se presenta en Tabakalera el día 1. La propuesta llega de la mano de Kutxa Fundazioa.",
+  "en": {
+   "titulo": "Sensory theater play at Tabakalera",
+   "resumen": "'Pupa, pupita, pupila. Masaje de la visión' is a sensory theater play presented at Tabakalera on the 1st. The production is brought by Kutxa Fundazioa."
+  },
+  "inicio": "2026-12-01",
+  "fin": "2026-12-01",
+  "hora": null,
+  "lugar": "Tabakalera",
+  "municipio": "San Sebastián",
+  "provincia": "Gipuzkoa",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "0ec16bba6d": {
+  "url": "https://www.lasprovincias.es/culturas/vetusta-morla-ivan-ferreiro-love-you-primeras-20261124102828-nt.html",
+  "fuente": "Las Provincias (Culturas)",
+  "src": "prensa-lasprovincias-culturas",
+  "publicado": "2026-11-24",
+  "es_plan": true,
+  "titulo": "Mediterránea 2027: Vetusta Morla, Iván Ferreiro y La La Love You",
+  "resumen": "El festival Mediterránea 2027 de Gandia anuncia sus primeras confirmaciones: Vetusta Morla, Iván Ferreiro y La La Love You. El evento se celebrará del 12 al 14 de agosto y las entradas ya están a la venta.",
+  "en": {
+   "titulo": "Mediterránea 2027: Vetusta Morla, Iván Ferreiro, and La La Love You",
+   "resumen": "The Mediterránea 2027 festival in Gandia announces its first confirmations: Vetusta Morla, Iván Ferreiro, and La La Love You. The event will take place from August 12th to 14th, and tickets are already on sale."
+  },
+  "inicio": "2027-08-12",
+  "fin": "2027-08-14",
+  "hora": null,
+  "lugar": null,
+  "municipio": "Gandia",
+  "provincia": "Valencia",
+  "ambito": "local",
+  "gratis": null,
+  "precio": "entradas ya a la venta",
+  "temas": [
+   "musica",
+   "fiestas"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
  }
 }

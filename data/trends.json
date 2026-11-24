@@ -72,6 +72,16 @@
    ]
   },
   {
+   "term": "ampliacion permiso nacimiento",
+   "traffic": 10000,
+   "lastSeen": "2026-11-24",
+   "news": [
+    "Claves del nuevo permiso de duelo por fallecimiento: cuánto crece y a qué familiares beneficia",
+    "Permiso por nacimiento de 20 semanas: a quién se aplica, qué pasa con los bebés ya nacidos y cuándo entra en vigor",
+    "Gabinete de Comunicación"
+   ]
+  },
+  {
    "term": "abascal jordi wild",
    "traffic": 5000,
    "lastSeen": "2026-11-11",
@@ -479,6 +489,16 @@
     "Nvidia recupera a Jensen Huang como consejero delegado",
     "Trump pide al consejo de Nvidia que readmita a Jensen Huang como CEO",
     "Nvidia se dispara casi un 30% en bolsa tras restituir a Jensen Huang como presidente ejecutivo"
+   ]
+  },
+  {
+   "term": "atentado coche bomba colombia",
+   "traffic": 2000,
+   "lastSeen": "2026-11-24",
+   "news": [
+    "Abelardo de la Espriella, ante el último atentado en Colombia: \"Juro que se lo haré pagar a los narcoterroristas\"",
+    "Un atentado con coche bomba en el centro de Colombia deja al menos 23 heridos",
+    "Un atentado en el centro de Colombia deja al menos 23 heridos y graves daños materiales"
    ]
   },
   {
@@ -1255,6 +1275,26 @@
     "De las freidoras de Iberostar al depósito de un A350: a bordo del primer avión con la mezcla de combustible sostenible el futuro",
     "Moeve estrena su combustible procedente del hidrógeno verde en un primer vuelo comercial",
     "Moeve prueba el queroseno fabricado con aceite de cocina en un Madrid-Lisboa"
+   ]
+  },
+  {
+   "term": "armada de rusia",
+   "traffic": 500,
+   "lastSeen": "2026-11-24",
+   "news": [
+    "Guerras interconectadas y costes al alza: la guerra de Ucrania agita el Mediterráneo",
+    "El hundimiento de la corbeta ‘Merkury’ pone en evidencia las grietas de la defensa naval de Rusia",
+    "Otra corbeta rusa destruida por los ucranianos, ahora en Libia"
+   ]
+  },
+  {
+   "term": "repartidor",
+   "traffic": 500,
+   "lastSeen": "2026-11-24",
+   "news": [
+    "Muere un repartidor tras sufrir un accidente con un patinete en Sevilla",
+    "Fallece un trabajador de reparto a domicilio en Sevilla tras un atropello",
+    "Muere en Sevilla un repartidor tras chocar su patinete con un turismo"
    ]
   },
   {
@@ -2328,6 +2368,66 @@
     "Choi Dong-seok parcialmente absuelto»: la demanda por adulterio llega al Tribunal Supremo… La amiga masculina de Park Ji-yoon presenta recurso de casación",
     "Park Ji-yoon: \"Sentencia de pago de 1.500 millones a Choi Dong-seok... apelo por el bien de mis hijos\"... \"La mayor parte de los gastos de manutención los cubrí yo\"",
     "Choi Dong-seok busca retirar su demanda para proteger a sus hijos"
+   ]
+  },
+  {
+   "term": "zack snyder",
+   "traffic": 200,
+   "lastSeen": "2026-11-24",
+   "news": [
+    "'Escape From New York' Remake: Robert Rodriguez Is 'Backup' for Zack Snyder",
+    "'Escape From New York': John Carpenter Says He \"Demanded\" to Do the Score to Zack Snyder Reboot",
+    "Is Zack Snyder’s Escape from New York Getting a Backup Director? John Carpenter Has Robert Rodriguez on Standby"
+   ]
+  },
+  {
+   "term": "partidos de champions league",
+   "traffic": 200,
+   "lastSeen": "2026-11-24",
+   "news": [
+    "Champions League: horario y dónde ver los partidos de la Jornada 5",
+    "Previa de la jornada 5 de la Champions League",
+    "Horarios de la quinta jornada de la Champions"
+   ]
+  },
+  {
+   "term": "michael olise",
+   "traffic": 200,
+   "lastSeen": "2026-11-24",
+   "news": [
+    "Jamal Musiala controversy the nadir of Bayern Munich’s turbulent week",
+    "Musiala wanted privacy and support over health issues. Some Bayern legends aren’t giving him that",
+    "Michael Olise sends message to Bayern Munich over Jamal Musiala dispute"
+   ]
+  },
+  {
+   "term": "hielo",
+   "traffic": 200,
+   "lastSeen": "2026-11-24",
+   "news": [
+    "La pista de hielo de Bilbao no abre a tiempo por las fuertes rachas de viento",
+    "Los Pirineos se quedan sin glaciares: \"No solo pierden hielo, también han dejado de moverse\"",
+    "Los expertos advierten: los glaciares pirenaicos no solo están perdiendo hielo, sino que además algunos han..."
+   ]
+  },
+  {
+   "term": "youth league",
+   "traffic": 200,
+   "lastSeen": "2026-11-24",
+   "news": [
+    "McCallion: Under-19s Ready For UEFA Youth League Test",
+    "Is Rangers vs AZ on TV? Live stream and channel for the UEFA Youth League showdown",
+    "UEFA Youth League Third Round Tickets On Sale Now!"
+   ]
+  },
+  {
+   "term": "cementerio",
+   "traffic": 200,
+   "lastSeen": "2026-11-24",
+   "news": [
+    "Calpe exhumó irregularmente los cadáveres de 20 extranjeros de su cementerio para enterrar a españoles",
+    "Macabros privilegios en el cementerio: Calp descubre que se desenterraron ilegalmente a 20 fallecidos extranjeros para enterrar a vecinos",
+    "Calp acredita una veintena de exhuminaciones ilegales de residentes extranjeros para enterrar a españoles"
    ]
   },
   {
