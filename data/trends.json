@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24",
+ "updated": "2026-11-25",
  "terms": [
   {
    "term": "carlos alcaraz",
@@ -159,46 +159,6 @@
     "Barcelona - Villarreal en directo | Lamine falla un penalti",
     "Hansi Flick: \"Estamos en un buen momento\"",
     "Once del Barça con novedades en defensa y ataque"
-   ]
-  },
-  {
-   "term": "grúa",
-   "traffic": 2000,
-   "lastSeen": "2026-11-10",
-   "news": [
-    "China está construyendo una grúa capaz de levantar 14.000 toneladas. Necesita dos unidades trabajando juntas",
-    "La grúa que puede levantar hasta 14 mil toneladas: Serían 2 mil ángeles de la independencia",
-    "XCMG monta la primera unidad de su grúa de 14.000 t"
-   ]
-  },
-  {
-   "term": "piedralaves",
-   "traffic": 2000,
-   "lastSeen": "2026-11-10",
-   "news": [
-    "Ordenan evacuar Piedralaves (Ávila), con 2.200 vecinos, por riesgo de rebosamiento de la presa por las lluvias de la borrasca Bruna",
-    "Ordenan evacuar a los 2.200 vecinos de Piedralaves (Ávila) por riesgo de rebosamiento de presa",
-    "Evacúan un municipio de Ávila por el posible rebosamiento de una presa"
-   ]
-  },
-  {
-   "term": "fuego",
-   "traffic": 2000,
-   "lastSeen": "2026-11-10",
-   "news": [
-    "«Se me han quemado los 300 kilos de forraje que guardaba, no he llegado a tiempo»",
-    "El Gobierno Vasco reduce a Situación 0 el Plan Especial de Emergencias por Incendios Forestales ante la evolución favorable del incendio de Zaldibia - Gobierno Vasco",
-    "Testimonios de baserritarras en torno al incendio de Zaldibia: llamas de hasta 10 metros"
-   ]
-  },
-  {
-   "term": "bomba malaga",
-   "traffic": 2000,
-   "lastSeen": "2026-11-10",
-   "news": [
-    "La falsa alarma por una maleta sospechosa moviliza a la Policía y paraliza el centro de Málaga",
-    "Amenaza de bomba en Málaga tras la muerte de un policía en Asturias al estallar una mochila",
-    "Gran despliegue policial en Muelle Heredia por una maleta sin dueño: se ha cortado el tráfico y el paso a peatones"
    ]
   },
   {
@@ -502,36 +462,6 @@
    ]
   },
   {
-   "term": "pago",
-   "traffic": 1000,
-   "lastSeen": "2026-11-10",
-   "news": [
-    "La Audiencia avala investigar a Zapatero por presunto tráfico de influencias en Bolivia",
-    "La Audiencia Nacional avala que se investigue a Zapatero por cobrar de empresarios peruanos por su conexión con la causa",
-    "La Audiencia Nacional avala que Calama investigue los negocios de Zapatero en Bolivia"
-   ]
-  },
-  {
-   "term": "david walliams",
-   "traffic": 1000,
-   "lastSeen": "2026-11-10",
-   "news": [
-    "David Walliams named as celebrity who tried to block publication of sexual misconduct allegations",
-    "‘It wasn’t long until he asked me if I’d ever had sex before’: David Walliams accused of preying on young women for sex",
-    "David Walliams accused of preying on teenage girls as young as 15 | ITV News"
-   ]
-  },
-  {
-   "term": "programa electoral pp",
-   "traffic": 1000,
-   "lastSeen": "2026-11-10",
-   "news": [
-    "Feijóo promete sustituir el ingreso mínimo vital por una \"renta de activación\" que se les retirará a quienes rechacen empleos sin \"causa justificada\"",
-    "El PP asume en su programa electoral la prioridad nacional de Vox, modificar el IMV y atajar el \"absentismo injustificado\"",
-    "Feijóo unificará los subsidios por desempleo en uno solo y lo retirará a quien rechace una oferta de trabaj..."
-   ]
-  },
-  {
    "term": "economía",
    "traffic": 1000,
    "lastSeen": "2026-11-11",
@@ -752,29 +682,23 @@
    ]
   },
   {
-   "term": "atentado",
-   "traffic": 500,
-   "lastSeen": "2026-11-10",
+   "term": "cayetana álvarez de toledo",
+   "traffic": 1000,
+   "lastSeen": "2026-11-25",
    "news": [
-    "Crisis de salud mental o un ultra con conexiones oscuras: la investigación busca determinar el móvil del terrorista de Cracovia",
-    "Muere en el hospital el autor del tiroteo de Cracovia que dejó seis muertos y quince heridos",
-    "Polonia homenajea a los seis fallecidos en el tiroteo en Cracovia"
+    "Cayetana Álvarez de Toledo, en clave personal: su padre, su exmarido Joaquín Güell, su título nobiliario y sus hijas",
+    "Cayetana Álvarez de Toledo (52 años), sobre su infancia: \"Nunca he tenido una familia ordenada y convencional con papá, mamá y los niños tomando el desayuno juntos\"",
+    "Cayetana Álvarez de Toledo: \"De pequeña quería ser arqueóloga, luego pasé a la historia, después al periodismo y ahora, he querido influir en la política, que es el futuro\""
    ]
   },
   {
-   "term": "katrin ortega",
-   "traffic": 500,
-   "lastSeen": "2026-11-10",
-   "news": []
-  },
-  {
-   "term": "ana botín",
-   "traffic": 500,
-   "lastSeen": "2026-11-10",
+   "term": "incapacidad temporal",
+   "traffic": 1000,
+   "lastSeen": "2026-11-25",
    "news": [
-    "Ana Botín anuncia que será la última de su familia al frente del Santander",
-    "Entrevista a Ana Botín: \"No habrá otro Botín al frente de Santander\"",
-    "La presidenta de Banco Santander presagia el fin de la saga: \"No habrá otro Botín dirigiendo el banco\""
+    "VW Navarra propone tocar los complementos de incapacidad temporal para reducir las bajas",
+    "¿Y si pudieras justificar tres días de ausencia por enfermedad sin pedir cita con tu médico?",
+    "Fedea plantea crear la baja médica flexible para reducir un gasto disparado a 16.500 millones"
    ]
   },
   {
@@ -1298,83 +1222,23 @@
    ]
   },
   {
-   "term": "andreas christensen",
-   "traffic": 200,
-   "lastSeen": "2026-11-10",
+   "term": "kilmar abrego",
+   "traffic": 500,
+   "lastSeen": "2026-11-25",
    "news": [
-    "Christensen renuncia, entre lágrimas, a Dinamarca porque \"no está preparado\"",
-    "Momento duro para Christensen: \"Lo tenía llorando al teléfono\"",
-    "Riemer: \"¿Christensen? Estaba casi llorando cuando le llamé\""
+    "Kilmar Ábrego, el salvadoreño que se enfrentó a Trump para no ser deportado a las cárceles de Bukele y se convirtió en un símbolo, tira la toalla y se va a España",
+    "Abrego García, símbolo de la resistencia a la represión migratoria de Trump, se autodeporta a España",
+    "Kilmar Ábrego llega a España como turista huyendo desde EEUU tras enfrentarse a Trump"
    ]
   },
   {
-   "term": "alerta de vientos fuertes",
-   "traffic": 200,
-   "lastSeen": "2026-11-10",
+   "term": "marcos llorente caviar",
+   "traffic": 500,
+   "lastSeen": "2026-11-25",
    "news": [
-    "Aviso amarillo por fenómenos costeros y viento este miércoles y jueves en Cartagena",
-    "La borrasca Charles pone en alerta por fuertes vientos a toda la Región de Murcia y trae lluvias",
-    "AEMET activa el aviso amarillo por viento para este miércoles 11 de noviembre en Alhama"
-   ]
-  },
-  {
-   "term": "fever",
-   "traffic": 200,
-   "lastSeen": "2026-11-10",
-   "news": [
-    "Sophie Cunningham Announces Update Ahead of Potential Career Move",
-    "\"It's clearly so political\" - Sophie Cunningham calls out WNBA over three-point contest selections",
-    "Indiana Fever Guard Sophie Cunningham Criticizes WNBA 3-Point Contest Selection Process"
-   ]
-  },
-  {
-   "term": "movistar arena",
-   "traffic": 200,
-   "lastSeen": "2026-11-10",
-   "news": [
-    "Fall Out Boy lanzan nuevo single, ‘Aces’, y confirman concierto en Madrid",
-    "La gira internacional de Fall Out Boy pasará por España",
-    "Fall Out Boy, conciertos y entradas 2027 en España"
-   ]
-  },
-  {
-   "term": "the game awards - juego del año",
-   "traffic": 200,
-   "lastSeen": "2026-11-10",
-   "news": [
-    "Hasta el momento, solo un videojuego ha logrado ser elegido GOTY tanto por la crítica como por los jugadores",
-    "En 12 años de historia, un solo juego ha logrado ser elegido \"Juego del Año\" por la crítica y los jugadores en los The Game Awards",
-    "GOTY: Baldur's Gate 3 logra consenso entre crítica y"
-   ]
-  },
-  {
-   "term": "a-49",
-   "traffic": 200,
-   "lastSeen": "2026-11-10",
-   "news": [
-    "Susto en la A-49: un adelantamiento frustrado acaba en una peligrosa secuencia entre un camión y un coche a la altura de Gines",
-    "Salud amplía el cribado neonatal con el estudio de dos nuevas patologías",
-    "La medicina genómica revoluciona el cribado neonatal para la detección de enfermedades raras"
-   ]
-  },
-  {
-   "term": "piquete",
-   "traffic": 200,
-   "lastSeen": "2026-11-10",
-   "news": [
-    "La secretaria de Juventud de CCOO: \"Mi derecho a hacer piquetes está por encima del derecho de la gente a trabajar\"",
-    "El Sindicato de Inquilinas llama a \"piquetes nocturnos\" para cerrar comercios y a que el 11-N sea \"caótico\": \"La liaremos parda\"",
-    "El Sindicato de Inquilinas de Córdoba reclama un cambio de modelo para garantizar el derecho a la vivienda"
-   ]
-  },
-  {
-   "term": "6 de diciembre",
-   "traffic": 200,
-   "lastSeen": "2026-11-10",
-   "news": [
-    "El BOE confirma que el 6 de diciembre es festivo y cae en domingo: se pasará al lunes 7 en 10 comunidades que disfrutarán de un puente laboral y escolar de 4 días",
-    "Confirmado por el BOE: en diciembre habrá un puente de cuatro días seguidos, pero solo en nueve comunidades y una ciudad autónoma",
-    "Cuándo es el próximo día festivo en España: cae en domingo y habrá un puente de cuatro días en estas comunidades autónomas"
+    "Marcos Llorente desata la polémica por mostrar en redes a su hija comiendo caviar: de las críticas de Gabriel Rufián o Alberto Garzón a la respuesta del futbolista",
+    "La dura respuesta de Marcos Llorente a Rufián tras llamarle “patriota de pandereta”",
+    "Dani Mateo reacciona al ver a Marcos Llorente dando caviar a su hija: \"Para la langosta la chiquilla no tiene dientes\""
    ]
   },
   {
@@ -2431,6 +2295,56 @@
    ]
   },
   {
+   "term": "carles puigdemont",
+   "traffic": 200,
+   "lastSeen": "2026-11-25",
+   "news": [
+    "Spanish court removes last hurdle to Catalan leader’s return from exile",
+    "Puigdemont does not quit",
+    "He’s coming home: Catalan leader Puigdemont plans return to Spain"
+   ]
+  },
+  {
+   "term": "petróleo brent",
+   "traffic": 200,
+   "lastSeen": "2026-11-25",
+   "news": [
+    "Deutsche Bank prevé que el petróleo Brent caiga 20 dólares más por barril: \"El exceso de oferta de crudo se está reestableciendo contra todo pronóstico\"",
+    "Respiro petrolero para la economía mundial",
+    "Del petróleo a más de 100 dólares el barril a un posible desplome: el mercado se prepara para un exceso de oferta"
+   ]
+  },
+  {
+   "term": "cumpleaños de tamara falco",
+   "traffic": 200,
+   "lastSeen": "2026-11-25",
+   "news": [
+    "Entramos en la gran fiesta de Tamara Falcó por su 45 cumpleaños: \"Pensaba que iba a una cena que daba un inversor y me encontré el local lleno de gente\"",
+    "Íñigo Onieva organiza una gran fiesta para Tamara Falcó por su 45 cumpleaños",
+    "Vaqueros y camisa de rayas: la combinación infalible para vestir bien como Tamara Falcó en su 45º cumpleaños"
+   ]
+  },
+  {
+   "term": "henri parot",
+   "traffic": 200,
+   "lastSeen": "2026-11-25",
+   "news": [
+    "La Audiencia Nacional revoca el tercer grado del etarra Henri Parot ante la “extrema gravedad” de sus delitos",
+    "La Audiencia Nacional revoca el tercer grado a Unai Parot, que lleva 35 años en prisión",
+    "El juez anula el tercer grado al etarra Henri Parot pero mantiene su régimen de semilibertad"
+   ]
+  },
+  {
+   "term": "3djuegos",
+   "traffic": 200,
+   "lastSeen": "2026-11-25",
+   "news": [
+    "GTA VI ha hecho que Call of Duty y Fortnite pierdan jugadores",
+    "Los creadores de Call of Duty pensaban que el estreno de GTA VI les iba a beneficiar. De momento, son los mayores víctimas del juego de Rockstar",
+    "Call of Duty sufre por culpa de GTA 6: el número de jugadores del shooter bajó enormemente durante el lanzamiento"
+   ]
+  },
+  {
    "term": "solucion tildes wordle hoy",
    "traffic": 100,
    "lastSeen": "2026-11-14",
@@ -2732,6 +2646,14 @@
     "Manolo González: “Sin mí, los jugadores se han liberado y al Espanyol le ha ido bien”",
     "Manolo González, sobre el desgaste de su Espanyol: \"Imagínate si tu coche puede ir a 100 y lo pones a 120 siempre...\"",
     "Manolo González rompe su silencio: \"Hace un año iba a ser el Ferguson del Espanyol...\""
+   ]
+  },
+  {
+   "term": "posiciones de sabah u-19 contra barcelona sub-19",
+   "traffic": 100,
+   "lastSeen": "2026-11-25",
+   "news": [
+    "Sabah suffer 7-0 defeat to Barcelona in UEFA Youth League"
    ]
   }
  ]
