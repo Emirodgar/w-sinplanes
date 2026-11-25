@@ -226,6 +226,22 @@
   ],
   "a_cubierto": null
  },
+ "3942429780": {
+  "id": "f450423116",
+  "es": {
+   "titulo": "Cine: Lionel",
+   "resumen": "Proyección de la película 'Lionel', un viaje por carretera que se convierte en un ajuste de cuentas familiar. Incluye la presencia del director Carlos Sáiz."
+  },
+  "en": {
+   "titulo": "Film: Lionel",
+   "resumen": "Screening of the film 'Lionel', a road trip that turns into a family reckoning. Includes the presence of director Carlos Sáiz."
+  },
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": true
+ },
  "4049807437": {
   "id": "8046fed329",
   "es": {
@@ -240,6 +256,22 @@
    "cultura"
   ],
   "a_cubierto": null
+ },
+ "4053225099": {
+  "id": "123b8bb99d",
+  "es": {
+   "titulo": "Beethoven: El genio que desafió al silencio",
+   "resumen": "Conferencia sobre la vida y obra de Ludwig van Beethoven, explorando su genialidad, su carácter y su lucha contra la sordera. Se conmemorará el bicentenario de su fallecimiento."
+  },
+  "en": {
+   "titulo": "Beethoven: The Genius Who Defied Silence",
+   "resumen": "A lecture on the life and work of Ludwig van Beethoven, exploring his genius, character, and struggle against deafness. The bicentennial of his death will be commemorated."
+  },
+  "temas": [
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": true
  },
  "4123046151": {
   "id": "63ddc6b958",
@@ -54179,6 +54211,1437 @@
    "resumen": "The Argentine company Sutottos presents \"Feliz día\" at the Teatro Barakaldo, an existential comedy reflecting on the imperative of happiness through the celebration of a 40th birthday."
   },
   "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "85e77f2a66": {
+  "id": "3c79aec408",
+  "es": {
+   "titulo": "Antonio, me aburro",
+   "resumen": "Una obra de teatro sobre Pilar y Antonio, una pareja atrapada en la rutina. La llegada de un nuevo vecino despierta en Pilar la ilusión de un amor soñado, pero pronto descubrirá que las apariencias engañan."
+  },
+  "en": {
+   "titulo": "Antonio, I'm bored",
+   "resumen": "A play about Pilar and Antonio, a couple trapped in routine. The arrival of a new neighbor awakens in Pilar the illusion of a dreamed-of love, but she will soon discover that appearances can be deceiving."
+  },
+  "temas": [
+   "cultura",
+   "teatro"
+  ],
+  "a_cubierto": true
+ },
+ "e88a079309": {
+  "id": "efa42a3b1e",
+  "es": {
+   "titulo": "Exploradores de la Navidad: Taller infantil",
+   "resumen": "Taller de Navidad para niños de 4 a 10 años. Aprenderán sobre cómo se celebra esta fiesta en diferentes países, leerán cuentos y crearán adornos navideños."
+  },
+  "en": {
+   "titulo": "Christmas Explorers: Children's Workshop",
+   "resumen": "Christmas workshop for children aged 4 to 10. They will learn about how this holiday is celebrated in different countries, read stories, and create Christmas decorations."
+  },
+  "temas": [
+   "ninos",
+   "cultura",
+   "actividades",
+   "libros"
+  ],
+  "a_cubierto": true
+ },
+ "d1259ca537": {
+  "id": "3bc11a6f77",
+  "es": {
+   "titulo": "Recital de flamenco: Beatriz Ballesteros",
+   "resumen": "Un recital de flamenco clásico con la voz de la cantaora emergente Beatriz Ballesteros, acompañada por Mario Calderón a la guitarra y Josele Luque a la percusión."
+  },
+  "en": {
+   "titulo": "Flamenco Recital: Beatriz Ballesteros",
+   "resumen": "A classical flamenco recital featuring the voice of emerging singer Beatriz Ballesteros, accompanied by Mario Calderón on guitar and Josele Luque on percussion."
+  },
+  "temas": [
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "5d9c50973c": {
+  "id": "9fd66de19b",
+  "es": {
+   "titulo": "Cantajuegos: Viaje de risas y valores",
+   "resumen": "Espectáculo infantil con personajes como el Cocodrilo y la Vaca Lola. Cuatro amigos vivirán aventuras llenas de música, risas y valores como la amistad y el respeto."
+  },
+  "en": {
+   "titulo": "Cantajuegos: A Journey of Laughter and Values",
+   "resumen": "Children's show featuring characters like the Crocodile and Lola the Cow. Four friends will experience adventures full of music, laughter, and values such as friendship and respect."
+  },
+  "temas": [
+   "ninos",
+   "musica",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "bacf9c8cf0": {
+  "id": "320f9021b1",
+  "es": {
+   "titulo": "Cantando a la Navidad: Concierto navideño",
+   "resumen": "Un concierto que reúne canciones tradicionales, villancicos populares y música navideña de diversas culturas, celebrando la Navidad con ilusión y esperanza."
+  },
+  "en": {
+   "titulo": "Singing to Christmas: Christmas Concert",
+   "resumen": "A concert featuring traditional songs, popular carols, and Christmas music from various cultures, celebrating Christmas with joy and hope."
+  },
+  "temas": [
+   "musica",
+   "navidad",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "ad8793fad5": {
+  "id": "75184475ee",
+  "es": {
+   "titulo": "Cantándole a la Navidad: Flamenco y tradición",
+   "resumen": "Un concierto flamenco que une tradición y sentimiento para celebrar la Navidad. Contará con Cristina Soler al cante, Silvia Fernández al baile y David Silva a la guitarra."
+  },
+  "en": {
+   "titulo": "Singing to Christmas: Flamenco and Tradition",
+   "resumen": "A flamenco concert that blends tradition and emotion to celebrate Christmas. It will feature Cristina Soler on vocals, Silvia Fernández on dance, and David Silva on guitar."
+  },
+  "temas": [
+   "musica",
+   "navidad",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "2071e5046b": {
+  "id": "4db58881f9",
+  "es": {
+   "titulo": "Casandra: Profecía y condena",
+   "resumen": "Una obra de teatro sobre Casandra, princesa de Troya, que posee el don de la profecía pero nadie cree en sus visiones, lo que la condena a presenciar el horror."
+  },
+  "en": {
+   "titulo": "Cassandra: Prophecy and Curse",
+   "resumen": "A play about Cassandra, princess of Troy, who possesses the gift of prophecy but no one believes her visions, condemning her to witness the horror."
+  },
+  "temas": [
+   "cultura",
+   "teatro"
+  ],
+  "a_cubierto": true
+ },
+ "7148a3b531": {
+  "id": "874556ed1c",
+  "es": {
+   "titulo": "Cine: La voz quebrada",
+   "resumen": "Proyección de la película 'La voz quebrada', que narra la historia de Federico García Lorca y Juan Ramírez de Lucas en el verano de 1936. Incluye la presencia del director."
+  },
+  "en": {
+   "titulo": "Film: The Broken Voice",
+   "resumen": "Screening of the film 'The Broken Voice', which tells the story of Federico García Lorca and Juan Ramírez de Lucas in the summer of 1936. Includes the director's presence."
+  },
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": true
+ },
+ "da692c49aa": {
+  "id": "b4b79bd993",
+  "es": {
+   "titulo": "Cine: Una película de miedo",
+   "resumen": "Proyección de 'Una película de miedo', sobre un director de documentales y su hijo alojados en un hotel abandonado. Incluye la presencia del director Sergio Oksman."
+  },
+  "en": {
+   "titulo": "Film: A Scary Movie",
+   "resumen": "Screening of 'A Scary Movie', about a documentary filmmaker and his son staying in an abandoned hotel. Includes the presence of director Sergio Oksman."
+  },
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": true
+ },
+ "9d281a9736": {
+  "id": "748bd1141c",
+  "es": {
+   "titulo": "La Revolución Francesa: La Primera Coalición",
+   "resumen": "Tercera conferencia sobre la Revolución Francesa, centrada en la Primera Coalición y la transformación de Europa. Se analizarán conflictos, alianzas y cambios políticos y militares."
+  },
+  "en": {
+   "titulo": "The French Revolution: The First Coalition",
+   "resumen": "Third lecture on the French Revolution, focusing on the First Coalition and the transformation of Europe. Conflicts, alliances, and political and military changes will be analyzed."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "706f57c21d": {
+  "id": "33795cd95f",
+  "es": {
+   "titulo": "Shakespeare: Autor de secretos y pasiones",
+   "resumen": "Conferencia sobre William Shakespeare, explorando los misterios que rodean su figura y cómo sus obras, llenas de ambiciones y pasiones humanas, siguen vigentes hoy en día."
+  },
+  "en": {
+   "titulo": "Shakespeare: Author of Secrets and Passions",
+   "resumen": "Lecture on William Shakespeare, exploring the mysteries surrounding him and how his works, full of human ambitions and passions, remain relevant today."
+  },
+  "temas": [
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": true
+ },
+ "952f0484c8": {
+  "id": "80fa3607cb",
+  "es": {
+   "titulo": "Cine infantil: Buffalo Kids",
+   "resumen": "Proyección de la película de animación 'Buffalo Kids', especialmente recomendada para la infancia. Las sesiones serán presentadas y moderadas."
+  },
+  "en": {
+   "titulo": "Children's Film: Buffalo Kids",
+   "resumen": "Screening of the animated film 'Buffalo Kids', especially recommended for children. Sessions will be introduced and moderated."
+  },
+  "temas": [
+   "ninos",
+   "pantalla"
+  ],
+  "a_cubierto": true
+ },
+ "50ff3c3cab": {
+  "id": "418acc31ba",
+  "es": {
+   "titulo": "Cine infantil: Mary Anning y la playa de los dinosaurios",
+   "resumen": "Proyección de 'Mary Anning y la playa de los dinosaurios', recomendada para la infancia y el fomento de la igualdad de género. Las sesiones serán presentadas y moderadas."
+  },
+  "en": {
+   "titulo": "Children's Film: Mary Anning and the Dinosaur Beach",
+   "resumen": "Screening of 'Mary Anning and the Dinosaur Beach', recommended for children and the promotion of gender equality. Sessions will be introduced and moderated."
+  },
+  "temas": [
+   "ninos",
+   "pantalla"
+  ],
+  "a_cubierto": true
+ },
+ "aee604ab2e": {
+  "id": "9d1d21679b",
+  "es": {
+   "titulo": "Como si fuera la última vez: Concierto de Sauco",
+   "resumen": "Concierto de Sauco con un recorrido por la ópera, zarzuela, teatro musical y canciones populares. Un espectáculo elegante y de calidad para todos los públicos."
+  },
+  "en": {
+   "titulo": "As If It Were the Last Time: Sauco Concert",
+   "resumen": "Sauco concert featuring a journey through opera, zarzuela, musical theater, and popular songs. An elegant and high-quality show for all audiences."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "977dd740ea": {
+  "id": "79f06ec23f",
+  "es": {
+   "titulo": "Concierto de Año Nuevo: Orquesta Joven La Boheme",
+   "resumen": "La Orquesta Joven La Boheme celebra el Año Nuevo con música de la Viena del siglo XIX y melodías de Tchaikovsky, Shostakovich y Chueca, siguiendo la tradición vienesa."
+  },
+  "en": {
+   "titulo": "New Year's Concert: Orquesta Joven La Boheme",
+   "resumen": "The Orquesta Joven La Boheme celebrates the New Year with music from 19th-century Vienna and melodies by Tchaikovsky, Shostakovich, and Chueca, following Viennese tradition."
+  },
+  "temas": [
+   "musica",
+   "navidad"
+  ],
+  "a_cubierto": true
+ },
+ "02238379c8": {
+  "id": "76348851c4",
+  "es": {
+   "titulo": "Concierto de Noël: Pastores por Navidad",
+   "resumen": "Un viaje sonoro del Sapere Aude Ensemble que combina la solemnidad del Barroco con cantos pastoriles navideños. Se interpretarán obras de Corrette, Scarlatti y Händel."
+  },
+  "en": {
+   "titulo": "Concert de Noël: Shepherds for Christmas",
+   "resumen": "A sonic journey by the Sapere Aude Ensemble, combining Baroque solemnity with Christmas pastoral carols. Works by Corrette, Scarlatti, and Händel will be performed."
+  },
+  "temas": [
+   "musica",
+   "navidad",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "a966fdd28f": {
+  "id": "7b3c5c9b17",
+  "es": {
+   "titulo": "Concierto Estrella Morente",
+   "resumen": "Estrella Morente, heredera de una gran saga flamenca, ofrecerá un concierto en la Iglesia de San Juan de la Cruz, demostrando su sensibilidad y calidad vocal."
+  },
+  "en": {
+   "titulo": "Estrella Morente Concert",
+   "resumen": "Estrella Morente, heir to a great flamenco lineage, will perform a concert at the Church of San Juan de la Cruz, showcasing her sensitivity and vocal quality."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "41511deb3f": {
+  "id": "04ad491c69",
+  "es": {
+   "titulo": "Concurso de postales navideñas y villancicos",
+   "resumen": "Concurso de postales navideñas y composición de villancicos en la Biblioteca Pública Municipal José Saramago."
+  },
+  "en": {
+   "titulo": "Christmas Card and Carol Composition Contest",
+   "resumen": "A contest for Christmas cards and carol composition at the José Saramago Municipal Public Library."
+  },
+  "temas": [
+   "ninos",
+   "navidad",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "1f5afa60c1": {
+  "id": "48fa065a2d",
+  "es": {
+   "titulo": "Coral Trovada: Música coral en Vallecas",
+   "resumen": "El coro Trovada, formado por vecinos de Fontarrón, Vallecas, divulga la cultura musical y participa en conciertos y encuentros corales. Dirigido por Gabriel de Frutos Martínez."
+  },
+  "en": {
+   "titulo": "Coral Trovada: Choral Music in Vallecas",
+   "resumen": "The Trovada choir, formed by residents of Fontarrón, Vallecas, promotes musical culture and participates in concerts and choral gatherings. Directed by Gabriel de Frutos Martínez."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "91c022820c": {
+  "id": "294f24f4c2",
+  "es": {
+   "titulo": "Coro Al Alba: Inauguración del Belén",
+   "resumen": "El coro 'Al Alba', con más de 35 años de actividad, actuará en la inauguración del Belén histórico de Vallecas. Su repertorio abarca polifonía y folklore."
+  },
+  "en": {
+   "titulo": "Coro Al Alba: Nativity Scene Inauguration",
+   "resumen": "The 'Al Alba' choir, with over 35 years of activity, will perform at the inauguration of the historical Nativity scene in Vallecas. Their repertoire includes polyphony and folklore."
+  },
+  "temas": [
+   "musica",
+   "navidad",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "a45fc788ac": {
+  "id": "632dba80b9",
+  "es": {
+   "titulo": "Coro Sawabona: Cantos y ritmos africanos",
+   "resumen": "El coro Sawabona se especializa en música coral africana, combinando cantos y ritmos de esta cultura con canciones populares y música sacra. Dirigido por Niurka López."
+  },
+  "en": {
+   "titulo": "Coro Sawabona: African Songs and Rhythms",
+   "resumen": "The Sawabona choir specializes in African choral music, blending songs and rhythms from this culture with popular tunes and sacred music. Directed by Niurka López."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "b2c59d51b6": {
+  "id": "75b293c310",
+  "es": {
+   "titulo": "Coro Vallekanta: Concierto en la Pista de Hielo",
+   "resumen": "El coro Vallekanta actuará en la inauguración de la pista de hielo. Con una trayectoria desde 2003, han actuado en diversos escenarios de Madrid y otras ciudades."
+  },
+  "en": {
+   "titulo": "Coro Vallekanta: Concert at the Ice Rink",
+   "resumen": "The Vallekanta choir will perform at the inauguration of the ice rink. With a history since 2003, they have performed in various venues in Madrid and other cities."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "06d5bf02c9": {
+  "id": "9e566f46fa",
+  "es": {
+   "titulo": "Crafting Reality",
+   "resumen": "Evento en Matadero Madrid."
+  },
+  "en": {
+   "titulo": "Crafting Reality",
+   "resumen": "Event at Matadero Madrid."
+  },
+  "temas": [
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "da8b2e820d": {
+  "id": "81f99065c2",
+  "es": {
+   "titulo": "Cristina Montes",
+   "resumen": "Exposición de Cristina Montes en el Centro de Cultura Contemporánea CondeDuque."
+  },
+  "en": {
+   "titulo": "Cristina Montes",
+   "resumen": "Exhibition by Cristina Montes at the CondeDuque Contemporary Culture Center."
+  },
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true
+ },
+ "226ffad50c": {
+  "id": "bcdf077422",
+  "es": {
+   "titulo": "Cuento de Navidad, el musical",
+   "resumen": "Disfruta de un musical navideño de 60 minutos para todos los públicos. La historia se centra en el avaro Scrooge y su desprecio por la Navidad, contrastando con la alegría de la época. Se celebra en el Centro Sociocultural San Fermín."
+  },
+  "en": {
+   "titulo": "A Christmas Carol, the musical",
+   "resumen": "Enjoy a 60-minute Christmas musical for all audiences. The story focuses on the miserly Scrooge and his disdain for Christmas, contrasting with the season's joy. It takes place at the San Fermín Sociocultural Center."
+  },
+  "temas": [
+   "navidad",
+   "musica",
+   "ninos"
+  ],
+  "a_cubierto": true
+ },
+ "0dd0a88fe9": {
+  "id": "5ffe477170",
+  "es": {
+   "titulo": "Cuentos de amor y mal amor",
+   "resumen": "Un espectáculo de narración oral de 60 minutos para mayores de 16 años. Sumérgete en historias apasionadas, humorísticas y emotivas sobre el amor y el desamor. Se presenta en el Centro Cultural Benjamín Palencia."
+  },
+  "en": {
+   "titulo": "Tales of Love and Bad Love",
+   "resumen": "A 60-minute oral storytelling performance for ages 16 and up. Immerse yourself in passionate, humorous, and emotional stories about love and heartbreak. Presented at the Benjamín Palencia Cultural Center."
+  },
+  "temas": [
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": true
+ },
+ "a31cdf0863": {
+  "id": "4a90a7a2f1",
+  "es": {
+   "titulo": "De Parque de Aluche a Madrid Río",
+   "resumen": "Únete a una ruta de senderismo urbano guiada de 6 km que conecta el Parque de Aluche con Madrid Río a través de varios parques. La actividad, de unas 3 horas, está dirigida a adultos y requiere inscripción previa."
+  },
+  "en": {
+   "titulo": "From Aluche Park to Madrid Río",
+   "resumen": "Join a guided 6 km urban hiking route connecting Aluche Park with Madrid Río through several green spaces. This 3-hour activity is for adults and requires prior registration."
+  },
+  "temas": [
+   "rutas",
+   "naturaleza",
+   "parques"
+  ],
+  "a_cubierto": false
+ },
+ "0f61f4fe8c": {
+  "id": "05532e5fba",
+  "es": {
+   "titulo": "Disparatadas historias de Navidad",
+   "resumen": "Una comedia que explora con humor las situaciones disparatadas que pueden surgir en las reuniones familiares navideñas. Se presenta en el Centro Cultural Lope de Vega."
+  },
+  "en": {
+   "titulo": "Absurd Christmas Stories",
+   "resumen": "A comedy that humorously explores the absurd situations that can arise during family Christmas gatherings. Presented at the Lope de Vega Cultural Center."
+  },
+  "temas": [
+   "navidad",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "9c2fe2d5ee": {
+  "id": "7a4348d110",
+  "es": {
+   "titulo": "Dos brujitos y un destino",
+   "resumen": "Una aventura mágica y musical de 60 minutos para todos los públicos. Dos jóvenes brujos se pierden y deben colaborar para encontrar el camino, aprendiendo sobre la amistad. Se presenta en el Teatro Municipal de Vallecas."
+  },
+  "en": {
+   "titulo": "Two Little Witches and a Destiny",
+   "resumen": "A 60-minute magical and musical adventure for all ages. Two young witches get lost and must collaborate to find their way, learning about friendship. Presented at the Vallecas Municipal Theater."
+  },
+  "temas": [
+   "ninos",
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "a243c804d4": {
+  "id": "7e1ba37d07",
+  "es": {
+   "titulo": "El hilo azul: Conexiones Invisibles",
+   "resumen": "Exposición de obras creadas por personas con discapacidad intelectual, utilizando el color azul como símbolo de los vínculos humanos. Invita a reflexionar sobre la empatía y la diversidad en el Centro Cultural Benjamín Palencia."
+  },
+  "en": {
+   "titulo": "The Blue Thread: Invisible Connections",
+   "resumen": "An exhibition of works by individuals with intellectual disabilities, using the color blue as a symbol of human connections. It invites reflection on empathy and diversity at the Benjamín Palencia Cultural Center."
+  },
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true
+ },
+ "646f003d68": {
+  "id": "9314ac7012",
+  "es": {
+   "titulo": "El Hombre Folkíbero",
+   "resumen": "Jesús Parra presenta un recorrido en solitario por las músicas de tradición oral de la península ibérica, utilizando instrumentos tradicionales y creando nuevas melodías. Recomendado para mayores de 18 años en el Centro Cultural Buero Vallejo."
+  },
+  "en": {
+   "titulo": "The Folkíbero Man",
+   "resumen": "Jesús Parra presents a solo journey through the traditional oral music of the Iberian Peninsula, using traditional instruments and creating new melodies. Recommended for ages 18+ at the Buero Vallejo Cultural Center."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "20aa8ed184": {
+  "id": "ffea915fbd",
+  "es": {
+   "titulo": "El milagro",
+   "resumen": "Proyección cinematográfica en la Cineteca Madrid."
+  },
+  "en": {
+   "titulo": "The Miracle",
+   "resumen": "Film screening at Cineteca Madrid."
+  },
+  "temas": [
+   "pantalla"
+  ],
+  "a_cubierto": true
+ },
+ "aad81592df": {
+  "id": "ec5ca429cb",
+  "es": {
+   "titulo": "El origen del Belén en España",
+   "resumen": "Conferencia de 60 minutos para mayores de 16 años sobre la historia y evolución de la tradición del Belén en España, destacando maestros y creaciones artísticas. Se imparte en el Centro Sociocultural Francisco Fatou."
+  },
+  "en": {
+   "titulo": "The Origin of Nativity Scenes in Spain",
+   "resumen": "A 60-minute lecture for ages 16+ on the history and evolution of the Nativity scene tradition in Spain, highlighting masters and artistic creations. Held at the Francisco Fatou Sociocultural Center."
+  },
+  "temas": [
+   "navidad",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "05f73c4950": {
+  "id": "284f0035fe",
+  "es": {
+   "titulo": "Escenas de microteatro",
+   "resumen": "Disfruta de representaciones de microteatro en la Biblioteca Pública Municipal Eugenio Trías, ubicada en la Casa de Fieras de El Retiro."
+  },
+  "en": {
+   "titulo": "Micro-theater Scenes",
+   "resumen": "Enjoy micro-theater performances at the Eugenio Trías Municipal Public Library, located in the El Retiro's House of Beasts."
+  },
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": true
+ },
+ "45764d6ffc": {
+  "id": "7bcdb5cfc5",
+  "es": {
+   "titulo": "Festival OpenLAB 'La mecánica de la verdad'",
+   "resumen": "Participa en el Festival OpenLAB en Matadero Madrid, centrado en la exposición 'La mecánica de la verdad'."
+  },
+  "en": {
+   "titulo": "OpenLAB Festival 'The Mechanics of Truth'",
+   "resumen": "Participate in the OpenLAB Festival at Matadero Madrid, focusing on the exhibition 'The Mechanics of Truth'."
+  },
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": true
+ },
+ "6fb26f1912": {
+  "id": "80890be897",
+  "es": {
+   "titulo": "Guinda Belén",
+   "resumen": "Evento relacionado con Belenes en la Biblioteca Pública Municipal David Gistau."
+  },
+  "en": {
+   "titulo": "Guinda Belén",
+   "resumen": "Event related to Nativity scenes at the David Gistau Municipal Public Library."
+  },
+  "temas": [
+   "navidad",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "dbe3820a0b": {
+  "id": "786b7d97d0",
+  "es": {
+   "titulo": "Héctor el mago",
+   "resumen": "Taller de magia, malabares y acrobacias para todas las edades en el Jardín del Bulevar de Peña Gorbea, enfocado en desarrollar habilidades y confianza."
+  },
+  "en": {
+   "titulo": "Héctor the Magician",
+   "resumen": "A workshop of magic, juggling, and acrobatics for all ages in the Peña Gorbea Boulevard Garden, focused on developing skills and confidence."
+  },
+  "temas": [
+   "ninos",
+   "deporte",
+   "actividades"
+  ],
+  "a_cubierto": false
+ },
+ "7bec4436e5": {
+  "id": "c2db923b9a",
+  "es": {
+   "titulo": "Inquietudes",
+   "resumen": "Exposición de pinturas titulada 'Inquietudes' de José Antonio Villarreal Gutiérrez en el Centro Sociocultural Francisco Fatou, donde el artista busca dejar una huella a través de su obra."
+  },
+  "en": {
+   "titulo": "Inquietudes",
+   "resumen": "Exhibition of paintings titled 'Inquietudes' by José Antonio Villarreal Gutiérrez at the Francisco Fatou Sociocultural Center, where the artist seeks to leave a mark through his work."
+  },
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true
+ },
+ "3f78011ff9": {
+  "id": "c4908cc53d",
+  "es": {
+   "titulo": "La Malabicha",
+   "resumen": "Concierto de pop y rock español en directo con La Malabicha, que interpretará grandes éxitos actuales y pasados. Una invitación a cantar y disfrutar de la música en el Jardín del Bulevar de Peña Gorbea."
+  },
+  "en": {
+   "titulo": "La Malabicha",
+   "resumen": "Live Spanish pop and rock concert with La Malabicha, performing great hits from the past and present. An invitation to sing and enjoy music at the Peña Gorbea Boulevard Garden."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": false
+ },
+ "2830b56373": {
+  "id": "ddc431f625",
+  "es": {
+   "titulo": "La Natividad en la pintura clásica",
+   "resumen": "Conferencia de 60 minutos para mayores de 16 años que analiza la representación de la Natividad en la pintura clásica, explorando obras, artistas y estilos a lo largo de la historia. Se imparte en el Centro Cultural Zazuar."
+  },
+  "en": {
+   "titulo": "The Nativity in Classical Painting",
+   "resumen": "A 60-minute lecture for ages 16+ analyzing the representation of the Nativity in classical painting, exploring works, artists, and styles throughout history. Held at the Zazuar Cultural Center."
+  },
+  "temas": [
+   "navidad",
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true
+ },
+ "3ac4d3b7e4": {
+  "id": "0adaa804a9",
+  "es": {
+   "titulo": "LAB 5 La mecánica de la verdad",
+   "resumen": "Exposición en Medialab que explora cómo la tecnología digital redefine nuestra percepción de la realidad y la verdad, a través de obras de una nueva generación de artistas. Se cuestiona la facilidad y dificultad de creer lo que vemos."
+  },
+  "en": {
+   "titulo": "LAB 5 The Mechanics of Truth",
+   "resumen": "Exhibition at Medialab exploring how digital technology redefines our perception of reality and truth, through works by a new generation of artists. It questions the ease and difficulty of believing what we see."
+  },
+  "temas": [
+   "cultura",
+   "pantalla",
+   "museos"
+  ],
+  "a_cubierto": true
+ },
+ "3ff73d1ce8": {
+  "id": "33117e651c",
+  "es": {
+   "titulo": "Laura Lio",
+   "resumen": "Exposición de Laura Lio en CentroCentro."
+  },
+  "en": {
+   "titulo": "Laura Lio",
+   "resumen": "Exhibition by Laura Lio at CentroCentro."
+  },
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true
+ },
+ "a4439db9ec": {
+  "id": "f972ceb1d5",
+  "es": {
+   "titulo": "Lazada madrileña coral",
+   "resumen": "Evento coral en la Parroquia Nuestra Señora del Pilar."
+  },
+  "en": {
+   "titulo": "Lazada madrileña coral",
+   "resumen": "Choral event at the Parish of Our Lady of Pilar."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "1f9e4b623b": {
+  "id": "2f63f64414",
+  "es": {
+   "titulo": "Mary Poppins",
+   "resumen": "Musical de 90 minutos para mayores de 10 años. La mágica niñera Mary Poppins llega para enseñar a la familia Banks a encontrar la magia en la vida cotidiana. Se presenta en el Centro Cultural Meseta de Orcasitas."
+  },
+  "en": {
+   "titulo": "Mary Poppins",
+   "resumen": "A 90-minute musical for ages 10 and up. The magical nanny Mary Poppins arrives to teach the Banks family to find magic in everyday life. Presented at the Meseta de Orcasitas Cultural Center."
+  },
+  "temas": [
+   "ninos",
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "d1f046926e": {
+  "id": "220ece832e",
+  "es": {
+   "titulo": "Migrar a través de la música",
+   "resumen": "Charla-concierto de 60 minutos para mayores de 16 años con Carlos H. Wernicke sobre su experiencia como migrante, la música y la identidad. Concluye con la interpretación de dos piezas musicales en el Centro Cultural Benjamín Palencia."
+  },
+  "en": {
+   "titulo": "Migrating Through Music",
+   "resumen": "A 60-minute talk-concert for ages 16+ with Carlos H. Wernicke about his experience as a migrant, music, and identity. It concludes with the performance of two musical pieces at the Benjamín Palencia Cultural Center."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "f686fa94ab": {
+  "id": "6de499c3de",
+  "es": {
+   "titulo": "Mirar Madrid: imágenes de una ciudad",
+   "resumen": "Visita-taller para adultos que recorre la memoria artística y documental de Madrid a través de pinturas, planos y fotografías. Incluye un taller creativo para elaborar un cuaderno de bitácora personal sobre la ciudad."
+  },
+  "en": {
+   "titulo": "Looking at Madrid: Images of a City",
+   "resumen": "A workshop visit for adults that explores Madrid's artistic and documentary memory through paintings, maps, and photographs. Includes a creative workshop to produce a personal logbook about the city."
+  },
+  "temas": [
+   "cultura",
+   "rutas",
+   "museos"
+  ],
+  "a_cubierto": true
+ },
+ "ab419f7066": {
+  "id": "fc95045b02",
+  "es": {
+   "titulo": "Muestra CREA 2026",
+   "resumen": "Exposición de Teatro de Títeres de El Retiro. Una muestra para disfrutar del arte de los títeres en Madrid."
+  },
+  "en": {
+   "titulo": "CREA 2026 Exhibition",
+   "resumen": "Puppet Theater exhibition from El Retiro. A showcase to enjoy the art of puppetry in Madrid."
+  },
+  "temas": [
+   "cultura",
+   "ninos"
+  ],
+  "a_cubierto": null
+ },
+ "84fe386de9": {
+  "id": "348272b56f",
+  "es": {
+   "titulo": "Música coral Maristas Chamberí",
+   "resumen": "Concierto del Coro Maristas Chamberí con más de 30 años de trayectoria. Interpretará villancicos y piezas corales para celebrar las fiestas navideñas."
+  },
+  "en": {
+   "titulo": "Maristas Chamberí Choral Music",
+   "resumen": "Concert by the Maristas Chamberí Choir, with over 30 years of experience. They will perform Christmas carols and choral pieces to celebrate the holiday season."
+  },
+  "temas": [
+   "musica",
+   "navidad"
+  ],
+  "a_cubierto": true
+ },
+ "cda36b2a28": {
+  "id": "24ea3a1272",
+  "es": {
+   "titulo": "Neo Soul & Jazz",
+   "resumen": "Actuación musical de 60 minutos que fusiona jazz y neo soul. Un recorrido por melodías envolventes y ritmos cálidos para disfrutar de música en directo."
+  },
+  "en": {
+   "titulo": "Neo Soul & Jazz",
+   "resumen": "A 60-minute musical performance blending jazz and neo soul. A journey through captivating melodies and warm rhythms to enjoy live music."
+  },
+  "temas": [
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "a416ee5717": {
+  "id": "38a90cb1af",
+  "es": {
+   "titulo": "Partida de rol en Biblioteca Iván de Vargas",
+   "resumen": "Emocionante partida de rol para niños de 10 a 13 años. Los participantes se convertirán en protagonistas de una aventura, resolviendo enigmas y colaborando."
+  },
+  "en": {
+   "titulo": "Role-playing game at Iván de Vargas Library",
+   "resumen": "Exciting role-playing game for children aged 10 to 13. Participants will become protagonists of an adventure, solving puzzles and collaborating."
+  },
+  "temas": [
+   "libros",
+   "ninos",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "45d916c099": {
+  "id": "8f1af34b84",
+  "es": {
+   "titulo": "Real Sitio de la Florida: Ruta histórica",
+   "resumen": "Itinerario por el origen del Real Sitio de la Florida, destacando su influencia ambiental. Actividad de 2.5 horas para público adulto."
+  },
+  "en": {
+   "titulo": "Royal Site of La Florida: Historical Route",
+   "resumen": "A route through the origin of the Royal Site of La Florida, highlighting its environmental influence. A 2.5-hour activity for adults."
+  },
+  "temas": [
+   "rutas",
+   "naturaleza",
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "45e4a6a13c": {
+  "id": "b84bdd32b7",
+  "es": {
+   "titulo": "SIDE, una historia de amor",
+   "resumen": "Musical inspirado en West Side Story, recreando la historia de amor de Romeo y Julieta. Bailarines demuestran su talento dancístico e interpretativo."
+  },
+  "en": {
+   "titulo": "SIDE, a love story",
+   "resumen": "A musical inspired by West Side Story, recreating the love story of Romeo and Juliet. Dancers showcase their talent in both dancing and acting."
+  },
+  "temas": [
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "ab8b24e14b": {
+  "id": "f72273c3af",
+  "es": {
+   "titulo": "Arte sonoro y músicas experimentales",
+   "resumen": "Conferencias sobre arte sonoro y músicas experimentales en España. Expertos abordarán la difusión, coleccionismo y creación en este ámbito."
+  },
+  "en": {
+   "titulo": "Sound art and experimental music",
+   "resumen": "Conferences on sound art and experimental music in Spain. Experts will discuss dissemination, collecting, and creation in this field."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "5725764c00": {
+  "id": "06ee7531da",
+  "es": {
+   "titulo": "Taller de ajedrez (hasta 17 años) Biblioteca Miguel Delibes",
+   "resumen": "Taller de iniciación al ajedrez para menores de 17 años. Se combinarán demostraciones, minijuegos, retos y partidas guiadas."
+  },
+  "en": {
+   "titulo": "Chess Workshop (up to 17 years) Miguel Delibes Library",
+   "resumen": "Introduction to chess workshop for those under 17 years old. It will combine demonstrations, mini-games, challenges, and guided games."
+  },
+  "temas": [
+   "ninos",
+   "deporte"
+  ],
+  "a_cubierto": true
+ },
+ "e55e7967d0": {
+  "id": "18eec6b6a7",
+  "es": {
+   "titulo": "Taller de máscaras navideñas",
+   "resumen": "Taller familiar para crear originales máscaras navideñas con color e imaginación. Una actividad para celebrar la Navidad de forma creativa."
+  },
+  "en": {
+   "titulo": "Christmas mask workshop",
+   "resumen": "A family workshop to create original Christmas masks with color and imagination. An activity to celebrate Christmas creatively."
+  },
+  "temas": [
+   "ninos",
+   "navidad",
+   "cultura"
+  ],
+  "a_cubierto": null
+ },
+ "84f08ede48": {
+  "id": "8803deceb7",
+  "es": {
+   "titulo": "Taller inclusivo 'Ramón, tú y yo'",
+   "resumen": "Taller inclusivo en el Museo de Arte Contemporáneo de Madrid. Una actividad para fomentar la inclusión a través del arte."
+  },
+  "en": {
+   "titulo": "Inclusive workshop 'Ramón, you and I'",
+   "resumen": "Inclusive workshop at the Museum of Contemporary Art of Madrid. An activity to promote inclusion through art."
+  },
+  "temas": [
+   "museos",
+   "cultura",
+   "ninos"
+  ],
+  "a_cubierto": true
+ },
+ "e55233f90c": {
+  "id": "20dcdf1b45",
+  "es": {
+   "titulo": "Talleres de ajedrez (hasta 17 años) Biblioteca Gabriel García Márquez",
+   "resumen": "Taller de iniciación al ajedrez para menores de 17 años. Se combinarán demostraciones, minijuegos, retos y partidas guiadas."
+  },
+  "en": {
+   "titulo": "Chess Workshops (up to 17 years) Gabriel García Márquez Library",
+   "resumen": "Introduction to chess workshop for those under 17 years old. It will combine demonstrations, mini-games, challenges, and guided games."
+  },
+  "temas": [
+   "ninos",
+   "deporte"
+  ],
+  "a_cubierto": true
+ },
+ "f3b95f794a": {
+  "id": "a6848619b6",
+  "es": {
+   "titulo": "Talleres de ajedrez (hasta 17 años) Biblioteca Vallecas",
+   "resumen": "Taller de iniciación al ajedrez para menores de 17 años. Se combinarán demostraciones, minijuegos, retos y partidas guiadas."
+  },
+  "en": {
+   "titulo": "Chess Workshops (up to 17 years) Vallecas Library",
+   "resumen": "Introduction to chess workshop for those under 17 years old. It will combine demonstrations, mini-games, challenges, and guided games."
+  },
+  "temas": [
+   "ninos",
+   "deporte"
+  ],
+  "a_cubierto": true
+ },
+ "8c2d667b8b": {
+  "id": "dac65e2132",
+  "es": {
+   "titulo": "Talleres Navidad Mayores: Bolas navideñas",
+   "resumen": "Taller de creación de bolas navideñas para personas mayores. Actividad para fomentar la creatividad y el espíritu festivo durante la Navidad."
+  },
+  "en": {
+   "titulo": "Christmas Workshops for Seniors: Christmas Ornaments",
+   "resumen": "Workshop for seniors to create Christmas ornaments. An activity to foster creativity and the festive spirit during Christmas."
+  },
+  "temas": [
+   "navidad",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "d7d5faa890": {
+  "id": "7b06c98ae2",
+  "es": {
+   "titulo": "Tango y otras yerbas",
+   "resumen": "Viaje musical por Argentina a través de tangos, valses y milongas. Una propuesta llena de encanto y sensibilidad con voces y música."
+  },
+  "en": {
+   "titulo": "Tango and other herbs",
+   "resumen": "A musical journey through Argentina with tangos, waltzes, and milongas. A proposal full of charm and sensitivity with vocals and music."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "4e7ad7b386": {
+  "id": "2a447c85ba",
+  "es": {
+   "titulo": "Tarde de fiesta: Andalucía en esencia",
+   "resumen": "Viaje musical y artístico por la riqueza cultural andaluza. Combina música clásica, cante, folclore, guitarra flamenca y poesía."
+  },
+  "en": {
+   "titulo": "Fiesta afternoon: Andalusia in essence",
+   "resumen": "A musical and artistic journey through the cultural richness of Andalusia. It combines classical music, singing, folklore, flamenco guitar, and poetry."
+  },
+  "temas": [
+   "musica",
+   "cultura",
+   "fiestas"
+  ],
+  "a_cubierto": true
+ },
+ "f6c8984fb0": {
+  "id": "24cb91fa9a",
+  "es": {
+   "titulo": "The Sugar Stone: Tributo a Rolling Stones",
+   "resumen": "Tributo a los Rolling Stones con pasión y energía. Una noche para cantar y bailar los grandes éxitos que hicieron historia."
+  },
+  "en": {
+   "titulo": "The Sugar Stone: Rolling Stones Tribute",
+   "resumen": "A passionate and energetic tribute to the Rolling Stones. A night to sing and dance to the greatest hits that made history."
+  },
+  "temas": [
+   "musica"
+  ],
+  "a_cubierto": null
+ },
+ "e4f81aeb3a": {
+  "id": "9c8910ad45",
+  "es": {
+   "titulo": "Trapos sucios",
+   "resumen": "Banda de rock formada en 2006 con un sonido propio basado en rock, blues y psicodelia. Sus letras abordan temas sociales y de ciencia ficción."
+  },
+  "en": {
+   "titulo": "Trapos sucios",
+   "resumen": "A rock band formed in 2006 with a unique sound based on rock, blues, and psychedelia. Their lyrics address social issues and science fiction."
+  },
+  "temas": [
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "d586ec5e5c": {
+  "id": "edd92d2f0b",
+  "es": {
+   "titulo": "Va por ustedes",
+   "resumen": "Espectáculo navideño que fusiona flamenco, danza española y recuerdos familiares. Una celebración compartida que evoca la infancia y las tradiciones."
+  },
+  "en": {
+   "titulo": "Va por ustedes",
+   "resumen": "A Christmas show blending flamenco, Spanish dance, and family memories. A shared celebration evoking childhood and traditions."
+  },
+  "temas": [
+   "navidad",
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "e9a2e59688": {
+  "id": "270fdd3aca",
+  "es": {
+   "titulo": "Viaje cultural a Segovia",
+   "resumen": "Excursión cultural a Segovia con visitas programadas. Incluye transporte y se abonarán las entradas y guías in situ. Plazas limitadas."
+  },
+  "en": {
+   "titulo": "Cultural trip to Segovia",
+   "resumen": "A cultural excursion to Segovia with scheduled visits. Includes transportation, and entrance fees and guides will be paid on-site. Limited spots."
+  },
+  "temas": [
+   "cultura",
+   "rutas"
+  ],
+  "a_cubierto": null
+ },
+ "9a9b32c46b": {
+  "id": "cea5f340fe",
+  "es": {
+   "titulo": "Viaje cultural a Toledo",
+   "resumen": "Excursión cultural a Toledo con visitas programadas. Incluye transporte y se abonarán las entradas y guías in situ. Plazas limitadas."
+  },
+  "en": {
+   "titulo": "Cultural trip to Toledo",
+   "resumen": "A cultural excursion to Toledo with scheduled visits. Includes transportation, and entrance fees and guides will be paid on-site. Limited spots."
+  },
+  "temas": [
+   "cultura",
+   "rutas"
+  ],
+  "a_cubierto": null
+ },
+ "d02684de13": {
+  "id": "c4b6dbe06b",
+  "es": {
+   "titulo": "Zarzuela: Cádiz ¡Viva la Pepa!",
+   "resumen": "Representación de la zarzuela 'Cádiz', que narra la defensa de la ciudad y el nacimiento de la Constitución de 1812. Obra de Chueca y Valverde."
+  },
+  "en": {
+   "titulo": "Zarzuela: Cádiz ¡Viva la Pepa!",
+   "resumen": "Performance of the zarzuela 'Cádiz', which narrates the defense of the city and the birth of the 1812 Constitution. A work by Chueca and Valverde."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "ccd5da73cb": {
+  "id": "747c3dee50",
+  "es": {
+   "titulo": "'Al dormir' con Israel Hergón",
+   "resumen": "Sesión de bebecuentos para bebés de 0 a 24 meses. Dirigida a estimular sentidos y fortalecer el vínculo afectivo a través de la lectura."
+  },
+  "en": {
+   "titulo": "'Al dormir' with Israel Hergón",
+   "resumen": "Baby storytelling session for infants aged 0 to 24 months. Aimed at stimulating senses and strengthening emotional bonds through reading."
+  },
+  "temas": [
+   "ninos",
+   "libros"
+  ],
+  "a_cubierto": true
+ },
+ "de4b91d53c": {
+  "id": "634144763a",
+  "es": {
+   "titulo": "'El sueño de Laura Blasco'",
+   "resumen": "Evento literario en la Biblioteca Pública Municipal Benito Pérez Galdós. Una presentación o lectura relacionada con la obra."
+  },
+  "en": {
+   "titulo": "'El sueño de Laura Blasco'",
+   "resumen": "Literary event at the Benito Pérez Galdós Municipal Public Library. A presentation or reading related to the work."
+  },
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "4be23a8850": {
+  "id": "55387c1823",
+  "es": {
+   "titulo": "'Exploradores del cielo de Madrid' Visita taller para familias",
+   "resumen": "Visita-taller familiar para descubrir el cielo de Madrid como fuente de inspiración. Niños de 8 a 12 años acompañados de un adulto."
+  },
+  "en": {
+   "titulo": "'Explorers of Madrid's Sky' Family Visit and Workshop",
+   "resumen": "A family visit and workshop to discover Madrid's sky as a source of inspiration. For children aged 8 to 12 accompanied by an adult."
+  },
+  "temas": [
+   "ninos",
+   "cultura",
+   "parques"
+  ],
+  "a_cubierto": null
+ },
+ "5c220ffe04": {
+  "id": "62344555d2",
+  "es": {
+   "titulo": "Cuentacuentos infantil 'Los pedos de Alfredo' y taller de emociones",
+   "resumen": "Presentación y lectura del cuento infantil 'Los pedos de Alfredo', seguida de un taller creativo para identificar y expresar emociones. Una actividad divertida para reflexionar sobre los sentimientos y potenciar la creatividad."
+  },
+  "en": {
+   "titulo": "Children's Storytelling 'Alfredo's Farts' and Emotions Workshop",
+   "resumen": "Presentation and reading of the children's story 'Alfredo's Farts', followed by a creative workshop to identify and express emotions. A fun activity to reflect on feelings and boost creativity."
+  },
+  "temas": [
+   "ninos",
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "41c3281372": {
+  "id": "bca98af1bd",
+  "es": {
+   "titulo": "Taller de pintura 'Pintar la luz de Madrid'",
+   "resumen": "Visita-taller para adultos en el Museo de Historia de Madrid. Descubre el cielo madrileño a través de la pintura, explorando la luz, los colores y su inspiración artística, para luego plasmarlo en un taller creativo."
+  },
+  "en": {
+   "titulo": "Painting Workshop 'Painting the Light of Madrid'",
+   "resumen": "A workshop for adults at the Museum of History of Madrid. Discover the Madrid sky through painting, exploring light, colors, and artistic inspiration, then translate it into a creative session."
+  },
+  "temas": [
+   "cultura",
+   "museos",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "4138b0a832": {
+  "id": "c05b5905c9",
+  "es": {
+   "titulo": "Cineforum 'Los fantasmas atacan al jefe' y debate",
+   "resumen": "Proyección de la película 'Los fantasmas atacan al jefe' seguida de un debate moderado por psicólogos sobre la temática de la película y la prevención de la soledad no deseada."
+  },
+  "en": {
+   "titulo": "Film Forum 'Ghosts Can't Do It' and Debate",
+   "resumen": "Screening of the film 'Ghosts Can't Do It' followed by a debate moderated by psychologists on the film's themes and the prevention of unwanted loneliness."
+  },
+  "temas": [
+   "pantalla",
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "5f9b64d905": {
+  "id": "658fd37591",
+  "es": {
+   "titulo": "Presentación del libro 'Estado provisional' de María Soledad Caballero",
+   "resumen": "Presentación de la antología de microrrelatos 'Estado provisional', donde la autora conversará sobre su obra que aborda con humor e ironía temas como el desamor, la naturaleza y la identidad femenina."
+  },
+  "en": {
+   "titulo": "Book Presentation: 'Estado provisional' by María Soledad Caballero",
+   "resumen": "Presentation of the micro-story anthology 'Estado provisional', where the author will discuss her work, which humorously and ironically addresses themes like heartbreak, nature, and female identity."
+  },
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "6eb960ab7f": {
+  "id": "d2dc7bea0a",
+  "es": {
+   "titulo": "Debate público 'Dejarse hablar: La culpa: ¿malvados o enfermos?'",
+   "resumen": "Debate público sobre la naturaleza de la culpa, explorando si se considera un rasgo de maldad o una condición patológica. Una oportunidad para la reflexión colectiva."
+  },
+  "en": {
+   "titulo": "Public Debate 'Letting Oneself Speak: Guilt: Villains or Sick?'",
+   "resumen": "A public debate exploring the nature of guilt, considering whether it's a trait of villainy or a pathological condition. An opportunity for collective reflection."
+  },
+  "temas": [
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "abb4d73239": {
+  "id": "98155f7865",
+  "es": {
+   "titulo": "Teatro: 'Luces de Bohemia' del grupo Bambalinas",
+   "resumen": "Representación de 'Luces de Bohemia' de Valle-Inclán por el grupo de teatro de la ONCE Bambalinas. Una obra que retrata la España de principios del siglo XX a través de la última noche de Max Estrella."
+  },
+  "en": {
+   "titulo": "Theater: 'Luces de Bohemia' by Bambalinas Theater Group",
+   "resumen": "Performance of Valle-Inclán's 'Luces de Bohemia' by the ONCE theater group Bambalinas. A play depicting early 20th-century Spain through the last night of Max Estrella."
+  },
+  "temas": [
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "f10be66145": {
+  "id": "f01f22a54b",
+  "es": {
+   "titulo": "Velada poética sobre el solsticio de invierno",
+   "resumen": "Lectura de poemas, textos cortos y microrrelatos en torno al solsticio de invierno, organizada por la Tertulia Literaria Caleidoscopio. Abierta a la participación de todos los asistentes."
+  },
+  "en": {
+   "titulo": "Poetic Evening on the Winter Solstice",
+   "resumen": "Reading of poems, short texts, and micro-stories centered around the winter solstice, organized by the Caleidoscopio Literary Circle. Open to participation from all attendees."
+  },
+  "temas": [
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": true
+ },
+ "11008116cc": {
+  "id": "a0e5a1196c",
+  "es": {
+   "titulo": "Presentación del libro \"Izan gizona\" de Aritz Galarraga",
+   "resumen": "Presentación del libro \"Izan gizona\" del escritor Aritz Galarraga, en un encuentro con el autor y el presentador Santi Leone."
+  },
+  "en": {
+   "titulo": "Book Presentation: \"Izan gizona\" by Aritz Galarraga",
+   "resumen": "Presentation of the book \"Izan gizona\" by writer Aritz Galarraga, in a meeting with the author and presenter Santi Leone."
+  },
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "d377b704cd": {
+  "id": "cd1fa90ff1",
+  "es": {
+   "titulo": "Magia y humor con Imanol Ituño",
+   "resumen": "El mago bilbaíno Imanol Ituño presenta un espectáculo que combina magia, sorpresas y humor, con textos escritos en tercera persona. Actuación en el Kafe Antzokia de Bilbao."
+  },
+  "en": {
+   "titulo": "Magic and Humor with Imanol Ituño",
+   "resumen": "Bilbao-based magician Imanol Ituño presents a show combining magic, surprises, and humor, with texts written in the third person. Performance at Bilbao's Kafe Antzokia."
+  },
+  "temas": [
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "51978236b8": {
+  "id": "dfd7fcaf16",
+  "es": {
+   "titulo": "Bertso saio musikatua: Haira Aizpurua y Ekhiñe Zapiain",
+   "resumen": "Un evento de bertsolaritza (canto improvisado vasco) musicalizado, con la participación de Haira Aizpurua y Ekhiñe Zapiain, enmarcado en la conmemoración del Día contra la Violencia Machista."
+  },
+  "en": {
+   "titulo": "Musical Bertso Event: Haira Aizpurua and Ekhiñe Zapiain",
+   "resumen": "A musicalized bertsolaritza (Basque improvised singing) event featuring Haira Aizpurua and Ekhiñe Zapiain, held in commemoration of the Day against Gender Violence."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "7d37de67bb": {
+  "id": "23c7a0bda4",
+  "es": {
+   "titulo": "Estreno de 'ETS - Itzal Argitan' en Zinebi 2026",
+   "resumen": "Estreno del documental 'ETS - Itzal Argitan' dentro del festival Zinebi 2026. Sigue la historia de Iñigo Etxezarreta y En Tol Sarmiento en su proceso de reconstrucción vital y musical tras un momento de quiebre."
+  },
+  "en": {
+   "titulo": "Premiere of 'ETS - Itzal Argitan' at Zinebi 2026",
+   "resumen": "Premiere of the documentary 'ETS - Itzal Argitan' at the Zinebi 2026 festival. It follows Iñigo Etxezarreta and En Tol Sarmiento's journey of personal and musical reconstruction after a breakdown."
+  },
+  "temas": [
+   "pantalla",
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "388f7cd133": {
+  "id": "2706dafcfa",
+  "es": {
+   "titulo": "Encuentro cinematográfico 'Beste Begirada Bat 2026'",
+   "resumen": "Proyecto que redescubre la historia del cine desde la perspectiva de las mujeres. Compara pioneras del cine con creadoras contemporáneas, en el marco del Día Internacional para la Eliminación de la Violencia contra las Mujeres."
+  },
+  "en": {
+   "titulo": "Film Encounter 'Beste Begirada Bat 2026'",
+   "resumen": "A project rediscovering cinema history from a female perspective, comparing early pioneers with contemporary creators. Part of the program for the International Day for the Elimination of Violence against Women."
+  },
+  "temas": [
+   "pantalla",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "a30ae3cbbb": {
+  "id": "876805e391",
+  "es": {
+   "titulo": "Musical 'A macbeth song' con The Tiger Lillies",
+   "resumen": "Adaptación musical y teatral de 'Macbeth' por The Tiger Lillies y La Perla 29. Un espectáculo-concierto oscuro, poético y con humor que reimagina la tragedia de Shakespeare."
+  },
+  "en": {
+   "titulo": "Musical 'A macbeth song' with The Tiger Lillies",
+   "resumen": "A musical and theatrical adaptation of 'Macbeth' by The Tiger Lillies and La Perla 29. A dark, poetic, and humorous show-concert that reimagines Shakespeare's tragedy."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "f2c433f4c8": {
+  "id": "f0aa05d85f",
+  "es": {
+   "titulo": "Taller de transformación 'U.Lab 2026'",
+   "resumen": "Viaje de transformación personal y sistémica para impulsar el liderazgo consciente y la innovación. Aprende a soltar patrones, escuchar profundamente y conectar con tu propósito."
+  },
+  "en": {
+   "titulo": "Transformation Workshop 'U.Lab 2026'",
+   "resumen": "A personal and systemic transformation journey to foster conscious leadership and innovation. Learn to release patterns, listen deeply, and connect with your purpose."
+  },
+  "temas": [
+   "actividades",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "bbad0ad938": {
+  "id": "c6514e2d70",
+  "es": {
+   "titulo": "Teatro: 'Las hermanas de Buffalo Bill'",
+   "resumen": "Obra teatral que narra la historia de dos hermanas vírgenes oprimidas por su hermano, cuyo fantasma les impide escapar de su control tras su muerte. Una comedia negra."
+  },
+  "en": {
+   "titulo": "Theater: 'Las hermanas de Buffalo Bill'",
+   "resumen": "A play telling the story of two virgin sisters oppressed by their brother, whose ghost prevents them from escaping his control after his death. A dark comedy."
+  },
+  "temas": [
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "3d1d073a85": {
+  "id": "2ea777e575",
+  "es": {
+   "titulo": "Club de lectura en inglés: 'And Then There Were None'",
+   "resumen": "Club de lectura mensual en inglés para adultos con nivel B2, centrado en la novela 'And Then There Were None' de Agatha Christie. Se recomienda tener un nivel B2 de inglés."
+  },
+  "en": {
+   "titulo": "English Book Club: 'And Then There Were None'",
+   "resumen": "Monthly English book club for adults with B2 level, focusing on Agatha Christie's novel 'And Then There Were None'. A B2 English level is recommended."
+  },
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "8d4b9d7825": {
+  "id": "dd78a200bc",
+  "es": {
+   "titulo": "Espectáculo de magia 'Barremagia' con Andoni magoa",
+   "resumen": "Andoni magoa presenta 'Barremagia', un espectáculo de magia diseñado para sorprender y hacer reír al público. Una oportunidad para disfrutar de un buen rato."
+  },
+  "en": {
+   "titulo": "Magic Show 'Barremagia' with Andoni magoa",
+   "resumen": "Andoni magoa presents 'Barremagia', a magic show designed to surprise and make the audience laugh. An opportunity to enjoy a good time."
+  },
+  "temas": [
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "4da846fd0c": {
+  "id": "56bca4aa3e",
+  "es": {
+   "titulo": "Taller de magia infantil con Andoni magoa",
+   "resumen": "Taller de magia para niños de 7 a 12 años donde aprenderán secretos para sorprender con elementos caseros. Impartido en euskera por Andoni magoa."
+  },
+  "en": {
+   "titulo": "Children's Magic Workshop with Andoni magoa",
+   "resumen": "Magic workshop for children aged 7-12 where they will learn secrets to surprise with household items. Taught in Basque by Andoni magoa."
+  },
+  "temas": [
+   "ninos",
+   "actividades",
    "cultura"
   ],
   "a_cubierto": true

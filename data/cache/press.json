@@ -29444,5 +29444,871 @@
   ],
   "a_cubierto": null,
   "confianza": 0.9
+ },
+ "c66da3ba3b": {
+  "url": "https://www.20minutos.es/libros/rosendo-72-se-abre-canal-sus-memorias-ni-gozo-ni-calvario-tengo-conciencia-barrio-currante_7065666_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-11-25",
+  "es_plan": false
+ },
+ "e2bdea14c2": {
+  "url": "https://www.20minutos.es/cultura/los-reyes-presidente-austriaco-inauguran-prado-una-muestra-sobre-mariana-austria-madre-regente-tiempos-crisis_7065642_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-11-25",
+  "es_plan": true,
+  "titulo": "Exposición Mariana de Austria en el Museo del Prado",
+  "resumen": "Los reyes Felipe y Letizia, junto al presidente austríaco, inauguran una exposición sobre Mariana de Austria en el Museo del Prado. La muestra reúne más de cien obras del siglo XVII que analizan su papel político y su proyección de autoridad.",
+  "en": {
+   "titulo": "Mariana of Austria Exhibition at the Prado Museum",
+   "resumen": "Kings Felipe and Letizia, along with the Austrian president, inaugurate an exhibition on Mariana of Austria at the Prado Museum. The exhibition features over a hundred works from the 17th century analyzing her political role and projection of authority."
+  },
+  "inicio": "2026-11-25",
+  "fin": "2026-11-25",
+  "hora": null,
+  "lugar": "Museo del Prado",
+  "municipio": "Madrid",
+  "provincia": "Madrid",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "04cf34e343": {
+  "url": "https://elpais.com/cultura/2026-11-25/y-si-todo-ha-sido-un-sueno-la-visibilidad-de-las-mujeres-en-la-cultura-se-estanca.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-11-25",
+  "es_plan": false
+ },
+ "9ef9cf7850": {
+  "url": "https://elpais.com/cultura/cine/2026-11-25/david-fincher-cineasta-el-debate-de-la-ia-esconde-una-guerra-de-culturas-no-tiene-nada-que-ver-con-las-peliculas.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-11-25",
+  "es_plan": false
+ },
+ "bb90398009": {
+  "url": "https://elpais.com/cultura/cine/2026-11-25/las-nuevas-desventuras-de-cliff-booth-extrana-e-inutil-colaboracion-entre-fincher-y-tarantino.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-11-25",
+  "es_plan": true,
+  "titulo": "Estreno de 'Las nuevas desventuras de Cliff Booth'",
+  "resumen": "Se estrena la película 'Las nuevas desventuras de Cliff Booth', dirigida por David Fincher y con guion de Quentin Tarantino. El filme, de 147 minutos, se proyectará en cines a partir del 25 de noviembre.",
+  "en": {
+   "titulo": "Premiere of 'The New Misadventures of Cliff Booth'",
+   "resumen": "The film 'The New Misadventures of Cliff Booth', directed by David Fincher and written by Quentin Tarantino, premieres. The 147-minute film will be shown in cinemas starting November 25th."
+  },
+  "inicio": "2026-11-25",
+  "fin": "2026-11-25",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "1654c9889e": {
+  "url": "https://www.lavanguardia.com/cultura/20261125/11692536/jazz-sinfonia-barcelona-ethan-festival.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-25",
+  "es_plan": false
+ },
+ "1d1e631291": {
+  "url": "https://www.lavanguardia.com/cultura/20261125/11692727/derechos-mas-humanos.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-25",
+  "es_plan": false
+ },
+ "4a288d89a9": {
+  "url": "https://www.ara.cat/cultura/cinema/critiques/sanguine-feina-malalta_1_5922519.html",
+  "fuente": "Ara (Cultura)",
+  "src": "prensa-ara-cultura",
+  "publicado": "2026-11-25",
+  "es_plan": false
+ },
+ "476dd00f80": {
+  "url": "https://www.ara.cat/cultura/teatre/xavier-bobes-proces-dol-mes-important-paraula_1_5922399.html",
+  "fuente": "Ara (Cultura)",
+  "src": "prensa-ara-cultura",
+  "publicado": "2026-11-25",
+  "es_plan": true,
+  "titulo": "Espectáculo 'Epitap' de Xavier Bobés en el Teatre Lliure",
+  "resumen": "Xavier Bobés presenta su nuevo espectáculo 'Epitap' en el Teatre Lliure de Gràcia del 3 al 20 de diciembre. La obra explora el duelo y la ausencia a través de experiencias compartidas.",
+  "en": {
+   "titulo": "'Epitap' Show by Xavier Bobés at Teatre Lliure",
+   "resumen": "Xavier Bobés presents his new show 'Epitap' at the Teatre Lliure de Gràcia from December 3rd to 20th. The work explores grief and absence through shared experiences."
+  },
+  "inicio": "2026-12-03",
+  "fin": "2026-12-20",
+  "hora": null,
+  "lugar": "Teatre Lliure de Gràcia",
+  "municipio": "Barcelona",
+  "provincia": "Barcelona",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "d4f19885ee": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/25/rosendo-vuelve-8-anos-despues-con-sus-memorias-me-han-hecho-leyenda-no-pretendia-2071691.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-25",
+  "es_plan": false
+ },
+ "273234c338": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/25/raices-separadas-alaska-63-anos-mario-vaquerizo-52-miles-kilometros-distancia-2067997.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-25",
+  "es_plan": false
+ },
+ "5d2a057332": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/25/calatayud-su-comarca-respaldan-celebracion-los-25-anos-mudejar-como-patrimonio-mundial-2071721.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-25",
+  "es_plan": true,
+  "titulo": "Celebración 25 años del mudéjar como Patrimonio Mundial en Calatayud",
+  "resumen": "Calatayud y su comarca celebran el 25 aniversario de la declaración del mudéjar aragonés como Patrimonio Mundial. Habrá concurso de fotografía, visitas guiadas, conferencias y una exposición.",
+  "en": {
+   "titulo": "Celebration of 25 Years of Mudejar as World Heritage in Calatayud",
+   "resumen": "Calatayud and its region celebrate the 25th anniversary of the declaration of Aragonese Mudejar as World Heritage. There will be a photography contest, guided tours, conferences, and an exhibition."
+  },
+  "inicio": "2026-11-25",
+  "fin": "2026-11-25",
+  "hora": null,
+  "lugar": null,
+  "municipio": "Calatayud",
+  "provincia": "Zaragoza",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "museos",
+   "actividades"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "3020e28f6b": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/25/verdeliss-atleta-madre-ocho-hijos-mayor-combustible-saco-fuerza-voluntad-ganas-2071483.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-25",
+  "es_plan": false
+ },
+ "2216518cd4": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/25/eva-amaral-54anos-padre-vivio-posguerra-dura-extremadura-familia-pobre-cosas-tremendas-2071699.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-25",
+  "es_plan": true,
+  "titulo": "Conciertos de Eva Amaral en Barcelona y Madrid",
+  "resumen": "Eva Amaral ofrecerá dos conciertos para despedir el año el 18 de diciembre en Barcelona y el 28 de diciembre en Madrid. Las actuaciones forman parte de la gira de su disco 'Dolce vita'.",
+  "en": {
+   "titulo": "Eva Amaral Concerts in Barcelona and Madrid",
+   "resumen": "Eva Amaral will offer two concerts to close the year on December 18th in Barcelona and December 28th in Madrid. The performances are part of the tour for her album 'Dolce vita'."
+  },
+  "inicio": "2026-12-18",
+  "fin": "2026-12-28",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "6a3d097564": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/25/javier-castillo-39-anos-escritor-murieron-mis-padres-estuve-practicamente-dos-meses-sin-escribir-sentia-acababa-mi-carrera-2071679.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-25",
+  "es_plan": false
+ },
+ "327610da08": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/25/loles-leon-derechos-son-nosotras-abuelas-tenemos-defender-nuestros-nietos-dejarles-como-legado-pais-democratico-2071627.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-25",
+  "es_plan": false
+ },
+ "bcc93fabe8": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/25/luto-mundo-jota-aragonesa-por-muerte-cantador-academico-mariano-julve-2071606.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-25",
+  "es_plan": false
+ },
+ "82a08c9b6c": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/25/auditorio-zaragoza-disfrutara-12conciertos-ciclo-introduccion-musica-2071620.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-25",
+  "es_plan": true,
+  "titulo": "Ciclo de Introducción a la Música en el Auditorio de Zaragoza",
+  "resumen": "El Auditorio de Zaragoza presenta su 47º Ciclo de Introducción a la Música con 12 conciertos entre enero y marzo de 2027. Los abonos están disponibles desde 88 euros.",
+  "en": {
+   "titulo": "Introduction to Music Cycle at Zaragoza Auditorium",
+   "resumen": "The Zaragoza Auditorium presents its 47th Introduction to Music Cycle with 12 concerts between January and March 2027. Season tickets are available from 88 euros."
+  },
+  "inicio": "2027-01-03",
+  "fin": "2027-03-21",
+  "hora": null,
+  "lugar": "Auditorio de Zaragoza",
+  "municipio": "Zaragoza",
+  "provincia": "Zaragoza",
+  "ambito": "local",
+  "gratis": false,
+  "precio": "desde 88 euros",
+  "temas": [
+   "musica",
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "6c62dccc50": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/25/israel-amo-experto-musical-sobre-rosalia-falta-vocalizacion-rollo-punto-diferencial-2070301.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-25",
+  "es_plan": false
+ },
+ "b7dee8165e": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/25/david-bisbal-desayuno-huevos-rancheros-arepas-pieza-fruta-zumo-buen-cafe-comenzar-manana-comida-importante-2070353.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-25",
+  "es_plan": false
+ },
+ "777fb1cea0": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/25/ana-belen-75anos-izquierda-mucho-ego-incapaz-aglutinarse-elecciones-2071591.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-25",
+  "es_plan": false
+ },
+ "fe7fbfff76": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/25/raphael-83-anos-cantante-no-hay-necesidad-llevar-bandera-espana-calle-ni-exhibirla-para-ser-buen-espanol-2068991.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-25",
+  "es_plan": false
+ },
+ "8da79dc281": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/25/joan-manuel-serrat-82anos-todos-votar-perder-derecho-sangre-vida-2071585.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-25",
+  "es_plan": false
+ },
+ "02d895479b": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/25/victor-manuel-79anos-felipe-gonzalez-patetico-horrible-desfachatez-juzgar-pedro-sanchez-2071368.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-25",
+  "es_plan": true,
+  "titulo": "Concierto de Víctor Manuel en Madrid",
+  "resumen": "Víctor Manuel ofrecerá un concierto el domingo 29 de noviembre en el Movistar Arena de Madrid, coincidiendo con las elecciones generales. El cantautor continúa de gira con su último disco.",
+  "en": {
+   "titulo": "Víctor Manuel concert in Madrid",
+   "resumen": "Víctor Manuel will perform a concert on Sunday, November 29, at the Movistar Arena in Madrid, coinciding with the general elections. The singer-songwriter continues his tour with his latest album."
+  },
+  "inicio": "2026-11-29",
+  "fin": "2026-11-29",
+  "hora": null,
+  "lugar": "Movistar Arena",
+  "municipio": "Madrid",
+  "provincia": "Madrid",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "bcd0cbee21": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/25/miguel-rios-82anos-proximo-domingo-ganan-derechas-pp-vox-aguarda-retroceder-tiempo-oscuro-censura-2070952.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-25",
+  "es_plan": true,
+  "titulo": "Miguel Ríos cierra su gira 'El último vals' en Madrid",
+  "resumen": "Miguel Ríos pondrá fin a su gira 'El último vals' el próximo 8 de diciembre en el Movistar Arena de Madrid. El cantante expresa su preocupación por un posible retroceso y censura si ganan las derechas.",
+  "en": {
+   "titulo": "Miguel Ríos closes his 'El último vals' tour in Madrid",
+   "resumen": "Miguel Ríos will end his 'El último vals' tour on December 8 at the Movistar Arena in Madrid. The singer expresses concern about a possible regression and censorship if the right-wing wins."
+  },
+  "inicio": "2026-12-08",
+  "fin": "2026-12-08",
+  "hora": null,
+  "lugar": "Movistar Arena",
+  "municipio": "Madrid",
+  "provincia": "Madrid",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "4e5e0fa071": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/25/lola-herrera-91anos-admirado-felipe-gonzalez-ultimamente-entiendo-2066570.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-25",
+  "es_plan": false
+ },
+ "0942df2eed": {
+  "url": "https://www.diariosur.es/culturas/malaga-toros-empresario-jorge-buendia-nuevo-apoderado-saul-jimenez-20261125161101-nt.html",
+  "fuente": "Diario Sur (Culturas)",
+  "src": "prensa-diariosur-culturas",
+  "publicado": "2026-11-25",
+  "es_plan": false
+ },
+ "0d8e67d692": {
+  "url": "https://www.diariosur.es/culturas/musica/raphael-confirma-concierto-malaga-tras-suspender-anterior-20261125123714-nt.html",
+  "fuente": "Diario Sur (Culturas)",
+  "src": "prensa-diariosur-culturas",
+  "publicado": "2026-11-25",
+  "es_plan": true,
+  "titulo": "Raphael confirma concierto en Málaga",
+  "resumen": "Raphael actuará este sábado en el Martín Carpena de Málaga, con entradas agotadas, tras haber suspendido un concierto anterior por motivos de salud.",
+  "en": {
+   "titulo": "Raphael confirms concert in Málaga",
+   "resumen": "Raphael will perform this Saturday at the Martín Carpena in Málaga, with sold-out tickets, after having previously canceled a concert due to health reasons."
+  },
+  "inicio": "2026-11-29",
+  "fin": "2026-11-29",
+  "hora": null,
+  "lugar": "Martín Carpena",
+  "municipio": "Málaga",
+  "provincia": "Málaga",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "64608b468d": {
+  "url": "https://www.diariosur.es/culturas/premios-relatos-concurso-pablo-aranda-20261123230135-nt.html",
+  "fuente": "Diario Sur (Culturas)",
+  "src": "prensa-diariosur-culturas",
+  "publicado": "2026-11-25",
+  "es_plan": false
+ },
+ "e5f601269d": {
+  "url": "https://www.diariosur.es/culturas/musica/alberto-miss-caffeina-carrera-solitario-concierto-malaga-20261124054501-nt.html",
+  "fuente": "Diario Sur (Culturas)",
+  "src": "prensa-diariosur-culturas",
+  "publicado": "2026-11-25",
+  "es_plan": false
+ },
+ "89f2114a50": {
+  "url": "https://www.ideal.es/culturas/almeria/sara-baras-trae-viernes-sabado-auditorio-maestro-20261125134240-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-11-25",
+  "es_plan": true,
+  "titulo": "Sara Baras trae 'Infinita' a Almería",
+  "resumen": "La bailaora Sara Baras presenta su espectáculo 'Infinita' en el Auditorio Maestro Padilla de Almería este viernes y sábado. La función incluirá un recorrido por el flamenco y el folclore andaluz.",
+  "en": {
+   "titulo": "Sara Baras brings 'Infinita' to Almería",
+   "resumen": "Dancer Sara Baras presents her show 'Infinita' at the Auditorio Maestro Padilla in Almería this Friday and Saturday. The performance will feature a journey through flamenco and Andalusian folklore."
+  },
+  "inicio": "2026-11-27",
+  "fin": "2026-11-28",
+  "hora": "20:00",
+  "lugar": "Auditorio Maestro Padilla",
+  "municipio": "Almería",
+  "provincia": "Almería",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.95
+ },
+ "2343a26ddb": {
+  "url": "https://www.ideal.es/culturas/alcaldesa-califica-satisfactoria-ilusionante-visita-comisarios-europeos-20261125133647-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-11-25",
+  "es_plan": false
+ },
+ "fca39d36d0": {
+  "url": "https://www.ideal.es/culturas/almeria/melendi-pondra-broche-final-feria-almeria-2027-20261125133536-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-11-25",
+  "es_plan": true,
+  "titulo": "Melendi cierra la Feria de Almería 2027",
+  "resumen": "Melendi actuará el sábado 28 de agosto de 2027 en el Recinto Ferial de Almería como cierre de la Feria de Almería 2027, presentando su gira 'Pop Rock Tour'.",
+  "en": {
+   "titulo": "Melendi closes Almería Fair 2027",
+   "resumen": "Melendi will perform on Saturday, August 28, 2027, at the Almería Fairgrounds, closing the Almería Fair 2027 with his 'Pop Rock Tour'."
+  },
+  "inicio": "2027-08-28",
+  "fin": "2027-08-28",
+  "hora": null,
+  "lugar": "Recinto Ferial",
+  "municipio": "Almería",
+  "provincia": "Almería",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "musica",
+   "fiestas"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.95
+ },
+ "79809a245e": {
+  "url": "https://www.elcorreo.com/culturas/musica/documental-ets-sueno-exito-puede-llegar-pesadilla-20261125140630-nt.html",
+  "fuente": "El Correo (Culturas)",
+  "src": "prensa-elcorreo-culturas",
+  "publicado": "2026-11-25",
+  "es_plan": true,
+  "titulo": "Documental 'Itzal Argitan' en el festival Zinebi",
+  "resumen": "El documental 'Itzal Argitan', que explora el lado personal del grupo ETS, se presenta en la Sala BBK dentro del festival Zinebi. La proyección será a las 20:00 horas.",
+  "en": {
+   "titulo": "'Itzal Argitan' Documentary at Zinebi Festival",
+   "resumen": "The documentary 'Itzal Argitan', exploring the personal side of the band ETS, will be presented at Sala BBK as part of the Zinebi festival. The screening is at 8:00 PM."
+  },
+  "inicio": "2026-11-25",
+  "fin": "2026-11-25",
+  "hora": "20:00",
+  "lugar": "Sala BBK",
+  "municipio": "Bilbao",
+  "provincia": "Vizcaya",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.95
+ },
+ "1964c197e0": {
+  "url": "https://www.elcorreo.com/culturas/musica/festival-hard-techno-convertira-sabado-bec-rave-20261125114648-nt.html",
+  "fuente": "El Correo (Culturas)",
+  "src": "prensa-elcorreo-culturas",
+  "publicado": "2026-11-25",
+  "es_plan": true,
+  "titulo": "Festival de hard techno en el BEC",
+  "resumen": "El festival de hard techno Blackworks celebra su cuarta edición en el BEC de Barakaldo este sábado, con una duración de 10 horas y capacidad para 8.000 asistentes.",
+  "en": {
+   "titulo": "Hard Techno Festival at BEC",
+   "resumen": "The Blackworks hard techno festival celebrates its fourth edition at the BEC in Barakaldo this Saturday, lasting 10 hours and accommodating 8,000 attendees."
+  },
+  "inicio": "2026-11-28",
+  "fin": "2026-11-28",
+  "hora": null,
+  "lugar": "BEC (Bilbao Exhibition Centre)",
+  "municipio": "Barakaldo",
+  "provincia": "Vizcaya",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.95
+ },
+ "c88061aaab": {
+  "url": "https://www.lasprovincias.es/culturas/the-book-mormon-humor-salvaje-blasfemia-visten-20261125135640-nt.html",
+  "fuente": "Las Provincias (Culturas)",
+  "src": "prensa-lasprovincias-culturas",
+  "publicado": "2026-11-25",
+  "es_plan": false
+ },
+ "492b24731c": {
+  "url": "https://www.lasprovincias.es/culturas/fallece-fotografo-francisco-caparros-20261125105934-nt.html",
+  "fuente": "Las Provincias (Culturas)",
+  "src": "prensa-lasprovincias-culturas",
+  "publicado": "2026-11-25",
+  "es_plan": false
+ },
+ "5a495eac03": {
+  "url": "https://www.lasprovincias.es/culturas/lectores-provincias-eligen-valenciano-ano-20261124233551-nt.html",
+  "fuente": "Las Provincias (Culturas)",
+  "src": "prensa-lasprovincias-culturas",
+  "publicado": "2026-11-25",
+  "es_plan": false
+ },
+ "d1c88c0d9e": {
+  "url": "https://www.lasprovincias.es/culturas/cuadros-mejores-trazos-20261124005640-nt.html",
+  "fuente": "Las Provincias (Culturas)",
+  "src": "prensa-lasprovincias-culturas",
+  "publicado": "2026-11-25",
+  "es_plan": true,
+  "titulo": "Exposición de la pintora Nona en Paiporta",
+  "resumen": "La exposición de la pintora Nona, que comenzó a pintar a los cien años, se presenta en Paiporta. La muestra incluye obras junto a su nieta.",
+  "en": {
+   "titulo": "Exhibition by painter Nona in Paiporta",
+   "resumen": "An exhibition by painter Nona, who began painting at one hundred years old, is presented in Paiporta. The show includes works alongside her granddaughter."
+  },
+  "inicio": "2026-11-25",
+  "fin": "2026-11-25",
+  "hora": null,
+  "lugar": null,
+  "municipio": "Paiporta",
+  "provincia": "Valencia",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.7
+ },
+ "9654035f43": {
+  "url": "https://www.lasprovincias.es/culturas/tv/aclamado-biopic-sobre-rey-pop-estrena-sky-20261123010205-nt.html",
+  "fuente": "Las Provincias (Culturas)",
+  "src": "prensa-lasprovincias-culturas",
+  "publicado": "2026-11-25",
+  "es_plan": true,
+  "titulo": "Biopic de Michael Jackson en Sky Showtime",
+  "resumen": "El biopic 'Michael', protagonizado por Jafaar Jackson como su tío Michael Jackson, se estrena en la plataforma de streaming Sky Showtime.",
+  "en": {
+   "titulo": "Michael Jackson Biopic on Sky Showtime",
+   "resumen": "The biopic 'Michael', starring Jafaar Jackson as his uncle Michael Jackson, premieres on the streaming platform Sky Showtime."
+  },
+  "inicio": "2026-11-25",
+  "fin": "2026-11-25",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "pantalla",
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "dcf5c965da": {
+  "url": "https://www.laverdad.es/culturas/chemsex-irrumpe-campana-electoral-puede-noche-divertida-20261124211124-nt.html",
+  "fuente": "La Verdad (Culturas)",
+  "src": "prensa-laverdad-culturas",
+  "publicado": "2026-11-25",
+  "es_plan": true,
+  "titulo": "Festival Determinantes en Murcia",
+  "resumen": "El Festival Determinantes en Murcia, que se celebra hasta el 28 de noviembre, aborda el 'chemsex' y las adicciones a través de mesas redondas, un documental y un monólogo teatral.",
+  "en": {
+   "titulo": "Determinantes Festival in Murcia",
+   "resumen": "The Determinantes Festival in Murcia, running until November 28, addresses 'chemsex' and addictions through roundtables, a documentary, and a theatrical monologue."
+  },
+  "inicio": "2026-11-25",
+  "fin": "2026-11-28",
+  "hora": null,
+  "lugar": "Teatro Circo",
+  "municipio": "Murcia",
+  "provincia": "Murcia",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.95
+ },
+ "cf758e063e": {
+  "url": "https://www.laverdad.es/culturas/musica/martin-lopez-miedo-facilidad-gente-ideas-mierda-20261124000906-nt.html",
+  "fuente": "La Verdad (Culturas)",
+  "src": "prensa-laverdad-culturas",
+  "publicado": "2026-11-25",
+  "es_plan": true,
+  "titulo": "Soen inicia gira en Murcia",
+  "resumen": "La banda sueca Soen comienza este viernes en Murcia la parte española de su última gira, presentando su disco 'Reliance'.",
+  "en": {
+   "titulo": "Soen begins tour in Murcia",
+   "resumen": "Swedish band Soen starts the Spanish leg of their latest tour this Friday in Murcia, presenting their album 'Reliance'."
+  },
+  "inicio": "2026-11-27",
+  "fin": "2026-11-27",
+  "hora": null,
+  "lugar": null,
+  "municipio": "Murcia",
+  "provincia": "Murcia",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.95
+ },
+ "2671c6da93": {
+  "url": "https://www.larioja.com/culturas/musica/rock-franceses-komodor-moundrag-fusion-izaro-encabezan-20261125165533-nt.html",
+  "fuente": "La Rioja (Culturas)",
+  "src": "prensa-larioja-culturas",
+  "publicado": "2026-11-25",
+  "es_plan": true,
+  "titulo": "XI Moradillos Fest en Préjano",
+  "resumen": "El XI Moradillos Fest de Préjano, los días 2 y 3 de julio, contará con la actuación de bandas como Komodor, Moundrag, Izaro, One Rusty Band, Travo y Ezezez.",
+  "en": {
+   "titulo": "XI Moradillos Fest in Préjano",
+   "resumen": "The XI Moradillos Fest in Préjano, on July 2nd and 3rd, will feature performances by bands such as Komodor, Moundrag, Izaro, One Rusty Band, Travo, and Ezezez."
+  },
+  "inicio": "2027-07-02",
+  "fin": "2027-07-03",
+  "hora": null,
+  "lugar": null,
+  "municipio": "Préjano",
+  "provincia": "La Rioja",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "musica",
+   "fiestas"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.95
+ },
+ "6e8e6f4a6a": {
+  "url": "https://www.larioja.com/culturas/unir-estrena-obras-nuevos-autores-viii-concierto-20261125124839-nt.html",
+  "fuente": "La Rioja (Culturas)",
+  "src": "prensa-larioja-culturas",
+  "publicado": "2026-11-25",
+  "es_plan": true,
+  "titulo": "VIII Concierto de Laureados de Composición Musical de UNIR",
+  "resumen": "UNIR estrena 13 obras de nuevos autores en su VIII Concierto de Laureados de Composición Musical, apadrinado por Juan Manuel Cañizares.",
+  "en": {
+   "titulo": "UNIR's 8th Laureates Concert of Musical Composition",
+   "resumen": "UNIR premieres 13 works by new authors at its 8th Laureates Concert of Musical Composition, sponsored by Juan Manuel Cañizares."
+  },
+  "inicio": "2026-11-25",
+  "fin": "2026-11-25",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": "La Rioja",
+  "ambito": "nacional",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "fbcf9cf30f": {
+  "url": "https://www.20minutos.es/libros/los-libreros-piden-los-partidos-campana-que-se-les-reconozca-como-espacios-culturales_7065308_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-11-24",
+  "es_plan": false
+ },
+ "f217895870": {
+  "url": "https://www.20minutos.es/musica/plataforma-tidal-prohibira-musica-generada-completamente-por-inteligencia-artificial_7065264_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-11-24",
+  "es_plan": false
+ },
+ "58baa0064e": {
+  "url": "https://elpais.com/cultura/2026-11-24/kanal-mucho-mas-que-un-discipulo-del-centro-pompidou-en-el-corazon-de-europa.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-11-24",
+  "es_plan": false
+ },
+ "db416586e6": {
+  "url": "https://elpais.com/cultura/2026-11-24/mariana-de-austria-la-reina-que-esgrimio-el-arte-como-arma-para-construir-y-consolidar-su-poder.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-11-24",
+  "es_plan": true,
+  "titulo": "Exposición sobre Mariana de Austria en el Museo del Prado",
+  "resumen": "El Museo del Prado inaugura una exposición dedicada a Mariana de Austria, destacando cómo utilizó el arte para consolidar su poder. La muestra podrá visitarse del 26 de noviembre al 28 de marzo de 2027.",
+  "en": {
+   "titulo": "Exhibition on Mariana of Austria at the Prado Museum",
+   "resumen": "The Prado Museum inaugurates an exhibition dedicated to Mariana of Austria, highlighting how she used art to consolidate her power. The exhibition will be open from November 26th to March 28th, 2027."
+  },
+  "inicio": "2026-11-26",
+  "fin": "2027-03-28",
+  "hora": null,
+  "lugar": "Museo del Prado",
+  "municipio": "Madrid",
+  "provincia": "Madrid",
+  "ambito": "nacional",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "museos",
+   "libros"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "102657be67": {
+  "url": "https://elpais.com/cultura/2026-11-24/paco-cerda-gana-el-premio-del-libro-europeo-por-presentes.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-11-24",
+  "es_plan": false
+ },
+ "5dc7ce9167": {
+  "url": "https://www.lavanguardia.com/cultura/20261124/11692435/musica-directo-analisis-cultural-catalunya-eventos-artes.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-24",
+  "es_plan": false
+ },
+ "6691875991": {
+  "url": "https://www.lavanguardia.com/cultura/20261124/11692423/irene-escolar-messiez-duncan-macmillan-temporada-alta.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-24",
+  "es_plan": false
+ },
+ "aff74e9656": {
+  "url": "https://www.ara.cat/cultura/art/barcelona-inaugura-biennal-vol-explicar-segle-xxi-traves-l-art-digital_1_5921532.html",
+  "fuente": "Ara (Cultura)",
+  "src": "prensa-ara-cultura",
+  "publicado": "2026-11-24",
+  "es_plan": false
+ },
+ "f0eee6b450": {
+  "url": "https://www.ara.cat/cultura/musica/pol-batlle-obre-cicle-escenes-l-auditori-flor-deu-dies-28-29-novembre_25_5921711.html",
+  "fuente": "Ara (Cultura)",
+  "src": "prensa-ara-cultura",
+  "publicado": "2026-11-24",
+  "es_plan": true,
+  "titulo": "Pol Batlle estrena ‘La Flor de Déu’ en L’Auditori de Barcelona",
+  "resumen": "Pol Batlle inaugurará el ciclo ‘Escenes’ en L’Auditori de Barcelona los días 28 y 29 de noviembre con su espectáculo ‘La Flor de Déu’, que fusiona música, luz y dramaturgia para reflexionar sobre la memoria y el Alzheimer.",
+  "en": {
+   "titulo": "Pol Batlle premieres ‘La Flor de Déu’ at L’Auditori de Barcelona",
+   "resumen": "Pol Batlle will inaugurate the ‘Escenes’ cycle at L’Auditori de Barcelona on November 28th and 29th with his show ‘La Flor de Déu’, which fuses music, light, and dramaturgy to reflect on memory and Alzheimer's."
+  },
+  "inicio": "2026-11-28",
+  "fin": "2026-11-29",
+  "hora": null,
+  "lugar": "L'Auditori",
+  "municipio": "Barcelona",
+  "provincia": "Barcelona",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "5718610298": {
+  "url": "https://www.diariosur.es/culturas/cubana-cocina-malaga-disparatado-melodrama-culinario-20261124180113-nt.html",
+  "fuente": "Diario Sur (Culturas)",
+  "src": "prensa-diariosur-culturas",
+  "publicado": "2026-11-24",
+  "es_plan": false
+ },
+ "502b721401": {
+  "url": "https://www.lasprovincias.es/culturas/tv/tve-estrena-comedia-director-campeones-grabo-comunitat-20261123000313-nt.html",
+  "fuente": "Las Provincias (Culturas)",
+  "src": "prensa-lasprovincias-culturas",
+  "publicado": "2026-11-24",
+  "es_plan": false
+ },
+ "dbf24acb9c": {
+  "url": "https://www.laverdad.es/culturas/musica/interpol-wilco-editors-primeros-conciertos-confirmados-noches-20261124170900-nt.html",
+  "fuente": "La Verdad (Culturas)",
+  "src": "prensa-laverdad-culturas",
+  "publicado": "2026-11-24",
+  "es_plan": false
+ },
+ "8c6f9b6ea6": {
+  "url": "https://www.eldiariomontanes.es/culturas/rebeca-saavedra-protagoniza-nueva-sesion-ciclo-alucinaciones-20261124074323-nt.html",
+  "fuente": "El Diario Montañés (Culturas)",
+  "src": "prensa-diariomontanes-culturas",
+  "publicado": "2026-11-24",
+  "es_plan": false
+ },
+ "71d53e4f12": {
+  "url": "https://www.eldiariomontanes.es/culturas/gorka-mohamed-completa-ano-luces-exposicion-burdeos-20261124072549-nt.html",
+  "fuente": "El Diario Montañés (Culturas)",
+  "src": "prensa-diariomontanes-culturas",
+  "publicado": "2026-11-24",
+  "es_plan": false
+ },
+ "f8aaf2bbcf": {
+  "url": "https://www.larioja.com/culturas/upl-conmemora-25n-exposicion-documental-mujeres-negro-20261124093816-nt.html",
+  "fuente": "La Rioja (Culturas)",
+  "src": "prensa-larioja-culturas",
+  "publicado": "2026-11-24",
+  "es_plan": false
+ },
+ "603ed077d0": {
+  "url": "https://www.europapress.es/cultura/cine-00128/noticia-cultura-recurrira-tc-orden-cyl-condicionar-ayudas-cine-clausula-no-adoctrinamiento-20261123193657.html",
+  "fuente": "Europa Press (Cultura)",
+  "src": "prensa-europapress-cultura",
+  "publicado": "2026-11-23",
+  "es_plan": false
  }
 }
