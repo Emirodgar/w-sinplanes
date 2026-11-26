@@ -1,11 +1,11 @@
 {
-  "generated": "2026-11-26T13:56:36.731Z",
+  "generated": "2026-11-26T15:51:23.390Z",
   "today": "2026-11-26",
-  "events": 9980,
+  "events": 10013,
   "review": 10,
   "ai": {
-    "calls": 0,
-    "seconds": 115,
+    "calls": 14,
+    "seconds": 219,
     "tripped": false
   },
   "sources": [
@@ -37,7 +37,7 @@
     {
       "id": "futbol-laliga-champions",
       "status": "ok",
-      "count": 17
+      "count": 18
     },
     {
       "id": "prensa-europapress-cultura",
@@ -66,7 +66,7 @@
     {
       "id": "prensa-ara-cultura",
       "status": "ok",
-      "count": 12,
+      "count": 13,
       "candidatos": true
     },
     {
@@ -96,7 +96,7 @@
     {
       "id": "prensa-ideal-culturas",
       "status": "ok",
-      "count": 20,
+      "count": 21,
       "candidatos": true
     },
     {
@@ -108,7 +108,7 @@
     {
       "id": "prensa-elcorreo-culturas",
       "status": "ok",
-      "count": 6,
+      "count": 8,
       "candidatos": true
     },
     {

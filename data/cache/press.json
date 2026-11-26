@@ -30177,5 +30177,1018 @@
   "src": "prensa-europapress-cultura",
   "publicado": "2026-11-23",
   "es_plan": false
+ },
+ "d0c7c1ee6a": {
+  "url": "https://www.europapress.es/cultura/cine-00128/noticia-nuevas-desventuras-cliff-booth-oro-ley-hermanas-despediran-noviembre-cines-20261126122605.html",
+  "fuente": "Europa Press (Cultura)",
+  "src": "prensa-europapress-cultura",
+  "publicado": "2026-11-26",
+  "es_plan": true,
+  "titulo": "Estrenos de cine para despedir noviembre",
+  "resumen": "Variada oferta de estrenos cinematográficos para el último fin de semana de noviembre, incluyendo 'Las nuevas desventuras de Cliff Booth', 'Oro sin ley' y 'Hermanas'. También llegan 'Sanguine', 'Un hombre en un puente' y la animación familiar 'Hechizo: Bienvenidos a Hexe'.",
+  "en": {
+   "titulo": "Cinema premieres to bid farewell to November",
+   "resumen": "A varied offer of film premieres for the last weekend of November, including 'Cliff Booth's New Adventures', 'No Gold' and 'Sisters'. Also arriving are 'Sanguine', 'A Man on a Bridge', and the family animation 'Encanto: Welcome to Hexe'."
+  },
+  "inicio": "2026-11-25",
+  "fin": "2026-11-25",
+  "hora": null,
+  "lugar": "cines",
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "c7ccfb99ce": {
+  "url": "https://www.20minutos.es/artes/faro-santander-celebra-universo-leonora-carrington-con-especial-jardin-las-hienas_7066291_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-11-26",
+  "es_plan": true,
+  "titulo": "Faro Santander celebra el universo de Leonora Carrington",
+  "resumen": "El Faro Santander presenta 'El jardín de las hienas', un programa especial de actividades los días 27 y 28 de noviembre que incluye conferencias, performances, proyecciones y experiencias colectivas en torno a la obra de Leonora Carrington.",
+  "en": {
+   "titulo": "Faro Santander celebrates Leonora Carrington's universe",
+   "resumen": "Faro Santander presents 'The Hyena's Garden', a special program of activities on November 27th and 28th, including conferences, performances, screenings, and collective experiences centered around Leonora Carrington's work."
+  },
+  "inicio": "2026-11-27",
+  "fin": "2026-11-28",
+  "hora": null,
+  "lugar": "Faro Santander",
+  "municipio": null,
+  "provincia": "Cantabria",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "museos",
+   "actividades"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "173eab9950": {
+  "url": "https://www.20minutos.es/cultura/gran-simbolica-biblioteca-umberto-eco-se-muda-bolonia-mas-33-000-volumenes-ordenados-como-un-tetris_7066262_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-11-26",
+  "es_plan": false
+ },
+ "8db9212971": {
+  "url": "https://www.20minutos.es/musica/ana-torroja-sidonie-jorge-drexler-sanguijuelas-guadiana-encabezan-cartel-30-aniversario-sonorama_7066060_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-11-26",
+  "es_plan": false
+ },
+ "0112709ba8": {
+  "url": "https://www.20minutos.es/libros/fuego-raiz-reune-las-letras-gata-cattana-rescata-siete-canciones-ineditas-artista_7066046_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-11-26",
+  "es_plan": false
+ },
+ "2a2b6a5797": {
+  "url": "https://www.20minutos.es/cultura/blogs/yaestaellistoquetodolosabe/curioso-origen-seis-terminos-relacionados-con-las-elecciones_7056263_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-11-26",
+  "es_plan": false
+ },
+ "ae6d2019f8": {
+  "url": "https://elpais.com/cultura/cine/2026-11-26/you-can-see-everything-la-pelicula-de-la-que-todo-el-mundo-habla-llega-a-espana-por-un-solo-dia.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-11-26",
+  "es_plan": true,
+  "titulo": "'You Can See Everything' se proyecta en España por un día",
+  "resumen": "El documental 'You Can See Everything', sobre la estafadora Elizabeth Holmes, se proyectará en casi un centenar de salas de cine españolas este jueves, un mes antes de su estreno comercial el 25 de diciembre.",
+  "en": {
+   "titulo": "'You Can See Everything': the film everyone is talking about arrives in Spain for one day",
+   "resumen": "The documentary 'You Can See Everything', about scammer Elizabeth Holmes, will be screened in nearly a hundred Spanish cinemas this Thursday, one month before its commercial release on December 25th."
+  },
+  "inicio": "2026-11-26",
+  "fin": "2026-11-26",
+  "hora": null,
+  "lugar": "cines",
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "722989476d": {
+  "url": "https://elpais.com/cultura/2026-11-26/alumnos-de-teatro-de-zaragoza-denuncian-en-el-defensor-del-pueblo-aragones-que-el-ayuntamiento-pp-le-ha-vetado-una-obra.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-11-26",
+  "es_plan": false
+ },
+ "7e4816819f": {
+  "url": "https://elpais.com/cultura/cine/2026-11-26/pawel-pawlikowski-director-de-cine-el-mundo-digital-ha-entrado-en-nuestros-cerebros-y-esta-haciendo-ruidos-terribles.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-11-26",
+  "es_plan": true,
+  "titulo": "Pawel Pawlikowski presenta 'Fatherland' en el Festival Eñe",
+  "resumen": "El cineasta Pawel Pawlikowski presenta su última película, 'Fatherland', en el Festival Eñe. La obra, que aborda la memoria y las fracturas de Europa, llegará a las salas españolas el 4 de diciembre.",
+  "en": {
+   "titulo": "Pawel Pawlikowski presents 'Fatherland' at the Eñe Festival",
+   "resumen": "Filmmaker Pawel Pawlikowski presents his latest film, 'Fatherland', at the Eñe Festival. The work, which addresses memory and Europe's fractures, will be released in Spanish cinemas on December 4th."
+  },
+  "inicio": "2026-12-04",
+  "fin": "2026-12-04",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "68c12b0636": {
+  "url": "https://elpais.com/cultura/2026-11-26/la-cultura-en-los-programas-electorales-medidas-ausencias-posibles-acuerdos-y-choques.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-11-26",
+  "es_plan": false
+ },
+ "9fe168431f": {
+  "url": "https://elpais.com/cultura/musica/2026-11-26/marianne-crebassa-se-corona-en-la-clemenza-di-tito-de-jordi-savall-en-el-liceu.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-11-26",
+  "es_plan": true,
+  "titulo": "Jordi Savall dirige 'La clemenza di Tito' en el Liceu",
+  "resumen": "Marianne Crebassa destaca en su debut en el Gran Teatre del Liceu con 'La clemenza di Tito' de Mozart, dirigida por Jordi Savall. La ópera se representa hasta el 1 de diciembre.",
+  "en": {
+   "titulo": "Jordi Savall conducts 'La clemenza di Tito' at the Liceu",
+   "resumen": "Marianne Crebassa shines in her debut at the Gran Teatre del Liceu with Mozart's 'La clemenza di Tito', conducted by Jordi Savall. The opera is performed until December 1st."
+  },
+  "inicio": "2026-11-25",
+  "fin": "2026-12-01",
+  "hora": null,
+  "lugar": "Gran Teatre del Liceu",
+  "municipio": null,
+  "provincia": "Barcelona",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "236d9811ee": {
+  "url": "https://elpais.com/espana/catalunya/2026-11-26/el-mago-pop-compra-el-teatro-regina-su-tercera-sala-en-barcelona.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-11-26",
+  "es_plan": false
+ },
+ "ccb78bbca6": {
+  "url": "https://elpais.com/cultura/2026-11-26/la-era-atomica-en-el-cccb-es-la-bomba.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-11-26",
+  "es_plan": true,
+  "titulo": "Exposición 'La era atómica' en el CCCB",
+  "resumen": "El CCCB de Barcelona presenta 'La era atómica', una exposición que explora el terror y la fascinación de la tecnología nuclear en el arte y la cultura, hasta el 17 de mayo.",
+  "en": {
+   "titulo": "'The Atomic Age' exhibition at CCCB",
+   "resumen": "The CCCB in Barcelona presents 'The Atomic Age', an exhibition exploring the terror and fascination of nuclear technology in art and culture, running until May 17th."
+  },
+  "inicio": "2026-11-26",
+  "fin": "2027-05-17",
+  "hora": null,
+  "lugar": "CCCB",
+  "municipio": "Barcelona",
+  "provincia": "Barcelona",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "museos",
+   "actividades"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "e9d34c4528": {
+  "url": "https://elpais.com/cultura/2026-11-26/a-la-conquista-teatral-de-la-espana-vaciada.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-11-26",
+  "es_plan": false
+ },
+ "368a945642": {
+  "url": "https://www.lavanguardia.com/cultura/20261126/11694035/karla-sofia-gascon-regresa-emilia-perez-convertida-villana-western-feminista.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-26",
+  "es_plan": false
+ },
+ "ae1764d02d": {
+  "url": "https://www.lavanguardia.com/cultura/cine/20261126/11688060/que-parecen-juegos-hambre-realidad-politica-ee-uu.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-26",
+  "es_plan": false
+ },
+ "f723db23e5": {
+  "url": "https://www.lavanguardia.com/cultura/20261126/11693810/joan-dausa-agota-hora-7-000-entradas-vendidas-paris.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-26",
+  "es_plan": true,
+  "titulo": "Joan Dausà agota entradas en París para concierto en catalán",
+  "resumen": "Joan Dausà ha agotado las 7.000 entradas para su concierto en París, haciendo historia al ser el primer artista en llenar un recinto de tal aforo cantando íntegramente en catalán.",
+  "en": {
+   "titulo": "Joan Dausà Sells Out Tickets in Paris for Concert in Catalan",
+   "resumen": "Joan Dausà has sold out 7,000 tickets for his concert in Paris, making history as the first artist to fill a venue of this capacity singing entirely in Catalan."
+  },
+  "inicio": "2027-12-18",
+  "fin": "2027-12-18",
+  "hora": null,
+  "lugar": null,
+  "municipio": "París",
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "04441e741f": {
+  "url": "https://www.lavanguardia.com/cultura/20261126/11693734/mago-pop-adquiere-propiedad-teatro-regina-barcelona.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-26",
+  "es_plan": false
+ },
+ "043a2eac3d": {
+  "url": "https://www.lavanguardia.com/cultura/20261126/11693366/imparable-viaje-bola-negra-oscars.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-26",
+  "es_plan": false
+ },
+ "fb4611f1f0": {
+  "url": "https://www.lavanguardia.com/cultura/20261126/11693639/nuestra-civilizacion-emergencia.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-26",
+  "es_plan": false
+ },
+ "1d599578d9": {
+  "url": "https://www.lavanguardia.com/cultura/20261126/11693516/liceu-aplaude-piedad-tito-voz-sesto-maestria-savall.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-26",
+  "es_plan": false
+ },
+ "a5f6a2cbac": {
+  "url": "https://www.ara.cat/cultura/gerard-depardieu-anira-judici-acusat-violacio_1_5923953.html",
+  "fuente": "Ara (Cultura)",
+  "src": "prensa-ara-cultura",
+  "publicado": "2026-11-26",
+  "es_plan": false
+ },
+ "c1416d669c": {
+  "url": "https://www.ara.cat/media/he-tingut-etapes-molta-hipocondria-neixer-fill-marxar_128_5922796.html",
+  "fuente": "Ara (Cultura)",
+  "src": "prensa-ara-cultura",
+  "publicado": "2026-11-26",
+  "es_plan": true,
+  "titulo": "Pep Ambròs estrena 'El niño' en Netflix y la obra 'El niu' en La Villarroel",
+  "resumen": "Pep Ambròs participa en el estreno de la película 'El niño' en Netflix y en la obra teatral 'El niu', que se representa en La Villarroel de Barcelona hasta enero.",
+  "en": {
+   "titulo": "Pep Ambròs Premieres 'El niño' on Netflix and 'El niu' Play at La Villarroel",
+   "resumen": "Pep Ambròs stars in the premiere of the film 'El niño' on Netflix and the play 'El niu', which is being performed at La Villarroel in Barcelona until January."
+  },
+  "inicio": "2026-11-28",
+  "fin": "2027-01-10",
+  "hora": null,
+  "lugar": "La Villarroel",
+  "municipio": "Barcelona",
+  "provincia": "Barcelona",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "pantalla",
+   "libros"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "c66b175880": {
+  "url": "https://www.ara.cat/cultura/opera/mozart-jordi-savall-bon-gust-elegancia-liceu_1_5923613.html",
+  "fuente": "Ara (Cultura)",
+  "src": "prensa-ara-cultura",
+  "publicado": "2026-11-26",
+  "es_plan": false
+ },
+ "c15eb18865": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/26/ayuntamiento-zaragoza-defiuende-no-veto-censura-escuela-teatro-2072135.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-26",
+  "es_plan": false
+ },
+ "6e7bed60bb": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/26/critica-pelicula-nuevas-desventuras-cliff-booth-desproposito-2072101.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-26",
+  "es_plan": false
+ },
+ "c81b285358": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/26/pedro-sanchez-denuncia-censura-ayuntamiento-zaragoza-involucion-quieren-derecha-2072069.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-26",
+  "es_plan": false
+ },
+ "80360ccf98": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/26/eva-armisen-dibuja-huesca-un-inventario-las-pequenas-grandes-cosas-vida-2072055.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-26",
+  "es_plan": true,
+  "titulo": "Eva Armisén expone 'Inventario' en Huesca hasta febrero",
+  "resumen": "La artista Eva Armisén inaugura la exposición 'Inventario' en la Diputación Provincial de Huesca, mostrando pinturas y esculturas que exploran su visión del mundo.",
+  "en": {
+   "titulo": "Eva Armisén Exhibits 'Inventario' in Huesca Until February",
+   "resumen": "Artist Eva Armisén inaugurates the exhibition 'Inventario' at the Diputación Provincial de Huesca, showcasing paintings and sculptures that explore her worldview."
+  },
+  "inicio": "2026-11-26",
+  "fin": "2027-02-14",
+  "hora": "19:30",
+  "lugar": "Diputación Provincial de Huesca",
+  "municipio": "Huesca",
+  "provincia": "Huesca",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "d9f21db60c": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/26/raphael-83-anos-cantante-no-es-necesario-llevar-bandera-calle-ni-exhibirla-para-ser-buen-espanol-2068991.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-26",
+  "es_plan": false
+ },
+ "8ec6c24284": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/26/espiritu-circo-sol-llega-zaragoza-cuatro-funciones-2072026.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-26",
+  "es_plan": true,
+  "titulo": "El Circo del Sol llega a Zaragoza con 'Titizé. Un sueño en Venecia'",
+  "resumen": "Zaragoza acoge 'Titizé. Un sueño en Venecia', un espectáculo de Compagnia Finzi Pasca inspirado en el Circo del Sol, con acrobacias y teatro visual, hasta el domingo.",
+  "en": {
+   "titulo": "Cirque du Soleil Spirit Arrives in Zaragoza with 'Titizé. A Dream in Venice'",
+   "resumen": "Zaragoza hosts 'Titizé. A Dream in Venice', a show by Compagnia Finzi Pasca inspired by Cirque du Soleil, featuring acrobatics and visual theater, until Sunday."
+  },
+  "inicio": "2026-11-26",
+  "fin": "2026-11-29",
+  "hora": null,
+  "lugar": "Teatro Principal",
+  "municipio": "Zaragoza",
+  "provincia": "Zaragoza",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "actividades",
+   "ninos"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "617ba61cd8": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/26/victor-manuel-79anos-acabo-harto-ir-hoteles-todos-iguales-parecidos-cansa-final-gira-2063549.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-26",
+  "es_plan": true,
+  "titulo": "Víctor Manuel inicia gira de conciertos en noviembre",
+  "resumen": "El cantante Víctor Manuel continúa su gira 'Solo a solas conmigo' presentando su último disco. Ofrecerá conciertos en Madrid el 29 de noviembre, seguidos de actuaciones en La Coruña, Almería y Albacete, y planea seguir de gira en 2027.",
+  "en": {
+   "titulo": "Víctor Manuel starts concert tour in November",
+   "resumen": "Singer Víctor Manuel continues his 'Solo a solas conmigo' tour presenting his latest album. He will perform in Madrid on November 29th, followed by shows in La Coruña, Almería, and Albacete, with plans to continue touring in 2027."
+  },
+  "inicio": "2026-11-29",
+  "fin": "2026-11-29",
+  "hora": null,
+  "lugar": "Movistar Arena",
+  "municipio": "Madrid",
+  "provincia": "Madrid",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "d51056c58b": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/26/isabel-preysler-76anos-desayuno-agua-caliente-lima-semillas-lino-termino-vaso-agua-jamaica-2069461.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-26",
+  "es_plan": false
+ },
+ "0f9c1d2459": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/26/muere-veruschka-87-anos-primera-supermodelo-alemana-musa-dali-2071970.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-26",
+  "es_plan": false
+ },
+ "2ccd0bf5f1": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/26/luis-zahera-60-anos-desayunar-como-cuatro-huevos-fritos-pan-fruta-nueces-sandwich-jamon-queso-fundido-leche-avena-polen-2071117.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-26",
+  "es_plan": false
+ },
+ "358fdd9aad": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/26/karla-sofia-gascon-harta-maldad-gente-destruyendo-otros-cine-estrenos-2071968.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-26",
+  "es_plan": false
+ },
+ "6484dc7fbc": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/26/anna-saura-grabe-mi-padre-con-intencion-conservar-sus-historias-2071803.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-26",
+  "es_plan": true,
+  "titulo": "Presentación documental 'Carlos Saura, ese niño de la fotografía' en Zaragoza",
+  "resumen": "La productora Anna Saura presenta este jueves 26 de noviembre en el C.M.U. Pedro Cerbuna de Zaragoza el documental sobre su padre, Carlos Saura. El evento comenzará a las 18:00 horas y la entrada será libre.",
+  "en": {
+   "titulo": "Presentation of the documentary 'Carlos Saura, that boy of photography' in Zaragoza",
+   "resumen": "Producer Anna Saura presents the documentary about her father, Carlos Saura, this Thursday, November 26th, at the C.M.U. Pedro Cerbuna in Zaragoza. The event starts at 6:00 PM with free admission."
+  },
+  "inicio": "2026-11-26",
+  "fin": "2026-11-26",
+  "hora": "18:00",
+  "lugar": "C.M.U. Pedro Cerbuna",
+  "municipio": "Zaragoza",
+  "provincia": "Zaragoza",
+  "ambito": "local",
+  "gratis": true,
+  "precio": "entrada libre",
+  "temas": [
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "111e68e3df": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/26/kaseo-46anos-dia-caminaba-calle-alfonso-zaragoza-chico-entrego-cosa-conservo-emociono-2071254.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-26",
+  "es_plan": true,
+  "titulo": "Kase.O inicia gira de conciertos en enero",
+  "resumen": "El rapero Kase.O comenzará en enero una gira para presentar su nuevo disco 'Camisa de fuerza'. Los conciertos recorrerán España y América, prometiendo emociones fuertes para sus seguidores.",
+  "en": {
+   "titulo": "Kase.O starts concert tour in January",
+   "resumen": "Rapper Kase.O will begin a tour in January to present his new album 'Camisa de fuerza'. The concerts will travel through Spain and America, promising strong emotions for his fans."
+  },
+  "inicio": "2027-01-01",
+  "fin": "2027-01-01",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.7
+ },
+ "c7815f16dd": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/26/andres-roca-rey-30anos-gusta-hacer-planes-largo-plazo-pensando-poco-vida-peculiar-2071952.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-26",
+  "es_plan": true,
+  "titulo": "Andrés Roca Rey concluye temporada de corridas en México",
+  "resumen": "El torero Andrés Roca Rey finaliza su temporada en América este fin de semana con tres corridas en México: San Miguel de Allende (viernes), León (sábado) y Apizaco (domingo).",
+  "en": {
+   "titulo": "Andrés Roca Rey concludes bullfighting season in Mexico",
+   "resumen": "Bullfighter Andrés Roca Rey concludes his season in America this weekend with three bullfights in Mexico: San Miguel de Allende (Friday), León (Saturday), and Apizaco (Sunday)."
+  },
+  "inicio": "2026-11-27",
+  "fin": "2026-11-29",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "deporte"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "916e48d35e": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/26/pancho-varona-69anos-dio-pena-vi-ultimos-conciertos-joaquin-sabina-persona-conocia-2071951.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-26",
+  "es_plan": false
+ },
+ "2f63ea0b46": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/26/maximo-huerta-55anos-ocurrido-ceuta-pasado-otra-ciudad-peninsula-grave-2071950.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-26",
+  "es_plan": true,
+  "titulo": "Máximo Huerta presenta libros en Ceuta",
+  "resumen": "El escritor Máximo Huerta visita Ceuta para presentar sus libros 'Mamá está dormida' y 'Una maleta, dos libros y un corazón' en la Biblioteca Pública Adolfo Suárez.",
+  "en": {
+   "titulo": "Máximo Huerta presents books in Ceuta",
+   "resumen": "Writer Máximo Huerta visits Ceuta to present his books 'Mamá está dormida' and 'Una maleta, dos libros y un corazón' at the Adolfo Suárez Public Library."
+  },
+  "inicio": "2026-11-26",
+  "fin": "2026-11-26",
+  "hora": null,
+  "lugar": "Biblioteca Pública Adolfo Suárez",
+  "municipio": "Ceuta",
+  "provincia": "Ceuta",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "3496c487e1": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/26/miguel-bose-70anos-estoy-orgulloso-ser-espanol-no-cansaremos-encima-pais-2064804.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-26",
+  "es_plan": false
+ },
+ "c017a40d75": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/26/presente-futuro-coleccionismo-arte-analiza-museo-goya-zaragoza-2071930.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-26",
+  "es_plan": true,
+  "titulo": "Jornadas de Coleccionismo de Arte en el Museo Goya de Zaragoza",
+  "resumen": "El Museo Goya de Zaragoza acoge este jueves las VI Jornadas de Coleccionismo, organizadas por la Universidad Complutense y la asociación ACCA, centradas en Goya y el presente y futuro del coleccionismo de arte.",
+  "en": {
+   "titulo": "Art Collecting Conference at the Goya Museum in Zaragoza",
+   "resumen": "The Goya Museum in Zaragoza hosts the 6th Art Collecting Conference this Thursday, organized by Complutense University and the ACCA association, focusing on Goya and the present and future of art collecting."
+  },
+  "inicio": "2026-11-26",
+  "fin": "2026-11-26",
+  "hora": null,
+  "lugar": "Museo Goya",
+  "municipio": "Zaragoza",
+  "provincia": "Zaragoza",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "77217bb6c8": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/26/raices-separadas-enrique-bunbury-eva-amaral-6kilometros-distancia-zaragoza-2071870.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-26",
+  "es_plan": false
+ },
+ "398c811d1e": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/26/ecce-homo-borja-episodio-serie-futurama-2071716.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-26",
+  "es_plan": false
+ },
+ "970c00ffa2": {
+  "url": "https://www.elnortedecastilla.es/culturas/teatro/josep-maria-pou-dejaria-escuchar-quinta-beethoven-20261126082331-nt.html",
+  "fuente": "El Norte de Castilla (Culturas)",
+  "src": "prensa-nortecastilla-culturas",
+  "publicado": "2026-11-26",
+  "es_plan": true,
+  "titulo": "Josep Maria Pou encarna a Roald Dahl en 'Gigante' este fin de semana",
+  "resumen": "El actor Josep Maria Pou interpreta a Roald Dahl en la obra de teatro 'Gigante' este fin de semana en el Teatro Calderón.",
+  "en": {
+   "titulo": "Josep Maria Pou embodies Roald Dahl in 'Gigante' this weekend",
+   "resumen": "Actor Josep Maria Pou plays Roald Dahl in the play 'Gigante' this weekend at the Calderón Theatre."
+  },
+  "inicio": "2026-11-28",
+  "fin": "2026-11-29",
+  "hora": null,
+  "lugar": "Teatro Calderón",
+  "municipio": null,
+  "provincia": "Castilla y León",
+  "ambito": "nacional",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "0481a9ffa4": {
+  "url": "https://www.elnortedecastilla.es/culturas/libros/alejandro-fierro-reflexiona-sobre-cine-realidad-vida-20261125191906-nt.html",
+  "fuente": "El Norte de Castilla (Culturas)",
+  "src": "prensa-nortecastilla-culturas",
+  "publicado": "2026-11-26",
+  "es_plan": true,
+  "titulo": "Presentación del libro 'Una vida de repuesto' de Alejandro Fierro",
+  "resumen": "El periodista Alejandro Fierro presenta su libro 'Una vida de repuesto' este jueves en la librería Sandoval de Valladolid. El evento tendrá lugar a las 19:30 horas.",
+  "en": {
+   "titulo": "Presentation of the book 'Una vida de repuesto' by Alejandro Fierro",
+   "resumen": "Journalist Alejandro Fierro presents his book 'Una vida de repuesto' this Thursday at the Sandoval bookstore in Valladolid. The event will take place at 7:30 PM."
+  },
+  "inicio": "2026-11-26",
+  "fin": "2026-11-26",
+  "hora": "19:30",
+  "lugar": "librería Sandoval",
+  "municipio": "Valladolid",
+  "provincia": "Valladolid",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "f27865bc38": {
+  "url": "https://www.ideal.es/culturas/almeria/candilena-presenta-nuevo-disco-tonada-luz-espectaculo-20261126145750-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-11-26",
+  "es_plan": true,
+  "titulo": "Candilena presenta su disco 'Tonada y Luz' en el Teatro Apolo",
+  "resumen": "El dúo Candilena presenta su nuevo disco 'Tonada y Luz' con el espectáculo 'Al fin y al Cabo de Gata' este sábado 28 en el Teatro Apolo. Contarán con colaboraciones especiales.",
+  "en": {
+   "titulo": "Candilena presents their album 'Tonada y Luz' at Teatro Apolo",
+   "resumen": "The duo Candilena presents their new album 'Tonada y Luz' with the show 'Al fin y al Cabo de Gata' this Saturday the 28th at the Teatro Apolo. They will feature special guests."
+  },
+  "inicio": "2026-11-28",
+  "fin": "2026-11-28",
+  "hora": null,
+  "lugar": "Teatro Apolo",
+  "municipio": null,
+  "provincia": "Almería",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "ef839d7fff": {
+  "url": "https://www.ideal.es/culturas/jaen/somion-ciudad-oficios-imposibles-pone-fin-ciclo-20261126132418-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-11-26",
+  "es_plan": false
+ },
+ "7bea5afdd9": {
+  "url": "https://www.ideal.es/culturas/jaen/dos-luces-exhibe-martos-dos-etapas-artisticas-20261126131405-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-11-26",
+  "es_plan": true,
+  "titulo": "Exposición 'Entre dos luces' de José Domínguez en Martos",
+  "resumen": "La exposición 'Entre dos luces' del pintor José Domínguez se exhibe en Martos, su localidad natal, hasta el 15 de enero. La muestra presenta 25 obras que recorren dos etapas artísticas.",
+  "en": {
+   "titulo": "Exhibition 'Entre dos luces' by José Domínguez in Martos",
+   "resumen": "The exhibition 'Entre dos luces' by painter José Domínguez is on display in Martos, his hometown, until January 15th. The exhibition features 25 works covering two artistic periods."
+  },
+  "inicio": "2026-11-26",
+  "fin": "2027-01-15",
+  "hora": null,
+  "lugar": null,
+  "municipio": "Martos",
+  "provincia": "Jaén",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "14de560849": {
+  "url": "https://www.ideal.es/culturas/almeria/villancicos-flamencos-sonaran-favor-asociacion-espanola-cancer-20261126120059-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-11-26",
+  "es_plan": true,
+  "titulo": "II Zambombada Flamenca solidaria en la Catedral de Granada",
+  "resumen": "La II Zambombada Flamenca solidaria tendrá lugar el 12 de diciembre en el Claustro de la Catedral de Granada. El evento benéfico a favor de la AECC comenzará a las 20:00 horas.",
+  "en": {
+   "titulo": "II Solidarity Flamenco Zambombada at Granada Cathedral",
+   "resumen": "The II Solidarity Flamenco Zambombada will take place on December 12th in the Cloister of Granada Cathedral. The charity event for AECC will start at 8:00 PM."
+  },
+  "inicio": "2026-12-12",
+  "fin": "2026-12-12",
+  "hora": "20:00",
+  "lugar": "Claustro de la Catedral",
+  "municipio": "Granada",
+  "provincia": "Granada",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica",
+   "fiestas",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "29b6bf6817": {
+  "url": "https://www.ideal.es/culturas/granada-estrena-culturometro-medir-semana-pulso-artistico-20261126115650-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-11-26",
+  "es_plan": false
+ },
+ "d0a9a61a25": {
+  "url": "https://www.ideal.es/culturas/laurie-anderson-perdedores-vez-vida-20261126113827-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-11-26",
+  "es_plan": false
+ },
+ "581b19b544": {
+  "url": "https://www.elcorreo.com/culturas/arte/peripecias-steve-mccurry-alla-fotografia-hizo-famoso-20261126164152-nt.html",
+  "fuente": "El Correo (Culturas)",
+  "src": "prensa-elcorreo-culturas",
+  "publicado": "2026-11-26",
+  "es_plan": true,
+  "titulo": "Exposición 'ICONS' de Steve McCurry en la Alhóndiga",
+  "resumen": "La exposición 'ICONS' de Steve McCurry se exhibe en la Alhóndiga hasta el 29 de marzo de 2027. La muestra reúne 110 imágenes del fotoperiodista.",
+  "en": {
+   "titulo": "Steve McCurry's 'ICONS' exhibition at Alhóndiga",
+   "resumen": "Steve McCurry's 'ICONS' exhibition is on display at the Alhóndiga until March 29, 2027. The exhibition features 110 images by the photojournalist."
+  },
+  "inicio": "2026-11-26",
+  "fin": "2027-03-29",
+  "hora": null,
+  "lugar": "Alhóndiga",
+  "municipio": null,
+  "provincia": "Bizkaia",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "db5fe0010f": {
+  "url": "https://www.elcorreo.com/culturas/musica/xxxxx-20261126142858-nt.html",
+  "fuente": "El Correo (Culturas)",
+  "src": "prensa-elcorreo-culturas",
+  "publicado": "2026-11-26",
+  "es_plan": true,
+  "titulo": "Conciertos del fin de semana: Jorge Drexler, Revólver, Obon Fest y más",
+  "resumen": "Este fin de semana se celebran numerosos conciertos, incluyendo a Jorge Drexler, Revólver, Obon Fest, y otros eventos en Bilbao y el BEC. Hay opciones para todos los gustos musicales.",
+  "en": {
+   "titulo": "Weekend concerts: Jorge Drexler, Revólver, Obon Fest, and more",
+   "resumen": "This weekend features numerous concerts, including Jorge Drexler, Revólver, Obon Fest, and other events in Bilbao and BEC. There are options for all musical tastes."
+  },
+  "inicio": "2026-11-27",
+  "fin": "2026-11-29",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": "Bizkaia",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica",
+   "fiestas"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "5e06d45cd9": {
+  "url": "https://www.elcorreo.com/culturas/musica/dedico-tantas-horas-guitarra-limpiar-regatos-cortar-20261125004042-nt.html",
+  "fuente": "El Correo (Culturas)",
+  "src": "prensa-elcorreo-culturas",
+  "publicado": "2026-11-26",
+  "es_plan": true,
+  "titulo": "Amancio Prada rinde tributo a Rosalía de Castro en el Teatro Campos",
+  "resumen": "Amancio Prada ofrecerá un concierto-homenaje a Rosalía de Castro este domingo en el Teatro Campos. El evento se enmarca en la celebración de las elecciones.",
+  "en": {
+   "titulo": "Amancio Prada pays tribute to Rosalía de Castro at Teatro Campos",
+   "resumen": "Amancio Prada will perform a tribute concert to Rosalía de Castro this Sunday at Teatro Campos. The event coincides with the election count."
+  },
+  "inicio": "2026-11-29",
+  "fin": "2026-11-29",
+  "hora": null,
+  "lugar": "Teatro Campos",
+  "municipio": "Bilbao",
+  "provincia": "Bizkaia",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "7787e69998": {
+  "url": "https://www.diariovasco.com/culturas/musica/benjamin-clementine-donostia-gira-espana-20261126105311-nt.html",
+  "fuente": "El Diario Vasco (Culturas)",
+  "src": "prensa-diariovasco-culturas",
+  "publicado": "2026-11-26",
+  "es_plan": true,
+  "titulo": "Benjamin Clementine inicia gira en Donostia",
+  "resumen": "El músico británico Benjamin Clementine dará el pistoletazo de salida a su gira española 'Back to Basics Tour' el 7 de mayo en el Teatro Victoria Eugenia de Donostia. Ofrecerá 24 conciertos acústicos.",
+  "en": {
+   "titulo": "Benjamin Clementine starts tour in Donostia",
+   "resumen": "British musician Benjamin Clementine will kick off his Spanish 'Back to Basics Tour' on May 7th at the Teatro Victoria Eugenia in Donostia. He will perform 24 acoustic concerts."
+  },
+  "inicio": "2027-05-07",
+  "fin": "2027-05-07",
+  "hora": null,
+  "lugar": "Teatro Victoria Eugenia",
+  "municipio": "Donostia/San Sebastián",
+  "provincia": "Gipuzkoa",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "55c2d463d5": {
+  "url": "https://www.lasprovincias.es/culturas/empresa-traera-sorollas-hispanic-montara-exposicion-valencia-20261126140027-nt.html",
+  "fuente": "Las Provincias (Culturas)",
+  "src": "prensa-lasprovincias-culturas",
+  "publicado": "2026-11-26",
+  "es_plan": true,
+  "titulo": "Exposición de Sorolla en Valencia a finales de febrero",
+  "resumen": "La firma Josearte habilitará 16 salas para la exposición de obras de Sorolla en el Museo de la Ciudad de Valencia. La apertura está prevista para finales de febrero, con un contrato de 185.000 euros.",
+  "en": {
+   "titulo": "Sorolla exhibition in Valencia in late February",
+   "resumen": "The firm Josearte will set up 16 rooms for the exhibition of Sorolla's works at the Museum of the City of Valencia. The opening is scheduled for late February, with a contract of 185,000 euros."
+  },
+  "inicio": "2027-02-28",
+  "fin": "2027-02-28",
+  "hora": null,
+  "lugar": "Museo de la Ciudad",
+  "municipio": "Valencia",
+  "provincia": "Valencia",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "36ad84e877": {
+  "url": "https://www.lasprovincias.es/culturas/gran-fiesta-primer-aniversario-restauracion-santos-juanes-20261125010356-nt.html",
+  "fuente": "Las Provincias (Culturas)",
+  "src": "prensa-lasprovincias-culturas",
+  "publicado": "2026-11-26",
+  "es_plan": true,
+  "titulo": "Fiesta del primer aniversario de la restauración de los Santos Juanes",
+  "resumen": "La parroquia de los Santos Juanes celebra su primer aniversario tras la restauración con una fiesta que incluye visitas familiares gratuitas, conciertos y un podcast. Se busca fomentar la asistencia de público.",
+  "en": {
+   "titulo": "First anniversary celebration of the restoration of Santos Juanes",
+   "resumen": "The parish of Santos Juanes celebrates its first anniversary after restoration with a party including free family visits, concerts, and a podcast. The aim is to encourage public attendance."
+  },
+  "inicio": "2026-11-26",
+  "fin": "2026-11-26",
+  "hora": null,
+  "lugar": "Parroquia de los Santos Juanes",
+  "municipio": "Valencia",
+  "provincia": "Valencia",
+  "ambito": "local",
+  "gratis": true,
+  "precio": null,
+  "temas": [
+   "fiestas",
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "9acb3bce96": {
+  "url": "https://www.lasprovincias.es/culturas/buenas-noches-estrena-hoy-cuarto-episodio-20261125010315-nt.html",
+  "fuente": "Las Provincias (Culturas)",
+  "src": "prensa-lasprovincias-culturas",
+  "publicado": "2026-11-26",
+  "es_plan": false
+ },
+ "f4600f9078": {
+  "url": "https://www.lasprovincias.es/culturas/tv/dos-clasicos-noventa-revolucionaron-cine-terror-emiten-20261125003817-nt.html",
+  "fuente": "Las Provincias (Culturas)",
+  "src": "prensa-lasprovincias-culturas",
+  "publicado": "2026-11-26",
+  "es_plan": true,
+  "titulo": "Dos clásicos del terror de los noventa en televisión",
+  "resumen": "Dos películas de terror de los años noventa, que revolucionaron el género, se emiten este jueves 26 de noviembre en televisión. Una oportunidad para ver cine clásico.",
+  "en": {
+   "titulo": "Two 90s horror classics on television",
+   "resumen": "Two 90s horror films that revolutionized the genre are being broadcast this Thursday, November 26th, on television. An opportunity to watch classic cinema."
+  },
+  "inicio": "2026-11-26",
+  "fin": "2026-11-26",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": "Comunitat Valenciana",
+  "ambito": "nacional",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "pantalla",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
  }
 }
