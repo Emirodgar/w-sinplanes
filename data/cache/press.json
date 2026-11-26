@@ -15795,13 +15795,6 @@
   "a_cubierto": null,
   "confianza": 0.85
  },
- "6cfb88a197": {
-  "url": "https://www.20minutos.es/cultura/blogs/yaestaellistoquetodolosabe/sabias-que-un-rinoceronte-se-convirtio-simbolo-voto-protesta-brasil_7059490_0.html",
-  "fuente": "20minutos (Cultura)",
-  "src": "prensa-20minutos-cultura",
-  "publicado": "2026-11-11",
-  "es_plan": false
- },
  "52d3aef189": {
   "url": "https://www.20minutos.es/musica/entrevista-magic-jano-futbolista-profesional-estrella-magia_7053315_0.html",
   "fuente": "20minutos (Cultura)",
@@ -15829,13 +15822,6 @@
   ],
   "a_cubierto": true,
   "confianza": 0.85
- },
- "7baf98e306": {
-  "url": "https://www.20minutos.es/libros/isolda-patron-costas-autora-vergueenza-es-azul-casi-todas-las-emociones-estan-grupo-miedo-amor_7046168_0.html",
-  "fuente": "20minutos (Cultura)",
-  "src": "prensa-20minutos-cultura",
-  "publicado": "2026-11-11",
-  "es_plan": false
  },
  "f49be7c480": {
   "url": "https://elpais.com/cultura/2026-11-11/robert-carsen-deja-sin-revolucion-las-bodas-de-figaro-en-el-teatro-real.html",
@@ -15893,27 +15879,6 @@
   "a_cubierto": true,
   "confianza": 0.85
  },
- "e96d3bd8ef": {
-  "url": "https://www.lavanguardia.com/cultura/20261111/11681446/carminho-fado-avanzado.html",
-  "fuente": "La Vanguardia (Cultura)",
-  "src": "prensa-lavanguardia-cultura",
-  "publicado": "2026-11-11",
-  "es_plan": false
- },
- "ab74abcd36": {
-  "url": "https://www.lavanguardia.com/cultura/20261111/11681401/como-afecta-huelga-general-mundo-cultura-teatros-cines-conciertos-museos.html",
-  "fuente": "La Vanguardia (Cultura)",
-  "src": "prensa-lavanguardia-cultura",
-  "publicado": "2026-11-11",
-  "es_plan": false
- },
- "ab87a51c0c": {
-  "url": "https://www.lavanguardia.com/cultura/20261111/11680723/literatura-fantastica-escape-espejo-realidad-festival-42-nagamatsu-garcia-clairac-charlotte-plumb.html",
-  "fuente": "La Vanguardia (Cultura)",
-  "src": "prensa-lavanguardia-cultura",
-  "publicado": "2026-11-11",
-  "es_plan": false
- },
  "84d2844f40": {
   "url": "https://www.lavanguardia.com/cultura/20261111/11680186/malmoe-040-tocabamos-lado-gente-canta-nostalgia-vas-mamando.html",
   "fuente": "La Vanguardia (Cultura)",
@@ -15970,20 +15935,6 @@
   "a_cubierto": true,
   "confianza": 0.85
  },
- "d503976ff2": {
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/11/muere-los-85-anos-stacy-keach-conocido-por-sus-inolvidables-papeles-tipo-duro-television-2067603.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-11-11",
-  "es_plan": false
- },
- "e3697ee9ec": {
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/11/macarena-gomez-no-gastando-dinero-mantenimiento-tiembla-tren-barbaridad-digo-dicen-todos-pasajeros-2067435.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-11-11",
-  "es_plan": false
- },
  "377d85182c": {
   "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/11/victor-manuel-79anos-hecho-santiago-abascal-tras-accidente-ferroviario-urda-gente-mala-toxica-2066567.html",
   "fuente": "Heraldo de Aragón (Ocio y cultura)",
@@ -16038,20 +15989,6 @@
   ],
   "a_cubierto": null,
   "confianza": 0.7
- },
- "2809e26736": {
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/11/enrique-bunbury-obligado-para-concierto-mas-8000personas-llegado-2065189.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-11-11",
-  "es_plan": false
- },
- "88a02bf017": {
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/11/alba-carrillo-confirma-llegado-demanda-feliciano-lopez-ser-tranquilo-grave-afortunados-2066065.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-11-11",
-  "es_plan": false
  },
  "2575ccbc49": {
   "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/11/trestias-desembarca-teatro-las-esquinas-con-una-mezcla-humor-cabaret-2067480.html",
@@ -16108,13 +16045,6 @@
   "a_cubierto": true,
   "confianza": 0.85
  },
- "7dba41a535": {
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/11/jose-mota-zaragoza-donde-empece-carrera-profesional-hice-todo-mili-2067433.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-11-11",
-  "es_plan": false
- },
  "833859dfb2": {
   "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/11/ana-maorad-objeto-es-una-excusa-para-sacar-que-llevas-dentro-2067341.html",
   "fuente": "Heraldo de Aragón (Ocio y cultura)",
@@ -16142,20 +16072,6 @@
   ],
   "a_cubierto": true,
   "confianza": 0.85
- },
- "ade56ee848": {
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/11/joan-manuel-serrat-buen-momento-nosotros-podemos-decir-que-pensamos-todo-esto-2067280.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-11-11",
-  "es_plan": false
- },
- "867143ef8c": {
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/11/antonio-lobato-anos-desayuno-barrita-aguacate-aceite-tomate-despues-escalar-tomo-cerveza-2067093.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-11-11",
-  "es_plan": false
  },
  "2a4a85e5f8": {
   "url": "https://www.diariosur.es/culturas/huelga-medio-gas-sector-cultural-museos-abren-20261111133339-nt.html",
@@ -16301,13 +16217,6 @@
   "a_cubierto": true,
   "confianza": 0.5
  },
- "bd1c396a65": {
-  "url": "https://www.diariovasco.com/culturas/muere-stacy-keach-mitico-mike-hammer-alcaide-prison-break-20261111121739-nt.html",
-  "fuente": "El Diario Vasco (Culturas)",
-  "src": "prensa-diariovasco-culturas",
-  "publicado": "2026-11-11",
-  "es_plan": false
- },
  "5235ddbcee": {
   "url": "https://www.diariovasco.com/culturas/libros/lucia-solla-sobral-hablamos-maltrato-fisico-psicologico-20261111000617-nt.html",
   "fuente": "El Diario Vasco (Culturas)",
@@ -16336,13 +16245,6 @@
   "a_cubierto": null,
   "confianza": 0.85
  },
- "f165dbece9": {
-  "url": "https://www.diariovasco.com/culturas/cine/mikel-g-gurpegui-critica-fiesta-pagana-banda-explosiva-20261111172752-nt.html",
-  "fuente": "El Diario Vasco (Culturas)",
-  "src": "prensa-diariovasco-culturas",
-  "publicado": "2026-11-11",
-  "es_plan": false
- },
  "fd317ee088": {
   "url": "https://www.diariovasco.com/culturas/cristina-iglesias-inaugura-nueva-york-esperan-citas-20261111000636-nt.html",
   "fuente": "El Diario Vasco (Culturas)",
@@ -16370,27 +16272,6 @@
   ],
   "a_cubierto": null,
   "confianza": 0.7
- },
- "40fd6d89ff": {
-  "url": "https://www.lasprovincias.es/culturas/tv/muere-actriz-valenciana-elisa-ramirez-rostro-destacado-20261111130634-nt.html",
-  "fuente": "Las Provincias (Culturas)",
-  "src": "prensa-lasprovincias-culturas",
-  "publicado": "2026-11-11",
-  "es_plan": false
- },
- "f859cbf928": {
-  "url": "https://www.lasprovincias.es/culturas/libros/ibon-martin-mercado-central-vez-tomates-perello-20261110002924-nt.html",
-  "fuente": "Las Provincias (Culturas)",
-  "src": "prensa-lasprovincias-culturas",
-  "publicado": "2026-11-11",
-  "es_plan": false
- },
- "6abda08394": {
-  "url": "https://www.lasprovincias.es/culturas/funcion-teatros-olympia-talia-11n-20261111102100-nt.html",
-  "fuente": "Las Provincias (Culturas)",
-  "src": "prensa-lasprovincias-culturas",
-  "publicado": "2026-11-11",
-  "es_plan": false
  },
  "7e1b5f5b5b": {
   "url": "https://www.lasprovincias.es/culturas/teatro/obra-teatro-valenciana-conquistado-arturo-perezreverte-20261109004441-nt.html",
@@ -17828,13 +17709,6 @@
   "a_cubierto": true,
   "confianza": 0.9
  },
- "612b7e1a9c": {
-  "url": "https://www.europapress.es/cultura/noticia-union-actores-participa-marcha-madrid-huelga-practicamente-todos-teatros-estan-parados-20261111193827.html",
-  "fuente": "Europa Press (Cultura)",
-  "src": "prensa-europapress-cultura",
-  "publicado": "2026-11-11",
-  "es_plan": false
- },
  "5737229bf9": {
   "url": "https://www.lavanguardia.com/cultura/20261111/11681831/messiez-omar-ayuso-temporada-alta.html",
   "fuente": "La Vanguardia (Cultura)",
@@ -17862,13 +17736,6 @@
   ],
   "a_cubierto": true,
   "confianza": 0.9
- },
- "b095230681": {
-  "url": "https://www.lavanguardia.com/cultura/20261111/11681734/u2-conquista-mundo-perdido.html",
-  "fuente": "La Vanguardia (Cultura)",
-  "src": "prensa-lavanguardia-cultura",
-  "publicado": "2026-11-11",
-  "es_plan": false
  },
  "ac0763a047": {
   "url": "https://www.diariosur.es/culturas/leonor-watling-leo-sidran-presentan-leoleo-suena-20261111225921-nt.html",

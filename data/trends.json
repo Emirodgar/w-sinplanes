@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25",
+ "updated": "2026-11-26",
  "terms": [
   {
    "term": "carlos alcaraz",
@@ -82,16 +82,6 @@
    ]
   },
   {
-   "term": "abascal jordi wild",
-   "traffic": 5000,
-   "lastSeen": "2026-11-11",
-   "news": [
-    "Abascal cancela su entrevista con Jordi Wild tras denunciar el \"secuestro\" de parte de la grabación de 'La Revuelta' por TVE y El Terrat",
-    "Vox suspende la grabación con Jordi Wild tras denunciar que RTVE no cumplió lo acordado en la entrevista de Broncano a Abascal",
-    "Vox reclama los 40 minutos no emitidos de Abascal en «La revuelta» y suspende las entrevistas en las que los medios no acepten todas sus exigencias"
-   ]
-  },
-  {
    "term": "tren",
    "traffic": 5000,
    "lastSeen": "2026-11-15",
@@ -162,6 +152,16 @@
    ]
   },
   {
+   "term": "luis enrique martínez garcía",
+   "traffic": 5000,
+   "lastSeen": "2026-11-26",
+   "news": [
+    "Paris St-Germain 2-2 Roma: Donyell Malen penalty earns visitors a point at Parc des Princes",
+    "Malen and Roma deny injury-hit PSG in Champions League draw",
+    "Luis Enrique praises Roma after draw halts PSG's winning streak"
+   ]
+  },
+  {
    "term": "isabel peralta",
    "traffic": 2000,
    "lastSeen": "2026-11-12",
@@ -169,46 +169,6 @@
     "Neonazis armados en España",
     "La organización neonazi Núcleo Nacional tenía planes para desencadenar un «alzamiento armado» en España",
     "Núcleo Nacional: radiografía policial de los nuevos neonazis españoles"
-   ]
-  },
-  {
-   "term": "murcia",
-   "traffic": 2000,
-   "lastSeen": "2026-11-11",
-   "news": [
-    "Última hora de la huelga general del 11N en la Región de Murcia: sigue en directo la jornada de paro",
-    "UGT y CCOO destacan un seguimiento desigual de la huelga y llaman a reforzar la movilización esta tarde",
-    "Informativo Murcia - 11/11/2026"
-   ]
-  },
-  {
-   "term": "gemma nierga",
-   "traffic": 2000,
-   "lastSeen": "2026-11-11",
-   "news": [
-    "Un piquete ocupa el plató de 'Cafè d'idees' e impide su emisión en directo en La 2 Cat",
-    "Los piquetes irrumpen en el plató de Gemma Nierga",
-    "Los piquetes asaltan en directo TVE y suspenden la emisión de una indefensa Gemma Nierga: «No nos dejan tra..."
-   ]
-  },
-  {
-   "term": "canal sur",
-   "traffic": 2000,
-   "lastSeen": "2026-11-11",
-   "news": [
-    "Huelga general 11N, en directo: última hora de la precampaña de las elecciones generales del 29N",
-    "¿Qué significa el brazalete que llevaba Silvia Intxaurrondo en el brazo?",
-    "Canal Sur Televisión se va a negro por la huelga general del 11-N"
-   ]
-  },
-  {
-   "term": "unai sordo",
-   "traffic": 2000,
-   "lastSeen": "2026-11-11",
-   "news": [
-    "¿Cuánto se nota la huelga? La caída del consumo eléctrico en tiempo real",
-    "El gráfico que mide el impacto de la huelga general",
-    "El Gobierno pincha en su intento de provocar un gran parón pese al llamamiento de Sánchez y Yolanda Díaz a secundar la huelga"
    ]
   },
   {
@@ -482,13 +442,13 @@
    ]
   },
   {
-   "term": "economía",
-   "traffic": 1000,
-   "lastSeen": "2026-11-11",
+   "term": "hernandez de cos",
+   "traffic": 2000,
+   "lastSeen": "2026-11-26",
    "news": [
-    "La economía de España ya está por detrás de Lituania, Eslovenia y la República Checa en renta per cápita, según el FMI",
-    "La economía regional repunta un 2,6% en el tercer trimestre pero cae por debajo de la media nacional",
-    "La economía española en la última legislatura"
+    "Hernández de Cos se convertirá en febrero en el primer español en presidir el BCE",
+    "Crónica internacional - Arranca en Bruselas la Cumbre de Jefes de Estado y de Gobierno de los 27",
+    "Pablo Hernández de Cos: un técnico de prestigio para forjar consensos"
    ]
   },
   {
@@ -729,16 +689,6 @@
     "PPdeG recalls that Sánchez said that \"Puigdemont would return detained\" while BNG and PSdeG back the amnesty",
     "El BNG considera que el presupuesto de Poio confirma una gestión \"de capa caída\" por parte de los populares",
     "El PSOE de Poio exige explicaciones al alcalde por las advertencias de Intervención al presupuesto de 2027"
-   ]
-  },
-  {
-   "term": "francisco rivera ordóñez",
-   "traffic": 500,
-   "lastSeen": "2026-11-11",
-   "news": [
-    "Fran y Cayetano Rivera: la sociedad que crearon para explotar su casa de Ronda está inactiva, pero la finca...",
-    "Francisco Rivera y Antonini de Jiménez: del toreo y sus valores en la Fundación Cajasol",
-    "Francisco Rivera y Antonini de Jiménez en los Mano a Mano de Cajasol"
    ]
   },
   {
@@ -1302,53 +1252,13 @@
    ]
   },
   {
-   "term": "huelva",
-   "traffic": 200,
-   "lastSeen": "2026-11-11",
+   "term": "alcalde de madrid",
+   "traffic": 500,
+   "lastSeen": "2026-11-26",
    "news": [
-    "El Parlamento Europeo declara prioritaria la conexión de alta velocidad Sevilla-Huelva-Faro",
-    "Europa da un nuevo paso para impulsar el tren de alta velocidad entre Huelva, Sevilla y Faro",
-    "El eurodiputado Zoido se adhiere al manifiesto por la Alta Velocidad Faro-Huelva-Sevilla"
-   ]
-  },
-  {
-   "term": "pepe alvarez",
-   "traffic": 200,
-   "lastSeen": "2026-11-11",
-   "news": [
-    "Unai Sordo responde a los ataques del PP y critica el nivel de sus portavoces: \"Cada vez es más chusco, más macarruqui y más 'trumpista'\"",
-    "Pepe Álvarez, líder de UGT, lanza proclamas golpistas contra PP y Vox: «Si no escuchan, no llegarán a gober...",
-    "“Esta huelga general es una movilización política pagada con cerca de millones en subvenciones a los sindicatos convocantes”"
-   ]
-  },
-  {
-   "term": "navantia",
-   "traffic": 200,
-   "lastSeen": "2026-11-11",
-   "news": [
-    "El Gobierno aprueba más de 11.800 millones para nuevos PEM: modernización del S80, Taurus NEO, sistemas antidrón, misil NSM para submarinos...",
-    "Navantia recibe 4.600 millones en nuevos contratos de Defensa y Airbus otros 1.000",
-    "España autoriza 11.860 millones para Defensa: nuevos misiles, sistemas antidrones y modernización de los S-80"
-   ]
-  },
-  {
-   "term": "extranjero",
-   "traffic": 200,
-   "lastSeen": "2026-11-11",
-   "news": [
-    "El Gobierno «compra» votos con la ley de nietos: multiplica hasta por 8,2 las ayudas",
-    "Nueva ayuda de hasta 7.600 euros para españoles que regresen del extranjero",
-    "España anuncia ayudas de hasta 7.600 euros para emigrantes que regresen: ¿pueden solicitarlas los cubanos..."
-   ]
-  },
-  {
-   "term": "ione belarra",
-   "traffic": 200,
-   "lastSeen": "2026-11-11",
-   "news": [
-    "Última hora de la huelga general: algunos comercios echan el cierre en la Gran Vía de Madrid",
-    "Montero y Belarra se unieron al piquete de las cocheras de la EMT en Entrevías",
-    "Tensión en las cocheras de la EMT entre Policía y piquetes"
+    "Madrid da la bienvenida a la Navidad con la inauguración del belén municipal de Cibeles",
+    "Doscientas figuras, molinos persas y juegos de espejos dan vida a la Navidad en el Belén de Cibeles",
+    "Almeida apela al «humanismo» cristiano de Madrid en la presentación del belén de Cibeles"
    ]
   },
   {
@@ -2434,6 +2344,56 @@
    ]
   },
   {
+   "term": "balde",
+   "traffic": 200,
+   "lastSeen": "2026-11-26",
+   "news": [
+    "Hansi Flick offers Alejandro Balde injury update after Barcelona beat Sabah",
+    "\"If God is with me, who can be against me?\": what does the Barcelona star mean by his cryptic message?",
+    "Alejandro Balde comes off early with a left ankle problem"
+   ]
+  },
+  {
+   "term": "iyana martín",
+   "traffic": 200,
+   "lastSeen": "2026-11-26",
+   "news": [
+    "Intolerable agresión a Iyana Martín en la EuroCup Women",
+    "El entrenador del Girona explota por una vergonzosa agresión a Iyana Martín: \"Está de moda pegarle de h...\"",
+    "Roberto Íñiguez alza la voz en defensa de Iyana Martín: Así fue la acción denunciada por el técnico"
+   ]
+  },
+  {
+   "term": "pierre-emerick aubameyang",
+   "traffic": 200,
+   "lastSeen": "2026-11-26",
+   "news": [
+    "Aubameyang sufre un accidente cuando se dirigía a entrenar",
+    "El Ferrari de Aubameyang, implicado en una accidente con otro coche en la AP-9 en Betanzos",
+    "Aubameyang sorprende con sus palabras antes de reencontrarse con el Barça: \"Para mí no es algo especial\""
+   ]
+  },
+  {
+   "term": "cambio climático",
+   "traffic": 200,
+   "lastSeen": "2026-11-26",
+   "news": [
+    "El planeta cruza otra línea roja: seis días por encima de los 2 grados de calentamiento",
+    "El aumento global de las temperaturas supera los dos grados por seis días consecutivos",
+    "El calentamiento de la Tierra alcanza en noviembre niveles sin precedentes"
+   ]
+  },
+  {
+   "term": "erling haaland",
+   "traffic": 200,
+   "lastSeen": "2026-11-26",
+   "news": [
+    "Erling Haaland frustrated with Manchester City form: 'When you don't win, you question everything'",
+    "Haaland's scoring streak against Napoli ends at three games",
+    "Haaland Lashes Out After Manchester City's Draw Against Napoli"
+   ]
+  },
+  {
    "term": "solucion tildes wordle hoy",
    "traffic": 100,
    "lastSeen": "2026-11-14",
@@ -2753,6 +2713,26 @@
     "Anne Hathaway reaparece en Nueva York tras ser mamá a los 44 años: las primeras fotos con su bebé y la pista que nos habría dejado sobre si es niño o niña",
     "Anne Hathaway da la bienvenida a su tercer hijo junto a Adam Shulman a los 44 años",
     "La diseñadora de vestuario de ‘El diablo viste de Prada 2’ revela por accidente el sexo del tercer hijo de Anne Hathaway"
+   ]
+  },
+  {
+   "term": "chris evans",
+   "traffic": 100,
+   "lastSeen": "2026-11-26",
+   "news": [
+    "Avengers: Doomsday Star Chris Evans Reveals Steve Rogers' Captain America Plans After Endgame",
+    "Marvel Almost Brought Back Steve Rogers As a Very Different Character",
+    "Chris Evans Wants To Set The Record Straight On MCU Fans Still Calling Him Cap"
+   ]
+  },
+  {
+   "term": "dia de accion de gracias",
+   "traffic": 100,
+   "lastSeen": "2026-11-26",
+   "news": [
+    "Día de Acción de Gracias y otras imágenes del día",
+    "El príncipe Harry y Meghan Markle pasarán Acción de Gracias en Reino Unido",
+    "Los planes de Meghan Markle para Acción de Gracias en pleno escándalo de su padre: en Reino Unido y con amigos"
    ]
   }
  ]
