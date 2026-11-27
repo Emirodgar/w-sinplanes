@@ -16749,13 +16749,6 @@
   "a_cubierto": null,
   "confianza": 0.9
  },
- "92ea12368a": {
-  "url": "https://www.20minutos.es/musica/estopa-premio-20minutos-2026-no-gustaria-que-espana-haya-respeto-futuro_7059795_0.html",
-  "fuente": "20minutos (Cultura)",
-  "src": "prensa-20minutos-cultura",
-  "publicado": "2026-11-12",
-  "es_plan": false
- },
  "d1db15c545": {
   "url": "https://www.20minutos.es/musica/juan-luis-guerra-encabezara-cuarta-edicion-starlite-occident-madrid-con-dos-conciertos-diciembre_7060248_0.html",
   "fuente": "20minutos (Cultura)",
@@ -16783,13 +16776,6 @@
   ],
   "a_cubierto": null,
   "confianza": 0.9
- },
- "e15d2fec67": {
-  "url": "https://www.20minutos.es/cultura/josep-vicent-vs-gustavo-dudamel-un-grammy-latino-se-disputa-las-vegas_7059700_0.html",
-  "fuente": "20minutos (Cultura)",
-  "src": "prensa-20minutos-cultura",
-  "publicado": "2026-11-12",
-  "es_plan": false
  },
  "25b891b1af": {
   "url": "https://www.20minutos.es/libros/escucha-como-genero-literario-sonara-festival-poetas-2026-casa-encendida-madrid_7059388_0.html",
@@ -16819,55 +16805,6 @@
   ],
   "a_cubierto": true,
   "confianza": 0.9
- },
- "902fc3e03d": {
-  "url": "https://elpais.com/cultura/2026-11-12/la-mare-cantante-y-compositora-tenemos-discursos-de-odio-que-antes-eran-impensables-y-estan-siendo-reforzados-y-justificados.html",
-  "fuente": "El País (Cultura)",
-  "src": "prensa-elpais-cultura",
-  "publicado": "2026-11-12",
-  "es_plan": false
- },
- "5719b08b69": {
-  "url": "https://elpais.com/cultura/2026-11-12/souto-de-moura-y-chipperfield-dos-premios-pritzker-debaten-sobre-la-crisis-de-la-vivienda-es-el-principal-problema-politico.html",
-  "fuente": "El País (Cultura)",
-  "src": "prensa-elpais-cultura",
-  "publicado": "2026-11-12",
-  "es_plan": false
- },
- "e14bfa13ab": {
-  "url": "https://elpais.com/cultura/2026-11-12/valerio-rocco-filosofo-nos-matamos-en-el-gimnasio-pero-evitamos-el-dolor-de-pensar.html",
-  "fuente": "El País (Cultura)",
-  "src": "prensa-elpais-cultura",
-  "publicado": "2026-11-12",
-  "es_plan": false
- },
- "40a573a637": {
-  "url": "https://elpais.com/cultura/2026-11-12/un-dia-para-descubrir-el-madrid-real-y-varios-mas-para-explorar-otros-reales-sitios.html",
-  "fuente": "El País (Cultura)",
-  "src": "prensa-elpais-cultura",
-  "publicado": "2026-11-12",
-  "es_plan": false
- },
- "d7c7c67082": {
-  "url": "https://www.lavanguardia.com/cultura/20261112/11682382/bola-negra-querido-celeste-t2-castillo-copan-nominaciones-premios-forque-cine-series.html",
-  "fuente": "La Vanguardia (Cultura)",
-  "src": "prensa-lavanguardia-cultura",
-  "publicado": "2026-11-12",
-  "es_plan": false
- },
- "513443944e": {
-  "url": "https://www.lavanguardia.com/cultura/20261112/11681881/arundhati-roy-berlinale-no-podia-hablar-genocidio.html",
-  "fuente": "La Vanguardia (Cultura)",
-  "src": "prensa-lavanguardia-cultura",
-  "publicado": "2026-11-12",
-  "es_plan": false
- },
- "409af4bfb4": {
-  "url": "https://www.lavanguardia.com/cultura/20261112/11682095/lecciones-cine-mudo.html",
-  "fuente": "La Vanguardia (Cultura)",
-  "src": "prensa-lavanguardia-cultura",
-  "publicado": "2026-11-12",
-  "es_plan": false
  },
  "c9d29f0424": {
   "url": "https://www.ara.cat/cultura/passa-music-pop-rock-capbussa-cancons-tradicio-oral-cantut-mazoni_1_5907011.html",
@@ -16926,13 +16863,6 @@
   "a_cubierto": null,
   "confianza": 0.85
  },
- "1f2a2f4f2d": {
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/12/bola-negra-ser-querido-tres-adioses-nominadas-premios-forque-2067975.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-11-12",
-  "es_plan": false
- },
  "7a8b15bc3a": {
   "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/12/andadura-zaragoza-art-fair-comienza-con-grandes-expectativas-2068029.html",
   "fuente": "Heraldo de Aragón (Ocio y cultura)",
@@ -16961,13 +16891,6 @@
   "a_cubierto": true,
   "confianza": 0.9
  },
- "4c907683be": {
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/12/israel-amo-experto-musical-amaia-montero-jamas-ofrecido-tecnica-vocal-increible-no-descartaria-estrategia-siga-hablando-2068020.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-11-12",
-  "es_plan": false
- },
  "e3cbf7a735": {
   "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/12/sagrada-familia-inaugura-escultura-colaborado-presos-cataluna-2068015.html",
   "fuente": "Heraldo de Aragón (Ocio y cultura)",
@@ -16995,13 +16918,6 @@
   ],
   "a_cubierto": true,
   "confianza": 0.9
- },
- "377b9f7bd6": {
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/12/gonzalo-miro-presentador-cena-idiotas-anos-nunca-echado-menos-figura-paterna-felipe-gonzalez-amigo-persona-conoce-bien-2067988.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-11-12",
-  "es_plan": false
  },
  "6278e23469": {
   "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/12/cdan-recupera-arte-textil-maria-sarrate-eclipsado-durante-anos-por-figura-jose-beulas-2067991.html",
@@ -17059,13 +16975,6 @@
   ],
   "a_cubierto": true,
   "confianza": 0.85
- },
- "6a1f473b28": {
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/12/morante-puebla-rompe-banderillero-burlas-plaza-toros-zaragoza-2067926.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-11-12",
-  "es_plan": false
  },
  "0679b7af38": {
   "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/12/julio-jose-iglesias-encanta-gente-diga-quiera-gustaria-primero-vieran-show-antes-opinar-2066110.html",
@@ -17151,13 +17060,6 @@
   "a_cubierto": true,
   "confianza": 0.9
  },
- "c818d75b40": {
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/12/pablo-echenique-48-anos-espana-mejor-pais-vivir-mundo-2067964.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-11-12",
-  "es_plan": false
- },
  "19a7f47596": {
   "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/12/enrique-bunbury-naci-piso-pequeno-zaragoza-padres-abuelos-hermanos-2063541.html",
   "fuente": "Heraldo de Aragón (Ocio y cultura)",
@@ -17186,13 +17088,6 @@
   "a_cubierto": null,
   "confianza": 0.9
  },
- "d83076319d": {
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/12/andres-roca-rey-30anos-vivo-solo-casa-campo-necesito-estar-concentrado-centrado-mi-2066723.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-11-12",
-  "es_plan": false
- },
  "faa07d5c7f": {
   "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/12/lola-herrera-tengo-91-anos-rabia-vivir-sociedad-escucha-personas-mayores-rechaza-2067335.html",
   "fuente": "Heraldo de Aragón (Ocio y cultura)",
@@ -17220,41 +17115,6 @@
   ],
   "a_cubierto": null,
   "confianza": 0.85
- },
- "32f2a58e0f": {
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/12/matias-prats-jr-define-hermana-marta-unica-familia-no-periodista-compania-grata-orgullosa-padre-2067919.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-11-12",
-  "es_plan": false
- },
- "c0e3f4eca6": {
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/12/iker-jimenez-santiago-abascal-no-demonio-tridente-tipo-demonizado-2067794.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-11-12",
-  "es_plan": false
- },
- "33a28e16b2": {
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/12/muere-elisa-ramirez-anos-actriz-historica-estudio1-rtve-teatro-cine-espanol-2067901.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-11-12",
-  "es_plan": false
- },
- "492688abf5": {
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/12/muere-artista-helena-bianco-causa-un-cancer-neuroendocrino-muy-agresivo-2067897.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-11-12",
-  "es_plan": false
- },
- "cabc2536e6": {
-  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/12/monica-naranjo-52anos-siempre-tenido-buen-saque-desayuno-alguna-fruta-temporada-tostada-avena-queso-aceite-2066000.html",
-  "fuente": "Heraldo de Aragón (Ocio y cultura)",
-  "src": "prensa-heraldo-ocio",
-  "publicado": "2026-11-12",
-  "es_plan": false
  },
  "ee58bb4702": {
   "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/12/latin-grammy-arrancan-jueves-vegas-rosalia-karol-favoritas-2067886.html",
@@ -17398,20 +17258,6 @@
   "a_cubierto": null,
   "confianza": 0.85
  },
- "0d1de368f2": {
-  "url": "https://www.ideal.es/culturas/almeria/encuentro-roquecomic-consolida-exito-participacion-escolar-juvenil-20261112113513-nt.html",
-  "fuente": "Ideal (Culturas)",
-  "src": "prensa-ideal-culturas",
-  "publicado": "2026-11-12",
-  "es_plan": false
- },
- "b38845d845": {
-  "url": "https://www.ideal.es/culturas/llenado-album-mensajes-llamando-accion-20261112112631-nt.html",
-  "fuente": "Ideal (Culturas)",
-  "src": "prensa-ideal-culturas",
-  "publicado": "2026-11-12",
-  "es_plan": false
- },
  "af5c48c858": {
   "url": "https://www.ideal.es/culturas/dudas-afrontar-proyecto-20261111004238-nt.html",
   "fuente": "Ideal (Culturas)",
@@ -17439,13 +17285,6 @@
   ],
   "a_cubierto": true,
   "confianza": 0.85
- },
- "5a64d8c63f": {
-  "url": "https://www.elcorreo.com/culturas/arte/corazones-parachoques-uribitarte40-20260930173837-nt.html",
-  "fuente": "El Correo (Culturas)",
-  "src": "prensa-elcorreo-culturas",
-  "publicado": "2026-11-12",
-  "es_plan": false
  },
  "73e20d4833": {
   "url": "https://www.elcorreo.com/culturas/teatro/compania-finzi-pasca-recupera-personajes-commedia-dellarte-20261111003041-nt.html",
@@ -17475,27 +17314,6 @@
   "a_cubierto": true,
   "confianza": 0.85
  },
- "7dc84fd174": {
-  "url": "https://www.lasprovincias.es/culturas/tv/jordi-wild-desvela-hora-publica-entrevistas-pedro-20261112120415-nt.html",
-  "fuente": "Las Provincias (Culturas)",
-  "src": "prensa-lasprovincias-culturas",
-  "publicado": "2026-11-12",
-  "es_plan": false
- },
- "ae06d96d24": {
-  "url": "https://www.lasprovincias.es/culturas/cine/legado-elisa-ramirez-obras-estudio-siguen-disponibles-20261112115829-nt.html",
-  "fuente": "Las Provincias (Culturas)",
-  "src": "prensa-lasprovincias-culturas",
-  "publicado": "2026-11-12",
-  "es_plan": false
- },
- "96a763c0f2": {
-  "url": "https://www.lasprovincias.es/culturas/miguel-galdon-nuevo-director-institut-valencia-cultura-20261105093021-nt.html",
-  "fuente": "Las Provincias (Culturas)",
-  "src": "prensa-lasprovincias-culturas",
-  "publicado": "2026-11-12",
-  "es_plan": false
- },
  "47b8da16c9": {
   "url": "https://www.lasprovincias.es/culturas/taburete-pignoise-hijos-ruina-unen-zevra-2027-20261112093058-nt.html",
   "fuente": "Las Provincias (Culturas)",
@@ -17524,13 +17342,6 @@
   "a_cubierto": null,
   "confianza": 0.9
  },
- "6146a8009c": {
-  "url": "https://www.lasprovincias.es/culturas/tv/emily-paris-dice-adios-siempre-estrena-ultima-20261111021258-nt.html",
-  "fuente": "Las Provincias (Culturas)",
-  "src": "prensa-lasprovincias-culturas",
-  "publicado": "2026-11-12",
-  "es_plan": false
- },
  "12edc7726b": {
   "url": "https://www.lasprovincias.es/culturas/tv/hoy-jueves-television-oscarizada-hipnotica-pelicula-emma-20261111003503-nt.html",
   "fuente": "Las Provincias (Culturas)",
@@ -17558,13 +17369,6 @@
   ],
   "a_cubierto": true,
   "confianza": 0.9
- },
- "e21a44e1f4": {
-  "url": "https://www.laverdad.es/culturas/estudio-maba-lidera-palmares-espanol-premios-diseno-20261112144514-nt.html",
-  "fuente": "La Verdad (Culturas)",
-  "src": "prensa-laverdad-culturas",
-  "publicado": "2026-11-12",
-  "es_plan": false
  },
  "50035a60a3": {
   "url": "https://www.laverdad.es/culturas/festival-distopia-arranca-jueves-tres-proyecciones-20261112131532-nt.html",
