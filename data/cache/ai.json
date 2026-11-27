@@ -57272,5 +57272,824 @@
    "cultura"
   ],
   "a_cubierto": true
+ },
+ "b5e8dc70fe": {
+  "id": "e8fefaa428",
+  "es": {
+   "titulo": "Espectáculo flamenco",
+   "resumen": "Disfruta de una actuación de flamenco a cargo del Grupo San Ignacio en el Centro Sociocultural Rafael de León."
+  },
+  "en": {
+   "titulo": "Flamenco Show",
+   "resumen": "Enjoy a flamenco performance by Grupo San Ignacio at the Rafael de León Sociocultural Center."
+  },
+  "temas": [
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "65e0768234": {
+  "id": "f004e3156f",
+  "es": {
+   "titulo": "Musical de payasos: Los villancicos de Tapita y Tapón",
+   "resumen": "Un divertido espectáculo musical para niños a partir de 3 años. Tapita y Tapón repasan villancicos tradicionales con instrumentos y una invitación final para que los niños suban al escenario."
+  },
+  "en": {
+   "titulo": "Clown Musical Show: Tapita y Tapón's Christmas Carols",
+   "resumen": "A fun musical show for children aged 3 and up. Tapita and Tapón revisit traditional carols with instruments and an invitation for kids to join the stage."
+  },
+  "temas": [
+   "ninos",
+   "musica",
+   "fiestas"
+  ],
+  "a_cubierto": true
+ },
+ "d38f71697d": {
+  "id": "4380bfdade",
+  "es": {
+   "titulo": "Musical: Viaje al centro de la Navidad",
+   "resumen": "Un trío musical (soprano, tenor y piano) te lleva en un viaje para descubrir el origen y la magia de la Navidad a través de proyecciones y música en directo."
+  },
+  "en": {
+   "titulo": "Musical: Journey to the Heart of Christmas",
+   "resumen": "A musical trio (soprano, tenor, and piano) takes you on a journey to discover the origin and magic of Christmas through projections and live music."
+  },
+  "temas": [
+   "musica",
+   "cultura",
+   "fiestas"
+  ],
+  "a_cubierto": true
+ },
+ "7227521ec5": {
+  "id": "5b605d44f8",
+  "es": {
+   "titulo": "Musical: Villancicos copleros",
+   "resumen": "Manuel de Segura presenta un espectáculo de villancicos al estilo de la copla, lleno de simpatía y alegría."
+  },
+  "en": {
+   "titulo": "Musical: Copla-style Christmas Carols",
+   "resumen": "Manuel de Segura presents a Christmas carol show in the 'copla' style, full of charm and joy."
+  },
+  "temas": [
+   "musica",
+   "fiestas",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "559acfa10b": {
+  "id": "5ee27a72ec",
+  "es": {
+   "titulo": "Musical: '¿Dónde están las notas?'",
+   "resumen": "Un espectáculo de clown para niños a partir de 3 años donde dos payasas buscan las notas musicales perdidas. Combina teatro, magia, circo y música."
+  },
+  "en": {
+   "titulo": "Musical: 'Where Are the Notes?'",
+   "resumen": "A clown show for children aged 3 and up where two clowns search for lost musical notes. It combines theater, magic, circus, and music."
+  },
+  "temas": [
+   "ninos",
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "3b65281d85": {
+  "id": "aced116f7d",
+  "es": {
+   "titulo": "Exposición acuarela: Lo cotidiano. Las formas",
+   "resumen": "Exposición de acuarelas del artista Antonio Basalto titulada 'Lo cotidiano. Las formas'. Abierta en horario de mañana y tarde."
+  },
+  "en": {
+   "titulo": "Watercolor Exhibition: The Everyday. The Forms",
+   "resumen": "Exhibition of watercolors by artist Antonio Basalto titled 'The Everyday. The Forms'. Open in the morning and afternoon."
+  },
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true
+ },
+ "6df9fa6f23": {
+  "id": "5e80417bdb",
+  "es": {
+   "titulo": "Exposición Belén de Navidad: Los caminos de la tradición",
+   "resumen": "Un belén tradicional que recrea un antiguo mercado con arquitectura oriental y zocos árabes. Figuras del siglo I en Judea realizadas por Hermanos Cerrada."
+  },
+  "en": {
+   "titulo": "Christmas Nativity Scene Exhibition: The Paths of Tradition",
+   "resumen": "A traditional nativity scene recreating an ancient market with oriental architecture and Arab souks. Figures from 1st-century Judea by Hermanos Cerrada."
+  },
+  "temas": [
+   "cultura",
+   "fiestas",
+   "ninos"
+  ],
+  "a_cubierto": true
+ },
+ "b805169247": {
+  "id": "98cfec4a3e",
+  "es": {
+   "titulo": "Exposición de pintura: Dos miradas",
+   "resumen": "Exposición de pintura de Ángela Pardo Domingo y Gloria Gómez Gómez. Se podrá visitar durante el mes de diciembre en horario de mañana y tarde."
+  },
+  "en": {
+   "titulo": "Painting Exhibition: Two Gazes",
+   "resumen": "Painting exhibition by Ángela Pardo Domingo and Gloria Gómez Gómez. Available throughout December in morning and afternoon hours."
+  },
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true
+ },
+ "e4afe9b72e": {
+  "id": "cecd270055",
+  "es": {
+   "titulo": "Exposición de pintura: Homenaje a la pintura americana",
+   "resumen": "Exposición de pintura de Marina Romero Montesinos titulada 'Homenaje a la pintura americana'. Abierta en horario de mañana y tarde."
+  },
+  "en": {
+   "titulo": "Painting Exhibition: Homage to American Painting",
+   "resumen": "Painting exhibition by Marina Romero Montesinos titled 'Homage to American Painting'. Open in the morning and afternoon."
+  },
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true
+ },
+ "595bdd56c3": {
+  "id": "e1d23e2ae5",
+  "es": {
+   "titulo": "Exposición de pintura: Instantes y memoria",
+   "resumen": "Una colección de retratos de Esperanza Carrera del Pliego que ofrece un recorrido visual donde el arte se convierte en memoria. Abierta todos los días."
+  },
+  "en": {
+   "titulo": "Painting Exhibition: Instants and Memory",
+   "resumen": "A collection of portraits by Esperanza Carrera del Pliego offering a visual journey where art becomes memory. Open daily."
+  },
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true
+ },
+ "8d5024a812": {
+  "id": "9315bcfc4b",
+  "es": {
+   "titulo": "Exposición: Obras premiadas Certamen Nacional de Pintura Rápida",
+   "resumen": "Exposición de las obras premiadas y seleccionadas del XVII Certamen Nacional de Pintura Rápida Real Sitio de El Pardo. Abierta de lunes a viernes."
+  },
+  "en": {
+   "titulo": "Exhibition: Award-Winning Works from National Quick Painting Contest",
+   "resumen": "Exhibition of award-winning and selected works from the XVII National Quick Painting Contest 'Real Sitio de El Pardo'. Open weekdays."
+  },
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true
+ },
+ "9cce17a4f5": {
+  "id": "bb3414b396",
+  "es": {
+   "titulo": "Gospel Flame",
+   "resumen": "Dentro del X Festival de Góspel, 'Gospel Flame' fusiona éxitos pop con góspel contemporáneo, ofreciendo una actuación enérgica y emocionante."
+  },
+  "en": {
+   "titulo": "Gospel Flame",
+   "resumen": "As part of the 10th Gospel Festival, 'Gospel Flame' fuses pop hits with contemporary gospel, delivering an energetic and emotional performance."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "2da728e88c": {
+  "id": "0327881442",
+  "es": {
+   "titulo": "Gospel Live",
+   "resumen": "El X Festival de Góspel presenta 'Gospel Live', un espectáculo vocal lleno de fuerza y emoción que transmite alegría y esperanza con melodías conmovedoras."
+  },
+  "en": {
+   "titulo": "Gospel Live",
+   "resumen": "The 10th Gospel Festival presents 'Gospel Live', a powerful and emotional vocal performance conveying joy and hope through moving melodies."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "b02b4f3ada": {
+  "id": "b03c23a7b1",
+  "es": {
+   "titulo": "Gospel Show",
+   "resumen": "El X Festival de Góspel trae 'Gospel Show', un vibrante espectáculo con un coro imponente que celebra la música afroamericana, desde himnos emotivos a temas rítmicos."
+  },
+  "en": {
+   "titulo": "Gospel Show",
+   "resumen": "The 10th Gospel Festival presents 'Gospel Show', a vibrant performance with an impressive choir celebrating African-American music, from soulful hymns to rhythmic tunes."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "f75f2f918e": {
+  "id": "424b37f8f5",
+  "es": {
+   "titulo": "Gran desfile navideño y concierto de María Parrado",
+   "resumen": "Un espectacular desfile navideño con carrozas y animación recorrerá el distrito, culminando con un concierto de la cantante María Parrado."
+  },
+  "en": {
+   "titulo": "Grand Christmas Parade and Concert by María Parrado",
+   "resumen": "A spectacular Christmas parade with floats and entertainment will tour the district, concluding with a concert by singer María Parrado."
+  },
+  "temas": [
+   "fiestas",
+   "musica",
+   "ninos"
+  ],
+  "a_cubierto": true
+ },
+ "269aa9a617": {
+  "id": "18c0aeb0ff",
+  "es": {
+   "titulo": "Iluminación navideña del distrito",
+   "resumen": "Disfruta de la decoración e iluminación especial de Navidad que engalana el distrito."
+  },
+  "en": {
+   "titulo": "District Christmas Lighting",
+   "resumen": "Enjoy the special Christmas decorations and lighting adorning the district."
+  },
+  "temas": [
+   "fiestas",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "7091004e7d": {
+  "id": "ebf1d4c490",
+  "es": {
+   "titulo": "Inauguración de estanque en Huerto Urbano Comunitario",
+   "resumen": "Evento de inauguración de un nuevo estanque en el Huerto Urbano Comunitario 'El Jardín de los Libros Nómadas'."
+  },
+  "en": {
+   "titulo": "Pond Inauguration at Community Urban Garden",
+   "resumen": "Inauguration event for a new pond at the 'El Jardín de los Libros Nómadas' Community Urban Garden."
+  },
+  "temas": [
+   "naturaleza",
+   "parques",
+   "actividades"
+  ],
+  "a_cubierto": null
+ },
+ "5608cd95dd": {
+  "id": "0c4689cc20",
+  "es": {
+   "titulo": "Cuentacuentos infantil: La gran revolución del piojo Ramón",
+   "resumen": "Espectáculo de cuentacuentos para público infantil y familiar con música en directo. Las aventuras de Ramón el piojo enseñan valores como la colaboración y el respeto."
+  },
+  "en": {
+   "titulo": "Children's Storytelling: Ramón the Louse's Great Revolution",
+   "resumen": "A storytelling show for children and families with live music. The adventures of Ramón the louse teach values like collaboration and respect."
+  },
+  "temas": [
+   "ninos",
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": true
+ },
+ "ff6ddf1c1e": {
+  "id": "a33eba40d8",
+  "es": {
+   "titulo": "Espectáculo infantil: La Navidad del Pirata Malapata",
+   "resumen": "El Pirata Malapata celebra la Navidad con un espectáculo participativo para todos los públicos, lleno de canciones, juegos, magia y marionetas."
+  },
+  "en": {
+   "titulo": "Children's Show: Pirate Malapata's Christmas",
+   "resumen": "Pirate Malapata celebrates Christmas with an interactive show for all ages, featuring songs, games, magic, and puppets."
+  },
+  "temas": [
+   "ninos",
+   "fiestas",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "f8d904415f": {
+  "id": "1bc0088ba9",
+  "es": {
+   "titulo": "Laboratorio infantil: Preparando la Navidad",
+   "resumen": "Taller para niños de 6 a 12 años donde crearán tarjetas pop-up y sombreros navideños. Actividad gratuita por orden de llegada."
+  },
+  "en": {
+   "titulo": "Children's Workshop: Preparing for Christmas",
+   "resumen": "Workshop for children aged 6-12 to create pop-up cards and Christmas hats. Free activity on a first-come, first-served basis."
+  },
+  "temas": [
+   "ninos",
+   "fiestas",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "78f48fdfdd": {
+  "id": "e892dd7fdb",
+  "es": {
+   "titulo": "Laboratorio Infantil: Preparando la Navidad",
+   "resumen": "Taller para niños de 6 a 12 años para hacer títeres navideños y crear adornos con materiales reciclados. Descubrirán leyendas navideñas."
+  },
+  "en": {
+   "titulo": "Children's Workshop: Preparing for Christmas",
+   "resumen": "Workshop for children aged 6-12 to make Christmas puppets and create decorations from recycled materials. They will discover Christmas legends."
+  },
+  "temas": [
+   "ninos",
+   "fiestas",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "be2cc911a1": {
+  "id": "c8b18177d2",
+  "es": {
+   "titulo": "Cine: Lejos de los árboles",
+   "resumen": "Proyección de la película 'Lejos de los árboles' en la Cineteca Madrid."
+  },
+  "en": {
+   "titulo": "Film: Far From the Trees",
+   "resumen": "Screening of the film 'Far From the Trees' at Cineteca Madrid."
+  },
+  "temas": [
+   "pantalla",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "557dbc4fac": {
+  "id": "61c26de63b",
+  "es": {
+   "titulo": "Ludoteca",
+   "resumen": "Espacio de juego y diversión gratuito para niños de 4 a 10 años. Actividad de carácter abierto sin inscripción previa."
+  },
+  "en": {
+   "titulo": "Playroom",
+   "resumen": "Free play and fun space for children aged 4 to 10. Open activity with no prior registration required."
+  },
+  "temas": [
+   "ninos",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "e69c9194eb": {
+  "id": "3ac9d740a6",
+  "es": {
+   "titulo": "Teatro: Lupe y Pancho",
+   "resumen": "Obra de teatro para todos los públicos sobre Lupe y Pancho, dos migrantes mexicanos que buscan una nueva vida y adaptación en un nuevo país."
+  },
+  "en": {
+   "titulo": "Theater: Lupe and Pancho",
+   "resumen": "A play for all audiences about Lupe and Pancho, two Mexican migrants seeking a new life and adaptation in a new country."
+  },
+  "temas": [
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "7d73534d38": {
+  "id": "b9665d8664",
+  "es": {
+   "titulo": "Magia: Magia bajo 0",
+   "resumen": "Espectáculo de magia para público adulto y juvenil (desde 12 años) con David Hipola. Combina manipulación, magia visual y mentalismo."
+  },
+  "en": {
+   "titulo": "Magic: Magic Under 0",
+   "resumen": "Magic show for adults and young people (12+) by David Hipola, combining manipulation, visual magic, and mentalism."
+  },
+  "temas": [
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "51b26e7917": {
+  "id": "d8ba5ddf3f",
+  "es": {
+   "titulo": "Maita Basa: monólogo de relatos propios",
+   "resumen": "Un monólogo íntimo donde Momi Ogalla comparte experiencias vitales a través de la palabra. Un viaje personal que combina humor, reflexión y emoción, recomendado para mayores de 16 años."
+  },
+  "en": {
+   "titulo": "Maita Basa: monologue of personal stories",
+   "resumen": "An intimate monologue where Momi Ogalla shares life experiences through words. A personal journey combining humor, reflection, and emotion, recommended for ages 16 and up."
+  },
+  "temas": [
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": true
+ },
+ "da6a74c0ed": {
+  "id": "41ab00d5a7",
+  "es": {
+   "titulo": "Más que una casa en Cineteca Madrid",
+   "resumen": "Evento en Cineteca Madrid. Más detalles sobre el contenido del evento no están disponibles en la información proporcionada."
+  },
+  "en": {
+   "titulo": "More than a house at Cineteca Madrid",
+   "resumen": "Event at Cineteca Madrid. Further details about the event's content are not available in the provided information."
+  },
+  "temas": [
+   "pantalla"
+  ],
+  "a_cubierto": true
+ },
+ "84e39cf17e": {
+  "id": "b44cc20eb4",
+  "es": {
+   "titulo": "Mindfulness: Taller de atención plena",
+   "resumen": "Taller de mindfulness impartido por una psicóloga para reducir el estrés y mejorar el bienestar. Dirigido a público adulto, con plazas limitadas por orden de llegada."
+  },
+  "en": {
+   "titulo": "Mindfulness: Workshop on mindful attention",
+   "resumen": "Mindfulness workshop led by a psychologist to reduce stress and improve well-being. Aimed at adults, with limited spots available on a first-come, first-served basis."
+  },
+  "temas": [
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "4b117f768a": {
+  "id": "94a6efd705",
+  "es": {
+   "titulo": "Concierto navideño del Coro ICAM",
+   "resumen": "El Coro ICAM ofrece un concierto de Navidad con villancicos y piezas clásicas en la Iglesia del Santo Niño del Cebú. Más de 50 voces participarán en esta actuación."
+  },
+  "en": {
+   "titulo": "ICAM Choir Christmas Concert",
+   "resumen": "The ICAM Choir presents a Christmas concert featuring carols and classical pieces at the Church of Santo Niño del Cebú. Over 50 voices will perform."
+  },
+  "temas": [
+   "musica",
+   "navidad"
+  ],
+  "a_cubierto": true
+ },
+ "3b0b1706f2": {
+  "id": "2dfd08616b",
+  "es": {
+   "titulo": "Niño Josele: Misa de Nochebuena Flamenca",
+   "resumen": "Evento de flamenco titulado 'Misa de Nochebuena Flamenca' con Niño Josele, que tendrá lugar en el Centro de Cultura Contemporánea CondeDuque."
+  },
+  "en": {
+   "titulo": "Niño Josele: Flamenco Christmas Eve Mass",
+   "resumen": "A flamenco event titled 'Misa de Nochebuena Flamenca' featuring Niño Josele, taking place at the CondeDuque Contemporary Culture Center."
+  },
+  "temas": [
+   "musica",
+   "cultura",
+   "navidad"
+  ],
+  "a_cubierto": true
+ },
+ "b7d842b645": {
+  "id": "3a7d882ae0",
+  "es": {
+   "titulo": "Pasacalles navideño: La Fábrica de Dulces",
+   "resumen": "Un pasacalles navideño temático sobre 'La Fábrica de Dulces' se celebrará en la Plaza de la República Dominicana, añadiendo un toque festivo a la zona."
+  },
+  "en": {
+   "titulo": "Christmas Parade: The Sweet Factory",
+   "resumen": "A Christmas parade themed 'The Sweet Factory' will take place in Plaza de la República Dominicana, adding a festive touch to the area."
+  },
+  "temas": [
+   "fiestas",
+   "navidad",
+   "ninos"
+  ],
+  "a_cubierto": false
+ },
+ "57852b7547": {
+  "id": "6bef3fb877",
+  "es": {
+   "titulo": "Teatro: Pobres",
+   "resumen": "Una comedia negra sobre personajes diversos que coinciden en un ferry, cuyas vidas se entrelazan en situaciones peligrosas y cómicas. Recomendada para mayores de 16 años."
+  },
+  "en": {
+   "titulo": "Theater: Pobres (Poor)",
+   "resumen": "A dark comedy about diverse characters who meet on a ferry, their lives intertwining in dangerous and comical situations. Recommended for ages 16 and up."
+  },
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": true
+ },
+ "073666badd": {
+  "id": "d9c0732616",
+  "es": {
+   "titulo": "Presentación de la Agenda Taurina",
+   "resumen": "Se presentará la Agenda Taurina, una publicación que honra a figuras de la tauromaquia y la cultura, dedicando esta edición a El Viti, Ignacio Sánchez Mejías y la Generación del 27."
+  },
+  "en": {
+   "titulo": "Presentation of the Bullfighting Calendar",
+   "resumen": "The 'Agenda Taurina' (Bullfighting Calendar) will be presented, a publication honoring bullfighting figures and culture, with this edition dedicated to El Viti, Ignacio Sánchez Mejías, and the Generation of '27."
+  },
+  "temas": [
+   "cultura",
+   "deporte"
+  ],
+  "a_cubierto": true
+ },
+ "d5c9d01103": {
+  "id": "dcdbf74970",
+  "es": {
+   "titulo": "Ruta: Real Sitio de la Florida. Tramo II",
+   "resumen": "Itinerario guiado para interpretar la transformación urbana y arquitectónica de Ciudad Universitaria, con vistas al antiguo territorio real. Requiere inscripción previa."
+  },
+  "en": {
+   "titulo": "Route: Royal Site of La Florida. Section II",
+   "resumen": "Guided itinerary to interpret the urban and architectural transformation of Ciudad Universitaria, with views of the former royal territory. Prior registration is required."
+  },
+  "temas": [
+   "rutas",
+   "cultura",
+   "parques"
+  ],
+  "a_cubierto": null
+ },
+ "db5bf69980": {
+  "id": "07fba42456",
+  "es": {
+   "titulo": "Taller 'La magia de la Navidad'",
+   "resumen": "Taller titulado 'La magia de la Navidad' que se llevará a cabo en la Biblioteca Pública Municipal José Hierro. Más detalles sobre el contenido no están disponibles."
+  },
+  "en": {
+   "titulo": "Workshop 'The Magic of Christmas'",
+   "resumen": "A workshop titled 'The Magic of Christmas' will be held at the José Hierro Municipal Public Library. More details about the content are not available."
+  },
+  "temas": [
+   "ninos",
+   "navidad",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "1c0845f785": {
+  "id": "59a6591990",
+  "es": {
+   "titulo": "Teatro: 'La Despedida'",
+   "resumen": "Una obra teatral que explora la tensión de pasar un día extra con una expareja cuya despedida ya ha ocurrido. Una reflexión sobre las expectativas y la realidad. Recomendada a partir de 16 años."
+  },
+  "en": {
+   "titulo": "Theater: 'The Farewell'",
+   "resumen": "A play exploring the tension of spending an extra day with an ex-partner whose farewell has already happened. A reflection on expectations versus reality. Recommended for ages 16 and up."
+  },
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": true
+ },
+ "f893d04801": {
+  "id": "166f47829a",
+  "es": {
+   "titulo": "Teatro: La Bella Dorotea",
+   "resumen": "Comedia de Miguel Mihura sobre una heredera rebelde y su boda fallida, que aborda la hipocresía social y el 'qué dirán' con ironía y ternura."
+  },
+  "en": {
+   "titulo": "Theater: La Bella Dorotea",
+   "resumen": "A comedy by Miguel Mihura about a rebellious heiress and her failed wedding, addressing social hypocrisy and 'what people will say' with irony and tenderness."
+  },
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": true
+ },
+ "59c6665575": {
+  "id": "400779473f",
+  "es": {
+   "titulo": "Teatro: '¡Anda, Lusía!'",
+   "resumen": "Comedia andaluza inspirada en los hermanos Álvarez Quintero, que combina cante, baile y humor costumbrista con la carismática Lusía. Un homenaje al folclore andaluz."
+  },
+  "en": {
+   "titulo": "Theater: '¡Anda, Lusía!'",
+   "resumen": "An Andalusian comedy inspired by the Álvarez Quintero brothers, blending singing, dancing, and folk humor with the charismatic Lusía. A tribute to Andalusian folklore."
+  },
+  "temas": [
+   "cultura",
+   "musica",
+   "pantalla"
+  ],
+  "a_cubierto": true
+ },
+ "ff164de10c": {
+  "id": "513550f656",
+  "es": {
+   "titulo": "Un mapa loco en torno a Matadero",
+   "resumen": "Proyecto que propone cartografiar recursos culturales en barrios para navegar el malestar colectivo, adaptando la idea de un mapa personal de crisis a una escala territorial."
+  },
+  "en": {
+   "titulo": "A crazy map around Matadero",
+   "resumen": "A project proposing to map cultural resources in neighborhoods to navigate collective distress, adapting the idea of a personal crisis map to a territorial scale."
+  },
+  "temas": [
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "460679e5d1": {
+  "id": "4207bb9f7f",
+  "es": {
+   "titulo": "Un susurro en la ciudad: descanso y vejez",
+   "resumen": "Investigación sobre el descanso como práctica colectiva, centrada en la experiencia de las personas mayores LGTBIQA+ y las transformaciones del cuerpo y el habitar en la vejez."
+  },
+  "en": {
+   "titulo": "A whisper in the city: rest and old age",
+   "resumen": "Research on rest as a collective practice, focusing on the experience of elderly LGTBIQA+ individuals and the transformations of the body and living in old age."
+  },
+  "temas": [
+   "actividades",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "6490dfc988": {
+  "id": "5f07a736eb",
+  "es": {
+   "titulo": "Universo Vilchez en Cineteca Madrid",
+   "resumen": "Evento en Cineteca Madrid. Más detalles sobre el contenido del evento no están disponibles en la información proporcionada."
+  },
+  "en": {
+   "titulo": "Vilchez Universe at Cineteca Madrid",
+   "resumen": "Event at Cineteca Madrid. Further details about the event's content are not available in the provided information."
+  },
+  "temas": [
+   "pantalla"
+  ],
+  "a_cubierto": true
+ },
+ "6f25ba6159": {
+  "id": "9375216252",
+  "es": {
+   "titulo": "Exposición 'Vestri-Austri'",
+   "resumen": "Exposición titulada 'Vestri-Austri' a cargo de Ricardo Sánchez González, que se celebrará en el Centro Cultural José Luis López Vázquez."
+  },
+  "en": {
+   "titulo": "Exhibition 'Vestri-Austri'",
+   "resumen": "An exhibition titled 'Vestri-Austri' by Ricardo Sánchez González, to be held at the José Luis López Vázquez Cultural Center."
+  },
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true
+ },
+ "054ef05fd8": {
+  "id": "2602402615",
+  "es": {
+   "titulo": "Villa de Vallecas a todo tren: Navidad",
+   "resumen": "Actividad navideña gratuita en Villa de Vallecas con salidas de tren y entrega de cartas a Papá Noel. Varias paradas y horarios disponibles."
+  },
+  "en": {
+   "titulo": "Villa de Vallecas by Train: Christmas",
+   "resumen": "Free Christmas activity in Villa de Vallecas with train rides and letter delivery to Santa Claus. Several stops and schedules available."
+  },
+  "temas": [
+   "fiestas",
+   "navidad",
+   "ninos"
+  ],
+  "a_cubierto": false
+ },
+ "38012722b5": {
+  "id": "a4599c89ce",
+  "es": {
+   "titulo": "Villancicos flamencos con Click Flamenco",
+   "resumen": "La compañía Click Flamenco presenta un espectáculo de villancicos flamencos apto para todos los públicos, explorando su compás y origen."
+  },
+  "en": {
+   "titulo": "Flamenco Christmas Carols with Click Flamenco",
+   "resumen": "The Click Flamenco company presents a flamenco Christmas carol show suitable for all audiences, exploring its rhythm and origin."
+  },
+  "temas": [
+   "musica",
+   "navidad",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "b660b808eb": {
+  "id": "e2c77bd0e0",
+  "es": {
+   "titulo": "Visita Guiada: Imprenta Municipal - Artes del Libro",
+   "resumen": "Visita guiada gratuita a la Imprenta Municipal, un museo vivo que conserva talleres en funcionamiento. Se centra en la historia de la imprenta y el libro."
+  },
+  "en": {
+   "titulo": "Guided Tour: Municipal Printing Press - Book Arts",
+   "resumen": "Free guided tour of the Municipal Printing Press, a living museum with active workshops. It focuses on the history of printing and books."
+  },
+  "temas": [
+   "cultura",
+   "museos",
+   "libros"
+  ],
+  "a_cubierto": true
+ },
+ "8a3c974d6f": {
+  "id": "82e8a9c7c8",
+  "es": {
+   "titulo": "Visita: Iluminación navideña del centro de Madrid",
+   "resumen": "Recorrido a pie para disfrutar de la iluminación navideña del centro de Madrid. Inscripciones en el CMM Antonio Mingote. Puntos de encuentro específicos."
+  },
+  "en": {
+   "titulo": "Visit: Christmas lights in central Madrid",
+   "resumen": "Walking tour to enjoy the Christmas lights in central Madrid. Registration at CMM Antonio Mingote. Specific meeting points."
+  },
+  "temas": [
+   "rutas",
+   "navidad",
+   "cultura"
+  ],
+  "a_cubierto": false
+ },
+ "08e07f7bdc": {
+  "id": "778664bfd2",
+  "es": {
+   "titulo": "Webinario: Peces nativos y especies invasoras en el Manzanares",
+   "resumen": "Webinario sobre la ictiofauna del río Manzanares tras su renaturalización y los desafíos de las especies invasoras. Dirigido a público adulto."
+  },
+  "en": {
+   "titulo": "Webinar: Native fish and invasive species in the Manzanares River",
+   "resumen": "Webinar on the ichthyofauna of the Manzanares River after its renaturalization and the challenges posed by invasive species. Aimed at adults."
+  },
+  "temas": [
+   "naturaleza",
+   "agua",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "eb671c8193": {
+  "id": "7cc59339ae",
+  "es": {
+   "titulo": "'Las fugas' de Sami Halawa en Biblioteca Ángel González",
+   "resumen": "Evento en la Biblioteca Pública Municipal Ángel González. Más detalles sobre el contenido del evento no están disponibles en la información proporcionada."
+  },
+  "en": {
+   "titulo": "'Las fugas' by Sami Halawa at Ángel González Library",
+   "resumen": "Event at the Ángel González Municipal Public Library. Further details about the event's content are not available in the provided information."
+  },
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "45c4db81fc": {
+  "id": "0064e67f76",
+  "es": {
+   "titulo": "Story time: Santa's elves (inglés para niños)",
+   "resumen": "Representación teatral en inglés para niños de 3 a 8 años sobre temática navideña. Fomenta el gusto por las historias y el aprendizaje del idioma de forma lúdica."
+  },
+  "en": {
+   "titulo": "Story time: Santa's elves (English for kids)",
+   "resumen": "Theatrical performance in English for children aged 3-8 with a Christmas theme. Encourages enjoyment of stories and playful language learning."
+  },
+  "temas": [
+   "ninos",
+   "navidad",
+   "pantalla"
+  ],
+  "a_cubierto": true
+ },
+ "94d894a113": {
+  "id": "7fda8202e9",
+  "es": {
+   "titulo": "'Triángulo' de Carlos Bardem en Biblioteca Ángel González",
+   "resumen": "Evento en la Biblioteca Pública Municipal Ángel González. Más detalles sobre el contenido del evento no están disponibles en la información proporcionada."
+  },
+  "en": {
+   "titulo": "'Triángulo' by Carlos Bardem at Ángel González Library",
+   "resumen": "Event at the Ángel González Municipal Public Library. Further details about the event's content are not available in the provided information."
+  },
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true
  }
 }

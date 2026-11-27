@@ -1,11 +1,11 @@
 {
-  "generated": "2026-11-27T13:52:42.298Z",
+  "generated": "2026-11-27T15:39:54.269Z",
   "today": "2026-11-27",
-  "events": 10256,
+  "events": 10289,
   "review": 10,
   "ai": {
-    "calls": 0,
-    "seconds": 42,
+    "calls": 14,
+    "seconds": 209,
     "tripped": false
   },
   "sources": [
@@ -114,13 +114,13 @@
     {
       "id": "prensa-diariovasco-culturas",
       "status": "ok",
-      "count": 10,
+      "count": 11,
       "candidatos": true
     },
     {
       "id": "prensa-lasprovincias-culturas",
       "status": "ok",
-      "count": 15,
+      "count": 16,
       "candidatos": true
     },
     {
@@ -144,7 +144,7 @@
     {
       "id": "prensa-larioja-culturas",
       "status": "ok",
-      "count": 11,
+      "count": 12,
       "candidatos": true
     },
     {

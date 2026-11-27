@@ -30994,5 +30994,1077 @@
   ],
   "a_cubierto": null,
   "confianza": 0.9
+ },
+ "36fffeb484": {
+  "url": "https://www.20minutos.es/musica/mika-celebra-los-20-anos-su-album-debut-life-in-cartoon-motion-con-un-concierto-madrid_7066752_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-11-27",
+  "es_plan": true,
+  "titulo": "Mika celebra 20 años de su álbum debut con concierto en Madrid",
+  "resumen": "El artista Mika ofrecerá un concierto en Madrid el 8 de noviembre de 2027 para celebrar el 20 aniversario de su álbum debut 'Life In Cartoon Motion'. El evento tendrá lugar en el Palacio Vistalegre y las entradas saldrán a la venta próximamente.",
+  "en": {
+   "titulo": "Mika celebrates 20 years of his debut album with a concert in Madrid",
+   "resumen": "Artist Mika will perform a concert in Madrid on November 8, 2027, to celebrate the 20th anniversary of his debut album 'Life In Cartoon Motion'. The event will take place at Palacio Vistalegre, with tickets going on sale soon."
+  },
+  "inicio": "2027-11-08",
+  "fin": "2027-11-08",
+  "hora": null,
+  "lugar": "Palacio Vistalegre",
+  "municipio": "Madrid",
+  "provincia": "Madrid",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "94104e06c4": {
+  "url": "https://www.20minutos.es/musica/musica-reciclaje-celebra-su-tradicional-concierto-navidad-junto-coro-fermin-gurbindo-once_7066703_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-11-27",
+  "es_plan": true,
+  "titulo": "Concierto de Navidad de La Música del Reciclaje en Madrid",
+  "resumen": "La orquesta La Música del Reciclaje ofrecerá su tradicional concierto de Navidad el 22 de diciembre a las 19:30 en el Gran Teatro CaixaBank Príncipe Pío de Madrid, acompañada por el Coro Fermín Gurbindo de la ONCE.",
+  "en": {
+   "titulo": "Christmas Concert by La Música del Reciclaje in Madrid",
+   "resumen": "The orchestra La Música del Reciclaje will hold its traditional Christmas concert on December 22nd at 7:30 PM at the Gran Teatro CaixaBank Príncipe Pío in Madrid, accompanied by the Fermín Gurbindo Choir of the ONCE."
+  },
+  "inicio": "2026-12-22",
+  "fin": "2026-12-22",
+  "hora": "19:30",
+  "lugar": "Gran Teatro CaixaBank Príncipe Pío",
+  "municipio": "Madrid",
+  "provincia": "Madrid",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "d9ca57f024": {
+  "url": "https://www.20minutos.es/musica/los-planetas-lanzaran-29-enero-su-nuevo-disco-amores-imposibles-capitalismo_7066614_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-11-27",
+  "es_plan": true,
+  "titulo": "Los Planetas lanzan nuevo disco 'Amores imposibles en el capitalismo' el 29 de enero",
+  "resumen": "La banda Los Planetas publicará su nuevo álbum de estudio, 'Amores imposibles en el capitalismo', el próximo 29 de enero. El anuncio coincide con el Black Friday, presentándose como una sátira.",
+  "en": {
+   "titulo": "Los Planetas release new album 'Amores imposibles en el capitalismo' on January 29th",
+   "resumen": "The band Los Planetas will release their new studio album, 'Amores imposibles en el capitalismo', on January 29th. The announcement coincides with Black Friday, presented as a satire."
+  },
+  "inicio": "2027-01-29",
+  "fin": "2027-01-29",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "353cf09c1d": {
+  "url": "https://www.20minutos.es/libros/por-que-los-libros-son-cada-vez-mas-bonitos-los-editores-responden-si-es-hermoso-lectura-es-mas-placentera_6325663_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-11-27",
+  "es_plan": true,
+  "titulo": "Nuevas ediciones de libros: 'La ciudad de los prodigios' y 'Federico. Mi corazón, tu casa'",
+  "resumen": "Se destaca la creciente belleza y calidad de las ediciones de libros en España, con reediciones como 'La ciudad de los prodigios' y el próximo lanzamiento de 'Federico. Mi corazón, tu casa' el 4 de diciembre.",
+  "en": {
+   "titulo": "New book editions: 'La ciudad de los prodigios' and 'Federico. Mi corazón, tu casa'",
+   "resumen": "The increasing beauty and quality of book editions in Spain are highlighted, with reissues like 'La ciudad de los prodigios' and the upcoming release of 'Federico. Mi corazón, tu casa' on December 4th."
+  },
+  "inicio": "2026-12-04",
+  "fin": "2026-12-04",
+  "hora": null,
+  "lugar": "librerías",
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.8
+ },
+ "97486863c5": {
+  "url": "https://www.20minutos.es/musica/milo-j-latin-mafia-se-imponen-segunda-noche-los-premios-rolling-stone-espanol_7066505_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-11-27",
+  "es_plan": false
+ },
+ "55d5ac1c23": {
+  "url": "https://www.20minutos.es/cultura/retablo-gante-se-abre-tras-catorce-anos-restauracion-para-desvelar-sus-misterios_7066079_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-11-27",
+  "es_plan": false
+ },
+ "99a7baeac7": {
+  "url": "https://elpais.com/cultura/cine/2026-11-27/doce-anos-sin-alex-angulo-el-actor-al-que-todo-el-mundo-quiso.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-11-27",
+  "es_plan": true,
+  "titulo": "Estreno del documental 'La maleta de Álex' sobre el actor Álex Angulo",
+  "resumen": "Se estrena este viernes en cines el documental 'La maleta de Álex', que recorre la vida del actor Álex Angulo a través de los recuerdos de su hija y compañeros, doce años después de su fallecimiento.",
+  "en": {
+   "titulo": "Premiere of the documentary 'La maleta de Álex' about actor Álex Angulo",
+   "resumen": "The documentary 'La maleta de Álex', which explores the life of actor Álex Angulo through the memories of his daughter and colleagues, premieres this Friday in cinemas, twelve years after his death."
+  },
+  "inicio": "2026-11-27",
+  "fin": "2026-11-27",
+  "hora": null,
+  "lugar": "salas de cine",
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "f98ebf3789": {
+  "url": "https://elpais.com/cultura/cine/2026-11-27/ethan-hawke-cuando-conoces-a-un-hombre-en-su-punto-mas-bajo-sabes-que-hay-una-buena-historia.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-11-27",
+  "es_plan": false
+ },
+ "ab59acc6d2": {
+  "url": "https://elpais.com/cultura/2026-11-27/muere-manuel-ramirez-el-editor-discreto-del-prestigioso-sello-pre-textos.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-11-27",
+  "es_plan": false
+ },
+ "f415233ed6": {
+  "url": "https://elpais.com/cultura/cine/2026-11-27/oro-sin-ley-tibio-reflejo-de-la-generacion-estadounidense-de-la-violencia.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-11-27",
+  "es_plan": true,
+  "titulo": "Estreno de 'Oro sin ley', western con Ethan Hawke y Russell Crowe",
+  "resumen": "Se estrena el 27 de noviembre la película 'Oro sin ley', un western moderno con Ethan Hawke y Russell Crowe, que evoca el cine de los años setenta y aborda historias de supervivencia.",
+  "en": {
+   "titulo": "Premiere of 'Oro sin ley', western with Ethan Hawke and Russell Crowe",
+   "resumen": "The film 'Oro sin ley', a modern western starring Ethan Hawke and Russell Crowe, which evokes 1970s cinema and deals with survival stories, premieres on November 27th."
+  },
+  "inicio": "2026-11-27",
+  "fin": "2026-11-27",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "bdbded3692": {
+  "url": "https://elpais.com/cultura/cine/2026-11-27/hermanas-un-debut-notable-sobre-los-abusos-intrafamiliares.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-11-27",
+  "es_plan": true,
+  "titulo": "Estreno de 'Hermanas', drama sobre abusos intrafamiliares",
+  "resumen": "Se estrena el 27 de noviembre de 2026 la película 'Hermanas', un drama sobre abusos intrafamiliares dirigido por Ione Hernández Sáenz y protagonizado por Elena Anaya y Emma Suárez.",
+  "en": {
+   "titulo": "Premiere of 'Hermanas', a drama about intrafamilial abuse",
+   "resumen": "The film 'Hermanas', a drama about intrafamilial abuse directed by Ione Hernández Sáenz and starring Elena Anaya and Emma Suárez, premieres on November 27, 2026."
+  },
+  "inicio": "2026-11-27",
+  "fin": "2026-11-27",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "64488cfe22": {
+  "url": "https://elpais.com/cultura/cine/2026-11-27/ahora-los-suegros-son-ellos-la-comodidad-de-una-comedia-familiar-a-la-antigua.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-11-27",
+  "es_plan": true,
+  "titulo": "Estreno de 'Ahora los suegros son ellos', comedia familiar",
+  "resumen": "Se estrena el 27 de noviembre la comedia familiar 'Ahora los suegros son ellos', protagonizada por Robert De Niro, Ben Stiller y Ariana Grande, que aborda las tensiones de las visitas familiares.",
+  "en": {
+   "titulo": "Premiere of 'Ahora los suegros son ellos', a family comedy",
+   "resumen": "The family comedy 'Ahora los suegros son ellos', starring Robert De Niro, Ben Stiller, and Ariana Grande, which addresses the tensions of family visits, premieres on November 27th."
+  },
+  "inicio": "2026-11-27",
+  "fin": "2026-11-27",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "pantalla",
+   "ninos"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "73e7a806b7": {
+  "url": "https://elpais.com/cultura/cine/2026-11-27/un-hombre-en-un-puente-agrio-retrato-de-un-tarambana-espanol.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-11-27",
+  "es_plan": true,
+  "titulo": "Estreno de 'Un hombre en un puente', drama sobre contradicciones",
+  "resumen": "Se estrena el 27 de noviembre la película 'Un hombre en un puente', un drama dirigido por David Martín de los Santos que explora las contradicciones personales y morales de un individuo.",
+  "en": {
+   "titulo": "Premiere of 'Un hombre en un puente', a drama about contradictions",
+   "resumen": "The film 'Un hombre en un puente', a drama directed by David Martín de los Santos that explores the personal and moral contradictions of an individual, premieres on November 27th."
+  },
+  "inicio": "2026-11-27",
+  "fin": "2026-11-27",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "e9ffc4c25e": {
+  "url": "https://elpais.com/cultura/2026-11-27/lluis-pasqual-ante-el-aniversario-del-teatro-lliure-en-el-que-no-participa-no-lo-he-decidido-yo-y-no-entiendo-el-encono.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-11-27",
+  "es_plan": false
+ },
+ "5475e25091": {
+  "url": "https://elpais.com/cultura/el-toro-por-los-cuernos/2026-11-27/toros-y-politica-los-partidos-deciden-no-vestirse-de-luces-y-mejor-que-no-lo-hagan.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-11-27",
+  "es_plan": false
+ },
+ "46b46d494b": {
+  "url": "https://www.lavanguardia.com/cultura/20261127/11694867/muere-actriz-teresa-cunille.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-27",
+  "es_plan": false
+ },
+ "f0e6a34a50": {
+  "url": "https://www.lavanguardia.com/cultura/20261127/11694617/mago-pop-compra-teatro-regina-cuenta-tres-salas-barcelona.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-27",
+  "es_plan": false
+ },
+ "f3fe637941": {
+  "url": "https://www.lavanguardia.com/cultura/20261127/11694421/jazzsi-anade-luz-musical-raval.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-27",
+  "es_plan": false
+ },
+ "26ed3e0d58": {
+  "url": "https://www.lavanguardia.com/cultura/20261127/11694276/ruben-seca-me-parece-triste-tengamos-derecha-entienda-importancia-sanar-heridas-guerra-civil.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-27",
+  "es_plan": true,
+  "titulo": "Estreno de 'Los cangrejos', película sobre memoria histórica",
+  "resumen": "Se estrena la película 'Los cangrejos', ópera prima de Rubén Seca, que aborda la memoria histórica y fue premiada en la Seminci de Valladolid.",
+  "en": {
+   "titulo": "Premiere of 'Los cangrejos', a Film About Historical Memory",
+   "resumen": "The film 'Los cangrejos', Rubén Seca's debut, which addresses historical memory and was awarded at the Seminci in Valladolid, is released."
+  },
+  "inicio": "2026-11-27",
+  "fin": "2026-11-27",
+  "hora": null,
+  "lugar": null,
+  "municipio": "Valladolid",
+  "provincia": "Valladolid",
+  "ambito": "nacional",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "358a2c396e": {
+  "url": "https://www.lavanguardia.com/qf/planes/20261127/11694194/migas-adelantan-navidad-palau-musica.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-27",
+  "es_plan": true,
+  "titulo": "Las Migas adelantan la Navidad en el Palau de la Música",
+  "resumen": "La formación barcelonesa Las Migas actuará en el Palau de la Música el próximo jueves, adelantando la Navidad con su música.",
+  "en": {
+   "titulo": "Las Migas Bring Christmas Forward at the Palau de la Música",
+   "resumen": "The Barcelona-based group Las Migas will perform at the Palau de la Música next Thursday, bringing Christmas forward with their music."
+  },
+  "inicio": "2026-12-03",
+  "fin": "2026-12-03",
+  "hora": null,
+  "lugar": "Palau de la Música",
+  "municipio": "Barcelona",
+  "provincia": "Barcelona",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "musica",
+   "fiestas"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "98ae04b976": {
+  "url": "https://www.lavanguardia.com/qf/planes/20261127/11694183/carolina-presenta-sabado-ultimo-disco-palau-sant-jordi.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-27",
+  "es_plan": true,
+  "titulo": "Carolina Durante presenta su último disco en el Palau Sant Jordi",
+  "resumen": "La banda madrileña Carolina Durante actuará este sábado en el Palau Sant Jordi de Barcelona para presentar su último disco como parte de su gira.",
+  "en": {
+   "titulo": "Carolina Durante Presents Their Latest Album at Palau Sant Jordi",
+   "resumen": "The Madrid-based band Carolina Durante will perform this Saturday at Barcelona's Palau Sant Jordi to present their latest album as part of their tour."
+  },
+  "inicio": "2026-11-29",
+  "fin": "2026-11-29",
+  "hora": null,
+  "lugar": "Palau Sant Jordi",
+  "municipio": "Barcelona",
+  "provincia": "Barcelona",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "musica"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "85e96cef61": {
+  "url": "https://www.lavanguardia.com/qf/20261127/11694078/manga-vuelve-barcelona-cargado-leyendas.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-27",
+  "es_plan": true,
+  "titulo": "El Salón Manga Barcelona celebra su 32ª edición",
+  "resumen": "El Salón Manga Barcelona regresa a Fira Gran Via del 5 al 8 de diciembre, con la presencia de destacados mangakas y eventos.",
+  "en": {
+   "titulo": "Manga Barcelona Convention Celebrates its 32nd Edition",
+   "resumen": "Manga Barcelona Convention returns to Fira Gran Via from December 5th to 8th, featuring prominent mangakas and events."
+  },
+  "inicio": "2026-12-05",
+  "fin": "2026-12-08",
+  "hora": null,
+  "lugar": "Fira Gran Via",
+  "municipio": "L'Hospitalet de Llobregat",
+  "provincia": "Barcelona",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "libros",
+   "actividades"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "b6d4801d6d": {
+  "url": "https://www.lavanguardia.com/cultura/20261127/11693975/libertad-doble-retorno-esencias-otros-estrenos-semana.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-27",
+  "es_plan": true,
+  "titulo": "Estrenos de cine de la semana: 'La libertad doble' y otros",
+  "resumen": "Se estrenan varias películas esta semana, incluyendo 'La libertad doble', 'Oro sin ley' y 'Hechizo: Bienvenidos a Hexe'.",
+  "en": {
+   "titulo": "This Week's Film Premieres: 'La libertad doble' and Others",
+   "resumen": "Several films premiere this week, including 'La libertad doble', 'Oro sin ley', and 'Hechizo: Bienvenidos a Hexe'."
+  },
+  "inicio": "2026-11-27",
+  "fin": "2026-11-27",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "4626eb12cc": {
+  "url": "https://www.lavanguardia.com/qf/planes/20261127/11693313/fiesta-decima-edicion-terrer-priorat-marina-herlop-astrio-sara-dowling.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-27",
+  "es_plan": false
+ },
+ "0cbf43c4dc": {
+  "url": "https://www.lavanguardia.com/qf/20261127/11693272/jhoanna-sierralta-dudamel-femenino.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-27",
+  "es_plan": true,
+  "titulo": "Jhoanna Sierralta debuta en Òpera a Catalunya con 'Cavalleria rusticana'",
+  "resumen": "La directora Jhoanna Sierralta debuta con la Fundación Òpera a Catalunya presentando 'Cavalleria rusticana' y 'Pagliacci' en varios teatros.",
+  "en": {
+   "titulo": "Jhoanna Sierralta Debuts with Òpera a Catalunya in 'Cavalleria rusticana'",
+   "resumen": "Conductor Jhoanna Sierralta debuts with the Òpera a Catalunya Foundation presenting 'Cavalleria rusticana' and 'Pagliacci' in various theaters."
+  },
+  "inicio": "2026-11-27",
+  "fin": "2026-12-01",
+  "hora": null,
+  "lugar": "La Faràndula",
+  "municipio": "Sabadell",
+  "provincia": "Barcelona",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "cd95fe969a": {
+  "url": "https://www.lavanguardia.com/cultura/teatro/20261127/11693250/chicos-coro-vuelve-barcelona-teatro-apolo.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-27",
+  "es_plan": false
+ },
+ "0967162171": {
+  "url": "https://www.lavanguardia.com/cultura/cine/20261127/11692501/epidemia-agotamiento-laboral-desangra-jovenes-sanguine.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-27",
+  "es_plan": false
+ },
+ "e5d1939aa8": {
+  "url": "https://www.ara.cat/cultura/barcelona-atorga-medalla-d-or-merit-cultural-antoni-ros-marba-fundadors-sonar_25_5924877.html",
+  "fuente": "Ara (Cultura)",
+  "src": "prensa-ara-cultura",
+  "publicado": "2026-11-27",
+  "es_plan": false
+ },
+ "0de03f2a11": {
+  "url": "https://www.ara.cat/ara-cat/meteo/quin-temps-fara-pont-purissima-aixo-diuen-mapes_1_5923870.html",
+  "fuente": "Ara (Cultura)",
+  "src": "prensa-ara-cultura",
+  "publicado": "2026-11-27",
+  "es_plan": true,
+  "titulo": "Previsión del tiempo para el puente de la Purísima",
+  "resumen": "Se informa sobre la previsión meteorológica para el puente de la Purísima (del 5 al 8 de diciembre), fechas clave para ferias y planes.",
+  "en": {
+   "titulo": "Weather Forecast for the Purísima Long Weekend",
+   "resumen": "Information is provided on the weather forecast for the Purísima long weekend (December 5th-8th), a key time for fairs and plans."
+  },
+  "inicio": "2026-12-05",
+  "fin": "2026-12-08",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "fiestas",
+   "actividades"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.7
+ },
+ "31550408be": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/27/aldo-comas-deja-puerta-abierta-fernando-tejero-polemica-macarena-gomez-cuando-quiera-birra-he-reido-mucho-cae-bien-2071732.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-27",
+  "es_plan": true,
+  "titulo": "Aldo Comas resta importancia a polémica con Fernando Tejero",
+  "resumen": "Aldo Comas minimiza la polémica con Fernando Tejero tras declaraciones de Macarena Gómez, y destaca la trayectoria de su esposa.",
+  "en": {
+   "titulo": "Aldo Comas Downplays Controversy with Fernando Tejero",
+   "resumen": "Aldo Comas downplays the controversy with Fernando Tejero following Macarena Gómez's statements, highlighting his wife's career."
+  },
+  "inicio": "2026-11-27",
+  "fin": "2026-11-27",
+  "hora": null,
+  "lugar": null,
+  "municipio": "Madrid",
+  "provincia": "Madrid",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "bf5c77a378": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/27/bola-negra-castillo-ravalear-lideran-nominaciones-premios-feroz-2072410.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-27",
+  "es_plan": true,
+  "titulo": "Premios Feroz 2027: Ceremonia de entrega en Pontevedra",
+  "resumen": "La gala de los Premios Feroz 2027 se celebrará el 23 de enero en el Pazo da Cultura de Pontevedra. La ceremonia premiará lo mejor del cine español, con 'La bola negra' liderando las nominaciones.",
+  "en": {
+   "titulo": "Feroz Awards 2027: Awards Ceremony in Pontevedra",
+   "resumen": "The Feroz Awards 2027 ceremony will take place on January 23rd at the Pazo da Cultura in Pontevedra. The event will honor the best of Spanish cinema, with 'La bola negra' leading the nominations."
+  },
+  "inicio": "2027-01-23",
+  "fin": "2027-01-23",
+  "hora": null,
+  "lugar": "Pazo da Cultura",
+  "municipio": "Pontevedra",
+  "provincia": "Pontevedra",
+  "ambito": "nacional",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "31c8c4fe0f": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/27/lola-herrera-91anos-domingo-votar-tromba-elecciones-importantes-debiles-2072323.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-27",
+  "es_plan": false
+ },
+ "ce1db9cd20": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/27/lola-herrera-91-anos-como-mujer-no-puedo-entender-otra-mujer-pueda-votar-santiago-abascal-no-tiene-ningun-sentido-2069273.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-27",
+  "es_plan": true,
+  "titulo": "Obra de teatro 'Camino a la Meca' en Barbastro",
+  "resumen": "Lola Herrera continúa de gira con la obra de teatro 'Camino a la Meca'. La función tendrá lugar este sábado en la localidad oscense de Barbastro.",
+  "en": {
+   "titulo": "'Camino a la Meca' Theater Play in Barbastro",
+   "resumen": "Lola Herrera continues her tour with the theater play 'Camino a la Meca'. The performance will take place this Saturday in the town of Barbastro, Huesca."
+  },
+  "inicio": "2026-11-29",
+  "fin": "2026-11-29",
+  "hora": null,
+  "lugar": null,
+  "municipio": "Barbastro",
+  "provincia": "Huesca",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "16cee6986c": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/27/estos-catorce-mejores-libros-libreria-calamo-2072430.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-27",
+  "es_plan": true,
+  "titulo": "Premios Cálamo 2026: Votación popular abierta",
+  "resumen": "La librería Cálamo de Zaragoza ha anunciado los 14 libros finalistas de sus premios anuales y ha abierto el plazo de votación popular. Los ganadores se anunciarán el 12 de enero y se entregarán el 28 de febrero.",
+  "en": {
+   "titulo": "Cálamo Awards 2026: Public Voting Open",
+   "resumen": "The Cálamo bookstore in Zaragoza has announced the 14 finalist books for its annual awards and has opened public voting. The winners will be announced on January 12th and awarded on February 28th."
+  },
+  "inicio": "2026-11-27",
+  "fin": "2027-01-05",
+  "hora": null,
+  "lugar": "Librería Cálamo",
+  "municipio": "Zaragoza",
+  "provincia": "Zaragoza",
+  "ambito": "local",
+  "gratis": true,
+  "precio": null,
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "18b5e00803": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/27/critica-recital-cecilia-bartoli-lang-lang-gestos-giros-2072382.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-27",
+  "es_plan": false
+ },
+ "45154e0dc5": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/27/isabel-gemio-infancia-silencios-calles-casa-no-libros-padres-campesinos-trabajaban-sin-descanso-2072356.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-27",
+  "es_plan": false
+ },
+ "59ef5b068a": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/27/monica-naranjo-52anos-siempre-tenido-buen-saque-desayuno-algo-fruta-temporada-tostada-avena-queso-aceite-2066000.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-27",
+  "es_plan": true,
+  "titulo": "Conciertos de Mónica Naranjo en Madrid y Ciudad de México",
+  "resumen": "Mónica Naranjo celebra 30 años de carrera con dos conciertos de despedida: el 7 de diciembre en Madrid y el 30 de enero en Ciudad de México.",
+  "en": {
+   "titulo": "Mónica Naranjo Concerts in Madrid and Mexico City",
+   "resumen": "Mónica Naranjo celebrates 30 years in her career with two farewell concerts: on December 7th in Madrid and on January 30th in Mexico City."
+  },
+  "inicio": "2026-12-07",
+  "fin": "2026-12-07",
+  "hora": null,
+  "lugar": null,
+  "municipio": "Madrid",
+  "provincia": "Madrid",
+  "ambito": "nacional",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "musica"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "1f70df55a9": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/27/muere-61anos-picador-despedido-morante-puebla-tres-decadas-juntos-2072328.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-27",
+  "es_plan": false
+ },
+ "5088b64262": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/27/frase-maria-montessori-educacion-hijos-unica-manera-poder-conseguir-disciplina-ninos-libertad-2043640.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-27",
+  "es_plan": false
+ },
+ "dee8b0e73f": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/27/joan-manuel-serrat-82anos-madre-aragonesa-trabajaba-mula-labores-2072324.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-27",
+  "es_plan": false
+ },
+ "3b0beb17b2": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/27/santiago-abascal-50anos-siento-realizado-friego-casa-limpio-ordenado-2072322.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-27",
+  "es_plan": false
+ },
+ "2e68016b3c": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/27/gran-wyoming-propietario-19-viviendas-si-suben-impuestos-patrimonio-me-perjudican-aunque-pueda-estar-deacuerdo-2065127.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-27",
+  "es_plan": false
+ },
+ "15ff2f9094": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/27/gisela-hada-navidad-zaragoza-actuar-los-oscar-2020-fue-un-gozo-maximo-2072267.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-27",
+  "es_plan": true,
+  "titulo": "Gisela: Encendido de luces navideñas en Zaragoza",
+  "resumen": "La cantante Gisela actuará en el encendido de las luces navideñas de El Corte Inglés de Sagasta en Zaragoza este jueves 26 de noviembre.",
+  "en": {
+   "titulo": "Gisela: Christmas Lights Switch-On in Zaragoza",
+   "resumen": "Singer Gisela will perform at the Christmas lights switch-on event at El Corte Inglés de Sagasta in Zaragoza this Thursday, November 26th."
+  },
+  "inicio": "2026-11-26",
+  "fin": "2026-11-26",
+  "hora": null,
+  "lugar": "El Corte Inglés de Sagasta",
+  "municipio": "Zaragoza",
+  "provincia": "Zaragoza",
+  "ambito": "local",
+  "gratis": true,
+  "precio": null,
+  "temas": [
+   "navidad",
+   "musica"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "a86af8e276": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/27/nacho-rubio-48-anos-sobre-su-documental-siempre-quise-ser-director-cine-era-una-cuenta-pendiente-2072264.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-27",
+  "es_plan": true,
+  "titulo": "Estreno documental '¿Qué cojones es un hombre?' en Zaragoza",
+  "resumen": "El actor Nacho Rubio presenta su debut como director de cine con el documental '¿Qué cojones es un hombre?' este viernes 27 de noviembre en el Espacio Las Armas de Zaragoza.",
+  "en": {
+   "titulo": "Documentary Premiere '¿Qué cojones es un hombre?' in Zaragoza",
+   "resumen": "Actor Nacho Rubio presents his directorial debut with the documentary '¿Qué cojones es un hombre?' this Friday, November 27th, at Espacio Las Armas in Zaragoza."
+  },
+  "inicio": "2026-11-27",
+  "fin": "2026-11-27",
+  "hora": "19:30",
+  "lugar": "Espacio Las Armas",
+  "municipio": "Zaragoza",
+  "provincia": "Zaragoza",
+  "ambito": "local",
+  "gratis": false,
+  "precio": "invitación",
+  "temas": [
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.85
+ },
+ "bfd9a40cdb": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/27/vuelve-soldadito-marinero-zaragoza-fito-regresa-concierto-con-sus-aullidos-2072257.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-27",
+  "es_plan": true,
+  "titulo": "Concierto de Fito y Fitipaldis en Zaragoza",
+  "resumen": "Fito Cabrales y sus Fitipaldis actúan en Zaragoza este viernes 27 y sábado 28 de noviembre en la sala Mozart del Auditorio Princesa Leonor, dentro de su gira 'Aullidos'.",
+  "en": {
+   "titulo": "Fito y Fitipaldis Concert in Zaragoza",
+   "resumen": "Fito Cabrales and his Fitipaldis will perform in Zaragoza this Friday, November 27th, and Saturday, November 28th, at the Mozart hall of the Auditorio Princesa Leonor, as part of their 'Aullidos' tour."
+  },
+  "inicio": "2026-11-27",
+  "fin": "2026-11-28",
+  "hora": "20:30",
+  "lugar": "Sala Mozart del Auditorio Princesa Leonor",
+  "municipio": "Zaragoza",
+  "provincia": "Zaragoza",
+  "ambito": "local",
+  "gratis": false,
+  "precio": "99 euros",
+  "temas": [
+   "musica"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "6c0aaedb60": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/27/mova-z60-ultra-roller-complete-un-robot-aspirador-premium-precio-gama-media-2072240.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-27",
+  "es_plan": false
+ },
+ "3e1a050da9": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/27/luis-merlo-actor-sociedad-conquistado-libertad-sentido-pequeno-gracias-farandula-2072168.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-27",
+  "es_plan": false
+ },
+ "72de803069": {
+  "url": "https://www.elnortedecastilla.es/culturas/arte/galeria-samuel-acoge-antologia-felix-cuadrado-lomas-20261127113823-nt.html",
+  "fuente": "El Norte de Castilla (Culturas)",
+  "src": "prensa-nortecastilla-culturas",
+  "publicado": "2026-11-27",
+  "es_plan": false
+ },
+ "5253276e6f": {
+  "url": "https://www.diariosur.es/culturas/adelfa-calvo-antonio-torre-candidatos-premios-feroz-20261127130528-nt.html",
+  "fuente": "Diario Sur (Culturas)",
+  "src": "prensa-diariosur-culturas",
+  "publicado": "2026-11-27",
+  "es_plan": false
+ },
+ "d7050ffc08": {
+  "url": "https://www.ideal.es/culturas/almeria/ocal-celebra-domingo-25o-aniversario-titan-mahler-20261127121835-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-11-27",
+  "es_plan": true,
+  "titulo": "La OCAL celebra su 25º aniversario con 'Titán' de Mahler y 'Música para unos Juegos'",
+  "resumen": "La Orquesta Ciudad de Almería (OCAL) celebra su 25º aniversario este domingo a las 19:00h en el Auditorio Municipal Maestro Padilla con un programa que incluye 'Titán' de Mahler y 'Música para unos Juegos'.",
+  "en": {
+   "titulo": "OCAL celebrates its 25th anniversary with Mahler's 'Titan' and 'Music for the Mediterranean Games'",
+   "resumen": "The Almería City Orchestra (OCAL) celebrates its 25th anniversary this Sunday at 7:00 PM at the Auditorio Municipal Maestro Padilla with a program including Mahler's 'Titan' and 'Music for the Mediterranean Games'."
+  },
+  "inicio": "2026-11-30",
+  "fin": "2026-11-30",
+  "hora": "19:00",
+  "lugar": "Auditorio Municipal Maestro Padilla",
+  "municipio": "Almería",
+  "provincia": "Almería",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "69156619b4": {
+  "url": "https://www.elcorreo.com/culturas/arte/feria-grabado-obra-papel-fig-bilbao-celebra-20261126191257-nt.html",
+  "fuente": "El Correo (Culturas)",
+  "src": "prensa-elcorreo-culturas",
+  "publicado": "2026-11-27",
+  "es_plan": true,
+  "titulo": "La feria de grabado FIG Bilbao celebra sus 15 años hasta el domingo",
+  "resumen": "La feria de grabado y obra en papel FIG Bilbao celebra su 15ª edición hasta el domingo en el Euskalduna, ofreciendo talleres, conferencias y la posibilidad de adquirir obra.",
+  "en": {
+   "titulo": "FIG Bilbao print and paper art fair celebrates its 15th anniversary until Sunday",
+   "resumen": "The FIG Bilbao print and paper art fair celebrates its 15th edition until Sunday at the Euskalduna, offering workshops, conferences, and the opportunity to purchase art."
+  },
+  "inicio": "2026-11-27",
+  "fin": "2026-11-30",
+  "hora": null,
+  "lugar": "Euskalduna",
+  "municipio": "Bilbao",
+  "provincia": "Vizcaya",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "5358f467e3": {
+  "url": "https://www.diariovasco.com/culturas/musica/lengua-afilada-vuelve-desatarse-rolling-stones-editan-20261127144541-nt.html",
+  "fuente": "El Diario Vasco (Culturas)",
+  "src": "prensa-diariovasco-culturas",
+  "publicado": "2026-11-27",
+  "es_plan": false
+ },
+ "9cbb344431": {
+  "url": "https://www.diariovasco.com/culturas/musica/peiremans-fechas-iniciar-gira-20261127174340-nt.html",
+  "fuente": "El Diario Vasco (Culturas)",
+  "src": "prensa-diariovasco-culturas",
+  "publicado": "2026-11-27",
+  "es_plan": true,
+  "titulo": "Peiremans+ calienta con tres fechas antes de su gira de diciembre",
+  "resumen": "El grupo Peiremans+ actuará este viernes en Elgeta, el sábado en Tolosa y el domingo en Gernika, como preparación para su gira de diciembre.",
+  "en": {
+   "titulo": "Peiremans+ warms up with three dates before their December tour",
+   "resumen": "The group Peiremans+ will perform this Friday in Elgeta, Saturday in Tolosa, and Sunday in Gernika, as a warm-up for their December tour."
+  },
+  "inicio": "2026-11-27",
+  "fin": "2026-11-30",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": "Gipuzkoa",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "44d5cadf18": {
+  "url": "https://www.diariovasco.com/culturas/kandido-uranga-maspalomas-exito-fama-teatro-san-sebastian-donostia-20261127183323-nt.html",
+  "fuente": "El Diario Vasco (Culturas)",
+  "src": "prensa-diariovasco-culturas",
+  "publicado": "2026-11-27",
+  "es_plan": true,
+  "titulo": "Kandido Uranga protagoniza '7 urte' este sábado en Donostia",
+  "resumen": "Kandido Uranga encabeza la obra teatral '7 urte', un thriller coral dirigido por Agurtzane Intxaurraga, que se representará este sábado en el Antzoki Zaharra de Donostia.",
+  "en": {
+   "titulo": "Kandido Uranga stars in '7 urte' this Saturday in Donostia",
+   "resumen": "Kandido Uranga leads the theatrical play '7 urte', a choral thriller directed by Agurtzane Intxaurraga, which will be performed this Saturday at the Antzoki Zaharra in Donostia."
+  },
+  "inicio": "2026-11-29",
+  "fin": "2026-11-29",
+  "hora": null,
+  "lugar": "Antzoki Zaharra",
+  "municipio": "Donostia-San Sebastián",
+  "provincia": "Gipuzkoa",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "e352a76d2c": {
+  "url": "https://www.diariovasco.com/culturas/exposiciones-conciertos-convocatorias-agenda-completa-kutxa-fundazioa-20261123070000-nt.html",
+  "fuente": "El Diario Vasco (Culturas)",
+  "src": "prensa-diariovasco-culturas",
+  "publicado": "2026-11-27",
+  "es_plan": true,
+  "titulo": "Agenda Kutxa Fundazioa: exposiciones, conciertos y convocatorias en diciembre",
+  "resumen": "Kutxa Fundazioa presenta su agenda completa para diciembre de 2026, que incluye exposiciones, conciertos y diversas convocatorias culturales.",
+  "en": {
+   "titulo": "Kutxa Fundazioa Agenda: exhibitions, concerts, and calls for December",
+   "resumen": "Kutxa Fundazioa presents its complete agenda for December 2026, which includes exhibitions, concerts, and various cultural events."
+  },
+  "inicio": "2026-12-01",
+  "fin": "2026-12-31",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": "Gipuzkoa",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "musica",
+   "museos"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "7d6a9c201a": {
+  "url": "https://www.diariovasco.com/culturas/musica/radiante-estreno-audiovisual-janus-lester-20261126001631-nt.html",
+  "fuente": "El Diario Vasco (Culturas)",
+  "src": "prensa-diariovasco-culturas",
+  "publicado": "2026-11-27",
+  "es_plan": true,
+  "titulo": "Janus Lester presenta su disco 'Popera' en Donostia",
+  "resumen": "El autor navarro Janus Lester presenta su nuevo disco 'Popera' en una fiesta de estreno audiovisual que tiene lugar hoy en Donostia.",
+  "en": {
+   "titulo": "Janus Lester presents his album 'Popera' in Donostia",
+   "resumen": "Navarrese artist Janus Lester presents his new album 'Popera' at an audiovisual launch party taking place today in Donostia."
+  },
+  "inicio": "2026-11-27",
+  "fin": "2026-11-27",
+  "hora": null,
+  "lugar": null,
+  "municipio": "Donostia-San Sebastián",
+  "provincia": "Gipuzkoa",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "fcfc252eb6": {
+  "url": "https://www.lasprovincias.es/culturas/keanu-reeves-visita-ivam-mundial-motogp-20261127154908-nt.html",
+  "fuente": "Las Provincias (Culturas)",
+  "src": "prensa-lasprovincias-culturas",
+  "publicado": "2026-11-27",
+  "es_plan": false
+ },
+ "f6c37a01ca": {
+  "url": "https://www.lasprovincias.es/culturas/cine/pelicula-valenciana-violinista-carrera-oscar-20261127093720-nt.html",
+  "fuente": "Las Provincias (Culturas)",
+  "src": "prensa-lasprovincias-culturas",
+  "publicado": "2026-11-27",
+  "es_plan": false
+ },
+ "07b216d18d": {
+  "url": "https://www.lasprovincias.es/culturas/musica/carolina-revoluciona-roig-arena-20261127002942-nt.html",
+  "fuente": "Las Provincias (Culturas)",
+  "src": "prensa-lasprovincias-culturas",
+  "publicado": "2026-11-27",
+  "es_plan": false
+ },
+ "6a3c5a56c8": {
+  "url": "https://www.lasprovincias.es/culturas/tv/frenetico-thriller-david-fincher-michael-douglas-penn-20261126012324-nt.html",
+  "fuente": "Las Provincias (Culturas)",
+  "src": "prensa-lasprovincias-culturas",
+  "publicado": "2026-11-27",
+  "es_plan": true,
+  "titulo": "8 películas para ver hoy viernes en televisión",
+  "resumen": "Se presenta una selección de 8 películas de diversos géneros para ver hoy viernes en televisión, incluyendo un 'thriller' de David Fincher.",
+  "en": {
+   "titulo": "8 movies to watch on television this Friday",
+   "resumen": "A selection of 8 movies from various genres to watch on television this Friday is presented, including a thriller by David Fincher."
+  },
+  "inicio": "2026-11-27",
+  "fin": "2026-11-27",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "pantalla",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
  }
 }
