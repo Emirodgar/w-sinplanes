@@ -178,6 +178,21 @@
   ],
   "a_cubierto": true
  },
+ "2747263574": {
+  "id": "bacc90b8da",
+  "es": {
+   "titulo": "Coro Sawabona",
+   "resumen": "El Coro Sawabona promueve la difusión de la música coral africana desde 2008. Bajo la dirección de Niurka López, ofrecen un repertorio que combina ritmos africanos con otros géneros."
+  },
+  "en": {
+   "titulo": "Sawabona Choir",
+   "resumen": "The Sawabona Choir has promoted African choral music since 2008. Under the direction of Niurka López, they offer a repertoire combining African rhythms with other genres."
+  },
+  "temas": [
+   "musica"
+  ],
+  "a_cubierto": true
+ },
  "3198269857": {
   "id": "3a05ff2f45",
   "es": {
@@ -58088,6 +58103,1575 @@
   },
   "temas": [
    "libros",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "95e51ccc37": {
+  "id": "06913498b3",
+  "es": {
+   "titulo": "El Pozo Mágico: Aventura Navideña para Niños",
+   "resumen": "Sumérgete en la magia de la Navidad con 'El Pozo Mágico', una aventura interactiva en el Palacio de los Reyes Magos. Descubre secretos, resuelve enigmas y vive una experiencia fantástica. Ideal para toda la familia."
+  },
+  "en": {
+   "titulo": "The Magic Well: Christmas Adventure for Kids",
+   "resumen": "Immerse yourself in the magic of Christmas with 'The Magic Well', an interactive adventure in the Three Kings' Palace. Discover secrets, solve riddles, and experience a fantastic journey. Ideal for the whole family."
+  },
+  "temas": [
+   "ninos",
+   "cultura",
+   "fiestas"
+  ],
+  "a_cubierto": true
+ },
+ "c0f7fe4c8d": {
+  "id": "93c59d11f6",
+  "es": {
+   "titulo": "Agrupación Coral de Coslada: Música y Convivencia",
+   "resumen": "Disfruta de la Agrupación Coral de Coslada, un referente cultural que une generaciones a través del canto. Su repertorio abarca desde música clásica hasta góspel y zarzuela."
+  },
+  "en": {
+   "titulo": "Coslada Choir: Music and Community",
+   "resumen": "Enjoy the Coslada Choir, a cultural benchmark uniting generations through song. Their repertoire ranges from classical music to gospel and zarzuela."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "e553889dbb": {
+  "id": "9a85cc0ead",
+  "es": {
+   "titulo": "Alice in Wonder: Fantasía Teatral Interactiva",
+   "resumen": "Sumérgete en un mundo de fantasía con 'Alice in Wonder'. Los personajes de Alicia en el País de las Maravillas cobran vida a través de la actuación, la música y la interacción con el público."
+  },
+  "en": {
+   "titulo": "Alice in Wonder: Interactive Fantasy Theatre",
+   "resumen": "Immerse yourself in a world of fantasy with 'Alice in Wonder'. The characters from Alice in Wonderland come to life through performance, music, and audience interaction."
+  },
+  "temas": [
+   "cultura",
+   "ninos"
+  ],
+  "a_cubierto": true
+ },
+ "97713f15ea": {
+  "id": "89d11ce15a",
+  "es": {
+   "titulo": "Alvorada: Teatro de Máscaras sin Palabras",
+   "resumen": "Descubre 'Alvorada', una conmovedora obra de teatro de máscaras portuguesa que narra la historia de una vida compartida a través de la música popular y la expresividad de las máscaras."
+  },
+  "en": {
+   "titulo": "Alvorada: Wordless Mask Theatre",
+   "resumen": "Discover 'Alvorada', a moving Portuguese mask theatre piece that tells the story of a shared life through popular music and expressive masks."
+  },
+  "temas": [
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "2a57e6c731": {
+  "id": "648e16b17e",
+  "es": {
+   "titulo": "Archivos que queman y claman: Memoria y Duelo Migrante",
+   "resumen": "Explora 'Archivos que queman y claman', un proyecto que reflexiona sobre cómo se registran, recuerdan y acompañan las muertes y desapariciones en contextos de frontera, conectando documentos con saberes migrantes sobre el duelo."
+  },
+  "en": {
+   "titulo": "Burning and Crying Archives: Migrant Memory and Grief",
+   "resumen": "Explore 'Burning and Crying Archives', a project reflecting on how deaths and disappearances in border contexts are recorded, remembered, and accompanied, connecting documents with migrant knowledge about grief."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "8c43956e27": {
+  "id": "c3cd9b051c",
+  "es": {
+   "titulo": "Audición Navideña de Alumnos de Aymée Guerrero",
+   "resumen": "Disfruta de un concierto de villancicos tradicionales y modernos interpretados por los alumnos de la profesora Aymée Guerrero Fernández, con voz, piano y cuerdas."
+  },
+  "en": {
+   "titulo": "Christmas Audition by Aymée Guerrero's Students",
+   "resumen": "Enjoy a concert of traditional and modern Christmas carols performed by the students of Professor Aymée Guerrero Fernández, featuring voice, piano, and strings."
+  },
+  "temas": [
+   "musica",
+   "ninos",
+   "fiestas"
+  ],
+  "a_cubierto": true
+ },
+ "5740e1d9a8": {
+  "id": "52ce911f62",
+  "es": {
+   "titulo": "Belén Ganador del XVIII Certamen Escolar de Villa de Vallecas",
+   "resumen": "Visita el belén ganador del XVIII Certamen Escolar de Belenes del Distrito de Villa de Vallecas. Una muestra del talento y la creatividad de los más jóvenes."
+  },
+  "en": {
+   "titulo": "Winning Nativity Scene from Villa de Vallecas School Contest",
+   "resumen": "Visit the winning nativity scene from the 18th School Nativity Scene Contest of the Villa de Vallecas District. A showcase of the youngest talents and creativity."
+  },
+  "temas": [
+   "ninos",
+   "cultura",
+   "fiestas"
+  ],
+  "a_cubierto": true
+ },
+ "f84befb882": {
+  "id": "5bb68fd607",
+  "es": {
+   "titulo": "Belén Monumental Siciliano y otros belenes italianos",
+   "resumen": "Maravíllate con el Belén Monumental Siciliano y otros belenes italianos de la colección Basanta-Martín. Una exposición de figuras realistas y detalladas que celebran la tradición belenista."
+  },
+  "en": {
+   "titulo": "Monumental Sicilian Nativity Scene and other Italian Nativity Scenes",
+   "resumen": "Marvel at the Monumental Sicilian Nativity Scene and other Italian nativity scenes from the Basanta-Martín collection. An exhibition of realistic and detailed figures celebrating the nativity tradition."
+  },
+  "temas": [
+   "cultura",
+   "fiestas"
+  ],
+  "a_cubierto": true
+ },
+ "ed1b667db7": {
+  "id": "2f731402f4",
+  "es": {
+   "titulo": "Belén Popular Tradicional con la Coral de Arganzuela",
+   "resumen": "Descubre el Belén Popular Tradicional, una exposición de escenas costumbristas inspiradas en la tradición belenista. La inauguración contará con la actuación de la Coral de Arganzuela."
+  },
+  "en": {
+   "titulo": "Traditional Popular Nativity Scene with Arganzuela Choir",
+   "resumen": "Discover the Traditional Popular Nativity Scene, an exhibition of traditional scenes inspired by nativity customs. The inauguration will feature a performance by the Arganzuela Choir."
+  },
+  "temas": [
+   "cultura",
+   "fiestas",
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "75fe8dadaf": {
+  "id": "2d7488aed2",
+  "es": {
+   "titulo": "Belenes Internacionales y Belén Popular en el Museo de San Isidro",
+   "resumen": "Explora belenes internacionales y un belén popular en el Museo de San Isidro. Una oportunidad para conocer diversas tradiciones y estilos de arte belenista."
+  },
+  "en": {
+   "titulo": "International Nativity Scenes and Popular Nativity Scene at the Museum of San Isidro",
+   "resumen": "Explore international nativity scenes and a popular nativity scene at the Museum of San Isidro. An opportunity to discover diverse traditions and styles of nativity art."
+  },
+  "temas": [
+   "cultura",
+   "fiestas"
+  ],
+  "a_cubierto": true
+ },
+ "169435cd70": {
+  "id": "bb55f424c7",
+  "es": {
+   "titulo": "Bodas de Sangre: Tragedia Lorquiana",
+   "resumen": "Experimenta 'Bodas de Sangre', una intensa adaptación teatral de la obra de Federico García Lorca. La obra explora el deseo, los rencores familiares y el conflicto entre pasión y deber."
+  },
+  "en": {
+   "titulo": "Blood Wedding: Lorca's Tragedy",
+   "resumen": "Experience 'Blood Wedding', an intense theatrical adaptation of Federico García Lorca's work. The play explores desire, family feuds, and the conflict between passion and duty."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "347b663a2a": {
+  "id": "c7f442d7f5",
+  "es": {
+   "titulo": "Buen día, dije: Comedia sobre la Pareja",
+   "resumen": "'Buen día, dije' es una comedia absurda que retrata la rutina y la incomunicación en la convivencia de pareja. Con diálogos ingeniosos, explora los límites del lenguaje y los sentimientos."
+  },
+  "en": {
+   "titulo": "Good Morning, I Said: Comedy About Couples",
+   "resumen": "'Good Morning, I Said' is an absurd comedy portraying the routine and lack of communication in a couple's life together. With witty dialogues, it explores the limits of language and feelings."
+  },
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": true
+ },
+ "d5900873f9": {
+  "id": "ea96a1e13c",
+  "es": {
+   "titulo": "Cádiz viva la Pepa: Zarzuela Histórica",
+   "resumen": "Viaja al Cádiz de 1812 con la zarzuela 'Cádiz, viva la Pepa'. Disfruta de música y tradición con números populares como el 'Tango de la Negra' y la 'Marcha de Cádiz'."
+  },
+  "en": {
+   "titulo": "Cádiz viva la Pepa: Historical Zarzuela",
+   "resumen": "Travel to 1812 Cádiz with the zarzuela 'Cádiz, viva la Pepa'. Enjoy music and tradition with popular numbers like the 'Tango de la Negra' and the 'Marcha de Cádiz'."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "e320c58922": {
+  "id": "03007a3e8c",
+  "es": {
+   "titulo": "Canta Navidad 2026: Concierto Coral",
+   "resumen": "La Escuela Coral de Madrid presenta 'Canta Navidad 2026', un concierto de villancicos con voz y piano. Entrada gratuita hasta completar aforo."
+  },
+  "en": {
+   "titulo": "Canta Navidad 2026: Choral Concert",
+   "resumen": "The Madrid Coral School presents 'Canta Navidad 2026', a Christmas carol concert featuring voice and piano. Free entry subject to availability."
+  },
+  "temas": [
+   "musica",
+   "fiestas"
+  ],
+  "a_cubierto": true
+ },
+ "4af298032b": {
+  "id": "786926dfee",
+  "es": {
+   "titulo": "Canta Navidad 2026: Rock Out Choir y Barbershop Quartet",
+   "resumen": "Disfruta de 'Canta Navidad 2026' con el Rock Out Choir y el Investigators Barbershop Quartet. Versiones de rock, bandas sonoras y armonías a capella en un ambiente festivo."
+  },
+  "en": {
+   "titulo": "Canta Navidad 2026: Rock Out Choir and Barbershop Quartet",
+   "resumen": "Enjoy 'Canta Navidad 2026' with the Rock Out Choir and the Investigators Barbershop Quartet. Featuring rock covers, soundtracks, and a cappella harmonies in a festive atmosphere."
+  },
+  "temas": [
+   "musica",
+   "fiestas"
+  ],
+  "a_cubierto": true
+ },
+ "27f6949a1a": {
+  "id": "4a769ee994",
+  "es": {
+   "titulo": "Catarina, la cabra cantarina: Teatro de Títeres",
+   "resumen": "'Catarina, la cabra cantarina' es un teatro de títeres que aborda el Trastorno del Espectro Autista para público familiar. Una aventura sobre la amistad y la superación."
+  },
+  "en": {
+   "titulo": "Catarina, the Singing Goat: Puppet Theatre",
+   "resumen": "'Catarina, the Singing Goat' is a puppet show addressing Autism Spectrum Disorder for family audiences. An adventure about friendship and overcoming challenges."
+  },
+  "temas": [
+   "ninos",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "a037d928b8": {
+  "id": "abc7a799db",
+  "es": {
+   "titulo": "Centenario del Buque Escuela 'Juan Sebastián de Elcano'",
+   "resumen": "Conferencia sobre el centenario del Buque Escuela 'Juan Sebastián de Elcano'. Descubre su historia, anécdotas y sus primeras singladuras, incluyendo su vuelta al mundo."
+  },
+  "en": {
+   "titulo": "Centenary of the Training Ship 'Juan Sebastián de Elcano'",
+   "resumen": "Lecture on the centenary of the Training Ship 'Juan Sebastián de Elcano'. Discover its history, anecdotes, and early voyages, including its circumnavigation."
+  },
+  "temas": [
+   "cultura",
+   "agua"
+  ],
+  "a_cubierto": true
+ },
+ "fb169a7da2": {
+  "id": "cdb50b19fd",
+  "es": {
+   "titulo": "Taller de Centro de Mesa Navideño",
+   "resumen": "Crea tu propio centro de mesa navideño en este taller gratuito. Aprende a decorar tu hogar para las fiestas con un toque personal y festivo."
+  },
+  "en": {
+   "titulo": "Christmas Centerpiece Workshop",
+   "resumen": "Create your own Christmas centerpiece in this free workshop. Learn to decorate your home for the holidays with a personal and festive touch."
+  },
+  "temas": [
+   "ninos",
+   "fiestas",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "7a7c294955": {
+  "id": "ecf73b8eb7",
+  "es": {
+   "titulo": "Certamen de Tarjetas Navideñas Escolares en Arganzuela",
+   "resumen": "Admira las creaciones de los alumnos de primaria en el certamen de tarjetas navideñas de Arganzuela. Una muestra de la imaginación y el espíritu festivo de los más pequeños."
+  },
+  "en": {
+   "titulo": "School Christmas Card Contest in Arganzuela",
+   "resumen": "Admire the creations of primary school students in Arganzuela's Christmas card contest. A display of the youngest ones' imagination and festive spirit."
+  },
+  "temas": [
+   "ninos",
+   "cultura",
+   "fiestas"
+  ],
+  "a_cubierto": true
+ },
+ "d1d09bcc9b": {
+  "id": "7c08ce0866",
+  "es": {
+   "titulo": "La Ciencia de la Navidad: Charla Divulgativa",
+   "resumen": "Descubre la ciencia detrás de la Navidad en esta charla ilustrada. Explora el solsticio de invierno, calendarios y tradiciones ancestrales con experimentos y participación del público."
+  },
+  "en": {
+   "titulo": "The Science of Christmas: Educational Talk",
+   "resumen": "Discover the science behind Christmas in this illustrated talk. Explore the winter solstice, calendars, and ancient traditions with experiments and audience participation."
+  },
+  "temas": [
+   "cultura",
+   "fiestas",
+   "actividades"
+  ],
+  "a_cubierto": true
+ },
+ "fb8bcb9abe": {
+  "id": "e271fa9ad7",
+  "es": {
+   "titulo": "Ciclo de Cine: Bailar la muerte",
+   "resumen": "El ciclo 'Encuentros con el Cine Español' presenta 'Bailar la muerte', un viaje cinematográfico sobre el flamenco y la frontera que dividió España. Con presencia del director."
+  },
+  "en": {
+   "titulo": "Film Cycle: Dancing Death",
+   "resumen": "The 'Encounters with Spanish Cinema' cycle presents 'Dancing Death', a cinematic journey about flamenco and the border that divided Spain. With the director present."
+  },
+  "temas": [
+   "cultura",
+   "musica",
+   "pantalla"
+  ],
+  "a_cubierto": true
+ },
+ "e685458a62": {
+  "id": "36d929f645",
+  "es": {
+   "titulo": "Ciclo de Cine: Las delicias del jardín",
+   "resumen": "Dentro del ciclo 'Encuentros con el Cine Español', se proyecta 'Las delicias del jardín'. La historia de un pintor al borde de la ruina que se muda a un garaje compartido."
+  },
+  "en": {
+   "titulo": "Film Cycle: The Delights of the Garden",
+   "resumen": "As part of the 'Encounters with Spanish Cinema' cycle, 'The Delights of the Garden' is screened. The story of a painter on the brink of ruin who moves into a shared garage."
+  },
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": true
+ },
+ "e6eaaed67e": {
+  "id": "e78dfd50df",
+  "es": {
+   "titulo": "Ciclo Homenaje a Tim Burton: Pesadilla antes de Navidad y más",
+   "resumen": "El Centro Cultural Eduardo Úrculo dedica los sábados a Tim Burton. Disfruta de 'Pesadilla antes de Navidad', 'Charlie y la fábrica de chocolate' y más películas del director."
+  },
+  "en": {
+   "titulo": "Tribute to Tim Burton Cycle: The Nightmare Before Christmas and more",
+   "resumen": "The Eduardo Úrculo Cultural Center dedicates Saturdays to Tim Burton. Enjoy 'The Nightmare Before Christmas', 'Charlie and the Chocolate Factory', and more films by the director."
+  },
+  "temas": [
+   "ninos",
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": true
+ },
+ "cfb314acbe": {
+  "id": "887f1d540b",
+  "es": {
+   "titulo": "Cine Infantil: Iron Boy",
+   "resumen": "Sesión de cine infantil con la película 'Iron Boy'. Presentada y moderada por expertos en cine. Recomendada para mayores de 7 años."
+  },
+  "en": {
+   "titulo": "Children's Film: Iron Boy",
+   "resumen": "Children's film screening of 'Iron Boy'. Presented and moderated by film experts. Recommended for ages 7 and up."
+  },
+  "temas": [
+   "ninos",
+   "pantalla"
+  ],
+  "a_cubierto": true
+ },
+ "efe592e812": {
+  "id": "8da8ee5225",
+  "es": {
+   "titulo": "Cinefórum: El amigo silencioso",
+   "resumen": "Participa en el cinefórum de 'El amigo silencioso', un drama de autor que explora la conexión con la naturaleza a través de tres historias separadas por el tiempo. Presentado por Jara Yáñez."
+  },
+  "en": {
+   "titulo": "Cineforum: Silent Friend",
+   "resumen": "Join the cineforum for 'Silent Friend', an auteur drama exploring connection with nature through three stories separated by time. Presented by Jara Yáñez."
+  },
+  "temas": [
+   "cultura",
+   "naturaleza",
+   "pantalla"
+  ],
+  "a_cubierto": true
+ },
+ "3a9519ffae": {
+  "id": "51ab17177c",
+  "es": {
+   "titulo": "Circo Price en Navidad",
+   "resumen": "El Teatro Circo Price presenta su espectáculo navideño. Disfruta de la magia del circo en estas fechas tan especiales."
+  },
+  "en": {
+   "titulo": "Price Circus at Christmas",
+   "resumen": "The Price Circus Theatre presents its Christmas show. Enjoy the magic of the circus during these special holidays."
+  },
+  "temas": [
+   "cultura",
+   "navidad",
+   "fiestas"
+  ],
+  "a_cubierto": null
+ },
+ "88b3b7e72f": {
+  "id": "19231825a7",
+  "es": {
+   "titulo": "Cine de Navidad en el Centro Cultural Espronceda",
+   "resumen": "Ciclo de cine clásico navideño con coloquios. Se proyectarán películas como 'Mamá a la fuerza' y cortometrajes de O. Henry."
+  },
+  "en": {
+   "titulo": "Christmas Cinema at Espronceda Cultural Center",
+   "resumen": "A cycle of classic Christmas films with discussions. Movies like 'Mamá a la fuerza' and O. Henry shorts will be screened."
+  },
+  "temas": [
+   "cultura",
+   "pantalla",
+   "navidad"
+  ],
+  "a_cubierto": true
+ },
+ "01ca52211e": {
+  "id": "d9a6bd0ad0",
+  "es": {
+   "titulo": "Coloquio: Arquitectura en la España del siglo XXI",
+   "resumen": "La Fundación Ramón Areces organiza un coloquio sobre la arquitectura contemporánea en España, con la participación de reconocidas arquitectas."
+  },
+  "en": {
+   "titulo": "Talk: Architecture in 21st Century Spain",
+   "resumen": "The Ramón Areces Foundation is hosting a talk on contemporary architecture in Spain, featuring renowned architects."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "18a1c12dd5": {
+  "id": "96f13c0f8d",
+  "es": {
+   "titulo": "Comedia para adultos: Síndrome Navideño",
+   "resumen": "Una comedia para público adulto (+16) que aborda con humor los pequeños rituales y las peculiaridades de la Navidad."
+  },
+  "en": {
+   "titulo": "Comedy for Adults: Christmas Syndrome",
+   "resumen": "A comedy for adult audiences (+16) that humorously addresses the small rituals and peculiarities of Christmas."
+  },
+  "temas": [
+   "cultura",
+   "fiestas",
+   "navidad"
+  ],
+  "a_cubierto": true
+ },
+ "0a8f63440b": {
+  "id": "0e7271f051",
+  "es": {
+   "titulo": "Concierto Coral Polifónica La Montaña",
+   "resumen": "Disfruta de un concierto a cargo de la Coral Polifónica La Montaña en el Centro Cultural el Torito."
+  },
+  "en": {
+   "titulo": "La Montaña Polyphonic Choir Concert",
+   "resumen": "Enjoy a concert by the La Montaña Polyphonic Choir at the El Torito Cultural Center."
+  },
+  "temas": [
+   "musica",
+   "navidad"
+  ],
+  "a_cubierto": true
+ },
+ "b7fd6321de": {
+  "id": "03cf36531a",
+  "es": {
+   "titulo": "Concierto Coral Polifónica Sagrada Familia",
+   "resumen": "La Coral Polifónica Sagrada Familia ofrece un concierto en el Centro de Día Municipal 'Moratalaz'."
+  },
+  "en": {
+   "titulo": "Sagrada Familia Polyphonic Choir Concert",
+   "resumen": "The Sagrada Familia Polyphonic Choir performs a concert at the 'Moratalaz' Municipal Day Center."
+  },
+  "temas": [
+   "musica",
+   "navidad"
+  ],
+  "a_cubierto": true
+ },
+ "9fc02cbb5e": {
+  "id": "6efb7d507b",
+  "es": {
+   "titulo": "Concierto coral: Al son de la Navidad",
+   "resumen": "El Coro Rociero de Madrid presenta un recorrido por la música navideña andaluza, desde Córdoba hasta Huelva."
+  },
+  "en": {
+   "titulo": "Choral Concert: To the Sound of Christmas",
+   "resumen": "The Rociero Choir of Madrid presents a journey through Andalusian Christmas music, from Cordoba to Huelva."
+  },
+  "temas": [
+   "musica",
+   "navidad",
+   "fiestas"
+  ],
+  "a_cubierto": true
+ },
+ "960a261cc0": {
+  "id": "a0b415a8f2",
+  "es": {
+   "titulo": "Concierto de música de clásicos del cine de animación, balcánica y española",
+   "resumen": "La Banda de la Policía Municipal de Madrid interpreta un repertorio variado que incluye música de cine de animación, balcánica y española."
+  },
+  "en": {
+   "titulo": "Concert of Classics from Animated, Balkan, and Spanish Cinema",
+   "resumen": "The Madrid Municipal Police Band performs a varied repertoire including music from animated, Balkan, and Spanish cinema."
+  },
+  "temas": [
+   "musica",
+   "pantalla"
+  ],
+  "a_cubierto": true
+ },
+ "dee45f5a2d": {
+  "id": "91d9405f43",
+  "es": {
+   "titulo": "Concierto de Navidad de la Escuela Municipal de Madrid",
+   "resumen": "Las orquestas de la Escuela Municipal de Madrid ofrecen un concierto navideño bajo la dirección de Blanca Castillo Sanz."
+  },
+  "en": {
+   "titulo": "Christmas Concert by Madrid Municipal School",
+   "resumen": "The orchestras from the Madrid Municipal School present a Christmas concert conducted by Blanca Castillo Sanz."
+  },
+  "temas": [
+   "musica",
+   "navidad"
+  ],
+  "a_cubierto": true
+ },
+ "9e29bd58f0": {
+  "id": "c6ea7a5fc9",
+  "es": {
+   "titulo": "Concierto de Navidad de violín y flauta",
+   "resumen": "Alejandra ofrece un concierto de Navidad de violín y flauta en colaboración con la Fundación Musicarte."
+  },
+  "en": {
+   "titulo": "Christmas Violin and Flute Concert",
+   "resumen": "Alejandra presents a Christmas violin and flute concert in collaboration with the Musicarte Foundation."
+  },
+  "temas": [
+   "musica",
+   "navidad"
+  ],
+  "a_cubierto": true
+ },
+ "b4136d38ee": {
+  "id": "a44f585423",
+  "es": {
+   "titulo": "Concierto de Navidad en la parroquia Nuestra Señora Santísimo Sacramento",
+   "resumen": "Asiste a un concierto especial de Navidad en la parroquia Nuestra Señora Santísimo Sacramento."
+  },
+  "en": {
+   "titulo": "Christmas Concert at Our Lady of the Blessed Sacrament Parish",
+   "resumen": "Attend a special Christmas concert at the Our Lady of the Blessed Sacrament Parish."
+  },
+  "temas": [
+   "musica",
+   "navidad"
+  ],
+  "a_cubierto": true
+ },
+ "86772f62f1": {
+  "id": "e2e418bc4f",
+  "es": {
+   "titulo": "Concierto de Navidad: Valses, polcas y villancicos",
+   "resumen": "El Grupo Adagio interpreta valses, polcas y villancicos en el Centro Sociocultural Alfonso XII."
+  },
+  "en": {
+   "titulo": "Christmas Concert: Waltzes, Polkas, and Carols",
+   "resumen": "The Adagio Group performs waltzes, polkas, and carols at the Alfonso XII Sociocultural Center."
+  },
+  "temas": [
+   "musica",
+   "navidad"
+  ],
+  "a_cubierto": true
+ },
+ "792a23fe53": {
+  "id": "f538a2f70d",
+  "es": {
+   "titulo": "Concierto de pasodobles y danzas",
+   "resumen": "La Banda de la Policía Municipal de Madrid ofrece un concierto de pasodobles y danzas en el Centro Cultural Alfredo Kraus."
+  },
+  "en": {
+   "titulo": "Concert of Pasodobles and Dances",
+   "resumen": "The Madrid Municipal Police Band presents a concert of pasodobles and dances at the Alfredo Kraus Cultural Center."
+  },
+  "temas": [
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "62bcfd271f": {
+  "id": "7f715cfb00",
+  "es": {
+   "titulo": "Concierto de piano: Homenaje a Beethoven y Schumann",
+   "resumen": "Un recital de piano con obras de Beethoven y Schumann, incluyendo piezas tempranas del compositor alemán."
+  },
+  "en": {
+   "titulo": "Piano Concert: Homage to Beethoven and Schumann",
+   "resumen": "A piano recital featuring works by Beethoven and Schumann, including early pieces by the German composer."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "922418ff23": {
+  "id": "54a9e4ddc9",
+  "es": {
+   "titulo": "Concierto de villancicos tradicionales navideños",
+   "resumen": "Disfruta en familia de un concierto de villancicos tradicionales que recupera melodías populares para celebrar la Navidad."
+  },
+  "en": {
+   "titulo": "Concert of Traditional Christmas Carols",
+   "resumen": "Enjoy a family concert of traditional carols that revives popular melodies to celebrate Christmas."
+  },
+  "temas": [
+   "musica",
+   "navidad",
+   "ninos"
+  ],
+  "a_cubierto": true
+ },
+ "0556f7370f": {
+  "id": "915031b216",
+  "es": {
+   "titulo": "Concierto especial de Navidad con la Orquesta Euroamericana",
+   "resumen": "La Orquesta Sinfónica Euroamericana y la soprano Cristina Cruz ofrecen un concierto que abarca desde música barroca hasta villancicos."
+  },
+  "en": {
+   "titulo": "Special Christmas Concert with the Euroamerican Orchestra",
+   "resumen": "The Euroamerican Symphony Orchestra and soprano Cristina Cruz present a concert ranging from baroque music to carols."
+  },
+  "temas": [
+   "musica",
+   "navidad"
+  ],
+  "a_cubierto": true
+ },
+ "739ab5a11e": {
+  "id": "66ad6ca938",
+  "es": {
+   "titulo": "Concierto folk: Tridanzas",
+   "resumen": "La Asociación Folque te lleva en un viaje por los ritmos tradicionales europeos, con música y baile de Polonia a España."
+  },
+  "en": {
+   "titulo": "Folk Concert: Tridanzas",
+   "resumen": "The Folque Association takes you on a journey through traditional European rhythms, with music and dance from Poland to Spain."
+  },
+  "temas": [
+   "musica",
+   "cultura",
+   "fiestas"
+  ],
+  "a_cubierto": true
+ },
+ "011a984f06": {
+  "id": "7d31b2ff43",
+  "es": {
+   "titulo": "Concierto góspel de Navidad",
+   "resumen": "El Coro Góspel de la UCM celebra la Navidad con un concierto que fusiona espiritualidad y música moderna, lleno de ritmo y energía."
+  },
+  "en": {
+   "titulo": "Christmas Gospel Concert",
+   "resumen": "The Complutense University of Madrid Gospel Choir celebrates Christmas with a concert blending spirituality and modern music, full of rhythm and energy."
+  },
+  "temas": [
+   "musica",
+   "navidad"
+  ],
+  "a_cubierto": true
+ },
+ "76002e7932": {
+  "id": "59c6cf181a",
+  "es": {
+   "titulo": "Concierto familiar de flauta: Little Musical Steps",
+   "resumen": "Concierto familiar de flauta travesera con jóvenes músicos interpretando piezas clásicas y navideñas, con interacción del público."
+  },
+  "en": {
+   "titulo": "Family Flute Concert: Little Musical Steps",
+   "resumen": "A family concert featuring young transverse flute musicians playing classical and Christmas pieces, with audience interaction."
+  },
+  "temas": [
+   "musica",
+   "ninos",
+   "navidad"
+  ],
+  "a_cubierto": true
+ },
+ "a8698de44c": {
+  "id": "914d391c17",
+  "es": {
+   "titulo": "Concierto de María Parrado para dar la bienvenida a la Navidad",
+   "resumen": "María Parrado ofrecerá un concierto lleno de emoción tras el desfile inaugural, compartiendo sus éxitos y versiones navideñas."
+  },
+  "en": {
+   "titulo": "María Parrado Concert to Welcome Christmas",
+   "resumen": "María Parrado will give an emotional concert after the opening parade, sharing her hits and Christmas covers."
+  },
+  "temas": [
+   "musica",
+   "navidad",
+   "fiestas"
+  ],
+  "a_cubierto": true
+ },
+ "3e367d75f6": {
+  "id": "f531fe6052",
+  "es": {
+   "titulo": "Concierto 'Luces de víspera'",
+   "resumen": "Disfruta del concierto 'Luces de víspera' en la Biblioteca Pública Municipal Eugenio Trías, ubicada en la Casa de Fieras de El Retiro."
+  },
+  "en": {
+   "titulo": "Concert 'Vigil Lights'",
+   "resumen": "Enjoy the 'Vigil Lights' concert at the Eugenio Trías Municipal Public Library, located in the El Retiro Animal House."
+  },
+  "temas": [
+   "musica",
+   "navidad"
+  ],
+  "a_cubierto": true
+ },
+ "698c8ad29f": {
+  "id": "2c24ddf786",
+  "es": {
+   "titulo": "Concierto ¡Viva la Pepa! - Conmemoración Día de la Constitución",
+   "resumen": "Conmemoración del Día de la Constitución con el Trío Gavilán-Walter-Laguna interpretando piezas de la zarzuela 'Cádiz'."
+  },
+  "en": {
+   "titulo": "Concert 'Viva la Pepa!' - Constitution Day Commemoration",
+   "resumen": "Commemoration of Constitution Day with the Gavilán-Walter-Laguna Trio performing pieces from the zarzuela 'Cádiz'."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "f6c969f39a": {
+  "id": "257f2c9fb1",
+  "es": {
+   "titulo": "Concierto. Navidad castellana",
+   "resumen": "La Asociación Cultural Arrabel interpreta villancicos, romances y música tradicional castellana con instrumentos típicos."
+  },
+  "en": {
+   "titulo": "Concert. Castilian Christmas",
+   "resumen": "The Arrabel Cultural Association performs carols, romances, and traditional Castilian music using typical instruments."
+  },
+  "temas": [
+   "musica",
+   "navidad",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "5b01c4bdab": {
+  "id": "698ae71799",
+  "es": {
+   "titulo": "Concierto de villancicos y canciones navideñas",
+   "resumen": "Audición de alumnos de Aymée Guerrero Fernández con villancicos y canciones navideñas interpretadas con voz, piano y cuerdas."
+  },
+  "en": {
+   "titulo": "Concert of Carols and Christmas Songs",
+   "resumen": "A performance by students of Aymée Guerrero Fernández featuring carols and Christmas songs played with voice, piano, and strings."
+  },
+  "temas": [
+   "musica",
+   "navidad"
+  ],
+  "a_cubierto": true
+ },
+ "cd7b8496de": {
+  "id": "2ae5c84544",
+  "es": {
+   "titulo": "Concierto: Homenaje al Pop-Rock del 78",
+   "resumen": "Concierto en conmemoración del Día de la Constitución, con Hot Pocket Covers interpretando éxitos del pop-rock español de finales de los 70."
+  },
+  "en": {
+   "titulo": "Concert: Homage to Pop-Rock of '78",
+   "resumen": "A concert commemorating Constitution Day, with Hot Pocket Covers performing hits from Spanish pop-rock of the late 70s."
+  },
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "a597be79ac": {
+  "id": "39ac760b26",
+  "es": {
+   "titulo": "Concierto: Nuestra Navidad",
+   "resumen": "Disfruta de un concierto navideño a cargo de la Coral Polifónica La Montaña. Forma parte de la XXII temporada de música de Moratalaz y se celebra en el Centro Cultural el Torito."
+  },
+  "en": {
+   "titulo": "Concert: Nuestra Navidad",
+   "resumen": "Enjoy a Christmas concert by the Coral Polifónica La Montaña. It's part of the 22nd music season of Moratalaz and takes place at the Centro Cultural el Torito."
+  },
+  "temas": [
+   "musica",
+   "navidad"
+  ],
+  "a_cubierto": true
+ },
+ "e7244e93ba": {
+  "id": "ed3c0a2d65",
+  "es": {
+   "titulo": "Concierto: Rock OutChoir & Divertimento Vocal",
+   "resumen": "La Escuela Coral de Madrid presenta al Coro Divertimento Vocal, un coro mixto que explora músicas del mundo. Abierto a todos los públicos, su repertorio abarca diversos géneros y estilos, con especial énfasis en la música popular. Sus actuaciones son originales y cercanas."
+  },
+  "en": {
+   "titulo": "Concert: Rock OutChoir & Divertimento Vocal",
+   "resumen": "The Escuela Coral de Madrid presents the Coro Divertimento Vocal, a mixed choir exploring world music. Open to everyone, their repertoire covers various genres and styles, with a focus on popular music. Their performances are original and engaging."
+  },
+  "temas": [
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "80a3b98739": {
+  "id": "a5d038f839",
+  "es": {
+   "titulo": "Concierto: Siempre será Navidad",
+   "resumen": "Versos de Bolero, en formato trío, te lleva en un viaje por los villancicos más bellos del mundo. Disfruta de piezas tradicionales europeas y ritmos festivos de América en el Centro Sociocultural Alfonso XII."
+  },
+  "en": {
+   "titulo": "Concert: Siempre será Navidad",
+   "resumen": "Versos de Bolero, in a trio format, takes you on a journey through the most beautiful Christmas carols worldwide. Enjoy traditional European pieces and festive rhythms from America at the Centro Sociocultural Alfonso XII."
+  },
+  "temas": [
+   "musica",
+   "navidad"
+  ],
+  "a_cubierto": true
+ },
+ "aa8552e4c7": {
+  "id": "b44f2789ac",
+  "es": {
+   "titulo": "Concierto: Villancicos de España, Europa y América",
+   "resumen": "El Taller de Zarzuela de Madrid presenta una selección de villancicos clásicos de Europa, América y España. Un programa familiar y festivo con voces, piano, pandereta y castañuelas."
+  },
+  "en": {
+   "titulo": "Concert: Christmas Carols from Spain, Europe, and America",
+   "resumen": "The Taller de Zarzuela de Madrid presents a selection of classic Christmas carols from Europe, America, and Spain. A family-friendly and festive program with voices, piano, tambourine, and castanets."
+  },
+  "temas": [
+   "musica",
+   "navidad"
+  ],
+  "a_cubierto": true
+ },
+ "97f3f2088b": {
+  "id": "83add1c763",
+  "es": {
+   "titulo": "Concierto: 'La fiesta de la navidad. Rumbas y Villancicos'",
+   "resumen": "El Dúo San Nicasio (guitarras) celebra la Navidad con rumbas y villancicos. Disfruta de versiones de temas míticos y rumbas de siempre en el Centro Cultural La Vaguada."
+  },
+  "en": {
+   "titulo": "Concert: 'The Christmas Party. Rumbas and Carols'",
+   "resumen": "Dúo San Nicasio (guitars) celebrates Christmas with rumbas and carols. Enjoy versions of classic songs and traditional rumbas at the Centro Cultural La Vaguada."
+  },
+  "temas": [
+   "musica",
+   "navidad"
+  ],
+  "a_cubierto": true
+ },
+ "7d8a680a97": {
+  "id": "ea7f4c1d05",
+  "es": {
+   "titulo": "Concierto: 'Música de navidad de ayer y de hoy'",
+   "resumen": "El Ensemble de Madrid, dirigido por Ángel del Palacio, interpreta obras barrocas y clásicas junto a melodías y villancicos navideños. Una actuación de alta calidad interpretativa en el Centro Cultural La Vaguada."
+  },
+  "en": {
+   "titulo": "Concert: 'Christmas Music from Yesterday and Today'",
+   "resumen": "The Ensemble de Madrid, conducted by Ángel del Palacio, performs Baroque and classical works alongside Christmas melodies and carols. A high-quality performance at the Centro Cultural La Vaguada."
+  },
+  "temas": [
+   "musica",
+   "navidad"
+  ],
+  "a_cubierto": true
+ },
+ "46c18ebe5b": {
+  "id": "391c0241b7",
+  "es": {
+   "titulo": "Concierto: 'Tú Me Quieres Yo Te Adoro' (fin de gira 2026)",
+   "resumen": "Xerach, artista canaria, presenta su propuesta de pop queer nacional con un concierto físico y cercano que mezcla música y performance. Entrada libre hasta completar aforo en el Edificio Sociocultural Marta Escudero Díaz-Tejeiro."
+  },
+  "en": {
+   "titulo": "Concert: 'Tú Me Quieres Yo Te Adoro' (End of Tour 2026)",
+   "resumen": "Xerach, a Canary Islands artist, presents her national queer pop project with a physical and intimate concert blending music and performance. Free entry until capacity is reached at the Edificio Sociocultural Marta Escudero Díaz-Tejeiro."
+  },
+  "temas": [
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "9bdf16eed2": {
+  "id": "363a295a66",
+  "es": {
+   "titulo": "Conferencia con proyección: Nezabudka",
+   "resumen": "Dentro de las JORNADAS DE MONTAÑA ARGANZUELA, Pipi Cardell, alpinista pionera, comparte su trayectoria y la historia de su vía en el Nanga Parbat. Se celebra en el Auditorio Nuevas Dependencias del Centro Cultural Casa del Reloj."
+  },
+  "en": {
+   "titulo": "Conference with screening: Nezabudka",
+   "resumen": "As part of the ARGANZUELA MOUNTAIN DAYS, Pipi Cardell, a pioneering mountaineer, shares her career and the story of her route on Nanga Parbat. Held at the Auditorium Nuevas Dependencias of the Centro Cultural Casa del Reloj."
+  },
+  "temas": [
+   "naturaleza",
+   "deporte"
+  ],
+  "a_cubierto": true
+ },
+ "d2f7905d3e": {
+  "id": "aa9fa0b9e3",
+  "es": {
+   "titulo": "Ciclo 'El Madrid del Siglo de las Luces (Siglo XVIII)'",
+   "resumen": "Participa en conferencias y visitas guiadas sobre el Madrid del siglo XVIII. El jueves 3 hay una conferencia y el viernes 4 una visita guiada que recorre la Puerta de Toledo al Palacio de Villafranca."
+  },
+  "en": {
+   "titulo": "Cycle 'Madrid in the Age of Enlightenment (18th Century)'",
+   "resumen": "Attend conferences and guided tours about Madrid in the 18th century. On Thursday the 3rd, there's a conference, and on Friday the 4th, a guided tour from Puerta de Toledo to Palacio de Villafranca."
+  },
+  "temas": [
+   "cultura",
+   "rutas"
+  ],
+  "a_cubierto": true
+ },
+ "14804b2a8c": {
+  "id": "07feca533d",
+  "es": {
+   "titulo": "Conferencia: Fra Angélico: La Anunciación",
+   "resumen": "Dentro del ciclo 'Contemplando una obra de arte', la historiadora Eva Mera analiza 'La Anunciación' de Fra Angélico, una obra cumbre del siglo XV que fusiona el gótico y el Renacimiento. Se imparte en el Centro Sociocultural Rafael de León."
+  },
+  "en": {
+   "titulo": "Conference: Fra Angelico: The Annunciation",
+   "resumen": "As part of the 'Contemplating a Work of Art' cycle, historian Eva Mera analyzes Fra Angelico's 'The Annunciation,' a 15th-century masterpiece blending Gothic and Renaissance styles. Presented at the Centro Sociocultural Rafael de León."
+  },
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true
+ },
+ "de8bf4d6a4": {
+  "id": "dda3f6a109",
+  "es": {
+   "titulo": "Conferencia: La Navidad en el arte",
+   "resumen": "En el ciclo 'Más allá del cuadro', la historiadora Eva Puig explora cómo las imágenes de la Navidad que recordamos desde la infancia provienen en gran medida de la historia del arte. Se celebra en el Centro Sociocultural Valle Inclán."
+  },
+  "en": {
+   "titulo": "Conference: Christmas in Art",
+   "resumen": "In the 'Beyond the Canvas' cycle, historian Eva Puig explores how childhood memories of Christmas are largely shaped by art history. Takes place at the Centro Sociocultural Valle Inclán."
+  },
+  "temas": [
+   "cultura",
+   "navidad"
+  ],
+  "a_cubierto": true
+ },
+ "cf8d4fed6e": {
+  "id": "f0b9aad357",
+  "es": {
+   "titulo": "Conlon Nancarrow - Estudios para pianola",
+   "resumen": "El ciclo VANG presenta los 'Estudios para Pianola' de Conlon Nancarrow, interpretados en un Disklavier. Dominic Murcott, especialista en Nancarrow, guiará este recorrido por música que desafía la percepción del tiempo y el sonido."
+  },
+  "en": {
+   "titulo": "Conlon Nancarrow - Studies for Player Piano",
+   "resumen": "The VANG cycle presents Conlon Nancarrow's 'Studies for Player Piano,' performed on a Disklavier. Dominic Murcott, a Nancarrow specialist, will guide this exploration of music that challenges the perception of time and sound."
+  },
+  "temas": [
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "53d0bd249a": {
+  "id": "c08f683d0d",
+  "es": {
+   "titulo": "Espectáculo familiar: La magia de la Constitución",
+   "resumen": "Con motivo del Día de la Constitución, el Mago Alfonso V ofrece un espectáculo de magia participativa para niños a partir de 8 años. Los pequeños descubrirán sus derechos a través de trucos sorprendentes en el Centro Cultural Alfredo Kraus."
+  },
+  "en": {
+   "titulo": "Family Show: The Magic of the Constitution",
+   "resumen": "To commemorate Constitution Day, magician Alfonso V presents a participatory magic show for children aged 8 and up. Kids will discover their rights through surprising tricks at the Centro Cultural Alfredo Kraus."
+  },
+  "temas": [
+   "ninos",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "c64641468a": {
+  "id": "70dff35ebe",
+  "es": {
+   "titulo": "Monólogo de humor: Palabras+",
+   "resumen": "Andrés Madruga ofrece un monólogo de humor sobre palabras cotidianas, familia y el paso del tiempo, con un guiño a la Constitución. Una oportunidad para reírse de uno mismo en el Centro Sociocultural Alfonso XII."
+  },
+  "en": {
+   "titulo": "Comedy Monologue: Palabras+",
+   "resumen": "Andrés Madruga delivers a comedy monologue about everyday words, family, and aging, with a nod to the Constitution. An opportunity to laugh at oneself at the Centro Sociocultural Alfonso XII."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "6151b7b966": {
+  "id": "f05952d4d3",
+  "es": {
+   "titulo": "Coplas por Navidad",
+   "resumen": "María Gracia y Ana María Puente 'La Pelirroja' celebran la Navidad con un concierto de coplas. Disfruta de las canciones más entrañables del repertorio popular en el Centro Cultural Meseta de Orcasitas."
+  },
+  "en": {
+   "titulo": "Christmas Coplas",
+   "resumen": "María Gracia and Ana María Puente 'La Pelirroja' celebrate Christmas with a copla concert. Enjoy the most beloved songs from the popular repertoire at the Centro Cultural Meseta de Orcasitas."
+  },
+  "temas": [
+   "musica",
+   "navidad"
+  ],
+  "a_cubierto": true
+ },
+ "3920bcad86": {
+  "id": "a7b2c5a9dc",
+  "es": {
+   "titulo": "Coral Hora Ludens",
+   "resumen": "La Coral Hora Ludens, con más de 25 años de trayectoria, interpreta música coral y nos acerca al espíritu de la Navidad con sus voces. Disfruta de su actuación de 60 minutos en el Auditorio Carmen Laforet."
+  },
+  "en": {
+   "titulo": "Coral Hora Ludens",
+   "resumen": "Coral Hora Ludens, with over 25 years of experience, performs choral music and brings the spirit of Christmas closer through their voices. Enjoy their 60-minute performance at the Auditorio Carmen Laforet."
+  },
+  "temas": [
+   "musica",
+   "navidad"
+  ],
+  "a_cubierto": true
+ },
+ "ce394b043e": {
+  "id": "435a11ae4b",
+  "es": {
+   "titulo": "Coral Jacara",
+   "resumen": "La Coral Jácara, fundada en 2009, ofrece un repertorio variado que abarca desde el Renacimiento hasta temas actuales, incluyendo música clásica, sacra, zarzuela y popular. Dirigida por Joan Vida Romeu en el Centro Sociocultural Alberto Sánchez."
+  },
+  "en": {
+   "titulo": "Coral Jacara",
+   "resumen": "Coral Jacara, founded in 2009, presents a diverse repertoire ranging from the Renaissance to contemporary pieces, including classical, sacred, zarzuela, and popular music. Directed by Joan Vida Romeu at the Centro Sociocultural Alberto Sánchez."
+  },
+  "temas": [
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "5298122adb": {
+  "id": "97edc83bdd",
+  "es": {
+   "titulo": "Concierto de Navidad: Coral Polifónica Nuestra Señora de Fátima",
+   "resumen": "La Coral Polifónica Nuestra Señora de Fátima ofrece un concierto especial de Navidad en el Centro Sociocultural García Lorca."
+  },
+  "en": {
+   "titulo": "Christmas Concert: Coral Polifónica Nuestra Señora de Fátima",
+   "resumen": "The Coral Polifónica Nuestra Señora de Fátima presents a special Christmas concert at the Centro Sociocultural García Lorca."
+  },
+  "temas": [
+   "musica",
+   "navidad"
+  ],
+  "a_cubierto": true
+ },
+ "e0a712b439": {
+  "id": "99caa5ba35",
+  "es": {
+   "titulo": "Concierto: Luz de invierno: Música Antigua",
+   "resumen": "La Orquesta Margarita López, dirigida por Alba Clemente, presenta un concierto didáctico de música antigua. Descubre cantigas, danzas y obras de distintas épocas de forma amena y familiar en el Centro Cultural el Torito."
+  },
+  "en": {
+   "titulo": "Concert: Winter Light: Early Music",
+   "resumen": "The Orquesta Margarita López, conducted by Alba Clemente, presents an educational concert of early music. Discover cantigas, dances, and works from different eras in an engaging and family-friendly way at the Centro Cultural el Torito."
+  },
+  "temas": [
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "b6845a16ef": {
+  "id": "cfefce8421",
+  "es": {
+   "titulo": "Coro Ars Futura: X Festival de Góspel",
+   "resumen": "El Coro Ars Futura participa en el X Festival de Góspel con un recorrido musical que fusiona tradición y creación contemporánea. Disfruta de su propuesta vocal expresiva en la Nave de Terneras del Centro Cultural Casa del Reloj."
+  },
+  "en": {
+   "titulo": "Coro Ars Futura: 10th Gospel Festival",
+   "resumen": "Coro Ars Futura participates in the 10th Gospel Festival with a musical journey blending tradition and contemporary creation. Enjoy their expressive vocal performance at the Nave de Terneras of the Centro Cultural Casa del Reloj."
+  },
+  "temas": [
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "5b5fe2af2d": {
+  "id": "4874fb7e58",
+  "es": {
+   "titulo": "Concierto navideño: Coro Clave de sol",
+   "resumen": "El coro Clave de sol, formado por adultos mayores, presenta un programa navideño con villancicos tradicionales, populares y andaluces. Una actuación llena de alegría y emoción en la Parroquia San Pablo."
+  },
+  "en": {
+   "titulo": "Christmas Concert: Coro Clave de sol",
+   "resumen": "The Coro Clave de sol, composed of senior adults, presents a Christmas program featuring traditional, popular, and Andalusian carols. A performance full of joy and emotion at Parroquia San Pablo."
+  },
+  "temas": [
+   "musica",
+   "navidad"
+  ],
+  "a_cubierto": true
+ },
+ "0167d41065": {
+  "id": "bd99858bba",
+  "es": {
+   "titulo": "Coro de Actores: Villancicos del mundo",
+   "resumen": "El Coro de Actores fusiona música, interpretación y teatralidad para ofrecer espectáculos únicos. En Navidad, recorren el mundo a través de villancicos de distintas culturas, compartiendo alegría y paz."
+  },
+  "en": {
+   "titulo": "Coro de Actores: World Carols",
+   "resumen": "Coro de Actores blends music, acting, and theatricality to create unique shows. For Christmas, they journey around the world through carols from different cultures, sharing joy and peace."
+  },
+  "temas": [
+   "musica",
+   "navidad"
+  ],
+  "a_cubierto": true
+ },
+ "543423525e": {
+  "id": "cdcbcc00cd",
+  "es": {
+   "titulo": "Coro de Adultos y Combo de Música Moderna",
+   "resumen": "La Escuela Municipal de Música Almudena Cano presenta un concierto que une el repertorio coral con clásicos de la música moderna. Una celebración de la diversidad de estilos y el placer de la música en directo en el Centro Dotacional Integrado Arganzuela Ángel del Río."
+  },
+  "en": {
+   "titulo": "Adult Choir and Modern Music Combo",
+   "resumen": "The Almudena Cano Municipal Music School presents a concert merging choral repertoire with modern music classics. A celebration of diverse styles and the joy of live music at the Centro Dotacional Integrado Arganzuela Ángel del Río."
+  },
+  "temas": [
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "d7d62fc77f": {
+  "id": "0cf5bd6022",
+  "es": {
+   "titulo": "Coro de Cámara Stellarum en Mercado Prosperidad",
+   "resumen": "El Coro de Cámara Stellarum ofrece una actuación en el Mercado de Prosperidad."
+  },
+  "en": {
+   "titulo": "Stellarum Chamber Choir at Mercado Prosperidad",
+   "resumen": "The Stellarum Chamber Choir gives a performance at the Mercado de Prosperidad."
+  },
+  "temas": [
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "3846fb206e": {
+  "id": "6d69ade876",
+  "es": {
+   "titulo": "Coro en Plaza del Perú",
+   "resumen": "Disfruta de una actuación coral en la Plaza del Perú."
+  },
+  "en": {
+   "titulo": "Choir in Plaza del Perú",
+   "resumen": "Enjoy a choir performance in Plaza del Perú."
+  },
+  "temas": [
+   "musica"
+  ],
+  "a_cubierto": false
+ },
+ "44c20b1d2a": {
+  "id": "0e4c8b08a8",
+  "es": {
+   "titulo": "Coro Esperanto",
+   "resumen": "Disfruta de una actuación del Coro Esperanto en la Parroquia San Bonifacio."
+  },
+  "en": {
+   "titulo": "Esperanto Choir",
+   "resumen": "Enjoy a performance by the Esperanto Choir at the San Bonifacio Parish."
+  },
+  "temas": [
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "7d7941e8d0": {
+  "id": "ab4f98da80",
+  "es": {
+   "titulo": "Coro Iris",
+   "resumen": "El Coro Iris, fundado en 2023, presenta su repertorio de música coral para voces iguales en el Colegio GSD Las Artes. Una actuación de 60 minutos apta para todos los públicos."
+  },
+  "en": {
+   "titulo": "Iris Choir",
+   "resumen": "The Iris Choir, founded in 2023, presents its repertoire of equal-voice choral music at the GSD Las Artes School. A 60-minute performance suitable for all audiences."
+  },
+  "temas": [
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "cc909f87de": {
+  "id": "170c6b099c",
+  "es": {
+   "titulo": "Coro Las Voces del Alma",
+   "resumen": "El Coro Las Voces del Alma, dirigido por Felipe Bel, ofrece un concierto de 60 minutos en la Parroquia Santa María Josefa del Corazón de Jesús. Su repertorio abarca desde el pop hasta obras sinfónico-corales."
+  },
+  "en": {
+   "titulo": "The Voices of the Soul Choir",
+   "resumen": "The Voices of the Soul Choir, led by Felipe Bel, offers a 60-minute concert at the Santa María Josefa del Corazón de Jesús Parish. Their repertoire ranges from pop to symphonic-choral works."
+  },
+  "temas": [
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "794e1c0792": {
+  "id": "913ada548f",
+  "es": {
+   "titulo": "Coro Mad City Singers",
+   "resumen": "Disfruta del X Festival de Góspel con el Coro Mad City Singers en la Nave de Terneras del Centro Cultural Casa del Reloj. Una fusión de góspel clásico, contemporáneo y blues."
+  },
+  "en": {
+   "titulo": "Mad City Singers Choir",
+   "resumen": "Enjoy the 10th Gospel Festival with the Mad City Singers Choir at the Nave de Terneras of the Casa del Reloj Cultural Center. A fusion of classic, contemporary gospel, and blues."
+  },
+  "temas": [
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "fe9626e340": {
+  "id": "46d73b37e7",
+  "es": {
+   "titulo": "Coro Tajamar",
+   "resumen": "El coro del colegio Tajamar, formado por alumnos de primaria, presenta sus villancicos en la Parroquia Buen Pastor. Han ganado concursos y sus interpretaciones acumulan millones de visitas en YouTube."
+  },
+  "en": {
+   "titulo": "Tajamar Choir",
+   "resumen": "The Tajamar school choir, composed of primary school students, presents its Christmas carols at the Buen Pastor Parish. They have won competitions and their performances have millions of views on YouTube."
+  },
+  "temas": [
+   "musica",
+   "navidad"
+  ],
+  "a_cubierto": true
+ },
+ "d27bc3dd95": {
+  "id": "f99e0c897c",
+  "es": {
+   "titulo": "Coro Tres Olivos y Orquesta Viva",
+   "resumen": "La Coral Polifónica Tres Olivos, nacida de la afición de un grupo de amantes del canto coral y un joven director, actúa en la Parroquia Nuestra Señora de Europa."
+  },
+  "en": {
+   "titulo": "Tres Olivos Choir and Viva Orchestra",
+   "resumen": "The Tres Olivos Polyphonic Choir, born from the shared interest of a group of choral singing enthusiasts and a young conductor, performs at the Nuestra Señora de Europa Parish."
+  },
+  "temas": [
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "f9d9c57915": {
+  "id": "b93bdfe571",
+  "es": {
+   "titulo": "Coro Vallekanta",
+   "resumen": "El Coro Vallekanta, fundado en 2003, actúa en el Mercado Nueva Numancia. Han participado en diversos escenarios y concursos, interpretando desde música sacra hasta Duke Ellington."
+  },
+  "en": {
+   "titulo": "Vallekanta Choir",
+   "resumen": "The Vallekanta Choir, founded in 2003, performs at the Mercado Nueva Numancia. They have participated in various venues and competitions, performing everything from sacred music to Duke Ellington."
+  },
+  "temas": [
+   "musica"
+  ],
+  "a_cubierto": true
+ },
+ "faca767784": {
+  "id": "7095b62245",
+  "es": {
+   "titulo": "Coro Yelena Lafargue: Preparados, listos… Navidad",
+   "resumen": "Un espectáculo navideño con 30 niños y niñas dirigidos por Yelena Lafargue en el Centro Cultural la Elipa. Villancicos clásicos y modernos con música, ritmo y coreografías."
+  },
+  "en": {
+   "titulo": "Yelena Lafargue Choir: Ready, Set... Christmas",
+   "resumen": "A Christmas show with 30 children led by Yelena Lafargue at the La Elipa Cultural Center. Classic and modern carols with music, rhythm, and choreography."
+  },
+  "temas": [
+   "musica",
+   "navidad",
+   "ninos"
+  ],
+  "a_cubierto": true
+ },
+ "1d0a27b70f": {
+  "id": "e9aa6fcbcb",
+  "es": {
+   "titulo": "Cuentacuentos con pictogramas: Una maleta de cuento",
+   "resumen": "Israel Hergón ofrece un cuentacuentos infantil con pictogramas en el Centro Sociocultural Alfonso XII, diseñado para una mejor comprensión por menores con diversidad funcional. Edad recomendada: 4-10 años."
+  },
+  "en": {
+   "titulo": "Storytelling with Pictograms: A Story Suitcase",
+   "resumen": "Israel Hergón offers a children's storytelling session with pictograms at the Alfonso XII Sociocultural Center, designed for better understanding by children with functional diversity. Recommended age: 4-10 years."
+  },
+  "temas": [
+   "ninos",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "07b91ebf0e": {
+  "id": "ae57318f1e",
+  "es": {
+   "titulo": "Cuentitis Naviditis",
+   "resumen": "La compañía Cuentitis Naviditis presenta un concierto-cuentacuentos navideño en el Centro Sociocultural Francisco Fatou. Villancicos reinventados y cuentos llenos de humor para todas las edades."
+  },
+  "en": {
+   "titulo": "Cuentitis Naviditis",
+   "resumen": "The company Cuentitis Naviditis presents a Christmas storytelling concert at the Francisco Fatou Sociocultural Center. Reinvented carols and humorous stories for all ages."
+  },
+  "temas": [
+   "musica",
+   "navidad",
+   "ninos"
+  ],
+  "a_cubierto": true
+ },
+ "08a675f6ee": {
+  "id": "6becfd1d36",
+  "es": {
+   "titulo": "Danza del vientre con Gema Bauper",
+   "resumen": "Aprende pasos básicos y técnica de danza del vientre con Gema Bauper en el Centro de Educación Ambiental y Cultural Maris Stella. Nivel de iniciación, apto para todos los públicos."
+  },
+  "en": {
+   "titulo": "Belly Dance with Gema Bauper",
+   "resumen": "Learn basic steps and technique of belly dance with Gema Bauper at the Maris Stella Environmental and Cultural Education Center. Beginner level, suitable for all audiences."
+  },
+  "temas": [
+   "actividades",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "6f50bd8437": {
+  "id": "9b0aa5cca9",
+  "es": {
+   "titulo": "Danza El Cascanueces",
+   "resumen": "Disfruta de 'El Cascanueces', un clásico del ballet, interpretado por la compañía Esencia en la Plaza de Chamberí. Dos pases durante la Navidad, ideal para disfrutar en familia."
+  },
+  "en": {
+   "titulo": "Dance The Nutcracker",
+   "resumen": "Enjoy 'The Nutcracker', a classic ballet, performed by the Esencia company in Plaza de Chamberí. Two shows during Christmas, ideal for family enjoyment."
+  },
+  "temas": [
+   "cultura",
+   "navidad"
+  ],
+  "a_cubierto": true
+ },
+ "a4b492873c": {
+  "id": "05c7cb4962",
+  "es": {
+   "titulo": "Danza urbana",
+   "resumen": "Clase de danza urbana para juvenil y adultos en el Teatro Municipal de Vallecas. Consulta horarios e inscripciones por email o teléfono."
+  },
+  "en": {
+   "titulo": "Urban Dance",
+   "resumen": "Urban dance class for youth and adults at the Vallecas Municipal Theater. Check schedules and registration by email or phone."
+  },
+  "temas": [
+   "actividades",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "531e367002": {
+  "id": "9e09e285d7",
+  "es": {
+   "titulo": "Daria Deflorian. Che dolore terribile è l'amore",
+   "resumen": "Una propuesta escénica de Daria Deflorian en el Centro de Cultura Contemporánea CondeDuque."
+  },
+  "en": {
+   "titulo": "Daria Deflorian. What a terrible pain love is",
+   "resumen": "A performance by Daria Deflorian at the CondeDuque Contemporary Culture Center."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "6886a85f57": {
+  "id": "9118f24b03",
+  "es": {
+   "titulo": "Desgraciadamente Navidad",
+   "resumen": "La Cía. Las Viejas presenta 'Desgraciadamente Navidad', una experiencia de humor trágico y música en directo en el Centro Cultural la Elipa. Una reflexión sobre la presión navideña."
+  },
+  "en": {
+   "titulo": "Unfortunately Christmas",
+   "resumen": "The company Las Viejas presents 'Unfortunately Christmas', an experience of tragic humor and live music at the La Elipa Cultural Center. A reflection on Christmas pressure."
+  },
+  "temas": [
+   "cultura",
+   "musica",
+   "navidad"
+  ],
+  "a_cubierto": true
+ },
+ "934695fd72": {
+  "id": "7dd48233ee",
+  "es": {
+   "titulo": "Diseño Paramétrico",
+   "resumen": "Explora el Diseño Paramétrico en el Espacio Abierto Quinta de los Molinos."
+  },
+  "en": {
+   "titulo": "Parametric Design",
+   "resumen": "Explore Parametric Design at the Quinta de los Molinos Open Space."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "abf363a473": {
+  "id": "3bb0903851",
+  "es": {
+   "titulo": "Disparatadas historias en Navidad",
+   "resumen": "La compañía Romeos y Julietas presenta 'Disparatadas historias en Navidad' en el Centro Sociocultural José de Espronceda. Risas y anécdotas navideñas para mayores de 12 años."
+  },
+  "en": {
+   "titulo": "Absurd Christmas Stories",
+   "resumen": "The company Romeos y Julietas presents 'Absurd Christmas Stories' at the José de Espronceda Sociocultural Center. Humorous Christmas anecdotes for ages 12 and up."
+  },
+  "temas": [
+   "cultura",
+   "navidad",
+   "ninos"
+  ],
+  "a_cubierto": true
+ },
+ "2d5f0c4187": {
+  "id": "ac18d85448",
+  "es": {
+   "titulo": "Documental y conferencia: Las ocho de Hushe / 72 años subiendo montañas",
+   "resumen": "Con motivo del Día Internacional de las Montañas, se proyecta el documental 'Las ocho de Hushe' y Carlos Soria imparte una conferencia en el Centro Cultural Casa del Reloj."
+  },
+  "en": {
+   "titulo": "Documentary and Conference: The Eight of Hushe / 72 Years Climbing Mountains",
+   "resumen": "To mark International Mountain Day, the documentary 'The Eight of Hushe' is screened and Carlos Soria gives a talk at the Casa del Reloj Cultural Center."
+  },
+  "temas": [
+   "naturaleza",
+   "deporte",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "0750c6d9eb": {
+  "id": "c67c76c8e5",
+  "es": {
+   "titulo": "Documental: 'Los nietos del silencio'",
+   "resumen": "Un documental de alumnos de periodismo de la Universidad de Navarra que recoge testimonios de nietos de víctimas de ETA, en el Centro Cultural Eduardo Úrculo. A partir de 16 años."
+  },
+  "en": {
+   "titulo": "Documentary: 'The Grandchildren of Silence'",
+   "resumen": "A documentary by journalism students from the University of Navarra, featuring testimonies from grandchildren of ETA victims, at the Eduardo Úrculo Cultural Center. Ages 16 and up."
+  },
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "c1db8c5e63": {
+  "id": "6e901dbb78",
+  "es": {
+   "titulo": "Donde habitan las palabras",
+   "resumen": "La compañía Las 3 Más que Letras presenta 'Donde habitan las palabras', un espectáculo de narración a tres voces en el Centro Cultural José Luis López Vázquez. Recomendado a partir de 18 años."
+  },
+  "en": {
+   "titulo": "Where Words Live",
+   "resumen": "The company Las 3 Más que Letras presents 'Where Words Live', a three-voice narration performance at the José Luis López Vázquez Cultural Center. Recommended for ages 18 and up."
+  },
+  "temas": [
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": true
+ },
+ "8bfd51c099": {
+  "id": "5db493dd62",
+  "es": {
+   "titulo": "Edificios con historia y encanto III",
+   "resumen": "La historiadora Eva M.ª Puig guía un recorrido por la historia del antiguo Hospital General de Madrid, hoy Edificio Sabatini del Museo Reina Sofía, en el Centro Sociocultural Maestro Alonso."
+  },
+  "en": {
+   "titulo": "Buildings with History and Charm III",
+   "resumen": "Historian Eva M.ª Puig leads a tour through the history of the former General Hospital of Madrid, now the Sabatini Building of the Reina Sofía Museum, at the Maestro Alonso Sociocultural Center."
+  },
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true
+ },
+ "4b81b15886": {
+  "id": "ffae111ad1",
+  "es": {
+   "titulo": "El arquitecto",
+   "resumen": "Proyección de la película 'El arquitecto' (2025, Francia-Dinamarca) en el Centro Sociocultural Alberto Sánchez. Un drama sobre ética y éxito profesional. No recomendada para menores de 12 años."
+  },
+  "en": {
+   "titulo": "The Architect",
+   "resumen": "Screening of the film 'The Architect' (2025, France-Denmark) at the Alberto Sánchez Sociocultural Center. A drama about ethics and professional success. Not recommended for under 12s."
+  },
+  "temas": [
+   "pantalla",
+   "cultura"
+  ],
+  "a_cubierto": true
+ },
+ "6123179608": {
+  "id": "bbab696681",
+  "es": {
+   "titulo": "El país de todos contentos",
+   "resumen": "La Cía. Tan al Borde presenta 'El país de todos contentos', un espectáculo de títeres gigantes en el Auditorio Carmen Laforet. Una historia sobre integración y empatía para mayores de 5 años."
+  },
+  "en": {
+   "titulo": "The Land of Everyone Happy",
+   "resumen": "The company Tan al Borde presents 'The Land of Everyone Happy', a giant puppet show at the Carmen Laforet Auditorium. A story about integration and empathy for ages 5 and up."
+  },
+  "temas": [
+   "ninos",
    "cultura"
   ],
   "a_cubierto": true

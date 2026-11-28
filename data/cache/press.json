@@ -31695,5 +31695,892 @@
   ],
   "a_cubierto": null,
   "confianza": 0.9
+ },
+ "fe5fbf9c45": {
+  "url": "https://elpais.com/cultura/2026-11-28/el-mundo-del-teatro-explota-contra-las-injerencias-politicas-la-censura-es-latente.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-11-28",
+  "es_plan": true,
+  "titulo": "Protesta teatral contra la censura en Pinto",
+  "resumen": "Actrices protestan por la cancelación de obras de teatro en Pinto, Madrid. Cinco espectáculos han sido rechazados por el Ayuntamiento a pesar de estar previamente acordados para representarse en febrero y marzo de 2027.",
+  "en": {
+   "titulo": "Theater protest against censorship in Pinto",
+   "resumen": "Actresses protest the cancellation of theater plays in Pinto, Madrid. Five shows have been rejected by the City Council despite being previously agreed upon for performances in February and March 2027."
+  },
+  "inicio": "2027-02-01",
+  "fin": "2027-03-31",
+  "hora": null,
+  "lugar": "Teatro Francisco Rabal",
+  "municipio": "Pinto",
+  "provincia": "Madrid",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "708e9c6a0c": {
+  "url": "https://elpais.com/mexico/2026-11-28/la-fil-de-guadalajara-se-abre-como-una-biblioteca-italiana-para-su-40-aniversario.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-11-28",
+  "es_plan": true,
+  "titulo": "Feria Internacional del Libro de Guadalajara celebra 40 años",
+  "resumen": "La FIL de Guadalajara, uno de los principales foros literarios del mundo hispano, celebra su 40 aniversario con Italia como país invitado de honor. El evento ofrecerá una amplia gama de actividades literarias y musicales.",
+  "en": {
+   "titulo": "Guadalajara International Book Fair celebrates 40 years",
+   "resumen": "The FIL Guadalajara, a major Hispanic literary forum, celebrates its 40th anniversary with Italy as the guest of honor country. The event will feature a wide range of literary and musical activities."
+  },
+  "inicio": "2026-11-29",
+  "fin": "2026-11-29",
+  "hora": null,
+  "lugar": null,
+  "municipio": "Guadalajara",
+  "provincia": "Jalisco",
+  "ambito": "nacional",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "libros"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.7
+ },
+ "985df31885": {
+  "url": "https://elpais.com/cultura/2026-11-28/pablo-milanes-retrato-intimo-de-una-vida-marcada-por-el-amor-la-musica-y-la-perdida.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-11-28",
+  "es_plan": false
+ },
+ "617c08876a": {
+  "url": "https://www.lavanguardia.com/cultura/20261128/11695775/maria-jaume-festeros-forever.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-28",
+  "es_plan": false
+ },
+ "2b18ef92b7": {
+  "url": "https://www.lavanguardia.com/cultura/20261128/11695363/cultura-elecciones-teatro-cine-m-musica-danza-iva-ia-cocapitalidad.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-28",
+  "es_plan": false
+ },
+ "926ec96ff1": {
+  "url": "https://www.lavanguardia.com/cultura/culturas/20261128/11691283/romeria-taquilla-inversa.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-28",
+  "es_plan": true,
+  "titulo": "Proyección de 'Romería' y coloquio en Badalona por el Día Mundial del Sida",
+  "resumen": "Se proyectará la película 'Romería' en Badalona, seguida de un coloquio con su directora, Carla Simón, para recaudar fondos para la Fundació Vida i Esperança, que trabaja con personas afectadas por el VIH.",
+  "en": {
+   "titulo": "Screening of 'Romería' and talk in Badalona for World AIDS Day",
+   "resumen": "The film 'Romería' will be screened in Badalona, followed by a talk with its director, Carla Simón, to raise funds for the Fundació Vida i Esperança, which works with people affected by HIV."
+  },
+  "inicio": "2026-12-01",
+  "fin": "2026-12-01",
+  "hora": null,
+  "lugar": "Teatre El Círcol",
+  "municipio": "Badalona",
+  "provincia": "Barcelona",
+  "ambito": "local",
+  "gratis": null,
+  "precio": "Taquilla inversa",
+  "temas": [
+   "cultura",
+   "pantalla",
+   "actividades"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "cb5898fde0": {
+  "url": "https://www.ara.cat/cultura/blai-mateu-tortell-poltrona-pare-fill-regalen-homenatge-conjunt_1_5924881.html",
+  "fuente": "Ara (Cultura)",
+  "src": "prensa-ara-cultura",
+  "publicado": "2026-11-28",
+  "es_plan": false
+ },
+ "cc21dcbbe4": {
+  "url": "https://www.ara.cat/cultura/teatre/sergi-belbel-torna-musical-mare-vol-convertir-fills-llum_1_5924825.html",
+  "fuente": "Ara (Cultura)",
+  "src": "prensa-ara-cultura",
+  "publicado": "2026-11-28",
+  "es_plan": true,
+  "titulo": "Sergi Belbel estrena el musical 'El forat blanc' en la Sala Beckett",
+  "resumen": "El dramaturgo Sergi Belbel estrena el musical 'El forat blanc' en la Sala Beckett, una obra sobre una madre que reúne a sus hijos antes de morir. Se representará del 2 de diciembre al 17 de enero.",
+  "en": {
+   "titulo": "Sergi Belbel premieres the musical 'El forat blanc' at Sala Beckett",
+   "resumen": "Playwright Sergi Belbel premieres the musical 'El forat blanc' at Sala Beckett, a play about a mother gathering her children before she dies. It will be performed from December 2nd to January 17th."
+  },
+  "inicio": "2026-12-02",
+  "fin": "2027-01-17",
+  "hora": null,
+  "lugar": "Sala Beckett",
+  "municipio": null,
+  "provincia": "Barcelona",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "musica"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "9f94c3cbc4": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/28/isabel-preysler-76anos-desayuno-primero-agua-caliente-lima-semillas-lino-vaso-agua-jamaica-2069461.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-28",
+  "es_plan": false
+ },
+ "2dc62281ae": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/28/hace-27-anos-mario-vaquerizo-alaska-casaron-las-vegas-padres-se-enteraron-television-2072092.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-28",
+  "es_plan": false
+ },
+ "6f729800d3": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/28/muere-38anos-bronson-reed-maxima-estrella-wwe-lucha-libre-2072738.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-28",
+  "es_plan": false
+ },
+ "ab8896520b": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/28/arturo-perez-reverte-cumplir-75anos-estudie-bachillerato-repeti-curso-suspensos-expulsaron-tragedia-2072736.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-28",
+  "es_plan": false
+ },
+ "2a1d4f1123": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/28/kaseo-46anos-dia-iba-calle-alfonso-zaragoza-chico-dio-algo-conservo-emocionar-2071254.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-28",
+  "es_plan": true,
+  "titulo": "Kase.O inicia gira de conciertos en enero",
+  "resumen": "El rapero Kase.O, tras lanzar su nuevo disco 'Camisa de fuerza', comenzará una gira de conciertos por España y América a partir de enero. Comparte anécdotas sobre su relación con los fans.",
+  "en": {
+   "titulo": "Kase.O begins concert tour in January",
+   "resumen": "Rapper Kase.O, after releasing his new album 'Camisa de fuerza', will begin a concert tour across Spain and America starting in January. He shares anecdotes about his relationship with fans."
+  },
+  "inicio": "2027-01-01",
+  "fin": "2027-01-01",
+  "hora": null,
+  "lugar": null,
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.7
+ },
+ "a4ffcb0642": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/28/andres-roca-rey-cumplir-30anos-vivo-solo-casa-campo-necesito-metido-concentrado-disfruto-2066723.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-28",
+  "es_plan": false
+ },
+ "2bd60a7a53": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/28/enrique-bunbury-59anos-cuando-naci-viviamos-piso-pequeno-zaragoza-padres-hermanos-abuelos-2063541.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-28",
+  "es_plan": true,
+  "titulo": "Enrique Bunbury llega a España con su gira 'Nuevas Mutaciones Tour'",
+  "resumen": "Enrique Bunbury trae su exitosa gira 'Nuevas Mutaciones Tour' a España en diciembre, con Zaragoza como última parada el día 12. El cantante recuerda su infancia en la capital aragonesa.",
+  "en": {
+   "titulo": "Enrique Bunbury arrives in Spain with his 'Nuevas Mutaciones Tour'",
+   "resumen": "Enrique Bunbury brings his successful 'Nuevas Mutaciones Tour' to Spain in December, with Zaragoza as the final stop on the 12th. The singer recalls his childhood in the Aragonese capital."
+  },
+  "inicio": "2026-12-01",
+  "fin": "2026-12-12",
+  "hora": null,
+  "lugar": null,
+  "municipio": "Zaragoza",
+  "provincia": "Zaragoza",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "bde45c932f": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/28/raphael-83-anos-cantante-no-necesidad-llevar-bandera-calle-ni-exhibirla-para-ser-buen-espanol-2068991.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-28",
+  "es_plan": false
+ },
+ "cc244e4560": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/28/javier-camara-treinta-anos-no-habia-pasado-vida-encima-ahora-han-pasado-dos-camiones-2072534.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-28",
+  "es_plan": true,
+  "titulo": "Estreno de '5 minutos más' con Javier Cámara y Belén Cuesta",
+  "resumen": "La película '5 minutos más', dirigida por Javier Ruiz Caldera y protagonizada por Javier Cámara y Belén Cuesta, llega a los cines el 22 de enero. La trama explora un bucle temporal en una pareja en crisis.",
+  "en": {
+   "titulo": "Premiere of '5 minutes more' with Javier Cámara and Belén Cuesta",
+   "resumen": "The film '5 minutes more', directed by Javier Ruiz Caldera and starring Javier Cámara and Belén Cuesta, arrives in cinemas on January 22nd. The plot explores a time loop involving a couple in crisis."
+  },
+  "inicio": "2027-01-22",
+  "fin": "2027-01-22",
+  "hora": null,
+  "lugar": "cines",
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "pantalla",
+   "libros"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "25c9071cdd": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/28/lorena-cosba-me-apasiona-experimentar-con-procesos-fotograficos-siglo-xix-2072130.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-28",
+  "es_plan": false
+ },
+ "ebc644ed8d": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/28/lucia-camon-pueblos-arte-vivir-arte-mundo-rural-no-es-facil-pero-estamos-consiguiendo-2072127.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-28",
+  "es_plan": false
+ },
+ "64b9015f0c": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/28/javier-aquilue-me-interesa-mucho-potencial-simbolico-gesto-los-objetos-cotidianos-2072124.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-28",
+  "es_plan": false
+ },
+ "c2c04bc6ed": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/28/centrico-restaurante-zaragoza-que-coincidieron-comiendo-fito-vicco-2072726.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-28",
+  "es_plan": false
+ },
+ "338cb7d981": {
+  "url": "https://www.elnortedecastilla.es/castillayleon/designadas-seis-personas-valoraran-adoctrinamiento-ayudas-cine-20261128084346-nt.html",
+  "fuente": "El Norte de Castilla (Culturas)",
+  "src": "prensa-nortecastilla-culturas",
+  "publicado": "2026-11-28",
+  "es_plan": false
+ },
+ "2f5bcdc4f0": {
+  "url": "https://www.diariosur.es/culturas/ruta-barro-maria-monasterio-casabermeja-restaurantes-michelin-20261128054504-nt.html",
+  "fuente": "Diario Sur (Culturas)",
+  "src": "prensa-diariosur-culturas",
+  "publicado": "2026-11-28",
+  "es_plan": false
+ },
+ "95781b4ed3": {
+  "url": "https://www.ideal.es/culturas/jaen/700-propuestas-concurren-xix-concurso-fotografia-fundacion-20261128131016-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-11-28",
+  "es_plan": false
+ },
+ "6ca1b30215": {
+  "url": "https://www.hoy.es/culturas/trazos/satira-sobre-mercado-talento-20261128110522-nt.html",
+  "fuente": "Hoy (Culturas)",
+  "src": "prensa-hoy-culturas",
+  "publicado": "2026-11-28",
+  "es_plan": false
+ },
+ "3422e8771d": {
+  "url": "https://www.hoy.es/culturas/trazos/amor-cine-venecia-20261128110606-nt.html",
+  "fuente": "Hoy (Culturas)",
+  "src": "prensa-hoy-culturas",
+  "publicado": "2026-11-28",
+  "es_plan": false
+ },
+ "d5e42ddaf0": {
+  "url": "https://www.hoy.es/culturas/trazos/modernidad-atemporal-irving-penn-20261128111050-nt.html",
+  "fuente": "Hoy (Culturas)",
+  "src": "prensa-hoy-culturas",
+  "publicado": "2026-11-28",
+  "es_plan": false
+ },
+ "c958d229d0": {
+  "url": "https://www.lasprovincias.es/culturas/tv/sabado-television-maraton-dos-sagas-fantasia-populares-20261127002429-nt.html",
+  "fuente": "Las Provincias (Culturas)",
+  "src": "prensa-lasprovincias-culturas",
+  "publicado": "2026-11-28",
+  "es_plan": true,
+  "titulo": "Maratón de sagas de fantasía en televisión este sábado",
+  "resumen": "Este sábado 28 de noviembre, la televisión emitirá un maratón de dos de las sagas de fantasía más populares del cine.",
+  "en": {
+   "titulo": "Fantasy saga marathon on television this Saturday",
+   "resumen": "This Saturday, November 28th, television will broadcast a marathon of two of the most popular fantasy film sagas."
+  },
+  "inicio": "2026-11-28",
+  "fin": "2026-11-28",
+  "hora": null,
+  "lugar": "televisión",
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "pantalla",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "c78cb5ed27": {
+  "url": "https://www.lasprovincias.es/culturas/tv/septima-adelanta-programacion-domingo-electoral-manana-20261128022445-nt.html",
+  "fuente": "Las Provincias (Culturas)",
+  "src": "prensa-lasprovincias-culturas",
+  "publicado": "2026-11-28",
+  "es_plan": false
+ },
+ "5847a75c41": {
+  "url": "https://www.lasprovincias.es/culturas/tv/comedia-prime-video-anna-castillo-vuelve-cargada-20261116002527-nt.html",
+  "fuente": "Las Provincias (Culturas)",
+  "src": "prensa-lasprovincias-culturas",
+  "publicado": "2026-11-28",
+  "es_plan": true,
+  "titulo": "Comedia de Prime Video con Anna Castillo llega el 15 de enero",
+  "resumen": "La comedia de Prime Video protagonizada por Anna Castillo, cargada de sátira y con la aparición de una conocida actriz española, se estrena el 15 de enero.",
+  "en": {
+   "titulo": "Prime Video comedy with Anna Castillo arrives on January 15th",
+   "resumen": "The Prime Video comedy starring Anna Castillo, full of satire and featuring a well-known Spanish actress, premieres on January 15th."
+  },
+  "inicio": "2027-01-15",
+  "fin": "2027-01-15",
+  "hora": null,
+  "lugar": "Prime Video",
+  "municipio": null,
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "pantalla",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "4f8af0f682": {
+  "url": "https://www.eldiariomontanes.es/culturas/diseno-grafico-cantabria-significa-muelle-calderon-20261128074621-nt.html",
+  "fuente": "El Diario Montañés (Culturas)",
+  "src": "prensa-diariomontanes-culturas",
+  "publicado": "2026-11-28",
+  "es_plan": true,
+  "titulo": "Exposición de diseño gráfico en Cantabria",
+  "resumen": "La exposición 'Tipos' en el Muelle Calderón de Santander reúne el trabajo de catorce diseñadores gráficos vinculados a Cantabria y cuatro estudiantes.",
+  "en": {
+   "titulo": "Graphic design exhibition in Cantabria",
+   "resumen": "The 'Tipos' exhibition at Muelle Calderón in Santander showcases the work of fourteen graphic designers linked to Cantabria and four students."
+  },
+  "inicio": "2026-11-28",
+  "fin": "2026-11-28",
+  "hora": null,
+  "lugar": "Muelle Calderón",
+  "municipio": "Santander",
+  "provincia": "Cantabria",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "actividades"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "ac26febf7c": {
+  "url": "https://www.elprogreso.es/a-chaira/xviii-mercado-nadal-muimenta-repartira-2200-euros-premios/202611271947032017051.html",
+  "fuente": "El Progreso (Lugo)",
+  "src": "prensa-elprogreso",
+  "publicado": "2026-11-28",
+  "es_plan": true,
+  "titulo": "Mercado de Nadal de Muimenta con premios",
+  "resumen": "El XVIII Mercado de Nadal de Muimenta repartirá 2.200 euros en premios, incluyendo vales de compra y sorteos organizados por la Federación Galega de Comercio.",
+  "en": {
+   "titulo": "Muimenta Christmas Market with prizes",
+   "resumen": "The 18th Muimenta Christmas Market will distribute 2,200 euros in prizes, including shopping vouchers and raffles organized by the Galician Federation of Commerce."
+  },
+  "inicio": "2026-11-28",
+  "fin": "2026-11-28",
+  "hora": null,
+  "lugar": null,
+  "municipio": "Cospeito",
+  "provincia": "Lugo",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "fiestas",
+   "navidad",
+   "actividades"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "7f533828b4": {
+  "url": "https://www.elprogreso.es/a-marina/ruta-das-minas-pontenova-contara-bosque-artistico/202611280500002017054.html",
+  "fuente": "El Progreso (Lugo)",
+  "src": "prensa-elprogreso",
+  "publicado": "2026-11-28",
+  "es_plan": false
+ },
+ "ed82d665d1": {
+  "url": "https://www.elprogreso.es/a-marina/asturias-busca-diagnostico-completo-salmon-tambien-eo/202611280500002017043.html",
+  "fuente": "El Progreso (Lugo)",
+  "src": "prensa-elprogreso",
+  "publicado": "2026-11-28",
+  "es_plan": false
+ },
+ "ad21eaca10": {
+  "url": "https://www.elprogreso.es/a-marina/burela-inaugura-mercadillos-navidenos-que-siguen-despues-ribadeo-alfoz-barreiros-trabada-lourenza/202611280500002017003.html",
+  "fuente": "El Progreso (Lugo)",
+  "src": "prensa-elprogreso",
+  "publicado": "2026-11-28",
+  "es_plan": true,
+  "titulo": "Inauguración de mercadillos navideños en Burela",
+  "resumen": "Burela inaugura sus mercadillos navideños, que se extenderán a otros municipios como Ribadeo, Alfoz, Barreiros, Trabada y Lourenzá.",
+  "en": {
+   "titulo": "Opening of Christmas markets in Burela",
+   "resumen": "Burela opens its Christmas markets, which will extend to other municipalities such as Ribadeo, Alfoz, Barreiros, Trabada, and Lourenzá."
+  },
+  "inicio": "2026-11-28",
+  "fin": "2026-11-28",
+  "hora": null,
+  "lugar": null,
+  "municipio": "Burela",
+  "provincia": "Lugo",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "fiestas",
+   "navidad"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.85
+ },
+ "e8d616fe02": {
+  "url": "https://www.elprogreso.es/ribeira-sacra/alumnos-monforte-ruta-dos-fornos/202611270500002016770.html",
+  "fuente": "El Progreso (Lugo)",
+  "src": "prensa-elprogreso",
+  "publicado": "2026-11-28",
+  "es_plan": false
+ },
+ "786f1c28cb": {
+  "url": "https://www.20minutos.es/musica/aitana-cumple-uno-sus-suenos-cantante-debuta-nueva-york-con-su-gira-cuarto-azul-world-tour_7066851_0.html",
+  "fuente": "20minutos (Cultura)",
+  "src": "prensa-20minutos-cultura",
+  "publicado": "2026-11-27",
+  "es_plan": true,
+  "titulo": "Aitana debuta en Nueva York con su gira 'Cuarto Azul World Tour'",
+  "resumen": "La cantante Aitana actúa por primera vez en Nueva York el 27 de noviembre en el Brooklyn Paramount, como parte de su gira 'Cuarto Azul World Tour'. Continuará en Miami el 29 de noviembre.",
+  "en": {
+   "titulo": "Aitana debuts in New York with her 'Cuarto Azul World Tour'",
+   "resumen": "Singer Aitana performs for the first time in New York on November 27th at the Brooklyn Paramount as part of her 'Cuarto Azul World Tour'. She will continue in Miami on November 29th."
+  },
+  "inicio": "2026-11-27",
+  "fin": "2026-11-29",
+  "hora": null,
+  "lugar": "Brooklyn Paramount, The Fillmore Miami Beach",
+  "municipio": "New York, Miami",
+  "provincia": null,
+  "ambito": "nacional",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica",
+   "actividades"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "ca821056d2": {
+  "url": "https://elpais.com/cultura/2026-11-27/morante-firma-ante-el-coliseo-de-roma-que-estara-tres-tardes-en-las-ventas-en-2027.html",
+  "fuente": "El País (Cultura)",
+  "src": "prensa-elpais-cultura",
+  "publicado": "2026-11-27",
+  "es_plan": false
+ },
+ "1bffda8f37": {
+  "url": "https://www.lavanguardia.com/cultura/20261127/11695032/david-ucles-votad-votad-malditos-elecciones.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-27",
+  "es_plan": false
+ },
+ "d0cdfce536": {
+  "url": "https://www.lavanguardia.com/cultura/20261127/11695261/muere-editor-manuel-ramirez.html",
+  "fuente": "La Vanguardia (Cultura)",
+  "src": "prensa-lavanguardia-cultura",
+  "publicado": "2026-11-27",
+  "es_plan": false
+ },
+ "bfddb90630": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/27/arturo-perez-reverte-santiago-abascal-parece-tipo-no-demasiado-brillante-tiene-maquinaria-potente-gente-vote-2067553.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-27",
+  "es_plan": false
+ },
+ "708e575d9b": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/27/fito-los-fitipaldis-bordan-telegrafia-sin-hilos-zaragoza-con-un-concierto-para-recuerdo-2072724.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-27",
+  "es_plan": true,
+  "titulo": "Concierto de Fito y los Fitipaldis en Zaragoza",
+  "resumen": "Fito y los Fitipaldis ofrecen un concierto en Zaragoza el 28 de noviembre en la Sala Mozart como parte de su 'Aullidos Tour'. Las entradas están agotadas.",
+  "en": {
+   "titulo": "Concert by Fito y los Fitipaldis in Zaragoza",
+   "resumen": "Fito y los Fitipaldis are performing a concert in Zaragoza on November 28th at Sala Mozart as part of their 'Aullidos Tour'. Tickets are sold out."
+  },
+  "inicio": "2026-11-28",
+  "fin": "2026-11-28",
+  "hora": "20:30",
+  "lugar": "Sala Mozart",
+  "municipio": "Zaragoza",
+  "provincia": "Zaragoza",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica",
+   "actividades"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "e20461b444": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/27/festival-cine-zaragoza-baja-telon-premiando-fernando-cayo-2072538.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-27",
+  "es_plan": false
+ },
+ "577ebd222a": {
+  "url": "https://www.heraldo.es/ocio-y-cultura/fotografias-festival-cine-zaragoza-2026-2072690-1.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-27",
+  "es_plan": false
+ },
+ "4ab903c28a": {
+  "url": "https://www.heraldo.es/noticias/ocio-y-cultura/2026/11/27/miguel-rios-82anos-ganan-derechas-pp-vox-elecciones-domingo-espera-censura-tiempo-oscuro-2070952.html",
+  "fuente": "Heraldo de Aragón (Ocio y cultura)",
+  "src": "prensa-heraldo-ocio",
+  "publicado": "2026-11-27",
+  "es_plan": false
+ },
+ "18807e471b": {
+  "url": "https://www.ideal.es/culturas/almeria/nuevas-voces-visiones-protagonizan-flamencoene-almeria-20261127182508-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-11-27",
+  "es_plan": false
+ },
+ "32f1831f1d": {
+  "url": "https://www.ideal.es/culturas/almeria/tres-piezas-conquista-publico-apolo-fusion-flamenco-20261127181652-nt.html",
+  "fuente": "Ideal (Culturas)",
+  "src": "prensa-ideal-culturas",
+  "publicado": "2026-11-27",
+  "es_plan": false
+ },
+ "043721898d": {
+  "url": "https://www.elcorreo.com/culturas/fair-saturday-propone-cien-actividades-culturales-bilbao-20261127202421-nt.html",
+  "fuente": "El Correo (Culturas)",
+  "src": "prensa-elcorreo-culturas",
+  "publicado": "2026-11-27",
+  "es_plan": true,
+  "titulo": "Fair Saturday: Cien actividades culturales en Bilbao",
+  "resumen": "El Fair Saturday celebra su evento anual con cien actividades culturales gratuitas en Bilbao y otros 15 municipios. Habrá conciertos y homenajes.",
+  "en": {
+   "titulo": "Fair Saturday: One hundred cultural activities in Bilbao",
+   "resumen": "Fair Saturday celebrates its annual event with one hundred free cultural activities in Bilbao and 15 other municipalities, including concerts and tributes."
+  },
+  "inicio": "2026-11-28",
+  "fin": "2026-11-28",
+  "hora": null,
+  "lugar": "Calle",
+  "municipio": "Bilbao",
+  "provincia": "Vizcaya",
+  "ambito": "local",
+  "gratis": true,
+  "precio": "Gratuito",
+  "temas": [
+   "cultura",
+   "musica",
+   "fiestas"
+  ],
+  "a_cubierto": false,
+  "confianza": 0.9
+ },
+ "44e58ccadf": {
+  "url": "https://www.elcorreo.com/culturas/territorios/maite-lopez-las-heras-feria-agorafobicos-20261128192820-nt.html",
+  "fuente": "El Correo (Culturas)",
+  "src": "prensa-elcorreo-culturas",
+  "publicado": "2026-11-27",
+  "es_plan": false
+ },
+ "d849a72285": {
+  "url": "https://www.elcorreo.com/culturas/territorios/azoka-ofrece-ano-horas-vivir-cultura-vasca-20261128192804-nt.html",
+  "fuente": "El Correo (Culturas)",
+  "src": "prensa-elcorreo-culturas",
+  "publicado": "2026-11-27",
+  "es_plan": true,
+  "titulo": "La Azoka: Cinco días de cultura vasca en Bilbao",
+  "resumen": "La Azoka amplía su programa cultural vasco a cinco días, del 4 al 8 de diciembre, con oferta de conciertos y actividades nocturnas.",
+  "en": {
+   "titulo": "La Azoka: Five days of Basque culture in Bilbao",
+   "resumen": "La Azoka expands its Basque cultural program to five days, from December 4th to 8th, offering concerts and evening activities."
+  },
+  "inicio": "2026-12-04",
+  "fin": "2026-12-08",
+  "hora": null,
+  "lugar": null,
+  "municipio": "Bilbao",
+  "provincia": "Vizcaya",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "musica",
+   "fiestas"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "988b51859f": {
+  "url": "https://www.elcorreo.com/culturas/musica/faith-more-abrira-mad-cool-ofrece-the-20261127173745-nt.html",
+  "fuente": "El Correo (Culturas)",
+  "src": "prensa-elcorreo-culturas",
+  "publicado": "2026-11-27",
+  "es_plan": false
+ },
+ "e10c28ffb0": {
+  "url": "https://www.diariovasco.com/culturas/musica/etzakit-despedira-definitivamente-proximo-enero-20261127194833-nt.html",
+  "fuente": "El Diario Vasco (Culturas)",
+  "src": "prensa-diariovasco-culturas",
+  "publicado": "2026-11-27",
+  "es_plan": true,
+  "titulo": "Etzakit se despide en Hernani el 5 de enero",
+  "resumen": "El grupo Etzakit ofrecerá su concierto de despedida definitiva el próximo 5 de enero en Gudarien Plaza de Hernani, con sorpresas y colaboraciones.",
+  "en": {
+   "titulo": "Etzakit says goodbye in Hernani on January 5th",
+   "resumen": "The group Etzakit will offer its definitive farewell concert on January 5th at Gudarien Plaza in Hernani, featuring surprises and collaborations."
+  },
+  "inicio": "2027-01-05",
+  "fin": "2027-01-05",
+  "hora": null,
+  "lugar": "Gudarien Plaza",
+  "municipio": "Hernani",
+  "provincia": "Gipuzkoa",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "musica",
+   "cultura"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "cae30714a1": {
+  "url": "https://www.laverdad.es/culturas/cine/ficc-pone-broche-oro-roberto-alamo-20261127210112-nt.html",
+  "fuente": "La Verdad (Culturas)",
+  "src": "prensa-laverdad-culturas",
+  "publicado": "2026-11-27",
+  "es_plan": true,
+  "titulo": "Clausura del FICC con Roberto Álamo en Murcia",
+  "resumen": "La gala de clausura del FICC contará con la presencia de la cineasta Eva Libertad, el crítico Javier Ocaña y el actor Roberto Álamo este sábado.",
+  "en": {
+   "titulo": "FICC Closing Ceremony with Roberto Álamo in Murcia",
+   "resumen": "The closing ceremony of the FICC will feature filmmaker Eva Libertad, critic Javier Ocaña, and actor Roberto Álamo this Saturday."
+  },
+  "inicio": "2026-11-28",
+  "fin": "2026-11-28",
+  "hora": null,
+  "lugar": null,
+  "municipio": "Murcia",
+  "provincia": "Murcia",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "pantalla"
+  ],
+  "a_cubierto": null,
+  "confianza": 0.9
+ },
+ "4acb17b975": {
+  "url": "https://www.laverdad.es/culturas/murcia-sonrie-bate-records-festival-humor-espectadores-20261127224714-nt.html",
+  "fuente": "La Verdad (Culturas)",
+  "src": "prensa-laverdad-culturas",
+  "publicado": "2026-11-27",
+  "es_plan": false
+ },
+ "e446b0b401": {
+  "url": "https://www.laverdad.es/culturas/petite-lorena-comedia-hecha-mujer-abarrota-teatros-20261127223956-nt.html",
+  "fuente": "La Verdad (Culturas)",
+  "src": "prensa-laverdad-culturas",
+  "publicado": "2026-11-27",
+  "es_plan": true,
+  "titulo": "Petite Lorena: Comedia en San Javier y Murcia",
+  "resumen": "La cómica Petite Lorena presenta su espectáculo 'Tremenda' este sábado en San Javier y el domingo en Murcia, cerrando el festival Murcia Sonríe.",
+  "en": {
+   "titulo": "Petite Lorena: Comedy in San Javier and Murcia",
+   "resumen": "Comedian Petite Lorena presents her show 'Tremenda' this Saturday in San Javier and Sunday in Murcia, closing the Murcia Sonríe festival."
+  },
+  "inicio": "2026-11-28",
+  "fin": "2026-11-29",
+  "hora": null,
+  "lugar": "Teatro de Invierno, Romea",
+  "municipio": "San Javier, Murcia",
+  "provincia": "Murcia",
+  "ambito": "local",
+  "gratis": false,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "fiestas"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "d753f3b3f6": {
+  "url": "https://www.laverdad.es/culturas/musica/huracan-identidad-propia-llamado-rata-20261127090845-nt.html",
+  "fuente": "La Verdad (Culturas)",
+  "src": "prensa-laverdad-culturas",
+  "publicado": "2026-11-27",
+  "es_plan": false
+ },
+ "f84c421bed": {
+  "url": "https://www.laverdad.es/culturas/galeria-espacio-minimo-celebra-anos-historia-mubam-20261127143701-nt.html",
+  "fuente": "La Verdad (Culturas)",
+  "src": "prensa-laverdad-culturas",
+  "publicado": "2026-11-27",
+  "es_plan": true,
+  "titulo": "Espacio Mínimo: 35 años de galería en el Mubam",
+  "resumen": "La galería Espacio Mínimo celebra sus 35 años con una exposición en el Mubam de Murcia, que se inaugura este sábado.",
+  "en": {
+   "titulo": "Espacio Mínimo: 35 years of gallery at Mubam",
+   "resumen": "The Espacio Mínimo gallery celebrates its 35th anniversary with an exhibition at Mubam in Murcia, opening this Saturday."
+  },
+  "inicio": "2026-11-28",
+  "fin": "2026-11-28",
+  "hora": null,
+  "lugar": "Mubam",
+  "municipio": "Murcia",
+  "provincia": "Murcia",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "museos"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "234fe87ab5": {
+  "url": "https://www.eldiariomontanes.es/culturas/alegria-aterriza-magia-santander-20261127223350-nt.html",
+  "fuente": "El Diario Montañés (Culturas)",
+  "src": "prensa-diariomontanes-culturas",
+  "publicado": "2026-11-27",
+  "es_plan": false
+ },
+ "1986c08687": {
+  "url": "https://www.eldiariomontanes.es/culturas/festival-invierno-torrelavega-celebrara-anos-concha-espina-20261127123316-nt.html",
+  "fuente": "El Diario Montañés (Culturas)",
+  "src": "prensa-diariomontanes-culturas",
+  "publicado": "2026-11-27",
+  "es_plan": true,
+  "titulo": "Festival de Invierno de Torrelavega: 20 años",
+  "resumen": "El Festival de Invierno de Torrelavega celebra su 38ª edición del 9 de enero al 27 de febrero, con 24 espectáculos y una versión de 'Medea'.",
+  "en": {
+   "titulo": "Torrelavega Winter Festival: 20 years",
+   "resumen": "The Torrelavega Winter Festival celebrates its 38th edition from January 9th to February 27th, featuring 24 shows and a version of 'Medea'."
+  },
+  "inicio": "2027-01-09",
+  "fin": "2027-02-27",
+  "hora": null,
+  "lugar": "Concha Espina",
+  "municipio": "Torrelavega",
+  "provincia": "Cantabria",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "cultura",
+   "musica",
+   "fiestas"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
+ },
+ "6e85ba57dd": {
+  "url": "https://www.eldiariomontanes.es/culturas/sotileza/alvaro-pombo-20261127195544-nt.html",
+  "fuente": "El Diario Montañés (Culturas)",
+  "src": "prensa-diariomontanes-culturas",
+  "publicado": "2026-11-27",
+  "es_plan": true,
+  "titulo": "Presentación de libro de Álvaro Pombo en Santander",
+  "resumen": "El próximo martes se presenta en el Aula de Cultura de El Diario la biografía de Álvaro Pombo escrita por Mario Crespo.",
+  "en": {
+   "titulo": "Book Presentation of Álvaro Pombo in Santander",
+   "resumen": "Next Tuesday, the biography of Álvaro Pombo written by Mario Crespo will be presented at the Aula de Cultura de El Diario."
+  },
+  "inicio": "2026-12-01",
+  "fin": "2026-12-01",
+  "hora": null,
+  "lugar": "Aula de Cultura de El Diario",
+  "municipio": "Santander",
+  "provincia": "Cantabria",
+  "ambito": "local",
+  "gratis": null,
+  "precio": null,
+  "temas": [
+   "libros",
+   "cultura"
+  ],
+  "a_cubierto": true,
+  "confianza": 0.9
  }
 }

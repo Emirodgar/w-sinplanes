@@ -1,11 +1,11 @@
 {
-  "generated": "2026-11-28T13:00:14.303Z",
+  "generated": "2026-11-28T14:36:01.997Z",
   "today": "2026-11-28",
-  "events": 10614,
+  "events": 10613,
   "review": 10,
   "ai": {
-    "calls": 0,
-    "seconds": 33,
+    "calls": 14,
+    "seconds": 205,
     "tripped": false
   },
   "sources": [
@@ -66,7 +66,7 @@
     {
       "id": "prensa-ara-cultura",
       "status": "ok",
-      "count": 9,
+      "count": 10,
       "candidatos": true
     },
     {
@@ -149,9 +149,9 @@
     },
     {
       "id": "prensa-elprogreso",
-      "nombre": "El Progreso (Lugo)",
-      "status": "error",
-      "detail": "HTTP 403 en https://www.elprogreso.es/rss/"
+      "status": "ok",
+      "count": 6,
+      "candidatos": true
     }
   ]
 }
